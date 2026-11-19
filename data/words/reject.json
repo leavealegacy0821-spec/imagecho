@@ -1,0 +1,94 @@
+{
+  "word": "reject",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈdʒekt/",
+  "core_image": {
+    "text": "差し出されたものを、投げ返して受け取らない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 54,86 62,96\"/><line x1=\"70\" y1=\"74\" x2=\"80\" y2=\"96\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><polyline points=\"180,74 158,66 144,58\"/><line x1=\"180\" y1=\"74\" x2=\"190\" y2=\"96\"/><rect x=\"120\" y=\"46\" width=\"18\" height=\"18\"/><line x1=\"96\" y1=\"34\" x2=\"150\" y2=\"34\"/><polyline points=\"143,30.2 150,34 143,37.8\"/></g><text x=\"60\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いらない</text><text x=\"200\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">突き返す</text></svg>"
+  },
+  "etymology": "re(後ろへ) + ject(投げる。project、object と同じ) → 投げ返す → 拒絶する・はねつける → 不合格にする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to refuse to accept, believe in or agree with something or someone."
+    }
+  ],
+  "cautions": [
+    "reject A=A(申し出・案・人)をはねつける。後ろは名詞",
+    "refuse は refuse to do も取る、reject は to do を取らない",
+    "turn down と言い換えられる",
+    "名詞 rejection=拒絶・不合格"
+  ],
+  "patterns": [
+    {
+      "form": "reject A",
+      "meaning": "Aを拒絶する"
+    },
+    {
+      "form": "reject an offer",
+      "meaning": "申し出を断る"
+    },
+    {
+      "form": "be rejected by A",
+      "meaning": "Aに断られる"
+    },
+    {
+      "form": "rejection",
+      "meaning": "拒絶"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "はねつける",
+      "en": "The committee rejected his proposal.",
+      "ja": "委員会は彼の提案を却下した。"
+    },
+    {
+      "source": "original",
+      "label": "断る",
+      "en": "She rejected the job offer because the pay was too low.",
+      "ja": "給料が安すぎるので、彼女はその仕事の申し出を断った。"
+    },
+    {
+      "source": "original",
+      "label": "turn down との言い換え",
+      "en": "He rejected, or turned down, my invitation.",
+      "ja": "彼は私の招待を断った。"
+    },
+    {
+      "source": "original",
+      "label": "不合格にする",
+      "en": "My application was rejected by three universities.",
+      "ja": "私の出願は3つの大学で不合格になった。"
+    },
+    {
+      "source": "original",
+      "label": "受け入れない",
+      "en": "The body sometimes rejects a new heart.",
+      "ja": "体が新しい心臓を受け付けないことがある。"
+    },
+    {
+      "source": "original",
+      "label": "rejection(名詞)",
+      "en": "He was hurt by her rejection.",
+      "ja": "彼は彼女に拒まれて傷ついた。"
+    }
+  ],
+  "check_points": [
+    "refuse と reject の語法の違いを言えるか",
+    "reject を2語の熟語で言い換えられるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "reject = turn down の言い換えが出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 314
+    }
+  ]
+}

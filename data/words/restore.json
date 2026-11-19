@@ -1,0 +1,94 @@
+{
+  "word": "restore",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈstɔːr/",
+  "core_image": {
+    "text": "こわれたものを、元の姿に立て直す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"30,140 40,100 60,110 70,90 80,140\"/><line x1=\"92\" y1=\"110\" x2=\"130\" y2=\"110\"/><polyline points=\"123,106.2 130,110 123,113.8\"/><rect x=\"146\" y=\"70\" width=\"60\" height=\"70\"/><polygon points=\"140,70 176,40 212,70\"/></g><text x=\"55\" y=\"76\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こわれた</text><text x=\"176\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">元どおり</text></svg>"
+  },
+  "etymology": "re(再び) + store(立てる。stand と同じ根) → 再び立てる → 元に戻す・修復する → (秩序・健康・信頼を)回復させる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make something return to its earlier good condition, or to bring back a situation or feeling."
+    }
+  ],
+  "cautions": [
+    "restore A=Aを修復する・元に戻す",
+    "restore A to B=AをB(元の状態)に戻す",
+    "restore order / peace / confidence=秩序・平和・信頼を回復する",
+    "名詞 restoration=修復・復元"
+  ],
+  "patterns": [
+    {
+      "form": "restore A",
+      "meaning": "Aを修復する"
+    },
+    {
+      "form": "restore A to B",
+      "meaning": "AをBに戻す"
+    },
+    {
+      "form": "restore order",
+      "meaning": "秩序を回復する"
+    },
+    {
+      "form": "restoration",
+      "meaning": "修復"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "修復する",
+      "en": "The old castle was restored after the war.",
+      "ja": "その古い城は戦後に修復された。"
+    },
+    {
+      "source": "original",
+      "label": "restore A to B",
+      "en": "The painting was restored to its original beauty.",
+      "ja": "その絵は元の美しさに修復された。"
+    },
+    {
+      "source": "original",
+      "label": "(秩序を)回復する",
+      "en": "The police worked hard to restore order in the city.",
+      "ja": "警察は町の秩序を回復するため懸命に働いた。"
+    },
+    {
+      "source": "original",
+      "label": "(信頼を)取り戻す",
+      "en": "The company must restore the trust of its customers.",
+      "ja": "その会社は客の信頼を取り戻さなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "(健康を)回復する",
+      "en": "A long rest restored his health.",
+      "ja": "長い休養で彼は健康を取り戻した。"
+    },
+    {
+      "source": "original",
+      "label": "restoration(名詞)",
+      "en": "The restoration of the temple took ten years.",
+      "ja": "寺の修復には10年かかった。"
+    }
+  ],
+  "check_points": [
+    "restore A to B の使い方ができるか",
+    "restore の後ろに来る「回復するもの」を3つ言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "restore(修復する・回復する)が長文に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 317
+    }
+  ]
+}

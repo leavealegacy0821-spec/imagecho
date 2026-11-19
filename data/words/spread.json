@@ -1,0 +1,103 @@
+{
+  "word": "spread",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/spred/",
+  "core_image": {
+    "text": "中心から、外へ外へと広がっていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"84\" r=\"8\"/><circle cx=\"120\" cy=\"84\" r=\"26\" stroke-dasharray=\"4 4\"/><circle cx=\"120\" cy=\"84\" r=\"46\" stroke-dasharray=\"4 4\"/><line x1=\"168\" y1=\"84\" x2=\"210\" y2=\"84\"/><polyline points=\"203,80.2 210,84 203,87.8\"/><line x1=\"72\" y1=\"84\" x2=\"30\" y2=\"84\"/><polyline points=\"37,87.8 30,84 37,80.2\"/></g><text x=\"194\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">広がる</text></svg>"
+  },
+  "etymology": "古英語 sprǣdan(広げる) → 広げる・広がる → (うわさ・病気が)広まる → (バターを)塗る → (時間的に)分散させる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to open something out, to cover a surface with something, or to affect a larger area or more people."
+    },
+    {
+      "pos": "名詞",
+      "text": "the growth or development of something so that it affects a larger area or more people."
+    }
+  ],
+  "cautions": [
+    "活用は spread - spread - spread(形が変わらない)",
+    "A spread=Aが広まる(自動詞)/ spread A=Aを広める・広げる(他動詞)",
+    "spread A on B / spread B with A=AをBに塗る",
+    "spread out=(散らばって)広がる"
+  ],
+  "patterns": [
+    {
+      "form": "A spread",
+      "meaning": "Aが広まる"
+    },
+    {
+      "form": "spread A",
+      "meaning": "Aを広める"
+    },
+    {
+      "form": "spread A on B",
+      "meaning": "AをBに塗る"
+    },
+    {
+      "form": "spread out",
+      "meaning": "散らばる"
+    },
+    {
+      "form": "the spread of A",
+      "meaning": "Aの広まり"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "広まる",
+      "en": "The news spread quickly through the school.",
+      "ja": "その知らせはすぐに学校中に広まった。"
+    },
+    {
+      "source": "original",
+      "label": "広める",
+      "en": "Mosquitoes spread some diseases.",
+      "ja": "蚊はいくつかの病気を広める。"
+    },
+    {
+      "source": "original",
+      "label": "広げる",
+      "en": "She spread the map on the table.",
+      "ja": "彼女は地図をテーブルに広げた。"
+    },
+    {
+      "source": "original",
+      "label": "塗る",
+      "en": "He spread butter on his toast.",
+      "ja": "彼はトーストにバターを塗った。"
+    },
+    {
+      "source": "original",
+      "label": "spread out",
+      "en": "The police spread out to search the forest.",
+      "ja": "警察は森を捜すために散らばった。"
+    },
+    {
+      "source": "original",
+      "label": "広まり(名詞)",
+      "en": "We must stop the spread of the virus.",
+      "ja": "ウイルスの広まりを止めなければならない。"
+    }
+  ],
+  "check_points": [
+    "spread の過去形・過去分詞を言えるか",
+    "spread A on B はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "spread(活用が変わらない)、the spread of A が長文に頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 319
+    }
+  ]
+}

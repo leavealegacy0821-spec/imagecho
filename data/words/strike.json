@@ -1,0 +1,103 @@
+{
+  "word": "strike",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/straɪk/",
+  "core_image": {
+    "text": "不意に、ガツンと打ち当たる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"140\" y2=\"96\"/><line x1=\"150\" y1=\"74\" x2=\"160\" y2=\"96\"/><polyline points=\"60,20 80,50 66,52 90,86\"/><line x1=\"90\" y1=\"86\" x2=\"128\" y2=\"56\"/><polyline points=\"120.1,57.3 128,56 124.9,63.4\"/></g><text x=\"40\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ガツン</text><text x=\"190\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">はっ</text></svg>"
+  },
+  "etymology": "古英語 strican(なでる・進む) → 打つ・ぶつかる → (災害・病気が)襲う → (考えが)ふと浮かぶ・印象を与える → (仕事を打ち切る)ストライキ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to hit someone or something hard, to attack suddenly, or to come into someone's mind suddenly."
+    },
+    {
+      "pos": "名詞",
+      "text": "a time when workers stop working to protest, or a sudden attack."
+    }
+  ],
+  "cautions": [
+    "活用 strike - struck - struck",
+    "It strikes A that S V / A strike B as C=(考えが)Aにふと浮かぶ/AはBにCという印象を与える",
+    "(災害・病気が)襲う: The earthquake struck the city.",
+    "be struck by A=Aに感銘を受ける・Aに打たれる。go on strike=ストライキをする"
+  ],
+  "patterns": [
+    {
+      "form": "strike A",
+      "meaning": "Aを打つ・襲う"
+    },
+    {
+      "form": "A strike B as C",
+      "meaning": "AはBにCという印象を与える"
+    },
+    {
+      "form": "It strikes A that S V",
+      "meaning": "Aに〜という考えが浮かぶ"
+    },
+    {
+      "form": "be struck by A",
+      "meaning": "Aに感銘を受ける"
+    },
+    {
+      "form": "go on strike",
+      "meaning": "ストライキをする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "打つ",
+      "en": "The ball struck him on the head.",
+      "ja": "ボールが彼の頭に当たった。"
+    },
+    {
+      "source": "original",
+      "label": "襲う",
+      "en": "A big earthquake struck the area last year.",
+      "ja": "昨年大地震がその地域を襲った。"
+    },
+    {
+      "source": "original",
+      "label": "A strike B as C",
+      "en": "His story struck me as strange.",
+      "ja": "彼の話は私には奇妙に思えた。"
+    },
+    {
+      "source": "original",
+      "label": "It strikes A that",
+      "en": "It suddenly struck me that I had left my key at home.",
+      "ja": "家に鍵を置いてきたことにふと気づいた。"
+    },
+    {
+      "source": "original",
+      "label": "be struck by",
+      "en": "I was struck by the beauty of the lake.",
+      "ja": "私はその湖の美しさに心を打たれた。"
+    },
+    {
+      "source": "original",
+      "label": "ストライキ(名詞)",
+      "en": "The bus drivers went on strike for higher pay.",
+      "ja": "バスの運転手たちは賃上げを求めてストライキをした。"
+    }
+  ],
+  "check_points": [
+    "A strike B as C はどういう意味か",
+    "strike の過去形を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "strike A as C、It strikes A that が長文・語法に頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 320
+    }
+  ]
+}

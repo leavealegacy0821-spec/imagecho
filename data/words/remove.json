@@ -1,0 +1,94 @@
+{
+  "word": "remove",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈmuːv/",
+  "core_image": {
+    "text": "ある場所から、動かしてどける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"100\" width=\"70\" height=\"40\"/><rect x=\"60\" y=\"76\" width=\"30\" height=\"24\" stroke-dasharray=\"4 4\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><polyline points=\"180,74 160,64 150,56\"/><line x1=\"180\" y1=\"74\" x2=\"190\" y2=\"96\"/><rect x=\"132\" y=\"46\" width=\"24\" height=\"20\"/><line x1=\"96\" y1=\"70\" x2=\"126\" y2=\"58\"/><polyline points=\"118.1,57 126,58 120.9,64.2\"/></g><text x=\"75\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">元の場所</text><text x=\"180\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どける</text></svg>"
+  },
+  "etymology": "re(離れて) + move(動かす) → 元の場所から動かす → 取り除く・外す → (地位から)解任する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to take something away from a place, or to get rid of something."
+    }
+  ],
+  "cautions": [
+    "remove A from B=BからAを取り除く・外す",
+    "remove one's shoes / hat=靴・帽子を脱ぐ(take off より改まった言い方)",
+    "remove A from office=Aを解任する",
+    "名詞 removal"
+  ],
+  "patterns": [
+    {
+      "form": "remove A from B",
+      "meaning": "BからAを取り除く"
+    },
+    {
+      "form": "remove one's shoes",
+      "meaning": "靴を脱ぐ"
+    },
+    {
+      "form": "remove a stain",
+      "meaning": "しみを取る"
+    },
+    {
+      "form": "removal",
+      "meaning": "除去"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "remove A from",
+      "en": "Please remove your bags from the seats.",
+      "ja": "座席から荷物をどけてください。"
+    },
+    {
+      "source": "original",
+      "label": "脱ぐ",
+      "en": "Please remove your shoes before entering the room.",
+      "ja": "部屋に入る前に靴を脱いでください。"
+    },
+    {
+      "source": "original",
+      "label": "取り除く",
+      "en": "This soap removes stains easily.",
+      "ja": "この石けんはしみを簡単に落とす。"
+    },
+    {
+      "source": "original",
+      "label": "(不安を)取り除く",
+      "en": "His words removed all my doubts.",
+      "ja": "彼の言葉で私の疑いはすべて消えた。"
+    },
+    {
+      "source": "original",
+      "label": "解任する",
+      "en": "The minister was removed from office.",
+      "ja": "その大臣は解任された。"
+    },
+    {
+      "source": "original",
+      "label": "removal(名詞)",
+      "en": "The removal of the old building took a month.",
+      "ja": "古い建物の撤去に1か月かかった。"
+    }
+  ],
+  "check_points": [
+    "remove A from B の使い方ができるか",
+    "remove one's shoes を別の言い方で言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "remove A from B が長文・語彙に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 315
+    }
+  ]
+}

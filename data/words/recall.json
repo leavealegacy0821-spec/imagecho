@@ -1,0 +1,99 @@
+{
+  "word": "recall",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/rɪˈkɔːl/",
+  "core_image": {
+    "text": "過ぎたものを、呼び戻す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><polyline points=\"170,74 150,62 140,50\"/><line x1=\"170\" y1=\"74\" x2=\"180\" y2=\"96\"/><rect x=\"40\" y=\"56\" width=\"40\" height=\"30\" stroke-dasharray=\"4 4\"/><line x1=\"86\" y1=\"70\" x2=\"134\" y2=\"56\"/><polyline points=\"126.2,54.3 134,56 128.3,61.6\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あの日</text><text x=\"170\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">呼び戻す</text></svg>"
+  },
+  "etymology": "re(元へ) + call(呼ぶ) → 呼び戻す → (記憶を)思い出す → (欠陥商品を)回収する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to remember something, or to ask for a product to be returned because it has a fault."
+    },
+    {
+      "pos": "名詞",
+      "text": "the ability to remember things, or an official request to return a product."
+    }
+  ],
+  "cautions": [
+    "recall doing=〜したことを思い出す(過去のこと)",
+    "recall that S V=〜だと思い出す",
+    "remember より改まった語。「意識して思い出す」感じ",
+    "recall A=(欠陥のある製品)を回収する"
+  ],
+  "patterns": [
+    {
+      "form": "recall doing",
+      "meaning": "〜したことを思い出す"
+    },
+    {
+      "form": "recall that S V",
+      "meaning": "〜だと思い出す"
+    },
+    {
+      "form": "recall A",
+      "meaning": "Aを回収する"
+    },
+    {
+      "form": "as I recall",
+      "meaning": "私の記憶では"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "思い出す",
+      "en": "I cannot recall her name.",
+      "ja": "彼女の名前が思い出せない。"
+    },
+    {
+      "source": "original",
+      "label": "recall doing",
+      "en": "He recalled meeting her at a party years ago.",
+      "ja": "彼は何年も前にパーティーで彼女に会ったことを思い出した。"
+    },
+    {
+      "source": "original",
+      "label": "recall that",
+      "en": "She recalled that she had left the door open.",
+      "ja": "彼女はドアを開けっぱなしにしてきたことを思い出した。"
+    },
+    {
+      "source": "original",
+      "label": "as I recall",
+      "en": "As I recall, the shop was next to the bank.",
+      "ja": "私の記憶では、その店は銀行の隣だった。"
+    },
+    {
+      "source": "original",
+      "label": "回収する",
+      "en": "The company recalled thousands of cars because of a brake problem.",
+      "ja": "その会社はブレーキの不具合で何千台もの車を回収した。"
+    },
+    {
+      "source": "original",
+      "label": "呼び戻す",
+      "en": "The ambassador was recalled to his country.",
+      "ja": "大使は本国に呼び戻された。"
+    }
+  ],
+  "check_points": [
+    "recall doing はどういう意味か",
+    "「思い出す」と「回収する」をつなぐイメージを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "recall doing、製品の recall が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 312
+    }
+  ]
+}

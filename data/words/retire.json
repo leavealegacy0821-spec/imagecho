@@ -1,0 +1,94 @@
+{
+  "word": "retire",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈtaɪr/",
+  "core_image": {
+    "text": "表の場から、後ろへ引き下がる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"40\" width=\"80\" height=\"100\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"168\" y2=\"96\"/><line x1=\"180\" y1=\"74\" x2=\"192\" y2=\"96\"/><line x1=\"130\" y1=\"120\" x2=\"160\" y2=\"120\"/><polyline points=\"153,116.2 160,120 153,123.8\"/></g><text x=\"80\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">職場</text><text x=\"190\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">引き下がる</text></svg>"
+  },
+  "etymology": "re(後ろへ) + tire(引く。古フランス語 tirer) → 後ろへ引く → 退く・引退する・退職する → 床につく",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stop working because you have reached a particular age, or to leave a place to go somewhere quieter."
+    }
+  ],
+  "cautions": [
+    "retire from A=Aから引退する・退職する",
+    "retire at 65=65歳で退職する",
+    "retired=退職した(a retired teacher)",
+    "名詞 retirement=退職・引退。tire(疲れる)とは別の語"
+  ],
+  "patterns": [
+    {
+      "form": "retire from A",
+      "meaning": "Aを引退する"
+    },
+    {
+      "form": "retire at 年齢",
+      "meaning": "〜歳で退職する"
+    },
+    {
+      "form": "retired",
+      "meaning": "退職した"
+    },
+    {
+      "form": "retirement",
+      "meaning": "退職"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "退職する",
+      "en": "My father will retire next year.",
+      "ja": "父は来年退職する。"
+    },
+    {
+      "source": "original",
+      "label": "retire from",
+      "en": "The famous player retired from baseball at 40.",
+      "ja": "その有名な選手は40歳で野球を引退した。"
+    },
+    {
+      "source": "original",
+      "label": "retired(形容詞)",
+      "en": "My grandmother is a retired nurse.",
+      "ja": "祖母は退職した看護師だ。"
+    },
+    {
+      "source": "original",
+      "label": "retirement(名詞)",
+      "en": "He plans to travel around the world after his retirement.",
+      "ja": "彼は退職後に世界を旅する予定だ。"
+    },
+    {
+      "source": "original",
+      "label": "(部屋に)下がる",
+      "en": "After dinner, the guests retired to the living room.",
+      "ja": "夕食の後、客たちは居間へ移った。"
+    },
+    {
+      "source": "original",
+      "label": "床につく",
+      "en": "She usually retires early on weekdays.",
+      "ja": "彼女は平日はたいてい早く寝る。"
+    }
+  ],
+  "check_points": [
+    "retire from の使い方ができるか",
+    "retired と retirement の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "retire from、retirement が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 318
+    }
+  ]
+}
