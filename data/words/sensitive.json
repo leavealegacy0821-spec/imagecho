@@ -1,0 +1,94 @@
+{
+  "word": "sensitive",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈsensɪtɪv/",
+  "core_image": {
+    "text": "小さな刺激にも、敏感に反応する",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"130\" cy=\"52\" r=\"10\"/><line x1=\"130\" y1=\"62\" x2=\"130\" y2=\"106\"/><line x1=\"130\" y1=\"106\" x2=\"120\" y2=\"140\"/><line x1=\"130\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"130\" y1=\"74\" x2=\"118\" y2=\"96\"/><line x1=\"130\" y1=\"74\" x2=\"142\" y2=\"96\"/><polyline points=\"110,40 100,36\"/><polyline points=\"110,52 98,52\"/><polyline points=\"110,64 100,68\"/><circle cx=\"50\" cy=\"52\" r=\"3\"/></g><text x=\"50\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">小さな刺激</text><text x=\"180\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぴくっ</text></svg>"
+  },
+  "etymology": "sense(感じる) + itive(〜しやすい) → 感じやすい → 敏感な・傷つきやすい → (話題が)扱いに注意が要る",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "easily affected or upset, or able to understand other people's feelings."
+    }
+  ],
+  "cautions": [
+    "be sensitive to A=Aに敏感だ・Aに気を配る",
+    "sensitive=感じやすい(敏感な)、sensible=分別のある と区別",
+    "a sensitive issue=扱いに注意が要る問題",
+    "名詞 sensitivity"
+  ],
+  "patterns": [
+    {
+      "form": "be sensitive to A",
+      "meaning": "Aに敏感だ"
+    },
+    {
+      "form": "sensitive skin",
+      "meaning": "敏感肌"
+    },
+    {
+      "form": "a sensitive issue",
+      "meaning": "慎重に扱うべき問題"
+    },
+    {
+      "form": "sensible",
+      "meaning": "分別のある"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "be sensitive to",
+      "en": "My skin is sensitive to the sun.",
+      "ja": "私の肌は日光に弱い。"
+    },
+    {
+      "source": "original",
+      "label": "気を配る",
+      "en": "A good teacher is sensitive to students' needs.",
+      "ja": "よい先生は生徒の求めることに気を配る。"
+    },
+    {
+      "source": "original",
+      "label": "傷つきやすい",
+      "en": "He is very sensitive about his height.",
+      "ja": "彼は身長のことをとても気にしている。"
+    },
+    {
+      "source": "original",
+      "label": "a sensitive issue",
+      "en": "Religion is a sensitive issue in many countries.",
+      "ja": "宗教は多くの国で慎重に扱うべき問題だ。"
+    },
+    {
+      "source": "original",
+      "label": "感度の高い",
+      "en": "This camera is sensitive enough to work in the dark.",
+      "ja": "このカメラは暗い所でも撮れるほど感度が高い。"
+    },
+    {
+      "source": "original",
+      "label": "sensible との比較",
+      "en": "She is sensitive to others' feelings and sensible with money.",
+      "ja": "彼女は他人の気持ちに敏感で、お金の使い方は賢明だ。"
+    }
+  ],
+  "check_points": [
+    "sensitive と sensible の違いを言えるか",
+    "be sensitive to A はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "sensitive / sensible の区別が語彙問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 339
+    }
+  ]
+}

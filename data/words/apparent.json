@@ -1,0 +1,94 @@
+{
+  "word": "apparent",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/əˈpærənt/",
+  "core_image": {
+    "text": "目の前に姿を現して、はっきり見える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"40\" width=\"70\" height=\"100\" stroke-dasharray=\"4 4\"/><circle cx=\"160\" cy=\"52\" r=\"10\"/><line x1=\"160\" y1=\"62\" x2=\"160\" y2=\"106\"/><line x1=\"160\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"160\" y1=\"74\" x2=\"148\" y2=\"96\"/><line x1=\"160\" y1=\"74\" x2=\"172\" y2=\"96\"/><line x1=\"104\" y1=\"90\" x2=\"136\" y2=\"90\"/><polyline points=\"129,86.2 136,90 129,93.8\"/></g><text x=\"65\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かくれていた</text><text x=\"180\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">はっきり見える</text></svg>"
+  },
+  "etymology": "ap(ad=〜へ) + parent(現れる。appear と同じ) → 目の前に現れている → 明らかな → (見た目では)〜らしい",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "easy to see or understand, or seeming to be true but possibly not true."
+    }
+  ],
+  "cautions": [
+    "It is apparent that S V=〜は明らかだ(obvious、clear と同じ)",
+    "名詞の前では「見かけの・一見〜らしい」(his apparent calm=彼の見かけの落ち着き)",
+    "副詞 apparently=どうやら〜らしい(「明らかに」ではないことが多い)",
+    "appear(現れる・〜に見える)と同じ仲間"
+  ],
+  "patterns": [
+    {
+      "form": "It is apparent that S V",
+      "meaning": "〜は明らかだ"
+    },
+    {
+      "form": "for no apparent reason",
+      "meaning": "これといった理由もなく"
+    },
+    {
+      "form": "apparent A",
+      "meaning": "見かけのA"
+    },
+    {
+      "form": "apparently",
+      "meaning": "どうやら〜らしい"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "明らかな",
+      "en": "It was apparent that he was lying.",
+      "ja": "彼がうそをついているのは明らかだった。"
+    },
+    {
+      "source": "original",
+      "label": "見てわかる",
+      "en": "Her anger was apparent from her face.",
+      "ja": "彼女の怒りは顔を見てわかった。"
+    },
+    {
+      "source": "original",
+      "label": "for no apparent reason",
+      "en": "The baby started crying for no apparent reason.",
+      "ja": "赤ちゃんはこれといった理由もなく泣き出した。"
+    },
+    {
+      "source": "original",
+      "label": "見かけの",
+      "en": "Despite his apparent calm, he was very nervous.",
+      "ja": "落ち着いて見えたが、彼はとても緊張していた。"
+    },
+    {
+      "source": "original",
+      "label": "apparently(副詞)",
+      "en": "Apparently, the meeting has been canceled.",
+      "ja": "どうやら会議は中止になったらしい。"
+    },
+    {
+      "source": "original",
+      "label": "appear との関係",
+      "en": "Problems became apparent when the work began.",
+      "ja": "作業が始まると、問題が表に出てきた。"
+    }
+  ],
+  "check_points": [
+    "apparently の意味を言えるか",
+    "appear と apparent のつながりを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "apparently(どうやら〜らしい)の意味が長文で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 332
+    }
+  ]
+}

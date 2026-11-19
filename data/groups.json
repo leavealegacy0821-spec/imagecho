@@ -254,7 +254,8 @@
         "insist",
         "require",
         "urge",
-        "recommend"
+        "recommend",
+        "essential"
       ]
     },
     {
@@ -425,7 +426,10 @@
         "certain",
         "willing",
         "worth",
-        "available"
+        "available",
+        "anxious",
+        "appropriate",
+        "essential"
       ]
     },
     {
@@ -517,7 +521,9 @@
         "common",
         "particular",
         "direct",
-        "right"
+        "right",
+        "apparent",
+        "obvious"
       ]
     },
     {
@@ -546,6 +552,18 @@
         "apply",
         "imply",
         "employ"
+      ]
+    },
+    {
+      "title": "まぎらわしい形容詞",
+      "note": "似た形で意味がちがう",
+      "words": [
+        "considerable",
+        "considerate",
+        "sensitive",
+        "sensible",
+        "efficient",
+        "anxious"
       ]
     }
   ]
