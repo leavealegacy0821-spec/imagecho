@@ -1,0 +1,94 @@
+{
+  "word": "preserve",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/prɪˈzɜːrv/",
+  "core_image": {
+    "text": "傷まないように、前もって守っておく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"90\" y=\"60\" width=\"60\" height=\"80\"/><line x1=\"90\" y1=\"76\" x2=\"150\" y2=\"76\"/><circle cx=\"120\" cy=\"108\" r=\"14\"/><path d=\"M76 60 Q70 100 76 140\"/><path d=\"M164 60 Q170 100 164 140\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そのまま守る</text></svg>"
+  },
+  "etymology": "pre(前もって) + serve(守る・保つ。conserve、reserve と同じ) → 前もって守る → 保存する・保護する → (食べ物を)保存加工する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to keep something in its original state, or to protect it from harm or loss."
+    }
+  ],
+  "cautions": [
+    "preserve A=Aを(元の状態のまま)保存する・守る",
+    "preserve A from B=AをBから守る",
+    "conserve=(資源を)大切に使う、reserve=取っておく・予約する と区別",
+    "名詞 preservation=保存・保護、preservative=保存料"
+  ],
+  "patterns": [
+    {
+      "form": "preserve A",
+      "meaning": "Aを保存する・守る"
+    },
+    {
+      "form": "preserve A from B",
+      "meaning": "AをBから守る"
+    },
+    {
+      "form": "preservation",
+      "meaning": "保存・保護"
+    },
+    {
+      "form": "preservative",
+      "meaning": "保存料"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "保存する",
+      "en": "The old temple has been carefully preserved.",
+      "ja": "その古い寺は大切に保存されてきた。"
+    },
+    {
+      "source": "original",
+      "label": "守る",
+      "en": "We must preserve the forests for future generations.",
+      "ja": "私たちは未来の世代のために森を守らなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "(食べ物を)保存する",
+      "en": "In the past, people preserved fish with salt.",
+      "ja": "昔の人は塩で魚を保存した。"
+    },
+    {
+      "source": "original",
+      "label": "保つ",
+      "en": "She tried to preserve her calm during the interview.",
+      "ja": "面接の間、彼女は落ち着きを保とうとした。"
+    },
+    {
+      "source": "original",
+      "label": "preservation(名詞)",
+      "en": "The group works for the preservation of wildlife.",
+      "ja": "その団体は野生動物の保護に取り組んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "preservative(名詞)",
+      "en": "This bread contains no preservatives.",
+      "ja": "このパンには保存料が入っていない。"
+    }
+  ],
+  "check_points": [
+    "preserve、conserve、reserve の違いを言えるか",
+    "preservative はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "preserve(保護する)、preservation が長文に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 307
+    }
+  ]
+}

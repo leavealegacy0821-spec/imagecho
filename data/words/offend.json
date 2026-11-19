@@ -1,0 +1,94 @@
+{
+  "word": "offend",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈfend/",
+  "core_image": {
+    "text": "人の気持ちに、ぶつかって傷つける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 84,70 96,66\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"182\" y2=\"96\"/><line x1=\"170\" y1=\"74\" x2=\"158\" y2=\"96\"/><polyline points=\"140,48 148,56 140,64\"/><line x1=\"100\" y1=\"60\" x2=\"136\" y2=\"56\"/><polyline points=\"128.6,53 136,56 129.4,60.6\"/></g><text x=\"170\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">むっ</text><text x=\"90\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひどい一言</text></svg>"
+  },
+  "etymology": "of(ob=〜に向かって) + fend(打つ。defend と同じ) → 〜に打ちかかる → 感情を害する・怒らせる → (法に)反する・罪を犯す",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone upset or angry by doing or saying something rude, or to commit a crime."
+    }
+  ],
+  "cautions": [
+    "offend A=Aの気分を害する・怒らせる。be offended by / at A=Aに腹を立てる",
+    "offensive=失礼な・不快な(と同時に「攻撃的な」)",
+    "名詞 offense / offence=罪・違反・無礼",
+    "反対の動きは defend(はね返して守る)"
+  ],
+  "patterns": [
+    {
+      "form": "offend A",
+      "meaning": "Aの気分を害する"
+    },
+    {
+      "form": "be offended by A",
+      "meaning": "Aに腹を立てる"
+    },
+    {
+      "form": "offensive",
+      "meaning": "失礼な・攻撃の"
+    },
+    {
+      "form": "offense",
+      "meaning": "罪・無礼"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "気分を害する",
+      "en": "I am sorry if my joke offended you.",
+      "ja": "私の冗談で気分を悪くしたならごめんなさい。"
+    },
+    {
+      "source": "original",
+      "label": "be offended by",
+      "en": "She was offended by his rude question.",
+      "ja": "彼女は彼の失礼な質問に腹を立てた。"
+    },
+    {
+      "source": "original",
+      "label": "怒らせないように",
+      "en": "He chose his words carefully so as not to offend anyone.",
+      "ja": "彼はだれも怒らせないよう言葉を慎重に選んだ。"
+    },
+    {
+      "source": "original",
+      "label": "offensive(形容詞)",
+      "en": "Some of the words in the song are offensive.",
+      "ja": "その歌の言葉のいくつかは不快だ。"
+    },
+    {
+      "source": "original",
+      "label": "罪を犯す",
+      "en": "People who offend again will receive heavier punishment.",
+      "ja": "再び罪を犯した人にはより重い罰が下される。"
+    },
+    {
+      "source": "original",
+      "label": "offense(名詞)",
+      "en": "Driving without a license is a serious offense.",
+      "ja": "無免許運転は重い違反だ。"
+    }
+  ],
+  "check_points": [
+    "defend と offend の共通部分の意味を言えるか",
+    "be offended by はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "offend、offensive が長文・語彙問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 303
+    }
+  ]
+}

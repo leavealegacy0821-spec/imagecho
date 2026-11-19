@@ -1,0 +1,94 @@
+{
+  "word": "predict",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/prɪˈdɪkt/",
+  "core_image": {
+    "text": "起こる前に、先回りして言う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><polyline points=\"50,74 70,62 80,50\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><circle cx=\"180\" cy=\"70\" r=\"16\" stroke-dasharray=\"4 4\"/><line x1=\"166\" y1=\"100\" x2=\"194\" y2=\"100\" stroke-dasharray=\"4 4\"/><line x1=\"90\" y1=\"70\" x2=\"156\" y2=\"70\" stroke-dasharray=\"5 5\"/><polyline points=\"149,66.2 156,70 149,73.8\"/></g><text x=\"50\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こうなる</text><text x=\"180\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まだ先</text></svg>"
+  },
+  "etymology": "pre(前に) + dict(言う。dictionary、indicate と同じ) → 前もって言う → 予言する・予測する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say what you think will happen in the future."
+    }
+  ],
+  "cautions": [
+    "predict that S V=〜だと予測する",
+    "predict A=Aを予測する(天気・結果・数など)",
+    "forecast は天気など専門的な予報、predict は広く予測",
+    "名詞 prediction、形容詞 predictable=予測できる(=ありきたりの)"
+  ],
+  "patterns": [
+    {
+      "form": "predict that S V",
+      "meaning": "〜だと予測する"
+    },
+    {
+      "form": "predict A",
+      "meaning": "Aを予測する"
+    },
+    {
+      "form": "prediction",
+      "meaning": "予測"
+    },
+    {
+      "form": "predictable",
+      "meaning": "予測できる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "predict that",
+      "en": "Experts predict that prices will rise next year.",
+      "ja": "専門家は来年物価が上がると予測している。"
+    },
+    {
+      "source": "original",
+      "label": "予測する",
+      "en": "It is difficult to predict the result of the election.",
+      "ja": "選挙の結果を予測するのは難しい。"
+    },
+    {
+      "source": "original",
+      "label": "予言する",
+      "en": "Nobody predicted that the small team would win.",
+      "ja": "その小さなチームが勝つとはだれも予想していなかった。"
+    },
+    {
+      "source": "original",
+      "label": "forecast との比較",
+      "en": "The weather forecast predicts heavy rain tomorrow.",
+      "ja": "天気予報では明日大雨になると言っている。"
+    },
+    {
+      "source": "original",
+      "label": "prediction(名詞)",
+      "en": "His prediction turned out to be correct.",
+      "ja": "彼の予測は正しいことがわかった。"
+    },
+    {
+      "source": "original",
+      "label": "predictable(形容詞)",
+      "en": "The ending of the movie was very predictable.",
+      "ja": "その映画の結末はとても読めるものだった。"
+    }
+  ],
+  "check_points": [
+    "dict(言う)と predict のつながりを言えるか",
+    "predictable を映画について言うとどんな意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "predict that、prediction が長文に頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 306
+    }
+  ]
+}

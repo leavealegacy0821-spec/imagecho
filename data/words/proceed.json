@@ -1,0 +1,94 @@
+{
+  "word": "proceed",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/prəˈsiːd/",
+  "core_image": {
+    "text": "止まらずに、前へ進み続ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"94\"/><line x1=\"90\" y1=\"110\" x2=\"150\" y2=\"110\"/><polyline points=\"143,106.2 150,110 143,113.8\"/><line x1=\"150\" y1=\"110\" x2=\"210\" y2=\"110\"/><polyline points=\"203,106.2 210,110 203,113.8\"/><line x1=\"150\" y1=\"100\" x2=\"150\" y2=\"120\" stroke-dasharray=\"3 3\"/></g><text x=\"150\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">前へ進む</text></svg>"
+  },
+  "etymology": "pro(前へ) + ceed(行く。exceed、succeed と同じ) → 前へ行く → 進む・続ける → (〜から)生じる(proceed from)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to continue doing something, or to move in a particular direction."
+    }
+  ],
+  "cautions": [
+    "proceed to do=続けて(次に)〜する",
+    "proceed with A=Aを続ける・進める",
+    "proceed to 場所=(〜へ)進む",
+    "名詞 process(過程)、procedure(手順)、proceeds(収益)は同じ仲間"
+  ],
+  "patterns": [
+    {
+      "form": "proceed with A",
+      "meaning": "Aを続ける"
+    },
+    {
+      "form": "proceed to do",
+      "meaning": "続けて〜する"
+    },
+    {
+      "form": "proceed to 場所",
+      "meaning": "〜へ進む"
+    },
+    {
+      "form": "procedure",
+      "meaning": "手順"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "proceed with",
+      "en": "After a short break, we proceeded with the meeting.",
+      "ja": "少し休んだ後、私たちは会議を続けた。"
+    },
+    {
+      "source": "original",
+      "label": "proceed to do",
+      "en": "He sat down and proceeded to tell us the whole story.",
+      "ja": "彼は座ると、続いて一部始終を話し始めた。"
+    },
+    {
+      "source": "original",
+      "label": "進む",
+      "en": "Passengers should proceed to Gate 5.",
+      "ja": "乗客は5番ゲートへお進みください。"
+    },
+    {
+      "source": "original",
+      "label": "進める",
+      "en": "The plan is proceeding as expected.",
+      "ja": "計画は予定どおり進んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "procedure(名詞)",
+      "en": "Please follow the safety procedures carefully.",
+      "ja": "安全の手順をきちんと守ってください。"
+    },
+    {
+      "source": "original",
+      "label": "process(名詞)",
+      "en": "Learning a language is a slow process.",
+      "ja": "言語の学習はゆっくりとした過程だ。"
+    }
+  ],
+  "check_points": [
+    "proceed with と proceed to do の違いを言えるか",
+    "exceed、succeed と共通する ceed の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "proceed with、procedure が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 308
+    }
+  ]
+}

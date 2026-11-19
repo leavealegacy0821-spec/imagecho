@@ -1,0 +1,94 @@
+{
+  "word": "prove",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/pruːv/",
+  "core_image": {
+    "text": "試してみて、本物だとはっきり示す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 84,66 100,60\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><rect x=\"130\" y=\"50\" width=\"70\" height=\"60\"/><polyline points=\"148,80 160,92 184,66\"/></g><text x=\"60\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ほら</text><text x=\"165\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">本当だった</text></svg>"
+  },
+  "etymology": "ラテン語 probare(試す・よいと認める。probably、approve と同じ根) → 試して確かめる → 証明する → (結果として)〜だとわかる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to show that something is true by giving facts, or to be found to be something."
+    }
+  ],
+  "cautions": [
+    "prove that S V=〜だと証明する",
+    "prove (to be) C=(結果として)Cだとわかる。turn out (to be) C と同じ",
+    "prove oneself=自分の力を示す",
+    "活用 prove - proved - proved / proven。名詞 proof=証拠"
+  ],
+  "patterns": [
+    {
+      "form": "prove that S V",
+      "meaning": "〜だと証明する"
+    },
+    {
+      "form": "prove (to be) C",
+      "meaning": "Cだとわかる"
+    },
+    {
+      "form": "prove oneself",
+      "meaning": "実力を示す"
+    },
+    {
+      "form": "proof",
+      "meaning": "証拠"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "証明する",
+      "en": "The scientist proved that the theory was wrong.",
+      "ja": "その科学者は、その理論が間違っていることを証明した。"
+    },
+    {
+      "source": "original",
+      "label": "prove (to be) C",
+      "en": "The new medicine proved to be very effective.",
+      "ja": "新しい薬はとても効果があるとわかった。"
+    },
+    {
+      "source": "original",
+      "label": "turn out との言い換え",
+      "en": "The rumor proved false, or turned out to be false.",
+      "ja": "そのうわさはうそだとわかった。"
+    },
+    {
+      "source": "original",
+      "label": "prove oneself",
+      "en": "He worked hard to prove himself to the team.",
+      "ja": "彼はチームに実力を示そうと懸命に働いた。"
+    },
+    {
+      "source": "original",
+      "label": "proven(形容詞)",
+      "en": "This is a proven method for learning words.",
+      "ja": "これは単語を覚える実証済みの方法だ。"
+    },
+    {
+      "source": "original",
+      "label": "proof(名詞)",
+      "en": "Do you have any proof that he took the money?",
+      "ja": "彼がお金を取った証拠はありますか。"
+    }
+  ],
+  "check_points": [
+    "prove (to be) C を turn out で言い換えられるか",
+    "名詞 proof の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "prove (to be) C = turn out (to be) C の言い換えが定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 309
+    }
+  ]
+}

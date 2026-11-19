@@ -1,0 +1,94 @@
+{
+  "word": "occupy",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈɑːkjupaɪ/",
+  "core_image": {
+    "text": "場所や時間を、すっぽり埋めて占める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"60\" y=\"26\" width=\"120\" height=\"114\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"64\" y2=\"66\"/><line x1=\"120\" y1=\"74\" x2=\"176\" y2=\"66\"/></g><text x=\"120\" y=\"16\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すっぽり占める</text></svg>"
+  },
+  "etymology": "oc(ob=すっかり) + cupy(つかむ。capture、capable の cap と同じ根) → すっかりつかむ → (場所・時間・心を)占める → 占領する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to fill a space or time, to live in or use a place, or to take control of a country by force."
+    }
+  ],
+  "cautions": [
+    "be occupied=(席・部屋が)使用中だ(トイレの Occupied=使用中)",
+    "be occupied with A / in doing=Aで忙しい・〜するのに没頭している",
+    "occupy oneself with A=Aにかかりきりになる",
+    "名詞 occupation=職業・占領"
+  ],
+  "patterns": [
+    {
+      "form": "occupy A",
+      "meaning": "Aを占める"
+    },
+    {
+      "form": "be occupied",
+      "meaning": "使用中だ"
+    },
+    {
+      "form": "be occupied with A",
+      "meaning": "Aで忙しい"
+    },
+    {
+      "form": "occupation",
+      "meaning": "職業・占領"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "占める",
+      "en": "The bookshelf occupies most of the room.",
+      "ja": "本棚が部屋の大部分を占めている。"
+    },
+    {
+      "source": "original",
+      "label": "be occupied",
+      "en": "Excuse me, is this seat occupied?",
+      "ja": "すみません、この席はふさがっていますか。"
+    },
+    {
+      "source": "original",
+      "label": "be occupied with",
+      "en": "She is occupied with her homework now.",
+      "ja": "彼女は今宿題で手がいっぱいだ。"
+    },
+    {
+      "source": "original",
+      "label": "(時間を)つぶす",
+      "en": "Reading occupied him during the long flight.",
+      "ja": "長い空の旅の間、彼は読書をして過ごした。"
+    },
+    {
+      "source": "original",
+      "label": "占領する",
+      "en": "The army occupied the city for two years.",
+      "ja": "軍はその町を2年間占領した。"
+    },
+    {
+      "source": "original",
+      "label": "occupation(名詞)",
+      "en": "Please write your name and occupation on this form.",
+      "ja": "この用紙に名前と職業を書いてください。"
+    }
+  ],
+  "check_points": [
+    "be occupied with はどういう意味か",
+    "occupation の2つの意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be occupied with、occupation(職業)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 301
+    }
+  ]
+}

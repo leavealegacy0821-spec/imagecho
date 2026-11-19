@@ -1,0 +1,94 @@
+{
+  "word": "possess",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/pəˈzes/",
+  "core_image": {
+    "text": "自分の手の中に、しっかり持っている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><polyline points=\"120,74 104,86 112,96\"/><polyline points=\"120,74 136,86 128,96\"/><line x1=\"120\" y1=\"74\" x2=\"112\" y2=\"96\"/><rect x=\"108\" y=\"90\" width=\"24\" height=\"20\"/></g><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">自分のもの</text><text x=\"190\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">持っている</text></svg>"
+  },
+  "etymology": "ラテン語 possidere(主として座る。pot=力がある + sedere=座る) → 主として居すわる → 所有する → (性質・力を)持っている → (感情・霊が)とりつく",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to have or own something, or to have a particular quality."
+    }
+  ],
+  "cautions": [
+    "possess A=Aを所有する・(性質・能力を)持っている。have より改まった語。進行形にしない",
+    "be possessed by A=Aにとりつかれる",
+    "名詞 possession=所有・持ち物(possessions=財産)",
+    "形容詞 possessive=独占欲の強い"
+  ],
+  "patterns": [
+    {
+      "form": "possess A",
+      "meaning": "Aを所有する"
+    },
+    {
+      "form": "possess a quality",
+      "meaning": "性質を持つ"
+    },
+    {
+      "form": "possession",
+      "meaning": "所有・持ち物"
+    },
+    {
+      "form": "in possession of A",
+      "meaning": "Aを所有して"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "所有する",
+      "en": "He possesses a large collection of old coins.",
+      "ja": "彼は古い硬貨を大量に所有している。"
+    },
+    {
+      "source": "original",
+      "label": "(能力を)持つ",
+      "en": "She possesses a rare talent for music.",
+      "ja": "彼女はまれな音楽の才能を持っている。"
+    },
+    {
+      "source": "original",
+      "label": "(性質を)持つ",
+      "en": "Dolphins possess great intelligence.",
+      "ja": "イルカは高い知能を持っている。"
+    },
+    {
+      "source": "original",
+      "label": "とりつく",
+      "en": "He acted as if he were possessed by a demon.",
+      "ja": "彼は悪魔にとりつかれたかのようにふるまった。"
+    },
+    {
+      "source": "original",
+      "label": "possessions(名詞)",
+      "en": "They lost all their possessions in the fire.",
+      "ja": "彼らは火事で財産をすべて失った。"
+    },
+    {
+      "source": "original",
+      "label": "in possession of",
+      "en": "The man was found in possession of stolen goods.",
+      "ja": "その男は盗品を所持していた。"
+    }
+  ],
+  "check_points": [
+    "possess を進行形にしない理由を言えるか",
+    "possessions はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "possess、possession(s) が長文に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 305
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "omit",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/oʊˈmɪt/",
+  "core_image": {
+    "text": "あるはずのものを、抜かして先へ行く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"70\" width=\"40\" height=\"30\"/><rect x=\"100\" y=\"70\" width=\"40\" height=\"30\" stroke-dasharray=\"4 4\"/><rect x=\"170\" y=\"70\" width=\"40\" height=\"30\"/><path d=\"M50 64 Q120 20 190 64\"/><line x1=\"180\" y1=\"54\" x2=\"190\" y2=\"64\"/><polyline points=\"187.7,56.3 190,64 182.3,61.7\"/></g><text x=\"120\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">抜かす</text></svg>"
+  },
+  "etymology": "o(ob=〜を) + mit(送る。admit、permit と同じ) → 送り出してしまう → 抜かす・省く・入れ忘れる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to not include something, either deliberately or because you forgot."
+    }
+  ],
+  "cautions": [
+    "omit A=Aを省く・抜かす。leave out と同じ",
+    "omit A from B=BからAを省く",
+    "改まった語で「〜し忘れる」(omit to do)の意味もある",
+    "名詞 omission=省略・手抜かり"
+  ],
+  "patterns": [
+    {
+      "form": "omit A",
+      "meaning": "Aを省く"
+    },
+    {
+      "form": "omit A from B",
+      "meaning": "BからAを省く"
+    },
+    {
+      "form": "leave out A",
+      "meaning": "Aを省く"
+    },
+    {
+      "form": "omission",
+      "meaning": "省略"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "省く",
+      "en": "You can omit the last part of the report.",
+      "ja": "報告書の最後の部分は省いてかまいません。"
+    },
+    {
+      "source": "original",
+      "label": "omit A from B",
+      "en": "His name was omitted from the list by mistake.",
+      "ja": "彼の名前は誤って名簿から抜けていた。"
+    },
+    {
+      "source": "original",
+      "label": "leave out との言い換え",
+      "en": "Do not omit, or leave out, any important details.",
+      "ja": "大事な点は一つも抜かさないでください。"
+    },
+    {
+      "source": "original",
+      "label": "(文法)省略できる",
+      "en": "The word \"that\" can often be omitted in this sentence.",
+      "ja": "この文では that はよく省略される。"
+    },
+    {
+      "source": "original",
+      "label": "抜かす",
+      "en": "She omitted the salt from the recipe to make it healthier.",
+      "ja": "健康的にするため、彼女はレシピから塩を抜いた。"
+    },
+    {
+      "source": "original",
+      "label": "omission(名詞)",
+      "en": "The omission of his name was a careless mistake.",
+      "ja": "彼の名前が抜けていたのはうっかりミスだった。"
+    }
+  ],
+  "check_points": [
+    "omit を2語の熟語で言い換えられるか",
+    "mit(送る)と omit のつながりを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "omit = leave out の言い換えが出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 304
+    }
+  ]
+}

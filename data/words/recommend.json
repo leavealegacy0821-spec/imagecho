@@ -1,0 +1,94 @@
+{
+  "word": "recommend",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˌrekəˈmend/",
+  "core_image": {
+    "text": "「これがいいよ」と、自信を持って差し出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 86,74 104,70\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><rect x=\"106\" y=\"60\" width=\"20\" height=\"24\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"168\" y2=\"96\"/><line x1=\"180\" y1=\"74\" x2=\"192\" y2=\"96\"/></g><text x=\"80\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">これがいいよ</text><text x=\"180\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふむ</text></svg>"
+  },
+  "etymology": "re(強く) + commend(ゆだねる・ほめる。command と同じ根) → 強くほめて任せる → 勧める・推薦する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to suggest that someone or something is good for a purpose, or to advise someone to do something."
+    }
+  ],
+  "cautions": [
+    "recommend A to B=AをBに勧める(recommend B A も可)",
+    "recommend doing=〜することを勧める。recommend 人 to do も可",
+    "recommend that S (should) 原形=〜するよう勧める(suggest と同じ型)",
+    "名詞 recommendation=推薦・勧告"
+  ],
+  "patterns": [
+    {
+      "form": "recommend A to B",
+      "meaning": "AをBに勧める"
+    },
+    {
+      "form": "recommend doing",
+      "meaning": "〜することを勧める"
+    },
+    {
+      "form": "recommend that S (should) 原形",
+      "meaning": "〜するよう勧める"
+    },
+    {
+      "form": "recommendation",
+      "meaning": "推薦"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "recommend A to B",
+      "en": "Can you recommend a good book to me?",
+      "ja": "何かいい本を勧めてくれますか。"
+    },
+    {
+      "source": "original",
+      "label": "recommend doing",
+      "en": "I recommend taking the train instead of driving.",
+      "ja": "車ではなく電車で行くことを勧めます。"
+    },
+    {
+      "source": "original",
+      "label": "that S (should) 原形",
+      "en": "The doctor recommended that he get more sleep.",
+      "ja": "医者は彼にもっと睡眠をとるよう勧めた。"
+    },
+    {
+      "source": "original",
+      "label": "A to do",
+      "en": "I would recommend you to book early.",
+      "ja": "早めに予約することをお勧めします。"
+    },
+    {
+      "source": "original",
+      "label": "推薦する",
+      "en": "My teacher recommended me for the scholarship.",
+      "ja": "先生が私をその奨学金に推薦してくれた。"
+    },
+    {
+      "source": "original",
+      "label": "recommendation(名詞)",
+      "en": "We chose this hotel on a friend's recommendation.",
+      "ja": "友人の勧めでこのホテルを選んだ。"
+    }
+  ],
+  "check_points": [
+    "recommend that 節の中の動詞の形を言えるか",
+    "recommend の後ろに来る形を3つ言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "recommend that S (should) 原形、recommend doing が語法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 310
+    }
+  ]
+}
