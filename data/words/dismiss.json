@@ -1,0 +1,94 @@
+{
+  "word": "dismiss",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪsˈmɪs/",
+  "core_image": {
+    "text": "手で払って、向こうへ去らせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 92,70 108,58\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"158\" y2=\"96\"/><line x1=\"170\" y1=\"74\" x2=\"182\" y2=\"96\"/><line x1=\"188\" y1=\"40\" x2=\"220\" y2=\"40\"/><polyline points=\"213,36.2 220,40 213,43.8\"/></g><text x=\"90\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もういい</text><text x=\"200\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">去らせる</text></svg>"
+  },
+  "etymology": "dis(離れて) + miss(送る。mit と同じ) → 離れたところへ送る → 去らせる・解散させる → 解雇する → (考えを)退ける・相手にしない",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to send someone away, to remove someone from their job, or to refuse to consider an idea."
+    }
+  ],
+  "cautions": [
+    "dismiss A=Aを解散させる・Aを解雇する(fire より改まった言い方)",
+    "dismiss A as B=AをBだとして退ける・相手にしない",
+    "be dismissed from A=Aを解雇される",
+    "名詞 dismissal"
+  ],
+  "patterns": [
+    {
+      "form": "dismiss A",
+      "meaning": "Aを解散させる・解雇する"
+    },
+    {
+      "form": "dismiss A as B",
+      "meaning": "AをBだとして退ける"
+    },
+    {
+      "form": "be dismissed from A",
+      "meaning": "Aを解雇される"
+    },
+    {
+      "form": "dismiss the idea",
+      "meaning": "その考えを退ける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "解散させる",
+      "en": "The teacher dismissed the class ten minutes early.",
+      "ja": "先生は10分早く授業を終わらせた。"
+    },
+    {
+      "source": "original",
+      "label": "解雇する",
+      "en": "He was dismissed from his job for being late too often.",
+      "ja": "彼は遅刻が多すぎて解雇された。"
+    },
+    {
+      "source": "original",
+      "label": "dismiss A as B",
+      "en": "Many people dismissed his idea as a dream.",
+      "ja": "多くの人が彼の考えを夢物語だと相手にしなかった。"
+    },
+    {
+      "source": "original",
+      "label": "退ける",
+      "en": "The judge dismissed the case because there was no evidence.",
+      "ja": "証拠がなかったので、裁判官は訴えを退けた。"
+    },
+    {
+      "source": "original",
+      "label": "頭から追い払う",
+      "en": "She tried to dismiss the worry from her mind.",
+      "ja": "彼女はその心配を頭から追い払おうとした。"
+    },
+    {
+      "source": "original",
+      "label": "dismissal(名詞)",
+      "en": "The workers protested against his sudden dismissal.",
+      "ja": "労働者たちは彼の突然の解雇に抗議した。"
+    }
+  ],
+  "check_points": [
+    "mit / miss(送る)と dismiss のつながりを言えるか",
+    "dismiss A as B はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "dismiss A as B(退ける)が長文で出る。「解雇」「解散」も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 264
+    }
+  ]
+}

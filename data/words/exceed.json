@@ -1,0 +1,94 @@
+{
+  "word": "exceed",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪkˈsiːd/",
+  "core_image": {
+    "text": "決められた線を、外へはみ出して越える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"30\" y1=\"80\" x2=\"210\" y2=\"80\" stroke-dasharray=\"6 4\"/><rect x=\"50\" y=\"100\" width=\"24\" height=\"40\"/><rect x=\"90\" y=\"90\" width=\"24\" height=\"50\"/><rect x=\"130\" y=\"60\" width=\"24\" height=\"80\"/><line x1=\"170\" y1=\"100\" x2=\"170\" y2=\"52\"/><polyline points=\"166.2,59 170,52 173.8,59\"/></g><text x=\"200\" y=\"94\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">限度</text><text x=\"142\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">越える</text></svg>"
+  },
+  "etymology": "ex(外へ) + ceed(行く。proceed、succeed と同じ) → 外へ行く → 限度や量を越える → 上回る",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be more than a particular number or amount, or to go beyond a limit."
+    }
+  ],
+  "cautions": [
+    "exceed A=Aを越える・上回る。他動詞なので exceed over A としない",
+    "exceed the speed limit=制限速度を超える",
+    "exceed expectations=期待を上回る",
+    "形容詞 excessive=過度の、名詞 excess=超過"
+  ],
+  "patterns": [
+    {
+      "form": "exceed A",
+      "meaning": "Aを越える・上回る"
+    },
+    {
+      "form": "exceed the speed limit",
+      "meaning": "制限速度を超える"
+    },
+    {
+      "form": "exceed expectations",
+      "meaning": "期待を上回る"
+    },
+    {
+      "form": "excessive",
+      "meaning": "過度の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "越える",
+      "en": "The cost of the project exceeded one million yen.",
+      "ja": "その事業の費用は100万円を超えた。"
+    },
+    {
+      "source": "original",
+      "label": "制限を超える",
+      "en": "He was stopped by the police for exceeding the speed limit.",
+      "ja": "彼は制限速度を超えて警察に止められた。"
+    },
+    {
+      "source": "original",
+      "label": "上回る",
+      "en": "The results exceeded our expectations.",
+      "ja": "結果は私たちの期待を上回った。"
+    },
+    {
+      "source": "original",
+      "label": "(数を)上回る",
+      "en": "The number of visitors this year exceeded last year's.",
+      "ja": "今年の訪問者の数は昨年を上回った。"
+    },
+    {
+      "source": "original",
+      "label": "excessive(形容詞)",
+      "en": "Excessive use of smartphones can harm your eyes.",
+      "ja": "スマートフォンの使いすぎは目を傷めることがある。"
+    },
+    {
+      "source": "original",
+      "label": "excess(名詞)",
+      "en": "You must pay extra for an excess of baggage.",
+      "ja": "荷物の超過分には追加料金を払わなければならない。"
+    }
+  ],
+  "check_points": [
+    "exceed の後ろに前置詞が要るかどうか",
+    "proceed、succeed と exceed の共通部分の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "exceed(他動詞)、excessive が語彙問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 268
+    }
+  ]
+}

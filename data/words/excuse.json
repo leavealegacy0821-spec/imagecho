@@ -1,0 +1,99 @@
+{
+  "word": "excuse",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɪkˈskjuːz/",
+  "core_image": {
+    "text": "責めの外へ出して、許してやる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"36\" width=\"80\" height=\"104\" stroke-dasharray=\"4 4\"/><circle cx=\"160\" cy=\"52\" r=\"10\"/><line x1=\"160\" y1=\"62\" x2=\"160\" y2=\"106\"/><line x1=\"160\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"160\" y1=\"74\" x2=\"148\" y2=\"96\"/><line x1=\"160\" y1=\"74\" x2=\"172\" y2=\"96\"/><line x1=\"104\" y1=\"90\" x2=\"140\" y2=\"90\"/><polyline points=\"133,86.2 140,90 133,93.8\"/></g><text x=\"80\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">責め</text><text x=\"200\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">許される</text></svg>"
+  },
+  "etymology": "ex(外へ) + cuse(訴え・原因。cause、accuse と同じ) → 訴えの外へ出す → 許す・免除する → 許してもらうための理由=言い訳",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to forgive someone for something small, or to allow someone not to do something."
+    },
+    {
+      "pos": "名詞",
+      "text": "a reason you give to explain why you did something wrong."
+    }
+  ],
+  "cautions": [
+    "excuse A for doing=Aが〜したことを許す(forgive A for doing と同じ型)",
+    "excuse A from B=AのBを免除する",
+    "Excuse me.=すみません(呼びかけ・小さな失礼)",
+    "名詞は「言い訳」。make an excuse=言い訳をする。動詞と名詞で発音が違う(z/s)"
+  ],
+  "patterns": [
+    {
+      "form": "excuse A for doing",
+      "meaning": "Aが〜したことを許す"
+    },
+    {
+      "form": "excuse A from B",
+      "meaning": "AのBを免除する"
+    },
+    {
+      "form": "make an excuse",
+      "meaning": "言い訳をする"
+    },
+    {
+      "form": "Excuse me.",
+      "meaning": "すみません"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "excuse A for doing",
+      "en": "Please excuse me for being late.",
+      "ja": "遅れてすみません。"
+    },
+    {
+      "source": "original",
+      "label": "Excuse me",
+      "en": "Excuse me, but is this seat taken?",
+      "ja": "すみませんが、この席は空いていますか。"
+    },
+    {
+      "source": "original",
+      "label": "excuse A from B",
+      "en": "She was excused from the test because she was sick.",
+      "ja": "彼女は病気だったので、テストを免除された。"
+    },
+    {
+      "source": "original",
+      "label": "言い訳(名詞)",
+      "en": "He always makes an excuse for not doing his homework.",
+      "ja": "彼はいつも宿題をしない言い訳をする。"
+    },
+    {
+      "source": "original",
+      "label": "弁解にならない",
+      "en": "Being busy is no excuse for being rude.",
+      "ja": "忙しいことは、失礼な態度の言い訳にならない。"
+    },
+    {
+      "source": "original",
+      "label": "許す",
+      "en": "We can excuse a small mistake like that.",
+      "ja": "そのくらいの小さなミスは許せる。"
+    }
+  ],
+  "check_points": [
+    "accuse と excuse の共通部分(cuse)の意味を言えるか",
+    "動詞と名詞の発音のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "excuse A for doing、make an excuse が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 269
+    }
+  ]
+}

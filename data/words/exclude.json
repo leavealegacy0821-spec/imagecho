@@ -1,0 +1,94 @@
+{
+  "word": "exclude",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪkˈskluːd/",
+  "core_image": {
+    "text": "戸を閉めて、外に締め出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"90\" cy=\"90\" r=\"44\"/><circle cx=\"74\" cy=\"84\" r=\"6\"/><circle cx=\"96\" cy=\"76\" r=\"6\"/><circle cx=\"104\" cy=\"100\" r=\"6\"/><circle cx=\"80\" cy=\"106\" r=\"6\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"180\" y2=\"96\"/><line x1=\"190\" y1=\"74\" x2=\"200\" y2=\"96\"/></g><text x=\"90\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">仲間の中</text><text x=\"190\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">締め出し</text></svg>"
+  },
+  "etymology": "ex(外へ) + clude(閉じる。close と同じ) → 閉めて外に出す → 締め出す・除外する。反対は include(中に閉じ込める=含む)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to deliberately not include someone or something, or to prevent someone from entering or taking part."
+    }
+  ],
+  "cautions": [
+    "exclude A from B=AをBから除外する・締め出す",
+    "反対は include。excluding A=Aを除いて(including A=Aを含めて)",
+    "形容詞 exclusive=独占的な・高級な(an exclusive interview=独占インタビュー)",
+    "名詞 exclusion"
+  ],
+  "patterns": [
+    {
+      "form": "exclude A from B",
+      "meaning": "AをBから除外する"
+    },
+    {
+      "form": "be excluded from A",
+      "meaning": "Aから締め出される"
+    },
+    {
+      "form": "excluding A",
+      "meaning": "Aを除いて"
+    },
+    {
+      "form": "exclusive",
+      "meaning": "独占的な・高級な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "exclude A from B",
+      "en": "Women were once excluded from the club.",
+      "ja": "かつて女性はそのクラブから締め出されていた。"
+    },
+    {
+      "source": "original",
+      "label": "除外する",
+      "en": "We cannot exclude the possibility that he is lying.",
+      "ja": "彼がうそをついている可能性は排除できない。"
+    },
+    {
+      "source": "original",
+      "label": "仲間外れにする",
+      "en": "The other children excluded her from their game.",
+      "ja": "ほかの子どもたちは彼女を遊びに入れなかった。"
+    },
+    {
+      "source": "original",
+      "label": "excluding",
+      "en": "The price is 3,000 yen, excluding tax.",
+      "ja": "値段は税抜きで3000円だ。"
+    },
+    {
+      "source": "original",
+      "label": "include との比較",
+      "en": "The tour includes lunch but excludes dinner.",
+      "ja": "そのツアーは昼食込みだが、夕食は含まない。"
+    },
+    {
+      "source": "original",
+      "label": "exclusive(形容詞)",
+      "en": "The magazine got an exclusive interview with the singer.",
+      "ja": "その雑誌は歌手の独占インタビューを取った。"
+    }
+  ],
+  "check_points": [
+    "include と exclude のちがいを語源で言えるか",
+    "excluding tax はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "exclude A from B、exclusive(独占的な)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 270
+    }
+  ]
+}

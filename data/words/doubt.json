@@ -1,0 +1,103 @@
+{
+  "word": "doubt",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/daʊt/",
+  "core_image": {
+    "text": "「そうじゃないだろう」と、首をかしげる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><polyline points=\"90,74 106,64 104,50\"/><line x1=\"90\" y1=\"74\" x2=\"80\" y2=\"96\"/><path d=\"M144 36 Q144 24 156 24 Q168 24 168 36 Q168 46 156 50 L156 60\"/><circle cx=\"156\" cy=\"70\" r=\"2\"/></g><text x=\"200\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そうかな？</text><text x=\"90\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">首をかしげる</text></svg>"
+  },
+  "etymology": "ラテン語 dubitare(2つの間で迷う。double=2倍 と同じ根) → どちらか迷う → 疑う。b は書くが読まない",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to think that something is probably not true or will probably not happen."
+    },
+    {
+      "pos": "名詞",
+      "text": "a feeling of not being sure about something."
+    }
+  ],
+  "cautions": [
+    "doubt that S V=〜ではないと思う(否定寄り)。suspect that S V=〜だと思う(肯定寄り)と逆",
+    "no doubt / without doubt=疑いなく・きっと",
+    "There is no doubt that S V=〜は間違いない",
+    "b を発音しない(/daʊt/)"
+  ],
+  "patterns": [
+    {
+      "form": "doubt that S V",
+      "meaning": "〜ではないと思う"
+    },
+    {
+      "form": "doubt whether / if S V",
+      "meaning": "〜かどうか疑わしい"
+    },
+    {
+      "form": "no doubt",
+      "meaning": "きっと"
+    },
+    {
+      "form": "There is no doubt that",
+      "meaning": "〜は間違いない"
+    },
+    {
+      "form": "be in doubt",
+      "meaning": "はっきりしない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "doubt that",
+      "en": "I doubt that he will come to the party.",
+      "ja": "彼はパーティーに来ないと思う。"
+    },
+    {
+      "source": "original",
+      "label": "suspect との比較",
+      "en": "I doubt he is honest, and I suspect he is lying.",
+      "ja": "彼は正直ではないと思うし、うそをついているのではないかと思う。"
+    },
+    {
+      "source": "original",
+      "label": "doubt whether",
+      "en": "She doubted whether the plan would work.",
+      "ja": "彼女はその計画がうまくいくかどうか疑った。"
+    },
+    {
+      "source": "original",
+      "label": "no doubt",
+      "en": "No doubt you have heard the news already.",
+      "ja": "きっともうその知らせを聞いているでしょう。"
+    },
+    {
+      "source": "original",
+      "label": "There is no doubt",
+      "en": "There is no doubt that exercise is good for your health.",
+      "ja": "運動が健康によいことは間違いない。"
+    },
+    {
+      "source": "original",
+      "label": "疑い(名詞)",
+      "en": "If you are in doubt, ask your teacher.",
+      "ja": "はっきりしないときは先生に聞きなさい。"
+    }
+  ],
+  "check_points": [
+    "doubt that と suspect that の意味のちがいを言えるか",
+    "doubt の b を読むかどうか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "doubt(〜ではないと思う)と suspect(〜だと思う)の区別が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 265
+    }
+  ]
+}

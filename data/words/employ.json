@@ -1,0 +1,98 @@
+{
+  "word": "employ",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪmˈplɔɪ/",
+  "core_image": {
+    "text": "人や物を中に入れて、役に立たせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"110\" y=\"56\" width=\"100\" height=\"84\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"72\" y2=\"96\"/><line x1=\"82\" y1=\"80\" x2=\"120\" y2=\"90\"/><polyline points=\"114.2,84.5 120,90 112.2,91.9\"/><line x1=\"140\" y1=\"110\" x2=\"180\" y2=\"110\"/><line x1=\"140\" y1=\"122\" x2=\"180\" y2=\"122\"/></g><text x=\"160\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">会社</text><text x=\"60\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">中に入れる</text></svg>"
+  },
+  "etymology": "em(中に) + ploy(たたむ・包む。ply と同じ) → 中に包み込む → 人を中に入れて雇う → 物や方法を使う",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give someone a job and pay them, or to use something for a purpose."
+    }
+  ],
+  "cautions": [
+    "employ A=Aを雇う。be employed by / at A=Aに雇われている",
+    "employ A=A(方法・道具)を用いる(use より改まった言い方)",
+    "employer=雇う人、employee=雇われる人(-ee は「される側」)",
+    "名詞 employment=雇用、unemployment=失業"
+  ],
+  "patterns": [
+    {
+      "form": "employ A",
+      "meaning": "Aを雇う"
+    },
+    {
+      "form": "be employed by A",
+      "meaning": "Aに雇われている"
+    },
+    {
+      "form": "employ A (as B)",
+      "meaning": "Aを(Bとして)用いる"
+    },
+    {
+      "form": "employer / employee",
+      "meaning": "雇い主/従業員"
+    },
+    {
+      "form": "employment",
+      "meaning": "雇用"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "雇う",
+      "en": "The factory employs about 500 people.",
+      "ja": "その工場は約500人を雇っている。"
+    },
+    {
+      "source": "original",
+      "label": "be employed by",
+      "en": "My sister is employed by a large bank.",
+      "ja": "姉は大手銀行に勤めている。"
+    },
+    {
+      "source": "original",
+      "label": "用いる",
+      "en": "The teacher employed a new method to teach grammar.",
+      "ja": "先生は文法を教えるのに新しい方法を使った。"
+    },
+    {
+      "source": "original",
+      "label": "employer と employee",
+      "en": "The employer and the employees discussed working hours.",
+      "ja": "雇い主と従業員が労働時間について話し合った。"
+    },
+    {
+      "source": "original",
+      "label": "employment(名詞)",
+      "en": "The new factory will create employment for local people.",
+      "ja": "新しい工場は地元の人々に仕事を生むだろう。"
+    },
+    {
+      "source": "original",
+      "label": "unemployment(名詞)",
+      "en": "Unemployment is a serious problem among young people.",
+      "ja": "失業は若者の間で深刻な問題だ。"
+    }
+  ],
+  "check_points": [
+    "employer と employee のちがいを言えるか",
+    "employ の「雇う」以外の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "employer / employee の区別、employment / unemployment が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 266
+    }
+  ]
+}
