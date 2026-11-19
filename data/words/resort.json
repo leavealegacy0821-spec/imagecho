@@ -1,0 +1,99 @@
+{
+  "word": "resort",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/rɪˈzɔːrt/",
+  "core_image": {
+    "text": "困りはてて、最後にたどりつく先",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><polyline points=\"40,74 52,66 58,62\"/><line x1=\"40\" y1=\"74\" x2=\"30\" y2=\"96\"/><line x1=\"60\" y1=\"50\" x2=\"172\" y2=\"50\"/><polyline points=\"165,46.2 172,50 165,53.8\"/><rect x=\"80\" y=\"90\" width=\"30\" height=\"50\"/><line x1=\"80\" y1=\"90\" x2=\"110\" y2=\"140\"/><line x1=\"110\" y1=\"90\" x2=\"80\" y2=\"140\"/><rect x=\"180\" y=\"80\" width=\"40\" height=\"60\"/></g><text x=\"200\" y=\"72\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">最後の手</text><text x=\"95\" y=\"82\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">だめ</text></svg>"
+  },
+  "etymology": "re(再び) + sort(出かける。古フランス語 sortir) → 何度も出かけていく → (人が集まる)行楽地 → (ほかに手がなく)頼る・訴える",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to do something that you do not want to do because there is no other way."
+    },
+    {
+      "pos": "名詞",
+      "text": "a place where people go for a holiday, or something you use when nothing else works."
+    }
+  ],
+  "cautions": [
+    "resort to A / doing=(仕方なく)Aに訴える・頼る(to は前置詞なので doing)",
+    "as a last resort=最後の手段として",
+    "名詞 resort=行楽地・リゾート(a ski resort)",
+    "resort to violence / force=暴力・力に訴える の形でよく出る"
+  ],
+  "patterns": [
+    {
+      "form": "resort to A",
+      "meaning": "Aに訴える"
+    },
+    {
+      "form": "resort to doing",
+      "meaning": "(仕方なく)〜する"
+    },
+    {
+      "form": "as a last resort",
+      "meaning": "最後の手段として"
+    },
+    {
+      "form": "a holiday resort",
+      "meaning": "行楽地"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "resort to A",
+      "en": "We should never resort to violence.",
+      "ja": "決して暴力に訴えてはならない。"
+    },
+    {
+      "source": "original",
+      "label": "resort to doing",
+      "en": "He resorted to borrowing money from his friends.",
+      "ja": "彼は仕方なく友人から金を借りた。"
+    },
+    {
+      "source": "original",
+      "label": "as a last resort",
+      "en": "As a last resort, they called the police.",
+      "ja": "最後の手段として、彼らは警察を呼んだ。"
+    },
+    {
+      "source": "original",
+      "label": "頼る",
+      "en": "Without a map, we had to resort to asking for directions.",
+      "ja": "地図がなかったので、道を尋ねるしかなかった。"
+    },
+    {
+      "source": "original",
+      "label": "行楽地",
+      "en": "They spent their vacation at a beach resort.",
+      "ja": "彼らは海辺のリゾートで休暇を過ごした。"
+    },
+    {
+      "source": "original",
+      "label": "手段",
+      "en": "Surgery is the only resort left.",
+      "ja": "手術が残された唯一の手段だ。"
+    }
+  ],
+  "check_points": [
+    "resort to doing の to が前置詞であることを言えるか",
+    "as a last resort の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "resort to A / doing(to は前置詞)と as a last resort が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 374
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "postpone",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/poʊstˈpoʊn/",
+  "core_image": {
+    "text": "予定を、後ろの日へずらして置く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"60\" width=\"50\" height=\"50\" stroke-dasharray=\"4 4\"/><line x1=\"30\" y1=\"72\" x2=\"80\" y2=\"72\"/><line x1=\"90\" y1=\"85\" x2=\"150\" y2=\"85\"/><polyline points=\"143,81.2 150,85 143,88.8\"/><rect x=\"160\" y=\"60\" width=\"50\" height=\"50\"/><line x1=\"160\" y1=\"72\" x2=\"210\" y2=\"72\"/><line x1=\"174\" y1=\"90\" x2=\"196\" y2=\"90\"/></g><text x=\"55\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">予定</text><text x=\"185\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">後日</text></svg>"
+  },
+  "etymology": "post(後に。postwar と同じ) + pone(置く。opponent、component と同じ) → 後ろに置く → 延期する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to change the time of an event to a later time."
+    }
+  ],
+  "cautions": [
+    "postpone doing=〜するのを延期する(to do は×。動名詞を取る動詞)",
+    "postpone A until / to B=AをBまで延期する",
+    "put off と言い換え(cancel=中止する とは別)",
+    "名詞 postponement=延期"
+  ],
+  "patterns": [
+    {
+      "form": "postpone A",
+      "meaning": "Aを延期する"
+    },
+    {
+      "form": "postpone doing",
+      "meaning": "〜するのを延期する"
+    },
+    {
+      "form": "postpone A until B",
+      "meaning": "AをBまで延期する"
+    },
+    {
+      "form": "be postponed",
+      "meaning": "延期される"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "延期する",
+      "en": "The game was postponed because of the rain.",
+      "ja": "雨のため試合は延期された。"
+    },
+    {
+      "source": "original",
+      "label": "postpone A until B",
+      "en": "We postponed the meeting until next Monday.",
+      "ja": "私たちは会議を来週の月曜まで延期した。"
+    },
+    {
+      "source": "original",
+      "label": "postpone doing",
+      "en": "They decided to postpone buying a new car.",
+      "ja": "彼らは新車を買うのを先に延ばすことにした。"
+    },
+    {
+      "source": "original",
+      "label": "put off との言い換え",
+      "en": "Don't postpone, or put off, your homework.",
+      "ja": "宿題を後回しにしてはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "cancel との違い",
+      "en": "The concert was not canceled, only postponed.",
+      "ja": "コンサートは中止ではなく、延期されただけだった。"
+    },
+    {
+      "source": "original",
+      "label": "postponement(名詞)",
+      "en": "The postponement of the trip disappointed the children.",
+      "ja": "旅行の延期に子どもたちはがっかりした。"
+    }
+  ],
+  "check_points": [
+    "postpone の後ろは to do か doing か言えるか",
+    "put off で言い換えられるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "postpone doing(動名詞)と put off との言い換えが語法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 373
+    }
+  ]
+}

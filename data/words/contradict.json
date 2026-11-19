@@ -1,0 +1,94 @@
+{
+  "word": "contradict",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˌkɑːntrəˈdɪkt/",
+  "core_image": {
+    "text": "相手の言葉に、反対の言葉をぶつける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"54\" y2=\"92\"/><line x1=\"40\" y1=\"74\" x2=\"30\" y2=\"96\"/><line x1=\"56\" y1=\"56\" x2=\"114\" y2=\"56\"/><polyline points=\"107,52.2 114,56 107,59.8\"/><line x1=\"184\" y1=\"56\" x2=\"126\" y2=\"56\"/><polyline points=\"133,59.8 126,56 133,52.2\"/><line x1=\"120\" y1=\"42\" x2=\"120\" y2=\"70\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"186\" y2=\"92\"/><line x1=\"200\" y1=\"74\" x2=\"210\" y2=\"96\"/></g><text x=\"60\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">白だ</text><text x=\"180\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">黒だ</text></svg>"
+  },
+  "etymology": "contra(反対に。contrary、contrast と同じ) + dict(言う。predict、dictionary と同じ) → 反対のことを言う → 反論する → (事実・話が)食い違う・矛盾する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say the opposite of what someone else has said, or to be so different that both cannot be true."
+    }
+  ],
+  "cautions": [
+    "contradict A=Aに反論する・Aと矛盾する(他動詞。contradict against A は×)",
+    "主語が事実・証拠でもよい(The evidence contradicts his story.)",
+    "contradict oneself=(言うことが)矛盾する",
+    "名詞 contradiction=矛盾。形容詞 contradictory=矛盾した"
+  ],
+  "patterns": [
+    {
+      "form": "contradict A",
+      "meaning": "Aに反論する・Aと矛盾する"
+    },
+    {
+      "form": "contradict oneself",
+      "meaning": "前後で矛盾したことを言う"
+    },
+    {
+      "form": "contradiction",
+      "meaning": "矛盾"
+    },
+    {
+      "form": "contradictory",
+      "meaning": "矛盾した"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "反論する",
+      "en": "It is not polite to contradict your teacher in front of the class.",
+      "ja": "クラスの前で先生に反論するのは失礼だ。"
+    },
+    {
+      "source": "original",
+      "label": "(事実が)矛盾する",
+      "en": "The new evidence contradicts his story.",
+      "ja": "新しい証拠は彼の話と食い違っている。"
+    },
+    {
+      "source": "original",
+      "label": "contradict oneself",
+      "en": "The witness kept contradicting himself.",
+      "ja": "その証人は言うことが前後で矛盾し続けた。"
+    },
+    {
+      "source": "original",
+      "label": "A and B contradict each other",
+      "en": "The two reports contradict each other.",
+      "ja": "その2つの報告は互いに矛盾している。"
+    },
+    {
+      "source": "original",
+      "label": "contradiction(名詞)",
+      "en": "There is a contradiction between what he says and what he does.",
+      "ja": "彼の言うこととやることには矛盾がある。"
+    },
+    {
+      "source": "original",
+      "label": "contradictory(形容詞)",
+      "en": "We received contradictory information about the time.",
+      "ja": "時刻について食い違う情報を受け取った。"
+    }
+  ],
+  "check_points": [
+    "contradict が他動詞で against が要らないことを言えるか",
+    "dict=言う の仲間(predict など)を1つ言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "contradict(他動詞)、contradiction・contradictory が長文の論理展開で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 379
+    }
+  ]
+}

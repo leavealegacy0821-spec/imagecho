@@ -1,0 +1,94 @@
+{
+  "word": "confine",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈfaɪn/",
+  "core_image": {
+    "text": "境界線の内側に、ぎゅっと閉じこめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"60\" y=\"30\" width=\"120\" height=\"110\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"96\" y2=\"90\"/><line x1=\"120\" y1=\"74\" x2=\"144\" y2=\"90\"/><line x1=\"24\" y1=\"85\" x2=\"54\" y2=\"85\"/><polyline points=\"47,81.2 54,85 47,88.8\"/><line x1=\"216\" y1=\"85\" x2=\"186\" y2=\"85\"/><polyline points=\"193,88.8 186,85 193,81.2\"/></g><text x=\"120\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">この中だけ</text></svg>"
+  },
+  "etymology": "con(すっかり) + fine(境界・終わり。final、define と同じ) → 境界の中に入れる → (範囲を)限る → (人を)閉じこめる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to keep something within limits, or to keep a person or animal in a closed place."
+    }
+  ],
+  "cautions": [
+    "confine A to B=AをBに限る(limit A to B と同じ型。to は前置詞)",
+    "be confined to A=Aに限られている/A(ベッド・家)から出られない",
+    "confine oneself to A=Aだけにとどめる",
+    "名詞 confinement=監禁・制限。複数形 confines=境界・範囲"
+  ],
+  "patterns": [
+    {
+      "form": "confine A to B",
+      "meaning": "AをBに限る"
+    },
+    {
+      "form": "be confined to A",
+      "meaning": "Aに限られる・Aから出られない"
+    },
+    {
+      "form": "confine oneself to A",
+      "meaning": "Aだけにとどめる"
+    },
+    {
+      "form": "be confined in A",
+      "meaning": "Aに閉じこめられる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "confine A to B",
+      "en": "Please confine your speech to five minutes.",
+      "ja": "スピーチは5分以内にしてください。"
+    },
+    {
+      "source": "original",
+      "label": "be confined to(限られる)",
+      "en": "The problem is not confined to Japan.",
+      "ja": "その問題は日本に限ったことではない。"
+    },
+    {
+      "source": "original",
+      "label": "be confined to bed",
+      "en": "He was confined to bed with a fever for a week.",
+      "ja": "彼は熱で1週間寝たきりだった。"
+    },
+    {
+      "source": "original",
+      "label": "閉じこめる",
+      "en": "The dog was confined in a small cage.",
+      "ja": "その犬は小さなおりに閉じこめられていた。"
+    },
+    {
+      "source": "original",
+      "label": "confine oneself to",
+      "en": "I will confine myself to a few comments.",
+      "ja": "いくつか意見を述べるだけにとどめます。"
+    },
+    {
+      "source": "original",
+      "label": "limit との言い換え",
+      "en": "The damage was confined, or limited, to the first floor.",
+      "ja": "被害は1階だけにとどまった。"
+    }
+  ],
+  "check_points": [
+    "be not confined to A の意味を言えるか",
+    "confine A to B を limit で言い換えられるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be confined to A(限られる/寝たきり)と limit A to B との言い換えが狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 378
+    }
+  ]
+}

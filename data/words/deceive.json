@@ -1,0 +1,98 @@
+{
+  "word": "deceive",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈsiːv/",
+  "core_image": {
+    "text": "相手をわなにかけて、まんまとつかまえる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"52\" y2=\"90\"/><line x1=\"40\" y1=\"74\" x2=\"30\" y2=\"96\"/><line x1=\"52\" y1=\"90\" x2=\"140\" y2=\"112\" stroke-dasharray=\"4 4\"/><rect x=\"100\" y=\"80\" width=\"60\" height=\"24\"/><line x1=\"140\" y1=\"104\" x2=\"140\" y2=\"140\"/><circle cx=\"120\" cy=\"132\" r=\"6\"/><line x1=\"184\" y1=\"124\" x2=\"152\" y2=\"124\"/><polyline points=\"159,127.8 152,124 159,120.2\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"186\" y2=\"92\"/><line x1=\"200\" y1=\"74\" x2=\"212\" y2=\"94\"/></g><text x=\"130\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">わな</text><text x=\"200\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">だまされる</text></svg>"
+  },
+  "etymology": "de(離れて・悪く) + ceive(取る。receive と同じ) → わなで取る → (人を)だます → deceive oneself=思いこむ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone believe something that is not true."
+    }
+  ],
+  "cautions": [
+    "deceive A=Aをだます(cheat、fool と近い)",
+    "deceive A into doing=Aをだまして〜させる(trick A into doing と同じ型)",
+    "be deceived by A=Aにだまされる",
+    "名詞 deception / deceit=だますこと。形容詞 deceptive=人を惑わす(見かけと違う)"
+  ],
+  "patterns": [
+    {
+      "form": "deceive A",
+      "meaning": "Aをだます"
+    },
+    {
+      "form": "deceive A into doing",
+      "meaning": "Aをだまして〜させる"
+    },
+    {
+      "form": "be deceived by A",
+      "meaning": "Aにだまされる"
+    },
+    {
+      "form": "deceive oneself",
+      "meaning": "自分をごまかす"
+    },
+    {
+      "form": "deceptive",
+      "meaning": "見かけと違う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "だます",
+      "en": "He deceived his friends about his past.",
+      "ja": "彼は自分の過去について友人たちをだました。"
+    },
+    {
+      "source": "original",
+      "label": "deceive A into doing",
+      "en": "The man deceived the old woman into giving him money.",
+      "ja": "男は老婦人をだましてお金を出させた。"
+    },
+    {
+      "source": "original",
+      "label": "be deceived by",
+      "en": "Don't be deceived by his friendly smile.",
+      "ja": "彼の人なつこい笑顔にだまされてはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "deceive oneself",
+      "en": "You are only deceiving yourself if you think it's easy.",
+      "ja": "簡単だと思っているなら、自分をごまかしているだけだ。"
+    },
+    {
+      "source": "original",
+      "label": "見た目が惑わす",
+      "en": "Appearances can deceive.",
+      "ja": "見かけは当てにならないものだ。"
+    },
+    {
+      "source": "original",
+      "label": "deceptive(形容詞)",
+      "en": "The calm sea was deceptive; a storm was coming.",
+      "ja": "穏やかな海は見せかけで、嵐が近づいていた。"
+    }
+  ],
+  "check_points": [
+    "deceive A into doing の型を言えるか",
+    "receive と deceive の共通部分(ceive=取る)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "deceive A into doing の型と、Appearances can deceive. の言い回しが出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 377
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "inhabit",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈhæbɪt/",
+  "core_image": {
+    "text": "その場所の中に、ずっと住みついている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"40,70 120,22 200,70\"/><line x1=\"56\" y1=\"61\" x2=\"56\" y2=\"140\"/><line x1=\"184\" y1=\"61\" x2=\"184\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"106\" y2=\"96\"/><line x1=\"120\" y1=\"74\" x2=\"134\" y2=\"96\"/></g><text x=\"82\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">中に</text><text x=\"120\" y=\"14\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">住みつく</text></svg>"
+  },
+  "etymology": "in(中に) + habit(住む・持つ。habitat と同じ) → 中に住む → (人・動物が場所に)住む・生息する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to live in a particular place."
+    }
+  ],
+  "cautions": [
+    "inhabit A=Aに住む(他動詞。inhabit in A は×。live in A と同じ意味)",
+    "主語は集団・動物が多い(Many birds inhabit the island.)",
+    "名詞 inhabitant=住民、habitat=生息地。形容詞 uninhabited=無人の",
+    "inhibit(抑える)とつづりが似ているので注意"
+  ],
+  "patterns": [
+    {
+      "form": "inhabit A",
+      "meaning": "Aに住む・生息する"
+    },
+    {
+      "form": "be inhabited by A",
+      "meaning": "Aが住んでいる"
+    },
+    {
+      "form": "inhabitant",
+      "meaning": "住民"
+    },
+    {
+      "form": "uninhabited",
+      "meaning": "人の住んでいない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "生息する",
+      "en": "Many rare birds inhabit this island.",
+      "ja": "この島には多くの珍しい鳥が生息している。"
+    },
+    {
+      "source": "original",
+      "label": "住む",
+      "en": "The area was once inhabited by farmers.",
+      "ja": "その地域にはかつて農民が住んでいた。"
+    },
+    {
+      "source": "original",
+      "label": "live in との言い換え",
+      "en": "People who inhabit, or live in, cities face different problems.",
+      "ja": "都市に住む人々は別の問題を抱えている。"
+    },
+    {
+      "source": "original",
+      "label": "inhabitant(名詞)",
+      "en": "The town has about 5,000 inhabitants.",
+      "ja": "その町の住民は約5000人だ。"
+    },
+    {
+      "source": "original",
+      "label": "uninhabited(形容詞)",
+      "en": "They landed on an uninhabited island.",
+      "ja": "彼らは無人島に上陸した。"
+    },
+    {
+      "source": "original",
+      "label": "habitat(名詞)",
+      "en": "Pandas are losing their natural habitat.",
+      "ja": "パンダは自然の生息地を失いつつある。"
+    }
+  ],
+  "check_points": [
+    "inhabit が他動詞で in が要らないことを言えるか",
+    "inhabitant と habitat の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "inhabit A(他動詞)と live in A の言い換え、inhabitant が語法・長文に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 380
+    }
+  ]
+}
