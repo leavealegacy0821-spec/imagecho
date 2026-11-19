@@ -1,0 +1,94 @@
+{
+  "word": "accommodate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈkɑːmədeɪt/",
+  "core_image": {
+    "text": "型に合わせて、中にすっぽり受け入れる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"30,60 120,20 210,60\"/><rect x=\"40\" y=\"60\" width=\"160\" height=\"80\"/><circle cx=\"80\" cy=\"100\" r=\"6\"/><line x1=\"80\" y1=\"106\" x2=\"80\" y2=\"126\"/><line x1=\"80\" y1=\"126\" x2=\"74\" y2=\"140\"/><line x1=\"80\" y1=\"126\" x2=\"86\" y2=\"140\"/><circle cx=\"120\" cy=\"100\" r=\"6\"/><line x1=\"120\" y1=\"106\" x2=\"120\" y2=\"126\"/><line x1=\"120\" y1=\"126\" x2=\"114\" y2=\"140\"/><line x1=\"120\" y1=\"126\" x2=\"126\" y2=\"140\"/><circle cx=\"160\" cy=\"100\" r=\"6\"/><line x1=\"160\" y1=\"106\" x2=\"160\" y2=\"126\"/><line x1=\"160\" y1=\"126\" x2=\"154\" y2=\"140\"/><line x1=\"160\" y1=\"126\" x2=\"166\" y2=\"140\"/></g><text x=\"120\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">みんな入る</text></svg>"
+  },
+  "etymology": "ac(ad=〜へ) + com(すっかり) + mod(型・寸法。modify、mode と同じ) → 型に合わせる → (人数を)収容する・泊める → (要求に)合わせる・便宜を図る → (自分を)合わせる・適応させる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to provide space for people or things, or to change something to suit someone's needs."
+    }
+  ],
+  "cautions": [
+    "「収容できる」は The hall accommodates 500 people. のように、建物・乗り物が主語",
+    "accommodate A=Aの要求に合わせる・便宜を図る",
+    "accommodate oneself to A=Aに適応する(adapt oneself to A と同じ)",
+    "名詞 accommodation(s)=宿泊設備。つづりは c も m も2つ"
+  ],
+  "patterns": [
+    {
+      "form": "A accommodates B",
+      "meaning": "AはBを収容できる"
+    },
+    {
+      "form": "accommodate A",
+      "meaning": "Aの要求に応じる"
+    },
+    {
+      "form": "accommodate oneself to A",
+      "meaning": "Aに適応する"
+    },
+    {
+      "form": "accommodation",
+      "meaning": "宿泊設備"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "収容できる",
+      "en": "This hotel can accommodate 300 guests.",
+      "ja": "このホテルは300人の客を収容できる。"
+    },
+    {
+      "source": "original",
+      "label": "泊める",
+      "en": "We can accommodate you for a few nights.",
+      "ja": "数晩ならあなたを泊めてあげられます。"
+    },
+    {
+      "source": "original",
+      "label": "要求に応じる",
+      "en": "The school tries to accommodate students with special needs.",
+      "ja": "その学校は特別な支援が必要な生徒に配慮しようとしている。"
+    },
+    {
+      "source": "original",
+      "label": "accommodate oneself to",
+      "en": "She quickly accommodated herself to life in Tokyo.",
+      "ja": "彼女はすぐに東京の生活に適応した。"
+    },
+    {
+      "source": "original",
+      "label": "合わせる",
+      "en": "We changed the schedule to accommodate the guest speaker.",
+      "ja": "講演者の都合に合わせて予定を変えた。"
+    },
+    {
+      "source": "original",
+      "label": "accommodation(名詞)",
+      "en": "The price includes travel and accommodation.",
+      "ja": "料金には交通費と宿泊費が含まれている。"
+    }
+  ],
+  "check_points": [
+    "accommodate の主語が建物のときの意味を言えるか",
+    "accommodate oneself to A を adapt で言い換えられるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「収容する」と accommodation(宿泊設備)が長文・語彙で狙われる。つづりも注意。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 341
+    }
+  ]
+}

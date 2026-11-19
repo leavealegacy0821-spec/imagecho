@@ -1,0 +1,94 @@
+{
+  "word": "confuse",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈfjuːz/",
+  "core_image": {
+    "text": "いくつものものを、混ぜてごちゃごちゃにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"95\" r=\"20\"/><rect x=\"78\" y=\"80\" width=\"34\" height=\"34\"/><path d=\"M40 70 Q75 50 110 64\"/><line x1=\"108\" y1=\"63\" x2=\"114\" y2=\"66\"/><polyline points=\"109.4,59.4 114,66 106,66.3\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><polyline points=\"180,74 198,66 194,50\"/><line x1=\"180\" y1=\"74\" x2=\"170\" y2=\"96\"/></g><text x=\"80\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ごちゃまぜ</text><text x=\"180\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どっち?</text></svg>"
+  },
+  "etymology": "con(いっしょに) + fuse(注ぐ。refuse、fusion と同じ) → いっしょに注いで混ぜる → 混同する → (頭の中が混ざって)困惑させる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone unable to think clearly or understand, or to mistake one person or thing for another."
+    }
+  ],
+  "cautions": [
+    "confuse A with B=AをBと混同する(mistake A for B と同じ)",
+    "「困惑させる」なので人が主語なら be confused(困惑している)",
+    "confusing=(物事が)わかりにくい、confused=(人が)とまどった",
+    "名詞 confusion=混乱・混同"
+  ],
+  "patterns": [
+    {
+      "form": "confuse A with B",
+      "meaning": "AをBと混同する"
+    },
+    {
+      "form": "be confused about A",
+      "meaning": "Aについて困惑している"
+    },
+    {
+      "form": "confusing",
+      "meaning": "わかりにくい"
+    },
+    {
+      "form": "confusion",
+      "meaning": "混乱"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "confuse A with B",
+      "en": "People often confuse him with his brother.",
+      "ja": "人はよく彼を兄と取り違える。"
+    },
+    {
+      "source": "original",
+      "label": "混同する",
+      "en": "Don't confuse \"affect\" and \"effect.\"",
+      "ja": "affect と effect を混同しないように。"
+    },
+    {
+      "source": "original",
+      "label": "困惑させる",
+      "en": "His long explanation only confused me.",
+      "ja": "彼の長い説明で私はかえって混乱した。"
+    },
+    {
+      "source": "original",
+      "label": "be confused",
+      "en": "I'm confused about what to do next.",
+      "ja": "次に何をすればいいのか、わからなくなっている。"
+    },
+    {
+      "source": "original",
+      "label": "confusing(形容詞)",
+      "en": "The instructions were very confusing.",
+      "ja": "その説明書はとてもわかりにくかった。"
+    },
+    {
+      "source": "original",
+      "label": "confusion(名詞)",
+      "en": "There was some confusion about the time of the meeting.",
+      "ja": "会議の時間について混乱があった。"
+    }
+  ],
+  "check_points": [
+    "confuse A with B を mistake で言い換えられるか",
+    "confusing と confused の使い分けを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "confusing / confused の選択と confuse A with B が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 348
+    }
+  ]
+}

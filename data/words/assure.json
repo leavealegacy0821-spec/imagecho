@@ -1,0 +1,94 @@
+{
+  "word": "assure",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈʃʊr/",
+  "core_image": {
+    "text": "相手に「確かだ」と言い切って、安心させる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 92,80 104,78\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"160\" y2=\"96\"/><line x1=\"170\" y1=\"74\" x2=\"180\" y2=\"96\"/></g><text x=\"72\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">大丈夫、確かだ</text><text x=\"170\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">安心</text></svg>"
+  },
+  "etymology": "as(ad=〜へ) + sure(確かな) → (相手に)確かにする → 保証する・請け合う・安心させる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to tell someone that something is definitely true so that they are less worried."
+    }
+  ],
+  "cautions": [
+    "assure A of B / assure A that S V=AにBを・〜だと保証する(相手=人が目的語)",
+    "ensure that S V / ensure A=〜を確実にする(人は目的語にしない)と区別",
+    "insure=保険をかける。3つとも sure が根",
+    "rest assured that S V=〜だから安心して。名詞 assurance=保証"
+  ],
+  "patterns": [
+    {
+      "form": "assure A of B",
+      "meaning": "AにBを保証する"
+    },
+    {
+      "form": "assure A that S V",
+      "meaning": "Aに〜だと請け合う"
+    },
+    {
+      "form": "rest assured that S V",
+      "meaning": "〜なのでご安心を"
+    },
+    {
+      "form": "assurance",
+      "meaning": "保証・確信"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "assure A that",
+      "en": "The doctor assured me that the operation was safe.",
+      "ja": "医師は手術は安全だと私に請け合った。"
+    },
+    {
+      "source": "original",
+      "label": "assure A of B",
+      "en": "The company assured customers of the quality of its products.",
+      "ja": "会社は客に製品の品質を保証した。"
+    },
+    {
+      "source": "original",
+      "label": "安心させる",
+      "en": "\"Don't worry,\" she assured him.",
+      "ja": "「心配しないで」と彼女は彼を安心させた。"
+    },
+    {
+      "source": "original",
+      "label": "rest assured",
+      "en": "Rest assured that we will do our best.",
+      "ja": "全力を尽くしますのでご安心ください。"
+    },
+    {
+      "source": "original",
+      "label": "ensure との比較",
+      "en": "He assured us that he would ensure everyone's safety.",
+      "ja": "彼は全員の安全を確保すると私たちに約束した。"
+    },
+    {
+      "source": "original",
+      "label": "assurance(名詞)",
+      "en": "She gave me her assurance that she would come.",
+      "ja": "彼女は必ず来ると私に約束した。"
+    }
+  ],
+  "check_points": [
+    "assure と ensure の目的語の違いを言えるか",
+    "assure A of B の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "assure / ensure / insure の区別、assure A of B の of が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 344
+    }
+  ]
+}

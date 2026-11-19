@@ -1,0 +1,99 @@
+{
+  "word": "blame",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/bleɪm/",
+  "core_image": {
+    "text": "悪い結果の原因として、相手を指さす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"110\" y2=\"66\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><line x1=\"116\" y1=\"65\" x2=\"150\" y2=\"61\"/><polyline points=\"142.6,58 150,61 143.5,65.6\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"166\" y2=\"62\"/><line x1=\"180\" y1=\"74\" x2=\"194\" y2=\"62\"/></g><text x=\"60\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">おまえのせいだ</text><text x=\"180\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">責任</text></svg>"
+  },
+  "etymology": "ラテン語 blasphemare(悪く言う。blaspheme と同じ) → 悪いと言う → 責める・〜のせいにする → 責任",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say or think that someone is responsible for something bad."
+    },
+    {
+      "pos": "名詞",
+      "text": "responsibility for something bad."
+    }
+  ],
+  "cautions": [
+    "blame A for B=BのことでAを責める(A=人、B=悪いこと)",
+    "blame B on A=BをAのせいにする(前置詞が変わると A と B の位置が逆)",
+    "A is to blame (for B)=(Bの)責任はAにある(受け身の to be blamed ではない)",
+    "名詞 take the blame for A=Aの責任を負う"
+  ],
+  "patterns": [
+    {
+      "form": "blame A for B",
+      "meaning": "BのことでAを責める"
+    },
+    {
+      "form": "blame B on A",
+      "meaning": "BをAのせいにする"
+    },
+    {
+      "form": "A is to blame (for B)",
+      "meaning": "(Bの)責任はAにある"
+    },
+    {
+      "form": "take the blame for A",
+      "meaning": "Aの責任を負う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "blame A for B",
+      "en": "Don't blame yourself for the accident.",
+      "ja": "事故のことで自分を責めないで。"
+    },
+    {
+      "source": "original",
+      "label": "blame B on A",
+      "en": "He blamed the mistake on his partner.",
+      "ja": "彼はその失敗を相棒のせいにした。"
+    },
+    {
+      "source": "original",
+      "label": "be to blame",
+      "en": "Nobody is to blame for the delay.",
+      "ja": "遅れはだれのせいでもない。"
+    },
+    {
+      "source": "original",
+      "label": "責める",
+      "en": "I don't blame you for being angry.",
+      "ja": "君が怒るのも無理はない。"
+    },
+    {
+      "source": "original",
+      "label": "take the blame",
+      "en": "The captain took the blame for the loss.",
+      "ja": "キャプテンが敗戦の責任を負った。"
+    },
+    {
+      "source": "original",
+      "label": "責任(名詞)",
+      "en": "They put the blame on the weather.",
+      "ja": "彼らは天気のせいにした。"
+    }
+  ],
+  "check_points": [
+    "blame A for B と blame B on A を書きかえられるか",
+    "be to blame の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "blame A for B ⇔ blame B on A の書きかえと be to blame が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 345
+    }
+  ]
+}

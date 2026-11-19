@@ -1,0 +1,98 @@
+{
+  "word": "acknowledge",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əkˈnɑːlɪdʒ/",
+  "core_image": {
+    "text": "知っていることを、はっきり表に出して認める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><polyline points=\"80,74 98,56 104,40\"/><line x1=\"80\" y1=\"74\" x2=\"70\" y2=\"96\"/><rect x=\"150\" y=\"80\" width=\"50\" height=\"60\"/><line x1=\"160\" y1=\"95\" x2=\"190\" y2=\"95\"/><line x1=\"160\" y1=\"110\" x2=\"190\" y2=\"110\"/><line x1=\"160\" y1=\"125\" x2=\"190\" y2=\"125\"/></g><text x=\"80\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">はい、認めます</text><text x=\"175\" y=\"72\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">事実</text></svg>"
+  },
+  "etymology": "knowledge(知っていること)が中に入っている → 知っていると表に出す → (事実を)認める → (受け取ったと)知らせる → (人の働きを)認めて感謝する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to accept or admit that something is true, or to show that you have received or noticed something."
+    }
+  ],
+  "cautions": [
+    "acknowledge that S V / acknowledge doing=〜を(しぶしぶ)認める。admit とほぼ同じ",
+    "acknowledge A as B / A to be B=AをBだと認める",
+    "acknowledge (the receipt of) A=Aを受け取ったと知らせる",
+    "名詞 acknowledgment=承認・感謝(本の「謝辞」も)"
+  ],
+  "patterns": [
+    {
+      "form": "acknowledge that S V",
+      "meaning": "〜を認める"
+    },
+    {
+      "form": "acknowledge doing",
+      "meaning": "〜したことを認める"
+    },
+    {
+      "form": "acknowledge A as B",
+      "meaning": "AをBと認める"
+    },
+    {
+      "form": "acknowledge A",
+      "meaning": "Aを受け取ったと知らせる・Aに感謝する"
+    },
+    {
+      "form": "acknowledgment",
+      "meaning": "承認・謝辞"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "認める",
+      "en": "He acknowledged that he had made a mistake.",
+      "ja": "彼は自分が間違えたことを認めた。"
+    },
+    {
+      "source": "original",
+      "label": "acknowledge doing",
+      "en": "She acknowledged breaking the window.",
+      "ja": "彼女は窓を割ったことを認めた。"
+    },
+    {
+      "source": "original",
+      "label": "acknowledge A as B",
+      "en": "He is widely acknowledged as the best player on the team.",
+      "ja": "彼はチームで一番の選手だと広く認められている。"
+    },
+    {
+      "source": "original",
+      "label": "受け取ったと知らせる",
+      "en": "Please acknowledge receipt of this e-mail.",
+      "ja": "このメールを受け取ったらお知らせください。"
+    },
+    {
+      "source": "original",
+      "label": "感謝する",
+      "en": "The author acknowledged the help of her teachers.",
+      "ja": "著者は先生たちの助けに感謝の意を表した。"
+    },
+    {
+      "source": "original",
+      "label": "気づいて合図する",
+      "en": "He walked past without even acknowledging me.",
+      "ja": "彼は私に会釈もせずに通り過ぎた。"
+    }
+  ],
+  "check_points": [
+    "acknowledge の後ろに to do と doing のどちらが来るか",
+    "「受け取ったと知らせる」の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "admit との言い換え、acknowledge A as B の型が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 342
+    }
+  ]
+}

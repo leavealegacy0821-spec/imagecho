@@ -1,0 +1,94 @@
+{
+  "word": "correspond",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˌkɔːrəˈspɑːnd/",
+  "core_image": {
+    "text": "向き合った2つが、互いに応え合う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"30\" y2=\"96\"/><line x1=\"40\" y1=\"74\" x2=\"50\" y2=\"96\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"190\" y2=\"96\"/><line x1=\"200\" y1=\"74\" x2=\"210\" y2=\"96\"/><line x1=\"64\" y1=\"80\" x2=\"176\" y2=\"80\"/><polyline points=\"169,76.2 176,80 169,83.8\"/><line x1=\"176\" y1=\"104\" x2=\"64\" y2=\"104\"/><polyline points=\"71,107.8 64,104 71,100.2\"/><rect x=\"108\" y=\"72\" width=\"24\" height=\"16\"/><polyline points=\"108,72 120,81 132,72\"/></g><text x=\"120\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">応え合う</text></svg>"
+  },
+  "etymology": "cor(com=互いに) + respond(応える) → 互いに応え合う → 一致する・合う → 相当する → (手紙で応え合う)文通する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to match or be similar to something, or to write letters to someone regularly."
+    }
+  ],
+  "cautions": [
+    "correspond with / to A=Aと一致する(主語はもの)",
+    "correspond to A=Aに相当する(The Diet corresponds to Congress.)",
+    "correspond with A=Aと文通する(主語は人)",
+    "名詞 correspondence=一致・文通、correspondent=特派員"
+  ],
+  "patterns": [
+    {
+      "form": "correspond with / to A",
+      "meaning": "Aと一致する"
+    },
+    {
+      "form": "correspond to A",
+      "meaning": "Aに相当する"
+    },
+    {
+      "form": "correspond with A",
+      "meaning": "Aと文通する"
+    },
+    {
+      "form": "correspondence",
+      "meaning": "一致・文通"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "一致する",
+      "en": "His words do not correspond with his actions.",
+      "ja": "彼の言うこととすることは一致していない。"
+    },
+    {
+      "source": "original",
+      "label": "合う",
+      "en": "The results correspond to our predictions.",
+      "ja": "結果は私たちの予想と合っている。"
+    },
+    {
+      "source": "original",
+      "label": "相当する",
+      "en": "The Japanese Diet corresponds to the British Parliament.",
+      "ja": "日本の国会はイギリスの議会に相当する。"
+    },
+    {
+      "source": "original",
+      "label": "文通する",
+      "en": "I have corresponded with a pen pal in Canada for years.",
+      "ja": "カナダのペンフレンドと何年も文通している。"
+    },
+    {
+      "source": "original",
+      "label": "対応する",
+      "en": "Each number corresponds to a letter of the alphabet.",
+      "ja": "それぞれの数字はアルファベットの1文字に対応している。"
+    },
+    {
+      "source": "original",
+      "label": "correspondence(名詞)",
+      "en": "There is a close correspondence between diet and health.",
+      "ja": "食事と健康には密接な対応関係がある。"
+    }
+  ],
+  "check_points": [
+    "correspond with A の2つの意味(一致・文通)を主語で見分けられるか",
+    "correspond to A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「一致する・相当する」の意味が長文で、correspondence が語彙で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 349
+    }
+  ]
+}

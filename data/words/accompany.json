@@ -1,0 +1,94 @@
+{
+  "word": "accompany",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈkʌmpəni/",
+  "core_image": {
+    "text": "仲間として、そばにぴったり付いていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><circle cx=\"130\" cy=\"52\" r=\"10\"/><line x1=\"130\" y1=\"62\" x2=\"130\" y2=\"106\"/><line x1=\"130\" y1=\"106\" x2=\"120\" y2=\"140\"/><line x1=\"130\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"80\" y1=\"74\" x2=\"105\" y2=\"92\"/><line x1=\"130\" y1=\"74\" x2=\"105\" y2=\"92\"/><line x1=\"80\" y1=\"74\" x2=\"70\" y2=\"96\"/><line x1=\"130\" y1=\"74\" x2=\"140\" y2=\"96\"/><line x1=\"160\" y1=\"100\" x2=\"215\" y2=\"100\"/><polyline points=\"208,96.2 215,100 208,103.8\"/></g><text x=\"105\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いっしょに</text></svg>"
+  },
+  "etymology": "ac(ad=〜へ) + company(仲間。com=共に + pan=パン → パンを分け合う仲間) → 仲間になる → 同行する → (物事が)伴う → (楽器で)伴奏する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to go somewhere with someone, or to happen or exist at the same time as something."
+    }
+  ],
+  "cautions": [
+    "他動詞なので accompany A=Aに同行する(accompany with A は×)",
+    "be accompanied by A=Aを伴う・Aが付いている(人でも物でも)",
+    "「伴奏する」の意味もある",
+    "名詞は company=仲間・同行(in the company of A=Aといっしょに)"
+  ],
+  "patterns": [
+    {
+      "form": "accompany A",
+      "meaning": "Aに同行する"
+    },
+    {
+      "form": "accompany A to B",
+      "meaning": "Aに付いてBへ行く"
+    },
+    {
+      "form": "be accompanied by A",
+      "meaning": "Aを伴う"
+    },
+    {
+      "form": "accompany A on B",
+      "meaning": "Bで Aの伴奏をする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "同行する",
+      "en": "My father accompanied me to the hospital.",
+      "ja": "父が病院まで付き添ってくれた。"
+    },
+    {
+      "source": "original",
+      "label": "be accompanied by",
+      "en": "Children must be accompanied by an adult.",
+      "ja": "子どもは大人の同伴が必要です。"
+    },
+    {
+      "source": "original",
+      "label": "(物事が)伴う",
+      "en": "Thunder usually accompanies lightning.",
+      "ja": "ふつう稲妻には雷鳴が伴う。"
+    },
+    {
+      "source": "original",
+      "label": "付いてくる",
+      "en": "The steak is accompanied by vegetables.",
+      "ja": "ステーキには野菜が付いてくる。"
+    },
+    {
+      "source": "original",
+      "label": "伴奏する",
+      "en": "She accompanied the singer on the piano.",
+      "ja": "彼女はピアノでその歌手の伴奏をした。"
+    },
+    {
+      "source": "original",
+      "label": "with は×",
+      "en": "He accompanied his friend to the station.",
+      "ja": "彼は友人に付き添って駅まで行った。"
+    }
+  ],
+  "check_points": [
+    "accompany の後ろに with を付けない理由を言えるか",
+    "be accompanied by A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "accompany with の誤りを選ばせる正誤問題が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 346
+    }
+  ]
+}

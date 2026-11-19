@@ -1,0 +1,94 @@
+{
+  "word": "anticipate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ænˈtɪsəpeɪt/",
+  "core_image": {
+    "text": "まだ来ないことを、先回りしてつかむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><polyline points=\"50,74 66,70 74,66\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><line x1=\"82\" y1=\"64\" x2=\"156\" y2=\"64\" stroke-dasharray=\"5 5\"/><polyline points=\"149,60.2 156,64 149,67.8\"/><circle cx=\"185\" cy=\"64\" r=\"20\" stroke-dasharray=\"4 4\"/></g><text x=\"118\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">先回り</text><text x=\"185\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">これから</text></svg>"
+  },
+  "etymology": "anti(ante=前に) + cip(取る。capable、accept の cap/cept と同じ) → 前もって取る → 予期する・見越す → (楽しみに)待つ → 先手を打つ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to expect something to happen and prepare for it, or to look forward to something."
+    }
+  ],
+  "cautions": [
+    "anticipate doing=〜することを予想する・楽しみにする(to do は×)",
+    "anticipate that S V=〜と予想する(expect と同じ)",
+    "「予想して手を打つ」まで含むことが多い",
+    "名詞 anticipation=予想・期待。in anticipation of A=Aを見越して"
+  ],
+  "patterns": [
+    {
+      "form": "anticipate A",
+      "meaning": "Aを予期する"
+    },
+    {
+      "form": "anticipate doing",
+      "meaning": "〜することを予想する"
+    },
+    {
+      "form": "anticipate that S V",
+      "meaning": "〜と予想する"
+    },
+    {
+      "form": "in anticipation of A",
+      "meaning": "Aを見越して"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "予期する",
+      "en": "We did not anticipate so many problems.",
+      "ja": "こんなに多くの問題は予想していなかった。"
+    },
+    {
+      "source": "original",
+      "label": "anticipate that",
+      "en": "Experts anticipate that prices will rise.",
+      "ja": "専門家は物価が上がると予想している。"
+    },
+    {
+      "source": "original",
+      "label": "見越して手を打つ",
+      "en": "A good teacher anticipates students' questions.",
+      "ja": "よい教師は生徒の質問を先回りして考えておく。"
+    },
+    {
+      "source": "original",
+      "label": "anticipate doing",
+      "en": "I don't anticipate having any trouble.",
+      "ja": "面倒なことになるとは思っていない。"
+    },
+    {
+      "source": "original",
+      "label": "楽しみに待つ",
+      "en": "The fans eagerly anticipated the new album.",
+      "ja": "ファンは新しいアルバムを心待ちにしていた。"
+    },
+    {
+      "source": "original",
+      "label": "in anticipation of",
+      "en": "People bought water in anticipation of the typhoon.",
+      "ja": "台風を見越して人々は水を買った。"
+    }
+  ],
+  "check_points": [
+    "anticipate の後ろは to do か doing か",
+    "in anticipation of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "expect / foresee との言い換え、anticipate doing の語法。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 343
+    }
+  ]
+}
