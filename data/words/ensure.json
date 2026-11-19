@@ -1,0 +1,93 @@
+{
+  "word": "ensure",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈʃʊr/",
+  "core_image": {
+    "text": "確実な状態にする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 82,80 106,86\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><rect x=\"120\" y=\"80\" width=\"60\" height=\"60\"/><rect x=\"140\" y=\"102\" width=\"20\" height=\"18\"/><path d=\"M144 102 Q144 90 150 90 Q156 90 156 102\"/><polyline points=\"194,60 202,70 218,48\"/></g><text x=\"150\" y=\"68\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">確実にする</text></svg>"
+  },
+  "etymology": "en(〜にする) + sure(確かな) → 確かにする → 確実に〜になるようにする・保証する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make certain that something happens or is done."
+    }
+  ],
+  "cautions": [
+    "ensure that S V=確実に〜するようにする(=make sure that S V)",
+    "ensure A=Aを確実にする・保証する",
+    "ensure(確実にする)／insure(保険をかける)／assure(人に請け合う: assure A that S V)を区別する"
+  ],
+  "patterns": [
+    {
+      "form": "ensure that S V",
+      "meaning": "確実に〜するようにする"
+    },
+    {
+      "form": "ensure A",
+      "meaning": "Aを確実にする"
+    },
+    {
+      "form": "ensure safety",
+      "meaning": "安全を確保する"
+    },
+    {
+      "form": "assure A that S V",
+      "meaning": "Aに〜だと請け合う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ensure that",
+      "en": "Please ensure that all the windows are closed before you leave.",
+      "ja": "出る前に、必ずすべての窓が閉まっているようにしてください。"
+    },
+    {
+      "source": "original",
+      "label": "確実にする",
+      "en": "Regular exercise helps ensure good health in old age.",
+      "ja": "定期的な運動は、老後の健康を確かなものにするのに役立つ。"
+    },
+    {
+      "source": "original",
+      "label": "(安全を)確保する",
+      "en": "The new rules are meant to ensure the safety of passengers.",
+      "ja": "新しい規則は、乗客の安全を確保するためのものだ。"
+    },
+    {
+      "source": "original",
+      "label": "保証する",
+      "en": "Hard work alone does not ensure success in business.",
+      "ja": "努力だけでは、仕事での成功は保証されない。"
+    },
+    {
+      "source": "original",
+      "label": "ensure that",
+      "en": "A good night's sleep will ensure that you can think clearly tomorrow.",
+      "ja": "一晩ぐっすり眠れば、明日は確実にすっきり考えられる。"
+    },
+    {
+      "source": "original",
+      "label": "assure との区別",
+      "en": "The doctor assured me that the operation would ensure a full recovery.",
+      "ja": "医者は、その手術で確実に全快すると私に請け合った。"
+    }
+  ],
+  "check_points": [
+    "ensure・insure・assure の違いを言えるか",
+    "ensure that を make sure で言い換えられるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "ensure that が論説文で頻出。assure / insure との区別も問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 142
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "achieve",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈtʃiːv/",
+  "core_image": {
+    "text": "てっぺんまで、やりとげる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polygon points=\"70,140 140,54 210,140\"/><circle cx=\"140\" cy=\"20\" r=\"8\"/><line x1=\"140\" y1=\"28\" x2=\"140\" y2=\"44\"/><line x1=\"140\" y1=\"44\" x2=\"134\" y2=\"54\"/><line x1=\"140\" y1=\"44\" x2=\"146\" y2=\"54\"/><polyline points=\"140,34 152,26 152,8\"/><polygon points=\"152,8 166,13 152,18\"/></g><text x=\"56\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">てっぺんまで</text><text x=\"204\" y=\"72\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やりとげる</text></svg>"
+  },
+  "etymology": "古フランス語 a chief(頭=終わりまで。chief は「頭・長」) → 終わりまで行き着く → (努力して)達成する・成しとげる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to succeed in doing something good or getting the result you wanted, after trying hard for a long time."
+    }
+  ],
+  "cautions": [
+    "努力の末に良い結果に行き着く。目的語は goal、aim、success、result など",
+    "achieve success=成功を収める",
+    "名詞 achievement=達成・業績。a sense of achievement=達成感"
+  ],
+  "patterns": [
+    {
+      "form": "achieve a goal",
+      "meaning": "目標を達成する"
+    },
+    {
+      "form": "achieve success",
+      "meaning": "成功を収める"
+    },
+    {
+      "form": "achievement",
+      "meaning": "達成・業績"
+    },
+    {
+      "form": "a sense of achievement",
+      "meaning": "達成感"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "達成する",
+      "en": "She worked hard for years to achieve her goal of becoming a pilot.",
+      "ja": "彼女はパイロットになるという目標を達成するために、何年も努力した。"
+    },
+    {
+      "source": "original",
+      "label": "(成功を)収める",
+      "en": "He achieved great success as a writer in his thirties.",
+      "ja": "彼は30代で、作家として大きな成功を収めた。"
+    },
+    {
+      "source": "original",
+      "label": "成しとげる",
+      "en": "You will never achieve anything if you give up so easily.",
+      "ja": "そんなに簡単にあきらめていたら、何も成しとげられない。"
+    },
+    {
+      "source": "original",
+      "label": "(結果を)出す",
+      "en": "The team achieved better results than anyone had expected.",
+      "ja": "そのチームは、だれもが予想した以上の結果を出した。"
+    },
+    {
+      "source": "original",
+      "label": "achievement(業績)",
+      "en": "Landing on the moon was one of the greatest achievements in history.",
+      "ja": "月面着陸は、歴史上最も偉大な業績の1つだった。"
+    },
+    {
+      "source": "original",
+      "label": "達成感",
+      "en": "Finishing the marathon gave me a real sense of achievement.",
+      "ja": "マラソンを走り終えて、本当の達成感を味わった。"
+    }
+  ],
+  "check_points": [
+    "achieve の語源(chief=頭)から「やりとげる」を説明できるか",
+    "achieve の目的語になる名詞を3つ言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "achieve a goal / success、achievement が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 125
+    }
+  ]
+}

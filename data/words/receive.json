@@ -1,0 +1,97 @@
+{
+  "word": "receive",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈsiːv/",
+  "core_image": {
+    "text": "送られて来たものを受け取る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"26\" y1=\"78\" x2=\"94\" y2=\"78\"/><polyline points=\"87,74.2 94,78 87,81.8\"/><rect x=\"100\" y=\"64\" width=\"30\" height=\"28\"/><circle cx=\"184\" cy=\"52\" r=\"10\"/><line x1=\"184\" y1=\"62\" x2=\"184\" y2=\"106\"/><line x1=\"184\" y1=\"106\" x2=\"174\" y2=\"140\"/><line x1=\"184\" y1=\"106\" x2=\"194\" y2=\"140\"/><polyline points=\"184,74 158,80 134,78\"/><line x1=\"184\" y1=\"74\" x2=\"194\" y2=\"96\"/></g><text x=\"60\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">送られて来る</text><text x=\"184\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">受け取る</text></svg>"
+  },
+  "etymology": "re(こちらへ・戻して) + ceive(取る。perceive, conceive と同じ) → こちらへ取る → 受け取る → 教育・歓迎・批判などを受ける → 客を迎える",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to get or be given something that someone sends or gives to you."
+    }
+  ],
+  "cautions": [
+    "receive は「受け取る」(行為)、accept は「受け入れる」(承諾): I received the invitation but did not accept it.",
+    "つづりは ei(c の後は ei)",
+    "receipt=領収書(p は読まない)、reception=歓迎会・受付・受信、recipient=受取人"
+  ],
+  "patterns": [
+    {
+      "form": "receive A from B",
+      "meaning": "BからAを受け取る"
+    },
+    {
+      "form": "receive an education",
+      "meaning": "教育を受ける"
+    },
+    {
+      "form": "receive a warm welcome",
+      "meaning": "温かい歓迎を受ける"
+    },
+    {
+      "form": "receipt",
+      "meaning": "領収書"
+    },
+    {
+      "form": "reception",
+      "meaning": "歓迎会・受付"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "受け取る",
+      "en": "I received a long letter from my grandmother this morning.",
+      "ja": "今朝、祖母から長い手紙を受け取った。"
+    },
+    {
+      "source": "original",
+      "label": "(教育を)受ける",
+      "en": "Every child has the right to receive a good education.",
+      "ja": "すべての子どもに、良い教育を受ける権利がある。"
+    },
+    {
+      "source": "original",
+      "label": "(歓迎を)受ける",
+      "en": "The team received a warm welcome when they returned home.",
+      "ja": "チームは帰国したとき、温かい歓迎を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "accept との違い",
+      "en": "He received the offer but decided not to accept it.",
+      "ja": "彼はその申し出を受け取ったが、受け入れないことに決めた。"
+    },
+    {
+      "source": "original",
+      "label": "(批判を)受ける",
+      "en": "The film received a lot of criticism for its violent scenes.",
+      "ja": "その映画は、暴力的な場面のために多くの批判を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "receipt(名詞)",
+      "en": "Keep the receipt in case you want to return the shoes.",
+      "ja": "靴を返品したくなったときのために、領収書を取っておきなさい。"
+    }
+  ],
+  "check_points": [
+    "receive と accept の違いを例文で言えるか",
+    "receipt の発音で読まない文字はどれか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "receive / accept の区別、receipt・reception が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 173
+    }
+  ]
+}

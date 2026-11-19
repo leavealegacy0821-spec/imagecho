@@ -1,0 +1,103 @@
+{
+  "word": "credit",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈkredɪt/",
+  "core_image": {
+    "text": "信じて任せる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 80,80 98,78\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><rect x=\"98\" y=\"68\" width=\"22\" height=\"18\"/><line x1=\"126\" y1=\"76\" x2=\"150\" y2=\"76\"/><polyline points=\"143,72.2 150,76 143,79.8\"/><circle cx=\"182\" cy=\"52\" r=\"10\"/><line x1=\"182\" y1=\"62\" x2=\"182\" y2=\"106\"/><line x1=\"182\" y1=\"106\" x2=\"172\" y2=\"140\"/><line x1=\"182\" y1=\"106\" x2=\"192\" y2=\"140\"/><line x1=\"182\" y1=\"74\" x2=\"160\" y2=\"84\"/><line x1=\"182\" y1=\"74\" x2=\"194\" y2=\"96\"/><path d=\"M172 110 Q124 130 80 112\" stroke-dasharray=\"5 5\"/><polyline points=\"90,108 80,112 86,122\"/></g><text x=\"120\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">信じて任せる</text><text x=\"126\" y=\"134\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">後で返す</text></svg>"
+  },
+  "etymology": "ラテン語 credere(信じる。incredible, creed と同じ) → 信用 → 信用して後払いを認める(クレジット) → 信用に値する手柄・功績(credit for) → 大学が学んだと認めた証=単位。動詞は「功績を認める」",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an arrangement to buy something now and pay for it later, or praise that is given to someone for something they have done."
+    },
+    {
+      "pos": "動詞",
+      "text": "to believe or say that someone is responsible for an achievement."
+    }
+  ],
+  "cautions": [
+    "give A credit for B=BをAの功績と認める。take credit for A=Aを自分の手柄にする",
+    "credit A with B=AにBの功績があると考える(be credited with A)",
+    "on credit=後払いで",
+    "大学の「単位」も credit。incredible=信じられない"
+  ],
+  "patterns": [
+    {
+      "form": "give A credit for B",
+      "meaning": "BをAの功績と認める"
+    },
+    {
+      "form": "take credit for A",
+      "meaning": "Aを自分の手柄にする"
+    },
+    {
+      "form": "credit A with B",
+      "meaning": "AにBの功績があるとする"
+    },
+    {
+      "form": "on credit",
+      "meaning": "後払いで"
+    },
+    {
+      "form": "earn credits",
+      "meaning": "単位を取る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "功績",
+      "en": "We should give her credit for finishing such a difficult task on time.",
+      "ja": "あれほど難しい仕事を期限どおりに終えたのは、彼女の功績と認めるべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "手柄にする",
+      "en": "He took all the credit for the success, though his team did most of the work.",
+      "ja": "仕事の大半はチームがしたのに、彼は成功をすべて自分の手柄にした。"
+    },
+    {
+      "source": "original",
+      "label": "信用",
+      "en": "The story of the old sailor gained credit among the people of the town.",
+      "ja": "その老水夫の話は、町の人々の間で信じられるようになった。"
+    },
+    {
+      "source": "original",
+      "label": "後払い",
+      "en": "They bought the furniture on credit and paid for it over two years.",
+      "ja": "彼らはその家具を後払いで買い、2年かけて支払った。"
+    },
+    {
+      "source": "original",
+      "label": "単位",
+      "en": "I need four more credits in English to graduate from this university.",
+      "ja": "この大学を卒業するには、英語であと4単位必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "credit A with B(動詞)",
+      "en": "She is credited with discovering the cause of the disease.",
+      "ja": "彼女は、その病気の原因を発見した功績があるとされている。"
+    }
+  ],
+  "check_points": [
+    "クレジットカード・功績・単位を「信じて任せる」で説明できるか",
+    "give A credit for B はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "give A credit for B、take credit for、credit A with B が難関大の長文・語彙で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 60
+    }
+  ]
+}

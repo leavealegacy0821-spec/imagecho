@@ -1,0 +1,94 @@
+{
+  "word": "differ",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈdɪfər/",
+  "core_image": {
+    "text": "別々の方へ離れていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"108\" y2=\"98\"/><line x1=\"120\" y1=\"74\" x2=\"132\" y2=\"98\"/><line x1=\"104\" y1=\"110\" x2=\"40\" y2=\"130\"/><polyline points=\"47.8,131.6 40,130 45.6,124.2\"/><line x1=\"136\" y1=\"110\" x2=\"200\" y2=\"130\"/><polyline points=\"194.4,124.2 200,130 192.2,131.6\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ここから</text><text x=\"120\" y=\"154\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">別々へ</text></svg>"
+  },
+  "etymology": "dif(dis=離れて) + fer(運ぶ。offer, refer と同じ) → 別々の方へ運ぶ → 異なる・違う → 意見が分かれる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be not like something else, or to have a different opinion."
+    }
+  ],
+  "cautions": [
+    "A differ from B=AはBと異なる(=A is different from B)",
+    "differ in A=Aの点で異なる",
+    "differ with A about B=BについてAと意見が違う",
+    "different=異なる、difference=違い、make a difference=違いを生む・重要である"
+  ],
+  "patterns": [
+    {
+      "form": "differ from A",
+      "meaning": "Aと異なる"
+    },
+    {
+      "form": "differ in A",
+      "meaning": "Aの点で異なる"
+    },
+    {
+      "form": "differ with A",
+      "meaning": "Aと意見が違う"
+    },
+    {
+      "form": "make a difference",
+      "meaning": "違いを生む"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "differ from",
+      "en": "British English differs from American English in many small ways.",
+      "ja": "イギリス英語は、多くの細かい点でアメリカ英語と異なる。"
+    },
+    {
+      "source": "original",
+      "label": "differ in",
+      "en": "The two brothers differ greatly in character.",
+      "ja": "その2人の兄弟は、性格が大きく違う。"
+    },
+    {
+      "source": "original",
+      "label": "(意見が)分かれる",
+      "en": "Experts differ on how to deal with the problem.",
+      "ja": "その問題への対処法について、専門家の意見は分かれている。"
+    },
+    {
+      "source": "original",
+      "label": "人によって違う",
+      "en": "Tastes differ from person to person.",
+      "ja": "好みは人によって違う。"
+    },
+    {
+      "source": "original",
+      "label": "different(形容詞)",
+      "en": "Living in the countryside is very different from living in Tokyo.",
+      "ja": "田舎の暮らしは、東京の暮らしとはずいぶん違う。"
+    },
+    {
+      "source": "original",
+      "label": "make a difference",
+      "en": "Even a small donation can make a big difference.",
+      "ja": "わずかな寄付でも、大きな違いを生むことがある。"
+    }
+  ],
+  "check_points": [
+    "differ from を be different from に言い換えられるか",
+    "make a difference はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "differ from / in、make a difference が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 212
+    }
+  ]
+}

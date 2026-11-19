@@ -1,0 +1,99 @@
+{
+  "word": "neglect",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/nɪˈɡlekt/",
+  "core_image": {
+    "text": "拾い上げずに、放っておく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"82\" y2=\"96\"/><line x1=\"56\" y1=\"46\" x2=\"22\" y2=\"38\"/><polyline points=\"28,43.3 22,38 29.7,35.9\"/><line x1=\"160\" y1=\"140\" x2=\"160\" y2=\"110\"/><path d=\"M160 110 Q150 100 146 112\"/><path d=\"M160 112 Q172 104 176 116\"/></g><text x=\"60\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">顔をそむける</text><text x=\"160\" y=\"92\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しおれた花</text></svg>"
+  },
+  "etymology": "neg(〜しない。negative と同じ) + lect(拾う・選ぶ。collect, select と同じ) → 拾い上げない → 世話をせずに放っておく・怠る",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to fail to take care of someone or something, or to fail to do something you should do."
+    },
+    {
+      "pos": "名詞",
+      "text": "the fact of not taking care of someone or something."
+    }
+  ],
+  "cautions": [
+    "neglect A=Aの世話を怠る・Aを放置する",
+    "neglect to do / doing=〜するのを怠る",
+    "名詞も同じ形: child neglect=育児放棄",
+    "negligible=無視できるほどの、negligent=怠慢な"
+  ],
+  "patterns": [
+    {
+      "form": "neglect A",
+      "meaning": "Aを放っておく"
+    },
+    {
+      "form": "neglect to do",
+      "meaning": "〜するのを怠る"
+    },
+    {
+      "form": "neglect one's duty",
+      "meaning": "義務を怠る"
+    },
+    {
+      "form": "negligible",
+      "meaning": "無視できるほどの"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "放っておく",
+      "en": "The old house had been neglected for years and was falling apart.",
+      "ja": "その古い家は何年も放置され、崩れかけていた。"
+    },
+    {
+      "source": "original",
+      "label": "怠る",
+      "en": "He neglected his studies and failed the final exam.",
+      "ja": "彼は勉強を怠り、期末試験に落ちた。"
+    },
+    {
+      "source": "original",
+      "label": "neglect to do",
+      "en": "She neglected to tell her parents where she was going.",
+      "ja": "彼女は、どこへ行くのかを親に伝えるのを怠った。"
+    },
+    {
+      "source": "original",
+      "label": "(健康を)おろそかにする",
+      "en": "Many busy workers neglect their health.",
+      "ja": "忙しい働き手の多くが、健康をおろそかにしている。"
+    },
+    {
+      "source": "original",
+      "label": "放置(名詞)",
+      "en": "The garden was in a state of neglect.",
+      "ja": "庭は放置されたままの状態だった。"
+    },
+    {
+      "source": "original",
+      "label": "negligible(形容詞)",
+      "en": "The difference between the two prices is negligible.",
+      "ja": "2つの値段の差は、ごくわずかだ。"
+    }
+  ],
+  "check_points": [
+    "collect・select・neglect に共通する lect の意味を言えるか",
+    "neglect to do はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "neglect、negligible が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 244
+    }
+  ]
+}

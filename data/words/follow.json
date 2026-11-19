@@ -1,0 +1,98 @@
+{
+  "word": "follow",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈfɑːloʊ/",
+  "core_image": {
+    "text": "すぐ後ろについて行く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"138\" y2=\"96\"/><line x1=\"150\" y1=\"74\" x2=\"164\" y2=\"94\"/><circle cx=\"76\" cy=\"52\" r=\"10\"/><line x1=\"76\" y1=\"62\" x2=\"76\" y2=\"106\"/><line x1=\"76\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"76\" y1=\"106\" x2=\"86\" y2=\"140\"/><line x1=\"76\" y1=\"74\" x2=\"64\" y2=\"96\"/><line x1=\"76\" y1=\"74\" x2=\"90\" y2=\"94\"/><line x1=\"176\" y1=\"74\" x2=\"214\" y2=\"74\"/><polyline points=\"207,70.2 214,74 207,77.8\"/><line x1=\"94\" y1=\"60\" x2=\"130\" y2=\"60\" stroke-dasharray=\"5 5\"/><polyline points=\"123,56.2 130,60 123,63.8\"/></g><text x=\"62\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">後について行く</text><text x=\"170\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">先に行くもの</text></svg>"
+  },
+  "etymology": "古英語 folgian(後について行く・仕える) → 人の後を行く → 道・指示に沿って行く(従う)／話について行く(理解する)／時間的に後に来る(続く)／結果として後に来る(当然〜になる)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to go or come after someone or something, to do what someone tells you to do, or to understand an explanation."
+    }
+  ],
+  "cautions": [
+    "A follow B は「Bが先、Aが後」。受け身の A is followed by B は「Aの後にBが続く」で、順番を取り違えやすい",
+    "It follows that S V=当然〜ということになる",
+    "as follows=次のとおり",
+    "Do you follow me?=話がわかりますか。following=次の・〜に続いて"
+  ],
+  "patterns": [
+    {
+      "form": "follow A",
+      "meaning": "Aについて行く・Aに従う"
+    },
+    {
+      "form": "be followed by A",
+      "meaning": "後にAが続く"
+    },
+    {
+      "form": "It follows that S V",
+      "meaning": "当然〜ということになる"
+    },
+    {
+      "form": "as follows",
+      "meaning": "次のとおり"
+    },
+    {
+      "form": "the following A",
+      "meaning": "次のA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ついて行く",
+      "en": "The little dog followed me all the way home from the station.",
+      "ja": "その小さな犬は、駅から家までずっと私について来た。"
+    },
+    {
+      "source": "original",
+      "label": "従う",
+      "en": "If you follow the doctor's advice, you will get better soon.",
+      "ja": "医者の助言に従えば、すぐに良くなるだろう。"
+    },
+    {
+      "source": "original",
+      "label": "be followed by=後に〜が続く",
+      "en": "The lecture was followed by a lively discussion among the students.",
+      "ja": "講義の後に、学生たちの活発な議論が続いた。"
+    },
+    {
+      "source": "original",
+      "label": "理解する",
+      "en": "He spoke so fast that I could not follow what he was saying.",
+      "ja": "彼はとても速く話したので、何を言っているのか理解できなかった。"
+    },
+    {
+      "source": "original",
+      "label": "It follows that",
+      "en": "He is rich, but it does not follow that he is happy.",
+      "ja": "彼は金持ちだが、だからといって幸せだということにはならない。"
+    },
+    {
+      "source": "original",
+      "label": "as follows",
+      "en": "The results of the survey are as follows.",
+      "ja": "調査の結果は次のとおりである。"
+    }
+  ],
+  "check_points": [
+    "A was followed by B で、先に起きたのは A か B か",
+    "従う・理解する・当然〜になるを「後について行く」で説明できるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "be followed by の前後関係、It follows that、as follows が長文・文法で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 37
+    }
+  ]
+}

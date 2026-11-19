@@ -1,0 +1,103 @@
+{
+  "word": "content",
+  "pos": [
+    "名詞",
+    "形容詞"
+  ],
+  "ipa": "/ˈkɑːntent/",
+  "core_image": {
+    "text": "中にしっかり収まっている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 42,86 54,94\"/><polyline points=\"56,74 70,86 58,94\"/><rect x=\"130\" y=\"70\" width=\"80\" height=\"70\"/><circle cx=\"152\" cy=\"120\" r=\"10\"/><rect x=\"172\" y=\"104\" width=\"24\" height=\"24\"/><polygon points=\"146,94 156,78 166,94\"/></g><text x=\"56\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">満ち足りた</text><text x=\"170\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">中に収まっている</text></svg>"
+  },
+  "etymology": "con(共に) + tent(保つ。contain, maintain の tain と同じ) → 中に保たれたもの → 中身・内容。形容詞は「心が中に収まって、はみ出さない」=満ち足りた",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the things that are inside something, or the ideas and information in a book, speech or program."
+    },
+    {
+      "pos": "形容詞",
+      "text": "happy and satisfied with what you have, and not wanting anything more."
+    }
+  ],
+  "cautions": [
+    "名詞「中身・内容」は前を強く /ˈkɑːntent/、形容詞「満足して」は後ろを強く /kənˈtent/ 読む",
+    "be content with A=Aに満足している。名詞の前には置かない(前に置くときは contented)",
+    "contents(複数形)=中身・目次",
+    "satisfied より「これで十分」と甘んじる感じ"
+  ],
+  "patterns": [
+    {
+      "form": "be content with A",
+      "meaning": "Aに満足している"
+    },
+    {
+      "form": "be content to do",
+      "meaning": "〜することに満足している"
+    },
+    {
+      "form": "the contents of A",
+      "meaning": "Aの中身"
+    },
+    {
+      "form": "table of contents",
+      "meaning": "目次"
+    },
+    {
+      "form": "to one's heart's content",
+      "meaning": "心ゆくまで"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "内容",
+      "en": "I agree with the content of your speech, but it was a little too long.",
+      "ja": "あなたのスピーチの内容には賛成だが、少し長すぎた。"
+    },
+    {
+      "source": "original",
+      "label": "中身(contents)",
+      "en": "The customs officer asked me to show him the contents of my bag.",
+      "ja": "税関の職員は、かばんの中身を見せるよう私に求めた。"
+    },
+    {
+      "source": "original",
+      "label": "be content with=満足して",
+      "en": "He is content with his simple life in a small village by the sea.",
+      "ja": "彼は海辺の小さな村での質素な暮らしに満足している。"
+    },
+    {
+      "source": "original",
+      "label": "be content to do",
+      "en": "She was content to sit quietly and listen to the others talk.",
+      "ja": "彼女は静かに座って、ほかの人の話を聞いているだけで満足だった。"
+    },
+    {
+      "source": "original",
+      "label": "含有量",
+      "en": "Foods with a high fat content should not be eaten every day.",
+      "ja": "脂肪分の多い食品は、毎日食べるべきではない。"
+    },
+    {
+      "source": "original",
+      "label": "心ゆくまで",
+      "en": "We sang our favorite songs to our hearts' content at the party.",
+      "ja": "私たちはパーティーで、好きな歌を心ゆくまで歌った。"
+    }
+  ],
+  "check_points": [
+    "「中身」と「満足した」が同じ単語になる理由を contain から説明できるか",
+    "名詞と形容詞でアクセントの位置がどう変わるか言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "アクセント問題の定番。be content with、contents(目次・中身)も出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 32
+    }
+  ]
+}

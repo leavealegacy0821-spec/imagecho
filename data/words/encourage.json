@@ -1,0 +1,94 @@
+{
+  "word": "encourage",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈkɜːrɪdʒ/",
+  "core_image": {
+    "text": "相手の中に勇気を入れる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"76\" cy=\"52\" r=\"10\"/><line x1=\"76\" y1=\"62\" x2=\"76\" y2=\"106\"/><line x1=\"76\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"76\" y1=\"106\" x2=\"86\" y2=\"140\"/><polyline points=\"76,74 104,70 130,74\"/><line x1=\"76\" y1=\"74\" x2=\"66\" y2=\"96\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><polyline points=\"150,74 164,58 172,44\"/><line x1=\"150\" y1=\"74\" x2=\"162\" y2=\"96\"/></g><text x=\"52\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">勇気を入れる</text><text x=\"168\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やる気が出る</text></svg>"
+  },
+  "etymology": "en(中に入れる) + courage(勇気。ラテン語 cor=心。core, cordial と同じ) → 勇気を吹き込む → 励ます → 〜するよう勧める → 物事を後押しする=促進する・助長する。反対は discourage",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give someone confidence or hope, to persuade someone to do something, or to make something more likely to happen."
+    }
+  ],
+  "cautions": [
+    "encourage A to do=Aに〜するよう励ます・勧める",
+    "反対の discourage は discourage A from doing で、型が違う",
+    "物事を「促進する・助長する」の意味もある(良いことにも悪いことにも)",
+    "encouraging=励みになる、encouragement=励まし"
+  ],
+  "patterns": [
+    {
+      "form": "encourage A to do",
+      "meaning": "Aに〜するよう励ます・勧める"
+    },
+    {
+      "form": "encourage A",
+      "meaning": "Aを励ます・促進する"
+    },
+    {
+      "form": "discourage A from doing",
+      "meaning": "Aに〜するのを思いとどまらせる"
+    },
+    {
+      "form": "encouraging",
+      "meaning": "励みになる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "encourage A to do",
+      "en": "My teacher encouraged me to enter the speech contest.",
+      "ja": "先生は私に、スピーチコンテストに出るよう勧めてくれた。"
+    },
+    {
+      "source": "original",
+      "label": "励ます",
+      "en": "Her kind words encouraged me when I was about to give up.",
+      "ja": "あきらめかけていたとき、彼女の優しい言葉が私を励ましてくれた。"
+    },
+    {
+      "source": "original",
+      "label": "促進する",
+      "en": "The government lowered taxes to encourage investment in small towns.",
+      "ja": "政府は小さな町への投資を促すために、税金を下げた。"
+    },
+    {
+      "source": "original",
+      "label": "助長する",
+      "en": "Leaving food outside may encourage wild animals to come near houses.",
+      "ja": "食べ物を外に置いておくと、野生動物が家の近くに来やすくなる。"
+    },
+    {
+      "source": "original",
+      "label": "discourage との対比",
+      "en": "High prices discourage people from buying, while low prices encourage them.",
+      "ja": "高い値段は人々に買うのをためらわせ、安い値段は買う気にさせる。"
+    },
+    {
+      "source": "original",
+      "label": "encouraging(形容詞)",
+      "en": "The results of the first test were very encouraging.",
+      "ja": "最初のテストの結果は、とても励みになるものだった。"
+    }
+  ],
+  "check_points": [
+    "encourage A to do と discourage A from doing の型の違いを言えるか",
+    "courage(勇気)から encourage の意味を説明できるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "encourage A to do / discourage A from doing の対が語法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 115
+    }
+  ]
+}

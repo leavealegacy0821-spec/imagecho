@@ -1,0 +1,92 @@
+{
+  "word": "due",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/duː/",
+  "core_image": {
+    "text": "当然そうなるはずの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 82,70 104,64\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><rect x=\"120\" y=\"36\" width=\"80\" height=\"70\"/><line x1=\"120\" y1=\"52\" x2=\"200\" y2=\"52\"/><line x1=\"146\" y1=\"52\" x2=\"146\" y2=\"106\"/><line x1=\"172\" y1=\"52\" x2=\"172\" y2=\"106\"/><line x1=\"120\" y1=\"78\" x2=\"200\" y2=\"78\"/><circle cx=\"186\" cy=\"92\" r=\"9\"/></g><text x=\"160\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">この日のはず</text><text x=\"160\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">期限・予定</text></svg>"
+  },
+  "etymology": "ラテン語 debere(借りがある・〜すべきだ。debt と同じ) → 古フランス語 deu(支払うべき) → 当然払われるべき → 期限が来た／当然来るはずの(予定)／当然の結果としての(due to)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "expected to happen or arrive at a particular time, or needing to be paid or done by a particular time."
+    }
+  ],
+  "cautions": [
+    "due to A=「Aのために」(=because of A)が最頻出",
+    "be due to do=「〜する予定だ」。due to A(原因)と見分ける(後ろが動詞の原形なら予定)",
+    "be due=期限が来ている／(乗り物・赤ちゃんが)到着・誕生の予定だ",
+    "in due course=やがて・しかるべき時に"
+  ],
+  "patterns": [
+    {
+      "form": "due to A",
+      "meaning": "Aのために"
+    },
+    {
+      "form": "be due to do",
+      "meaning": "〜する予定だ"
+    },
+    {
+      "form": "be due (on / at 時)",
+      "meaning": "(その時が)期限・到着予定だ"
+    },
+    {
+      "form": "due date",
+      "meaning": "締め切り・出産予定日"
+    },
+    {
+      "form": "in due course",
+      "meaning": "やがて"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "due to=〜のために",
+      "en": "The game was canceled due to heavy rain and strong wind.",
+      "ja": "大雨と強風のために、試合は中止された。"
+    },
+    {
+      "source": "original",
+      "label": "期限が来て",
+      "en": "The report is due next Monday, so I have to finish it this weekend.",
+      "ja": "レポートの締め切りは来週の月曜なので、今週末に仕上げなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "到着予定で",
+      "en": "The train is due at 9:15, but it seems to be running late.",
+      "ja": "その列車は9時15分着の予定だが、遅れているようだ。"
+    },
+    {
+      "source": "original",
+      "label": "be due to do=予定",
+      "en": "The new bridge is due to open to traffic next spring.",
+      "ja": "新しい橋は来年の春に開通する予定だ。"
+    },
+    {
+      "source": "original",
+      "label": "当然の",
+      "en": "With all due respect, I cannot agree with what you have just said.",
+      "ja": "失礼ながら、今おっしゃったことには同意できません。"
+    }
+  ],
+  "check_points": [
+    "期限・予定・due to(原因)を「当然そうなるはずの」で説明できるか",
+    "due to A と be due to do を、後ろの形で見分けられるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "due to A は長文・文法で必須。be due to do(予定)との区別、提出期限を表す due も出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 27
+    }
+  ]
+}

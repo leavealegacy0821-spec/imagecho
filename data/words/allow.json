@@ -1,0 +1,94 @@
+{
+  "word": "allow",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈlaʊ/",
+  "core_image": {
+    "text": "さえぎらずに、通してやる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"130\" y1=\"40\" x2=\"130\" y2=\"140\" stroke-dasharray=\"5 5\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"84\" y2=\"94\"/><line x1=\"96\" y1=\"100\" x2=\"170\" y2=\"100\"/><polyline points=\"163,96.2 170,100 163,103.8\"/><circle cx=\"196\" cy=\"52\" r=\"10\"/><line x1=\"196\" y1=\"62\" x2=\"196\" y2=\"106\"/><line x1=\"196\" y1=\"106\" x2=\"186\" y2=\"140\"/><line x1=\"196\" y1=\"106\" x2=\"206\" y2=\"140\"/><polyline points=\"196,74 178,64 170,52\"/><line x1=\"196\" y1=\"74\" x2=\"206\" y2=\"96\"/></g><text x=\"130\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さえぎらない</text><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どうぞ</text></svg>"
+  },
+  "etymology": "古フランス語 alouer(割り当てる・認める) → 認めて通す → 許す・〜させておく → 時間やお金を割り当てる(allow for=見込んでおく)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to let someone do something, or to make it possible for something to happen."
+    }
+  ],
+  "cautions": [
+    "allow A to do=Aが〜するのを許す・可能にする。allow A doing は×",
+    "物が主語の文は「〜のおかげでAは…できる」と訳すと自然",
+    "allow for A=Aを考慮に入れる・見込んでおく",
+    "let A do(原形)と型が違う。名詞 allowance=手当・こづかい"
+  ],
+  "patterns": [
+    {
+      "form": "allow A to do",
+      "meaning": "Aが〜するのを許す・可能にする"
+    },
+    {
+      "form": "be allowed to do",
+      "meaning": "〜してよい"
+    },
+    {
+      "form": "allow for A",
+      "meaning": "Aを考慮に入れる"
+    },
+    {
+      "form": "allowance",
+      "meaning": "手当・こづかい"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "allow A to do",
+      "en": "My parents allowed me to stay at my friend's house for the night.",
+      "ja": "両親は、私が友だちの家に一晩泊まるのを許してくれた。"
+    },
+    {
+      "source": "original",
+      "label": "be allowed to do",
+      "en": "Students are not allowed to use dictionaries during the test.",
+      "ja": "テスト中、生徒は辞書を使ってはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "可能にする(物が主語)",
+      "en": "The new train allows passengers to travel to Osaka in two hours.",
+      "ja": "新しい列車のおかげで、乗客は2時間で大阪まで行ける。"
+    },
+    {
+      "source": "original",
+      "label": "allow for",
+      "en": "You should allow for traffic delays when you plan your trip.",
+      "ja": "旅行の計画を立てるときは、交通の遅れを見込んでおくべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "許す",
+      "en": "Smoking is not allowed anywhere in this building.",
+      "ja": "この建物内では、どこでも喫煙は禁止されている。"
+    },
+    {
+      "source": "original",
+      "label": "allowance(名詞)",
+      "en": "I get a monthly allowance of five thousand yen from my parents.",
+      "ja": "私は親から、月に5000円のこづかいをもらっている。"
+    }
+  ],
+  "check_points": [
+    "allow A to do と let A do の形の違いを言えるか",
+    "物が主語の allow の文を「おかげで」で訳せるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "allow A to do、物が主語の文の和訳、allow for が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 211
+    }
+  ]
+}

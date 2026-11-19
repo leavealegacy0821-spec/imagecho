@@ -1,0 +1,90 @@
+{
+  "word": "contribute",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈtrɪbjuːt/",
+  "core_image": {
+    "text": "自分の分を持ち寄って足す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><polyline points=\"40,74 66,84 90,98\"/><line x1=\"40\" y1=\"74\" x2=\"30\" y2=\"96\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><polyline points=\"200,74 174,84 150,98\"/><line x1=\"200\" y1=\"74\" x2=\"210\" y2=\"96\"/><rect x=\"96\" y=\"116\" width=\"24\" height=\"24\"/><rect x=\"122\" y=\"116\" width=\"24\" height=\"24\"/><rect x=\"109\" y=\"92\" width=\"24\" height=\"24\"/></g><text x=\"120\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">持ち寄って足す</text></svg>"
+  },
+  "etymology": "con(共に) + tribute(与える・割り当てる。attribute, distribute と同じ) → 皆で出し合う → 寄付する・貢献する → 結果を作る一部になる=一因となる(悪い結果にも使う) → 原稿を持ち寄る=寄稿する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give money, help or ideas to something that other people are also involved in, or to be one of the causes of something."
+    }
+  ],
+  "cautions": [
+    "contribute to A=Aに貢献する・Aの一因となる。to は前置詞",
+    "悪い結果にも使う(contribute to global warming=地球温暖化の一因となる)。「貢献」とだけ覚えない",
+    "contribute A to B=AをBに寄付する・寄稿する",
+    "名詞は contribution"
+  ],
+  "patterns": [
+    {
+      "form": "contribute to A",
+      "meaning": "Aに貢献する・Aの一因となる"
+    },
+    {
+      "form": "contribute A to B",
+      "meaning": "AをBに寄付する"
+    },
+    {
+      "form": "make a contribution to A",
+      "meaning": "Aに貢献する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "貢献する",
+      "en": "Many volunteers contributed to the success of the festival.",
+      "ja": "多くのボランティアが、祭りの成功に貢献した。"
+    },
+    {
+      "source": "original",
+      "label": "一因となる",
+      "en": "Lack of sleep can contribute to poor performance at school.",
+      "ja": "睡眠不足は、学校での成績不振の一因となることがある。"
+    },
+    {
+      "source": "original",
+      "label": "寄付する",
+      "en": "He contributed a large sum of money to the local hospital.",
+      "ja": "彼は地元の病院に多額のお金を寄付した。"
+    },
+    {
+      "source": "original",
+      "label": "(悪い結果の)一因となる",
+      "en": "Cars and factories contribute to air pollution in big cities.",
+      "ja": "車と工場は、大都市の大気汚染の一因となっている。"
+    },
+    {
+      "source": "original",
+      "label": "寄稿する",
+      "en": "She regularly contributes articles to a science magazine.",
+      "ja": "彼女は科学雑誌に定期的に記事を寄稿している。"
+    },
+    {
+      "source": "original",
+      "label": "contribution(名詞)",
+      "en": "The scientist made a great contribution to the study of the brain.",
+      "ja": "その科学者は、脳の研究に大きな貢献をした。"
+    }
+  ],
+  "check_points": [
+    "contribute to が良い結果にも悪い結果にも使えることを、例文で示せるか",
+    "contribute to の後ろに来る形は何か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "contribute to A(一因となる)が長文の因果表現として必須。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 96
+    }
+  ]
+}

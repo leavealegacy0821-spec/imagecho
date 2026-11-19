@@ -1,0 +1,103 @@
+{
+  "word": "judge",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/dʒʌdʒ/",
+  "core_image": {
+    "text": "正しさを見きわめて言い渡す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 80,66 92,52\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><line x1=\"170\" y1=\"140\" x2=\"170\" y2=\"52\"/><line x1=\"130\" y1=\"62\" x2=\"210\" y2=\"62\"/><line x1=\"130\" y1=\"62\" x2=\"124\" y2=\"86\"/><line x1=\"130\" y1=\"62\" x2=\"136\" y2=\"86\"/><line x1=\"120\" y1=\"86\" x2=\"140\" y2=\"86\"/><line x1=\"210\" y1=\"62\" x2=\"204\" y2=\"86\"/><line x1=\"210\" y1=\"62\" x2=\"216\" y2=\"86\"/><line x1=\"200\" y1=\"86\" x2=\"220\" y2=\"86\"/></g><text x=\"170\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">正しさをはかる</text></svg>"
+  },
+  "etymology": "ラテン語 jus(法・正しさ。just, justice と同じ) + dicere(言う) → judex(法を言い渡す人)=裁判官 → 動詞は「裁く・判断する・評価する」。prejudice は pre(前もって)+judge=偏見",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to form an opinion about someone or something after thinking carefully."
+    },
+    {
+      "pos": "名詞",
+      "text": "the person in a court who decides how the law should be applied."
+    }
+  ],
+  "cautions": [
+    "judge A by / from B=AをBで判断する",
+    "judging from / by A=Aから判断すると(文頭で使う決まった形)",
+    "judgment=判断・判決",
+    "prejudice=偏見(前もって下した判断)"
+  ],
+  "patterns": [
+    {
+      "form": "judge A by B",
+      "meaning": "AをBで判断する"
+    },
+    {
+      "form": "judging from A",
+      "meaning": "Aから判断すると"
+    },
+    {
+      "form": "judge that S V",
+      "meaning": "〜だと判断する"
+    },
+    {
+      "form": "judgment",
+      "meaning": "判断"
+    },
+    {
+      "form": "prejudice",
+      "meaning": "偏見"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "判断する",
+      "en": "You should not judge people by their clothes or the way they speak.",
+      "ja": "服装や話し方で人を判断するべきではない。"
+    },
+    {
+      "source": "original",
+      "label": "judging from",
+      "en": "Judging from the look of the sky, it will rain this afternoon.",
+      "ja": "空模様から判断すると、今日の午後は雨になるだろう。"
+    },
+    {
+      "source": "original",
+      "label": "審査する",
+      "en": "She was asked to judge the speech contest at the local high school.",
+      "ja": "彼女は、地元の高校のスピーチコンテストの審査を頼まれた。"
+    },
+    {
+      "source": "original",
+      "label": "judge that",
+      "en": "I judged that it was too dangerous to cross the river.",
+      "ja": "その川を渡るのは危険すぎると、私は判断した。"
+    },
+    {
+      "source": "original",
+      "label": "裁判官(名詞)",
+      "en": "The judge decided that the man was not guilty.",
+      "ja": "裁判官は、その男は無罪だと判断した。"
+    },
+    {
+      "source": "original",
+      "label": "judgment(名詞)",
+      "en": "In my judgment, we should wait until we have more information.",
+      "ja": "私の判断では、もっと情報が集まるまで待つべきだ。"
+    }
+  ],
+  "check_points": [
+    "Judging from A の意味を言えるか",
+    "prejudice(偏見)を judge から説明できるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "judging from / by、judge A by B、judgment、prejudice が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 156
+    }
+  ]
+}

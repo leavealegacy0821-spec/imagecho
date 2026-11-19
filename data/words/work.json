@@ -1,0 +1,103 @@
+{
+  "word": "work",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/wɜːrk/",
+  "core_image": {
+    "text": "力を出して、本来の働きをする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 80,80 100,72\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><line x1=\"100\" y1=\"72\" x2=\"118\" y2=\"104\"/><circle cx=\"150\" cy=\"96\" r=\"22\"/><circle cx=\"150\" cy=\"96\" r=\"5\"/><circle cx=\"194\" cy=\"70\" r=\"14\"/><circle cx=\"194\" cy=\"70\" r=\"4\"/></g><text x=\"150\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">力を出す</text><text x=\"176\" y=\"134\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ちゃんと働く</text></svg>"
+  },
+  "etymology": "古英語 weorc(行い・作ったもの。ギリシャ語 ergon=仕事、energy と同じ語源) → 働く → 機械が働く=動く／薬・計画が働く=効く・うまくいく／働いて作ったもの=作品",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to do a job, to operate in the correct way, or to have the result that you want."
+    },
+    {
+      "pos": "名詞",
+      "text": "activity that needs effort, or something such as a book or painting that someone has made."
+    }
+  ],
+  "cautions": [
+    "物が主語のとき「(機械が)動く」「(薬が)効く」「(計画・方法が)うまくいく」",
+    "名詞の「仕事」は数えられない(a work は×。a job と言う)。「作品」は数えられる(works of art)",
+    "work on A=Aに取り組む、work out=うまくいく・解決する・運動する",
+    "out of work=失業して"
+  ],
+  "patterns": [
+    {
+      "form": "work for A",
+      "meaning": "Aに勤める"
+    },
+    {
+      "form": "work on A",
+      "meaning": "Aに取り組む"
+    },
+    {
+      "form": "work out",
+      "meaning": "うまくいく・解決する"
+    },
+    {
+      "form": "out of work",
+      "meaning": "失業して"
+    },
+    {
+      "form": "a work of art",
+      "meaning": "芸術作品"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "働く",
+      "en": "My mother works for a company that makes medical equipment.",
+      "ja": "母は医療機器を作る会社に勤めている。"
+    },
+    {
+      "source": "original",
+      "label": "(機械が)動く",
+      "en": "The air conditioner in my room is not working, so it is terribly hot.",
+      "ja": "部屋のエアコンが動かないので、ひどく暑い。"
+    },
+    {
+      "source": "original",
+      "label": "(薬が)効く",
+      "en": "This medicine works quickly, but it may make you sleepy.",
+      "ja": "この薬はすぐに効くが、眠くなることがある。"
+    },
+    {
+      "source": "original",
+      "label": "うまくいく",
+      "en": "Your plan sounds good, but I doubt it will work in practice.",
+      "ja": "君の計画は良さそうだが、実際にうまくいくかは疑わしい。"
+    },
+    {
+      "source": "original",
+      "label": "作品(名詞)",
+      "en": "The museum has many works by famous French painters.",
+      "ja": "その美術館には、有名なフランスの画家たちの作品がたくさんある。"
+    },
+    {
+      "source": "original",
+      "label": "work on=取り組む",
+      "en": "She has been working on her graduation thesis since last spring.",
+      "ja": "彼女は去年の春から、ずっと卒業論文に取り組んでいる。"
+    }
+  ],
+  "check_points": [
+    "働く・動く・効く・うまくいくを「本来の働きをする」で説明できるか",
+    "「仕事」の work に a が付かず、「作品」には付くことを例で示せるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "物が主語の work(動く・効く・うまくいく)が和訳で狙われる。work out、works(作品)も頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 49
+    }
+  ]
+}

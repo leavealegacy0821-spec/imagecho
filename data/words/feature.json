@@ -1,0 +1,102 @@
+{
+  "word": "feature",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈfiːtʃər/",
+  "core_image": {
+    "text": "目立つように作られたところ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"42\" cy=\"52\" r=\"10\"/><line x1=\"42\" y1=\"62\" x2=\"42\" y2=\"106\"/><line x1=\"42\" y1=\"106\" x2=\"32\" y2=\"140\"/><line x1=\"42\" y1=\"106\" x2=\"52\" y2=\"140\"/><polyline points=\"42,74 68,70 88,66\"/><line x1=\"42\" y1=\"74\" x2=\"32\" y2=\"96\"/><rect x=\"100\" y=\"110\" width=\"24\" height=\"30\"/><rect x=\"136\" y=\"70\" width=\"34\" height=\"70\"/><rect x=\"182\" y=\"110\" width=\"24\" height=\"30\"/><line x1=\"153\" y1=\"60\" x2=\"153\" y2=\"50\"/><line x1=\"138\" y1=\"64\" x2=\"130\" y2=\"56\"/><line x1=\"168\" y1=\"64\" x2=\"176\" y2=\"56\"/></g><text x=\"153\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">目立つところ</text></svg>"
+  },
+  "etymology": "ラテン語 facere(作る。fact, factory と同じ) → factura(作り・形) → 作りの中で目立つ点=特徴 → 顔の作り=目鼻立ち(features) → 紙面の目玉=特集。動詞は「目玉にする・呼び物にする」",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an important or noticeable part of something, or a special article in a newspaper or magazine."
+    },
+    {
+      "pos": "動詞",
+      "text": "to include someone or something as an important part."
+    }
+  ],
+  "cautions": [
+    "複数形 features で「顔立ち・目鼻立ち」",
+    "「特集記事・呼び物」の意味がある",
+    "動詞 feature A=Aを呼び物にする・特集する・主演させる(The film features 〜)"
+  ],
+  "patterns": [
+    {
+      "form": "a feature of A",
+      "meaning": "Aの特徴"
+    },
+    {
+      "form": "a key / main feature",
+      "meaning": "主な特徴"
+    },
+    {
+      "form": "facial features",
+      "meaning": "顔立ち"
+    },
+    {
+      "form": "feature A",
+      "meaning": "Aを呼び物にする"
+    },
+    {
+      "form": "a feature article",
+      "meaning": "特集記事"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "特徴",
+      "en": "The most striking feature of the house is its large round window.",
+      "ja": "その家のいちばん目を引く特徴は、大きな丸い窓だ。"
+    },
+    {
+      "source": "original",
+      "label": "特徴",
+      "en": "Heavy snow is a feature of winter in this part of Japan.",
+      "ja": "大雪は、日本のこの地方の冬の特徴だ。"
+    },
+    {
+      "source": "original",
+      "label": "顔立ち",
+      "en": "The baby has his father's features, especially around the eyes.",
+      "ja": "その赤ん坊は、とくに目のあたりが父親の顔立ちに似ている。"
+    },
+    {
+      "source": "original",
+      "label": "特集",
+      "en": "The magazine ran a special feature on young Japanese scientists.",
+      "ja": "その雑誌は、日本の若い科学者たちの特集を組んだ。"
+    },
+    {
+      "source": "original",
+      "label": "呼び物にする(動詞)",
+      "en": "The exhibition features paintings by local high school students.",
+      "ja": "その展覧会は、地元の高校生の絵を呼び物にしている。"
+    },
+    {
+      "source": "original",
+      "label": "主演させる(動詞)",
+      "en": "The film features a well-known actor in the role of the king.",
+      "ja": "その映画では、有名な俳優が王の役を演じている。"
+    }
+  ],
+  "check_points": [
+    "特徴・顔立ち・特集を「目立つように作られたところ」で説明できるか",
+    "The film features A はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "名詞「特徴」、動詞 feature(呼び物にする)が長文に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 97
+    }
+  ]
+}

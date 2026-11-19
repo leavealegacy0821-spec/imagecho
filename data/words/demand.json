@@ -1,0 +1,103 @@
+{
+  "word": "demand",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/dɪˈmænd/",
+  "core_image": {
+    "text": "当然のこととして、強く求める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><polyline points=\"66,74 96,78 122,78\"/><line x1=\"66\" y1=\"74\" x2=\"56\" y2=\"96\"/><line x1=\"52\" y1=\"34\" x2=\"44\" y2=\"26\"/><line x1=\"80\" y1=\"34\" x2=\"88\" y2=\"26\"/><line x1=\"194\" y1=\"78\" x2=\"134\" y2=\"78\"/><polyline points=\"141,81.8 134,78 141,74.2\"/><rect x=\"198\" y=\"64\" width=\"26\" height=\"28\"/></g><text x=\"128\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">よこせ!</text><text x=\"211\" y=\"54\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">要求</text></svg>"
+  },
+  "etymology": "de(強く) + mand(命じる・委ねる。command, mandate と同じ) → 強く命じる → 当然の権利として要求する → 物事が〜を必要とする。名詞は「要求」、そして「買い手の求め」=需要",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to ask for something very firmly, or to need something such as skill or effort."
+    },
+    {
+      "pos": "名詞",
+      "text": "a very firm request, or the need or desire that people have for particular goods and services."
+    }
+  ],
+  "cautions": [
+    "demand that S (should) 動詞の原形",
+    "demand to do=〜させろと要求する。demand A to do は×",
+    "名詞: supply and demand=需要と供給、in demand=需要がある",
+    "demanding=(仕事などが)きつい・要求の厳しい"
+  ],
+  "patterns": [
+    {
+      "form": "demand A",
+      "meaning": "Aを要求する"
+    },
+    {
+      "form": "demand that S (should) do",
+      "meaning": "〜するよう要求する"
+    },
+    {
+      "form": "demand to do",
+      "meaning": "〜させろと要求する"
+    },
+    {
+      "form": "in demand",
+      "meaning": "需要がある"
+    },
+    {
+      "form": "supply and demand",
+      "meaning": "需要と供給"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "要求する",
+      "en": "The workers demanded higher pay and shorter working hours.",
+      "ja": "労働者たちは、賃上げと労働時間の短縮を要求した。"
+    },
+    {
+      "source": "original",
+      "label": "demand that",
+      "en": "She demanded that the company explain the reason for the delay.",
+      "ja": "彼女は、遅れの理由を説明するよう会社に求めた。"
+    },
+    {
+      "source": "original",
+      "label": "demand to do",
+      "en": "He demanded to see the manager at once.",
+      "ja": "彼は、すぐに責任者に会わせろと要求した。"
+    },
+    {
+      "source": "original",
+      "label": "必要とする",
+      "en": "This kind of work demands great care and attention.",
+      "ja": "この種の仕事には、細心の注意が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "需要(名詞)",
+      "en": "There is a growing demand for electric cars all over the world.",
+      "ja": "世界中で、電気自動車の需要が高まっている。"
+    },
+    {
+      "source": "original",
+      "label": "demanding(形容詞)",
+      "en": "Being a nurse is a demanding job, both physically and mentally.",
+      "ja": "看護師は、体力的にも精神的にもきつい仕事だ。"
+    }
+  ],
+  "check_points": [
+    "demand that の後ろの動詞が原形になる理由を言えるか",
+    "「彼に来るよう要求した」を demand で正しく言えるか(demand him to come は×)"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "demand that S (should) 原形、supply and demand、demanding が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 136
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "address",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/əˈdres/",
+  "core_image": {
+    "text": "まっすぐ向ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 82,70 100,68\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><line x1=\"106\" y1=\"68\" x2=\"166\" y2=\"68\"/><polyline points=\"159,64.2 166,68 159,71.8\"/><rect x=\"172\" y=\"48\" width=\"44\" height=\"40\"/><line x1=\"182\" y1=\"60\" x2=\"206\" y2=\"60\"/><line x1=\"182\" y1=\"72\" x2=\"206\" y2=\"72\"/></g><text x=\"136\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まっすぐ向ける</text><text x=\"190\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">人・問題・宛先</text></svg>"
+  },
+  "etymology": "ad(〜へ) + dress(まっすぐにする。direct と同じ語源) → 〜へまっすぐ向ける → 言葉を向ける(話しかける・演説)／手紙を向ける先(宛名・住所)／問題に向き合う(取り組む)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to try to deal with a problem, or to speak or write to a person or a group."
+    },
+    {
+      "pos": "名詞",
+      "text": "the details of the place where someone lives or works, or a formal speech."
+    }
+  ],
+  "cautions": [
+    "「問題に取り組む」address a problem が長文で最重要。他動詞なので address to a problem は×",
+    "「〜に話しかける・演説する」も他動詞(address the audience)",
+    "名詞には「演説」の意味もある(an opening address)",
+    "名詞は /ˈædres/ と前を強く読むこともある"
+  ],
+  "patterns": [
+    {
+      "form": "address a problem / an issue",
+      "meaning": "問題に取り組む"
+    },
+    {
+      "form": "address the audience",
+      "meaning": "聴衆に演説する"
+    },
+    {
+      "form": "address A to B",
+      "meaning": "AをB宛てに出す"
+    },
+    {
+      "form": "address A as B",
+      "meaning": "AをBと呼ぶ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "取り組む",
+      "en": "The government must address the problem of child poverty as quickly as possible.",
+      "ja": "政府は子どもの貧困の問題に、できるだけ早く取り組まなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "演説する",
+      "en": "The president addressed the nation on television last night.",
+      "ja": "大統領は昨夜、テレビで国民に向けて演説した。"
+    },
+    {
+      "source": "original",
+      "label": "宛てる",
+      "en": "This letter is addressed to my father, so I should not open it.",
+      "ja": "この手紙は父宛てなので、私が開けるべきではない。"
+    },
+    {
+      "source": "original",
+      "label": "住所(名詞)",
+      "en": "Please write your name and address clearly on the front of the envelope.",
+      "ja": "封筒の表に、名前と住所をはっきり書いてください。"
+    },
+    {
+      "source": "original",
+      "label": "演説(名詞)",
+      "en": "The principal gave a short address to the new students at the entrance ceremony.",
+      "ja": "校長は入学式で、新入生に短い式辞を述べた。"
+    }
+  ],
+  "check_points": [
+    "住所・演説・取り組むを「まっすぐ向ける」で説明できるか",
+    "「問題に取り組む」で address の後ろに to を付けない理由を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "address a problem / an issue は長文の下線部和訳・同意語(deal with, tackle)選択の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 23
+    }
+  ]
+}

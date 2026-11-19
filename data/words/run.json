@@ -1,0 +1,113 @@
+{
+  "word": "run",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/rʌn/",
+  "core_image": {
+    "text": "止まらず、流れるように進み続ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"124\" cy=\"40\" r=\"10\"/><line x1=\"119\" y1=\"49\" x2=\"102\" y2=\"90\"/><polyline points=\"114,60 134,66 144,52\"/><polyline points=\"114,60 96,62 86,76\"/><polyline points=\"102,90 126,100 122,126\"/><polyline points=\"102,90 82,108 60,102\"/><line x1=\"122\" y1=\"126\" x2=\"132\" y2=\"126\"/><line x1=\"22\" y1=\"52\" x2=\"56\" y2=\"52\"/><line x1=\"14\" y1=\"70\" x2=\"48\" y2=\"70\"/><line x1=\"22\" y1=\"88\" x2=\"44\" y2=\"88\"/><path d=\"M16 146 Q41 134 66 146 T116 146 T166 146 T216 146\"/><polyline points=\"207,138 218,146 207,153\"/><line x1=\"160\" y1=\"60\" x2=\"200\" y2=\"60\"/><polyline points=\"192,54 200,60 192,66\"/></g><text x=\"188\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">止まらず進む</text><text x=\"192\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">流れ続ける</text></svg>"
+  },
+  "etymology": "ラテン語由来ではなく、英語にもともとある語(古英語 rinnan など)。パーツには分けられない。古くから「走る」と「流れる」の両方を表した → 止まらずに進み続ける → 人が走る、川・水が流れる、機械が動き続ける、乗り物が運行する、道や期間が続く → 他動詞では、止まらず動き続けさせる(機械を動かす・店や会社を経営する)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move quickly on foot. It also means to flow, to keep working or operating, or to be in charge of a business or an organization."
+    },
+    {
+      "pos": "名詞",
+      "text": "an act of running, or a period of time during which something continues."
+    }
+  ],
+  "cautions": [
+    "他動詞の run は「経営する・運営する」。run a company を「会社を走る」と読まない",
+    "活用は run - ran - run。過去分詞が原形と同じ形なので、受け身・完了形で見落としやすい",
+    "run out of A は「(人が)Aを使い果たす」。物が主語なら A runs out(Aが尽きる)",
+    "句動詞が多い。run for A =Aに立候補する、run into A =Aに偶然出会う・ぶつかる、in the long run =長い目で見れば"
+  ],
+  "patterns": [
+    {
+      "form": "run a company / shop",
+      "meaning": "会社／店を経営する"
+    },
+    {
+      "form": "run out of A",
+      "meaning": "Aを使い果たす・Aが足りなくなる"
+    },
+    {
+      "form": "run for A",
+      "meaning": "A(役職・選挙)に立候補する"
+    },
+    {
+      "form": "run into A",
+      "meaning": "Aに偶然出会う・Aにぶつかる"
+    },
+    {
+      "form": "run on A",
+      "meaning": "A(燃料・電気)で動く"
+    },
+    {
+      "form": "in the long run",
+      "meaning": "長い目で見れば・結局は"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "走る",
+      "en": "He ran to the station as fast as he could, but the train had already left.",
+      "ja": "彼はできるかぎり速く駅まで走ったが、電車はすでに出てしまっていた。"
+    },
+    {
+      "source": "original",
+      "label": "(川が)流れる",
+      "en": "A small river runs through the center of the town and flows into the sea.",
+      "ja": "小さな川が町の中心を流れ、海に注いでいる。"
+    },
+    {
+      "source": "original",
+      "label": "経営する(他動詞)",
+      "en": "My aunt runs a small bakery near the station, and it is always full of customers.",
+      "ja": "おばは駅の近くで小さなパン屋を経営していて、店はいつも客でいっぱいだ。"
+    },
+    {
+      "source": "original",
+      "label": "(機械が)動く",
+      "en": "This car runs on electricity, so it produces no exhaust gas while you drive it.",
+      "ja": "この車は電気で動くので、運転中に排気ガスを出さない。"
+    },
+    {
+      "source": "original",
+      "label": "(バスが)運行する",
+      "en": "The buses run every ten minutes during the day but only once an hour at night.",
+      "ja": "バスは日中は10分おきに走っているが、夜は1時間に1本しかない。"
+    },
+    {
+      "source": "original",
+      "label": "run out of=使い果たす",
+      "en": "We ran out of time before we could finish discussing the last topic.",
+      "ja": "最後の議題を話し終える前に、時間がなくなってしまった。"
+    },
+    {
+      "source": "original",
+      "label": "run for=立候補する",
+      "en": "She decided to run for mayor because she wanted to improve the city's schools.",
+      "ja": "彼女は市の学校を良くしたかったので、市長選に立候補することにした。"
+    }
+  ],
+  "check_points": [
+    "「走る」「流れる」「経営する」を、「止まらず進み続ける」という1つの絵で説明できるか",
+    "run a shop の run が自動詞ではなく他動詞だと、文の形から見分けられるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "他動詞「経営する」は長文の下線部和訳・多義語問題の定番。run out of、run into、run for、in the long run など句動詞・熟語の空所補充も多い。やさしい単語ほど「走る」以外の意味が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 9
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "line",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/laɪn/",
+  "core_image": {
+    "text": "一本の細くまっすぐな筋",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><circle cx=\"130\" cy=\"52\" r=\"10\"/><line x1=\"130\" y1=\"62\" x2=\"130\" y2=\"106\"/><line x1=\"130\" y1=\"106\" x2=\"120\" y2=\"140\"/><line x1=\"130\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"26\" y1=\"30\" x2=\"176\" y2=\"30\" stroke-dasharray=\"5 5\"/><polyline points=\"169,26.2 176,30 169,33.8\"/><rect x=\"186\" y=\"80\" width=\"30\" height=\"60\"/></g><text x=\"100\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">一本の筋</text><text x=\"201\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">窓口</text></svg>"
+  },
+  "etymology": "ラテン語 linum(亜麻。linen と同じ) → linea(亜麻の糸) → 糸のような筋=線 → 人や物の列 → 文字の一行・せりふ → 電話線・路線 → 仕事や考えの筋=職種・方針。動詞は「並ぶ」",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a long thin mark, a row of people or things, or a row of words on a page."
+    },
+    {
+      "pos": "動詞",
+      "text": "to form a row along the side of something."
+    }
+  ],
+  "cautions": [
+    "stand / wait in line=列に並ぶ",
+    "read between the lines=行間を読む(言外の意味をくみ取る)",
+    "「せりふ」「路線」「職種(line of work)」の意味もある",
+    "in line with A=Aに沿って、draw the line=一線を引く、drop A a line=Aに一筆書く"
+  ],
+  "patterns": [
+    {
+      "form": "stand in line",
+      "meaning": "列に並ぶ"
+    },
+    {
+      "form": "read between the lines",
+      "meaning": "行間を読む"
+    },
+    {
+      "form": "in line with A",
+      "meaning": "Aに沿って"
+    },
+    {
+      "form": "draw the line",
+      "meaning": "一線を引く"
+    },
+    {
+      "form": "line up",
+      "meaning": "並ぶ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "線",
+      "en": "Draw a straight line from point A to point B with a ruler.",
+      "ja": "定規を使って、点Aから点Bまでまっすぐな線を引きなさい。"
+    },
+    {
+      "source": "original",
+      "label": "列",
+      "en": "We stood in line for two hours to buy tickets for the concert.",
+      "ja": "コンサートの券を買うために、2時間列に並んだ。"
+    },
+    {
+      "source": "original",
+      "label": "行",
+      "en": "You have to read between the lines to understand what she really means.",
+      "ja": "彼女の本当に言いたいことを理解するには、行間を読まなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "せりふ",
+      "en": "The young actor forgot his lines in the middle of the play.",
+      "ja": "その若い俳優は、劇の途中でせりふを忘れた。"
+    },
+    {
+      "source": "original",
+      "label": "路線",
+      "en": "The new subway line will connect the airport and the city center.",
+      "ja": "新しい地下鉄の路線は、空港と市の中心部を結ぶ。"
+    },
+    {
+      "source": "original",
+      "label": "line up(動詞)",
+      "en": "The children lined up in front of the gate before the trip.",
+      "ja": "出発の前に、子どもたちは門の前に並んだ。"
+    }
+  ],
+  "check_points": [
+    "列・行・路線・せりふを「一本の筋」で説明できるか",
+    "read between the lines はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "stand in line、read between the lines、in line with が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 87
+    }
+  ]
+}

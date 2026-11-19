@@ -1,0 +1,99 @@
+{
+  "word": "transfer",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/trænsˈfɜːr/",
+  "core_image": {
+    "text": "向こう側へ運び移す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"124\" y1=\"40\" x2=\"124\" y2=\"140\" stroke-dasharray=\"5 5\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 80,80 96,78\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><rect x=\"96\" y=\"68\" width=\"18\" height=\"18\"/><line x1=\"132\" y1=\"58\" x2=\"196\" y2=\"58\"/><polyline points=\"189,54.2 196,58 189,61.8\"/><rect x=\"176\" y=\"112\" width=\"26\" height=\"26\" stroke-dasharray=\"4 4\"/></g><text x=\"56\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こちら</text><text x=\"180\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">向こうへ移す</text></svg>"
+  },
+  "etymology": "trans(越えて・向こうへ) + fer(運ぶ。offer, refer, prefer と同じ) → 向こうへ運ぶ → 人・物・お金を移す → 転勤・転校する → 乗り換える",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move from one place, job or vehicle to another, or to move something from one place to another."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of moving someone or something from one place to another."
+    }
+  ],
+  "cautions": [
+    "transfer A (from B) to C=Aを(Bから)Cへ移す",
+    "be transferred to A=Aに転勤になる。transfer to A=Aに転校する・Aに乗り換える",
+    "動詞は後ろを強く、名詞は前を強く読む。過去形は transferred",
+    "transfer money=送金する"
+  ],
+  "patterns": [
+    {
+      "form": "transfer A to B",
+      "meaning": "AをBへ移す"
+    },
+    {
+      "form": "transfer to A",
+      "meaning": "Aに移る・乗り換える"
+    },
+    {
+      "form": "be transferred to A",
+      "meaning": "Aに転勤になる"
+    },
+    {
+      "form": "transfer money",
+      "meaning": "送金する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "移す",
+      "en": "Please transfer the data from the old computer to the new one.",
+      "ja": "古いパソコンから新しいほうへ、データを移してください。"
+    },
+    {
+      "source": "original",
+      "label": "転勤になる",
+      "en": "My father was transferred to the Osaka office last spring.",
+      "ja": "父は去年の春、大阪支社に転勤になった。"
+    },
+    {
+      "source": "original",
+      "label": "転校する",
+      "en": "She transferred to a school closer to her home.",
+      "ja": "彼女は、家にもっと近い学校に転校した。"
+    },
+    {
+      "source": "original",
+      "label": "乗り換える",
+      "en": "You need to transfer to the subway at the next station.",
+      "ja": "次の駅で、地下鉄に乗り換える必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "送金する",
+      "en": "I transferred the money to your bank account this morning.",
+      "ja": "今朝、あなたの銀行口座にお金を振り込んだ。"
+    },
+    {
+      "source": "original",
+      "label": "移行(名詞)",
+      "en": "The transfer of power to the new government went smoothly.",
+      "ja": "新しい政府への権力の移行は、順調に進んだ。"
+    }
+  ],
+  "check_points": [
+    "trans(越えて)と fer(運ぶ)から transfer の意味を説明できるか",
+    "be transferred to はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "transfer A to B、be transferred to が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 196
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "word": "way",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/weɪ/",
+  "core_image": {
+    "text": "そこへ行くための道筋",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"36\" cy=\"52\" r=\"10\"/><line x1=\"36\" y1=\"62\" x2=\"36\" y2=\"106\"/><line x1=\"36\" y1=\"106\" x2=\"26\" y2=\"140\"/><line x1=\"36\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"36\" y1=\"74\" x2=\"24\" y2=\"98\"/><line x1=\"36\" y1=\"74\" x2=\"48\" y2=\"98\"/><path d=\"M70 132 Q110 90 140 110 Q170 130 196 72\" stroke-dasharray=\"6 5\"/><polyline points=\"186,78 196,72 198,84\"/><circle cx=\"206\" cy=\"52\" r=\"10\"/><circle cx=\"206\" cy=\"52\" r=\"3\"/></g><text x=\"128\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">道筋</text><text x=\"206\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">行き先</text></svg>"
+  },
+  "etymology": "古英語 weg(道・進む方向) → 道 → 方向 → 目的に行き着く道筋=方法・やり方 → 道のり=距離・程度(a long way) → 物事のある面=点(in a way)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a method of doing something, a road or path that you follow to get to a place, or a particular aspect of something."
+    }
+  ],
+  "cautions": [
+    "the way S V=〜するやり方。the way how は×(the way か how のどちらか一方)",
+    "in a way=ある意味では、by the way=ところで、by way of A=A経由で",
+    "on one's / the way (to A)=(Aへ行く)途中で",
+    "in the way=じゃまになって、give way to A=Aに道を譲る・屈する、make one's way=進む"
+  ],
+  "patterns": [
+    {
+      "form": "the way S V",
+      "meaning": "〜するやり方"
+    },
+    {
+      "form": "in a way",
+      "meaning": "ある意味では"
+    },
+    {
+      "form": "on one's way to A",
+      "meaning": "Aへ行く途中で"
+    },
+    {
+      "form": "in the way",
+      "meaning": "じゃまになって"
+    },
+    {
+      "form": "give way to A",
+      "meaning": "Aに道を譲る・屈する"
+    },
+    {
+      "form": "by way of A",
+      "meaning": "A経由で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "道",
+      "en": "Could you tell me the way to the nearest station?",
+      "ja": "いちばん近い駅への道を教えていただけますか。"
+    },
+    {
+      "source": "original",
+      "label": "方法(the way S V)",
+      "en": "I do not like the way he talks to his younger sister.",
+      "ja": "彼の妹への話し方が、私は好きではない。"
+    },
+    {
+      "source": "original",
+      "label": "in a way=ある意味で",
+      "en": "In a way, losing the game was a good lesson for us.",
+      "ja": "ある意味で、試合に負けたことは私たちにとって良い教訓だった。"
+    },
+    {
+      "source": "original",
+      "label": "on the way=途中で",
+      "en": "I met an old friend on my way home from school yesterday.",
+      "ja": "昨日、学校から帰る途中で旧友に会った。"
+    },
+    {
+      "source": "original",
+      "label": "in the way=じゃまで",
+      "en": "Please move your bag; it is in the way of other passengers.",
+      "ja": "かばんを動かしてください。ほかの乗客のじゃまになっています。"
+    },
+    {
+      "source": "original",
+      "label": "give way to",
+      "en": "Anger gave way to sadness as she read the letter.",
+      "ja": "その手紙を読むうちに、怒りは悲しみに変わった。"
+    }
+  ],
+  "check_points": [
+    "道・方法・点を「そこへ行く道筋」で説明できるか",
+    "the way how と言えない理由を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "the way S V、in the way、on the way、give way to、in a way が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 90
+    }
+  ]
+}

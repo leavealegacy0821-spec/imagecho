@@ -1,0 +1,94 @@
+{
+  "word": "organize",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈɔːrɡənaɪz/",
+  "core_image": {
+    "text": "ばらばらのものを、まとまりに組み立てる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"96\" y2=\"84\"/><line x1=\"120\" y1=\"74\" x2=\"144\" y2=\"84\"/><circle cx=\"40\" cy=\"70\" r=\"5\"/><circle cx=\"56\" cy=\"100\" r=\"5\"/><circle cx=\"30\" cy=\"120\" r=\"5\"/><circle cx=\"180\" cy=\"110\" r=\"5\"/><circle cx=\"196\" cy=\"110\" r=\"5\"/><circle cx=\"212\" cy=\"110\" r=\"5\"/><circle cx=\"180\" cy=\"126\" r=\"5\"/><circle cx=\"196\" cy=\"126\" r=\"5\"/><circle cx=\"212\" cy=\"126\" r=\"5\"/></g><text x=\"44\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ばらばら</text><text x=\"196\" y=\"92\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まとまり</text></svg>"
+  },
+  "etymology": "organ(器官・道具。ギリシャ語 organon) + ize(〜にする) → 器官のように各部分が働く全体にする → 組織する・まとめる → 催しを準備して開く",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to plan or arrange an event or activity, or to put things into a sensible order."
+    }
+  ],
+  "cautions": [
+    "organize an event / a party=催し・パーティーを計画して開く",
+    "organize A into B=AをBにまとめる",
+    "organization=組織・団体、organized=整理された・組織的な",
+    "organism=生物(器官を持つもの)"
+  ],
+  "patterns": [
+    {
+      "form": "organize an event",
+      "meaning": "催しを企画する"
+    },
+    {
+      "form": "organize A into B",
+      "meaning": "AをBにまとめる"
+    },
+    {
+      "form": "organization",
+      "meaning": "組織"
+    },
+    {
+      "form": "well-organized",
+      "meaning": "よく整理された"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "企画する",
+      "en": "The students organized a concert to raise money for the hospital.",
+      "ja": "生徒たちは、病院のためのお金を集めるコンサートを企画した。"
+    },
+    {
+      "source": "original",
+      "label": "整理する",
+      "en": "You should organize your notes before the exam.",
+      "ja": "試験の前に、ノートを整理しておいたほうがいい。"
+    },
+    {
+      "source": "original",
+      "label": "organize A into B",
+      "en": "The books are organized into five categories.",
+      "ja": "本は5つの分野に分けて整理されている。"
+    },
+    {
+      "source": "original",
+      "label": "(考えを)まとめる",
+      "en": "Take a few minutes to organize your thoughts before you speak.",
+      "ja": "話す前に、数分かけて考えをまとめなさい。"
+    },
+    {
+      "source": "original",
+      "label": "organization(名詞)",
+      "en": "She works for an international organization that protects children.",
+      "ja": "彼女は、子どもを守る国際団体で働いている。"
+    },
+    {
+      "source": "original",
+      "label": "well-organized",
+      "en": "The trip was well-organized, so everything went smoothly.",
+      "ja": "旅行はよく準備されていたので、すべて順調に進んだ。"
+    }
+  ],
+  "check_points": [
+    "organ(器官)から organize の意味を説明できるか",
+    "organization と organism の意味を言い分けられるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "organize、organization が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 246
+    }
+  ]
+}

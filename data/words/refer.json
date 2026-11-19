@@ -1,0 +1,98 @@
+{
+  "word": "refer",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈfɜːr/",
+  "core_image": {
+    "text": "もとの所へ運び戻す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"100\" cy=\"52\" r=\"10\"/><line x1=\"100\" y1=\"62\" x2=\"100\" y2=\"106\"/><line x1=\"100\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"100\" y1=\"106\" x2=\"110\" y2=\"140\"/><polyline points=\"100,74 76,66 60,58\"/><line x1=\"100\" y1=\"74\" x2=\"112\" y2=\"96\"/><rect x=\"20\" y=\"38\" width=\"34\" height=\"44\"/><line x1=\"37\" y1=\"38\" x2=\"37\" y2=\"82\"/><line x1=\"160\" y1=\"60\" x2=\"118\" y2=\"60\" stroke-dasharray=\"5 5\"/><polyline points=\"125,63.8 118,60 125,56.2\"/><rect x=\"166\" y=\"44\" width=\"50\" height=\"36\"/><line x1=\"176\" y1=\"56\" x2=\"206\" y2=\"56\"/><line x1=\"176\" y1=\"68\" x2=\"196\" y2=\"68\"/></g><text x=\"40\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もとの資料</text><text x=\"190\" y=\"98\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">今の話</text></svg>"
+  },
+  "etymology": "re(戻して) + fer(運ぶ。offer, prefer, transfer と同じ) → 話や注意を〜へ運び戻す → 〜に言及する → 〜を参照する → 〜を指す → 人を〜へ差し向ける",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to mention or speak about someone or something, to look at something for information, or to describe or be connected with something."
+    }
+  ],
+  "cautions": [
+    "refer to A=Aに言及する／Aを参照する／Aを指す",
+    "refer to A as B=AをBと呼ぶ",
+    "refer A to B=AをBに差し向ける・照会する",
+    "後ろを強く読む。過去形は referred。名詞 reference=言及・参照・参考文献"
+  ],
+  "patterns": [
+    {
+      "form": "refer to A",
+      "meaning": "Aに言及する・Aを参照する・Aを指す"
+    },
+    {
+      "form": "refer to A as B",
+      "meaning": "AをBと呼ぶ"
+    },
+    {
+      "form": "refer A to B",
+      "meaning": "AをBに差し向ける"
+    },
+    {
+      "form": "reference",
+      "meaning": "言及・参照"
+    },
+    {
+      "form": "with reference to A",
+      "meaning": "Aに関して"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "言及する",
+      "en": "The speaker referred to his own experience several times.",
+      "ja": "話し手は、自分自身の経験に何度か触れた。"
+    },
+    {
+      "source": "original",
+      "label": "参照する",
+      "en": "Please refer to the map on page ten for more details.",
+      "ja": "くわしくは、10ページの地図を参照してください。"
+    },
+    {
+      "source": "original",
+      "label": "指す",
+      "en": "The word \"they\" in this sentence refers to the students.",
+      "ja": "この文の they という語は、生徒たちを指している。"
+    },
+    {
+      "source": "original",
+      "label": "refer to A as B",
+      "en": "People often refer to New York as the Big Apple.",
+      "ja": "人々はよくニューヨークを「ビッグアップル」と呼ぶ。"
+    },
+    {
+      "source": "original",
+      "label": "差し向ける",
+      "en": "My doctor referred me to a specialist at the university hospital.",
+      "ja": "かかりつけの医師は、私を大学病院の専門医に紹介した。"
+    },
+    {
+      "source": "original",
+      "label": "reference(名詞)",
+      "en": "She made no reference to the accident in her speech.",
+      "ja": "彼女はスピーチの中で、その事故にまったく触れなかった。"
+    }
+  ],
+  "check_points": [
+    "refer to の3つの意味(言及する・参照する・指す)を言えるか",
+    "refer to A as B はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "refer to A (as B)、reference が、長文と設問文(What does \"it\" refer to?)で必須。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 175
+    }
+  ]
+}

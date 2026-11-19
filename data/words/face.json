@@ -1,0 +1,103 @@
+{
+  "word": "face",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/feɪs/",
+  "core_image": {
+    "text": "正面を向けて向き合う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"98\"/><line x1=\"60\" y1=\"74\" x2=\"72\" y2=\"98\"/><polygon points=\"120,140 170,44 220,140\"/><line x1=\"74\" y1=\"52\" x2=\"134\" y2=\"66\" stroke-dasharray=\"5 5\"/><polyline points=\"128,60.7 134,66 126.3,68.1\"/></g><text x=\"100\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">正面から向き合う</text><text x=\"170\" y=\"154\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">困難</text></svg>"
+  },
+  "etymology": "ラテン語 facies(形・外見・顔) → 顔=物の正面 → 動詞は「正面を向ける」→ (建物が)面する／(困難に)向き合う・直面する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the front part of your head, where your eyes, nose and mouth are."
+    },
+    {
+      "pos": "動詞",
+      "text": "to have to deal with a difficult situation, or to be turned or pointed toward something."
+    }
+  ],
+  "cautions": [
+    "動詞 face は他動詞。face a problem と直接目的語を取る(face to a problem は×)",
+    "be faced with A=Aに直面している",
+    "in the face of A=Aに直面して・Aにもかかわらず",
+    "face to face=面と向かって、lose face=面目を失う"
+  ],
+  "patterns": [
+    {
+      "form": "face A",
+      "meaning": "Aに直面する・Aに面する"
+    },
+    {
+      "form": "be faced with A",
+      "meaning": "Aに直面している"
+    },
+    {
+      "form": "in the face of A",
+      "meaning": "Aに直面して"
+    },
+    {
+      "form": "face to face",
+      "meaning": "面と向かって"
+    },
+    {
+      "form": "face the fact that S V",
+      "meaning": "〜という事実を直視する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "直面する(他動詞)",
+      "en": "Many small shops in this town are facing serious financial difficulties.",
+      "ja": "この町の多くの小さな店が、深刻な経営難に直面している。"
+    },
+    {
+      "source": "original",
+      "label": "be faced with",
+      "en": "We are faced with a choice between two equally difficult options.",
+      "ja": "私たちは、同じくらい難しい2つの選択肢から選ばなければならない状況にある。"
+    },
+    {
+      "source": "original",
+      "label": "(建物が)面する",
+      "en": "My room faces south, so it gets a lot of sunshine in winter.",
+      "ja": "私の部屋は南向きなので、冬はよく日が当たる。"
+    },
+    {
+      "source": "original",
+      "label": "直視する",
+      "en": "You have to face the fact that you cannot do everything by yourself.",
+      "ja": "何もかも1人ではできないという事実を、直視しなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "in the face of",
+      "en": "She remained calm in the face of strong criticism from her colleagues.",
+      "ja": "彼女は同僚からの強い批判に直面しても、落ち着いていた。"
+    },
+    {
+      "source": "original",
+      "label": "face to face",
+      "en": "I would rather talk to him face to face than send an email.",
+      "ja": "メールを送るより、彼と直接会って話したい。"
+    }
+  ],
+  "check_points": [
+    "face a problem と be faced with a problem の形の違いを説明できるか",
+    "in the face of はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "他動詞 face と be faced with が語法問題に、in the face of が長文に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 35
+    }
+  ]
+}

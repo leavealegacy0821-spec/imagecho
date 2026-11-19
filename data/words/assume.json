@@ -1,0 +1,94 @@
+{
+  "word": "assume",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈsuːm/",
+  "core_image": {
+    "text": "自分の方へ取り込んで引き受ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"76\" cy=\"52\" r=\"10\"/><line x1=\"76\" y1=\"62\" x2=\"76\" y2=\"106\"/><line x1=\"76\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"76\" y1=\"106\" x2=\"86\" y2=\"140\"/><polyline points=\"76,74 100,80 122,78\"/><line x1=\"76\" y1=\"74\" x2=\"66\" y2=\"96\"/><rect x=\"172\" y=\"66\" width=\"34\" height=\"28\"/><line x1=\"166\" y1=\"80\" x2=\"130\" y2=\"80\"/><polyline points=\"137,83.8 130,80 137,76.2\"/></g><text x=\"150\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">自分の方へ取る</text><text x=\"189\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">考え・役目</text></svg>"
+  },
+  "etymology": "as(ad=〜へ) + sume(取る。consume, resume, presume と同じ) → 自分の方へ取る → 考えとして取り込む=(確かめずに)当然と思う・仮定する／役目を取る=引き受ける／様子を取る=帯びる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to think that something is true although you have no proof, or to take control or responsibility."
+    }
+  ],
+  "cautions": [
+    "assume that S V=(確かめずに)〜だと思い込む・仮定する",
+    "assume responsibility / power=責任を引き受ける・権力を握る",
+    "assuming (that) S V=〜と仮定すれば",
+    "名詞は assumption(仮定・思い込み)"
+  ],
+  "patterns": [
+    {
+      "form": "assume that S V",
+      "meaning": "〜だと思い込む・仮定する"
+    },
+    {
+      "form": "assume responsibility",
+      "meaning": "責任を引き受ける"
+    },
+    {
+      "form": "assuming (that) S V",
+      "meaning": "〜と仮定すれば"
+    },
+    {
+      "form": "on the assumption that S V",
+      "meaning": "〜という前提で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "思い込む",
+      "en": "I assumed that he was a student because he looked so young.",
+      "ja": "とても若く見えたので、私は彼を学生だと思い込んでいた。"
+    },
+    {
+      "source": "original",
+      "label": "仮定する",
+      "en": "Let us assume that the price of oil doubles in the next ten years.",
+      "ja": "今後10年で石油の価格が2倍になると仮定してみよう。"
+    },
+    {
+      "source": "original",
+      "label": "引き受ける",
+      "en": "She will assume the role of team leader from next month.",
+      "ja": "彼女は来月から、チームリーダーの役目を引き受ける。"
+    },
+    {
+      "source": "original",
+      "label": "責任を負う",
+      "en": "The company refused to assume responsibility for the accident.",
+      "ja": "その会社は、事故の責任を負うことを拒んだ。"
+    },
+    {
+      "source": "original",
+      "label": "assuming that",
+      "en": "Assuming that it does not rain, the game will start at two.",
+      "ja": "雨が降らないとすれば、試合は2時に始まる。"
+    },
+    {
+      "source": "original",
+      "label": "assumption(名詞)",
+      "en": "His whole plan is based on the assumption that sales will increase.",
+      "ja": "彼の計画全体は、売上が伸びるという前提に基づいている。"
+    }
+  ],
+  "check_points": [
+    "「思い込む」と「引き受ける」を「自分の方へ取り込む」で説明できるか",
+    "assuming that はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "assume that(思い込む・仮定する)、assumption が論説文で必須。assume responsibility も出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 93
+    }
+  ]
+}

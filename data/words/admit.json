@@ -1,0 +1,94 @@
+{
+  "word": "admit",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ədˈmɪt/",
+  "core_image": {
+    "text": "中へ通す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"150\" y=\"40\" width=\"50\" height=\"100\"/><line x1=\"150\" y1=\"40\" x2=\"130\" y2=\"56\"/><line x1=\"130\" y1=\"56\" x2=\"130\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"56\" y1=\"74\" x2=\"44\" y2=\"96\"/><line x1=\"56\" y1=\"74\" x2=\"70\" y2=\"94\"/><line x1=\"82\" y1=\"86\" x2=\"122\" y2=\"86\"/><polyline points=\"115,82.2 122,86 115,89.8\"/></g><text x=\"102\" y=\"72\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">中へ通す</text><text x=\"175\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">入口</text></svg>"
+  },
+  "etymology": "ad(〜へ) + mit(送る。commit, permit と同じ) → 中へ送り入れる → 入場・入学・入院を許す → 事実を心の中へ通す=(しぶしぶ)認める",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to agree that something is true, especially when you do not want to, or to allow someone to enter a place or join a school."
+    }
+  ],
+  "cautions": [
+    "admit doing / admit that S V=〜したことを認める(to do は×)。admit to doing も使う",
+    "be admitted to A=Aへの入学・入院・入場を許される",
+    "名詞 admission=入場(料)・入学許可・(罪を)認めること",
+    "admittedly=確かに(〜だが)"
+  ],
+  "patterns": [
+    {
+      "form": "admit doing",
+      "meaning": "〜したことを認める"
+    },
+    {
+      "form": "admit that S V",
+      "meaning": "〜だと認める"
+    },
+    {
+      "form": "be admitted to A",
+      "meaning": "Aに入るのを許される"
+    },
+    {
+      "form": "admission",
+      "meaning": "入場・入学許可"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "認める(that節)",
+      "en": "He admitted that he had made a serious mistake.",
+      "ja": "彼は重大な間違いをしたことを認めた。"
+    },
+    {
+      "source": "original",
+      "label": "admit doing",
+      "en": "She admitted breaking the window while playing with a ball.",
+      "ja": "彼女は、ボール遊びをしていて窓を割ったことを認めた。"
+    },
+    {
+      "source": "original",
+      "label": "入学を許す",
+      "en": "Only fifty students are admitted to this course each year.",
+      "ja": "この課程には、毎年50人の学生しか入学を許されない。"
+    },
+    {
+      "source": "original",
+      "label": "入場を許す",
+      "en": "Children under six are not admitted to the concert hall.",
+      "ja": "6歳未満の子どもは、そのコンサートホールに入場できない。"
+    },
+    {
+      "source": "original",
+      "label": "入院させる",
+      "en": "He was admitted to hospital with a high fever last night.",
+      "ja": "彼は昨夜、高熱で入院した。"
+    },
+    {
+      "source": "original",
+      "label": "admission(名詞)",
+      "en": "Admission to the museum is free on the first Sunday of every month.",
+      "ja": "その博物館は、毎月第1日曜日は入場無料だ。"
+    }
+  ],
+  "check_points": [
+    "「認める」と「入学を許す」を「中へ通す」で説明できるか",
+    "admit の後ろに動詞を続けるときの形は何か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "admit doing、be admitted to、admission が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 121
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "provide",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/prəˈvaɪd/",
+  "core_image": {
+    "text": "先を見て、前もって用意する",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 72,60 68,48\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><line x1=\"74\" y1=\"48\" x2=\"150\" y2=\"40\" stroke-dasharray=\"5 5\"/><polyline points=\"142.6,36.9 150,40 143.4,44.5\"/><path d=\"M150 110 L156 140 L204 140 L210 110 Z\"/><circle cx=\"170\" cy=\"104\" r=\"8\"/><circle cx=\"190\" cy=\"104\" r=\"8\"/></g><text x=\"116\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">先を見る</text><text x=\"180\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">用意しておく</text></svg>"
+  },
+  "etymology": "pro(前を) + vide(見る。video, vision, evidence と同じ) → 先を見る → 先を見越して備える → 必要な物を用意して与える。provided that は「〜を見越した条件で」=もし〜ならば",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give someone something that they need, or to make something available for them to use."
+    }
+  ],
+  "cautions": [
+    "provide A with B = provide B for A(to も可)=AにBを供給する。give のような provide A B の形は避ける",
+    "provide for A=Aを養う・Aに備える",
+    "provided (that) S V = providing S V=もし〜ならば(条件)",
+    "名詞は provision(供給・備え)"
+  ],
+  "patterns": [
+    {
+      "form": "provide A with B",
+      "meaning": "AにBを供給する"
+    },
+    {
+      "form": "provide B for A",
+      "meaning": "BをAに供給する"
+    },
+    {
+      "form": "provide for A",
+      "meaning": "Aを養う・Aに備える"
+    },
+    {
+      "form": "provided (that) S V",
+      "meaning": "もし〜ならば"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "provide A with B",
+      "en": "The school provides every student with a tablet computer.",
+      "ja": "その学校は、生徒全員にタブレット端末を支給している。"
+    },
+    {
+      "source": "original",
+      "label": "provide B for A",
+      "en": "The hotel provides free shuttle buses for its guests.",
+      "ja": "そのホテルは、宿泊客に無料の送迎バスを用意している。"
+    },
+    {
+      "source": "original",
+      "label": "与える",
+      "en": "This book provides useful information about studying abroad.",
+      "ja": "この本は、留学について役に立つ情報を与えてくれる。"
+    },
+    {
+      "source": "original",
+      "label": "provide for=養う",
+      "en": "He works day and night to provide for his large family.",
+      "ja": "彼は大家族を養うために、昼も夜も働いている。"
+    },
+    {
+      "source": "original",
+      "label": "provided that=もし〜ならば",
+      "en": "You can go out tonight provided that you finish your homework first.",
+      "ja": "先に宿題を終えるなら、今夜出かけてもよい。"
+    },
+    {
+      "source": "original",
+      "label": "provide for=備える",
+      "en": "We must provide for the possibility of another earthquake.",
+      "ja": "もう一度地震が起こる可能性に備えなければならない。"
+    }
+  ],
+  "check_points": [
+    "provide A with B と provide B for A を、A と B を入れ替えて言い換えられるか",
+    "provided that が if の意味になるわけを「先を見て用意する」から説明できるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "provide A with B / B for A、provided that が文法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 101
+    }
+  ]
+}

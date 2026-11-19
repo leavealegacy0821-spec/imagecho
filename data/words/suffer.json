@@ -1,0 +1,93 @@
+{
+  "word": "suffer",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈsʌfər/",
+  "core_image": {
+    "text": "下から支えて、じっと耐える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"96\" cy=\"96\" r=\"10\"/><line x1=\"108\" y1=\"98\" x2=\"140\" y2=\"108\"/><line x1=\"140\" y1=\"108\" x2=\"132\" y2=\"140\"/><line x1=\"140\" y1=\"108\" x2=\"156\" y2=\"140\"/><line x1=\"112\" y1=\"100\" x2=\"104\" y2=\"122\"/><rect x=\"112\" y=\"46\" width=\"56\" height=\"48\"/><line x1=\"140\" y1=\"12\" x2=\"140\" y2=\"38\"/><polyline points=\"143.8,31 140,38 136.2,31\"/></g><text x=\"196\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">重い苦しみ</text><text x=\"52\" y=\"128\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">耐える</text></svg>"
+  },
+  "etymology": "suf(sub=下で) + fer(運ぶ・耐える。offer, prefer, refer と同じ) → 下で支え持つ → 苦しみを身に受ける → 病気をわずらう(suffer from)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to experience pain, illness or difficulty, or to be badly affected by something."
+    }
+  ],
+  "cautions": [
+    "suffer from A=A(病気・問題)に苦しむ・わずらう(続いている状態)",
+    "suffer A=A(損害・痛み・敗北)を受ける。他動詞(suffer damage、suffer a loss)",
+    "名詞 suffering=苦しみ"
+  ],
+  "patterns": [
+    {
+      "form": "suffer from A",
+      "meaning": "Aに苦しむ・Aをわずらう"
+    },
+    {
+      "form": "suffer damage",
+      "meaning": "被害を受ける"
+    },
+    {
+      "form": "suffer a loss",
+      "meaning": "損失をこうむる"
+    },
+    {
+      "form": "suffering",
+      "meaning": "苦しみ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "suffer from(病気)",
+      "en": "My father has suffered from back pain for many years.",
+      "ja": "父は長年、腰痛に苦しんでいる。"
+    },
+    {
+      "source": "original",
+      "label": "苦しむ",
+      "en": "Many children in the area are suffering from hunger.",
+      "ja": "その地域では、多くの子どもが飢えに苦しんでいる。"
+    },
+    {
+      "source": "original",
+      "label": "(被害を)受ける",
+      "en": "The town suffered serious damage in the earthquake.",
+      "ja": "その町は、地震で深刻な被害を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "(損失を)こうむる",
+      "en": "The company suffered a heavy loss last year.",
+      "ja": "その会社は去年、大きな損失をこうむった。"
+    },
+    {
+      "source": "original",
+      "label": "悪影響を受ける",
+      "en": "Your health will suffer if you keep working without rest.",
+      "ja": "休まずに働き続ければ、健康を損なうことになる。"
+    },
+    {
+      "source": "original",
+      "label": "suffering(名詞)",
+      "en": "The war caused great suffering to millions of people.",
+      "ja": "その戦争は、何百万もの人々に大きな苦しみをもたらした。"
+    }
+  ],
+  "check_points": [
+    "suffer from A と suffer A の違い(病気か、損害か)を言えるか",
+    "fer(運ぶ)を持つ語を3つ言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "suffer from(病気)、suffer damage / a loss が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 188
+    }
+  ]
+}

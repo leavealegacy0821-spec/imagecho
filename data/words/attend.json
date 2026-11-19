@@ -1,0 +1,95 @@
+{
+  "word": "attend",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈtend/",
+  "core_image": {
+    "text": "心と体をそちらへ向ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"138\" x2=\"225\" y2=\"138\"/><circle cx=\"78\" cy=\"52\" r=\"10\"/><line x1=\"74\" y1=\"61\" x2=\"58\" y2=\"104\"/><line x1=\"70\" y1=\"72\" x2=\"112\" y2=\"70\"/><polyline points=\"70,72 58,84 66,96\"/><line x1=\"58\" y1=\"104\" x2=\"42\" y2=\"138\"/><line x1=\"58\" y1=\"104\" x2=\"74\" y2=\"138\"/><line x1=\"120\" y1=\"70\" x2=\"152\" y2=\"66\"/><polyline points=\"143,61 152,66 144,73\"/><line x1=\"92\" y1=\"46\" x2=\"152\" y2=\"40\" stroke-dasharray=\"5 6\"/><polyline points=\"143,35 152,40 144,47\"/><rect x=\"162\" y=\"26\" width=\"58\" height=\"46\"/><line x1=\"172\" y1=\"40\" x2=\"210\" y2=\"40\"/><line x1=\"172\" y1=\"52\" x2=\"200\" y2=\"52\"/><line x1=\"174\" y1=\"72\" x2=\"168\" y2=\"138\"/><line x1=\"208\" y1=\"72\" x2=\"214\" y2=\"138\"/></g><text x=\"56\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">心も体も</text><text x=\"188\" y=\"17\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">向ける先</text></svg>"
+  },
+  "etymology": "at(〜へ。ad の変化形) + tend(伸ばす。ラテン語 tendere) → 心や体をそちらへ伸ばす → 体を向ける(その場に行く=出席する・通う) → 心を向ける(attend to =注意を払う・処理する・世話をする)。名詞 attention(注意)も同じ語源",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to go to an event, a meeting, or a place such as a school. With \"to,\" it means to give your attention to something or to take care of someone or something."
+    }
+  ],
+  "cautions": [
+    "「出席する」は他動詞。attend the meeting が正しく、attend to / at the meeting としない",
+    "attend to A は別の意味で「Aに注意を向ける・Aを処理する・Aの世話をする」",
+    "名詞が2つ。attendance =出席、attention =注意。attendant は「係員・付き添い」",
+    "「参加する」でも、participate in / take part in は自分も活動に加わる感じ。attend はその場に行って出ていること"
+  ],
+  "patterns": [
+    {
+      "form": "attend a meeting / class",
+      "meaning": "会議／授業に出席する(前置詞なし)"
+    },
+    {
+      "form": "attend school / college",
+      "meaning": "学校／大学に通う"
+    },
+    {
+      "form": "attend to A",
+      "meaning": "Aに注意を向ける・Aを処理する・Aの世話をする"
+    },
+    {
+      "form": "pay attention to A",
+      "meaning": "Aに注意を払う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "出席する",
+      "en": "More than two hundred people attended the meeting held at the city hall last night.",
+      "ja": "昨夜、市役所で開かれた会議には200人以上が出席した。"
+    },
+    {
+      "source": "original",
+      "label": "(学校に)通う",
+      "en": "Her younger brother attends a high school that is famous for its baseball team.",
+      "ja": "彼女の弟は、野球部で有名な高校に通っている。"
+    },
+    {
+      "source": "original",
+      "label": "出席する(受け身)",
+      "en": "The special lecture was attended by students from more than ten different countries.",
+      "ja": "その特別講義には、10か国以上から来た学生が出席した。"
+    },
+    {
+      "source": "original",
+      "label": "attend to=注意を向ける",
+      "en": "You should attend to what the teacher is saying instead of looking out the window.",
+      "ja": "窓の外を見ていないで、先生の言っていることに注意を向けるべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "attend to=処理する",
+      "en": "I have some urgent business to attend to, so I must leave the party early.",
+      "ja": "片づけなければならない急ぎの用事があるので、パーティーを早めに失礼しなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "attend to=世話をする",
+      "en": "The nurses attended to the injured passengers until the ambulances arrived at the station.",
+      "ja": "救急車が駅に着くまで、看護師たちがけがをした乗客の手当てをした。"
+    }
+  ],
+  "check_points": [
+    "「出席する」と「注意を向ける」が、「そちらへ伸ばす」という1つの絵でつながることを説明できるか",
+    "attend the meeting と attend to the matter で、to の有無によって意味がどう変わるか言えるか",
+    "attendance と attention を、それぞれ attend のどの意味の名詞か区別できるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "他動詞なのに前置詞を付けてしまう誤りを問う正誤・空所補充の定番。attend to A(処理する・世話をする)の意味や、attendance と attention の使い分けも問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 6
+    }
+  ]
+}

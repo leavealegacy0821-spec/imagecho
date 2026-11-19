@@ -1,0 +1,87 @@
+{
+  "word": "impress",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪmˈpres/",
+  "core_image": {
+    "text": "心にぐっと押しつけて跡を残す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"44\" y2=\"58\"/><line x1=\"60\" y1=\"74\" x2=\"76\" y2=\"58\"/><rect x=\"150\" y=\"44\" width=\"30\" height=\"36\"/><rect x=\"140\" y=\"80\" width=\"50\" height=\"12\"/><line x1=\"165\" y1=\"14\" x2=\"165\" y2=\"38\"/><polyline points=\"168.8,31 165,38 161.2,31\"/><rect x=\"130\" y=\"112\" width=\"70\" height=\"28\"/></g><text x=\"165\" y=\"106\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">跡が残る</text><text x=\"60\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すごい!</text></svg>"
+  },
+  "etymology": "im(in=中へ) + press(押す) → 心の中に押しつける → 強い印象を残す・感心させる。impression=押されてできた跡=印象",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone feel admiration and respect because of what you do or how good you are."
+    }
+  ],
+  "cautions": [
+    "感情の動詞。「(人が)感心する」は受け身で be impressed with / by A",
+    "impressive=「(物事が)印象的な」、impressed=「(人が)感心して」。主語で使い分ける",
+    "「印象」は impression。make a good impression on A=Aに良い印象を与える"
+  ],
+  "patterns": [
+    {
+      "form": "be impressed with / by A",
+      "meaning": "Aに感心する"
+    },
+    {
+      "form": "impress A with B",
+      "meaning": "BでAを感心させる"
+    },
+    {
+      "form": "make an impression on A",
+      "meaning": "Aに印象を与える"
+    },
+    {
+      "form": "impress A on B",
+      "meaning": "AをBに強く印象づける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "感心させる",
+      "en": "Her speech impressed the audience so much that everyone stood up and clapped.",
+      "ja": "彼女のスピーチは聴衆をとても感動させ、全員が立ち上がって拍手した。"
+    },
+    {
+      "source": "original",
+      "label": "be impressed with",
+      "en": "I was deeply impressed with the beauty of the temple in the early morning.",
+      "ja": "早朝のその寺の美しさに、私は深く感動した。"
+    },
+    {
+      "source": "original",
+      "label": "impress A with B",
+      "en": "The young pianist impressed the judges with his powerful and delicate performance.",
+      "ja": "その若いピアニストは、力強く繊細な演奏で審査員を感心させた。"
+    },
+    {
+      "source": "original",
+      "label": "impressive(形容詞)",
+      "en": "The view from the top of the mountain was more impressive than I had expected.",
+      "ja": "山頂からの眺めは、思っていたよりも印象的だった。"
+    },
+    {
+      "source": "original",
+      "label": "impression(名詞)",
+      "en": "It is important to make a good impression on the interviewer in the first minute.",
+      "ja": "最初の1分で面接官に良い印象を与えることが大切だ。"
+    }
+  ],
+  "check_points": [
+    "「私は感心した」が I impressed ではなく I was impressed になる理由を説明できるか",
+    "impressive と impressed の主語の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "感情動詞として impressed / impressive の使い分けが文法問題に出る。make an impression on A も頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 13
+    }
+  ]
+}

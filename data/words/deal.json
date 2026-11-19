@@ -1,0 +1,103 @@
+{
+  "word": "deal",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/diːl/",
+  "core_image": {
+    "text": "分けて配る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 80,78 98,74\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><rect x=\"98\" y=\"64\" width=\"16\" height=\"22\"/><line x1=\"120\" y1=\"68\" x2=\"160\" y2=\"44\" stroke-dasharray=\"5 5\"/><polyline points=\"152,44.3 160,44 156,50.9\"/><line x1=\"120\" y1=\"76\" x2=\"168\" y2=\"80\" stroke-dasharray=\"5 5\"/><polyline points=\"161.3,75.6 168,80 160.7,83.2\"/><line x1=\"120\" y1=\"84\" x2=\"160\" y2=\"112\" stroke-dasharray=\"5 5\"/><polyline points=\"156.4,104.8 160,112 152,111.1\"/><rect x=\"166\" y=\"28\" width=\"16\" height=\"22\"/><rect x=\"174\" y=\"70\" width=\"16\" height=\"22\"/><rect x=\"166\" y=\"106\" width=\"16\" height=\"22\"/></g><text x=\"110\" y=\"32\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">分けて配る</text></svg>"
+  },
+  "etymology": "古英語 dælan(分ける。ドイツ語 teilen と同じ) → 分け与える・配る → 分け前=量(a great deal of)／品物を分け合う=取引(a deal, deal in)／相手ごとに配って対応する=扱う(deal with)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to take action to solve a problem (deal with), to buy and sell goods (deal in), or to give out cards to players."
+    },
+    {
+      "pos": "名詞",
+      "text": "an agreement, especially in business, or a large amount of something (a great deal)."
+    }
+  ],
+  "cautions": [
+    "deal with A=Aを扱う・Aに対処する(=cope with, handle, address)",
+    "deal in A=A(商品)を商う",
+    "a great (good) deal of + 数えられない名詞=たくさんの",
+    "活用は deal - dealt - dealt。dealt の発音は /delt/"
+  ],
+  "patterns": [
+    {
+      "form": "deal with A",
+      "meaning": "Aを扱う・Aに対処する"
+    },
+    {
+      "form": "deal in A",
+      "meaning": "Aを商う"
+    },
+    {
+      "form": "a great deal of A",
+      "meaning": "たくさんのA"
+    },
+    {
+      "form": "make a deal with A",
+      "meaning": "Aと取引する"
+    },
+    {
+      "form": "a big deal",
+      "meaning": "大したこと"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "deal with=対処する",
+      "en": "We need to learn how to deal with stress before it damages our health.",
+      "ja": "ストレスが健康を害する前に、その対処法を身につける必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "deal with=扱う",
+      "en": "This book deals with the history of Japanese food culture.",
+      "ja": "この本は日本の食文化の歴史を扱っている。"
+    },
+    {
+      "source": "original",
+      "label": "deal in=商う",
+      "en": "His family has dealt in used cars for three generations.",
+      "ja": "彼の家は3代にわたって中古車を商ってきた。"
+    },
+    {
+      "source": "original",
+      "label": "a great deal of=たくさんの",
+      "en": "She spent a great deal of time and money on her research.",
+      "ja": "彼女は研究に多くの時間とお金を費やした。"
+    },
+    {
+      "source": "original",
+      "label": "取引(名詞)",
+      "en": "The two companies finally made a deal after months of difficult talks.",
+      "ja": "何か月もの難しい交渉の末、2社はついに取引をまとめた。"
+    },
+    {
+      "source": "original",
+      "label": "配る",
+      "en": "He dealt five cards to each player and put the rest on the table.",
+      "ja": "彼は各プレーヤーにカードを5枚ずつ配り、残りをテーブルに置いた。"
+    }
+  ],
+  "check_points": [
+    "deal with・a great deal of・取引を「分けて配る」で説明できるか",
+    "deal with と deal in の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "deal with は必須。a great deal of の後ろは数えられない名詞。dealt の活用・発音も問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 29
+    }
+  ]
+}

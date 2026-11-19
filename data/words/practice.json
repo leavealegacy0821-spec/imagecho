@@ -1,0 +1,104 @@
+{
+  "word": "practice",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈpræktɪs/",
+  "core_image": {
+    "text": "頭の中ではなく、実際に行うこと",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"52\" cy=\"52\" r=\"10\"/><line x1=\"52\" y1=\"62\" x2=\"52\" y2=\"106\"/><line x1=\"52\" y1=\"106\" x2=\"42\" y2=\"140\"/><line x1=\"52\" y1=\"106\" x2=\"62\" y2=\"140\"/><ellipse cx=\"52\" cy=\"18\" rx=\"24\" ry=\"11\" stroke-dasharray=\"4 4\"/><line x1=\"90\" y1=\"82\" x2=\"134\" y2=\"82\"/><polyline points=\"127,78.2 134,82 127,85.8\"/><circle cx=\"168\" cy=\"52\" r=\"10\"/><line x1=\"168\" y1=\"62\" x2=\"168\" y2=\"106\"/><line x1=\"168\" y1=\"106\" x2=\"158\" y2=\"140\"/><line x1=\"168\" y1=\"106\" x2=\"178\" y2=\"140\"/><polyline points=\"168,74 188,66 198,52\"/><line x1=\"168\" y1=\"74\" x2=\"158\" y2=\"96\"/><rect x=\"192\" y=\"42\" width=\"20\" height=\"10\"/></g><text x=\"52\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">考え</text><text x=\"176\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">実際に行う</text></svg>"
+  },
+  "etymology": "ギリシャ語 prassein(行う) → praktikos(実行に関わる。practical と同じ) → 実際に行うこと=実行・実践(⇔ theory=理論) → くり返し行う=練習 → いつも行うこと=習慣・慣行 → 医者・弁護士が実際に行う仕事=開業",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the act of doing something regularly in order to improve, or something that people do often in a particular way."
+    },
+    {
+      "pos": "動詞",
+      "text": "to do an activity regularly in order to improve your skill, or to work as a doctor or lawyer."
+    }
+  ],
+  "cautions": [
+    "in practice=実際には(⇔ in theory=理論上は)",
+    "put A into practice=Aを実行に移す",
+    "「習慣・慣行」の意味がある(a common practice)",
+    "practice doing=〜する練習をする(to do は×)",
+    "practical=実用的な、practically=事実上・ほとんど"
+  ],
+  "patterns": [
+    {
+      "form": "in practice",
+      "meaning": "実際には"
+    },
+    {
+      "form": "put A into practice",
+      "meaning": "Aを実行に移す"
+    },
+    {
+      "form": "practice doing",
+      "meaning": "〜する練習をする"
+    },
+    {
+      "form": "a common practice",
+      "meaning": "よくある慣行"
+    },
+    {
+      "form": "practice medicine",
+      "meaning": "医者をしている"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "練習",
+      "en": "It takes years of practice to play the violin well.",
+      "ja": "バイオリンを上手に弾くには、何年もの練習が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "practice doing",
+      "en": "She practices speaking English with her neighbor every weekend.",
+      "ja": "彼女は毎週末、近所の人と英語を話す練習をしている。"
+    },
+    {
+      "source": "original",
+      "label": "in practice=実際には",
+      "en": "The plan looked perfect on paper, but in practice it did not work.",
+      "ja": "その計画は紙の上では完璧に見えたが、実際にはうまくいかなかった。"
+    },
+    {
+      "source": "original",
+      "label": "実行に移す",
+      "en": "It is time to put your ideas into practice.",
+      "ja": "そろそろ君の考えを実行に移すときだ。"
+    },
+    {
+      "source": "original",
+      "label": "習慣・慣行",
+      "en": "Giving gifts at the end of the year is a common practice in Japan.",
+      "ja": "年末に贈り物をするのは、日本ではよくある習慣だ。"
+    },
+    {
+      "source": "original",
+      "label": "開業している",
+      "en": "He has practiced medicine in this small town for forty years.",
+      "ja": "彼はこの小さな町で、40年間医者をしてきた。"
+    }
+  ],
+  "check_points": [
+    "練習・習慣・開業を「実際に行うこと」で説明できるか",
+    "in practice と対になる表現は何か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "in practice、put A into practice、「慣行」の意味、practically(ほとんど)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 74
+    }
+  ]
+}

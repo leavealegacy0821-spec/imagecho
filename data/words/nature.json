@@ -1,0 +1,94 @@
+{
+  "word": "nature",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈneɪtʃər/",
+  "core_image": {
+    "text": "生まれたままの、もとの性質",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"70\" y1=\"140\" x2=\"70\" y2=\"90\"/><circle cx=\"70\" cy=\"70\" r=\"22\"/><circle cx=\"200\" cy=\"30\" r=\"10\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"138\" y2=\"98\"/><line x1=\"150\" y1=\"74\" x2=\"162\" y2=\"98\"/><circle cx=\"150\" cy=\"86\" r=\"6\"/></g><text x=\"70\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">自然</text><text x=\"206\" y=\"118\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">生まれつき</text></svg>"
+  },
+  "etymology": "ラテン語 natus(生まれた。native, natural, nation と同じ) → natura(生まれ・本来の性質) → 人や物の本質・性質 → 人の手が加わらない世界=自然",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "all the plants, animals and things in the world that are not made by people, or the basic character of a person or thing."
+    }
+  ],
+  "cautions": [
+    "「自然」は無冠詞で nature。the nature of A は「Aの性質・本質」",
+    "by nature=生まれつき・本来",
+    "human nature=人間の本性",
+    "形容詞 natural=自然の・当然の"
+  ],
+  "patterns": [
+    {
+      "form": "the nature of A",
+      "meaning": "Aの性質・本質"
+    },
+    {
+      "form": "by nature",
+      "meaning": "生まれつき"
+    },
+    {
+      "form": "human nature",
+      "meaning": "人間の本性"
+    },
+    {
+      "form": "in nature",
+      "meaning": "自然界では・性質上"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "自然",
+      "en": "We spent the weekend enjoying nature in the mountains.",
+      "ja": "私たちは週末、山で自然を楽しんで過ごした。"
+    },
+    {
+      "source": "original",
+      "label": "性質",
+      "en": "It is in the nature of children to ask questions.",
+      "ja": "質問をするのは子どもの性質だ。"
+    },
+    {
+      "source": "original",
+      "label": "by nature=生まれつき",
+      "en": "She is shy by nature, but she becomes lively with close friends.",
+      "ja": "彼女は生まれつき内気だが、親しい友人といるとにぎやかになる。"
+    },
+    {
+      "source": "original",
+      "label": "本質",
+      "en": "Scientists are still studying the nature of dark matter.",
+      "ja": "科学者たちは、今も暗黒物質の本質を研究している。"
+    },
+    {
+      "source": "original",
+      "label": "human nature",
+      "en": "It is human nature to want to be liked by others.",
+      "ja": "人に好かれたいと思うのは、人間の本性だ。"
+    },
+    {
+      "source": "original",
+      "label": "種類",
+      "en": "I cannot answer questions of a personal nature.",
+      "ja": "個人的な性質の質問にはお答えできません。"
+    }
+  ],
+  "check_points": [
+    "「自然」と「性質」を「生まれたまま」で説明できるか",
+    "by nature はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "the nature of A(性質)、by nature が長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 215
+    }
+  ]
+}

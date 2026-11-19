@@ -1,0 +1,107 @@
+{
+  "word": "leave",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/liːv/",
+  "core_image": {
+    "text": "その場に残して離れる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"46\" y=\"116\" width=\"30\" height=\"24\"/><path d=\"M52 116 Q61 104 70 116\"/><circle cx=\"168\" cy=\"52\" r=\"10\"/><line x1=\"168\" y1=\"62\" x2=\"168\" y2=\"106\"/><line x1=\"168\" y1=\"106\" x2=\"158\" y2=\"140\"/><line x1=\"168\" y1=\"106\" x2=\"178\" y2=\"140\"/><line x1=\"168\" y1=\"74\" x2=\"156\" y2=\"96\"/><line x1=\"168\" y1=\"74\" x2=\"182\" y2=\"94\"/><line x1=\"192\" y1=\"74\" x2=\"224\" y2=\"74\"/><polyline points=\"217,70.2 224,74 217,77.8\"/><line x1=\"84\" y1=\"128\" x2=\"150\" y2=\"128\" stroke-dasharray=\"5 5\"/></g><text x=\"62\" y=\"94\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">残されたもの</text><text x=\"168\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">離れる</text></svg>"
+  },
+  "etymology": "古英語 læfan(残す) → 残して去る → 場所を離れる(出発する)／物を置いていく・置き忘れる／そのままの状態で残す(leave A + 形容詞)／人に残して任せる(leave A to B)。名詞「休暇」は別の語(古英語 leaf=許し)で「離れる許し」",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to go away from a place or a person, or to let something stay in a particular place or state."
+    },
+    {
+      "pos": "名詞",
+      "text": "a period of time when you are allowed to be away from work."
+    }
+  ],
+  "cautions": [
+    "leave A=Aを去る、leave for B=Bへ向けて出発する、leave A for B=Aを去ってBへ向かう",
+    "leave A + 形容詞・分詞=Aを〜のままにしておく(leave the door open)",
+    "leave A to B=AをBに任せる、leave A alone=Aを放っておく",
+    "活用は leave - left - left。名詞で on leave=休暇中"
+  ],
+  "patterns": [
+    {
+      "form": "leave A for B",
+      "meaning": "Aを去ってBへ向かう"
+    },
+    {
+      "form": "leave for A",
+      "meaning": "Aへ出発する"
+    },
+    {
+      "form": "leave A + 形容詞",
+      "meaning": "Aを〜のままにしておく"
+    },
+    {
+      "form": "leave A to B",
+      "meaning": "AをBに任せる"
+    },
+    {
+      "form": "leave A alone",
+      "meaning": "Aを放っておく"
+    },
+    {
+      "form": "leave A behind",
+      "meaning": "Aを置いていく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "去る",
+      "en": "She left Japan for France when she was only eighteen years old.",
+      "ja": "彼女はまだ18歳のとき、日本を離れてフランスへ向かった。"
+    },
+    {
+      "source": "original",
+      "label": "出発する(leave for)",
+      "en": "We are leaving for Kyoto early tomorrow morning.",
+      "ja": "私たちは明日の朝早く、京都へ出発する。"
+    },
+    {
+      "source": "original",
+      "label": "置き忘れる",
+      "en": "I left my umbrella on the train again this morning.",
+      "ja": "今朝、また電車に傘を置き忘れた。"
+    },
+    {
+      "source": "original",
+      "label": "leave A + 形容詞=ままにする",
+      "en": "Don't leave the door open when you go out in winter.",
+      "ja": "冬に外出するときは、ドアを開けっぱなしにしないで。"
+    },
+    {
+      "source": "original",
+      "label": "leave A to B=任せる",
+      "en": "Leave the cooking to me and go sit down for a while.",
+      "ja": "料理は私に任せて、しばらく座っていなさい。"
+    },
+    {
+      "source": "original",
+      "label": "休暇(名詞)",
+      "en": "He is on sick leave and will not be back until next month.",
+      "ja": "彼は病気で休んでいて、来月まで戻らない。"
+    }
+  ],
+  "check_points": [
+    "leave Tokyo と leave for Tokyo の違いを言えるか",
+    "置き忘れる・任せるを「残して離れる」で説明できるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "leave A for B、leave A + 形容詞、leave A to B が文法の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 69
+    }
+  ]
+}

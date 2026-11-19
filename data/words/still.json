@@ -1,0 +1,103 @@
+{
+  "word": "still",
+  "pos": [
+    "副詞",
+    "形容詞"
+  ],
+  "ipa": "/stɪl/",
+  "core_image": {
+    "text": "動かずに、そのままでいる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"76\" cy=\"52\" r=\"10\"/><line x1=\"76\" y1=\"62\" x2=\"76\" y2=\"106\"/><line x1=\"76\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"76\" y1=\"106\" x2=\"86\" y2=\"140\"/><line x1=\"76\" y1=\"74\" x2=\"64\" y2=\"98\"/><line x1=\"76\" y1=\"74\" x2=\"88\" y2=\"98\"/><circle cx=\"170\" cy=\"70\" r=\"26\"/><line x1=\"170\" y1=\"70\" x2=\"170\" y2=\"52\"/><line x1=\"170\" y1=\"70\" x2=\"184\" y2=\"76\"/></g><text x=\"76\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">動かない</text><text x=\"170\" y=\"116\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">時間がたっても</text></svg>"
+  },
+  "etymology": "古英語 stille(動かない・静かな) → 形容詞「じっとした・静かな」 → 副詞「変わらずそのまま」=今もまだ → 「事情が変わってもそのまま」=それでも → 比較級を強めて「さらに」",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "continuing until now or until a particular time, or in spite of what has just been said."
+    },
+    {
+      "pos": "形容詞",
+      "text": "not moving, or calm and quiet."
+    }
+  ],
+  "cautions": [
+    "still は「(続いていて)まだ」。yet は否定文・疑問文で「まだ〜ない・もう」",
+    "否定文では still を not の前に置く: He still hasn't come.",
+    "文頭の Still, は「それでも」",
+    "still + 比較級=さらに。形容詞で sit still、stand still"
+  ],
+  "patterns": [
+    {
+      "form": "still + 動詞",
+      "meaning": "まだ〜している"
+    },
+    {
+      "form": "still + 比較級",
+      "meaning": "さらに〜"
+    },
+    {
+      "form": "sit / stand still",
+      "meaning": "じっと座る・立つ"
+    },
+    {
+      "form": "Still, S V",
+      "meaning": "それでも〜"
+    },
+    {
+      "form": "still less",
+      "meaning": "まして〜ない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "まだ",
+      "en": "My grandmother is ninety, but she still works in her garden every day.",
+      "ja": "祖母は90歳だが、今でも毎日庭仕事をしている。"
+    },
+    {
+      "source": "original",
+      "label": "否定文で",
+      "en": "The bus still hasn't come, though we have waited for half an hour.",
+      "ja": "30分も待っているのに、バスはまだ来ない。"
+    },
+    {
+      "source": "original",
+      "label": "それでも",
+      "en": "It was raining hard. Still, we decided to go out for a walk.",
+      "ja": "雨が激しく降っていた。それでも私たちは散歩に出ることにした。"
+    },
+    {
+      "source": "original",
+      "label": "still + 比較級",
+      "en": "The second problem was difficult, and the third was still harder.",
+      "ja": "2問目は難しかったが、3問目はさらに難しかった。"
+    },
+    {
+      "source": "original",
+      "label": "じっとした(形容詞)",
+      "en": "Please sit still while I am cutting your hair.",
+      "ja": "髪を切っている間は、じっと座っていてください。"
+    },
+    {
+      "source": "original",
+      "label": "静かな(形容詞)",
+      "en": "The lake was so still that it reflected the mountains like a mirror.",
+      "ja": "湖はとても静かで、鏡のように山々を映していた。"
+    }
+  ],
+  "check_points": [
+    "まだ・それでも・じっとしたを「動かずにそのまま」で説明できるか",
+    "still と yet の使い分けを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "否定文での still の位置、still + 比較級、sit still が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 82
+    }
+  ]
+}

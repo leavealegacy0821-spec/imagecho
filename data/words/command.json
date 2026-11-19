@@ -1,0 +1,97 @@
+{
+  "word": "command",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/kəˈmænd/",
+  "core_image": {
+    "text": "上から全体を手の内におさめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M100 140 Q150 62 200 140\"/><circle cx=\"150\" cy=\"24\" r=\"10\"/><line x1=\"150\" y1=\"34\" x2=\"150\" y2=\"72\"/><line x1=\"150\" y1=\"72\" x2=\"142\" y2=\"100\"/><line x1=\"150\" y1=\"72\" x2=\"158\" y2=\"100\"/><polyline points=\"150,46 126,52 110,62\"/><circle cx=\"40\" cy=\"120\" r=\"5\"/><line x1=\"40\" y1=\"125\" x2=\"40\" y2=\"140\"/><circle cx=\"64\" cy=\"120\" r=\"5\"/><line x1=\"64\" y1=\"125\" x2=\"64\" y2=\"140\"/></g><text x=\"62\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">上から手の内に</text><text x=\"52\" y=\"106\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">全体</text></svg>"
+  },
+  "etymology": "com(強く) + mand(手に委ねる・命じる。ラテン語 manus=手。demand, recommend と同じ) → 強く命じる → 思いどおりに動かす(指揮・支配) → 言葉を思いどおりに操る力(a command of English)／高い所から見渡す(command a view)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to tell someone officially to do something, or to be in a position from which you can see a wide area."
+    },
+    {
+      "pos": "名詞",
+      "text": "an order, control over a group of people, or knowledge of something, especially a language."
+    }
+  ],
+  "cautions": [
+    "have a good command of A=「A(言語)を自由に使いこなせる」が入試頻出",
+    "command A to do、command that S (should) 動詞の原形",
+    "command a fine view=見晴らしが良い",
+    "command respect=尊敬を集める"
+  ],
+  "patterns": [
+    {
+      "form": "have a good command of A",
+      "meaning": "Aを自由に使いこなす"
+    },
+    {
+      "form": "command A to do",
+      "meaning": "Aに〜するよう命じる"
+    },
+    {
+      "form": "command a view of A",
+      "meaning": "Aを見渡す"
+    },
+    {
+      "form": "be in command of A",
+      "meaning": "Aを指揮している"
+    },
+    {
+      "form": "command respect",
+      "meaning": "尊敬を集める"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "命じる",
+      "en": "The general commanded his soldiers to stay where they were.",
+      "ja": "将軍は兵士たちに、その場にとどまるよう命じた。"
+    },
+    {
+      "source": "original",
+      "label": "(言語の)運用力",
+      "en": "She has a good command of French because she grew up in Paris.",
+      "ja": "彼女はパリで育ったので、フランス語を自由に使いこなせる。"
+    },
+    {
+      "source": "original",
+      "label": "見渡す",
+      "en": "The hotel on the hill commands a wonderful view of the bay.",
+      "ja": "丘の上のそのホテルからは、湾のすばらしい景色が見渡せる。"
+    },
+    {
+      "source": "original",
+      "label": "指揮(名詞)",
+      "en": "Captain Smith was in command of the ship when the accident happened.",
+      "ja": "事故が起きたとき、スミス船長がその船を指揮していた。"
+    },
+    {
+      "source": "original",
+      "label": "(尊敬を)集める",
+      "en": "The old doctor commands the respect of everyone in the village.",
+      "ja": "その年老いた医者は、村のだれからも尊敬されている。"
+    }
+  ],
+  "check_points": [
+    "命令・言語の運用力・見晴らしを「全体を手の内におさめる」で説明できるか",
+    "「彼は英語を自由に使える」を command を使って言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "have a good command of、command a view が語彙・和訳で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 57
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "express",
+  "pos": [
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/ɪkˈspres/",
+  "core_image": {
+    "text": "中にあるものを外へ押し出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><line x1=\"66\" y1=\"74\" x2=\"54\" y2=\"98\"/><line x1=\"66\" y1=\"74\" x2=\"78\" y2=\"98\"/><circle cx=\"66\" cy=\"88\" r=\"5\"/><line x1=\"84\" y1=\"60\" x2=\"124\" y2=\"48\"/><polyline points=\"116.2,46.3 124,48 118.4,53.7\"/><rect x=\"130\" y=\"24\" width=\"80\" height=\"40\"/><line x1=\"142\" y1=\"38\" x2=\"198\" y2=\"38\"/><line x1=\"142\" y1=\"50\" x2=\"180\" y2=\"50\"/></g><text x=\"170\" y=\"82\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">外へ出す</text><text x=\"110\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">中の気持ち</text></svg>"
+  },
+  "etymology": "ex(外へ) + press(押す) → 押し出す → 考えや気持ちを言葉・顔に出す=表現する。形容詞は「はっきり押し出された」=明白な、「一か所へまっすぐ押し出す」=急行の・速達の",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to show or tell what you think or feel by using words, looks or actions."
+    },
+    {
+      "pos": "形容詞",
+      "text": "traveling or delivered very quickly."
+    }
+  ],
+  "cautions": [
+    "express oneself=自分の考え・気持ちを表現する",
+    "express A to B=AをBに伝える",
+    "名詞 expression は「表現」と「表情」",
+    "形容詞: an express train(急行列車)、express mail(速達)"
+  ],
+  "patterns": [
+    {
+      "form": "express A",
+      "meaning": "Aを表現する"
+    },
+    {
+      "form": "express oneself",
+      "meaning": "自分の考えを表現する"
+    },
+    {
+      "form": "express A to B",
+      "meaning": "AをBに伝える"
+    },
+    {
+      "form": "expression",
+      "meaning": "表現・表情"
+    },
+    {
+      "form": "an express train",
+      "meaning": "急行列車"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "表現する",
+      "en": "It is hard to express my feelings in a foreign language.",
+      "ja": "外国語で自分の気持ちを表現するのは難しい。"
+    },
+    {
+      "source": "original",
+      "label": "express oneself",
+      "en": "Young children often express themselves through drawing.",
+      "ja": "幼い子どもは、絵を描くことで自分を表現することが多い。"
+    },
+    {
+      "source": "original",
+      "label": "伝える",
+      "en": "She expressed her thanks to everyone who had helped her.",
+      "ja": "彼女は、助けてくれた全員に感謝の気持ちを伝えた。"
+    },
+    {
+      "source": "original",
+      "label": "顔に表す",
+      "en": "His face expressed both surprise and joy at the news.",
+      "ja": "その知らせを聞いて、彼の顔には驚きと喜びの両方が表れた。"
+    },
+    {
+      "source": "original",
+      "label": "expression(表情)",
+      "en": "I could tell from her expression that something was wrong.",
+      "ja": "彼女の表情から、何かおかしいとわかった。"
+    },
+    {
+      "source": "original",
+      "label": "急行の(形容詞)",
+      "en": "We took the express train to save half an hour.",
+      "ja": "30分節約するために、急行列車に乗った。"
+    }
+  ],
+  "check_points": [
+    "「表現する」と「急行」を「外へ押し出す」で説明できるか",
+    "express oneself はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "express oneself、expression(表情・表現)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 118
+    }
+  ]
+}

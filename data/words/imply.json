@@ -1,0 +1,94 @@
+{
+  "word": "imply",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪmˈplaɪ/",
+  "core_image": {
+    "text": "中に折りたたんで含ませる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 82,78 106,76\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><rect x=\"110\" y=\"60\" width=\"50\" height=\"36\"/><line x1=\"110\" y1=\"60\" x2=\"160\" y2=\"96\"/><circle cx=\"146\" cy=\"72\" r=\"6\" stroke-dasharray=\"3 3\"/><circle cx=\"204\" cy=\"52\" r=\"10\"/><line x1=\"204\" y1=\"62\" x2=\"204\" y2=\"106\"/><line x1=\"204\" y1=\"106\" x2=\"194\" y2=\"140\"/><line x1=\"204\" y1=\"106\" x2=\"214\" y2=\"140\"/><line x1=\"204\" y1=\"74\" x2=\"192\" y2=\"98\"/><line x1=\"204\" y1=\"74\" x2=\"216\" y2=\"98\"/></g><text x=\"135\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">中に折り込む</text><text x=\"135\" y=\"116\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">はっきり言わない</text></svg>"
+  },
+  "etymology": "im(in=中に) + ply(折る。apply, reply と同じ) → 中に折り込む → はっきり言わずに含ませる=ほのめかす・暗に意味する → 中に含んでいる=必然的に伴う。implicit(暗黙の)⇔ explicit(外に広げた=明白な)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to suggest that something is true without saying it directly, or to make something necessary as a result."
+    }
+  ],
+  "cautions": [
+    "imply that S V=(人が)ほのめかす／(事実が)暗に意味する",
+    "imply は「話し手がほのめかす」、infer は「聞き手が推測する」",
+    "implication=含み。複数形で「影響」(have implications for A)",
+    "implicit(暗黙の)⇔ explicit(明白な)"
+  ],
+  "patterns": [
+    {
+      "form": "imply that S V",
+      "meaning": "〜だとほのめかす・暗に意味する"
+    },
+    {
+      "form": "imply A",
+      "meaning": "Aをほのめかす・Aを伴う"
+    },
+    {
+      "form": "have implications for A",
+      "meaning": "Aに影響がある"
+    },
+    {
+      "form": "implicit",
+      "meaning": "暗黙の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ほのめかす",
+      "en": "He did not say so directly, but he implied that I was lying.",
+      "ja": "彼ははっきりそうは言わなかったが、私がうそをついているとほのめかした。"
+    },
+    {
+      "source": "original",
+      "label": "暗に意味する",
+      "en": "Her silence seemed to imply that she agreed with the plan.",
+      "ja": "彼女の沈黙は、その計画に賛成だということを意味しているようだった。"
+    },
+    {
+      "source": "original",
+      "label": "必然的に伴う",
+      "en": "Freedom implies responsibility for one's own actions.",
+      "ja": "自由には、自分の行動への責任が必ず伴う。"
+    },
+    {
+      "source": "original",
+      "label": "ほのめかす",
+      "en": "Are you implying that I am too old for this job?",
+      "ja": "私はこの仕事には年を取りすぎている、と言いたいのですか。"
+    },
+    {
+      "source": "original",
+      "label": "implication(影響)",
+      "en": "The discovery has important implications for the treatment of cancer.",
+      "ja": "その発見は、がんの治療に重要な影響を持つ。"
+    },
+    {
+      "source": "original",
+      "label": "implicit(形容詞)",
+      "en": "There was an implicit promise in his words that he would help us.",
+      "ja": "彼の言葉には、私たちを助けるという暗黙の約束があった。"
+    }
+  ],
+  "check_points": [
+    "imply と infer の違い(話し手・聞き手)を言えるか",
+    "implicit と explicit を ply(折る)から説明できるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "imply that、implication(s)、imply / infer の区別が難関大で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 151
+    }
+  ]
+}

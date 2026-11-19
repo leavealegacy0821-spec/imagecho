@@ -1,0 +1,98 @@
+{
+  "word": "commit",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kəˈmɪt/",
+  "core_image": {
+    "text": "すっかり委ねて、後戻りしない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"130\" y1=\"60\" x2=\"130\" y2=\"140\" stroke-dasharray=\"5 5\"/><circle cx=\"162\" cy=\"52\" r=\"10\"/><line x1=\"162\" y1=\"62\" x2=\"162\" y2=\"106\"/><line x1=\"162\" y1=\"106\" x2=\"152\" y2=\"140\"/><line x1=\"162\" y1=\"106\" x2=\"172\" y2=\"140\"/><line x1=\"162\" y1=\"74\" x2=\"150\" y2=\"96\"/><line x1=\"162\" y1=\"74\" x2=\"176\" y2=\"94\"/><line x1=\"56\" y1=\"80\" x2=\"118\" y2=\"80\"/><polyline points=\"111,76.2 118,80 111,83.8\"/></g><text x=\"130\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">一線</text><text x=\"186\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">後戻りしない</text></svg>"
+  },
+  "etymology": "com(完全に) + mit(送る。submit, permit, mission と同じ) → すっかり送り出す・委ねる → 身を委ねる=専念する・約束する(be committed to) → 一線を越えてしまう=(罪・過ちを)犯す。committee は「委ねられた人々」=委員会",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to do something wrong or illegal, or to promise to give your time and effort to something."
+    }
+  ],
+  "cautions": [
+    "commit a crime / an error=罪・過ちを犯す",
+    "be committed to A / doing=Aに専念している・Aを約束している。to は前置詞",
+    "commit oneself to A=Aを約束する・Aに身をささげる",
+    "commitment=献身・約束。commit A to memory=Aを暗記する"
+  ],
+  "patterns": [
+    {
+      "form": "commit a crime",
+      "meaning": "罪を犯す"
+    },
+    {
+      "form": "be committed to A / doing",
+      "meaning": "Aに専念している"
+    },
+    {
+      "form": "commit oneself to A",
+      "meaning": "Aを約束する"
+    },
+    {
+      "form": "commitment to A",
+      "meaning": "Aへの献身・約束"
+    },
+    {
+      "form": "commit A to memory",
+      "meaning": "Aを暗記する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "(罪を)犯す",
+      "en": "He insisted that he had never committed any crime in his life.",
+      "ja": "彼は、これまで一度も罪を犯したことはないと主張した。"
+    },
+    {
+      "source": "original",
+      "label": "(過ちを)犯す",
+      "en": "Anyone can commit an error when working under such pressure.",
+      "ja": "そんな重圧の中で働けば、だれでも間違いを犯すことがある。"
+    },
+    {
+      "source": "original",
+      "label": "be committed to=専念している",
+      "en": "The company is committed to reducing waste from its factories.",
+      "ja": "その会社は、工場から出る廃棄物を減らすことに力を注いでいる。"
+    },
+    {
+      "source": "original",
+      "label": "約束する",
+      "en": "She did not want to commit herself to a date for the meeting.",
+      "ja": "彼女は、会議の日取りをはっきり約束したくなかった。"
+    },
+    {
+      "source": "original",
+      "label": "commitment(名詞)",
+      "en": "Learning a language requires a long-term commitment.",
+      "ja": "言語を身につけるには、長期にわたって打ち込むことが必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "暗記する",
+      "en": "The actor committed the whole speech to memory in one night.",
+      "ja": "その俳優は、長いせりふ全体を一晩で暗記した。"
+    }
+  ],
+  "check_points": [
+    "「罪を犯す」と「専念する」を「委ねて後戻りしない」で説明できるか",
+    "be committed to の後ろに来る形は何か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "commit a crime、be committed to doing、commitment が長文・語法に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 95
+    }
+  ]
+}

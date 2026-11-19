@@ -1,0 +1,98 @@
+{
+  "word": "warn",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/wɔːrn/",
+  "core_image": {
+    "text": "危険を前もって知らせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><ellipse cx=\"192\" cy=\"134\" rx=\"22\" ry=\"5\"/><circle cx=\"124\" cy=\"52\" r=\"10\"/><line x1=\"124\" y1=\"62\" x2=\"124\" y2=\"106\"/><line x1=\"124\" y1=\"106\" x2=\"114\" y2=\"140\"/><line x1=\"124\" y1=\"106\" x2=\"134\" y2=\"140\"/><polyline points=\"124,74 108,60 104,44\"/><line x1=\"124\" y1=\"74\" x2=\"136\" y2=\"96\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"64\" y2=\"94\"/></g><text x=\"192\" y=\"118\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">危険</text><text x=\"150\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">気をつけて!</text></svg>"
+  },
+  "etymology": "古英語 warnian(用心させる。aware=気づいている、beware=用心する と同じ根) → 危険を知らせて用心させる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to tell someone about something bad or dangerous that may happen, so that they can avoid it."
+    }
+  ],
+  "cautions": [
+    "warn A of / about B=AにBを警告する",
+    "warn A against B / doing=AにB(〜すること)をしないよう警告する",
+    "warn A to do / not to do=Aに〜する(しない)よう警告する",
+    "warn A that S V。名詞は warning"
+  ],
+  "patterns": [
+    {
+      "form": "warn A of B",
+      "meaning": "AにBを警告する"
+    },
+    {
+      "form": "warn A about B",
+      "meaning": "AにBについて警告する"
+    },
+    {
+      "form": "warn A not to do",
+      "meaning": "Aに〜しないよう警告する"
+    },
+    {
+      "form": "warn A that S V",
+      "meaning": "Aに〜だと警告する"
+    },
+    {
+      "form": "warning",
+      "meaning": "警告"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "warn A of B",
+      "en": "The sign warns drivers of falling rocks.",
+      "ja": "その標識は、運転者に落石を警告している。"
+    },
+    {
+      "source": "original",
+      "label": "warn A not to do",
+      "en": "My mother warned me not to walk alone at night.",
+      "ja": "母は、夜に1人で歩かないよう私に注意した。"
+    },
+    {
+      "source": "original",
+      "label": "warn A that",
+      "en": "The doctor warned him that he should lose weight.",
+      "ja": "医者は彼に、体重を減らすべきだと警告した。"
+    },
+    {
+      "source": "original",
+      "label": "warn A about",
+      "en": "Nobody warned us about the danger of swimming in that river.",
+      "ja": "その川で泳ぐ危険について、だれも私たちに注意してくれなかった。"
+    },
+    {
+      "source": "original",
+      "label": "warn against",
+      "en": "Experts warn against using the same password for everything.",
+      "ja": "専門家は、何にでも同じパスワードを使わないよう警告している。"
+    },
+    {
+      "source": "original",
+      "label": "warning(名詞)",
+      "en": "The storm hit the town without any warning.",
+      "ja": "その嵐は、何の前ぶれもなく町をおそった。"
+    }
+  ],
+  "check_points": [
+    "warn A of B と warn A not to do の形を使い分けられるか",
+    "aware(気づいている)との関係を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "warn A of B / (not) to do / that が語法で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 200
+    }
+  ]
+}

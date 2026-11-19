@@ -1,0 +1,103 @@
+{
+  "word": "supply",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/səˈplaɪ/",
+  "core_image": {
+    "text": "足りない所を、下から満たす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"150,92 154,140 200,140 204,92\"/><circle cx=\"76\" cy=\"52\" r=\"10\"/><line x1=\"76\" y1=\"62\" x2=\"76\" y2=\"106\"/><line x1=\"76\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"76\" y1=\"106\" x2=\"86\" y2=\"140\"/><polyline points=\"76,74 100,66 120,60\"/><line x1=\"76\" y1=\"74\" x2=\"66\" y2=\"96\"/><rect x=\"120\" y=\"48\" width=\"24\" height=\"20\"/><path d=\"M148 64 Q170 70 176 102\" stroke-dasharray=\"4 4\"/></g><text x=\"132\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">満たす</text><text x=\"178\" y=\"154\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">足りない所</text></svg>"
+  },
+  "etymology": "sup(sub=下から) + ply(満たす。ラテン語 plere。complete, plenty と同じ) → 下から満たす → 必要な物を供給する。名詞は「供給」、複数形で「物資・必需品」",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to provide people with something that they need or want, especially regularly over a long period."
+    },
+    {
+      "pos": "名詞",
+      "text": "an amount of something that is available to be used."
+    }
+  ],
+  "cautions": [
+    "supply A with B = supply B to / for A=AにBを供給する(provide と同じ型)",
+    "supply and demand=需要と供給(英語では supply が先)",
+    "複数形 supplies=物資・必需品(food supplies、medical supplies)",
+    "in short supply=不足して"
+  ],
+  "patterns": [
+    {
+      "form": "supply A with B",
+      "meaning": "AにBを供給する"
+    },
+    {
+      "form": "supply B to A",
+      "meaning": "BをAに供給する"
+    },
+    {
+      "form": "supply and demand",
+      "meaning": "需要と供給"
+    },
+    {
+      "form": "in short supply",
+      "meaning": "不足して"
+    },
+    {
+      "form": "supplies",
+      "meaning": "物資"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "supply A with B",
+      "en": "The lake supplies the whole city with drinking water.",
+      "ja": "その湖は、市全体に飲料水を供給している。"
+    },
+    {
+      "source": "original",
+      "label": "supply B to A",
+      "en": "The farm supplies fresh milk to schools in the area.",
+      "ja": "その農場は、地域の学校に新鮮な牛乳を供給している。"
+    },
+    {
+      "source": "original",
+      "label": "供給(名詞)",
+      "en": "The supply of electricity was cut off for several hours.",
+      "ja": "電気の供給が、数時間止まった。"
+    },
+    {
+      "source": "original",
+      "label": "需要と供給",
+      "en": "Prices are decided by supply and demand.",
+      "ja": "値段は、需要と供給で決まる。"
+    },
+    {
+      "source": "original",
+      "label": "物資(複数形)",
+      "en": "Emergency supplies were sent to the village by helicopter.",
+      "ja": "緊急の物資が、ヘリコプターでその村に送られた。"
+    },
+    {
+      "source": "original",
+      "label": "in short supply",
+      "en": "Fresh vegetables were in short supply after the typhoon.",
+      "ja": "台風の後、新鮮な野菜が不足した。"
+    }
+  ],
+  "check_points": [
+    "supply A with B を provide を使って言い換えられるか",
+    "「需要と供給」の英語の語順を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "supply A with B、supply and demand、supplies が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 189
+    }
+  ]
+}

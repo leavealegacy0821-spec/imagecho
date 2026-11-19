@@ -1,0 +1,103 @@
+{
+  "word": "support",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/səˈpɔːrt/",
+  "core_image": {
+    "text": "下から持ち上げて支える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"60\" y1=\"60\" x2=\"200\" y2=\"60\"/><rect x=\"150\" y=\"34\" width=\"36\" height=\"26\"/><circle cx=\"110\" cy=\"80\" r=\"9\"/><line x1=\"110\" y1=\"89\" x2=\"110\" y2=\"118\"/><line x1=\"110\" y1=\"118\" x2=\"102\" y2=\"140\"/><line x1=\"110\" y1=\"118\" x2=\"118\" y2=\"140\"/><polyline points=\"110,96 98,80 100,62\"/><polyline points=\"110,96 122,80 120,62\"/></g><text x=\"56\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">上のもの</text><text x=\"178\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">下から支える</text></svg>"
+  },
+  "etymology": "sup(sub=下から) + port(運ぶ。transport, export, import と同じ) → 下から運び支える → 物を支える → 人や考えを支持する → 家族を養う → 主張を裏づける",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to hold something up, to agree with and help someone or something, to provide money for someone to live, or to show that something is true."
+    },
+    {
+      "pos": "名詞",
+      "text": "help and encouragement that you give to someone."
+    }
+  ],
+  "cautions": [
+    "support A は「支える」「支持する」「養う」「裏づける」と訳し分ける",
+    "support a family=家族を養う",
+    "evidence to support the theory=理論を裏づける証拠",
+    "in support of A=Aを支持して。supportive=協力的な"
+  ],
+  "patterns": [
+    {
+      "form": "support A",
+      "meaning": "Aを支える・支持する"
+    },
+    {
+      "form": "support a family",
+      "meaning": "家族を養う"
+    },
+    {
+      "form": "support a theory",
+      "meaning": "理論を裏づける"
+    },
+    {
+      "form": "in support of A",
+      "meaning": "Aを支持して"
+    },
+    {
+      "form": "supportive",
+      "meaning": "協力的な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "支える",
+      "en": "These thick walls support the weight of the roof.",
+      "ja": "この厚い壁が、屋根の重さを支えている。"
+    },
+    {
+      "source": "original",
+      "label": "支持する",
+      "en": "Most of the students supported the idea of a longer lunch break.",
+      "ja": "ほとんどの生徒が、昼休みを長くするという考えを支持した。"
+    },
+    {
+      "source": "original",
+      "label": "養う",
+      "en": "He works at two jobs to support his family.",
+      "ja": "彼は家族を養うために、2つの仕事をしている。"
+    },
+    {
+      "source": "original",
+      "label": "裏づける",
+      "en": "There is little evidence to support his claim.",
+      "ja": "彼の主張を裏づける証拠は、ほとんどない。"
+    },
+    {
+      "source": "original",
+      "label": "支援(名詞)",
+      "en": "Thank you for your support during this difficult time.",
+      "ja": "この苦しい時期に支えてくださって、ありがとうございます。"
+    },
+    {
+      "source": "original",
+      "label": "in support of",
+      "en": "Thousands of people marched in support of the workers.",
+      "ja": "何千人もの人々が、労働者を支持して行進した。"
+    }
+  ],
+  "check_points": [
+    "支える・養う・裏づけるを「下から持ち上げて支える」で説明できるか",
+    "port(運ぶ)を持つ語を3つ言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "support(支持する・養う・裏づける)が論説文で必須。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 190
+    }
+  ]
+}

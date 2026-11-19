@@ -1,0 +1,99 @@
+{
+  "word": "focus",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈfoʊkəs/",
+  "core_image": {
+    "text": "一点に集める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"42\" cy=\"52\" r=\"10\"/><line x1=\"42\" y1=\"62\" x2=\"42\" y2=\"106\"/><line x1=\"42\" y1=\"106\" x2=\"32\" y2=\"140\"/><line x1=\"42\" y1=\"106\" x2=\"52\" y2=\"140\"/><polyline points=\"42,74 68,70 88,64\"/><line x1=\"42\" y1=\"74\" x2=\"32\" y2=\"96\"/><ellipse cx=\"120\" cy=\"70\" rx=\"8\" ry=\"30\"/><line x1=\"128\" y1=\"46\" x2=\"200\" y2=\"70\"/><line x1=\"128\" y1=\"70\" x2=\"200\" y2=\"70\"/><line x1=\"128\" y1=\"94\" x2=\"200\" y2=\"70\"/><circle cx=\"204\" cy=\"70\" r=\"4\"/></g><text x=\"206\" y=\"54\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">一点</text><text x=\"160\" y=\"114\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">集める</text></svg>"
+  },
+  "etymology": "ラテン語 focus(炉・かまど=家の中心にある火) → 光や熱が集まる点=焦点 → 注意・関心・努力を一点に集める",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give all your attention to a particular thing."
+    },
+    {
+      "pos": "名詞",
+      "text": "the thing that people pay most attention to."
+    }
+  ],
+  "cautions": [
+    "focus on A=Aに集中する・Aに焦点を合わせる。前置詞は on",
+    "focus A on B=AをBに集中させる",
+    "名詞: the focus of attention=注目の的",
+    "in focus=ピントが合って、out of focus=ピントがずれて"
+  ],
+  "patterns": [
+    {
+      "form": "focus on A",
+      "meaning": "Aに集中する"
+    },
+    {
+      "form": "focus A on B",
+      "meaning": "AをBに集中させる"
+    },
+    {
+      "form": "the focus of A",
+      "meaning": "Aの中心・的"
+    },
+    {
+      "form": "out of focus",
+      "meaning": "ピントがずれて"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "focus on",
+      "en": "Let's focus on the main problem instead of talking about small details.",
+      "ja": "細かいことを話すのではなく、主な問題に集中しよう。"
+    },
+    {
+      "source": "original",
+      "label": "集中する",
+      "en": "I cannot focus on my homework when the television is on.",
+      "ja": "テレビがついていると、宿題に集中できない。"
+    },
+    {
+      "source": "original",
+      "label": "focus A on B",
+      "en": "The teacher focused our attention on the last line of the poem.",
+      "ja": "先生は、その詩の最後の行に私たちの注意を向けさせた。"
+    },
+    {
+      "source": "original",
+      "label": "焦点を当てる",
+      "en": "This chapter focuses on the history of the city after the war.",
+      "ja": "この章は、戦後のその都市の歴史に焦点を当てている。"
+    },
+    {
+      "source": "original",
+      "label": "注目の的(名詞)",
+      "en": "The new stadium became the focus of public attention.",
+      "ja": "新しい競技場は、世間の注目の的になった。"
+    },
+    {
+      "source": "original",
+      "label": "out of focus",
+      "en": "The photo is slightly out of focus, but I still like it.",
+      "ja": "その写真は少しピントがずれているが、それでも気に入っている。"
+    }
+  ],
+  "check_points": [
+    "focus の後ろに付ける前置詞は何か",
+    "語源の「炉」から「中心・焦点」を説明できるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "focus on A が長文・英作文で必須。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 145
+    }
+  ]
+}

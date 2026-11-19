@@ -1,0 +1,94 @@
+{
+  "word": "acquire",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈkwaɪər/",
+  "core_image": {
+    "text": "求め続けて、自分のものにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 82,70 104,60\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><circle cx=\"114\" cy=\"54\" r=\"8\"/><line x1=\"190\" y1=\"30\" x2=\"128\" y2=\"50\" stroke-dasharray=\"5 5\"/><polyline points=\"135.9,51.5 128,50 133.5,44.2\"/><circle cx=\"202\" cy=\"26\" r=\"8\"/></g><text x=\"170\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">少しずつ</text><text x=\"126\" y=\"88\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">自分のものに</text></svg>"
+  },
+  "etymology": "ac(ad=〜へ) + quire(求める。require, question と同じ) → 求めて手に入れる → 時間や努力をかけて、知識・技能・習慣を身につける → 財産や会社を取得する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to learn or develop a skill, habit or quality, or to get something by buying it or being given it."
+    }
+  ],
+  "cautions": [
+    "時間や努力をかけて手に入れる。get より堅い言い方",
+    "acquire a language / a skill / knowledge / a habit",
+    "acquired=後から身についた(⇔ innate=生まれつきの)",
+    "名詞 acquisition=習得・買収(language acquisition=言語習得)"
+  ],
+  "patterns": [
+    {
+      "form": "acquire knowledge",
+      "meaning": "知識を身につける"
+    },
+    {
+      "form": "acquire a skill",
+      "meaning": "技能を身につける"
+    },
+    {
+      "form": "acquire a language",
+      "meaning": "言語を習得する"
+    },
+    {
+      "form": "acquisition",
+      "meaning": "習得・取得"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "習得する",
+      "en": "Children acquire their first language without any formal teaching.",
+      "ja": "子どもは、正式に教わらなくても最初の言語を身につける。"
+    },
+    {
+      "source": "original",
+      "label": "(技能を)身につける",
+      "en": "She acquired the skills she needed by working in a small company.",
+      "ja": "彼女は小さな会社で働くことで、必要な技能を身につけた。"
+    },
+    {
+      "source": "original",
+      "label": "(知識を)得る",
+      "en": "He acquired a deep knowledge of Japanese art while living in Kyoto.",
+      "ja": "彼は京都に住んでいる間に、日本美術の深い知識を得た。"
+    },
+    {
+      "source": "original",
+      "label": "(習慣が)身につく",
+      "en": "I acquired the habit of getting up early during my stay on the farm.",
+      "ja": "農場に滞在している間に、早起きの習慣が身についた。"
+    },
+    {
+      "source": "original",
+      "label": "取得する",
+      "en": "The museum recently acquired three paintings by a local artist.",
+      "ja": "その美術館は最近、地元の画家の絵を3点手に入れた。"
+    },
+    {
+      "source": "original",
+      "label": "acquisition(名詞)",
+      "en": "Language acquisition is one of the most interesting fields of study.",
+      "ja": "言語習得は、最も興味深い研究分野の1つだ。"
+    }
+  ],
+  "check_points": [
+    "get と acquire の違い(時間・努力)を言えるか",
+    "acquired と innate の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "acquire a language / a skill、acquisition が言語・学習の長文で必須。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 124
+    }
+  ]
+}

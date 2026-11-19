@@ -1,0 +1,94 @@
+{
+  "word": "suppose",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/səˈpoʊz/",
+  "core_image": {
+    "text": "下に置いて、話の土台にする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 80,90 104,114\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><rect x=\"110\" y=\"112\" width=\"70\" height=\"28\"/><rect x=\"124\" y=\"76\" width=\"42\" height=\"36\" stroke-dasharray=\"4 4\"/></g><text x=\"145\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">前提</text><text x=\"145\" y=\"66\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">その上の話</text></svg>"
+  },
+  "etymology": "sup(sub=下に) + pose(置く。propose, expose と同じ) → 下に置く → 話の前提として置く=仮定する・たぶん〜だと思う。be supposed to do は「そうするものと置かれている」=〜することになっている",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to think that something is probably true, or (be supposed to) to be expected or required to do something."
+    }
+  ],
+  "cautions": [
+    "be supposed to do=〜することになっている・〜するはずだ(規則・予定・期待)",
+    "be not supposed to do=〜してはいけないことになっている",
+    "Suppose (that) S V / Supposing S V=もし〜だとしたら",
+    "supposedly=〜と思われている・たぶん"
+  ],
+  "patterns": [
+    {
+      "form": "suppose that S V",
+      "meaning": "〜だと思う"
+    },
+    {
+      "form": "be supposed to do",
+      "meaning": "〜することになっている"
+    },
+    {
+      "form": "be not supposed to do",
+      "meaning": "〜してはいけない"
+    },
+    {
+      "form": "Suppose (that) S V",
+      "meaning": "もし〜だとしたら"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "思う",
+      "en": "I suppose you are right, but I still feel uneasy.",
+      "ja": "君の言うとおりだと思うが、それでもまだ不安だ。"
+    },
+    {
+      "source": "original",
+      "label": "be supposed to do",
+      "en": "You are supposed to take off your shoes when you enter the house.",
+      "ja": "家に入るときは、靴を脱ぐことになっている。"
+    },
+    {
+      "source": "original",
+      "label": "〜するはずだ",
+      "en": "The train was supposed to arrive at noon, but it is an hour late.",
+      "ja": "列車は正午に着くはずだったが、1時間遅れている。"
+    },
+    {
+      "source": "original",
+      "label": "be not supposed to do",
+      "en": "We are not supposed to use our phones during class.",
+      "ja": "授業中は、携帯電話を使ってはいけないことになっている。"
+    },
+    {
+      "source": "original",
+      "label": "仮定する",
+      "en": "Suppose you won a million dollars; what would you do with it?",
+      "ja": "もし100万ドル当たったとしたら、それで何をしますか。"
+    },
+    {
+      "source": "original",
+      "label": "supposedly(副詞)",
+      "en": "This is supposedly the oldest tree in the country.",
+      "ja": "これは、国内でいちばん古い木だと言われている。"
+    }
+  ],
+  "check_points": [
+    "be supposed to do の意味を「そう置かれている」から説明できるか",
+    "Suppose S V はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "be supposed to do、Suppose (that) が文法・会話で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 191
+    }
+  ]
+}

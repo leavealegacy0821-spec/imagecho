@@ -1,0 +1,103 @@
+{
+  "word": "even",
+  "pos": [
+    "副詞",
+    "形容詞"
+  ],
+  "ipa": "/ˈiːvn/",
+  "core_image": {
+    "text": "でこぼこがなく、平らにそろっている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"150\" y1=\"140\" x2=\"150\" y2=\"60\"/><line x1=\"100\" y1=\"60\" x2=\"200\" y2=\"60\"/><line x1=\"100\" y1=\"60\" x2=\"100\" y2=\"80\"/><line x1=\"200\" y1=\"60\" x2=\"200\" y2=\"80\"/><rect x=\"86\" y=\"80\" width=\"28\" height=\"20\"/><rect x=\"186\" y=\"80\" width=\"28\" height=\"20\"/><circle cx=\"36\" cy=\"52\" r=\"10\"/><line x1=\"36\" y1=\"62\" x2=\"36\" y2=\"106\"/><line x1=\"36\" y1=\"106\" x2=\"26\" y2=\"140\"/><line x1=\"36\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"36\" y1=\"74\" x2=\"24\" y2=\"98\"/><line x1=\"36\" y1=\"74\" x2=\"48\" y2=\"98\"/></g><text x=\"150\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">平らでそろう</text><text x=\"198\" y=\"122\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">同じ高さ</text></svg>"
+  },
+  "etymology": "古英語 efen(平らな・等しい) → 表面が平ら／量がそろって等しい(互角・2つにきれいに分けられる=偶数)。副詞は「まさに同じ水準で」→ 意外なものまで同じ並びに入れる=〜でさえ",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "used to show that something is surprising or unexpected, or to make a comparison stronger."
+    },
+    {
+      "pos": "形容詞",
+      "text": "flat and smooth, or equal in amount or level."
+    }
+  ],
+  "cautions": [
+    "副詞 even(〜でさえ)は、強めたい語の直前に置く",
+    "even + 比較級=「さらに・いっそう」(much, far, still と同じ強調)",
+    "even if S V=たとえ〜でも(仮定)、even though S V=〜だけれども(事実)",
+    "形容詞: an even number=偶数(⇔ an odd number)、an even surface=平らな面"
+  ],
+  "patterns": [
+    {
+      "form": "even + 比較級",
+      "meaning": "さらに〜"
+    },
+    {
+      "form": "even if S V",
+      "meaning": "たとえ〜でも"
+    },
+    {
+      "form": "even though S V",
+      "meaning": "〜だけれども"
+    },
+    {
+      "form": "an even number",
+      "meaning": "偶数"
+    },
+    {
+      "form": "break even",
+      "meaning": "損も得もしない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "〜でさえ",
+      "en": "Even a small child can understand such a simple rule.",
+      "ja": "小さな子どもでさえ、そんな簡単な決まりは理解できる。"
+    },
+    {
+      "source": "original",
+      "label": "even + 比較級",
+      "en": "Today's test was even more difficult than the one last week.",
+      "ja": "今日のテストは、先週のよりさらに難しかった。"
+    },
+    {
+      "source": "original",
+      "label": "even if",
+      "en": "I will go to the concert even if it rains heavily tomorrow.",
+      "ja": "たとえ明日大雨が降っても、私はコンサートに行く。"
+    },
+    {
+      "source": "original",
+      "label": "even though",
+      "en": "Even though he was tired, he helped me carry the boxes upstairs.",
+      "ja": "彼は疲れていたのに、箱を2階へ運ぶのを手伝ってくれた。"
+    },
+    {
+      "source": "original",
+      "label": "平らな(形容詞)",
+      "en": "You need an even surface to set up the tent properly.",
+      "ja": "テントをきちんと張るには、平らな地面が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "偶数の(形容詞)",
+      "en": "Two, four and six are even numbers, while one and three are odd.",
+      "ja": "2・4・6は偶数で、1と3は奇数だ。"
+    }
+  ],
+  "check_points": [
+    "even if と even though の違い(仮定か事実か)を言えるか",
+    "偶数がなぜ even と呼ばれるのか、「そろっている」から説明できるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "even + 比較級、even if / even though の区別が文法問題に出る。even number / odd number も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 63
+    }
+  ]
+}

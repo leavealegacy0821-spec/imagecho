@@ -1,0 +1,99 @@
+{
+  "word": "lack",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/læk/",
+  "core_image": {
+    "text": "あるべきものが、ぽっかり無い",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"46\" y1=\"74\" x2=\"34\" y2=\"98\"/><line x1=\"46\" y1=\"74\" x2=\"58\" y2=\"98\"/><rect x=\"110\" y=\"100\" width=\"26\" height=\"40\"/><rect x=\"146\" y=\"100\" width=\"26\" height=\"40\"/><rect x=\"182\" y=\"100\" width=\"26\" height=\"40\" stroke-dasharray=\"4 4\"/><line x1=\"110\" y1=\"112\" x2=\"136\" y2=\"112\"/><line x1=\"146\" y1=\"112\" x2=\"172\" y2=\"112\"/></g><text x=\"195\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ここが無い</text></svg>"
+  },
+  "etymology": "中世のオランダ語 lak(不足・欠陥) → 必要なものが欠けている状態。動詞は「〜を欠いている」",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the state of not having something or not having enough of something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to not have something, or to not have enough of it."
+    }
+  ],
+  "cautions": [
+    "動詞は他動詞。lack A と直接目的語を取る(lack of A、lack in A は×)",
+    "名詞は (a) lack of A=Aの不足。for lack of A=Aが無いために",
+    "be lacking in A=Aに欠けている",
+    "進行形・受け身にしない"
+  ],
+  "patterns": [
+    {
+      "form": "lack A",
+      "meaning": "Aを欠いている"
+    },
+    {
+      "form": "(a) lack of A",
+      "meaning": "Aの不足"
+    },
+    {
+      "form": "for lack of A",
+      "meaning": "Aが無いために"
+    },
+    {
+      "form": "be lacking in A",
+      "meaning": "Aに欠けている"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "欠いている(動詞)",
+      "en": "He is a nice person, but he lacks confidence in himself.",
+      "ja": "彼は良い人だが、自分に自信がない。"
+    },
+    {
+      "source": "original",
+      "label": "不足(名詞)",
+      "en": "The project failed because of a lack of money and time.",
+      "ja": "その企画は、資金と時間の不足のために失敗した。"
+    },
+    {
+      "source": "original",
+      "label": "for lack of",
+      "en": "The game was canceled for lack of players.",
+      "ja": "選手が足りないために、試合は中止された。"
+    },
+    {
+      "source": "original",
+      "label": "be lacking in",
+      "en": "Her speech was interesting but lacking in detail.",
+      "ja": "彼女のスピーチは面白かったが、細かい点に欠けていた。"
+    },
+    {
+      "source": "original",
+      "label": "不足(名詞)",
+      "en": "Lack of sleep can affect your memory and your mood.",
+      "ja": "睡眠不足は、記憶力や気分に影響することがある。"
+    },
+    {
+      "source": "original",
+      "label": "欠いている(動詞)",
+      "en": "Many schools in the area lack the equipment needed for science classes.",
+      "ja": "その地域の多くの学校には、理科の授業に必要な設備が無い。"
+    }
+  ],
+  "check_points": [
+    "「彼は経験が不足している」を、動詞の lack と名詞の lack の両方で言えるか",
+    "動詞として lack of A と言えないのはなぜか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "他動詞 lack A、a lack of A、be lacking in が文法・正誤問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 157
+    }
+  ]
+}

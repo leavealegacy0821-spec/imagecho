@@ -1,0 +1,103 @@
+{
+  "word": "lead",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/liːd/",
+  "core_image": {
+    "text": "先に立って、ある方向へ連れて行く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><line x1=\"120\" y1=\"76\" x2=\"66\" y2=\"76\"/><polyline points=\"120,74 142,66 156,60\"/><line x1=\"66\" y1=\"74\" x2=\"56\" y2=\"96\"/><line x1=\"162\" y1=\"58\" x2=\"196\" y2=\"48\"/><polyline points=\"188.2,46.3 196,48 190.3,53.7\"/><line x1=\"212\" y1=\"140\" x2=\"212\" y2=\"60\"/><polygon points=\"212,60 232,68 212,76\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">先に立つ</text><text x=\"196\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">行き先・結果</text></svg>"
+  },
+  "etymology": "古英語 lædan(行かせる・導く) → 先に立って連れて行く → 道が〜へ通じる／結果へ連れて行く(lead to=引き起こす)／人を〜する気にさせる／生活を送る(lead a life)／先頭にいる(リード)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to go in front of people to show them the way, or to cause something to happen as a result (lead to)."
+    },
+    {
+      "pos": "名詞",
+      "text": "the first position in a race or competition."
+    }
+  ],
+  "cautions": [
+    "活用は lead - led - led。金属の「鉛」lead /led/ は別の語",
+    "lead to A=Aにつながる・Aを引き起こす。to は前置詞なので後ろは名詞・動名詞",
+    "lead A to do=Aを〜する気にさせる",
+    "lead a ... life=〜な生活を送る。leading=主要な・一流の、mislead=誤った方へ導く"
+  ],
+  "patterns": [
+    {
+      "form": "lead to A",
+      "meaning": "Aにつながる・Aを引き起こす"
+    },
+    {
+      "form": "lead A to B",
+      "meaning": "AをBへ案内する"
+    },
+    {
+      "form": "lead A to do",
+      "meaning": "Aを〜する気にさせる"
+    },
+    {
+      "form": "lead a happy life",
+      "meaning": "幸せな生活を送る"
+    },
+    {
+      "form": "take the lead",
+      "meaning": "先頭に立つ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "lead to=引き起こす",
+      "en": "Eating too much sugar can lead to serious health problems later in life.",
+      "ja": "砂糖を取りすぎると、後になって深刻な健康問題につながることがある。"
+    },
+    {
+      "source": "original",
+      "label": "(道が)通じる",
+      "en": "This narrow path leads to a beautiful beach that few tourists know.",
+      "ja": "この細い道は、ほとんどの観光客が知らない美しい浜辺に通じている。"
+    },
+    {
+      "source": "original",
+      "label": "案内する",
+      "en": "A young guide led us through the old streets of the town.",
+      "ja": "若いガイドが、その町の古い通りを案内してくれた。"
+    },
+    {
+      "source": "original",
+      "label": "lead A to do=気にさせる",
+      "en": "What led you to choose this university instead of the one near your home?",
+      "ja": "家の近くの大学ではなくこの大学を選んだのは、どうしてですか。"
+    },
+    {
+      "source": "original",
+      "label": "生活を送る",
+      "en": "After retiring, my grandfather led a quiet life in the countryside.",
+      "ja": "引退した後、祖父は田舎で静かな生活を送った。"
+    },
+    {
+      "source": "original",
+      "label": "先頭(名詞)",
+      "en": "Our team took the lead in the second half and never lost it.",
+      "ja": "私たちのチームは後半にリードを奪い、そのまま守りきった。"
+    }
+  ],
+  "check_points": [
+    "lead to(引き起こす)と lead a life(生活を送る)を「先に立って連れて行く」で説明できるか",
+    "lead の過去形は何か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "lead to A(因果関係)は長文の最重要表現。lead A to do、led の活用も問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 40
+    }
+  ]
+}

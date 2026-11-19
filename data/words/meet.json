@@ -1,0 +1,98 @@
+{
+  "word": "meet",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/miːt/",
+  "core_image": {
+    "text": "向こうから来たものと、ぴたりと出会う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"90\" y1=\"76\" x2=\"120\" y2=\"84\"/><line x1=\"150\" y1=\"76\" x2=\"120\" y2=\"84\"/><line x1=\"90\" y1=\"74\" x2=\"80\" y2=\"96\"/><line x1=\"150\" y1=\"74\" x2=\"160\" y2=\"96\"/><line x1=\"26\" y1=\"110\" x2=\"62\" y2=\"110\"/><polyline points=\"55,106.2 62,110 55,113.8\"/><line x1=\"214\" y1=\"110\" x2=\"178\" y2=\"110\"/><polyline points=\"185,113.8 178,110 185,106.2\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぴたりと出会う</text></svg>"
+  },
+  "etymology": "古英語 metan(出会う・見つける) → 人と会う → 線や道が出合う → 求められたものにぴたりと合う(要求を満たす)／困難に出会う(meet with)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to see and talk to someone, or to do or provide what is needed or wanted."
+    }
+  ],
+  "cautions": [
+    "「(要求・期待・条件を)満たす」が長文で最重要: meet the needs / demands / requirements",
+    "meet the deadline=締め切りに間に合わせる",
+    "meet with A=A(困難・反対・事故)に遭う／A(人)と会談する",
+    "活用は meet - met - met。make ends meet=収支を合わせる(やりくりする)"
+  ],
+  "patterns": [
+    {
+      "form": "meet the needs of A",
+      "meaning": "Aの必要を満たす"
+    },
+    {
+      "form": "meet the deadline",
+      "meaning": "締め切りに間に合わせる"
+    },
+    {
+      "form": "meet with A",
+      "meaning": "Aに遭う・Aと会談する"
+    },
+    {
+      "form": "meet A halfway",
+      "meaning": "Aに歩み寄る"
+    },
+    {
+      "form": "make ends meet",
+      "meaning": "やりくりする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "会う",
+      "en": "I first met my best friend at a summer camp ten years ago.",
+      "ja": "私は10年前のサマーキャンプで、親友と初めて出会った。"
+    },
+    {
+      "source": "original",
+      "label": "出迎える",
+      "en": "My uncle will meet us at the airport when we arrive tomorrow.",
+      "ja": "明日私たちが着いたら、おじが空港で出迎えてくれる。"
+    },
+    {
+      "source": "original",
+      "label": "(要求を)満たす",
+      "en": "The new school was built to meet the needs of children with disabilities.",
+      "ja": "その新しい学校は、障がいのある子どもたちの必要に応えるために建てられた。"
+    },
+    {
+      "source": "original",
+      "label": "(期限に)間に合わせる",
+      "en": "We worked until midnight to meet the deadline for the project.",
+      "ja": "私たちは企画の締め切りに間に合わせるため、真夜中まで働いた。"
+    },
+    {
+      "source": "original",
+      "label": "meet with=遭う",
+      "en": "His first plan met with strong opposition from the other members.",
+      "ja": "彼の最初の案は、ほかのメンバーの強い反対に遭った。"
+    },
+    {
+      "source": "original",
+      "label": "make ends meet",
+      "en": "With prices rising, many families are struggling to make ends meet.",
+      "ja": "物価が上がる中、多くの家庭がやりくりに苦労している。"
+    }
+  ],
+  "check_points": [
+    "meet the needs がなぜ「満たす」になるのか、「ぴたりと出会う」から説明できるか",
+    "meet A と meet with A の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "meet the needs / demands / deadline が長文・語彙で頻出。make ends meet も熟語問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 42
+    }
+  ]
+}

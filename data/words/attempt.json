@@ -1,0 +1,99 @@
+{
+  "word": "attempt",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/əˈtempt/",
+  "core_image": {
+    "text": "できるかどうか、やってみる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"150\" y1=\"140\" x2=\"150\" y2=\"60\"/><line x1=\"150\" y1=\"60\" x2=\"200\" y2=\"60\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><polyline points=\"90,74 110,58 126,48\"/><line x1=\"90\" y1=\"74\" x2=\"80\" y2=\"96\"/><line x1=\"128\" y1=\"46\" x2=\"146\" y2=\"56\" stroke-dasharray=\"5 5\"/><polyline points=\"141.7,49.2 146,56 138,55.9\"/></g><text x=\"190\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">高いところ</text><text x=\"90\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やってみる</text></svg>"
+  },
+  "etymology": "at(ad=〜へ) + tempt(試す。temptation=誘惑、tentative=試しの と同じ) → 試してみる → (難しいことを)試みる・企てる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to try to do something, especially something difficult."
+    },
+    {
+      "pos": "名詞",
+      "text": "an act of trying to do something, especially something difficult."
+    }
+  ],
+  "cautions": [
+    "attempt to do=〜しようと試みる。try より改まった言い方",
+    "名詞: make an attempt to do / at A=〜しようと試みる",
+    "in an attempt to do=〜しようとして",
+    "「試みた」だけで、成功したかどうかは含まない(失敗が多い)"
+  ],
+  "patterns": [
+    {
+      "form": "attempt to do",
+      "meaning": "〜しようと試みる"
+    },
+    {
+      "form": "make an attempt to do",
+      "meaning": "〜しようと試みる"
+    },
+    {
+      "form": "in an attempt to do",
+      "meaning": "〜しようとして"
+    },
+    {
+      "form": "an attempt on A",
+      "meaning": "Aへの挑戦"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "attempt to do",
+      "en": "The prisoner attempted to escape but was caught at the gate.",
+      "ja": "囚人は脱走を試みたが、門で捕まった。"
+    },
+    {
+      "source": "original",
+      "label": "試みる",
+      "en": "She attempted the difficult question but could not solve it.",
+      "ja": "彼女はその難問に挑んだが、解けなかった。"
+    },
+    {
+      "source": "original",
+      "label": "make an attempt",
+      "en": "We made an attempt to contact him, but there was no answer.",
+      "ja": "彼に連絡を取ろうとしたが、返事がなかった。"
+    },
+    {
+      "source": "original",
+      "label": "in an attempt to do",
+      "en": "He ran to the station in an attempt to catch the last train.",
+      "ja": "彼は終電に乗ろうとして、駅まで走った。"
+    },
+    {
+      "source": "original",
+      "label": "試み(名詞)",
+      "en": "This was her third attempt to pass the driving test.",
+      "ja": "これが、彼女の3回目の運転免許試験への挑戦だった。"
+    },
+    {
+      "source": "original",
+      "label": "an attempt on",
+      "en": "The climbers made an attempt on the summit early in the morning.",
+      "ja": "登山者たちは早朝、頂上を目指した。"
+    }
+  ],
+  "check_points": [
+    "attempt to do と try to do のちがいを言えるか",
+    "in an attempt to do はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "attempt to do、in an attempt to do が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 253
+    }
+  ]
+}

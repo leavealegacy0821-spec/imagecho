@@ -1,0 +1,94 @@
+{
+  "word": "pretend",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/prɪˈtend/",
+  "core_image": {
+    "text": "前に広げて見せかける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"100\" cy=\"52\" r=\"10\"/><line x1=\"100\" y1=\"62\" x2=\"100\" y2=\"106\"/><line x1=\"100\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"100\" y1=\"106\" x2=\"110\" y2=\"140\"/><polyline points=\"100,74 122,66 128,54\"/><line x1=\"100\" y1=\"74\" x2=\"90\" y2=\"96\"/><ellipse cx=\"136\" cy=\"46\" rx=\"12\" ry=\"15\"/><circle cx=\"132\" cy=\"42\" r=\"2\"/><circle cx=\"141\" cy=\"42\" r=\"2\"/><path d=\"M130 52 Q136 58 142 52\"/></g><text x=\"186\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見せかけ</text><text x=\"50\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">本当の顔</text></svg>"
+  },
+  "etymology": "pre(前に) + tend(伸ばす・広げる。extend, intend と同じ) → 前に広げて掲げる → うわべを前に差し出す → ふりをする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to behave as if something is true when you know that it is not."
+    }
+  ],
+  "cautions": [
+    "pretend to do / pretend that S V=〜するふりをする。pretend doing は×",
+    "pretend to be asleep=寝たふりをする",
+    "pretend not to do=〜しないふりをする",
+    "名詞は pretense(見せかけ)"
+  ],
+  "patterns": [
+    {
+      "form": "pretend to do",
+      "meaning": "〜するふりをする"
+    },
+    {
+      "form": "pretend that S V",
+      "meaning": "〜であるふりをする"
+    },
+    {
+      "form": "pretend to be A",
+      "meaning": "Aのふりをする"
+    },
+    {
+      "form": "pretend not to do",
+      "meaning": "〜しないふりをする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "pretend to do",
+      "en": "He pretended to understand, but he had no idea what I meant.",
+      "ja": "彼はわかったふりをしたが、私の言う意味がまったくわかっていなかった。"
+    },
+    {
+      "source": "original",
+      "label": "pretend to be",
+      "en": "The boy pretended to be asleep when his mother came into the room.",
+      "ja": "母親が部屋に入って来たとき、少年は寝たふりをした。"
+    },
+    {
+      "source": "original",
+      "label": "pretend that",
+      "en": "She pretended that nothing had happened.",
+      "ja": "彼女は、何事もなかったかのようなふりをした。"
+    },
+    {
+      "source": "original",
+      "label": "pretend not to do",
+      "en": "I saw him on the street, but he pretended not to notice me.",
+      "ja": "通りで彼を見かけたが、彼は私に気づかないふりをした。"
+    },
+    {
+      "source": "original",
+      "label": "ごっこ遊び",
+      "en": "The children were pretending that they were pirates on a ship.",
+      "ja": "子どもたちは、船に乗った海賊のつもりになって遊んでいた。"
+    },
+    {
+      "source": "original",
+      "label": "pretense(名詞)",
+      "en": "He made a pretense of reading, but he was listening to us.",
+      "ja": "彼は読書をしているふりをしていたが、私たちの話を聞いていた。"
+    }
+  ],
+  "check_points": [
+    "pretend の後ろに動詞を続けるときの形は何か",
+    "tend(伸ばす)から「前に見せかけを広げる」を説明できるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "pretend to do、pretend not to do が語法に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 167
+    }
+  ]
+}

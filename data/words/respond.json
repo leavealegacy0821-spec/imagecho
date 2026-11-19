@@ -1,0 +1,94 @@
+{
+  "word": "respond",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈspɑːnd/",
+  "core_image": {
+    "text": "呼びかけに、返して応える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"56\" y1=\"74\" x2=\"44\" y2=\"98\"/><line x1=\"56\" y1=\"74\" x2=\"68\" y2=\"98\"/><circle cx=\"184\" cy=\"52\" r=\"10\"/><line x1=\"184\" y1=\"62\" x2=\"184\" y2=\"106\"/><line x1=\"184\" y1=\"106\" x2=\"174\" y2=\"140\"/><line x1=\"184\" y1=\"106\" x2=\"194\" y2=\"140\"/><line x1=\"184\" y1=\"74\" x2=\"172\" y2=\"98\"/><line x1=\"184\" y1=\"74\" x2=\"196\" y2=\"98\"/><line x1=\"76\" y1=\"44\" x2=\"164\" y2=\"44\" stroke-dasharray=\"5 5\"/><polyline points=\"157,40.2 164,44 157,47.8\"/><line x1=\"164\" y1=\"66\" x2=\"76\" y2=\"66\"/><polyline points=\"83,69.8 76,66 83,62.2\"/></g><text x=\"120\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">呼びかけ</text><text x=\"120\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">応える</text></svg>"
+  },
+  "etymology": "re(返して) + spond(約束する。sponsor, spouse と同じ) → 誓いを返す → 応答する・反応する。responsible は「応えることができる」=責任のある",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say or do something as a reaction to something that has been said or done."
+    }
+  ],
+  "cautions": [
+    "respond to A=Aに答える・反応する。to が必要",
+    "名詞 response=返答・反応。in response to A=Aに応じて",
+    "responsible for A=Aに責任がある、responsibility=責任",
+    "respond to treatment=治療の効果が出る"
+  ],
+  "patterns": [
+    {
+      "form": "respond to A",
+      "meaning": "Aに答える・反応する"
+    },
+    {
+      "form": "in response to A",
+      "meaning": "Aに応じて"
+    },
+    {
+      "form": "response",
+      "meaning": "返答・反応"
+    },
+    {
+      "form": "be responsible for A",
+      "meaning": "Aに責任がある"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "答える",
+      "en": "She did not respond to my email for more than a week.",
+      "ja": "彼女は1週間を超えても、私のメールに返事をくれなかった。"
+    },
+    {
+      "source": "original",
+      "label": "反応する",
+      "en": "The audience responded warmly to her speech.",
+      "ja": "聴衆は、彼女のスピーチに温かい反応を示した。"
+    },
+    {
+      "source": "original",
+      "label": "対応する",
+      "en": "The government was slow to respond to the crisis.",
+      "ja": "政府は、その危機への対応が遅かった。"
+    },
+    {
+      "source": "original",
+      "label": "(治療が)効く",
+      "en": "The patient is responding well to the new medicine.",
+      "ja": "その患者には、新しい薬がよく効いている。"
+    },
+    {
+      "source": "original",
+      "label": "in response to",
+      "en": "The company changed the design in response to customer complaints.",
+      "ja": "その会社は、客の苦情に応じてデザインを変えた。"
+    },
+    {
+      "source": "original",
+      "label": "responsible(形容詞)",
+      "en": "Who is responsible for locking the doors at night?",
+      "ja": "夜、ドアに鍵をかける責任はだれにあるのか。"
+    }
+  ],
+  "check_points": [
+    "respond と responsible(責任のある)を「応える」でつなげられるか",
+    "respond の後ろに付ける前置詞は何か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "respond to、in response to、be responsible for が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 183
+    }
+  ]
+}

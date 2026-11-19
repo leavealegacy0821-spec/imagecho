@@ -1,0 +1,93 @@
+{
+  "word": "combine",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kəmˈbaɪn/",
+  "core_image": {
+    "text": "2つを合わせて、1つにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"96\" y2=\"80\"/><line x1=\"120\" y1=\"74\" x2=\"144\" y2=\"80\"/><circle cx=\"80\" cy=\"82\" r=\"12\"/><rect x=\"148\" y=\"72\" width=\"22\" height=\"22\"/><line x1=\"190\" y1=\"82\" x2=\"210\" y2=\"82\"/><polyline points=\"203,78.2 210,82 203,85.8\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">合わせて1つに</text></svg>"
+  },
+  "etymology": "com(共に) + bine(2つずつ。ラテン語 bini=2つずつ。binary と同じ) → 2つを一緒にする → 組み合わせる・結びつける",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to join two or more things together to form a single thing, or to do two things at the same time."
+    }
+  ],
+  "cautions": [
+    "combine A with B / combine A and B=AとBを組み合わせる",
+    "be combined with A=Aと組み合わさる",
+    "名詞 combination=組み合わせ。in combination with A=Aと組み合わせて"
+  ],
+  "patterns": [
+    {
+      "form": "combine A with B",
+      "meaning": "AをBと組み合わせる"
+    },
+    {
+      "form": "combine A and B",
+      "meaning": "AとBを組み合わせる"
+    },
+    {
+      "form": "combination",
+      "meaning": "組み合わせ"
+    },
+    {
+      "form": "in combination with A",
+      "meaning": "Aと組み合わせて"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "組み合わせる",
+      "en": "The best way to lose weight is to combine diet with exercise.",
+      "ja": "やせるいちばんの方法は、食事制限と運動を組み合わせることだ。"
+    },
+    {
+      "source": "original",
+      "label": "合わさる",
+      "en": "Hydrogen and oxygen combine to form water.",
+      "ja": "水素と酸素が結びついて水になる。"
+    },
+    {
+      "source": "original",
+      "label": "両立させる",
+      "en": "It is not easy to combine work with raising children.",
+      "ja": "仕事と子育てを両立させるのは簡単ではない。"
+    },
+    {
+      "source": "original",
+      "label": "合わせる",
+      "en": "The two companies combined to form a larger one.",
+      "ja": "2つの会社が合併して、より大きな会社になった。"
+    },
+    {
+      "source": "original",
+      "label": "combination(名詞)",
+      "en": "The dish is a perfect combination of sweet and sour.",
+      "ja": "その料理は、甘さと酸っぱさの絶妙な組み合わせだ。"
+    },
+    {
+      "source": "original",
+      "label": "in combination with",
+      "en": "This medicine works best in combination with rest.",
+      "ja": "この薬は、休養と組み合わせるといちばんよく効く。"
+    }
+  ],
+  "check_points": [
+    "bi(2つ)を持つ語(binary, bicycle など)と combine のつながりを言えるか",
+    "combination の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "combine A with B、combination が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 237
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "survive",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/sərˈvaɪv/",
+  "core_image": {
+    "text": "乗り越えて、生き続ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M60 140 Q95 44 130 140\"/><circle cx=\"184\" cy=\"52\" r=\"10\"/><line x1=\"184\" y1=\"62\" x2=\"184\" y2=\"106\"/><line x1=\"184\" y1=\"106\" x2=\"174\" y2=\"140\"/><line x1=\"184\" y1=\"106\" x2=\"194\" y2=\"140\"/><line x1=\"184\" y1=\"74\" x2=\"168\" y2=\"60\"/><line x1=\"184\" y1=\"74\" x2=\"200\" y2=\"60\"/><line x1=\"108\" y1=\"40\" x2=\"160\" y2=\"56\" stroke-dasharray=\"5 5\"/><polyline points=\"154.4,50.3 160,56 152.2,57.6\"/></g><text x=\"80\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">危機</text><text x=\"184\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">越えて生きる</text></svg>"
+  },
+  "etymology": "sur(super=越えて) + vive(生きる。vivid, revive, vital と同じ) → 越えて生きる → 危機を生きのびる → ほかの人より長く生きる → 物が残っている",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to continue to live or exist, especially after a dangerous event or a difficult time."
+    }
+  ],
+  "cautions": [
+    "他動詞で survive A=A(事故・戦争)を生きのびる。前置詞は不要(survive from the accident は×)",
+    "survive A=A(人)より長生きする の意味もある",
+    "自動詞で「生き残る・残っている」",
+    "survive on A=Aでなんとか暮らす。名詞 survival、survivor"
+  ],
+  "patterns": [
+    {
+      "form": "survive A",
+      "meaning": "Aを生きのびる・Aより長生きする"
+    },
+    {
+      "form": "survive on A",
+      "meaning": "Aでなんとか暮らす"
+    },
+    {
+      "form": "survival",
+      "meaning": "生き残ること"
+    },
+    {
+      "form": "survivor",
+      "meaning": "生存者"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "生きのびる(他動詞)",
+      "en": "Only three passengers survived the plane crash.",
+      "ja": "その飛行機事故で助かった乗客は、3人だけだった。"
+    },
+    {
+      "source": "original",
+      "label": "生き残る(自動詞)",
+      "en": "Few plants can survive in such a dry climate.",
+      "ja": "そんなに乾いた気候で生きられる植物は、ほとんどない。"
+    },
+    {
+      "source": "original",
+      "label": "より長生きする",
+      "en": "She survived her husband by ten years.",
+      "ja": "彼女は夫より10年長く生きた。"
+    },
+    {
+      "source": "original",
+      "label": "残っている",
+      "en": "Only a few buildings from that period have survived.",
+      "ja": "その時代の建物は、ほんの少ししか残っていない。"
+    },
+    {
+      "source": "original",
+      "label": "survive on",
+      "en": "The family survived on bread and water for a week.",
+      "ja": "その家族は1週間、パンと水だけで生きのびた。"
+    },
+    {
+      "source": "original",
+      "label": "survival(名詞)",
+      "en": "Clean water is necessary for the survival of all living things.",
+      "ja": "きれいな水は、すべての生き物が生き残るために必要だ。"
+    }
+  ],
+  "check_points": [
+    "survive the accident に前置詞が要らないことを言えるか",
+    "She survived her husband. はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "他動詞 survive A、survival / survivor が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 192
+    }
+  ]
+}

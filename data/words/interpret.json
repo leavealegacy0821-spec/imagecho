@@ -1,0 +1,94 @@
+{
+  "word": "interpret",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈtɜːrprət/",
+  "core_image": {
+    "text": "間に立って、意味を取り出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"28\" y2=\"98\"/><line x1=\"40\" y1=\"74\" x2=\"52\" y2=\"98\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"108\" y2=\"98\"/><line x1=\"120\" y1=\"74\" x2=\"132\" y2=\"98\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"188\" y2=\"98\"/><line x1=\"200\" y1=\"74\" x2=\"212\" y2=\"98\"/><line x1=\"56\" y1=\"50\" x2=\"104\" y2=\"50\" stroke-dasharray=\"5 5\"/><polyline points=\"97,46.2 104,50 97,53.8\"/><line x1=\"136\" y1=\"50\" x2=\"184\" y2=\"50\" stroke-dasharray=\"5 5\"/><polyline points=\"177,46.2 184,50 177,53.8\"/></g><text x=\"120\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">間に立つ</text><text x=\"120\" y=\"154\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">意味をつなぐ</text></svg>"
+  },
+  "etymology": "inter(間に) + pret(値をつける・取り引きする。ラテン語 pretium=値段、price と同じ) → 間に立って取り次ぐ → 意味をくみ取って説明する=解釈する → 言葉を訳す=通訳する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to explain or decide what something means, or to translate what someone says into another language."
+    }
+  ],
+  "cautions": [
+    "interpret A as B=AをBと解釈する",
+    "「通訳する」(話し言葉)。書き言葉の「翻訳する」は translate",
+    "名詞 interpretation=解釈、interpreter=通訳者",
+    "misinterpret=誤解する"
+  ],
+  "patterns": [
+    {
+      "form": "interpret A as B",
+      "meaning": "AをBと解釈する"
+    },
+    {
+      "form": "interpret for A",
+      "meaning": "Aのために通訳する"
+    },
+    {
+      "form": "interpretation",
+      "meaning": "解釈"
+    },
+    {
+      "form": "interpreter",
+      "meaning": "通訳者"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "解釈する",
+      "en": "How do you interpret the last line of this poem?",
+      "ja": "この詩の最後の行を、あなたはどう解釈しますか。"
+    },
+    {
+      "source": "original",
+      "label": "interpret A as B",
+      "en": "Her silence was interpreted as agreement.",
+      "ja": "彼女の沈黙は、賛成の意味だと受け取られた。"
+    },
+    {
+      "source": "original",
+      "label": "通訳する",
+      "en": "My uncle interpreted for the Japanese team at the Olympic Games.",
+      "ja": "おじは、オリンピックで日本チームの通訳をした。"
+    },
+    {
+      "source": "original",
+      "label": "(データを)読み解く",
+      "en": "Scientists must interpret the data carefully before drawing conclusions.",
+      "ja": "科学者は、結論を出す前にデータを注意深く読み解かなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "interpretation(名詞)",
+      "en": "There are many different interpretations of the story.",
+      "ja": "その物語には、さまざまな解釈がある。"
+    },
+    {
+      "source": "original",
+      "label": "interpreter(名詞)",
+      "en": "She works as an interpreter at international conferences.",
+      "ja": "彼女は国際会議で通訳者として働いている。"
+    }
+  ],
+  "check_points": [
+    "interpret と translate のちがいを言えるか",
+    "inter(間に)から interpret の意味を説明できるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "interpret A as B、interpretation が論説文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 241
+    }
+  ]
+}

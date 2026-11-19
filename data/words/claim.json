@@ -1,0 +1,103 @@
+{
+  "word": "claim",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/kleɪm/",
+  "core_image": {
+    "text": "「当然こうだ」と大声で言い立てる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"76\" cy=\"52\" r=\"10\"/><line x1=\"76\" y1=\"62\" x2=\"76\" y2=\"106\"/><line x1=\"76\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"76\" y1=\"106\" x2=\"86\" y2=\"140\"/><polyline points=\"76,74 96,58 104,40\"/><line x1=\"76\" y1=\"74\" x2=\"66\" y2=\"96\"/><path d=\"M110 46 Q118 52 110 58\"/><path d=\"M118 40 Q130 52 118 64\"/><rect x=\"160\" y=\"80\" width=\"50\" height=\"60\"/></g><text x=\"150\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">これは私のだ</text><text x=\"185\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">権利</text></svg>"
+  },
+  "etymology": "ラテン語 clamare(叫ぶ。exclaim=叫ぶ と同じ) → 大声で言う → 自分の権利だと要求する → (証拠なしに)本当だと主張する → (命を)奪う",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say that something is true although it has not been proved, or to ask for something because you think it belongs to you."
+    },
+    {
+      "pos": "名詞",
+      "text": "a statement that something is true, or a demand for something you think you have a right to."
+    }
+  ],
+  "cautions": [
+    "claim that S V=〜だと主張する(証拠はないかもしれない)。英語の claim は「クレーム(苦情)」ではない。苦情は complaint",
+    "claim to do=〜すると主張する",
+    "claim A=A(権利・荷物)を要求する・受け取る(baggage claim=手荷物受取所)",
+    "(事故などが命を)奪う: The fire claimed three lives."
+  ],
+  "patterns": [
+    {
+      "form": "claim that S V",
+      "meaning": "〜だと主張する"
+    },
+    {
+      "form": "claim to do",
+      "meaning": "〜すると主張する"
+    },
+    {
+      "form": "claim A",
+      "meaning": "Aを要求する"
+    },
+    {
+      "form": "baggage claim",
+      "meaning": "手荷物受取所"
+    },
+    {
+      "form": "make a claim",
+      "meaning": "主張する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "主張する",
+      "en": "He claims that he saw a UFO over the lake last night.",
+      "ja": "彼は、昨夜湖の上でUFOを見たと主張している。"
+    },
+    {
+      "source": "original",
+      "label": "claim to do",
+      "en": "She claims to know the famous actor personally.",
+      "ja": "彼女は、その有名な俳優と個人的に知り合いだと言っている。"
+    },
+    {
+      "source": "original",
+      "label": "要求する",
+      "en": "You can claim the money back if the product is damaged.",
+      "ja": "製品が壊れていれば、代金の返金を求めることができる。"
+    },
+    {
+      "source": "original",
+      "label": "受け取る",
+      "en": "We claimed our bags at the airport and took a taxi.",
+      "ja": "私たちは空港で荷物を受け取り、タクシーに乗った。"
+    },
+    {
+      "source": "original",
+      "label": "(命を)奪う",
+      "en": "The earthquake claimed more than a thousand lives.",
+      "ja": "その地震で、1000人を超える命が奪われた。"
+    },
+    {
+      "source": "original",
+      "label": "主張(名詞)",
+      "en": "There is no evidence to support his claim.",
+      "ja": "彼の主張を裏づける証拠はない。"
+    }
+  ],
+  "check_points": [
+    "英語の claim と日本語の「クレーム」のちがいを言えるか",
+    "The fire claimed three lives. はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "claim that(主張する)、claim(命を奪う)が長文で頻出。「苦情」ではない点が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 256
+    }
+  ]
+}

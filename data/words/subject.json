@@ -1,0 +1,104 @@
+{
+  "word": "subject",
+  "pos": [
+    "名詞",
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/ˈsʌbdʒɪkt/",
+  "core_image": {
+    "text": "下に置かれたもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"60\" y=\"20\" width=\"120\" height=\"26\"/><line x1=\"120\" y1=\"48\" x2=\"120\" y2=\"68\"/><polyline points=\"123.8,61 120,68 116.2,61\"/><circle cx=\"120\" cy=\"84\" r=\"8\"/><line x1=\"120\" y1=\"92\" x2=\"120\" y2=\"118\"/><line x1=\"120\" y1=\"118\" x2=\"112\" y2=\"140\"/><line x1=\"120\" y1=\"118\" x2=\"128\" y2=\"140\"/><line x1=\"120\" y1=\"100\" x2=\"108\" y2=\"112\"/><line x1=\"120\" y1=\"100\" x2=\"132\" y2=\"112\"/></g><text x=\"120\" y=\"37\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">上にあるもの</text><text x=\"178\" y=\"108\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">下に置かれる</text></svg>"
+  },
+  "etymology": "sub(下に) + ject(投げる。project, reject と同じ) → 下に投げ置かれたもの → 話し合いの下に置かれるもの(主題・科目)／実験の下に置かれる人(被験者)／王の下に置かれた人(臣民)。形容詞は「〜の下にある=〜を受けやすい・〜に従う」",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the thing that is being discussed or studied, or a person who is being tested in an experiment."
+    },
+    {
+      "pos": "形容詞",
+      "text": "likely to be affected by something, or having to obey something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to force someone or something to experience something unpleasant."
+    }
+  ],
+  "cautions": [
+    "be subject to A=「Aの影響を受けやすい・Aに従わなければならない」が最重要。to は前置詞",
+    "名詞は 主題・科目・主語・被験者・臣民 と幅広い",
+    "動詞はアクセントが後ろ /səbˈdʒekt/。subject A to B=AをBにさらす",
+    "subjective=主観的な(⇔ objective=客観的な)"
+  ],
+  "patterns": [
+    {
+      "form": "be subject to A",
+      "meaning": "Aを受けやすい・Aに従う"
+    },
+    {
+      "form": "change the subject",
+      "meaning": "話題を変える"
+    },
+    {
+      "form": "subject A to B",
+      "meaning": "AをBにさらす"
+    },
+    {
+      "form": "subjective",
+      "meaning": "主観的な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "科目",
+      "en": "Math is my favorite subject, though I am not very good at it.",
+      "ja": "あまり得意ではないが、数学は私のいちばん好きな科目だ。"
+    },
+    {
+      "source": "original",
+      "label": "主題・話題",
+      "en": "Let's change the subject and talk about something more cheerful.",
+      "ja": "話題を変えて、もっと明るい話をしよう。"
+    },
+    {
+      "source": "original",
+      "label": "被験者",
+      "en": "The subjects of the experiment were asked to sleep only four hours a night.",
+      "ja": "その実験の被験者は、1晩に4時間だけ眠るよう求められた。"
+    },
+    {
+      "source": "original",
+      "label": "be subject to=受けやすい",
+      "en": "Japan is subject to earthquakes, so buildings must be very strong.",
+      "ja": "日本は地震に見舞われやすいので、建物はとても頑丈でなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "be subject to=従う",
+      "en": "The schedule is subject to change without notice, depending on the weather.",
+      "ja": "予定は天候によって、予告なく変更されることがある。"
+    },
+    {
+      "source": "original",
+      "label": "subject A to B=さらす",
+      "en": "The prisoners were subjected to cruel treatment during the war.",
+      "ja": "捕虜たちは戦争中、残酷な扱いを受けた。"
+    }
+  ],
+  "check_points": [
+    "科目・被験者・be subject to を「下に置かれたもの」で説明できるか",
+    "subject to change はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "be subject to A が和訳・空所補充の定番。「被験者」は実験を扱う長文で必須。subjective / objective の対比も出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 25
+    }
+  ]
+}

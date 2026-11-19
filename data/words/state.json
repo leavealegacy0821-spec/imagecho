@@ -1,0 +1,103 @@
+{
+  "word": "state",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/steɪt/",
+  "core_image": {
+    "text": "しっかり立っているありさま",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"80\" y=\"110\" width=\"50\" height=\"30\"/><circle cx=\"105\" cy=\"32\" r=\"10\"/><line x1=\"105\" y1=\"42\" x2=\"105\" y2=\"84\"/><line x1=\"105\" y1=\"84\" x2=\"97\" y2=\"110\"/><line x1=\"105\" y1=\"84\" x2=\"113\" y2=\"110\"/><polyline points=\"105,56 126,50 138,40\"/><line x1=\"196\" y1=\"140\" x2=\"196\" y2=\"50\"/><polygon points=\"196,50 222,58 196,66\"/></g><text x=\"44\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">立っている</text><text x=\"204\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">国</text><text x=\"156\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">明言する</text></svg>"
+  },
+  "etymology": "ラテン語 stare(立つ) → status(立っているありさま) → 状態 → 国が成り立っているありさま=国家・州 → 動詞は「立場をはっきり立てて言う」=明言する(statement=声明)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the condition that someone or something is in, or a country or one of the parts that a country is divided into."
+    },
+    {
+      "pos": "動詞",
+      "text": "to say or write something clearly and formally."
+    }
+  ],
+  "cautions": [
+    "動詞 state that S V=はっきり述べる(say より堅い)。statement=声明・陳述",
+    "a state of A=Aの状態: a state of emergency(非常事態)、state of mind(精神状態)",
+    "state は「国家」も「州」も表す",
+    "state-of-the-art=最先端の"
+  ],
+  "patterns": [
+    {
+      "form": "state that S V",
+      "meaning": "〜とはっきり述べる"
+    },
+    {
+      "form": "a state of A",
+      "meaning": "Aの状態"
+    },
+    {
+      "form": "state of mind",
+      "meaning": "精神状態"
+    },
+    {
+      "form": "make a statement",
+      "meaning": "声明を出す"
+    },
+    {
+      "form": "state-of-the-art",
+      "meaning": "最先端の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "状態",
+      "en": "The old bridge is in a terrible state and needs to be repaired at once.",
+      "ja": "その古い橋はひどい状態で、すぐに修理が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "精神状態",
+      "en": "You should not make important decisions in such a state of mind.",
+      "ja": "そんな精神状態で、大事な決定をするべきではない。"
+    },
+    {
+      "source": "original",
+      "label": "国家",
+      "en": "Every state has the duty to protect the lives of its people.",
+      "ja": "どの国家にも、国民の命を守る義務がある。"
+    },
+    {
+      "source": "original",
+      "label": "州",
+      "en": "California is the largest state in the United States by population.",
+      "ja": "カリフォルニアは、人口ではアメリカ最大の州だ。"
+    },
+    {
+      "source": "original",
+      "label": "述べる(動詞)",
+      "en": "The rules clearly state that smoking is not allowed in this building.",
+      "ja": "規則には、この建物内は禁煙だとはっきり書かれている。"
+    },
+    {
+      "source": "original",
+      "label": "statement(名詞)",
+      "en": "The president will make a statement on the accident this evening.",
+      "ja": "大統領は今晩、その事故について声明を出す。"
+    }
+  ],
+  "check_points": [
+    "状態・国家・述べるを「立っているありさま」で説明できるか",
+    "say と state の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "state that、a state of A、statement が論説文で必須。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 81
+    }
+  ]
+}

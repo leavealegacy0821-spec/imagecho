@@ -1,0 +1,104 @@
+{
+  "word": "charge",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/tʃɑːrdʒ/",
+  "core_image": {
+    "text": "荷をどんと負わせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 86,62 108,56\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><path d=\"M116 40 Q128 24 148 32 Q162 44 152 60 Q134 70 120 60 Z\"/><rect x=\"130\" y=\"96\" width=\"70\" height=\"26\"/><circle cx=\"146\" cy=\"130\" r=\"9\"/><circle cx=\"184\" cy=\"130\" r=\"9\"/><line x1=\"150\" y1=\"66\" x2=\"160\" y2=\"90\"/><polyline points=\"160.8,82 160,90 153.8,85\"/></g><text x=\"198\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">荷を負わせる</text><text x=\"120\" y=\"154\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">お金・責任・電気</text></svg>"
+  },
+  "etymology": "後期ラテン語 carricare(荷車 carrus に積む。car, carry と同じ) → 荷を負わせる → 料金を負わせる(請求)／責任を負わせる(担当・告発)／電気を詰める(充電)／どっと押し寄せる(突撃)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to ask someone to pay an amount of money for something, or to say officially that someone has done something wrong."
+    },
+    {
+      "pos": "名詞",
+      "text": "the amount of money you have to pay for a service, or the responsibility for taking care of something."
+    }
+  ],
+  "cautions": [
+    "charge 人 金額 for 物=「物の代金として人に〜を請求する」",
+    "in charge of A=Aを担当して(責任という荷を負っている)",
+    "be charged with A=Aの罪で告発される",
+    "free of charge=無料で",
+    "料金の使い分け: charge(サービス料・手数料)、fare(運賃)、fee(専門職への料金・入場料)、price(品物の値段)"
+  ],
+  "patterns": [
+    {
+      "form": "charge A B for C",
+      "meaning": "Cの代金としてAにBを請求する"
+    },
+    {
+      "form": "in charge of A",
+      "meaning": "Aを担当して"
+    },
+    {
+      "form": "be charged with A",
+      "meaning": "Aの罪で告発される"
+    },
+    {
+      "form": "free of charge",
+      "meaning": "無料で"
+    },
+    {
+      "form": "charge a battery",
+      "meaning": "電池を充電する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "請求する",
+      "en": "The hotel charged us fifty dollars for a breakfast we did not even eat.",
+      "ja": "そのホテルは、食べてもいない朝食の代金として私たちに50ドルを請求した。"
+    },
+    {
+      "source": "original",
+      "label": "料金(名詞)",
+      "en": "You can use the swimming pool free of charge if you stay at this hotel.",
+      "ja": "このホテルに泊まれば、プールを無料で使える。"
+    },
+    {
+      "source": "original",
+      "label": "in charge of=担当して",
+      "en": "Ms. Sato is in charge of the first-year students this year.",
+      "ja": "佐藤先生は今年、1年生を担当している。"
+    },
+    {
+      "source": "original",
+      "label": "be charged with=告発される",
+      "en": "The man was charged with stealing money from the company he worked for.",
+      "ja": "その男は、勤めていた会社から金を盗んだ罪で告発された。"
+    },
+    {
+      "source": "original",
+      "label": "充電する",
+      "en": "I forgot to charge my phone last night, so the battery is almost dead.",
+      "ja": "昨夜スマホを充電し忘れたので、電池がほとんど切れている。"
+    },
+    {
+      "source": "original",
+      "label": "突進する",
+      "en": "The angry bull suddenly charged at the people standing near the fence.",
+      "ja": "怒った雄牛が、柵の近くに立っていた人々に突然突進した。"
+    }
+  ],
+  "check_points": [
+    "請求・担当・告発・充電を「荷を負わせる」で説明できるか",
+    "in charge of と free of charge の charge は、それぞれ何の「荷」か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "in charge of、charge A for B、be charged with が語法・長文で頻出。料金を表す語の区別も問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 22
+    }
+  ]
+}

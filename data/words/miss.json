@@ -1,0 +1,98 @@
+{
+  "word": "miss",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/mɪs/",
+  "core_image": {
+    "text": "当てようとして、当たらない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><polyline points=\"46,74 68,62 82,50\"/><line x1=\"46\" y1=\"74\" x2=\"36\" y2=\"96\"/><circle cx=\"186\" cy=\"76\" r=\"20\"/><circle cx=\"186\" cy=\"76\" r=\"8\"/><path d=\"M90 46 Q150 12 222 34\" stroke-dasharray=\"5 5\"/><polyline points=\"213,25 223,34 211,38\"/></g><text x=\"130\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">当たらない</text><text x=\"186\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ねらったもの</text></svg>"
+  },
+  "etymology": "古英語 missan(当たりそこなう・のがす) → 的をはずす → 乗り物・機会をのがす → 見のがす・聞きのがす → あるはずのものが無いと気づく → いなくて寂しい",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to fail to hit, catch or reach something, or to feel sad because someone is not with you."
+    }
+  ],
+  "cautions": [
+    "miss doing=「〜しそこなう」。miss to do は×",
+    "I miss you.=「あなたがいなくて寂しい」。あるはずのものに届かない感じ",
+    "missing=行方不明の・欠けている(be missing)",
+    "miss the point=要点をつかみそこなう、miss out on A=A(好機)をのがす"
+  ],
+  "patterns": [
+    {
+      "form": "miss the train",
+      "meaning": "電車に乗りそこなう"
+    },
+    {
+      "form": "miss doing",
+      "meaning": "〜しそこなう"
+    },
+    {
+      "form": "miss A",
+      "meaning": "Aがいなくて寂しい"
+    },
+    {
+      "form": "be missing",
+      "meaning": "行方不明だ・欠けている"
+    },
+    {
+      "form": "miss the point",
+      "meaning": "要点をつかみそこなう"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "乗りそこなう",
+      "en": "I overslept and missed the first train by only two minutes.",
+      "ja": "寝坊して、たった2分の差で始発電車に乗りそこなった。"
+    },
+    {
+      "source": "original",
+      "label": "のがす",
+      "en": "You should not miss this chance to study with such a famous professor.",
+      "ja": "そんなに有名な教授のもとで学べるこの機会を、のがすべきではない。"
+    },
+    {
+      "source": "original",
+      "label": "見落とす",
+      "en": "The post office is right next to the station, so you can't miss it.",
+      "ja": "郵便局は駅のすぐ隣なので、見落とすはずがない。"
+    },
+    {
+      "source": "original",
+      "label": "いなくて寂しい",
+      "en": "I miss my family very much, especially when I am sick.",
+      "ja": "とくに病気のときは、家族がいなくてとても寂しい。"
+    },
+    {
+      "source": "original",
+      "label": "miss doing=しそこなう",
+      "en": "She narrowly missed being hit by a car on her way to school.",
+      "ja": "彼女は登校中、もう少しで車にはねられるところだった。"
+    },
+    {
+      "source": "original",
+      "label": "missing(行方不明の)",
+      "en": "The police are still looking for the two missing children.",
+      "ja": "警察は今も、行方不明の2人の子どもを捜している。"
+    }
+  ],
+  "check_points": [
+    "「のがす」と「寂しい」を「当たらない(届かない)」で説明できるか",
+    "miss の後ろに動詞を続けるときの形は何か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "miss doing、missing、miss the point が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 43
+    }
+  ]
+}

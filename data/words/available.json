@@ -1,0 +1,94 @@
+{
+  "word": "available",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/əˈveɪləbl/",
+  "core_image": {
+    "text": "手を伸ばせば使える状態にある",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"130\" y1=\"60\" x2=\"215\" y2=\"60\"/><rect x=\"152\" y=\"38\" width=\"20\" height=\"22\"/><rect x=\"182\" y=\"38\" width=\"20\" height=\"22\"/><circle cx=\"96\" cy=\"52\" r=\"10\"/><line x1=\"96\" y1=\"62\" x2=\"96\" y2=\"106\"/><line x1=\"96\" y1=\"106\" x2=\"86\" y2=\"140\"/><line x1=\"96\" y1=\"106\" x2=\"106\" y2=\"140\"/><polyline points=\"96,74 122,62 150,50\"/><line x1=\"96\" y1=\"74\" x2=\"86\" y2=\"96\"/></g><text x=\"176\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すぐ使える</text><text x=\"176\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手が届く</text></svg>"
+  },
+  "etymology": "a(ad=〜へ) + vail(役に立つ・価値がある。value, valid と同じ) + able(できる) → 役立てることができる → 利用できる・手に入る → (人が)手が空いていて会える",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "able to be used or easily obtained, or (of a person) free to see or talk to someone."
+    }
+  ],
+  "cautions": [
+    "物が主語なら「利用できる・手に入る・空いている」、人が主語なら「手が空いている・会える」と訳し分ける",
+    "名詞の後ろに置くことが多い(the only room available)",
+    "be available to A(人)/ for A(目的)",
+    "名詞は availability、反対は unavailable"
+  ],
+  "patterns": [
+    {
+      "form": "be available to A",
+      "meaning": "A(人)が利用できる"
+    },
+    {
+      "form": "be available for A",
+      "meaning": "Aのために使える"
+    },
+    {
+      "form": "make A available",
+      "meaning": "Aを利用できるようにする"
+    },
+    {
+      "form": "readily available",
+      "meaning": "すぐ手に入る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "利用できる",
+      "en": "Free Wi-Fi is available to all guests in the lobby.",
+      "ja": "ロビーでは、すべての宿泊客が無料Wi-Fiを利用できる。"
+    },
+    {
+      "source": "original",
+      "label": "手に入る",
+      "en": "Tickets for the concert are available online from tomorrow.",
+      "ja": "そのコンサートの券は、明日からネットで手に入る。"
+    },
+    {
+      "source": "original",
+      "label": "手が空いている",
+      "en": "I am afraid the doctor is not available until three this afternoon.",
+      "ja": "あいにく、先生は今日の午後3時まで手が空きません。"
+    },
+    {
+      "source": "original",
+      "label": "名詞の後ろに置く",
+      "en": "This was the only room available when I called the hotel.",
+      "ja": "ホテルに電話したとき、空いている部屋はここだけだった。"
+    },
+    {
+      "source": "original",
+      "label": "空いている",
+      "en": "Are there any seats available on the next flight to Sapporo?",
+      "ja": "札幌行きの次の便に、空席はありますか。"
+    },
+    {
+      "source": "original",
+      "label": "make A available",
+      "en": "The library made the old newspapers available to the public.",
+      "ja": "図書館は、古い新聞を一般の人が利用できるようにした。"
+    }
+  ],
+  "check_points": [
+    "物が available、人が available のとき、それぞれどう訳すか",
+    "the only room available の語順を説明できるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "長文・リスニングで頻出。訳し分けと、名詞の後ろに置く形が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 112
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "reveal",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈviːl/",
+  "core_image": {
+    "text": "覆いをはがして見せる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"110\" y1=\"30\" x2=\"220\" y2=\"30\"/><path d=\"M120 30 Q112 80 124 136\"/><path d=\"M136 30 Q128 80 140 136\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><polyline points=\"66,74 92,70 120,66\"/><line x1=\"66\" y1=\"74\" x2=\"56\" y2=\"96\"/><polygon points=\"186,62 190,74 202,74 192,82 196,94 186,86 176,94 180,82 170,74 182,74\"/></g><text x=\"56\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">幕を引く</text><text x=\"186\" y=\"114\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">現れる</text></svg>"
+  },
+  "etymology": "re(はがして) + veal(覆い。veil=ベール と同じ) → 覆いを取る → 隠れていたものを明らかにする・見せる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make known something that was secret or unknown, or to show something that was hidden."
+    }
+  ],
+  "cautions": [
+    "reveal A / reveal that S V=明らかにする(⇔ conceal, hide=隠す)",
+    "reveal A to B=AをBに明かす",
+    "名詞 revelation=意外な新事実・暴露",
+    "調査や研究が主語になることが多い(The survey revealed that …)"
+  ],
+  "patterns": [
+    {
+      "form": "reveal A",
+      "meaning": "Aを明らかにする"
+    },
+    {
+      "form": "reveal that S V",
+      "meaning": "〜ということを明らかにする"
+    },
+    {
+      "form": "reveal A to B",
+      "meaning": "AをBに明かす"
+    },
+    {
+      "form": "revelation",
+      "meaning": "意外な新事実"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "明らかにする",
+      "en": "The survey revealed that half of the students skip breakfast.",
+      "ja": "その調査で、生徒の半数が朝食を抜いていることが明らかになった。"
+    },
+    {
+      "source": "original",
+      "label": "(秘密を)明かす",
+      "en": "He refused to reveal the name of the person who had told him.",
+      "ja": "彼は、自分に話した人の名前を明かすことを拒んだ。"
+    },
+    {
+      "source": "original",
+      "label": "見せる",
+      "en": "She opened the box to reveal a beautiful old watch.",
+      "ja": "彼女が箱を開けると、美しい古い時計が現れた。"
+    },
+    {
+      "source": "original",
+      "label": "表に出す",
+      "en": "His face revealed nothing of what he was thinking.",
+      "ja": "彼の顔からは、考えていることが何も読み取れなかった。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "The truth was finally revealed twenty years after the incident.",
+      "ja": "その事件から20年たって、ついに真実が明らかにされた。"
+    },
+    {
+      "source": "original",
+      "label": "revelation(名詞)",
+      "en": "The news came as a revelation to everyone in the office.",
+      "ja": "その知らせは、職場の全員にとって思いがけない事実だった。"
+    }
+  ],
+  "check_points": [
+    "veil(ベール)から reveal の意味を説明できるか",
+    "reveal の反対の意味の語を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "reveal that(調査が明らかにする)が長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 184
+    }
+  ]
+}

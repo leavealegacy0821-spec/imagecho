@@ -1,0 +1,110 @@
+{
+  "word": "mean",
+  "pos": [
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/miːn/",
+  "core_image": {
+    "text": "心の中に抱いて、指し示す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 80,66 98,58\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><rect x=\"104\" y=\"36\" width=\"44\" height=\"26\"/><line x1=\"112\" y1=\"49\" x2=\"140\" y2=\"49\"/><line x1=\"152\" y1=\"52\" x2=\"188\" y2=\"76\" stroke-dasharray=\"5 5\"/><polyline points=\"184.3,68.9 188,76 180,75.3\"/><circle cx=\"204\" cy=\"88\" r=\"14\"/></g><text x=\"126\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">言葉</text><text x=\"204\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">指すもの</text></svg>"
+  },
+  "etymology": "動詞は古英語 mænan(心に持つ・意図する。mind と関係) → 〜のつもりで言う・意図する → (言葉が)意味する → (結果として)〜ということになる。形容詞「意地悪な・けちな」は別の語源(古英語 gemæne=卑しい)。means(手段)は「中間にあるもの」から",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to have a particular meaning, to intend to do something, or to have a particular result."
+    },
+    {
+      "pos": "形容詞",
+      "text": "unkind to other people, or not willing to share things or spend money."
+    }
+  ],
+  "cautions": [
+    "mean to do=「〜するつもりだ」、mean doing=「(結果として)〜することを意味する」",
+    "活用は mean - meant - meant。meant の発音は /ment/",
+    "means は単数も複数も同じ形で「手段」。by means of A=Aによって、by no means=決して〜ない",
+    "What do you mean by A?=Aとはどういう意味ですか",
+    "形容詞の mean は「意地悪な」"
+  ],
+  "patterns": [
+    {
+      "form": "mean to do",
+      "meaning": "〜するつもりだ"
+    },
+    {
+      "form": "mean doing",
+      "meaning": "〜することを意味する"
+    },
+    {
+      "form": "mean A by B",
+      "meaning": "BでAを言おうとする"
+    },
+    {
+      "form": "by means of A",
+      "meaning": "Aによって"
+    },
+    {
+      "form": "by no means",
+      "meaning": "決して〜ない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "意味する",
+      "en": "The word \"kawaii\" means more than just \"cute\" in Japanese.",
+      "ja": "日本語の「かわいい」という言葉は、単なる cute 以上の意味を持つ。"
+    },
+    {
+      "source": "original",
+      "label": "mean to do=つもりだ",
+      "en": "I'm sorry, I didn't mean to hurt your feelings.",
+      "ja": "ごめんなさい、あなたの気持ちを傷つけるつもりはなかったのです。"
+    },
+    {
+      "source": "original",
+      "label": "mean doing=〜ということになる",
+      "en": "Taking that job would mean leaving my family and living alone abroad.",
+      "ja": "その仕事を引き受ければ、家族と離れて海外で1人暮らしをすることになる。"
+    },
+    {
+      "source": "original",
+      "label": "大切だ",
+      "en": "Your support means a lot to me, especially at a time like this.",
+      "ja": "とくにこんなときには、あなたの支えは私にとって大きな意味がある。"
+    },
+    {
+      "source": "original",
+      "label": "means=手段",
+      "en": "Email is a quick and cheap means of communication for most people.",
+      "ja": "メールは、ほとんどの人にとって速くて安い伝達手段だ。"
+    },
+    {
+      "source": "original",
+      "label": "by no means=決して〜ない",
+      "en": "It is by no means easy to master a foreign language in a year.",
+      "ja": "1年で外国語を身につけるのは、決して簡単ではない。"
+    },
+    {
+      "source": "original",
+      "label": "意地悪な(形容詞)",
+      "en": "Don't be so mean to your little brother; he only wants to play.",
+      "ja": "弟にそんなに意地悪をしないで。遊びたいだけなんだから。"
+    }
+  ],
+  "check_points": [
+    "mean to do と mean doing の違いを例文で言えるか",
+    "means(手段)は単数か複数か、a means と言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "mean to do / doing の区別、by no means、means の単複同形が文法問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 41
+    }
+  ]
+}

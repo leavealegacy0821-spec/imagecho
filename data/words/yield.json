@@ -1,0 +1,99 @@
+{
+  "word": "yield",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/jiːld/",
+  "core_image": {
+    "text": "自分の持つものを差し出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"176\" y1=\"140\" x2=\"176\" y2=\"84\"/><circle cx=\"176\" cy=\"58\" r=\"28\"/><circle cx=\"164\" cy=\"52\" r=\"4\"/><circle cx=\"186\" cy=\"64\" r=\"4\"/><line x1=\"152\" y1=\"86\" x2=\"126\" y2=\"100\" stroke-dasharray=\"5 5\"/><polyline points=\"134,100 126,100 130.4,93.3\"/><circle cx=\"76\" cy=\"52\" r=\"10\"/><line x1=\"76\" y1=\"62\" x2=\"76\" y2=\"106\"/><line x1=\"76\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"76\" y1=\"106\" x2=\"86\" y2=\"140\"/><polyline points=\"76,74 96,96 110,100\"/><line x1=\"76\" y1=\"74\" x2=\"66\" y2=\"96\"/><path d=\"M102 104 L106 122 L126 122 L130 104 Z\"/></g><text x=\"150\" y=\"18\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">持つものを差し出す</text><text x=\"118\" y=\"136\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">実り・利益</text></svg>"
+  },
+  "etymology": "古英語 gieldan(支払う・差し出す。ドイツ語 Geld=お金 と同じ語源) → 土地や木が実りを差し出す=産出する・もたらす／相手に差し出す=譲る・屈する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to produce a result, a profit or a crop, or to stop resisting and agree to do what someone wants."
+    },
+    {
+      "pos": "名詞",
+      "text": "the amount of crops or profit that something produces."
+    }
+  ],
+  "cautions": [
+    "2つの意味を1語で持つ:「産出する・(利益・結果を)もたらす」と「屈する・譲る」",
+    "yield to A=Aに屈する・Aに道を譲る(=give in to A)",
+    "名詞は「収穫高・利回り」",
+    "アメリカの道路標識 YIELD は「ゆずれ」"
+  ],
+  "patterns": [
+    {
+      "form": "yield A",
+      "meaning": "Aを産出する・もたらす"
+    },
+    {
+      "form": "yield to A",
+      "meaning": "Aに屈する・譲る"
+    },
+    {
+      "form": "yield results",
+      "meaning": "結果をもたらす"
+    },
+    {
+      "form": "crop yields",
+      "meaning": "作物の収穫高"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "産出する",
+      "en": "This farm yields enough rice to feed the whole village for a year.",
+      "ja": "この農場は、村全体を1年間養えるだけの米を産出する。"
+    },
+    {
+      "source": "original",
+      "label": "(結果を)もたらす",
+      "en": "Years of careful research finally yielded surprising results.",
+      "ja": "何年もの入念な研究が、ついに驚くべき結果をもたらした。"
+    },
+    {
+      "source": "original",
+      "label": "(利益を)生む",
+      "en": "The investment yielded a much higher profit than we had expected.",
+      "ja": "その投資は、予想よりずっと高い利益を生んだ。"
+    },
+    {
+      "source": "original",
+      "label": "yield to=屈する",
+      "en": "The government refused to yield to pressure from the large companies.",
+      "ja": "政府は大企業からの圧力に屈することを拒んだ。"
+    },
+    {
+      "source": "original",
+      "label": "譲る",
+      "en": "Drivers must yield to people who are crossing the street.",
+      "ja": "運転者は、通りを横断している人に道を譲らなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "収穫高(名詞)",
+      "en": "Farmers are using new technology to increase their crop yields.",
+      "ja": "農家は作物の収穫高を増やすために、新しい技術を使っている。"
+    }
+  ],
+  "check_points": [
+    "「産出する」と「屈する」が同じ単語になるわけを「差し出す」から説明できるか",
+    "yield to を別の表現で言い換えられるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "難関大の長文で「もたらす」「屈する」の両方が出る。yield to = give in to の言い換えも問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 50
+    }
+  ]
+}

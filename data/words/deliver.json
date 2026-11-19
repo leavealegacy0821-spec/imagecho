@@ -1,0 +1,94 @@
+{
+  "word": "deliver",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈlɪvər/",
+  "core_image": {
+    "text": "手もとから放して、相手に届ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><polyline points=\"66,74 92,80 110,78\"/><line x1=\"66\" y1=\"74\" x2=\"56\" y2=\"96\"/><rect x=\"110\" y=\"66\" width=\"28\" height=\"24\"/><line x1=\"144\" y1=\"78\" x2=\"172\" y2=\"78\"/><polyline points=\"165,74.2 172,78 165,81.8\"/><rect x=\"180\" y=\"40\" width=\"40\" height=\"100\"/></g><text x=\"124\" y=\"54\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">届ける</text><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">相手</text></svg>"
+  },
+  "etymology": "de(離して) + liver(自由にする。liberty, liberate と同じ) → 解き放つ → 自分の手から放して相手に渡す=配達する → 言葉を放つ=(演説を)する → 約束したものを渡す=果たす → 赤ん坊を取り上げる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to take goods or letters to a particular place or person, or to give a speech to a group of people."
+    }
+  ],
+  "cautions": [
+    "deliver A to B=AをBに配達する",
+    "deliver a speech / a lecture=演説・講義をする",
+    "deliver on a promise=約束を果たす",
+    "名詞 delivery=配達・話しぶり・出産"
+  ],
+  "patterns": [
+    {
+      "form": "deliver A to B",
+      "meaning": "AをBに届ける"
+    },
+    {
+      "form": "deliver a speech",
+      "meaning": "演説をする"
+    },
+    {
+      "form": "deliver on a promise",
+      "meaning": "約束を果たす"
+    },
+    {
+      "form": "delivery",
+      "meaning": "配達"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "配達する",
+      "en": "The newspaper is delivered to our house before six every morning.",
+      "ja": "新聞は毎朝6時前に、わが家に配達される。"
+    },
+    {
+      "source": "original",
+      "label": "届ける",
+      "en": "Could you deliver this package to Mr. Sato by tomorrow noon?",
+      "ja": "この小包を、明日の正午までに佐藤さんに届けてもらえますか。"
+    },
+    {
+      "source": "original",
+      "label": "(演説を)する",
+      "en": "The president delivered a speech on world peace at the United Nations.",
+      "ja": "大統領は国連で、世界平和についての演説をした。"
+    },
+    {
+      "source": "original",
+      "label": "(約束を)果たす",
+      "en": "The new mayor has failed to deliver on his promises.",
+      "ja": "新しい市長は、約束を果たせていない。"
+    },
+    {
+      "source": "original",
+      "label": "出産を助ける",
+      "en": "The doctor has delivered more than a thousand babies in this town.",
+      "ja": "その医師は、この町で1000人を超える赤ん坊を取り上げてきた。"
+    },
+    {
+      "source": "original",
+      "label": "delivery(名詞)",
+      "en": "The store offers free delivery for orders over five thousand yen.",
+      "ja": "その店は、5000円を超える注文は無料で配達してくれる。"
+    }
+  ],
+  "check_points": [
+    "「配達する」と「演説する」を「手もとから放して届ける」で説明できるか",
+    "liberty(自由)との関係を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "deliver a speech、delivery が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 135
+    }
+  ]
+}

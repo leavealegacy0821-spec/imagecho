@@ -1,0 +1,98 @@
+{
+  "word": "define",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈfaɪn/",
+  "core_image": {
+    "text": "境目を引いて、はっきりさせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><polyline points=\"46,74 72,66 96,56\"/><line x1=\"46\" y1=\"74\" x2=\"36\" y2=\"96\"/><rect x=\"110\" y=\"40\" width=\"100\" height=\"80\"/><circle cx=\"160\" cy=\"80\" r=\"14\"/></g><text x=\"160\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ここからここまで</text><text x=\"160\" y=\"154\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">意味をはっきり</text></svg>"
+  },
+  "etymology": "de(完全に) + fine(境界・終わり。finish, final と同じ) → 境界をはっきり決める → 言葉の意味を定める=定義する → 物事の性質や範囲をはっきりさせる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say exactly what a word means, or to describe something clearly."
+    }
+  ],
+  "cautions": [
+    "define A as B=AをBと定義する",
+    "名詞 definition=定義。by definition=定義上・当然",
+    "definite=はっきりした、definitely=間違いなく",
+    "infinite=無限の(境界がない)"
+  ],
+  "patterns": [
+    {
+      "form": "define A",
+      "meaning": "Aを定義する"
+    },
+    {
+      "form": "define A as B",
+      "meaning": "AをBと定義する"
+    },
+    {
+      "form": "definition",
+      "meaning": "定義"
+    },
+    {
+      "form": "by definition",
+      "meaning": "定義上・当然"
+    },
+    {
+      "form": "definite",
+      "meaning": "はっきりした"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "定義する",
+      "en": "It is difficult to define the word \"happiness\" in a single sentence.",
+      "ja": "happiness という語を1文で定義するのは難しい。"
+    },
+    {
+      "source": "original",
+      "label": "define A as B",
+      "en": "A dictionary defines a friend as a person you know well and like.",
+      "ja": "辞書は、友人を「よく知っていて好きな人」と定義している。"
+    },
+    {
+      "source": "original",
+      "label": "はっきりさせる",
+      "en": "We need to define our goals clearly before we start.",
+      "ja": "始める前に、目標をはっきりさせる必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "特徴づける",
+      "en": "Her work defined the style of a whole generation of artists.",
+      "ja": "彼女の作品は、1つの世代の画家たちの作風を決定づけた。"
+    },
+    {
+      "source": "original",
+      "label": "definition(名詞)",
+      "en": "What is your definition of success?",
+      "ja": "あなたにとって成功の定義は何ですか。"
+    },
+    {
+      "source": "original",
+      "label": "definitely(副詞)",
+      "en": "I will definitely come to your party next week.",
+      "ja": "来週のパーティーには、間違いなく行きます。"
+    }
+  ],
+  "check_points": [
+    "finish・final・define に共通する fin の意味を言えるか",
+    "definitely はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "define A as B、definition、definitely が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 235
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "require",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈkwaɪər/",
+  "core_image": {
+    "text": "どうしても必要だと求める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 82,78 100,74\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><circle cx=\"108\" cy=\"74\" r=\"6\"/><line x1=\"114\" y1=\"74\" x2=\"134\" y2=\"74\"/><rect x=\"160\" y=\"40\" width=\"50\" height=\"100\"/><circle cx=\"172\" cy=\"92\" r=\"5\"/></g><text x=\"185\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">これが無いと</text><text x=\"114\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">必要</text></svg>"
+  },
+  "etymology": "re(くり返し) + quire(求める。question, request, acquire と同じ) → 何度も求める → どうしても必要とする → (規則や権威が)要求する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to need something, or to make it necessary for someone to do something because of a rule or law."
+    }
+  ],
+  "cautions": [
+    "require A to do=Aに〜するよう求める。受け身 be required to do=〜しなければならない",
+    "require that S (should) 動詞の原形",
+    "require doing=〜される必要がある(=need doing)",
+    "名詞は requirement(必要条件)。meet the requirements=条件を満たす"
+  ],
+  "patterns": [
+    {
+      "form": "require A",
+      "meaning": "Aを必要とする"
+    },
+    {
+      "form": "require A to do",
+      "meaning": "Aに〜するよう求める"
+    },
+    {
+      "form": "be required to do",
+      "meaning": "〜しなければならない"
+    },
+    {
+      "form": "require that S (should) do",
+      "meaning": "〜するよう求める"
+    },
+    {
+      "form": "requirement",
+      "meaning": "必要条件"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "必要とする",
+      "en": "Learning to play the piano requires a lot of time and patience.",
+      "ja": "ピアノを弾けるようになるには、多くの時間と忍耐が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "require A to do",
+      "en": "The law requires all drivers to wear a seat belt.",
+      "ja": "法律は、すべての運転者にシートベルトの着用を義務づけている。"
+    },
+    {
+      "source": "original",
+      "label": "be required to do",
+      "en": "Students are required to wear a uniform at this school.",
+      "ja": "この学校では、生徒は制服を着なければならない。"
+    },
+    {
+      "source": "original",
+      "label": "require that",
+      "en": "The rules require that every member pay the fee by April.",
+      "ja": "規則では、全会員が4月までに会費を払うことになっている。"
+    },
+    {
+      "source": "original",
+      "label": "require doing",
+      "en": "This old house requires repairing before winter comes.",
+      "ja": "この古い家は、冬が来る前に修理が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "requirement(名詞)",
+      "en": "She did not meet the requirements for the job.",
+      "ja": "彼女はその仕事の条件を満たしていなかった。"
+    }
+  ],
+  "check_points": [
+    "require that の後ろの動詞がなぜ原形になるのか説明できるか",
+    "be required to do を、have to を使わずに訳せるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "require A to do、require that S (should) 原形、meet the requirements が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 105
+    }
+  ]
+}

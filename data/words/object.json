@@ -1,0 +1,103 @@
+{
+  "word": "object",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈɑːbdʒɪkt/",
+  "core_image": {
+    "text": "目の前に投げ出されたもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><polyline points=\"66,74 90,66 100,52\"/><line x1=\"66\" y1=\"74\" x2=\"56\" y2=\"96\"/><rect x=\"150\" y=\"96\" width=\"44\" height=\"44\"/><path d=\"M216 44 Q198 62 182 92\" stroke-dasharray=\"5 5\"/><polyline points=\"178,82 182,92 192,86\"/></g><text x=\"176\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">目の前に置かれる</text><text x=\"108\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">向き合う</text></svg>"
+  },
+  "etymology": "ob(〜に向かって・前に) + ject(投げる。subject, project と同じ) → 目の前に投げ出されたもの → 物体 → 心や行動が向かう先=対象・目的 → (文法の)目的語。動詞は「言葉を前に投げつける」=反対する(object to)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a thing that you can see and touch, or the purpose of a plan or an action."
+    },
+    {
+      "pos": "動詞",
+      "text": "to say that you do not agree with something or do not like it."
+    }
+  ],
+  "cautions": [
+    "object to A / doing=Aに反対する。to は前置詞なので後ろは名詞・動名詞",
+    "名詞は前を強く、動詞は後ろを強く /əbˈdʒekt/ 読む",
+    "名詞に「目的」の意味がある(the object of the game)",
+    "objective=客観的な(⇔ subjective)・目標、objection=反対"
+  ],
+  "patterns": [
+    {
+      "form": "object to A / doing",
+      "meaning": "A(〜すること)に反対する"
+    },
+    {
+      "form": "an object of A",
+      "meaning": "Aの対象"
+    },
+    {
+      "form": "the object of A",
+      "meaning": "Aの目的"
+    },
+    {
+      "form": "objective",
+      "meaning": "客観的な・目標"
+    },
+    {
+      "form": "raise an objection",
+      "meaning": "異議を唱える"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "物体",
+      "en": "A strange object was seen flying over the town last night.",
+      "ja": "昨夜、奇妙な物体が町の上を飛んでいるのが目撃された。"
+    },
+    {
+      "source": "original",
+      "label": "対象",
+      "en": "The young singer became an object of admiration among teenagers.",
+      "ja": "その若い歌手は、10代の若者たちのあこがれの的になった。"
+    },
+    {
+      "source": "original",
+      "label": "目的",
+      "en": "The object of this game is to collect as many cards as possible.",
+      "ja": "このゲームの目的は、できるだけ多くのカードを集めることだ。"
+    },
+    {
+      "source": "original",
+      "label": "object to=反対する",
+      "en": "Many people objected to the plan to cut down the old trees.",
+      "ja": "多くの人が、古い木々を切り倒す計画に反対した。"
+    },
+    {
+      "source": "original",
+      "label": "object to doing",
+      "en": "I object to being treated like a child by my own parents.",
+      "ja": "自分の親に子ども扱いされるのは嫌だ。"
+    },
+    {
+      "source": "original",
+      "label": "objective(客観的な)",
+      "en": "A judge must always try to be objective and fair.",
+      "ja": "裁判官は、常に客観的で公正であろうと努めなければならない。"
+    }
+  ],
+  "check_points": [
+    "物体・目的・反対するを「目の前に投げ出されたもの」で説明できるか",
+    "object to の後ろに動詞を続けるときの形は何か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "object to doing(to は前置詞)が文法問題の定番。objective / subjective の対比、アクセントの移動も問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 70
+    }
+  ]
+}

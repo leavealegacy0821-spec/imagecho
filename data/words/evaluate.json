@@ -1,0 +1,89 @@
+{
+  "word": "evaluate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪˈvæljueɪt/",
+  "core_image": {
+    "text": "価値を引き出して、見定める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><polyline points=\"50,74 70,62 66,50\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><rect x=\"110\" y=\"40\" width=\"60\" height=\"76\"/><line x1=\"120\" y1=\"56\" x2=\"160\" y2=\"56\"/><line x1=\"120\" y1=\"72\" x2=\"160\" y2=\"72\"/><line x1=\"120\" y1=\"88\" x2=\"150\" y2=\"88\"/><polyline points=\"184,46 190,54 204,36\"/><polyline points=\"184,80 190,88 204,70\"/></g><text x=\"140\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">よく調べる</text><text x=\"160\" y=\"136\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">値打ちを決める</text></svg>"
+  },
+  "etymology": "e(ex=外へ) + valu(価値。value と同じ) + ate → 価値を外に引き出す → 価値や質を見定める・評価する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to think carefully about something in order to judge its quality, importance or value."
+    }
+  ],
+  "cautions": [
+    "evaluate A=Aを(よく調べて)評価する。judge より客観的・正式",
+    "名詞 evaluation=評価",
+    "value(価値)、valuable(価値のある)、invaluable(計り知れないほど貴重な)と同じ根"
+  ],
+  "patterns": [
+    {
+      "form": "evaluate A",
+      "meaning": "Aを評価する"
+    },
+    {
+      "form": "evaluate the effect of A",
+      "meaning": "Aの効果を評価する"
+    },
+    {
+      "form": "evaluation",
+      "meaning": "評価"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "評価する",
+      "en": "Teachers evaluate students not only by tests but also by their work in class.",
+      "ja": "先生は、テストだけでなく授業での取り組みでも生徒を評価する。"
+    },
+    {
+      "source": "original",
+      "label": "見定める",
+      "en": "We need more data to evaluate the success of the program.",
+      "ja": "その事業が成功したかを見定めるには、もっとデータが必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "(効果を)評価する",
+      "en": "Scientists are evaluating the effects of the new medicine.",
+      "ja": "科学者たちは、新薬の効果を評価している。"
+    },
+    {
+      "source": "original",
+      "label": "(情報を)吟味する",
+      "en": "It is important to evaluate information you find online carefully.",
+      "ja": "ネットで見つけた情報は、注意深く吟味することが大切だ。"
+    },
+    {
+      "source": "original",
+      "label": "evaluation(名詞)",
+      "en": "The workers receive an evaluation from their manager every six months.",
+      "ja": "従業員は半年ごとに、上司から評価を受ける。"
+    },
+    {
+      "source": "original",
+      "label": "再評価する",
+      "en": "After the accident, the city had to re-evaluate its safety rules.",
+      "ja": "事故の後、市は安全規則を見直さなければならなかった。"
+    }
+  ],
+  "check_points": [
+    "value(価値)と evaluate のつながりを言えるか",
+    "judge と evaluate のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "evaluate、evaluation が論説文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 225
+    }
+  ]
+}

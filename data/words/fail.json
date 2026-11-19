@@ -1,0 +1,105 @@
+{
+  "word": "fail",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/feɪl/",
+  "core_image": {
+    "text": "期待されたところまで届かない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"172\" y1=\"140\" x2=\"172\" y2=\"62\"/><line x1=\"172\" y1=\"62\" x2=\"225\" y2=\"62\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><polyline points=\"66,74 88,60 104,50\"/><line x1=\"66\" y1=\"74\" x2=\"56\" y2=\"96\"/><path d=\"M110 48 Q140 40 152 98\" stroke-dasharray=\"5 5\"/></g><text x=\"196\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">期待される所</text><text x=\"122\" y=\"118\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">届かない</text></svg>"
+  },
+  "etymology": "ラテン語 fallere(だます・期待を裏切る。false, fault と同じ) → 期待に届かない → 失敗する／〜しそこなう・しない(fail to do)／力や働きが足りなくなる(衰える)／人の期待を裏切る・落第させる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to not succeed in doing something, to not do something that is expected, or to become weaker."
+    }
+  ],
+  "cautions": [
+    "fail to do=「〜しない・できない」。ほぼ否定の意味で訳す",
+    "never fail to do=必ず〜する",
+    "fail (in) an exam=試験に落ちる",
+    "fail A=Aの役に立たない: Words failed me.(言葉が出なかった)",
+    "名詞 failure=失敗・故障(power failure=停電)。without fail=必ず"
+  ],
+  "patterns": [
+    {
+      "form": "fail to do",
+      "meaning": "〜しない・できない"
+    },
+    {
+      "form": "never fail to do",
+      "meaning": "必ず〜する"
+    },
+    {
+      "form": "fail (in) A",
+      "meaning": "Aに失敗する"
+    },
+    {
+      "form": "without fail",
+      "meaning": "必ず"
+    },
+    {
+      "form": "failure",
+      "meaning": "失敗・故障"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "失敗する",
+      "en": "Their first attempt to climb the mountain failed because of bad weather.",
+      "ja": "その山に登る最初の試みは、悪天候のために失敗した。"
+    },
+    {
+      "source": "original",
+      "label": "fail to do=〜しない",
+      "en": "He failed to appear at the meeting, and nobody knew why.",
+      "ja": "彼は会議に姿を見せず、だれもその理由を知らなかった。"
+    },
+    {
+      "source": "original",
+      "label": "never fail to do=必ず〜する",
+      "en": "She never fails to call her mother on Sunday evenings.",
+      "ja": "彼女は日曜の晩には必ず母親に電話をかける。"
+    },
+    {
+      "source": "original",
+      "label": "(試験に)落ちる",
+      "en": "I am afraid I will fail the math exam unless I study harder.",
+      "ja": "もっと勉強しないと、数学の試験に落ちるのではないかと心配だ。"
+    },
+    {
+      "source": "original",
+      "label": "衰える",
+      "en": "My grandfather's eyesight is failing, so he cannot read small letters.",
+      "ja": "祖父は視力が衰えてきて、小さな文字が読めない。"
+    },
+    {
+      "source": "original",
+      "label": "役に立たない",
+      "en": "Words failed me when I saw the beautiful sunrise from the top.",
+      "ja": "頂上から美しい日の出を見たとき、言葉が出なかった。"
+    },
+    {
+      "source": "original",
+      "label": "failure(名詞)",
+      "en": "Success often comes after many failures.",
+      "ja": "成功は、多くの失敗の後にやって来ることが多い。"
+    }
+  ],
+  "check_points": [
+    "fail to do と never fail to do を訳し分けられるか",
+    "「視力が衰える」になぜ fail を使うのか、核となるイメージから説明できるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "fail to do(〜しない)、never fail to do(必ず〜する)が和訳・文法の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 64
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "word": "party",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈpɑːrti/",
+  "core_image": {
+    "text": "全体から分かれた、ひとまとまりの一団",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><circle cx=\"110\" cy=\"52\" r=\"10\"/><line x1=\"110\" y1=\"62\" x2=\"110\" y2=\"106\"/><line x1=\"110\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"110\" y1=\"106\" x2=\"120\" y2=\"140\"/><rect x=\"30\" y=\"34\" width=\"100\" height=\"104\" stroke-dasharray=\"5 5\"/><circle cx=\"195\" cy=\"52\" r=\"10\"/><line x1=\"195\" y1=\"62\" x2=\"195\" y2=\"106\"/><line x1=\"195\" y1=\"106\" x2=\"185\" y2=\"140\"/><line x1=\"195\" y1=\"106\" x2=\"205\" y2=\"140\"/></g><text x=\"80\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひとまとまりの一団</text><text x=\"195\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ほかの人</text></svg>"
+  },
+  "etymology": "ラテン語 pars(部分。part と同じ) → partita(分けられたもの) → 全体から分かれた人々のまとまり → 一行・団体／政党／(契約・争いの)一方の側=当事者／人が集まる会",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a social event, a political organization, or a group of people who are doing something together."
+    }
+  ],
+  "cautions": [
+    "「政党」の意味: the ruling party(与党)、the opposition party(野党)",
+    "「一行・団体」: a party of ten(10人の一行)、a search party(捜索隊)",
+    "「当事者」: both parties(両者)、a third party(第三者)、the parties concerned(関係者)"
+  ],
+  "patterns": [
+    {
+      "form": "a political party",
+      "meaning": "政党"
+    },
+    {
+      "form": "the ruling party",
+      "meaning": "与党"
+    },
+    {
+      "form": "a party of A",
+      "meaning": "A人の一行"
+    },
+    {
+      "form": "a third party",
+      "meaning": "第三者"
+    },
+    {
+      "form": "the parties concerned",
+      "meaning": "関係者"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "会",
+      "en": "We are going to give a farewell party for Mr. Tanaka next Friday.",
+      "ja": "来週の金曜日に、田中さんの送別会を開く予定だ。"
+    },
+    {
+      "source": "original",
+      "label": "政党",
+      "en": "The ruling party lost many seats in the election held last month.",
+      "ja": "先月行われた選挙で、与党は多くの議席を失った。"
+    },
+    {
+      "source": "original",
+      "label": "一行",
+      "en": "A party of twenty tourists arrived at the hotel late at night.",
+      "ja": "20人の観光客の一行が、夜遅くホテルに着いた。"
+    },
+    {
+      "source": "original",
+      "label": "捜索隊",
+      "en": "A search party was sent out to look for the missing climbers.",
+      "ja": "行方不明の登山者を捜すために、捜索隊が送り出された。"
+    },
+    {
+      "source": "original",
+      "label": "当事者",
+      "en": "Both parties agreed to solve the problem without going to court.",
+      "ja": "両者は、裁判にかけずに問題を解決することで合意した。"
+    },
+    {
+      "source": "original",
+      "label": "第三者",
+      "en": "You should not give your personal information to a third party.",
+      "ja": "個人情報を第三者に渡すべきではない。"
+    }
+  ],
+  "check_points": [
+    "パーティー・政党・当事者を part(部分)から説明できるか",
+    "a party of ten はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "政党・一行・当事者の意味が長文で問われる。a third party も出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 61
+    }
+  ]
+}

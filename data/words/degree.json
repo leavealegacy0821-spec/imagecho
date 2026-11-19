@@ -1,0 +1,98 @@
+{
+  "word": "degree",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/dɪˈɡriː/",
+  "core_image": {
+    "text": "一段ずつ刻まれた段",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"90,140 90,116 120,116 120,92 150,92 150,68 180,68 180,44 215,44\"/><circle cx=\"135\" cy=\"50\" r=\"8\"/><line x1=\"135\" y1=\"58\" x2=\"135\" y2=\"78\"/><line x1=\"135\" y1=\"78\" x2=\"129\" y2=\"92\"/><line x1=\"135\" y1=\"78\" x2=\"141\" y2=\"92\"/><line x1=\"135\" y1=\"64\" x2=\"126\" y2=\"72\"/><line x1=\"135\" y1=\"64\" x2=\"146\" y2=\"58\"/></g><text x=\"50\" y=\"96\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">一段ずつ</text><text x=\"196\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">程度・学位</text></svg>"
+  },
+  "etymology": "de(下へ) + ラテン語 gradus(段・歩み。grade, gradual, graduate と同じ) → 階段の一段 → 目盛りの一刻み(度) → どの段まで来たか=程度 → 学問の段を上った証=学位",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a unit for measuring temperature or angles, the amount or level of something, or a qualification given by a university."
+    }
+  ],
+  "cautions": [
+    "to some degree / to a certain degree=ある程度。前置詞は to",
+    "by degrees=徐々に(=gradually)",
+    "「学位」: a degree in law(法学の学位)、a master's degree(修士号)",
+    "a high degree of A=高度なA"
+  ],
+  "patterns": [
+    {
+      "form": "to some degree",
+      "meaning": "ある程度"
+    },
+    {
+      "form": "to a certain degree",
+      "meaning": "ある程度まで"
+    },
+    {
+      "form": "by degrees",
+      "meaning": "徐々に"
+    },
+    {
+      "form": "a degree in A",
+      "meaning": "Aの学位"
+    },
+    {
+      "form": "a high degree of A",
+      "meaning": "高度なA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "(温度の)度",
+      "en": "The temperature rose to thirty-five degrees in the afternoon.",
+      "ja": "午後には気温が35度まで上がった。"
+    },
+    {
+      "source": "original",
+      "label": "程度(to some degree)",
+      "en": "To some degree, I understand why he was so angry yesterday.",
+      "ja": "彼が昨日なぜあんなに怒っていたのか、ある程度はわかる。"
+    },
+    {
+      "source": "original",
+      "label": "by degrees=徐々に",
+      "en": "By degrees, the patient began to remember what had happened.",
+      "ja": "患者は少しずつ、何が起きたのかを思い出し始めた。"
+    },
+    {
+      "source": "original",
+      "label": "学位",
+      "en": "She has a degree in economics from a university in London.",
+      "ja": "彼女はロンドンの大学で経済学の学位を取っている。"
+    },
+    {
+      "source": "original",
+      "label": "高度な",
+      "en": "The job requires a high degree of skill and patience.",
+      "ja": "その仕事には、高度な技術と忍耐が求められる。"
+    },
+    {
+      "source": "original",
+      "label": "(角度の)度",
+      "en": "Turn the handle ninety degrees to the right to open the door.",
+      "ja": "ドアを開けるには、取っ手を右に90度回しなさい。"
+    }
+  ],
+  "check_points": [
+    "温度の度・程度・学位を「一段ずつ刻まれた段」で説明できるか",
+    "「ある程度」で使う前置詞は何か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "to some degree、by degrees、a degree in が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 62
+    }
+  ]
+}

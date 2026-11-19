@@ -1,0 +1,98 @@
+{
+  "word": "raise",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/reɪz/",
+  "core_image": {
+    "text": "下にあるものを持ち上げる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"96\" cy=\"52\" r=\"10\"/><line x1=\"96\" y1=\"62\" x2=\"96\" y2=\"106\"/><line x1=\"96\" y1=\"106\" x2=\"86\" y2=\"140\"/><line x1=\"96\" y1=\"106\" x2=\"106\" y2=\"140\"/><polyline points=\"96,74 84,56 88,36\"/><polyline points=\"96,74 108,56 104,36\"/><rect x=\"78\" y=\"14\" width=\"36\" height=\"22\"/><line x1=\"156\" y1=\"112\" x2=\"156\" y2=\"40\"/><polyline points=\"152.2,47 156,40 159.8,47\"/></g><text x=\"196\" y=\"78\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">持ち上げる</text></svg>"
+  },
+  "etymology": "古ノルド語 reisa(立たせる・起こす。rise「上がる」の「〜させる」形) → 持ち上げる → 量・値段を上げる／子どもや作物を育て上げる／お金を集め上げる／問題を持ち上げて見せる(提起する)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move something to a higher position, to increase an amount, or to take care of a child until he or she is grown up."
+    }
+  ],
+  "cautions": [
+    "raise は他動詞(〜を上げる)で raise - raised - raised。rise は自動詞(上がる)で rise - rose - risen",
+    "raise a child=育てる(=bring up)。be raised in A=Aで育つ",
+    "raise money=資金を集める",
+    "raise a question / an issue=問題を提起する、raise awareness=意識を高める"
+  ],
+  "patterns": [
+    {
+      "form": "raise one's hand",
+      "meaning": "手を挙げる"
+    },
+    {
+      "form": "raise prices",
+      "meaning": "値段を上げる"
+    },
+    {
+      "form": "raise a child",
+      "meaning": "子どもを育てる"
+    },
+    {
+      "form": "raise money",
+      "meaning": "資金を集める"
+    },
+    {
+      "form": "raise a question",
+      "meaning": "問題を提起する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "上げる",
+      "en": "Raise your hand if you know the answer to this question.",
+      "ja": "この問題の答えがわかる人は、手を挙げなさい。"
+    },
+    {
+      "source": "original",
+      "label": "(値段を)上げる",
+      "en": "The company decided to raise the price of its products by ten percent.",
+      "ja": "その会社は製品の価格を10パーセント引き上げることに決めた。"
+    },
+    {
+      "source": "original",
+      "label": "育てる",
+      "en": "She was born in Osaka but raised in a small town in Hokkaido.",
+      "ja": "彼女は大阪で生まれたが、北海道の小さな町で育った。"
+    },
+    {
+      "source": "original",
+      "label": "(資金を)集める",
+      "en": "The students held a concert to raise money for the victims of the earthquake.",
+      "ja": "生徒たちは、地震の被災者のための資金を集めようとコンサートを開いた。"
+    },
+    {
+      "source": "original",
+      "label": "提起する",
+      "en": "His report raises an important question about the safety of the bridge.",
+      "ja": "彼の報告書は、その橋の安全性について重要な問題を提起している。"
+    },
+    {
+      "source": "original",
+      "label": "(意識を)高める",
+      "en": "The campaign aims to raise awareness of the dangers of smoking.",
+      "ja": "その運動は、喫煙の危険性についての意識を高めることを目指している。"
+    }
+  ],
+  "check_points": [
+    "raise と rise の違い(他動詞・自動詞)と、それぞれの活用を言えるか",
+    "育てる・集める・提起するを「持ち上げる」で説明できるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "raise / rise の区別が文法問題の定番。raise money、raise a question、be raised が長文に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 44
+    }
+  ]
+}

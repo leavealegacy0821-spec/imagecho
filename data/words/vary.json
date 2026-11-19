@@ -1,0 +1,98 @@
+{
+  "word": "vary",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈveri/",
+  "core_image": {
+    "text": "同じではなく、いろいろに違う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><polyline points=\"40,74 64,70 84,66\"/><line x1=\"40\" y1=\"74\" x2=\"30\" y2=\"96\"/><rect x=\"100\" y=\"100\" width=\"20\" height=\"40\"/><rect x=\"130\" y=\"60\" width=\"20\" height=\"80\"/><rect x=\"160\" y=\"86\" width=\"20\" height=\"54\"/><rect x=\"190\" y=\"44\" width=\"20\" height=\"96\"/></g><text x=\"140\" y=\"32\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">それぞれ違う</text></svg>"
+  },
+  "etymology": "ラテン語 varius(まだらの・さまざまな) → variare(変える) → 同じ種類の中でそれぞれ異なる・変わる → 変化をつける。various, variety, variation も同じ語源",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be different from each other in size, amount or degree, or to change according to the situation."
+    }
+  ],
+  "cautions": [
+    "vary from A to A=Aによってさまざまだ(vary from country to country)",
+    "vary in A=Aの点で異なる(vary in size)",
+    "vary with / according to A=Aに応じて変わる",
+    "various=さまざまな、a variety of A=さまざまなA、variation=変化・差"
+  ],
+  "patterns": [
+    {
+      "form": "vary from A to A",
+      "meaning": "Aによってさまざまだ"
+    },
+    {
+      "form": "vary in A",
+      "meaning": "Aの点で異なる"
+    },
+    {
+      "form": "vary with A",
+      "meaning": "Aに応じて変わる"
+    },
+    {
+      "form": "various",
+      "meaning": "さまざまな"
+    },
+    {
+      "form": "a variety of A",
+      "meaning": "さまざまなA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "vary from A to A",
+      "en": "Table manners vary from country to country.",
+      "ja": "食事の作法は、国によってさまざまだ。"
+    },
+    {
+      "source": "original",
+      "label": "vary in",
+      "en": "The rooms in this hotel vary in size and price.",
+      "ja": "このホテルの部屋は、広さと値段がそれぞれ違う。"
+    },
+    {
+      "source": "original",
+      "label": "変わる",
+      "en": "Prices vary according to the season.",
+      "ja": "値段は季節によって変わる。"
+    },
+    {
+      "source": "original",
+      "label": "(意見が)分かれる",
+      "en": "Opinions vary on how the problem should be solved.",
+      "ja": "その問題をどう解決すべきかについては、意見が分かれている。"
+    },
+    {
+      "source": "original",
+      "label": "変化をつける",
+      "en": "Try to vary your diet and eat more vegetables.",
+      "ja": "食事に変化をつけて、もっと野菜を食べるようにしなさい。"
+    },
+    {
+      "source": "original",
+      "label": "a variety of",
+      "en": "The shop sells a wide variety of cheeses from all over Europe.",
+      "ja": "その店は、ヨーロッパ中のさまざまなチーズを売っている。"
+    }
+  ],
+  "check_points": [
+    "vary from A to A を使って「人によって違う」と言えるか",
+    "various・variety・variation の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "vary from A to A、vary in A、a variety of が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 199
+    }
+  ]
+}

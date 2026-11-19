@@ -1,0 +1,92 @@
+{
+  "word": "improve",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪmˈpruːv/",
+  "core_image": {
+    "text": "今より良い状態へ押し上げる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"56\" y1=\"74\" x2=\"80\" y2=\"58\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><rect x=\"110\" y=\"110\" width=\"22\" height=\"30\"/><rect x=\"142\" y=\"90\" width=\"22\" height=\"50\"/><rect x=\"174\" y=\"64\" width=\"22\" height=\"76\"/><line x1=\"112\" y1=\"98\" x2=\"192\" y2=\"42\"/><polyline points=\"184,42.9 192,42 188.4,49.2\"/></g><text x=\"128\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">前より良く</text></svg>"
+  },
+  "etymology": "古フランス語 en(〜にする) + prou(利益。profit と関係) → 利益が出るようにする → より良くする・良くなる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to become better than before, or to make something better than before."
+    }
+  ],
+  "cautions": [
+    "自動詞(良くなる)と他動詞(良くする)の両方で使う",
+    "improve on A=Aをさらに上回る・改良する(記録や前の作品など)",
+    "病気・天気・成績が「良くなる」にも使う",
+    "名詞は improvement。room for improvement=改善の余地"
+  ],
+  "patterns": [
+    {
+      "form": "improve A",
+      "meaning": "Aを良くする・上達させる"
+    },
+    {
+      "form": "A improve",
+      "meaning": "Aが良くなる"
+    },
+    {
+      "form": "improve on A",
+      "meaning": "Aをさらに上回る"
+    },
+    {
+      "form": "improvement in A",
+      "meaning": "Aの改善"
+    },
+    {
+      "form": "room for improvement",
+      "meaning": "改善の余地"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "良くする(他動詞)",
+      "en": "Reading English newspapers every day will improve your vocabulary little by little.",
+      "ja": "毎日英字新聞を読めば、語彙は少しずつ増えていく。"
+    },
+    {
+      "source": "original",
+      "label": "良くなる(自動詞)",
+      "en": "The weather improved in the afternoon, so we decided to go for a walk.",
+      "ja": "午後には天気が良くなったので、散歩に行くことにした。"
+    },
+    {
+      "source": "original",
+      "label": "体調が良くなる",
+      "en": "His health has improved a lot since he stopped smoking last year.",
+      "ja": "去年たばこをやめてから、彼の健康状態はずいぶん良くなった。"
+    },
+    {
+      "source": "original",
+      "label": "improve on=上回る",
+      "en": "She hopes to improve on her best time at the next race.",
+      "ja": "彼女は次のレースで自己ベストを上回りたいと思っている。"
+    },
+    {
+      "source": "original",
+      "label": "improvement(名詞)",
+      "en": "There is still plenty of room for improvement in the design of this bag.",
+      "ja": "このかばんのデザインには、まだ改善の余地がたくさんある。"
+    }
+  ],
+  "check_points": [
+    "improve を自動詞と他動詞の両方で使った文を1つずつ作れるか",
+    "「英語が上達した」を improve を使って2通りに言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "英作文で必須(「上達する・改善する」)。自動詞・他動詞の両用と improvement in の前置詞が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 19
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "word": "exchange",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɪksˈtʃeɪndʒ/",
+  "core_image": {
+    "text": "互いに出し合って取り替える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"46\" y1=\"74\" x2=\"72\" y2=\"80\"/><line x1=\"46\" y1=\"74\" x2=\"36\" y2=\"96\"/><rect x=\"72\" y=\"72\" width=\"16\" height=\"16\"/><circle cx=\"194\" cy=\"52\" r=\"10\"/><line x1=\"194\" y1=\"62\" x2=\"194\" y2=\"106\"/><line x1=\"194\" y1=\"106\" x2=\"184\" y2=\"140\"/><line x1=\"194\" y1=\"106\" x2=\"204\" y2=\"140\"/><line x1=\"194\" y1=\"74\" x2=\"168\" y2=\"80\"/><line x1=\"194\" y1=\"74\" x2=\"204\" y2=\"96\"/><circle cx=\"160\" cy=\"80\" r=\"8\"/><line x1=\"96\" y1=\"64\" x2=\"144\" y2=\"64\"/><polyline points=\"137,60.2 144,64 137,67.8\"/><line x1=\"144\" y1=\"98\" x2=\"96\" y2=\"98\"/><polyline points=\"103,101.8 96,98 103,94.2\"/></g><text x=\"120\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">出し合って</text><text x=\"120\" y=\"118\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">取り替える</text></svg>"
+  },
+  "etymology": "ex(外へ) + change(替える) → 出して替える → 交換する・両替する → 言葉や考えをやり取りする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give something to someone and receive something else from them."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of giving something to someone and receiving something else from them."
+    }
+  ],
+  "cautions": [
+    "exchange A for B=AをBと交換する(for を使う)",
+    "exchange A with B=B(人)とAを交換し合う。A は複数形(exchange ideas, exchange greetings)",
+    "in exchange for A=Aと引き換えに",
+    "exchange rate=為替レート、an exchange student=交換留学生"
+  ],
+  "patterns": [
+    {
+      "form": "exchange A for B",
+      "meaning": "AをBと交換する"
+    },
+    {
+      "form": "exchange A with B",
+      "meaning": "BとAを交換し合う"
+    },
+    {
+      "form": "in exchange for A",
+      "meaning": "Aと引き換えに"
+    },
+    {
+      "form": "exchange rate",
+      "meaning": "為替レート"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "exchange A for B",
+      "en": "I would like to exchange this shirt for a larger size.",
+      "ja": "このシャツを大きいサイズと交換したいのですが。"
+    },
+    {
+      "source": "original",
+      "label": "両替する",
+      "en": "You can exchange yen for dollars at the airport.",
+      "ja": "空港で円をドルに両替できる。"
+    },
+    {
+      "source": "original",
+      "label": "exchange A with B",
+      "en": "We exchanged email addresses with the students from Korea.",
+      "ja": "私たちは韓国から来た生徒たちとメールアドレスを交換した。"
+    },
+    {
+      "source": "original",
+      "label": "意見を交わす",
+      "en": "The meeting gave us a chance to exchange ideas freely.",
+      "ja": "その会合は、自由に意見を交わす機会を与えてくれた。"
+    },
+    {
+      "source": "original",
+      "label": "in exchange for",
+      "en": "He gave me his old bike in exchange for helping him move.",
+      "ja": "引っ越しを手伝ったお返しに、彼は古い自転車をくれた。"
+    },
+    {
+      "source": "original",
+      "label": "交換留学",
+      "en": "She spent a year in Canada as an exchange student.",
+      "ja": "彼女は交換留学生として、カナダで1年を過ごした。"
+    }
+  ],
+  "check_points": [
+    "exchange A for B と exchange A with B の違いを言えるか",
+    "in exchange for はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "exchange A for B、in exchange for が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 116
+    }
+  ]
+}

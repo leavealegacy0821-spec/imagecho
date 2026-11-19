@@ -1,0 +1,94 @@
+{
+  "word": "persuade",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/pərˈsweɪd/",
+  "core_image": {
+    "text": "すっかりその気にさせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 82,66 96,56\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><path d=\"M106 50 Q114 56 106 62\"/><path d=\"M114 44 Q126 56 114 68\"/><circle cx=\"162\" cy=\"52\" r=\"10\"/><line x1=\"162\" y1=\"62\" x2=\"162\" y2=\"106\"/><line x1=\"162\" y1=\"106\" x2=\"152\" y2=\"140\"/><line x1=\"162\" y1=\"106\" x2=\"172\" y2=\"140\"/><line x1=\"162\" y1=\"74\" x2=\"150\" y2=\"96\"/><line x1=\"162\" y1=\"74\" x2=\"176\" y2=\"94\"/><line x1=\"186\" y1=\"82\" x2=\"222\" y2=\"82\"/><polyline points=\"215,78.2 222,82 215,85.8\"/></g><text x=\"80\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">言葉を尽くす</text><text x=\"196\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">その気になる</text></svg>"
+  },
+  "etymology": "per(完全に) + suade(勧める。sweet と同じ根で「甘く勧める」) → 最後まで勧めきる → 説得して、実際に〜させる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone agree to do something by giving them good reasons for doing it."
+    }
+  ],
+  "cautions": [
+    "persuade A to do=Aを説得して〜させる。説得に成功した意味を含む(失敗したなら tried to persuade)",
+    "persuade A of B / that S V=AにBを納得させる",
+    "persuade A into doing=説得して〜させる、persuade A out of doing=説得して〜をやめさせる",
+    "persuasion=説得、persuasive=説得力のある"
+  ],
+  "patterns": [
+    {
+      "form": "persuade A to do",
+      "meaning": "Aを説得して〜させる"
+    },
+    {
+      "form": "persuade A that S V",
+      "meaning": "Aに〜だと納得させる"
+    },
+    {
+      "form": "persuade A out of doing",
+      "meaning": "Aを説得して〜をやめさせる"
+    },
+    {
+      "form": "persuasive",
+      "meaning": "説得力のある"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "persuade A to do",
+      "en": "I persuaded my father to stop smoking for the sake of his health.",
+      "ja": "私は父を説得して、健康のためにたばこをやめさせた。"
+    },
+    {
+      "source": "original",
+      "label": "(説得は失敗)",
+      "en": "We tried to persuade her to stay, but she left the next day.",
+      "ja": "私たちは彼女に残るよう説得しようとしたが、彼女は翌日去った。"
+    },
+    {
+      "source": "original",
+      "label": "persuade A that",
+      "en": "He persuaded the police that he had nothing to do with the crime.",
+      "ja": "彼は、自分はその犯罪と無関係だと警察に納得させた。"
+    },
+    {
+      "source": "original",
+      "label": "out of doing",
+      "en": "My friends persuaded me out of quitting the club.",
+      "ja": "友人たちは私を説得して、部をやめるのを思いとどまらせた。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "She was persuaded to run for class president.",
+      "ja": "彼女は説得されて、学級委員長に立候補した。"
+    },
+    {
+      "source": "original",
+      "label": "persuasive(形容詞)",
+      "en": "The lawyer made a very persuasive speech in court.",
+      "ja": "その弁護士は、法廷でたいへん説得力のある弁論をした。"
+    }
+  ],
+  "check_points": [
+    "persuaded A to do と tried to persuade A to do の違い(成功したかどうか)を言えるか",
+    "persuade A out of doing はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "persuade A to do(成功の意味を含む)、persuade A that が語法に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 165
+    }
+  ]
+}

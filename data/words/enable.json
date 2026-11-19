@@ -1,0 +1,90 @@
+{
+  "word": "enable",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪˈneɪbl/",
+  "core_image": {
+    "text": "できる状態にしてやる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"60\" width=\"44\" height=\"80\"/><circle cx=\"62\" cy=\"80\" r=\"8\"/><line x1=\"92\" y1=\"100\" x2=\"132\" y2=\"100\"/><polyline points=\"125,96.2 132,100 125,103.8\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><polyline points=\"170,74 186,58 194,40\"/><line x1=\"170\" y1=\"74\" x2=\"158\" y2=\"96\"/></g><text x=\"62\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">道具・お金</text><text x=\"172\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">できる!</text></svg>"
+  },
+  "etymology": "en(〜にする) + able(できる) → できるようにする → 〜を可能にする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make it possible for someone to do something, or for something to happen."
+    }
+  ],
+  "cautions": [
+    "enable A to do=Aが〜するのを可能にする。物が主語のことが多い",
+    "「〜のおかげでAは…できる」と訳すと自然",
+    "allow A to do と同じ型",
+    "反対は disable(できなくする)"
+  ],
+  "patterns": [
+    {
+      "form": "enable A to do",
+      "meaning": "Aが〜するのを可能にする"
+    },
+    {
+      "form": "enable A",
+      "meaning": "Aを可能にする"
+    },
+    {
+      "form": "disable",
+      "meaning": "できなくする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "enable A to do",
+      "en": "The scholarship enabled her to study abroad for a year.",
+      "ja": "その奨学金のおかげで、彼女は1年間留学できた。"
+    },
+    {
+      "source": "original",
+      "label": "可能にする",
+      "en": "The internet enables people to work from home.",
+      "ja": "インターネットのおかげで、人は在宅で働けるようになった。"
+    },
+    {
+      "source": "original",
+      "label": "enable A",
+      "en": "New technology has enabled faster and cheaper travel.",
+      "ja": "新しい技術によって、より速く安い移動が可能になった。"
+    },
+    {
+      "source": "original",
+      "label": "物が主語",
+      "en": "This app enables you to check train times anywhere.",
+      "ja": "このアプリを使えば、どこでも電車の時刻を確かめられる。"
+    },
+    {
+      "source": "original",
+      "label": "allow との比較",
+      "en": "Glasses enable me to read small letters; they allow me to see clearly.",
+      "ja": "眼鏡のおかげで小さな文字が読める。はっきり見えるようにしてくれる。"
+    },
+    {
+      "source": "original",
+      "label": "disable(反対)",
+      "en": "The storm disabled the power lines in the area.",
+      "ja": "嵐で、その地域の電線が使えなくなった。"
+    }
+  ],
+  "check_points": [
+    "enable A to do を「おかげで」で訳せるか",
+    "en(〜にする)を持つ語をほかに言えるか(encourage, ensure など)"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "enable A to do、物が主語の文の和訳が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 222
+    }
+  ]
+}

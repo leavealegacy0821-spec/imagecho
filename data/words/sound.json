@@ -1,0 +1,114 @@
+{
+  "word": "sound",
+  "pos": [
+    "動詞",
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/saʊnd/",
+  "core_image": {
+    "text": "欠けたところがなく、しっかりしている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 82,72 104,74\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><rect x=\"110\" y=\"50\" width=\"70\" height=\"90\"/><path d=\"M190 62 Q198 74 190 86\"/><path d=\"M200 54 Q212 74 200 94\"/></g><text x=\"145\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">中までしっかり</text><text x=\"224\" y=\"78\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">音</text></svg>"
+  },
+  "etymology": "形容詞は古英語 gesund(健康な。ドイツ語 gesund と同じ) → 傷や欠けがない → 健全な・確かな・(眠りが)深い。「音」「〜に聞こえる」の sound はラテン語 sonus(音)から来た別の語だが、「たたくと良い音がする=中までしっかり」と結びつけて覚えられる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to seem to be something when you hear or read about it."
+    },
+    {
+      "pos": "形容詞",
+      "text": "healthy, in good condition, or based on good judgment."
+    },
+    {
+      "pos": "名詞",
+      "text": "something that you hear."
+    }
+  ],
+  "cautions": [
+    "動詞は sound + 形容詞で「〜に聞こえる・〜に思える」。名詞を続けるときは sound like + 名詞",
+    "形容詞「健全な・確かな」: sound advice(確かな助言)、a sound mind(健全な精神)",
+    "be sound asleep=ぐっすり眠っている(sound は副詞)",
+    "safe and sound=無事に"
+  ],
+  "patterns": [
+    {
+      "form": "sound + 形容詞",
+      "meaning": "〜に聞こえる・思える"
+    },
+    {
+      "form": "sound like A",
+      "meaning": "Aのように聞こえる"
+    },
+    {
+      "form": "sound advice",
+      "meaning": "確かな助言"
+    },
+    {
+      "form": "be sound asleep",
+      "meaning": "ぐっすり眠っている"
+    },
+    {
+      "form": "safe and sound",
+      "meaning": "無事に"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "〜に思える(動詞)",
+      "en": "Your idea sounds interesting, but it may cost too much money.",
+      "ja": "君の考えは面白そうだが、お金がかかりすぎるかもしれない。"
+    },
+    {
+      "source": "original",
+      "label": "sound like",
+      "en": "That sounds like a good plan to me, so let's try it.",
+      "ja": "それは私には良い計画に思えるので、やってみよう。"
+    },
+    {
+      "source": "original",
+      "label": "健全な(形容詞)",
+      "en": "A sound mind in a sound body is what every school hopes to build.",
+      "ja": "健全な身体に宿る健全な精神こそ、どの学校も育てたいと願うものだ。"
+    },
+    {
+      "source": "original",
+      "label": "確かな(形容詞)",
+      "en": "My grandfather always gives me sound advice when I am in trouble.",
+      "ja": "祖父は私が困っているとき、いつも確かな助言をくれる。"
+    },
+    {
+      "source": "original",
+      "label": "ぐっすり(sound asleep)",
+      "en": "The baby was sound asleep in spite of the noise outside.",
+      "ja": "外の騒音にもかかわらず、赤ん坊はぐっすり眠っていた。"
+    },
+    {
+      "source": "original",
+      "label": "無事に",
+      "en": "All the climbers came back safe and sound after the storm.",
+      "ja": "嵐の後、登山者は全員無事に戻ってきた。"
+    },
+    {
+      "source": "original",
+      "label": "音(名詞)",
+      "en": "Light travels much faster than sound, as everyone knows.",
+      "ja": "だれもが知っているように、光は音よりずっと速く進む。"
+    }
+  ],
+  "check_points": [
+    "sound advice の sound はどういう意味か",
+    "「それは良さそうだ」を sound を使って言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "形容詞「健全な・確かな」、sound asleep、sound + 形容詞の語法が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 51
+    }
+  ]
+}

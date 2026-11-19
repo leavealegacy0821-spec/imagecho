@@ -1,0 +1,98 @@
+{
+  "word": "expect",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪkˈspekt/",
+  "core_image": {
+    "text": "外を見て、来るはずのものを待ち受ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"26\" y=\"40\" width=\"50\" height=\"100\"/><circle cx=\"100\" cy=\"52\" r=\"10\"/><line x1=\"100\" y1=\"62\" x2=\"100\" y2=\"106\"/><line x1=\"100\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"100\" y1=\"106\" x2=\"110\" y2=\"140\"/><polyline points=\"100,74 116,60 112,48\"/><line x1=\"100\" y1=\"74\" x2=\"90\" y2=\"96\"/><line x1=\"118\" y1=\"50\" x2=\"190\" y2=\"72\" stroke-dasharray=\"5 5\"/><polyline points=\"184.4,66.3 190,72 182.2,73.6\"/><circle cx=\"206\" cy=\"86\" r=\"6\"/><line x1=\"206\" y1=\"92\" x2=\"206\" y2=\"118\"/><line x1=\"206\" y1=\"118\" x2=\"200\" y2=\"140\"/><line x1=\"206\" y1=\"118\" x2=\"212\" y2=\"140\"/></g><text x=\"160\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">来るはず</text><text x=\"156\" y=\"116\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">待ち受ける</text></svg>"
+  },
+  "etymology": "ex(外を) + spect(見る。respect, inspect と同じ) → 外を見て待つ → 当然来る・起こると思う=予期する → 当然してくれるものと思う=期待する・求める",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to think that something will happen, or to believe that someone should do something."
+    }
+  ],
+  "cautions": [
+    "良いことにも悪いことにも使う(「期待」とは限らず「予想」)",
+    "expect A to do=Aが〜すると思う／Aに〜するよう求める",
+    "expect A of / from B=BにAを期待する",
+    "than expected(予想より)、as expected(予想どおり)。名詞 expectation、life expectancy=平均余命"
+  ],
+  "patterns": [
+    {
+      "form": "expect to do",
+      "meaning": "〜するつもりでいる"
+    },
+    {
+      "form": "expect A to do",
+      "meaning": "Aが〜すると思う・求める"
+    },
+    {
+      "form": "expect A of / from B",
+      "meaning": "BにAを期待する"
+    },
+    {
+      "form": "as expected",
+      "meaning": "予想どおり"
+    },
+    {
+      "form": "expectation",
+      "meaning": "予想・期待"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "予期する",
+      "en": "We expect a lot of snow in the mountains this weekend.",
+      "ja": "今週末は、山間部で多くの雪が降ると予想されている。"
+    },
+    {
+      "source": "original",
+      "label": "expect to do",
+      "en": "I did not expect to see you here at this time of day.",
+      "ja": "こんな時間に、ここで君に会うとは思わなかった。"
+    },
+    {
+      "source": "original",
+      "label": "expect A to do",
+      "en": "My boss expects me to finish the report by tomorrow.",
+      "ja": "上司は、私が明日までに報告書を仕上げるものと思っている。"
+    },
+    {
+      "source": "original",
+      "label": "expect A of B",
+      "en": "Do not expect too much of a child who has just started school.",
+      "ja": "学校に入ったばかりの子どもに、多くを期待しすぎてはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "than ... expected",
+      "en": "The exam was much easier than I had expected.",
+      "ja": "試験は、思っていたよりずっとやさしかった。"
+    },
+    {
+      "source": "original",
+      "label": "expectation(名詞)",
+      "en": "The film did not live up to our expectations.",
+      "ja": "その映画は、私たちの期待に応えるものではなかった。"
+    }
+  ],
+  "check_points": [
+    "expect が悪いことにも使えることを例文で示せるか",
+    "expect A to do の2つの意味合い(予想・要求)を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "expect A to do、than expected、expect A of B が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 106
+    }
+  ]
+}

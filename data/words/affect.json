@@ -1,0 +1,90 @@
+{
+  "word": "affect",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈfekt/",
+  "core_image": {
+    "text": "外から働きかけて、変化を起こす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><polyline points=\"46,74 72,72 92,70\"/><line x1=\"46\" y1=\"74\" x2=\"36\" y2=\"96\"/><line x1=\"100\" y1=\"70\" x2=\"146\" y2=\"70\"/><polyline points=\"139,66.2 146,70 139,73.8\"/><polygon points=\"160,140 176,62 214,70 198,140\"/></g><text x=\"122\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">働きかける</text><text x=\"196\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">変化する</text></svg>"
+  },
+  "etymology": "af(ad=〜へ) + fect(作る・する。effect, perfect, factory と同じ) → 〜に働きかける → 影響を与える → 心に働きかける=感動させる／病気がおかす。effect は ef(外へ)+fect で「作り出された結果」",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to do something that produces a change in someone or something."
+    }
+  ],
+  "cautions": [
+    "affect は動詞(影響する)、effect は名詞(影響・結果・効果)。have an effect on A = affect A",
+    "affect は他動詞。affect on A は×",
+    "「(病気が)おかす」「心を動かす」の意味もある",
+    "affection は「愛情」(心に働きかけるもの)"
+  ],
+  "patterns": [
+    {
+      "form": "affect A",
+      "meaning": "Aに影響する"
+    },
+    {
+      "form": "be affected by A",
+      "meaning": "Aの影響を受ける"
+    },
+    {
+      "form": "have an effect on A",
+      "meaning": "Aに影響を与える"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "影響する",
+      "en": "The amount of sleep you get affects how well you learn.",
+      "ja": "睡眠の量は、どれだけよく学べるかに影響する。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "Thousands of people were affected by the flood last summer.",
+      "ja": "去年の夏、何千人もの人がその洪水の被害を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "悪影響を与える",
+      "en": "Smoking affects not only smokers but also the people around them.",
+      "ja": "喫煙は吸う人だけでなく、周りの人にも影響を与える。"
+    },
+    {
+      "source": "original",
+      "label": "心を動かす",
+      "en": "We were deeply affected by the news of his sudden death.",
+      "ja": "彼の突然の死の知らせに、私たちは深く心を動かされた。"
+    },
+    {
+      "source": "original",
+      "label": "(病気が)おかす",
+      "en": "The disease mainly affects children under the age of five.",
+      "ja": "その病気は、主に5歳未満の子どもがかかる。"
+    },
+    {
+      "source": "original",
+      "label": "effect との言い換え",
+      "en": "Climate change has a serious effect on farming; in other words, it affects our food.",
+      "ja": "気候変動は農業に深刻な影響を与える。言いかえれば、私たちの食べ物に影響する。"
+    }
+  ],
+  "check_points": [
+    "affect と effect の品詞の違いと、have an effect on への言い換えを言えるか",
+    "affect on A と言えないのはなぜか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "affect(動詞)/ effect(名詞)の区別が文法・正誤問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 111
+    }
+  ]
+}

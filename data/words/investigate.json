@@ -1,0 +1,93 @@
+{
+  "word": "investigate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈvestɪɡeɪt/",
+  "core_image": {
+    "text": "足跡をたどって、くわしく調べる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><polyline points=\"50,74 70,92 80,112\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><circle cx=\"88\" cy=\"118\" r=\"8\"/><line x1=\"94\" y1=\"124\" x2=\"100\" y2=\"130\"/><ellipse cx=\"130\" cy=\"134\" rx=\"6\" ry=\"3\"/><ellipse cx=\"160\" cy=\"128\" rx=\"6\" ry=\"3\"/><ellipse cx=\"190\" cy=\"134\" rx=\"6\" ry=\"3\"/><ellipse cx=\"218\" cy=\"128\" rx=\"6\" ry=\"3\"/></g><text x=\"176\" y=\"108\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">足跡をたどる</text><text x=\"50\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くわしく調べる</text></svg>"
+  },
+  "etymology": "in(中へ) + vestig(足跡。vestige=名残 と同じ) + ate → 足跡の中をたどる → 事件や原因を突き止めようとくわしく調べる=捜査する・調査する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to try to find out the facts about something such as a crime or an accident."
+    }
+  ],
+  "cautions": [
+    "investigate A=Aを調査する・捜査する。他動詞なので investigate into A は×(look into A とは別)",
+    "名詞 investigation(under investigation=調査中)、investigator=調査官",
+    "examine(よく調べる)、look into(調べる)と言い換えられる"
+  ],
+  "patterns": [
+    {
+      "form": "investigate A",
+      "meaning": "Aを調査する"
+    },
+    {
+      "form": "investigate how / why S V",
+      "meaning": "どのように・なぜ〜かを調べる"
+    },
+    {
+      "form": "investigation",
+      "meaning": "調査・捜査"
+    },
+    {
+      "form": "under investigation",
+      "meaning": "調査中で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "捜査する",
+      "en": "The police are investigating the robbery that happened last night.",
+      "ja": "警察は、昨夜起きた強盗事件を捜査している。"
+    },
+    {
+      "source": "original",
+      "label": "調査する",
+      "en": "Scientists are investigating why the bees are disappearing.",
+      "ja": "科学者たちは、ミツバチがなぜいなくなっているのかを調べている。"
+    },
+    {
+      "source": "original",
+      "label": "調べる",
+      "en": "The company promised to investigate the customer's complaint.",
+      "ja": "その会社は、客の苦情を調べると約束した。"
+    },
+    {
+      "source": "original",
+      "label": "investigation(名詞)",
+      "en": "An investigation into the cause of the fire is now under way.",
+      "ja": "火事の原因の調査が、今行われている。"
+    },
+    {
+      "source": "original",
+      "label": "under investigation",
+      "en": "The case is still under investigation.",
+      "ja": "その事件は、まだ捜査中だ。"
+    },
+    {
+      "source": "original",
+      "label": "look into との言い換え",
+      "en": "The manager will look into the matter; that is, she will investigate it.",
+      "ja": "部長がその件を調べる。つまり、調査する。"
+    }
+  ],
+  "check_points": [
+    "investigate の後ろに into が要らないことを言えるか",
+    "vestige(名残・足跡)と investigate のつながりを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "investigate = look into / examine の言い換えが語彙問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 242
+    }
+  ]
+}

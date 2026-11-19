@@ -1,0 +1,99 @@
+{
+  "word": "conduct",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/kənˈdʌkt/",
+  "core_image": {
+    "text": "一緒に導いて進める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><polyline points=\"66,74 88,62 100,46\"/><line x1=\"100\" y1=\"46\" x2=\"112\" y2=\"30\"/><polyline points=\"66,74 86,84 100,78\"/><circle cx=\"160\" cy=\"100\" r=\"8\"/><line x1=\"160\" y1=\"108\" x2=\"160\" y2=\"140\"/><circle cx=\"186\" cy=\"100\" r=\"8\"/><line x1=\"186\" y1=\"108\" x2=\"186\" y2=\"140\"/><circle cx=\"212\" cy=\"100\" r=\"8\"/><line x1=\"212\" y1=\"108\" x2=\"212\" y2=\"140\"/></g><text x=\"186\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">みんなを導く</text><text x=\"40\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">進める</text></svg>"
+  },
+  "etymology": "con(共に) + duct(導く。produce, introduce, educate と同じ) → 導いて運ぶ → 調査・実験・事業を導いて行う → 楽団を指揮する → 熱や電気を伝える → 自分を導く=ふるまう。名詞は「行い」",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to carry out an activity such as a survey or an experiment, or to direct the performance of musicians."
+    },
+    {
+      "pos": "名詞",
+      "text": "the way a person behaves, especially in public or in a job."
+    }
+  ],
+  "cautions": [
+    "conduct a survey / an experiment / research=調査・実験・研究を行う(do より堅い)",
+    "conduct an orchestra=指揮する、conduct electricity=電気を伝える",
+    "conduct oneself=ふるまう",
+    "名詞は前を強く /ˈkɑːndʌkt/ 読み、「行い・ふるまい」。conductor=指揮者・車掌・導体"
+  ],
+  "patterns": [
+    {
+      "form": "conduct a survey",
+      "meaning": "調査を行う"
+    },
+    {
+      "form": "conduct an experiment",
+      "meaning": "実験を行う"
+    },
+    {
+      "form": "conduct research",
+      "meaning": "研究を行う"
+    },
+    {
+      "form": "conduct oneself",
+      "meaning": "ふるまう"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "(調査を)行う",
+      "en": "The city conducted a survey of how people use the public library.",
+      "ja": "市は、人々が公立図書館をどう使っているかの調査を行った。"
+    },
+    {
+      "source": "original",
+      "label": "(実験を)行う",
+      "en": "Scientists conducted an experiment to test the new medicine on mice.",
+      "ja": "科学者たちは、新薬をネズミで試す実験を行った。"
+    },
+    {
+      "source": "original",
+      "label": "指揮する",
+      "en": "She was the first woman to conduct this famous orchestra.",
+      "ja": "彼女は、この有名な楽団を指揮した最初の女性だった。"
+    },
+    {
+      "source": "original",
+      "label": "(電気を)伝える",
+      "en": "Copper conducts electricity better than most other metals.",
+      "ja": "銅は、ほかのたいていの金属より電気をよく伝える。"
+    },
+    {
+      "source": "original",
+      "label": "ふるまう",
+      "en": "He conducted himself calmly throughout the long and difficult meeting.",
+      "ja": "彼は長く難しい会議の間、終始落ち着いてふるまった。"
+    },
+    {
+      "source": "original",
+      "label": "行い(名詞)",
+      "en": "The player was punished for his bad conduct during the game.",
+      "ja": "その選手は、試合中の悪い行いのために処分された。"
+    }
+  ],
+  "check_points": [
+    "調査を行う・指揮する・電気を伝えるを「導いて進める」で説明できるか",
+    "conductor の3つの意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "conduct a survey / an experiment / research が、実験・調査を扱う長文で必須。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 131
+    }
+  ]
+}

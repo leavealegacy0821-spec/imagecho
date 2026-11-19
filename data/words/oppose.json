@@ -1,0 +1,88 @@
+{
+  "word": "oppose",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈpoʊz/",
+  "core_image": {
+    "text": "向かい合って立ちはだかる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><polyline points=\"150,74 128,70 120,56\"/><line x1=\"150\" y1=\"74\" x2=\"160\" y2=\"96\"/><line x1=\"110\" y1=\"46\" x2=\"110\" y2=\"112\"/><line x1=\"36\" y1=\"80\" x2=\"98\" y2=\"80\"/><polyline points=\"91,76.2 98,80 91,83.8\"/></g><text x=\"66\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">計画・意見</text><text x=\"160\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">立ちはだかる</text></svg>"
+  },
+  "etymology": "op(ob=〜に向かって) + pose(置く) → 相手に向かって身を置く → 立ちはだかる → 反対する・対抗する。opposite(向かい側の・反対の)も同じ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to disagree with a plan or an idea and try to stop it from happening."
+    }
+  ],
+  "cautions": [
+    "他動詞。oppose the plan と直接目的語を取る(oppose to the plan は×)",
+    "be opposed to A=「Aに反対している」。この to は前置詞なので、後ろは名詞か動名詞",
+    "object to A との書き換えが頻出(object は自動詞、oppose は他動詞)",
+    "as opposed to A=「Aとは対照的に」"
+  ],
+  "patterns": [
+    {
+      "form": "oppose A",
+      "meaning": "Aに反対する"
+    },
+    {
+      "form": "be opposed to A / doing",
+      "meaning": "Aに(〜することに)反対している"
+    },
+    {
+      "form": "as opposed to A",
+      "meaning": "Aとは対照的に"
+    },
+    {
+      "form": "opposite (to) A",
+      "meaning": "Aの向かい側の・反対の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "反対する(他動詞)",
+      "en": "Many residents oppose the plan to build a large factory near the river.",
+      "ja": "多くの住民が、川の近くに大きな工場を建てる計画に反対している。"
+    },
+    {
+      "source": "original",
+      "label": "be opposed to",
+      "en": "My parents were strongly opposed to my studying abroad alone at first.",
+      "ja": "両親は最初、私が1人で留学することに強く反対していた。"
+    },
+    {
+      "source": "original",
+      "label": "対抗する",
+      "en": "Only one candidate dared to oppose the mayor in the last election.",
+      "ja": "前回の選挙で、あえて市長に対抗した候補者は1人だけだった。"
+    },
+    {
+      "source": "original",
+      "label": "as opposed to=〜とは対照的に",
+      "en": "She prefers to read printed books as opposed to reading on a screen.",
+      "ja": "彼女は画面で読むのとは対照的に、紙の本を読むほうを好む。"
+    },
+    {
+      "source": "original",
+      "label": "opposition(名詞)",
+      "en": "The new law was passed in spite of strong opposition from local farmers.",
+      "ja": "地元の農家の強い反対にもかかわらず、その新しい法律は可決された。"
+    }
+  ],
+  "check_points": [
+    "oppose には to が要らず、be opposed to には to が要る理由を説明できるか",
+    "oppose・object・be opposed を使って、同じ内容を3通りに言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "oppose A / object to A / be opposed to A の区別が文法問題の定番。opposite・opposition は長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 11
+    }
+  ]
+}

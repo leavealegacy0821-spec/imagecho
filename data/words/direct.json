@@ -1,0 +1,103 @@
+{
+  "word": "direct",
+  "pos": [
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/dəˈrekt/",
+  "core_image": {
+    "text": "まっすぐ一本の線で向かう",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><polyline points=\"46,74 72,70 90,68\"/><line x1=\"46\" y1=\"74\" x2=\"36\" y2=\"96\"/><line x1=\"98\" y1=\"68\" x2=\"186\" y2=\"68\"/><polyline points=\"179,64.2 186,68 179,71.8\"/><circle cx=\"204\" cy=\"68\" r=\"12\"/><circle cx=\"204\" cy=\"68\" r=\"4\"/><path d=\"M98 82 Q150 132 198 86\" stroke-dasharray=\"5 5\"/></g><text x=\"142\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まっすぐ</text><text x=\"150\" y=\"134\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">回り道ではない</text></svg>"
+  },
+  "etymology": "di(dis=離れて→はっきりと) + rect(まっすぐにする。correct, rectangle と同じ) → まっすぐに向ける → 形容詞は「まっすぐな・直接の・率直な」、動詞は「向ける・道を教える・指揮する・監督する」",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to aim something at a particular person or thing, to tell someone how to get to a place, or to be in charge of a film or play."
+    },
+    {
+      "pos": "形容詞",
+      "text": "going straight from one place or person to another, without stopping or involving anyone else."
+    }
+  ],
+  "cautions": [
+    "形容詞「直接の」は indirect(間接の)と対",
+    "direct A to B=AをBに向ける／AにBへの道を教える",
+    "directly=直接に・すぐに",
+    "direction=方向。「〜の方向へ」は in the direction of A(to ではない)。複数形 directions は「指示・道順」"
+  ],
+  "patterns": [
+    {
+      "form": "direct A to / at B",
+      "meaning": "AをBに向ける"
+    },
+    {
+      "form": "direct a film",
+      "meaning": "映画を監督する"
+    },
+    {
+      "form": "a direct flight",
+      "meaning": "直行便"
+    },
+    {
+      "form": "in the direction of A",
+      "meaning": "Aの方向へ"
+    },
+    {
+      "form": "follow directions",
+      "meaning": "指示に従う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "直接の(形容詞)",
+      "en": "There is no direct flight from here to Rome, so you must change planes.",
+      "ja": "ここからローマへの直行便はないので、乗り換えなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "率直な(形容詞)",
+      "en": "She is very direct and always says exactly what she thinks.",
+      "ja": "彼女はとても率直で、いつも思ったとおりのことを言う。"
+    },
+    {
+      "source": "original",
+      "label": "向ける",
+      "en": "The teacher directed our attention to the graph on the screen.",
+      "ja": "先生は私たちの注意を、画面のグラフに向けさせた。"
+    },
+    {
+      "source": "original",
+      "label": "道を教える",
+      "en": "Could you direct me to the nearest subway station, please?",
+      "ja": "いちばん近い地下鉄の駅への道を教えていただけますか。"
+    },
+    {
+      "source": "original",
+      "label": "監督する",
+      "en": "He directed more than twenty films before he retired at seventy.",
+      "ja": "彼は70歳で引退するまでに、20本を超える映画を監督した。"
+    },
+    {
+      "source": "original",
+      "label": "direction(方向)",
+      "en": "The man ran away in the direction of the park.",
+      "ja": "その男は公園の方向へ逃げて行った。"
+    }
+  ],
+  "check_points": [
+    "直接の・道を教える・監督するを「まっすぐ向かう」で説明できるか",
+    "「〜の方向へ」で使う前置詞は何か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "in the direction of の in、direct A to B、directly の「すぐに」の意味が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 34
+    }
+  ]
+}

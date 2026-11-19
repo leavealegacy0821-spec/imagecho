@@ -1,0 +1,98 @@
+{
+  "word": "short",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ʃɔːrt/",
+  "core_image": {
+    "text": "必要な長さに届かない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"130\" y1=\"24\" x2=\"215\" y2=\"24\"/><rect x=\"172\" y=\"6\" width=\"20\" height=\"18\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><polyline points=\"150,74 162,60 168,42\"/><line x1=\"150\" y1=\"74\" x2=\"140\" y2=\"96\"/></g><text x=\"82\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">届かない</text><text x=\"204\" y=\"74\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">足りない</text></svg>"
+  },
+  "etymology": "古英語 sceort(切り取られた。shirt, skirt と同じ根で「短く切った物」) → 短い → 必要な量に届かない=足りない(short of) → 途中で切れる(cut short, stop short)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "measuring a small distance or lasting a small amount of time, or not having enough of something."
+    }
+  ],
+  "cautions": [
+    "be short of A=Aが不足している、run short (of A)=(Aが)足りなくなる",
+    "fall short of A=A(期待・目標)に届かない",
+    "in short=要するに。be short for A=Aの略である",
+    "shortly は「まもなく」(「短く」ではない)。shortage=不足"
+  ],
+  "patterns": [
+    {
+      "form": "be short of A",
+      "meaning": "Aが不足している"
+    },
+    {
+      "form": "run short of A",
+      "meaning": "Aが足りなくなる"
+    },
+    {
+      "form": "fall short of A",
+      "meaning": "Aに届かない"
+    },
+    {
+      "form": "in short",
+      "meaning": "要するに"
+    },
+    {
+      "form": "shortly",
+      "meaning": "まもなく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "短い",
+      "en": "Life is too short to spend worrying about small things.",
+      "ja": "人生は、ささいなことを気に病んで過ごすには短すぎる。"
+    },
+    {
+      "source": "original",
+      "label": "be short of=不足して",
+      "en": "We are short of time, so let's skip the last question.",
+      "ja": "時間が足りないので、最後の問題は飛ばそう。"
+    },
+    {
+      "source": "original",
+      "label": "run short=足りなくなる",
+      "en": "Our supply of water ran short on the third day of the trip.",
+      "ja": "旅の3日目に、水の蓄えが足りなくなった。"
+    },
+    {
+      "source": "original",
+      "label": "fall short of=届かない",
+      "en": "The results fell short of our expectations this year.",
+      "ja": "今年の結果は、私たちの期待に届かなかった。"
+    },
+    {
+      "source": "original",
+      "label": "in short=要するに",
+      "en": "In short, we need more money and more people to finish the job.",
+      "ja": "要するに、その仕事を終えるには、もっとお金と人手が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "shortly=まもなく",
+      "en": "The train for Osaka will be leaving shortly from platform five.",
+      "ja": "大阪行きの列車は、まもなく5番線から発車します。"
+    }
+  ],
+  "check_points": [
+    "「短い」と「足りない」を「届かない」で説明できるか",
+    "shortly はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "be short of、run short、fall short of、in short、shortly が熟語・語彙で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 85
+    }
+  ]
+}

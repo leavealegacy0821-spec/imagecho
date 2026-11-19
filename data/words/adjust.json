@@ -1,0 +1,94 @@
+{
+  "word": "adjust",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈdʒʌst/",
+  "core_image": {
+    "text": "ちょうど合うように、少しずつ直す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 80,70 100,66\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><circle cx=\"160\" cy=\"76\" r=\"30\"/><line x1=\"160\" y1=\"76\" x2=\"178\" y2=\"58\"/><line x1=\"130\" y1=\"76\" x2=\"136\" y2=\"76\"/><line x1=\"184\" y1=\"76\" x2=\"190\" y2=\"76\"/><line x1=\"160\" y1=\"46\" x2=\"160\" y2=\"52\"/></g><text x=\"160\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ちょうど合わせる</text></svg>"
+  },
+  "etymology": "ad(〜へ) + just(ちょうど・正しい) → ちょうど良くする → 細かく合わせる・調整する → 新しい環境に自分を合わせる=慣れる(adjust to)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to change something slightly so that it works better or fits better, or to get used to a new situation."
+    }
+  ],
+  "cautions": [
+    "adjust A=Aを調整する",
+    "adjust (oneself) to A=Aに慣れる・順応する。to は前置詞なので後ろは名詞・動名詞",
+    "adapt to A とほぼ同じ意味",
+    "名詞 adjustment=調整・順応"
+  ],
+  "patterns": [
+    {
+      "form": "adjust A",
+      "meaning": "Aを調整する"
+    },
+    {
+      "form": "adjust to A / doing",
+      "meaning": "Aに慣れる"
+    },
+    {
+      "form": "adjust A to B",
+      "meaning": "AをBに合わせる"
+    },
+    {
+      "form": "adjustment",
+      "meaning": "調整"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "調整する",
+      "en": "You can adjust the height of this chair by pulling the lever.",
+      "ja": "このいすの高さは、レバーを引いて調整できる。"
+    },
+    {
+      "source": "original",
+      "label": "adjust to",
+      "en": "It took me a month to adjust to the hot weather in Thailand.",
+      "ja": "タイの暑い気候に慣れるのに、1か月かかった。"
+    },
+    {
+      "source": "original",
+      "label": "adjust to doing",
+      "en": "He soon adjusted to living alone in a big city.",
+      "ja": "彼はすぐに、大都市での1人暮らしに慣れた。"
+    },
+    {
+      "source": "original",
+      "label": "adjust A to B",
+      "en": "The teacher adjusted the lesson to the level of the students.",
+      "ja": "先生は、授業を生徒の水準に合わせた。"
+    },
+    {
+      "source": "original",
+      "label": "(目が)慣れる",
+      "en": "Wait a moment until your eyes adjust to the dark.",
+      "ja": "目が暗さに慣れるまで、少し待ちなさい。"
+    },
+    {
+      "source": "original",
+      "label": "adjustment(名詞)",
+      "en": "We made a few adjustments to the plan after the meeting.",
+      "ja": "会議の後、私たちは計画をいくつか手直しした。"
+    }
+  ],
+  "check_points": [
+    "just(ちょうど)から adjust の意味を説明できるか",
+    "adjust to の後ろに動詞を続ける形を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "adjust to doing(to は前置詞)が語法に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 233
+    }
+  ]
+}

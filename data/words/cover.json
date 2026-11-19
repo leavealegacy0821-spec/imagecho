@@ -1,0 +1,102 @@
+{
+  "word": "cover",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈkʌvər/",
+  "core_image": {
+    "text": "上からすっぽり覆う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><polyline points=\"46,74 72,58 98,52\"/><line x1=\"46\" y1=\"74\" x2=\"36\" y2=\"96\"/><path d=\"M96 140 L100 52 Q155 32 212 56 L214 140\"/><rect x=\"118\" y=\"110\" width=\"26\" height=\"30\"/><circle cx=\"174\" cy=\"126\" r=\"14\"/></g><text x=\"156\" y=\"82\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すっぽり覆う</text></svg>"
+  },
+  "etymology": "ラテン語 cooperire(co=すっかり + operire=覆う) → すっかり覆う → 範囲を覆う(扱う・含む)／距離を覆う(進む)／費用を覆う(まかなう)／出来事を覆う(報道する)。discover は dis(取る)+cover=覆いを取る=発見する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to put something over another thing, to include or deal with a subject, or to be enough money to pay for something."
+    },
+    {
+      "pos": "名詞",
+      "text": "something that is put over another thing to protect it, or the outside of a book or magazine."
+    }
+  ],
+  "cautions": [
+    "「覆う」以外の意味が長文で問われる: 扱う・含む(cover a topic)／進む(cover 30 km)／まかなう(cover the cost)／報道する(cover the election)",
+    "be covered with A=Aで覆われている",
+    "保険が「補償する」の意味もある"
+  ],
+  "patterns": [
+    {
+      "form": "cover A with B",
+      "meaning": "AをBで覆う"
+    },
+    {
+      "form": "be covered with A",
+      "meaning": "Aで覆われている"
+    },
+    {
+      "form": "cover a topic",
+      "meaning": "話題を扱う"
+    },
+    {
+      "form": "cover the cost",
+      "meaning": "費用をまかなう"
+    },
+    {
+      "form": "cover (距離)",
+      "meaning": "(距離)を進む"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "覆う",
+      "en": "The top of the mountain is covered with snow all year round.",
+      "ja": "その山の頂上は一年中雪で覆われている。"
+    },
+    {
+      "source": "original",
+      "label": "扱う・含む",
+      "en": "The exam will cover everything we have studied since April.",
+      "ja": "試験は、4月から学んだことすべてが範囲になる。"
+    },
+    {
+      "source": "original",
+      "label": "(距離を)進む",
+      "en": "We covered about thirty kilometers on foot on the first day.",
+      "ja": "私たちは初日に、歩いて約30キロ進んだ。"
+    },
+    {
+      "source": "original",
+      "label": "(費用を)まかなう",
+      "en": "Her part-time job barely covers the cost of her textbooks and lunches.",
+      "ja": "彼女のアルバイト代は、教科書と昼食の費用をかろうじてまかなえる程度だ。"
+    },
+    {
+      "source": "original",
+      "label": "報道する",
+      "en": "Reporters from all over the world came to cover the Olympic Games.",
+      "ja": "オリンピックを報道するために、世界中から記者がやって来た。"
+    },
+    {
+      "source": "original",
+      "label": "表紙(名詞)",
+      "en": "Never judge a book by its cover, as the old saying goes.",
+      "ja": "古いことわざにあるように、本を表紙で判断してはいけない。"
+    }
+  ],
+  "check_points": [
+    "扱う・進む・まかなう・報道するを「すっぽり覆う」で説明できるか",
+    "discover の成り立ちを cover から説明できるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "長文での多義(扱う・まかなう・進む・報道する)が下線部の言い換えで問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 33
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "tend",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/tend/",
+  "core_image": {
+    "text": "ある方向へ伸びていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M110 140 Q112 100 140 70\"/><path d=\"M140 70 Q150 58 162 62\"/><path d=\"M126 98 Q142 94 146 82\"/><circle cx=\"202\" cy=\"30\" r=\"14\"/><line x1=\"156\" y1=\"56\" x2=\"184\" y2=\"40\" stroke-dasharray=\"5 5\"/><polyline points=\"176,40.2 184,40 179.8,46.8\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"46\" y1=\"74\" x2=\"34\" y2=\"98\"/><line x1=\"46\" y1=\"74\" x2=\"58\" y2=\"98\"/></g><text x=\"168\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そちらへ伸びる</text><text x=\"202\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">向かう先</text></svg>"
+  },
+  "etymology": "ラテン語 tendere(伸ばす・向かう。extend, attend, intend と同じ) → ある方向へ向かう → 〜しがちである(tend to do)。「世話をする」の tend は attend(心を向ける)が縮まった形",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be likely to do something or to happen in a particular way, or to take care of someone or something."
+    }
+  ],
+  "cautions": [
+    "tend to do=〜する傾向がある・〜しがちだ",
+    "名詞 tendency: have a tendency to do",
+    "tend (to) A=Aの世話をする",
+    "intend(意図する)と区別する"
+  ],
+  "patterns": [
+    {
+      "form": "tend to do",
+      "meaning": "〜する傾向がある"
+    },
+    {
+      "form": "have a tendency to do",
+      "meaning": "〜する傾向がある"
+    },
+    {
+      "form": "tend (to) A",
+      "meaning": "Aの世話をする"
+    },
+    {
+      "form": "a tendency toward A",
+      "meaning": "Aへの傾向"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "tend to do",
+      "en": "People tend to eat more when they are under stress.",
+      "ja": "人はストレスを感じていると、多く食べがちだ。"
+    },
+    {
+      "source": "original",
+      "label": "傾向がある",
+      "en": "Prices tend to rise just before the holiday season.",
+      "ja": "休暇の時期の直前には、物価が上がる傾向がある。"
+    },
+    {
+      "source": "original",
+      "label": "否定の形",
+      "en": "Young people today tend not to read newspapers.",
+      "ja": "今の若者は、新聞を読まない傾向がある。"
+    },
+    {
+      "source": "original",
+      "label": "世話をする",
+      "en": "The nurse tended the injured soldiers all through the night.",
+      "ja": "看護師は一晩中、負傷した兵士たちの世話をした。"
+    },
+    {
+      "source": "original",
+      "label": "tendency(名詞)",
+      "en": "He has a tendency to talk too much when he is nervous.",
+      "ja": "彼は緊張すると、しゃべりすぎる傾向がある。"
+    },
+    {
+      "source": "original",
+      "label": "tendency(名詞)",
+      "en": "There is a growing tendency for people to marry later.",
+      "ja": "人々が遅く結婚する傾向が強まっている。"
+    }
+  ],
+  "check_points": [
+    "tend to do を「ある方向へ伸びていく」から説明できるか",
+    "tend と intend の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "tend to do、tendency が長文で必須。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 119
+    }
+  ]
+}

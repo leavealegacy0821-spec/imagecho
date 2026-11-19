@@ -1,0 +1,94 @@
+{
+  "word": "purpose",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈpɜːrpəs/",
+  "core_image": {
+    "text": "前に置いて、目指すもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><polyline points=\"50,74 74,66 92,58\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><line x1=\"98\" y1=\"56\" x2=\"168\" y2=\"56\" stroke-dasharray=\"5 5\"/><polyline points=\"161,52.2 168,56 161,59.8\"/><circle cx=\"190\" cy=\"56\" r=\"18\"/><circle cx=\"190\" cy=\"56\" r=\"8\"/></g><text x=\"134\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">前に置く</text><text x=\"190\" y=\"94\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">目的</text></svg>"
+  },
+  "etymology": "pur(pro=前に) + pose(置く。propose, suppose と同じ) → 前に置いたもの → 目指すもの=目的・意図",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the reason why something is done or made, or what it is used for."
+    }
+  ],
+  "cautions": [
+    "on purpose=わざと(=intentionally)。by accident=偶然に と対",
+    "for the purpose of doing=〜するために",
+    "serve a purpose=目的にかなう・役に立つ",
+    "purposeful=目的のある"
+  ],
+  "patterns": [
+    {
+      "form": "on purpose",
+      "meaning": "わざと"
+    },
+    {
+      "form": "for the purpose of doing",
+      "meaning": "〜するために"
+    },
+    {
+      "form": "serve a purpose",
+      "meaning": "目的にかなう"
+    },
+    {
+      "form": "the purpose of A",
+      "meaning": "Aの目的"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "目的",
+      "en": "The purpose of this meeting is to decide the date of the festival.",
+      "ja": "この会議の目的は、祭りの日取りを決めることだ。"
+    },
+    {
+      "source": "original",
+      "label": "on purpose=わざと",
+      "en": "I am sure he broke the glass on purpose.",
+      "ja": "彼はわざとグラスを割ったにちがいない。"
+    },
+    {
+      "source": "original",
+      "label": "for the purpose of",
+      "en": "She went to Italy for the purpose of studying art.",
+      "ja": "彼女は美術を学ぶためにイタリアへ行った。"
+    },
+    {
+      "source": "original",
+      "label": "serve a purpose",
+      "en": "This old box still serves a useful purpose.",
+      "ja": "この古い箱は、今でも役に立っている。"
+    },
+    {
+      "source": "original",
+      "label": "人生の目的",
+      "en": "Many people search for a purpose in life.",
+      "ja": "多くの人が、人生の目的を探し求めている。"
+    },
+    {
+      "source": "original",
+      "label": "用途",
+      "en": "This room is used for various purposes, such as meetings and parties.",
+      "ja": "この部屋は、会議やパーティーなどいろいろな用途に使われる。"
+    }
+  ],
+  "check_points": [
+    "propose と purpose のつながりを pose(置く)から言えるか",
+    "on purpose の反対の表現を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "on purpose、for the purpose of が熟語問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 216
+    }
+  ]
+}

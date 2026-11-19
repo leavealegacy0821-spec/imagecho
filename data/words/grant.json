@@ -1,0 +1,103 @@
+{
+  "word": "grant",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɡrænt/",
+  "core_image": {
+    "text": "求めに「よし」と応じて与える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"150\" y=\"90\" width=\"60\" height=\"50\"/><circle cx=\"180\" cy=\"50\" r=\"10\"/><line x1=\"180\" y1=\"60\" x2=\"180\" y2=\"90\"/><polyline points=\"180,70 160,78 146,76\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><polyline points=\"66,74 92,78 114,76\"/><line x1=\"66\" y1=\"74\" x2=\"56\" y2=\"96\"/><rect x=\"118\" y=\"66\" width=\"24\" height=\"20\"/><polyline points=\"124,76 129,81 137,71\"/></g><text x=\"66\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">願い出る</text><text x=\"136\" y=\"54\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">よし</text></svg>"
+  },
+  "etymology": "古フランス語 creanter(保証する。ラテン語 credere=信じる。credit と同じ) → 信じて認める → 願い・権利・許可を認めて与える → 相手の主張を認める。名詞は「与えられたお金」=補助金・奨学金",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to agree to give someone what they ask for, or to admit that something is true."
+    },
+    {
+      "pos": "名詞",
+      "text": "an amount of money given by a government or organization for a particular purpose."
+    }
+  ],
+  "cautions": [
+    "take A for granted=Aを当然のことと思う。take it for granted that S V の形が頻出",
+    "grant A B = grant B to A=AにBを与える・認める",
+    "granted (that) S V=仮に〜だとしても",
+    "名詞: a research grant=研究助成金"
+  ],
+  "patterns": [
+    {
+      "form": "grant A B",
+      "meaning": "AにBを与える・認める"
+    },
+    {
+      "form": "grant permission",
+      "meaning": "許可を与える"
+    },
+    {
+      "form": "take A for granted",
+      "meaning": "Aを当然と思う"
+    },
+    {
+      "form": "take it for granted that S V",
+      "meaning": "〜を当然と思う"
+    },
+    {
+      "form": "a grant",
+      "meaning": "補助金"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "(許可を)与える",
+      "en": "The city granted us permission to hold the festival in the park.",
+      "ja": "市は私たちに、公園で祭りを開く許可を与えた。"
+    },
+    {
+      "source": "original",
+      "label": "(願いを)かなえる",
+      "en": "The king granted the poor farmer his wish.",
+      "ja": "王は、その貧しい農民の願いをかなえた。"
+    },
+    {
+      "source": "original",
+      "label": "take A for granted",
+      "en": "We tend to take clean water for granted until it stops running.",
+      "ja": "きれいな水は、出なくなるまで当たり前のものと思いがちだ。"
+    },
+    {
+      "source": "original",
+      "label": "take it for granted that",
+      "en": "I took it for granted that you would come with us.",
+      "ja": "君が一緒に来るのは当然だと思っていた。"
+    },
+    {
+      "source": "original",
+      "label": "認める",
+      "en": "I grant that he is clever, but I do not trust him.",
+      "ja": "彼が賢いことは認めるが、私は彼を信用していない。"
+    },
+    {
+      "source": "original",
+      "label": "助成金(名詞)",
+      "en": "She received a grant to study medicine in Germany.",
+      "ja": "彼女はドイツで医学を学ぶための助成金を受けた。"
+    }
+  ],
+  "check_points": [
+    "take A for granted が「当然と思う」になるわけを「認められたものとして受け取る」から説明できるか",
+    "grant A B はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "take A for granted、take it for granted that が熟語問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 149
+    }
+  ]
+}

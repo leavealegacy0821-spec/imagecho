@@ -1,0 +1,103 @@
+{
+  "word": "interest",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈɪntrəst/",
+  "core_image": {
+    "text": "自分との間に関わりがある",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"56\" y1=\"74\" x2=\"44\" y2=\"98\"/><line x1=\"56\" y1=\"74\" x2=\"68\" y2=\"98\"/><rect x=\"172\" y=\"60\" width=\"40\" height=\"40\"/><line x1=\"82\" y1=\"80\" x2=\"166\" y2=\"80\"/><polyline points=\"90,74 82,80 90,86\"/><polyline points=\"158,74 166,80 158,86\"/></g><text x=\"124\" y=\"66\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">間に関わりがある</text><text x=\"192\" y=\"116\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">対象</text></svg>"
+  },
+  "etymology": "inter(間に) + est(ある。ラテン語 esse) → 間にある=関わりがある・重要である → 心が関わる=興味・関心 → お金に関わる得=利益・利害 → 貸した額と返す額の間の差=利子",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the feeling of wanting to know more about something, an advantage or benefit, or extra money paid for borrowing money."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make someone want to know more about something."
+    }
+  ],
+  "cautions": [
+    "感情の動詞。人が主語なら be interested in A、物が主語なら interesting",
+    "名詞「利益・利害」: in the public interest=公共の利益のために、in the interest(s) of A=Aのために",
+    "名詞「利子」: interest rates=金利",
+    "have an interest in A / lose interest in A"
+  ],
+  "patterns": [
+    {
+      "form": "be interested in A",
+      "meaning": "Aに興味がある"
+    },
+    {
+      "form": "have an interest in A",
+      "meaning": "Aに関心がある"
+    },
+    {
+      "form": "in the interest(s) of A",
+      "meaning": "Aのために"
+    },
+    {
+      "form": "interest rates",
+      "meaning": "金利"
+    },
+    {
+      "form": "lose interest in A",
+      "meaning": "Aへの興味を失う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "興味",
+      "en": "She has shown a strong interest in Japanese history since childhood.",
+      "ja": "彼女は子どものころから、日本の歴史に強い興味を示してきた。"
+    },
+    {
+      "source": "original",
+      "label": "be interested in",
+      "en": "I am interested in studying the languages of small islands.",
+      "ja": "私は小さな島々の言語を研究することに興味がある。"
+    },
+    {
+      "source": "original",
+      "label": "利益",
+      "en": "The mayor said the new road was built in the public interest.",
+      "ja": "市長は、新しい道路は公共の利益のために建設されたと述べた。"
+    },
+    {
+      "source": "original",
+      "label": "利子",
+      "en": "The bank pays very little interest on savings these days.",
+      "ja": "このごろ銀行は、預金にほとんど利子を付けない。"
+    },
+    {
+      "source": "original",
+      "label": "利害",
+      "en": "It is in your own interest to tell the truth right now.",
+      "ja": "今すぐ本当のことを話すのが、君自身のためだ。"
+    },
+    {
+      "source": "original",
+      "label": "interesting(形容詞)",
+      "en": "The most interesting part of the book is the last chapter.",
+      "ja": "その本でいちばん面白いのは最後の章だ。"
+    }
+  ],
+  "check_points": [
+    "興味・利益・利子を「間に関わりがある」で説明できるか",
+    "interested と interesting の主語の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "「利益・利子」の意味が長文で狙われる。in the interest of、interest rates、interested / interesting の区別。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 68
+    }
+  ]
+}

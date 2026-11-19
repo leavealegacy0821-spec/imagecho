@@ -1,0 +1,103 @@
+{
+  "word": "regard",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/rɪˈɡɑːrd/",
+  "core_image": {
+    "text": "じっと目を向けて見守る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"56\" y1=\"74\" x2=\"44\" y2=\"98\"/><line x1=\"56\" y1=\"74\" x2=\"68\" y2=\"98\"/><line x1=\"72\" y1=\"50\" x2=\"150\" y2=\"64\" stroke-dasharray=\"5 5\"/><polyline points=\"143.8,59 150,64 142.4,66.5\"/><rect x=\"156\" y=\"44\" width=\"50\" height=\"50\"/><circle cx=\"181\" cy=\"69\" r=\"12\"/></g><text x=\"110\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">じっと見る</text><text x=\"181\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">〜として見る</text></svg>"
+  },
+  "etymology": "re(しっかり) + gard(見張る。guard と同じ) → じっと見る → ある見方で見る=みなす(regard A as B) → 心を向ける=考慮・敬意 → (複数形で)心づかいの言葉=よろしくの挨拶",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to think about someone or something in a particular way."
+    },
+    {
+      "pos": "名詞",
+      "text": "attention to or thought for someone or something, or (regards) good wishes."
+    }
+  ],
+  "cautions": [
+    "regard A as B=AをBとみなす。as が必要(consider A B には as が要らない)",
+    "with regard to A / regarding A=Aに関して",
+    "regardless of A=Aに関係なく",
+    "Give my best regards to A.=Aによろしく。in this regard=この点で"
+  ],
+  "patterns": [
+    {
+      "form": "regard A as B",
+      "meaning": "AをBとみなす"
+    },
+    {
+      "form": "with regard to A",
+      "meaning": "Aに関して"
+    },
+    {
+      "form": "regarding A",
+      "meaning": "Aに関して"
+    },
+    {
+      "form": "regardless of A",
+      "meaning": "Aに関係なく"
+    },
+    {
+      "form": "give one's regards to A",
+      "meaning": "Aによろしく伝える"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "regard A as B",
+      "en": "Many people regard him as the greatest pianist of the century.",
+      "ja": "多くの人が、彼を今世紀最高のピアニストとみなしている。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "Education is regarded as the key to a better future.",
+      "ja": "教育は、より良い未来への鍵とみなされている。"
+    },
+    {
+      "source": "original",
+      "label": "with regard to=〜に関して",
+      "en": "With regard to your request, we will give you an answer by Friday.",
+      "ja": "ご依頼の件については、金曜日までにお返事します。"
+    },
+    {
+      "source": "original",
+      "label": "regardless of=関係なく",
+      "en": "Everyone can join the club regardless of age or experience.",
+      "ja": "年齢や経験に関係なく、だれでもそのクラブに入れる。"
+    },
+    {
+      "source": "original",
+      "label": "考慮・敬意(名詞)",
+      "en": "He shows little regard for the feelings of other people.",
+      "ja": "彼は他人の気持ちをほとんど考えない。"
+    },
+    {
+      "source": "original",
+      "label": "よろしく(名詞)",
+      "en": "Please give my best regards to your parents when you see them.",
+      "ja": "ご両親に会ったら、どうぞよろしくお伝えください。"
+    }
+  ],
+  "check_points": [
+    "regard A as B と consider A B の形の違いを言えるか",
+    "regardless of はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "regard A as B、regardless of、with regard to が文法・長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 103
+    }
+  ]
+}

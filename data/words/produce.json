@@ -1,0 +1,102 @@
+{
+  "word": "produce",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/prəˈduːs/",
+  "core_image": {
+    "text": "前へ導き出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"36\" cy=\"52\" r=\"10\"/><line x1=\"36\" y1=\"62\" x2=\"36\" y2=\"106\"/><line x1=\"36\" y1=\"106\" x2=\"26\" y2=\"140\"/><line x1=\"36\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"36\" y1=\"74\" x2=\"24\" y2=\"98\"/><line x1=\"36\" y1=\"74\" x2=\"48\" y2=\"98\"/><rect x=\"80\" y=\"60\" width=\"60\" height=\"80\"/><line x1=\"144\" y1=\"110\" x2=\"172\" y2=\"110\"/><polyline points=\"165,106.2 172,110 165,113.8\"/><circle cx=\"190\" cy=\"112\" r=\"8\"/><circle cx=\"212\" cy=\"112\" r=\"8\"/><line x1=\"140\" y1=\"124\" x2=\"225\" y2=\"124\"/></g><text x=\"110\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">作るところ</text><text x=\"200\" y=\"92\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">前へ出す</text></svg>"
+  },
+  "etymology": "pro(前へ) + duce(導く。conduct, introduce, reduce と同じ) → 前へ導き出す → 作り出す・生産する → 結果を生む → 取り出して見せる → 作品を制作する。名詞は「作り出された物」=農産物",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make or grow something, to cause a particular result, or to show something by taking it out."
+    },
+    {
+      "pos": "名詞",
+      "text": "food that is grown on farms, such as fruit and vegetables."
+    }
+  ],
+  "cautions": [
+    "produce は「生産する」のほか「(結果を)生む」「取り出して見せる」「(映画などを)制作する」",
+    "名詞 produce は前を強く /ˈprɑːduːs/ 読み、「農産物」(数えられない)",
+    "product=製品、production=生産、productive=生産的な、productivity=生産性"
+  ],
+  "patterns": [
+    {
+      "form": "produce A",
+      "meaning": "Aを生産する・生み出す"
+    },
+    {
+      "form": "produce results",
+      "meaning": "結果を生む"
+    },
+    {
+      "form": "farm produce",
+      "meaning": "農産物"
+    },
+    {
+      "form": "product",
+      "meaning": "製品"
+    },
+    {
+      "form": "productive",
+      "meaning": "生産的な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "生産する",
+      "en": "This factory produces more than a thousand cars a day.",
+      "ja": "この工場は、1日に1000台を超える車を生産している。"
+    },
+    {
+      "source": "original",
+      "label": "産出する",
+      "en": "The region produces some of the best wine in the country.",
+      "ja": "その地方は、国内でも最高級のワインを産出する。"
+    },
+    {
+      "source": "original",
+      "label": "(結果を)生む",
+      "en": "Hard work does not always produce the results you want.",
+      "ja": "努力が、いつも望む結果を生むとは限らない。"
+    },
+    {
+      "source": "original",
+      "label": "取り出す",
+      "en": "The man produced a ticket from his pocket and showed it to the guard.",
+      "ja": "男はポケットから切符を取り出し、警備員に見せた。"
+    },
+    {
+      "source": "original",
+      "label": "農産物(名詞)",
+      "en": "The market sells fresh local produce every Saturday morning.",
+      "ja": "その市場では、毎週土曜の朝、地元の新鮮な農産物を売っている。"
+    },
+    {
+      "source": "original",
+      "label": "productive(形容詞)",
+      "en": "I am most productive early in the morning.",
+      "ja": "私は早朝にいちばん仕事がはかどる。"
+    }
+  ],
+  "check_points": [
+    "「生産する」と「取り出す」を「前へ導き出す」で説明できるか",
+    "produce(名詞)・product・production の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "produce / product / production / productive の派生語、名詞 produce(農産物)が語彙問題で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 168
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "limit",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈlɪmɪt/",
+  "core_image": {
+    "text": "これ以上は行けない境界線",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"150\" y1=\"30\" x2=\"150\" y2=\"140\" stroke-dasharray=\"6 5\"/><circle cx=\"96\" cy=\"52\" r=\"10\"/><line x1=\"96\" y1=\"62\" x2=\"96\" y2=\"106\"/><line x1=\"96\" y1=\"106\" x2=\"86\" y2=\"140\"/><line x1=\"96\" y1=\"106\" x2=\"106\" y2=\"140\"/><polyline points=\"96,74 120,70 138,66\"/><line x1=\"96\" y1=\"74\" x2=\"86\" y2=\"96\"/><line x1=\"178\" y1=\"66\" x2=\"198\" y2=\"94\"/><line x1=\"198\" y1=\"66\" x2=\"178\" y2=\"94\"/></g><text x=\"150\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ここまで</text><text x=\"188\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">行けない</text></svg>"
+  },
+  "etymology": "ラテン語 limes(畑の境界の道) → 境界 → これ以上は行けない線=限界・制限。動詞は「制限する」",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the greatest amount, number or level of something that is possible or allowed."
+    },
+    {
+      "pos": "動詞",
+      "text": "to stop something from increasing beyond a particular amount or level."
+    }
+  ],
+  "cautions": [
+    "limit A to B=AをBに制限する。受け身 be limited to A",
+    "a speed limit(制限速度)、a time limit(制限時間)",
+    "within limits=適度に、to the limit=限界まで",
+    "limited=限られた、limitation=限界(複数形で「短所」)"
+  ],
+  "patterns": [
+    {
+      "form": "limit A to B",
+      "meaning": "AをBに制限する"
+    },
+    {
+      "form": "be limited to A",
+      "meaning": "Aに限られる"
+    },
+    {
+      "form": "a speed limit",
+      "meaning": "制限速度"
+    },
+    {
+      "form": "within limits",
+      "meaning": "適度に"
+    },
+    {
+      "form": "limitation",
+      "meaning": "限界"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "制限する",
+      "en": "Please limit your speech to five minutes so that everyone can speak.",
+      "ja": "全員が話せるように、スピーチは5分以内にしてください。"
+    },
+    {
+      "source": "original",
+      "label": "be limited to",
+      "en": "The number of students in each class is limited to twenty.",
+      "ja": "各クラスの生徒数は、20人に制限されている。"
+    },
+    {
+      "source": "original",
+      "label": "限界(名詞)",
+      "en": "There is a limit to what one person can do in a day.",
+      "ja": "1人の人間が1日にできることには限界がある。"
+    },
+    {
+      "source": "original",
+      "label": "制限速度",
+      "en": "The speed limit on this road is forty kilometers an hour.",
+      "ja": "この道路の制限速度は、時速40キロだ。"
+    },
+    {
+      "source": "original",
+      "label": "limited(形容詞)",
+      "en": "We have only a limited amount of time to finish the project.",
+      "ja": "その企画を仕上げる時間は、限られている。"
+    },
+    {
+      "source": "original",
+      "label": "limitation(名詞)",
+      "en": "Every method has its limitations, and this one is no exception.",
+      "ja": "どんな方法にも限界があり、この方法も例外ではない。"
+    }
+  ],
+  "check_points": [
+    "limit A to B を使って「1人1個まで」と言えるか",
+    "limit と limitation の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "limit A to B、be limited to、limited が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 158
+    }
+  ]
+}

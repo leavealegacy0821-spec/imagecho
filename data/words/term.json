@@ -1,0 +1,98 @@
+{
+  "word": "term",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/tɜːrm/",
+  "core_image": {
+    "text": "ここまで、と区切る線",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"70\" y1=\"24\" x2=\"70\" y2=\"140\"/><line x1=\"180\" y1=\"24\" x2=\"180\" y2=\"140\"/><line x1=\"70\" y1=\"34\" x2=\"180\" y2=\"34\"/><polyline points=\"78,28 70,34 78,40\"/><polyline points=\"172,28 180,34 172,40\"/><circle cx=\"125\" cy=\"54\" r=\"10\"/><line x1=\"125\" y1=\"64\" x2=\"125\" y2=\"108\"/><line x1=\"125\" y1=\"108\" x2=\"115\" y2=\"142\"/><line x1=\"125\" y1=\"108\" x2=\"135\" y2=\"142\"/><line x1=\"125\" y1=\"76\" x2=\"113\" y2=\"100\"/><line x1=\"125\" y1=\"76\" x2=\"137\" y2=\"100\"/></g><text x=\"125\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ここからここまで</text><text x=\"208\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">区切り</text></svg>"
+  },
+  "etymology": "ラテン語 terminus(境界・終わり。terminal, determine と同じ) → 区切り → 時間を区切ったもの(期間・学期)／意味の範囲を区切った言葉(用語)／取り決めの範囲(条件)／人との間に引かれた線(間柄)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a word or phrase with a particular meaning, a fixed period of time, or (terms) the conditions of an agreement."
+    }
+  ],
+  "cautions": [
+    "in terms of A=「Aの観点から・Aに関して」が最重要",
+    "複数形 terms で「条件」「間柄」: be on good terms with A=Aと仲が良い",
+    "come to terms with A=Aを受け入れる・Aと折り合いをつける",
+    "in the long term=長期的には、a technical term=専門用語"
+  ],
+  "patterns": [
+    {
+      "form": "in terms of A",
+      "meaning": "Aの観点から"
+    },
+    {
+      "form": "be on good terms with A",
+      "meaning": "Aと仲が良い"
+    },
+    {
+      "form": "come to terms with A",
+      "meaning": "Aを受け入れる"
+    },
+    {
+      "form": "in the long / short term",
+      "meaning": "長期的・短期的には"
+    },
+    {
+      "form": "a technical term",
+      "meaning": "専門用語"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "in terms of=〜の観点から",
+      "en": "The job is great in terms of salary, but the hours are terribly long.",
+      "ja": "その仕事は給料の面ではすばらしいが、勤務時間がひどく長い。"
+    },
+    {
+      "source": "original",
+      "label": "用語",
+      "en": "The doctor avoided medical terms and explained the disease in simple words.",
+      "ja": "医者は医学用語を避け、やさしい言葉でその病気を説明した。"
+    },
+    {
+      "source": "original",
+      "label": "学期",
+      "en": "The second term starts in September and ends just before Christmas.",
+      "ja": "2学期は9月に始まり、クリスマスの直前に終わる。"
+    },
+    {
+      "source": "original",
+      "label": "期間",
+      "en": "In the long term, saving energy will also save you a lot of money.",
+      "ja": "長期的には、エネルギーを節約すれば多くのお金も節約できる。"
+    },
+    {
+      "source": "original",
+      "label": "間柄(be on ... terms)",
+      "en": "I have been on good terms with my neighbors for many years.",
+      "ja": "私は長年、近所の人たちと良い関係を保っている。"
+    },
+    {
+      "source": "original",
+      "label": "come to terms with=受け入れる",
+      "en": "It took her years to come to terms with the loss of her father.",
+      "ja": "彼女が父の死を受け入れるのに何年もかかった。"
+    }
+  ],
+  "check_points": [
+    "学期・用語・条件・間柄を「区切る線」で説明できるか",
+    "in terms of を使った文を1つ作れるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "in terms of は長文に必ず出る。be on good terms with、come to terms with は熟語問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 28
+    }
+  ]
+}

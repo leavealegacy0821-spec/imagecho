@@ -1,0 +1,98 @@
+{
+  "word": "seek",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/siːk/",
+  "core_image": {
+    "text": "手に入れようと探し求める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><polyline points=\"66,74 82,60 78,48\"/><polyline points=\"66,74 88,84 102,76\"/><circle cx=\"108\" cy=\"72\" r=\"7\"/><line x1=\"120\" y1=\"68\" x2=\"186\" y2=\"50\" stroke-dasharray=\"5 5\"/><polyline points=\"178.2,48.1 186,50 180.2,55.5\"/><polygon points=\"204,34 208,44 218,46 210,52 212,62 204,56 196,62 198,52 190,46 200,44\"/></g><text x=\"156\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">探し求める</text></svg>"
+  },
+  "etymology": "古英語 secan(探し求める) → 物・人・助言・職などを求める → 〜しようと努める(seek to do)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to try to find or get something, or to try to do something."
+    }
+  ],
+  "cautions": [
+    "活用は seek - sought - sought",
+    "seek A=Aを求める。look for より堅い。目的語は advice、help、a job、shelter など",
+    "seek to do=〜しようと努める",
+    "be sought after=引っぱりだこである"
+  ],
+  "patterns": [
+    {
+      "form": "seek A",
+      "meaning": "Aを求める"
+    },
+    {
+      "form": "seek advice",
+      "meaning": "助言を求める"
+    },
+    {
+      "form": "seek to do",
+      "meaning": "〜しようと努める"
+    },
+    {
+      "form": "seek shelter",
+      "meaning": "避難する"
+    },
+    {
+      "form": "be sought after",
+      "meaning": "引っぱりだこである"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "(助言を)求める",
+      "en": "You should seek advice from a doctor before starting the diet.",
+      "ja": "その食事制限を始める前に、医師の助言を求めたほうがいい。"
+    },
+    {
+      "source": "original",
+      "label": "(職を)探す",
+      "en": "Thousands of young people come to the city to seek work.",
+      "ja": "何千人もの若者が、仕事を求めてその都市にやって来る。"
+    },
+    {
+      "source": "original",
+      "label": "seek to do",
+      "en": "The new law seeks to reduce the number of traffic accidents.",
+      "ja": "新しい法律は、交通事故の件数を減らすことをねらっている。"
+    },
+    {
+      "source": "original",
+      "label": "避難する",
+      "en": "We sought shelter from the rain under a large tree.",
+      "ja": "私たちは大きな木の下で雨宿りをした。"
+    },
+    {
+      "source": "original",
+      "label": "(助けを)求める",
+      "en": "Do not be afraid to seek help when you are in trouble.",
+      "ja": "困ったときには、助けを求めることを恐れてはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "be sought after",
+      "en": "Her paintings are much sought after by collectors.",
+      "ja": "彼女の絵は、収集家たちに大いに求められている。"
+    }
+  ],
+  "check_points": [
+    "seek の過去形は何か",
+    "seek to do はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "seek to do、seek advice / help、sought の活用が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 186
+    }
+  ]
+}

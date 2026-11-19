@@ -1,0 +1,103 @@
+{
+  "word": "measure",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈmeʒər/",
+  "core_image": {
+    "text": "ものさしを当てて、量をはかる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><polyline points=\"46,74 70,82 92,90\"/><line x1=\"46\" y1=\"74\" x2=\"36\" y2=\"96\"/><rect x=\"96\" y=\"86\" width=\"120\" height=\"14\"/><line x1=\"116\" y1=\"86\" x2=\"116\" y2=\"94\"/><line x1=\"136\" y1=\"86\" x2=\"136\" y2=\"94\"/><line x1=\"156\" y1=\"86\" x2=\"156\" y2=\"94\"/><line x1=\"176\" y1=\"86\" x2=\"176\" y2=\"94\"/><line x1=\"196\" y1=\"86\" x2=\"196\" y2=\"94\"/></g><text x=\"156\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">はかる</text><text x=\"156\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ものさし・手段</text></svg>"
+  },
+  "etymology": "ラテン語 metiri(はかる。meter, dimension と同じ根) → mensura(はかること) → 長さ・量をはかる → はかるための基準 → 問題に見合った手段=対策・措置(名詞)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to find the size, length or amount of something, or to judge how important or effective something is."
+    },
+    {
+      "pos": "名詞",
+      "text": "an action taken to deal with a problem, or a way of judging something."
+    }
+  ],
+  "cautions": [
+    "名詞の「対策・措置」は複数形が多い: take measures to do=〜する対策を取る",
+    "a measure of A=Aの尺度・ある程度のA",
+    "in large measure=大部分は",
+    "measurement=測定・寸法"
+  ],
+  "patterns": [
+    {
+      "form": "measure A",
+      "meaning": "Aをはかる"
+    },
+    {
+      "form": "take measures to do",
+      "meaning": "〜する対策を取る"
+    },
+    {
+      "form": "safety measures",
+      "meaning": "安全対策"
+    },
+    {
+      "form": "a measure of A",
+      "meaning": "Aの尺度"
+    },
+    {
+      "form": "measurement",
+      "meaning": "測定"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "はかる",
+      "en": "The nurse measured my height and weight.",
+      "ja": "看護師は、私の身長と体重をはかった。"
+    },
+    {
+      "source": "original",
+      "label": "対策(名詞)",
+      "en": "The government took strong measures to stop the spread of the disease.",
+      "ja": "政府は、病気の広がりを止めるために強い対策を取った。"
+    },
+    {
+      "source": "original",
+      "label": "安全対策",
+      "en": "New safety measures were introduced after the accident.",
+      "ja": "事故の後、新しい安全対策が導入された。"
+    },
+    {
+      "source": "original",
+      "label": "評価する",
+      "en": "It is hard to measure the success of a school by test scores alone.",
+      "ja": "学校の成功を、テストの点数だけではかるのは難しい。"
+    },
+    {
+      "source": "original",
+      "label": "尺度(名詞)",
+      "en": "Money is not the only measure of a happy life.",
+      "ja": "お金は、幸せな人生をはかる唯一の尺度ではない。"
+    },
+    {
+      "source": "original",
+      "label": "measurement(名詞)",
+      "en": "Write down the measurements of the room before buying a carpet.",
+      "ja": "じゅうたんを買う前に、部屋の寸法を書き留めておきなさい。"
+    }
+  ],
+  "check_points": [
+    "「はかる」と「対策」を「問題に見合ったものさし」で説明できるか",
+    "take measures to do はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "名詞 measures(対策)、take measures to do が長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 243
+    }
+  ]
+}

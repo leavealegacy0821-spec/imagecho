@@ -1,0 +1,93 @@
+{
+  "word": "insist",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈsɪst/",
+  "core_image": {
+    "text": "その上に立って、動かない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"100\" y=\"110\" width=\"40\" height=\"30\"/><circle cx=\"120\" cy=\"38\" r=\"10\"/><line x1=\"120\" y1=\"48\" x2=\"120\" y2=\"86\"/><line x1=\"120\" y1=\"86\" x2=\"112\" y2=\"110\"/><line x1=\"120\" y1=\"86\" x2=\"128\" y2=\"110\"/><polyline points=\"120,60 106,70 124,74\"/><polyline points=\"120,60 134,70 116,74\"/><line x1=\"160\" y1=\"92\" x2=\"208\" y2=\"92\" stroke-dasharray=\"5 5\"/><polyline points=\"201,88.2 208,92 201,95.8\"/></g><text x=\"120\" y=\"18\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ゆずらない</text><text x=\"186\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">引っぱっても</text></svg>"
+  },
+  "etymology": "in(上に) + sist(立つ。consist, resist, exist と同じ) → その上に立ち続ける → 自分の言い分をゆずらない=言い張る・強く要求する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say firmly that something is true, or to demand that something must happen."
+    }
+  ],
+  "cautions": [
+    "insist on A / doing=A(〜すること)を言い張る・要求する",
+    "insist that S V(事実を言い張る: 普通の時制)と、insist that S (should) 動詞の原形(〜するよう要求する)を区別する",
+    "名詞は insistence、形容詞は insistent"
+  ],
+  "patterns": [
+    {
+      "form": "insist on A / doing",
+      "meaning": "A(〜すること)を言い張る"
+    },
+    {
+      "form": "insist that S V",
+      "meaning": "〜だと言い張る"
+    },
+    {
+      "form": "insist that S (should) do",
+      "meaning": "〜するよう要求する"
+    },
+    {
+      "form": "insistence",
+      "meaning": "強い主張"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "insist on doing",
+      "en": "He insisted on paying for the meal, though I offered to share.",
+      "ja": "割り勘にしようと言ったのに、彼は食事代を払うと言ってきかなかった。"
+    },
+    {
+      "source": "original",
+      "label": "insist on A",
+      "en": "She insists on honesty from everyone she works with.",
+      "ja": "彼女は、一緒に働くすべての人に正直であることを求める。"
+    },
+    {
+      "source": "original",
+      "label": "事実を言い張る",
+      "en": "The boy insisted that he had not broken the window.",
+      "ja": "その少年は、自分は窓を割っていないと言い張った。"
+    },
+    {
+      "source": "original",
+      "label": "要求する(原形)",
+      "en": "The doctor insisted that she stay in bed for at least a week.",
+      "ja": "医者は、彼女が少なくとも1週間は寝ているよう強く求めた。"
+    },
+    {
+      "source": "original",
+      "label": "言い張る",
+      "en": "\"It was not my fault,\" he insisted again and again.",
+      "ja": "「私のせいではない」と、彼は何度も言い張った。"
+    },
+    {
+      "source": "original",
+      "label": "insistence(名詞)",
+      "en": "At my mother's insistence, I took an umbrella with me.",
+      "ja": "母が強く言うので、私は傘を持って行った。"
+    }
+  ],
+  "check_points": [
+    "insist that S V と insist that S (should) 原形の違いを例で言えるか",
+    "insist on の後ろに動詞を続けるときの形は何か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "insist on doing、insist that S (should) 原形が文法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 153
+    }
+  ]
+}

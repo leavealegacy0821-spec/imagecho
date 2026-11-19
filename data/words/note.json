@@ -1,0 +1,103 @@
+{
+  "word": "note",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/noʊt/",
+  "core_image": {
+    "text": "印を付けて心に留める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 82,70 106,62\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><rect x=\"120\" y=\"36\" width=\"70\" height=\"80\"/><line x1=\"132\" y1=\"56\" x2=\"178\" y2=\"56\"/><line x1=\"132\" y1=\"72\" x2=\"178\" y2=\"72\"/><line x1=\"132\" y1=\"88\" x2=\"158\" y2=\"88\"/><polyline points=\"164,86 170,96 182,80\"/></g><text x=\"155\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">印を付ける</text><text x=\"155\" y=\"132\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">心に留める</text></svg>"
+  },
+  "etymology": "ラテン語 nota(印・しるし) → 印を付ける → 書き留めたもの(メモ・注・短い手紙) → 印を付けるように注意して見る・述べる(動詞) → 印の付いた音=音符・調子 → 印が付くほど目立つ=有名な(be noted for)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a short piece of writing that helps you remember something, or a short informal letter."
+    },
+    {
+      "pos": "動詞",
+      "text": "to notice or pay careful attention to something, or to mention something because it is important."
+    }
+  ],
+  "cautions": [
+    "動詞 note that S V=「〜に注意する・〜と述べる」。論説文で頻出",
+    "take notes=メモを取る。帳面の「ノート」は notebook",
+    "take note of A=Aに注意を払う",
+    "be noted for A=Aで有名である。notable=注目に値する"
+  ],
+  "patterns": [
+    {
+      "form": "note that S V",
+      "meaning": "〜に注意する・〜と述べる"
+    },
+    {
+      "form": "take notes",
+      "meaning": "メモを取る"
+    },
+    {
+      "form": "take note of A",
+      "meaning": "Aに注意を払う"
+    },
+    {
+      "form": "be noted for A",
+      "meaning": "Aで有名である"
+    },
+    {
+      "form": "make a note of A",
+      "meaning": "Aを書き留める"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "メモ",
+      "en": "I always take notes during lectures so that I can review them later.",
+      "ja": "後で復習できるように、講義中はいつもメモを取る。"
+    },
+    {
+      "source": "original",
+      "label": "短い手紙",
+      "en": "She left a note on the table saying that she would be back by six.",
+      "ja": "彼女は、6時までに戻るというメモをテーブルに残した。"
+    },
+    {
+      "source": "original",
+      "label": "注意する(動詞)",
+      "en": "Please note that the library will be closed next Monday.",
+      "ja": "来週の月曜日は図書館が休館になりますので、ご注意ください。"
+    },
+    {
+      "source": "original",
+      "label": "述べる(動詞)",
+      "en": "The author notes that the number of farmers has fallen by half.",
+      "ja": "著者は、農家の数が半分に減ったと述べている。"
+    },
+    {
+      "source": "original",
+      "label": "be noted for=有名である",
+      "en": "This town is noted for its hot springs and beautiful autumn leaves.",
+      "ja": "この町は温泉と美しい紅葉で有名だ。"
+    },
+    {
+      "source": "original",
+      "label": "調子",
+      "en": "There was a note of anger in his voice when he answered.",
+      "ja": "答えたとき、彼の声には怒りの調子があった。"
+    }
+  ],
+  "check_points": [
+    "メモ・注意する・有名であるを「印を付ける」で説明できるか",
+    "「メモを取る」と「ノート(帳面)」を英語で言い分けられるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "note that、be noted for、take notes が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 72
+    }
+  ]
+}

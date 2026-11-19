@@ -1,0 +1,94 @@
+{
+  "word": "appreciate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈpriːʃieɪt/",
+  "core_image": {
+    "text": "値打ちを正しく見きわめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><polyline points=\"66,74 92,70 112,62\"/><line x1=\"66\" y1=\"74\" x2=\"56\" y2=\"96\"/><polygon points=\"124,56 144,40 164,56 144,84\"/><line x1=\"124\" y1=\"56\" x2=\"164\" y2=\"56\"/><rect x=\"180\" y=\"40\" width=\"34\" height=\"20\"/><line x1=\"164\" y1=\"54\" x2=\"180\" y2=\"50\"/></g><text x=\"146\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">値打ちがわかる</text><text x=\"197\" y=\"32\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">価値</text></svg>"
+  },
+  "etymology": "ap(ad=〜へ) + preci(値段。price, precious と同じ) → 値を付ける → 価値を正しく認める → 良さがわかる・鑑賞する／ありがたさがわかる=感謝する／事の重みがわかる=正しく理解する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be grateful for something, to understand how good or important something is, or to understand a situation fully."
+    }
+  ],
+  "cautions": [
+    "「感謝する」の目的語は物事(人ではない): I appreciate your help. 人を目的語にするのは thank(thank you for A)",
+    "I would appreciate it if you could 〜=〜していただけるとありがたい。it を落とさない",
+    "「正しく理解する」の意味が長文で問われる(appreciate the difficulty)",
+    "名詞は appreciation"
+  ],
+  "patterns": [
+    {
+      "form": "appreciate A",
+      "meaning": "A(物事)に感謝する・Aの良さがわかる"
+    },
+    {
+      "form": "I would appreciate it if S V",
+      "meaning": "〜していただけるとありがたい"
+    },
+    {
+      "form": "appreciate that S V",
+      "meaning": "〜だと理解する"
+    },
+    {
+      "form": "appreciation of A",
+      "meaning": "Aへの感謝・理解"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "感謝する",
+      "en": "I really appreciate your kindness during my stay in London.",
+      "ja": "ロンドン滞在中のご親切に、心から感謝しています。"
+    },
+    {
+      "source": "original",
+      "label": "I would appreciate it if",
+      "en": "I would appreciate it if you could reply by the end of this week.",
+      "ja": "今週末までにお返事をいただけるとありがたいです。"
+    },
+    {
+      "source": "original",
+      "label": "良さがわかる",
+      "en": "You need some knowledge of history to appreciate this painting fully.",
+      "ja": "この絵の良さを十分に味わうには、歴史の知識がいくらか必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "正しく理解する",
+      "en": "I do not think you appreciate how serious the situation is.",
+      "ja": "君は事態がどれほど深刻か、わかっていないと思う。"
+    },
+    {
+      "source": "original",
+      "label": "価値を認める",
+      "en": "Living abroad taught me to appreciate the beauty of my own culture.",
+      "ja": "海外で暮らして、自国の文化の美しさがわかるようになった。"
+    },
+    {
+      "source": "original",
+      "label": "appreciation(名詞)",
+      "en": "She gave him a small present to show her appreciation.",
+      "ja": "彼女は感謝の気持ちを表すために、彼にささやかな贈り物をした。"
+    }
+  ],
+  "check_points": [
+    "感謝・鑑賞・理解を「値打ちを正しく見きわめる」で説明できるか",
+    "thank と appreciate で、目的語に来るものの違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "目的語が物事であること、I would appreciate it if の it が文法・英作文で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 91
+    }
+  ]
+}

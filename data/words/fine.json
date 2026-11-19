@@ -1,0 +1,108 @@
+{
+  "word": "fine",
+  "pos": [
+    "形容詞",
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/faɪn/",
+  "core_image": {
+    "text": "仕上げまで行き届いた",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><polyline points=\"66,74 92,80 118,76\"/><line x1=\"66\" y1=\"74\" x2=\"56\" y2=\"96\"/><polygon points=\"126,64 148,46 170,64 148,98\"/><line x1=\"126\" y1=\"64\" x2=\"170\" y2=\"64\"/><line x1=\"180\" y1=\"46\" x2=\"190\" y2=\"38\"/><line x1=\"184\" y1=\"64\" x2=\"196\" y2=\"64\"/><line x1=\"148\" y1=\"36\" x2=\"148\" y2=\"26\"/></g><text x=\"150\" y=\"116\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">仕上げが行き届く</text><text x=\"210\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">上質</text></svg>"
+  },
+  "etymology": "ラテン語 finis(終わり・限界。finish, final と同じ) → 最後まで仕上げられた → 上質な・立派な・元気な・晴れた／仕上げが細かい=細かい・微妙な。名詞の「罰金」も finis から(事を終わりにするための支払い)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "of very good quality, or very thin or made of very small pieces."
+    },
+    {
+      "pos": "名詞",
+      "text": "money that you have to pay as a punishment for breaking a rule or law."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make someone pay money as a punishment."
+    }
+  ],
+  "cautions": [
+    "「細かい」の意味がある: fine sand(細かい砂)、fine rain(霧雨)、a fine line(紙一重の差)",
+    "名詞・動詞で「罰金(を科す)」: be fined 50 dollars for speeding",
+    "fine arts=美術",
+    "I'm fine. は「結構です」と断る意味にもなる"
+  ],
+  "patterns": [
+    {
+      "form": "fine weather",
+      "meaning": "良い天気"
+    },
+    {
+      "form": "fine sand",
+      "meaning": "細かい砂"
+    },
+    {
+      "form": "a fine line between A and B",
+      "meaning": "AとBの紙一重の差"
+    },
+    {
+      "form": "be fined (金額) for A",
+      "meaning": "Aで(金額)の罰金を科される"
+    },
+    {
+      "form": "pay a fine",
+      "meaning": "罰金を払う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "上質な",
+      "en": "This restaurant is famous for its fine wines and friendly service.",
+      "ja": "このレストランは、上質なワインと感じの良い接客で有名だ。"
+    },
+    {
+      "source": "original",
+      "label": "晴れた",
+      "en": "If the weather is fine tomorrow, we will have lunch in the park.",
+      "ja": "明日天気が良ければ、公園で昼食をとるつもりだ。"
+    },
+    {
+      "source": "original",
+      "label": "細かい",
+      "en": "The beach is covered with fine white sand that feels like powder.",
+      "ja": "その浜辺は、粉のような手ざわりの細かく白い砂で覆われている。"
+    },
+    {
+      "source": "original",
+      "label": "微妙な(a fine line)",
+      "en": "There is a fine line between being confident and being rude.",
+      "ja": "自信があることと失礼であることは、紙一重だ。"
+    },
+    {
+      "source": "original",
+      "label": "罰金(名詞)",
+      "en": "He had to pay a heavy fine for parking in front of the hospital.",
+      "ja": "彼は病院の前に駐車したために、重い罰金を払わなければならなかった。"
+    },
+    {
+      "source": "original",
+      "label": "罰金を科す(動詞)",
+      "en": "She was fined eighty dollars for driving too fast near a school.",
+      "ja": "彼女は学校の近くでスピードを出しすぎて、80ドルの罰金を科された。"
+    }
+  ],
+  "check_points": [
+    "上質な・細かい・罰金を finish(終わり)とのつながりで説明できるか",
+    "fine sand の fine はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「罰金」「細かい」の意味が長文・語彙問題で狙われる。be fined for の形も出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 36
+    }
+  ]
+}

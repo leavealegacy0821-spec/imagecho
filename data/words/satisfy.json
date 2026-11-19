@@ -1,0 +1,98 @@
+{
+  "word": "satisfy",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈsætɪsfaɪ/",
+  "core_image": {
+    "text": "十分なところまで満たす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"150,60 156,140 196,140 202,60\"/><line x1=\"151\" y1=\"70\" x2=\"201\" y2=\"70\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"52\" y2=\"62\"/><line x1=\"70\" y1=\"74\" x2=\"88\" y2=\"62\"/></g><text x=\"176\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いっぱいまで</text><text x=\"70\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">満足</text></svg>"
+  },
+  "etymology": "satis(十分な。saturate と同じ) + fy(〜にする) → 十分にする → 人を満足させる → 条件・要求・空腹などを満たす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to please someone by giving them what they want or need, or to provide what is required."
+    }
+  ],
+  "cautions": [
+    "感情の動詞。人が主語なら be satisfied with A(Aに満足している)",
+    "satisfying=満足のいく(物が主語)、satisfactory=申し分ない・まずまずの",
+    "satisfy a need / a demand / the requirements / a condition=必要・需要・条件を満たす",
+    "名詞は satisfaction"
+  ],
+  "patterns": [
+    {
+      "form": "be satisfied with A",
+      "meaning": "Aに満足している"
+    },
+    {
+      "form": "satisfy a need",
+      "meaning": "必要を満たす"
+    },
+    {
+      "form": "satisfy the requirements",
+      "meaning": "条件を満たす"
+    },
+    {
+      "form": "satisfaction",
+      "meaning": "満足"
+    },
+    {
+      "form": "satisfactory",
+      "meaning": "申し分ない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "満足させる",
+      "en": "Nothing seems to satisfy him, no matter how hard we try.",
+      "ja": "どれほどがんばっても、彼を満足させるものは何もないようだ。"
+    },
+    {
+      "source": "original",
+      "label": "be satisfied with",
+      "en": "I am not satisfied with the result of the test.",
+      "ja": "私はテストの結果に満足していない。"
+    },
+    {
+      "source": "original",
+      "label": "(条件を)満たす",
+      "en": "You must satisfy three conditions to apply for the scholarship.",
+      "ja": "その奨学金に応募するには、3つの条件を満たさなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "(空腹を)満たす",
+      "en": "A small sandwich was not enough to satisfy my hunger.",
+      "ja": "小さなサンドイッチ1つでは、空腹は満たされなかった。"
+    },
+    {
+      "source": "original",
+      "label": "satisfactory(形容詞)",
+      "en": "Her explanation was not satisfactory, so I asked again.",
+      "ja": "彼女の説明は納得のいくものではなかったので、もう一度たずねた。"
+    },
+    {
+      "source": "original",
+      "label": "satisfaction(名詞)",
+      "en": "He looked at the finished painting with great satisfaction.",
+      "ja": "彼は、仕上がった絵を大いに満足して眺めた。"
+    }
+  ],
+  "check_points": [
+    "satisfied・satisfying・satisfactory の違いを言えるか",
+    "「条件を満たす」を satisfy で言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "be satisfied with、satisfactory / satisfying の区別、satisfy a need が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 185
+    }
+  ]
+}

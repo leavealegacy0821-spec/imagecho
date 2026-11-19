@@ -1,0 +1,94 @@
+{
+  "word": "recover",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈkʌvər/",
+  "core_image": {
+    "text": "失ったものを、取り戻す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"30,60 70,110 110,110\"/><polyline points=\"110,110 150,80 190,50\"/><line x1=\"160\" y1=\"72\" x2=\"196\" y2=\"46\"/><polyline points=\"188.1,47 196,46 192.6,53.2\"/><circle cx=\"210\" cy=\"40\" r=\"10\"/><line x1=\"210\" y1=\"50\" x2=\"210\" y2=\"94\"/><line x1=\"210\" y1=\"94\" x2=\"200\" y2=\"128\"/><line x1=\"210\" y1=\"94\" x2=\"220\" y2=\"128\"/></g><text x=\"70\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">落ちこむ</text><text x=\"150\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">取り戻す</text></svg>"
+  },
+  "etymology": "re(元へ) + cover(ラテン語 capere=取る が変化した形。capture と同じ) → 取り戻す → 健康を取り戻す=回復する → 失った物・お金を取り戻す",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to become healthy again after an illness, to return to a normal condition, or to get back something that was lost."
+    }
+  ],
+  "cautions": [
+    "recover from A=A(病気・ショック)から回復する",
+    "recover A=A(失った物)を取り戻す",
+    "名詞は recovery(回復)。make a full recovery=全快する",
+    "cover(覆う)とは別の語源"
+  ],
+  "patterns": [
+    {
+      "form": "recover from A",
+      "meaning": "Aから回復する"
+    },
+    {
+      "form": "recover A",
+      "meaning": "Aを取り戻す"
+    },
+    {
+      "form": "recovery",
+      "meaning": "回復"
+    },
+    {
+      "form": "make a full recovery",
+      "meaning": "全快する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "recover from",
+      "en": "It took her three weeks to recover from the flu.",
+      "ja": "彼女がインフルエンザから回復するのに3週間かかった。"
+    },
+    {
+      "source": "original",
+      "label": "(経済が)回復する",
+      "en": "The economy is slowly recovering after the crisis.",
+      "ja": "危機の後、経済はゆっくりと回復している。"
+    },
+    {
+      "source": "original",
+      "label": "取り戻す",
+      "en": "The police recovered most of the stolen paintings.",
+      "ja": "警察は、盗まれた絵のほとんどを取り戻した。"
+    },
+    {
+      "source": "original",
+      "label": "(意識を)取り戻す",
+      "en": "He recovered consciousness two days after the accident.",
+      "ja": "彼は事故の2日後に意識を取り戻した。"
+    },
+    {
+      "source": "original",
+      "label": "recovery(名詞)",
+      "en": "The doctors expect him to make a full recovery.",
+      "ja": "医師たちは、彼が全快すると見ている。"
+    },
+    {
+      "source": "original",
+      "label": "立ち直る",
+      "en": "The town has not yet fully recovered from the earthquake.",
+      "ja": "その町は、まだ地震から完全には立ち直っていない。"
+    }
+  ],
+  "check_points": [
+    "recover from A と recover A の違いを言えるか",
+    "recovery はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "recover from、recovery が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 218
+    }
+  ]
+}

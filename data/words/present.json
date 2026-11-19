@@ -1,0 +1,104 @@
+{
+  "word": "present",
+  "pos": [
+    "形容詞",
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈpreznt/",
+  "core_image": {
+    "text": "目の前にある",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"76\" cy=\"52\" r=\"10\"/><line x1=\"76\" y1=\"62\" x2=\"76\" y2=\"106\"/><line x1=\"76\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"76\" y1=\"106\" x2=\"86\" y2=\"140\"/><polyline points=\"76,74 100,80 120,78\"/><line x1=\"76\" y1=\"74\" x2=\"66\" y2=\"96\"/><rect x=\"120\" y=\"66\" width=\"28\" height=\"24\"/><line x1=\"134\" y1=\"66\" x2=\"134\" y2=\"90\"/><polyline points=\"126,58 134,66 142,58\"/></g><text x=\"134\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">目の前に</text><text x=\"192\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">今・ここ</text></svg>"
+  },
+  "etymology": "pre(前に) + sent(ある・いる。absent=離れている、の反対) → 目の前にある → その場にいる(出席して)／今目の前にある時(現在)／目の前に差し出す(贈り物・提示する・発表する)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "being in a particular place, or existing or happening now."
+    },
+    {
+      "pos": "名詞",
+      "text": "the time that is happening now, or something that you give to someone as a gift."
+    },
+    {
+      "pos": "動詞",
+      "text": "to give something to someone formally, or to show or describe something to a group of people."
+    }
+  ],
+  "cautions": [
+    "形容詞は置く位置で意味が変わる。the present situation(現在の)／the people present(出席している。名詞の後ろ)",
+    "動詞はアクセントが後ろ /prɪˈzent/。present A with B = present B to A",
+    "at present=現在は、for the present=当分は",
+    "be present at A(出席している)⇔ be absent from A"
+  ],
+  "patterns": [
+    {
+      "form": "be present at A",
+      "meaning": "Aに出席している"
+    },
+    {
+      "form": "at present",
+      "meaning": "現在は"
+    },
+    {
+      "form": "present A with B / present B to A",
+      "meaning": "AにBを贈る・提示する"
+    },
+    {
+      "form": "the present situation",
+      "meaning": "現在の状況"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "出席して",
+      "en": "All the members were present at the meeting except Mr. Brown.",
+      "ja": "ブラウン氏を除いて、全員がその会議に出席していた。"
+    },
+    {
+      "source": "original",
+      "label": "出席している(名詞の後ろ)",
+      "en": "Everyone present was moved to tears by her speech.",
+      "ja": "その場にいた全員が、彼女のスピーチに感動して涙を流した。"
+    },
+    {
+      "source": "original",
+      "label": "現在の",
+      "en": "The present system is too old to protect our personal information.",
+      "ja": "現在のシステムは古すぎて、私たちの個人情報を守れない。"
+    },
+    {
+      "source": "original",
+      "label": "現在(名詞)",
+      "en": "At present, there is no medicine that can cure this disease completely.",
+      "ja": "現在のところ、この病気を完全に治せる薬はない。"
+    },
+    {
+      "source": "original",
+      "label": "贈る(動詞)",
+      "en": "The mayor presented the winner with a gold medal and some flowers.",
+      "ja": "市長は優勝者に金メダルと花を贈った。"
+    },
+    {
+      "source": "original",
+      "label": "発表する(動詞)",
+      "en": "Each group will present its ideas to the class next week.",
+      "ja": "来週、各グループがクラスに考えを発表する。"
+    }
+  ],
+  "check_points": [
+    "出席・現在・贈るを「目の前にある」で説明できるか",
+    "the present members と the members present の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "名詞の後ろに置く present(出席している)、present A with B、品詞によるアクセントの移動が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 30
+    }
+  ]
+}

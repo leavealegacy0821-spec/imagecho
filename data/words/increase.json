@@ -1,0 +1,103 @@
+{
+  "word": "increase",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɪnˈkriːs/",
+  "core_image": {
+    "text": "上に積み重なって、増えていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><polyline points=\"40,74 64,70 84,64\"/><line x1=\"40\" y1=\"74\" x2=\"30\" y2=\"96\"/><rect x=\"104\" y=\"116\" width=\"24\" height=\"24\"/><rect x=\"140\" y=\"92\" width=\"24\" height=\"48\"/><rect x=\"176\" y=\"62\" width=\"24\" height=\"78\"/><line x1=\"108\" y1=\"100\" x2=\"196\" y2=\"44\"/><polyline points=\"188,44.5 196,44 192.1,51\"/></g><text x=\"150\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">増えていく</text></svg>"
+  },
+  "etymology": "in(上に) + crease(育つ・大きくなる。create と同じ根) → 上に育つ → 数・量が増える・増やす。反対は de(下へ)+crease=decrease",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to become larger in amount, number or size, or to make something larger."
+    },
+    {
+      "pos": "名詞",
+      "text": "a rise in the amount, number or size of something."
+    }
+  ],
+  "cautions": [
+    "自動詞(増える)と他動詞(増やす)の両方",
+    "increase by A=Aだけ増える、increase to A=Aにまで増える",
+    "名詞: an increase in A=Aの増加(前置詞は in)。on the increase=増加中",
+    "動詞は後ろ、名詞は前を強く読む"
+  ],
+  "patterns": [
+    {
+      "form": "increase by A",
+      "meaning": "Aだけ増える"
+    },
+    {
+      "form": "increase to A",
+      "meaning": "Aまで増える"
+    },
+    {
+      "form": "an increase in A",
+      "meaning": "Aの増加"
+    },
+    {
+      "form": "on the increase",
+      "meaning": "増加中で"
+    },
+    {
+      "form": "increasingly",
+      "meaning": "ますます"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "増える",
+      "en": "The population of the city increased by ten percent in five years.",
+      "ja": "その都市の人口は、5年で10パーセント増えた。"
+    },
+    {
+      "source": "original",
+      "label": "増やす",
+      "en": "The company plans to increase the number of workers next year.",
+      "ja": "その会社は、来年従業員の数を増やす予定だ。"
+    },
+    {
+      "source": "original",
+      "label": "an increase in",
+      "en": "There has been a sharp increase in the price of vegetables.",
+      "ja": "野菜の値段が急に上がっている。"
+    },
+    {
+      "source": "original",
+      "label": "on the increase",
+      "en": "Crimes involving the internet are on the increase.",
+      "ja": "インターネットがからむ犯罪が増えている。"
+    },
+    {
+      "source": "original",
+      "label": "increase to",
+      "en": "The temperature increased to thirty-eight degrees in the afternoon.",
+      "ja": "午後には気温が38度まで上がった。"
+    },
+    {
+      "source": "original",
+      "label": "increasingly(副詞)",
+      "en": "It is becoming increasingly difficult to find a good job.",
+      "ja": "良い仕事を見つけることは、ますます難しくなっている。"
+    }
+  ],
+  "check_points": [
+    "an increase in A の前置詞を言えるか",
+    "increase by と increase to のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "グラフ問題で必須。increase by / to、an increase in、increasingly が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 231
+    }
+  ]
+}

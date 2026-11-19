@@ -1,0 +1,93 @@
+{
+  "word": "offer",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈɔːfər/",
+  "core_image": {
+    "text": "相手の前に差し出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 95,82 112,80\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><rect x=\"112\" y=\"68\" width=\"22\" height=\"18\"/><circle cx=\"185\" cy=\"52\" r=\"10\"/><line x1=\"185\" y1=\"62\" x2=\"185\" y2=\"106\"/><line x1=\"185\" y1=\"106\" x2=\"175\" y2=\"140\"/><line x1=\"185\" y1=\"106\" x2=\"195\" y2=\"140\"/><line x1=\"185\" y1=\"74\" x2=\"173\" y2=\"96\"/><line x1=\"185\" y1=\"74\" x2=\"197\" y2=\"96\"/><line x1=\"138\" y1=\"76\" x2=\"164\" y2=\"76\" stroke-dasharray=\"5 5\"/><polyline points=\"157,72.2 164,76 157,79.8\"/></g><text x=\"123\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どうぞ</text><text x=\"176\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">受けるかは相手しだい</text></svg>"
+  },
+  "etymology": "of(ob=〜に向かって) + fer(運ぶ。transfer, prefer と同じ) → 相手の前へ運ぶ → 差し出す → 申し出る・提供する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say that you are willing to give something to someone or to do something for them."
+    },
+    {
+      "pos": "名詞",
+      "text": "a statement that you are willing to give or do something for someone."
+    }
+  ],
+  "cautions": [
+    "offer to do=「〜しようと申し出る」。offer doing は×",
+    "offer 人 物 = offer 物 to 人(for ではない)",
+    "give と違い、差し出すだけで、相手が受け取るとは限らない",
+    "名詞では accept an offer(受ける)／turn down・decline an offer(断る)"
+  ],
+  "patterns": [
+    {
+      "form": "offer A B / offer B to A",
+      "meaning": "AにBを差し出す・提供する"
+    },
+    {
+      "form": "offer to do",
+      "meaning": "〜しようと申し出る"
+    },
+    {
+      "form": "accept an offer",
+      "meaning": "申し出を受ける"
+    },
+    {
+      "form": "turn down an offer",
+      "meaning": "申し出を断る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "提供する(offer A B)",
+      "en": "The company offered her a better job with a much higher salary than before.",
+      "ja": "その会社は彼女に、以前よりずっと給料の高い、より良い仕事を提示した。"
+    },
+    {
+      "source": "original",
+      "label": "申し出る(offer to do)",
+      "en": "A kind stranger offered to carry my heavy suitcase up the long stairs.",
+      "ja": "親切な見知らぬ人が、重いスーツケースを長い階段の上まで運ぼうと申し出てくれた。"
+    },
+    {
+      "source": "original",
+      "label": "offer B to A",
+      "en": "The hotel offers free breakfast to all guests who stay more than two nights.",
+      "ja": "そのホテルは、2泊より長く泊まるすべての客に無料の朝食を提供している。"
+    },
+    {
+      "source": "original",
+      "label": "申し出(名詞)",
+      "en": "He decided to turn down the offer because he did not want to move.",
+      "ja": "彼は引っ越したくなかったので、その申し出を断ることにした。"
+    },
+    {
+      "source": "original",
+      "label": "(機会を)与える",
+      "en": "Living abroad offers you a good chance to see your own country differently.",
+      "ja": "海外で暮らすことは、自分の国を違った目で見る良い機会を与えてくれる。"
+    }
+  ],
+  "check_points": [
+    "give と offer の違いを「受け取るかは相手しだい」から説明できるか",
+    "offer の後ろに動詞を続けるときの形は何か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "offer to do、offer A B と to を使った書き換えが語法問題に出る。名詞の accept / turn down an offer も頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 12
+    }
+  ]
+}

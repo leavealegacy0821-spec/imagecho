@@ -1,0 +1,99 @@
+{
+  "word": "conflict",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈkɑːnflɪkt/",
+  "core_image": {
+    "text": "ぶつかり合って、打ち合う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 94,66 110,62\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><polyline points=\"170,74 146,66 130,62\"/><line x1=\"170\" y1=\"74\" x2=\"180\" y2=\"96\"/><polyline points=\"114,48 120,58 126,48\"/><polyline points=\"114,76 120,66 126,76\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぶつかり合う</text></svg>"
+  },
+  "etymology": "con(互いに) + flict(打つ。inflict=負わせる と同じ) → 互いに打ち合う → 争い・対立 → 意見・利害・予定がぶつかる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a serious disagreement or fight between people, groups or countries."
+    },
+    {
+      "pos": "動詞",
+      "text": "to be very different from something so that both cannot be true or happen."
+    }
+  ],
+  "cautions": [
+    "名詞は前を強く、動詞は後ろを強く読む",
+    "conflict with A=Aと矛盾する・Aと重なる(予定)",
+    "come into conflict with A=Aと対立する",
+    "conflict of interest=利害の対立"
+  ],
+  "patterns": [
+    {
+      "form": "conflict between A and B",
+      "meaning": "AとBの対立"
+    },
+    {
+      "form": "conflict with A",
+      "meaning": "Aと矛盾する"
+    },
+    {
+      "form": "come into conflict with A",
+      "meaning": "Aと対立する"
+    },
+    {
+      "form": "armed conflict",
+      "meaning": "武力衝突"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "対立(名詞)",
+      "en": "There is a growing conflict between the two groups.",
+      "ja": "その2つの集団の間で、対立が深まっている。"
+    },
+    {
+      "source": "original",
+      "label": "紛争(名詞)",
+      "en": "Millions of people have lost their homes because of the conflict.",
+      "ja": "その紛争のために、何百万人もの人が家を失った。"
+    },
+    {
+      "source": "original",
+      "label": "矛盾する(動詞)",
+      "en": "His story conflicts with what the witness said.",
+      "ja": "彼の話は、目撃者の証言と食い違っている。"
+    },
+    {
+      "source": "original",
+      "label": "(予定が)重なる",
+      "en": "The meeting conflicts with my dentist appointment.",
+      "ja": "その会議は、歯医者の予約と重なっている。"
+    },
+    {
+      "source": "original",
+      "label": "come into conflict",
+      "en": "Her plans often came into conflict with her parents' wishes.",
+      "ja": "彼女の計画は、たびたび親の希望とぶつかった。"
+    },
+    {
+      "source": "original",
+      "label": "心の葛藤",
+      "en": "He felt a conflict between his duty and his feelings.",
+      "ja": "彼は義務と気持ちの間で葛藤した。"
+    }
+  ],
+  "check_points": [
+    "名詞と動詞のアクセントのちがいを言えるか",
+    "conflict with の2つの意味(矛盾・重なる)を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "conflict(対立・紛争)、conflict with が長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 258
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "involve",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈvɑːlv/",
+  "core_image": {
+    "text": "渦の中に巻き込む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M162 80 Q162 62 180 62 Q204 62 204 86 Q204 112 174 112 Q140 112 140 78 Q140 40 184 40\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><polyline points=\"66,74 90,70 108,66\"/><line x1=\"66\" y1=\"74\" x2=\"56\" y2=\"96\"/><line x1=\"112\" y1=\"66\" x2=\"134\" y2=\"70\"/><polyline points=\"127.8,65 134,70 126.4,72.5\"/></g><text x=\"66\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">巻き込まれる</text><text x=\"176\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">渦の中へ</text></svg>"
+  },
+  "etymology": "in(中に) + volve(転がす・巻く。revolve, evolve, volume と同じ) → 中へ巻き込む → 人を巻き込む・関わらせる(be involved in) → その中に必ず巻き込まれている=必ず伴う・含む(involve doing)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to include or affect someone or something, or to have something as a necessary part."
+    }
+  ],
+  "cautions": [
+    "be involved in A=Aに関わっている・巻き込まれている",
+    "involve doing=〜することを伴う・必要とする(to do は×)",
+    "get involved in A=Aに関わる",
+    "名詞は involvement"
+  ],
+  "patterns": [
+    {
+      "form": "be involved in A",
+      "meaning": "Aに関わっている"
+    },
+    {
+      "form": "get involved in A",
+      "meaning": "Aに関わる"
+    },
+    {
+      "form": "involve A in B",
+      "meaning": "AをBに巻き込む"
+    },
+    {
+      "form": "involve doing",
+      "meaning": "〜することを伴う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "巻き込む",
+      "en": "Three cars were involved in the accident on the highway this morning.",
+      "ja": "今朝の高速道路の事故には、3台の車が巻き込まれた。"
+    },
+    {
+      "source": "original",
+      "label": "関わる",
+      "en": "More parents should be involved in their children's education.",
+      "ja": "もっと多くの親が、子どもの教育に関わるべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "involve doing=伴う",
+      "en": "The job involves traveling abroad several times a year.",
+      "ja": "その仕事には、年に数回の海外出張が伴う。"
+    },
+    {
+      "source": "original",
+      "label": "含む",
+      "en": "Any operation involves some risk, however small it may be.",
+      "ja": "どんな手術にも、どれほど小さくても、いくらかの危険が伴う。"
+    },
+    {
+      "source": "original",
+      "label": "get involved",
+      "en": "I do not want to get involved in their argument.",
+      "ja": "彼らの口論には関わりたくない。"
+    },
+    {
+      "source": "original",
+      "label": "involvement(名詞)",
+      "en": "He denied any involvement in the crime.",
+      "ja": "彼はその犯罪への関与をいっさい否定した。"
+    }
+  ],
+  "check_points": [
+    "「巻き込む」と「伴う」を「渦の中に巻き込む」で説明できるか",
+    "involve の後ろに動詞を続けるときの形は何か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "be involved in、involve doing が語法・長文で必須。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 99
+    }
+  ]
+}

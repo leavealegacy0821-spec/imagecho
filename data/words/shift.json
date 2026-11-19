@@ -1,0 +1,99 @@
+{
+  "word": "shift",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ʃɪft/",
+  "core_image": {
+    "text": "位置や向きを、ずらして移す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"60\" y=\"96\" width=\"40\" height=\"44\" stroke-dasharray=\"4 4\"/><line x1=\"108\" y1=\"118\" x2=\"146\" y2=\"118\"/><polyline points=\"139,114.2 146,118 139,121.8\"/><rect x=\"154\" y=\"96\" width=\"40\" height=\"44\"/><circle cx=\"30\" cy=\"52\" r=\"10\"/><line x1=\"30\" y1=\"62\" x2=\"30\" y2=\"106\"/><line x1=\"30\" y1=\"106\" x2=\"20\" y2=\"140\"/><line x1=\"30\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"30\" y1=\"74\" x2=\"20\" y2=\"98\"/><line x1=\"30\" y1=\"74\" x2=\"42\" y2=\"98\"/></g><text x=\"126\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ずらす</text></svg>"
+  },
+  "etymology": "古英語 sciftan(分ける・配る・並べ替える) → 位置を移す・ずらす → 考えや重点が移る → 交代で働く時間帯(名詞: 勤務のシフト)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move or change from one position, direction or opinion to another."
+    },
+    {
+      "pos": "名詞",
+      "text": "a change in position, direction or opinion, or a period of work time in a factory or hospital."
+    }
+  ],
+  "cautions": [
+    "shift A from B to C=AをBからCへ移す",
+    "名詞: a shift in A=Aの変化(a shift in attitudes)、a paradigm shift=考え方の大転換",
+    "work the night shift=夜勤をする",
+    "change より「少しずらす・重点が移る」感じ"
+  ],
+  "patterns": [
+    {
+      "form": "shift A to B",
+      "meaning": "AをBへ移す"
+    },
+    {
+      "form": "a shift in A",
+      "meaning": "Aの変化"
+    },
+    {
+      "form": "the night shift",
+      "meaning": "夜勤"
+    },
+    {
+      "form": "shift the blame onto A",
+      "meaning": "Aに責任を転嫁する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "移す",
+      "en": "She shifted her bag from one hand to the other.",
+      "ja": "彼女はかばんを片方の手からもう片方の手に持ちかえた。"
+    },
+    {
+      "source": "original",
+      "label": "(重点が)移る",
+      "en": "The focus of the debate has shifted to the cost of the plan.",
+      "ja": "議論の焦点は、計画の費用に移った。"
+    },
+    {
+      "source": "original",
+      "label": "変化(名詞)",
+      "en": "There has been a major shift in public opinion on this issue.",
+      "ja": "この問題について、世論に大きな変化があった。"
+    },
+    {
+      "source": "original",
+      "label": "勤務(名詞)",
+      "en": "My mother works the night shift at a hospital twice a week.",
+      "ja": "母は週に2回、病院で夜勤をしている。"
+    },
+    {
+      "source": "original",
+      "label": "転嫁する",
+      "en": "He tried to shift the blame onto his younger brother.",
+      "ja": "彼は、責任を弟になすりつけようとした。"
+    },
+    {
+      "source": "original",
+      "label": "移る",
+      "en": "The country is shifting from coal to renewable energy.",
+      "ja": "その国は、石炭から再生可能エネルギーへ移行しつつある。"
+    }
+  ],
+  "check_points": [
+    "a shift in public opinion を自然な日本語に訳せるか",
+    "change と shift の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "a shift in A、shift from A to B が長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 214
+    }
+  ]
+}

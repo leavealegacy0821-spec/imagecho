@@ -1,0 +1,103 @@
+{
+  "word": "rest",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/rest/",
+  "core_image": {
+    "text": "動きを止めて、そこにとどまる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"36\" y1=\"112\" x2=\"140\" y2=\"112\"/><line x1=\"46\" y1=\"112\" x2=\"46\" y2=\"140\"/><line x1=\"130\" y1=\"112\" x2=\"130\" y2=\"140\"/><circle cx=\"54\" cy=\"100\" r=\"9\"/><line x1=\"63\" y1=\"102\" x2=\"108\" y2=\"104\"/><polyline points=\"108,104 122,92 134,106\"/><rect x=\"176\" y=\"112\" width=\"20\" height=\"28\"/><rect x=\"198\" y=\"112\" width=\"20\" height=\"28\"/></g><text x=\"88\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">動きを止める</text><text x=\"197\" y=\"102\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">残り</text></svg>"
+  },
+  "etymology": "「休む」は古英語 ræst(休息・寝床)。「残り」はラテン語 restare(re=後ろに + stare=立つ → 後にとどまる)。別の語源だが、どちらも「動かずにそこにとどまる」: 休息／後にとどまったもの=残り／〜に支えられてとどまる(rest on)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a period of time when you relax or sleep, or the part of something that remains."
+    },
+    {
+      "pos": "動詞",
+      "text": "to relax and not do anything active, or to depend on something."
+    }
+  ],
+  "cautions": [
+    "the rest of A=Aの残り。動詞の単数・複数は A に合わせる(The rest of the students are… / The rest of the money is…)",
+    "take a rest=休む",
+    "rest on A=Aに基づく・Aに頼る、rest with A=A(人)しだいである",
+    "restless=落ち着かない"
+  ],
+  "patterns": [
+    {
+      "form": "take a rest",
+      "meaning": "休む"
+    },
+    {
+      "form": "the rest of A",
+      "meaning": "Aの残り"
+    },
+    {
+      "form": "rest on A",
+      "meaning": "Aに基づく"
+    },
+    {
+      "form": "rest with A",
+      "meaning": "Aしだいである"
+    },
+    {
+      "form": "rest assured that S V",
+      "meaning": "〜と安心する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "休息",
+      "en": "You look tired, so you should take a rest for a while.",
+      "ja": "疲れているようだから、しばらく休んだほうがいい。"
+    },
+    {
+      "source": "original",
+      "label": "休む(動詞)",
+      "en": "The doctor told him to rest at home for at least a week.",
+      "ja": "医者は彼に、少なくとも1週間は家で休むように言った。"
+    },
+    {
+      "source": "original",
+      "label": "残り",
+      "en": "I spent the rest of the day reading a novel in my room.",
+      "ja": "その日の残りは、部屋で小説を読んで過ごした。"
+    },
+    {
+      "source": "original",
+      "label": "残りの人々",
+      "en": "Two of the students went home, and the rest stayed in the library.",
+      "ja": "生徒のうち2人は帰宅し、残りは図書館に残った。"
+    },
+    {
+      "source": "original",
+      "label": "rest on=基づく",
+      "en": "His whole argument rests on a single piece of evidence.",
+      "ja": "彼の主張全体は、たった1つの証拠に基づいている。"
+    },
+    {
+      "source": "original",
+      "label": "rest with=しだいだ",
+      "en": "The final decision rests with the president of the company.",
+      "ja": "最終的な決定は、その会社の社長しだいだ。"
+    }
+  ],
+  "check_points": [
+    "「休息」と「残り」を「動かずにとどまる」で説明できるか",
+    "the rest of the students の後ろの be 動詞は is か are か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "the rest of A の単数・複数、rest on / with が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 76
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "participate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/pɑːrˈtɪsɪpeɪt/",
+  "core_image": {
+    "text": "全体の一部を、自分も受け持つ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"110\" cy=\"52\" r=\"10\"/><line x1=\"110\" y1=\"62\" x2=\"110\" y2=\"106\"/><line x1=\"110\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"110\" y1=\"106\" x2=\"120\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"110\" y1=\"78\" x2=\"150\" y2=\"78\"/><line x1=\"150\" y1=\"78\" x2=\"190\" y2=\"78\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"46\" y1=\"76\" x2=\"70\" y2=\"78\"/><line x1=\"74\" y1=\"78\" x2=\"100\" y2=\"78\" stroke-dasharray=\"5 5\"/><polyline points=\"93,74.2 100,78 93,81.8\"/></g><text x=\"150\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">みんなの活動</text><text x=\"46\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">一部を担う</text></svg>"
+  },
+  "etymology": "part(部分) + cip(取る。capture, receive と同じ) → 部分を取る → 全体の一部を自分も受け持つ=参加する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to take part in an activity or event together with other people."
+    }
+  ],
+  "cautions": [
+    "participate in A=Aに参加する。in が必要(=take part in A)",
+    "attend(出席する)と join(加わる)は他動詞で、前置詞を付けない",
+    "participant=参加者、participation=参加"
+  ],
+  "patterns": [
+    {
+      "form": "participate in A",
+      "meaning": "Aに参加する"
+    },
+    {
+      "form": "take part in A",
+      "meaning": "Aに参加する"
+    },
+    {
+      "form": "participant",
+      "meaning": "参加者"
+    },
+    {
+      "form": "participation",
+      "meaning": "参加"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "参加する",
+      "en": "More than five hundred runners participated in the city marathon.",
+      "ja": "500人を超える走者が、その市民マラソンに参加した。"
+    },
+    {
+      "source": "original",
+      "label": "(議論に)加わる",
+      "en": "The teacher encourages every student to participate in class discussions.",
+      "ja": "先生は、生徒全員に授業での話し合いに加わるよう勧めている。"
+    },
+    {
+      "source": "original",
+      "label": "(活動に)参加する",
+      "en": "I participated in a volunteer program to clean the beach last summer.",
+      "ja": "去年の夏、浜辺を掃除するボランティア活動に参加した。"
+    },
+    {
+      "source": "original",
+      "label": "言い換え",
+      "en": "She took part in the contest; in other words, she participated in it.",
+      "ja": "彼女はそのコンテストに出た。言いかえれば、それに参加した。"
+    },
+    {
+      "source": "original",
+      "label": "participant(名詞)",
+      "en": "All the participants received a small gift at the end of the event.",
+      "ja": "参加者全員が、催しの最後にささやかな贈り物を受け取った。"
+    },
+    {
+      "source": "original",
+      "label": "participation(名詞)",
+      "en": "Thank you for your participation in our survey.",
+      "ja": "私たちの調査にご参加いただき、ありがとうございます。"
+    }
+  ],
+  "check_points": [
+    "participate の後ろに付ける前置詞は何か",
+    "participate in・attend・join の後ろの形の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "participate in(in が必要)、take part in との言い換えが定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 161
+    }
+  ]
+}

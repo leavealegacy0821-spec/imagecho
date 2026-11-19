@@ -1,0 +1,99 @@
+{
+  "word": "approach",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/əˈproʊtʃ/",
+  "core_image": {
+    "text": "じりじり近づく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"56\" y1=\"74\" x2=\"44\" y2=\"96\"/><line x1=\"56\" y1=\"74\" x2=\"70\" y2=\"94\"/><line x1=\"84\" y1=\"86\" x2=\"142\" y2=\"86\"/><polyline points=\"135,82.2 142,86 135,89.8\"/><rect x=\"160\" y=\"50\" width=\"50\" height=\"90\"/><path d=\"M176 82 Q176 70 186 70 Q196 70 196 80 Q196 88 186 94 L186 102\"/><circle cx=\"186\" cy=\"112\" r=\"2\"/></g><text x=\"112\" y=\"72\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">近づく</text><text x=\"185\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">問題</text></svg>"
+  },
+  "etymology": "ap(ad=〜へ) + proach(近く。ラテン語 prope) → 〜に近づく → 人・場所・時期に近づく → 問題に近づいていく道筋=取り組み方・方法(名詞)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move closer to someone or something, or to deal with a situation or problem in a particular way."
+    },
+    {
+      "pos": "名詞",
+      "text": "a way of dealing with something or thinking about something."
+    }
+  ],
+  "cautions": [
+    "動詞は他動詞。approach the station と言い、approach to the station は×",
+    "名詞「取り組み方」は an approach to A と to が付く",
+    "approach A about B=BのことでAに話を持ちかける",
+    "時・季節が近づく(自動詞)の用法もある"
+  ],
+  "patterns": [
+    {
+      "form": "approach A",
+      "meaning": "Aに近づく・Aに取り組む"
+    },
+    {
+      "form": "an approach to A",
+      "meaning": "Aへの取り組み方"
+    },
+    {
+      "form": "a new approach",
+      "meaning": "新しい方法"
+    },
+    {
+      "form": "approach A about B",
+      "meaning": "BのことでAに話を持ちかける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "近づく(他動詞)",
+      "en": "The train slowed down as it approached the station.",
+      "ja": "列車は駅に近づくにつれて速度を落とした。"
+    },
+    {
+      "source": "original",
+      "label": "(時が)近づく",
+      "en": "The rainy season is approaching, so you should buy a new umbrella.",
+      "ja": "梅雨が近づいているので、新しい傘を買ったほうがいい。"
+    },
+    {
+      "source": "original",
+      "label": "話を持ちかける",
+      "en": "I approached my teacher about changing my course.",
+      "ja": "私は進路を変えることについて、先生に相談を持ちかけた。"
+    },
+    {
+      "source": "original",
+      "label": "取り組む",
+      "en": "There are several ways to approach this difficult problem.",
+      "ja": "この難しい問題に取り組む方法は、いくつかある。"
+    },
+    {
+      "source": "original",
+      "label": "方法(名詞)",
+      "en": "We need a new approach to teaching science to young children.",
+      "ja": "幼い子どもに理科を教えるための、新しい方法が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "接近(名詞)",
+      "en": "The birds flew away at the approach of the hunter.",
+      "ja": "猟師が近づくと、鳥たちは飛び去った。"
+    }
+  ],
+  "check_points": [
+    "動詞 approach には to が付かず、名詞 an approach to A には to が付くことを例文で言えるか",
+    "「近づく」と「方法」を結びつけて説明できるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "他動詞 approach(to は不要)、an approach to A が文法・長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 126
+    }
+  ]
+}

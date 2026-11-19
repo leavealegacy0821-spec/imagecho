@@ -1,0 +1,94 @@
+{
+  "word": "perceive",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/pərˈsiːv/",
+  "core_image": {
+    "text": "感覚ですっかりつかみ取る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"56\" y1=\"74\" x2=\"44\" y2=\"98\"/><line x1=\"56\" y1=\"74\" x2=\"68\" y2=\"98\"/><line x1=\"72\" y1=\"48\" x2=\"160\" y2=\"62\" stroke-dasharray=\"5 5\"/><polyline points=\"153.7,57.1 160,62 152.5,64.7\"/><circle cx=\"184\" cy=\"68\" r=\"16\"/><path d=\"M198 42 Q208 48 206 60\"/><path d=\"M206 34 Q220 44 216 62\"/></g><text x=\"114\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">感覚でとらえる</text></svg>"
+  },
+  "etymology": "per(完全に) + ceive(取る。receive, conceive, deceive と同じ) → すっかりつかみ取る → 目・耳・心で気づく・知覚する → ある見方でとらえる(perceive A as B)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to notice or become aware of something, or to understand or think of something in a particular way."
+    }
+  ],
+  "cautions": [
+    "perceive A as B=AをBだととらえる・みなす",
+    "perceive that S V=〜だと気づく",
+    "名詞 perception=知覚・認識・ものの見方",
+    "perceptive=洞察力のある"
+  ],
+  "patterns": [
+    {
+      "form": "perceive A",
+      "meaning": "Aに気づく・Aを知覚する"
+    },
+    {
+      "form": "perceive A as B",
+      "meaning": "AをBだととらえる"
+    },
+    {
+      "form": "perceive that S V",
+      "meaning": "〜だと気づく"
+    },
+    {
+      "form": "perception",
+      "meaning": "知覚・ものの見方"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "気づく",
+      "en": "I perceived a slight change in her attitude toward me.",
+      "ja": "彼女の私への態度が、わずかに変わったことに気づいた。"
+    },
+    {
+      "source": "original",
+      "label": "perceive A as B",
+      "en": "Many people perceive change as a threat rather than a chance.",
+      "ja": "多くの人は、変化を好機ではなく脅威ととらえる。"
+    },
+    {
+      "source": "original",
+      "label": "知覚する",
+      "en": "Dogs can perceive sounds that humans cannot hear.",
+      "ja": "犬は、人間には聞こえない音を感じ取ることができる。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "The plan was perceived as unfair by most of the workers.",
+      "ja": "その計画は、ほとんどの労働者に不公平だと受け取られた。"
+    },
+    {
+      "source": "original",
+      "label": "perception(ものの見方)",
+      "en": "Travel can change your perception of your own country.",
+      "ja": "旅は、自分の国に対する見方を変えることがある。"
+    },
+    {
+      "source": "original",
+      "label": "とらえる",
+      "en": "How we perceive time depends on what we are doing.",
+      "ja": "私たちが時間をどう感じるかは、何をしているかによる。"
+    }
+  ],
+  "check_points": [
+    "perceive A as B はどういう意味か",
+    "ceive(取る)を持つ語を3つ言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "perceive A as B、perception が、心理・認知を扱う長文で必須。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 162
+    }
+  ]
+}

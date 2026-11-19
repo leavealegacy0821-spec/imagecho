@@ -1,0 +1,94 @@
+{
+  "word": "replace",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈpleɪs/",
+  "core_image": {
+    "text": "同じ場所に、別のものを置き直す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><polyline points=\"46,74 72,66 92,56\"/><line x1=\"46\" y1=\"74\" x2=\"36\" y2=\"96\"/><rect x=\"94\" y=\"36\" width=\"26\" height=\"26\" stroke-dasharray=\"4 4\"/><rect x=\"130\" y=\"114\" width=\"26\" height=\"26\"/><rect x=\"160\" y=\"114\" width=\"26\" height=\"26\" stroke-dasharray=\"4 4\"/><rect x=\"190\" y=\"114\" width=\"26\" height=\"26\"/><rect x=\"160\" y=\"60\" width=\"26\" height=\"26\"/><line x1=\"173\" y1=\"90\" x2=\"173\" y2=\"108\"/><polyline points=\"176.8,101 173,108 169.2,101\"/></g><text x=\"107\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">古いもの</text><text x=\"196\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">新しいもの</text></svg>"
+  },
+  "etymology": "re(再び・元へ) + place(置く) → 元の場所に置く → 同じ場所に別のものを置く=取り替える・取って代わる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to take the place of something or someone, or to put something new in the place of something old or broken."
+    }
+  ],
+  "cautions": [
+    "replace A with / by B=AをBと取り替える(A が古い方、B が新しい方)",
+    "A replace B=AがBに取って代わる(A が新しい方)。向きに注意",
+    "substitute A for B は A が新しい方で、replace と向きが逆",
+    "「元の場所に戻す」の意味もある。名詞は replacement"
+  ],
+  "patterns": [
+    {
+      "form": "replace A",
+      "meaning": "Aに取って代わる・Aを取り替える"
+    },
+    {
+      "form": "replace A with B",
+      "meaning": "AをBと取り替える"
+    },
+    {
+      "form": "be replaced by A",
+      "meaning": "Aに取って代わられる"
+    },
+    {
+      "form": "replacement",
+      "meaning": "代わりの人・物"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "取って代わる",
+      "en": "Email has largely replaced letters as a way of keeping in touch.",
+      "ja": "連絡を取り合う手段として、メールは手紙にほぼ取って代わった。"
+    },
+    {
+      "source": "original",
+      "label": "replace A with B",
+      "en": "We replaced the old carpet with a wooden floor.",
+      "ja": "私たちは古いじゅうたんを木の床に替えた。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "Many workers in factories have been replaced by machines.",
+      "ja": "工場の多くの労働者が、機械に取って代わられた。"
+    },
+    {
+      "source": "original",
+      "label": "取り替える",
+      "en": "You should replace the battery in the smoke alarm once a year.",
+      "ja": "火災報知器の電池は、年に1回取り替えたほうがいい。"
+    },
+    {
+      "source": "original",
+      "label": "元に戻す",
+      "en": "Please replace the books on the shelf when you have finished.",
+      "ja": "読み終えたら、本を棚に戻してください。"
+    },
+    {
+      "source": "original",
+      "label": "replacement(名詞)",
+      "en": "The company is looking for a replacement for the manager who left.",
+      "ja": "その会社は、辞めた部長の後任を探している。"
+    }
+  ],
+  "check_points": [
+    "replace A with B で、新しいのは A と B のどちらか",
+    "A replace B では、新しいのはどちらか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "replace A with B、be replaced by の向きが語法・長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 109
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "prefer",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/prɪˈfɜːr/",
+  "core_image": {
+    "text": "前の方へ運んで置く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"100\" cy=\"52\" r=\"10\"/><line x1=\"100\" y1=\"62\" x2=\"100\" y2=\"106\"/><line x1=\"100\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"100\" y1=\"106\" x2=\"110\" y2=\"140\"/><polyline points=\"100,74 80,84 66,96\"/><polyline points=\"100,74 126,70 150,62\"/><rect x=\"46\" y=\"96\" width=\"22\" height=\"22\" stroke-dasharray=\"4 4\"/><rect x=\"150\" y=\"50\" width=\"22\" height=\"22\"/><line x1=\"180\" y1=\"60\" x2=\"214\" y2=\"60\"/><polyline points=\"207,56.2 214,60 207,63.8\"/></g><text x=\"176\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">前へ出す</text><text x=\"42\" y=\"86\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もう一方</text></svg>"
+  },
+  "etymology": "pre(前に) + fer(運ぶ。offer, transfer, refer と同じ) → 前に運んで置く → ほかのものより前に置く=より好む",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to like one thing or person better than another."
+    }
+  ],
+  "cautions": [
+    "prefer A to B=BよりAを好む。than ではなく to を使う",
+    "prefer doing to doing / prefer to do rather than (to) do",
+    "would prefer to do=できれば〜したい",
+    "後ろを強く読む。名詞 preference(好み)、preferable to A(Aより望ましい: ここも to)。進行形にしない"
+  ],
+  "patterns": [
+    {
+      "form": "prefer A to B",
+      "meaning": "BよりAを好む"
+    },
+    {
+      "form": "prefer to do",
+      "meaning": "〜するほうを好む"
+    },
+    {
+      "form": "prefer doing to doing",
+      "meaning": "〜するより〜するほうを好む"
+    },
+    {
+      "form": "would prefer to do",
+      "meaning": "できれば〜したい"
+    },
+    {
+      "form": "preferable to A",
+      "meaning": "Aより望ましい"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "prefer A to B",
+      "en": "I prefer tea to coffee, especially in the morning.",
+      "ja": "とくに朝は、コーヒーより紅茶のほうが好きだ。"
+    },
+    {
+      "source": "original",
+      "label": "prefer doing to doing",
+      "en": "She prefers walking to taking a crowded bus.",
+      "ja": "彼女は、混んだバスに乗るより歩くほうを好む。"
+    },
+    {
+      "source": "original",
+      "label": "prefer to do",
+      "en": "He prefers to work alone rather than in a group.",
+      "ja": "彼は、集団でより1人で働くほうを好む。"
+    },
+    {
+      "source": "original",
+      "label": "would prefer",
+      "en": "I would prefer to stay at home tonight if you do not mind.",
+      "ja": "もしよければ、今夜は家にいたいのですが。"
+    },
+    {
+      "source": "original",
+      "label": "preference(名詞)",
+      "en": "Do you have any preference as to where we eat?",
+      "ja": "どこで食べるか、何か希望はありますか。"
+    },
+    {
+      "source": "original",
+      "label": "preferable(形容詞)",
+      "en": "A small quiet room is preferable to a large noisy one.",
+      "ja": "広くてうるさい部屋より、狭くても静かな部屋のほうが望ましい。"
+    }
+  ],
+  "check_points": [
+    "prefer A to B で than を使わない理由を「前に置く」から説明できるか",
+    "prefer のアクセントの位置を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "prefer A to B(to を使う)、preferable to が文法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 166
+    }
+  ]
+}

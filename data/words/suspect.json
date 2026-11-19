@@ -1,0 +1,99 @@
+{
+  "word": "suspect",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/səˈspekt/",
+  "core_image": {
+    "text": "下からのぞくように、怪しんで見る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"66\" cy=\"88\" r=\"10\"/><line x1=\"66\" y1=\"98\" x2=\"76\" y2=\"118\"/><line x1=\"76\" y1=\"118\" x2=\"64\" y2=\"140\"/><line x1=\"76\" y1=\"118\" x2=\"90\" y2=\"140\"/><line x1=\"82\" y1=\"80\" x2=\"152\" y2=\"58\" stroke-dasharray=\"5 5\"/><polyline points=\"144.2,56.4 152,58 146.5,63.8\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"168\" y2=\"98\"/><line x1=\"180\" y1=\"74\" x2=\"192\" y2=\"98\"/></g><text x=\"62\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">怪しいぞ</text><text x=\"190\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あの人</text></svg>"
+  },
+  "etymology": "sus(sub=下から) + spect(見る。respect, expect, inspect と同じ) → 下から見上げるように怪しんで見る → 「どうもそうらしい」と思う。名詞は「怪しまれている人」=容疑者",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to think that something is probably true, especially something bad, or to think that someone is probably guilty."
+    },
+    {
+      "pos": "名詞",
+      "text": "a person who the police think may have committed a crime."
+    }
+  ],
+  "cautions": [
+    "suspect that S V=「〜ではないかと思う」(そうだと思う)。doubt that S V は「〜ではないと思う」で、向きが逆",
+    "suspect A of B=AにBの疑いをかける",
+    "名詞は前を強く /ˈsʌspekt/ 読み、「容疑者」",
+    "suspicion=疑い、suspicious (of A)=(Aを)怪しんでいる"
+  ],
+  "patterns": [
+    {
+      "form": "suspect that S V",
+      "meaning": "〜ではないかと思う"
+    },
+    {
+      "form": "suspect A of B",
+      "meaning": "AにBの疑いをかける"
+    },
+    {
+      "form": "a suspect",
+      "meaning": "容疑者"
+    },
+    {
+      "form": "suspicious",
+      "meaning": "疑わしい・怪しんでいる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "〜ではないかと思う",
+      "en": "I suspect that he is not telling us the whole truth.",
+      "ja": "彼は、私たちにすべてを話してはいないのではないかと思う。"
+    },
+    {
+      "source": "original",
+      "label": "suspect A of B",
+      "en": "The police suspect him of stealing the painting.",
+      "ja": "警察は、彼がその絵を盗んだのではないかと疑っている。"
+    },
+    {
+      "source": "original",
+      "label": "怪しむ",
+      "en": "Nobody suspected anything until the money disappeared.",
+      "ja": "お金が消えるまで、だれも何も怪しまなかった。"
+    },
+    {
+      "source": "original",
+      "label": "doubt との違い",
+      "en": "I suspect he will come, but I doubt he will be on time.",
+      "ja": "彼は来ると思うが、時間どおりには来ないと思う。"
+    },
+    {
+      "source": "original",
+      "label": "容疑者(名詞)",
+      "en": "The police arrested two suspects near the station.",
+      "ja": "警察は、駅の近くで2人の容疑者を逮捕した。"
+    },
+    {
+      "source": "original",
+      "label": "suspicious(形容詞)",
+      "en": "The neighbors became suspicious of the stranger.",
+      "ja": "近所の人たちは、その見知らぬ人を怪しむようになった。"
+    }
+  ],
+  "check_points": [
+    "suspect that と doubt that の意味の違いを言えるか",
+    "名詞 suspect の意味とアクセントの位置を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "suspect / doubt の区別、suspect A of B が文法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 193
+    }
+  ]
+}

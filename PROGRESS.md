@@ -1,0 +1,100 @@
+# 進み具合(PROGRESS)
+
+仕様は `SPEC.md`。このファイルは「どこまで終わったか・次に何をするか」の記録。
+
+## 今の段階
+
+**第1段階：10単語のお試しデータで骨組みを完成させる**(→ 本人の確認待ちで止まる)
+
+お試しの10単語：observe, maintain, consider, suggest, issue, attend, figure, matter, run, account
+
+## タスク一覧
+
+| # | タスク | 担当が触る場所 | 状態 |
+|---|--------|----------------|------|
+| A | 品質チェックと索引づくりのスクリプト | `scripts/` | 完了(見本データで合格/不合格の判定を確認済み。実データでの確認は D で) |
+| B | アプリ本体(画面・検索・発音・マーク・前後移動・PWA) | 直下の `index.html` `css/` `js/` `sw.js` `manifest.webmanifest` `icons/` | 作業中 |
+| C | お試し10単語の解説データ | `data/words/` `data/lists/trial.json` | 完了(10語とも validate.js 合格・索引作成済み。語源と発音記号は辞書と未照合) |
+| D | 3つを合わせた動作確認(指揮役) | — | 未着手 |
+| E | 本人の確認 | — | 未着手 |
+| F | 単語帳の写真の読み取り → 確認用一覧 | `input/` `data/lists/` | 写真待ち |
+| G | 全単語の解説生成(50語ずつ・並列)＋品質チェック | `data/words/` | E と F の後 |
+| H | 公開(GitHub ＋ 静的サイト公開サービス) | — | 本人と相談してから |
+
+## 決めたこと(ファイルの約束)
+
+- `data/lists/<id>.json`：単語集。`{ "id", "name", "words": [ { "number", "word", "examples": [ { "en", "ja" } ] } ] }`
+  - `examples` は単語帳に載っている例文(原文のまま)。お試しデータでは空
+- `data/words/<単語(小文字)>.json`：解説。形式は SPEC.md 3-4 のとおり
+  - 例文の `source` は単語集の `name`(例：`LEAP`)か `original`(自作)
+- `data/index.json`：`scripts/build-index.js` が自動で作る索引(手で書かない)
+  - `{ "version", "lists": [ { "id", "name", "count" } ], "words": [ { "word", "core", "ja", "lists": [ { "id", "name", "number" } ] } ] }`
+  - `ja` は日本語検索用の文字列、`version` はデータが変わったことをアプリに知らせる印
+- データを変えたら毎回：`node scripts/validate.js` → `node scripts/build-index.js`
+
+## 途中で止まったときの再開メモ(2026-11-15)
+
+- 利用量の上限が近い(5時間枠の90%)。止まったらここから再開する
+- A・C は完了。B(アプリ本体)は作業中だった。直下に `index.html` `js/` `css/` `sw.js` があるかを見て、無ければ・途中ならBをやり直す(指示内容は「タスク一覧」のBの行と SPEC.md)
+- 本人が10単語の中身を自分で確認中:`leavealegacy/品質チェック-10単語.html`(仮の確認用ページ。アプリの一部ではない)
+- 本人のOKが出るまで全単語の生成(G)は始めない
+
+## 現在の状態(2026-11-15 更新)
+
+- A・B・C 完了。D(合わせた動作確認)も完了:PCのChromeをスマホ幅で自動操作し、一覧・詳細9項目・前後移動・マーク保存・検索(日本語/英語)・オフライン表示がエラー0件で動いた
+- 未確認:iPhone実機(読み上げの音・ホーム画面追加)
+- **本人から「見た目がイメージと違う」との指摘あり。どう違うかを聞いている途中。答えをもらってから見た目を作り直す**(`css/style.css` が中心。直したら `sw.js` の `APP_VERSION` を上げる)
+- 確認用サーバー:`node <scratchpad>/serve.js imagecho 8765` → http://localhost:8765/
+
+## 次にすること(古い記述)
+
+1. A・B・C の完成を待ち、それぞれ確認する
+2. D：合わせて動かし、検索・発音・マーク・前後移動・オフラインを確かめる
+3. 本人に見てもらう(ここで止まる)
+
+## 2026-11-15 デザイン決定
+
+- 本人が「墨と金」(`css/themes/b.css`)を選んだ。`index.html` で固定読み込みにし、`sw.js` を v3 にして部品一覧に追加済み。仮の切替スクリプトは削除済み
+- 残してある仮のもの(公開前に消す):`css/themes/a,c,d,e.css`、`design/`、B以外の `fonts/`、`sw.js` 内の「仮」と書いた分岐
+- 未決(本人の返事待ち):語源の「→」を階段状に表示/例文中の見出し語に色を付ける
+- 既知の不具合:ホームで単語集が1冊のとき「null」と表示される(`js/app.js` の renderHome)
+- 発音は保留(声の選び方は直したが音は未確認。iPhone で聞いてから決める)
+- **進め方の変更**:トークン消費が大きいので、サブエージェントの並列はやめる。小さな直しは指揮役が直接やる。返事は短く
+
+## 2026-11-15 追加の直し(指揮役が直接)
+
+- 線画に短い言葉を入れる(本人の要望)。10語は `scripts/add-labels.js` で追加済み。**全単語の生成時は、SVG に `<text font-size="11" text-anchor="middle" fill="black" stroke="none">` の短い日本語ラベルを1〜2個入れるよう指示する**(絵の線と重ねない)
+- 例文中の見出し語を金色で強調(`js/app.js` の markWord。不規則変化は IRREGULAR 表に足す。全単語の生成時に表を広げる必要あり)
+- ホームの「null」表示を修正。`sw.js` は v4
+- 本人の判断:語源の階段表示=保留(説明待ち)、項目をエリアに分ける案=やらない
+
+## 再開するときはここから(2026-11-15 時点)
+
+- 本人が試作品(墨と金・10単語)に「今の感じで進める」とOK。語源の階段表示は入れていない
+- **次:本人が単語帳の写真を `input/` に入れる(11/16 の予定)** → 読み取り → 確認用の一覧を本人に見せる → OK後に全単語の生成
+- 全単語の生成を始める前に、1回に何語ずつ進めるか(5時間枠に収まる量)を本人と決める
+- 確認用サーバーはチャットを閉じると止まる。立て直し方は上の「現在の状態」を参照(serve.js が消えていたら簡単な静的サーバーを作り直す)
+
+## 2026-11-16 方針変更:単語は指揮役が選ぶ・エージェントなしで直接作る
+
+- 本人の指示:単語帳(LEAPの索引写真を受け取った)には頼らず、**指揮役が自分で単語を選んでよい**。サブエージェントは使わず、指揮役が直接ひたすら作る。Fable が使えるのは 11/17 16時ごろまでとのこと
+- 単語集は `data/lists/core.json`(名前「重要語」)の1冊。お試し10語もここに入れた。単語帳の例文は無いので例文はすべて自作
+- **作り方**:`gen/NNN.js` に短い書き方で10語ずつ書く → `node scripts/make-words.js gen/NNN.js`(単語集への追加も自動)→ `node scripts/validate.js` → `node scripts/build-index.js`。書き方は `scripts/make-words.js` の冒頭と `gen/002.js` を見本に
+- 線画は部品 `{ground}` `{man x y}` `{arrow}` `{darrow}` と `lab`(短い言葉)で描く。10語ごとに並べた写真で目で確認(scratchpad の task-b/grid.js。無ければ作り直す)
+- 不規則変化の動詞を入れたら `js/app.js` の IRREGULAR 表に足し、`sw.js` の APP_VERSION を上げる
+- 選ぶ基準:意味がいくつもあって、核となるイメージで一気に理解できる入試重要語を優先
+- **できた語(30)**:お試し10(observe maintain consider suggest issue attend figure matter run account)/001(oppose offer impress inform material natural invent manage improve medicine)/002(apply charge address order subject bear due term deal present)／003(concern content cover direct face fine follow hold last lead)／004(mean meet miss raise reason respect serve stand work yield)／005(sound count break case cause close command company condition credit)／006(party degree even fail firm free ground interest leave object)／007(mind note pay practice rate rest right sense sentence settle)／008(state still succeed save short long line move want way)／009(appreciate afford assume attribute commit contribute feature identify involve reflect)／010(provide prevent regard remind require expect depend compare replace recognize)／011(affect available determine establish encourage exchange extend express tend treat)／012(admit adopt adapt acquire achieve approach argue arrange associate avoid)／013(conduct consist contain convince deliver demand deny deserve develop devote)／014(engage ensure estimate expose focus force gain generate grant handle)／015(imply indicate insist intend introduce judge lack limit obtain occur)／016(participate perceive perform permit persuade prefer pretend produce promote propose)／017(reach realize receive reduce refer refuse relate release rely remain)／018(represent resist respond reveal satisfy seek share suffer supply support)／019(suppose survive suspect sustain threaten transfer transform urge vary warn)／020(aware capable certain common familiar likely particular similar worth willing)／021(allow differ earn shift nature purpose decline recover consume conclude)／022(emerge enable eliminate enhance evaluate exist explore distinguish display distribute)／023(increase decrease adjust confirm define inspire combine compete complain concentrate)／024(interpret investigate measure neglect operate organize overcome owe pursue publish)／025(accuse attach attempt belong bother claim collapse conflict consult cope)=計260語
+- **次に作る候補**:concern, content, cover, direct, face, fine, follow, hold, last, lead, mean, meet, miss, party, raise, reason, respect, serve, stand, work, yield, sound, count, bill, board, break, case, cause, close, command, company, condition, credit, degree, even, fail, firm, free, game, ground, help, interest, kind, leave, letter, line, long, lot, mind, minute, move, nature, note, object, pay, practice, race, rate, rest, right, room, save, sense, sentence, settle, short, state, still, story, succeed, want, way, well, will
+
+## 2026-11-16 夜:自動で作り続ける設定
+
+- このチャットに、約15分おきに「次の10語を作る」指示が自動で入る予約を入れた(ジョブ b3470c2b)。チャットを閉じると消える。11/17 16:00 を過ぎたら自分で止める
+- 線画の中の文字は本人の感想(主張が強い)を受けて小さく灰色にした(`css/themes/b.css` 末尾)
+
+## 2026-11-17 夜:めくる形式と検索
+
+- 本人の使い方:(1) 単語を検索する (2) すき間時間に1語ずつインプットする。一覧をタップして戻る操作はめんどう、脈絡なく出るのもつらい、とのこと
+- 単語一覧の上にも検索欄を常に表示(`css/themes/b.css` の #masthead sticky)
+- **めくって覚える**:ホームから開始。1語ずつ指で左右に払ってめくる(PC は ← →)。並びは `data/groups.json` のまとまり(語根・語法・多義語など30)順。同じ語が別のまとまりに再登場することがある。build-index.js が index.json の groups に入れる。まとまりに無い語は「そのほか」に自動で入る
+- 最後にめくった位置は localStorage `imagecho:flowPos`。ホームに「続きから」
+- 単語の自動作成は予約ジョブで続行中(新しい語は groups.json にも足す)

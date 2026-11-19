@@ -1,0 +1,99 @@
+{
+  "word": "release",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/rɪˈliːs/",
+  "core_image": {
+    "text": "つかんでいた手をゆるめて放す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><polyline points=\"80,74 98,56 110,40\"/><polyline points=\"80,74 104,66 120,54\"/><path d=\"M150 30 Q160 20 170 30 Q180 20 190 30\"/><line x1=\"124\" y1=\"42\" x2=\"146\" y2=\"32\" stroke-dasharray=\"5 5\"/><polyline points=\"138,31.4 146,32 141.2,38.4\"/></g><text x=\"172\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">放す</text><text x=\"48\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手をゆるめる</text></svg>"
+  },
+  "etymology": "re(元へ) + lease(ゆるめる。relax と同じ) → ゆるめて放す → 人を解放する → 情報や作品を世に放つ=公開・発売・発表する → ガスや熱を放出する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to let someone or something go free, or to make a film, record or information available to the public."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of setting someone free, or a new product such as a film or record."
+    }
+  ],
+  "cautions": [
+    "release A from B=AをBから解放する",
+    "release a film / an album / a report=公開する・発売する・発表する",
+    "release gas / energy / heat=放出する",
+    "relax(ゆるめる)と同じ語源"
+  ],
+  "patterns": [
+    {
+      "form": "release A from B",
+      "meaning": "AをBから解放する"
+    },
+    {
+      "form": "release a film",
+      "meaning": "映画を公開する"
+    },
+    {
+      "form": "release information",
+      "meaning": "情報を公表する"
+    },
+    {
+      "form": "a press release",
+      "meaning": "報道発表"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "釈放する",
+      "en": "The prisoner was released after ten years in jail.",
+      "ja": "その囚人は、10年の服役の後に釈放された。"
+    },
+    {
+      "source": "original",
+      "label": "放す",
+      "en": "She opened her hands and released the bird into the sky.",
+      "ja": "彼女は両手を開いて、鳥を空に放した。"
+    },
+    {
+      "source": "original",
+      "label": "発売する",
+      "en": "The band will release a new album next month.",
+      "ja": "そのバンドは、来月新しいアルバムを発売する。"
+    },
+    {
+      "source": "original",
+      "label": "発表する",
+      "en": "The government released a report on the cause of the accident.",
+      "ja": "政府は、事故の原因についての報告書を発表した。"
+    },
+    {
+      "source": "original",
+      "label": "放出する",
+      "en": "Burning coal releases a large amount of carbon dioxide into the air.",
+      "ja": "石炭を燃やすと、大量の二酸化炭素が大気中に放出される。"
+    },
+    {
+      "source": "original",
+      "label": "公開(名詞)",
+      "en": "The release of the film was delayed by three months.",
+      "ja": "その映画の公開は、3か月延期された。"
+    }
+  ],
+  "check_points": [
+    "解放する・発売する・放出するを「ゆるめて放す」で説明できるか",
+    "relax との関係を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "release(解放・公開・放出)が、環境・ニュースを扱う長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 178
+    }
+  ]
+}

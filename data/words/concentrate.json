@@ -1,0 +1,94 @@
+{
+  "word": "concentrate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈkɑːnsntreɪt/",
+  "core_image": {
+    "text": "まわりから中心へ、ぎゅっと集める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"108\" y2=\"98\"/><line x1=\"120\" y1=\"74\" x2=\"132\" y2=\"98\"/><line x1=\"40\" y1=\"52\" x2=\"100\" y2=\"52\"/><polyline points=\"93,48.2 100,52 93,55.8\"/><line x1=\"200\" y1=\"52\" x2=\"140\" y2=\"52\"/><polyline points=\"147,55.8 140,52 147,48.2\"/><line x1=\"120\" y1=\"10\" x2=\"120\" y2=\"32\"/><polyline points=\"123.8,25 120,32 116.2,25\"/></g><text x=\"52\" y=\"96\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まわり</text><text x=\"188\" y=\"96\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">中心へ</text></svg>"
+  },
+  "etymology": "con(共に) + centr(中心。center と同じ) + ate → 中心に集める → 注意や力を一点に集める=集中する → 人や物が一か所に集まる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give all your attention to something, or to bring or come together in one place."
+    }
+  ],
+  "cautions": [
+    "concentrate on A=Aに集中する(on が必要)",
+    "concentrate A on B=AをBに集中させる",
+    "be concentrated in A=Aに集中している(人口・産業など)",
+    "名詞 concentration=集中・濃度。focus on とほぼ同じ"
+  ],
+  "patterns": [
+    {
+      "form": "concentrate on A",
+      "meaning": "Aに集中する"
+    },
+    {
+      "form": "concentrate A on B",
+      "meaning": "AをBに集中させる"
+    },
+    {
+      "form": "be concentrated in A",
+      "meaning": "Aに集中している"
+    },
+    {
+      "form": "concentration",
+      "meaning": "集中"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "concentrate on",
+      "en": "I can't concentrate on my studies when it is noisy.",
+      "ja": "うるさいと勉強に集中できない。"
+    },
+    {
+      "source": "original",
+      "label": "集中させる",
+      "en": "She concentrated all her energy on winning the race.",
+      "ja": "彼女は、そのレースに勝つことに全力を注いだ。"
+    },
+    {
+      "source": "original",
+      "label": "be concentrated in",
+      "en": "Most of the population is concentrated in large cities.",
+      "ja": "人口の大部分は大都市に集中している。"
+    },
+    {
+      "source": "original",
+      "label": "集中する",
+      "en": "The government should concentrate on reducing poverty.",
+      "ja": "政府は、貧困を減らすことに力を注ぐべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "concentration(名詞)",
+      "en": "The work requires a high level of concentration.",
+      "ja": "その仕事には、高い集中力が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "focus との言い換え",
+      "en": "Concentrate on the main point; in other words, focus on it.",
+      "ja": "要点に集中しなさい。言いかえれば、そこに焦点を当てなさい。"
+    }
+  ],
+  "check_points": [
+    "center(中心)から concentrate の意味を説明できるか",
+    "concentrate の後ろに付ける前置詞は何か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "concentrate on、be concentrated in、concentration が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 240
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "argue",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈɑːrɡjuː/",
+  "core_image": {
+    "text": "はっきりさせようと、言葉を尽くす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><polyline points=\"66,74 88,66 100,54\"/><line x1=\"66\" y1=\"74\" x2=\"56\" y2=\"96\"/><circle cx=\"174\" cy=\"52\" r=\"10\"/><line x1=\"174\" y1=\"62\" x2=\"174\" y2=\"106\"/><line x1=\"174\" y1=\"106\" x2=\"164\" y2=\"140\"/><line x1=\"174\" y1=\"106\" x2=\"184\" y2=\"140\"/><polyline points=\"174,74 152,66 140,54\"/><line x1=\"174\" y1=\"74\" x2=\"184\" y2=\"96\"/><polyline points=\"114,40 124,52 116,56 126,70\"/></g><text x=\"62\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">理由はこうだ</text><text x=\"182\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いや違う</text></svg>"
+  },
+  "etymology": "ラテン語 arguere(明らかにする・証明する) → 理由を挙げて、はっきりさせようとする=主張する → 互いに主張し合う=言い争う",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give reasons to show that something is true or correct, or to speak angrily to someone because you disagree with them."
+    }
+  ],
+  "cautions": [
+    "argue that S V=「〜だと主張する」。論説文ではこの意味が中心で、「口論する」ではない",
+    "argue with A about / over B=AとBのことで言い争う",
+    "argue for / against A=Aに賛成・反対の論を述べる",
+    "名詞 argument=主張・議論・口論。arguably=おそらく間違いなく"
+  ],
+  "patterns": [
+    {
+      "form": "argue that S V",
+      "meaning": "〜だと主張する"
+    },
+    {
+      "form": "argue with A about B",
+      "meaning": "AとBのことで言い争う"
+    },
+    {
+      "form": "argue for / against A",
+      "meaning": "Aに賛成・反対の論を述べる"
+    },
+    {
+      "form": "argument",
+      "meaning": "主張・口論"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "主張する",
+      "en": "The author argues that technology has made our lives busier, not easier.",
+      "ja": "著者は、技術は生活を楽にしたのではなく、忙しくしたと主張している。"
+    },
+    {
+      "source": "original",
+      "label": "言い争う",
+      "en": "My brothers are always arguing with each other about small things.",
+      "ja": "兄たちはいつも、ささいなことで言い争っている。"
+    },
+    {
+      "source": "original",
+      "label": "argue for",
+      "en": "She argued for a change in the school rules at the meeting.",
+      "ja": "彼女は会議で、校則を変えるべきだと論じた。"
+    },
+    {
+      "source": "original",
+      "label": "argue against",
+      "en": "Few people would argue against the need for clean water.",
+      "ja": "きれいな水が必要だということに、反対する人はほとんどいないだろう。"
+    },
+    {
+      "source": "original",
+      "label": "argument(主張)",
+      "en": "His argument is based on data collected over twenty years.",
+      "ja": "彼の主張は、20年にわたって集められたデータに基づいている。"
+    },
+    {
+      "source": "original",
+      "label": "argument(口論)",
+      "en": "I had an argument with my sister about who should wash the dishes.",
+      "ja": "だれが皿を洗うかで、姉と口論になった。"
+    }
+  ],
+  "check_points": [
+    "argue that と argue with の意味の違いを言えるか",
+    "論説文の The author argues that … をどう訳すか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "argue that(主張する)、argument が論説文で必須。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 127
+    }
+  ]
+}

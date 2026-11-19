@@ -1,0 +1,89 @@
+{
+  "word": "prevent",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/prɪˈvent/",
+  "core_image": {
+    "text": "先回りして前に立つ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"56\" y1=\"74\" x2=\"44\" y2=\"96\"/><line x1=\"56\" y1=\"74\" x2=\"70\" y2=\"94\"/><line x1=\"82\" y1=\"80\" x2=\"124\" y2=\"80\"/><polyline points=\"117,76.2 124,80 117,83.8\"/><circle cx=\"160\" cy=\"52\" r=\"10\"/><line x1=\"160\" y1=\"62\" x2=\"160\" y2=\"106\"/><line x1=\"160\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"106\" x2=\"170\" y2=\"140\"/><polyline points=\"160,74 140,70 132,56\"/><line x1=\"160\" y1=\"74\" x2=\"172\" y2=\"96\"/><rect x=\"196\" y=\"100\" width=\"28\" height=\"40\"/></g><text x=\"150\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">先回りして立つ</text><text x=\"210\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">行き先</text></svg>"
+  },
+  "etymology": "pre(前に) + vent(来る。invent, event と同じ) → 先に来る → 先回りして行く手に立つ → 妨げる・防ぐ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stop something from happening, or to stop someone from doing something."
+    }
+  ],
+  "cautions": [
+    "prevent A from doing=Aが〜するのを妨げる(to do は×)。keep / stop A from doing も同じ型",
+    "物が主語の文は「〜のせいで…できない」と訳すと自然: The rain prevented us from going out.",
+    "名詞は prevention、形容詞は preventive(予防の)"
+  ],
+  "patterns": [
+    {
+      "form": "prevent A",
+      "meaning": "Aを防ぐ"
+    },
+    {
+      "form": "prevent A from doing",
+      "meaning": "Aが〜するのを妨げる"
+    },
+    {
+      "form": "prevention",
+      "meaning": "予防・防止"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "prevent A from doing",
+      "en": "The heavy rain prevented us from going on a picnic.",
+      "ja": "大雨のせいで、私たちはピクニックに行けなかった。"
+    },
+    {
+      "source": "original",
+      "label": "防ぐ",
+      "en": "Washing your hands often helps prevent colds and the flu.",
+      "ja": "こまめに手を洗うことは、風邪やインフルエンザの予防に役立つ。"
+    },
+    {
+      "source": "original",
+      "label": "物が主語",
+      "en": "Illness prevented him from attending the meeting last week.",
+      "ja": "病気のため、彼は先週の会議に出席できなかった。"
+    },
+    {
+      "source": "original",
+      "label": "起こるのを防ぐ",
+      "en": "Nothing could prevent the war from breaking out.",
+      "ja": "戦争が起こるのを防げるものは何もなかった。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "Many accidents can be prevented if drivers are more careful.",
+      "ja": "運転者がもっと注意すれば、多くの事故は防ぐことができる。"
+    },
+    {
+      "source": "original",
+      "label": "prevention(名詞)",
+      "en": "Prevention is better than cure, as the old saying goes.",
+      "ja": "古いことわざにあるように、予防は治療にまさる。"
+    }
+  ],
+  "check_points": [
+    "prevent A from doing に from が要るわけを説明できるか(A を doing から引き離す)",
+    "物が主語の文を「〜のせいで…できない」と訳せるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "prevent A from doing、物が主語の文の和訳が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 102
+    }
+  ]
+}

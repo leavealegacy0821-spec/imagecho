@@ -1,0 +1,94 @@
+{
+  "word": "occur",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈkɜːr/",
+  "core_image": {
+    "text": "こちらに向かって走って来る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"76\" cy=\"52\" r=\"10\"/><line x1=\"76\" y1=\"62\" x2=\"76\" y2=\"106\"/><line x1=\"76\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"76\" y1=\"106\" x2=\"86\" y2=\"140\"/><line x1=\"76\" y1=\"74\" x2=\"64\" y2=\"98\"/><line x1=\"76\" y1=\"74\" x2=\"88\" y2=\"98\"/><line x1=\"196\" y1=\"30\" x2=\"100\" y2=\"46\"/><polyline points=\"107.6,48.6 100,46 106.3,41.1\"/><polygon points=\"212,14 216,24 226,26 218,32 220,42 212,36 204,42 206,32 198,26 208,24\"/></g><text x=\"160\" y=\"66\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やって来る</text></svg>"
+  },
+  "etymology": "oc(ob=〜に向かって) + cur(走る。current, course と同じ) → 向かって走って来る → 出来事が起こる → 考えが頭に走って来る=ふと浮かぶ(occur to) → ある場所に見られる・存在する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to happen, especially unexpectedly, or (occur to) to come into someone's mind."
+    }
+  ],
+  "cautions": [
+    "occur=起こる。happen より堅い。自動詞なので受け身にしない",
+    "A occur to B=A(考え)がBの頭に浮かぶ。It occurred to me that S V の形が頻出",
+    "過去形は occurred(r を重ねる)",
+    "名詞は occurrence(出来事・発生)"
+  ],
+  "patterns": [
+    {
+      "form": "A occur",
+      "meaning": "Aが起こる"
+    },
+    {
+      "form": "occur to A",
+      "meaning": "Aの頭に浮かぶ"
+    },
+    {
+      "form": "It occurs to A that S V",
+      "meaning": "〜ということがAの頭に浮かぶ"
+    },
+    {
+      "form": "occurrence",
+      "meaning": "出来事・発生"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "起こる",
+      "en": "The accident occurred at about seven in the morning.",
+      "ja": "その事故は、朝7時ごろに起こった。"
+    },
+    {
+      "source": "original",
+      "label": "起こる",
+      "en": "Earthquakes occur frequently in this part of the world.",
+      "ja": "世界のこの地域では、地震がひんぱんに起こる。"
+    },
+    {
+      "source": "original",
+      "label": "occur to=頭に浮かぶ",
+      "en": "A good idea suddenly occurred to me while I was taking a bath.",
+      "ja": "風呂に入っているとき、ふと良い考えが浮かんだ。"
+    },
+    {
+      "source": "original",
+      "label": "It occurred to A that",
+      "en": "It never occurred to me that she might be lying.",
+      "ja": "彼女がうそをついているかもしれないとは、思いもしなかった。"
+    },
+    {
+      "source": "original",
+      "label": "見られる",
+      "en": "This disease occurs mainly in tropical countries.",
+      "ja": "この病気は、主に熱帯の国々で見られる。"
+    },
+    {
+      "source": "original",
+      "label": "occurrence(名詞)",
+      "en": "Heavy snow is a rare occurrence in this region.",
+      "ja": "この地域では、大雪はめったにないことだ。"
+    }
+  ],
+  "check_points": [
+    "It occurred to me that … を自然な日本語に訳せるか",
+    "occur を受け身にしないのはなぜか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "It occurs to A that、occur(受け身にしない)、occurred のつづりが頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 160
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "word": "right",
+  "pos": [
+    "形容詞",
+    "名詞",
+    "副詞"
+  ],
+  "ipa": "/raɪt/",
+  "core_image": {
+    "text": "まっすぐで、ゆがみがない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"56\" y1=\"74\" x2=\"44\" y2=\"98\"/><line x1=\"56\" y1=\"74\" x2=\"68\" y2=\"98\"/><line x1=\"140\" y1=\"32\" x2=\"140\" y2=\"130\"/><polyline points=\"132,62 140,70 154,52\"/><polyline points=\"190,32 202,62 184,92 198,130\"/></g><text x=\"140\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まっすぐ</text><text x=\"196\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ゆがみ</text></svg>"
+  },
+  "etymology": "古英語 riht(まっすぐな・正しい。ラテン語 rectus と同じ根: direct, correct) → まっすぐ=正しい・適切な → 人が当然持つ正しい取り分=権利 → (利き手=正しい側)右 → 副詞「まっすぐに」=ちょうど・すぐ(right now)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "correct or true, or suitable for a particular situation."
+    },
+    {
+      "pos": "名詞",
+      "text": "something that you are morally or legally allowed to do or have."
+    },
+    {
+      "pos": "副詞",
+      "text": "exactly, or immediately."
+    }
+  ],
+  "cautions": [
+    "名詞「権利」: the right to do(〜する権利)、human rights(人権)",
+    "副詞「ちょうど・すぐ」: right now、right here、right after、right in front of A",
+    "the right A for B=Bにぴったりの A",
+    "right away=すぐに"
+  ],
+  "patterns": [
+    {
+      "form": "the right to do",
+      "meaning": "〜する権利"
+    },
+    {
+      "form": "human rights",
+      "meaning": "人権"
+    },
+    {
+      "form": "right now",
+      "meaning": "今すぐ・ちょうど今"
+    },
+    {
+      "form": "right away",
+      "meaning": "すぐに"
+    },
+    {
+      "form": "be right about A",
+      "meaning": "Aについて正しい"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "正しい",
+      "en": "You were right about the weather; it started raining in the afternoon.",
+      "ja": "天気については君の言うとおりで、午後に雨が降りだした。"
+    },
+    {
+      "source": "original",
+      "label": "適切な",
+      "en": "She is the right person for such a difficult job.",
+      "ja": "彼女は、そんな難しい仕事にぴったりの人だ。"
+    },
+    {
+      "source": "original",
+      "label": "権利(名詞)",
+      "en": "Everyone has the right to express their opinions freely.",
+      "ja": "だれもが自分の意見を自由に述べる権利を持っている。"
+    },
+    {
+      "source": "original",
+      "label": "人権",
+      "en": "The group works to protect human rights all over the world.",
+      "ja": "その団体は、世界中で人権を守るために活動している。"
+    },
+    {
+      "source": "original",
+      "label": "ちょうど(副詞)",
+      "en": "The bus stop is right in front of the post office.",
+      "ja": "バス停は郵便局のちょうど前にある。"
+    },
+    {
+      "source": "original",
+      "label": "right away=すぐに",
+      "en": "Call an ambulance right away if he stops breathing.",
+      "ja": "彼の呼吸が止まったら、すぐに救急車を呼びなさい。"
+    }
+  ],
+  "check_points": [
+    "正しい・権利・ちょうどを「まっすぐ」で説明できるか",
+    "the right to do はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "the right to do、human rights、副詞 right(ちょうど)が長文で必須。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 77
+    }
+  ]
+}

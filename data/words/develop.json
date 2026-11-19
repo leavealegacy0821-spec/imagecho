@@ -1,0 +1,98 @@
+{
+  "word": "develop",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈveləp/",
+  "core_image": {
+    "text": "包みをほどいて、中身を広げていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"36\" cy=\"52\" r=\"10\"/><line x1=\"36\" y1=\"62\" x2=\"36\" y2=\"106\"/><line x1=\"36\" y1=\"106\" x2=\"26\" y2=\"140\"/><line x1=\"36\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"36\" y1=\"74\" x2=\"24\" y2=\"98\"/><line x1=\"36\" y1=\"74\" x2=\"48\" y2=\"98\"/><line x1=\"92\" y1=\"140\" x2=\"92\" y2=\"112\"/><circle cx=\"92\" cy=\"106\" r=\"6\"/><line x1=\"104\" y1=\"116\" x2=\"124\" y2=\"116\"/><polyline points=\"117,112.2 124,116 117,119.8\"/><line x1=\"144\" y1=\"140\" x2=\"144\" y2=\"98\"/><circle cx=\"144\" cy=\"88\" r=\"10\"/><line x1=\"160\" y1=\"104\" x2=\"178\" y2=\"104\"/><polyline points=\"171,100.2 178,104 171,107.8\"/><line x1=\"204\" y1=\"140\" x2=\"204\" y2=\"84\"/><circle cx=\"204\" cy=\"64\" r=\"8\"/><circle cx=\"204\" cy=\"48\" r=\"7\"/><circle cx=\"204\" cy=\"80\" r=\"7\"/><circle cx=\"188\" cy=\"64\" r=\"7\"/><circle cx=\"220\" cy=\"64\" r=\"7\"/></g><text x=\"136\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">広がって育つ</text></svg>"
+  },
+  "etymology": "de(dis=ほどく) + velop(包む。envelope=包むもの と同じ) → 包みを解く → 中にあったものが現れて育つ=発達する・発展させる → 新しく作り出す=開発する → 病気や習慣が現れる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to grow or change into something bigger, stronger or more advanced, or to create a new product or idea."
+    }
+  ],
+  "cautions": [
+    "自動詞(発達する)と他動詞(発達させる・開発する)の両方",
+    "develop a disease / a habit=病気にかかる・習慣がつく",
+    "developing countries=発展途上国、developed countries=先進国",
+    "develop into A=Aに発展する。名詞は development"
+  ],
+  "patterns": [
+    {
+      "form": "develop A",
+      "meaning": "Aを発達させる・開発する"
+    },
+    {
+      "form": "develop into A",
+      "meaning": "Aに発展する"
+    },
+    {
+      "form": "develop a disease",
+      "meaning": "病気にかかる"
+    },
+    {
+      "form": "developing countries",
+      "meaning": "発展途上国"
+    },
+    {
+      "form": "developed countries",
+      "meaning": "先進国"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "発達する",
+      "en": "A child's brain develops very quickly in the first three years.",
+      "ja": "子どもの脳は、最初の3年間でとても速く発達する。"
+    },
+    {
+      "source": "original",
+      "label": "開発する",
+      "en": "The company is developing a new type of battery for electric cars.",
+      "ja": "その会社は、電気自動車用の新型電池を開発している。"
+    },
+    {
+      "source": "original",
+      "label": "伸ばす",
+      "en": "Reading widely helps you develop your own way of thinking.",
+      "ja": "幅広く読書することは、自分なりの考え方を育てるのに役立つ。"
+    },
+    {
+      "source": "original",
+      "label": "(病気に)かかる",
+      "en": "People who smoke are more likely to develop lung cancer.",
+      "ja": "たばこを吸う人は、肺がんになる可能性が高い。"
+    },
+    {
+      "source": "original",
+      "label": "develop into",
+      "en": "The small village developed into a large city within fifty years.",
+      "ja": "その小さな村は、50年のうちに大都市へと発展した。"
+    },
+    {
+      "source": "original",
+      "label": "developing countries",
+      "en": "Many developing countries still lack clean water and electricity.",
+      "ja": "多くの発展途上国では、今もきれいな水と電気が不足している。"
+    }
+  ],
+  "check_points": [
+    "envelope(包むもの)から develop の意味を説明できるか",
+    "developing countries と developed countries の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "developing / developed countries、develop a disease、development が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 139
+    }
+  ]
+}

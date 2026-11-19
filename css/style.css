@@ -1,0 +1,498 @@
+/* 単語イメージ帳の見た目。
+   紙の辞書・単語帳の紙面のように、罫線・余白・文字の大小と太さだけで組む。
+   色は黒・白・灰のみ。角は直角。影・角丸・グラデーションは使わない。 */
+
+:root {
+  --ink: #000;
+  --paper: #fff;
+  --grey: #5c5c5c;   /* 補助の文字 */
+  --hair: #b5b5b5;   /* 細い罫 */
+  --wash: #efefef;   /* 押したときの地 */
+  /* 英字はセリフ体、日本語は明朝。小見出しや札はゴシックの太字 */
+  --en: Georgia, "Times New Roman", Times, serif;
+  --min: Georgia, "Hiragino Mincho ProN", "Yu Mincho", YuMincho, "Noto Serif JP", "MS PMincho", serif;
+  --got: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", YuGothic, Meiryo, sans-serif;
+  --gutter: 20px;
+  --pager-h: 60px;
+  --row-h: 64px;     /* js/app.js の ROW_H と同じ値にすること */
+}
+
+* { box-sizing: border-box; }
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  background: var(--paper);
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--min);
+  font-size: 16px;
+  line-height: 1.75;
+  -webkit-tap-highlight-color: transparent;
+  overflow-wrap: anywhere;
+}
+
+[hidden] { display: none !important; }
+
+a { color: inherit; text-decoration: none; }
+button { font: inherit; color: inherit; border-radius: 0; margin: 0; }
+h1, h2, p, ul, ol, dl, dd { margin: 0; padding: 0; }
+ul, ol { list-style: none; }
+:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+
+/* 画面に出さず読み上げソフトにだけ伝える文字 */
+.sr {
+  position: absolute; width: 1px; height: 1px; overflow: hidden;
+  clip: rect(0 0 0 0); white-space: nowrap;
+}
+
+/* ───── 紙面の枠。スマホは幅いっぱい、PC では中央に読みやすい幅 ───── */
+#app {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: env(safe-area-inset-top) max(var(--gutter), env(safe-area-inset-right)) calc(40px + env(safe-area-inset-bottom)) max(var(--gutter), env(safe-area-inset-left));
+}
+body.has-pager #app {
+  padding-bottom: calc(var(--pager-h) + 48px + env(safe-area-inset-bottom));
+}
+
+.note { padding: 28px 0; color: var(--grey); font-size: 15px; }
+.fine { padding-top: 10px; color: var(--grey); font-size: 13px; text-align: right; }
+
+.ico { display: inline-flex; width: 1em; height: 1em; flex: none; }
+.ico svg { width: 100%; height: 100%; display: block; }
+
+/* ───── 題字と検索欄 ───── */
+#masthead { padding-top: 22px; }
+.title {
+  font-size: 15px;
+  font-family: var(--got);
+  font-weight: 700;
+  letter-spacing: 0.3em;
+  line-height: 1;
+  padding-bottom: 12px;
+  border-bottom: 4px solid var(--ink);
+}
+.title a { display: inline-block; padding: 6px 0; }
+
+.search {
+  display: flex;
+  align-items: stretch;
+  border-bottom: 1px solid var(--ink);
+}
+.search-label {
+  flex: none;
+  display: flex;
+  align-items: center;
+  padding-right: 14px;
+  font-family: var(--got);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+}
+.search-input {
+  flex: 1;
+  min-width: 0;
+  height: 56px;
+  border: 0;
+  border-radius: 0;
+  padding: 0;
+  background: transparent;
+  color: var(--ink);
+  font-family: var(--min);
+  font-size: 20px; /* 16px 以上にして iPhone の自動拡大を防ぐ */
+  -webkit-appearance: none;
+  appearance: none;
+  outline: none;
+}
+.search-input::placeholder { color: #9a9a9a; font-size: 16px; }
+.search-input::-webkit-search-cancel-button { -webkit-appearance: none; display: none; }
+.search:focus-within { border-bottom-width: 3px; margin-bottom: -2px; }
+.search-clear {
+  flex: none;
+  min-width: 48px;
+  border: 0;
+  background: none;
+  padding: 0 0 0 12px;
+  font-family: var(--got);
+  font-size: 12px;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  cursor: pointer;
+}
+
+/* ───── 区切りの見出し(単語集・検索結果) ───── */
+.block { padding-top: 34px; }
+.block-h {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--ink);
+  font-family: var(--got);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+}
+.block-h-side { font-family: var(--en); font-weight: 400; letter-spacing: 0.04em; font-size: 13px; }
+
+/* ───── 単語集一覧 ───── */
+.book {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  min-height: 76px;
+  padding: 22px 0 18px;
+  border-bottom: 1px solid var(--hair);
+}
+.book:active { background: var(--wash); }
+.book-name { font-size: 26px; font-weight: 700; line-height: 1.3; }
+.book-dots { flex: 1; min-width: 24px; border-bottom: 2px dotted var(--ink); transform: translateY(-5px); }
+.book-count { flex: none; font-family: var(--got); font-size: 12px; white-space: nowrap; }
+.book-count b { font-family: var(--en); font-size: 20px; font-weight: 400; font-variant-numeric: tabular-nums; }
+
+/* ───── 上の戻るリンク ───── */
+.crumb {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 52px;
+  padding-top: 6px;
+  font-family: var(--got);
+  font-size: 13px;
+}
+.crumb-back {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 44px;
+  padding-right: 16px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+}
+.crumb-arrow { font-family: var(--en); font-size: 22px; line-height: 1; transform: translateY(-2px); }
+.crumb-pos { font-family: var(--en); font-size: 14px; font-variant-numeric: tabular-nums; letter-spacing: 0.04em; }
+
+/* ───── 単語一覧 ───── */
+.list-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+  padding: 6px 0 12px;
+  border-bottom: 4px solid var(--ink);
+}
+.list-name { font-size: 30px; font-weight: 700; line-height: 1.25; }
+.list-count { flex: none; font-family: var(--got); font-size: 12px; white-space: nowrap; }
+.list-count b { font-family: var(--en); font-size: 20px; font-weight: 400; }
+
+.rows { position: relative; }
+.rows-inner { position: absolute; top: 0; left: 0; right: 0; will-change: transform; }
+.row {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  height: var(--row-h);
+  border-bottom: 1px solid var(--hair);
+  overflow: hidden;
+}
+.row:active { background: var(--wash); }
+.row-no {
+  flex: none;
+  width: 40px;
+  text-align: right;
+  font-family: var(--en);
+  font-size: 13px;
+  font-variant-numeric: tabular-nums;
+  color: var(--grey);
+}
+.row-main { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 3px; }
+.row-line { display: flex; align-items: baseline; gap: 10px; min-width: 0; }
+.row-word {
+  font-family: var(--en);
+  font-size: 21px;
+  font-weight: 700;
+  line-height: 1.2;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.row-ref {
+  flex: none;
+  max-width: 55%;
+  margin-left: auto;
+  font-family: var(--en);
+  font-size: 12px;
+  color: var(--grey);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.row-core {
+  font-size: 13px;
+  line-height: 1.4;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.row-mark { flex: none; width: 18px; height: 18px; font-size: 16px; display: flex; align-items: center; justify-content: center; }
+
+/* ───── 単語詳細 ───── */
+.entry { border-top: 4px solid var(--ink); }
+
+/* 番号つきの小見出し(01 見出し … 09 入試での出題度) */
+.sec { margin-top: 40px; border-top: 2px solid var(--ink); padding-top: 9px; }
+.sec-h {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin-bottom: 14px;
+  font-family: var(--got);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  line-height: 1.5;
+}
+.sec-no { font-family: var(--en); font-size: 14px; font-weight: 700; letter-spacing: 0.02em; font-variant-numeric: tabular-nums; }
+
+.head { padding-top: 9px; }
+.head .sec-h { margin-bottom: 2px; }
+.head-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 14px; }
+.hw {
+  font-family: var(--en);
+  font-size: 46px;
+  font-weight: 700;
+  line-height: 1.12;
+  letter-spacing: -0.01em;
+  padding: 4px 0 6px;
+  min-width: 0;
+}
+.hw--plain { font-size: 34px; padding-top: 18px; border-top: 4px solid var(--ink); }
+.head-meta { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 16px; }
+.pos { font-family: var(--got); font-size: 13px; font-weight: 700; letter-spacing: 0.08em; }
+.ipa { font-family: "Times New Roman", Times, "Lucida Sans Unicode", "Segoe UI", serif; font-size: 19px; line-height: 1.5; }
+.head-refs {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  margin-top: 6px;
+  min-height: 22px;
+  font-family: var(--en);
+  font-size: 13px;
+  color: var(--grey);
+}
+.mark-badge { display: inline-flex; align-items: center; gap: 6px; flex: none; font-family: var(--got); font-size: 12px; font-weight: 700; color: var(--ink); }
+.mark-badge .ico { font-size: 14px; }
+
+/* 読み上げボタン:黒い枠の四角。読み上げ中は白黒が反転する */
+.say {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  min-width: 48px;
+  min-height: 48px;
+  padding: 0 12px;
+  border: 1px solid var(--ink);
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--got);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  cursor: pointer;
+  touch-action: manipulation;
+}
+.say .ico { font-size: 20px; }
+.say:active, .say.is-on { background: var(--ink); color: var(--paper); }
+.say--word { margin-top: 8px; border-width: 2px; }
+.say--ex { padding: 0; width: 48px; }
+
+/* 02 核となるイメージ:線画は幅いっぱい、一言は大きく */
+.fig { margin: 0 0 12px; }
+.fig svg { display: block; width: 100%; height: auto; max-height: 78vh; background: #fff; }
+.core-text {
+  font-size: 27px;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  padding-top: 12px;
+  border-top: 1px solid var(--ink);
+}
+.fig:empty + .core-text, .sec-h + .core-text { border-top: 0; padding-top: 0; }
+
+.body { font-size: 16px; }
+.pre { white-space: pre-line; }
+
+/* 04 英英の定義 */
+.defs li { display: flex; gap: 14px; align-items: baseline; padding: 10px 0; border-bottom: 1px solid var(--hair); }
+.defs li:first-child { padding-top: 0; }
+.def-pos {
+  flex: none;
+  min-width: 3.4em;
+  font-family: var(--got);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+}
+.def-text { font-family: var(--en); font-size: 17px; line-height: 1.6; }
+
+/* 05 注意点 / 08 確認ポイント */
+.points li { display: flex; gap: 14px; align-items: baseline; padding: 10px 0; border-bottom: 1px solid var(--hair); }
+.points li:first-child { padding-top: 0; }
+.point-no { flex: none; min-width: 1.4em; font-family: var(--en); font-size: 17px; font-weight: 700; font-variant-numeric: tabular-nums; }
+.points--q .point-no { min-width: 2em; }
+
+/* 06 よくある型 */
+.patterns > div { padding: 10px 0; border-bottom: 1px solid var(--hair); }
+.patterns > div:first-child { padding-top: 0; }
+.patterns dt { font-family: var(--en); font-size: 19px; font-weight: 700; line-height: 1.45; }
+.patterns dd { font-size: 15px; padding-left: 1em; text-indent: -1em; }
+.patterns dd::before { content: "─"; display: inline-block; width: 1em; text-indent: 0; color: var(--grey); }
+
+/* 07 例文 */
+.ex {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--hair);
+}
+.ex:first-child { padding-top: 2px; }
+.ex-body { flex: 1; min-width: 0; }
+.ex-top { display: flex; align-items: center; gap: 9px; margin-bottom: 7px; line-height: 1.3; }
+.ex-no { flex: none; min-width: 1.1em; font-family: var(--en); font-size: 17px; font-weight: 700; font-variant-numeric: tabular-nums; }
+/* 札:単語帳の例文は黒地に白字、自作は白地に黒枠。ひと目で見分ける */
+.tag {
+  flex: none;
+  padding: 3px 7px 2px;
+  border: 1px solid var(--ink);
+  font-family: var(--got);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  line-height: 1.3;
+  white-space: nowrap;
+}
+.tag--book { background: var(--ink); color: var(--paper); }
+.tag--own { background: var(--paper); color: var(--ink); }
+.ex-label { min-width: 0; font-family: var(--got); font-size: 13px; font-weight: 700; }
+.ex-en { font-family: var(--en); font-size: 19px; line-height: 1.5; }
+.ex-ja { margin-top: 5px; font-size: 14px; line-height: 1.65; color: #333; }
+
+/* 09 入試での出題度 */
+.exam-freq { font-size: 24px; font-weight: 700; line-height: 1.4; margin-bottom: 6px; }
+
+/* ───── 画面下に固定:前の単語/苦手/覚えた/次の単語 ───── */
+.pager {
+  position: fixed;
+  left: 0; right: 0; bottom: 0;
+  z-index: 10;
+  background: var(--paper);
+  border-top: 2px solid var(--ink);
+  padding: 0 env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+  -webkit-user-select: none;
+  user-select: none;
+}
+.pager-in { display: flex; max-width: 640px; margin: 0 auto; height: var(--pager-h); }
+.pg {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 2px;
+  padding: 0 14px;
+  touch-action: manipulation;
+}
+.pg--prev { padding-left: var(--gutter); }  /* 紙面の左右の余白にそろえる */
+.pg--next { padding-right: var(--gutter); text-align: right; border-left: 1px solid var(--ink); }
+.pg:active { background: var(--ink); color: var(--paper); }
+.pg.is-off { color: #a0a0a0; }
+.pg.is-off:active { background: none; color: #a0a0a0; }
+.pg-dir { font-family: var(--got); font-size: 11px; font-weight: 700; letter-spacing: 0.1em; line-height: 1.3; }
+.pg-word {
+  font-family: var(--en);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.25;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.pg-mark {
+  flex: none;
+  width: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  border: 0;
+  border-left: 1px solid var(--ink);
+  background: var(--paper);
+  color: var(--ink);
+  padding: 0;
+  font-family: var(--got);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  line-height: 1.2;
+  cursor: pointer;
+  touch-action: manipulation;
+}
+.pg-mark .ico { font-size: 18px; }
+.pg-mark[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+
+/* ───── オフライン用の保存の進み具合(控えめに) ───── */
+.sync {
+  margin-top: 44px;
+  padding-top: 8px;
+  border-top: 1px solid var(--hair);
+  font-family: var(--got);
+  font-size: 11px;
+  color: var(--grey);
+  font-variant-numeric: tabular-nums;
+}
+.sync.is-hidden { display: none; }
+
+/* ───── 小さなお知らせ ───── */
+.toast {
+  position: fixed;
+  left: 50%;
+  bottom: calc(var(--pager-h) + 16px + env(safe-area-inset-bottom));
+  transform: translateX(-50%);
+  z-index: 20;
+  max-width: calc(100% - 32px);
+  padding: 9px 14px;
+  background: var(--ink);
+  color: var(--paper);
+  font-family: var(--got);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.plain-btn {
+  min-height: 48px;
+  padding: 0 20px;
+  border: 2px solid var(--ink);
+  background: var(--paper);
+  font-family: var(--got);
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+/* 画面が広いとき(PC など)は余白と文字を少しだけ大きく */
+@media (min-width: 700px) {
+  #masthead { padding-top: 40px; }
+  .hw { font-size: 60px; }
+  .core-text { font-size: 30px; }
+}

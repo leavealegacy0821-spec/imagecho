@@ -1,0 +1,99 @@
+{
+  "word": "concern",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/kənˈsɜːrn/",
+  "core_image": {
+    "text": "心がそこに結びついて離れない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><line x1=\"66\" y1=\"74\" x2=\"54\" y2=\"98\"/><line x1=\"66\" y1=\"74\" x2=\"78\" y2=\"98\"/><rect x=\"160\" y=\"96\" width=\"44\" height=\"44\"/><circle cx=\"182\" cy=\"118\" r=\"8\"/><path d=\"M78 48 Q124 14 176 94\" stroke-dasharray=\"5 5\"/></g><text x=\"150\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">心が結びつく</text><text x=\"190\" y=\"86\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">気になること</text></svg>"
+  },
+  "etymology": "con(共に) + cern(ふるいにかける・見分ける。certain, discern と同じ) → 一緒にふるいにかけられる=関わり合う → 関係する／心が関わって離れない=心配する・関心を持つ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be about a particular subject or to affect someone, or to make someone feel worried."
+    },
+    {
+      "pos": "名詞",
+      "text": "a feeling of worry about something important, or something that is important to you."
+    }
+  ],
+  "cautions": [
+    "be concerned about A=Aを心配している。be concerned with A=Aに関係している・関心がある。前置詞で意味が変わる",
+    "as far as I am concerned=私に関する限り・私としては",
+    "concerning A=Aに関して(前置詞として使う)",
+    "他動詞で「〜に関係する」「〜を心配させる」"
+  ],
+  "patterns": [
+    {
+      "form": "be concerned about A",
+      "meaning": "Aを心配している"
+    },
+    {
+      "form": "be concerned with A",
+      "meaning": "Aに関係している"
+    },
+    {
+      "form": "as far as A is concerned",
+      "meaning": "Aに関する限り"
+    },
+    {
+      "form": "concerning A",
+      "meaning": "Aに関して"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "be concerned about=心配して",
+      "en": "Many parents are concerned about the effects of smartphones on their children.",
+      "ja": "多くの親が、スマートフォンが子どもに与える影響を心配している。"
+    },
+    {
+      "source": "original",
+      "label": "be concerned with=関係して",
+      "en": "This chapter is concerned with the causes of the First World War.",
+      "ja": "この章は第一次世界大戦の原因を扱っている。"
+    },
+    {
+      "source": "original",
+      "label": "関係する(他動詞)",
+      "en": "The problem of climate change concerns everyone living on this planet.",
+      "ja": "気候変動の問題は、この地球に住むすべての人に関係がある。"
+    },
+    {
+      "source": "original",
+      "label": "as far as A is concerned",
+      "en": "As far as I am concerned, you can stay here as long as you like.",
+      "ja": "私としては、好きなだけここにいてもらってかまわない。"
+    },
+    {
+      "source": "original",
+      "label": "心配・関心(名詞)",
+      "en": "There is growing concern about the safety of food imported from abroad.",
+      "ja": "海外から輸入される食品の安全性について、心配が高まっている。"
+    },
+    {
+      "source": "original",
+      "label": "concerning=〜に関して",
+      "en": "He asked me several questions concerning my plans after graduation.",
+      "ja": "彼は卒業後の予定について、私にいくつか質問した。"
+    }
+  ],
+  "check_points": [
+    "「心配」と「関係」が同じ単語になる理由を「心が結びついて離れない」から説明できるか",
+    "be concerned about と be concerned with の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "be concerned about / with の区別、as far as A is concerned が語法・長文で必須。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 31
+    }
+  ]
+}

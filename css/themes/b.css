@@ -1,0 +1,294 @@
+/* 案B 墨と金:紺がかった墨色の地、生成りの文字、金色の極細線。中央ぞろえで静かに組む。
+   style.css の後に読み込む上書き。デザイン選び用。 */
+
+@font-face { font-family: "Cormorant Garamond"; src: url("../../fonts/cormorantgaramond-var.woff2") format("woff2"); font-weight: 400 700; font-style: normal; font-display: swap; }
+@font-face { font-family: "Cormorant Garamond"; src: url("../../fonts/cormorantgaramond-italic-var.woff2") format("woff2"); font-weight: 400 700; font-style: italic; font-display: swap; }
+
+:root {
+  color-scheme: dark;
+  --ink: #ece5d3;
+  --paper: #10131a;
+  --grey: #a69e8b;
+  --gold: #cdac63;
+  --hair: rgba(205, 172, 99, 0.3);
+  --wash: rgba(205, 172, 99, 0.1);
+  --soft: #c2baa8;
+  --en: "Cormorant Garamond", "Hoefler Text", Georgia, "Times New Roman", serif;
+  --min: "Hiragino Mincho ProN", "Yu Mincho", YuMincho, "Noto Serif JP", "MS PMincho", serif;
+  --got: var(--min);
+}
+
+html { background: var(--paper); }
+body {
+  background: linear-gradient(#171b25, var(--paper) 460px) no-repeat var(--paper);
+  font-weight: 500;
+  line-height: 1.95;
+  letter-spacing: 0.02em;
+}
+:focus-visible { outline: 1px solid var(--gold); outline-offset: 3px; }
+::selection { background: var(--gold); color: var(--paper); }
+
+.note { color: var(--grey); text-align: center; }
+.fine { font-size: 13px; }
+
+/* ───── 題字と検索欄 ───── */
+#masthead { padding-top: 34px; }
+.title {
+  text-align: center;
+  font-size: 19px;
+  font-weight: 600;
+  letter-spacing: 0.5em;
+  padding: 0 0 20px 0.5em;
+  border-bottom: 1px solid var(--gold);
+}
+.search { border-bottom: 1px solid var(--hair); transition: border-color .25s; }
+.search:focus-within { border-bottom-width: 1px; margin-bottom: 0; border-color: var(--gold); }
+.search-label { color: var(--gold); font-weight: 600; }
+.search-input { caret-color: var(--gold); font-family: var(--en), var(--min); font-size: 22px; }
+.search-input::placeholder { color: #7b7566; font-family: var(--min); }
+.search-clear { color: var(--gold); font-weight: 600; }
+
+.block { padding-top: 44px; }
+.block-h { color: var(--gold); border-bottom: 1px solid var(--hair); font-weight: 600; letter-spacing: 0.3em; }
+.block-h-side { font-style: italic; font-size: 16px; }
+
+.book { border-bottom-color: var(--hair); min-height: 88px; padding: 28px 0 24px; transition: background .2s; }
+.book-name { font-size: 26px; font-weight: 600; letter-spacing: 0.06em; }
+.book-dots { border-bottom: 1px solid var(--hair); }
+.book-count { color: var(--soft); }
+.book-count b { font-size: 26px; font-style: italic; color: var(--gold); }
+
+/* ───── 上のバー ───── */
+.crumb-back { font-weight: 600; letter-spacing: 0.14em; }
+.crumb-arrow { color: var(--gold); }
+.crumb-pos { font-size: 18px; font-style: italic; color: var(--gold); }
+
+/* ───── 単語一覧 ───── */
+.list-head { border-bottom: 1px solid var(--gold); padding-bottom: 16px; }
+.list-name { font-weight: 600; letter-spacing: 0.08em; }
+.list-count { color: var(--soft); }
+.list-count b { font-size: 26px; font-style: italic; color: var(--gold); }
+.row { border-bottom-color: var(--hair); transition: background .2s; }
+.row-no { font-size: 18px; font-style: italic; color: var(--gold); width: 34px; }
+.row-main { gap: 0; }
+.row-word { font-size: 30px; font-weight: 600; letter-spacing: 0.01em; line-height: 1.1; }
+.row-core { color: var(--soft); letter-spacing: 0.04em; }
+.row-ref { font-family: var(--min); color: var(--grey); }
+.row-mark { color: var(--gold); }
+
+/* ───── 単語詳細 ───── */
+.entry { border-top: 0; }
+.sec { margin-top: 60px; border-top: 0; padding-top: 0; }
+.head { padding-top: 22px; text-align: center; }
+.head .sec-h { display: none; }  /* 「01 見出し」の札は出さない */
+.entry > .sec:nth-child(2) { margin-top: 36px; }
+/* 小見出し:中央に置き、左右へ金の極細線 */
+.sec-h {
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 22px;
+  color: var(--gold);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.32em;
+}
+.head .sec-h { margin-bottom: 16px; }
+.sec-h::before, .sec-h::after { content: ""; flex: 1; height: 1px; }
+.sec-h::before { background: linear-gradient(90deg, rgba(205, 172, 99, 0), rgba(205, 172, 99, 0.75)); }
+.sec-h::after { background: linear-gradient(90deg, rgba(205, 172, 99, 0.75), rgba(205, 172, 99, 0)); }
+.sec-no { display: none; }  /* 章番号は出さず、見出しの言葉だけにする */
+
+.head-row { flex-direction: column; align-items: center; gap: 2px; }
+.hw {
+  font-size: 60px;
+  font-weight: 500;
+  letter-spacing: 0.005em;
+  line-height: 1.05;
+  color: #f6f0df;
+  padding: 0 0 10px;
+}
+.hw--plain { border-top: 1px solid var(--gold); text-align: center; }
+.head-meta { justify-content: center; margin-top: 16px; gap: 4px 18px; }
+.pos { color: var(--gold); font-weight: 600; letter-spacing: 0.2em; }
+.ipa { color: var(--soft); }
+.head-refs { justify-content: center; gap: 18px; margin-top: 8px; font-family: var(--min); color: var(--grey); letter-spacing: 0.06em; }
+.mark-badge { color: var(--gold); }
+.mark-badge:empty { display: none; }
+
+.say {
+  border: 1px solid var(--hair);
+  background: transparent;
+  color: var(--gold);
+  font-weight: 600;
+  transition: background .2s, color .2s, border-color .2s, transform .15s;
+}
+.say--word { border-width: 1px; border-color: rgba(205, 172, 99, 0.6); min-height: 44px; padding: 0 20px 0 16px; letter-spacing: 0.3em; margin-top: 0; }
+.say--word .ico { font-size: 17px; }
+.say:active { transform: scale(0.96); }
+.say:active, .say.is-on { background: var(--gold); color: var(--paper); border-color: var(--gold); }
+
+/* 核となるイメージ:金の細い二重枠に、生成りの細い線画 */
+.fig {
+  margin: 4px 5px 26px;
+  padding: 12px;
+  border: 1px solid rgba(205, 172, 99, 0.65);
+  outline: 1px solid rgba(205, 172, 99, 0.25);
+  outline-offset: 4px;
+}
+.fig:empty { display: none; }
+.fig svg { background: transparent; }
+.fig svg [fill="white"] { fill: var(--paper); }
+.fig svg > rect:first-child[fill="white"] { fill: transparent; }
+.fig svg [stroke="black"] { stroke: #efe6cf; }
+.fig svg [fill="black"] { fill: #efe6cf; }
+.fig svg [stroke-width] { stroke-width: 1.7; }
+/* 想定外の書き方の線画(白地の指定が違う)が来たときの保険 */
+.fig:not(:has(svg > rect:first-child[fill="white"])) svg { filter: invert(1) sepia(0.3); mix-blend-mode: screen; }
+
+.core-text {
+  border-top: 0;
+  padding-top: 0;
+  text-align: center;
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 1.6;
+  letter-spacing: 0.08em;
+  color: #f6f0df;
+  text-wrap: balance;
+  word-break: auto-phrase;
+}
+.core-text::after { content: ""; display: block; width: 36px; height: 1px; margin: 20px auto 0; background: var(--gold); }
+
+.body { color: var(--ink); }
+/* 語源:金の細い縦線に沿わせ、行間を広く */
+.entry > .sec:nth-child(3) .body { padding: 2px 0 2px 20px; border-left: 1px solid var(--gold); line-height: 2.25; }
+/* 定義・注意点・型・例文:罫線は引かず、余白と金の数字で1件ずつ区切る */
+.defs li, .points li, .patterns > div, .ex,
+.defs li:first-child, .points li:first-child, .patterns > div:first-child, .ex:first-child {
+  border-bottom: 0;
+  padding: 0;
+  margin-bottom: 26px;
+}
+.points li { gap: 16px; line-height: 1.85; }
+.patterns > div, .patterns > div:first-child { padding-left: 20px; border-left: 1px solid var(--hair); }
+.def-pos { color: var(--gold); font-weight: 600; }
+.def-text { font-size: 20px; line-height: 1.5; font-weight: 500; }
+.point-no { font-size: 30px; font-weight: 500; font-style: italic; color: var(--gold); line-height: 1; min-width: 0.9em; }
+.points--q .point-no { min-width: 1.7em; font-size: 26px; }
+.patterns dt { font-size: 23px; font-weight: 600; }
+.patterns dd { color: var(--soft); }
+.patterns dd::before { color: var(--gold); }
+
+/* 例文:使い方のラベルを金で先頭に。英文は幅いっぱいに大きく、和訳は一段静かに */
+.ex, .ex:first-child { position: relative; display: block; margin-bottom: 40px; }
+.ex-top { min-height: 44px; margin-bottom: 6px; padding-right: 54px; gap: 10px; }
+.say--ex { position: absolute; top: 0; right: 0; width: 44px; min-width: 44px; min-height: 44px; }
+.tag { order: 3; font-size: 10px; }
+.ex-no { font-size: 30px; font-weight: 500; font-style: italic; color: var(--gold); line-height: 1; }
+.tag { border-color: var(--hair); font-weight: 600; letter-spacing: 0.14em; }
+.tag--book { background: var(--gold); color: var(--paper); border-color: var(--gold); }
+.tag--own { background: transparent; color: var(--gold); border-color: rgba(205, 172, 99, 0.6); }
+.ex-label { color: var(--gold); font-weight: 600; font-size: 14px; line-height: 1.45; letter-spacing: 0.06em; }
+.ex-en { font-size: 22px; line-height: 1.42; font-weight: 500; color: #f6f0df; }
+.ex-ja { color: var(--soft); margin-top: 10px; padding-left: 14px; border-left: 1px solid var(--hair); }
+.exam-freq { text-align: center; font-weight: 600; letter-spacing: 0.1em; color: #f6f0df; }
+
+/* ───── 下の固定バー ───── */
+.pager {
+  background: rgba(19, 22, 30, 0.9);
+  -webkit-backdrop-filter: blur(14px);
+  backdrop-filter: blur(14px);
+  border-top: 1px solid rgba(205, 172, 99, 0.7);
+}
+.pg { transition: background .2s; }
+.pg--next { border-left-color: var(--hair); }
+.pg:active { background: var(--wash); color: var(--ink); }
+.pg.is-off, .pg.is-off:active { color: #6c6759; }
+.pg-dir { color: var(--gold); font-weight: 600; letter-spacing: 0.16em; }
+.pg.is-off .pg-dir { color: inherit; }
+.pg-word { font-size: 21px; font-weight: 600; }
+.pg-mark {
+  background: transparent;
+  border-left-color: var(--hair);
+  color: #8e8775;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  transition: background .22s, color .22s, transform .15s;
+}
+.pg-mark:active { transform: scale(0.94); }
+.pg-mark[aria-pressed="true"] { background: var(--gold); color: var(--paper); }
+.pg-mark[aria-pressed="true"] .ico { animation: t-pop .28s ease-out; }
+
+.sync { border-top-color: var(--hair); text-align: center; }
+.toast { background: var(--gold); color: var(--paper); font-weight: 600; animation: t-rise .25s both; }
+.plain-btn { background: transparent; border: 1px solid var(--gold); color: var(--gold); }
+
+/* ───── 上のバー:スクロールすると、なめらかに地と金の線が出る ───── */
+.crumb {
+  position: sticky; top: 0; z-index: 5;
+  margin: 0 calc(-1 * var(--gutter));
+  padding-left: var(--gutter); padding-right: var(--gutter);
+}
+.crumb::before {
+  content: "";
+  position: absolute; inset: 0; z-index: -1;
+  background: rgba(19, 22, 30, 0.9);
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--hair);
+}
+@supports (animation-timeline: scroll()) {
+  .crumb::before { opacity: 0; animation: t-bar linear both; animation-timeline: scroll(root); animation-range: 0 72px; }
+}
+
+/* ───── 動き:ゆっくりめのフェード＋わずかな移動 ───── */
+@keyframes t-bar { to { opacity: 1; } }
+@keyframes t-rise { from { opacity: 0; transform: translateY(6px); } }
+@keyframes t-pop { from { transform: scale(0.6); opacity: 0; } }
+#view > .list-head, #view > .rows, #view > .note, #view > .hw--plain,
+#view > .block:not(:has(.rows)), .entry > * { animation: t-rise .25s ease-out backwards; }
+.entry > :nth-child(2) { animation-delay: .08s; }
+.entry > :nth-child(3) { animation-delay: .16s; }
+#view > .rows { animation-delay: .06s; }
+
+@media (min-width: 700px) { .hw { font-size: 76px; } }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+  .crumb::before { opacity: 1; }
+}
+
+/* 例文の中の見出し語を金色で目立たせる */
+.ex-en .hit { color: var(--gold); font-weight: 700; }
+/* 線画の中の短い言葉 */
+.fig svg text { fill: var(--gold); font-family: var(--min); font-size: 11px; letter-spacing: 0.04em; }
+/* 線画の中の言葉は控えめに(絵より目立たせない) */
+.fig svg text[fill="black"] { fill: var(--grey); font-size: 9.5px; letter-spacing: 0; }
+
+/* 検索欄を画面の上に貼り付けて、一覧をスクロールしても常に使えるようにする */
+#masthead { position: sticky; top: 0; z-index: 20; background: var(--paper); }
+
+/* ───────── めくって覚える ───────── */
+.flow-home { margin-bottom: 28px; }
+.flow-start { display: grid; gap: 4px; padding: 22px 20px; margin: 14px 0 18px; border: 1px solid var(--gold); text-decoration: none; color: var(--ink); text-align: center; }
+.flow-start-label { font-size: 12px; letter-spacing: .3em; color: var(--gold); }
+.flow-start-word { font-family: var(--en); font-size: 34px; line-height: 1.1; }
+.flow-start-group { font-size: 12px; color: var(--grey); }
+.flow-start:active { background: var(--wash); }
+.flow-groups { list-style: none; margin: 0; padding: 0; }
+.flow-g { display: grid; grid-template-columns: 1fr auto; column-gap: 12px; padding: 12px 2px; border-bottom: 1px solid var(--hair); text-decoration: none; color: var(--ink); min-height: 44px; }
+.flow-g-title { font-size: 15px; }
+.flow-g-note { grid-column: 1; font-size: 12px; color: var(--grey); }
+.flow-g-size { grid-row: 1 / span 2; grid-column: 2; align-self: center; font-family: var(--en); font-style: italic; color: var(--gold); }
+.flow-group { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; margin: 0 0 6px; padding: 8px 0; border-bottom: 1px solid var(--hair); font-size: 12px; }
+.flow-group-title { color: var(--gold); letter-spacing: .08em; }
+.flow-group-note { color: var(--grey); }
+.flow-group-pos { margin-left: auto; font-family: var(--en); font-style: italic; color: var(--gold); }
+/* めくったときに横から滑り込む */
+@keyframes slide-from-right { from { opacity: 0; transform: translateX(36px); } to { opacity: 1; transform: none; } }
+@keyframes slide-from-left { from { opacity: 0; transform: translateX(-36px); } to { opacity: 1; transform: none; } }
+.entry.slide-next { animation: slide-from-right .22s ease-out; }
+.entry.slide-prev { animation: slide-from-left .22s ease-out; }
+@media (prefers-reduced-motion: reduce) { .entry.slide-next, .entry.slide-prev { animation: none; } }

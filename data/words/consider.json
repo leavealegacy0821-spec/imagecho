@@ -1,0 +1,109 @@
+{
+  "word": "consider",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈsɪdər/",
+  "core_image": {
+    "text": "いくつもの点をじっくり見て考える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"138\" x2=\"225\" y2=\"138\"/><rect x=\"46\" y=\"106\" width=\"38\" height=\"32\"/><circle cx=\"80\" cy=\"54\" r=\"10\"/><line x1=\"78\" y1=\"64\" x2=\"72\" y2=\"106\"/><polyline points=\"72,106 104,102 116,138\"/><polyline points=\"76,76 96,84 90,64\"/><polyline points=\"76,76 80,92 96,98\"/><line x1=\"94\" y1=\"46\" x2=\"140\" y2=\"26\" stroke-dasharray=\"5 6\"/><line x1=\"95\" y1=\"52\" x2=\"168\" y2=\"50\" stroke-dasharray=\"5 6\"/><polygon points=\"154,10 157,19 166,22 157,25 154,34 151,25 142,22 151,19\"/><polygon points=\"186,38 189,47 198,50 189,53 186,62 183,53 174,50 183,47\"/><polygon points=\"210,12 212,18 218,20 212,22 210,28 208,22 202,20 208,18\"/></g><text x=\"52\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">じっくり考える</text><text x=\"178\" y=\"76\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いろいろな点</text></svg>"
+  },
+  "etymology": "con(しっかり) + sider(星。ラテン語 sidus に由来するとされる) → 星をじっくり見る、が通説(確かな証拠はなく、異説もある) → 物事をいろいろな面からじっくり見る → よく考える・検討する → よく見たうえで「AはBだ」と判断する(みなす) → 周りの事情や人の気持ちまで目に入れる(考慮する)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to think about something carefully, especially before making a decision. It also means to have a particular opinion about someone or something."
+    }
+  ],
+  "cautions": [
+    "目的語は動名詞。consider doing が正しく、consider to do は誤り",
+    "「AをBとみなす」は consider A (to be) B。regard A as B と混ぜて consider A as B としないのが安全",
+    "他動詞なので consider about ~ としない(think about ~ と混同しやすい)",
+    "形容詞2つの区別。considerable =かなりの、considerate =思いやりのある"
+  ],
+  "patterns": [
+    {
+      "form": "consider doing",
+      "meaning": "〜することを検討する"
+    },
+    {
+      "form": "consider A (to be) B",
+      "meaning": "AをBとみなす"
+    },
+    {
+      "form": "consider wh- / whether ~",
+      "meaning": "〜かをよく考える"
+    },
+    {
+      "form": "take A into consideration",
+      "meaning": "Aを考慮に入れる"
+    },
+    {
+      "form": "considering (that) ~",
+      "meaning": "〜を考えると・〜のわりには"
+    },
+    {
+      "form": "all things considered",
+      "meaning": "すべてを考え合わせると"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "よく考える・検討する",
+      "en": "Before you choose a university, you should carefully consider what you really want to study.",
+      "ja": "大学を選ぶ前に、自分が本当に学びたいことは何かをじっくり考えるべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "consider doing=〜することを検討する",
+      "en": "I am considering studying abroad for a year after I enter college.",
+      "ja": "大学に入ったら1年間留学することを考えている。"
+    },
+    {
+      "source": "original",
+      "label": "consider A to be B=AをBとみなす",
+      "en": "Many people consider him to be one of the greatest scientists of the twentieth century.",
+      "ja": "多くの人が彼を20世紀の最も偉大な科学者の一人とみなしている。"
+    },
+    {
+      "source": "original",
+      "label": "be considered ~=〜とみなされる",
+      "en": "In Japan, it is considered rude to talk loudly on the phone on the train.",
+      "ja": "日本では、電車内で大声で電話をするのは失礼だとみなされる。"
+    },
+    {
+      "source": "original",
+      "label": "考慮に入れる・思いやる",
+      "en": "We must consider the feelings of others before we say something critical.",
+      "ja": "批判的なことを言う前に、他人の気持ちを考えなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "consider whether=〜かどうか検討する",
+      "en": "The committee is still considering whether the festival should be held next year.",
+      "ja": "委員会は、来年その祭りを開くべきかどうかをまだ検討している。"
+    },
+    {
+      "source": "original",
+      "label": "considering that=〜を考えると",
+      "en": "Considering that she started only a year ago, her English is surprisingly good.",
+      "ja": "たった1年前に始めたことを考えると、彼女の英語は驚くほど上手だ。"
+    }
+  ],
+  "check_points": [
+    "「検討する」と「AをBとみなす」が、どちらも「じっくり見る」から出てくることを説明できるか",
+    "considerate(思いやりのある)は、何をじっくり見ているからその意味になるのか",
+    "consider の後ろが to do ではなく doing になることを、例文を1つ作って確かめられるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "consider doing(to不定詞は不可)と consider A (to be) B は文法・語法問題の定番。considerable と considerate の区別、considering や all things considered の意味も問われやすい。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 3
+    }
+  ]
+}

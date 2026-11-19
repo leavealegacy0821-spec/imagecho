@@ -1,0 +1,97 @@
+{
+  "word": "consume",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈsuːm/",
+  "core_image": {
+    "text": "すっかり取り込んで、使い尽くす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 82,62 86,48\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><rect x=\"150\" y=\"70\" width=\"40\" height=\"70\"/><rect x=\"150\" y=\"110\" width=\"40\" height=\"30\"/><line x1=\"146\" y1=\"80\" x2=\"100\" y2=\"60\"/><polyline points=\"104.9,66.3 100,60 108,59.3\"/></g><text x=\"170\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">減っていく</text><text x=\"48\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">使い尽くす</text></svg>"
+  },
+  "etymology": "con(すっかり) + sume(取る。assume, resume と同じ) → すっかり取ってしまう → 使い尽くす・消費する → 食べる・飲む → (感情が)人を飲み込む",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to use energy, time or goods, or to eat or drink something."
+    }
+  ],
+  "cautions": [
+    "consume energy / time / fuel=エネルギー・時間・燃料を消費する",
+    "be consumed with / by A=A(感情)に心を奪われる",
+    "consumer=消費者、consumption=消費。time-consuming=時間のかかる"
+  ],
+  "patterns": [
+    {
+      "form": "consume A",
+      "meaning": "Aを消費する"
+    },
+    {
+      "form": "be consumed with A",
+      "meaning": "A(感情)にとりつかれる"
+    },
+    {
+      "form": "consumer",
+      "meaning": "消費者"
+    },
+    {
+      "form": "consumption",
+      "meaning": "消費"
+    },
+    {
+      "form": "time-consuming",
+      "meaning": "時間のかかる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "消費する",
+      "en": "Large cars consume much more fuel than small ones.",
+      "ja": "大きな車は、小さな車よりずっと多くの燃料を消費する。"
+    },
+    {
+      "source": "original",
+      "label": "食べる",
+      "en": "Japanese people consume a lot of fish and rice.",
+      "ja": "日本人は魚と米を多く食べる。"
+    },
+    {
+      "source": "original",
+      "label": "(時間を)使う",
+      "en": "Checking emails consumes too much of my time at work.",
+      "ja": "メールの確認に、仕事の時間を取られすぎている。"
+    },
+    {
+      "source": "original",
+      "label": "be consumed with",
+      "en": "He was consumed with jealousy when he saw them together.",
+      "ja": "2人が一緒にいるのを見て、彼は嫉妬にかられた。"
+    },
+    {
+      "source": "original",
+      "label": "consumer(名詞)",
+      "en": "Consumers are becoming more interested in eco-friendly products.",
+      "ja": "消費者は、環境に優しい製品にますます関心を持つようになっている。"
+    },
+    {
+      "source": "original",
+      "label": "time-consuming",
+      "en": "Making this dish by hand is very time-consuming.",
+      "ja": "この料理を手で作るのは、とても時間がかかる。"
+    }
+  ],
+  "check_points": [
+    "assume・consume に共通する sume の意味を言えるか",
+    "time-consuming はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "consume、consumer、consumption が経済・環境の長文で必須。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 219
+    }
+  ]
+}

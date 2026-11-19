@@ -1,0 +1,94 @@
+{
+  "word": "remind",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈmaɪnd/",
+  "core_image": {
+    "text": "もう一度、頭の中に呼び戻す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><polyline points=\"66,74 96,72 122,76\"/><line x1=\"66\" y1=\"74\" x2=\"56\" y2=\"96\"/><circle cx=\"140\" cy=\"52\" r=\"10\"/><line x1=\"140\" y1=\"62\" x2=\"140\" y2=\"106\"/><line x1=\"140\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"140\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"140\" y1=\"74\" x2=\"152\" y2=\"96\"/><line x1=\"140\" y1=\"74\" x2=\"130\" y2=\"98\"/><ellipse cx=\"188\" cy=\"24\" rx=\"26\" ry=\"15\"/><rect x=\"178\" y=\"17\" width=\"20\" height=\"14\"/><circle cx=\"160\" cy=\"40\" r=\"2\"/></g><text x=\"66\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">呼び戻す</text><text x=\"196\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">思い出す</text></svg>"
+  },
+  "etymology": "re(再び) + mind(頭・心) → 再び頭の中に置かせる → 思い出させる・気づかせる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone remember something, or to tell someone again about something they must do."
+    }
+  ],
+  "cautions": [
+    "remind A of B=AにBを思い出させる。主語は「思い出させるもの」。人が自分で思い出すのは remember",
+    "remind A to do=Aに〜するよう念を押す、remind A that S V",
+    "物が主語の文は「〜を見ると・聞くと…を思い出す」と訳すと自然",
+    "名詞は reminder(思い出させるもの)"
+  ],
+  "patterns": [
+    {
+      "form": "remind A of B",
+      "meaning": "AにBを思い出させる"
+    },
+    {
+      "form": "remind A to do",
+      "meaning": "Aに〜するよう念を押す"
+    },
+    {
+      "form": "remind A that S V",
+      "meaning": "Aに〜だと気づかせる"
+    },
+    {
+      "form": "a reminder",
+      "meaning": "思い出させるもの"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "remind A of B",
+      "en": "This song always reminds me of my high school days.",
+      "ja": "この歌を聞くと、いつも高校時代を思い出す。"
+    },
+    {
+      "source": "original",
+      "label": "似ていて思い出させる",
+      "en": "You remind me of my elder brother when you laugh like that.",
+      "ja": "そんなふうに笑うと、君は私の兄を思い出させる。"
+    },
+    {
+      "source": "original",
+      "label": "remind A to do",
+      "en": "Please remind me to call the dentist tomorrow morning.",
+      "ja": "明日の朝、歯医者に電話するよう私に言ってください。"
+    },
+    {
+      "source": "original",
+      "label": "remind A that",
+      "en": "The teacher reminded us that the report was due on Monday.",
+      "ja": "先生は、レポートの締め切りが月曜日だと念を押した。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "I was reminded of my promise when I saw her at the station.",
+      "ja": "駅で彼女を見かけて、約束を思い出した。"
+    },
+    {
+      "source": "original",
+      "label": "reminder(名詞)",
+      "en": "The photo is a reminder of the happy days we spent together.",
+      "ja": "その写真は、一緒に過ごした楽しい日々を思い出させてくれる。"
+    }
+  ],
+  "check_points": [
+    "remember と remind の主語の違いを言えるか",
+    "This photo reminds me of 〜 を自然な日本語にできるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "remind A of B / to do、物が主語の文の和訳が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 104
+    }
+  ]
+}

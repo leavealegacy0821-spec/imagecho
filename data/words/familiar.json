@@ -1,0 +1,94 @@
+{
+  "word": "familiar",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/fəˈmɪliər/",
+  "core_image": {
+    "text": "家族のように、よく知っている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><circle cx=\"94\" cy=\"52\" r=\"10\"/><line x1=\"94\" y1=\"62\" x2=\"94\" y2=\"106\"/><line x1=\"94\" y1=\"106\" x2=\"84\" y2=\"140\"/><line x1=\"94\" y1=\"106\" x2=\"104\" y2=\"140\"/><line x1=\"50\" y1=\"76\" x2=\"94\" y2=\"76\"/><polygon points=\"150,96 180,72 210,96\"/><rect x=\"156\" y=\"96\" width=\"48\" height=\"44\"/></g><text x=\"72\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">家族のように</text><text x=\"180\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">よく知っている</text></svg>"
+  },
+  "etymology": "ラテン語 familia(家族。family と同じ) + ar(〜の) → 家族のような → よく知っている・なじみの",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "well known to you, or having a good knowledge of something."
+    }
+  ],
+  "cautions": [
+    "主語で前置詞が変わる。人 be familiar with 物=(人が)物をよく知っている",
+    "物 be familiar to 人=(物が)人によく知られている",
+    "look familiar=見覚えがある、sound familiar=聞き覚えがある",
+    "反対は unfamiliar。名詞は familiarity"
+  ],
+  "patterns": [
+    {
+      "form": "be familiar with A",
+      "meaning": "Aをよく知っている"
+    },
+    {
+      "form": "be familiar to A",
+      "meaning": "Aによく知られている"
+    },
+    {
+      "form": "look familiar",
+      "meaning": "見覚えがある"
+    },
+    {
+      "form": "sound familiar",
+      "meaning": "聞き覚えがある"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "人 be familiar with 物",
+      "en": "I am not familiar with the rules of this game.",
+      "ja": "私は、このゲームのルールをよく知らない。"
+    },
+    {
+      "source": "original",
+      "label": "物 be familiar to 人",
+      "en": "His name is familiar to everyone in this town.",
+      "ja": "彼の名前は、この町のだれもがよく知っている。"
+    },
+    {
+      "source": "original",
+      "label": "look familiar",
+      "en": "Your face looks familiar; have we met before?",
+      "ja": "お顔に見覚えがあります。以前お会いしましたか。"
+    },
+    {
+      "source": "original",
+      "label": "sound familiar",
+      "en": "That song sounds familiar, but I cannot remember its title.",
+      "ja": "その歌は聞き覚えがあるが、題名が思い出せない。"
+    },
+    {
+      "source": "original",
+      "label": "なじみの",
+      "en": "It was good to see a familiar face in the crowd.",
+      "ja": "人ごみの中に知っている顔を見つけて、ほっとした。"
+    },
+    {
+      "source": "original",
+      "label": "unfamiliar(反対)",
+      "en": "I felt nervous in the unfamiliar surroundings.",
+      "ja": "慣れない環境で、私は落ち着かなかった。"
+    }
+  ],
+  "check_points": [
+    "be familiar with と be familiar to で、主語に来るものの違いを言えるか",
+    "family との関係を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "be familiar with / to の区別が文法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 205
+    }
+  ]
+}

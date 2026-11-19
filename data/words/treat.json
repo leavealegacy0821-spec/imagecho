@@ -1,0 +1,99 @@
+{
+  "word": "treat",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/triːt/",
+  "core_image": {
+    "text": "手をかけて扱う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><polyline points=\"66,74 96,78 120,76\"/><line x1=\"66\" y1=\"74\" x2=\"56\" y2=\"96\"/><circle cx=\"164\" cy=\"52\" r=\"10\"/><line x1=\"164\" y1=\"62\" x2=\"164\" y2=\"106\"/><line x1=\"164\" y1=\"106\" x2=\"154\" y2=\"140\"/><line x1=\"164\" y1=\"106\" x2=\"174\" y2=\"140\"/><polyline points=\"164,74 144,78 130,76\"/><line x1=\"164\" y1=\"74\" x2=\"176\" y2=\"96\"/><rect x=\"118\" y=\"70\" width=\"14\" height=\"12\"/></g><text x=\"125\" y=\"54\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手をかける</text></svg>"
+  },
+  "etymology": "ラテン語 tractare(引っぱる・手で扱う。tractor, attract と同じ) → 扱う → 人を(ある仕方で)扱う／問題を扱う → 病人に手をかける=治療する → ごちそうでもてなす=おごる。名詞は「ごちそう・楽しみ」",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to behave toward someone or deal with something in a particular way, or to give medical care to someone."
+    },
+    {
+      "pos": "名詞",
+      "text": "something special that you give someone or do for them because you know they will enjoy it."
+    }
+  ],
+  "cautions": [
+    "treat A as / like B=AをBとして・Bのように扱う",
+    "treat A for B=AのB(病気・けが)を治療する。cure は「治す」(結果)",
+    "treat A to B=AにBをおごる",
+    "名詞 treatment=扱い・治療。This is my treat.=私のおごりです"
+  ],
+  "patterns": [
+    {
+      "form": "treat A as / like B",
+      "meaning": "AをBとして扱う"
+    },
+    {
+      "form": "treat A for B",
+      "meaning": "AのBを治療する"
+    },
+    {
+      "form": "treat A to B",
+      "meaning": "AにBをおごる"
+    },
+    {
+      "form": "treatment",
+      "meaning": "扱い・治療"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "扱う",
+      "en": "My parents still treat me like a child, though I am twenty.",
+      "ja": "私はもう20歳なのに、両親はいまだに私を子ども扱いする。"
+    },
+    {
+      "source": "original",
+      "label": "treat A as B",
+      "en": "We should treat this information as a secret for now.",
+      "ja": "当面、この情報は秘密として扱うべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "治療する",
+      "en": "The doctor treated him for a broken leg at the hospital.",
+      "ja": "医者は病院で、彼の足の骨折を治療した。"
+    },
+    {
+      "source": "original",
+      "label": "おごる",
+      "en": "I will treat you to dinner if you help me with this report.",
+      "ja": "このレポートを手伝ってくれたら、夕食をおごるよ。"
+    },
+    {
+      "source": "original",
+      "label": "treatment(名詞)",
+      "en": "Early treatment is important for this kind of disease.",
+      "ja": "この種の病気には、早期の治療が大切だ。"
+    },
+    {
+      "source": "original",
+      "label": "おごり(名詞)",
+      "en": "Let's go out for ice cream. It's my treat today.",
+      "ja": "アイスクリームを食べに行こう。今日は私のおごりだ。"
+    }
+  ],
+  "check_points": [
+    "扱う・治療する・おごるを「手をかけて扱う」で説明できるか",
+    "treat A to B はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "treat A as B、treat(治療する)、treatment が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 120
+    }
+  ]
+}

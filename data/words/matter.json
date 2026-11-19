@@ -1,0 +1,113 @@
+{
+  "word": "matter",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈmætər/",
+  "core_image": {
+    "text": "ずっしり中身のある物・事",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"138\" x2=\"225\" y2=\"138\"/><circle cx=\"38\" cy=\"62\" r=\"10\"/><line x1=\"38\" y1=\"72\" x2=\"38\" y2=\"108\"/><line x1=\"38\" y1=\"82\" x2=\"74\" y2=\"96\"/><polyline points=\"38,82 28,94 34,104\"/><line x1=\"38\" y1=\"108\" x2=\"28\" y2=\"138\"/><line x1=\"38\" y1=\"108\" x2=\"48\" y2=\"138\"/><polygon points=\"150,106 136,138 164,138\"/><line x1=\"90\" y1=\"126\" x2=\"210\" y2=\"86\"/><polygon points=\"96,123 126,113 117,85 87,95\" fill=\"black\"/><circle cx=\"199\" cy=\"84\" r=\"4\"/><line x1=\"104\" y1=\"38\" x2=\"104\" y2=\"72\"/><polyline points=\"97,64 104,73 111,64\"/><line x1=\"200\" y1=\"72\" x2=\"200\" y2=\"48\"/><polyline points=\"194,55 200,47 206,55\"/></g><text x=\"104\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">重い=大事</text><text x=\"200\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">軽い</text></svg>"
+  },
+  "etymology": "ラテン語 materia(材木・材料・物質)から。material(材料)と同じ仲間 → 物の中身になっているもの(物質) → 中身のある、扱うべき事柄(事・問題) → the matter で「困った事」 → 動詞では、中身・重みがある(重要である)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a subject or situation that you have to think about or deal with. It also means the physical substance that everything is made of."
+    },
+    {
+      "pos": "動詞",
+      "text": "to be important, or to have an effect on what happens."
+    }
+  ],
+  "cautions": [
+    "動詞「重要である」が最重要。自動詞で、進行形にしない。It doesn't matter wh- / if ~ の形が多い",
+    "What matters is ~ の matters は名詞の複数形ではなく動詞(三単現)。「重要なのは〜だ」",
+    "the matter (with A) は「(Aの)困った点・具合の悪い所」。What's the matter? は「どうしたの」",
+    "no matter wh- ~ は「たとえ〜でも」という譲歩(= wh-ever)。複数形 matters は「事態」(to make matters worse =さらに悪いことに)"
+  ],
+  "patterns": [
+    {
+      "form": "It doesn't matter wh- / if ~",
+      "meaning": "〜かどうかは重要ではない"
+    },
+    {
+      "form": "What matters (most) is ~",
+      "meaning": "(最も)重要なのは〜だ"
+    },
+    {
+      "form": "the matter with A",
+      "meaning": "Aの困った点・具合の悪い所"
+    },
+    {
+      "form": "a matter of A",
+      "meaning": "Aの問題(a matter of time =時間の問題)"
+    },
+    {
+      "form": "no matter wh- ~",
+      "meaning": "たとえ〜でも"
+    },
+    {
+      "form": "as a matter of fact",
+      "meaning": "実を言うと・実際のところ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "事柄・問題(名詞)",
+      "en": "This is a private matter, so I would rather not talk about it at school.",
+      "ja": "これは個人的な事柄なので、学校では話したくない。"
+    },
+    {
+      "source": "original",
+      "label": "重要である(動詞)",
+      "en": "It does not matter whether you win or lose as long as you do your best.",
+      "ja": "全力を尽くすかぎり、勝つか負けるかは重要ではない。"
+    },
+    {
+      "source": "original",
+      "label": "What matters is=重要なのは〜だ(動詞)",
+      "en": "What matters most is not how long you study but how well you concentrate.",
+      "ja": "最も重要なのは、どれだけ長く勉強するかではなく、どれだけよく集中するかだ。"
+    },
+    {
+      "source": "original",
+      "label": "the matter with=困った点(名詞)",
+      "en": "You look very pale this morning; is there anything the matter with you?",
+      "ja": "今朝はとても顔色が悪いね。どこか具合でも悪いの。"
+    },
+    {
+      "source": "original",
+      "label": "物質(名詞)",
+      "en": "Scientists believe that most of the matter in the universe cannot be seen directly.",
+      "ja": "科学者たちは、宇宙にある物質の大部分は直接見ることができないと考えている。"
+    },
+    {
+      "source": "original",
+      "label": "no matter how=たとえどんなに〜でも",
+      "en": "No matter how busy she is, she calls her grandmother every Sunday evening.",
+      "ja": "どんなに忙しくても、彼女は毎週日曜の夕方に祖母に電話をかける。"
+    },
+    {
+      "source": "original",
+      "label": "as a matter of fact=実を言うと",
+      "en": "As a matter of fact, I have never been abroad, though I studied English for years.",
+      "ja": "実を言うと、何年も英語を勉強したのに、一度も海外に行ったことがない。"
+    }
+  ],
+  "check_points": [
+    "なぜ名詞「物質」と動詞「重要である」が同じ単語なのか、「中身・重みがある」から説明できるか",
+    "What matters is ~ の matters が動詞だと、文の形から説明できるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "動詞「重要である」は和訳・整序・言い換え(= be important / count)で定番。no matter wh-、the matter with、as a matter of fact、to make matters worse など熟語の出題も多い。科学の長文では「物質」の意味で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 8
+    }
+  ]
+}

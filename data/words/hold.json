@@ -1,0 +1,99 @@
+{
+  "word": "hold",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/hoʊld/",
+  "core_image": {
+    "text": "手の中にしっかり保ち続ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"96\" cy=\"52\" r=\"10\"/><line x1=\"96\" y1=\"62\" x2=\"96\" y2=\"106\"/><line x1=\"96\" y1=\"106\" x2=\"86\" y2=\"140\"/><line x1=\"96\" y1=\"106\" x2=\"106\" y2=\"140\"/><polyline points=\"96,74 118,80 134,70\"/><polyline points=\"96,74 116,92 134,86\"/><circle cx=\"146\" cy=\"78\" r=\"13\"/></g><text x=\"146\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しっかり保つ</text><text x=\"198\" y=\"82\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">離さない</text></svg>"
+  },
+  "etymology": "古英語 healdan(見張る・保つ) → 手に持ったままにする → 状態を保つ(持ちこたえる・続く)／場を保つ(開催する)／中に保つ(収容する)／考えを保つ(〜と考える)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to have something in your hands or arms, to organize an event such as a meeting, or to have a particular opinion."
+    }
+  ],
+  "cautions": [
+    "活用は hold - held - held",
+    "「開催する」hold a meeting。受け身 be held(開かれる)が頻出",
+    "「収容する」The hall holds 500 people.",
+    "hold that S V=〜と考える。hold true=当てはまる",
+    "hold on=(電話を)切らずに待つ・持ちこたえる、hold back=抑える"
+  ],
+  "patterns": [
+    {
+      "form": "hold a meeting",
+      "meaning": "会議を開く"
+    },
+    {
+      "form": "be held",
+      "meaning": "開催される"
+    },
+    {
+      "form": "hold (人数)",
+      "meaning": "(人数)を収容する"
+    },
+    {
+      "form": "hold that S V",
+      "meaning": "〜と考える"
+    },
+    {
+      "form": "hold true (for A)",
+      "meaning": "(Aに)当てはまる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "抱く・持つ",
+      "en": "She held her baby in her arms and sang softly until he fell asleep.",
+      "ja": "彼女は赤ん坊を腕に抱き、眠るまでやさしく歌った。"
+    },
+    {
+      "source": "original",
+      "label": "開催する(受け身)",
+      "en": "The next Olympic Games will be held in a city I have never visited.",
+      "ja": "次のオリンピックは、私が行ったことのない都市で開かれる。"
+    },
+    {
+      "source": "original",
+      "label": "収容する",
+      "en": "This stadium can hold more than fifty thousand people.",
+      "ja": "このスタジアムは5万人を超える人を収容できる。"
+    },
+    {
+      "source": "original",
+      "label": "続く・持ちこたえる",
+      "en": "I hope the good weather will hold until the end of the festival.",
+      "ja": "祭りが終わるまで、良い天気がもってほしい。"
+    },
+    {
+      "source": "original",
+      "label": "〜と考える",
+      "en": "Many scientists hold that the universe began with a huge explosion.",
+      "ja": "多くの科学者は、宇宙は巨大な爆発で始まったと考えている。"
+    },
+    {
+      "source": "original",
+      "label": "hold true=当てはまる",
+      "en": "The same rule holds true for learning any foreign language.",
+      "ja": "同じ決まりは、どの外国語を学ぶ場合にも当てはまる。"
+    }
+  ],
+  "check_points": [
+    "開催する・収容する・〜と考えるを「しっかり保ち続ける」で説明できるか",
+    "「会議が開かれた」を hold を使って言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "be held(開催される)、hold that、hold true、hold on が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 38
+    }
+  ]
+}

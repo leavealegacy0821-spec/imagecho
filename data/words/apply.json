@@ -1,0 +1,94 @@
+{
+  "word": "apply",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈplaɪ/",
+  "core_image": {
+    "text": "ぴたりと当てて、くっつける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"172\" y1=\"20\" x2=\"172\" y2=\"140\"/><circle cx=\"100\" cy=\"52\" r=\"10\"/><line x1=\"100\" y1=\"62\" x2=\"100\" y2=\"106\"/><line x1=\"100\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"100\" y1=\"106\" x2=\"110\" y2=\"140\"/><polyline points=\"100,74 130,72 152,70\"/><line x1=\"100\" y1=\"74\" x2=\"90\" y2=\"96\"/><rect x=\"152\" y=\"52\" width=\"18\" height=\"36\"/></g><text x=\"122\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぴたりと当てる</text><text x=\"204\" y=\"74\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">対象</text></svg>"
+  },
+  "etymology": "ap(ad=〜へ) + ply(折り重ねる。reply, multiply と同じ) → 〜に重ねて当てる → (薬を)塗る／(規則・知識を)当てはめる／(自分を)当てる=申し込む・専念する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make a formal request for something such as a job, or to use something such as a rule or an idea in a particular situation."
+    }
+  ],
+  "cautions": [
+    "apply for A=A(仕事・許可・奨学金)を申し込む。apply to A=A(学校・会社)に出願する／Aに当てはまる",
+    "apply A to B=AをBに応用する・当てはめる・塗る",
+    "application=申込(書)・応用・アプリ、applicant=応募者",
+    "apply oneself to A=Aに専念する"
+  ],
+  "patterns": [
+    {
+      "form": "apply for A",
+      "meaning": "Aを申し込む"
+    },
+    {
+      "form": "apply to A",
+      "meaning": "Aに出願する／Aに当てはまる"
+    },
+    {
+      "form": "apply A to B",
+      "meaning": "AをBに応用する・塗る"
+    },
+    {
+      "form": "apply oneself to A",
+      "meaning": "Aに専念する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "apply for=申し込む",
+      "en": "More than two hundred people applied for the job at the new museum.",
+      "ja": "200人を超える人が、新しい博物館のその仕事に応募した。"
+    },
+    {
+      "source": "original",
+      "label": "apply to=出願する",
+      "en": "She applied to three universities in Tokyo and was accepted by all of them.",
+      "ja": "彼女は東京の3つの大学に出願し、すべてに合格した。"
+    },
+    {
+      "source": "original",
+      "label": "apply to=当てはまる",
+      "en": "This rule does not apply to students who live far from the school.",
+      "ja": "この規則は、学校から遠くに住んでいる生徒には当てはまらない。"
+    },
+    {
+      "source": "original",
+      "label": "apply A to B=応用する",
+      "en": "We should apply what we learn in class to problems in real life.",
+      "ja": "授業で学んだことを、実生活の問題に応用すべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "塗る",
+      "en": "Apply this cream to the burn twice a day until it gets better.",
+      "ja": "良くなるまで、このクリームを1日2回やけどに塗りなさい。"
+    },
+    {
+      "source": "original",
+      "label": "application(名詞)",
+      "en": "Please fill out this application form and send it by Friday.",
+      "ja": "この申込用紙に記入して、金曜日までに送ってください。"
+    }
+  ],
+  "check_points": [
+    "申し込む・当てはまる・塗るを「ぴたりと当てる」で説明できるか",
+    "apply for と apply to の後ろに来るものの違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "apply for / apply to / apply A to B の前置詞が語法の定番。長文では「当てはまる」「応用する」の意味が多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 21
+    }
+  ]
+}

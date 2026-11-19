@@ -1,0 +1,284 @@
+/* 案A ネオン:黒に近い地に、シアンとマゼンタの細い発光線。端末のHUD風。
+   style.css の後に読み込む上書き。デザイン選び用。 */
+
+@font-face { font-family: "Orbitron"; src: url("../../fonts/orbitron-var.woff2") format("woff2"); font-weight: 400 900; font-display: swap; }
+@font-face { font-family: "JetBrains Mono"; src: url("../../fonts/jetbrainsmono-var.woff2") format("woff2"); font-weight: 400 700; font-display: swap; }
+
+:root {
+  color-scheme: dark;
+  --ink: #e8f6ff;
+  --paper: #06070b;
+  --grey: #8a9cb4;
+  --hair: rgba(0, 229, 255, 0.2);
+  --wash: rgba(0, 229, 255, 0.1);
+  --cy: #00e5ff;
+  --mg: #ff2bd6;
+  --soft: #b4c4d8;   /* 本文より一段弱い文字 */
+  --en: "JetBrains Mono", ui-monospace, Consolas, Menlo, monospace;
+  --disp: "Orbitron", "JetBrains Mono", sans-serif;
+  --got: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic Medium", "Yu Gothic", YuGothic, Meiryo, sans-serif;
+  --min: var(--got);
+}
+
+html { background: var(--paper); }
+body { background: var(--paper); line-height: 1.85; }
+/* うっすらとした走査線 */
+body::before {
+  content: "";
+  position: fixed; inset: 0; z-index: 0; pointer-events: none;
+  background: repeating-linear-gradient(0deg, rgba(160, 220, 255, 0.028) 0 1px, transparent 1px 3px);
+}
+#app { position: relative; z-index: 1; }
+:focus-visible { outline-color: var(--cy); }
+::selection { background: var(--mg); color: #fff; }
+
+.note { color: var(--grey); }
+
+/* ───── 題字と検索欄 ───── */
+.title {
+  color: var(--cy);
+  border-bottom: 1px solid var(--cy);
+  box-shadow: 0 8px 14px -10px rgba(0, 229, 255, 0.7);
+  text-shadow: 0 0 12px rgba(0, 229, 255, 0.6);
+}
+.search { border-bottom: 1px solid var(--hair); transition: border-color .2s, box-shadow .2s; }
+.search:focus-within { border-bottom-width: 1px; margin-bottom: 0; border-color: var(--mg); box-shadow: 0 8px 14px -10px rgba(255, 43, 214, 0.8); }
+.search-label { color: var(--mg); }
+.search-input { caret-color: var(--mg); font-family: var(--en); }
+.search-input::placeholder { color: #5f7088; font-family: var(--got); }
+.search-clear { color: var(--cy); }
+
+.block-h { color: var(--cy); border-bottom: 1px solid var(--cy); }
+.block-h-side { font-family: var(--disp); font-size: 11px; letter-spacing: 0.1em; }
+
+.book { border-bottom-color: var(--hair); transition: background .15s; }
+.book-name { font-size: 24px; }
+.book-dots { border-bottom: 1px dashed rgba(0, 229, 255, 0.45); }
+.book-count { color: var(--soft); }
+.book-count b { font-family: var(--disp); font-weight: 600; font-size: 18px; color: var(--cy); text-shadow: 0 0 10px rgba(0, 229, 255, 0.6); }
+
+/* ───── 上のバー ───── */
+.crumb-back { color: var(--cy); }
+.crumb-pos { font-family: var(--disp); font-size: 11px; letter-spacing: 0.14em; color: var(--mg); }
+
+/* ───── 単語一覧 ───── */
+.list-head { border-bottom: 1px solid var(--cy); box-shadow: 0 8px 14px -10px rgba(0, 229, 255, 0.7); }
+.list-name { font-size: 26px; }
+.list-count { color: var(--soft); }
+.list-count b { font-family: var(--disp); font-weight: 600; font-size: 18px; color: var(--cy); }
+.row { border-bottom-color: var(--hair); transition: background .15s; }
+.row { gap: 8px; }
+.row-no { font-family: var(--disp); font-size: 10px; font-weight: 500; letter-spacing: 0.08em; color: #4fb9c9; width: 24px; text-align: left; }
+.row-word { font-size: 23px; color: #fff; }
+.row-core { color: var(--soft); }
+.row-ref { font-family: var(--got); color: var(--grey); }
+.row-mark[title="苦手"] { color: var(--mg); filter: drop-shadow(0 0 5px rgba(255, 43, 214, 0.9)); }
+.row-mark[title="覚えた"] { color: var(--cy); filter: drop-shadow(0 0 5px rgba(0, 229, 255, 0.9)); }
+
+/* ───── 単語詳細 ───── */
+.entry { border-top: 0; }
+.sec { margin-top: 46px; border-top: 0; padding-top: 0; }
+.head { padding-top: 14px; }
+.head .sec-h { display: none; }  /* 「01 見出し」の札は出さない(見れば分かるので) */
+.entry > .sec:nth-child(2) { margin-top: 30px; }
+/* 小見出し:番号は端末のラベル風、右へ光る線が伸びる */
+.sec-h {
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  color: var(--cy);
+  letter-spacing: 0.2em;
+}
+.head .sec-h { margin-bottom: 10px; }
+.sec-h::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(90deg, var(--cy), rgba(0, 229, 255, 0));
+  box-shadow: 0 0 6px rgba(0, 229, 255, 0.8);
+}
+.sec-no {
+  font-family: var(--disp);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  color: var(--paper);
+  background: var(--cy);
+  padding: 3px 10px 3px 7px;
+  clip-path: polygon(0 0, 100% 0, 100% calc(100% - 7px), calc(100% - 7px) 100%, 0 100%);
+}
+
+.hw {
+  font-family: var(--disp);
+  font-size: 38px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: #fff;
+  text-shadow: 0 0 2px rgba(0, 229, 255, 0.9), 0 0 22px rgba(0, 229, 255, 0.55);
+}
+.hw--plain { border-top: 1px solid var(--cy); }
+.head-meta { margin-top: 4px; align-items: center; }
+.pos { color: var(--mg); border: 1px solid var(--mg); padding: 1px 8px; font-size: 12px; }
+.ipa { font-family: "Segoe UI", "Lucida Sans Unicode", "Helvetica Neue", Arial, sans-serif; font-size: 17px; color: var(--soft); }
+.head-refs { font-family: var(--got); font-size: 12px; color: var(--grey); margin-top: 10px; }
+.mark-badge { color: var(--mg); text-shadow: 0 0 8px rgba(255, 43, 214, 0.7); }
+.mark-badge:has(path[fill="none"]) { color: var(--cy); text-shadow: 0 0 8px rgba(0, 229, 255, 0.7); }
+
+.say {
+  border: 1px solid var(--cy);
+  background: rgba(0, 229, 255, 0.06);
+  color: var(--cy);
+  transition: background .15s, color .15s, box-shadow .15s, transform .12s;
+}
+.say--word { border-width: 1px; }
+.say:active { transform: scale(0.95); }
+.say:active, .say.is-on { background: var(--cy); color: var(--paper); box-shadow: 0 0 18px rgba(0, 229, 255, 0.7); }
+
+/* 核となるイメージ:発光する線画を枠で囲む。角にマゼンタのかぎ */
+.fig {
+  position: relative;
+  margin: 0 0 20px;
+  padding: 10px;
+  border: 1px solid rgba(0, 229, 255, 0.3);
+  background: rgba(0, 229, 255, 0.035);
+}
+.fig::before, .fig::after {
+  content: "";
+  position: absolute;
+  width: 18px; height: 18px;
+  border: 2px solid var(--mg);
+  filter: drop-shadow(0 0 5px rgba(255, 43, 214, 0.9));
+  pointer-events: none;
+}
+.fig::before { top: -1px; left: -1px; border-right: 0; border-bottom: 0; }
+.fig::after { bottom: -1px; right: -1px; border-left: 0; border-top: 0; }
+.fig:empty { display: none; }
+.fig svg { background: transparent; filter: drop-shadow(0 0 3px rgba(0, 229, 255, 0.75)); }
+.fig svg [fill="white"] { fill: var(--paper); }
+.fig svg > rect:first-child[fill="white"] { fill: transparent; }
+.fig svg [stroke="black"] { stroke: #5ff0ff; }
+.fig svg [fill="black"] { fill: #5ff0ff; }
+/* 想定外の書き方の線画(白地の指定が違う)が来たときの保険 */
+.fig:not(:has(svg > rect:first-child[fill="white"])) svg { filter: invert(1); mix-blend-mode: screen; }
+
+.core-text {
+  border-top: 0;
+  padding: 2px 0 2px 14px;
+  border-left: 3px solid var(--mg);
+  box-shadow: -8px 0 14px -8px rgba(255, 43, 214, 0.9);
+  font-size: 28px;
+  line-height: 1.45;
+  color: #fff;
+  text-wrap: balance;
+  word-break: auto-phrase;
+}
+.fig:empty + .core-text, .sec-h + .core-text { padding: 2px 0 2px 14px; }
+
+.body { color: #d6e4f2; }
+/* 語源:流れを追いやすいよう行間を広く取り、マゼンタの縦線で1つのかたまりに */
+.entry > .sec:nth-child(3) .body {
+  padding: 12px 16px;
+  border-left: 2px solid var(--mg);
+  background: rgba(255, 43, 214, 0.055);
+  font-size: 15.5px;
+  line-height: 2.15;
+}
+/* 定義・注意点・型・例文:罫線で区切らず、1件ずつ小さなパネルにする */
+.defs li, .points li, .patterns > div, .ex,
+.defs li:first-child, .points li:first-child, .patterns > div:first-child, .ex:first-child {
+  border-bottom: 0;
+  margin-bottom: 10px;
+  padding: 12px 14px;
+  background: rgba(0, 229, 255, 0.05);
+  border-left: 2px solid var(--cy);
+}
+.points--q li, .points--q li:first-child { border-left-color: var(--mg); background: rgba(255, 43, 214, 0.05); }
+.points li { line-height: 1.75; font-size: 15px; }
+.def-pos { color: var(--cy); }
+.def-text { font-size: 15px; line-height: 1.75; color: #eef8ff; }
+.point-no { font-family: var(--disp); font-size: 13px; font-weight: 700; color: var(--cy); min-width: 1.1em; }
+.points--q .point-no { color: var(--mg); min-width: 1.9em; }
+.patterns dt { font-size: 16px; color: #fff; }
+.patterns dd { color: var(--soft); font-size: 14px; }
+.patterns dd::before { color: var(--mg); }
+
+/* 例文:使い方のラベルを先頭で目立たせ、英文は幅いっぱい。読み上げボタンは右上に寄せる */
+.ex, .ex:first-child { position: relative; display: block;  }
+.ex-top { min-height: 44px; margin-bottom: 6px; padding-right: 54px; gap: 10px; }
+.say--ex { position: absolute; top: 8px; right: 8px; width: 44px; min-width: 44px; min-height: 44px; }
+.tag { order: 3; font-size: 10px; }
+.ex-top { margin-top: -4px; }
+.ex-no { font-family: var(--disp); font-size: 13px; color: var(--cy); }
+.tag { border-color: var(--cy); }
+.tag--book { background: var(--cy); color: var(--paper); }
+.tag--own { background: transparent; color: var(--mg); border-color: var(--mg); }
+.ex-label { color: var(--cy); font-size: 14px; line-height: 1.4; }
+.ex-en { font-size: 15.5px; line-height: 1.65; letter-spacing: -0.01em; color: #fff; }
+.ex-ja { color: var(--soft); font-size: 13.5px; margin-top: 8px; }
+.exam-freq { color: #fff; text-shadow: 0 0 16px rgba(0, 229, 255, 0.5); }
+
+/* ───── 下の固定バー ───── */
+.pager {
+  background: rgba(6, 7, 11, 0.84);
+  -webkit-backdrop-filter: blur(14px) saturate(1.4);
+  backdrop-filter: blur(14px) saturate(1.4);
+  border-top: 1px solid var(--cy);
+  box-shadow: 0 -1px 0 rgba(0, 229, 255, 0.3), 0 -10px 30px rgba(0, 229, 255, 0.13);
+}
+.pg { transition: background .15s; }
+.pg--next { border-left-color: var(--hair); }
+.pg:active { background: rgba(0, 229, 255, 0.16); color: var(--ink); }
+.pg.is-off, .pg.is-off:active { color: #56657a; }
+.pg-dir { color: var(--cy); }
+.pg.is-off .pg-dir { color: inherit; }
+.pg-word { font-size: 15px; }
+.pg-mark {
+  background: transparent;
+  border-left-color: var(--hair);
+  color: #7c8da6;
+  transition: background .18s, color .18s, box-shadow .18s, transform .12s;
+}
+.pg-mark:active { transform: scale(0.93); }
+.pg-mark[aria-pressed="true"][data-mark="weak"] { background: var(--mg); color: #1a0015; box-shadow: 0 0 22px rgba(255, 43, 214, 0.65); }
+.pg-mark[aria-pressed="true"][data-mark="known"] { background: var(--cy); color: #001417; box-shadow: 0 0 22px rgba(0, 229, 255, 0.65); }
+.pg-mark[aria-pressed="true"] .ico { animation: t-pop .26s cubic-bezier(.2, .9, .3, 1.4); }
+
+.sync { border-top-color: var(--hair); }
+.toast { background: var(--cy); color: var(--paper); box-shadow: 0 0 20px rgba(0, 229, 255, 0.5); animation: t-rise .2s both; }
+.plain-btn { background: transparent; border: 1px solid var(--cy); color: var(--cy); }
+
+/* ───── 上のバー:スクロールすると、なめらかに地と線が出る ───── */
+.crumb {
+  position: sticky; top: 0; z-index: 5;
+  margin: 0 calc(-1 * var(--gutter));
+  padding-left: var(--gutter); padding-right: var(--gutter);
+}
+.crumb::before {
+  content: "";
+  position: absolute; inset: 0; z-index: -1;
+  background: rgba(6, 7, 11, 0.86);
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(0, 229, 255, 0.45);
+  box-shadow: 0 6px 20px rgba(0, 229, 255, 0.12);
+}
+@supports (animation-timeline: scroll()) {
+  .crumb::before { opacity: 0; animation: t-bar linear both; animation-timeline: scroll(root); animation-range: 0 72px; }
+}
+
+/* ───── 動き:短いフェード＋わずかな移動 ───── */
+@keyframes t-bar { to { opacity: 1; } }
+@keyframes t-rise { from { opacity: 0; transform: translateY(8px); } }
+@keyframes t-pop { from { transform: scale(0.5); } }
+#view > .list-head, #view > .rows, #view > .note, #view > .hw--plain,
+#view > .block:not(:has(.rows)), .entry > * { animation: t-rise .22s cubic-bezier(.2, .7, .2, 1) backwards; }
+.entry > :nth-child(2) { animation-delay: .06s; }
+.entry > :nth-child(3) { animation-delay: .12s; }
+#view > .rows { animation-delay: .05s; }
+
+@media (min-width: 700px) { .hw { font-size: 52px; } }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+  .crumb::before { opacity: 1; }
+}

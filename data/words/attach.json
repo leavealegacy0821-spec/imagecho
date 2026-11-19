@@ -1,0 +1,94 @@
+{
+  "word": "attach",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈtætʃ/",
+  "core_image": {
+    "text": "くっつけて、離れないようにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 84,74 108,74\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><rect x=\"110\" y=\"50\" width=\"70\" height=\"50\"/><rect x=\"180\" y=\"62\" width=\"22\" height=\"26\"/></g><text x=\"146\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くっつける</text><text x=\"146\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">離れない</text></svg>"
+  },
+  "etymology": "at(ad=〜へ) + tach(杭・留め具) → 〜に留める → くっつける・取り付ける → 書類やメールに添付する → 心がくっつく=愛着を持つ(be attached to)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to fasten or join one thing to another, or to send a file with an email."
+    }
+  ],
+  "cautions": [
+    "attach A to B=AをBに取り付ける・添付する",
+    "be attached to A=Aに愛着がある・Aに付属している",
+    "attach importance to A=Aを重視する",
+    "反対は detach。名詞 attachment=添付ファイル・愛着"
+  ],
+  "patterns": [
+    {
+      "form": "attach A to B",
+      "meaning": "AをBに取り付ける"
+    },
+    {
+      "form": "be attached to A",
+      "meaning": "Aに愛着がある"
+    },
+    {
+      "form": "attach importance to A",
+      "meaning": "Aを重視する"
+    },
+    {
+      "form": "attachment",
+      "meaning": "添付ファイル・愛着"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "取り付ける",
+      "en": "Attach the label to the front of your bag.",
+      "ja": "名札をかばんの前に付けなさい。"
+    },
+    {
+      "source": "original",
+      "label": "添付する",
+      "en": "I have attached the photos to this email.",
+      "ja": "このメールに写真を添付しました。"
+    },
+    {
+      "source": "original",
+      "label": "be attached to=愛着がある",
+      "en": "The boy is very attached to his old teddy bear.",
+      "ja": "その少年は、古いクマのぬいぐるみをとても大事にしている。"
+    },
+    {
+      "source": "original",
+      "label": "attach importance to",
+      "en": "Japanese companies attach great importance to teamwork.",
+      "ja": "日本の企業は、チームワークをとても重視する。"
+    },
+    {
+      "source": "original",
+      "label": "付属している",
+      "en": "The hospital is attached to the university.",
+      "ja": "その病院は、大学の付属病院だ。"
+    },
+    {
+      "source": "original",
+      "label": "attachment(名詞)",
+      "en": "Please open the attachment to see the full report.",
+      "ja": "報告書全体を見るには、添付ファイルを開いてください。"
+    }
+  ],
+  "check_points": [
+    "be attached to の2つの意味を言えるか",
+    "attach importance to はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "attach A to B、attach importance to、be attached to が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 252
+    }
+  ]
+}

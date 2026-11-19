@@ -1,0 +1,97 @@
+{
+  "word": "succeed",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/səkˈsiːd/",
+  "core_image": {
+    "text": "後に続いて進む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><polyline points=\"66,74 90,78 108,76\"/><line x1=\"66\" y1=\"74\" x2=\"56\" y2=\"96\"/><line x1=\"108\" y1=\"72\" x2=\"124\" y2=\"80\"/><circle cx=\"160\" cy=\"52\" r=\"10\"/><line x1=\"160\" y1=\"62\" x2=\"160\" y2=\"106\"/><line x1=\"160\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"106\" x2=\"170\" y2=\"140\"/><polyline points=\"160,74 140,82 126,80\"/><line x1=\"160\" y1=\"74\" x2=\"174\" y2=\"92\"/><line x1=\"186\" y1=\"74\" x2=\"222\" y2=\"74\"/><polyline points=\"215,70.2 222,74 215,77.8\"/></g><text x=\"116\" y=\"54\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">後に続く</text><text x=\"204\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">前へ</text></svg>"
+  },
+  "etymology": "suc(sub=下から・後に) + ceed(行く。proceed, exceed と同じ) → 後に続いて行く → 前の人の跡を継ぐ(succeed to)／事がうまく後へ続く=成功する(succeed in)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to achieve what you have been trying to do, or to take a position or job after someone else."
+    }
+  ],
+  "cautions": [
+    "succeed in doing=〜することに成功する(to do は×)",
+    "succeed to A=Aを継承する、succeed A (as B)=(Bとして)Aの後を継ぐ",
+    "派生語が2系統ある。成功: success / successful。継ぐ: succession(連続・継承)/ successive(連続した)/ successor(後継者)"
+  ],
+  "patterns": [
+    {
+      "form": "succeed in doing",
+      "meaning": "〜することに成功する"
+    },
+    {
+      "form": "succeed to A",
+      "meaning": "Aを継承する"
+    },
+    {
+      "form": "succeed A as B",
+      "meaning": "BとしてAの後を継ぐ"
+    },
+    {
+      "form": "successful",
+      "meaning": "成功した"
+    },
+    {
+      "form": "successive",
+      "meaning": "連続した"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "succeed in=成功する",
+      "en": "After many failures, he finally succeeded in solving the problem.",
+      "ja": "多くの失敗の末、彼はついにその問題を解くことに成功した。"
+    },
+    {
+      "source": "original",
+      "label": "成功する",
+      "en": "If you want to succeed as a musician, you have to practice every day.",
+      "ja": "音楽家として成功したければ、毎日練習しなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "後を継ぐ",
+      "en": "She succeeded her father as president of the company last year.",
+      "ja": "彼女は去年、父の後を継いでその会社の社長になった。"
+    },
+    {
+      "source": "original",
+      "label": "succeed to=継承する",
+      "en": "The prince succeeded to the throne when he was only nineteen.",
+      "ja": "王子はまだ19歳のときに王位を継いだ。"
+    },
+    {
+      "source": "original",
+      "label": "successful(成功した)",
+      "en": "The operation was successful, and she left the hospital in a week.",
+      "ja": "手術は成功し、彼女は1週間で退院した。"
+    },
+    {
+      "source": "original",
+      "label": "successive(連続した)",
+      "en": "Our team has won the championship for three successive years.",
+      "ja": "私たちのチームは3年連続で優勝している。"
+    }
+  ],
+  "check_points": [
+    "「成功する」と「継ぐ」が同じ単語になるわけを「後に続いて進む」から説明できるか",
+    "successful と successive の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "succeed in doing、successful / successive、success / succession の区別が語彙問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 83
+    }
+  ]
+}

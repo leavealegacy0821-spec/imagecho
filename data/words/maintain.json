@@ -1,0 +1,97 @@
+{
+  "word": "maintain",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/meɪnˈteɪn/",
+  "core_image": {
+    "text": "手で支えて、同じ状態を保ち続ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"40\" y1=\"150\" x2=\"200\" y2=\"150\"/><circle cx=\"120\" cy=\"76\" r=\"10\"/><line x1=\"120\" y1=\"86\" x2=\"120\" y2=\"120\"/><polyline points=\"120,94 100,80 98,54\"/><polyline points=\"120,94 140,80 142,54\"/><line x1=\"120\" y1=\"120\" x2=\"106\" y2=\"150\"/><line x1=\"120\" y1=\"120\" x2=\"134\" y2=\"150\"/><rect x=\"62\" y=\"46\" width=\"116\" height=\"8\"/><rect x=\"102\" y=\"20\" width=\"36\" height=\"26\"/><line x1=\"14\" y1=\"50\" x2=\"54\" y2=\"50\" stroke-dasharray=\"5 6\"/><line x1=\"186\" y1=\"50\" x2=\"226\" y2=\"50\" stroke-dasharray=\"5 6\"/></g><text x=\"196\" y=\"92\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">支え続ける</text><text x=\"40\" y=\"42\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そのまま</text></svg>"
+  },
+  "etymology": "main(手。ラテン語 manu=手で) + tain(保つ。ラテン語 tenere) → 手で持ち続ける → 状態や水準を保つ(維持する) → 手を入れて良い状態に保つ(整備する) → 意見を手放さない(主張する) → 生活を支え続ける(養う)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to keep something in the same state or at the same level, often by taking care of it. It also means to keep saying that something is true, even when others do not agree."
+    }
+  ],
+  "cautions": [
+    "maintain that ~ は「(反対されても)〜だと主張し続ける」。「維持する」と訳すと意味が通らない",
+    "名詞は maintenance。つづりが -tain → -ten- に変わる。「整備」だけでなく「維持」の意味もある",
+    "keep より「手をかけて水準を落とさない」感じが強い。retain は手放さず持ち続ける、sustain は下から支えて続かせる"
+  ],
+  "patterns": [
+    {
+      "form": "maintain that ~",
+      "meaning": "〜だと主張する"
+    },
+    {
+      "form": "maintain order / peace",
+      "meaning": "秩序／平和を保つ"
+    },
+    {
+      "form": "maintain a relationship with A",
+      "meaning": "Aとの関係を保つ"
+    },
+    {
+      "form": "maintain one's health",
+      "meaning": "健康を保つ"
+    },
+    {
+      "form": "maintain a balance between A and B",
+      "meaning": "AとBのつり合いを保つ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "(状態を)維持する",
+      "en": "It is difficult to maintain a healthy diet when you are busy with club activities and homework.",
+      "ja": "部活動や宿題で忙しいと、健康的な食生活を維持するのは難しい。"
+    },
+    {
+      "source": "original",
+      "label": "(関係を)保つ",
+      "en": "The two countries have maintained a friendly relationship for more than a hundred years.",
+      "ja": "その2国は100年以上にわたって友好的な関係を保ってきた。"
+    },
+    {
+      "source": "original",
+      "label": "整備する",
+      "en": "The old bridge is carefully maintained by the city so that people can cross it safely.",
+      "ja": "その古い橋は、人々が安全に渡れるよう、市によって入念に整備されている。"
+    },
+    {
+      "source": "original",
+      "label": "maintain that=主張する",
+      "en": "He has always maintained that he was at home on the night of the accident.",
+      "ja": "彼は、事故の夜は家にいたとずっと主張している。"
+    },
+    {
+      "source": "original",
+      "label": "(家族を)養う",
+      "en": "She worked at two jobs to maintain her family after her husband became ill.",
+      "ja": "夫が病気になってから、彼女は家族を養うために2つの仕事をした。"
+    },
+    {
+      "source": "original",
+      "label": "(秩序を)保つ",
+      "en": "Teachers are expected to maintain order in the classroom without being too strict.",
+      "ja": "教師は、厳しくしすぎることなく教室の秩序を保つことを求められる。"
+    }
+  ],
+  "check_points": [
+    "なぜ maintain に「主張する」の意味があるのか、「手で持ち続ける」から説明できるか",
+    "「整備する」と「養う」は、何を保ち続けているのかをそれぞれ言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文での maintain that ~(主張する)の和訳・言い換えが狙われやすい。名詞 maintenance のつづりや、keep / retain / sustain との言い換え問題にも出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2
+    }
+  ]
+}

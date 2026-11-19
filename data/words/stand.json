@@ -1,0 +1,99 @@
+{
+  "word": "stand",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/stænd/",
+  "core_image": {
+    "text": "倒れずに、まっすぐ立ち続ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"140\" cy=\"52\" r=\"10\"/><line x1=\"140\" y1=\"62\" x2=\"140\" y2=\"106\"/><line x1=\"140\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"140\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"140\" y1=\"74\" x2=\"128\" y2=\"98\"/><line x1=\"140\" y1=\"74\" x2=\"152\" y2=\"98\"/><line x1=\"30\" y1=\"64\" x2=\"100\" y2=\"64\"/><polyline points=\"93,60.2 100,64 93,67.8\"/><line x1=\"30\" y1=\"90\" x2=\"100\" y2=\"90\"/><polyline points=\"93,86.2 100,90 93,93.8\"/></g><text x=\"140\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">倒れない</text><text x=\"64\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">押してくる力</text></svg>"
+  },
+  "etymology": "古英語 standan(立つ。stable, state, stay と同じ sta=立つ) → 立っている → ある状態・位置にある → 倒れずに持ちこたえる=耐える(can't stand)／ある立場に立つ(stand for=支持する・表す)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be on your feet in an upright position, to be in a particular state, or to be able to accept something unpleasant."
+    }
+  ],
+  "cautions": [
+    "can't stand A / doing=「Aに耐えられない」。否定文・疑問文で使う",
+    "stand for A=A(の略)を表す／Aを支持する",
+    "stand out=目立つ、stand by A=Aを支える・Aのそばにいる",
+    "「〜の状態にある」の意味: stand still、stand empty",
+    "活用は stand - stood - stood"
+  ],
+  "patterns": [
+    {
+      "form": "can't stand A / doing",
+      "meaning": "A(〜すること)に耐えられない"
+    },
+    {
+      "form": "stand for A",
+      "meaning": "Aを表す・Aを支持する"
+    },
+    {
+      "form": "stand out",
+      "meaning": "目立つ"
+    },
+    {
+      "form": "stand by A",
+      "meaning": "Aを支える"
+    },
+    {
+      "form": "stand a chance",
+      "meaning": "見込みがある"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "立っている",
+      "en": "A tall tree stands in the middle of the school playground.",
+      "ja": "校庭の真ん中に、高い木が1本立っている。"
+    },
+    {
+      "source": "original",
+      "label": "耐える",
+      "en": "I can't stand people who talk loudly on the train.",
+      "ja": "電車の中で大声で話す人には我慢できない。"
+    },
+    {
+      "source": "original",
+      "label": "stand for=表す",
+      "en": "The letters \"UN\" stand for the United Nations, which was founded in 1945.",
+      "ja": "UN という文字は、1945年に設立された国際連合を表す。"
+    },
+    {
+      "source": "original",
+      "label": "stand out=目立つ",
+      "en": "Her bright red coat made her stand out in the crowd.",
+      "ja": "明るい赤のコートのおかげで、彼女は人ごみの中で目立った。"
+    },
+    {
+      "source": "original",
+      "label": "stand by=支える",
+      "en": "My friends stood by me when everyone else turned against me.",
+      "ja": "ほかのみんなが私に背を向けたとき、友人たちは私を支えてくれた。"
+    },
+    {
+      "source": "original",
+      "label": "〜の状態にある",
+      "en": "The old house has stood empty since the owner died five years ago.",
+      "ja": "その古い家は、5年前に持ち主が亡くなってからずっと空き家のままだ。"
+    }
+  ],
+  "check_points": [
+    "「立つ」と「耐える」を「倒れずに立ち続ける」で説明できるか",
+    "stand for の2つの意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "can't stand、stand for、stand out、stand by が熟語問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 48
+    }
+  ]
+}

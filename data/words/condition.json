@@ -1,0 +1,103 @@
+{
+  "word": "condition",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/kənˈdɪʃn/",
+  "core_image": {
+    "text": "物事の前提となる取り決め・状態",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"56\" y1=\"74\" x2=\"44\" y2=\"98\"/><line x1=\"56\" y1=\"74\" x2=\"68\" y2=\"98\"/><line x1=\"120\" y1=\"140\" x2=\"120\" y2=\"72\"/><line x1=\"120\" y1=\"86\" x2=\"204\" y2=\"86\"/><rect x=\"138\" y=\"36\" width=\"56\" height=\"30\"/><line x1=\"148\" y1=\"46\" x2=\"184\" y2=\"46\"/><line x1=\"148\" y1=\"56\" x2=\"184\" y2=\"56\"/></g><text x=\"166\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">取り決め</text><text x=\"170\" y=\"114\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">満たせば通れる</text></svg>"
+  },
+  "etymology": "con(共に) + dic(言う。dictionary, predict と同じ) → 共に言い合って決めたこと=取り決め・条件 → 物事の前提となるありさま=状態・体調 → (複数形で)周りの状況・環境",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the state that something or someone is in, or something that must happen before another thing can happen."
+    },
+    {
+      "pos": "動詞",
+      "text": "to train or influence someone to behave or think in a particular way."
+    }
+  ],
+  "cautions": [
+    "on (the) condition that S V=〜という条件で",
+    "be in good / bad condition=状態・体調が良い・悪い",
+    "複数形 conditions で「状況・環境」: living conditions(生活環境)、working conditions(労働条件)",
+    "a heart condition のように「病気」の意味もある"
+  ],
+  "patterns": [
+    {
+      "form": "on condition that S V",
+      "meaning": "〜という条件で"
+    },
+    {
+      "form": "be in good condition",
+      "meaning": "状態が良い"
+    },
+    {
+      "form": "living conditions",
+      "meaning": "生活環境"
+    },
+    {
+      "form": "working conditions",
+      "meaning": "労働条件"
+    },
+    {
+      "form": "under ... conditions",
+      "meaning": "〜の状況で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "条件",
+      "en": "You can borrow my bike on condition that you return it by five.",
+      "ja": "5時までに返すという条件で、私の自転車を貸してあげる。"
+    },
+    {
+      "source": "original",
+      "label": "状態",
+      "en": "The used car I bought last month is still in very good condition.",
+      "ja": "先月買った中古車は、まだとても状態が良い。"
+    },
+    {
+      "source": "original",
+      "label": "体調",
+      "en": "He is in no condition to travel after such a serious operation.",
+      "ja": "あんな大手術の後なので、彼は旅行できる体調ではない。"
+    },
+    {
+      "source": "original",
+      "label": "状況・環境(複数形)",
+      "en": "Living conditions in the village have improved greatly in the last ten years.",
+      "ja": "その村の生活環境は、この10年で大きく改善した。"
+    },
+    {
+      "source": "original",
+      "label": "労働条件",
+      "en": "The workers demanded better pay and safer working conditions.",
+      "ja": "労働者たちは、より良い賃金とより安全な労働条件を求めた。"
+    },
+    {
+      "source": "original",
+      "label": "病気",
+      "en": "My grandmother has a heart condition, so she cannot walk very fast.",
+      "ja": "祖母は心臓に病気があるので、あまり速く歩けない。"
+    }
+  ],
+  "check_points": [
+    "「条件」と「状態」が同じ単語になるわけを「前提となる取り決め・状態」から説明できるか",
+    "on condition that を使った文を1つ作れるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "on condition that、in good condition、living / working conditions が長文・文法で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 59
+    }
+  ]
+}

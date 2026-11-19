@@ -1,0 +1,103 @@
+{
+  "word": "count",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/kaʊnt/",
+  "core_image": {
+    "text": "一つひとつ数に入れる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><polyline points=\"46,74 72,72 92,76\"/><line x1=\"46\" y1=\"74\" x2=\"36\" y2=\"96\"/><circle cx=\"120\" cy=\"124\" r=\"12\"/><circle cx=\"160\" cy=\"124\" r=\"12\"/><circle cx=\"200\" cy=\"124\" r=\"12\"/><polyline points=\"114,92 120,100 130,84\"/><polyline points=\"154,92 160,100 170,84\"/></g><text x=\"150\" y=\"66\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">数に入れる</text><text x=\"202\" y=\"98\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">これも?</text></svg>"
+  },
+  "etymology": "ラテン語 computare(計算する。compute と同じ) → 古フランス語 conter → 数える → 数に入れる価値がある=重要である／当てにして数に入れる(count on)。account も同じ語源",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say numbers in order or find the total of something, or to be important."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of counting, or the total number that you get."
+    }
+  ],
+  "cautions": [
+    "自動詞で「重要である」(=matter): Every vote counts.",
+    "count on A=Aを当てにする(=depend on, rely on)",
+    "count A as B=AをBとみなす",
+    "countless=数えきれないほどの"
+  ],
+  "patterns": [
+    {
+      "form": "count A",
+      "meaning": "Aを数える"
+    },
+    {
+      "form": "A count",
+      "meaning": "Aは重要である"
+    },
+    {
+      "form": "count on A (to do)",
+      "meaning": "Aを当てにする"
+    },
+    {
+      "form": "count A as B",
+      "meaning": "AをBとみなす"
+    },
+    {
+      "form": "lose count of A",
+      "meaning": "Aの数がわからなくなる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "数える",
+      "en": "The teacher counted the students before the bus left the parking lot.",
+      "ja": "バスが駐車場を出る前に、先生は生徒の人数を数えた。"
+    },
+    {
+      "source": "original",
+      "label": "重要である",
+      "en": "It is not how much you have but what you do that counts.",
+      "ja": "大切なのは、どれだけ持っているかではなく、何をするかだ。"
+    },
+    {
+      "source": "original",
+      "label": "count on=当てにする",
+      "en": "You can count on me to help you whenever you are in trouble.",
+      "ja": "困ったときはいつでも、私が助けると当てにしてくれていい。"
+    },
+    {
+      "source": "original",
+      "label": "count as=みなされる",
+      "en": "Does a tomato count as a fruit or a vegetable?",
+      "ja": "トマトは果物とみなされるのか、それとも野菜とみなされるのか。"
+    },
+    {
+      "source": "original",
+      "label": "数に入れる",
+      "en": "There were six of us at the party, not counting the children.",
+      "ja": "パーティーには、子どもを数に入れずに6人いた。"
+    },
+    {
+      "source": "original",
+      "label": "countless(形容詞)",
+      "en": "She has helped countless people during her long career as a nurse.",
+      "ja": "彼女は看護師としての長い経歴の中で、数えきれないほどの人を助けてきた。"
+    }
+  ],
+  "check_points": [
+    "「数える」と「重要である」を「数に入れる」で説明できるか",
+    "count on を別の語句で言い換えられるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "自動詞 count(重要である)が和訳で狙われる。count on = rely on も必須。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 52
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "word": "medicine",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈmedəsn/",
+  "core_image": {
+    "text": "病気を治すためのもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 90,70 84,58\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><rect x=\"150\" y=\"84\" width=\"40\" height=\"56\"/><rect x=\"160\" y=\"72\" width=\"20\" height=\"12\"/><line x1=\"170\" y1=\"100\" x2=\"170\" y2=\"124\"/><line x1=\"158\" y1=\"112\" x2=\"182\" y2=\"112\"/></g><text x=\"70\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">飲んで治す</text><text x=\"170\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">薬</text></svg>"
+  },
+  "etymology": "ラテン語 mederi(治す) → medicus(医者) → medicina(治す術) → 医学／治すためのもの=薬。medical と同じ語源",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a substance that you take to treat an illness, or the study and treatment of diseases."
+    }
+  ],
+  "cautions": [
+    "「薬を飲む」は take medicine(drink は使わない)",
+    "「医学」の意味では数えない(study medicine)",
+    "pill・tablet=錠剤、drug=薬(麻薬の意味もある)"
+  ],
+  "patterns": [
+    {
+      "form": "take medicine",
+      "meaning": "薬を飲む"
+    },
+    {
+      "form": "study medicine",
+      "meaning": "医学を学ぶ"
+    },
+    {
+      "form": "medicine for A",
+      "meaning": "Aの薬"
+    },
+    {
+      "form": "practice medicine",
+      "meaning": "医者をしている"
+    },
+    {
+      "form": "Western medicine",
+      "meaning": "西洋医学"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "薬",
+      "en": "Take this medicine three times a day after meals for a week.",
+      "ja": "この薬を1週間、1日3回食後に飲んでください。"
+    },
+    {
+      "source": "original",
+      "label": "医学",
+      "en": "She decided to study medicine because she wanted to help sick children.",
+      "ja": "彼女は病気の子どもたちを助けたくて、医学を学ぶことに決めた。"
+    },
+    {
+      "source": "original",
+      "label": "medicine for",
+      "en": "Is there any good medicine for a headache in this drugstore?",
+      "ja": "この薬局に、頭痛によく効く薬はありますか。"
+    },
+    {
+      "source": "original",
+      "label": "医療",
+      "en": "Modern medicine has made it possible for people to live much longer than before.",
+      "ja": "現代の医療のおかげで、人は以前よりずっと長く生きられるようになった。"
+    },
+    {
+      "source": "original",
+      "label": "たとえ",
+      "en": "Laughter is often said to be the best medicine for a tired mind.",
+      "ja": "笑いは疲れた心にいちばんの薬だとよく言われる。"
+    }
+  ],
+  "check_points": [
+    "「薬を飲む」で使う動詞は何か",
+    "medicine の2つの意味(薬・医学)を「治すためのもの」から説明できるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "take medicine の動詞選択、「医学」の意味が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 20
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "move",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/muːv/",
+  "core_image": {
+    "text": "今ある場所から別の場所へ動かす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 84,84 106,88\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><rect x=\"108\" y=\"96\" width=\"44\" height=\"44\"/><line x1=\"124\" y1=\"80\" x2=\"198\" y2=\"80\"/><polyline points=\"191,76.2 198,80 191,83.8\"/><rect x=\"176\" y=\"96\" width=\"44\" height=\"44\" stroke-dasharray=\"4 4\"/></g><text x=\"160\" y=\"68\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">別の場所へ</text></svg>"
+  },
+  "etymology": "ラテン語 movere(動かす。motion, motive, emotion, remove と同じ) → 動く・動かす → 住む場所を動かす=引っ越す → 心を動かす=感動させる → 人を動かして〜させる → 事を動かす一手=行動・措置(名詞)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to change position or make something change position, to go to live in a different place, or to make someone feel strong emotion."
+    },
+    {
+      "pos": "名詞",
+      "text": "an action that you take in order to achieve something."
+    }
+  ],
+  "cautions": [
+    "move to A=Aに引っ越す",
+    "感情の動詞。「(人が)感動する」は be moved by A。moving=感動的な",
+    "move A to tears=Aを感動させて泣かせる",
+    "make a move=行動を起こす。movement=運動・動き"
+  ],
+  "patterns": [
+    {
+      "form": "move to A",
+      "meaning": "Aに引っ越す"
+    },
+    {
+      "form": "be moved by A",
+      "meaning": "Aに感動する"
+    },
+    {
+      "form": "move A to tears",
+      "meaning": "Aを感動させて泣かせる"
+    },
+    {
+      "form": "make a move",
+      "meaning": "行動を起こす"
+    },
+    {
+      "form": "moving",
+      "meaning": "感動的な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "動く",
+      "en": "Don't move until I tell you that it is safe.",
+      "ja": "安全だと私が言うまで、動かないで。"
+    },
+    {
+      "source": "original",
+      "label": "動かす",
+      "en": "Could you help me move this table to the other room?",
+      "ja": "このテーブルを別の部屋に動かすのを手伝ってくれませんか。"
+    },
+    {
+      "source": "original",
+      "label": "引っ越す",
+      "en": "My family moved to Nagoya when I was in the fifth grade.",
+      "ja": "私が5年生のとき、家族で名古屋に引っ越した。"
+    },
+    {
+      "source": "original",
+      "label": "感動させる",
+      "en": "I was deeply moved by the story of the blind pianist.",
+      "ja": "目の見えないピアニストの話に、私は深く感動した。"
+    },
+    {
+      "source": "original",
+      "label": "moving(感動的な)",
+      "en": "She gave a moving speech at her friend's wedding.",
+      "ja": "彼女は友人の結婚式で、感動的なスピーチをした。"
+    },
+    {
+      "source": "original",
+      "label": "行動(名詞)",
+      "en": "The company made a bold move to enter the Asian market.",
+      "ja": "その会社は、アジア市場に参入するという大胆な手を打った。"
+    }
+  ],
+  "check_points": [
+    "引っ越す・感動させるを「別の場所へ動かす」で説明できるか",
+    "「私は感動した」は I moved か I was moved か、理由も言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "be moved(感動する)/ moving の区別、move to(引っ越す)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 88
+    }
+  ]
+}

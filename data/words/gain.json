@@ -1,0 +1,99 @@
+{
+  "word": "gain",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɡeɪn/",
+  "core_image": {
+    "text": "努力して少しずつ手に入れ、増やす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"52\" cy=\"52\" r=\"10\"/><line x1=\"52\" y1=\"62\" x2=\"52\" y2=\"106\"/><line x1=\"52\" y1=\"106\" x2=\"42\" y2=\"140\"/><line x1=\"52\" y1=\"106\" x2=\"62\" y2=\"140\"/><polyline points=\"52,74 78,66 102,56\"/><line x1=\"52\" y1=\"74\" x2=\"42\" y2=\"96\"/><rect x=\"110\" y=\"116\" width=\"30\" height=\"24\"/><rect x=\"110\" y=\"92\" width=\"30\" height=\"24\"/><rect x=\"110\" y=\"68\" width=\"30\" height=\"24\"/><rect x=\"110\" y=\"44\" width=\"30\" height=\"24\" stroke-dasharray=\"4 4\"/><line x1=\"166\" y1=\"130\" x2=\"166\" y2=\"50\"/><polyline points=\"162.2,57 166,50 169.8,57\"/></g><text x=\"200\" y=\"92\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">増えていく</text></svg>"
+  },
+  "etymology": "古フランス語 gaaignier(耕して得る・稼ぐ) → 働いて手に入れる → 利益・経験・人気を得る → 重さや速さを増す。名詞は「利益・増加」",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to get something useful or wanted, especially gradually, or to increase in weight, speed or value."
+    },
+    {
+      "pos": "名詞",
+      "text": "an increase in something, or an advantage or profit."
+    }
+  ],
+  "cautions": [
+    "gain weight=体重が増える(⇔ lose weight)",
+    "gain experience / knowledge / popularity / access to A",
+    "gain は「努力して少しずつ得る」、earn は「働いて稼ぐ」、obtain は「手に入れる」(堅い)",
+    "No pain, no gain.=苦労なくして得るものなし"
+  ],
+  "patterns": [
+    {
+      "form": "gain weight",
+      "meaning": "体重が増える"
+    },
+    {
+      "form": "gain experience",
+      "meaning": "経験を積む"
+    },
+    {
+      "form": "gain access to A",
+      "meaning": "Aを利用できるようになる"
+    },
+    {
+      "form": "gain popularity",
+      "meaning": "人気を得る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "(経験を)積む",
+      "en": "She gained a lot of experience by working at a hospital abroad.",
+      "ja": "彼女は海外の病院で働いて、多くの経験を積んだ。"
+    },
+    {
+      "source": "original",
+      "label": "体重が増える",
+      "en": "I have gained three kilograms since I stopped playing tennis.",
+      "ja": "テニスをやめてから、体重が3キロ増えた。"
+    },
+    {
+      "source": "original",
+      "label": "(人気を)得る",
+      "en": "The singer quickly gained popularity among young people.",
+      "ja": "その歌手は、若者の間でたちまち人気を得た。"
+    },
+    {
+      "source": "original",
+      "label": "(利用権を)得る",
+      "en": "Students can gain access to the library with their ID cards.",
+      "ja": "学生は、学生証で図書館を利用できる。"
+    },
+    {
+      "source": "original",
+      "label": "(速度を)増す",
+      "en": "The car gained speed as it went down the hill.",
+      "ja": "車は坂を下るにつれて、速度を増した。"
+    },
+    {
+      "source": "original",
+      "label": "得るもの(名詞)",
+      "en": "There is no gain without effort, as the saying goes.",
+      "ja": "ことわざにあるように、努力なくして得るものはない。"
+    }
+  ],
+  "check_points": [
+    "gain weight の反対の表現は何か",
+    "「得る」と「増える」を「少しずつ手に入れる」で説明できるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "gain weight、gain experience / access が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 147
+    }
+  ]
+}

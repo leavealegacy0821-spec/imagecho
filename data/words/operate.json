@@ -1,0 +1,94 @@
+{
+  "word": "operate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈɑːpəreɪt/",
+  "core_image": {
+    "text": "手を動かして、働かせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><polyline points=\"66,74 92,80 112,76\"/><line x1=\"66\" y1=\"74\" x2=\"56\" y2=\"96\"/><rect x=\"114\" y=\"60\" width=\"70\" height=\"50\"/><circle cx=\"134\" cy=\"80\" r=\"8\"/><circle cx=\"160\" cy=\"80\" r=\"8\"/><line x1=\"124\" y1=\"98\" x2=\"174\" y2=\"98\"/></g><text x=\"149\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">機械</text><text x=\"149\" y=\"128\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">働かせる</text></svg>"
+  },
+  "etymology": "ラテン語 opus(仕事・作品。opera と同じ) → operari(働く) → 機械を動かす・操作する → 会社や仕組みが動く・経営する → 医者が体に働きかける=手術する(operate on)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to use or control a machine, to work in a particular way, or to cut open someone's body to treat them."
+    }
+  ],
+  "cautions": [
+    "operate on A=Aに手術をする(on が必要)",
+    "operate a machine=機械を操作する",
+    "名詞 operation=操作・運営・手術・作戦。in operation=稼働中",
+    "operator=操作する人・(電話の)交換手"
+  ],
+  "patterns": [
+    {
+      "form": "operate A",
+      "meaning": "Aを操作する・経営する"
+    },
+    {
+      "form": "operate on A",
+      "meaning": "Aに手術をする"
+    },
+    {
+      "form": "operation",
+      "meaning": "手術・操作"
+    },
+    {
+      "form": "in operation",
+      "meaning": "稼働中で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "操作する",
+      "en": "Only trained workers are allowed to operate this machine.",
+      "ja": "訓練を受けた作業員だけが、この機械を操作できる。"
+    },
+    {
+      "source": "original",
+      "label": "operate on",
+      "en": "The doctor operated on her knee last week.",
+      "ja": "医師は先週、彼女のひざの手術をした。"
+    },
+    {
+      "source": "original",
+      "label": "動く",
+      "en": "The new train system will begin to operate next spring.",
+      "ja": "新しい鉄道の仕組みは、来年の春に動き始める。"
+    },
+    {
+      "source": "original",
+      "label": "経営する",
+      "en": "The company operates more than fifty hotels in Asia.",
+      "ja": "その会社は、アジアで50を超えるホテルを経営している。"
+    },
+    {
+      "source": "original",
+      "label": "operation(手術)",
+      "en": "He had an operation on his heart two years ago.",
+      "ja": "彼は2年前に心臓の手術を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "in operation",
+      "en": "The old factory is no longer in operation.",
+      "ja": "その古い工場は、もう稼働していない。"
+    }
+  ],
+  "check_points": [
+    "operate on A の on の意味を言えるか",
+    "operation の意味を3つ言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "operate on(手術する)、operation が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 245
+    }
+  ]
+}

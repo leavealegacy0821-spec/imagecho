@@ -1,0 +1,98 @@
+{
+  "word": "suggest",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/səɡˈdʒest/",
+  "core_image": {
+    "text": "下からそっと差し出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"58\" cy=\"52\" r=\"10\"/><line x1=\"58\" y1=\"62\" x2=\"58\" y2=\"106\"/><polyline points=\"58,74 84,94 110,92\"/><polyline points=\"58,74 46,90 50,104\"/><line x1=\"58\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"58\" y1=\"106\" x2=\"70\" y2=\"140\"/><circle cx=\"112\" cy=\"72\" r=\"10\"/><polyline points=\"107,81 107,88 117,88 117,81\"/><line x1=\"112\" y1=\"54\" x2=\"112\" y2=\"48\"/><line x1=\"97\" y1=\"60\" x2=\"92\" y2=\"56\"/><line x1=\"127\" y1=\"60\" x2=\"132\" y2=\"56\"/><path d=\"M132 84 Q150 84 160 68\" stroke-dasharray=\"5 6\"/><polyline points=\"151,70 161,66 162,77\"/><circle cx=\"184\" cy=\"52\" r=\"10\"/><line x1=\"184\" y1=\"62\" x2=\"184\" y2=\"106\"/><polyline points=\"184,74 172,86 176,100\"/><polyline points=\"184,74 196,88 194,102\"/><line x1=\"184\" y1=\"106\" x2=\"172\" y2=\"140\"/><line x1=\"184\" y1=\"106\" x2=\"196\" y2=\"140\"/></g><text x=\"120\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こんな案はどう?</text></svg>"
+  },
+  "etymology": "sug(下から。sub の変化形) + gest(運ぶ。ラテン語 gerere) → 下からそっと持ち出す → 考えを控えめに差し出す(提案する) → 事実やデータが結論をそれとなく差し出す(示唆する・暗に示す)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to offer an idea or plan for someone to think about. It also means to show in an indirect way that something is probably true."
+    }
+  ],
+  "cautions": [
+    "「提案する」の that 節は suggest that S (should) + 動詞の原形。主語が he でも gets ではなく get",
+    "「示唆する」の意味では原形にしない。Studies suggest that he is right. のようにふつうの時制",
+    "suggest 人 to do の形はない。相手を言うときは suggest to 人 that ~。目的語は doing で、to do は取らない",
+    "長文では「提案する」より「示唆する・暗に示す」のほうが多い。主語がデータ・研究・表情なら、まず「示唆する」"
+  ],
+  "patterns": [
+    {
+      "form": "suggest that S (should) do",
+      "meaning": "Sが〜するよう提案する"
+    },
+    {
+      "form": "suggest doing",
+      "meaning": "〜することを提案する"
+    },
+    {
+      "form": "suggest (to 人) that ~",
+      "meaning": "(人に)〜と提案する"
+    },
+    {
+      "form": "suggest A to B",
+      "meaning": "AをBに提案する・勧める"
+    },
+    {
+      "form": "Research / Evidence suggests that ~",
+      "meaning": "研究／証拠が〜ということを示唆する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "suggest that S (should) 原形=提案する",
+      "en": "The doctor suggested that he get more exercise and eat less salty food.",
+      "ja": "医師は彼に、もっと運動をして塩辛いものを控えるよう勧めた。"
+    },
+    {
+      "source": "original",
+      "label": "suggest doing=〜することを提案する",
+      "en": "My friend suggested taking a different route because the main road was crowded.",
+      "ja": "大通りが混んでいたので、友人は別の道を行こうと提案した。"
+    },
+    {
+      "source": "original",
+      "label": "(研究が)示唆する",
+      "en": "Recent studies suggest that sleeping less than six hours a night can harm your memory.",
+      "ja": "最近の研究は、一晩6時間未満の睡眠が記憶力を損なうおそれがあることを示唆している。"
+    },
+    {
+      "source": "original",
+      "label": "(様子が)それとなく示す",
+      "en": "The look on her face suggested that she was not satisfied with the answer.",
+      "ja": "彼女の表情は、その答えに満足していないことを物語っていた。"
+    },
+    {
+      "source": "original",
+      "label": "suggest A to B=AをBに勧める",
+      "en": "Can you suggest a good book to someone who has just started learning English?",
+      "ja": "英語を学び始めたばかりの人に、良い本を勧めてもらえますか。"
+    },
+    {
+      "source": "original",
+      "label": "示唆する(evidence to suggest)",
+      "en": "There is no evidence to suggest that the medicine is dangerous for children.",
+      "ja": "その薬が子どもにとって危険だということを示す証拠はない。"
+    }
+  ],
+  "check_points": [
+    "「提案する」と「示唆する」が、どちらも「下からそっと差し出す」で説明できるか",
+    "提案の that 節で動詞が原形になり、示唆の that 節ではならない理由を言えるか(まだ実現していないことか、事実か)"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "suggest that S (should) 原形 は文法問題の定番で、三単現の s や過去形を選ばせる引っかけが多い。長文では「示唆する」の意味がほとんどで、和訳や内容一致で差がつく。suggest 人 to do の誤りを選ばせる正誤問題にも出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 4
+    }
+  ]
+}

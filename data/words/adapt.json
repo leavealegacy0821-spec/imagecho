@@ -1,0 +1,94 @@
+{
+  "word": "adapt",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈdæpt/",
+  "core_image": {
+    "text": "相手に合うように形を変える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><polyline points=\"46,74 72,80 94,84\"/><line x1=\"46\" y1=\"74\" x2=\"36\" y2=\"96\"/><circle cx=\"108\" cy=\"84\" r=\"12\"/><line x1=\"126\" y1=\"84\" x2=\"152\" y2=\"84\"/><polyline points=\"145,80.2 152,84 145,87.8\"/><rect x=\"160\" y=\"72\" width=\"24\" height=\"24\"/><polyline points=\"200,56 200,72 222,72 222,96 200,96 200,140\"/></g><text x=\"140\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">形を変える</text><text x=\"220\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">合う</text></svg>"
+  },
+  "etymology": "ad(〜へ) + apt(適した・合う。apt, attitude と同じ) → 〜に合わせる → 環境に適応する・適応させる → 作品を別の形に合うよう作り変える(脚色する)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to change your behavior or ideas because of a new situation, or to change something so that it is suitable for a different use."
+    }
+  ],
+  "cautions": [
+    "adapt to A=Aに適応する(自動詞)。adapt A to B=AをBに合わせる(他動詞)",
+    "adapt oneself to A=Aに順応する",
+    "adapt A for B=AをB向けに作り変える(a novel adapted for film)",
+    "adaptation=適応・脚色、adaptable=順応性のある"
+  ],
+  "patterns": [
+    {
+      "form": "adapt to A",
+      "meaning": "Aに適応する"
+    },
+    {
+      "form": "adapt A to B",
+      "meaning": "AをBに合わせる"
+    },
+    {
+      "form": "adapt oneself to A",
+      "meaning": "Aに順応する"
+    },
+    {
+      "form": "adapt A for B",
+      "meaning": "AをB向けに作り変える"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "adapt to=適応する",
+      "en": "It took me a few months to adapt to life in a foreign country.",
+      "ja": "外国での生活に適応するのに、数か月かかった。"
+    },
+    {
+      "source": "original",
+      "label": "適応する",
+      "en": "Animals living in the desert have adapted to the lack of water.",
+      "ja": "砂漠にすむ動物は、水不足に適応してきた。"
+    },
+    {
+      "source": "original",
+      "label": "adapt A to B",
+      "en": "We need to adapt our plans to the changing situation.",
+      "ja": "変わっていく状況に、計画を合わせる必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "脚色する",
+      "en": "The novel was adapted for television and became very popular.",
+      "ja": "その小説はテレビ用に脚色され、たいへんな人気になった。"
+    },
+    {
+      "source": "original",
+      "label": "adaptable(形容詞)",
+      "en": "Children are usually more adaptable than adults.",
+      "ja": "子どもはたいてい、大人より順応性がある。"
+    },
+    {
+      "source": "original",
+      "label": "adaptation(名詞)",
+      "en": "The film is an adaptation of a famous Russian novel.",
+      "ja": "その映画は、有名なロシアの小説を脚色したものだ。"
+    }
+  ],
+  "check_points": [
+    "adapt to A と adapt A to B の違い(自動詞・他動詞)を言えるか",
+    "「適応」と「脚色」を「合うように形を変える」で説明できるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "adapt to、adapt / adopt の区別が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 123
+    }
+  ]
+}

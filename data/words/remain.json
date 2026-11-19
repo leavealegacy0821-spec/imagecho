@@ -1,0 +1,98 @@
+{
+  "word": "remain",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈmeɪn/",
+  "core_image": {
+    "text": "ほかが去っても、後に残っている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"76\" cy=\"52\" r=\"10\"/><line x1=\"76\" y1=\"62\" x2=\"76\" y2=\"106\"/><line x1=\"76\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"76\" y1=\"106\" x2=\"86\" y2=\"140\"/><line x1=\"76\" y1=\"74\" x2=\"64\" y2=\"98\"/><line x1=\"76\" y1=\"74\" x2=\"88\" y2=\"98\"/><circle cx=\"170\" cy=\"64\" r=\"8\" stroke-dasharray=\"3 3\"/><line x1=\"170\" y1=\"72\" x2=\"170\" y2=\"112\" stroke-dasharray=\"3 3\"/><circle cx=\"200\" cy=\"64\" r=\"8\" stroke-dasharray=\"3 3\"/><line x1=\"200\" y1=\"72\" x2=\"200\" y2=\"112\" stroke-dasharray=\"3 3\"/><line x1=\"184\" y1=\"126\" x2=\"222\" y2=\"126\"/><polyline points=\"215,122.2 222,126 215,129.8\"/></g><text x=\"76\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">残っている</text><text x=\"186\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">去って行く</text></svg>"
+  },
+  "etymology": "re(後ろに) + main(とどまる。mansion=住まい、permanent と同じ) → 後にとどまる → 残る → 相変わらず〜のままである(remain + 形容詞) → まだ〜されずに残っている(remain to be done)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stay in the same place or in the same condition, or to continue to exist after other things have gone."
+    }
+  ],
+  "cautions": [
+    "remain + 形容詞・名詞=〜のままである(remain silent、remain a mystery)",
+    "A remain to be done=Aはまだ〜されていない。It remains to be seen whether S V=〜かどうかはまだわからない",
+    "自動詞なので受け身にしない",
+    "remains(複数形の名詞)=遺跡・遺体・残り。the remaining A=残りのA"
+  ],
+  "patterns": [
+    {
+      "form": "remain C",
+      "meaning": "Cのままである"
+    },
+    {
+      "form": "remain to be done",
+      "meaning": "まだ〜されていない"
+    },
+    {
+      "form": "It remains to be seen whether S V",
+      "meaning": "〜かどうかはまだわからない"
+    },
+    {
+      "form": "remains",
+      "meaning": "遺跡・残り"
+    },
+    {
+      "form": "the remaining A",
+      "meaning": "残りのA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "残る",
+      "en": "Only a few people remained in the hall after the concert.",
+      "ja": "コンサートの後、会場に残った人はほんの数人だった。"
+    },
+    {
+      "source": "original",
+      "label": "remain + 形容詞",
+      "en": "He remained silent throughout the meeting.",
+      "ja": "彼は会議の間、ずっと黙ったままだった。"
+    },
+    {
+      "source": "original",
+      "label": "〜のままである",
+      "en": "The cause of the fire remains a mystery to this day.",
+      "ja": "その火事の原因は、今日までなぞのままだ。"
+    },
+    {
+      "source": "original",
+      "label": "remain to be done",
+      "en": "A lot of work remains to be done before the opening day.",
+      "ja": "開店の日までに、まだ多くの仕事が残っている。"
+    },
+    {
+      "source": "original",
+      "label": "It remains to be seen",
+      "en": "It remains to be seen whether the new plan will succeed.",
+      "ja": "新しい計画が成功するかどうかは、まだわからない。"
+    },
+    {
+      "source": "original",
+      "label": "remains(名詞)",
+      "en": "We visited the remains of an ancient temple in the desert.",
+      "ja": "私たちは、砂漠にある古代の神殿の遺跡を訪れた。"
+    }
+  ],
+  "check_points": [
+    "remain silent の remain をどう訳すか",
+    "It remains to be seen whether … はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "remain C、remain to be done、It remains to be seen が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 180
+    }
+  ]
+}

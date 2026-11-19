@@ -1,0 +1,99 @@
+{
+  "word": "decrease",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/dɪˈkriːs/",
+  "core_image": {
+    "text": "下へ減っていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><polyline points=\"40,74 64,70 84,64\"/><line x1=\"40\" y1=\"74\" x2=\"30\" y2=\"96\"/><rect x=\"104\" y=\"62\" width=\"24\" height=\"78\"/><rect x=\"140\" y=\"92\" width=\"24\" height=\"48\"/><rect x=\"176\" y=\"116\" width=\"24\" height=\"24\"/><line x1=\"108\" y1=\"44\" x2=\"196\" y2=\"100\"/><polyline points=\"192.1,93 196,100 188,99.5\"/></g><text x=\"176\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">減っていく</text></svg>"
+  },
+  "etymology": "de(下へ) + crease(育つ・大きくなる。increase と同じ根) → 下へ育つ → 数・量が減る・減らす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to become smaller in amount, number or size, or to make something smaller."
+    },
+    {
+      "pos": "名詞",
+      "text": "a fall in the amount, number or size of something."
+    }
+  ],
+  "cautions": [
+    "自動詞(減る)と他動詞(減らす)の両方",
+    "decrease by A=Aだけ減る",
+    "名詞: a decrease in A=Aの減少。on the decrease=減少中",
+    "reduce は他動詞のみ、decrease は自動詞にも使う"
+  ],
+  "patterns": [
+    {
+      "form": "decrease by A",
+      "meaning": "Aだけ減る"
+    },
+    {
+      "form": "decrease to A",
+      "meaning": "Aまで減る"
+    },
+    {
+      "form": "a decrease in A",
+      "meaning": "Aの減少"
+    },
+    {
+      "form": "on the decrease",
+      "meaning": "減少中で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "減る",
+      "en": "The number of smokers has decreased greatly over the last twenty years.",
+      "ja": "この20年で、喫煙者の数は大きく減った。"
+    },
+    {
+      "source": "original",
+      "label": "減らす",
+      "en": "Exercise can help decrease the risk of heart disease.",
+      "ja": "運動は、心臓病の危険を減らす助けになる。"
+    },
+    {
+      "source": "original",
+      "label": "decrease by",
+      "en": "Sales decreased by fifteen percent compared with last year.",
+      "ja": "売上は、去年と比べて15パーセント減った。"
+    },
+    {
+      "source": "original",
+      "label": "a decrease in",
+      "en": "There was a slight decrease in the birth rate this year.",
+      "ja": "今年は出生率がわずかに下がった。"
+    },
+    {
+      "source": "original",
+      "label": "on the decrease",
+      "en": "The number of bookstores in Japan is on the decrease.",
+      "ja": "日本の書店の数は減ってきている。"
+    },
+    {
+      "source": "original",
+      "label": "reduce との比較",
+      "en": "Prices decreased after the store reduced its costs.",
+      "ja": "店が経費を減らした後、値段が下がった。"
+    }
+  ],
+  "check_points": [
+    "increase と decrease の in / de のちがいを言えるか",
+    "decrease と reduce のちがい(自動詞にもなるか)を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "グラフ問題で必須。a decrease in、decrease by が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 232
+    }
+  ]
+}

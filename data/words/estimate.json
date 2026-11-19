@@ -1,0 +1,103 @@
+{
+  "word": "estimate",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈestɪmeɪt/",
+  "core_image": {
+    "text": "おおよその値を見積もる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"52\" cy=\"52\" r=\"10\"/><line x1=\"52\" y1=\"62\" x2=\"52\" y2=\"106\"/><line x1=\"52\" y1=\"106\" x2=\"42\" y2=\"140\"/><line x1=\"52\" y1=\"106\" x2=\"62\" y2=\"140\"/><polyline points=\"52,74 68,60 64,48\"/><line x1=\"52\" y1=\"74\" x2=\"42\" y2=\"96\"/><path d=\"M120 140 Q160 64 200 140\"/><path d=\"M146 44 Q154 38 162 44 Q170 50 178 44\"/><path d=\"M146 54 Q154 48 162 54 Q170 60 178 54\"/></g><text x=\"162\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">だいたいこのくらい</text></svg>"
+  },
+  "etymology": "ラテン語 aestimare(値をつける。esteem=尊重する と同じ) → 価値や数量をおおよそ判断する=見積もる・推定する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to try to judge the value, size or amount of something without calculating it exactly."
+    },
+    {
+      "pos": "名詞",
+      "text": "a judgment of the approximate value, size or amount of something."
+    }
+  ],
+  "cautions": [
+    "estimate A at B=AをBと見積もる",
+    "It is estimated that S V / A is estimated to do=〜と推定されている",
+    "an estimated 500 people=推定500人(数の前に置く)",
+    "名詞は語尾を /ət/ と読む。a rough estimate=おおまかな見積もり。underestimate=過小評価する"
+  ],
+  "patterns": [
+    {
+      "form": "estimate A at B",
+      "meaning": "AをBと見積もる"
+    },
+    {
+      "form": "It is estimated that S V",
+      "meaning": "〜と推定されている"
+    },
+    {
+      "form": "be estimated to do",
+      "meaning": "〜と推定される"
+    },
+    {
+      "form": "an estimated A",
+      "meaning": "推定A"
+    },
+    {
+      "form": "a rough estimate",
+      "meaning": "おおまかな見積もり"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "見積もる",
+      "en": "The police estimated the crowd at about ten thousand people.",
+      "ja": "警察は、群衆をおよそ1万人と見積もった。"
+    },
+    {
+      "source": "original",
+      "label": "It is estimated that",
+      "en": "It is estimated that the world population will reach ten billion by 2060.",
+      "ja": "世界の人口は、2060年までに100億人に達すると推定されている。"
+    },
+    {
+      "source": "original",
+      "label": "be estimated to",
+      "en": "The temple is estimated to be more than a thousand years old.",
+      "ja": "その寺は、建てられて1000年を超えると推定されている。"
+    },
+    {
+      "source": "original",
+      "label": "an estimated + 数",
+      "en": "An estimated two million tourists visit the island every year.",
+      "ja": "推定200万人の観光客が、毎年その島を訪れる。"
+    },
+    {
+      "source": "original",
+      "label": "見積もり(名詞)",
+      "en": "Can you give me a rough estimate of how much the repairs will cost?",
+      "ja": "修理にいくらかかるか、おおまかな見積もりを出してもらえますか。"
+    },
+    {
+      "source": "original",
+      "label": "過小評価する",
+      "en": "It is a mistake to estimate his ability too low just because he is young.",
+      "ja": "若いというだけで、彼の能力を低く見積もるのは間違いだ。"
+    }
+  ],
+  "check_points": [
+    "It is estimated that … を自然な日本語に訳せるか",
+    "an estimated 500 people はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "It is estimated that、an estimated + 数 が、統計を扱う長文で必須。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 143
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "publish",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈpʌblɪʃ/",
+  "core_image": {
+    "text": "みんなの前に出して、広く知らせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"50\" y=\"60\" width=\"40\" height=\"52\"/><line x1=\"58\" y1=\"74\" x2=\"82\" y2=\"74\"/><line x1=\"58\" y1=\"86\" x2=\"82\" y2=\"86\"/><line x1=\"96\" y1=\"86\" x2=\"150\" y2=\"60\" stroke-dasharray=\"5 5\"/><polyline points=\"142,59.6 150,60 145.3,66.5\"/><line x1=\"96\" y1=\"86\" x2=\"150\" y2=\"86\" stroke-dasharray=\"5 5\"/><polyline points=\"143,82.2 150,86 143,89.8\"/><line x1=\"96\" y1=\"86\" x2=\"150\" y2=\"112\" stroke-dasharray=\"5 5\"/><polyline points=\"145.3,105.5 150,112 142,112.4\"/><circle cx=\"176\" cy=\"52\" r=\"10\"/><line x1=\"176\" y1=\"62\" x2=\"176\" y2=\"106\"/><line x1=\"176\" y1=\"106\" x2=\"166\" y2=\"140\"/><line x1=\"176\" y1=\"106\" x2=\"186\" y2=\"140\"/><circle cx=\"206\" cy=\"52\" r=\"10\"/><line x1=\"206\" y1=\"62\" x2=\"206\" y2=\"106\"/><line x1=\"206\" y1=\"106\" x2=\"196\" y2=\"140\"/><line x1=\"206\" y1=\"106\" x2=\"216\" y2=\"140\"/></g><text x=\"70\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">本・記事</text><text x=\"190\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">みんな</text></svg>"
+  },
+  "etymology": "ラテン語 publicus(公の・みんなの。public と同じ) → publicare(公にする) → 世の中に知らせる → 本や記事を出版する・発表する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to print and sell a book, magazine or newspaper, or to make information available to the public."
+    }
+  ],
+  "cautions": [
+    "publish a book / an article / a report=本・記事・報告を出版する・発表する",
+    "be published=出版される",
+    "名詞 publication=出版(物)、publisher=出版社",
+    "public(公の)と同じ語源"
+  ],
+  "patterns": [
+    {
+      "form": "publish a book",
+      "meaning": "本を出版する"
+    },
+    {
+      "form": "publish a report",
+      "meaning": "報告を発表する"
+    },
+    {
+      "form": "publication",
+      "meaning": "出版・発行"
+    },
+    {
+      "form": "publisher",
+      "meaning": "出版社"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "出版する",
+      "en": "Her first novel was published when she was only nineteen.",
+      "ja": "彼女の最初の小説は、まだ19歳のときに出版された。"
+    },
+    {
+      "source": "original",
+      "label": "発表する",
+      "en": "The government published a report on the state of the economy.",
+      "ja": "政府は、経済の状況についての報告書を発表した。"
+    },
+    {
+      "source": "original",
+      "label": "掲載する",
+      "en": "The newspaper published a letter from a high school student.",
+      "ja": "その新聞は、ある高校生からの投書を掲載した。"
+    },
+    {
+      "source": "original",
+      "label": "公表する",
+      "en": "The results of the survey will be published next month.",
+      "ja": "調査の結果は、来月公表される。"
+    },
+    {
+      "source": "original",
+      "label": "publisher(名詞)",
+      "en": "He works for a publisher that specializes in children's books.",
+      "ja": "彼は児童書を専門とする出版社で働いている。"
+    },
+    {
+      "source": "original",
+      "label": "publication(名詞)",
+      "en": "The publication of the dictionary took ten years.",
+      "ja": "その辞書の出版には10年かかった。"
+    }
+  ],
+  "check_points": [
+    "public(公の)と publish のつながりを言えるか",
+    "publisher と publication の意味を言い分けられるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "publish、publication、publisher が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 250
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "arrange",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈreɪndʒ/",
+  "core_image": {
+    "text": "きちんと並べて整える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><polyline points=\"46,74 72,78 96,86\"/><line x1=\"46\" y1=\"74\" x2=\"36\" y2=\"96\"/><rect x=\"104\" y=\"100\" width=\"20\" height=\"40\"/><rect x=\"130\" y=\"100\" width=\"20\" height=\"40\"/><rect x=\"156\" y=\"100\" width=\"20\" height=\"40\"/><rect x=\"182\" y=\"100\" width=\"20\" height=\"40\" stroke-dasharray=\"4 4\"/></g><text x=\"152\" y=\"86\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">きちんと並べる</text></svg>"
+  },
+  "etymology": "ar(ad=〜へ) + range(列。rank と同じ根) → 列に並べる → 物を並べて整える → 予定や段取りを整える=手配する・取り決める",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to put things in a neat or attractive order, or to make plans and preparations for something to happen."
+    }
+  ],
+  "cautions": [
+    "arrange for A to do=Aが〜するよう手配する(arrange A to do は×)",
+    "arrange to do=〜する手はずを整える",
+    "名詞 arrangement=配置・手配・取り決め。make arrangements for A=Aの準備をする"
+  ],
+  "patterns": [
+    {
+      "form": "arrange A",
+      "meaning": "Aを並べる・手配する"
+    },
+    {
+      "form": "arrange to do",
+      "meaning": "〜する手はずを整える"
+    },
+    {
+      "form": "arrange for A to do",
+      "meaning": "Aが〜するよう手配する"
+    },
+    {
+      "form": "make arrangements for A",
+      "meaning": "Aの準備をする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "並べる",
+      "en": "The books on the shelf are arranged in alphabetical order.",
+      "ja": "棚の本は、アルファベット順に並べられている。"
+    },
+    {
+      "source": "original",
+      "label": "手配する",
+      "en": "I have arranged a meeting with the manager for Thursday afternoon.",
+      "ja": "木曜日の午後に、部長との面談を設定した。"
+    },
+    {
+      "source": "original",
+      "label": "arrange to do",
+      "en": "We arranged to meet in front of the station at six.",
+      "ja": "私たちは、6時に駅前で会う約束をした。"
+    },
+    {
+      "source": "original",
+      "label": "arrange for A to do",
+      "en": "I will arrange for a taxi to pick you up at the hotel.",
+      "ja": "タクシーがホテルに迎えに行くよう、手配しておきます。"
+    },
+    {
+      "source": "original",
+      "label": "(花を)生ける",
+      "en": "She arranged the flowers beautifully in a tall glass vase.",
+      "ja": "彼女は背の高いガラスの花びんに、花をきれいに生けた。"
+    },
+    {
+      "source": "original",
+      "label": "arrangement(名詞)",
+      "en": "We have made all the arrangements for the school trip.",
+      "ja": "修学旅行の準備は、すべて整えた。"
+    }
+  ],
+  "check_points": [
+    "「並べる」と「手配する」を「きちんと並べて整える」で説明できるか",
+    "arrange for A to do に for が要るのはなぜか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "arrange for A to do、make arrangements が語法に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 128
+    }
+  ]
+}

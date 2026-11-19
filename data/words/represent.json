@@ -1,0 +1,94 @@
+{
+  "word": "represent",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˌreprɪˈzent/",
+  "core_image": {
+    "text": "代わりに前へ出て示す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"86\" cy=\"52\" r=\"10\"/><line x1=\"86\" y1=\"62\" x2=\"86\" y2=\"106\"/><line x1=\"86\" y1=\"106\" x2=\"76\" y2=\"140\"/><line x1=\"86\" y1=\"106\" x2=\"96\" y2=\"140\"/><line x1=\"86\" y1=\"74\" x2=\"74\" y2=\"98\"/><line x1=\"86\" y1=\"74\" x2=\"98\" y2=\"98\"/><circle cx=\"170\" cy=\"72\" r=\"7\"/><line x1=\"170\" y1=\"79\" x2=\"170\" y2=\"110\"/><circle cx=\"192\" cy=\"72\" r=\"7\"/><line x1=\"192\" y1=\"79\" x2=\"192\" y2=\"110\"/><circle cx=\"214\" cy=\"72\" r=\"7\"/><line x1=\"214\" y1=\"79\" x2=\"214\" y2=\"110\"/><rect x=\"156\" y=\"56\" width=\"70\" height=\"62\" stroke-dasharray=\"4 4\"/><line x1=\"152\" y1=\"88\" x2=\"108\" y2=\"88\" stroke-dasharray=\"5 5\"/><polyline points=\"115,91.8 108,88 115,84.2\"/></g><text x=\"86\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">代わりに前へ</text><text x=\"190\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">みんな</text></svg>"
+  },
+  "etymology": "re(再び) + present(前に差し出す) → もう一度目の前に示す → 記号や絵が何かを表す → 人々の代わりに前に立つ=代表する → 全体の中のある割合に当たる=相当する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be a sign or symbol of something, to speak or act officially for another person or group, or to be equal to something."
+    }
+  ],
+  "cautions": [
+    "represent A=Aを表す／Aを代表する／Aに相当する(This represents 20% of 〜)",
+    "representative は名詞「代表者」と形容詞「代表的な」(be representative of A)",
+    "representation=表現・代表",
+    "「表す」の意味では stand for A と言い換えられる"
+  ],
+  "patterns": [
+    {
+      "form": "represent A",
+      "meaning": "Aを表す・代表する・Aに相当する"
+    },
+    {
+      "form": "be represented by A",
+      "meaning": "Aによって表される"
+    },
+    {
+      "form": "representative",
+      "meaning": "代表者・代表的な"
+    },
+    {
+      "form": "representation",
+      "meaning": "表現・代表"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "表す",
+      "en": "The red lines on the map represent the main roads.",
+      "ja": "地図上の赤い線は、主要な道路を表している。"
+    },
+    {
+      "source": "original",
+      "label": "代表する",
+      "en": "She was chosen to represent our school at the national contest.",
+      "ja": "彼女は、全国大会で私たちの学校を代表するよう選ばれた。"
+    },
+    {
+      "source": "original",
+      "label": "相当する",
+      "en": "This figure represents a ten percent increase over last year.",
+      "ja": "この数字は、去年より10パーセントの増加に当たる。"
+    },
+    {
+      "source": "original",
+      "label": "象徴する",
+      "en": "The dove is often used to represent peace.",
+      "ja": "ハトは、平和を象徴するものとしてよく使われる。"
+    },
+    {
+      "source": "original",
+      "label": "代理を務める",
+      "en": "The lawyer represents several large companies in court.",
+      "ja": "その弁護士は、法廷でいくつかの大企業の代理を務めている。"
+    },
+    {
+      "source": "original",
+      "label": "representative(名詞)",
+      "en": "A representative of the company will visit us tomorrow.",
+      "ja": "その会社の代表者が、明日私たちを訪ねて来る。"
+    }
+  ],
+  "check_points": [
+    "「表す」と「代表する」を「代わりに前へ出て示す」で説明できるか",
+    "representative の2つの品詞と意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "represent(表す・代表する・相当する)、representative が論説文・グラフ問題で必須。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 181
+    }
+  ]
+}

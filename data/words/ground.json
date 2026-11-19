@@ -1,0 +1,103 @@
+{
+  "word": "ground",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ɡraʊnd/",
+  "core_image": {
+    "text": "すべてが乗っている土台",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"130\" x2=\"225\" y2=\"130\"/><line x1=\"40\" y1=\"130\" x2=\"32\" y2=\"140\"/><line x1=\"80\" y1=\"130\" x2=\"72\" y2=\"140\"/><line x1=\"120\" y1=\"130\" x2=\"112\" y2=\"140\"/><line x1=\"160\" y1=\"130\" x2=\"152\" y2=\"140\"/><line x1=\"200\" y1=\"130\" x2=\"192\" y2=\"140\"/><circle cx=\"60\" cy=\"42\" r=\"10\"/><line x1=\"60\" y1=\"52\" x2=\"60\" y2=\"96\"/><line x1=\"60\" y1=\"96\" x2=\"50\" y2=\"130\"/><line x1=\"60\" y1=\"96\" x2=\"70\" y2=\"130\"/><polyline points=\"60,64 76,80 84,100\"/><line x1=\"60\" y1=\"64\" x2=\"50\" y2=\"86\"/><polygon points=\"130,82 165,54 200,82\"/><rect x=\"138\" y=\"82\" width=\"54\" height=\"48\"/></g><text x=\"165\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">上に乗るもの</text><text x=\"120\" y=\"154\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">土台</text></svg>"
+  },
+  "etymology": "古英語 grund(底・土台・地面) → 地面 → 活動の場(playground) → 考えや主張を支える土台=根拠・理由(複数形 grounds)。動詞は「土台を置く」(be grounded in)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the surface of the earth, or (grounds) a good reason for doing or believing something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to base an idea or belief on something."
+    }
+  ],
+  "cautions": [
+    "on the grounds that S V / on (the) grounds of A=「〜という理由で」。複数形で使うことが多い",
+    "gain ground=前進する・広まる、lose ground=後退する",
+    "common ground=共通の立場・一致点",
+    "be grounded in / on A=Aに基づいている"
+  ],
+  "patterns": [
+    {
+      "form": "on the grounds that S V",
+      "meaning": "〜という理由で"
+    },
+    {
+      "form": "on grounds of A",
+      "meaning": "Aを理由に"
+    },
+    {
+      "form": "gain ground",
+      "meaning": "広まる・前進する"
+    },
+    {
+      "form": "common ground",
+      "meaning": "共通の立場"
+    },
+    {
+      "form": "be grounded in A",
+      "meaning": "Aに基づいている"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "地面",
+      "en": "The ground was still wet after the heavy rain last night.",
+      "ja": "昨夜の大雨の後、地面はまだぬれていた。"
+    },
+    {
+      "source": "original",
+      "label": "理由(grounds)",
+      "en": "He quit his job on the grounds that he was not paid fairly.",
+      "ja": "彼は、公正な給料が払われていないという理由で仕事を辞めた。"
+    },
+    {
+      "source": "original",
+      "label": "根拠",
+      "en": "You have no grounds for saying that she stole the money.",
+      "ja": "彼女がその金を盗んだと言う根拠は、君には何もない。"
+    },
+    {
+      "source": "original",
+      "label": "立場",
+      "en": "The two leaders tried to find common ground on the trade problem.",
+      "ja": "2人の指導者は、貿易問題で一致点を見つけようとした。"
+    },
+    {
+      "source": "original",
+      "label": "gain ground=広まる",
+      "en": "The idea of working from home is gaining ground among young people.",
+      "ja": "在宅で働くという考えは、若い人たちの間で広まりつつある。"
+    },
+    {
+      "source": "original",
+      "label": "be grounded in=基づく",
+      "en": "Her argument is grounded in facts, not in personal feelings.",
+      "ja": "彼女の主張は、個人的な感情ではなく事実に基づいている。"
+    }
+  ],
+  "check_points": [
+    "「地面」と「理由」が同じ単語になるわけを「土台」から説明できるか",
+    "on the grounds that はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "on the grounds that / of(理由)が長文・和訳で狙われる。gain ground、common ground も出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 67
+    }
+  ]
+}

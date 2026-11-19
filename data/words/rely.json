@@ -1,0 +1,94 @@
+{
+  "word": "rely",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈlaɪ/",
+  "core_image": {
+    "text": "しっかり結びついて、身を預ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"140\" y=\"30\" width=\"26\" height=\"110\"/><circle cx=\"110\" cy=\"56\" r=\"10\"/><line x1=\"112\" y1=\"66\" x2=\"124\" y2=\"106\"/><line x1=\"124\" y1=\"106\" x2=\"104\" y2=\"140\"/><line x1=\"124\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"116\" y1=\"80\" x2=\"140\" y2=\"76\"/></g><text x=\"153\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">支え</text><text x=\"60\" y=\"92\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">身を預ける</text></svg>"
+  },
+  "etymology": "re(強く) + ly(結ぶ。ラテン語 ligare。league, oblige と同じ) → 固く結びつく → 身を預けて頼る・当てにする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to need or trust someone or something for help or support."
+    }
+  ],
+  "cautions": [
+    "rely on A=Aに頼る・Aを当てにする(=depend on, count on)",
+    "rely on A for B=BをAに頼る",
+    "rely on A to do=Aが〜するのを当てにする",
+    "reliable=信頼できる、reliance=依存"
+  ],
+  "patterns": [
+    {
+      "form": "rely on A",
+      "meaning": "Aに頼る"
+    },
+    {
+      "form": "rely on A for B",
+      "meaning": "BをAに頼る"
+    },
+    {
+      "form": "rely on A to do",
+      "meaning": "Aが〜するのを当てにする"
+    },
+    {
+      "form": "reliable",
+      "meaning": "信頼できる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "rely on A for B",
+      "en": "Many old people rely on their children for financial support.",
+      "ja": "多くの高齢者が、経済的な支えを子どもに頼っている。"
+    },
+    {
+      "source": "original",
+      "label": "当てにする",
+      "en": "You can rely on her to keep a secret.",
+      "ja": "彼女は秘密を守ると信頼してよい。"
+    },
+    {
+      "source": "original",
+      "label": "依存する",
+      "en": "The country relies heavily on tourism for its income.",
+      "ja": "その国は、収入を観光業に大きく依存している。"
+    },
+    {
+      "source": "original",
+      "label": "頼りすぎる",
+      "en": "I rely on my smartphone too much to remember phone numbers.",
+      "ja": "私は電話番号を覚えるのに、スマートフォンに頼りすぎている。"
+    },
+    {
+      "source": "original",
+      "label": "reliable(形容詞)",
+      "en": "He is the most reliable person I have ever worked with.",
+      "ja": "彼は、私がこれまで一緒に働いた中でいちばん信頼できる人だ。"
+    },
+    {
+      "source": "original",
+      "label": "reliance(名詞)",
+      "en": "Our reliance on cars has caused serious air pollution.",
+      "ja": "車への依存が、深刻な大気汚染を引き起こしてきた。"
+    }
+  ],
+  "check_points": [
+    "rely on A for B を depend を使って言い換えられるか",
+    "reliable はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "rely on A (for B)、reliable が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 179
+    }
+  ]
+}

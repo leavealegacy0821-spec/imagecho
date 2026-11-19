@@ -1,0 +1,113 @@
+{
+  "word": "issue",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈɪʃuː/",
+  "core_image": {
+    "text": "中から外へ出てくるもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"138\" x2=\"225\" y2=\"138\"/><polyline points=\"28,138 28,28 88,28 88,138\"/><circle cx=\"110\" cy=\"58\" r=\"10\"/><line x1=\"110\" y1=\"68\" x2=\"110\" y2=\"106\"/><line x1=\"110\" y1=\"80\" x2=\"140\" y2=\"84\"/><polyline points=\"110,80 98,92 100,104\"/><line x1=\"110\" y1=\"106\" x2=\"97\" y2=\"138\"/><line x1=\"110\" y1=\"106\" x2=\"126\" y2=\"138\"/><rect x=\"140\" y=\"62\" width=\"22\" height=\"30\"/><line x1=\"145\" y1=\"70\" x2=\"157\" y2=\"70\"/><line x1=\"145\" y1=\"77\" x2=\"157\" y2=\"77\"/><line x1=\"145\" y1=\"84\" x2=\"153\" y2=\"84\"/><line x1=\"172\" y1=\"60\" x2=\"212\" y2=\"40\"/><polyline points=\"202,39 212,40 207,49\"/><line x1=\"174\" y1=\"78\" x2=\"220\" y2=\"78\"/><polyline points=\"212,72 220,78 212,84\"/><line x1=\"172\" y1=\"96\" x2=\"212\" y2=\"116\"/><polyline points=\"207,107 212,116 202,117\"/></g><text x=\"58\" y=\"92\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">中</text><text x=\"196\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">外へ出る</text></svg>"
+  },
+  "etymology": "ラテン語 exire = ex(外へ) + ire(行く) → 古フランス語 issue(出ること・出口) → 外へ出てきたもの → 世の中に出された刊行物(発行・号) → 議論の場に出てきた事柄(問題・論点) → 動詞では、外へ出す(発行する・声明や命令を出す・支給する)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an important subject or problem that people are discussing. It also means one of a regular series of magazines or newspapers."
+    },
+    {
+      "pos": "動詞",
+      "text": "to officially give out or make something public, such as a document, a statement, or a warning."
+    }
+  ],
+  "cautions": [
+    "名詞「問題」は problem(解決すべき困りごと)と少し違い、「議論の対象になっている論点」",
+    "動詞「発行する・(声明や警告を)出す」が長文で頻出。名詞だと決めつけず、文の中での働きを確かめる",
+    "雑誌の「号」の意味もある(the latest issue =最新号)",
+    "at issue は「論点になっている・問題となっている」。take issue with A は「Aに異議を唱える」"
+  ],
+  "patterns": [
+    {
+      "form": "a social / political issue",
+      "meaning": "社会／政治問題"
+    },
+    {
+      "form": "raise an issue",
+      "meaning": "問題を提起する"
+    },
+    {
+      "form": "issue a statement / warning",
+      "meaning": "声明／警告を出す"
+    },
+    {
+      "form": "the latest issue of A",
+      "meaning": "A(雑誌など)の最新号"
+    },
+    {
+      "form": "at issue",
+      "meaning": "論点になっている・問題となっている"
+    },
+    {
+      "form": "issue A (to B)",
+      "meaning": "(Bに)Aを発行する・支給する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "問題・論点(名詞)",
+      "en": "Climate change is one of the most important issues that the world is facing today.",
+      "ja": "気候変動は、今日世界が直面している最も重要な問題の一つだ。"
+    },
+    {
+      "source": "original",
+      "label": "(雑誌の)号(名詞)",
+      "en": "The latest issue of the magazine contains a long interview with a famous soccer player.",
+      "ja": "その雑誌の最新号には、有名なサッカー選手の長いインタビューが載っている。"
+    },
+    {
+      "source": "original",
+      "label": "発行する(動詞)",
+      "en": "The government will issue a new passport within two weeks after you apply for it.",
+      "ja": "申請してから2週間以内に、政府は新しいパスポートを発行する。"
+    },
+    {
+      "source": "original",
+      "label": "(警告・声明を)出す(動詞)",
+      "en": "The weather bureau issued a warning about heavy rain and strong winds for tonight.",
+      "ja": "気象局は、今夜の大雨と強風について警報を出した。"
+    },
+    {
+      "source": "original",
+      "label": "支給する(動詞・受け身)",
+      "en": "Each student was issued a tablet computer at the beginning of the school year.",
+      "ja": "学年の初めに、生徒一人ひとりにタブレット端末が支給された。"
+    },
+    {
+      "source": "original",
+      "label": "at issue=論点になっている",
+      "en": "What is at issue here is not the cost but the safety of the passengers.",
+      "ja": "ここで問題になっているのは、費用ではなく乗客の安全だ。"
+    },
+    {
+      "source": "original",
+      "label": "(外へ)出てくる(動詞・かたい表現)",
+      "en": "Smoke was issuing from the windows of the building when the firefighters arrived.",
+      "ja": "消防士が到着したとき、建物の窓から煙が出ていた。"
+    }
+  ],
+  "check_points": [
+    "「発行する」「号」「問題」の3つを、「外へ出てくる」という1つの絵で説明できるか",
+    "issue が名詞か動詞かを、文の形(主語・目的語の位置)から見分けられるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "名詞「問題・論点」は長文の主題としてよく出る。動詞「発行する・出す」と名詞「号」は、多義語問題や下線部の意味選択で狙われる。at issue や take issue with も難関大で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 5
+    }
+  ]
+}

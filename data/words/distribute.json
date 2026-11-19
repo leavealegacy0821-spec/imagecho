@@ -1,0 +1,94 @@
+{
+  "word": "distribute",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈstrɪbjuːt/",
+  "core_image": {
+    "text": "あちこちへ分けて配る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"90\" y2=\"80\"/><line x1=\"120\" y1=\"74\" x2=\"150\" y2=\"80\"/><line x1=\"88\" y1=\"84\" x2=\"40\" y2=\"112\" stroke-dasharray=\"5 5\"/><polyline points=\"48,111.8 40,112 44.1,105.1\"/><line x1=\"152\" y1=\"84\" x2=\"200\" y2=\"112\" stroke-dasharray=\"5 5\"/><polyline points=\"195.9,105.1 200,112 192,111.8\"/><rect x=\"30\" y=\"116\" width=\"16\" height=\"16\"/><rect x=\"194\" y=\"116\" width=\"16\" height=\"16\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">分けて配る</text></svg>"
+  },
+  "etymology": "dis(あちこちへ) + tribute(割り当てる。contribute, attribute と同じ) → 割り当てて分ける → 配る・配布する → 広く行き渡らせる・分布させる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give things to a large number of people, or to spread something over an area."
+    }
+  ],
+  "cautions": [
+    "distribute A to / among B=AをBに配る",
+    "be distributed=分布している(be evenly distributed=均等に分布している)",
+    "名詞 distribution=配布・分配・分布",
+    "contribute(持ち寄る)・attribute(割り当てる)と同じ tribute"
+  ],
+  "patterns": [
+    {
+      "form": "distribute A to B",
+      "meaning": "AをBに配る"
+    },
+    {
+      "form": "distribute A among B",
+      "meaning": "AをBの間で分ける"
+    },
+    {
+      "form": "be distributed",
+      "meaning": "分布している"
+    },
+    {
+      "form": "distribution",
+      "meaning": "配布・分布"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "配る",
+      "en": "The teacher distributed the test papers to the students.",
+      "ja": "先生は生徒たちに試験の用紙を配った。"
+    },
+    {
+      "source": "original",
+      "label": "分け与える",
+      "en": "Food and water were distributed among the people who had lost their homes.",
+      "ja": "家を失った人々に、食料と水が分け与えられた。"
+    },
+    {
+      "source": "original",
+      "label": "分布する",
+      "en": "The plant is widely distributed across southern Asia.",
+      "ja": "その植物は、南アジアに広く分布している。"
+    },
+    {
+      "source": "original",
+      "label": "行き渡らせる",
+      "en": "Wealth is not evenly distributed in our society.",
+      "ja": "私たちの社会では、富が均等に行き渡っていない。"
+    },
+    {
+      "source": "original",
+      "label": "販売する",
+      "en": "The company distributes its products to stores all over Japan.",
+      "ja": "その会社は、日本中の店に製品を卸している。"
+    },
+    {
+      "source": "original",
+      "label": "distribution(名詞)",
+      "en": "The map shows the distribution of rainfall in the country.",
+      "ja": "その地図は、国内の降水量の分布を示している。"
+    }
+  ],
+  "check_points": [
+    "contribute・attribute・distribute のちがいを tribute(割り当てる)から説明できるか",
+    "distribution の意味を2つ言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "distribute、distribution が長文・グラフ問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 230
+    }
+  ]
+}

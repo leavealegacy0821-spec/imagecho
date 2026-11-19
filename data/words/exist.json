@@ -1,0 +1,94 @@
+{
+  "word": "exist",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪɡˈzɪst/",
+  "core_image": {
+    "text": "外に立って、確かにそこにある",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"108\" y2=\"98\"/><line x1=\"120\" y1=\"74\" x2=\"132\" y2=\"98\"/><circle cx=\"120\" cy=\"88\" r=\"40\" stroke-dasharray=\"5 5\"/></g><text x=\"120\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">確かにいる</text><text x=\"196\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">存在</text></svg>"
+  },
+  "etymology": "ex(外へ) + ist(sist=立つ。insist, consist, resist と同じ) → 外に立っている → 現実に存在する → (なんとか)生きている",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be real or present in a particular place or situation, or to stay alive."
+    }
+  ],
+  "cautions": [
+    "自動詞で、進行形・受け身にしない",
+    "exist on A=Aでかろうじて生きる",
+    "existence=存在、existing=既存の",
+    "There exists A=Aが存在する(There is の堅い形)"
+  ],
+  "patterns": [
+    {
+      "form": "A exist",
+      "meaning": "Aが存在する"
+    },
+    {
+      "form": "exist on A",
+      "meaning": "Aでかろうじて生きる"
+    },
+    {
+      "form": "existence",
+      "meaning": "存在"
+    },
+    {
+      "form": "existing",
+      "meaning": "既存の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "存在する",
+      "en": "Do you think that life exists on other planets?",
+      "ja": "ほかの惑星に生命が存在すると思いますか。"
+    },
+    {
+      "source": "original",
+      "label": "ある",
+      "en": "Many problems still exist between the two countries.",
+      "ja": "その2国の間には、今も多くの問題がある。"
+    },
+    {
+      "source": "original",
+      "label": "exist on",
+      "en": "The family existed on only one meal a day during the war.",
+      "ja": "その家族は戦争中、1日1食でかろうじて生きていた。"
+    },
+    {
+      "source": "original",
+      "label": "existence(名詞)",
+      "en": "Nobody knew of the existence of the old letters.",
+      "ja": "その古い手紙の存在を、だれも知らなかった。"
+    },
+    {
+      "source": "original",
+      "label": "existing(形容詞)",
+      "en": "The new law will replace the existing rules.",
+      "ja": "新しい法律が、既存の規則に取って代わる。"
+    },
+    {
+      "source": "original",
+      "label": "もう無い",
+      "en": "The village where my grandfather grew up no longer exists.",
+      "ja": "祖父が育った村は、もう存在しない。"
+    }
+  ],
+  "check_points": [
+    "insist・consist・exist に共通する sist の意味を言えるか",
+    "existing はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "exist、existence、existing が長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 226
+    }
+  ]
+}

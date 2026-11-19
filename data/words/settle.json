@@ -1,0 +1,99 @@
+{
+  "word": "settle",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈsetl/",
+  "core_image": {
+    "text": "落ち着く所に、すとんと収まる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"110\" y1=\"140\" x2=\"110\" y2=\"70\"/><line x1=\"110\" y1=\"104\" x2=\"150\" y2=\"104\"/><line x1=\"150\" y1=\"104\" x2=\"150\" y2=\"140\"/><circle cx=\"128\" cy=\"56\" r=\"10\"/><line x1=\"128\" y1=\"66\" x2=\"126\" y2=\"100\"/><polyline points=\"126,100 156,100 158,138\"/><line x1=\"127\" y1=\"78\" x2=\"146\" y2=\"92\"/><path d=\"M196 20 Q220 44 196 66 Q176 88 200 112\" stroke-dasharray=\"4 4\"/><circle cx=\"200\" cy=\"120\" r=\"4\"/></g><text x=\"62\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">腰を落ち着ける</text><text x=\"200\" y=\"136\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">収まる</text></svg>"
+  },
+  "etymology": "古英語 setl(座る所。seat, sit と同じ) → setlan(座らせる) → 腰を落ち着ける → 定住する → もめごとを落ち着かせる=解決する・決着をつける → 気持ちや生活が落ち着く(settle down)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to go and live in a place permanently, or to end an argument or solve a problem."
+    }
+  ],
+  "cautions": [
+    "settle in A=Aに定住する",
+    "settle a problem / a dispute=問題・争いを解決する",
+    "settle down=落ち着く・身を固める",
+    "settle for A=(不満はあるが)Aで我慢する、settle on A=Aに決める",
+    "settlement=解決・入植地"
+  ],
+  "patterns": [
+    {
+      "form": "settle in A",
+      "meaning": "Aに定住する"
+    },
+    {
+      "form": "settle a dispute",
+      "meaning": "争いを解決する"
+    },
+    {
+      "form": "settle down",
+      "meaning": "落ち着く"
+    },
+    {
+      "form": "settle for A",
+      "meaning": "Aで我慢する"
+    },
+    {
+      "form": "settle on A",
+      "meaning": "Aに決める"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "定住する",
+      "en": "Many people from Europe settled in this area in the nineteenth century.",
+      "ja": "19世紀に、ヨーロッパから来た多くの人々がこの地域に定住した。"
+    },
+    {
+      "source": "original",
+      "label": "解決する",
+      "en": "The two countries finally settled the dispute through peaceful talks.",
+      "ja": "両国は平和的な話し合いによって、ついにその争いを解決した。"
+    },
+    {
+      "source": "original",
+      "label": "settle down=落ち着く",
+      "en": "It took the children a long time to settle down after the party.",
+      "ja": "パーティーの後、子どもたちが落ち着くまでに長い時間がかかった。"
+    },
+    {
+      "source": "original",
+      "label": "settle for=我慢する",
+      "en": "There were no seats left, so we had to settle for standing tickets.",
+      "ja": "席が残っていなかったので、立ち見の券で我慢しなければならなかった。"
+    },
+    {
+      "source": "original",
+      "label": "settle on=決める",
+      "en": "Have you settled on a name for your new puppy yet?",
+      "ja": "新しい子犬の名前は、もう決まりましたか。"
+    },
+    {
+      "source": "original",
+      "label": "(ほこりが)積もる",
+      "en": "Dust had settled on the furniture in the empty house.",
+      "ja": "その空き家の家具には、ほこりが積もっていた。"
+    }
+  ],
+  "check_points": [
+    "定住する・解決する・落ち着くを「落ち着く所に収まる」で説明できるか",
+    "settle for はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "settle a dispute、settle down、settle for が長文・熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 80
+    }
+  ]
+}

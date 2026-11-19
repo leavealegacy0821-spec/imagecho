@@ -1,0 +1,107 @@
+{
+  "word": "break",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/breɪk/",
+  "core_image": {
+    "text": "つながっていたものを、ぱきっと断つ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"110\" cy=\"52\" r=\"10\"/><line x1=\"110\" y1=\"62\" x2=\"110\" y2=\"106\"/><line x1=\"110\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"110\" y1=\"106\" x2=\"120\" y2=\"140\"/><polyline points=\"110,74 92,84 84,74\"/><polyline points=\"110,74 128,84 136,74\"/><line x1=\"58\" y1=\"64\" x2=\"104\" y2=\"80\"/><line x1=\"116\" y1=\"80\" x2=\"162\" y2=\"64\"/><line x1=\"106\" y1=\"92\" x2=\"102\" y2=\"100\"/><line x1=\"114\" y1=\"92\" x2=\"118\" y2=\"100\"/></g><text x=\"110\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぱきっと断つ</text><text x=\"198\" y=\"96\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">続いていたもの</text></svg>"
+  },
+  "etymology": "古英語 brecan(割る・砕く) → 物を壊す → 続いていた状態を断つ(休憩・中断) → 決まり・約束・記録を破る → せきを切って突然始まる(break out)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to separate into pieces or stop working, or to fail to obey a rule or keep a promise."
+    },
+    {
+      "pos": "名詞",
+      "text": "a short period of time when you stop what you are doing to rest."
+    }
+  ],
+  "cautions": [
+    "活用は break - broke - broken",
+    "break a promise / the law / a record=約束・法律・記録を破る",
+    "句動詞が頻出: break out(戦争・火事が起こる)、break down(故障する・取り乱す)、break into A(Aに押し入る)、break up(別れる・解散する)",
+    "take a break=休憩する"
+  ],
+  "patterns": [
+    {
+      "form": "break a promise",
+      "meaning": "約束を破る"
+    },
+    {
+      "form": "break the law",
+      "meaning": "法律を破る"
+    },
+    {
+      "form": "take a break",
+      "meaning": "休憩する"
+    },
+    {
+      "form": "break out",
+      "meaning": "(戦争・火事が)起こる"
+    },
+    {
+      "form": "break down",
+      "meaning": "故障する"
+    },
+    {
+      "form": "break into A",
+      "meaning": "Aに押し入る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "壊す",
+      "en": "Someone broke the window of the classroom during the summer vacation.",
+      "ja": "夏休みの間に、だれかが教室の窓を割った。"
+    },
+    {
+      "source": "original",
+      "label": "(約束を)破る",
+      "en": "He has never broken a promise since I first met him.",
+      "ja": "初めて会って以来、彼は一度も約束を破ったことがない。"
+    },
+    {
+      "source": "original",
+      "label": "休憩(名詞)",
+      "en": "Let's take a ten-minute break and then continue the discussion.",
+      "ja": "10分間休憩して、それから議論を続けよう。"
+    },
+    {
+      "source": "original",
+      "label": "break out=起こる",
+      "en": "The war broke out when my grandfather was only five years old.",
+      "ja": "その戦争は、祖父がまだ5歳のときに始まった。"
+    },
+    {
+      "source": "original",
+      "label": "break down=故障する",
+      "en": "Our car broke down on the highway, so we had to call for help.",
+      "ja": "高速道路で車が故障したので、助けを呼ばなければならなかった。"
+    },
+    {
+      "source": "original",
+      "label": "(記録を)破る",
+      "en": "She broke the world record by more than two seconds.",
+      "ja": "彼女は2秒を超える差で世界記録を破った。"
+    }
+  ],
+  "check_points": [
+    "壊す・休憩・(約束を)破るを「続いていたものを断つ」で説明できるか",
+    "break out と break down の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "break out / down / into / up の句動詞が熟語問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 53
+    }
+  ]
+}

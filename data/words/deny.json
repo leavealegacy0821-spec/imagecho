@@ -1,0 +1,98 @@
+{
+  "word": "deny",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈnaɪ/",
+  "core_image": {
+    "text": "きっぱり「ノー」と言う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"76\" cy=\"52\" r=\"10\"/><line x1=\"76\" y1=\"62\" x2=\"76\" y2=\"106\"/><line x1=\"76\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"76\" y1=\"106\" x2=\"86\" y2=\"140\"/><polyline points=\"76,74 98,66 110,52\"/><line x1=\"76\" y1=\"74\" x2=\"66\" y2=\"96\"/><rect x=\"140\" y=\"30\" width=\"70\" height=\"70\"/><line x1=\"152\" y1=\"42\" x2=\"198\" y2=\"88\"/><line x1=\"198\" y1=\"42\" x2=\"152\" y2=\"88\"/></g><text x=\"175\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">違う</text><text x=\"175\" y=\"118\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">認めない・与えない</text></svg>"
+  },
+  "etymology": "de(完全に) + ny(否定する。ラテン語 negare。negative と同じ) → 完全に打ち消す → 事実ではないと否定する → 求められたものに「ノー」と言う=与えない",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say that something is not true, or to refuse to allow someone to have or do something."
+    }
+  ],
+  "cautions": [
+    "deny doing / deny that S V=〜した(〜である)ことを否定する(to do は×)",
+    "deny A B = deny B to A=AにBを与えない",
+    "There is no denying that S V=〜は否定できない",
+    "deny は「事実を否定する」、refuse は「申し出・頼みを断る」"
+  ],
+  "patterns": [
+    {
+      "form": "deny A",
+      "meaning": "Aを否定する"
+    },
+    {
+      "form": "deny doing",
+      "meaning": "〜したことを否定する"
+    },
+    {
+      "form": "deny that S V",
+      "meaning": "〜だということを否定する"
+    },
+    {
+      "form": "deny A B",
+      "meaning": "AにBを与えない"
+    },
+    {
+      "form": "There is no denying that S V",
+      "meaning": "〜は否定できない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "否定する",
+      "en": "The man denied that he had been near the store that night.",
+      "ja": "その男は、あの夜店の近くにいたことを否定した。"
+    },
+    {
+      "source": "original",
+      "label": "deny doing",
+      "en": "She denied taking the money from the drawer.",
+      "ja": "彼女は、引き出しからお金を取ったことを否定した。"
+    },
+    {
+      "source": "original",
+      "label": "deny A B=与えない",
+      "en": "Nobody should be denied the right to an education.",
+      "ja": "だれも教育を受ける権利を奪われるべきではない。"
+    },
+    {
+      "source": "original",
+      "label": "認めない",
+      "en": "He could not deny the fact that he had been wrong.",
+      "ja": "彼は、自分が間違っていたという事実を否定できなかった。"
+    },
+    {
+      "source": "original",
+      "label": "There is no denying",
+      "en": "There is no denying that she is the best player on the team.",
+      "ja": "彼女がチームで最高の選手であることは、否定できない。"
+    },
+    {
+      "source": "original",
+      "label": "denial(名詞)",
+      "en": "The company issued a strong denial of the report in the newspaper.",
+      "ja": "その会社は、新聞の報道を強く否定する声明を出した。"
+    }
+  ],
+  "check_points": [
+    "deny の後ろに動詞を続けるときの形は何か",
+    "deny(否定する)と refuse(断る)の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "deny doing、deny A B、There is no denying that が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 137
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "owe",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/oʊ/",
+  "core_image": {
+    "text": "相手に返すべきものを抱えている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><polyline points=\"66,74 90,82 106,80\"/><line x1=\"66\" y1=\"74\" x2=\"56\" y2=\"96\"/><circle cx=\"116\" cy=\"80\" r=\"8\"/><line x1=\"128\" y1=\"80\" x2=\"160\" y2=\"80\" stroke-dasharray=\"5 5\"/><polyline points=\"153,76.2 160,80 153,83.8\"/><circle cx=\"186\" cy=\"52\" r=\"10\"/><line x1=\"186\" y1=\"62\" x2=\"186\" y2=\"106\"/><line x1=\"186\" y1=\"106\" x2=\"176\" y2=\"140\"/><line x1=\"186\" y1=\"106\" x2=\"196\" y2=\"140\"/><line x1=\"186\" y1=\"74\" x2=\"174\" y2=\"98\"/><line x1=\"186\" y1=\"74\" x2=\"198\" y2=\"98\"/></g><text x=\"90\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">借りがある</text><text x=\"186\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">返す相手</text></svg>"
+  },
+  "etymology": "古英語 agan(持つ。own と同じ語源) → 相手に返すべきものを持っている → 借りがある → 〜のおかげである(owe A to B)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to have to pay money back to someone, or to have something because of what someone else has done."
+    }
+  ],
+  "cautions": [
+    "owe A B = owe B to A=AにB(お金)を借りている",
+    "owe A to B=AはBのおかげだ(A=結果、B=原因)。attribute A to B と同じ型",
+    "owing to A=Aのために(=because of)",
+    "I owe you one.=恩に着るよ"
+  ],
+  "patterns": [
+    {
+      "form": "owe A B",
+      "meaning": "AにBを借りている"
+    },
+    {
+      "form": "owe A to B",
+      "meaning": "AはBのおかげだ"
+    },
+    {
+      "form": "owing to A",
+      "meaning": "Aのために"
+    },
+    {
+      "form": "I owe you one",
+      "meaning": "恩に着る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "借りがある",
+      "en": "I still owe my brother ten thousand yen.",
+      "ja": "私はまだ兄に1万円借りている。"
+    },
+    {
+      "source": "original",
+      "label": "owe A to B",
+      "en": "She owes her success to her mother's support.",
+      "ja": "彼女の成功は、母親の支えのおかげだ。"
+    },
+    {
+      "source": "original",
+      "label": "おかげだ",
+      "en": "We owe a great deal to the doctors who worked through the night.",
+      "ja": "夜通し働いた医師たちに、私たちは多くを負っている。"
+    },
+    {
+      "source": "original",
+      "label": "owing to",
+      "en": "The game was put off owing to the heavy rain.",
+      "ja": "大雨のため、試合は延期された。"
+    },
+    {
+      "source": "original",
+      "label": "恩がある",
+      "en": "Thanks for helping me move. I owe you one.",
+      "ja": "引っ越しを手伝ってくれてありがとう。恩に着るよ。"
+    },
+    {
+      "source": "original",
+      "label": "説明する義務がある",
+      "en": "I think you owe me an explanation for being so late.",
+      "ja": "そんなに遅れた理由を、説明してもらう必要があると思う。"
+    }
+  ],
+  "check_points": [
+    "owe A to B で、原因は A と B のどちらか",
+    "owing to を言い換えられるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "owe A to B、owing to が熟語問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 248
+    }
+  ]
+}

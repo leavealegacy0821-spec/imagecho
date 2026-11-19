@@ -1,0 +1,103 @@
+{
+  "word": "force",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/fɔːrs/",
+  "core_image": {
+    "text": "逆らえない強い力",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"156\" cy=\"52\" r=\"10\"/><line x1=\"156\" y1=\"62\" x2=\"156\" y2=\"106\"/><line x1=\"156\" y1=\"106\" x2=\"146\" y2=\"140\"/><line x1=\"156\" y1=\"106\" x2=\"166\" y2=\"140\"/><line x1=\"156\" y1=\"74\" x2=\"172\" y2=\"66\"/><line x1=\"156\" y1=\"74\" x2=\"170\" y2=\"88\"/><polygon points=\"40,66 110,66 110,54 136,80 110,106 110,94 40,94\"/></g><text x=\"78\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">強い力</text><text x=\"190\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">逆らえない</text></svg>"
+  },
+  "etymology": "ラテン語 fortis(強い。fort=とりで、effort, comfort と同じ) → 力 → 力を持つ集団=軍隊・勢力(the air force, the labor force)。動詞は「力ずくで〜させる」",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "physical power or violence, or a group of people who have been trained to do a particular job."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make someone do something that they do not want to do."
+    }
+  ],
+  "cautions": [
+    "force A to do=Aに無理に〜させる。受け身 be forced to do=〜せざるをえない",
+    "by force=力ずくで",
+    "in force=(法律などが)有効で。come into force=施行される",
+    "the labor force=労働力。enforce=施行する、reinforce=補強する"
+  ],
+  "patterns": [
+    {
+      "form": "force A to do",
+      "meaning": "Aに無理に〜させる"
+    },
+    {
+      "form": "be forced to do",
+      "meaning": "〜せざるをえない"
+    },
+    {
+      "form": "by force",
+      "meaning": "力ずくで"
+    },
+    {
+      "form": "come into force",
+      "meaning": "施行される"
+    },
+    {
+      "form": "the labor force",
+      "meaning": "労働力"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "force A to do",
+      "en": "The heavy snow forced us to stay at the hotel for another night.",
+      "ja": "大雪のために、私たちはもう一晩ホテルに泊まらざるをえなかった。"
+    },
+    {
+      "source": "original",
+      "label": "be forced to do",
+      "en": "He was forced to give up his dream because of an injury.",
+      "ja": "彼はけがのせいで、夢をあきらめざるをえなかった。"
+    },
+    {
+      "source": "original",
+      "label": "力(名詞)",
+      "en": "The police had to use force to open the locked door.",
+      "ja": "警察は、鍵のかかったドアを開けるために力を使わなければならなかった。"
+    },
+    {
+      "source": "original",
+      "label": "by force",
+      "en": "The king took the land from the farmers by force.",
+      "ja": "王は農民たちから、力ずくで土地を取り上げた。"
+    },
+    {
+      "source": "original",
+      "label": "come into force",
+      "en": "The new traffic law comes into force next April.",
+      "ja": "新しい交通法は、来年の4月に施行される。"
+    },
+    {
+      "source": "original",
+      "label": "労働力",
+      "en": "Women now make up nearly half of the labor force in this country.",
+      "ja": "この国では今、女性が労働力のほぼ半分を占めている。"
+    }
+  ],
+  "check_points": [
+    "be forced to do を「〜せざるをえない」と訳せるか",
+    "come into force はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "force A to do、be forced to do、come into force、labor force が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 146
+    }
+  ]
+}

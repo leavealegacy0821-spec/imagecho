@@ -1,0 +1,94 @@
+{
+  "word": "collapse",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/kəˈlæps/",
+  "core_image": {
+    "text": "支えを失って、一気にくずれ落ちる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"120,140 130,100 150,110 160,80 180,96 200,140\"/><rect x=\"60\" y=\"40\" width=\"30\" height=\"20\" stroke-dasharray=\"4 4\"/><rect x=\"60\" y=\"60\" width=\"30\" height=\"20\" stroke-dasharray=\"4 4\"/><line x1=\"104\" y1=\"60\" x2=\"124\" y2=\"96\"/><polyline points=\"123.9,88 124,96 117.2,91.7\"/></g><text x=\"75\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">建っていた</text><text x=\"176\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くずれ落ちる</text></svg>"
+  },
+  "etymology": "col(共に) + lapse(すべり落ちる。lapse=失敗・経過 と同じ) → 一緒にすべり落ちる → 建物がくずれる → 人が倒れる → 計画・会社・経済が崩壊する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to fall down suddenly, or to fail or stop working suddenly."
+    },
+    {
+      "pos": "名詞",
+      "text": "a sudden fall or failure."
+    }
+  ],
+  "cautions": [
+    "自動詞(くずれる・倒れる)",
+    "人が主語なら「(病気や疲れで)倒れる」",
+    "会社・制度・交渉にも使う(the collapse of the economy=経済の崩壊)"
+  ],
+  "patterns": [
+    {
+      "form": "A collapse",
+      "meaning": "Aがくずれる・倒れる"
+    },
+    {
+      "form": "the collapse of A",
+      "meaning": "Aの崩壊"
+    },
+    {
+      "form": "collapse from A",
+      "meaning": "Aで倒れる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "くずれる",
+      "en": "Many old houses collapsed in the earthquake.",
+      "ja": "その地震で、多くの古い家が倒壊した。"
+    },
+    {
+      "source": "original",
+      "label": "(人が)倒れる",
+      "en": "The runner collapsed just after crossing the finish line.",
+      "ja": "その走者は、ゴールした直後に倒れた。"
+    },
+    {
+      "source": "original",
+      "label": "崩壊する",
+      "en": "The company collapsed because of huge debts.",
+      "ja": "その会社は、巨額の借金のために倒産した。"
+    },
+    {
+      "source": "original",
+      "label": "(計画が)つぶれる",
+      "en": "The talks collapsed when neither side would agree.",
+      "ja": "どちらの側も同意しなかったので、交渉は決裂した。"
+    },
+    {
+      "source": "original",
+      "label": "collapse from",
+      "en": "She almost collapsed from exhaustion after working all night.",
+      "ja": "彼女は徹夜で働いて、疲労でほとんど倒れそうになった。"
+    },
+    {
+      "source": "original",
+      "label": "崩壊(名詞)",
+      "en": "The collapse of the bridge caused a huge traffic jam.",
+      "ja": "橋の崩落で、大渋滞が起きた。"
+    }
+  ],
+  "check_points": [
+    "建物・人・会社のそれぞれで collapse をどう訳すか言えるか",
+    "lapse(すべり落ちる)とのつながりを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "collapse(倒壊・崩壊)が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 257
+    }
+  ]
+}

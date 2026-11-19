@@ -1,0 +1,92 @@
+{
+  "word": "natural",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈnætʃərəl/",
+  "core_image": {
+    "text": "生まれつきのまま、手を加えていない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><line x1=\"66\" y1=\"74\" x2=\"54\" y2=\"98\"/><line x1=\"66\" y1=\"74\" x2=\"78\" y2=\"98\"/><line x1=\"165\" y1=\"140\" x2=\"165\" y2=\"92\"/><circle cx=\"165\" cy=\"70\" r=\"24\"/><circle cx=\"214\" cy=\"26\" r=\"10\"/></g><text x=\"66\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">生まれつき</text><text x=\"152\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手を加えない</text></svg>"
+  },
+  "etymology": "nat(生まれる) → nature(生まれつきの性質・自然) + al(〜の) → 生まれたままの → 自然の・生まれつきの・当然の。native, nation と同じ語源",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "existing in nature and not made by people, or normal and to be expected in a situation."
+    }
+  ],
+  "cautions": [
+    "It is natural (for A) to do / that S (should) V=「〜するのは当然だ」が最重要。「自然の」だけで訳さない",
+    "人を主語にして「当然だ」とは言わない(You are natural to… は×)",
+    "naturally は文頭で「当然ながら」",
+    "a natural leader のように「生まれつきの」の意味もある"
+  ],
+  "patterns": [
+    {
+      "form": "It is natural for A to do",
+      "meaning": "Aが〜するのは当然だ"
+    },
+    {
+      "form": "It is natural that S V",
+      "meaning": "〜なのは当然だ"
+    },
+    {
+      "form": "natural resources",
+      "meaning": "天然資源"
+    },
+    {
+      "form": "natural disaster",
+      "meaning": "自然災害"
+    },
+    {
+      "form": "by nature",
+      "meaning": "生まれつき"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "自然の",
+      "en": "The country is rich in natural resources such as oil, gas and gold.",
+      "ja": "その国は石油・ガス・金などの天然資源が豊かだ。"
+    },
+    {
+      "source": "original",
+      "label": "当然の(for A to do)",
+      "en": "It is natural for parents to worry about their children's future.",
+      "ja": "親が子どもの将来を心配するのは当然だ。"
+    },
+    {
+      "source": "original",
+      "label": "当然の(that節)",
+      "en": "It is only natural that you should feel nervous before such an important exam.",
+      "ja": "そんな大事な試験の前に緊張するのは、ごく当然のことだ。"
+    },
+    {
+      "source": "original",
+      "label": "生まれつきの",
+      "en": "She is a natural leader, and everyone in the class trusts her.",
+      "ja": "彼女は生まれつきのリーダーで、クラスの全員が信頼している。"
+    },
+    {
+      "source": "original",
+      "label": "naturally(当然ながら)",
+      "en": "Naturally, he was disappointed when he heard that the concert was canceled.",
+      "ja": "当然ながら、彼はコンサートが中止されたと聞いてがっかりした。"
+    }
+  ],
+  "check_points": [
+    "「自然の」と「当然の」が同じ単語になる理由を「生まれつきのまま」から説明できるか",
+    "「彼が怒るのは当然だ」を It で始めて言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "It is natural that / for A to do の構文が和訳・整序に出る。文頭の naturally も頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 16
+    }
+  ]
+}

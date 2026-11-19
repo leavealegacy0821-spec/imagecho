@@ -1,0 +1,98 @@
+{
+  "word": "case",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/keɪs/",
+  "core_image": {
+    "text": "実際に起こった一つひとつの出来事",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 82,70 100,64\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><circle cx=\"114\" cy=\"56\" r=\"12\"/><circle cx=\"114\" cy=\"56\" r=\"4\"/><line x1=\"122\" y1=\"65\" x2=\"132\" y2=\"76\"/><circle cx=\"160\" cy=\"112\" r=\"5\"/><circle cx=\"186\" cy=\"94\" r=\"5\"/><circle cx=\"206\" cy=\"120\" r=\"5\"/></g><text x=\"124\" y=\"32\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひとつの出来事</text><text x=\"190\" y=\"76\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ほかの場合</text></svg>"
+  },
+  "etymology": "ラテン語 casus(落ちること・ふりかかった出来事。cadere=落ちる。accident, occasion と同じ) → 実際に起こった出来事 → 場合・実例／医者の扱う症例／警察の扱う事件／法廷の訴訟／事実。入れ物の case(箱)は別の語",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a particular situation or example of something, a crime that the police are trying to solve, or a matter to be decided in a court."
+    }
+  ],
+  "cautions": [
+    "in case S V=「〜するといけないから・〜の場合に備えて」。後ろは未来のことでも現在形",
+    "in case of A=Aの場合には",
+    "be the case=事実である(That is not the case.=事実はそうではない)",
+    "as is often the case with A=Aにはよくあることだが。just in case=念のため"
+  ],
+  "patterns": [
+    {
+      "form": "in case S V",
+      "meaning": "〜するといけないから"
+    },
+    {
+      "form": "in case of A",
+      "meaning": "Aの場合には"
+    },
+    {
+      "form": "be the case",
+      "meaning": "事実である"
+    },
+    {
+      "form": "as is often the case with A",
+      "meaning": "Aにはよくあることだが"
+    },
+    {
+      "form": "in any case",
+      "meaning": "とにかく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "場合",
+      "en": "In most cases, the disease can be cured if it is found early.",
+      "ja": "たいていの場合、その病気は早く見つかれば治せる。"
+    },
+    {
+      "source": "original",
+      "label": "in case=備えて",
+      "en": "Take an umbrella with you in case it rains in the afternoon.",
+      "ja": "午後に雨が降るといけないから、傘を持って行きなさい。"
+    },
+    {
+      "source": "original",
+      "label": "be the case=事実だ",
+      "en": "People think he is rich, but that is not the case at all.",
+      "ja": "人は彼を金持ちだと思っているが、事実はまったく違う。"
+    },
+    {
+      "source": "original",
+      "label": "事件",
+      "en": "The police are investigating a murder case that happened ten years ago.",
+      "ja": "警察は10年前に起きた殺人事件を捜査している。"
+    },
+    {
+      "source": "original",
+      "label": "症例",
+      "en": "Several cases of the new flu have been reported in this city.",
+      "ja": "この市で、新型インフルエンザの症例がいくつか報告されている。"
+    },
+    {
+      "source": "original",
+      "label": "as is often the case",
+      "en": "As is often the case with him, he was late for the meeting.",
+      "ja": "彼にはよくあることだが、会議に遅刻した。"
+    }
+  ],
+  "check_points": [
+    "場合・事件・症例を「実際に起こった一つの出来事」で説明できるか",
+    "in case の後ろの動詞の時制はどうなるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "in case S V、that is (not) the case、as is often the case with が文法・和訳の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 54
+    }
+  ]
+}

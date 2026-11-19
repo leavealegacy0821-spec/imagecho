@@ -1,0 +1,98 @@
+{
+  "word": "threaten",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈθretn/",
+  "core_image": {
+    "text": "押し迫って、こわがらせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><line x1=\"66\" y1=\"74\" x2=\"52\" y2=\"62\"/><line x1=\"66\" y1=\"74\" x2=\"80\" y2=\"62\"/><path d=\"M130 32 Q130 16 150 18 Q160 6 178 16 Q200 12 202 32 Q216 42 200 54 L140 54 Q118 48 130 32 Z\"/><polyline points=\"162,58 152,78 166,78 154,102\"/></g><text x=\"176\" y=\"122\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">迫ってくる</text></svg>"
+  },
+  "etymology": "古英語 threat(押しつけ・圧迫) + en(〜にする) → 圧力をかける → 脅す → 悪いことが押し迫っている=〜する恐れがある・〜をおびやかす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say that you will harm someone if they do not do what you want, or to be likely to harm or destroy something."
+    }
+  ],
+  "cautions": [
+    "threaten to do=〜すると脅す／〜する恐れがある",
+    "threaten A with B=AをBで脅す",
+    "be threatened with extinction=絶滅の危機にある",
+    "名詞 threat(a threat to A=Aへの脅威)"
+  ],
+  "patterns": [
+    {
+      "form": "threaten A",
+      "meaning": "Aを脅す・おびやかす"
+    },
+    {
+      "form": "threaten to do",
+      "meaning": "〜すると脅す・〜する恐れがある"
+    },
+    {
+      "form": "threaten A with B",
+      "meaning": "AをBで脅す"
+    },
+    {
+      "form": "be threatened with A",
+      "meaning": "Aの危機にある"
+    },
+    {
+      "form": "a threat to A",
+      "meaning": "Aへの脅威"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "脅す",
+      "en": "The man threatened the clerk with a knife and took the money.",
+      "ja": "男は店員をナイフで脅して、お金を奪った。"
+    },
+    {
+      "source": "original",
+      "label": "threaten to do=脅す",
+      "en": "He threatened to tell the teacher if I did not help him.",
+      "ja": "彼は、手伝わなければ先生に言うぞと私を脅した。"
+    },
+    {
+      "source": "original",
+      "label": "〜する恐れがある",
+      "en": "Dark clouds threatened to spoil our picnic.",
+      "ja": "黒い雲が出て、ピクニックが台なしになりそうだった。"
+    },
+    {
+      "source": "original",
+      "label": "おびやかす",
+      "en": "Pollution threatens the lives of many sea animals.",
+      "ja": "汚染は、多くの海の動物の命をおびやかしている。"
+    },
+    {
+      "source": "original",
+      "label": "絶滅の危機にある",
+      "en": "Many species are threatened with extinction because of hunting.",
+      "ja": "狩猟のせいで、多くの種が絶滅の危機にある。"
+    },
+    {
+      "source": "original",
+      "label": "threat(名詞)",
+      "en": "Climate change is a serious threat to our future.",
+      "ja": "気候変動は、私たちの未来への深刻な脅威だ。"
+    }
+  ],
+  "check_points": [
+    "threaten to do の2つの意味(脅す・恐れがある)を言えるか",
+    "a threat to A はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "threaten to do、be threatened with extinction、a threat to が、環境を扱う長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 195
+    }
+  ]
+}

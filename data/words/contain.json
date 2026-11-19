@@ -1,0 +1,94 @@
+{
+  "word": "contain",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈteɪn/",
+  "core_image": {
+    "text": "中にしっかり保っている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><polyline points=\"46,74 72,66 96,58\"/><line x1=\"46\" y1=\"74\" x2=\"36\" y2=\"96\"/><polyline points=\"130,70 130,140 200,140 200,70\"/><line x1=\"124\" y1=\"62\" x2=\"206\" y2=\"62\"/><circle cx=\"150\" cy=\"122\" r=\"9\"/><circle cx=\"176\" cy=\"116\" r=\"9\"/><circle cx=\"164\" cy=\"96\" r=\"9\"/></g><text x=\"165\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">中に保つ</text></svg>"
+  },
+  "etymology": "con(共に) + tain(保つ。maintain, obtain, sustain と同じ) → 中に保つ → 含む・入っている → 感情や被害が外へ出ないよう中に抑え込む",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to have something inside or as a part, or to keep a feeling or a harmful situation under control."
+    }
+  ],
+  "cautions": [
+    "状態を表す動詞なので進行形にしない(is containing は×)",
+    "contain は「中身・成分として含む」、include は「全体の一部として含む」",
+    "contain one's anger / oneself=怒り・気持ちを抑える",
+    "container=容器、contents=中身"
+  ],
+  "patterns": [
+    {
+      "form": "contain A",
+      "meaning": "Aを含む"
+    },
+    {
+      "form": "contain one's anger",
+      "meaning": "怒りを抑える"
+    },
+    {
+      "form": "contain oneself",
+      "meaning": "気持ちを抑える"
+    },
+    {
+      "form": "container",
+      "meaning": "容器"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "含む",
+      "en": "This drink contains a lot of sugar, so you should not have it every day.",
+      "ja": "この飲み物は砂糖を多く含むので、毎日飲むべきではない。"
+    },
+    {
+      "source": "original",
+      "label": "入っている",
+      "en": "The box contained old letters and photographs of my grandparents.",
+      "ja": "その箱には、祖父母の古い手紙と写真が入っていた。"
+    },
+    {
+      "source": "original",
+      "label": "(情報を)含む",
+      "en": "The report contains important information about the accident.",
+      "ja": "その報告書には、事故についての重要な情報が含まれている。"
+    },
+    {
+      "source": "original",
+      "label": "抑える",
+      "en": "She could hardly contain her excitement when she heard the news.",
+      "ja": "その知らせを聞いて、彼女は興奮をほとんど抑えられなかった。"
+    },
+    {
+      "source": "original",
+      "label": "封じ込める",
+      "en": "Firefighters worked all night to contain the forest fire.",
+      "ja": "消防士たちは、山火事を食い止めるために一晩中働いた。"
+    },
+    {
+      "source": "original",
+      "label": "container(名詞)",
+      "en": "Keep the cookies in a container with a tight lid.",
+      "ja": "クッキーは、ふたのしっかり閉まる容器に入れておきなさい。"
+    }
+  ],
+  "check_points": [
+    "contain と include の違いを言えるか",
+    "「感情を抑える」を「中に保つ」で説明できるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "contain(進行形にしない)、include との区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 133
+    }
+  ]
+}

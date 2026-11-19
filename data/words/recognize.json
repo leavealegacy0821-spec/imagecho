@@ -1,0 +1,94 @@
+{
+  "word": "recognize",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈrekəɡnaɪz/",
+  "core_image": {
+    "text": "「あ、知っている」と改めてわかる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"56\" y1=\"74\" x2=\"44\" y2=\"98\"/><line x1=\"56\" y1=\"74\" x2=\"68\" y2=\"98\"/><ellipse cx=\"56\" cy=\"18\" rx=\"24\" ry=\"12\" stroke-dasharray=\"4 4\"/><circle cx=\"56\" cy=\"18\" r=\"6\"/><circle cx=\"184\" cy=\"52\" r=\"10\"/><line x1=\"184\" y1=\"62\" x2=\"184\" y2=\"106\"/><line x1=\"184\" y1=\"106\" x2=\"174\" y2=\"140\"/><line x1=\"184\" y1=\"106\" x2=\"194\" y2=\"140\"/><line x1=\"184\" y1=\"74\" x2=\"172\" y2=\"98\"/><line x1=\"184\" y1=\"74\" x2=\"196\" y2=\"98\"/><line x1=\"74\" y1=\"52\" x2=\"166\" y2=\"52\" stroke-dasharray=\"5 5\"/><polyline points=\"159,48.2 166,52 159,55.8\"/></g><text x=\"124\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">前に見た顔だ</text><text x=\"122\" y=\"122\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">改めてわかる</text></svg>"
+  },
+  "etymology": "re(再び) + cogn(知る。cognitive と同じ。know とも同じ根) → 再び知る → 見覚えがあって、それとわかる → 事実や価値を改めて認める → 公式に認める",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to know who someone is or what something is because you have seen or heard them before, or to accept that something is true or important."
+    }
+  ],
+  "cautions": [
+    "「見て・聞いて、それとわかる」。know は「知っている」状態、recognize は「わかる」瞬間",
+    "recognize that S V=〜だと認める",
+    "recognize A as B=AをBと認める",
+    "名詞 recognition。beyond recognition=見分けがつかないほど"
+  ],
+  "patterns": [
+    {
+      "form": "recognize A",
+      "meaning": "Aだとわかる・Aを認める"
+    },
+    {
+      "form": "recognize that S V",
+      "meaning": "〜だと認める"
+    },
+    {
+      "form": "recognize A as B",
+      "meaning": "AをBと認める"
+    },
+    {
+      "form": "beyond recognition",
+      "meaning": "見分けがつかないほど"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "それとわかる",
+      "en": "I did not recognize her at first because she had cut her hair short.",
+      "ja": "髪を短く切っていたので、最初は彼女だとわからなかった。"
+    },
+    {
+      "source": "original",
+      "label": "声でわかる",
+      "en": "He recognized his old teacher by her voice on the phone.",
+      "ja": "彼は電話の声で、昔の先生だとわかった。"
+    },
+    {
+      "source": "original",
+      "label": "認める",
+      "en": "The government finally recognized that the plan had failed.",
+      "ja": "政府は、その計画が失敗したことをついに認めた。"
+    },
+    {
+      "source": "original",
+      "label": "recognize A as B",
+      "en": "She is recognized as one of the best doctors in the country.",
+      "ja": "彼女は、国内で最もすぐれた医師の1人と認められている。"
+    },
+    {
+      "source": "original",
+      "label": "評価する",
+      "en": "His work was not recognized until many years after his death.",
+      "ja": "彼の仕事は、死後何年もたつまで評価されなかった。"
+    },
+    {
+      "source": "original",
+      "label": "recognition(名詞)",
+      "en": "The town has changed beyond recognition in the last twenty years.",
+      "ja": "その町はこの20年で、見分けがつかないほど変わった。"
+    }
+  ],
+  "check_points": [
+    "know と recognize の違い(状態と瞬間)を言えるか",
+    "beyond recognition はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "recognize(それとわかる・認める)、recognize A as B、beyond recognition が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 110
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "reflect",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈflekt/",
+  "core_image": {
+    "text": "当たったものを曲げて返す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"56\" y1=\"74\" x2=\"44\" y2=\"98\"/><line x1=\"56\" y1=\"74\" x2=\"68\" y2=\"98\"/><line x1=\"184\" y1=\"30\" x2=\"184\" y2=\"130\"/><line x1=\"190\" y1=\"30\" x2=\"190\" y2=\"130\"/><line x1=\"78\" y1=\"46\" x2=\"178\" y2=\"70\"/><polyline points=\"172.1,64.6 178,70 170.3,72.1\"/><line x1=\"178\" y1=\"80\" x2=\"84\" y2=\"104\" stroke-dasharray=\"5 5\"/><polyline points=\"91.8,106 84,104 89.9,98.5\"/></g><text x=\"126\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">当たって</text><text x=\"138\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">返ってくる</text></svg>"
+  },
+  "etymology": "re(後ろへ) + flect(曲げる。flexible と同じ) → 曲げて返す → 光や像を反射する・映す → 物事のありさまを映し出す=反映する → 考えを自分の内へ曲げ返す=よく考える(reflect on)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to send back light or an image, to show or be a sign of something, or to think carefully about something."
+    }
+  ],
+  "cautions": [
+    "reflect A=Aを反映する・映す。受け身 be reflected in A",
+    "reflect on A=Aをよく考える・振り返る(on が必要)",
+    "名詞 reflection=反射・映った像・熟考・反映",
+    "on reflection=よく考えてみると"
+  ],
+  "patterns": [
+    {
+      "form": "reflect A",
+      "meaning": "Aを反映する・映す"
+    },
+    {
+      "form": "be reflected in A",
+      "meaning": "Aに映っている・表れている"
+    },
+    {
+      "form": "reflect on A",
+      "meaning": "Aをよく考える"
+    },
+    {
+      "form": "on reflection",
+      "meaning": "よく考えてみると"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "反射する",
+      "en": "The white walls reflect the sunlight and keep the house cool.",
+      "ja": "白い壁が日光を反射して、家を涼しく保つ。"
+    },
+    {
+      "source": "original",
+      "label": "映す",
+      "en": "The mountains were reflected in the calm water of the lake.",
+      "ja": "山々が、静かな湖の水面に映っていた。"
+    },
+    {
+      "source": "original",
+      "label": "反映する",
+      "en": "The price of the product reflects the cost of the materials.",
+      "ja": "その製品の価格は、材料の費用を反映している。"
+    },
+    {
+      "source": "original",
+      "label": "reflect on=よく考える",
+      "en": "Take some time to reflect on what you have learned this year.",
+      "ja": "今年学んだことを、時間を取ってよく振り返りなさい。"
+    },
+    {
+      "source": "original",
+      "label": "reflection(映った像)",
+      "en": "The cat was surprised by its own reflection in the mirror.",
+      "ja": "その猫は、鏡に映った自分の姿に驚いた。"
+    },
+    {
+      "source": "original",
+      "label": "on reflection",
+      "en": "On reflection, I think I was wrong to refuse his offer.",
+      "ja": "よく考えてみると、彼の申し出を断ったのは間違いだったと思う。"
+    }
+  ],
+  "check_points": [
+    "反射・反映・熟考を「曲げて返す」で説明できるか",
+    "「〜をよく考える」で reflect の後ろに付ける前置詞は何か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "reflect(反映する)、reflect on(熟考する)が論説文で必須。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 100
+    }
+  ]
+}

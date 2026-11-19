@@ -1,0 +1,103 @@
+{
+  "word": "respect",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/rɪˈspekt/",
+  "core_image": {
+    "text": "振り返って、じっくり見る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><line x1=\"66\" y1=\"74\" x2=\"54\" y2=\"98\"/><line x1=\"66\" y1=\"74\" x2=\"78\" y2=\"98\"/><line x1=\"80\" y1=\"50\" x2=\"158\" y2=\"42\" stroke-dasharray=\"5 5\"/><polyline points=\"150.6,38.9 158,42 151.4,46.5\"/><rect x=\"150\" y=\"110\" width=\"50\" height=\"30\"/><circle cx=\"175\" cy=\"40\" r=\"10\"/><line x1=\"175\" y1=\"50\" x2=\"175\" y2=\"88\"/><line x1=\"175\" y1=\"88\" x2=\"167\" y2=\"110\"/><line x1=\"175\" y1=\"88\" x2=\"183\" y2=\"110\"/><line x1=\"175\" y1=\"62\" x2=\"163\" y2=\"78\"/><line x1=\"175\" y1=\"62\" x2=\"187\" y2=\"78\"/></g><text x=\"112\" y=\"32\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">じっくり見る</text><text x=\"216\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">価値</text></svg>"
+  },
+  "etymology": "re(再び・後ろへ) + spect(見る。inspect, expect, aspect と同じ) → 振り返ってよく見る → 価値を認めて見る=尊敬する・尊重する／見る「ところ」=点・観点(in this respect)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a feeling of admiration for someone because of their qualities, or a particular aspect or detail of something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to admire someone, or to be careful not to do anything against someone's rights or wishes."
+    }
+  ],
+  "cautions": [
+    "in this respect=この点で、in every respect=あらゆる点で。「点」の意味が長文で問われる",
+    "with respect to A=Aに関して",
+    "派生語の区別: respectable(尊敬に値する・まともな)／respectful(敬意を表す・礼儀正しい)／respective(それぞれの)",
+    "respect A for B=AをBのことで尊敬する"
+  ],
+  "patterns": [
+    {
+      "form": "respect A for B",
+      "meaning": "AをBのことで尊敬する"
+    },
+    {
+      "form": "in this respect",
+      "meaning": "この点で"
+    },
+    {
+      "form": "with respect to A",
+      "meaning": "Aに関して"
+    },
+    {
+      "form": "have respect for A",
+      "meaning": "Aを尊敬している"
+    },
+    {
+      "form": "respective",
+      "meaning": "それぞれの"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "尊敬する",
+      "en": "I respect my grandmother for her courage and kindness to everyone.",
+      "ja": "私は、祖母の勇気とだれにでも親切なところを尊敬している。"
+    },
+    {
+      "source": "original",
+      "label": "尊重する",
+      "en": "We must respect the privacy of others even when we are curious.",
+      "ja": "たとえ知りたくても、他人のプライバシーは尊重しなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "尊敬(名詞)",
+      "en": "The students have great respect for the teacher who never tells a lie.",
+      "ja": "生徒たちは、決してうそをつかないその先生を深く尊敬している。"
+    },
+    {
+      "source": "original",
+      "label": "点(in ... respects)",
+      "en": "The two plans are similar in many respects, but they differ in cost.",
+      "ja": "2つの案は多くの点で似ているが、費用が異なる。"
+    },
+    {
+      "source": "original",
+      "label": "with respect to=〜に関して",
+      "en": "With respect to your question, I will give you an answer tomorrow.",
+      "ja": "ご質問については、明日お答えします。"
+    },
+    {
+      "source": "original",
+      "label": "respective(それぞれの)",
+      "en": "After the meeting, the members went back to their respective offices.",
+      "ja": "会議の後、メンバーはそれぞれの職場へ戻った。"
+    }
+  ],
+  "check_points": [
+    "「尊敬」と「点」が同じ単語になるわけを「じっくり見る」から説明できるか",
+    "respectable・respectful・respective の意味を区別できるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "in this respect の「点」、respectable / respectful / respective の区別が語彙問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 46
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "close",
+  "pos": [
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/kloʊz/",
+  "core_image": {
+    "text": "すき間をなくす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"28\" y2=\"98\"/><line x1=\"40\" y1=\"74\" x2=\"52\" y2=\"98\"/><rect x=\"100\" y=\"50\" width=\"44\" height=\"90\"/><rect x=\"152\" y=\"50\" width=\"44\" height=\"90\"/><line x1=\"84\" y1=\"36\" x2=\"140\" y2=\"36\"/><polyline points=\"133,32.2 140,36 133,39.8\"/><line x1=\"212\" y1=\"36\" x2=\"156\" y2=\"36\"/><polyline points=\"163,39.8 156,36 163,32.2\"/></g><text x=\"148\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すき間をなくす</text></svg>"
+  },
+  "etymology": "ラテン語 claudere(閉じる。include, conclude と同じ) → すき間を閉じる=閉める・終える → すき間が無い=近い・親しい・綿密な・接戦の",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to shut something, or to end something such as a meeting or a business."
+    },
+    {
+      "pos": "形容詞",
+      "text": "near in distance or time, or knowing someone very well and liking them."
+    }
+  ],
+  "cautions": [
+    "動詞は /kloʊz/、形容詞・副詞は /kloʊs/ と発音が違う",
+    "close to A=Aに近い、a close friend=親友、a close game=接戦、a close look=綿密に見ること",
+    "closely は「綿密に・密接に」。距離が「近くに」は close",
+    "come close to doing=もう少しで〜しそうになる"
+  ],
+  "patterns": [
+    {
+      "form": "close to A",
+      "meaning": "Aに近い"
+    },
+    {
+      "form": "a close friend",
+      "meaning": "親友"
+    },
+    {
+      "form": "take a close look at A",
+      "meaning": "Aをよく見る"
+    },
+    {
+      "form": "come close to doing",
+      "meaning": "もう少しで〜しそうになる"
+    },
+    {
+      "form": "closely related",
+      "meaning": "密接に関係した"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "閉める(動詞)",
+      "en": "Please close the window before you leave the room.",
+      "ja": "部屋を出る前に窓を閉めてください。"
+    },
+    {
+      "source": "original",
+      "label": "終える(動詞)",
+      "en": "The chairman closed the meeting with a few words of thanks.",
+      "ja": "議長は短い感謝の言葉で会議を締めくくった。"
+    },
+    {
+      "source": "original",
+      "label": "近い(形容詞)",
+      "en": "Our hotel was very close to the beach, so we walked there every morning.",
+      "ja": "ホテルは浜辺のすぐ近くだったので、毎朝歩いて行った。"
+    },
+    {
+      "source": "original",
+      "label": "親しい(形容詞)",
+      "en": "She has been a close friend of mine since elementary school.",
+      "ja": "彼女は小学校のころからの親友だ。"
+    },
+    {
+      "source": "original",
+      "label": "綿密な(形容詞)",
+      "en": "Take a close look at this picture and tell me what you notice.",
+      "ja": "この写真をよく見て、気づいたことを教えてください。"
+    },
+    {
+      "source": "original",
+      "label": "closely(密接に)",
+      "en": "Language and culture are closely related to each other.",
+      "ja": "言語と文化は互いに密接に関係している。"
+    }
+  ],
+  "check_points": [
+    "閉める・近い・親しい・綿密なを「すき間をなくす」で説明できるか",
+    "動詞と形容詞の発音の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "発音(/z/ と /s/)、close と closely の区別、come close to doing が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 56
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "consist",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈsɪst/",
+  "core_image": {
+    "text": "一緒に立って成り立つ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><polyline points=\"46,74 72,72 94,72\"/><line x1=\"46\" y1=\"74\" x2=\"36\" y2=\"96\"/><rect x=\"120\" y=\"100\" width=\"36\" height=\"40\"/><rect x=\"160\" y=\"100\" width=\"36\" height=\"40\"/><rect x=\"140\" y=\"60\" width=\"36\" height=\"40\"/><rect x=\"112\" y=\"52\" width=\"92\" height=\"88\" stroke-dasharray=\"5 5\"/></g><text x=\"158\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">合わさって1つ</text></svg>"
+  },
+  "etymology": "con(共に) + sist(立つ。exist, resist, insist, assist と同じ) → 一緒に立つ → 〜が集まって成り立つ(consist of) → 本質が〜の中に立っている=〜にある(consist in)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be made of or formed from a number of things or people."
+    }
+  ],
+  "cautions": [
+    "consist of A=Aから成る。自動詞なので受け身にしない(be consisted of は×)。進行形にもしない",
+    "同じ意味: be composed of A、be made up of A",
+    "consist in A=(本質が)Aにある",
+    "consistent=一貫した(be consistent with A=Aと一致する)"
+  ],
+  "patterns": [
+    {
+      "form": "consist of A",
+      "meaning": "Aから成る"
+    },
+    {
+      "form": "consist in A",
+      "meaning": "(本質が)Aにある"
+    },
+    {
+      "form": "be consistent with A",
+      "meaning": "Aと一致する"
+    },
+    {
+      "form": "be made up of A",
+      "meaning": "Aから成る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "consist of",
+      "en": "The committee consists of ten members from five different countries.",
+      "ja": "その委員会は、5つの国から来た10人の委員で成り立っている。"
+    },
+    {
+      "source": "original",
+      "label": "成る",
+      "en": "As you learned in science class, water consists of hydrogen and oxygen.",
+      "ja": "理科の授業で習ったように、水は水素と酸素から成る。"
+    },
+    {
+      "source": "original",
+      "label": "成る",
+      "en": "The exam consists of two parts: a written test and an interview.",
+      "ja": "試験は筆記試験と面接の2つの部分から成る。"
+    },
+    {
+      "source": "original",
+      "label": "consist in=〜にある",
+      "en": "True happiness consists in being satisfied with what you have.",
+      "ja": "本当の幸せは、今持っているものに満足することにある。"
+    },
+    {
+      "source": "original",
+      "label": "consistent(形容詞)",
+      "en": "His actions are not consistent with what he says in public.",
+      "ja": "彼の行動は、人前で言っていることと一致していない。"
+    },
+    {
+      "source": "original",
+      "label": "言い換え",
+      "en": "A baseball team is made up of nine players; that is, it consists of nine.",
+      "ja": "野球のチームは9人で構成される。つまり、9人から成る。"
+    }
+  ],
+  "check_points": [
+    "consist of を受け身にしない理由を「一緒に立つ」(自動詞)から説明できるか",
+    "consist of の言い換えを2つ言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "consist of(受け身にしない)、be composed of / be made up of との言い換え、consistent が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 132
+    }
+  ]
+}

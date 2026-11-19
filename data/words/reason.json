@@ -1,0 +1,103 @@
+{
+  "word": "reason",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈriːzn/",
+  "core_image": {
+    "text": "筋道を立てて考える頭の働き",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><polyline points=\"46,74 60,66 54,58\"/><line x1=\"46\" y1=\"74\" x2=\"36\" y2=\"96\"/><rect x=\"96\" y=\"60\" width=\"26\" height=\"22\"/><rect x=\"142\" y=\"60\" width=\"26\" height=\"22\"/><rect x=\"188\" y=\"60\" width=\"26\" height=\"22\"/><line x1=\"124\" y1=\"71\" x2=\"139\" y2=\"71\"/><polyline points=\"132,67.2 139,71 132,74.8\"/><line x1=\"170\" y1=\"71\" x2=\"185\" y2=\"71\"/><polyline points=\"178,67.2 185,71 178,74.8\"/></g><text x=\"155\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">筋道を立てる</text><text x=\"155\" y=\"102\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">だから、こうなる</text></svg>"
+  },
+  "etymology": "ラテン語 ratio(計算・勘定。rate, ratio, rational と同じ) → 筋道立てて考えること → 理性 → 筋道の根拠=理由。動詞は「筋道立てて考える・推論する」",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the cause of something or the explanation for it, or the ability to think and make sensible judgments."
+    },
+    {
+      "pos": "動詞",
+      "text": "to form a judgment about something by thinking carefully about the facts."
+    }
+  ],
+  "cautions": [
+    "「この理由で」は for this reason。by や because of this reason は×",
+    "the reason for A / the reason why S V。The reason is that S V(because より that が正式)",
+    "数えられない名詞で「理性」の意味がある",
+    "reasonable=道理にかなった・(値段が)手ごろな"
+  ],
+  "patterns": [
+    {
+      "form": "the reason for A",
+      "meaning": "Aの理由"
+    },
+    {
+      "form": "the reason why S V",
+      "meaning": "〜する理由"
+    },
+    {
+      "form": "for this reason",
+      "meaning": "この理由で"
+    },
+    {
+      "form": "It stands to reason that S V",
+      "meaning": "〜は当然だ"
+    },
+    {
+      "form": "reasonable",
+      "meaning": "道理にかなった・手ごろな"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "理由",
+      "en": "The main reason for his success is that he never gave up.",
+      "ja": "彼が成功した主な理由は、決してあきらめなかったことだ。"
+    },
+    {
+      "source": "original",
+      "label": "for ... reason",
+      "en": "For some reason, the door was open when I came home last night.",
+      "ja": "どういうわけか、昨夜帰宅したときドアが開いていた。"
+    },
+    {
+      "source": "original",
+      "label": "the reason why",
+      "en": "Nobody knows the reason why she suddenly quit her job.",
+      "ja": "彼女がなぜ突然仕事を辞めたのか、だれも知らない。"
+    },
+    {
+      "source": "original",
+      "label": "理性",
+      "en": "Humans are said to differ from other animals in their power of reason.",
+      "ja": "人間は理性の力において、ほかの動物と異なると言われる。"
+    },
+    {
+      "source": "original",
+      "label": "推論する(動詞)",
+      "en": "He reasoned that the thief must have entered through the kitchen window.",
+      "ja": "彼は、泥棒は台所の窓から入ったにちがいないと推論した。"
+    },
+    {
+      "source": "original",
+      "label": "reasonable(手ごろな)",
+      "en": "The hotel was clean and comfortable, and the price was reasonable.",
+      "ja": "そのホテルは清潔で快適で、値段も手ごろだった。"
+    }
+  ],
+  "check_points": [
+    "「理由」と「理性」が同じ単語になるわけを「筋道を立てる」から説明できるか",
+    "「この理由で」で使う前置詞は何か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "for this reason の for、the reason why / that、reasonable の「手ごろな」が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 45
+    }
+  ]
+}

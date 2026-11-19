@@ -1,0 +1,98 @@
+{
+  "word": "aware",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/əˈwer/",
+  "core_image": {
+    "text": "見張っていて、気づいている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"76\" cy=\"52\" r=\"10\"/><line x1=\"76\" y1=\"62\" x2=\"76\" y2=\"106\"/><line x1=\"76\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"76\" y1=\"106\" x2=\"86\" y2=\"140\"/><line x1=\"76\" y1=\"74\" x2=\"64\" y2=\"98\"/><line x1=\"76\" y1=\"74\" x2=\"88\" y2=\"98\"/><line x1=\"62\" y1=\"34\" x2=\"54\" y2=\"26\"/><line x1=\"76\" y1=\"30\" x2=\"76\" y2=\"20\"/><line x1=\"90\" y1=\"34\" x2=\"98\" y2=\"26\"/><line x1=\"94\" y1=\"54\" x2=\"160\" y2=\"72\" stroke-dasharray=\"5 5\"/><polyline points=\"154.2,66.5 160,72 152.2,73.9\"/><rect x=\"166\" y=\"62\" width=\"36\" height=\"36\"/></g><text x=\"150\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">気づいている</text><text x=\"184\" y=\"114\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そこにある</text></svg>"
+  },
+  "etymology": "古英語 gewær(用心深い。wary, warn, beware と同じ根) → 見張っている → 気づいている・知っている",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "knowing that something exists, or having knowledge or experience of a particular thing."
+    }
+  ],
+  "cautions": [
+    "be aware of A / be aware that S V=Aに(〜だと)気づいている・知っている",
+    "名詞の前には普通置かない(be 動詞などの後ろで使う)",
+    "become aware of A=Aに気づく、make A aware of B=AにBを気づかせる",
+    "名詞 awareness(raise awareness=意識を高める)。反対は unaware"
+  ],
+  "patterns": [
+    {
+      "form": "be aware of A",
+      "meaning": "Aに気づいている"
+    },
+    {
+      "form": "be aware that S V",
+      "meaning": "〜だと知っている"
+    },
+    {
+      "form": "become aware of A",
+      "meaning": "Aに気づく"
+    },
+    {
+      "form": "make A aware of B",
+      "meaning": "AにBを気づかせる"
+    },
+    {
+      "form": "awareness",
+      "meaning": "意識・認識"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "be aware of",
+      "en": "Most smokers are aware of the dangers of smoking.",
+      "ja": "たばこを吸う人のほとんどは、喫煙の危険を知っている。"
+    },
+    {
+      "source": "original",
+      "label": "be aware that",
+      "en": "I was not aware that the meeting had been canceled.",
+      "ja": "会議が中止になったことを、私は知らなかった。"
+    },
+    {
+      "source": "original",
+      "label": "become aware of",
+      "en": "She suddenly became aware of someone standing behind her.",
+      "ja": "彼女は、後ろにだれかが立っていることにふと気づいた。"
+    },
+    {
+      "source": "original",
+      "label": "make A aware of B",
+      "en": "The campaign made people aware of the need to save water.",
+      "ja": "その運動は、水を節約する必要性を人々に気づかせた。"
+    },
+    {
+      "source": "original",
+      "label": "awareness(名詞)",
+      "en": "We need to raise public awareness of this disease.",
+      "ja": "この病気について、世間の意識を高める必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "unaware(反対)",
+      "en": "He was completely unaware of the mistake he had made.",
+      "ja": "彼は、自分のした間違いにまったく気づいていなかった。"
+    }
+  ],
+  "check_points": [
+    "be aware of と be aware that の使い分けを言えるか",
+    "warn・beware との関係を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "be aware of / that、awareness が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 201
+    }
+  ]
+}

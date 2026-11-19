@@ -1,0 +1,93 @@
+{
+  "word": "transform",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/trænsˈfɔːrm/",
+  "core_image": {
+    "text": "形をがらりと変える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><polyline points=\"46,74 70,66 90,58\"/><line x1=\"46\" y1=\"74\" x2=\"36\" y2=\"96\"/><rect x=\"100\" y=\"74\" width=\"30\" height=\"30\"/><line x1=\"138\" y1=\"88\" x2=\"164\" y2=\"88\"/><polyline points=\"157,84.2 164,88 157,91.8\"/><polygon points=\"194,68 199,82 214,82 202,91 207,105 194,96 181,105 186,91 174,82 189,82\"/></g><text x=\"152\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">がらりと変わる</text></svg>"
+  },
+  "etymology": "trans(越えて・別の状態へ) + form(形) → 形を別のものへ移す → 姿・性質をすっかり変える。change より「根本から」の感じが強い",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to change completely the appearance or character of something or someone."
+    }
+  ],
+  "cautions": [
+    "transform A into B=AをBに一変させる",
+    "change より「根本的に・すっかり」変える",
+    "名詞は transformation"
+  ],
+  "patterns": [
+    {
+      "form": "transform A",
+      "meaning": "Aを一変させる"
+    },
+    {
+      "form": "transform A into B",
+      "meaning": "AをBに一変させる"
+    },
+    {
+      "form": "be transformed into A",
+      "meaning": "Aに一変する"
+    },
+    {
+      "form": "transformation",
+      "meaning": "大きな変化"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "transform A into B",
+      "en": "The old factory was transformed into a modern art museum.",
+      "ja": "その古い工場は、現代美術館に生まれ変わった。"
+    },
+    {
+      "source": "original",
+      "label": "一変させる",
+      "en": "The internet has transformed the way we communicate.",
+      "ja": "インターネットは、私たちの伝え合い方を一変させた。"
+    },
+    {
+      "source": "original",
+      "label": "一変する",
+      "en": "In ten years, the small fishing village transformed into a busy resort.",
+      "ja": "10年のうちに、その小さな漁村はにぎやかな行楽地に一変した。"
+    },
+    {
+      "source": "original",
+      "label": "(人を)変える",
+      "en": "The experience of living abroad transformed him completely.",
+      "ja": "海外で暮らした経験は、彼をすっかり変えた。"
+    },
+    {
+      "source": "original",
+      "label": "変換する",
+      "en": "Solar panels transform sunlight into electricity.",
+      "ja": "太陽光パネルは、日光を電気に変える。"
+    },
+    {
+      "source": "original",
+      "label": "transformation(名詞)",
+      "en": "The country has gone through a remarkable transformation since the war.",
+      "ja": "その国は戦後、めざましい変化をとげてきた。"
+    }
+  ],
+  "check_points": [
+    "change と transform の違い(変わる程度)を言えるか",
+    "transform A into B はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "transform A into B、transformation が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 197
+    }
+  ]
+}

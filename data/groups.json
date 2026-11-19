@@ -1,0 +1,489 @@
+{
+  "note": "めくる形式の並び順。つながりのある単語をまとまりごとに並べる。ここに無い単語は最後の「そのほか」に自動で入る",
+  "groups": [
+    {
+      "title": "tain=保つ",
+      "note": "中に・しっかり保つ",
+      "words": [
+        "maintain",
+        "contain",
+        "obtain",
+        "sustain",
+        "content"
+      ]
+    },
+    {
+      "title": "ceive / cap=取る・つかむ",
+      "note": "手でつかみ取る",
+      "words": [
+        "receive",
+        "perceive",
+        "capable",
+        "participate",
+        "acquire",
+        "require",
+        "recover",
+        "consume"
+      ]
+    },
+    {
+      "title": "fer=運ぶ",
+      "note": "どこかへ運ぶ",
+      "words": [
+        "offer",
+        "prefer",
+        "refer",
+        "transfer",
+        "suffer",
+        "differ"
+      ]
+    },
+    {
+      "title": "pose=置く",
+      "note": "どこかに置く",
+      "words": [
+        "oppose",
+        "propose",
+        "suppose",
+        "expose",
+        "purpose"
+      ]
+    },
+    {
+      "title": "duce / duct=導く",
+      "note": "ある方向へ導く",
+      "words": [
+        "produce",
+        "reduce",
+        "introduce",
+        "conduct"
+      ]
+    },
+    {
+      "title": "mit=送る",
+      "note": "向こうへ送る",
+      "words": [
+        "admit",
+        "permit",
+        "commit"
+      ]
+    },
+    {
+      "title": "sist / sta=立つ",
+      "note": "その場に立つ",
+      "words": [
+        "insist",
+        "consist",
+        "resist",
+        "stand",
+        "state",
+        "establish",
+        "still",
+        "exist"
+      ]
+    },
+    {
+      "title": "tend=伸ばす",
+      "note": "ある方向へ伸ばす",
+      "words": [
+        "tend",
+        "intend",
+        "extend",
+        "pretend",
+        "attend"
+      ]
+    },
+    {
+      "title": "spect=見る",
+      "note": "目を向けて見る",
+      "words": [
+        "respect",
+        "expect",
+        "suspect",
+        "observe",
+        "regard",
+        "reflect"
+      ]
+    },
+    {
+      "title": "vide / vis=見る・先を見る",
+      "note": "見る・見通す",
+      "words": [
+        "provide",
+        "reveal",
+        "realize",
+        "recognize",
+        "identify"
+      ]
+    },
+    {
+      "title": "pro=前へ",
+      "note": "前へ動かす・出す",
+      "words": [
+        "promote",
+        "prevent",
+        "produce",
+        "approach",
+        "achieve",
+        "develop",
+        "improve",
+        "invent"
+      ]
+    },
+    {
+      "title": "re=戻す・再び",
+      "note": "後ろへ・もう一度",
+      "words": [
+        "remain",
+        "remind",
+        "replace",
+        "represent",
+        "respond",
+        "release",
+        "rely",
+        "relate",
+        "refuse",
+        "reach"
+      ]
+    },
+    {
+      "title": "sub / sup=下から",
+      "note": "下から支える・下に置く",
+      "words": [
+        "support",
+        "supply",
+        "subject",
+        "succeed",
+        "sustain",
+        "suggest"
+      ]
+    },
+    {
+      "title": "port / form=運ぶ・形",
+      "note": "形を変える・運ぶ",
+      "words": [
+        "transform",
+        "perform",
+        "inform",
+        "figure",
+        "feature"
+      ]
+    },
+    {
+      "title": "語法:to do を取る",
+      "note": "後ろに to do",
+      "words": [
+        "afford",
+        "refuse",
+        "pretend",
+        "manage",
+        "fail",
+        "tend",
+        "deserve",
+        "seek",
+        "neglect",
+        "attempt",
+        "bother",
+        "claim"
+      ]
+    },
+    {
+      "title": "語法:doing を取る",
+      "note": "後ろに doing(to do は×)",
+      "words": [
+        "avoid",
+        "deny",
+        "admit",
+        "consider",
+        "mind",
+        "miss",
+        "practice"
+      ]
+    },
+    {
+      "title": "語法:A to do の型",
+      "note": "人に〜させる・求める",
+      "words": [
+        "encourage",
+        "persuade",
+        "force",
+        "urge",
+        "warn",
+        "permit",
+        "require",
+        "expect",
+        "allow",
+        "cause",
+        "want",
+        "enable",
+        "inspire"
+      ]
+    },
+    {
+      "title": "語法:that S (should) 原形",
+      "note": "提案・要求の動詞",
+      "words": [
+        "suggest",
+        "propose",
+        "demand",
+        "insist",
+        "require",
+        "urge"
+      ]
+    },
+    {
+      "title": "語法:A of B / A with B",
+      "note": "前置詞で決まる型",
+      "words": [
+        "remind",
+        "inform",
+        "convince",
+        "provide",
+        "associate",
+        "compare",
+        "deal",
+        "concern",
+        "complain",
+        "concentrate",
+        "owe",
+        "accuse",
+        "attach",
+        "cope"
+      ]
+    },
+    {
+      "title": "語法:to が前置詞",
+      "note": "後ろは名詞・doing",
+      "words": [
+        "object",
+        "devote",
+        "contribute",
+        "lead",
+        "commit",
+        "adapt",
+        "approach"
+      ]
+    },
+    {
+      "title": "感情・心の動き",
+      "note": "人が主語なら受け身",
+      "words": [
+        "impress",
+        "satisfy",
+        "move",
+        "interest",
+        "appreciate",
+        "concern",
+        "threaten"
+      ]
+    },
+    {
+      "title": "考える・判断する",
+      "note": "頭の中の働き",
+      "words": [
+        "assume",
+        "estimate",
+        "judge",
+        "determine",
+        "imply",
+        "indicate",
+        "argue",
+        "reason",
+        "sense",
+        "mean",
+        "focus",
+        "conclude",
+        "evaluate",
+        "distinguish",
+        "explore",
+        "define",
+        "confirm",
+        "interpret",
+        "investigate",
+        "measure"
+      ]
+    },
+    {
+      "title": "変える・動かす",
+      "note": "状態や場所が変わる",
+      "words": [
+        "change",
+        "vary",
+        "adapt",
+        "adopt",
+        "exchange",
+        "shift",
+        "transfer",
+        "move",
+        "raise",
+        "survive",
+        "decline",
+        "increase",
+        "decrease",
+        "adjust",
+        "overcome"
+      ]
+    },
+    {
+      "title": "得る・増やす",
+      "note": "手に入れる",
+      "words": [
+        "gain",
+        "obtain",
+        "acquire",
+        "earn",
+        "achieve",
+        "generate",
+        "grant",
+        "yield",
+        "enhance",
+        "organize",
+        "pursue"
+      ]
+    },
+    {
+      "title": "関わる・つながる",
+      "note": "結びつく",
+      "words": [
+        "involve",
+        "engage",
+        "relate",
+        "associate",
+        "depend",
+        "attribute",
+        "affect",
+        "combine",
+        "compete",
+        "belong",
+        "conflict",
+        "consult"
+      ]
+    },
+    {
+      "title": "形容詞:be 〜 of / with / to",
+      "note": "後ろの前置詞が大事",
+      "words": [
+        "aware",
+        "capable",
+        "familiar",
+        "similar",
+        "likely",
+        "certain",
+        "willing",
+        "worth",
+        "available"
+      ]
+    },
+    {
+      "title": "多義語:名詞",
+      "note": "1語で意味がいくつも",
+      "words": [
+        "account",
+        "case",
+        "term",
+        "party",
+        "degree",
+        "company",
+        "condition",
+        "credit",
+        "ground",
+        "interest",
+        "material",
+        "matter",
+        "order",
+        "present",
+        "rate",
+        "rest",
+        "right",
+        "sentence",
+        "line",
+        "way",
+        "note",
+        "issue",
+        "medicine",
+        "nature"
+      ]
+    },
+    {
+      "title": "多義語:動詞",
+      "note": "核となるイメージで一気に",
+      "words": [
+        "run",
+        "hold",
+        "last",
+        "lead",
+        "meet",
+        "pay",
+        "save",
+        "serve",
+        "work",
+        "bear",
+        "break",
+        "charge",
+        "address",
+        "cover",
+        "face",
+        "follow",
+        "count",
+        "settle",
+        "apply",
+        "treat",
+        "handle",
+        "share",
+        "issue",
+        "leave",
+        "command",
+        "deliver",
+        "express",
+        "arrange",
+        "operate"
+      ]
+    },
+    {
+      "title": "多義語:形容詞など",
+      "note": "意味が広がる語",
+      "words": [
+        "fine",
+        "firm",
+        "free",
+        "even",
+        "close",
+        "short",
+        "long",
+        "sound",
+        "due",
+        "natural",
+        "common",
+        "particular",
+        "direct",
+        "right"
+      ]
+    },
+    {
+      "title": "起こる・欠ける・限る",
+      "note": "状態を表す動詞",
+      "words": [
+        "occur",
+        "lack",
+        "limit",
+        "ensure",
+        "emerge",
+        "eliminate",
+        "publish",
+        "collapse"
+      ]
+    },
+    {
+      "title": "tribute / ply=割り当てる・たたむ",
+      "note": "配る・広げる",
+      "words": [
+        "distribute",
+        "contribute",
+        "attribute",
+        "display",
+        "apply",
+        "imply"
+      ]
+    }
+  ]
+}

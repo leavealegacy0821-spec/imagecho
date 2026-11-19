@@ -1,0 +1,94 @@
+{
+  "word": "confirm",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈfɜːrm/",
+  "core_image": {
+    "text": "すっかり固めて、確かにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 80,80 104,84\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><rect x=\"110\" y=\"60\" width=\"60\" height=\"44\"/><line x1=\"120\" y1=\"74\" x2=\"160\" y2=\"74\"/><line x1=\"120\" y1=\"88\" x2=\"150\" y2=\"88\"/><circle cx=\"190\" cy=\"56\" r=\"14\"/><polyline points=\"182,56 188,62 198,50\"/></g><text x=\"140\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">予定・事実</text><text x=\"196\" y=\"122\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">確かめる</text></svg>"
+  },
+  "etymology": "con(すっかり) + firm(固い) → すっかり固くする → 確かなものにする・確かめる → 予約を確定する → 正しいと裏づける",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say or show that something is true or correct, or to make an arrangement definite."
+    }
+  ],
+  "cautions": [
+    "confirm that S V=〜だと確認する・裏づける",
+    "confirm a reservation=予約を確認・確定する",
+    "名詞 confirmation",
+    "firm(固い)と同じ語源"
+  ],
+  "patterns": [
+    {
+      "form": "confirm A",
+      "meaning": "Aを確認する・確定する"
+    },
+    {
+      "form": "confirm that S V",
+      "meaning": "〜だと確認する"
+    },
+    {
+      "form": "confirm a reservation",
+      "meaning": "予約を確認する"
+    },
+    {
+      "form": "confirmation",
+      "meaning": "確認"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "確認する",
+      "en": "Please call the hotel to confirm your reservation.",
+      "ja": "ホテルに電話して、予約を確認してください。"
+    },
+    {
+      "source": "original",
+      "label": "裏づける",
+      "en": "The new study confirms that exercise helps people sleep better.",
+      "ja": "新しい研究は、運動がよく眠る助けになることを裏づけている。"
+    },
+    {
+      "source": "original",
+      "label": "confirm that",
+      "en": "The police confirmed that two people were injured in the accident.",
+      "ja": "警察は、その事故で2人がけがをしたことを確認した。"
+    },
+    {
+      "source": "original",
+      "label": "(予定を)確定する",
+      "en": "Could you confirm the time and place of the meeting?",
+      "ja": "会議の時間と場所を確定していただけますか。"
+    },
+    {
+      "source": "original",
+      "label": "(疑いを)確かにする",
+      "en": "His strange behavior confirmed my suspicions.",
+      "ja": "彼のおかしな振る舞いで、私の疑いは確かになった。"
+    },
+    {
+      "source": "original",
+      "label": "confirmation(名詞)",
+      "en": "You will receive a confirmation email within an hour.",
+      "ja": "1時間以内に確認のメールが届きます。"
+    }
+  ],
+  "check_points": [
+    "firm(固い)から confirm の意味を説明できるか",
+    "confirm that はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "confirm that、confirm a reservation が会話・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 234
+    }
+  ]
+}

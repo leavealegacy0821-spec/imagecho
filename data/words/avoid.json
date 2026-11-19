@@ -1,0 +1,94 @@
+{
+  "word": "avoid",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈvɔɪd/",
+  "core_image": {
+    "text": "そこを空けて、近寄らない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><ellipse cx=\"130\" cy=\"134\" rx=\"26\" ry=\"6\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"46\" y1=\"74\" x2=\"34\" y2=\"96\"/><line x1=\"46\" y1=\"74\" x2=\"60\" y2=\"94\"/><path d=\"M74 100 Q130 40 198 100\" stroke-dasharray=\"5 5\"/><polyline points=\"187,96 198,100 197,88\"/></g><text x=\"132\" y=\"54\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">よけて通る</text><text x=\"130\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">危ないもの</text></svg>"
+  },
+  "etymology": "古フランス語 esvuidier(空にする。void=空っぽ と同じ) → その場を空ける・立ち退く → 近寄らない=避ける",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stay away from someone or something, or to prevent something bad from happening."
+    }
+  ],
+  "cautions": [
+    "avoid doing=〜するのを避ける(to do は×)",
+    "cannot avoid doing=〜せざるをえない",
+    "escape は「(つかまった所から)逃れる」、avoid は「前もって近寄らない」",
+    "unavoidable=避けられない"
+  ],
+  "patterns": [
+    {
+      "form": "avoid A",
+      "meaning": "Aを避ける"
+    },
+    {
+      "form": "avoid doing",
+      "meaning": "〜するのを避ける"
+    },
+    {
+      "form": "cannot avoid doing",
+      "meaning": "〜せざるをえない"
+    },
+    {
+      "form": "unavoidable",
+      "meaning": "避けられない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "避ける",
+      "en": "You should avoid the city center during rush hour if you can.",
+      "ja": "できれば、ラッシュ時には市の中心部を避けたほうがいい。"
+    },
+    {
+      "source": "original",
+      "label": "avoid doing",
+      "en": "Try to avoid eating too much sugar and salt.",
+      "ja": "砂糖と塩を取りすぎないようにしなさい。"
+    },
+    {
+      "source": "original",
+      "label": "(人を)避ける",
+      "en": "I think she has been avoiding me since we had that argument.",
+      "ja": "あの口論以来、彼女は私を避けていると思う。"
+    },
+    {
+      "source": "original",
+      "label": "(事故を)防ぐ",
+      "en": "The driver turned the wheel sharply to avoid hitting the dog.",
+      "ja": "運転手は犬をはねないように、急にハンドルを切った。"
+    },
+    {
+      "source": "original",
+      "label": "(話題を)避ける",
+      "en": "He always avoids talking about his life before he came here.",
+      "ja": "彼はいつも、ここに来る前の生活について話すのを避ける。"
+    },
+    {
+      "source": "original",
+      "label": "unavoidable(形容詞)",
+      "en": "Some delay was unavoidable because of the heavy snow.",
+      "ja": "大雪のため、ある程度の遅れは避けられなかった。"
+    }
+  ],
+  "check_points": [
+    "avoid の後ろに動詞を続けるときの形は何か",
+    "void(空っぽ)から「避ける」を説明できるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "avoid doing が文法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 130
+    }
+  ]
+}

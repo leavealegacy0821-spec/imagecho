@@ -1,0 +1,99 @@
+{
+  "word": "observe",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əbˈzɜːrv/",
+  "core_image": {
+    "text": "じっと目を向けて、そのまま守る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"138\" x2=\"225\" y2=\"138\"/><circle cx=\"60\" cy=\"48\" r=\"10\"/><circle cx=\"65\" cy=\"47\" r=\"1.5\" fill=\"black\"/><line x1=\"60\" y1=\"58\" x2=\"60\" y2=\"102\"/><polyline points=\"60,70 78,64 70,39\"/><polyline points=\"60,70 50,84 54,98\"/><line x1=\"60\" y1=\"102\" x2=\"48\" y2=\"138\"/><line x1=\"60\" y1=\"102\" x2=\"72\" y2=\"138\"/><line x1=\"80\" y1=\"48\" x2=\"152\" y2=\"58\" stroke-dasharray=\"5 6\"/><rect x=\"160\" y=\"36\" width=\"56\" height=\"44\"/><line x1=\"170\" y1=\"50\" x2=\"206\" y2=\"50\"/><line x1=\"170\" y1=\"60\" x2=\"206\" y2=\"60\"/><line x1=\"170\" y1=\"70\" x2=\"194\" y2=\"70\"/><line x1=\"188\" y1=\"80\" x2=\"188\" y2=\"138\"/></g><text x=\"118\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">じっと見る</text><text x=\"188\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">対象・ルール</text></svg>"
+  },
+  "etymology": "ob(〜に向かって) + serve(見張る・守る。ラテン語 servare) → 対象にじっと目を向け、目を離さない → 観察する・気づく → 気づいたことを口にする(述べる) → 規則や習慣から目を離さず従う(守る)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to watch someone or something carefully, or to notice something. It also means to obey a rule or law, or to make a remark about what you have noticed."
+    }
+  ],
+  "cautions": [
+    "「観察する」だけではない。「(規則・法律を)守る」「(気づいたことを)述べる」も長文でよく出る",
+    "名詞が2つに分かれる。observation =観察・(観察にもとづく)意見、observance =(規則・慣習を)守ること",
+    "observe A do / doing(Aが〜するのに気づく)は知覚動詞の型。受け身では be observed to do と to が付く",
+    "watch は動きを目で追う、observe は注意深く見て何かに気づく、という違い"
+  ],
+  "patterns": [
+    {
+      "form": "observe that ~",
+      "meaning": "〜ということに気づく／〜と述べる"
+    },
+    {
+      "form": "observe A do / doing",
+      "meaning": "Aが〜する／しているのに気づく"
+    },
+    {
+      "form": "be observed to do",
+      "meaning": "〜するのを見られる(受け身では to が付く)"
+    },
+    {
+      "form": "observe a rule / the law",
+      "meaning": "規則／法律を守る"
+    },
+    {
+      "form": "observe a custom / holiday",
+      "meaning": "慣習を守る／祝日を祝う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "観察する",
+      "en": "The students observed the behavior of the birds for several weeks and recorded everything in their notebooks.",
+      "ja": "生徒たちは数週間にわたって鳥の行動を観察し、すべてをノートに記録した。"
+    },
+    {
+      "source": "original",
+      "label": "observe A do=Aが〜するのに気づく",
+      "en": "A neighbor observed a stranger enter the house through the back door late at night.",
+      "ja": "近所の人が、見知らぬ人が夜遅くに裏口からその家に入るのを目にした。"
+    },
+    {
+      "source": "original",
+      "label": "observe that=気づく",
+      "en": "The doctor observed that the patient's condition had improved a little since the previous week.",
+      "ja": "医師は、患者の容体が前の週より少し良くなっていることに気づいた。"
+    },
+    {
+      "source": "original",
+      "label": "(気づいたことを)述べる",
+      "en": "\"People rarely change their habits unless they have to,\" the professor observed at the end of his lecture.",
+      "ja": "「人は必要に迫られないかぎり、めったに習慣を変えない」と教授は講義の終わりに述べた。"
+    },
+    {
+      "source": "original",
+      "label": "(規則を)守る",
+      "en": "All visitors must observe the rules of the library and keep their voices low.",
+      "ja": "来館者は全員、図書館の規則を守り、声を小さくしなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "(慣習を)守る・祝う",
+      "en": "Many families in this country still observe the traditional customs of the New Year.",
+      "ja": "この国の多くの家庭は、今でも正月の伝統的な慣習を守っている。"
+    }
+  ],
+  "check_points": [
+    "なぜ observe に「守る」の意味があるのか、核となるイメージ(目を離さない)から説明できるか",
+    "「観察する」から「述べる」へ、どうつながるかを自分の言葉で言えるか",
+    "observation と observance を、それぞれどの意味の名詞か区別できるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文で「(規則を)守る」「述べる」の意味が出て、下線部の意味や和訳を問われやすい。observation と observance の区別、知覚動詞の受け身 be observed to do も語法問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1
+    }
+  ]
+}

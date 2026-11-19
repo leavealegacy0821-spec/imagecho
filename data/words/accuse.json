@@ -1,0 +1,94 @@
+{
+  "word": "accuse",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈkjuːz/",
+  "core_image": {
+    "text": "「お前のせいだ」と、指を向けて責める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 86,62 112,56\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><circle cx=\"172\" cy=\"52\" r=\"10\"/><line x1=\"172\" y1=\"62\" x2=\"172\" y2=\"106\"/><line x1=\"172\" y1=\"106\" x2=\"162\" y2=\"140\"/><line x1=\"172\" y1=\"106\" x2=\"182\" y2=\"140\"/><line x1=\"172\" y1=\"74\" x2=\"160\" y2=\"62\"/><line x1=\"172\" y1=\"74\" x2=\"184\" y2=\"62\"/><line x1=\"166\" y1=\"30\" x2=\"160\" y2=\"22\"/><line x1=\"178\" y1=\"30\" x2=\"184\" y2=\"22\"/></g><text x=\"90\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">お前のせいだ</text><text x=\"172\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">責められる</text></svg>"
+  },
+  "etymology": "ac(ad=〜へ) + cuse(訴え・原因。cause と同じ) → 〜に原因があると訴える → 責める・非難する → 罪で訴える・告発する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say that someone has done something wrong or illegal."
+    }
+  ],
+  "cautions": [
+    "accuse A of B / doing=AをB(〜したこと)で責める・訴える。前置詞は of",
+    "blame A for B(Aを B のことで責める)と前置詞が違う",
+    "be accused of A=Aの罪で訴えられる",
+    "名詞 accusation、the accused=被告人"
+  ],
+  "patterns": [
+    {
+      "form": "accuse A of B",
+      "meaning": "AをBで責める"
+    },
+    {
+      "form": "be accused of A",
+      "meaning": "Aの罪で訴えられる"
+    },
+    {
+      "form": "blame A for B",
+      "meaning": "AをBのことで責める"
+    },
+    {
+      "form": "accusation",
+      "meaning": "非難・告発"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "accuse A of doing",
+      "en": "She accused her brother of eating her cake.",
+      "ja": "彼女は、ケーキを食べたと言って弟を責めた。"
+    },
+    {
+      "source": "original",
+      "label": "be accused of",
+      "en": "The man was accused of stealing a car.",
+      "ja": "その男は、車を盗んだ罪で訴えられた。"
+    },
+    {
+      "source": "original",
+      "label": "非難する",
+      "en": "The newspaper accused the government of hiding the truth.",
+      "ja": "その新聞は、政府が真実を隠していると非難した。"
+    },
+    {
+      "source": "original",
+      "label": "blame との比較",
+      "en": "Do not accuse him of lying, and do not blame him for the mistake.",
+      "ja": "彼をうそつき呼ばわりするな。そのミスで彼を責めるな。"
+    },
+    {
+      "source": "original",
+      "label": "身に覚えがない",
+      "en": "I was angry because I was accused of something I had not done.",
+      "ja": "やってもいないことで責められて、私は腹が立った。"
+    },
+    {
+      "source": "original",
+      "label": "accusation(名詞)",
+      "en": "He denied the accusation and said he was at home that night.",
+      "ja": "彼はその非難を否定し、その夜は家にいたと言った。"
+    }
+  ],
+  "check_points": [
+    "accuse A of B と blame A for B の前置詞の違いを言えるか",
+    "cause(原因)と accuse のつながりを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "accuse A of / blame A for の前置詞の区別が文法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 251
+    }
+  ]
+}

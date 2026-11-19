@@ -1,0 +1,89 @@
+{
+  "word": "attribute",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/əˈtrɪbjuːt/",
+  "core_image": {
+    "text": "「これのおかげ・せい」と割り当てる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><polyline points=\"46,74 70,66 88,60\"/><line x1=\"46\" y1=\"74\" x2=\"36\" y2=\"96\"/><rect x=\"100\" y=\"80\" width=\"40\" height=\"30\"/><rect x=\"180\" y=\"40\" width=\"40\" height=\"30\"/><line x1=\"142\" y1=\"88\" x2=\"178\" y2=\"64\"/><polyline points=\"170,64.7 178,64 174.3,71.1\"/></g><text x=\"120\" y=\"126\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">結果</text><text x=\"200\" y=\"32\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">原因</text></svg>"
+  },
+  "etymology": "at(ad=〜へ) + tribute(割り当てる・与える。contribute, distribute と同じ) → 〜に割り当てる → 結果を原因に割り当てる(attribute A to B)。名詞は「その人・物に割り当てられた性質」=特性",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to believe or say that something is the result of a particular thing."
+    },
+    {
+      "pos": "名詞",
+      "text": "a quality or feature that someone or something has."
+    }
+  ],
+  "cautions": [
+    "attribute A to B=「A(結果)はB(原因)のおかげ・せいだと考える」。A と B の向きに注意",
+    "受け身 A is attributed to B が多い",
+    "名詞は前を強く /ˈætrɪbjuːt/ 読み、「特性・属性」の意味",
+    "owe A to B、ascribe A to B も同じ型"
+  ],
+  "patterns": [
+    {
+      "form": "attribute A to B",
+      "meaning": "AをBのおかげ・せいと考える"
+    },
+    {
+      "form": "be attributed to A",
+      "meaning": "Aのおかげ・せいとされる"
+    },
+    {
+      "form": "an attribute of A",
+      "meaning": "Aの特性"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "attribute A to B",
+      "en": "She attributes her success to hard work and a little luck.",
+      "ja": "彼女は自分の成功を、努力と少しの運のおかげだと考えている。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "The rise in temperature is attributed to human activity.",
+      "ja": "気温の上昇は、人間の活動が原因だとされている。"
+    },
+    {
+      "source": "original",
+      "label": "〜のせいにする",
+      "en": "He attributed the failure of the project to a lack of money.",
+      "ja": "彼は企画の失敗を資金不足のせいにした。"
+    },
+    {
+      "source": "original",
+      "label": "〜の作とする",
+      "en": "This painting is attributed to a famous artist of the Edo period.",
+      "ja": "この絵は、江戸時代の有名な画家の作とされている。"
+    },
+    {
+      "source": "original",
+      "label": "特性(名詞)",
+      "en": "Patience is the most important attribute of a good teacher.",
+      "ja": "忍耐は、良い教師のいちばん大切な特性だ。"
+    }
+  ],
+  "check_points": [
+    "attribute A to B で、原因は A と B のどちらか",
+    "動詞と名詞でアクセントの位置がどう変わるか言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "attribute A to B(因果関係)が長文・語法で頻出。A と B の向きに注意。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 94
+    }
+  ]
+}

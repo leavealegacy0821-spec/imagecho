@@ -1,0 +1,90 @@
+{
+  "word": "belong",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/bɪˈlɔːŋ/",
+  "core_image": {
+    "text": "本来の場所に、ぴたりと収まっている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"110\" y=\"60\" width=\"100\" height=\"80\"/><rect x=\"132\" y=\"88\" width=\"24\" height=\"24\" stroke-dasharray=\"4 4\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><polyline points=\"40,74 62,82 80,88\"/><line x1=\"40\" y1=\"74\" x2=\"30\" y2=\"96\"/><rect x=\"82\" y=\"80\" width=\"20\" height=\"20\"/><line x1=\"106\" y1=\"90\" x2=\"128\" y2=\"98\" stroke-dasharray=\"5 5\"/><polyline points=\"122.7,92 128,98 120.1,99.2\"/></g><text x=\"160\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">本来の場所</text><text x=\"180\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ここに属す</text></svg>"
+  },
+  "etymology": "be(強く) + long(関係する・ふさわしい。古英語 langian) → 〜にふさわしい → 〜のものである・〜に属している → 本来いるべき場所にある",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be owned by someone, to be a member of a group, or to be in the right place."
+    }
+  ],
+  "cautions": [
+    "belong to A=Aのものである・Aに属している。進行形にしない",
+    "belong to の後ろは人・団体。「〜部に入っている」は belong to the tennis club",
+    "belong + 場所=本来そこにあるべきだ(Where does this belong?)",
+    "名詞 belongings=持ち物(複数形)"
+  ],
+  "patterns": [
+    {
+      "form": "belong to A",
+      "meaning": "Aのものである・Aに属している"
+    },
+    {
+      "form": "belong in / on 場所",
+      "meaning": "本来そこにあるべきだ"
+    },
+    {
+      "form": "belongings",
+      "meaning": "持ち物"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "〜のものである",
+      "en": "This umbrella belongs to my father, not to me.",
+      "ja": "この傘は私のではなく、父のものだ。"
+    },
+    {
+      "source": "original",
+      "label": "属している",
+      "en": "She belongs to the school orchestra.",
+      "ja": "彼女は学校の楽団に入っている。"
+    },
+    {
+      "source": "original",
+      "label": "(場所に)あるべき",
+      "en": "These books belong on the top shelf.",
+      "ja": "これらの本は、いちばん上の棚に置くものだ。"
+    },
+    {
+      "source": "original",
+      "label": "居場所がある",
+      "en": "After moving to a new city, I felt I did not belong anywhere.",
+      "ja": "新しい町に引っ越してから、どこにも居場所がないように感じた。"
+    },
+    {
+      "source": "original",
+      "label": "分類される",
+      "en": "Whales belong to the same group of animals as humans.",
+      "ja": "クジラは、人間と同じ動物の仲間に属する。"
+    },
+    {
+      "source": "original",
+      "label": "belongings(名詞)",
+      "en": "Please take all your belongings with you when you leave the train.",
+      "ja": "電車を降りるときは、持ち物をすべてお持ちください。"
+    }
+  ],
+  "check_points": [
+    "belong を進行形にしない理由を言えるか",
+    "belongings はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "belong to(進行形にしない)、belongings が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 254
+    }
+  ]
+}

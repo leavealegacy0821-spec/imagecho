@@ -1,0 +1,104 @@
+{
+  "word": "order",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈɔːrdər/",
+  "core_image": {
+    "text": "きちんと並んだ列",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><polyline points=\"50,74 76,66 96,62\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><rect x=\"110\" y=\"116\" width=\"24\" height=\"24\"/><rect x=\"146\" y=\"104\" width=\"24\" height=\"36\"/><rect x=\"182\" y=\"92\" width=\"24\" height=\"48\"/><line x1=\"108\" y1=\"84\" x2=\"208\" y2=\"84\" stroke-dasharray=\"5 5\"/><polyline points=\"201,80.2 208,84 201,87.8\"/></g><text x=\"158\" y=\"72\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">きちんと並べる</text></svg>"
+  },
+  "etymology": "ラテン語 ordo(列・並び) → 順番 → 並びが保たれた状態(秩序・正常) → 並ばせる指図(命令) → 店への指図(注文)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the way in which things are arranged, a situation in which rules are obeyed, or a request for food or goods."
+    },
+    {
+      "pos": "動詞",
+      "text": "to tell someone that they must do something, or to ask for food or goods to be brought or sent to you."
+    }
+  ],
+  "cautions": [
+    "in order=順番に・整って、out of order=故障して・乱れて",
+    "order A to do=Aに〜するよう命じる。order that S (should) 動詞の原形",
+    "in order to do=〜するために",
+    "order A from B=AをBに注文する(to ではない)",
+    "law and order=法と秩序"
+  ],
+  "patterns": [
+    {
+      "form": "in order / out of order",
+      "meaning": "整って／故障して"
+    },
+    {
+      "form": "in order to do",
+      "meaning": "〜するために"
+    },
+    {
+      "form": "order A to do",
+      "meaning": "Aに〜するよう命じる"
+    },
+    {
+      "form": "order A from B",
+      "meaning": "AをBに注文する"
+    },
+    {
+      "form": "in alphabetical order",
+      "meaning": "アルファベット順に"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "順番",
+      "en": "The names on the list are arranged in alphabetical order.",
+      "ja": "名簿の名前はアルファベット順に並べられている。"
+    },
+    {
+      "source": "original",
+      "label": "秩序",
+      "en": "The police were called in to keep order during the large demonstration.",
+      "ja": "大規模なデモの間、秩序を保つために警察が呼ばれた。"
+    },
+    {
+      "source": "original",
+      "label": "out of order=故障して",
+      "en": "The elevator is out of order, so we have to use the stairs.",
+      "ja": "エレベーターが故障しているので、階段を使わなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "命令する",
+      "en": "The captain ordered his men to leave the ship at once.",
+      "ja": "船長は部下たちに、すぐに船を離れるよう命じた。"
+    },
+    {
+      "source": "original",
+      "label": "注文する(from)",
+      "en": "I ordered two books from an online store, but they have not arrived yet.",
+      "ja": "ネットの店に本を2冊注文したが、まだ届いていない。"
+    },
+    {
+      "source": "original",
+      "label": "in order to",
+      "en": "She got up at five in order to catch the first train.",
+      "ja": "彼女は始発電車に乗るために5時に起きた。"
+    }
+  ],
+  "check_points": [
+    "順番・秩序・命令・注文を「きちんと並んだ列」で説明できるか",
+    "「店に注文する」で使う前置詞は何か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "out of order、in order to、order A from B、order that S (should) 原形が文法問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 24
+    }
+  ]
+}

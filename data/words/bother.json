@@ -1,0 +1,99 @@
+{
+  "word": "bother",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈbɑːðər/",
+  "core_image": {
+    "text": "心にまとわりついて、わずらわせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><polyline points=\"120,74 106,62 110,48\"/><line x1=\"120\" y1=\"74\" x2=\"132\" y2=\"96\"/><path d=\"M146 36 Q160 28 150 42 Q140 56 160 50 Q178 44 166 62\" /></g><text x=\"194\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まとわりつく</text><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">うるさいな</text></svg>"
+  },
+  "etymology": "アイルランド語由来ともいわれ、確かではない。「人をわずらわせる・悩ませる」→ 否定文で「わざわざ〜する手間をかけない」(don't bother to do)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to annoy or worry someone, or to make the effort to do something."
+    },
+    {
+      "pos": "名詞",
+      "text": "trouble or effort that causes a small problem."
+    }
+  ],
+  "cautions": [
+    "bother A=Aを悩ませる・じゃまする",
+    "don't bother to do / doing=わざわざ〜しなくていい",
+    "I'm sorry to bother you, but …=おじゃましてすみませんが",
+    "be bothered by A=Aに悩まされる"
+  ],
+  "patterns": [
+    {
+      "form": "bother A",
+      "meaning": "Aを悩ませる・じゃまする"
+    },
+    {
+      "form": "don't bother to do",
+      "meaning": "わざわざ〜しなくていい"
+    },
+    {
+      "form": "I'm sorry to bother you",
+      "meaning": "おじゃましてすみません"
+    },
+    {
+      "form": "be bothered by A",
+      "meaning": "Aに悩まされる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "悩ませる",
+      "en": "The noise from the street bothered me all night.",
+      "ja": "通りの騒音に、一晩中悩まされた。"
+    },
+    {
+      "source": "original",
+      "label": "じゃまする",
+      "en": "I'm sorry to bother you, but could you tell me the way to the station?",
+      "ja": "おじゃましてすみませんが、駅への道を教えていただけますか。"
+    },
+    {
+      "source": "original",
+      "label": "don't bother to do",
+      "en": "Don't bother to call me; I will be home late.",
+      "ja": "わざわざ電話しなくていいよ。帰りが遅くなるから。"
+    },
+    {
+      "source": "original",
+      "label": "わざわざ〜する",
+      "en": "He did not even bother to say goodbye before he left.",
+      "ja": "彼は、出て行く前にさよならすら言わなかった。"
+    },
+    {
+      "source": "original",
+      "label": "気にする",
+      "en": "It does not bother me if you play music while I study.",
+      "ja": "私が勉強している間に音楽をかけても、気にならない。"
+    },
+    {
+      "source": "original",
+      "label": "面倒(名詞)",
+      "en": "It is no bother at all. I am happy to help.",
+      "ja": "面倒なんてとんでもない。喜んで手伝います。"
+    }
+  ],
+  "check_points": [
+    "don't bother to do はどういう意味か",
+    "「おじゃましてすみません」を bother を使って言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "bother to do、I'm sorry to bother you が会話問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 255
+    }
+  ]
+}

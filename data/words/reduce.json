@@ -1,0 +1,98 @@
+{
+  "word": "reduce",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈduːs/",
+  "core_image": {
+    "text": "後ろへ引き戻して小さくする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"90\" y=\"50\" width=\"30\" height=\"90\" stroke-dasharray=\"4 4\"/><rect x=\"90\" y=\"100\" width=\"30\" height=\"40\"/><line x1=\"142\" y1=\"54\" x2=\"142\" y2=\"96\"/><polyline points=\"145.8,89 142,96 138.2,89\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"188\" y2=\"98\"/><line x1=\"200\" y1=\"74\" x2=\"212\" y2=\"98\"/></g><text x=\"105\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もとの量</text><text x=\"164\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">減らす</text></svg>"
+  },
+  "etymology": "re(後ろへ) + duce(導く。produce, introduce と同じ) → 引き戻す → 量・大きさ・値段を減らす → (悪い)状態にまで引き下げる(be reduced to)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make something smaller or less in size, amount or price."
+    }
+  ],
+  "cautions": [
+    "reduce A by 10%=Aを10%減らす(by は差)。reduce A to 10%=Aを10%にまで減らす(to は行き着く先)",
+    "reduce A to B=AをB(悪い状態)にする: be reduced to ashes / to tears",
+    "be reduced to doing=〜するはめになる",
+    "名詞は reduction(減少・削減)"
+  ],
+  "patterns": [
+    {
+      "form": "reduce A",
+      "meaning": "Aを減らす"
+    },
+    {
+      "form": "reduce A by B",
+      "meaning": "AをBだけ減らす"
+    },
+    {
+      "form": "reduce A to B",
+      "meaning": "AをBまで減らす・AをBにする"
+    },
+    {
+      "form": "be reduced to doing",
+      "meaning": "〜するはめになる"
+    },
+    {
+      "form": "reduction",
+      "meaning": "減少・削減"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "減らす",
+      "en": "We must reduce the amount of plastic we use every day.",
+      "ja": "私たちは、毎日使うプラスチックの量を減らさなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "reduce A by",
+      "en": "The company reduced its costs by twenty percent last year.",
+      "ja": "その会社は去年、経費を20パーセント減らした。"
+    },
+    {
+      "source": "original",
+      "label": "reduce A to",
+      "en": "The fire reduced the old temple to ashes in a few hours.",
+      "ja": "その火事は、古い寺を数時間で灰にしてしまった。"
+    },
+    {
+      "source": "original",
+      "label": "値下げする",
+      "en": "The store reduced the price of winter coats at the end of the season.",
+      "ja": "その店は、季節の終わりに冬物のコートを値下げした。"
+    },
+    {
+      "source": "original",
+      "label": "be reduced to doing",
+      "en": "After losing his job, he was reduced to borrowing money from friends.",
+      "ja": "仕事を失って、彼は友人から金を借りるはめになった。"
+    },
+    {
+      "source": "original",
+      "label": "reduction(名詞)",
+      "en": "There has been a sharp reduction in the number of traffic accidents.",
+      "ja": "交通事故の件数が、大きく減っている。"
+    }
+  ],
+  "check_points": [
+    "reduce A by 10% と reduce A to 10% の違いを言えるか",
+    "be reduced to doing はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "reduce(減らす)、by と to の違い、reduction が、環境・経済を扱う長文で必須。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 174
+    }
+  ]
+}

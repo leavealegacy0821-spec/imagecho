@@ -1,0 +1,98 @@
+{
+  "word": "depend",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈpend/",
+  "core_image": {
+    "text": "上のものからぶら下がっている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"60\" y1=\"24\" x2=\"180\" y2=\"24\"/><line x1=\"15\" y1=\"150\" x2=\"225\" y2=\"150\"/><circle cx=\"120\" cy=\"62\" r=\"10\"/><line x1=\"120\" y1=\"72\" x2=\"120\" y2=\"110\"/><line x1=\"120\" y1=\"110\" x2=\"112\" y2=\"136\"/><line x1=\"120\" y1=\"110\" x2=\"128\" y2=\"136\"/><polyline points=\"120,80 108,62 114,26\"/><polyline points=\"120,80 132,62 126,26\"/></g><text x=\"120\" y=\"16\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">支えるもの</text><text x=\"186\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぶら下がる</text></svg>"
+  },
+  "etymology": "de(下に) + pend(ぶら下がる。pendant, suspend と同じ) → 上のものからぶら下がる → 支えに頼る → 上のものしだいで決まる。independent は in(否定)が付いて「ぶら下がっていない」=独立した",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to need the help or support of someone or something, or to be decided by something else."
+    }
+  ],
+  "cautions": [
+    "depend on A=Aに頼る／Aしだいである",
+    "depend on A for B=BをAに頼る",
+    "It depends.=場合による。depending on A=Aに応じて",
+    "dependent on A(Aに頼っている)⇔ independent of A(Aから独立した)。前置詞が違う"
+  ],
+  "patterns": [
+    {
+      "form": "depend on A",
+      "meaning": "Aに頼る・Aしだいである"
+    },
+    {
+      "form": "depend on A for B",
+      "meaning": "BをAに頼る"
+    },
+    {
+      "form": "It depends (on A)",
+      "meaning": "(Aに)よる"
+    },
+    {
+      "form": "depending on A",
+      "meaning": "Aに応じて"
+    },
+    {
+      "form": "independent of A",
+      "meaning": "Aから独立した"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "頼る",
+      "en": "Japan depends on other countries for most of its oil.",
+      "ja": "日本は石油のほとんどを他国に頼っている。"
+    },
+    {
+      "source": "original",
+      "label": "〜しだいである",
+      "en": "Whether we go hiking tomorrow depends on the weather.",
+      "ja": "明日ハイキングに行くかどうかは、天気しだいだ。"
+    },
+    {
+      "source": "original",
+      "label": "当てにする",
+      "en": "You can depend on him to keep his promise.",
+      "ja": "彼は約束を守ると当てにしてよい。"
+    },
+    {
+      "source": "original",
+      "label": "It depends",
+      "en": "\"Will you come to the party?\" \"It depends on when it starts.\"",
+      "ja": "「パーティーに来る?」「いつ始まるかによるね。」"
+    },
+    {
+      "source": "original",
+      "label": "depending on",
+      "en": "Prices vary depending on the season and the day of the week.",
+      "ja": "値段は、季節と曜日によって変わる。"
+    },
+    {
+      "source": "original",
+      "label": "independent of",
+      "en": "She has been independent of her parents since she was twenty.",
+      "ja": "彼女は20歳のときから、親から独立している。"
+    }
+  ],
+  "check_points": [
+    "「頼る」と「〜しだい」を「ぶら下がる」で説明できるか",
+    "dependent と independent の後ろに付く前置詞をそれぞれ言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "depend on A for B、dependent on / independent of、depending on が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 107
+    }
+  ]
+}

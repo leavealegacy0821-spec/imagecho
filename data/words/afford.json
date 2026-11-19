@@ -1,0 +1,94 @@
+{
+  "word": "afford",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈfɔːrd/",
+  "core_image": {
+    "text": "無理なく出せるだけの余裕がある",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 80,84 96,96\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><ellipse cx=\"112\" cy=\"130\" rx=\"14\" ry=\"5\"/><ellipse cx=\"112\" cy=\"122\" rx=\"14\" ry=\"5\"/><ellipse cx=\"112\" cy=\"114\" rx=\"14\" ry=\"5\"/><rect x=\"172\" y=\"96\" width=\"40\" height=\"44\"/><rect x=\"178\" y=\"72\" width=\"28\" height=\"16\"/></g><text x=\"150\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">余裕がある</text><text x=\"112\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手持ち</text><text x=\"192\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">値段</text></svg>"
+  },
+  "etymology": "古英語 geforthian(前へ進める・やりとげる。forth=前へ) → やりとげる力がある → (お金・時間の)余裕がある。堅い用法では「与える・もたらす」",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to have enough money or time to be able to buy or do something."
+    }
+  ],
+  "cautions": [
+    "can / cannot afford A / to do の形で使う。afford doing は×",
+    "お金だけでなく「時間・立場の余裕」にも使う: We cannot afford to lose.(負けるわけにはいかない)",
+    "affordable=手ごろな価格の",
+    "堅い文で afford A B=AにBを与える"
+  ],
+  "patterns": [
+    {
+      "form": "can afford A",
+      "meaning": "Aを買う余裕がある"
+    },
+    {
+      "form": "can afford to do",
+      "meaning": "〜する余裕がある"
+    },
+    {
+      "form": "cannot afford to do",
+      "meaning": "〜するわけにはいかない"
+    },
+    {
+      "form": "affordable",
+      "meaning": "手ごろな価格の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "(お金の)余裕がある",
+      "en": "We cannot afford a new car right now because of the school fees.",
+      "ja": "学費があるので、今は新しい車を買う余裕がない。"
+    },
+    {
+      "source": "original",
+      "label": "can afford to do",
+      "en": "Only a few families could afford to send their children to university then.",
+      "ja": "当時、子どもを大学に行かせる余裕のある家庭はごくわずかだった。"
+    },
+    {
+      "source": "original",
+      "label": "(時間の)余裕",
+      "en": "I can't afford the time to watch television before the exam.",
+      "ja": "試験の前に、テレビを見ている時間の余裕はない。"
+    },
+    {
+      "source": "original",
+      "label": "〜するわけにはいかない",
+      "en": "We cannot afford to make the same mistake again.",
+      "ja": "同じ間違いを二度とするわけにはいかない。"
+    },
+    {
+      "source": "original",
+      "label": "affordable(形容詞)",
+      "en": "The city needs more affordable housing for young people.",
+      "ja": "その市には、若者向けの手ごろな住宅がもっと必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "与える(堅い)",
+      "en": "The top of the tower affords a fine view of the whole city.",
+      "ja": "塔の頂上からは、町全体のすばらしい眺めが得られる。"
+    }
+  ],
+  "check_points": [
+    "afford の後ろに動詞を続けるときの形は何か",
+    "We cannot afford to lose. を、お金の話にせずに訳せるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "cannot afford to do の語法、affordable が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 92
+    }
+  ]
+}

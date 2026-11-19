@@ -1,0 +1,93 @@
+{
+  "word": "sustain",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/səˈsteɪn/",
+  "core_image": {
+    "text": "下から支えて、持ちこたえさせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"100\" cy=\"52\" r=\"10\"/><line x1=\"100\" y1=\"62\" x2=\"100\" y2=\"106\"/><line x1=\"100\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"100\" y1=\"106\" x2=\"110\" y2=\"140\"/><polyline points=\"100,74 86,56 88,38\"/><polyline points=\"100,74 114,56 112,38\"/><line x1=\"50\" y1=\"36\" x2=\"150\" y2=\"36\"/><circle cx=\"196\" cy=\"62\" r=\"18\"/><line x1=\"196\" y1=\"62\" x2=\"196\" y2=\"50\"/><line x1=\"196\" y1=\"62\" x2=\"206\" y2=\"66\"/></g><text x=\"100\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">支え続ける</text><text x=\"196\" y=\"98\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">長い間</text></svg>"
+  },
+  "etymology": "sus(sub=下から) + tain(保つ。maintain, contain, obtain と同じ) → 下から保つ → 生命や活動を維持する → 重みを支える → (被害や傷を)身に受ける。sustainable は「支え続けられる」=持続可能な",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make something continue for a period of time, to provide what someone needs in order to live, or to suffer damage or an injury."
+    }
+  ],
+  "cautions": [
+    "sustain life / growth / interest=生命・成長・関心を維持する",
+    "sustain an injury / damage / a loss=けが・被害・損失を受ける(堅い言い方)",
+    "sustainable=持続可能な(sustainable development=持続可能な開発)、sustainability=持続可能性"
+  ],
+  "patterns": [
+    {
+      "form": "sustain A",
+      "meaning": "Aを維持する"
+    },
+    {
+      "form": "sustain life",
+      "meaning": "生命を支える"
+    },
+    {
+      "form": "sustain an injury",
+      "meaning": "けがを負う"
+    },
+    {
+      "form": "sustainable",
+      "meaning": "持続可能な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "維持する",
+      "en": "The planet may not be able to sustain such a large population.",
+      "ja": "地球は、これほど多くの人口を支えきれないかもしれない。"
+    },
+    {
+      "source": "original",
+      "label": "(生命を)支える",
+      "en": "Without water, nothing can sustain life in the desert.",
+      "ja": "水がなければ、砂漠で生命を支えるものは何もない。"
+    },
+    {
+      "source": "original",
+      "label": "(関心を)保つ",
+      "en": "The teacher used games to sustain the children's interest.",
+      "ja": "先生は、子どもたちの関心を保つためにゲームを使った。"
+    },
+    {
+      "source": "original",
+      "label": "(けがを)負う",
+      "en": "He sustained a serious injury to his knee during the game.",
+      "ja": "彼は試合中、ひざに大けがを負った。"
+    },
+    {
+      "source": "original",
+      "label": "続ける",
+      "en": "It is hard to sustain a conversation in a foreign language.",
+      "ja": "外国語で会話を続けるのは難しい。"
+    },
+    {
+      "source": "original",
+      "label": "sustainable(形容詞)",
+      "en": "We need a more sustainable way of producing energy.",
+      "ja": "私たちには、もっと持続可能なエネルギーの作り方が必要だ。"
+    }
+  ],
+  "check_points": [
+    "sustain と maintain に共通する tain の意味を言えるか",
+    "sustainable はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "sustain、sustainable development が、環境を扱う長文で必須。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 194
+    }
+  ]
+}

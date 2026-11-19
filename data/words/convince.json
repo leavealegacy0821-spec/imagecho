@@ -1,0 +1,94 @@
+{
+  "word": "convince",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈvɪns/",
+  "core_image": {
+    "text": "完全に打ち勝って、納得させる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 80,70 98,62\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><rect x=\"100\" y=\"44\" width=\"24\" height=\"30\"/><line x1=\"106\" y1=\"54\" x2=\"118\" y2=\"54\"/><line x1=\"106\" y1=\"62\" x2=\"118\" y2=\"62\"/><circle cx=\"176\" cy=\"52\" r=\"10\"/><line x1=\"176\" y1=\"62\" x2=\"176\" y2=\"106\"/><line x1=\"176\" y1=\"106\" x2=\"166\" y2=\"140\"/><line x1=\"176\" y1=\"106\" x2=\"186\" y2=\"140\"/><line x1=\"176\" y1=\"74\" x2=\"164\" y2=\"98\"/><line x1=\"176\" y1=\"74\" x2=\"188\" y2=\"98\"/><polyline points=\"168,22 176,30 190,12\"/></g><text x=\"112\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">証拠</text><text x=\"214\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">なるほど</text></svg>"
+  },
+  "etymology": "con(完全に) + vince(打ち勝つ。victory と同じ) → 議論で完全に勝つ → 相手に確信させる・納得させる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone feel certain that something is true, or to persuade someone to do something."
+    }
+  ],
+  "cautions": [
+    "convince A of B / convince A that S V=AにBを確信させる",
+    "convince A to do=Aを説得して〜させる(=persuade A to do)",
+    "be convinced of A / that S V=確信している",
+    "convincing=説得力のある、conviction=確信・有罪判決"
+  ],
+  "patterns": [
+    {
+      "form": "convince A of B",
+      "meaning": "AにBを確信させる"
+    },
+    {
+      "form": "convince A that S V",
+      "meaning": "Aに〜だと確信させる"
+    },
+    {
+      "form": "convince A to do",
+      "meaning": "Aを説得して〜させる"
+    },
+    {
+      "form": "be convinced that S V",
+      "meaning": "〜だと確信している"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "convince A that",
+      "en": "He tried to convince me that his plan would work.",
+      "ja": "彼は、自分の計画がうまくいくと私に信じさせようとした。"
+    },
+    {
+      "source": "original",
+      "label": "convince A of B",
+      "en": "The lawyer convinced the jury of her innocence.",
+      "ja": "弁護士は、彼女の無実を陪審員に納得させた。"
+    },
+    {
+      "source": "original",
+      "label": "convince A to do",
+      "en": "I finally convinced my parents to let me study abroad.",
+      "ja": "私はついに両親を説得して、留学を認めてもらった。"
+    },
+    {
+      "source": "original",
+      "label": "be convinced",
+      "en": "I am convinced that she is telling the truth.",
+      "ja": "私は、彼女が本当のことを言っていると確信している。"
+    },
+    {
+      "source": "original",
+      "label": "convincing(形容詞)",
+      "en": "She gave a convincing explanation for being late.",
+      "ja": "彼女は遅刻について、納得のいく説明をした。"
+    },
+    {
+      "source": "original",
+      "label": "conviction(名詞)",
+      "en": "He spoke with conviction about the need for change.",
+      "ja": "彼は変化の必要性について、確信を持って語った。"
+    }
+  ],
+  "check_points": [
+    "victory(勝利)から convince の意味を説明できるか",
+    "convince A of B と convince A to do の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "convince A of B / that、be convinced that が語法に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 134
+    }
+  ]
+}

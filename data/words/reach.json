@@ -1,0 +1,103 @@
+{
+  "word": "reach",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/riːtʃ/",
+  "core_image": {
+    "text": "手を伸ばして届く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"150\" y1=\"40\" x2=\"220\" y2=\"40\"/><circle cx=\"178\" cy=\"30\" r=\"8\"/><circle cx=\"110\" cy=\"52\" r=\"10\"/><line x1=\"110\" y1=\"62\" x2=\"110\" y2=\"106\"/><line x1=\"110\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"110\" y1=\"106\" x2=\"120\" y2=\"140\"/><polyline points=\"110,74 136,56 168,36\"/><line x1=\"110\" y1=\"74\" x2=\"100\" y2=\"96\"/></g><text x=\"62\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手を伸ばす</text><text x=\"200\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">届く</text></svg>"
+  },
+  "etymology": "古英語 ræcan(手を伸ばす) → 伸ばして触れる → 場所に着く → 数や段階に達する → 人に連絡がつく。名詞は「手の届く範囲」",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to arrive at a place, to stretch out your hand to touch or take something, or to get to a particular level or amount."
+    },
+    {
+      "pos": "名詞",
+      "text": "the distance that you can stretch your arm to touch something."
+    }
+  ],
+  "cautions": [
+    "「〜に着く」は他動詞。reach the station と言い、reach to the station は×(arrive at、get to との違い)",
+    "reach for A=Aを取ろうと手を伸ばす",
+    "reach an agreement / a conclusion=合意・結論に達する",
+    "within reach=手の届く所に、out of reach=手の届かない所に"
+  ],
+  "patterns": [
+    {
+      "form": "reach A",
+      "meaning": "Aに着く・Aに達する"
+    },
+    {
+      "form": "reach for A",
+      "meaning": "Aに手を伸ばす"
+    },
+    {
+      "form": "reach an agreement",
+      "meaning": "合意に達する"
+    },
+    {
+      "form": "within reach",
+      "meaning": "手の届く所に"
+    },
+    {
+      "form": "out of reach",
+      "meaning": "手の届かない所に"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "着く",
+      "en": "We reached the top of the mountain just before sunrise.",
+      "ja": "私たちは日の出の直前に、山の頂上に着いた。"
+    },
+    {
+      "source": "original",
+      "label": "reach for=手を伸ばす",
+      "en": "He reached for the salt at the other end of the table.",
+      "ja": "彼は、テーブルの向こうの端にある塩に手を伸ばした。"
+    },
+    {
+      "source": "original",
+      "label": "(合意に)達する",
+      "en": "The two sides finally reached an agreement after long talks.",
+      "ja": "長い話し合いの末、両者はついに合意に達した。"
+    },
+    {
+      "source": "original",
+      "label": "(数に)達する",
+      "en": "The temperature reached forty degrees in some cities yesterday.",
+      "ja": "昨日は、いくつかの都市で気温が40度に達した。"
+    },
+    {
+      "source": "original",
+      "label": "連絡がつく",
+      "en": "You can reach me by email at any time during the day.",
+      "ja": "日中はいつでも、メールで私に連絡がつきます。"
+    },
+    {
+      "source": "original",
+      "label": "届く範囲(名詞)",
+      "en": "Keep all medicines out of the reach of small children.",
+      "ja": "薬はすべて、小さな子どもの手の届かない所に置きなさい。"
+    }
+  ],
+  "check_points": [
+    "reach the station に to が要らない理由を言えるか",
+    "reach A と reach for A の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "他動詞 reach(前置詞は不要)、reach for、out of reach が文法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 171
+    }
+  ]
+}

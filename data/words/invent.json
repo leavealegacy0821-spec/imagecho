@@ -1,0 +1,87 @@
+{
+  "word": "invent",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈvent/",
+  "core_image": {
+    "text": "頭にやって来たものを形にする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><circle cx=\"70\" cy=\"20\" r=\"8\"/><line x1=\"70\" y1=\"28\" x2=\"70\" y2=\"34\"/><line x1=\"56\" y1=\"12\" x2=\"52\" y2=\"8\"/><line x1=\"84\" y1=\"12\" x2=\"88\" y2=\"8\"/><polyline points=\"70,74 94,84 122,80\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><rect x=\"122\" y=\"66\" width=\"36\" height=\"26\"/><circle cx=\"140\" cy=\"79\" r=\"6\"/></g><text x=\"116\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">思いつく</text><text x=\"150\" y=\"108\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まだ無かった物</text></svg>"
+  },
+  "etymology": "in(中に) + vent(来る) → 考えが頭の中にやって来る → 思いつく → 発明する／(話を)でっち上げる。event(外に出て来る=出来事)、prevent(前に来る=防ぐ)と同じ vent",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make or design something that did not exist before, or to make up a story that is not true."
+    }
+  ],
+  "cautions": [
+    "discover は「すでにある物を見つける」、invent は「無かった物を作り出す」",
+    "「(言い訳・話を)でっち上げる」の意味がある(invent an excuse)",
+    "invention=発明(品)、inventor=発明者"
+  ],
+  "patterns": [
+    {
+      "form": "invent a machine",
+      "meaning": "機械を発明する"
+    },
+    {
+      "form": "invent an excuse / a story",
+      "meaning": "言い訳・話をでっち上げる"
+    },
+    {
+      "form": "the invention of A",
+      "meaning": "Aの発明"
+    },
+    {
+      "form": "inventor",
+      "meaning": "発明者"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "発明する",
+      "en": "Nobody knows exactly who invented the wheel thousands of years ago.",
+      "ja": "何千年も前にだれが車輪を発明したのか、正確にはだれも知らない。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "The telephone was invented in the nineteenth century and changed the way people communicate.",
+      "ja": "電話は19世紀に発明され、人々の伝え合い方を変えた。"
+    },
+    {
+      "source": "original",
+      "label": "でっち上げる",
+      "en": "He invented an excuse for being late, but his teacher did not believe it.",
+      "ja": "彼は遅刻の言い訳をでっち上げたが、先生は信じなかった。"
+    },
+    {
+      "source": "original",
+      "label": "invention(名詞)",
+      "en": "The invention of the printing press made books much cheaper than before.",
+      "ja": "印刷機の発明によって、本は以前よりずっと安くなった。"
+    },
+    {
+      "source": "original",
+      "label": "discover との対比",
+      "en": "Columbus did not invent America; he only reached a land that already existed.",
+      "ja": "コロンブスはアメリカを「発明」したのではなく、すでにあった土地にたどり着いただけだ。"
+    }
+  ],
+  "check_points": [
+    "invent と discover の違いを例を挙げて言えるか",
+    "invent an excuse がなぜ「でっち上げる」になるのか、核となるイメージから説明できるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "discover との区別、invention / inventor の派生語が出る。「でっち上げる」は長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 17
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "pay",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/peɪ/",
+  "core_image": {
+    "text": "相手に渡して、借りをなくす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><polyline points=\"66,74 90,80 106,78\"/><line x1=\"66\" y1=\"74\" x2=\"56\" y2=\"96\"/><circle cx=\"116\" cy=\"78\" r=\"8\"/><line x1=\"128\" y1=\"78\" x2=\"152\" y2=\"78\"/><polyline points=\"145,74.2 152,78 145,81.8\"/><circle cx=\"182\" cy=\"52\" r=\"10\"/><line x1=\"182\" y1=\"62\" x2=\"182\" y2=\"106\"/><line x1=\"182\" y1=\"106\" x2=\"172\" y2=\"140\"/><line x1=\"182\" y1=\"106\" x2=\"192\" y2=\"140\"/><line x1=\"182\" y1=\"74\" x2=\"160\" y2=\"82\"/><line x1=\"182\" y1=\"74\" x2=\"194\" y2=\"96\"/></g><text x=\"124\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">渡して</text><text x=\"124\" y=\"114\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">貸し借りなし</text></svg>"
+  },
+  "etymology": "ラテン語 pacare(なだめる・平和にする。peace と同じ) → お金を渡して相手を納得させる → 支払う → 注意や敬意を払う → 払ったぶんが返ってくる=割に合う(自動詞)／報いを受ける",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give someone money for something you buy or for work they do, or to be worth doing."
+    },
+    {
+      "pos": "名詞",
+      "text": "the money that someone gets for doing their job."
+    }
+  ],
+  "cautions": [
+    "pay for A=A(品物・サービス)の代金を払う。pay the book は×。請求そのもの(the bill, rent, tax)は pay の直接の目的語になる",
+    "自動詞で「割に合う・得になる」: It pays to do.",
+    "pay attention to A=Aに注意を払う",
+    "pay off=完済する・(努力が)報われる。活用は pay - paid - paid"
+  ],
+  "patterns": [
+    {
+      "form": "pay for A",
+      "meaning": "Aの代金を払う"
+    },
+    {
+      "form": "pay A B",
+      "meaning": "AにBを払う"
+    },
+    {
+      "form": "pay attention to A",
+      "meaning": "Aに注意を払う"
+    },
+    {
+      "form": "It pays to do",
+      "meaning": "〜するのは得だ"
+    },
+    {
+      "form": "pay off",
+      "meaning": "報われる・完済する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "代金を払う",
+      "en": "How much did you pay for that used bicycle?",
+      "ja": "その中古の自転車にいくら払ったのですか。"
+    },
+    {
+      "source": "original",
+      "label": "(請求を)払う",
+      "en": "I forgot to pay the electricity bill, so the lights went out.",
+      "ja": "電気代を払い忘れたので、明かりが消えてしまった。"
+    },
+    {
+      "source": "original",
+      "label": "割に合う(自動詞)",
+      "en": "It pays to be honest with your customers in the long run.",
+      "ja": "長い目で見れば、客に正直であるほうが得だ。"
+    },
+    {
+      "source": "original",
+      "label": "注意を払う",
+      "en": "You should pay more attention to what your teacher says in class.",
+      "ja": "授業では、先生の言うことにもっと注意を払うべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "pay off=報われる",
+      "en": "All her hard work paid off when she won first prize.",
+      "ja": "1等賞を取って、彼女のすべての努力が報われた。"
+    },
+    {
+      "source": "original",
+      "label": "給料(名詞)",
+      "en": "The work is hard, but the pay is much better than my last job.",
+      "ja": "仕事はきついが、給料は前の仕事よりずっといい。"
+    }
+  ],
+  "check_points": [
+    "pay for A と pay A で、A に来るものの違いを言えるか",
+    "It pays to do の pay はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "pay for A、It pays to do(割に合う)、pay attention to、pay off が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 73
+    }
+  ]
+}

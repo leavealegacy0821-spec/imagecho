@@ -1,0 +1,103 @@
+{
+  "word": "last",
+  "pos": [
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/læst/",
+  "core_image": {
+    "text": "最後まで残って続く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"56\" y1=\"74\" x2=\"44\" y2=\"98\"/><line x1=\"56\" y1=\"74\" x2=\"68\" y2=\"98\"/><rect x=\"150\" y=\"70\" width=\"20\" height=\"70\"/><path d=\"M160 70 Q150 54 160 40 Q170 54 160 70\"/><line x1=\"186\" y1=\"72\" x2=\"186\" y2=\"134\" stroke-dasharray=\"5 5\"/><polyline points=\"189.8,127 186,134 182.2,127\"/></g><text x=\"132\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まだ続いている</text><text x=\"212\" y=\"106\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">最後まで</text></svg>"
+  },
+  "etymology": "動詞は古英語 læstan(足跡をたどる・やり通す) → 最後まで続く・もつ。形容詞は late(遅い)の最上級が縮まった形 → いちばん後の → 最後の・この前の・いちばん〜しそうにない。どちらも「最後まで」のイメージ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to continue for a particular length of time, or to stay in good condition."
+    },
+    {
+      "pos": "形容詞",
+      "text": "happening or coming after all the others, or most recent."
+    }
+  ],
+  "cautions": [
+    "動詞「続く・もつ」は自動詞。受け身にしない(The meeting lasted two hours.)",
+    "the last A to do=「最も〜しそうにないA」(順番がいちばん最後=まずしない)",
+    "last は「最後の」と「この前の」(last night)の両方",
+    "at last=ついに。lasting=長続きする"
+  ],
+  "patterns": [
+    {
+      "form": "last (for) 期間",
+      "meaning": "(期間)続く"
+    },
+    {
+      "form": "the last A to do",
+      "meaning": "最も〜しそうにないA"
+    },
+    {
+      "form": "at last",
+      "meaning": "ついに"
+    },
+    {
+      "form": "last but not least",
+      "meaning": "最後になったが大事なこととして"
+    },
+    {
+      "form": "a lasting peace",
+      "meaning": "長く続く平和"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "続く(動詞)",
+      "en": "The meeting lasted for three hours, but nothing important was decided.",
+      "ja": "会議は3時間続いたが、大事なことは何も決まらなかった。"
+    },
+    {
+      "source": "original",
+      "label": "もつ(動詞)",
+      "en": "This battery lasts much longer than the one I used before.",
+      "ja": "この電池は、前に使っていたものよりずっと長くもつ。"
+    },
+    {
+      "source": "original",
+      "label": "最後の",
+      "en": "She caught the last train and got home just before midnight.",
+      "ja": "彼女は終電に間に合い、真夜中の少し前に家に着いた。"
+    },
+    {
+      "source": "original",
+      "label": "the last A to do=最も〜しそうにない",
+      "en": "He is the last person to break a promise to a friend.",
+      "ja": "彼は友人との約束を破るような人では決してない。"
+    },
+    {
+      "source": "original",
+      "label": "at last=ついに",
+      "en": "At last, after years of hard work, he became a doctor.",
+      "ja": "何年もの努力の末、彼はついに医者になった。"
+    },
+    {
+      "source": "original",
+      "label": "lasting(形容詞)",
+      "en": "The two leaders hoped to build a lasting peace between their countries.",
+      "ja": "2人の指導者は、両国の間に長く続く平和を築きたいと願った。"
+    }
+  ],
+  "check_points": [
+    "the last person to do がなぜ「最も〜しそうにない人」になるのか説明できるか",
+    "動詞 last を使って「その戦争は4年続いた」と言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "動詞 last(続く)、the last A to do の否定的な意味が和訳・文法で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 39
+    }
+  ]
+}

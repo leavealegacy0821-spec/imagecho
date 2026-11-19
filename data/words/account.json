@@ -1,0 +1,114 @@
+{
+  "word": "account",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/əˈkaʊnt/",
+  "core_image": {
+    "text": "一つずつ数え上げて、筋道を示す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><polyline points=\"46,74 74,82 100,90\"/><polyline points=\"46,74 36,88 40,102\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"92\" y1=\"108\" x2=\"226\" y2=\"108\"/><line x1=\"102\" y1=\"108\" x2=\"102\" y2=\"140\"/><line x1=\"216\" y1=\"108\" x2=\"216\" y2=\"140\"/><g fill=\"white\"><ellipse cx=\"124\" cy=\"102\" rx=\"12\" ry=\"4\"/><ellipse cx=\"124\" cy=\"95\" rx=\"12\" ry=\"4\"/><ellipse cx=\"160\" cy=\"102\" rx=\"12\" ry=\"4\"/><ellipse cx=\"160\" cy=\"95\" rx=\"12\" ry=\"4\"/><ellipse cx=\"160\" cy=\"88\" rx=\"12\" ry=\"4\"/><ellipse cx=\"196\" cy=\"102\" rx=\"12\" ry=\"4\"/><ellipse cx=\"196\" cy=\"95\" rx=\"12\" ry=\"4\"/><ellipse cx=\"196\" cy=\"88\" rx=\"12\" ry=\"4\"/><ellipse cx=\"196\" cy=\"81\" rx=\"12\" ry=\"4\"/></g><rect x=\"132\" y=\"14\" width=\"88\" height=\"44\"/><line x1=\"146\" y1=\"26\" x2=\"146\" y2=\"46\"/><line x1=\"154\" y1=\"26\" x2=\"154\" y2=\"46\"/><line x1=\"162\" y1=\"26\" x2=\"162\" y2=\"46\"/><line x1=\"170\" y1=\"26\" x2=\"170\" y2=\"46\"/><line x1=\"141\" y1=\"44\" x2=\"175\" y2=\"28\"/><line x1=\"190\" y1=\"26\" x2=\"190\" y2=\"46\"/><line x1=\"198\" y1=\"26\" x2=\"198\" y2=\"46\"/><line x1=\"112\" y1=\"84\" x2=\"126\" y2=\"66\" stroke-dasharray=\"4 5\"/><polyline points=\"118,66 127,64 127,74\"/></g><text x=\"76\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">数える</text><text x=\"176\" y=\"71\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">記録する</text></svg>"
+  },
+  "etymology": "ac(〜へ。ad の変化形) + count(数える。古フランス語を通ってラテン語 computare =計算する、から) → 一つずつ数え上げて報告する → お金を数えた記録(勘定・口座) → 出来事を順に数え上げた話(説明・報告) → account for =数え上げて帳じりを合わせる(理由を説明する／全体のうちの割合を占める／原因となる) → 数に入れる(take A into account =考慮に入れる)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a description or report of something that happened. It also means an arrangement with a bank to keep your money there."
+    },
+    {
+      "pos": "動詞",
+      "text": "used in \"account for\": to explain the reason for something, or to form a particular part or amount of something."
+    }
+  ],
+  "cautions": [
+    "account for A は3つの意味。「Aを説明する」「A(割合)を占める」「Aの原因となる」。主語と目的語から判断する(数字が続けば「占める」)",
+    "take A into account = take account of A = consider A(Aを考慮に入れる)。A が長いと take into account A の語順になる",
+    "on account of A は「Aのために」(= because of A)。on no account は「決して〜ない」で、文頭に出ると倒置が起こる",
+    "カタカナの「アカウント」だけで覚えない。名詞の「説明・報告・記述」が長文で多い"
+  ],
+  "patterns": [
+    {
+      "form": "account for A",
+      "meaning": "Aを説明する／A(割合)を占める／Aの原因となる"
+    },
+    {
+      "form": "take A into account",
+      "meaning": "Aを考慮に入れる"
+    },
+    {
+      "form": "on account of A",
+      "meaning": "Aのために・Aが理由で"
+    },
+    {
+      "form": "give an account of A",
+      "meaning": "Aについて説明する・報告する"
+    },
+    {
+      "form": "open a bank account",
+      "meaning": "銀行口座を開く"
+    },
+    {
+      "form": "on no account",
+      "meaning": "決して〜ない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "口座(名詞)",
+      "en": "I opened a bank account when I started working part-time at a convenience store.",
+      "ja": "コンビニでアルバイトを始めたとき、銀行口座を開いた。"
+    },
+    {
+      "source": "original",
+      "label": "説明・報告(名詞)",
+      "en": "The witness gave the police a detailed account of what she had seen that night.",
+      "ja": "目撃者は、その夜に見たことを警察にくわしく説明した。"
+    },
+    {
+      "source": "original",
+      "label": "account for=説明する",
+      "en": "He could not account for the money that was missing from the club's cash box.",
+      "ja": "彼は、部の金庫からなくなったお金について説明できなかった。"
+    },
+    {
+      "source": "original",
+      "label": "account for=(割合を)占める",
+      "en": "Elderly people account for nearly thirty percent of the population of this country.",
+      "ja": "高齢者はこの国の人口の30パーセント近くを占めている。"
+    },
+    {
+      "source": "original",
+      "label": "account for=原因となる",
+      "en": "The heavy snow accounts for the delay of most trains in the northern area today.",
+      "ja": "今日、北部でほとんどの列車が遅れているのは、大雪が原因だ。"
+    },
+    {
+      "source": "original",
+      "label": "take A into account=考慮に入れる",
+      "en": "You should take the weather into account when you plan a trip to the mountains.",
+      "ja": "山への旅行を計画するときは、天気を考慮に入れるべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "on account of=〜のために",
+      "en": "The game was put off on account of the typhoon that was approaching the island.",
+      "ja": "島に近づいていた台風のために、試合は延期された。"
+    }
+  ],
+  "check_points": [
+    "account for の「説明する」と「占める」が、どちらも「数え上げて帳じりを合わせる」から出てくることを説明できるか",
+    "なぜ account に「口座」と「説明」の両方の意味があるのか、count(数える)から説明できるか",
+    "take A into account が「考慮する」になる理由を、「数に入れる」から言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "account for の3つの意味は、長文の下線部和訳・言い換え(explain / make up)で最もよく狙われる。take A into account、on account of も空所補充・整序の定番。グラフや統計の文では「占める」で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 10
+    }
+  ]
+}

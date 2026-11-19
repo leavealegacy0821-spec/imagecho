@@ -1,0 +1,103 @@
+{
+  "word": "cause",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/kɔːz/",
+  "core_image": {
+    "text": "物事を引き起こすもと",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><polyline points=\"40,74 64,78 84,74\"/><line x1=\"40\" y1=\"74\" x2=\"30\" y2=\"96\"/><line x1=\"94\" y1=\"100\" x2=\"106\" y2=\"140\"/><line x1=\"128\" y1=\"98\" x2=\"150\" y2=\"140\"/><line x1=\"176\" y1=\"100\" x2=\"176\" y2=\"140\"/><line x1=\"206\" y1=\"100\" x2=\"206\" y2=\"140\"/><line x1=\"110\" y1=\"90\" x2=\"134\" y2=\"90\"/><polyline points=\"127,86.2 134,90 127,93.8\"/></g><text x=\"104\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">引き起こすもと</text><text x=\"192\" y=\"88\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">結果</text></svg>"
+  },
+  "etymology": "ラテン語 causa(原因・理由・訴えの言い分) → 物事を引き起こすもと=原因 → 人々が掲げる言い分=大義・目標(a good cause)。動詞は「引き起こす」。because は by cause(〜という原因で)から",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the person or thing that makes something happen, or an aim or idea that a group of people supports."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make something happen, especially something bad."
+    }
+  ],
+  "cautions": [
+    "A cause B は「Aが原因、Bが結果」。result from(原因が後ろ)／result in・lead to(結果が後ろ)と向きを区別",
+    "cause A to do=(原因となって)Aに〜させる",
+    "cause A B=AにB(迷惑・害)を与える",
+    "「大義・目標」の意味: for a good cause=立派な目的のために"
+  ],
+  "patterns": [
+    {
+      "form": "the cause of A",
+      "meaning": "Aの原因"
+    },
+    {
+      "form": "cause A to do",
+      "meaning": "Aに〜させる"
+    },
+    {
+      "form": "cause A B",
+      "meaning": "AにBをもたらす"
+    },
+    {
+      "form": "cause and effect",
+      "meaning": "原因と結果"
+    },
+    {
+      "form": "for a good cause",
+      "meaning": "立派な目的のために"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "原因(名詞)",
+      "en": "The police are trying to find the cause of the fire at the factory.",
+      "ja": "警察は工場の火事の原因を突き止めようとしている。"
+    },
+    {
+      "source": "original",
+      "label": "引き起こす",
+      "en": "Smoking causes many serious diseases, including lung cancer.",
+      "ja": "喫煙は肺がんを含む多くの重い病気を引き起こす。"
+    },
+    {
+      "source": "original",
+      "label": "cause A to do",
+      "en": "The heavy snow caused the train to stop for three hours.",
+      "ja": "大雪のために、列車は3時間止まった。"
+    },
+    {
+      "source": "original",
+      "label": "cause A B",
+      "en": "I am sorry to have caused you so much trouble yesterday.",
+      "ja": "昨日はたいへんご迷惑をおかけして申し訳ありません。"
+    },
+    {
+      "source": "original",
+      "label": "大義(名詞)",
+      "en": "She gave all her money to charity because she believed in the cause.",
+      "ja": "彼女はその活動の目的を信じていたので、全財産を慈善事業に寄付した。"
+    },
+    {
+      "source": "original",
+      "label": "cause and effect",
+      "en": "Young children gradually learn the relationship between cause and effect.",
+      "ja": "幼い子どもは、原因と結果の関係を少しずつ学んでいく。"
+    }
+  ],
+  "check_points": [
+    "A cause B で原因はどちらか。lead to、result from と向きを比べられるか",
+    "「大義」の cause を「言い分」から説明できるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "cause A to do、因果関係の向き(cause / result from / lead to)が長文・文法で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 55
+    }
+  ]
+}

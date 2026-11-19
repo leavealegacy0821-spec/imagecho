@@ -1,0 +1,94 @@
+{
+  "word": "expose",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪkˈspoʊz/",
+  "core_image": {
+    "text": "覆いを取って、外にさらす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"52\" cy=\"52\" r=\"10\"/><line x1=\"52\" y1=\"62\" x2=\"52\" y2=\"106\"/><line x1=\"52\" y1=\"106\" x2=\"42\" y2=\"140\"/><line x1=\"52\" y1=\"106\" x2=\"62\" y2=\"140\"/><polyline points=\"52,74 76,60 98,46\"/><line x1=\"52\" y1=\"74\" x2=\"42\" y2=\"96\"/><path d=\"M98 46 Q126 30 148 52\"/><rect x=\"150\" y=\"104\" width=\"50\" height=\"36\"/><circle cx=\"175\" cy=\"92\" r=\"10\"/><line x1=\"206\" y1=\"40\" x2=\"192\" y2=\"68\"/><line x1=\"222\" y1=\"58\" x2=\"200\" y2=\"78\"/><line x1=\"186\" y1=\"32\" x2=\"180\" y2=\"64\"/></g><text x=\"122\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">覆いを取る</text><text x=\"176\" y=\"154\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さらされる</text></svg>"
+  },
+  "etymology": "ex(外へ) + pose(置く。oppose, propose と同じ) → 外に置く → 風雨や危険にさらす → 新しい考え・文化・言語に触れさせる → 隠れていたものを人目にさらす=暴露する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to put someone or something in a situation where they are not protected, to let someone experience something new, or to make a secret known."
+    }
+  ],
+  "cautions": [
+    "expose A to B=AをBにさらす・触れさせる。受け身 be exposed to A が多い",
+    "悪い意味(危険にさらす)にも、良い意味(文化・言語に触れる)にも使う",
+    "expose a secret / a crime=秘密・犯罪を暴露する",
+    "名詞は exposure"
+  ],
+  "patterns": [
+    {
+      "form": "expose A to B",
+      "meaning": "AをBにさらす・触れさせる"
+    },
+    {
+      "form": "be exposed to A",
+      "meaning": "Aにさらされる・触れる"
+    },
+    {
+      "form": "expose a secret",
+      "meaning": "秘密を暴露する"
+    },
+    {
+      "form": "exposure to A",
+      "meaning": "Aにさらされること"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "さらす",
+      "en": "Do not expose your skin to strong sunlight for a long time.",
+      "ja": "長い時間、肌を強い日光にさらしてはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "(危険に)さらされる",
+      "en": "Workers at the factory were exposed to dangerous chemicals.",
+      "ja": "その工場の労働者は、危険な化学物質にさらされていた。"
+    },
+    {
+      "source": "original",
+      "label": "触れさせる(良い意味)",
+      "en": "Children should be exposed to many different kinds of music.",
+      "ja": "子どもには、いろいろな種類の音楽に触れさせるべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "(言語に)触れる",
+      "en": "The best way to learn a language is to be exposed to it every day.",
+      "ja": "言語を学ぶいちばんの方法は、毎日それに触れることだ。"
+    },
+    {
+      "source": "original",
+      "label": "暴露する",
+      "en": "The newspaper exposed the secret deal between the two companies.",
+      "ja": "その新聞は、2社の間の秘密の取引を暴露した。"
+    },
+    {
+      "source": "original",
+      "label": "exposure(名詞)",
+      "en": "Too much exposure to the sun can damage your eyes.",
+      "ja": "日光を浴びすぎると、目を痛めることがある。"
+    }
+  ],
+  "check_points": [
+    "危険にさらす・文化に触れさせる・暴露するを「外にさらす」で説明できるか",
+    "be exposed to English を自然な日本語にできるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be exposed to A(さらされる・触れる)が、言語・環境を扱う長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 144
+    }
+  ]
+}

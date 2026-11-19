@@ -1,0 +1,98 @@
+{
+  "word": "serve",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/sɜːrv/",
+  "core_image": {
+    "text": "相手の役に立つように働く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><polyline points=\"66,74 88,70 102,62\"/><line x1=\"66\" y1=\"74\" x2=\"56\" y2=\"96\"/><line x1=\"94\" y1=\"62\" x2=\"126\" y2=\"62\"/><path d=\"M100 62 Q110 46 120 62\"/><line x1=\"150\" y1=\"104\" x2=\"215\" y2=\"104\"/><line x1=\"158\" y1=\"104\" x2=\"158\" y2=\"140\"/><line x1=\"207\" y1=\"104\" x2=\"207\" y2=\"140\"/><line x1=\"130\" y1=\"64\" x2=\"170\" y2=\"96\" stroke-dasharray=\"5 5\"/><polyline points=\"166.9,88.6 170,96 162.1,94.6\"/></g><text x=\"72\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">役に立つよう働く</text><text x=\"190\" y=\"92\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">相手</text></svg>"
+  },
+  "etymology": "ラテン語 servus(仕える人) → servire(仕える) → 人に仕える → 食事を出す／客に応対する／組織で務める／物が役目を果たす(serve as)。service, servant, deserve と同じ語源",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give someone food or drink, to work for an organization or a country, or to be useful for a particular purpose."
+    }
+  ],
+  "cautions": [
+    "serve as A=「Aとして役立つ・Aの役目を果たす」が長文で頻出",
+    "serve A B / serve B to A=AにBを出す",
+    "It serves you right.=当然の報いだ",
+    "serve in the army=軍務に就く、serve a purpose=目的にかなう"
+  ],
+  "patterns": [
+    {
+      "form": "serve as A",
+      "meaning": "Aの役目を果たす"
+    },
+    {
+      "form": "serve A B / serve B to A",
+      "meaning": "AにBを出す"
+    },
+    {
+      "form": "serve a purpose",
+      "meaning": "目的にかなう"
+    },
+    {
+      "form": "serve in A",
+      "meaning": "Aで務める"
+    },
+    {
+      "form": "It serves A right.",
+      "meaning": "Aには当然の報いだ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "(食事を)出す",
+      "en": "Breakfast is served from seven to ten in the restaurant on the first floor.",
+      "ja": "朝食は1階のレストランで、7時から10時まで出される。"
+    },
+    {
+      "source": "original",
+      "label": "応対する",
+      "en": "The clerk was busy serving another customer, so I had to wait.",
+      "ja": "店員は別の客の応対で忙しかったので、私は待たなければならなかった。"
+    },
+    {
+      "source": "original",
+      "label": "serve as=役目を果たす",
+      "en": "This old sofa also serves as a bed when my friends stay over.",
+      "ja": "この古いソファは、友人が泊まるときにはベッドの役目も果たす。"
+    },
+    {
+      "source": "original",
+      "label": "務める",
+      "en": "He served as mayor of the city for twelve years.",
+      "ja": "彼は12年間、その市の市長を務めた。"
+    },
+    {
+      "source": "original",
+      "label": "役立つ",
+      "en": "The dictionary has served me well since I was in junior high school.",
+      "ja": "その辞書は、中学生のころからずっと私の役に立ってきた。"
+    },
+    {
+      "source": "original",
+      "label": "It serves A right",
+      "en": "You did not study at all, so it serves you right that you failed.",
+      "ja": "君はまったく勉強しなかったのだから、落ちたのは当然の報いだ。"
+    }
+  ],
+  "check_points": [
+    "食事を出す・務める・serve as を「役に立つように働く」で説明できるか",
+    "service と serve の関係を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "serve as A が長文で頻出。It serves you right は会話問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 47
+    }
+  ]
+}

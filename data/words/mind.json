@@ -1,0 +1,103 @@
+{
+  "word": "mind",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/maɪnd/",
+  "core_image": {
+    "text": "考えや気持ちが動く、頭の中の場所",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"96\" cy=\"52\" r=\"10\"/><line x1=\"96\" y1=\"62\" x2=\"96\" y2=\"106\"/><line x1=\"96\" y1=\"106\" x2=\"86\" y2=\"140\"/><line x1=\"96\" y1=\"106\" x2=\"106\" y2=\"140\"/><circle cx=\"96\" cy=\"52\" r=\"22\" stroke-dasharray=\"4 4\"/><line x1=\"96\" y1=\"76\" x2=\"84\" y2=\"100\"/><line x1=\"96\" y1=\"76\" x2=\"108\" y2=\"100\"/><rect x=\"178\" y=\"104\" width=\"30\" height=\"30\"/><line x1=\"174\" y1=\"102\" x2=\"124\" y2=\"68\" stroke-dasharray=\"5 5\"/><polyline points=\"127.6,75.1 124,68 132,68.8\"/></g><text x=\"96\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">頭の中の場所</text><text x=\"186\" y=\"154\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">気にかかるもの</text></svg>"
+  },
+  "etymology": "古英語 gemynd(記憶・考え。mental, remind と同じ根) → 考えが動く頭の中 → 考え・意見・正気 → 動詞は「頭の中に置く」=気にかける → 気になる=嫌だと思う(Do you mind…?)／気をつける",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the part of a person that thinks, feels and remembers."
+    },
+    {
+      "pos": "動詞",
+      "text": "to feel annoyed or upset about something, or to be careful about something."
+    }
+  ],
+  "cautions": [
+    "Would you mind doing? / Do you mind if S V? は「〜するのは嫌ですか」とたずねる形。「いいですよ」は No, not at all. と答える(Yes は「嫌です」)",
+    "mind doing=〜するのを嫌がる。mind to do は×",
+    "make up one's mind=決心する、change one's mind=考えを変える",
+    "keep A in mind=Aを覚えておく。Never mind.=気にしないで"
+  ],
+  "patterns": [
+    {
+      "form": "Would you mind doing?",
+      "meaning": "〜していただけませんか"
+    },
+    {
+      "form": "make up one's mind",
+      "meaning": "決心する"
+    },
+    {
+      "form": "change one's mind",
+      "meaning": "考えを変える"
+    },
+    {
+      "form": "keep A in mind",
+      "meaning": "Aを覚えておく"
+    },
+    {
+      "form": "have A in mind",
+      "meaning": "Aを考えている"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "頭・心",
+      "en": "A lot of questions came into my mind while I was listening to her.",
+      "ja": "彼女の話を聞いている間に、多くの疑問が頭に浮かんだ。"
+    },
+    {
+      "source": "original",
+      "label": "考え",
+      "en": "He changed his mind at the last minute and decided not to go.",
+      "ja": "彼は土壇場で考えを変え、行かないことにした。"
+    },
+    {
+      "source": "original",
+      "label": "決心する",
+      "en": "I can't make up my mind which university I should apply to.",
+      "ja": "どの大学に出願すべきか、決心がつかない。"
+    },
+    {
+      "source": "original",
+      "label": "mind doing=嫌がる",
+      "en": "Would you mind opening the window? It is a little hot in here.",
+      "ja": "窓を開けていただけませんか。ここは少し暑いので。"
+    },
+    {
+      "source": "original",
+      "label": "気にする",
+      "en": "I don't mind waiting for you as long as you call me first.",
+      "ja": "先に電話をくれるなら、君を待つのはかまわない。"
+    },
+    {
+      "source": "original",
+      "label": "keep in mind",
+      "en": "Keep in mind that not everyone shares your opinion on this.",
+      "ja": "この件では、だれもが君と同じ意見ではないことを覚えておきなさい。"
+    }
+  ],
+  "check_points": [
+    "Would you mind doing? に「いいですよ」と答えるとき、Yes と No のどちらを使うか、理由も言えるか",
+    "mind の後ろに動詞を続けるときの形は何か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "Do you mind の応答、mind doing、make up one's mind が会話・文法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 71
+    }
+  ]
+}

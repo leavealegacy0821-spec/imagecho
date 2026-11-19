@@ -1,0 +1,99 @@
+{
+  "word": "urge",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɜːrdʒ/",
+  "core_image": {
+    "text": "後ろからぐいぐい押す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"66\" cy=\"52\" r=\"10\"/><line x1=\"66\" y1=\"62\" x2=\"66\" y2=\"106\"/><line x1=\"66\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"66\" y1=\"106\" x2=\"76\" y2=\"140\"/><polyline points=\"66,74 96,72 126,76\"/><line x1=\"66\" y1=\"74\" x2=\"56\" y2=\"96\"/><circle cx=\"146\" cy=\"52\" r=\"10\"/><line x1=\"146\" y1=\"62\" x2=\"146\" y2=\"106\"/><line x1=\"146\" y1=\"106\" x2=\"136\" y2=\"140\"/><line x1=\"146\" y1=\"106\" x2=\"156\" y2=\"140\"/><line x1=\"146\" y1=\"74\" x2=\"160\" y2=\"92\"/><line x1=\"146\" y1=\"74\" x2=\"136\" y2=\"98\"/><line x1=\"172\" y1=\"76\" x2=\"216\" y2=\"76\"/><polyline points=\"209,72.2 216,76 209,79.8\"/></g><text x=\"60\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぐいぐい押す</text><text x=\"194\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さあ</text></svg>"
+  },
+  "etymology": "ラテン語 urgere(押す・駆り立てる。urgent=差し迫った と同じ) → 強く押す → 人に強く勧める・促す。名詞は「内側から押してくる力」=衝動",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to strongly advise or try to persuade someone to do something."
+    },
+    {
+      "pos": "名詞",
+      "text": "a strong wish or need to do something."
+    }
+  ],
+  "cautions": [
+    "urge A to do=Aに〜するよう強く勧める・促す",
+    "urge that S (should) 動詞の原形",
+    "名詞 an urge to do=〜したいという衝動",
+    "urgent=緊急の、urgency=緊急性"
+  ],
+  "patterns": [
+    {
+      "form": "urge A to do",
+      "meaning": "Aに〜するよう強く勧める"
+    },
+    {
+      "form": "urge that S (should) do",
+      "meaning": "〜するよう強く求める"
+    },
+    {
+      "form": "an urge to do",
+      "meaning": "〜したい衝動"
+    },
+    {
+      "form": "urgent",
+      "meaning": "緊急の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "urge A to do",
+      "en": "The doctor urged him to stop smoking at once.",
+      "ja": "医者は彼に、すぐにたばこをやめるよう強く勧めた。"
+    },
+    {
+      "source": "original",
+      "label": "促す",
+      "en": "The police urged people to stay indoors during the storm.",
+      "ja": "警察は人々に、嵐の間は屋内にいるよう呼びかけた。"
+    },
+    {
+      "source": "original",
+      "label": "urge that",
+      "en": "She urged that the meeting be held as soon as possible.",
+      "ja": "彼女は、できるだけ早く会議を開くよう強く求めた。"
+    },
+    {
+      "source": "original",
+      "label": "強く訴える",
+      "en": "The report urges the need for more research.",
+      "ja": "その報告書は、さらなる研究の必要性を強く訴えている。"
+    },
+    {
+      "source": "original",
+      "label": "衝動(名詞)",
+      "en": "I felt a sudden urge to call my old friend.",
+      "ja": "ふと、昔の友人に電話したい衝動にかられた。"
+    },
+    {
+      "source": "original",
+      "label": "urgent(形容詞)",
+      "en": "I have an urgent message for the manager.",
+      "ja": "部長に、緊急の伝言があります。"
+    }
+  ],
+  "check_points": [
+    "urge A to do の意味を「後ろから押す」から説明できるか",
+    "urgent はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "urge A to do、urge that S (should) 原形、urgent が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 198
+    }
+  ]
+}

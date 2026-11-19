@@ -1,0 +1,96 @@
+{
+  "word": "material",
+  "pos": [
+    "名詞",
+    "形容詞"
+  ],
+  "ipa": "/məˈtɪriəl/",
+  "core_image": {
+    "text": "何かを作るもとになるもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"18\" y=\"118\" width=\"24\" height=\"22\"/><rect x=\"44\" y=\"118\" width=\"24\" height=\"22\"/><rect x=\"31\" y=\"96\" width=\"24\" height=\"22\"/><circle cx=\"104\" cy=\"52\" r=\"10\"/><line x1=\"104\" y1=\"62\" x2=\"104\" y2=\"106\"/><line x1=\"104\" y1=\"106\" x2=\"94\" y2=\"140\"/><line x1=\"104\" y1=\"106\" x2=\"114\" y2=\"140\"/><line x1=\"104\" y1=\"74\" x2=\"84\" y2=\"94\"/><polyline points=\"104,74 122,80 138,84\"/><polygon points=\"152,96 182,72 212,96\"/><rect x=\"158\" y=\"96\" width=\"48\" height=\"44\"/><rect x=\"174\" y=\"116\" width=\"14\" height=\"24\"/></g><text x=\"46\" y=\"86\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もとになるもの</text><text x=\"182\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">作られたもの</text></svg>"
+  },
+  "etymology": "ラテン語 mater(母) → materia(ものを生み出すもと・木材) + al(〜の) → 何かを作るもとになるもの → 材料・原料・生地・資料。形容詞は「物質の」。matter(物質)と同じ語源",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a substance that things can be made from, or information that is used for writing something."
+    },
+    {
+      "pos": "形容詞",
+      "text": "relating to physical things or money rather than the mind or spirit."
+    }
+  ],
+  "cautions": [
+    "「材料」だけでなく、服の「生地」、本や研究の「資料・題材」、「教材」(teaching materials)も material",
+    "raw material=原料",
+    "形容詞「物質的な」は spiritual(精神的な)と対"
+  ],
+  "patterns": [
+    {
+      "form": "raw materials",
+      "meaning": "原料"
+    },
+    {
+      "form": "building materials",
+      "meaning": "建築材料"
+    },
+    {
+      "form": "teaching materials",
+      "meaning": "教材"
+    },
+    {
+      "form": "material for A",
+      "meaning": "Aのための資料・題材"
+    },
+    {
+      "form": "material wealth",
+      "meaning": "物質的な豊かさ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "材料",
+      "en": "Wood and stone were the main building materials used in this old village.",
+      "ja": "木と石が、この古い村で使われた主な建築材料だった。"
+    },
+    {
+      "source": "original",
+      "label": "原料",
+      "en": "Japan imports most of the raw materials that its factories need from abroad.",
+      "ja": "日本は、工場が必要とする原料のほとんどを海外から輸入している。"
+    },
+    {
+      "source": "original",
+      "label": "生地",
+      "en": "This jacket is made of a light material that dries quickly after rain.",
+      "ja": "この上着は、雨のあとすぐ乾く軽い生地でできている。"
+    },
+    {
+      "source": "original",
+      "label": "資料・題材",
+      "en": "She is collecting material for a novel about her grandmother's childhood.",
+      "ja": "彼女は祖母の子ども時代を描く小説のための資料を集めている。"
+    },
+    {
+      "source": "original",
+      "label": "物質的な(形容詞)",
+      "en": "Material wealth does not always bring happiness to people or their families.",
+      "ja": "物質的な豊かさが、いつも人やその家族に幸せをもたらすとは限らない。"
+    }
+  ],
+  "check_points": [
+    "材料・生地・資料の3つの意味を「作るもとになるもの」でまとめて説明できるか",
+    "形容詞 material の反対の意味の語は何か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文で「資料・題材」「物質的な」の意味が問われる。raw material は必須の連語。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 15
+    }
+  ]
+}

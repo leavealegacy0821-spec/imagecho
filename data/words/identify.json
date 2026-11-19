@@ -1,0 +1,94 @@
+{
+  "word": "identify",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/aɪˈdentɪfaɪ/",
+  "core_image": {
+    "text": "「これと同じだ」と突き止める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><polyline points=\"46,74 68,64 76,54\"/><line x1=\"46\" y1=\"74\" x2=\"36\" y2=\"96\"/><rect x=\"72\" y=\"30\" width=\"20\" height=\"24\"/><circle cx=\"82\" cy=\"39\" r=\"4\"/><line x1=\"96\" y1=\"44\" x2=\"160\" y2=\"48\" stroke-dasharray=\"5 5\"/><polyline points=\"153.2,43.7 160,48 152.8,51.4\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><circle cx=\"216\" cy=\"52\" r=\"10\"/><line x1=\"216\" y1=\"62\" x2=\"216\" y2=\"106\"/><line x1=\"216\" y1=\"106\" x2=\"206\" y2=\"140\"/><line x1=\"216\" y1=\"106\" x2=\"226\" y2=\"140\"/><circle cx=\"180\" cy=\"52\" r=\"15\" stroke-dasharray=\"3 3\"/></g><text x=\"124\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">これと同じ</text><text x=\"188\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">この人だ</text></svg>"
+  },
+  "etymology": "ラテン語 idem(同じ。identical と同じ) + fy(〜にする) → 同じものだと認める → それが何・だれであるかを突き止める・特定する → 自分と同じだと感じる=共感する(identify with)。identity は「本人であること・自分らしさ」",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to recognize someone or something and say who or what they are, or to feel that you understand and share the feelings of someone."
+    }
+  ],
+  "cautions": [
+    "identify A as B=AをBだと特定する",
+    "identify with A=Aに共感する・Aに自分を重ねる",
+    "identify A with B=AをBと同一視する",
+    "identity(身元・自分らしさ)、identical(同一の)、identification(身分証明)"
+  ],
+  "patterns": [
+    {
+      "form": "identify A",
+      "meaning": "Aを特定する"
+    },
+    {
+      "form": "identify A as B",
+      "meaning": "AをBだと特定する"
+    },
+    {
+      "form": "identify with A",
+      "meaning": "Aに共感する"
+    },
+    {
+      "form": "identify A with B",
+      "meaning": "AをBと同一視する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "特定する",
+      "en": "The police have not yet identified the man who broke into the store.",
+      "ja": "警察は、店に押し入った男をまだ特定していない。"
+    },
+    {
+      "source": "original",
+      "label": "identify A as B",
+      "en": "The woman identified the bag found at the station as her own.",
+      "ja": "その女性は、駅で見つかったかばんを自分のものだと確認した。"
+    },
+    {
+      "source": "original",
+      "label": "突き止める",
+      "en": "Scientists are trying to identify the cause of the disease.",
+      "ja": "科学者たちは、その病気の原因を突き止めようとしている。"
+    },
+    {
+      "source": "original",
+      "label": "identify with=共感する",
+      "en": "Many young readers identify with the hero of this novel.",
+      "ja": "多くの若い読者が、この小説の主人公に自分を重ねる。"
+    },
+    {
+      "source": "original",
+      "label": "identity(名詞)",
+      "en": "The police refused to reveal the identity of the witness.",
+      "ja": "警察は、目撃者の身元を明かすことを拒んだ。"
+    },
+    {
+      "source": "original",
+      "label": "identical(形容詞)",
+      "en": "The twins look identical, but their characters are quite different.",
+      "ja": "その双子は見た目はそっくりだが、性格はかなり違う。"
+    }
+  ],
+  "check_points": [
+    "「特定する」と「共感する」を「同じだと認める」で説明できるか",
+    "identity と identical の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "identify(特定する)、identify with、identity が論説文で必須。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 98
+    }
+  ]
+}

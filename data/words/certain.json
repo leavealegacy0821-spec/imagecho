@@ -1,0 +1,98 @@
+{
+  "word": "certain",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈsɜːrtn/",
+  "core_image": {
+    "text": "ふるい分けて、はっきり定まった",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><polyline points=\"46,74 72,70 94,66\"/><line x1=\"46\" y1=\"74\" x2=\"36\" y2=\"96\"/><circle cx=\"130\" cy=\"70\" r=\"5\"/><circle cx=\"162\" cy=\"54\" r=\"5\"/><circle cx=\"192\" cy=\"78\" r=\"5\"/><circle cx=\"150\" cy=\"100\" r=\"5\"/><circle cx=\"162\" cy=\"54\" r=\"13\"/></g><text x=\"162\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">これと定まった</text></svg>"
+  },
+  "etymology": "ラテン語 cernere(ふるいにかける・見分ける。concern と同じ) → certus(定まった) → 確かな・確信している → 「はっきり定まっているが、名前は言わない」=ある〜・一定の",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "having no doubt that something is true, or used to talk about a particular person or thing without naming them."
+    }
+  ],
+  "cautions": [
+    "2つの意味を位置で見分ける。be 動詞の後ろなら「確かな・確信して」、名詞の前なら「ある・一定の」(a certain person)",
+    "be certain to do=きっと〜する(話し手の確信)",
+    "It is certain that S V は言えるが、It is sure that S V は普通言わない",
+    "to a certain extent=ある程度まで。certainly=確かに、certainty=確実性"
+  ],
+  "patterns": [
+    {
+      "form": "be certain of A",
+      "meaning": "Aを確信している"
+    },
+    {
+      "form": "be certain that S V",
+      "meaning": "〜だと確信している"
+    },
+    {
+      "form": "be certain to do",
+      "meaning": "きっと〜する"
+    },
+    {
+      "form": "It is certain that S V",
+      "meaning": "〜は確かだ"
+    },
+    {
+      "form": "a certain A",
+      "meaning": "あるA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "確信して",
+      "en": "I am certain that I locked the door before I left.",
+      "ja": "出かける前にドアに鍵をかけたと、私は確信している。"
+    },
+    {
+      "source": "original",
+      "label": "be certain to do",
+      "en": "She is certain to pass the exam; she has studied so hard.",
+      "ja": "彼女はきっと試験に受かる。あれほど一生懸命勉強したのだから。"
+    },
+    {
+      "source": "original",
+      "label": "It is certain that",
+      "en": "It is certain that prices will continue to rise.",
+      "ja": "物価が上がり続けることは確かだ。"
+    },
+    {
+      "source": "original",
+      "label": "ある〜(名詞の前)",
+      "en": "A certain Mr. Brown called while you were out.",
+      "ja": "あなたの外出中に、ブラウンさんという人から電話がありました。"
+    },
+    {
+      "source": "original",
+      "label": "一定の",
+      "en": "To a certain extent, I agree with what you say.",
+      "ja": "ある程度までは、君の言うことに賛成だ。"
+    },
+    {
+      "source": "original",
+      "label": "certainly(副詞)",
+      "en": "This is certainly the best film I have seen this year.",
+      "ja": "これは確かに、今年見た中で最高の映画だ。"
+    }
+  ],
+  "check_points": [
+    "a certain person と I am certain の certain の意味の違いを言えるか",
+    "He is certain to come. は、だれの確信を表すか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "a certain(ある)、be certain to do、It is certain that が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 203
+    }
+  ]
+}

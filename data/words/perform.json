@@ -1,0 +1,94 @@
+{
+  "word": "perform",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/pərˈfɔːrm/",
+  "core_image": {
+    "text": "最後まできちんとやりとげる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"60\" y=\"116\" width=\"120\" height=\"24\"/><circle cx=\"120\" cy=\"42\" r=\"10\"/><line x1=\"120\" y1=\"52\" x2=\"120\" y2=\"92\"/><line x1=\"120\" y1=\"92\" x2=\"112\" y2=\"116\"/><line x1=\"120\" y1=\"92\" x2=\"128\" y2=\"116\"/><line x1=\"120\" y1=\"64\" x2=\"100\" y2=\"52\"/><line x1=\"120\" y1=\"64\" x2=\"140\" y2=\"52\"/><line x1=\"172\" y1=\"10\" x2=\"142\" y2=\"36\"/><line x1=\"202\" y1=\"10\" x2=\"152\" y2=\"48\"/></g><text x=\"204\" y=\"92\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やりとげる</text><text x=\"34\" y=\"106\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">舞台</text></svg>"
+  },
+  "etymology": "per(完全に) + form(古フランス語 fournir=備える・果たす) → 完全に果たす → 仕事・義務・手術を行う → 人前で最後まで演じる・演奏する → 人や機械が働きを見せる(成績・性能)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to do a task or duty, to entertain people by acting or playing music, or to work or function in a particular way."
+    }
+  ],
+  "cautions": [
+    "perform a task / a duty / an operation / an experiment=行う・果たす",
+    "perform a play / music=上演する・演奏する",
+    "perform well / badly=成績・働きが良い・悪い",
+    "名詞 performance=演技・演奏・実行・成績・性能"
+  ],
+  "patterns": [
+    {
+      "form": "perform a task",
+      "meaning": "仕事を果たす"
+    },
+    {
+      "form": "perform an operation",
+      "meaning": "手術を行う"
+    },
+    {
+      "form": "perform well",
+      "meaning": "良い成績を出す"
+    },
+    {
+      "form": "performance",
+      "meaning": "演技・成績・性能"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "(仕事を)果たす",
+      "en": "Robots can now perform tasks that were once done only by humans.",
+      "ja": "ロボットは今、かつては人間だけがしていた仕事をこなせる。"
+    },
+    {
+      "source": "original",
+      "label": "(手術を)行う",
+      "en": "The doctor performed a difficult operation that lasted eight hours.",
+      "ja": "その医師は、8時間に及ぶ難しい手術を行った。"
+    },
+    {
+      "source": "original",
+      "label": "演奏する",
+      "en": "The orchestra will perform three pieces by Mozart tonight.",
+      "ja": "その楽団は今夜、モーツァルトの曲を3つ演奏する。"
+    },
+    {
+      "source": "original",
+      "label": "演じる",
+      "en": "The students performed a short play in English at the school festival.",
+      "ja": "生徒たちは文化祭で、英語の短い劇を演じた。"
+    },
+    {
+      "source": "original",
+      "label": "成績を出す",
+      "en": "She performed very well on the final exam.",
+      "ja": "彼女は期末試験で、とても良い成績を出した。"
+    },
+    {
+      "source": "original",
+      "label": "performance(性能)",
+      "en": "The performance of the new engine surprised the engineers.",
+      "ja": "新しいエンジンの性能は、技術者たちを驚かせた。"
+    }
+  ],
+  "check_points": [
+    "行う・演じる・成績を「最後までやりとげる」で説明できるか",
+    "performance の意味を3つ言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "perform a task / an operation、performance(成績・性能)が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 163
+    }
+  ]
+}

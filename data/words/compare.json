@@ -1,0 +1,98 @@
+{
+  "word": "compare",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kəmˈper/",
+  "core_image": {
+    "text": "2つを並べて置く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><polyline points=\"120,74 96,70 82,62\"/><polyline points=\"120,74 144,70 158,62\"/><rect x=\"60\" y=\"40\" width=\"22\" height=\"22\"/><circle cx=\"170\" cy=\"50\" r=\"12\"/></g><text x=\"120\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">並べて置く</text><text x=\"204\" y=\"92\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">比べる</text></svg>"
+  },
+  "etymology": "com(共に) + par(等しい。pair と同じ) → 等しく並べる → 並べて比べる → 並べて「似ている」とみなす=たとえる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to examine people or things to see how they are similar and how they are different, or to say that one thing is like another."
+    }
+  ],
+  "cautions": [
+    "compare A with / to B=AをBと比べる。compare A to B=AをBにたとえる(たとえるときは to)",
+    "(as) compared with / to A=Aと比べると(過去分詞で始まる)",
+    "in comparison with A=Aと比べて。comparable=匹敵する",
+    "cannot compare with A=Aにはかなわない"
+  ],
+  "patterns": [
+    {
+      "form": "compare A with B",
+      "meaning": "AをBと比べる"
+    },
+    {
+      "form": "compare A to B",
+      "meaning": "AをBにたとえる"
+    },
+    {
+      "form": "compared with / to A",
+      "meaning": "Aと比べると"
+    },
+    {
+      "form": "in comparison with A",
+      "meaning": "Aと比べて"
+    },
+    {
+      "form": "comparable",
+      "meaning": "匹敵する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "比べる",
+      "en": "Compare your answers with those of the student sitting next to you.",
+      "ja": "自分の答えを、隣に座っている生徒の答えと比べなさい。"
+    },
+    {
+      "source": "original",
+      "label": "たとえる",
+      "en": "Life is often compared to a long journey with many turns.",
+      "ja": "人生は、曲がり角の多い長い旅によくたとえられる。"
+    },
+    {
+      "source": "original",
+      "label": "compared with",
+      "en": "Compared with last year, sales have increased by twenty percent.",
+      "ja": "去年と比べると、売上は20パーセント増えた。"
+    },
+    {
+      "source": "original",
+      "label": "かなうものはない",
+      "en": "Nothing compares with a hot bath after a long day of work.",
+      "ja": "長い1日の仕事の後の熱い風呂にかなうものはない。"
+    },
+    {
+      "source": "original",
+      "label": "comparison(名詞)",
+      "en": "My problems seem small in comparison with hers.",
+      "ja": "彼女の問題と比べると、私の問題は小さく思える。"
+    },
+    {
+      "source": "original",
+      "label": "comparable(形容詞)",
+      "en": "The two cities are comparable in size and population.",
+      "ja": "その2つの都市は、大きさと人口が同じくらいだ。"
+    }
+  ],
+  "check_points": [
+    "「比べる」と「たとえる」を「並べて置く」で説明できるか",
+    "Compared with A, の意味と、なぜ過去分詞なのかを説明できるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "compare A with / to B、compared with、in comparison with が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 108
+    }
+  ]
+}

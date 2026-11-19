@@ -1,0 +1,103 @@
+{
+  "word": "rate",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/reɪt/",
+  "core_image": {
+    "text": "全体に対して割り出した数",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"52\" cy=\"52\" r=\"10\"/><line x1=\"52\" y1=\"62\" x2=\"52\" y2=\"106\"/><line x1=\"52\" y1=\"106\" x2=\"42\" y2=\"140\"/><line x1=\"52\" y1=\"106\" x2=\"62\" y2=\"140\"/><polyline points=\"52,74 78,70 98,64\"/><line x1=\"52\" y1=\"74\" x2=\"42\" y2=\"96\"/><circle cx=\"160\" cy=\"76\" r=\"40\"/><line x1=\"160\" y1=\"76\" x2=\"160\" y2=\"36\"/><line x1=\"160\" y1=\"76\" x2=\"194\" y2=\"56\"/></g><text x=\"160\" y=\"134\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">全体に対する割合</text><text x=\"210\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">この分</text></svg>"
+  },
+  "etymology": "ラテン語 reor(計算する) → ratus(計算された。ratio, reason と同じ) → 割り当てた分 → 割合・率 → 時間あたりの割合=速度 → 単位あたりの値段=料金 → 等級を割り当てる=評価する(動詞)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the number of times something happens in a period, the speed at which something happens, or a fixed amount of money that is charged."
+    },
+    {
+      "pos": "動詞",
+      "text": "to judge the quality or value of something."
+    }
+  ],
+  "cautions": [
+    "birth rate(出生率)、crime rate(犯罪率)、unemployment rate(失業率)、interest rate(金利)",
+    "at a / the rate of A=Aの割合・速度で",
+    "at any rate=とにかく、at this rate=この調子では",
+    "動詞 rate A as B=AをBと評価する。first-rate=一流の"
+  ],
+  "patterns": [
+    {
+      "form": "at a rate of A",
+      "meaning": "Aの割合で"
+    },
+    {
+      "form": "at any rate",
+      "meaning": "とにかく"
+    },
+    {
+      "form": "at this rate",
+      "meaning": "この調子では"
+    },
+    {
+      "form": "the birth rate",
+      "meaning": "出生率"
+    },
+    {
+      "form": "rate A as B",
+      "meaning": "AをBと評価する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "率",
+      "en": "The birth rate in Japan has been falling for several decades.",
+      "ja": "日本の出生率は数十年にわたって下がり続けている。"
+    },
+    {
+      "source": "original",
+      "label": "速度",
+      "en": "The population of the city is growing at a surprising rate.",
+      "ja": "その都市の人口は、驚くほどの速さで増えている。"
+    },
+    {
+      "source": "original",
+      "label": "料金",
+      "en": "This hotel offers special rates for students during the winter.",
+      "ja": "このホテルは、冬の間は学生向けの特別料金を設けている。"
+    },
+    {
+      "source": "original",
+      "label": "at any rate=とにかく",
+      "en": "At any rate, we have to finish this work by tomorrow morning.",
+      "ja": "とにかく、明日の朝までにこの仕事を終えなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "at this rate=この調子では",
+      "en": "At this rate, we will not arrive at the station before dark.",
+      "ja": "この調子では、暗くなる前に駅に着けないだろう。"
+    },
+    {
+      "source": "original",
+      "label": "評価する(動詞)",
+      "en": "Critics rate her latest novel as the best she has ever written.",
+      "ja": "批評家たちは、彼女の最新の小説をこれまでの最高傑作と評価している。"
+    }
+  ],
+  "check_points": [
+    "率・速度・料金を「全体に対して割り出した数」で説明できるか",
+    "at any rate と at this rate の意味を言い分けられるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "birth rate など、統計を扱う長文で必須。at any rate、at this rate の熟語も出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 75
+    }
+  ]
+}

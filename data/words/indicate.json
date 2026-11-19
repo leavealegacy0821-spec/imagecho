@@ -1,0 +1,93 @@
+{
+  "word": "indicate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈɪndɪkeɪt/",
+  "core_image": {
+    "text": "指でさして示す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 86,66 114,58\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><rect x=\"130\" y=\"30\" width=\"80\" height=\"70\"/><polyline points=\"142,84 160,66 176,74 198,44\"/></g><text x=\"170\" y=\"118\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">これを見よ</text><text x=\"90\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">指さす</text></svg>"
+  },
+  "etymology": "in(〜に向けて) + dic(言う・示す。dictionary と同じ。index=人差し指・索引 も同じ根) → 指し示す → データやしるしが示す → それとなく示す・述べる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to show that something is true or exists, or to point to something."
+    }
+  ],
+  "cautions": [
+    "indicate that S V=(調査・結果が)〜を示す。show より堅い",
+    "indicate A=Aを指し示す／Aのしるしである",
+    "indication=しるし・兆候、indicator=指標、index=索引・指数"
+  ],
+  "patterns": [
+    {
+      "form": "indicate that S V",
+      "meaning": "〜ということを示す"
+    },
+    {
+      "form": "indicate A",
+      "meaning": "Aを示す"
+    },
+    {
+      "form": "an indication of A",
+      "meaning": "Aのしるし"
+    },
+    {
+      "form": "indicator",
+      "meaning": "指標"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "(調査が)示す",
+      "en": "The survey indicates that most students sleep less than seven hours.",
+      "ja": "その調査は、ほとんどの生徒の睡眠が7時間未満であることを示している。"
+    },
+    {
+      "source": "original",
+      "label": "(研究が)示す",
+      "en": "Recent studies indicate a strong link between diet and health.",
+      "ja": "最近の研究は、食事と健康の間に強い関連があることを示している。"
+    },
+    {
+      "source": "original",
+      "label": "指し示す",
+      "en": "He indicated the building on the map with his finger.",
+      "ja": "彼は地図上のその建物を指でさした。"
+    },
+    {
+      "source": "original",
+      "label": "しるしである",
+      "en": "A high temperature often indicates that you have an infection.",
+      "ja": "高熱は、感染症にかかっているしるしであることが多い。"
+    },
+    {
+      "source": "original",
+      "label": "それとなく述べる",
+      "en": "She indicated that she might leave the company next year.",
+      "ja": "彼女は、来年会社を辞めるかもしれないとほのめかした。"
+    },
+    {
+      "source": "original",
+      "label": "indication(名詞)",
+      "en": "There is no indication that the weather will improve this week.",
+      "ja": "今週、天気が良くなる兆しはない。"
+    }
+  ],
+  "check_points": [
+    "index(人差し指・索引)と indicate のつながりを言えるか",
+    "The survey indicates that … を自然な日本語に訳せるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "indicate that が、グラフ・調査を扱う長文で必須。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 152
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "consult",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈsʌlt/",
+  "core_image": {
+    "text": "くわしい人や物に、意見を求めに行く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><polyline points=\"56,74 80,66 92,56\"/><line x1=\"56\" y1=\"74\" x2=\"46\" y2=\"96\"/><path d=\"M98 50 Q104 54 98 58\"/><circle cx=\"176\" cy=\"52\" r=\"10\"/><line x1=\"176\" y1=\"62\" x2=\"176\" y2=\"106\"/><line x1=\"176\" y1=\"106\" x2=\"166\" y2=\"140\"/><line x1=\"176\" y1=\"106\" x2=\"186\" y2=\"140\"/><line x1=\"176\" y1=\"74\" x2=\"164\" y2=\"96\"/><line x1=\"176\" y1=\"74\" x2=\"190\" y2=\"96\"/><rect x=\"196\" y=\"74\" width=\"22\" height=\"30\"/></g><text x=\"72\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">教えてください</text><text x=\"186\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くわしい人・本</text></svg>"
+  },
+  "etymology": "ラテン語 consulere(よく考える・意見を求める。counsel=助言 と同じ根) → 専門家に意見を聞く・相談する → 辞書や資料を調べる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to go to someone such as a doctor or lawyer for advice, or to look at a book or map for information."
+    }
+  ],
+  "cautions": [
+    "consult A=A(医者・専門家)に相談する・診てもらう。他動詞",
+    "consult a dictionary=辞書を引く",
+    "consult with A=A(同僚など)と話し合う",
+    "consultant=顧問、consultation=相談・診察"
+  ],
+  "patterns": [
+    {
+      "form": "consult a doctor",
+      "meaning": "医者に診てもらう"
+    },
+    {
+      "form": "consult a dictionary",
+      "meaning": "辞書を引く"
+    },
+    {
+      "form": "consult with A",
+      "meaning": "Aと話し合う"
+    },
+    {
+      "form": "consultant",
+      "meaning": "顧問"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "(医者に)相談する",
+      "en": "You should consult a doctor if the pain continues.",
+      "ja": "痛みが続くなら、医者に診てもらったほうがいい。"
+    },
+    {
+      "source": "original",
+      "label": "(辞書を)引く",
+      "en": "Consult a dictionary when you find a word you do not know.",
+      "ja": "知らない単語を見つけたら、辞書を引きなさい。"
+    },
+    {
+      "source": "original",
+      "label": "(地図を)調べる",
+      "en": "We consulted the map to find the quickest way to the lake.",
+      "ja": "湖へのいちばん早い道を探すため、地図を調べた。"
+    },
+    {
+      "source": "original",
+      "label": "consult with",
+      "en": "The manager consulted with her team before making a decision.",
+      "ja": "部長は、決める前にチームと話し合った。"
+    },
+    {
+      "source": "original",
+      "label": "意見を聞く",
+      "en": "The city did not consult local people before building the road.",
+      "ja": "市は、その道路を造る前に地元の人の意見を聞かなかった。"
+    },
+    {
+      "source": "original",
+      "label": "consultant(名詞)",
+      "en": "He works as a consultant for several large companies.",
+      "ja": "彼は、いくつかの大企業の顧問として働いている。"
+    }
+  ],
+  "check_points": [
+    "consult a doctor と consult a dictionary の訳し分けができるか",
+    "consult with A はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "consult a doctor / dictionary が語彙問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 259
+    }
+  ]
+}

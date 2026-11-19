@@ -1,0 +1,103 @@
+{
+  "word": "figure",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈfɪɡjər/",
+  "core_image": {
+    "text": "輪郭のはっきりした形",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"56\" r=\"10\"/><line x1=\"50\" y1=\"66\" x2=\"50\" y2=\"108\"/><polyline points=\"50,78 76,74 100,64\"/><line x1=\"100\" y1=\"64\" x2=\"113\" y2=\"60\"/><polyline points=\"50,78 40,92 44,106\"/><line x1=\"50\" y1=\"108\" x2=\"38\" y2=\"140\"/><line x1=\"50\" y1=\"108\" x2=\"62\" y2=\"140\"/><rect x=\"108\" y=\"16\" width=\"118\" height=\"110\"/><g stroke-dasharray=\"4 5\"><circle cx=\"138\" cy=\"44\" r=\"8\"/><line x1=\"138\" y1=\"52\" x2=\"138\" y2=\"84\"/><line x1=\"124\" y1=\"64\" x2=\"152\" y2=\"64\"/><line x1=\"138\" y1=\"84\" x2=\"128\" y2=\"108\"/><line x1=\"138\" y1=\"84\" x2=\"148\" y2=\"108\"/></g><polygon points=\"170,62 212,62 191,28\"/><path d=\"M204 76 H186 L184 92 Q204 86 204 102 Q204 118 184 112\"/></g><text x=\"168\" y=\"154\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">人の姿・図形・数字</text></svg>"
+  },
+  "etymology": "ラテン語 figura(形)。fingere(形づくる)から出た語で、fiction(作り話)も同じ仲間 → 形づくられた、輪郭のはっきりしたもの → 人の形(姿・人影・体つき)、目立つ形の人(人物)、描かれた形(図)、数を表す形(数字) → 動詞では、頭の中に形を描く(考える)、figure out =ぼんやりしたものの形をはっきりさせる(答えを出す・理解する)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a number, especially one that shows an amount. It also means the shape of a person, or a person who is important in some way."
+    },
+    {
+      "pos": "動詞",
+      "text": "to think or guess that something is true. \"Figure out\" means to understand something or find an answer by thinking carefully."
+    }
+  ],
+  "cautions": [
+    "日本語の「フィギュア(人形)」で覚えると読めない。入試では「数字・数値」「人物」「姿」「図」が中心",
+    "「数字」は統計や金額の数値を指すことが多い(sales figures =売上高)。Figure 1 は「図1」",
+    "figure out は「考えて答えを出す・理解する」。目的語が代名詞なら figure it out の語順",
+    "「人物」は a public figure(有名人・公人)、a leading figure(中心人物)のように形容詞と一緒に使う"
+  ],
+  "patterns": [
+    {
+      "form": "figure out A / wh- ~",
+      "meaning": "Aを理解する・解決する／〜かを考えて突き止める"
+    },
+    {
+      "form": "sales / unemployment figures",
+      "meaning": "売上高／失業者数(の数値)"
+    },
+    {
+      "form": "a public / leading figure",
+      "meaning": "有名人・公人／中心人物"
+    },
+    {
+      "form": "figure (that) ~",
+      "meaning": "〜だと考える・思う(くだけた言い方)"
+    },
+    {
+      "form": "in round figures",
+      "meaning": "端数を切った数字で・およそ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "数字・数値(名詞)",
+      "en": "The latest figures show that the number of foreign tourists has doubled in five years.",
+      "ja": "最新の数値は、外国人観光客の数が5年で2倍になったことを示している。"
+    },
+    {
+      "source": "original",
+      "label": "人物(名詞)",
+      "en": "She is one of the most important figures in the history of modern Japanese literature.",
+      "ja": "彼女は近代日本文学の歴史において最も重要な人物の一人だ。"
+    },
+    {
+      "source": "original",
+      "label": "姿・人影(名詞)",
+      "en": "I saw a dark figure standing by the gate, but I could not tell who it was.",
+      "ja": "門のそばに黒い人影が立っているのが見えたが、だれなのかは分からなかった。"
+    },
+    {
+      "source": "original",
+      "label": "図(名詞)",
+      "en": "As Figure 3 shows, the population of the town has been falling since 1990.",
+      "ja": "図3が示すように、その町の人口は1990年以来減り続けている。"
+    },
+    {
+      "source": "original",
+      "label": "figure out=考えて答えを出す",
+      "en": "It took me nearly an hour to figure out how to solve the last math problem.",
+      "ja": "最後の数学の問題の解き方を考え出すのに1時間近くかかった。"
+    },
+    {
+      "source": "original",
+      "label": "figure that=〜だと考える(動詞)",
+      "en": "I figured that he would be late again, so I started cooking without him.",
+      "ja": "彼はまた遅れるだろうと思ったので、彼を待たずに料理を始めた。"
+    }
+  ],
+  "check_points": [
+    "「数字」「人物」「姿」「図」の4つを、「輪郭のはっきりした形」から説明できるか",
+    "figure out がなぜ「分かる・解決する」になるのか、out(外へ・はっきりと)と合わせて説明できるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "多義語の代表で、長文中の figure が「数字」か「人物」か「姿」かを文脈から判断させる問題が多い。figure out は会話文・長文・言い換え問題のどれにも出る。グラフ問題では Figure 1 と数値の両方の意味で使われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 7
+    }
+  ]
+}

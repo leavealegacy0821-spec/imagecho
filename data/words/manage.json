@@ -1,0 +1,92 @@
+{
+  "word": "manage",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈmænɪdʒ/",
+  "core_image": {
+    "text": "手でうまく扱って、なんとかする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><polyline points=\"120,74 98,70 90,54\"/><polyline points=\"120,74 142,70 150,54\"/><circle cx=\"88\" cy=\"42\" r=\"6\"/><circle cx=\"120\" cy=\"20\" r=\"6\"/><circle cx=\"152\" cy=\"42\" r=\"6\"/><path d=\"M92 32 Q102 16 112 18\" stroke-dasharray=\"4 4\"/><path d=\"M128 18 Q138 16 148 32\" stroke-dasharray=\"4 4\"/></g><text x=\"198\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">難しいこと</text><text x=\"120\" y=\"154\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">なんとかやりとげる</text></svg>"
+  },
+  "etymology": "ラテン語 manus(手。manual, manner と同じ) → イタリア語 maneggiare(手で馬をあやつる) → 難しいものをうまく扱う → 経営する・管理する／なんとかやりとげる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to succeed in doing something difficult, or to be in charge of a business, a team or a group of people."
+    }
+  ],
+  "cautions": [
+    "manage to do=「(苦労して)なんとか〜する」。実際にできたことを表す。manage doing は×",
+    "過去に1回実際にできたことは could ではなく managed to do / was able to do",
+    "「経営する・管理する」は他動詞(manage a shop)",
+    "manage on A=Aでなんとかやっていく"
+  ],
+  "patterns": [
+    {
+      "form": "manage to do",
+      "meaning": "なんとか〜する"
+    },
+    {
+      "form": "manage a company",
+      "meaning": "会社を経営する"
+    },
+    {
+      "form": "manage (on A)",
+      "meaning": "(Aで)なんとかやっていく"
+    },
+    {
+      "form": "management",
+      "meaning": "経営・管理"
+    },
+    {
+      "form": "manager",
+      "meaning": "経営者・部長・監督"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "manage to do",
+      "en": "I managed to catch the last train by running all the way to the station.",
+      "ja": "駅までずっと走って、なんとか終電に間に合った。"
+    },
+    {
+      "source": "original",
+      "label": "経営する",
+      "en": "Her father manages a small hotel near the lake with his two brothers.",
+      "ja": "彼女の父は、2人の兄弟と一緒に湖の近くの小さなホテルを経営している。"
+    },
+    {
+      "source": "original",
+      "label": "管理する",
+      "en": "You should learn how to manage your time before you enter university.",
+      "ja": "大学に入る前に、時間の管理のしかたを身につけたほうがいい。"
+    },
+    {
+      "source": "original",
+      "label": "なんとかやっていく",
+      "en": "I can't manage on such a small income now that prices are rising.",
+      "ja": "物価が上がっている今、こんなに少ない収入ではやっていけない。"
+    },
+    {
+      "source": "original",
+      "label": "management(名詞)",
+      "en": "The company failed because of poor management, not because of bad products.",
+      "ja": "その会社は製品が悪かったからではなく、経営がまずかったために倒産した。"
+    }
+  ],
+  "check_points": [
+    "manage to do と try to do の違い(実際にできたかどうか)を説明できるか",
+    "「経営する」と「なんとかする」を「手でうまく扱う」でつなげられるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "manage to do は語法・和訳の定番(fail to do と対)。management・manager も長文に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 18
+    }
+  ]
+}

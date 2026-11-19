@@ -1,0 +1,98 @@
+{
+  "word": "sentence",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈsentəns/",
+  "core_image": {
+    "text": "考えを言い切ったひとまとまり",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"52\" r=\"10\"/><line x1=\"56\" y1=\"62\" x2=\"56\" y2=\"106\"/><line x1=\"56\" y1=\"106\" x2=\"46\" y2=\"140\"/><line x1=\"56\" y1=\"106\" x2=\"66\" y2=\"140\"/><line x1=\"56\" y1=\"74\" x2=\"44\" y2=\"98\"/><line x1=\"56\" y1=\"74\" x2=\"68\" y2=\"98\"/><rect x=\"88\" y=\"24\" width=\"92\" height=\"30\"/><polyline points=\"98,54 88,66 112,54\"/><line x1=\"100\" y1=\"39\" x2=\"158\" y2=\"39\"/><circle cx=\"168\" cy=\"39\" r=\"2.5\"/><rect x=\"186\" y=\"96\" width=\"34\" height=\"14\"/><line x1=\"203\" y1=\"110\" x2=\"203\" y2=\"136\"/></g><text x=\"136\" y=\"78\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">言い切る</text><text x=\"203\" y=\"86\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">判決</text></svg>"
+  },
+  "etymology": "ラテン語 sentire(感じる・考える。sense と同じ) → sententia(考え・意見・判断) → 考えをまとめて言い切ったもの=文 → 裁判官が言い渡す判断=判決・刑",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a group of words that expresses a complete idea, or the punishment that a judge gives to someone who is guilty of a crime."
+    },
+    {
+      "pos": "動詞",
+      "text": "to officially state what punishment someone will receive for a crime."
+    }
+  ],
+  "cautions": [
+    "「判決・刑」の意味がある: a life sentence(終身刑)、a death sentence(死刑判決)",
+    "be sentenced to A=Aの刑を言い渡される",
+    "serve a sentence=服役する"
+  ],
+  "patterns": [
+    {
+      "form": "a life sentence",
+      "meaning": "終身刑"
+    },
+    {
+      "form": "a death sentence",
+      "meaning": "死刑判決"
+    },
+    {
+      "form": "be sentenced to A",
+      "meaning": "Aの刑を言い渡される"
+    },
+    {
+      "form": "serve a sentence",
+      "meaning": "服役する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "文",
+      "en": "Try to explain your idea in a single short sentence.",
+      "ja": "あなたの考えを、短い1文で説明してみなさい。"
+    },
+    {
+      "source": "original",
+      "label": "文",
+      "en": "The first sentence of the novel is known to almost everyone in Japan.",
+      "ja": "その小説の最初の1文は、日本のほとんどだれもが知っている。"
+    },
+    {
+      "source": "original",
+      "label": "刑",
+      "en": "The man received a ten-year prison sentence for robbing a bank.",
+      "ja": "その男は銀行強盗の罪で、懲役10年の刑を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "終身刑",
+      "en": "She is serving a life sentence for a crime she says she did not commit.",
+      "ja": "彼女は、自分はやっていないと言う罪で終身刑に服している。"
+    },
+    {
+      "source": "original",
+      "label": "判決を下す(動詞)",
+      "en": "The judge sentenced him to five years in prison.",
+      "ja": "裁判官は彼に懲役5年の判決を下した。"
+    },
+    {
+      "source": "original",
+      "label": "be sentenced to",
+      "en": "He was sentenced to death, but the decision was later changed.",
+      "ja": "彼は死刑を言い渡されたが、その決定は後に変更された。"
+    }
+  ],
+  "check_points": [
+    "「文」と「判決」が同じ単語になるわけを「考えを言い切る」から説明できるか",
+    "be sentenced to の後ろには何が来るか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「判決・刑」の意味が長文・語彙問題で狙われる。be sentenced to も出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 79
+    }
+  ]
+}

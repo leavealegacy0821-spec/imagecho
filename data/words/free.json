@@ -1,0 +1,103 @@
+{
+  "word": "free",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/friː/",
+  "core_image": {
+    "text": "しばるものが何もない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><polyline points=\"120,74 100,58 92,40\"/><polyline points=\"120,74 140,58 148,40\"/><circle cx=\"62\" cy=\"134\" r=\"5\"/><circle cx=\"72\" cy=\"134\" r=\"5\"/><circle cx=\"168\" cy=\"134\" r=\"5\"/><circle cx=\"178\" cy=\"134\" r=\"5\"/></g><text x=\"120\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しばるものがない</text><text x=\"206\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">切れた鎖</text></svg>"
+  },
+  "etymology": "古英語 freo(束縛されていない・愛されている。friend と同じ語源) → 自由な → 料金にしばられない=無料の／予定にしばられない=ひまな／悪いものにとらわれない=〜が無い(free from)。動詞は「解放する」",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "able to do what you want without being controlled, costing nothing, or not busy."
+    },
+    {
+      "pos": "動詞",
+      "text": "to allow someone to leave a place where they have been kept, or to remove something unpleasant from someone."
+    }
+  ],
+  "cautions": [
+    "be free from / of A=「A(悪いもの)が無い」: free from danger。-free の形でも使う(sugar-free=砂糖を含まない、tax-free=免税の)",
+    "free of charge = for free=無料で",
+    "be free to do=自由に〜できる、feel free to do=遠慮なく〜する",
+    "動詞 free A from B=AをBから解放する"
+  ],
+  "patterns": [
+    {
+      "form": "be free from / of A",
+      "meaning": "Aが無い"
+    },
+    {
+      "form": "be free to do",
+      "meaning": "自由に〜できる"
+    },
+    {
+      "form": "feel free to do",
+      "meaning": "遠慮なく〜する"
+    },
+    {
+      "form": "for free",
+      "meaning": "無料で"
+    },
+    {
+      "form": "free A from B",
+      "meaning": "AをBから解放する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "自由な",
+      "en": "You are free to choose any subject you like for your report.",
+      "ja": "レポートの題材は、好きなものを自由に選んでよい。"
+    },
+    {
+      "source": "original",
+      "label": "無料の",
+      "en": "Admission to the museum is free for children under twelve.",
+      "ja": "その博物館の入場料は、12歳未満の子どもは無料だ。"
+    },
+    {
+      "source": "original",
+      "label": "ひまな",
+      "en": "If you are free this Saturday, why not come to the movies with us?",
+      "ja": "今週の土曜日がひまなら、一緒に映画に行きませんか。"
+    },
+    {
+      "source": "original",
+      "label": "free from=〜が無い",
+      "en": "No one can be completely free from worry in modern society.",
+      "ja": "現代社会では、だれも心配事から完全に逃れることはできない。"
+    },
+    {
+      "source": "original",
+      "label": "feel free to",
+      "en": "Please feel free to ask me any questions after the lecture.",
+      "ja": "講義の後、どんな質問でも遠慮なくしてください。"
+    },
+    {
+      "source": "original",
+      "label": "解放する(動詞)",
+      "en": "The firefighters freed the driver from the car after an hour.",
+      "ja": "消防士たちは1時間後、運転手を車から救い出した。"
+    }
+  ],
+  "check_points": [
+    "自由・無料・ひま・〜が無いを「しばるものがない」で説明できるか",
+    "sugar-free はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "free from / of、free of charge、feel free to do が文法・会話で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 66
+    }
+  ]
+}

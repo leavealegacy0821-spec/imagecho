@@ -1,0 +1,99 @@
+{
+  "word": "associate",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/əˈsoʊʃieɪt/",
+  "core_image": {
+    "text": "仲間として結びつける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><polyline points=\"46,74 70,66 88,58\"/><line x1=\"46\" y1=\"74\" x2=\"36\" y2=\"96\"/><circle cx=\"120\" cy=\"60\" r=\"16\"/><circle cx=\"196\" cy=\"92\" r=\"16\"/><line x1=\"134\" y1=\"66\" x2=\"182\" y2=\"86\"/></g><text x=\"176\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">結びつける</text><text x=\"196\" y=\"126\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">仲間</text></svg>"
+  },
+  "etymology": "as(ad=〜へ) + soci(仲間。social, society と同じ) → 仲間にする → 頭の中で仲間として結びつける=連想する(associate A with B) → 人と付き合う",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to connect someone or something in your mind with someone or something else, or to spend time with someone."
+    },
+    {
+      "pos": "名詞",
+      "text": "someone that you work or do business with."
+    }
+  ],
+  "cautions": [
+    "associate A with B=AをBと結びつけて考える・AからBを連想する",
+    "be associated with A=Aと関連がある",
+    "associate with A=A(人)と付き合う",
+    "名詞 association=協会・関連・連想"
+  ],
+  "patterns": [
+    {
+      "form": "associate A with B",
+      "meaning": "AをBと結びつけて考える"
+    },
+    {
+      "form": "be associated with A",
+      "meaning": "Aと関連がある"
+    },
+    {
+      "form": "associate with A",
+      "meaning": "Aと付き合う"
+    },
+    {
+      "form": "association",
+      "meaning": "協会・関連・連想"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "連想する",
+      "en": "Most people associate the color red with danger or passion.",
+      "ja": "ほとんどの人は、赤い色から危険や情熱を連想する。"
+    },
+    {
+      "source": "original",
+      "label": "結びつける",
+      "en": "I always associate the smell of baking bread with my grandmother's kitchen.",
+      "ja": "パンの焼けるにおいをかぐと、いつも祖母の台所を思い出す。"
+    },
+    {
+      "source": "original",
+      "label": "be associated with",
+      "en": "Smoking is associated with a higher risk of heart disease.",
+      "ja": "喫煙は、心臓病の危険が高まることと関連がある。"
+    },
+    {
+      "source": "original",
+      "label": "付き合う",
+      "en": "His parents did not want him to associate with those boys.",
+      "ja": "両親は、彼がその少年たちと付き合うのを望まなかった。"
+    },
+    {
+      "source": "original",
+      "label": "association(協会)",
+      "en": "She is a member of the local association of English teachers.",
+      "ja": "彼女は地元の英語教師の協会の会員だ。"
+    },
+    {
+      "source": "original",
+      "label": "association(連想)",
+      "en": "The word \"home\" has warm associations for most people.",
+      "ja": "home という言葉は、ほとんどの人にとって温かい連想を伴う。"
+    }
+  ],
+  "check_points": [
+    "「連想する」と「付き合う」を「仲間として結びつける」で説明できるか",
+    "be associated with はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "associate A with B、be associated with が長文・語法で必須。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 129
+    }
+  ]
+}
