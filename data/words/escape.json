@@ -1,0 +1,103 @@
+{
+  "word": "escape",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɪˈskeɪp/",
+  "core_image": {
+    "text": "つかまる手から、するりと抜け出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"50\" width=\"70\" height=\"90\"/><line x1=\"48\" y1=\"50\" x2=\"48\" y2=\"140\"/><line x1=\"66\" y1=\"50\" x2=\"66\" y2=\"140\"/><line x1=\"84\" y1=\"50\" x2=\"84\" y2=\"140\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"186\" y2=\"88\"/><line x1=\"170\" y1=\"74\" x2=\"154\" y2=\"88\"/><line x1=\"112\" y1=\"60\" x2=\"152\" y2=\"60\"/><polyline points=\"145,56.2 152,60 145,63.8\"/></g><text x=\"65\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">おり</text><text x=\"200\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">抜け出す</text></svg>"
+  },
+  "etymology": "es(ex=外へ) + cape(マント) → マントを脱ぎ捨てて逃げる → 逃げ出す → (危険・病気を)まぬがれる → (名前などが)記憶から抜ける",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to get away from a place or person, or to avoid something bad."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of getting away from a place or a dangerous situation."
+    }
+  ],
+  "cautions": [
+    "escape from A=A(場所)から逃げる",
+    "escape A(他動詞)=A(危険・罰)をまぬがれる。escape doing=〜するのをまぬがれる(to do は×)",
+    "A escape B=AがBの記憶から抜ける(His name escapes me.=名前が思い出せない)",
+    "have a narrow escape=間一髪で助かる"
+  ],
+  "patterns": [
+    {
+      "form": "escape from A",
+      "meaning": "Aから逃げる"
+    },
+    {
+      "form": "escape A",
+      "meaning": "Aをまぬがれる"
+    },
+    {
+      "form": "escape doing",
+      "meaning": "〜するのをまぬがれる"
+    },
+    {
+      "form": "A escapes me",
+      "meaning": "Aが思い出せない"
+    },
+    {
+      "form": "have a narrow escape",
+      "meaning": "間一髪で助かる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "escape from",
+      "en": "Two prisoners escaped from the prison last night.",
+      "ja": "昨夜2人の囚人が刑務所から脱走した。"
+    },
+    {
+      "source": "original",
+      "label": "まぬがれる",
+      "en": "Nobody can escape death.",
+      "ja": "だれも死をまぬがれることはできない。"
+    },
+    {
+      "source": "original",
+      "label": "escape doing",
+      "en": "He narrowly escaped being hit by a car.",
+      "ja": "彼はあやうく車にひかれるところだった。"
+    },
+    {
+      "source": "original",
+      "label": "思い出せない",
+      "en": "Her name escapes me, but I remember her face.",
+      "ja": "彼女の名前が思い出せないが、顔は覚えている。"
+    },
+    {
+      "source": "original",
+      "label": "(気体が)漏れる",
+      "en": "Gas was escaping from the broken pipe.",
+      "ja": "壊れた管からガスが漏れていた。"
+    },
+    {
+      "source": "original",
+      "label": "逃げること(名詞)",
+      "en": "We had a narrow escape when the bridge fell.",
+      "ja": "橋が落ちたとき、私たちは間一髪で助かった。"
+    }
+  ],
+  "check_points": [
+    "escape doing と to do のどちらが正しいか",
+    "Her name escapes me. はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "escape doing、A escapes me が語法問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 272
+    }
+  ]
+}

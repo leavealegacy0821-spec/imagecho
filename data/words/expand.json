@@ -1,0 +1,94 @@
+{
+  "word": "expand",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪkˈspænd/",
+  "core_image": {
+    "text": "外へ向かって、広がっていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"80\" r=\"14\"/><circle cx=\"120\" cy=\"80\" r=\"36\" stroke-dasharray=\"4 4\"/><line x1=\"160\" y1=\"80\" x2=\"210\" y2=\"80\"/><polyline points=\"203,76.2 210,80 203,83.8\"/><line x1=\"80\" y1=\"80\" x2=\"30\" y2=\"80\"/><polyline points=\"37,83.8 30,80 37,76.2\"/><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"24\"/><polyline points=\"116.2,31 120,24 123.8,31\"/></g><text x=\"200\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">外へ</text><text x=\"120\" y=\"134\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">広がる</text></svg>"
+  },
+  "etymology": "ex(外へ) + pand(広げる) → 外へ広げる → 大きくなる・拡大する → (話を)くわしくする(expand on)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to become larger in size, number or amount, or to make something larger."
+    }
+  ],
+  "cautions": [
+    "自動詞(広がる)も他動詞(広げる)もある",
+    "expand on / upon A=Aについてくわしく話す",
+    "名詞 expansion=拡大、形容詞 expansive",
+    "expend(費やす)、extend(伸ばす)と区別"
+  ],
+  "patterns": [
+    {
+      "form": "A expand",
+      "meaning": "Aが大きくなる"
+    },
+    {
+      "form": "expand A",
+      "meaning": "Aを広げる"
+    },
+    {
+      "form": "expand on A",
+      "meaning": "Aをくわしく話す"
+    },
+    {
+      "form": "expansion",
+      "meaning": "拡大"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "膨らむ",
+      "en": "Metal expands when it is heated.",
+      "ja": "金属は熱すると膨張する。"
+    },
+    {
+      "source": "original",
+      "label": "拡大する",
+      "en": "The company plans to expand its business into Asia.",
+      "ja": "その会社は事業をアジアへ広げる予定だ。"
+    },
+    {
+      "source": "original",
+      "label": "増える",
+      "en": "The population of the city expanded rapidly.",
+      "ja": "その町の人口は急速に増えた。"
+    },
+    {
+      "source": "original",
+      "label": "(知識を)広げる",
+      "en": "Reading helps you expand your vocabulary.",
+      "ja": "読書は語彙を広げるのに役立つ。"
+    },
+    {
+      "source": "original",
+      "label": "expand on",
+      "en": "Could you expand on that point a little?",
+      "ja": "その点についてもう少しくわしく話してもらえますか。"
+    },
+    {
+      "source": "original",
+      "label": "expansion(名詞)",
+      "en": "The expansion of the airport will take five years.",
+      "ja": "空港の拡張には5年かかる。"
+    }
+  ],
+  "check_points": [
+    "expand on A はどういう意味か",
+    "extend と expand のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "expand(拡大する)、expansion が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 277
+    }
+  ]
+}

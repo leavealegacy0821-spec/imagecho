@@ -1,0 +1,99 @@
+{
+  "word": "extract",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɪkˈstrækt/",
+  "core_image": {
+    "text": "中から、引っぱり出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"70\" width=\"80\" height=\"70\"/><circle cx=\"80\" cy=\"104\" r=\"10\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><polyline points=\"180,74 156,64 140,58\"/><line x1=\"180\" y1=\"74\" x2=\"190\" y2=\"96\"/><line x1=\"138\" y1=\"58\" x2=\"96\" y2=\"96\" stroke-dasharray=\"3 3\"/></g><text x=\"80\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">中</text><text x=\"180\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">引き出す</text></svg>"
+  },
+  "etymology": "ex(外へ) + tract(引く。tractor、attract と同じ) → 外へ引き出す → (歯を)抜く・(液や情報を)取り出す → 抜粋(名詞)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to remove or take out something, especially with effort."
+    },
+    {
+      "pos": "名詞",
+      "text": "a short part taken from a book, film or piece of music, or a substance taken from a plant."
+    }
+  ],
+  "cautions": [
+    "extract A from B=BからAを取り出す・引き出す",
+    "歯を抜く・油や成分を取り出す・情報を聞き出す、など広く使う",
+    "名詞は「抜粋」「エキス」(名詞は前を強く読む)",
+    "attract(引きつける)、distract(気をそらす)と同じ tract"
+  ],
+  "patterns": [
+    {
+      "form": "extract A from B",
+      "meaning": "BからAを取り出す"
+    },
+    {
+      "form": "extract a tooth",
+      "meaning": "歯を抜く"
+    },
+    {
+      "form": "an extract from A",
+      "meaning": "Aからの抜粋"
+    },
+    {
+      "form": "extraction",
+      "meaning": "抽出"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "抜く",
+      "en": "The dentist extracted two of my teeth.",
+      "ja": "歯医者は私の歯を2本抜いた。"
+    },
+    {
+      "source": "original",
+      "label": "取り出す",
+      "en": "Oil is extracted from olives.",
+      "ja": "油はオリーブから取り出される。"
+    },
+    {
+      "source": "original",
+      "label": "聞き出す",
+      "en": "The police tried to extract information from him.",
+      "ja": "警察は彼から情報を聞き出そうとした。"
+    },
+    {
+      "source": "original",
+      "label": "(要点を)引き出す",
+      "en": "Try to extract the main idea from each paragraph.",
+      "ja": "各段落から要点を取り出すようにしなさい。"
+    },
+    {
+      "source": "original",
+      "label": "抜粋(名詞)",
+      "en": "We read an extract from a famous novel in class.",
+      "ja": "授業で有名な小説の一部を読んだ。"
+    },
+    {
+      "source": "original",
+      "label": "エキス(名詞)",
+      "en": "This tea contains extract of ginger.",
+      "ja": "このお茶にはしょうがのエキスが入っている。"
+    }
+  ],
+  "check_points": [
+    "attract と extract の共通部分の意味を言えるか",
+    "名詞 extract の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "extract A from B が長文・語彙問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 278
+    }
+  ]
+}

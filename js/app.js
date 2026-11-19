@@ -1,4 +1,4 @@
-// 単語イメージ帳:画面の本体。
+﻿// 単語イメージ帳:画面の本体。
 // 画面はハッシュで切り替える。
 //   #/                        単語集一覧(ホーム)
 //   #/list/<id>               単語一覧
@@ -37,7 +37,7 @@ function h(tag, attrs, ...kids) {
 }
 
 // 例文の中の見出し語(活用形を含む)を <b> で包んで目立たせる
-const IRREGULAR = { run: ['ran'], bear: ['bore', 'borne', 'born'], deal: ['dealt'], hold: ['held'], lead: ['led'], mean: ['meant'], meet: ['met'], stand: ['stood'], break: ['broke', 'broken'], leave: ['left'], pay: ['paid'], seek: ['sought'], overcome: ['overcame'] }; // 形が大きく変わる活用形
+const IRREGULAR = { run: ['ran'], bear: ['bore', 'borne', 'born'], deal: ['dealt'], hold: ['held'], lead: ['led'], mean: ['meant'], meet: ['met'], stand: ['stood'], break: ['broke', 'broken'], leave: ['left'], pay: ['paid'], seek: ['sought'], overcome: ['overcame'], drive: ['drove', 'driven'] }; // 形が大きく変わる活用形
 function markWord(en, word) {
   const w = String(word || '').toLowerCase().replace(/[^a-z]/g, '');
   if (w.length < 3) return [en];

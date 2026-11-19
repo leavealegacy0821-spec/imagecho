@@ -1,0 +1,103 @@
+{
+  "word": "drive",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/draɪv/",
+  "core_image": {
+    "text": "後ろから強く押して、前へ進ませる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"120\" y=\"96\" width=\"40\" height=\"44\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 96,94 118,104\"/><polyline points=\"70,74 96,104 118,118\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><line x1=\"172\" y1=\"118\" x2=\"216\" y2=\"118\"/><polyline points=\"209,114.2 216,118 209,121.8\"/></g><text x=\"70\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">押す</text><text x=\"194\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">前へ</text></svg>"
+  },
+  "etymology": "古英語 drifan(追い立てる。drift=漂う と同じ根) → 後ろから追い立てる → 車を走らせる・運転する → 人を〜の状態に追いやる → 駆り立てる力・意欲",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to operate a car, or to force someone or something to move or to be in a particular state."
+    },
+    {
+      "pos": "名詞",
+      "text": "a journey in a car, or a strong wish or energy to do something."
+    }
+  ],
+  "cautions": [
+    "drive A to do=Aを駆り立てて〜させる",
+    "drive A crazy / mad=Aをいらいらさせる(A を〜の状態に追いやる)",
+    "drive A to B=AをBまで車で送る",
+    "活用 drive - drove - driven。名詞 drive=意欲・やる気、driving force=原動力"
+  ],
+  "patterns": [
+    {
+      "form": "drive A to B",
+      "meaning": "AをBまで車で送る"
+    },
+    {
+      "form": "drive A crazy",
+      "meaning": "Aをいらいらさせる"
+    },
+    {
+      "form": "drive A to do",
+      "meaning": "Aを駆り立てて〜させる"
+    },
+    {
+      "form": "drive A away",
+      "meaning": "Aを追い払う"
+    },
+    {
+      "form": "driving force",
+      "meaning": "原動力"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "運転する",
+      "en": "My mother drives to work every day.",
+      "ja": "母は毎日車で仕事に行く。"
+    },
+    {
+      "source": "original",
+      "label": "車で送る",
+      "en": "Can you drive me to the station?",
+      "ja": "駅まで車で送ってくれますか。"
+    },
+    {
+      "source": "original",
+      "label": "drive A crazy",
+      "en": "The noise from next door is driving me crazy.",
+      "ja": "隣の騒音で頭がおかしくなりそうだ。"
+    },
+    {
+      "source": "original",
+      "label": "drive A to do",
+      "en": "Hunger drove the bears to come down to the village.",
+      "ja": "空腹に駆り立てられて、クマは村へ下りてきた。"
+    },
+    {
+      "source": "original",
+      "label": "追い払う",
+      "en": "The dog drove the cats away from the garden.",
+      "ja": "犬が猫を庭から追い払った。"
+    },
+    {
+      "source": "original",
+      "label": "意欲(名詞)",
+      "en": "She has the drive to succeed in business.",
+      "ja": "彼女にはビジネスで成功しようという意欲がある。"
+    }
+  ],
+  "check_points": [
+    "drive A crazy はどういう意味か",
+    "名詞 drive の「ドライブ」以外の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "drive A crazy / drive A to do、driving force が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 271
+    }
+  ]
+}

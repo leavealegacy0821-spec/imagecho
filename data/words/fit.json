@@ -1,0 +1,99 @@
+{
+  "word": "fit",
+  "pos": [
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/fɪt/",
+  "core_image": {
+    "text": "形や大きさが、ぴったり合う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"60\" y=\"60\" width=\"120\" height=\"80\"/><rect x=\"100\" y=\"60\" width=\"40\" height=\"40\" stroke-dasharray=\"4 4\"/><rect x=\"100\" y=\"20\" width=\"40\" height=\"30\"/><line x1=\"120\" y1=\"52\" x2=\"120\" y2=\"58\"/><polyline points=\"123.8,51 120,58 116.2,51\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぴったり</text><text x=\"50\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">形</text></svg>"
+  },
+  "etymology": "中英語 fitten(合わせる)。語源ははっきりしない → (大きさが)ぴったり合う → (目的に)ふさわしい → (体が)調子がいい・健康な",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be the right size or shape for someone or something."
+    },
+    {
+      "pos": "形容詞",
+      "text": "healthy and strong, or suitable for something."
+    }
+  ],
+  "cautions": [
+    "fit=サイズ・形が合う。suit=服や色が人に似合う、match=物同士が合う、と区別",
+    "be fit for A / to do=Aに・〜するのにふさわしい",
+    "keep fit=健康を保つ(形容詞 fit=体の調子がいい)",
+    "fit in (with A)=(Aに)なじむ"
+  ],
+  "patterns": [
+    {
+      "form": "A fit B",
+      "meaning": "AがB(人・場所)にぴったり合う"
+    },
+    {
+      "form": "fit in (with A)",
+      "meaning": "(Aに)なじむ"
+    },
+    {
+      "form": "be fit for A",
+      "meaning": "Aにふさわしい"
+    },
+    {
+      "form": "keep fit",
+      "meaning": "健康を保つ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "(サイズが)合う",
+      "en": "These shoes do not fit me. They are too small.",
+      "ja": "この靴は私に合わない。小さすぎる。"
+    },
+    {
+      "source": "original",
+      "label": "suit との比較",
+      "en": "The jacket fits you well, and the color suits you too.",
+      "ja": "その上着はサイズがぴったりで、色もよく似合っている。"
+    },
+    {
+      "source": "original",
+      "label": "入る",
+      "en": "All my clothes will not fit into this bag.",
+      "ja": "服が全部このかばんには入らない。"
+    },
+    {
+      "source": "original",
+      "label": "fit in",
+      "en": "It took her a long time to fit in at her new school.",
+      "ja": "彼女は新しい学校になじむのに長くかかった。"
+    },
+    {
+      "source": "original",
+      "label": "ふさわしい",
+      "en": "This water is not fit to drink.",
+      "ja": "この水は飲むのに適していない。"
+    },
+    {
+      "source": "original",
+      "label": "健康な",
+      "en": "My grandfather walks every day to keep fit.",
+      "ja": "祖父は健康を保つために毎日歩く。"
+    }
+  ],
+  "check_points": [
+    "fit、suit、match の使い分けができるか",
+    "keep fit の fit は何の意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "fit / suit / match の区別が語彙問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 279
+    }
+  ]
+}

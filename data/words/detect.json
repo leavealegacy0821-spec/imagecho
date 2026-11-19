@@ -1,0 +1,94 @@
+{
+  "word": "detect",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈtekt/",
+  "core_image": {
+    "text": "かぶせられた覆いを取って、隠れたものを見つける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M120 110 Q150 70 180 110\" stroke-dasharray=\"4 4\"/><circle cx=\"150\" cy=\"124\" r=\"10\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 90,84 104,92\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><circle cx=\"110\" cy=\"96\" r=\"7\"/></g><text x=\"150\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">覆いを取る</text><text x=\"60\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見つけた</text></svg>"
+  },
+  "etymology": "de(取り去る) + tect(覆う。protect=前を覆う=守る と同じ) → 覆いを取る → (隠れた物・小さな兆しを)見つける・気づく → detective=探偵",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to notice or discover something that is difficult to see, hear or smell."
+    }
+  ],
+  "cautions": [
+    "detect A=A(見つけにくいもの)を見つける・感知する",
+    "find よりも「隠れた・かすかなもの」を探し当てる感じ",
+    "detect A in B=BにAを感じ取る",
+    "detector=探知機、detective=探偵"
+  ],
+  "patterns": [
+    {
+      "form": "detect A",
+      "meaning": "Aを見つける・感知する"
+    },
+    {
+      "form": "detect A in B",
+      "meaning": "BにAを感じ取る"
+    },
+    {
+      "form": "smoke detector",
+      "meaning": "煙探知機"
+    },
+    {
+      "form": "detective",
+      "meaning": "探偵"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "感知する",
+      "en": "The machine can detect very small amounts of poison.",
+      "ja": "その機械はごく少量の毒も感知できる。"
+    },
+    {
+      "source": "original",
+      "label": "見つける",
+      "en": "The doctor detected the cancer at an early stage.",
+      "ja": "医者は早い段階でがんを見つけた。"
+    },
+    {
+      "source": "original",
+      "label": "気づく",
+      "en": "I detected a note of anger in her voice.",
+      "ja": "彼女の声にかすかな怒りを感じ取った。"
+    },
+    {
+      "source": "original",
+      "label": "(うそを)見抜く",
+      "en": "Dogs are said to detect fear in people.",
+      "ja": "犬は人の恐怖を感じ取ると言われている。"
+    },
+    {
+      "source": "original",
+      "label": "detector(名詞)",
+      "en": "A smoke detector should be put in every bedroom.",
+      "ja": "煙探知機はどの寝室にも付けるべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "detective(名詞)",
+      "en": "The detective found the missing ring under the bed.",
+      "ja": "探偵はベッドの下でなくなった指輪を見つけた。"
+    }
+  ],
+  "check_points": [
+    "protect と detect の共通部分の意味を言えるか",
+    "find と detect のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "detect(感知する)が長文で出る。detective も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 275
+    }
+  ]
+}

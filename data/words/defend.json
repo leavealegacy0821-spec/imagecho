@@ -1,0 +1,94 @@
+{
+  "word": "defend",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈfend/",
+  "core_image": {
+    "text": "打ってくるものを、はね返して守る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><polyline points=\"90,74 116,70 128,66\"/><line x1=\"90\" y1=\"74\" x2=\"80\" y2=\"96\"/><path d=\"M132 40 Q148 70 132 100\"/><line x1=\"220\" y1=\"60\" x2=\"150\" y2=\"66\"/><polyline points=\"157.3,69.2 150,66 156.7,61.6\"/></g><text x=\"194\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">攻撃</text><text x=\"90\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">守る</text></svg>"
+  },
+  "etymology": "de(離れて) + fend(打つ。offend=攻撃する と同じ) → 打ってくるものをはね返す → 守る・防ぐ → (意見や人を)弁護する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to protect someone or something from attack, or to speak in support of someone."
+    }
+  ],
+  "cautions": [
+    "defend A from / against B=AをBから守る",
+    "defend oneself=自分の身を守る・自己弁護する",
+    "裁判・議論で「弁護する・擁護する」",
+    "名詞 defense(米)/defence(英)、反対は offend(攻める)→ offense"
+  ],
+  "patterns": [
+    {
+      "form": "defend A from / against B",
+      "meaning": "AをBから守る"
+    },
+    {
+      "form": "defend oneself",
+      "meaning": "身を守る"
+    },
+    {
+      "form": "defend A",
+      "meaning": "Aを弁護する・擁護する"
+    },
+    {
+      "form": "defense",
+      "meaning": "防御"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "守る",
+      "en": "The soldiers defended the city against the enemy.",
+      "ja": "兵士たちは敵から町を守った。"
+    },
+    {
+      "source": "original",
+      "label": "defend oneself",
+      "en": "She learned karate to defend herself.",
+      "ja": "彼女は身を守るために空手を習った。"
+    },
+    {
+      "source": "original",
+      "label": "弁護する",
+      "en": "A famous lawyer defended the man in court.",
+      "ja": "有名な弁護士が法廷でその男を弁護した。"
+    },
+    {
+      "source": "original",
+      "label": "擁護する",
+      "en": "He defended his opinion against strong criticism.",
+      "ja": "彼は強い批判に対して自分の意見を擁護した。"
+    },
+    {
+      "source": "original",
+      "label": "(試合で)守る",
+      "en": "The team defended well and won 1-0.",
+      "ja": "そのチームはよく守り、1対0で勝った。"
+    },
+    {
+      "source": "original",
+      "label": "defense(名詞)",
+      "en": "The body has natural defenses against disease.",
+      "ja": "体には病気に対する自然の防御の仕組みがある。"
+    }
+  ],
+  "check_points": [
+    "offend と defend の共通部分の意味を言えるか",
+    "defend の後ろに付く前置詞を2つ言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "defend A against B、defense が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 274
+    }
+  ]
+}

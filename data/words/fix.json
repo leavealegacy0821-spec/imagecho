@@ -1,0 +1,98 @@
+{
+  "word": "fix",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/fɪks/",
+  "core_image": {
+    "text": "動かないように、しっかり留める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"80\" y=\"40\" width=\"80\" height=\"60\"/><circle cx=\"90\" cy=\"50\" r=\"4\"/><circle cx=\"150\" cy=\"50\" r=\"4\"/><circle cx=\"90\" cy=\"90\" r=\"4\"/><circle cx=\"150\" cy=\"90\" r=\"4\"/><line x1=\"76\" y1=\"20\" x2=\"76\" y2=\"140\"/></g><text x=\"200\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">留める</text><text x=\"120\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">動かない</text></svg>"
+  },
+  "etymology": "ラテン語 fixus(固定された) → しっかり留める・固定する → (日時・値段を)決める → (壊れた物を)元どおり固める=直す → (食事を)用意する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to attach something firmly, to repair something, or to decide a time or price."
+    }
+  ],
+  "cautions": [
+    "fix A to B=AをBに固定する",
+    "fix A=Aを修理する(repair、mend と同じ)",
+    "fix the date / price=日取り・値段を決める",
+    "米口語 fix A B=AにB(食事)を作る。fixed=固定した(fixed price=定価)"
+  ],
+  "patterns": [
+    {
+      "form": "fix A to B",
+      "meaning": "AをBに固定する"
+    },
+    {
+      "form": "fix A",
+      "meaning": "Aを修理する"
+    },
+    {
+      "form": "fix a date",
+      "meaning": "日取りを決める"
+    },
+    {
+      "form": "fixed",
+      "meaning": "固定された"
+    },
+    {
+      "form": "fix one's eyes on A",
+      "meaning": "Aをじっと見つめる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "固定する",
+      "en": "He fixed the shelf to the wall.",
+      "ja": "彼は棚を壁に取り付けた。"
+    },
+    {
+      "source": "original",
+      "label": "修理する",
+      "en": "Can you fix my bike? The chain is broken.",
+      "ja": "自転車を直してくれる？チェーンが切れたんだ。"
+    },
+    {
+      "source": "original",
+      "label": "決める",
+      "en": "Let's fix a date for the next meeting.",
+      "ja": "次の会議の日取りを決めよう。"
+    },
+    {
+      "source": "original",
+      "label": "(視線を)向ける",
+      "en": "The children fixed their eyes on the magician.",
+      "ja": "子どもたちは手品師をじっと見つめた。"
+    },
+    {
+      "source": "original",
+      "label": "用意する",
+      "en": "I will fix you something to eat.",
+      "ja": "何か食べるものを作ってあげるよ。"
+    },
+    {
+      "source": "original",
+      "label": "fixed(形容詞)",
+      "en": "The shop sells everything at a fixed price.",
+      "ja": "その店ではすべて定価で売っている。"
+    }
+  ],
+  "check_points": [
+    "fix の「直す」と「決める」が同じイメージから来る理由を言えるか",
+    "fix one's eyes on A はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "fix(修理する・決める)、fixed price が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 280
+    }
+  ]
+}
