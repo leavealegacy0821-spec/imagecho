@@ -1,0 +1,99 @@
+{
+  "word": "substitute",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈsʌbstɪtuːt/",
+  "core_image": {
+    "text": "元のものの位置に、代わりを置く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"80\" width=\"40\" height=\"40\" stroke-dasharray=\"4 4\"/><rect x=\"160\" y=\"80\" width=\"40\" height=\"40\"/><rect x=\"100\" y=\"90\" width=\"40\" height=\"40\"/><path d=\"M180 72 Q120 40 64 72\"/><line x1=\"70\" y1=\"68\" x2=\"62\" y2=\"74\"/><polyline points=\"69.9,72.9 62,74 65.3,66.7\"/></g><text x=\"60\" y=\"134\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">元</text><text x=\"180\" y=\"134\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">代わり</text></svg>"
+  },
+  "etymology": "sub(下に・代わりに) + stitute(立てる・置く。institute、constitute と同じ) → 代わりに置く → 代用する → 代わりの人・物",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to use something or someone instead of another thing or person."
+    },
+    {
+      "pos": "名詞",
+      "text": "a person or thing that you use or have instead of another."
+    }
+  ],
+  "cautions": [
+    "substitute A for B=Bの代わりにAを使う(A が新しく入る方)",
+    "replace B with A=BをAと取り替える(同じ意味で A と B の位置が逆)",
+    "名詞 a substitute for A=Aの代わり",
+    "スポーツの「交代選手」も substitute"
+  ],
+  "patterns": [
+    {
+      "form": "substitute A for B",
+      "meaning": "Bの代わりにAを使う"
+    },
+    {
+      "form": "replace B with A",
+      "meaning": "BをAと取り替える"
+    },
+    {
+      "form": "a substitute for A",
+      "meaning": "Aの代わり"
+    },
+    {
+      "form": "substitution",
+      "meaning": "代用"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "substitute A for B",
+      "en": "You can substitute honey for sugar in this recipe.",
+      "ja": "このレシピでは砂糖の代わりにはちみつを使える。"
+    },
+    {
+      "source": "original",
+      "label": "replace との比較",
+      "en": "Substitute margarine for butter, or replace butter with margarine.",
+      "ja": "バターの代わりにマーガリンを使う、つまりバターをマーガリンに替える。"
+    },
+    {
+      "source": "original",
+      "label": "代わりになる",
+      "en": "Nothing can substitute for a mother's love.",
+      "ja": "母の愛に代わるものはない。"
+    },
+    {
+      "source": "original",
+      "label": "代わり(名詞)",
+      "en": "There is no substitute for hard work.",
+      "ja": "努力に代わるものはない。"
+    },
+    {
+      "source": "original",
+      "label": "代理(名詞)",
+      "en": "A substitute teacher taught our class today.",
+      "ja": "今日は代わりの先生が授業をした。"
+    },
+    {
+      "source": "original",
+      "label": "交代選手(名詞)",
+      "en": "He came on as a substitute in the second half.",
+      "ja": "彼は後半に交代選手として出場した。"
+    }
+  ],
+  "check_points": [
+    "substitute A for B と replace B with A の A・B の位置を言えるか",
+    "There is no substitute for A はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "substitute A for B / replace B with A の区別が語法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 322
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "wonder",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈwʌndər/",
+  "core_image": {
+    "text": "「どうしてだろう」と、心がふしぎに揺れる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><polyline points=\"90,74 106,66 104,52\"/><line x1=\"90\" y1=\"74\" x2=\"80\" y2=\"96\"/><circle cx=\"160\" cy=\"44\" r=\"4\"/><circle cx=\"174\" cy=\"32\" r=\"6\"/><circle cx=\"196\" cy=\"24\" r=\"12\"/></g><text x=\"196\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふしぎ</text><text x=\"90\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どうして</text></svg>"
+  },
+  "etymology": "古英語 wundrian(驚く・ふしぎに思う) → 驚き → (答えがわからず)〜かしらと思う → 驚くべきもの",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to think about something because you want to know more, or to be surprised by something."
+    },
+    {
+      "pos": "名詞",
+      "text": "a feeling of surprise and admiration, or something that causes this feeling."
+    }
+  ],
+  "cautions": [
+    "wonder wh- / if S V=〜だろうかと思う(that は取らない)",
+    "I wonder if you could do=〜していただけないでしょうか(ていねいな依頼)",
+    "It is no wonder (that) S V / No wonder S V=〜なのも不思議ではない",
+    "wonder at A=Aに驚く。形容詞 wonderful"
+  ],
+  "patterns": [
+    {
+      "form": "wonder wh- S V",
+      "meaning": "〜だろうかと思う"
+    },
+    {
+      "form": "wonder if S V",
+      "meaning": "〜かしらと思う"
+    },
+    {
+      "form": "I wonder if you could do",
+      "meaning": "〜していただけませんか"
+    },
+    {
+      "form": "No wonder S V",
+      "meaning": "〜なのも当然だ"
+    },
+    {
+      "form": "the wonders of A",
+      "meaning": "Aの驚異"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "wonder wh-",
+      "en": "I wonder why she left so early.",
+      "ja": "彼女はなぜそんなに早く帰ったのだろう。"
+    },
+    {
+      "source": "original",
+      "label": "wonder if",
+      "en": "He wondered if he had made the right choice.",
+      "ja": "彼は正しい選択をしたのかと思った。"
+    },
+    {
+      "source": "original",
+      "label": "ていねいな依頼",
+      "en": "I wonder if you could help me with this box.",
+      "ja": "この箱を運ぶのを手伝っていただけないでしょうか。"
+    },
+    {
+      "source": "original",
+      "label": "No wonder",
+      "en": "No wonder you are tired. You worked all night.",
+      "ja": "疲れているのも当然だ。徹夜で働いたのだから。"
+    },
+    {
+      "source": "original",
+      "label": "驚き(名詞)",
+      "en": "The children looked at the stars in wonder.",
+      "ja": "子どもたちは驚きの目で星を見つめた。"
+    },
+    {
+      "source": "original",
+      "label": "驚異(名詞)",
+      "en": "The Great Wall is one of the wonders of the world.",
+      "ja": "万里の長城は世界の驚異の1つだ。"
+    }
+  ],
+  "check_points": [
+    "wonder の後ろに that 節が来るかどうか",
+    "No wonder S V はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "I wonder if、No wonder が会話・語法問題に頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 330
+    }
+  ]
+}

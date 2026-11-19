@@ -1,0 +1,99 @@
+{
+  "word": "upset",
+  "pos": [
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/ʌpˈset/",
+  "core_image": {
+    "text": "置いてあるものを、ひっくり返して乱す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"110\" width=\"30\" height=\"30\"/><polygon points=\"80,140 110,120 120,140\"/><rect x=\"170\" y=\"80\" width=\"30\" height=\"30\" transform=\"rotate(30 185 95)\"/><line x1=\"110\" y1=\"100\" x2=\"156\" y2=\"86\"/><polyline points=\"148.2,84.4 156,86 150.4,91.7\"/></g><text x=\"55\" y=\"94\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">置いてある</text><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひっくり返る</text></svg>"
+  },
+  "etymology": "up(上へ) + set(置く) → 上下を逆に置く → ひっくり返す → (計画・胃・気持ちを)乱す → 動揺した・腹を立てた",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone worried, unhappy or angry, or to knock something over."
+    },
+    {
+      "pos": "形容詞",
+      "text": "worried, unhappy or angry about something."
+    }
+  ],
+  "cautions": [
+    "upset A=Aを動揺させる・怒らせる。be upset about / by A=Aで動揺している",
+    "活用は upset - upset - upset(形が変わらない)",
+    "(計画を)狂わせる、(胃を)こわす(an upset stomach)にも使う",
+    "surprise より「心が乱れて悲しい・腹立たしい」感じ"
+  ],
+  "patterns": [
+    {
+      "form": "upset A",
+      "meaning": "Aを動揺させる"
+    },
+    {
+      "form": "be upset about A",
+      "meaning": "Aで動揺している"
+    },
+    {
+      "form": "an upset stomach",
+      "meaning": "胃のむかつき"
+    },
+    {
+      "form": "upset a plan",
+      "meaning": "計画を狂わせる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "動揺させる",
+      "en": "The news of the accident upset everyone.",
+      "ja": "事故の知らせはみんなを動揺させた。"
+    },
+    {
+      "source": "original",
+      "label": "be upset about",
+      "en": "She was upset about her bad test results.",
+      "ja": "彼女はテストの結果が悪くて落ち込んでいた。"
+    },
+    {
+      "source": "original",
+      "label": "腹を立てる",
+      "en": "Do not get upset. It was only a joke.",
+      "ja": "怒らないで。ただの冗談だよ。"
+    },
+    {
+      "source": "original",
+      "label": "ひっくり返す",
+      "en": "The cat upset a glass of milk on the table.",
+      "ja": "猫がテーブルの牛乳のコップをひっくり返した。"
+    },
+    {
+      "source": "original",
+      "label": "狂わせる",
+      "en": "The heavy snow upset our travel plans.",
+      "ja": "大雪で旅行の計画が狂った。"
+    },
+    {
+      "source": "original",
+      "label": "an upset stomach",
+      "en": "I have an upset stomach after eating too much.",
+      "ja": "食べすぎて胃がむかむかする。"
+    }
+  ],
+  "check_points": [
+    "upset の過去形を言えるか",
+    "be upset about はどういう気持ちか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be upset、upset(活用が変わらない)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 328
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "submit",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/səbˈmɪt/",
+  "core_image": {
+    "text": "相手の下に差し出して、ゆだねる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 84,82 100,86\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><rect x=\"102\" y=\"78\" width=\"24\" height=\"16\"/><circle cx=\"180\" cy=\"40\" r=\"10\"/><line x1=\"180\" y1=\"50\" x2=\"180\" y2=\"94\"/><line x1=\"180\" y1=\"94\" x2=\"170\" y2=\"128\"/><line x1=\"180\" y1=\"94\" x2=\"190\" y2=\"128\"/><line x1=\"180\" y1=\"62\" x2=\"168\" y2=\"80\"/><line x1=\"180\" y1=\"62\" x2=\"192\" y2=\"80\"/><rect x=\"150\" y=\"128\" width=\"60\" height=\"12\"/></g><text x=\"60\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">お願いします</text><text x=\"180\" y=\"14\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">上の人</text></svg>"
+  },
+  "etymology": "sub(下に) + mit(送る。admit、permit と同じ) → 下に送る → (書類を)提出する → (権力の下に身を置く)従う・屈する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give a document or plan to someone so they can consider it, or to accept the control of someone."
+    }
+  ],
+  "cautions": [
+    "submit A to B=AをBに提出する(hand in、turn in と同じ)",
+    "submit to A=Aに従う・屈する(to は前置詞。後ろは名詞・doing)",
+    "名詞 submission=提出・服従",
+    "submissive=従順な"
+  ],
+  "patterns": [
+    {
+      "form": "submit A to B",
+      "meaning": "AをBに提出する"
+    },
+    {
+      "form": "hand in A",
+      "meaning": "Aを提出する"
+    },
+    {
+      "form": "submit to A",
+      "meaning": "Aに従う"
+    },
+    {
+      "form": "submission",
+      "meaning": "提出"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "提出する",
+      "en": "Please submit your report by Friday.",
+      "ja": "金曜日までに報告書を提出してください。"
+    },
+    {
+      "source": "original",
+      "label": "submit A to B",
+      "en": "She submitted her plan to the committee.",
+      "ja": "彼女は委員会に計画を提出した。"
+    },
+    {
+      "source": "original",
+      "label": "hand in との言い換え",
+      "en": "You must submit, or hand in, your homework tomorrow.",
+      "ja": "明日宿題を提出しなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "submit to",
+      "en": "The prisoners refused to submit to the guards.",
+      "ja": "囚人たちは看守に従うことを拒んだ。"
+    },
+    {
+      "source": "original",
+      "label": "(意見を)述べる",
+      "en": "I submit that the plan is too expensive.",
+      "ja": "その計画は費用がかかりすぎると申し上げます。"
+    },
+    {
+      "source": "original",
+      "label": "submission(名詞)",
+      "en": "The deadline for submission is March 1.",
+      "ja": "提出の締め切りは3月1日です。"
+    }
+  ],
+  "check_points": [
+    "submit を2語の熟語で言い換えられるか",
+    "submit to A の to は不定詞か前置詞か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "submit = hand in / turn in の言い換えが定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 321
+    }
+  ]
+}

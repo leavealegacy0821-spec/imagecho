@@ -1,0 +1,99 @@
+{
+  "word": "trace",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/treɪs/",
+  "core_image": {
+    "text": "残った跡を、たどっていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><ellipse cx=\"40\" cy=\"130\" rx=\"6\" ry=\"4\"/><ellipse cx=\"66\" cy=\"122\" rx=\"6\" ry=\"4\"/><ellipse cx=\"92\" cy=\"130\" rx=\"6\" ry=\"4\"/><ellipse cx=\"118\" cy=\"122\" rx=\"6\" ry=\"4\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><polyline points=\"190,74 170,90 160,102\"/><line x1=\"190\" y1=\"74\" x2=\"200\" y2=\"96\"/></g><text x=\"80\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">跡</text><text x=\"190\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">たどる</text></svg>"
+  },
+  "etymology": "ラテン語 tractus(引くこと。tract、track と同じ根) → 引いた線・跡 → 跡をたどる・突き止める → なぞる → かすかな跡・ごく少量",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to find someone or something by following information about where they have been, or to find the origin of something."
+    },
+    {
+      "pos": "名詞",
+      "text": "a sign that something has happened or existed, or a very small amount."
+    }
+  ],
+  "cautions": [
+    "trace A to B=Aの起源・原因をBまでたどる",
+    "trace A back to B=AをBにさかのぼる",
+    "名詞 trace=跡・ほんの少し。without (a) trace=跡形もなく",
+    "(絵・線を)なぞる"
+  ],
+  "patterns": [
+    {
+      "form": "trace A",
+      "meaning": "Aを突き止める"
+    },
+    {
+      "form": "trace A back to B",
+      "meaning": "AをBまでさかのぼる"
+    },
+    {
+      "form": "without a trace",
+      "meaning": "跡形もなく"
+    },
+    {
+      "form": "a trace of A",
+      "meaning": "わずかなA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "突き止める",
+      "en": "The police traced the call to a phone in Osaka.",
+      "ja": "警察はその電話が大阪からだと突き止めた。"
+    },
+    {
+      "source": "original",
+      "label": "trace back to",
+      "en": "The custom can be traced back to the 10th century.",
+      "ja": "その習慣は10世紀にまでさかのぼることができる。"
+    },
+    {
+      "source": "original",
+      "label": "なぞる",
+      "en": "The child traced the letters with a pencil.",
+      "ja": "その子は鉛筆で文字をなぞった。"
+    },
+    {
+      "source": "original",
+      "label": "跡(名詞)",
+      "en": "The ship disappeared without a trace.",
+      "ja": "その船は跡形もなく消えた。"
+    },
+    {
+      "source": "original",
+      "label": "ごく少量(名詞)",
+      "en": "Traces of poison were found in his blood.",
+      "ja": "彼の血液からごく少量の毒が見つかった。"
+    },
+    {
+      "source": "original",
+      "label": "a trace of",
+      "en": "She spoke without a trace of anger.",
+      "ja": "彼女は少しも怒りを見せずに話した。"
+    }
+  ],
+  "check_points": [
+    "trace A back to B はどういう意味か",
+    "without a trace はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "trace back to、without a trace が長文に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 325
+    }
+  ]
+}

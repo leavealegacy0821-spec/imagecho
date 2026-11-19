@@ -1,0 +1,94 @@
+{
+  "word": "weigh",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/weɪ/",
+  "core_image": {
+    "text": "はかりにのせて、重さを比べる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"140\"/><line x1=\"60\" y1=\"56\" x2=\"180\" y2=\"44\"/><line x1=\"60\" y1=\"56\" x2=\"60\" y2=\"80\"/><line x1=\"180\" y1=\"44\" x2=\"180\" y2=\"68\"/><line x1=\"40\" y1=\"80\" x2=\"80\" y2=\"80\"/><line x1=\"160\" y1=\"68\" x2=\"200\" y2=\"68\"/><rect x=\"50\" y=\"68\" width=\"20\" height=\"12\"/></g><text x=\"60\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こっち</text><text x=\"180\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あっち</text></svg>"
+  },
+  "etymology": "古英語 wegan(運ぶ・持ち上げる。weight、way と同じ根) → 持ち上げて重さを量る → 重さが〜ある → (よしあしを)比べて考える → 重くのしかかる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to have a particular weight, to measure how heavy something is, or to consider something carefully."
+    }
+  ],
+  "cautions": [
+    "weigh+数値=〜の重さがある(進行形・受け身にしない)",
+    "weigh A=Aの重さを量る",
+    "weigh A against B=AとBを比べて考える",
+    "weigh on A=Aの心に重くのしかかる。名詞 weight"
+  ],
+  "patterns": [
+    {
+      "form": "weigh 数値",
+      "meaning": "重さが〜ある"
+    },
+    {
+      "form": "weigh A",
+      "meaning": "Aの重さを量る"
+    },
+    {
+      "form": "weigh A against B",
+      "meaning": "AとBを比べて考える"
+    },
+    {
+      "form": "weigh on A",
+      "meaning": "Aの心に重くのしかかる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "重さがある",
+      "en": "The baby weighed three kilograms at birth.",
+      "ja": "その赤ん坊は生まれたとき3キロだった。"
+    },
+    {
+      "source": "original",
+      "label": "量る",
+      "en": "The clerk weighed the package and told me the price.",
+      "ja": "店員は荷物の重さを量り、料金を教えてくれた。"
+    },
+    {
+      "source": "original",
+      "label": "weigh A against B",
+      "en": "You must weigh the costs against the benefits.",
+      "ja": "費用と利益を比べて考えなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "よく考える",
+      "en": "She weighed her words carefully before speaking.",
+      "ja": "彼女は話す前に言葉をよく選んだ。"
+    },
+    {
+      "source": "original",
+      "label": "weigh on",
+      "en": "The problem weighed on his mind for weeks.",
+      "ja": "その問題が何週間も彼の心に重くのしかかった。"
+    },
+    {
+      "source": "original",
+      "label": "weight(名詞)",
+      "en": "He is trying to lose weight.",
+      "ja": "彼は体重を減らそうとしている。"
+    }
+  ],
+  "check_points": [
+    "weigh A against B はどういう意味か",
+    "weigh と weight の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "weigh(重さがある・比較検討する)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 329
+    }
+  ]
+}

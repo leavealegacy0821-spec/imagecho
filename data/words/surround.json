@@ -1,0 +1,94 @@
+{
+  "word": "surround",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/səˈraʊnd/",
+  "core_image": {
+    "text": "まわりをぐるりと取り囲む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"110\" y2=\"96\"/><line x1=\"120\" y1=\"74\" x2=\"130\" y2=\"96\"/><circle cx=\"60\" cy=\"90\" r=\"6\"/><circle cx=\"180\" cy=\"90\" r=\"6\"/><circle cx=\"80\" cy=\"40\" r=\"6\"/><circle cx=\"160\" cy=\"40\" r=\"6\"/><circle cx=\"56\" cy=\"130\" r=\"6\"/><circle cx=\"184\" cy=\"130\" r=\"6\"/></g><text x=\"120\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぐるり</text></svg>"
+  },
+  "etymology": "sur(上に・越えて) + ound(水があふれる。undulate=波打つ と同じ根) → あふれて覆う → 取り囲む(round と結びついて「ぐるりと」の意味が強まった)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be all around something or someone."
+    }
+  ],
+  "cautions": [
+    "A be surrounded by / with B=AはBに囲まれている",
+    "surroundings=(複数形)周囲の状況・環境",
+    "surrounding=周りの(the surrounding area=周辺地域)",
+    "包囲する(軍隊など)にも使う"
+  ],
+  "patterns": [
+    {
+      "form": "surround A",
+      "meaning": "Aを囲む"
+    },
+    {
+      "form": "be surrounded by A",
+      "meaning": "Aに囲まれている"
+    },
+    {
+      "form": "surroundings",
+      "meaning": "環境"
+    },
+    {
+      "form": "surrounding",
+      "meaning": "周りの"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "be surrounded by",
+      "en": "The village is surrounded by mountains.",
+      "ja": "その村は山に囲まれている。"
+    },
+    {
+      "source": "original",
+      "label": "囲む",
+      "en": "Fans surrounded the singer as she left the hall.",
+      "ja": "ホールを出る歌手をファンが取り囲んだ。"
+    },
+    {
+      "source": "original",
+      "label": "包囲する",
+      "en": "The police surrounded the building.",
+      "ja": "警察はその建物を包囲した。"
+    },
+    {
+      "source": "original",
+      "label": "(雰囲気が)取り巻く",
+      "en": "There is a lot of mystery surrounding his death.",
+      "ja": "彼の死には多くのなぞがつきまとっている。"
+    },
+    {
+      "source": "original",
+      "label": "surroundings(名詞)",
+      "en": "Children learn quickly from their surroundings.",
+      "ja": "子どもは周りの環境からすばやく学ぶ。"
+    },
+    {
+      "source": "original",
+      "label": "surrounding(形容詞)",
+      "en": "The fire spread to the surrounding houses.",
+      "ja": "火事は周りの家々に広がった。"
+    }
+  ],
+  "check_points": [
+    "surroundings はどういう意味か",
+    "be surrounded の後ろに付く前置詞を2つ言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be surrounded by、surroundings が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 323
+    }
+  ]
+}
