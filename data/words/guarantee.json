@@ -1,0 +1,103 @@
+{
+  "word": "guarantee",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˌɡærənˈtiː/",
+  "core_image": {
+    "text": "「必ずそうなる」と、自分が責任を持って請け合う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 54,62 60,46\"/><line x1=\"70\" y1=\"74\" x2=\"80\" y2=\"96\"/><rect x=\"130\" y=\"50\" width=\"70\" height=\"80\"/><line x1=\"144\" y1=\"70\" x2=\"186\" y2=\"70\"/><line x1=\"144\" y1=\"86\" x2=\"186\" y2=\"86\"/><polyline points=\"148,106 158,116 180,96\"/></g><text x=\"70\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">必ず</text><text x=\"165\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">保証書</text></svg>"
+  },
+  "etymology": "古フランス語 garantie(守ること。warrant=保証する と同じ根) → 責任を持って守る → 保証する・請け合う → 保証(書)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to promise that something will happen or that something is true."
+    },
+    {
+      "pos": "名詞",
+      "text": "a firm promise, or a written promise to repair or replace a product."
+    }
+  ],
+  "cautions": [
+    "guarantee that S V=必ず〜だと請け合う",
+    "guarantee A=Aを保証する。A be guaranteed to do=Aは必ず〜する",
+    "名詞 under guarantee=保証期間中",
+    "発音は最後を強く /ˌɡærənˈtiː/"
+  ],
+  "patterns": [
+    {
+      "form": "guarantee that S V",
+      "meaning": "必ず〜だと保証する"
+    },
+    {
+      "form": "guarantee A",
+      "meaning": "Aを保証する"
+    },
+    {
+      "form": "be guaranteed to do",
+      "meaning": "必ず〜する"
+    },
+    {
+      "form": "under guarantee",
+      "meaning": "保証期間中で"
+    },
+    {
+      "form": "no guarantee",
+      "meaning": "保証はない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "guarantee that",
+      "en": "I guarantee that you will enjoy this movie.",
+      "ja": "この映画を楽しめることは私が請け合います。"
+    },
+    {
+      "source": "original",
+      "label": "保証する",
+      "en": "The constitution guarantees freedom of speech.",
+      "ja": "憲法は言論の自由を保証している。"
+    },
+    {
+      "source": "original",
+      "label": "be guaranteed to do",
+      "en": "This plan is guaranteed to fail.",
+      "ja": "この計画は失敗するに決まっている。"
+    },
+    {
+      "source": "original",
+      "label": "保証(名詞)",
+      "en": "The watch comes with a two-year guarantee.",
+      "ja": "その時計には2年の保証が付いている。"
+    },
+    {
+      "source": "original",
+      "label": "under guarantee",
+      "en": "The TV is still under guarantee, so it will be repaired for free.",
+      "ja": "テレビはまだ保証期間中なので、無料で修理される。"
+    },
+    {
+      "source": "original",
+      "label": "no guarantee",
+      "en": "Hard work is no guarantee of success.",
+      "ja": "努力が成功を約束するとは限らない。"
+    }
+  ],
+  "check_points": [
+    "guarantee のアクセントの位置を言えるか",
+    "be guaranteed to do はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "guarantee that、under guarantee が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 284
+    }
+  ]
+}

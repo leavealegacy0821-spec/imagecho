@@ -1,0 +1,94 @@
+{
+  "word": "forgive",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/fərˈɡɪv/",
+  "core_image": {
+    "text": "責める気持ちを、手放してやる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 84,70 100,76\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"168\" y2=\"90\"/><line x1=\"180\" y1=\"74\" x2=\"192\" y2=\"90\"/><rect x=\"110\" y=\"96\" width=\"16\" height=\"16\" stroke-dasharray=\"3 3\"/><line x1=\"104\" y1=\"80\" x2=\"116\" y2=\"94\" stroke-dasharray=\"5 5\"/><polyline points=\"114.3,86.2 116,94 108.5,91.2\"/></g><text x=\"60\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もういいよ</text><text x=\"118\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手放す</text></svg>"
+  },
+  "etymology": "for(すっかり) + give(与える・手放す) → (怒りや貸しを)すっかり手放す → 許す → (借金を)帳消しにする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stop being angry with someone who has done something wrong."
+    }
+  ],
+  "cautions": [
+    "forgive A for doing=Aが〜したことを許す(for の後ろは doing)",
+    "excuse は小さな失礼を許す、forgive は心から許すイメージ",
+    "forgive A B=AのB(借金など)を帳消しにする",
+    "活用 forgive - forgave - forgiven。名詞 forgiveness"
+  ],
+  "patterns": [
+    {
+      "form": "forgive A for doing",
+      "meaning": "Aが〜したことを許す"
+    },
+    {
+      "form": "forgive A",
+      "meaning": "Aを許す"
+    },
+    {
+      "form": "forgive A B",
+      "meaning": "AのBを免除する"
+    },
+    {
+      "form": "forgiveness",
+      "meaning": "許し"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "forgive A for doing",
+      "en": "Please forgive me for breaking your cup.",
+      "ja": "カップを割ってしまったことを許してください。"
+    },
+    {
+      "source": "original",
+      "label": "許す",
+      "en": "She never forgave him for lying to her.",
+      "ja": "彼女は、彼がうそをついたことを決して許さなかった。"
+    },
+    {
+      "source": "original",
+      "label": "自分を許す",
+      "en": "He could not forgive himself for the accident.",
+      "ja": "彼はその事故について自分を許せなかった。"
+    },
+    {
+      "source": "original",
+      "label": "excuse との比較",
+      "en": "Excuse me for interrupting, but I hope you can forgive his mistake.",
+      "ja": "話に割り込んですみませんが、彼の過ちを許してあげてほしいのです。"
+    },
+    {
+      "source": "original",
+      "label": "帳消しにする",
+      "en": "The bank forgave the farmers their debts after the flood.",
+      "ja": "洪水の後、銀行は農家の借金を帳消しにした。"
+    },
+    {
+      "source": "original",
+      "label": "forgiveness(名詞)",
+      "en": "He asked for her forgiveness.",
+      "ja": "彼は彼女に許しを求めた。"
+    }
+  ],
+  "check_points": [
+    "forgive A for の後ろの形を言えるか",
+    "excuse と forgive の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "forgive A for doing が語法問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 282
+    }
+  ]
+}

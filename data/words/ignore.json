@@ -1,0 +1,94 @@
+{
+  "word": "ignore",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪɡˈnɔːr/",
+  "core_image": {
+    "text": "見えているのに、わざと目を向けない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"84\" y2=\"96\"/><polyline points=\"58,48 50,52 58,56\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><polyline points=\"170,74 150,62 140,52\"/><line x1=\"170\" y1=\"74\" x2=\"180\" y2=\"96\"/><path d=\"M128 44 Q120 52 128 60\"/></g><text x=\"150\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ねえ</text><text x=\"70\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見ないふり</text></svg>"
+  },
+  "etymology": "i(n)(〜でない) + gnore(知る。know、ignorant=無知な と同じ根) → 知らないふりをする → 無視する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to pay no attention to someone or something, although you know about them."
+    }
+  ],
+  "cautions": [
+    "ignore A=Aを(わざと)無視する。知っていて見ないふり",
+    "ignorant=知らない・無知な(知らないこと)と区別。ignorance=無知",
+    "neglect=(やるべきことを)おろそかにする、とも区別",
+    "ignore advice / warning=忠告・警告を無視する"
+  ],
+  "patterns": [
+    {
+      "form": "ignore A",
+      "meaning": "Aを無視する"
+    },
+    {
+      "form": "ignore advice",
+      "meaning": "忠告を無視する"
+    },
+    {
+      "form": "ignorant of A",
+      "meaning": "Aを知らない"
+    },
+    {
+      "form": "ignorance",
+      "meaning": "無知"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "無視する",
+      "en": "He ignored me when I said hello.",
+      "ja": "私があいさつしたのに、彼は無視した。"
+    },
+    {
+      "source": "original",
+      "label": "(忠告を)無視する",
+      "en": "She ignored her doctor's advice and kept smoking.",
+      "ja": "彼女は医者の忠告を無視して、たばこを吸い続けた。"
+    },
+    {
+      "source": "original",
+      "label": "見過ごす",
+      "en": "We cannot ignore the problem of climate change any longer.",
+      "ja": "気候変動の問題をこれ以上見過ごすことはできない。"
+    },
+    {
+      "source": "original",
+      "label": "(規則を)守らない",
+      "en": "Many drivers ignore the speed limit on this road.",
+      "ja": "この道では多くの運転手が制限速度を無視する。"
+    },
+    {
+      "source": "original",
+      "label": "ignorant(形容詞)",
+      "en": "I was ignorant of the fact that the shop had closed.",
+      "ja": "その店が閉店したことを私は知らなかった。"
+    },
+    {
+      "source": "original",
+      "label": "ignorance(名詞)",
+      "en": "His mistake came from ignorance, not from bad intentions.",
+      "ja": "彼の過ちは悪意ではなく無知から生じた。"
+    }
+  ],
+  "check_points": [
+    "ignore と ignorant の意味の違いを言えるか",
+    "know と ignore のつながりを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "ignore と ignorant / ignorance の区別が語彙問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 286
+    }
+  ]
+}

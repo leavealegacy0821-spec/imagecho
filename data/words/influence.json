@@ -1,0 +1,99 @@
+{
+  "word": "influence",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈɪnfluəns/",
+  "core_image": {
+    "text": "目に見えない流れが、中へ流れ込んで動かす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"158\" y2=\"96\"/><line x1=\"170\" y1=\"74\" x2=\"182\" y2=\"96\"/><path d=\"M30 60 Q70 40 100 70 Q120 90 150 76\" stroke-dasharray=\"4 4\"/><line x1=\"140\" y1=\"78\" x2=\"154\" y2=\"72\" stroke-dasharray=\"5 5\"/><polyline points=\"146,71.2 154,72 149.1,78.3\"/></g><text x=\"60\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見えない流れ</text><text x=\"170\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">動かされる</text></svg>"
+  },
+  "etymology": "in(中へ) + flu(流れる。fluid=流体、flow と同じ根) → 中へ流れ込む → (目に見えない形で)影響を与える → 影響(力)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the power to affect how someone thinks or behaves, or how something develops."
+    },
+    {
+      "pos": "動詞",
+      "text": "to affect how someone thinks or behaves, or how something develops."
+    }
+  ],
+  "cautions": [
+    "名詞 have an influence on A=Aに影響を与える(前置詞は on)",
+    "動詞 influence A=Aに影響を与える(on は付けない)",
+    "affect は直接の変化、influence は考えや行動にじわじわ働きかけるイメージ",
+    "under the influence of A=Aの影響を受けて。形容詞 influential=影響力のある"
+  ],
+  "patterns": [
+    {
+      "form": "have an influence on A",
+      "meaning": "Aに影響を与える"
+    },
+    {
+      "form": "influence A",
+      "meaning": "Aに影響を与える"
+    },
+    {
+      "form": "under the influence of A",
+      "meaning": "Aの影響を受けて"
+    },
+    {
+      "form": "influential",
+      "meaning": "影響力のある"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "have an influence on",
+      "en": "Parents have a great influence on their children.",
+      "ja": "親は子どもに大きな影響を与える。"
+    },
+    {
+      "source": "original",
+      "label": "影響を与える(動詞)",
+      "en": "The weather influences our mood.",
+      "ja": "天気は私たちの気分に影響する。"
+    },
+    {
+      "source": "original",
+      "label": "influence A to do",
+      "en": "His teacher influenced him to become a scientist.",
+      "ja": "先生の影響で、彼は科学者になった。"
+    },
+    {
+      "source": "original",
+      "label": "under the influence",
+      "en": "He wrote the book under the influence of his travels.",
+      "ja": "彼は旅の影響を受けてその本を書いた。"
+    },
+    {
+      "source": "original",
+      "label": "影響力(名詞)",
+      "en": "The company has a lot of influence in politics.",
+      "ja": "その会社は政治に大きな影響力を持っている。"
+    },
+    {
+      "source": "original",
+      "label": "influential(形容詞)",
+      "en": "She is one of the most influential writers in Japan.",
+      "ja": "彼女は日本で最も影響力のある作家の1人だ。"
+    }
+  ],
+  "check_points": [
+    "名詞と動詞で on が付くかどうかの違いを言えるか",
+    "flow と influence のつながりを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "have an influence on、influential が長文・語法に頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 289
+    }
+  ]
+}

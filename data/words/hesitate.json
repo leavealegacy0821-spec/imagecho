@@ -1,0 +1,94 @@
+{
+  "word": "hesitate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈhezɪteɪt/",
+  "core_image": {
+    "text": "一歩を出しかけて、その場で止まる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"80\" y1=\"74\" x2=\"70\" y2=\"96\"/><line x1=\"80\" y1=\"74\" x2=\"90\" y2=\"96\"/><line x1=\"130\" y1=\"100\" x2=\"130\" y2=\"140\" stroke-dasharray=\"4 4\"/><line x1=\"150\" y1=\"100\" x2=\"150\" y2=\"140\" stroke-dasharray=\"4 4\"/><line x1=\"100\" y1=\"120\" x2=\"120\" y2=\"120\" stroke-dasharray=\"5 5\"/><polyline points=\"113,116.2 120,120 113,123.8\"/></g><text x=\"80\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どうしよう</text><text x=\"190\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">一歩</text></svg>"
+  },
+  "etymology": "ラテン語 haesitare(くっついて離れない。adhere=くっつく と同じ根) → その場にくっついて動けない → ためらう・迷う",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stop or pause before you say or do something because you are not sure."
+    }
+  ],
+  "cautions": [
+    "hesitate to do=〜するのをためらう(to do を取る)",
+    "Don't hesitate to do=遠慮なく〜してください",
+    "hesitate about / over A=Aについて迷う",
+    "名詞 hesitation(without hesitation=ためらわずに)"
+  ],
+  "patterns": [
+    {
+      "form": "hesitate to do",
+      "meaning": "〜するのをためらう"
+    },
+    {
+      "form": "Don't hesitate to do",
+      "meaning": "遠慮なく〜して"
+    },
+    {
+      "form": "hesitate about A",
+      "meaning": "Aについて迷う"
+    },
+    {
+      "form": "without hesitation",
+      "meaning": "ためらわずに"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ためらう",
+      "en": "She hesitated before answering the question.",
+      "ja": "彼女はその質問に答える前にためらった。"
+    },
+    {
+      "source": "original",
+      "label": "hesitate to do",
+      "en": "He hesitated to tell his parents the truth.",
+      "ja": "彼は両親に本当のことを言うのをためらった。"
+    },
+    {
+      "source": "original",
+      "label": "Don't hesitate to do",
+      "en": "Please don't hesitate to ask if you have any questions.",
+      "ja": "質問があれば遠慮なく聞いてください。"
+    },
+    {
+      "source": "original",
+      "label": "hesitate about",
+      "en": "I hesitated about which university to choose.",
+      "ja": "どの大学を選ぶか迷った。"
+    },
+    {
+      "source": "original",
+      "label": "without hesitation",
+      "en": "He jumped into the river without hesitation to save the child.",
+      "ja": "彼はためらわずに川に飛び込み、その子を助けた。"
+    },
+    {
+      "source": "original",
+      "label": "(言葉が)とぎれる",
+      "en": "The boy hesitated for a moment and then said sorry.",
+      "ja": "少年は少し口ごもってから、ごめんなさいと言った。"
+    }
+  ],
+  "check_points": [
+    "Don't hesitate to do はどういう意味か",
+    "hesitate の後ろは to do か doing か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "Don't hesitate to do が会話・手紙文に頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 285
+    }
+  ]
+}

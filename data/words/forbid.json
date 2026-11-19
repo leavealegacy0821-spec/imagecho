@@ -1,0 +1,94 @@
+{
+  "word": "forbid",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/fərˈbɪd/",
+  "core_image": {
+    "text": "「それはだめ」と、前に立ちはだかって止める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><polyline points=\"120,74 142,70 160,66\"/><polyline points=\"120,74 98,70 80,66\"/><line x1=\"120\" y1=\"74\" x2=\"110\" y2=\"96\"/><line x1=\"40\" y1=\"60\" x2=\"64\" y2=\"84\"/><line x1=\"64\" y1=\"60\" x2=\"40\" y2=\"84\"/></g><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">だめ</text><text x=\"200\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">通さない</text></svg>"
+  },
+  "etymology": "for(離れて・〜しないように) + bid(命じる) → 〜しないように命じる → 禁じる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to order someone not to do something, or to say that something is not allowed."
+    }
+  ],
+  "cautions": [
+    "forbid A to do / A from doing=Aが〜するのを禁じる(どちらの型も可)",
+    "be forbidden=禁じられている。prohibit より日常的",
+    "活用 forbid - forbade - forbidden",
+    "God forbid!=とんでもない・そんなことがありませんように"
+  ],
+  "patterns": [
+    {
+      "form": "forbid A to do",
+      "meaning": "Aが〜するのを禁じる"
+    },
+    {
+      "form": "forbid A from doing",
+      "meaning": "Aが〜するのを禁じる"
+    },
+    {
+      "form": "be forbidden",
+      "meaning": "禁じられている"
+    },
+    {
+      "form": "prohibit A from doing",
+      "meaning": "Aが〜するのを禁じる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "forbid A to do",
+      "en": "My parents forbid me to stay out after ten.",
+      "ja": "両親は私が10時過ぎまで外にいるのを禁じている。"
+    },
+    {
+      "source": "original",
+      "label": "forbid A from doing",
+      "en": "The rules forbid students from using phones in class.",
+      "ja": "校則は生徒が授業中に携帯を使うのを禁じている。"
+    },
+    {
+      "source": "original",
+      "label": "be forbidden",
+      "en": "Smoking is forbidden in this building.",
+      "ja": "この建物の中での喫煙は禁止されている。"
+    },
+    {
+      "source": "original",
+      "label": "禁じた(過去形)",
+      "en": "The king forbade his people to leave the country.",
+      "ja": "王は国民が国を出るのを禁じた。"
+    },
+    {
+      "source": "original",
+      "label": "prohibit との比較",
+      "en": "The law prohibits selling alcohol to children, and my father forbids it at home too.",
+      "ja": "法律は子どもへの酒の販売を禁じていて、父も家でそれを禁じている。"
+    },
+    {
+      "source": "original",
+      "label": "forbidden(形容詞)",
+      "en": "In the story, the girl opened the forbidden door.",
+      "ja": "物語で、その少女は開けてはいけない扉を開けた。"
+    }
+  ],
+  "check_points": [
+    "forbid の後ろの2つの型を言えるか",
+    "forbid の過去形・過去分詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "forbid A to do / from doing、prohibit A from doing との違いが語法問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 281
+    }
+  ]
+}

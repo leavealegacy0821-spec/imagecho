@@ -1,0 +1,98 @@
+{
+  "word": "gather",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈɡæðər/",
+  "core_image": {
+    "text": "散らばったものを、一か所に寄せ集める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"50\" r=\"5\"/><circle cx=\"200\" cy=\"40\" r=\"5\"/><circle cx=\"50\" cy=\"120\" r=\"5\"/><circle cx=\"196\" cy=\"116\" r=\"5\"/><circle cx=\"120\" cy=\"96\" r=\"14\"/><line x1=\"48\" y1=\"54\" x2=\"104\" y2=\"88\"/><polyline points=\"100,81.1 104,88 96,87.6\"/><line x1=\"192\" y1=\"44\" x2=\"136\" y2=\"88\"/><polyline points=\"143.9,86.7 136,88 139.2,80.6\"/><line x1=\"58\" y1=\"118\" x2=\"104\" y2=\"102\"/><polyline points=\"96.1,100.7 104,102 98.6,107.9\"/><line x1=\"188\" y1=\"114\" x2=\"136\" y2=\"102\"/><polyline points=\"142,107.3 136,102 143.7,99.8\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">寄せ集める</text></svg>"
+  },
+  "etymology": "古英語 gaderian(集める。together と同じ根) → 寄せ集める・集まる → (情報を集めて)推測する → (速度・力を)増す",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to come together in a group, or to collect things from different places."
+    }
+  ],
+  "cautions": [
+    "自動詞(集まる)も他動詞(集める)もある",
+    "I gather (that) S V=〜だと聞いている・推測する",
+    "gather speed=速度を増す",
+    "collect は選んで集める、gather は散らばったものを寄せ集めるイメージ"
+  ],
+  "patterns": [
+    {
+      "form": "A gather",
+      "meaning": "Aが集まる"
+    },
+    {
+      "form": "gather A",
+      "meaning": "Aを集める"
+    },
+    {
+      "form": "I gather (that) S V",
+      "meaning": "〜だと聞いている"
+    },
+    {
+      "form": "gather speed",
+      "meaning": "速度を増す"
+    },
+    {
+      "form": "gathering",
+      "meaning": "集まり"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "集まる",
+      "en": "A crowd gathered around the street musician.",
+      "ja": "路上の音楽家の周りに人だかりができた。"
+    },
+    {
+      "source": "original",
+      "label": "集める",
+      "en": "We gathered information about the island before the trip.",
+      "ja": "旅行の前に、その島について情報を集めた。"
+    },
+    {
+      "source": "original",
+      "label": "拾い集める",
+      "en": "She gathered the papers that had fallen on the floor.",
+      "ja": "彼女は床に落ちた書類を拾い集めた。"
+    },
+    {
+      "source": "original",
+      "label": "I gather",
+      "en": "I gather you are moving to Osaka next month.",
+      "ja": "来月大阪に引っ越すそうですね。"
+    },
+    {
+      "source": "original",
+      "label": "gather speed",
+      "en": "The train gathered speed as it left the station.",
+      "ja": "列車は駅を出ると速度を上げた。"
+    },
+    {
+      "source": "original",
+      "label": "gathering(名詞)",
+      "en": "We have a family gathering every New Year.",
+      "ja": "毎年正月に家族の集まりがある。"
+    }
+  ],
+  "check_points": [
+    "I gather that … はどういう意味か",
+    "collect と gather のイメージの違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "gather(集める・集まる)、I gather that が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 283
+    }
+  ]
+}

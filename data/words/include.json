@@ -1,0 +1,94 @@
+{
+  "word": "include",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈkluːd/",
+  "core_image": {
+    "text": "囲いを閉じて、中に入れておく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"110\" cy=\"84\" r=\"44\"/><circle cx=\"96\" cy=\"76\" r=\"6\"/><circle cx=\"120\" cy=\"70\" r=\"6\"/><circle cx=\"104\" cy=\"100\" r=\"6\"/><circle cx=\"126\" cy=\"96\" r=\"6\"/><line x1=\"200\" y1=\"84\" x2=\"160\" y2=\"84\"/><polyline points=\"167,87.8 160,84 167,80.2\"/><circle cx=\"210\" cy=\"84\" r=\"6\"/></g><text x=\"110\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">中に入れる</text></svg>"
+  },
+  "etymology": "in(中に) + clude(閉じる。close と同じ) → 閉じて中に入れる → 含む・含める。反対は exclude",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to have something as one part of a whole, or to make someone or something part of a group."
+    }
+  ],
+  "cautions": [
+    "include A=Aを(全体の一部として)含む。contain は「中身として入っている」",
+    "including A=Aを含めて(前置詞のように使う)",
+    "be included in A=Aに含まれている",
+    "形容詞 inclusive=すべて含んだ"
+  ],
+  "patterns": [
+    {
+      "form": "include A",
+      "meaning": "Aを含む"
+    },
+    {
+      "form": "including A",
+      "meaning": "Aを含めて"
+    },
+    {
+      "form": "be included in A",
+      "meaning": "Aに含まれている"
+    },
+    {
+      "form": "A included",
+      "meaning": "Aを含めて(後ろに置く)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "含む",
+      "en": "The price includes breakfast.",
+      "ja": "その値段には朝食が含まれている。"
+    },
+    {
+      "source": "original",
+      "label": "including",
+      "en": "Ten people came to the party, including my brother.",
+      "ja": "兄を含めて10人がパーティーに来た。"
+    },
+    {
+      "source": "original",
+      "label": "be included in",
+      "en": "Tax is included in the price.",
+      "ja": "税は値段に含まれている。"
+    },
+    {
+      "source": "original",
+      "label": "仲間に入れる",
+      "en": "The older boys included him in their game.",
+      "ja": "年上の少年たちは彼を遊びに入れてやった。"
+    },
+    {
+      "source": "original",
+      "label": "contain との比較",
+      "en": "The box contains old letters, and the list includes my name.",
+      "ja": "箱には古い手紙が入っていて、名簿には私の名前も入っている。"
+    },
+    {
+      "source": "original",
+      "label": "A included",
+      "en": "Everyone, children included, must wear a seat belt.",
+      "ja": "子どもも含めて全員がシートベルトを締めなければならない。"
+    }
+  ],
+  "check_points": [
+    "include と contain の違いを言えるか",
+    "including と excluding の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "including(前置詞的)、include と contain の違いが出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 288
+    }
+  ]
+}

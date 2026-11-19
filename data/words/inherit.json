@@ -1,0 +1,94 @@
+{
+  "word": "inherit",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈherɪt/",
+  "core_image": {
+    "text": "前の人から、そっくり受け継ぐ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 84,80 100,84\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><polyline points=\"180,74 156,80 140,84\"/><line x1=\"180\" y1=\"74\" x2=\"190\" y2=\"96\"/><rect x=\"108\" y=\"74\" width=\"24\" height=\"20\"/><line x1=\"104\" y1=\"112\" x2=\"140\" y2=\"112\"/><polyline points=\"133,108.2 140,112 133,115.8\"/></g><text x=\"60\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">前の人</text><text x=\"180\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">受け継ぐ</text></svg>"
+  },
+  "etymology": "in(中に) + herit(相続人。heir=相続人、heritage=遺産 と同じ根) → 相続人にする → (財産・性質・問題を)受け継ぐ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to receive money or property from someone who has died, or to have a quality that your parents had."
+    }
+  ],
+  "cautions": [
+    "inherit A from B=BからAを受け継ぐ・相続する",
+    "財産だけでなく、性質・病気・前任者の問題にも使う",
+    "名詞 inheritance=遺産・相続",
+    "heritage=(文化的な)遺産(World Heritage=世界遺産)"
+  ],
+  "patterns": [
+    {
+      "form": "inherit A from B",
+      "meaning": "BからAを受け継ぐ"
+    },
+    {
+      "form": "inherit a fortune",
+      "meaning": "財産を相続する"
+    },
+    {
+      "form": "inheritance",
+      "meaning": "遺産・相続"
+    },
+    {
+      "form": "heritage",
+      "meaning": "(文化)遺産"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "相続する",
+      "en": "She inherited a large house from her grandmother.",
+      "ja": "彼女は祖母から大きな家を相続した。"
+    },
+    {
+      "source": "original",
+      "label": "(性質を)受け継ぐ",
+      "en": "He inherited his father's sense of humor.",
+      "ja": "彼は父親のユーモアのセンスを受け継いだ。"
+    },
+    {
+      "source": "original",
+      "label": "(病気が)遺伝する",
+      "en": "Some diseases are inherited from parents.",
+      "ja": "親から遺伝する病気もある。"
+    },
+    {
+      "source": "original",
+      "label": "(問題を)引き継ぐ",
+      "en": "The new president inherited many problems from the last one.",
+      "ja": "新しい大統領は前任者から多くの問題を引き継いだ。"
+    },
+    {
+      "source": "original",
+      "label": "inheritance(名詞)",
+      "en": "He spent his whole inheritance in two years.",
+      "ja": "彼は遺産を2年ですべて使ってしまった。"
+    },
+    {
+      "source": "original",
+      "label": "heritage(名詞)",
+      "en": "Mount Fuji is part of Japan's cultural heritage.",
+      "ja": "富士山は日本の文化遺産の一部だ。"
+    }
+  ],
+  "check_points": [
+    "inherit A from B の使い方ができるか",
+    "heritage と inheritance の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "inherit A from B、heritage が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 290
+    }
+  ]
+}
