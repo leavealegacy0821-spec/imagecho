@@ -1,0 +1,94 @@
+{
+  "word": "interrupt",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˌɪntəˈrʌpt/",
+  "core_image": {
+    "text": "続いている流れを、途中でぷつりと切る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"20\" y1=\"70\" x2=\"100\" y2=\"70\"/><line x1=\"140\" y1=\"70\" x2=\"220\" y2=\"70\"/><polyline points=\"104,60 112,80\"/><polyline points=\"128,60 136,80\"/></g><text x=\"60\" y=\"54\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">続く流れ</text><text x=\"190\" y=\"54\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">切れる</text></svg>"
+  },
+  "etymology": "inter(あいだで) + rupt(破る。bankrupt=破産、erupt=噴火する と同じ) → あいだで破る → 話や流れを途中で断ち切る・さえぎる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stop someone while they are speaking, or to make something stop for a short time."
+    }
+  ],
+  "cautions": [
+    "interrupt A=Aの話をさえぎる・Aを中断させる",
+    "Sorry to interrupt, but …=お話し中すみませんが",
+    "be interrupted by A=Aで中断される",
+    "名詞 interruption=中断・じゃま"
+  ],
+  "patterns": [
+    {
+      "form": "interrupt A",
+      "meaning": "Aの話をさえぎる"
+    },
+    {
+      "form": "Sorry to interrupt",
+      "meaning": "お話し中すみません"
+    },
+    {
+      "form": "be interrupted by A",
+      "meaning": "Aで中断される"
+    },
+    {
+      "form": "without interruption",
+      "meaning": "途切れずに"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "さえぎる",
+      "en": "Please do not interrupt me while I am talking.",
+      "ja": "私が話している間はさえぎらないでください。"
+    },
+    {
+      "source": "original",
+      "label": "Sorry to interrupt",
+      "en": "Sorry to interrupt, but you have a visitor.",
+      "ja": "お話し中すみませんが、お客様です。"
+    },
+    {
+      "source": "original",
+      "label": "中断させる",
+      "en": "The game was interrupted by heavy rain.",
+      "ja": "試合は大雨で中断された。"
+    },
+    {
+      "source": "original",
+      "label": "(静けさを)破る",
+      "en": "A loud noise interrupted the silence of the night.",
+      "ja": "大きな音が夜の静けさを破った。"
+    },
+    {
+      "source": "original",
+      "label": "(続きを)断つ",
+      "en": "The war interrupted his studies for three years.",
+      "ja": "戦争で彼の学業は3年間途切れた。"
+    },
+    {
+      "source": "original",
+      "label": "interruption(名詞)",
+      "en": "She worked for five hours without interruption.",
+      "ja": "彼女は5時間休まずに働いた。"
+    }
+  ],
+  "check_points": [
+    "rupt(破る)と interrupt のつながりを言えるか",
+    "Sorry to interrupt はどんな場面で使うか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "interrupt(さえぎる)が会話・長文に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 293
+    }
+  ]
+}

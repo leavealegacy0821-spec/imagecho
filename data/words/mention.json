@@ -1,0 +1,103 @@
+{
+  "word": "mention",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈmenʃən/",
+  "core_image": {
+    "text": "話のついでに、ちらりと名前を出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"80\" y2=\"96\"/><path d=\"M90 44 Q98 50 90 56\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"168\" y2=\"96\"/><line x1=\"180\" y1=\"74\" x2=\"192\" y2=\"96\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そういえば</text><text x=\"125\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ちらりと</text></svg>"
+  },
+  "etymology": "ラテン語 mentio(心に呼び起こすこと。mind、mental と同じ根) → 相手の心に思い起こさせる → 話に出す・触れる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to speak or write about something briefly."
+    },
+    {
+      "pos": "名詞",
+      "text": "a brief reference to someone or something."
+    }
+  ],
+  "cautions": [
+    "mention A=Aに触れる・Aのことを言う。他動詞なので mention about A としない",
+    "mention A to B=AのことをBに言う",
+    "Don't mention it.=どういたしまして",
+    "not to mention A=Aは言うまでもなく"
+  ],
+  "patterns": [
+    {
+      "form": "mention A",
+      "meaning": "Aについて言う"
+    },
+    {
+      "form": "mention A to B",
+      "meaning": "AのことをBに話す"
+    },
+    {
+      "form": "mention that S V",
+      "meaning": "〜だと言う"
+    },
+    {
+      "form": "not to mention A",
+      "meaning": "Aは言うまでもなく"
+    },
+    {
+      "form": "Don't mention it.",
+      "meaning": "どういたしまして"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "言う(about なし)",
+      "en": "He mentioned his trip to Kyoto.",
+      "ja": "彼は京都旅行のことに触れた。"
+    },
+    {
+      "source": "original",
+      "label": "mention A to B",
+      "en": "Did you mention the party to your sister?",
+      "ja": "パーティーのことを妹に話した？"
+    },
+    {
+      "source": "original",
+      "label": "mention that",
+      "en": "She mentioned that she would be late.",
+      "ja": "彼女は遅れるかもしれないと言った。"
+    },
+    {
+      "source": "original",
+      "label": "Don't mention it",
+      "en": "\"Thank you for your help.\" \"Don't mention it.\"",
+      "ja": "「手伝ってくれてありがとう」「どういたしまして」"
+    },
+    {
+      "source": "original",
+      "label": "not to mention",
+      "en": "He speaks English and French, not to mention Japanese.",
+      "ja": "彼は日本語は言うまでもなく、英語とフランス語を話す。"
+    },
+    {
+      "source": "original",
+      "label": "言及(名詞)",
+      "en": "There was no mention of the accident in the newspaper.",
+      "ja": "新聞にはその事故のことが一言も載っていなかった。"
+    }
+  ],
+  "check_points": [
+    "mention の後ろに about が要るかどうか",
+    "not to mention A はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "mention about は×(他動詞)、not to mention が文法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 298
+    }
+  ]
+}

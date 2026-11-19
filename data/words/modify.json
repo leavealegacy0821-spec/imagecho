@@ -1,0 +1,94 @@
+{
+  "word": "modify",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈmɑːdɪfaɪ/",
+  "core_image": {
+    "text": "形はそのままに、少しだけ手直しする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"50\" y=\"60\" width=\"60\" height=\"60\"/><path d=\"M150 60 L210 60 L210 104 Q200 120 186 120 L150 120 Z\"/><line x1=\"116\" y1=\"90\" x2=\"144\" y2=\"90\"/><polyline points=\"137,86.2 144,90 137,93.8\"/></g><text x=\"80\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もと</text><text x=\"180\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">少し変える</text></svg>"
+  },
+  "etymology": "ラテン語 modus(はかり・型。mode、model と同じ根) + ify(〜にする) → 型に合わせる → 少し変える・修正する → (文法)修飾する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to change something slightly, especially to improve it."
+    }
+  ],
+  "cautions": [
+    "modify A=Aを(一部だけ)変える・修正する。change よりも「部分的に」",
+    "文法で「修飾する」(Adjectives modify nouns.)",
+    "genetically modified=遺伝子組み換えの",
+    "名詞 modification"
+  ],
+  "patterns": [
+    {
+      "form": "modify A",
+      "meaning": "Aを部分的に変える"
+    },
+    {
+      "form": "A modify B",
+      "meaning": "(文法)AがBを修飾する"
+    },
+    {
+      "form": "genetically modified",
+      "meaning": "遺伝子組み換えの"
+    },
+    {
+      "form": "modification",
+      "meaning": "修正"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "手直しする",
+      "en": "We modified the plan after hearing their opinions.",
+      "ja": "彼らの意見を聞いて計画を手直しした。"
+    },
+    {
+      "source": "original",
+      "label": "改造する",
+      "en": "He modified his car to run on electricity.",
+      "ja": "彼は車を電気で走るように改造した。"
+    },
+    {
+      "source": "original",
+      "label": "(行動を)改める",
+      "en": "You need to modify your diet to lose weight.",
+      "ja": "やせるには食事を見直す必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "修飾する",
+      "en": "In this sentence, the adjective modifies the noun \"house\".",
+      "ja": "この文で、その形容詞は名詞 house を修飾している。"
+    },
+    {
+      "source": "original",
+      "label": "genetically modified",
+      "en": "Some people do not eat genetically modified food.",
+      "ja": "遺伝子組み換え食品を食べない人もいる。"
+    },
+    {
+      "source": "original",
+      "label": "modification(名詞)",
+      "en": "The design needs a few small modifications.",
+      "ja": "そのデザインには少し修正が必要だ。"
+    }
+  ],
+  "check_points": [
+    "change と modify の違いを言えるか",
+    "文法用語の modify の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "modify(修正する)、genetically modified が長文に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 299
+    }
+  ]
+}

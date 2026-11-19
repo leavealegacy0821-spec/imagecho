@@ -1,0 +1,103 @@
+{
+  "word": "notice",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈnoʊtɪs/",
+  "core_image": {
+    "text": "目や耳に入ってきたものに、ふと気づく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"80\" y2=\"96\"/><line x1=\"84\" y1=\"40\" x2=\"92\" y2=\"34\"/><line x1=\"86\" y1=\"50\" x2=\"96\" y2=\"50\"/><rect x=\"150\" y=\"50\" width=\"60\" height=\"44\"/><line x1=\"160\" y1=\"64\" x2=\"200\" y2=\"64\"/><line x1=\"160\" y1=\"78\" x2=\"200\" y2=\"78\"/><line x1=\"180\" y1=\"94\" x2=\"180\" y2=\"140\"/></g><text x=\"70\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あっ</text><text x=\"180\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">お知らせ</text></svg>"
+  },
+  "etymology": "ラテン語 notitia(知ること。note、notion と同じ根) → 知らせ・注意 → (知って)気づく → 掲示・通知",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to see, hear or feel something and become aware of it."
+    },
+    {
+      "pos": "名詞",
+      "text": "a written sign giving information, or a warning that something will happen."
+    }
+  ],
+  "cautions": [
+    "notice A do / doing=Aが〜する(している)のに気づく(知覚動詞)",
+    "notice that S V=〜だと気づく",
+    "名詞 notice=掲示・通知。at short notice=急に・直前の知らせで",
+    "until further notice=追って知らせがあるまで。take no notice of A=Aを無視する"
+  ],
+  "patterns": [
+    {
+      "form": "notice A doing",
+      "meaning": "Aが〜しているのに気づく"
+    },
+    {
+      "form": "notice that S V",
+      "meaning": "〜だと気づく"
+    },
+    {
+      "form": "at short notice",
+      "meaning": "急に"
+    },
+    {
+      "form": "until further notice",
+      "meaning": "追って知らせるまで"
+    },
+    {
+      "form": "take no notice of A",
+      "meaning": "Aを無視する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "気づく",
+      "en": "Did you notice anything strange about him?",
+      "ja": "彼に何か変わったところに気づいた？"
+    },
+    {
+      "source": "original",
+      "label": "notice A doing",
+      "en": "I noticed a man standing outside the door.",
+      "ja": "ドアの外に男が立っているのに気づいた。"
+    },
+    {
+      "source": "original",
+      "label": "notice that",
+      "en": "She noticed that her bag was open.",
+      "ja": "彼女はかばんが開いているのに気づいた。"
+    },
+    {
+      "source": "original",
+      "label": "掲示(名詞)",
+      "en": "There is a notice on the board about the school trip.",
+      "ja": "掲示板に修学旅行のお知らせが貼ってある。"
+    },
+    {
+      "source": "original",
+      "label": "at short notice",
+      "en": "Thank you for coming at such short notice.",
+      "ja": "急なお願いにもかかわらず来てくれてありがとう。"
+    },
+    {
+      "source": "original",
+      "label": "until further notice",
+      "en": "The library is closed until further notice.",
+      "ja": "図書館は追ってお知らせするまで休館です。"
+    }
+  ],
+  "check_points": [
+    "notice A do と notice A doing の型を言えるか",
+    "at short notice はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "notice A doing(知覚動詞)、at short notice が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 300
+    }
+  ]
+}

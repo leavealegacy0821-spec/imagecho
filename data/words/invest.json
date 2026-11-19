@@ -1,0 +1,94 @@
+{
+  "word": "invest",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈvest/",
+  "core_image": {
+    "text": "お金や時間を、先の見返りのために中へ注ぎ込む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><polyline points=\"50,74 74,70 90,62\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><circle cx=\"96\" cy=\"56\" r=\"6\"/><rect x=\"130\" y=\"90\" width=\"20\" height=\"50\"/><rect x=\"160\" y=\"70\" width=\"20\" height=\"70\"/><rect x=\"190\" y=\"44\" width=\"20\" height=\"96\"/><line x1=\"100\" y1=\"56\" x2=\"124\" y2=\"80\" stroke-dasharray=\"5 5\"/><polyline points=\"121.7,72.3 124,80 116.3,77.7\"/></g><text x=\"50\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">注ぎ込む</text><text x=\"170\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">先で増える</text></svg>"
+  },
+  "etymology": "in(中に) + vest(衣服を着せる。vest=チョッキ と同じ) → 衣を着せる・権力を与える → お金を事業に着せる=投資する → 時間・労力をつぎ込む",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to put money, time or effort into something to get an advantage or profit later."
+    }
+  ],
+  "cautions": [
+    "invest A in B=AをBに投資する・つぎ込む(前置詞は in)",
+    "お金だけでなく時間・労力にも使う",
+    "名詞 investment=投資、investor=投資家",
+    "investigate(調べる)とは別の語"
+  ],
+  "patterns": [
+    {
+      "form": "invest A in B",
+      "meaning": "AをBに投資する"
+    },
+    {
+      "form": "invest in A",
+      "meaning": "Aに投資する・お金を使う"
+    },
+    {
+      "form": "investment",
+      "meaning": "投資"
+    },
+    {
+      "form": "investor",
+      "meaning": "投資家"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "投資する",
+      "en": "He invested all his savings in the new company.",
+      "ja": "彼は貯金をすべて新しい会社に投資した。"
+    },
+    {
+      "source": "original",
+      "label": "invest in",
+      "en": "The city plans to invest in public transport.",
+      "ja": "市は公共交通にお金をかける予定だ。"
+    },
+    {
+      "source": "original",
+      "label": "(時間を)つぎ込む",
+      "en": "She invested a lot of time in learning Chinese.",
+      "ja": "彼女は中国語の学習に多くの時間をつぎ込んだ。"
+    },
+    {
+      "source": "original",
+      "label": "(物を)買う",
+      "en": "It is time to invest in a new computer.",
+      "ja": "そろそろ新しいコンピューターを買う時期だ。"
+    },
+    {
+      "source": "original",
+      "label": "investment(名詞)",
+      "en": "Education is the best investment for the future.",
+      "ja": "教育は未来への最良の投資だ。"
+    },
+    {
+      "source": "original",
+      "label": "investor(名詞)",
+      "en": "Many investors lost money when prices fell.",
+      "ja": "価格が下がって、多くの投資家が損をした。"
+    }
+  ],
+  "check_points": [
+    "invest A in B の前置詞を言えるか",
+    "お金以外に invest するものを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "invest A in B、investment が長文に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 294
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "injure",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈɪndʒər/",
+  "core_image": {
+    "text": "体や心に、傷をつけてそこなう",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"104\" y2=\"92\"/><polyline points=\"120,74 136,86 140,100\"/><line x1=\"134\" y1=\"112\" x2=\"146\" y2=\"122\"/><line x1=\"146\" y1=\"112\" x2=\"134\" y2=\"122\"/></g><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いたっ</text><text x=\"190\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">けが</text></svg>"
+  },
+  "etymology": "in(〜でない) + jure(正しい・法。justice、jury と同じ根) → 正しくない扱いをする → 傷つける・害する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to hurt a person or animal, especially in an accident."
+    }
+  ],
+  "cautions": [
+    "be injured=(事故などで)けがをする。受け身が基本",
+    "injure は事故・スポーツのけが、wound は刃物や銃による傷",
+    "hurt は体にも心にも使う最も一般的な語",
+    "名詞 injury、形容詞 injured(the injured=負傷者)"
+  ],
+  "patterns": [
+    {
+      "form": "be injured in A",
+      "meaning": "Aでけがをする"
+    },
+    {
+      "form": "be badly injured",
+      "meaning": "ひどいけがをする"
+    },
+    {
+      "form": "injury",
+      "meaning": "けが"
+    },
+    {
+      "form": "the injured",
+      "meaning": "負傷者たち"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "be injured in",
+      "en": "Three people were injured in the accident.",
+      "ja": "その事故で3人がけがをした。"
+    },
+    {
+      "source": "original",
+      "label": "傷める",
+      "en": "He injured his knee while playing soccer.",
+      "ja": "彼はサッカー中にひざを傷めた。"
+    },
+    {
+      "source": "original",
+      "label": "(心を)傷つける",
+      "en": "Her words injured his pride.",
+      "ja": "彼女の言葉は彼のプライドを傷つけた。"
+    },
+    {
+      "source": "original",
+      "label": "wound との比較",
+      "en": "The soldier was wounded by a bullet, and two others were injured in a car crash.",
+      "ja": "その兵士は銃弾で負傷し、ほかの2人は車の事故でけがをした。"
+    },
+    {
+      "source": "original",
+      "label": "injury(名詞)",
+      "en": "She missed the game because of a back injury.",
+      "ja": "彼女は背中のけがで試合を休んだ。"
+    },
+    {
+      "source": "original",
+      "label": "the injured",
+      "en": "The injured were taken to the hospital by ambulance.",
+      "ja": "負傷者は救急車で病院へ運ばれた。"
+    }
+  ],
+  "check_points": [
+    "injure、wound、hurt の使い分けができるか",
+    "「けがをする」をなぜ受け身で言うのか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be injured(受け身)、injure / wound / hurt の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 291
+    }
+  ]
+}

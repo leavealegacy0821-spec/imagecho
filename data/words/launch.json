@@ -1,0 +1,99 @@
+{
+  "word": "launch",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/lɔːntʃ/",
+  "core_image": {
+    "text": "勢いよく、外の世界へ送り出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polygon points=\"120,30 132,60 108,60\"/><rect x=\"108\" y=\"60\" width=\"24\" height=\"50\"/><line x1=\"108\" y1=\"110\" x2=\"96\" y2=\"130\"/><line x1=\"132\" y1=\"110\" x2=\"144\" y2=\"130\"/><line x1=\"160\" y1=\"110\" x2=\"160\" y2=\"50\"/><polyline points=\"156.2,57 160,50 163.8,57\"/></g><text x=\"194\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">打ち上げ</text><text x=\"60\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">送り出す</text></svg>"
+  },
+  "etymology": "古フランス語 lancer(槍を投げる。lance=槍 と同じ) → 勢いよく投げ出す → (ロケット・船を)発射する・進水させる → (事業・商品を)始める・売り出す",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to send a rocket or boat into the air or water, or to start a new activity or product."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of launching a rocket or starting a new product or activity."
+    }
+  ],
+  "cautions": [
+    "launch a rocket=ロケットを打ち上げる",
+    "launch a campaign / project=運動・計画を始める",
+    "launch a new product=新製品を売り出す",
+    "launch into A=Aを勢いよく始める"
+  ],
+  "patterns": [
+    {
+      "form": "launch a rocket",
+      "meaning": "ロケットを打ち上げる"
+    },
+    {
+      "form": "launch a campaign",
+      "meaning": "運動を始める"
+    },
+    {
+      "form": "launch a product",
+      "meaning": "商品を発売する"
+    },
+    {
+      "form": "the launch of A",
+      "meaning": "Aの開始・発売"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "打ち上げる",
+      "en": "The rocket was launched from a base in Kagoshima.",
+      "ja": "ロケットは鹿児島の基地から打ち上げられた。"
+    },
+    {
+      "source": "original",
+      "label": "始める",
+      "en": "The city launched a campaign to reduce plastic waste.",
+      "ja": "市はプラスチックごみを減らす運動を始めた。"
+    },
+    {
+      "source": "original",
+      "label": "発売する",
+      "en": "The company will launch its new phone next month.",
+      "ja": "その会社は来月新しい携帯電話を発売する。"
+    },
+    {
+      "source": "original",
+      "label": "進水させる",
+      "en": "The ship was launched in 1912.",
+      "ja": "その船は1912年に進水した。"
+    },
+    {
+      "source": "original",
+      "label": "launch into",
+      "en": "He launched into a long story about his trip.",
+      "ja": "彼は旅行の長い話を始めた。"
+    },
+    {
+      "source": "original",
+      "label": "発売(名詞)",
+      "en": "The launch of the game was delayed until spring.",
+      "ja": "そのゲームの発売は春まで延期された。"
+    }
+  ],
+  "check_points": [
+    "「ロケット」と「新製品」の launch に共通するイメージを言えるか",
+    "launch a campaign はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "launch(始める・発売する)が長文に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 296
+    }
+  ]
+}

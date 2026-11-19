@@ -1,0 +1,94 @@
+{
+  "word": "locate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈloʊkeɪt/",
+  "core_image": {
+    "text": "地図の上で、場所をぴたりと押さえる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"40\" width=\"160\" height=\"90\"/><line x1=\"40\" y1=\"80\" x2=\"200\" y2=\"80\"/><line x1=\"110\" y1=\"40\" x2=\"110\" y2=\"130\"/><path d=\"M150 96 Q150 82 160 82 Q170 82 170 96 L160 112 Z\"/></g><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">場所</text><text x=\"80\" y=\"108\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ここ</text></svg>"
+  },
+  "etymology": "ラテン語 locare(置く。local=地元の、location と同じ根) → 場所に置く → be located=〜にある → 場所を突き止める",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to find the exact position of something, or to be in a particular place."
+    }
+  ],
+  "cautions": [
+    "be located in / at / on A=Aにある(建物・町の位置)",
+    "locate A=Aの場所を突き止める(find より改まった言い方)",
+    "名詞 location=場所・位置",
+    "local(地元の)と同じ仲間"
+  ],
+  "patterns": [
+    {
+      "form": "be located in A",
+      "meaning": "Aにある"
+    },
+    {
+      "form": "locate A",
+      "meaning": "Aの場所を突き止める"
+    },
+    {
+      "form": "location",
+      "meaning": "場所・位置"
+    },
+    {
+      "form": "conveniently located",
+      "meaning": "便利な場所にある"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "be located in",
+      "en": "The museum is located in the center of the city.",
+      "ja": "その博物館は町の中心にある。"
+    },
+    {
+      "source": "original",
+      "label": "突き止める",
+      "en": "The police finally located the missing child.",
+      "ja": "警察はついに行方不明の子どもの居場所を突き止めた。"
+    },
+    {
+      "source": "original",
+      "label": "見つける",
+      "en": "Can you locate Brazil on this map?",
+      "ja": "この地図でブラジルを見つけられますか。"
+    },
+    {
+      "source": "original",
+      "label": "conveniently located",
+      "en": "The hotel is conveniently located near the station.",
+      "ja": "そのホテルは駅の近くの便利な場所にある。"
+    },
+    {
+      "source": "original",
+      "label": "(店を)構える",
+      "en": "The company decided to locate its new office in Fukuoka.",
+      "ja": "その会社は新しい事務所を福岡に置くことにした。"
+    },
+    {
+      "source": "original",
+      "label": "location(名詞)",
+      "en": "This is a perfect location for a picnic.",
+      "ja": "ここはピクニックにぴったりの場所だ。"
+    }
+  ],
+  "check_points": [
+    "be located in はどういう意味か",
+    "local と locate のつながりを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be located in、location が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 297
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "justify",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈdʒʌstɪfaɪ/",
+  "core_image": {
+    "text": "「これは正しい」と、筋道を示して認めさせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 80,62 90,50\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><line x1=\"130\" y1=\"60\" x2=\"210\" y2=\"60\"/><line x1=\"170\" y1=\"40\" x2=\"170\" y2=\"120\"/><line x1=\"140\" y1=\"60\" x2=\"134\" y2=\"84\"/><line x1=\"140\" y1=\"60\" x2=\"146\" y2=\"84\"/><line x1=\"200\" y1=\"60\" x2=\"194\" y2=\"84\"/><line x1=\"200\" y1=\"60\" x2=\"206\" y2=\"84\"/></g><text x=\"60\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">理由はこう</text><text x=\"170\" y=\"134\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">正しい</text></svg>"
+  },
+  "etymology": "just(正しい) + ify(〜にする) → 正しいとする → 正当化する・(理由を示して)正しいと説明する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give a good reason for something that others think is wrong or unreasonable."
+    }
+  ],
+  "cautions": [
+    "justify A=Aを正当化する・Aが正しいと説明する",
+    "justify doing=〜することを正当化する",
+    "The end justifies the means.=目的は手段を正当化する(ことわざ)",
+    "名詞 justification、形容詞 justifiable / justified(正当な)"
+  ],
+  "patterns": [
+    {
+      "form": "justify A",
+      "meaning": "Aを正当化する"
+    },
+    {
+      "form": "justify doing",
+      "meaning": "〜することを正当化する"
+    },
+    {
+      "form": "be justified in doing",
+      "meaning": "〜するのはもっともだ"
+    },
+    {
+      "form": "justification",
+      "meaning": "正当化・理由"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "正当化する",
+      "en": "Nothing can justify violence.",
+      "ja": "どんなことも暴力を正当化できない。"
+    },
+    {
+      "source": "original",
+      "label": "理由を説明する",
+      "en": "How can you justify spending so much money on clothes?",
+      "ja": "服にそんなにお金を使うのをどう説明するの。"
+    },
+    {
+      "source": "original",
+      "label": "be justified in doing",
+      "en": "You are justified in feeling angry.",
+      "ja": "あなたが腹を立てるのはもっともだ。"
+    },
+    {
+      "source": "original",
+      "label": "ことわざ",
+      "en": "Some people believe the end justifies the means.",
+      "ja": "目的は手段を正当化すると信じる人もいる。"
+    },
+    {
+      "source": "original",
+      "label": "裏づける",
+      "en": "The results justified our decision.",
+      "ja": "結果は私たちの判断が正しかったことを示した。"
+    },
+    {
+      "source": "original",
+      "label": "justification(名詞)",
+      "en": "There is no justification for his rude behavior.",
+      "ja": "彼の失礼な態度に正当な理由はない。"
+    }
+  ],
+  "check_points": [
+    "just(正しい)と justify のつながりを言えるか",
+    "be justified in doing はどういう意味か"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "justify(正当化する)が長文に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 295
+    }
+  ]
+}
