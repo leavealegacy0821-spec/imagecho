@@ -1,0 +1,98 @@
+{
+  "word": "behave",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/bɪˈheɪv/",
+  "core_image": {
+    "text": "自分の体を、ある「型」にきちんと保つ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"80\" y1=\"74\" x2=\"72\" y2=\"98\"/><line x1=\"80\" y1=\"74\" x2=\"88\" y2=\"98\"/><rect x=\"58\" y=\"36\" width=\"44\" height=\"104\" stroke-dasharray=\"4 4\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><polyline points=\"180,74 164,60 158,50\"/><polyline points=\"180,74 198,62 204,52\"/></g><text x=\"80\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">きちんと</text><text x=\"180\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふるまい</text></svg>"
+  },
+  "etymology": "be(すっかり) + have(持つ) → 自分自身をきちんと持つ → (ある仕方で)ふるまう → 行儀よくする → (機械・物質が)作用する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to act in a particular way, or to act in a way that people think is polite and correct."
+    }
+  ],
+  "cautions": [
+    "behave + 副詞=〜にふるまう(behave well / badly)",
+    "behave oneself=行儀よくする(目的語なしの behave だけでも同じ意味)",
+    "名詞 behavior(英 behaviour)=ふるまい・行動。数えないことが多い",
+    "behave like A / as if S V=Aのように・〜かのようにふるまう"
+  ],
+  "patterns": [
+    {
+      "form": "behave well / badly",
+      "meaning": "行儀がよい・悪い"
+    },
+    {
+      "form": "behave oneself",
+      "meaning": "行儀よくする"
+    },
+    {
+      "form": "behave like A",
+      "meaning": "Aのようにふるまう"
+    },
+    {
+      "form": "behave as if S V",
+      "meaning": "〜かのようにふるまう"
+    },
+    {
+      "form": "behavior",
+      "meaning": "ふるまい・行動"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ふるまう",
+      "en": "He behaved very politely at the party.",
+      "ja": "彼はパーティーでとても礼儀正しくふるまった。"
+    },
+    {
+      "source": "original",
+      "label": "behave oneself",
+      "en": "Behave yourself while we are out.",
+      "ja": "私たちが出かけている間、お行儀よくしていなさい。"
+    },
+    {
+      "source": "original",
+      "label": "behave like",
+      "en": "Stop behaving like a child.",
+      "ja": "子どもみたいなふるまいはやめなさい。"
+    },
+    {
+      "source": "original",
+      "label": "behave as if",
+      "en": "She behaved as if nothing had happened.",
+      "ja": "彼女は何事もなかったかのようにふるまった。"
+    },
+    {
+      "source": "original",
+      "label": "(物が)反応する",
+      "en": "Scientists study how metals behave at high temperatures.",
+      "ja": "科学者は金属が高温でどうふるまうかを研究する。"
+    },
+    {
+      "source": "original",
+      "label": "behavior(名詞)",
+      "en": "Animal behavior can tell us a lot about the environment.",
+      "ja": "動物の行動から環境について多くのことがわかる。"
+    }
+  ],
+  "check_points": [
+    "behave yourself の意味を言えるか",
+    "behavior が数えられない名詞であることを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "behave oneself と名詞 behavior が会話・長文に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 363
+    }
+  ]
+}

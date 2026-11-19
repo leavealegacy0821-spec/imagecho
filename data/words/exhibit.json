@@ -1,0 +1,99 @@
+{
+  "word": "exhibit",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɪɡˈzɪbɪt/",
+  "core_image": {
+    "text": "外へ持ち出して、人の目の前に並べて見せる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"50\" width=\"44\" height=\"40\"/><rect x=\"100\" y=\"50\" width=\"44\" height=\"40\"/><line x1=\"62\" y1=\"90\" x2=\"62\" y2=\"140\"/><line x1=\"122\" y1=\"90\" x2=\"122\" y2=\"140\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><polyline points=\"200,74 180,66 170,60\"/><line x1=\"200\" y1=\"74\" x2=\"210\" y2=\"96\"/></g><text x=\"120\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">展示</text></svg>"
+  },
+  "etymology": "ex(外へ) + hibit(持つ。habit、prohibit と同じ) → 外へ持ち出す → (人前に)展示する → (性質・感情を)はっきり示す",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to show something publicly, or to clearly show a feeling, quality or sign."
+    },
+    {
+      "pos": "名詞",
+      "text": "an object shown in a museum or a public show."
+    }
+  ],
+  "cautions": [
+    "exhibit A=Aを展示する(display)",
+    "exhibit signs / symptoms=(〜の)兆し・症状を見せる(show)",
+    "名詞 exhibition=展覧会。名詞 exhibit=展示品(展覧会の意味にもなる)",
+    "h は発音しない(/ɪɡˈzɪbɪt/)"
+  ],
+  "patterns": [
+    {
+      "form": "exhibit A",
+      "meaning": "Aを展示する"
+    },
+    {
+      "form": "exhibit signs of A",
+      "meaning": "Aの兆しを見せる"
+    },
+    {
+      "form": "be on exhibit",
+      "meaning": "展示されている"
+    },
+    {
+      "form": "exhibition",
+      "meaning": "展覧会"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "展示する",
+      "en": "The museum exhibits paintings by local artists.",
+      "ja": "その美術館は地元の画家の絵を展示している。"
+    },
+    {
+      "source": "original",
+      "label": "示す",
+      "en": "The patient exhibited signs of improvement.",
+      "ja": "患者は回復の兆しを見せた。"
+    },
+    {
+      "source": "original",
+      "label": "(感情を)表に出す",
+      "en": "He exhibited no fear in front of the crowd.",
+      "ja": "彼は群衆の前でまったく恐れを見せなかった。"
+    },
+    {
+      "source": "original",
+      "label": "exhibit(名詞:展示品)",
+      "en": "Please do not touch the exhibits.",
+      "ja": "展示品に手を触れないでください。"
+    },
+    {
+      "source": "original",
+      "label": "exhibition(名詞)",
+      "en": "We went to a photo exhibition last weekend.",
+      "ja": "先週末、写真展に行った。"
+    },
+    {
+      "source": "original",
+      "label": "be on exhibit",
+      "en": "The dinosaur bones are now on exhibit.",
+      "ja": "その恐竜の骨は今展示されている。"
+    }
+  ],
+  "check_points": [
+    "exhibition と exhibit(名詞)の違いを言えるか",
+    "exhibit signs of A を show で言い換えられるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "display・show との言い換え、名詞 exhibition が長文に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 367
+    }
+  ]
+}

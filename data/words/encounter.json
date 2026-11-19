@@ -1,0 +1,99 @@
+{
+  "word": "encounter",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɪnˈkaʊntər/",
+  "core_image": {
+    "text": "向こうから来たものと、思いがけずぶつかる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"60\" y2=\"96\"/><line x1=\"66\" y1=\"100\" x2=\"104\" y2=\"100\"/><polyline points=\"97,96.2 104,100 97,103.8\"/><rect x=\"120\" y=\"70\" width=\"40\" height=\"70\"/><line x1=\"198\" y1=\"100\" x2=\"168\" y2=\"100\"/><polyline points=\"175,103.8 168,100 175,96.2\"/><circle cx=\"210\" cy=\"100\" r=\"10\"/></g><text x=\"140\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ばったり</text><text x=\"50\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぶつかる</text></svg>"
+  },
+  "etymology": "en(中に) + counter(反対の・向かい合う。counter=カウンター、contrary と同じ) → 向かい合う中に入る → (思いがけず)出会う → (困難に)ぶつかる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to meet someone by chance, or to experience something, especially a problem."
+    },
+    {
+      "pos": "名詞",
+      "text": "a meeting, especially one that is not planned."
+    }
+  ],
+  "cautions": [
+    "encounter A=A(人)に偶然出会う(come across、run into と言い換え)",
+    "encounter difficulties / problems=困難・問題にぶつかる(face)",
+    "他動詞なので encounter with A とは言わない。ただし名詞なら an encounter with A",
+    "meet と違い「思いがけず」「困難に」の感じがある"
+  ],
+  "patterns": [
+    {
+      "form": "encounter A",
+      "meaning": "Aに偶然出会う"
+    },
+    {
+      "form": "encounter difficulties",
+      "meaning": "困難にぶつかる"
+    },
+    {
+      "form": "an encounter with A",
+      "meaning": "Aとの出会い"
+    },
+    {
+      "form": "a chance encounter",
+      "meaning": "偶然の出会い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "偶然出会う",
+      "en": "I encountered an old friend at the station.",
+      "ja": "駅で昔の友だちにばったり会った。"
+    },
+    {
+      "source": "original",
+      "label": "困難にぶつかる",
+      "en": "We encountered many problems during the project.",
+      "ja": "その計画の間、私たちは多くの問題にぶつかった。"
+    },
+    {
+      "source": "original",
+      "label": "経験する",
+      "en": "This is the strangest thing I have ever encountered.",
+      "ja": "これは今までに出くわした中でいちばん奇妙なことだ。"
+    },
+    {
+      "source": "original",
+      "label": "an encounter with",
+      "en": "She told us about her encounter with a bear.",
+      "ja": "彼女はクマに出くわした話をしてくれた。"
+    },
+    {
+      "source": "original",
+      "label": "a chance encounter",
+      "en": "Their friendship began with a chance encounter.",
+      "ja": "二人の友情は偶然の出会いから始まった。"
+    },
+    {
+      "source": "original",
+      "label": "come across との言い換え",
+      "en": "While reading, you may encounter, or come across, unknown words.",
+      "ja": "読んでいると知らない単語に出会うことがある。"
+    }
+  ],
+  "check_points": [
+    "encounter を come across で言い換えられるか",
+    "encounter with が動詞では誤りであることを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "come across / run into との言い換え、encounter difficulties が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 366
+    }
+  ]
+}

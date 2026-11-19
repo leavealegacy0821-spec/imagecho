@@ -1,0 +1,94 @@
+{
+  "word": "prohibit",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/proʊˈhɪbɪt/",
+  "core_image": {
+    "text": "前に立ちはだかって、行く手をおさえる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"72\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><line x1=\"80\" y1=\"90\" x2=\"120\" y2=\"90\" stroke-dasharray=\"5 5\"/><polyline points=\"113,86.2 120,90 113,93.8\"/><line x1=\"140\" y1=\"40\" x2=\"140\" y2=\"140\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><polyline points=\"180,74 156,66 146,60\"/><line x1=\"180\" y1=\"74\" x2=\"190\" y2=\"96\"/></g><text x=\"100\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">だめ</text><text x=\"200\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">禁止</text></svg>"
+  },
+  "etymology": "pro(前に) + hibit(持つ・おさえる。exhibit、habit と同じ) → 前でおさえる → (規則・法律で)禁止する → (事情が)〜できなくする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to officially stop something from being done, or to make something impossible."
+    }
+  ],
+  "cautions": [
+    "prohibit A from doing=Aが〜するのを禁じる(to do は×)",
+    "主語は法律・規則などが多い(forbid は人が主語でも使う)",
+    "prevent / keep / stop A from doing と同じ型",
+    "名詞 prohibition=禁止。be prohibited=禁止されている"
+  ],
+  "patterns": [
+    {
+      "form": "prohibit A from doing",
+      "meaning": "Aが〜するのを禁じる"
+    },
+    {
+      "form": "prohibit A",
+      "meaning": "Aを禁止する"
+    },
+    {
+      "form": "be prohibited",
+      "meaning": "禁止されている"
+    },
+    {
+      "form": "prohibition",
+      "meaning": "禁止"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "prohibit A",
+      "en": "The law prohibits the sale of alcohol to minors.",
+      "ja": "法律は未成年者への酒類の販売を禁じている。"
+    },
+    {
+      "source": "original",
+      "label": "prohibit A from doing",
+      "en": "Students are prohibited from using phones in class.",
+      "ja": "生徒は授業中に携帯を使うことを禁止されている。"
+    },
+    {
+      "source": "original",
+      "label": "be prohibited",
+      "en": "Smoking is strictly prohibited in this building.",
+      "ja": "この建物では喫煙は固く禁じられている。"
+    },
+    {
+      "source": "original",
+      "label": "(事情が)できなくする",
+      "en": "The high cost prohibits many people from buying a house.",
+      "ja": "費用が高いので、多くの人が家を買えない。"
+    },
+    {
+      "source": "original",
+      "label": "forbid との比較",
+      "en": "My parents forbid me to stay out late, and the school rules prohibit it too.",
+      "ja": "両親は夜遅くの外出を禁じているし、校則でも禁止されている。"
+    },
+    {
+      "source": "original",
+      "label": "prohibition(名詞)",
+      "en": "There is a prohibition on fishing in this river.",
+      "ja": "この川では釣りが禁止されている。"
+    }
+  ],
+  "check_points": [
+    "prohibit A from doing の型を言えるか(to do は×)",
+    "forbid A to do との違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "prohibit A from doing の from が語法問題の定番。forbid A to do と比べて出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 368
+    }
+  ]
+}

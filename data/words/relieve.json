@@ -1,0 +1,98 @@
+{
+  "word": "relieve",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈliːv/",
+  "core_image": {
+    "text": "重い荷を持ち上げて、ふっと軽くする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"100\" cy=\"52\" r=\"10\"/><line x1=\"100\" y1=\"62\" x2=\"100\" y2=\"106\"/><line x1=\"100\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"100\" y1=\"106\" x2=\"110\" y2=\"140\"/><polyline points=\"100,74 84,60 80,40\"/><polyline points=\"100,74 116,60 120,40\"/><rect x=\"72\" y=\"14\" width=\"56\" height=\"24\"/><line x1=\"160\" y1=\"60\" x2=\"160\" y2=\"26\"/><polyline points=\"156.2,33 160,26 163.8,33\"/></g><text x=\"195\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">軽くなる</text></svg>"
+  },
+  "etymology": "re(再び) + lieve(持ち上げる・軽くする。lever、elevator と同じ) → 持ち上げて軽くする → (苦痛・不安を)和らげる → ほっとさせる → (人の重荷を)取り除く・交代する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make pain or a problem less severe, or to make someone feel less worried."
+    }
+  ],
+  "cautions": [
+    "relieve A=A(痛み・不安)を和らげる(ease)",
+    "relieve A of B=AからB(重荷・責任)を取り除く(rob A of B と同じ「分離の of」)",
+    "be relieved to do / that S V=〜してほっとする(人が主語なら受け身)",
+    "名詞 relief=安心・救済。What a relief!=ああ、ほっとした"
+  ],
+  "patterns": [
+    {
+      "form": "relieve pain / stress",
+      "meaning": "痛み・ストレスを和らげる"
+    },
+    {
+      "form": "relieve A of B",
+      "meaning": "AからBを取り除く"
+    },
+    {
+      "form": "be relieved to do",
+      "meaning": "〜してほっとする"
+    },
+    {
+      "form": "be relieved that S V",
+      "meaning": "〜でほっとする"
+    },
+    {
+      "form": "relief",
+      "meaning": "安心・救済"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "和らげる",
+      "en": "This medicine will relieve your headache.",
+      "ja": "この薬で頭痛が和らぎますよ。"
+    },
+    {
+      "source": "original",
+      "label": "relieve A of B",
+      "en": "He offered to relieve me of my heavy bag.",
+      "ja": "彼は私の重いかばんを持とうと申し出てくれた。"
+    },
+    {
+      "source": "original",
+      "label": "be relieved to do",
+      "en": "I was relieved to hear that you were safe.",
+      "ja": "あなたが無事だと聞いてほっとした。"
+    },
+    {
+      "source": "original",
+      "label": "be relieved that",
+      "en": "She was relieved that the test was over.",
+      "ja": "彼女はテストが終わってほっとした。"
+    },
+    {
+      "source": "original",
+      "label": "交代する",
+      "en": "The night nurse relieved her at ten o'clock.",
+      "ja": "10時に夜勤の看護師が彼女と交代した。"
+    },
+    {
+      "source": "original",
+      "label": "relief(名詞)",
+      "en": "To my relief, the train was not late.",
+      "ja": "ほっとしたことに、電車は遅れなかった。"
+    }
+  ],
+  "check_points": [
+    "relieve A of B の of の働き(分離)を言えるか",
+    "to my relief の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be relieved to do、relieve A of B、名詞 relief(to my relief)が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 370
+    }
+  ]
+}

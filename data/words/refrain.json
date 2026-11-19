@@ -1,0 +1,95 @@
+{
+  "word": "refrain",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/rɪˈfreɪn/",
+  "core_image": {
+    "text": "手綱を引いて、出かかった行動をぐっと抑える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><polyline points=\"90,74 110,66 118,60\"/><polyline points=\"90,74 70,82 64,90\"/><line x1=\"124\" y1=\"60\" x2=\"170\" y2=\"60\" stroke-dasharray=\"5 5\"/><polyline points=\"163,56.2 170,60 163,63.8\"/><line x1=\"150\" y1=\"44\" x2=\"170\" y2=\"76\"/><line x1=\"170\" y1=\"44\" x2=\"150\" y2=\"76\"/></g><text x=\"160\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やめておく</text></svg>"
+  },
+  "etymology": "re(後ろへ) + frain(手綱で抑える) → 後ろへ引き止める → (〜するのを)控える・慎む。名詞では「(歌の)くり返し部分」",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stop yourself from doing something."
+    },
+    {
+      "pos": "名詞",
+      "text": "a part of a song that is repeated."
+    }
+  ],
+  "cautions": [
+    "refrain from doing=〜するのを控える(from が必要。refrain to do は×)",
+    "自動詞なので refrain A とは言わない",
+    "掲示・お願いでよく使う丁寧な言い方(Please refrain from smoking.)",
+    "名詞 refrain=(歌の)くり返し・決まり文句"
+  ],
+  "patterns": [
+    {
+      "form": "refrain from doing",
+      "meaning": "〜するのを控える"
+    },
+    {
+      "form": "refrain from A",
+      "meaning": "Aを控える"
+    },
+    {
+      "form": "Please refrain from …",
+      "meaning": "〜はご遠慮ください"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "refrain from doing",
+      "en": "Please refrain from talking during the concert.",
+      "ja": "演奏中のおしゃべりはご遠慮ください。"
+    },
+    {
+      "source": "original",
+      "label": "控える",
+      "en": "I refrained from saying what I really thought.",
+      "ja": "本当に思っていることを言うのは控えた。"
+    },
+    {
+      "source": "original",
+      "label": "refrain from A",
+      "en": "Passengers must refrain from smoking on the train.",
+      "ja": "乗客は車内での喫煙を控えなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "自分を抑える",
+      "en": "She could hardly refrain from laughing.",
+      "ja": "彼女は笑いをこらえきれなかった。"
+    },
+    {
+      "source": "original",
+      "label": "掲示の言い方",
+      "en": "Please refrain from taking photos in the museum.",
+      "ja": "館内での写真撮影はご遠慮ください。"
+    },
+    {
+      "source": "original",
+      "label": "refrain(名詞)",
+      "en": "The audience sang along with the refrain.",
+      "ja": "観客はくり返しの部分をいっしょに歌った。"
+    }
+  ],
+  "check_points": [
+    "refrain from doing の型を言えるか",
+    "refrain from を「ご遠慮ください」と訳せるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "refrain from doing の from が語法問題・掲示文で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 369
+    }
+  ]
+}

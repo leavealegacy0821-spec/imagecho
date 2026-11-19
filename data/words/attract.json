@@ -1,0 +1,98 @@
+{
+  "word": "attract",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈtrækt/",
+  "core_image": {
+    "text": "こちらへ、ぐいっと引き寄せる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M60 70 L60 100 Q60 120 80 120 Q100 120 100 100 L100 70\"/><line x1=\"52\" y1=\"70\" x2=\"68\" y2=\"70\"/><line x1=\"92\" y1=\"70\" x2=\"108\" y2=\"70\"/><line x1=\"180\" y1=\"95\" x2=\"118\" y2=\"95\"/><polyline points=\"125,98.8 118,95 125,91.2\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"186\" y2=\"92\"/><line x1=\"200\" y1=\"74\" x2=\"214\" y2=\"92\"/></g><text x=\"80\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">引きつける</text><text x=\"140\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すい寄せられる</text></svg>"
+  },
+  "etymology": "at(ad=〜へ) + tract(引く。tractor、extract と同じ) → こちらへ引く → (人・注意・関心を)引きつける → 魅力がある",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone or something come to a place, or to make someone interested in something."
+    }
+  ],
+  "cautions": [
+    "attract attention / interest=注意・関心を引く(draw、catch と言い換え)",
+    "be attracted to A=Aにひかれる",
+    "名詞 attraction=魅力・呼び物(tourist attraction=観光名所)",
+    "形容詞 attractive=魅力的な"
+  ],
+  "patterns": [
+    {
+      "form": "attract attention",
+      "meaning": "注意を引く"
+    },
+    {
+      "form": "attract A to B",
+      "meaning": "AをBへ引き寄せる"
+    },
+    {
+      "form": "be attracted to A",
+      "meaning": "Aにひかれる"
+    },
+    {
+      "form": "attraction",
+      "meaning": "魅力・呼び物"
+    },
+    {
+      "form": "attractive",
+      "meaning": "魅力的な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "引き寄せる",
+      "en": "The festival attracts thousands of visitors every year.",
+      "ja": "その祭りには毎年何千人もの人が集まる。"
+    },
+    {
+      "source": "original",
+      "label": "attract attention",
+      "en": "The strange noise attracted my attention.",
+      "ja": "その奇妙な音が私の注意を引いた。"
+    },
+    {
+      "source": "original",
+      "label": "attract A to B",
+      "en": "Bright lights attract insects to the window.",
+      "ja": "明るい光は虫を窓に引き寄せる。"
+    },
+    {
+      "source": "original",
+      "label": "be attracted to",
+      "en": "She was attracted to the idea of studying abroad.",
+      "ja": "彼女は留学という考えにひかれた。"
+    },
+    {
+      "source": "original",
+      "label": "attraction(名詞)",
+      "en": "The castle is the main tourist attraction of the town.",
+      "ja": "その城は町いちばんの観光名所だ。"
+    },
+    {
+      "source": "original",
+      "label": "attractive(形容詞)",
+      "en": "The company offered him an attractive salary.",
+      "ja": "会社は彼に魅力的な給料を提示した。"
+    }
+  ],
+  "check_points": [
+    "tourist attraction の意味を言えるか",
+    "attract と extract の共通部分(tract=引く)を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "attract attention、attraction(呼び物)が長文に頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 362
+    }
+  ]
+}

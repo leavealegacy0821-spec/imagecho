@@ -1,0 +1,94 @@
+{
+  "word": "confront",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈfrʌnt/",
+  "core_image": {
+    "text": "額(ひたい)と額をつき合わせて、真正面から向き合う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 90,70 100,72\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><polyline points=\"170,74 150,70 140,72\"/><line x1=\"170\" y1=\"74\" x2=\"180\" y2=\"96\"/><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"100\" stroke-dasharray=\"4 4\"/></g><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">真正面</text></svg>"
+  },
+  "etymology": "con(共に) + front(額・前面) → 額をつき合わせる → (人・問題に)立ち向かう → (問題が人の)前に立ちはだかる → (証拠を)つきつける",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to deal with a difficult situation or person directly, or to make someone face something."
+    }
+  ],
+  "cautions": [
+    "confront A=A(問題・危険)に立ち向かう(face と言い換え)",
+    "be confronted with / by A=A(困難)に直面する",
+    "confront A with B=AにB(証拠など)をつきつける",
+    "名詞 confrontation=対決・対立"
+  ],
+  "patterns": [
+    {
+      "form": "confront A",
+      "meaning": "Aに立ち向かう"
+    },
+    {
+      "form": "be confronted with A",
+      "meaning": "Aに直面する"
+    },
+    {
+      "form": "confront A with B",
+      "meaning": "AにBをつきつける"
+    },
+    {
+      "form": "confrontation",
+      "meaning": "対決"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "立ち向かう",
+      "en": "We must confront the problem of climate change.",
+      "ja": "私たちは気候変動の問題に立ち向かわなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "be confronted with",
+      "en": "The new government was confronted with many difficulties.",
+      "ja": "新政府は多くの困難に直面した。"
+    },
+    {
+      "source": "original",
+      "label": "(問題が)立ちはだかる",
+      "en": "The problems confronting the city are serious.",
+      "ja": "市が抱える問題は深刻だ。"
+    },
+    {
+      "source": "original",
+      "label": "confront A with B",
+      "en": "The police confronted him with the evidence.",
+      "ja": "警察は彼に証拠をつきつけた。"
+    },
+    {
+      "source": "original",
+      "label": "(人と)向き合う",
+      "en": "She finally confronted her boss about the unfair treatment.",
+      "ja": "彼女はついに不当な扱いについて上司に直接意見した。"
+    },
+    {
+      "source": "original",
+      "label": "confrontation(名詞)",
+      "en": "Both sides wanted to avoid a confrontation.",
+      "ja": "両者とも対立を避けたかった。"
+    }
+  ],
+  "check_points": [
+    "be confronted with A を face で言い換えられるか",
+    "confront A with B の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be confronted with = be faced with の言い換えが定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 364
+    }
+  ]
+}
