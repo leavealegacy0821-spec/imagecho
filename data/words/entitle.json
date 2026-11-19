@@ -1,0 +1,94 @@
+{
+  "word": "entitle",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈtaɪtl/",
+  "core_image": {
+    "text": "名前や資格をあたえて、その立場に立たせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"100\" y2=\"78\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"96\"/><rect x=\"100\" y=\"62\" width=\"60\" height=\"36\"/><line x1=\"182\" y1=\"36\" x2=\"158\" y2=\"58\"/><polyline points=\"165.8,56.1 158,58 160.6,50.4\"/></g><text x=\"130\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">資格</text><text x=\"206\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あたえる</text></svg>"
+  },
+  "etymology": "en(〜にする) + title(題名・肩書) → 題名をつける → 肩書・資格を与える → be entitled to=〜の権利がある",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give someone the right to have or do something, or to give a title to a book, film, etc."
+    }
+  ],
+  "cautions": [
+    "be entitled to A=Aを受ける権利がある(to は前置詞なので名詞・doing)",
+    "be entitled to do=〜する資格がある(こちらは不定詞)",
+    "entitle A to B=AにBの権利を与える(主語は物事が多い)",
+    "be entitled \"A\"=「A」という題である。名詞 entitlement=権利"
+  ],
+  "patterns": [
+    {
+      "form": "be entitled to A",
+      "meaning": "Aを受ける権利がある"
+    },
+    {
+      "form": "be entitled to do",
+      "meaning": "〜する資格がある"
+    },
+    {
+      "form": "entitle A to B",
+      "meaning": "AにBの権利を与える"
+    },
+    {
+      "form": "be entitled A",
+      "meaning": "Aという題である"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "be entitled to A",
+      "en": "Every child is entitled to a good education.",
+      "ja": "すべての子どもはよい教育を受ける権利がある。"
+    },
+    {
+      "source": "original",
+      "label": "be entitled to do",
+      "en": "Members are entitled to use the library for free.",
+      "ja": "会員は図書館を無料で使う資格がある。"
+    },
+    {
+      "source": "original",
+      "label": "entitle A to B",
+      "en": "This ticket entitles you to a free drink.",
+      "ja": "この券で飲み物が1杯無料になる。"
+    },
+    {
+      "source": "original",
+      "label": "entitle A to do",
+      "en": "Your age entitles you to vote in the election.",
+      "ja": "あなたの年齢なら選挙で投票できる。"
+    },
+    {
+      "source": "original",
+      "label": "題をつける",
+      "en": "She wrote a book entitled \"The Silent River\".",
+      "ja": "彼女は『静かな川』という題の本を書いた。"
+    },
+    {
+      "source": "original",
+      "label": "entitlement(名詞)",
+      "en": "Paid holidays are an entitlement for all workers.",
+      "ja": "有給休暇はすべての労働者の権利だ。"
+    }
+  ],
+  "check_points": [
+    "be entitled to の後ろに名詞が来る場合と動詞が来る場合を言えるか",
+    "This ticket entitles you to 〜 を自然な日本語にできるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be entitled to A / to do(権利・資格)が語法・長文の定番。物主語 entitle A to B の訳も狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 386
+    }
+  ]
+}

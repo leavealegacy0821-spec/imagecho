@@ -1,0 +1,94 @@
+{
+  "word": "exaggerate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪɡˈzædʒəreɪt/",
+  "core_image": {
+    "text": "実際より大きく、話をふくらませる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"40\" cy=\"90\" r=\"8\"/><line x1=\"56\" y1=\"90\" x2=\"100\" y2=\"90\"/><polyline points=\"93,86.2 100,90 93,93.8\"/><circle cx=\"164\" cy=\"80\" r=\"48\"/></g><text x=\"40\" y=\"72\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">実際</text><text x=\"164\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">話</text></svg>"
+  },
+  "etymology": "ex(すっかり) + agger(積み上げる) → 高く積み上げる → (実際より)大きく言う → 誇張する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say that something is bigger, better or worse than it really is."
+    }
+  ],
+  "cautions": [
+    "exaggerate A=Aを誇張する(他動詞。自動詞「大げさに言う」もある)",
+    "It is no exaggeration to say that 〜=〜と言っても過言ではない(最頻出)",
+    "形容詞 exaggerated=大げさな、名詞 exaggeration=誇張",
+    "overstate と言い換え(反対は understate / play down)。つづりは g が2つ"
+  ],
+  "patterns": [
+    {
+      "form": "exaggerate A",
+      "meaning": "Aを誇張する"
+    },
+    {
+      "form": "It is no exaggeration to say that ~",
+      "meaning": "〜と言っても過言ではない"
+    },
+    {
+      "form": "exaggerated",
+      "meaning": "大げさな"
+    },
+    {
+      "form": "exaggeration",
+      "meaning": "誇張"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "誇張する",
+      "en": "He always exaggerates his achievements.",
+      "ja": "彼はいつも自分の手柄を大げさに言う。"
+    },
+    {
+      "source": "original",
+      "label": "大げさに言う(自動詞)",
+      "en": "Don't exaggerate; it was only a small mistake.",
+      "ja": "大げさに言うな。小さなミスにすぎなかった。"
+    },
+    {
+      "source": "original",
+      "label": "It is no exaggeration to say that",
+      "en": "It is no exaggeration to say that he saved the company.",
+      "ja": "彼が会社を救ったと言っても過言ではない。"
+    },
+    {
+      "source": "original",
+      "label": "重要性を誇張する",
+      "en": "The importance of sleep cannot be exaggerated.",
+      "ja": "睡眠の大切さはいくら強調してもしすぎることはない。"
+    },
+    {
+      "source": "original",
+      "label": "exaggerated(形容詞)",
+      "en": "The news report gave an exaggerated picture of the danger.",
+      "ja": "その報道は危険を大げさに伝えた。"
+    },
+    {
+      "source": "original",
+      "label": "overstate との言い換え",
+      "en": "The risks were exaggerated, or overstated, by the media.",
+      "ja": "その危険はマスコミによって誇張されていた。"
+    }
+  ],
+  "check_points": [
+    "It is no exaggeration to say that 〜 を訳せるか",
+    "cannot be exaggerated の意味(いくら〜してもしすぎない)を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "It is no exaggeration to say that 〜(過言ではない)と cannot be exaggerated が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 387
+    }
+  ]
+}

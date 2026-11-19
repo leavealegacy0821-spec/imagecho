@@ -1,0 +1,98 @@
+{
+  "word": "acquaint",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈkweɪnt/",
+  "core_image": {
+    "text": "知らなかったものを、よく知る状態にする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"20\" y=\"70\" width=\"44\" height=\"34\" stroke-dasharray=\"4 4\"/><line x1=\"72\" y1=\"87\" x2=\"112\" y2=\"87\"/><polyline points=\"105,83.2 112,87 105,90.8\"/><rect x=\"120\" y=\"70\" width=\"44\" height=\"34\"/><line x1=\"128\" y1=\"82\" x2=\"156\" y2=\"82\"/><line x1=\"128\" y1=\"92\" x2=\"150\" y2=\"92\"/><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"170\" y2=\"84\"/><line x1=\"200\" y1=\"74\" x2=\"212\" y2=\"96\"/></g><text x=\"42\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">知らない</text><text x=\"142\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">よく知る</text></svg>"
+  },
+  "etymology": "ac(ad=〜へ) + quaint(知る。recognize の cogn と同じ根) → 知っている状態へ → (人に)知らせる・(人と)知り合わせる → be acquainted with=精通している・面識がある",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone know about something, or to introduce people to each other."
+    }
+  ],
+  "cautions": [
+    "acquaint A with B=AにBを知らせる・慣れさせる(with を使う。acquaint A to B は×)",
+    "be acquainted with A=A(物事)をよく知っている/A(人)と面識がある",
+    "get / become acquainted with A=Aと知り合いになる",
+    "名詞 acquaintance=知り合い(friend ほど親しくない)・面識"
+  ],
+  "patterns": [
+    {
+      "form": "acquaint A with B",
+      "meaning": "AにBを知らせる"
+    },
+    {
+      "form": "acquaint oneself with A",
+      "meaning": "Aに精通する"
+    },
+    {
+      "form": "be acquainted with A",
+      "meaning": "Aをよく知っている"
+    },
+    {
+      "form": "get acquainted with A",
+      "meaning": "Aと知り合う"
+    },
+    {
+      "form": "acquaintance",
+      "meaning": "知り合い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "acquaint A with B",
+      "en": "The teacher acquainted the students with the new rules.",
+      "ja": "先生は生徒たちに新しい規則を知らせた。"
+    },
+    {
+      "source": "original",
+      "label": "acquaint oneself with",
+      "en": "You should acquaint yourself with the city before you move there.",
+      "ja": "引っ越す前にその街のことをよく知っておくべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "be acquainted with(物事)",
+      "en": "She is well acquainted with Japanese history.",
+      "ja": "彼女は日本史にとても詳しい。"
+    },
+    {
+      "source": "original",
+      "label": "be acquainted with(人)",
+      "en": "I am not personally acquainted with the writer.",
+      "ja": "私はその作家と個人的な面識はない。"
+    },
+    {
+      "source": "original",
+      "label": "get acquainted with",
+      "en": "We got acquainted with each other at the summer camp.",
+      "ja": "私たちはサマーキャンプで知り合った。"
+    },
+    {
+      "source": "original",
+      "label": "acquaintance(名詞)",
+      "en": "He is not a close friend, just an acquaintance.",
+      "ja": "彼は親友ではなく、ただの知り合いだ。"
+    }
+  ],
+  "check_points": [
+    "acquaint A with B の前置詞を言えるか",
+    "acquaintance と friend の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "acquaint A with B / be acquainted with の with と、名詞 acquaintance(知り合い)が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 381
+    }
+  ]
+}

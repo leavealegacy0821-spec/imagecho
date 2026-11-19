@@ -1,0 +1,98 @@
+{
+  "word": "appoint",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈpɔɪnt/",
+  "core_image": {
+    "text": "「この人・この時」と、指でさして決める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"88\" y2=\"62\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><line x1=\"96\" y1=\"60\" x2=\"150\" y2=\"60\"/><polyline points=\"143,56.2 150,60 143,63.8\"/><rect x=\"170\" y=\"124\" width=\"40\" height=\"16\"/><circle cx=\"190\" cy=\"36\" r=\"10\"/><line x1=\"190\" y1=\"46\" x2=\"190\" y2=\"90\"/><line x1=\"190\" y1=\"90\" x2=\"180\" y2=\"124\"/><line x1=\"190\" y1=\"90\" x2=\"200\" y2=\"124\"/><line x1=\"190\" y1=\"58\" x2=\"178\" y2=\"80\"/><line x1=\"190\" y1=\"58\" x2=\"202\" y2=\"80\"/></g><text x=\"50\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">君だ</text><text x=\"190\" y=\"16\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">任命</text></svg>"
+  },
+  "etymology": "ap(ad=〜へ) + point(指す) → 〜を指さす → (人を役職に)任命する → (日時・場所を)指定する → appointment=約束・予約",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to choose someone for a job, or to decide on a time or place for something."
+    }
+  ],
+  "cautions": [
+    "appoint A (as) B=AをBに任命する(B が1人だけの役職なら無冠詞。appoint him chairman)",
+    "appoint A to do=Aを〜する役に任命する",
+    "the appointed time / place=指定された時刻・場所",
+    "名詞 appointment=(会う)約束・予約(promise=〜すると約束すること とは別)"
+  ],
+  "patterns": [
+    {
+      "form": "appoint A (as) B",
+      "meaning": "AをBに任命する"
+    },
+    {
+      "form": "appoint A to do",
+      "meaning": "Aを〜する役に任命する"
+    },
+    {
+      "form": "be appointed B",
+      "meaning": "Bに任命される"
+    },
+    {
+      "form": "the appointed time",
+      "meaning": "指定された時刻"
+    },
+    {
+      "form": "make an appointment",
+      "meaning": "会う約束・予約をする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "appoint A B",
+      "en": "The company appointed her manager last year.",
+      "ja": "会社は昨年、彼女を部長に任命した。"
+    },
+    {
+      "source": "original",
+      "label": "appoint A as B",
+      "en": "He was appointed as captain of the team.",
+      "ja": "彼はチームの主将に任命された。"
+    },
+    {
+      "source": "original",
+      "label": "appoint A to do",
+      "en": "They appointed a committee to study the problem.",
+      "ja": "彼らはその問題を検討する委員会を設けた。"
+    },
+    {
+      "source": "original",
+      "label": "(時を)指定する",
+      "en": "We met at the appointed time in front of the station.",
+      "ja": "私たちは決められた時刻に駅前で会った。"
+    },
+    {
+      "source": "original",
+      "label": "appointment(予約)",
+      "en": "I have an appointment with the dentist at three.",
+      "ja": "3時に歯医者の予約がある。"
+    },
+    {
+      "source": "original",
+      "label": "promise との違い",
+      "en": "I made an appointment to see him, not a promise to help him.",
+      "ja": "彼と会う約束はしたが、手伝うと約束したわけではない。"
+    }
+  ],
+  "check_points": [
+    "appoint him chairman で chairman に冠詞がない理由を言えるか",
+    "appointment と promise の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "appoint A (as) B(役職は無冠詞)と、名詞 appointment(会う約束・予約)と promise の区別が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 383
+    }
+  ]
+}

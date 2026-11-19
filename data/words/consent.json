@@ -1,0 +1,103 @@
+{
+  "word": "consent",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/kənˈsent/",
+  "core_image": {
+    "text": "相手と同じ気持ちになって、うなずく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"76\" y2=\"90\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><line x1=\"78\" y1=\"60\" x2=\"152\" y2=\"60\" stroke-dasharray=\"5 5\"/><polyline points=\"145,56.2 152,60 145,63.8\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"168\" y2=\"96\"/><line x1=\"180\" y1=\"74\" x2=\"192\" y2=\"96\"/><polyline points=\"170,24 177,32 190,16\"/></g><text x=\"115\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いいですか</text><text x=\"216\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">同意</text></svg>"
+  },
+  "etymology": "con(共に) + sent(感じる。sense、sentiment と同じ) → 同じように感じる → 同意する・承諾する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give permission for something or agree to do something."
+    },
+    {
+      "pos": "名詞",
+      "text": "permission or agreement."
+    }
+  ],
+  "cautions": [
+    "consent to A / to do=Aに同意する・〜することを承諾する(自動詞。consent A は×)",
+    "名詞 consent=同意・承諾(without one's consent=〜の承諾なしに)",
+    "agree より改まった語で、正式な許可の意味が強い",
+    "反対語 dissent=異議"
+  ],
+  "patterns": [
+    {
+      "form": "consent to A",
+      "meaning": "Aに同意する"
+    },
+    {
+      "form": "consent to do",
+      "meaning": "〜することを承諾する"
+    },
+    {
+      "form": "without one's consent",
+      "meaning": "〜の承諾なしに"
+    },
+    {
+      "form": "give one's consent",
+      "meaning": "承諾する"
+    },
+    {
+      "form": "by mutual consent",
+      "meaning": "合意のうえで"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "consent to A",
+      "en": "Her parents finally consented to the marriage.",
+      "ja": "両親はついに彼女の結婚に同意した。"
+    },
+    {
+      "source": "original",
+      "label": "consent to do",
+      "en": "He consented to speak at the meeting.",
+      "ja": "彼は会合で話すことを承諾した。"
+    },
+    {
+      "source": "original",
+      "label": "without one's consent",
+      "en": "You can't use my photo without my consent.",
+      "ja": "私の承諾なしに私の写真を使ってはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "give one's consent",
+      "en": "The doctor needs the patient to give consent before the operation.",
+      "ja": "医師は手術の前に患者の同意を得る必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "by mutual consent",
+      "en": "The contract was ended by mutual consent.",
+      "ja": "契約は双方の合意のうえで打ち切られた。"
+    },
+    {
+      "source": "original",
+      "label": "agree との違い",
+      "en": "The principal consented, so the students' plan was officially approved.",
+      "ja": "校長が承諾したので、生徒たちの計画は正式に認められた。"
+    }
+  ],
+  "check_points": [
+    "consent の後ろに来る前置詞を言えるか",
+    "without my consent の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "consent to A / to do(自動詞+to)と、名詞の without one's consent が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 385
+    }
+  ]
+}

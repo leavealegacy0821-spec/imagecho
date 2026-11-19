@@ -1,0 +1,98 @@
+{
+  "word": "resign",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈzaɪn/",
+  "core_image": {
+    "text": "しるしを返して、手を放す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"100\" width=\"60\" height=\"8\"/><line x1=\"36\" y1=\"108\" x2=\"36\" y2=\"140\"/><line x1=\"84\" y1=\"108\" x2=\"84\" y2=\"140\"/><rect x=\"50\" y=\"90\" width=\"20\" height=\"10\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"138\" y2=\"96\"/><line x1=\"150\" y1=\"74\" x2=\"162\" y2=\"94\"/><line x1=\"176\" y1=\"100\" x2=\"222\" y2=\"100\"/><polyline points=\"215,96.2 222,100 215,103.8\"/></g><text x=\"60\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">職</text><text x=\"150\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">辞める</text></svg>"
+  },
+  "etymology": "re(元へ) + sign(しるしをつける。signature と同じ) → しるし(署名)を返す → (職を)辞める → (運命に)身をまかせる・あきらめる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to officially leave your job, or to accept something bad that you cannot change."
+    }
+  ],
+  "cautions": [
+    "resign (from) A=A(職・地位)を辞める(定年で辞めるのは retire)",
+    "resign oneself to A / doing=あきらめてAを受け入れる(to は前置詞なので doing)",
+    "be resigned to A / doing=Aをあきらめて受け入れている",
+    "名詞 resignation=辞職・辞表・あきらめ(re-sign=もう一度署名する は別語)"
+  ],
+  "patterns": [
+    {
+      "form": "resign (from) A",
+      "meaning": "Aを辞める"
+    },
+    {
+      "form": "resign as B",
+      "meaning": "Bの職を辞める"
+    },
+    {
+      "form": "resign oneself to doing",
+      "meaning": "あきらめて〜を受け入れる"
+    },
+    {
+      "form": "be resigned to A",
+      "meaning": "Aをあきらめて受け入れている"
+    },
+    {
+      "form": "resignation",
+      "meaning": "辞職・あきらめ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "辞める",
+      "en": "The minister resigned after the scandal.",
+      "ja": "その大臣は不祥事のあと辞任した。"
+    },
+    {
+      "source": "original",
+      "label": "resign from",
+      "en": "She resigned from the company to start her own business.",
+      "ja": "彼女は自分で事業を始めるために会社を辞めた。"
+    },
+    {
+      "source": "original",
+      "label": "resign as",
+      "en": "He resigned as captain of the team.",
+      "ja": "彼はチームの主将を辞めた。"
+    },
+    {
+      "source": "original",
+      "label": "resign oneself to doing",
+      "en": "I resigned myself to waiting another hour.",
+      "ja": "私はもう1時間待つしかないとあきらめた。"
+    },
+    {
+      "source": "original",
+      "label": "be resigned to",
+      "en": "The players were resigned to defeat.",
+      "ja": "選手たちは負けを覚悟していた。"
+    },
+    {
+      "source": "original",
+      "label": "resignation(名詞)",
+      "en": "The manager handed in his resignation yesterday.",
+      "ja": "部長はきのう辞表を提出した。"
+    }
+  ],
+  "check_points": [
+    "resign と retire の違いを言えるか",
+    "resign oneself to の後ろが doing になる理由を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "resign(辞職)と retire(退職)の区別、resign oneself to doing(to は前置詞)が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 389
+    }
+  ]
+}

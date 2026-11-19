@@ -1,0 +1,98 @@
+{
+  "word": "inquire",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈkwaɪər/",
+  "core_image": {
+    "text": "中まで知ろうと、たずね求める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"68\" y2=\"62\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><line x1=\"74\" y1=\"60\" x2=\"136\" y2=\"78\" stroke-dasharray=\"5 5\"/><polyline points=\"130.3,72.4 136,78 128.2,79.7\"/><rect x=\"140\" y=\"60\" width=\"80\" height=\"60\"/><circle cx=\"180\" cy=\"90\" r=\"8\"/></g><text x=\"104\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">たずねる</text><text x=\"180\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">中身</text></svg>"
+  },
+  "etymology": "in(中へ) + quire(求める。require、acquire、question と同じ) → 中を求める → たずねる → (中まで)調べる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to ask someone for information, or to try to find out the facts about something."
+    }
+  ],
+  "cautions": [
+    "inquire about A=Aについて問い合わせる",
+    "inquire into A=Aを調査する(=investigate、look into)",
+    "inquire after A=Aの安否を尋ねる。inquire A of B=BにAを尋ねる(改まった型)",
+    "ask より改まった語。名詞 inquiry=問い合わせ・調査(イギリスでは enquire / enquiry)"
+  ],
+  "patterns": [
+    {
+      "form": "inquire about A",
+      "meaning": "Aについて問い合わせる"
+    },
+    {
+      "form": "inquire into A",
+      "meaning": "Aを調査する"
+    },
+    {
+      "form": "inquire wh- ~",
+      "meaning": "〜かを尋ねる"
+    },
+    {
+      "form": "inquire A of B",
+      "meaning": "BにAを尋ねる"
+    },
+    {
+      "form": "inquiry",
+      "meaning": "問い合わせ・調査"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "inquire about",
+      "en": "I called the hotel to inquire about the room price.",
+      "ja": "部屋の料金を問い合わせるためにホテルに電話した。"
+    },
+    {
+      "source": "original",
+      "label": "inquire into",
+      "en": "The police are inquiring into the cause of the fire.",
+      "ja": "警察は火事の原因を調べている。"
+    },
+    {
+      "source": "original",
+      "label": "inquire wh-",
+      "en": "She inquired whether the train was on time.",
+      "ja": "彼女は電車が時刻どおりか尋ねた。"
+    },
+    {
+      "source": "original",
+      "label": "inquire A of B",
+      "en": "He inquired the way of a passer-by.",
+      "ja": "彼は通りがかりの人に道を尋ねた。"
+    },
+    {
+      "source": "original",
+      "label": "inquire after",
+      "en": "My grandmother inquired after your health.",
+      "ja": "祖母があなたの体調を気にかけていましたよ。"
+    },
+    {
+      "source": "original",
+      "label": "inquiry(名詞)",
+      "en": "The company received many inquiries about the new product.",
+      "ja": "会社には新製品についての問い合わせがたくさん来た。"
+    }
+  ],
+  "check_points": [
+    "inquire about と inquire into の違いを言えるか",
+    "inquire into を investigate で言い換えられるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "inquire into(調査する)= investigate / look into の言い換えと、about との区別が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 388
+    }
+  ]
+}
