@@ -1,0 +1,103 @@
+{
+  "word": "resolve",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/rɪˈzɑːlv/",
+  "core_image": {
+    "text": "もつれをほどいて、すっきり決める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M30 90 Q50 50 70 90 Q90 130 60 110 Q30 90 80 70 Q110 60 90 100\"/><line x1=\"108\" y1=\"90\" x2=\"138\" y2=\"90\"/><polyline points=\"131,86.2 138,90 131,93.8\"/><line x1=\"148\" y1=\"90\" x2=\"218\" y2=\"90\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もつれ</text><text x=\"183\" y=\"72\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すっきり</text></svg>"
+  },
+  "etymology": "re(すっかり) + solve(ほどく。solve、solution と同じ) → (もつれを)すっかりほどく → (問題を)解決する → (迷いをほどいて)決心する → (成分に)分解する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to find a solution to a problem, or to make a firm decision to do something."
+    },
+    {
+      "pos": "名詞",
+      "text": "strong determination to do something."
+    }
+  ],
+  "cautions": [
+    "resolve to do / resolve that S V=〜しようと(固く)決心する(decide よりかたい語)",
+    "resolve a problem / conflict=問題・争いを解決する(solve と同じ)",
+    "be resolved to do=〜しようと決心している",
+    "名詞 resolution=決心(New Year's resolution=新年の抱負)・解決・決議・(画面の)解像度"
+  ],
+  "patterns": [
+    {
+      "form": "resolve to do",
+      "meaning": "〜しようと決心する"
+    },
+    {
+      "form": "resolve that S V",
+      "meaning": "〜と決心する"
+    },
+    {
+      "form": "resolve a problem",
+      "meaning": "問題を解決する"
+    },
+    {
+      "form": "be resolved to do",
+      "meaning": "〜する決意だ"
+    },
+    {
+      "form": "resolution",
+      "meaning": "決心・解決・解像度"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "resolve to do",
+      "en": "She resolved to study harder after the test.",
+      "ja": "テストの後、彼女はもっと勉強しようと決心した。"
+    },
+    {
+      "source": "original",
+      "label": "resolve that S V",
+      "en": "He resolved that he would never give up.",
+      "ja": "彼は決してあきらめないと心に決めた。"
+    },
+    {
+      "source": "original",
+      "label": "解決する",
+      "en": "The two countries resolved the conflict peacefully.",
+      "ja": "両国は争いを平和的に解決した。"
+    },
+    {
+      "source": "original",
+      "label": "be resolved to do",
+      "en": "I am resolved to finish this project.",
+      "ja": "私はこの計画をやりとげる決意だ。"
+    },
+    {
+      "source": "original",
+      "label": "resolution(決心)",
+      "en": "My New Year's resolution is to get up early.",
+      "ja": "私の新年の抱負は早起きすることだ。"
+    },
+    {
+      "source": "original",
+      "label": "resolve(名詞:決意)",
+      "en": "The hard times only strengthened her resolve.",
+      "ja": "苦しい時期は彼女の決意を固くしただけだった。"
+    }
+  ],
+  "check_points": [
+    "resolve の「解決する」と「決心する」をつなぐイメージを言えるか",
+    "resolution の意味を2つ以上言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「決心する」の意味と resolution(決心・解決)が長文・語彙で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 358
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "spare",
+  "pos": [
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/sper/",
+  "core_image": {
+    "text": "なくても困らない余りを、人に回す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><polyline points=\"50,74 72,66 80,64\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><rect x=\"74\" y=\"120\" width=\"22\" height=\"20\"/><rect x=\"74\" y=\"100\" width=\"22\" height=\"20\"/><rect x=\"118\" y=\"62\" width=\"16\" height=\"16\"/><line x1=\"138\" y1=\"70\" x2=\"168\" y2=\"70\"/><polyline points=\"161,66.2 168,70 161,73.8\"/><circle cx=\"196\" cy=\"52\" r=\"10\"/><line x1=\"196\" y1=\"62\" x2=\"196\" y2=\"106\"/><line x1=\"196\" y1=\"106\" x2=\"186\" y2=\"140\"/><line x1=\"196\" y1=\"106\" x2=\"206\" y2=\"140\"/><polyline points=\"196,74 178,70 172,70\"/><line x1=\"196\" y1=\"74\" x2=\"206\" y2=\"96\"/></g><text x=\"124\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">余り</text><text x=\"134\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">分ける</text></svg>"
+  },
+  "etymology": "古英語 sparian(大事に取っておく・惜しむ) → (使わずに)取っておく → (形)予備の・余分の → (余りから)割く・分けてやる → (苦労や害を)与えずにおく=免れさせる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give time or money to someone because you have enough, or to save someone from something unpleasant."
+    },
+    {
+      "pos": "形容詞",
+      "text": "extra, or kept for use when needed."
+    }
+  ],
+  "cautions": [
+    "spare A B=AにBを割く・分けてやる(Can you spare me a minute?)",
+    "spare A B=AのB(苦労など)を省いてやる(spare you the trouble)。どちらの意味か文脈で見分ける",
+    "spare time=暇な時間 / a spare key=合いかぎ / to spare=余分の",
+    "spare no effort / expense=努力・費用を惜しまない"
+  ],
+  "patterns": [
+    {
+      "form": "spare A B",
+      "meaning": "AにBを割く"
+    },
+    {
+      "form": "spare A B",
+      "meaning": "AのBを省いてやる"
+    },
+    {
+      "form": "spare time",
+      "meaning": "暇な時間"
+    },
+    {
+      "form": "A to spare",
+      "meaning": "余分のA"
+    },
+    {
+      "form": "spare no effort",
+      "meaning": "努力を惜しまない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "spare A B(割く)",
+      "en": "Could you spare me a few minutes?",
+      "ja": "少しお時間をいただけますか。"
+    },
+    {
+      "source": "original",
+      "label": "spare A B(省いてやる)",
+      "en": "A taxi will spare you the trouble of carrying your bags.",
+      "ja": "タクシーなら荷物を運ぶ手間が省けますよ。"
+    },
+    {
+      "source": "original",
+      "label": "spare time",
+      "en": "What do you do in your spare time?",
+      "ja": "暇なときは何をしていますか。"
+    },
+    {
+      "source": "original",
+      "label": "予備の",
+      "en": "I keep a spare key under the plant pot.",
+      "ja": "植木鉢の下に合いかぎを置いている。"
+    },
+    {
+      "source": "original",
+      "label": "to spare",
+      "en": "We arrived with ten minutes to spare.",
+      "ja": "私たちは10分の余裕をもって着いた。"
+    },
+    {
+      "source": "original",
+      "label": "spare no effort",
+      "en": "The staff spared no effort to make us comfortable.",
+      "ja": "スタッフは私たちが快適に過ごせるよう努力を惜しまなかった。"
+    }
+  ],
+  "check_points": [
+    "spare A B の2つの意味を言えるか",
+    "with ten minutes to spare を訳せるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "spare A B(割く/省く)の二重目的語と spare time が語法・会話文で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 360
+    }
+  ]
+}

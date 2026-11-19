@@ -1,0 +1,98 @@
+{
+  "word": "dispose",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈspoʊz/",
+  "core_image": {
+    "text": "離れたところに置いて、片づける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 92,62 98,56\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><circle cx=\"110\" cy=\"50\" r=\"6\"/><line x1=\"118\" y1=\"52\" x2=\"166\" y2=\"92\" stroke-dasharray=\"5 5\"/><polyline points=\"163.1,84.6 166,92 158.2,90.5\"/><polygon points=\"150,100 190,100 185,140 155,140\"/><line x1=\"146\" y1=\"100\" x2=\"194\" y2=\"100\"/></g><text x=\"70\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いらない</text><text x=\"212\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">処分</text></svg>"
+  },
+  "etymology": "dis(離して・あちこちに) + pose(置く。position、propose と同じ) → 離して置く・配置する → (離れた所へ置いて)処分する=dispose of A → (気持ちをある方向に置く)=be disposed to do 〜したい気になる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to get rid of something (dispose of), or to make someone willing to do something (be disposed to)."
+    }
+  ],
+  "cautions": [
+    "dispose of A=Aを処分する・片づける(of が必要)",
+    "受け身は be disposed of(of を落とさない)",
+    "be disposed to do=〜したい気がする / be well disposed toward A=Aに好意的だ",
+    "名詞 disposal=処分(at A's disposal=Aが自由に使える)、disposable=使い捨ての"
+  ],
+  "patterns": [
+    {
+      "form": "dispose of A",
+      "meaning": "Aを処分する"
+    },
+    {
+      "form": "be disposed of",
+      "meaning": "処分される"
+    },
+    {
+      "form": "be disposed to do",
+      "meaning": "〜したい気がする"
+    },
+    {
+      "form": "at A's disposal",
+      "meaning": "Aが自由に使える"
+    },
+    {
+      "form": "disposable",
+      "meaning": "使い捨ての"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "dispose of",
+      "en": "How should we dispose of old batteries?",
+      "ja": "古い電池はどうやって処分すればいいですか。"
+    },
+    {
+      "source": "original",
+      "label": "be disposed of",
+      "en": "Plastic waste must be disposed of properly.",
+      "ja": "プラスチックごみは正しく処分されなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "問題を片づける",
+      "en": "The committee quickly disposed of the first question.",
+      "ja": "委員会は最初の問題をさっさと片づけた。"
+    },
+    {
+      "source": "original",
+      "label": "be disposed to do",
+      "en": "I am not disposed to help him after what he did.",
+      "ja": "あんなことをされた後で、彼を手伝う気にはなれない。"
+    },
+    {
+      "source": "original",
+      "label": "at A's disposal",
+      "en": "The car is at your disposal while you stay here.",
+      "ja": "ここにいる間、車は自由に使ってください。"
+    },
+    {
+      "source": "original",
+      "label": "disposable",
+      "en": "Many cafes have stopped using disposable cups.",
+      "ja": "使い捨てのカップを使うのをやめたカフェが多い。"
+    }
+  ],
+  "check_points": [
+    "dispose of A の受け身を言えるか",
+    "at A's disposal の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "dispose of(処分する)と受け身の be disposed of が語法問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 355
+    }
+  ]
+}

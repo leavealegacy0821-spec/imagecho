@@ -1,0 +1,103 @@
+{
+  "word": "contrast",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈkɑːntræst/",
+  "core_image": {
+    "text": "2つを向かい合わせて、ちがいを際立たせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"40\" width=\"50\" height=\"100\"/><rect x=\"150\" y=\"110\" width=\"50\" height=\"30\"/><line x1=\"100\" y1=\"90\" x2=\"140\" y2=\"90\"/><polyline points=\"133,86.2 140,90 133,93.8\"/><line x1=\"140\" y1=\"90\" x2=\"100\" y2=\"90\"/><polyline points=\"107,93.8 100,90 107,86.2\"/></g><text x=\"65\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">高い</text><text x=\"175\" y=\"96\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">低い</text></svg>"
+  },
+  "etymology": "contra(反対に) + st(立つ) → 向かい合わせて立たせる → 比べる・対比(する) → (並べると)ちがいがはっきりする=対照",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a clear difference between two or more things that are compared."
+    },
+    {
+      "pos": "動詞",
+      "text": "to compare two things to show the differences, or to be very different from something."
+    }
+  ],
+  "cautions": [
+    "in contrast (to / with A)=(Aと)対照的に・それに対して(文と文をつなぐ目じるし)",
+    "by contrast=それに対して(前の文と逆の内容が来る)",
+    "contrast A with B=AをBと対比する / A contrasts with B=AはBと対照をなす(自動詞)",
+    "アクセント:名詞は前(CON-trast)、動詞は後(con-TRAST)"
+  ],
+  "patterns": [
+    {
+      "form": "in contrast (to A)",
+      "meaning": "(Aと)対照的に"
+    },
+    {
+      "form": "by contrast",
+      "meaning": "それに対して"
+    },
+    {
+      "form": "contrast A with B",
+      "meaning": "AをBと対比する"
+    },
+    {
+      "form": "A contrasts with B",
+      "meaning": "AはBと対照的だ"
+    },
+    {
+      "form": "a contrast between A and B",
+      "meaning": "AとBの対照"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "in contrast to",
+      "en": "In contrast to his brother, he is very quiet.",
+      "ja": "兄とは対照的に、彼はとても物静かだ。"
+    },
+    {
+      "source": "original",
+      "label": "by contrast",
+      "en": "The north is cold. By contrast, the south is warm all year.",
+      "ja": "北は寒い。それに対して、南は一年中暖かい。"
+    },
+    {
+      "source": "original",
+      "label": "contrast A with B",
+      "en": "The writer contrasts city life with life in the country.",
+      "ja": "作者は都会の生活と田舎の生活を対比している。"
+    },
+    {
+      "source": "original",
+      "label": "contrasts with(自動詞)",
+      "en": "Her calm voice contrasted with his angry shouting.",
+      "ja": "彼女の落ち着いた声は、彼の怒鳴り声と対照的だった。"
+    },
+    {
+      "source": "original",
+      "label": "a contrast between",
+      "en": "There is a sharp contrast between rich and poor.",
+      "ja": "金持ちと貧しい人の間にははっきりした差がある。"
+    },
+    {
+      "source": "original",
+      "label": "際立つ",
+      "en": "The white flowers stood out in contrast against the dark wall.",
+      "ja": "白い花は暗い壁を背にくっきり映えていた。"
+    }
+  ],
+  "check_points": [
+    "in contrast と by contrast の働き(前後の内容)を言えるか",
+    "名詞と動詞のアクセントの違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "長文の論理(by contrast / in contrast)とアクセント問題の両方で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 354
+    }
+  ]
+}

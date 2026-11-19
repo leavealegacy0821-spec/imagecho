@@ -1,0 +1,103 @@
+{
+  "word": "appeal",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/əˈpiːl/",
+  "core_image": {
+    "text": "相手に向かって、強く呼びかける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 84,62 92,56\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><line x1=\"98\" y1=\"64\" x2=\"150\" y2=\"64\"/><polyline points=\"143,60.2 150,64 143,67.8\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"170\" y2=\"96\"/><line x1=\"180\" y1=\"74\" x2=\"190\" y2=\"96\"/></g><text x=\"122\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">お願い!</text><text x=\"180\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">心に届く</text></svg>"
+  },
+  "etymology": "ラテン語 appellare(〜に呼びかける) → 相手に向かって呼びかける → (助けを)求めて訴える → (心に)訴える=魅力がある → (上の裁判所に)訴える=上訴する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make a serious request, or to be attractive or interesting to someone."
+    },
+    {
+      "pos": "名詞",
+      "text": "a serious request for help, or the quality that makes something attractive."
+    }
+  ],
+  "cautions": [
+    "appeal to A for B=AにBを求めて訴える / appeal to A to do=Aに〜するよう訴える",
+    "A appeals to B=AはBにとって魅力がある(主語は物、B は人)",
+    "名詞も同じ形:appeal=訴え・魅力。形容詞 appealing=魅力的な",
+    "自動詞なので appeal A とは言わない(to が必要)"
+  ],
+  "patterns": [
+    {
+      "form": "appeal to A for B",
+      "meaning": "AにBを求めて訴える"
+    },
+    {
+      "form": "appeal to A to do",
+      "meaning": "Aに〜するよう訴える"
+    },
+    {
+      "form": "A appeals to B",
+      "meaning": "AはBの心をひきつける"
+    },
+    {
+      "form": "make an appeal",
+      "meaning": "訴える"
+    },
+    {
+      "form": "appealing",
+      "meaning": "魅力的な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "appeal to A for B",
+      "en": "The city appealed to the government for help.",
+      "ja": "市は政府に援助を求めて訴えた。"
+    },
+    {
+      "source": "original",
+      "label": "appeal to A to do",
+      "en": "The police appealed to drivers to slow down.",
+      "ja": "警察は運転手たちにスピードを落とすよう呼びかけた。"
+    },
+    {
+      "source": "original",
+      "label": "魅力がある",
+      "en": "The idea of living abroad appeals to me.",
+      "ja": "海外で暮らすという考えは私には魅力的だ。"
+    },
+    {
+      "source": "original",
+      "label": "appeal(名詞:訴え)",
+      "en": "They made an appeal for money to rebuild the school.",
+      "ja": "彼らは学校を建て直すための寄付を呼びかけた。"
+    },
+    {
+      "source": "original",
+      "label": "appeal(名詞:魅力)",
+      "en": "I don't understand the appeal of horror movies.",
+      "ja": "ホラー映画の魅力が私にはわからない。"
+    },
+    {
+      "source": "original",
+      "label": "上訴する",
+      "en": "He decided to appeal against the court's decision.",
+      "ja": "彼は裁判所の判決を不服として上訴することにした。"
+    }
+  ],
+  "check_points": [
+    "appeal to A for B の意味を言えるか",
+    "The plan appeals to young people. を訳せるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「訴える」と「魅力がある(A appeals to B)」の2つの意味が長文・語法で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 351
+    }
+  ]
+}

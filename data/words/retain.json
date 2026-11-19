@@ -1,0 +1,94 @@
+{
+  "word": "retain",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈteɪn/",
+  "core_image": {
+    "text": "うしろでしっかり握って、手放さない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 84,82 92,84\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"94\"/><line x1=\"92\" y1=\"84\" x2=\"150\" y2=\"112\"/><rect x=\"150\" y=\"100\" width=\"40\" height=\"40\"/><line x1=\"198\" y1=\"120\" x2=\"228\" y2=\"120\"/><polyline points=\"221,116.2 228,120 221,123.8\"/></g><text x=\"60\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">放さない</text><text x=\"200\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">にげる</text></svg>"
+  },
+  "etymology": "re(うしろに) + tain(保つ。maintain、contain と同じ) → うしろに引きとめて保つ → 保持する・持ち続ける → (記憶に)とどめる → (人を)雇っておく",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to keep or continue to have something."
+    }
+  ],
+  "cautions": [
+    "keep のかたい言い方。「なくさずに持ち続ける」",
+    "retain heat / water=熱・水分を保つ。retain information=記憶にとどめる",
+    "remain(とどまる、自動詞)とまぎらわしい。retain は他動詞で目的語をとる",
+    "名詞 retention=保持・記憶"
+  ],
+  "patterns": [
+    {
+      "form": "retain A",
+      "meaning": "Aを保持する"
+    },
+    {
+      "form": "retain heat / water",
+      "meaning": "熱・水分を保つ"
+    },
+    {
+      "form": "retain information",
+      "meaning": "情報を記憶にとどめる"
+    },
+    {
+      "form": "retention",
+      "meaning": "保持"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "保持する",
+      "en": "The team retained the title for three years.",
+      "ja": "そのチームは3年間タイトルを守った。"
+    },
+    {
+      "source": "original",
+      "label": "持ち続ける",
+      "en": "The town has retained its old charm.",
+      "ja": "その町は昔ながらの魅力を保っている。"
+    },
+    {
+      "source": "original",
+      "label": "retain heat",
+      "en": "Stone walls retain heat well.",
+      "ja": "石の壁は熱をよく保つ。"
+    },
+    {
+      "source": "original",
+      "label": "記憶にとどめる",
+      "en": "Children retain new words easily.",
+      "ja": "子どもは新しい語を簡単に覚えておける。"
+    },
+    {
+      "source": "original",
+      "label": "remain との比較",
+      "en": "He retained his calm while others remained silent.",
+      "ja": "ほかの人たちが黙っている間も、彼は落ち着きを保っていた。"
+    },
+    {
+      "source": "original",
+      "label": "retention(名詞)",
+      "en": "Sleep helps the retention of what you learn.",
+      "ja": "睡眠は学んだことの記憶を助ける。"
+    }
+  ],
+  "check_points": [
+    "retain と remain の違い(他動詞・自動詞)を言えるか",
+    "retain information を訳せるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "keep の言い換えとして長文・同意語問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 359
+    }
+  ]
+}

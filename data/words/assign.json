@@ -1,0 +1,98 @@
+{
+  "word": "assign",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈsaɪn/",
+  "core_image": {
+    "text": "印をつけて、「これはあなたの分」と割り当てる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><polyline points=\"50,74 74,66 82,64\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"88\" y1=\"64\" x2=\"136\" y2=\"40\"/><polyline points=\"128,39.7 136,40 131.4,46.6\"/><line x1=\"88\" y1=\"68\" x2=\"136\" y2=\"80\"/><polyline points=\"130.1,74.6 136,80 128.3,82\"/><line x1=\"88\" y1=\"72\" x2=\"136\" y2=\"118\"/><polyline points=\"133.6,110.4 136,118 128.3,115.9\"/><rect x=\"142\" y=\"28\" width=\"30\" height=\"24\"/><rect x=\"142\" y=\"68\" width=\"30\" height=\"24\"/><rect x=\"142\" y=\"106\" width=\"30\" height=\"24\"/></g><text x=\"50\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">君はこれ</text><text x=\"205\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">仕事</text></svg>"
+  },
+  "etymology": "as(ad=〜へ) + sign(しるし。signal、design と同じ) → しるしをつけて振り分ける → 割り当てる・(仕事を)課す → (人を)配属する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give someone a job or piece of work, or to send someone to work in a particular place."
+    }
+  ],
+  "cautions": [
+    "assign A to B / assign B A=AをBに割り当てる(第4文型もとれる)",
+    "assign A to do=Aに〜するよう命じる(任せる)",
+    "be assigned to A=Aに配属される",
+    "名詞 assignment=割り当てられた仕事・宿題"
+  ],
+  "patterns": [
+    {
+      "form": "assign A to B",
+      "meaning": "AをBに割り当てる"
+    },
+    {
+      "form": "assign B A",
+      "meaning": "BにAを割り当てる"
+    },
+    {
+      "form": "assign A to do",
+      "meaning": "Aに〜する役を任せる"
+    },
+    {
+      "form": "be assigned to A",
+      "meaning": "Aに配属される"
+    },
+    {
+      "form": "assignment",
+      "meaning": "課題・宿題"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "assign A to B",
+      "en": "The teacher assigned a different topic to each group.",
+      "ja": "先生は各グループに別々のテーマを割り当てた。"
+    },
+    {
+      "source": "original",
+      "label": "assign B A",
+      "en": "Our teacher assigned us a lot of homework.",
+      "ja": "先生は私たちにたくさん宿題を出した。"
+    },
+    {
+      "source": "original",
+      "label": "assign A to do",
+      "en": "I was assigned to write the report.",
+      "ja": "私が報告書を書く係になった。"
+    },
+    {
+      "source": "original",
+      "label": "配属する",
+      "en": "She was assigned to the Tokyo office.",
+      "ja": "彼女は東京支社に配属された。"
+    },
+    {
+      "source": "original",
+      "label": "assignment(名詞)",
+      "en": "I have to finish my assignment by Friday.",
+      "ja": "金曜日までに課題を終えなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "席を割り当てる",
+      "en": "Each student is assigned a seat number.",
+      "ja": "生徒一人ひとりに座席番号が割り当てられている。"
+    }
+  ],
+  "check_points": [
+    "assign A to B を assign B A に言い換えられるか",
+    "assignment の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be assigned to(配属される)と assignment(課題)が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 352
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "reserve",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/rɪˈzɜːrv/",
+  "core_image": {
+    "text": "あとのために、取っておく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 86,80 96,82\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><polyline points=\"150,62 150,110 190,110 190,140\"/><line x1=\"150\" y1=\"110\" x2=\"150\" y2=\"140\"/><line x1=\"150\" y1=\"62\" x2=\"160\" y2=\"62\"/></g><text x=\"172\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">予約席</text><text x=\"60\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あとで使う</text></svg>"
+  },
+  "etymology": "re(うしろに) + serve(保つ。preserve、conserve と同じ) → うしろに取っておく → 予約する・(席を)確保する → (権利を)保留する → (名)蓄え・(気持ちを取っておく)遠慮",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to keep something for a particular person or purpose, or to arrange to have a seat or room for later."
+    },
+    {
+      "pos": "名詞",
+      "text": "a supply of something kept for later use, or the quality of not showing your feelings."
+    }
+  ],
+  "cautions": [
+    "reserve A for B=AをBのために取っておく",
+    "「予約する」は book と同じ。名詞 reservation=予約(make a reservation)",
+    "形容詞 reserved=控えめな・遠慮がちな(「予約済みの」の意味も)",
+    "名詞 reserve=蓄え(in reserve=取ってある)・遠慮"
+  ],
+  "patterns": [
+    {
+      "form": "reserve A for B",
+      "meaning": "AをBのために取っておく"
+    },
+    {
+      "form": "reserve a table / room",
+      "meaning": "席・部屋を予約する"
+    },
+    {
+      "form": "make a reservation",
+      "meaning": "予約する"
+    },
+    {
+      "form": "in reserve",
+      "meaning": "予備として"
+    },
+    {
+      "form": "reserved",
+      "meaning": "控えめな・予約済みの"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "reserve A for B",
+      "en": "These seats are reserved for elderly people.",
+      "ja": "これらの席はお年寄りのために取ってある。"
+    },
+    {
+      "source": "original",
+      "label": "予約する",
+      "en": "I'd like to reserve a table for four at seven.",
+      "ja": "7時に4人で席を予約したいのですが。"
+    },
+    {
+      "source": "original",
+      "label": "reservation(名詞)",
+      "en": "Did you make a reservation at the hotel?",
+      "ja": "ホテルの予約はしましたか。"
+    },
+    {
+      "source": "original",
+      "label": "in reserve",
+      "en": "Keep some money in reserve for emergencies.",
+      "ja": "いざというときのためにお金を少し取っておきなさい。"
+    },
+    {
+      "source": "original",
+      "label": "reserved(控えめな)",
+      "en": "He is a reserved person who rarely talks about himself.",
+      "ja": "彼は控えめな人で、自分のことはめったに話さない。"
+    },
+    {
+      "source": "original",
+      "label": "蓄え(名詞)",
+      "en": "The country has large oil reserves.",
+      "ja": "その国には大量の石油の埋蔵量がある。"
+    }
+  ],
+  "check_points": [
+    "reserved の2つの意味を言えるか",
+    "reserve A for B の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "reservation(予約)と reserved(控えめな)が会話文・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 357
+    }
+  ]
+}
