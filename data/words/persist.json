@@ -1,0 +1,98 @@
+{
+  "word": "persist",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/pərˈsɪst/",
+  "core_image": {
+    "text": "最後まで、つらぬいて立ちつづける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><polyline points=\"150,74 128,80 116,78\"/><line x1=\"150\" y1=\"74\" x2=\"160\" y2=\"96\"/><line x1=\"30\" y1=\"50\" x2=\"100\" y2=\"70\"/><polyline points=\"94.3,64.4 100,70 92.2,71.8\"/><line x1=\"30\" y1=\"90\" x2=\"100\" y2=\"96\"/><polyline points=\"93.3,91.6 100,96 92.7,99.2\"/><line x1=\"30\" y1=\"126\" x2=\"100\" y2=\"120\"/><polyline points=\"92.7,116.8 100,120 93.3,124.4\"/></g><text x=\"50\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">向かい風</text><text x=\"196\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">立ちつづける</text></svg>"
+  },
+  "etymology": "per(最後まで・つらぬいて) + sist(立つ。insist、resist と同じ) → 最後まで立ちつづける → (やめずに)やり通す・しつこく言う → (状態が)続く",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to continue doing something in a determined way although it is difficult, or to continue to exist."
+    }
+  ],
+  "cautions": [
+    "persist in doing / A=しつこく〜しつづける・Aをやり通す(in に注意。insist on と区別)",
+    "persist with A=A(計画など)をやり続ける",
+    "「(よくない状態が)続く」の自動詞(The pain persisted.)",
+    "形容詞 persistent=しつこい・根気強い、名詞 persistence=粘り強さ"
+  ],
+  "patterns": [
+    {
+      "form": "persist in doing",
+      "meaning": "〜しつづける"
+    },
+    {
+      "form": "persist with A",
+      "meaning": "Aをやり続ける"
+    },
+    {
+      "form": "persist",
+      "meaning": "(状態が)続く"
+    },
+    {
+      "form": "persistent",
+      "meaning": "しつこい・根気強い"
+    },
+    {
+      "form": "persistence",
+      "meaning": "粘り強さ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "persist in doing",
+      "en": "He persisted in asking the same question.",
+      "ja": "彼は同じ質問をしつこくくり返した。"
+    },
+    {
+      "source": "original",
+      "label": "やり通す",
+      "en": "If you persist, you will succeed in the end.",
+      "ja": "あきらめなければ、最後には成功する。"
+    },
+    {
+      "source": "original",
+      "label": "persist with",
+      "en": "She persisted with her plan despite the criticism.",
+      "ja": "批判されても彼女は計画をやり通した。"
+    },
+    {
+      "source": "original",
+      "label": "続く",
+      "en": "If the pain persists, see a doctor.",
+      "ja": "痛みが続くようなら医者にみてもらいなさい。"
+    },
+    {
+      "source": "original",
+      "label": "persistent(形容詞)",
+      "en": "A persistent cough kept him awake.",
+      "ja": "しつこいせきのせいで彼は眠れなかった。"
+    },
+    {
+      "source": "original",
+      "label": "insist on との区別",
+      "en": "He persisted in his opinion and insisted on his right.",
+      "ja": "彼は自分の意見をつらぬき、自分の権利を強く主張した。"
+    }
+  ],
+  "check_points": [
+    "persist in と insist on の前置詞の違いを言えるか",
+    "persistent の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "persist in doing の in と、persistent / persistence が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 420
+    }
+  ]
+}

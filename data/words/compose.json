@@ -1,0 +1,98 @@
+{
+  "word": "compose",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kəmˈpoʊz/",
+  "core_image": {
+    "text": "部品をいっしょに置いて、1つに組み立てる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"110\" width=\"20\" height=\"20\"/><circle cx=\"70\" cy=\"120\" r=\"10\"/><polygon points=\"90,130 100,110 110,130\"/><line x1=\"118\" y1=\"120\" x2=\"146\" y2=\"120\"/><polyline points=\"139,116.2 146,120 139,123.8\"/><rect x=\"156\" y=\"70\" width=\"60\" height=\"60\"/><circle cx=\"186\" cy=\"90\" r=\"10\"/><line x1=\"166\" y1=\"116\" x2=\"206\" y2=\"116\"/></g><text x=\"70\" y=\"92\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">部品</text><text x=\"186\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">組み立てる</text></svg>"
+  },
+  "etymology": "com(いっしょに) + pose(置く。propose、expose と同じ) → いっしょに置く → 組み立てる・構成する → (曲・文を)作る → (心を)整える",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to form something from parts, to write music or a poem, or to make yourself calm."
+    }
+  ],
+  "cautions": [
+    "be composed of A=Aから成り立っている(consist of A と同じ。こちらは受け身)",
+    "A compose B=AがBを構成する(主語が部品の側)",
+    "compose oneself=心を落ち着ける(composed=落ち着いた)",
+    "名詞 composition=構成・作曲・作文、composer=作曲家"
+  ],
+  "patterns": [
+    {
+      "form": "be composed of A",
+      "meaning": "Aから成る"
+    },
+    {
+      "form": "A compose B",
+      "meaning": "AがBを構成する"
+    },
+    {
+      "form": "compose music",
+      "meaning": "作曲する"
+    },
+    {
+      "form": "compose oneself",
+      "meaning": "心を落ち着ける"
+    },
+    {
+      "form": "composition",
+      "meaning": "構成・作文"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "be composed of",
+      "en": "The committee is composed of ten members.",
+      "ja": "委員会は10人の委員で構成されている。"
+    },
+    {
+      "source": "original",
+      "label": "構成する",
+      "en": "Women compose more than half of the staff.",
+      "ja": "職員の半分以上を女性が占めている。"
+    },
+    {
+      "source": "original",
+      "label": "作曲する",
+      "en": "Mozart composed his first piece at the age of five.",
+      "ja": "モーツァルトは5歳で最初の曲を作った。"
+    },
+    {
+      "source": "original",
+      "label": "(文を)作る",
+      "en": "She composed a letter to her old teacher.",
+      "ja": "彼女は昔の先生に手紙を書いた。"
+    },
+    {
+      "source": "original",
+      "label": "compose oneself",
+      "en": "He took a deep breath to compose himself.",
+      "ja": "彼は落ち着くために深呼吸した。"
+    },
+    {
+      "source": "original",
+      "label": "consist of との比較",
+      "en": "Water is composed of, or consists of, hydrogen and oxygen.",
+      "ja": "水は水素と酸素から成る。"
+    }
+  ],
+  "check_points": [
+    "be composed of と consist of の形の違いを言えるか",
+    "compose oneself の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be composed of(=consist of)の言い換えが定番。composition も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 414
+    }
+  ]
+}

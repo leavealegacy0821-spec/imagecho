@@ -1,0 +1,94 @@
+{
+  "word": "abide",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈbaɪd/",
+  "core_image": {
+    "text": "その場にとどまって、動かない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"106\" y2=\"96\"/><line x1=\"120\" y1=\"74\" x2=\"134\" y2=\"96\"/><rect x=\"88\" y=\"34\" width=\"64\" height=\"106\" stroke-dasharray=\"4 4\"/><line x1=\"40\" y1=\"90\" x2=\"80\" y2=\"90\" stroke-dasharray=\"5 5\"/><polyline points=\"73,86.2 80,90 73,93.8\"/><line x1=\"200\" y1=\"90\" x2=\"160\" y2=\"90\" stroke-dasharray=\"5 5\"/><polyline points=\"167,93.8 160,90 167,86.2\"/></g><text x=\"44\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">とどまる</text><text x=\"200\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">守る</text></svg>"
+  },
+  "etymology": "a(強め) + bide(待つ・とどまる) → その場にとどまる → (決まりに)とどまる=守る → (否定で)がまんできない。名詞 abode=住まい",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to accept or obey a rule or decision, or (usually in negative) to be unable to accept someone or something unpleasant."
+    }
+  ],
+  "cautions": [
+    "abide by A=A(規則・決定・約束)を守る(by を忘れない。obey、follow と同じ)",
+    "can't abide A=Aにがまんできない(否定文・疑問文で。stand、bear と同じ)",
+    "形容詞 law-abiding=法を守る",
+    "「住む・とどまる」は古い言い方。過去形は abided / abode"
+  ],
+  "patterns": [
+    {
+      "form": "abide by A",
+      "meaning": "Aを守る"
+    },
+    {
+      "form": "can't abide A",
+      "meaning": "Aにがまんできない"
+    },
+    {
+      "form": "law-abiding",
+      "meaning": "法を守る"
+    },
+    {
+      "form": "abode",
+      "meaning": "住まい"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "abide by(規則)",
+      "en": "All players must abide by the rules.",
+      "ja": "選手は全員、規則を守らなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "abide by(決定)",
+      "en": "We will abide by the decision of the committee.",
+      "ja": "私たちは委員会の決定に従います。"
+    },
+    {
+      "source": "original",
+      "label": "abide by(約束)",
+      "en": "He always abides by his promises.",
+      "ja": "彼はいつも約束を守る。"
+    },
+    {
+      "source": "original",
+      "label": "can't abide",
+      "en": "I can't abide people who are rude to waiters.",
+      "ja": "店員に失礼な人にはがまんできない。"
+    },
+    {
+      "source": "original",
+      "label": "law-abiding",
+      "en": "Most citizens are law-abiding.",
+      "ja": "ほとんどの市民は法を守っている。"
+    },
+    {
+      "source": "original",
+      "label": "stand との言い換え",
+      "en": "She can't abide, or can't stand, the noise.",
+      "ja": "彼女はその騒音にがまんできない。"
+    }
+  ],
+  "check_points": [
+    "abide by A の意味を言えるか",
+    "can't abide A を別の動詞で言いかえられるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "abide by(=obey / follow)の言い換えが語彙問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 419
+    }
+  ]
+}

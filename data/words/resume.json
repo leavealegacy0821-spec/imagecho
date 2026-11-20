@@ -1,0 +1,98 @@
+{
+  "word": "resume",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈzuːm/",
+  "core_image": {
+    "text": "止まっていたものを、もう一度とり上げる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"20\" y1=\"80\" x2=\"90\" y2=\"80\"/><line x1=\"104\" y1=\"70\" x2=\"104\" y2=\"90\"/><line x1=\"114\" y1=\"70\" x2=\"114\" y2=\"90\"/><line x1=\"128\" y1=\"80\" x2=\"220\" y2=\"80\"/><polyline points=\"213,76.2 220,80 213,83.8\"/></g><text x=\"110\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">休み</text><text x=\"176\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">また始める</text></svg>"
+  },
+  "etymology": "re(再び) + sume(取る。assume、consume と同じ) → もう一度取る → (中断したことを)再開する → (席・地位を)取りもどす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to start doing something again after stopping, or to go back to a place or position."
+    }
+  ],
+  "cautions": [
+    "resume doing / resume A=〜を再開する(動名詞をとる)",
+    "resume one's seat=席にもどる",
+    "名詞 resumption=再開。résumé /ˈrezəmeɪ/ は「履歴書・要約」(発音・意味が別)",
+    "start again、restart と言い換えられる"
+  ],
+  "patterns": [
+    {
+      "form": "resume A",
+      "meaning": "Aを再開する"
+    },
+    {
+      "form": "resume doing",
+      "meaning": "〜するのを再開する"
+    },
+    {
+      "form": "resume one's seat",
+      "meaning": "席にもどる"
+    },
+    {
+      "form": "resumption",
+      "meaning": "再開"
+    },
+    {
+      "form": "résumé",
+      "meaning": "履歴書"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "再開する",
+      "en": "The meeting will resume after lunch.",
+      "ja": "会議は昼食後に再開する。"
+    },
+    {
+      "source": "original",
+      "label": "resume doing",
+      "en": "She put down the phone and resumed reading.",
+      "ja": "彼女は電話を置いて、また読み始めた。"
+    },
+    {
+      "source": "original",
+      "label": "resume A",
+      "en": "The two countries resumed talks last month.",
+      "ja": "2国は先月、交渉を再開した。"
+    },
+    {
+      "source": "original",
+      "label": "席にもどる",
+      "en": "Please resume your seats; the show is starting.",
+      "ja": "席にお戻りください。ショーが始まります。"
+    },
+    {
+      "source": "original",
+      "label": "とりもどす",
+      "en": "After the illness, he resumed his old position.",
+      "ja": "病気のあと、彼は元の地位にもどった。"
+    },
+    {
+      "source": "original",
+      "label": "résumé(名詞)",
+      "en": "Send your résumé to the company by Friday.",
+      "ja": "金曜日までに会社へ履歴書を送ってください。"
+    }
+  ],
+  "check_points": [
+    "resume のあとは to do か doing か",
+    "résumé の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「再開する」の意味と resume doing の語法が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 417
+    }
+  ]
+}

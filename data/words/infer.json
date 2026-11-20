@@ -1,0 +1,94 @@
+{
+  "word": "infer",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈfɜːr/",
+  "core_image": {
+    "text": "手がかりから、答えを中へ運びこむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"56\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><circle cx=\"120\" cy=\"126\" r=\"6\"/><circle cx=\"150\" cy=\"122\" r=\"6\"/><circle cx=\"180\" cy=\"126\" r=\"6\"/><line x1=\"176\" y1=\"112\" x2=\"96\" y2=\"48\" stroke-dasharray=\"5 5\"/><polyline points=\"99.1,55.4 96,48 103.9,49.4\"/></g><text x=\"212\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手がかり</text><text x=\"150\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">だから…</text></svg>"
+  },
+  "etymology": "in(中へ) + fer(運ぶ。transfer、refer と同じ) → (手がかりを)頭の中へ運ぶ → 推論する・推測する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to reach an opinion from the information that you have."
+    }
+  ],
+  "cautions": [
+    "infer A from B=BからAを推論する(from に注意)",
+    "infer that S V=〜だと推論する",
+    "imply(ほのめかす)は「話し手が出す」、infer は「聞き手が読み取る」",
+    "名詞 inference=推論。過去形は inferred(r を重ねる)"
+  ],
+  "patterns": [
+    {
+      "form": "infer A from B",
+      "meaning": "BからAを推論する"
+    },
+    {
+      "form": "infer that S V",
+      "meaning": "〜だと推論する"
+    },
+    {
+      "form": "inference",
+      "meaning": "推論"
+    },
+    {
+      "form": "imply",
+      "meaning": "ほのめかす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "infer A from B",
+      "en": "What can you infer from the second paragraph?",
+      "ja": "第2段落から何が推測できますか。"
+    },
+    {
+      "source": "original",
+      "label": "infer that",
+      "en": "From his smile, I inferred that he had passed the test.",
+      "ja": "彼の笑顔から、試験に受かったのだと思った。"
+    },
+    {
+      "source": "original",
+      "label": "推論する",
+      "en": "Scientists infer the age of rocks from the elements in them.",
+      "ja": "科学者は含まれる元素から岩の年代を推定する。"
+    },
+    {
+      "source": "original",
+      "label": "imply との違い",
+      "en": "She implied that I was wrong, and I inferred that she was angry.",
+      "ja": "彼女は私がまちがっているとほのめかし、私は彼女が怒っていると読み取った。"
+    },
+    {
+      "source": "original",
+      "label": "設問の形",
+      "en": "It can be inferred from the passage that the writer likes cats.",
+      "ja": "本文から筆者は猫が好きだと推測できる。"
+    },
+    {
+      "source": "original",
+      "label": "inference(名詞)",
+      "en": "Make an inference based on the data.",
+      "ja": "データにもとづいて推論しなさい。"
+    }
+  ],
+  "check_points": [
+    "infer と imply の違いを言えるか",
+    "infer A from B の形を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "読解の設問「It can be inferred that 〜」で毎年出る。imply との区別も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 412
+    }
+  ]
+}

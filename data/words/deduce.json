@@ -1,0 +1,94 @@
+{
+  "word": "deduce",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈduːs/",
+  "core_image": {
+    "text": "決まりから、答えを下へ引き出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"80\" y=\"18\" width=\"80\" height=\"26\"/><line x1=\"92\" y1=\"31\" x2=\"148\" y2=\"31\"/><line x1=\"120\" y1=\"48\" x2=\"120\" y2=\"90\"/><polyline points=\"123.8,83 120,90 116.2,83\"/><circle cx=\"120\" cy=\"106\" r=\"12\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"186\" y2=\"58\"/><line x1=\"200\" y1=\"74\" x2=\"210\" y2=\"96\"/></g><text x=\"44\" y=\"32\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">決まり</text><text x=\"64\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">答え</text></svg>"
+  },
+  "etymology": "de(下へ・離れて) + duce(導く。induce、reduce と同じ) → (前提から)下へ導き出す → 推論する・演繹する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to reach an answer or a decision by thinking carefully about the known facts."
+    }
+  ],
+  "cautions": [
+    "deduce A from B=BからAを推論する(infer と同じ型)",
+    "deduce that S V=〜だと推論する",
+    "名詞 deduction=推論・演繹(induction=帰納 と対)/差し引くこと(deduct と共通)",
+    "deduct(差し引く)と形が似ているので注意"
+  ],
+  "patterns": [
+    {
+      "form": "deduce A from B",
+      "meaning": "BからAを推論する"
+    },
+    {
+      "form": "deduce that S V",
+      "meaning": "〜と推論する"
+    },
+    {
+      "form": "deduction",
+      "meaning": "推論・演繹・控除"
+    },
+    {
+      "form": "deduct",
+      "meaning": "差し引く"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "deduce A from B",
+      "en": "The detective deduced the truth from a few small clues.",
+      "ja": "探偵はいくつかの小さな手がかりから真相を導き出した。"
+    },
+    {
+      "source": "original",
+      "label": "deduce that",
+      "en": "From the wet road, we deduced that it had rained.",
+      "ja": "道がぬれていたので、雨が降ったのだと推論した。"
+    },
+    {
+      "source": "original",
+      "label": "推論する",
+      "en": "Can you deduce the rule from these examples?",
+      "ja": "これらの例から規則を導き出せますか。"
+    },
+    {
+      "source": "original",
+      "label": "deduction(推論)",
+      "en": "Her deduction turned out to be correct.",
+      "ja": "彼女の推論は正しいとわかった。"
+    },
+    {
+      "source": "original",
+      "label": "induction との対",
+      "en": "Deduction moves from general rules to specific cases.",
+      "ja": "演繹は一般的な規則から個々の場合へ進む。"
+    },
+    {
+      "source": "original",
+      "label": "deduct との区別",
+      "en": "Tax is deducted from your salary.",
+      "ja": "税金は給料から差し引かれる。"
+    }
+  ],
+  "check_points": [
+    "deduce A from B の形を言えるか",
+    "deduction と induction の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "deduce A from B と infer の言い換え、deduction / induction の対が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 415
+    }
+  ]
+}

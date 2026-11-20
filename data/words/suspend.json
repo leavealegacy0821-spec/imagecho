@@ -1,0 +1,98 @@
+{
+  "word": "suspend",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/səˈspend/",
+  "core_image": {
+    "text": "下につるして、宙ぶらりんにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"40\" y1=\"20\" x2=\"200\" y2=\"20\"/><line x1=\"80\" y1=\"20\" x2=\"80\" y2=\"60\"/><rect x=\"60\" y=\"60\" width=\"40\" height=\"30\"/><line x1=\"160\" y1=\"20\" x2=\"160\" y2=\"50\"/><circle cx=\"160\" cy=\"62\" r=\"12\"/><line x1=\"160\" y1=\"80\" x2=\"160\" y2=\"124\" stroke-dasharray=\"5 5\"/><polyline points=\"163.8,117 160,124 156.2,117\"/></g><text x=\"80\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">つるす</text><text x=\"200\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">止めて</text></svg>"
+  },
+  "etymology": "sus(sub=下に) + pend(つるす。depend、pendant と同じ) → 下につるす → 宙ぶらりんにする → (決めずに)一時停止する → (しばらく)停学・停職にする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to hang something, to stop something for a period of time, or to keep someone out of school or work for a time as a punishment."
+    }
+  ],
+  "cautions": [
+    "「つるす」だけでなく「一時停止する・延期する」が入試の中心(終わりではなく、また再開する)",
+    "be suspended from school=停学になる(from に注意)",
+    "名詞 suspension=停止・停学・(車の)サスペンション、suspense=宙ぶらりんの不安",
+    "be suspended from A=Aからつり下がっている"
+  ],
+  "patterns": [
+    {
+      "form": "suspend A",
+      "meaning": "Aを一時停止する"
+    },
+    {
+      "form": "be suspended from school",
+      "meaning": "停学になる"
+    },
+    {
+      "form": "be suspended from A",
+      "meaning": "Aからつり下がる"
+    },
+    {
+      "form": "suspension",
+      "meaning": "停止・停学"
+    },
+    {
+      "form": "suspense",
+      "meaning": "はらはらする気持ち"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "一時停止する",
+      "en": "The train service was suspended because of the heavy snow.",
+      "ja": "大雪のため電車の運行が一時停止された。"
+    },
+    {
+      "source": "original",
+      "label": "延期する",
+      "en": "The game was suspended until the next day.",
+      "ja": "試合は翌日まで中断された。"
+    },
+    {
+      "source": "original",
+      "label": "停学にする",
+      "en": "He was suspended from school for a week.",
+      "ja": "彼は1週間の停学になった。"
+    },
+    {
+      "source": "original",
+      "label": "つるす",
+      "en": "A lamp was suspended from the ceiling.",
+      "ja": "天井からランプがつり下がっていた。"
+    },
+    {
+      "source": "original",
+      "label": "判断を保留する",
+      "en": "Try to suspend judgment until you hear both sides.",
+      "ja": "両方の言い分を聞くまで判断を保留するようにしなさい。"
+    },
+    {
+      "source": "original",
+      "label": "suspense(名詞)",
+      "en": "The movie kept us in suspense until the end.",
+      "ja": "その映画は最後まで私たちをはらはらさせた。"
+    }
+  ],
+  "check_points": [
+    "suspend の「一時停止する」の意味を言えるか",
+    "be suspended from school の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「一時停止する・停学にする」の意味が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 411
+    }
+  ]
+}

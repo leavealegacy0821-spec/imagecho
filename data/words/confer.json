@@ -1,0 +1,94 @@
+{
+  "word": "confer",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈfɜːr/",
+  "core_image": {
+    "text": "みんなで、ことばや物を持ち寄る・手わたす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 82,86 92,84\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><polyline points=\"180,74 158,86 148,84\"/><line x1=\"180\" y1=\"74\" x2=\"190\" y2=\"96\"/><rect x=\"108\" y=\"74\" width=\"24\" height=\"18\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">持ち寄る</text><text x=\"120\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さずける</text></svg>"
+  },
+  "etymology": "con(いっしょに) + fer(運ぶ) → (意見を)いっしょに持ち寄る → 相談する・協議する。(物を)運んで手わたす → (称号・賞を)授ける",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to discuss something with other people, or to give an official title, honour or right to someone."
+    }
+  ],
+  "cautions": [
+    "confer with A (about B)=Aと(Bについて)相談する(自動詞)",
+    "confer A on / upon B=BにAを授ける(on に注意。give A to B と同じ意味)",
+    "名詞 conference=会議(「持ち寄る場」)",
+    "過去形は conferred(r を重ねる)"
+  ],
+  "patterns": [
+    {
+      "form": "confer with A",
+      "meaning": "Aと相談する"
+    },
+    {
+      "form": "confer A on B",
+      "meaning": "BにAを授ける"
+    },
+    {
+      "form": "conference",
+      "meaning": "会議"
+    },
+    {
+      "form": "confer about A",
+      "meaning": "Aについて協議する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "confer with",
+      "en": "The doctor conferred with her colleagues about the case.",
+      "ja": "医者はその症例について同僚と相談した。"
+    },
+    {
+      "source": "original",
+      "label": "協議する",
+      "en": "The two leaders conferred for several hours.",
+      "ja": "2人の指導者は数時間協議した。"
+    },
+    {
+      "source": "original",
+      "label": "confer A on B",
+      "en": "The university conferred an honorary degree on the writer.",
+      "ja": "大学はその作家に名誉学位を授けた。"
+    },
+    {
+      "source": "original",
+      "label": "授ける(受け身)",
+      "en": "The title was conferred on him by the king.",
+      "ja": "その称号は王から彼に授けられた。"
+    },
+    {
+      "source": "original",
+      "label": "与える(権利・利点)",
+      "en": "Speaking two languages confers many advantages.",
+      "ja": "2か国語を話せると多くの利点がある。"
+    },
+    {
+      "source": "original",
+      "label": "conference(名詞)",
+      "en": "She attended an international conference in Tokyo.",
+      "ja": "彼女は東京での国際会議に出席した。"
+    }
+  ],
+  "check_points": [
+    "confer の2つの意味を言えるか",
+    "confer A on B の前置詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "confer A on B(授ける)の on が語法問題で出る。conference との関係も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 413
+    }
+  ]
+}

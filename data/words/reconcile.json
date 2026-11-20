@@ -1,0 +1,94 @@
+{
+  "word": "reconcile",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈrekənsaɪl/",
+  "core_image": {
+    "text": "はなれた2つを、もう一度なかよく合わせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 96,82 112,80\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><polyline points=\"170,74 144,82 128,80\"/><line x1=\"170\" y1=\"74\" x2=\"180\" y2=\"96\"/><line x1=\"30\" y1=\"34\" x2=\"52\" y2=\"46\" stroke-dasharray=\"5 5\"/><polyline points=\"47.7,39.3 52,46 44,46\"/><line x1=\"210\" y1=\"34\" x2=\"188\" y2=\"46\" stroke-dasharray=\"5 5\"/><polyline points=\"196,46 188,46 192.3,39.3\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">仲なおり</text><text x=\"120\" y=\"122\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もう一度</text></svg>"
+  },
+  "etymology": "re(再び) + concile(なかよくさせる。council と同じ「呼び集める」) → もう一度なかよくさせる → 和解させる → (くい違う考えを)両立させる → (いやなことを)受け入れさせる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make two people friends again, to find a way to make two ideas agree, or to make someone accept a bad situation."
+    }
+  ],
+  "cautions": [
+    "be reconciled with A=Aと仲なおりする",
+    "reconcile A with B=AとBを両立させる・一致させる",
+    "be reconciled to A / reconcile oneself to A=Aをしかたなく受け入れる(to は前置詞)",
+    "名詞 reconciliation=和解"
+  ],
+  "patterns": [
+    {
+      "form": "be reconciled with A",
+      "meaning": "Aと仲なおりする"
+    },
+    {
+      "form": "reconcile A with B",
+      "meaning": "AとBを両立させる"
+    },
+    {
+      "form": "be reconciled to A",
+      "meaning": "Aを受け入れる"
+    },
+    {
+      "form": "reconciliation",
+      "meaning": "和解"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "仲なおりする",
+      "en": "After years of silence, he was reconciled with his brother.",
+      "ja": "何年も口をきかなかったが、彼は兄と和解した。"
+    },
+    {
+      "source": "original",
+      "label": "和解させる",
+      "en": "The teacher tried to reconcile the two students.",
+      "ja": "先生は2人の生徒を仲なおりさせようとした。"
+    },
+    {
+      "source": "original",
+      "label": "reconcile A with B",
+      "en": "It is hard to reconcile work with family life.",
+      "ja": "仕事と家庭生活を両立させるのは難しい。"
+    },
+    {
+      "source": "original",
+      "label": "一致させる",
+      "en": "How can you reconcile your words with your actions?",
+      "ja": "あなたの言葉と行動をどう一致させるのですか。"
+    },
+    {
+      "source": "original",
+      "label": "受け入れる",
+      "en": "She has reconciled herself to living alone.",
+      "ja": "彼女は一人で暮らすことを受け入れた。"
+    },
+    {
+      "source": "original",
+      "label": "reconciliation(名詞)",
+      "en": "The two countries finally reached a reconciliation.",
+      "ja": "2国はついに和解に達した。"
+    }
+  ],
+  "check_points": [
+    "reconcile A with B の意味を言えるか",
+    "be reconciled to A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「両立させる」の意味と reconcile A with B が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 416
+    }
+  ]
+}
