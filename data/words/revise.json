@@ -1,0 +1,97 @@
+{
+  "word": "revise",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈvaɪz/",
+  "core_image": {
+    "text": "もう一度見なおして、よりよい形に直す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"40\" width=\"70\" height=\"90\"/><line x1=\"52\" y1=\"60\" x2=\"98\" y2=\"60\"/><line x1=\"52\" y1=\"80\" x2=\"98\" y2=\"80\"/><line x1=\"52\" y1=\"100\" x2=\"98\" y2=\"100\"/><line x1=\"50\" y1=\"76\" x2=\"100\" y2=\"84\"/><line x1=\"118\" y1=\"85\" x2=\"152\" y2=\"85\"/><polyline points=\"145,81.2 152,85 145,88.8\"/><rect x=\"160\" y=\"40\" width=\"70\" height=\"90\"/><line x1=\"172\" y1=\"60\" x2=\"218\" y2=\"60\"/><line x1=\"172\" y1=\"80\" x2=\"218\" y2=\"80\"/><line x1=\"172\" y1=\"100\" x2=\"218\" y2=\"100\"/></g><text x=\"134\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見直す</text></svg>"
+  },
+  "etymology": "re(もう一度) + vise(ラテン語 videre=見る。vision・visit と同じ) → もう一度見る → (文章・計画・意見・数字を)見直して改める → (英国で)復習する → 名詞 revision=改訂・見直し",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to change something such as a piece of writing, a plan, or an opinion, in order to improve it or make it more accurate."
+    }
+  ],
+  "cautions": [
+    "「間違いを直す」だけでなく「計画・予想・意見を改める」(revise A upward / downward=上方・下方修正)",
+    "イギリス英語では「(試験のために)復習する」の意味もある(アメリカ英語は review)",
+    "名詞 revision=改訂・修正、a revised edition=改訂版"
+  ],
+  "patterns": [
+    {
+      "form": "revise A",
+      "meaning": "Aを修正する"
+    },
+    {
+      "form": "revise A's opinion / view",
+      "meaning": "意見を改める"
+    },
+    {
+      "form": "revise A upward / downward",
+      "meaning": "Aを上方・下方修正する"
+    },
+    {
+      "form": "a revised edition",
+      "meaning": "改訂版"
+    },
+    {
+      "form": "revise for an exam",
+      "meaning": "試験勉強をする(英)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "文章",
+      "en": "Please revise your essay before you hand it in.",
+      "ja": "提出する前に作文を見直して直してください。"
+    },
+    {
+      "source": "original",
+      "label": "意見",
+      "en": "After hearing her story, I revised my opinion of her.",
+      "ja": "彼女の話を聞いて、私は彼女への見方を改めた。"
+    },
+    {
+      "source": "original",
+      "label": "計画",
+      "en": "The company had to revise its plans because of the storm.",
+      "ja": "その会社は嵐のせいで計画を見直さなければならなかった。"
+    },
+    {
+      "source": "original",
+      "label": "数字",
+      "en": "The government revised its growth forecast downward.",
+      "ja": "政府は成長の予測を下方修正した。"
+    },
+    {
+      "source": "original",
+      "label": "改訂版",
+      "en": "A revised edition of the dictionary came out last year.",
+      "ja": "その辞書の改訂版が去年出た。"
+    },
+    {
+      "source": "original",
+      "label": "復習する(英)",
+      "en": "I need to revise for tomorrow's history test.",
+      "ja": "明日の歴史のテストに向けて復習しないといけない。"
+    }
+  ],
+  "check_points": [
+    "revise の語源(もう一度+見る)を言えるか",
+    "revise の「意見・計画を改める」用法を例で言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で「(計画・意見・予測を)修正する」の意味で出る。名詞 revision も頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 514
+    }
+  ]
+}

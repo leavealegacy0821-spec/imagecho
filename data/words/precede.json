@@ -1,0 +1,94 @@
+{
+  "word": "precede",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/prɪˈsiːd/",
+  "core_image": {
+    "text": "時間や順番で、相手より一歩前を行く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"170\" y2=\"94\"/><line x1=\"150\" y1=\"74\" x2=\"130\" y2=\"94\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"80\" y1=\"74\" x2=\"100\" y2=\"94\"/><line x1=\"80\" y1=\"74\" x2=\"60\" y2=\"94\"/><line x1=\"176\" y1=\"30\" x2=\"220\" y2=\"30\"/><polyline points=\"213,26.2 220,30 213,33.8\"/></g><text x=\"150\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">先</text><text x=\"80\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">後</text></svg>"
+  },
+  "etymology": "pre(前に) + cede(ラテン語 cedere=行く。proceed・exceed と同じ) → 前を行く → (時間・順序・位置が)〜より先に来る → 形容詞 preceding=前の、名詞 precedent=先例",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to happen or exist before something else, or to come before something in order or position."
+    }
+  ],
+  "cautions": [
+    "他動詞:A precedes B=AがBより先に来る(×precede to B)",
+    "受け身 B is preceded by A=Bの前にAがある・起こる",
+    "proceed(先へ進む)と1字違いなので注意。precede=前に、proceed=前へ進み続ける",
+    "形容詞 preceding=前の(the preceding page)、名詞 precedent=前例(without precedent=前例のない)"
+  ],
+  "patterns": [
+    {
+      "form": "A precede B",
+      "meaning": "AがBに先行する"
+    },
+    {
+      "form": "B is preceded by A",
+      "meaning": "Bの前にAがある"
+    },
+    {
+      "form": "the preceding A",
+      "meaning": "前のA"
+    },
+    {
+      "form": "precedent",
+      "meaning": "前例"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "先に起こる",
+      "en": "A short silence preceded his answer.",
+      "ja": "彼が答える前に少し沈黙があった。"
+    },
+    {
+      "source": "original",
+      "label": "be preceded by",
+      "en": "The earthquake was preceded by several small shocks.",
+      "ja": "その地震の前に何度か小さな揺れがあった。"
+    },
+    {
+      "source": "original",
+      "label": "順番",
+      "en": "In English, the adjective usually precedes the noun.",
+      "ja": "英語では、形容詞はふつう名詞の前に来る。"
+    },
+    {
+      "source": "original",
+      "label": "the preceding",
+      "en": "See the chart on the preceding page.",
+      "ja": "前のページの図を見てください。"
+    },
+    {
+      "source": "original",
+      "label": "前の時代",
+      "en": "The war was preceded by years of tension.",
+      "ja": "戦争の前には何年も緊張状態が続いた。"
+    },
+    {
+      "source": "original",
+      "label": "precedent",
+      "en": "The decision has no precedent in history.",
+      "ja": "その決定は歴史上前例がない。"
+    }
+  ],
+  "check_points": [
+    "precede と proceed の違いを言えるか",
+    "B is preceded by A の意味でどちらが先か言えるか(A)"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "precede と proceed の区別、be preceded by A(Aが先にある)の読み取りが出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 517
+    }
+  ]
+}

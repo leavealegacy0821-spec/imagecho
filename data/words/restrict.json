@@ -1,0 +1,98 @@
+{
+  "word": "restrict",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈstrɪkt/",
+  "core_image": {
+    "text": "まわりをきつく締めて、動ける範囲をせばめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"70\" y=\"30\" width=\"100\" height=\"110\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"100\" y2=\"96\"/><line x1=\"120\" y1=\"74\" x2=\"140\" y2=\"96\"/><line x1=\"30\" y1=\"90\" x2=\"66\" y2=\"90\"/><polyline points=\"59,86.2 66,90 59,93.8\"/><line x1=\"210\" y1=\"90\" x2=\"174\" y2=\"90\"/><polyline points=\"181,93.8 174,90 181,86.2\"/></g><text x=\"120\" y=\"18\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">枠にとじこめる</text></svg>"
+  },
+  "etymology": "re(後ろへ・強め) + strict(ラテン語 stringere=きつく締める。strict・strain と同じ) → きつく締めつける → (数・量・範囲・行動を)制限する → restrict A to B=AをBに限る",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to limit the size, amount, or range of something, or to limit what someone is allowed to do."
+    }
+  ],
+  "cautions": [
+    "restrict A to B=AをBに限定する。to の後ろは「上限・範囲」(×restrict A in B)",
+    "be restricted to A=Aに限られている(受け身がよく出る)",
+    "limit とほぼ同じだが、restrict は「規則でしばる」感じが強い。名詞 restriction(制限)は on とセット:restrictions on A",
+    "形容詞 restricted=制限された・関係者以外立入禁止の(a restricted area)"
+  ],
+  "patterns": [
+    {
+      "form": "restrict A to B",
+      "meaning": "AをBに限る"
+    },
+    {
+      "form": "be restricted to A",
+      "meaning": "Aに限られている"
+    },
+    {
+      "form": "restrict A's freedom",
+      "meaning": "Aの自由を制限する"
+    },
+    {
+      "form": "restrictions on A",
+      "meaning": "Aへの制限"
+    },
+    {
+      "form": "a restricted area",
+      "meaning": "立入禁止区域"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "制限する(数)",
+      "en": "The school restricts the number of students in each class.",
+      "ja": "その学校は各クラスの生徒数を制限している。"
+    },
+    {
+      "source": "original",
+      "label": "restrict A to B",
+      "en": "Please restrict your speech to five minutes.",
+      "ja": "スピーチは5分以内にしてください。"
+    },
+    {
+      "source": "original",
+      "label": "be restricted to",
+      "en": "Entry to the room is restricted to members.",
+      "ja": "その部屋に入れるのは会員に限られている。"
+    },
+    {
+      "source": "original",
+      "label": "自由",
+      "en": "The new rule restricts our freedom to use phones at school.",
+      "ja": "新しい規則で学校でスマホを使う自由が制限される。"
+    },
+    {
+      "source": "original",
+      "label": "restriction on",
+      "en": "The government placed restrictions on imports.",
+      "ja": "政府は輸入に制限を課した。"
+    },
+    {
+      "source": "original",
+      "label": "動きをせばめる",
+      "en": "Tight clothes can restrict the movement of your arms.",
+      "ja": "きつい服は腕の動きを妨げることがある。"
+    }
+  ],
+  "check_points": [
+    "restrict A to B の to の意味を言えるか(〜に限る)",
+    "名詞 restriction の後ろの前置詞を言えるか(on)"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "restrict A to B / be restricted to A が語法・長文で出る。restriction on A も頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 511
+    }
+  ]
+}

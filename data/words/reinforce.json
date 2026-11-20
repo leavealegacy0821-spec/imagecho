@@ -1,0 +1,98 @@
+{
+  "word": "reinforce",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˌriːɪnˈfɔːrs/",
+  "core_image": {
+    "text": "弱いところに力をもう一度足して、強くする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"60\" y1=\"140\" x2=\"60\" y2=\"60\"/><line x1=\"180\" y1=\"140\" x2=\"180\" y2=\"60\"/><line x1=\"50\" y1=\"60\" x2=\"190\" y2=\"60\"/><line x1=\"60\" y1=\"140\" x2=\"120\" y2=\"60\"/><line x1=\"180\" y1=\"140\" x2=\"120\" y2=\"60\"/><line x1=\"120\" y1=\"20\" x2=\"120\" y2=\"52\"/><polyline points=\"123.8,45 120,52 116.2,45\"/></g><text x=\"176\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">支えを足す</text></svg>"
+  },
+  "etymology": "re(もう一度) + in(中に) + force(力) → もう一度力を入れる → (建物・部隊を)補強する → (考え・印象・習慣を)強める・裏づける → 名詞 reinforcement=補強・増援",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make something stronger, especially a structure, a feeling, or an idea, by adding support or evidence."
+    }
+  ],
+  "cautions": [
+    "物だけでなく「考え・印象・偏見・習慣」を強める意味が長文で多い:reinforce the idea that …",
+    "「新しく作る」ではなく「すでにあるものをさらに強める」",
+    "enforce(法律を守らせる)と混同しない",
+    "名詞 reinforcement、複数形 reinforcements=援軍"
+  ],
+  "patterns": [
+    {
+      "form": "reinforce A",
+      "meaning": "Aを補強する"
+    },
+    {
+      "form": "reinforce the idea / view that …",
+      "meaning": "…という考えを強める"
+    },
+    {
+      "form": "reinforce A with B",
+      "meaning": "AをBで補強する"
+    },
+    {
+      "form": "reinforce a stereotype",
+      "meaning": "固定観念を強める"
+    },
+    {
+      "form": "reinforcements",
+      "meaning": "援軍"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "補強する(物)",
+      "en": "The walls were reinforced with steel bars.",
+      "ja": "壁は鉄筋で補強された。"
+    },
+    {
+      "source": "original",
+      "label": "考えを強める",
+      "en": "The result reinforced the idea that practice matters most.",
+      "ja": "その結果は練習が最も大事だという考えを裏づけた。"
+    },
+    {
+      "source": "original",
+      "label": "印象",
+      "en": "His rude behavior only reinforced my bad impression of him.",
+      "ja": "彼の失礼な態度で、彼への悪い印象がますます強まった。"
+    },
+    {
+      "source": "original",
+      "label": "学習",
+      "en": "Reviewing the next day reinforces what you learned.",
+      "ja": "次の日に復習すると学んだことが定着する。"
+    },
+    {
+      "source": "original",
+      "label": "固定観念",
+      "en": "Some TV shows reinforce gender stereotypes.",
+      "ja": "性別の固定観念を強めてしまうテレビ番組もある。"
+    },
+    {
+      "source": "original",
+      "label": "援軍",
+      "en": "The general sent reinforcements to the front.",
+      "ja": "将軍は前線に援軍を送った。"
+    }
+  ],
+  "check_points": [
+    "reinforce が考え・印象についても使えることを言えるか",
+    "reinforce と enforce の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文で reinforce the idea / belief(考えを強める)が頻出。同意語選択で strengthen が正解になる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 512
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "presume",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/prɪˈzuːm/",
+  "core_image": {
+    "text": "確かめる前に、先に「そうだ」と取っておく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"80\" y2=\"92\"/><line x1=\"60\" y1=\"74\" x2=\"40\" y2=\"92\"/><circle cx=\"104\" cy=\"36\" r=\"4\"/><circle cx=\"118\" cy=\"26\" r=\"6\"/><ellipse cx=\"170\" cy=\"40\" rx=\"44\" ry=\"22\"/><rect x=\"150\" y=\"96\" width=\"44\" height=\"44\"/></g><text x=\"172\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">?</text></svg>"
+  },
+  "etymology": "pre(前に・先に) + sume(ラテン語 sumere=取る。assume・consume と同じ) → 先に取っておく → (証拠はないが)そうだと思う・推定する → 名詞 presumption=推定",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to think that something is true, although you are not completely sure, because it is likely."
+    }
+  ],
+  "cautions": [
+    "presume that … / be presumed (to be) A=Aだと推定される(受け身が多い)",
+    "assume とほぼ同じ「〜と思い込む」だが、presume はやや「理由があってそう考える」",
+    "presume to do=厚かましくも〜する、という別の意味もある",
+    "I presume=たぶん〜でしょう(文末に添える)"
+  ],
+  "patterns": [
+    {
+      "form": "presume (that) …",
+      "meaning": "…だと推定する"
+    },
+    {
+      "form": "A is presumed (to be) B",
+      "meaning": "AはBだと推定される"
+    },
+    {
+      "form": "presume to do",
+      "meaning": "厚かましくも〜する"
+    },
+    {
+      "form": "…, I presume",
+      "meaning": "たぶん…でしょう"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "推定する",
+      "en": "I presume that you have already heard the news.",
+      "ja": "もうその知らせは聞いているものと思います。"
+    },
+    {
+      "source": "original",
+      "label": "be presumed to be",
+      "en": "The missing climbers are presumed to be dead.",
+      "ja": "行方不明の登山者たちは死亡したものとみなされている。"
+    },
+    {
+      "source": "original",
+      "label": "推定(法)",
+      "en": "A person is presumed innocent until proven guilty.",
+      "ja": "人は有罪が証明されるまで無罪と推定される。"
+    },
+    {
+      "source": "original",
+      "label": "I presume",
+      "en": "You are Mr. Smith, I presume?",
+      "ja": "スミスさんでいらっしゃいますよね?"
+    },
+    {
+      "source": "original",
+      "label": "presume to do",
+      "en": "I would not presume to tell you how to do your job.",
+      "ja": "あなたの仕事のやり方に口を出すつもりはありません。"
+    },
+    {
+      "source": "original",
+      "label": "思い込む",
+      "en": "Don't presume he agrees just because he is quiet.",
+      "ja": "黙っているからといって彼が賛成だと思い込んではいけない。"
+    }
+  ],
+  "check_points": [
+    "presume と assume が似た意味だと言えるか",
+    "be presumed to be A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be presumed (to be) A と presume that … が長文で出る。同意語選択で assume / suppose。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 516
+    }
+  ]
+}

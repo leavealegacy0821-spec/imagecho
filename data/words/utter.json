@@ -1,0 +1,103 @@
+{
+  "word": "utter",
+  "pos": [
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/ˈʌtər/",
+  "core_image": {
+    "text": "中にあるものを、外へ出しきる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"50\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"90\" y2=\"96\"/><line x1=\"92\" y1=\"50\" x2=\"140\" y2=\"50\"/><polyline points=\"133,46.2 140,50 133,53.8\"/><ellipse cx=\"180\" cy=\"50\" rx=\"36\" ry=\"18\"/></g><text x=\"180\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">外へ出す</text></svg>"
+  },
+  "etymology": "古い英語 ut(=out 外へ) → 外へ出す → (声・言葉を)発する(動詞)。out の比較級 outer と同じ根 → 外の端まで → まったくの・完全な(形容詞) → 副詞 utterly=まったく",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say something or make a sound with your voice."
+    },
+    {
+      "pos": "形容詞",
+      "text": "complete or total, used to emphasize how bad or strong something is."
+    }
+  ],
+  "cautions": [
+    "動詞は「(言葉・声を)発する」。否定とよく組む:not utter a word=一言も言わない",
+    "形容詞は名詞の前だけ:utter nonsense / an utter failure(×The failure was utter)",
+    "形容詞はふつう悪いこと・強い状態を強める(utter darkness / utter silence)",
+    "副詞 utterly=まったく(utterly impossible)"
+  ],
+  "patterns": [
+    {
+      "form": "utter a word",
+      "meaning": "一言発する"
+    },
+    {
+      "form": "not utter a word",
+      "meaning": "一言も言わない"
+    },
+    {
+      "form": "utter a cry / sigh",
+      "meaning": "叫び声・ため息をもらす"
+    },
+    {
+      "form": "utter A(名詞)",
+      "meaning": "まったくのA"
+    },
+    {
+      "form": "utterly",
+      "meaning": "まったく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "発する",
+      "en": "She was so shocked that she could not utter a word.",
+      "ja": "彼女はとても驚いて一言も言えなかった。"
+    },
+    {
+      "source": "original",
+      "label": "声をもらす",
+      "en": "He uttered a cry of pain.",
+      "ja": "彼は痛みで叫び声を上げた。"
+    },
+    {
+      "source": "original",
+      "label": "ため息",
+      "en": "She uttered a deep sigh.",
+      "ja": "彼女は深いため息をついた。"
+    },
+    {
+      "source": "original",
+      "label": "まったくの(形)",
+      "en": "What he said was utter nonsense.",
+      "ja": "彼が言ったことはまったくのでたらめだった。"
+    },
+    {
+      "source": "original",
+      "label": "まったくの(形)",
+      "en": "The plan ended in utter failure.",
+      "ja": "その計画は完全な失敗に終わった。"
+    },
+    {
+      "source": "original",
+      "label": "utterly",
+      "en": "It is utterly impossible to finish this by tomorrow.",
+      "ja": "これを明日までに終えるのはまったく不可能だ。"
+    }
+  ],
+  "check_points": [
+    "utter の動詞と形容詞の意味を両方言えるか",
+    "形容詞 utter が名詞の前にしか置けないことを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "形容詞 utter(まったくの)と副詞 utterly、動詞 not utter a word が長文・語彙問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 520
+    }
+  ]
+}

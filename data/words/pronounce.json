@@ -1,0 +1,97 @@
+{
+  "word": "pronounce",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/prəˈnaʊns/",
+  "core_image": {
+    "text": "みんなの前に、はっきり声に出して告げる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"50\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"90\" y2=\"96\"/><path d=\"M96 40 Q104 46 96 52\"/><path d=\"M106 34 Q118 46 106 58\"/><path d=\"M116 28 Q132 46 116 64\"/></g><text x=\"176\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">はっきり言う</text></svg>"
+  },
+  "etymology": "pro(前へ・人前で) + nounce(ラテン語 nuntiare=告げる。announce と同じ) → 人前で告げる → (正式に)宣言する・断言する → (音を)はっきり声に出す=発音する → 名詞 pronunciation(発音)と pronouncement(宣告)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make the sound of a word or letter in a particular way, or to state something officially or formally."
+    }
+  ],
+  "cautions": [
+    "名詞のつづりに注意:pronunciation(×pronounciation)。o が消える",
+    "「発音する」と「宣言する・宣告する」の2つの意味。pronounce A (to be) B=AをBだと宣言する",
+    "形容詞 pronounced=はっきりした・目立つ(a pronounced difference)"
+  ],
+  "patterns": [
+    {
+      "form": "pronounce A",
+      "meaning": "Aを発音する"
+    },
+    {
+      "form": "pronounce A (to be) B",
+      "meaning": "AがBだと宣言する"
+    },
+    {
+      "form": "be pronounced dead",
+      "meaning": "死亡が宣告される"
+    },
+    {
+      "form": "pronunciation",
+      "meaning": "発音"
+    },
+    {
+      "form": "pronounced A",
+      "meaning": "はっきりしたA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "発音する",
+      "en": "How do you pronounce this word?",
+      "ja": "この単語はどう発音しますか?"
+    },
+    {
+      "source": "original",
+      "label": "発音しない",
+      "en": "The \"k\" in \"knife\" is not pronounced.",
+      "ja": "knife の k は発音しない。"
+    },
+    {
+      "source": "original",
+      "label": "宣言する",
+      "en": "The judge pronounced him not guilty.",
+      "ja": "裁判官は彼に無罪を言い渡した。"
+    },
+    {
+      "source": "original",
+      "label": "be pronounced dead",
+      "en": "He was pronounced dead at the hospital.",
+      "ja": "彼は病院で死亡が確認された。"
+    },
+    {
+      "source": "original",
+      "label": "宣言する(正式)",
+      "en": "The priest pronounced them husband and wife.",
+      "ja": "牧師は2人が夫婦になったことを宣言した。"
+    },
+    {
+      "source": "original",
+      "label": "pronounced",
+      "en": "There is a pronounced difference between the two results.",
+      "ja": "2つの結果にははっきりとした違いがある。"
+    }
+  ],
+  "check_points": [
+    "名詞 pronunciation のつづりを言えるか",
+    "pronounce の「宣言する」用法を例で言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "名詞 pronunciation のつづり、pronounce A (to be) B(Aを〜と宣言する)、形容詞 pronounced が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 519
+    }
+  ]
+}

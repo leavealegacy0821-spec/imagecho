@@ -1,0 +1,99 @@
+{
+  "word": "sacrifice",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈsækrɪfaɪs/",
+  "core_image": {
+    "text": "大事なものを手放して、別のもののために差し出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"104\" y2=\"70\"/><line x1=\"70\" y1=\"74\" x2=\"52\" y2=\"96\"/><circle cx=\"114\" cy=\"70\" r=\"8\"/><line x1=\"126\" y1=\"70\" x2=\"170\" y2=\"70\"/><polyline points=\"163,66.2 170,70 163,73.8\"/><polygon points=\"190,40 210,70 190,100 170,70\"/></g><text x=\"96\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手放す</text><text x=\"200\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">大事な目的</text></svg>"
+  },
+  "etymology": "sacri(ラテン語 sacer=神聖な) + fice(facere=する) → 神聖なものにする・神に供える → いけにえ → (目的のために大事なものを)犠牲にする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give up something that is valuable or important to you in order to get or do something that is more important."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of giving up something valuable for a more important purpose, or something given up in this way."
+    }
+  ],
+  "cautions": [
+    "sacrifice A for B=BのためにAを犠牲にする(A=差し出す物、B=目的)",
+    "名詞 make a sacrifice / make sacrifices=犠牲を払う(×do a sacrifice)",
+    "at the sacrifice of A=Aを犠牲にして(at the cost / expense of A と同じ)",
+    "「いけにえ」の宗教的な意味もある"
+  ],
+  "patterns": [
+    {
+      "form": "sacrifice A for B",
+      "meaning": "BのためにAを犠牲にする"
+    },
+    {
+      "form": "sacrifice oneself",
+      "meaning": "自分を犠牲にする"
+    },
+    {
+      "form": "make a sacrifice",
+      "meaning": "犠牲を払う"
+    },
+    {
+      "form": "at the sacrifice of A",
+      "meaning": "Aを犠牲にして"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "sacrifice A for B",
+      "en": "She sacrificed her free time for her family.",
+      "ja": "彼女は家族のために自分の自由な時間を犠牲にした。"
+    },
+    {
+      "source": "original",
+      "label": "犠牲にする(健康)",
+      "en": "Don't sacrifice your health for money.",
+      "ja": "お金のために健康を犠牲にしてはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "sacrifice oneself",
+      "en": "The soldier sacrificed himself to save his friends.",
+      "ja": "その兵士は仲間を救うために自分を犠牲にした。"
+    },
+    {
+      "source": "original",
+      "label": "make sacrifices",
+      "en": "My parents made many sacrifices to send me to college.",
+      "ja": "両親は私を大学に行かせるために多くの犠牲を払った。"
+    },
+    {
+      "source": "original",
+      "label": "at the sacrifice of",
+      "en": "He finished the work on time at the sacrifice of sleep.",
+      "ja": "彼は睡眠を削って期限どおりに仕事を終えた。"
+    },
+    {
+      "source": "original",
+      "label": "いけにえ",
+      "en": "In ancient times, animals were offered as a sacrifice to the gods.",
+      "ja": "古代には動物が神へのいけにえとしてささげられた。"
+    }
+  ],
+  "check_points": [
+    "sacrifice A for B のA・Bの関係を言えるか",
+    "名詞で「犠牲を払う」と言うときの動詞を言えるか(make)"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "sacrifice A for B と make sacrifices が長文・英作文で出る。at the sacrifice of A も熟語問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 515
+    }
+  ]
+}

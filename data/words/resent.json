@@ -1,0 +1,98 @@
+{
+  "word": "resent",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈzent/",
+  "core_image": {
+    "text": "された事を胸の中で何度もかみしめて、腹を立てる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"100\" y2=\"96\"/><line x1=\"120\" y1=\"74\" x2=\"140\" y2=\"96\"/><path d=\"M60 46 Q50 30 64 22 Q80 16 84 32\"/><path d=\"M180 46 Q190 30 176 22 Q160 16 156 32\"/></g><text x=\"200\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">むっ</text></svg>"
+  },
+  "etymology": "re(もう一度・強め) + sent(ラテン語 sentire=感じる。sense・sentiment と同じ) → 何度も強く感じる → (不当なことに)腹を立てる・恨む → 名詞 resentment=憤り",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to feel angry or upset about something that you think is unfair, or about someone who has treated you unfairly."
+    }
+  ],
+  "cautions": [
+    "resent の後ろは動名詞:resent being treated like a child(×resent to be)",
+    "「(不当だと感じて)腹を立てる」。一瞬の怒りより、じわじわ続く恨みに近い",
+    "resent A for doing / resent A's doing=Aが〜したことに腹を立てる",
+    "形容詞 resentful(恨んでいる)、名詞 resentment(憤り)"
+  ],
+  "patterns": [
+    {
+      "form": "resent A",
+      "meaning": "Aに腹を立てる"
+    },
+    {
+      "form": "resent doing",
+      "meaning": "〜することに腹を立てる"
+    },
+    {
+      "form": "resent being done",
+      "meaning": "〜されることに腹を立てる"
+    },
+    {
+      "form": "resent A('s) doing",
+      "meaning": "Aが〜することを不快に思う"
+    },
+    {
+      "form": "resentment",
+      "meaning": "憤り"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "腹を立てる",
+      "en": "She resented his rude remarks.",
+      "ja": "彼女は彼の失礼な発言に腹を立てた。"
+    },
+    {
+      "source": "original",
+      "label": "resent being done",
+      "en": "I resent being treated like a child.",
+      "ja": "子ども扱いされるのは不愉快だ。"
+    },
+    {
+      "source": "original",
+      "label": "resent doing",
+      "en": "He resented having to work on Sundays.",
+      "ja": "彼は日曜日に働かなければならないことを不満に思っていた。"
+    },
+    {
+      "source": "original",
+      "label": "resent A's doing",
+      "en": "They resented my getting the prize.",
+      "ja": "彼らは私が賞を取ったことを快く思わなかった。"
+    },
+    {
+      "source": "original",
+      "label": "恨む(人)",
+      "en": "He has resented his brother for years.",
+      "ja": "彼は何年も兄を恨んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "resentment",
+      "en": "There is growing resentment against the new tax.",
+      "ja": "新しい税への反感が高まっている。"
+    }
+  ],
+  "check_points": [
+    "resent の後ろが動名詞か不定詞か言えるか(動名詞)",
+    "resent の「不当だと感じて」というニュアンスを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "resent doing(動名詞を目的語に取る動詞)として語法問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 513
+    }
+  ]
+}

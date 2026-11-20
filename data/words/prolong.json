@@ -1,0 +1,93 @@
+{
+  "word": "prolong",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/prəˈlɔːŋ/",
+  "core_image": {
+    "text": "時間の長さを、前へ前へとひき延ばす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"30\" y1=\"80\" x2=\"110\" y2=\"80\"/><line x1=\"30\" y1=\"70\" x2=\"30\" y2=\"90\"/><line x1=\"110\" y1=\"70\" x2=\"110\" y2=\"90\"/><line x1=\"120\" y1=\"80\" x2=\"210\" y2=\"80\" stroke-dasharray=\"5 5\"/><polyline points=\"203,76.2 210,80 203,83.8\"/><line x1=\"210\" y1=\"70\" x2=\"210\" y2=\"90\"/></g><text x=\"164\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひき延ばす</text></svg>"
+  },
+  "etymology": "pro(前へ) + long(長い) → 前へ長くする → (時間・期間・命を)延ばす → 形容詞 prolonged=長引く・長期の",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make something last longer, especially an activity, a period of time, or someone's life."
+    }
+  ],
+  "cautions": [
+    "延ばすのは「時間・期間」。物の長さを延ばすのは lengthen / extend",
+    "形容詞 prolonged=長引いた(prolonged exposure=長時間さらされること)",
+    "postpone(延期する=後ろへずらす)と区別:prolong は「続く時間を長くする」"
+  ],
+  "patterns": [
+    {
+      "form": "prolong A",
+      "meaning": "Aを延ばす"
+    },
+    {
+      "form": "prolong A's life",
+      "meaning": "Aの命を延ばす"
+    },
+    {
+      "form": "prolong the war / the meeting",
+      "meaning": "戦争・会議を長引かせる"
+    },
+    {
+      "form": "prolonged A",
+      "meaning": "長引くA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "命",
+      "en": "New medicine may prolong the lives of cancer patients.",
+      "ja": "新しい薬はがん患者の命を延ばすかもしれない。"
+    },
+    {
+      "source": "original",
+      "label": "長引かせる",
+      "en": "His long speech prolonged the meeting by an hour.",
+      "ja": "彼の長い話で会議が1時間長引いた。"
+    },
+    {
+      "source": "original",
+      "label": "滞在",
+      "en": "We decided to prolong our stay in Kyoto.",
+      "ja": "私たちは京都での滞在を延ばすことにした。"
+    },
+    {
+      "source": "original",
+      "label": "prolonged",
+      "en": "Prolonged use of a smartphone can hurt your eyes.",
+      "ja": "スマホを長時間使うと目を痛めることがある。"
+    },
+    {
+      "source": "original",
+      "label": "postpone との区別",
+      "en": "We postponed the game, but we didn't prolong it.",
+      "ja": "試合は延期したが、試合時間を延ばしたわけではない。"
+    },
+    {
+      "source": "original",
+      "label": "戦争",
+      "en": "Outside help only prolonged the war.",
+      "ja": "外からの支援は戦争を長引かせただけだった。"
+    }
+  ],
+  "check_points": [
+    "prolong と postpone の違いを言えるか",
+    "形容詞 prolonged の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "prolong A's life と prolonged(長引く)が長文で出る。postpone との区別も狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 518
+    }
+  ]
+}
