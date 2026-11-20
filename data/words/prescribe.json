@@ -1,0 +1,98 @@
+{
+  "word": "prescribe",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/prɪˈskraɪb/",
+  "core_image": {
+    "text": "前もって書いて、こうしなさいと決める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"118\" y2=\"70\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><rect x=\"120\" y=\"30\" width=\"60\" height=\"80\"/><line x1=\"130\" y1=\"50\" x2=\"170\" y2=\"50\"/><line x1=\"130\" y1=\"66\" x2=\"170\" y2=\"66\"/><line x1=\"130\" y1=\"82\" x2=\"160\" y2=\"82\"/><ellipse cx=\"204\" cy=\"128\" rx=\"14\" ry=\"7\"/><line x1=\"204\" y1=\"121\" x2=\"204\" y2=\"135\"/></g><text x=\"150\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">書いて決める</text></svg>"
+  },
+  "etymology": "pre(前もって) + scribe(書く。describe、script と同じ) → 前もって書いて示す → (医者が)薬・治療を指示する=処方する → (法律・規則が)定める・規定する → 名詞 prescription=処方箋・規定",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "(of a doctor) to say what medicine or treatment a sick person should have, or (of a rule or law) to say what must be done."
+    }
+  ],
+  "cautions": [
+    "prescribe A for B=B(病気・人)にAを処方する(for の後は病気も人もくる)",
+    "法律・規則が主語で「定める・規定する」の意味もある:as prescribed by law=法律で定められたとおり",
+    "名詞 prescription=処方箋(a prescription for A)、形容詞 prescriptive=規範的な",
+    "describe(描写する)・subscribe(定期購読する)と scribe=書く でまとめて覚える"
+  ],
+  "patterns": [
+    {
+      "form": "prescribe A",
+      "meaning": "Aを処方する"
+    },
+    {
+      "form": "prescribe A for B",
+      "meaning": "B(病気・人)にAを処方する"
+    },
+    {
+      "form": "prescribe that S (should) V",
+      "meaning": "〜と規定する"
+    },
+    {
+      "form": "as prescribed",
+      "meaning": "指示どおりに・規定どおりに"
+    },
+    {
+      "form": "prescription",
+      "meaning": "処方箋"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "処方する",
+      "en": "The doctor prescribed some medicine for my cold.",
+      "ja": "医者は私の風邪に薬を処方してくれた。"
+    },
+    {
+      "source": "original",
+      "label": "処方する(治療)",
+      "en": "The doctor prescribed a week of rest.",
+      "ja": "医者は1週間の休養を指示した。"
+    },
+    {
+      "source": "original",
+      "label": "as prescribed",
+      "en": "Take this medicine three times a day as prescribed.",
+      "ja": "指示どおり、この薬を1日3回飲みなさい。"
+    },
+    {
+      "source": "original",
+      "label": "規定する",
+      "en": "The law prescribes that all children must go to school.",
+      "ja": "法律は、すべての子どもが学校に通わなければならないと定めている。"
+    },
+    {
+      "source": "original",
+      "label": "規定する(受け身)",
+      "en": "The rules prescribed by the school are very strict.",
+      "ja": "その学校で定められた規則はとても厳しい。"
+    },
+    {
+      "source": "original",
+      "label": "prescription(名詞)",
+      "en": "You need a prescription to buy this drug.",
+      "ja": "この薬を買うには処方箋が必要だ。"
+    }
+  ],
+  "check_points": [
+    "prescribe の「処方する」以外の意味を言えるか(規定する)",
+    "prescribe A for B の for の後に何がくるか言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "prescribe(処方する・規定する)と prescription(処方箋)が長文で出る。scribe=書く で語源問題にも。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 496
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "abound",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈbaʊnd/",
+  "core_image": {
+    "text": "中身があふれ出るほど、たくさんある",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"70\" y1=\"100\" x2=\"170\" y2=\"100\"/><path d=\"M70 100 Q120 150 170 100\"/><circle cx=\"95\" cy=\"90\" r=\"10\"/><circle cx=\"118\" cy=\"90\" r=\"10\"/><circle cx=\"141\" cy=\"90\" r=\"10\"/><circle cx=\"106\" cy=\"71\" r=\"10\"/><circle cx=\"130\" cy=\"71\" r=\"10\"/><circle cx=\"118\" cy=\"52\" r=\"10\"/><circle cx=\"186\" cy=\"128\" r=\"8\"/><circle cx=\"54\" cy=\"128\" r=\"8\"/></g><text x=\"196\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あふれる</text></svg>"
+  },
+  "etymology": "ab(〜から) + ound(ラテン語 unda=波) → 波があふれ出る → たっぷりある・たくさんいる → abound in / with A=Aに富む → 形容詞 abundant=豊富な、名詞 abundance=豊富",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to exist in large numbers or amounts, or (of a place) to have a large number or amount of something."
+    }
+  ],
+  "cautions": [
+    "「物」が主語:Fish abound in this lake.=この湖には魚がたくさんいる",
+    "「場所」が主語:This lake abounds in / with fish.(in と with どちらも可)。主語と目的語の入れかえに注意",
+    "進行形にしない(状態を表す)",
+    "形容詞 abundant=豊富な(be abundant in A)、名詞 abundance(in abundance=豊富に)のほうが出題は多い"
+  ],
+  "patterns": [
+    {
+      "form": "A abound (in B)",
+      "meaning": "A(物)が(Bに)たくさんある"
+    },
+    {
+      "form": "B abound in / with A",
+      "meaning": "B(場所)にAがたくさんある"
+    },
+    {
+      "form": "abundant",
+      "meaning": "豊富な"
+    },
+    {
+      "form": "in abundance",
+      "meaning": "豊富に"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "物が主語",
+      "en": "Fish abound in this river.",
+      "ja": "この川には魚がたくさんいる。"
+    },
+    {
+      "source": "original",
+      "label": "場所が主語",
+      "en": "This river abounds with fish.",
+      "ja": "この川は魚が豊富だ。"
+    },
+    {
+      "source": "original",
+      "label": "abound in(場所)",
+      "en": "The region abounds in natural beauty.",
+      "ja": "その地方は自然の美しさに富んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "物が主語(うわさ)",
+      "en": "Rumors abound about the singer's private life.",
+      "ja": "その歌手の私生活についてうわさが飛び交っている。"
+    },
+    {
+      "source": "original",
+      "label": "abundant(形容詞)",
+      "en": "The country has abundant natural resources.",
+      "ja": "その国には豊富な天然資源がある。"
+    },
+    {
+      "source": "original",
+      "label": "in abundance",
+      "en": "Fruit grows in abundance on the island.",
+      "ja": "その島では果物が豊富に実る。"
+    }
+  ],
+  "check_points": [
+    "Fish abound in this lake. を「場所」を主語にして言い換えられるか",
+    "abundant と abundance の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "abound in / with A(Aに富む)の型と、派生語 abundant / abundance が語彙問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 498
+    }
+  ]
+}

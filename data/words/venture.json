@@ -1,0 +1,107 @@
+{
+  "word": "venture",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈventʃər/",
+  "core_image": {
+    "text": "危険を承知で、思い切って踏み出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"86\" y2=\"64\"/><line x1=\"60\" y1=\"74\" x2=\"44\" y2=\"94\"/><line x1=\"90\" y1=\"100\" x2=\"200\" y2=\"100\" stroke-dasharray=\"5 5\"/><polyline points=\"193,96.2 200,100 193,103.8\"/><ellipse cx=\"192\" cy=\"58\" rx=\"32\" ry=\"20\"/></g><text x=\"192\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">未知</text><text x=\"145\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">思い切って</text></svg>"
+  },
+  "etymology": "adventure(冒険)の ad が落ちた形(ラテン語 advenire=やって来る) → 何がやって来るかわからないこと=冒険 → 危険を承知で行く・あえて言う(動詞) → 危険を伴う事業・新しい事業(名詞、ベンチャー)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a new business or activity that involves risk."
+    },
+    {
+      "pos": "動詞",
+      "text": "to go somewhere or do something that may be dangerous, or to say something carefully because others may not agree."
+    }
+  ],
+  "cautions": [
+    "venture into / out=(危険を承知で)〜へ思い切って出て行く",
+    "venture to do / venture an opinion=思い切って〜する・あえて意見を言う(遠慮がちに言うニュアンス)",
+    "名詞は「危険を伴う事業」:a joint venture=合弁事業。「冒険」は adventure がふつう",
+    "ことわざ Nothing ventured, nothing gained.=虎穴に入らずんば虎子を得ず"
+  ],
+  "patterns": [
+    {
+      "form": "venture into / out (of) A",
+      "meaning": "Aへ思い切って入る・出る"
+    },
+    {
+      "form": "venture to do",
+      "meaning": "思い切って〜する"
+    },
+    {
+      "form": "venture an opinion",
+      "meaning": "あえて意見を言う"
+    },
+    {
+      "form": "a business venture",
+      "meaning": "(危険を伴う)事業"
+    },
+    {
+      "form": "a joint venture",
+      "meaning": "合弁事業"
+    },
+    {
+      "form": "Nothing ventured, nothing gained.",
+      "meaning": "虎穴に入らずんば虎子を得ず"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "思い切って出る",
+      "en": "Few people ventured out in the storm.",
+      "ja": "嵐の中、思い切って外に出る人はほとんどいなかった。"
+    },
+    {
+      "source": "original",
+      "label": "思い切って入る",
+      "en": "The company ventured into the Asian market.",
+      "ja": "その会社は思い切ってアジア市場に進出した。"
+    },
+    {
+      "source": "original",
+      "label": "venture to do",
+      "en": "He ventured to ask the teacher a difficult question.",
+      "ja": "彼は思い切って先生に難しい質問をした。"
+    },
+    {
+      "source": "original",
+      "label": "あえて言う",
+      "en": "May I venture an opinion on this matter?",
+      "ja": "この件について、あえて意見を言ってもよろしいですか。"
+    },
+    {
+      "source": "original",
+      "label": "事業(名詞)",
+      "en": "Their new business venture was a great success.",
+      "ja": "彼らの新しい事業は大成功だった。"
+    },
+    {
+      "source": "original",
+      "label": "ことわざ",
+      "en": "Nothing ventured, nothing gained, so let's try.",
+      "ja": "虎穴に入らずんば虎子を得ず、だからやってみよう。"
+    }
+  ],
+  "check_points": [
+    "venture to do の意味を言えるか",
+    "名詞 venture の意味(危険を伴う事業)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "venture into / out(思い切って進む)と名詞「事業」が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 494
+    }
+  ]
+}

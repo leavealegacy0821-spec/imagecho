@@ -1,0 +1,94 @@
+{
+  "word": "endow",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈdaʊ/",
+  "core_image": {
+    "text": "生まれつきの力や財産を、そっと授ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polygon points=\"56,14 61,26 74,27 64,35 67,48 56,41 45,48 48,35 38,27 51,26\"/><line x1=\"74\" y1=\"40\" x2=\"106\" y2=\"50\" stroke-dasharray=\"5 5\"/><polyline points=\"100.4,44.2 106,50 98.2,51.6\"/><circle cx=\"124\" cy=\"52\" r=\"10\"/><line x1=\"124\" y1=\"62\" x2=\"124\" y2=\"106\"/><line x1=\"124\" y1=\"106\" x2=\"114\" y2=\"140\"/><line x1=\"124\" y1=\"106\" x2=\"134\" y2=\"140\"/><line x1=\"124\" y1=\"74\" x2=\"104\" y2=\"60\"/><line x1=\"124\" y1=\"74\" x2=\"144\" y2=\"60\"/></g><text x=\"192\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">授ける</text></svg>"
+  },
+  "etymology": "en(中に・与える) + dow(ラテン語 dotare=嫁入り財産を与える。dowry と同じ) → 財産を与える → (学校などに)基金を寄付する → (be endowed with)才能・資質を生まれつき授けられている",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give a large amount of money to a school or other organization, or (of nature or God) to give someone a quality or ability."
+    }
+  ],
+  "cautions": [
+    "受け身 be endowed with A=A(才能・資質)に恵まれている。with を落とさない(be blessed with と同じ型)",
+    "endow A with B=AにBを授ける(provide A with B と同じ A with B の型)",
+    "「(学校・病院に)基金を寄付する」の意味もある:endow a scholarship",
+    "名詞 endowment=寄付金・(生まれつきの)才能"
+  ],
+  "patterns": [
+    {
+      "form": "be endowed with A",
+      "meaning": "Aに恵まれている"
+    },
+    {
+      "form": "endow A with B",
+      "meaning": "AにBを授ける"
+    },
+    {
+      "form": "endow A",
+      "meaning": "Aに基金を寄付する"
+    },
+    {
+      "form": "endowment",
+      "meaning": "寄付金・天賦の才"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "be endowed with(才能)",
+      "en": "She is endowed with a great talent for music.",
+      "ja": "彼女はすばらしい音楽の才能に恵まれている。"
+    },
+    {
+      "source": "original",
+      "label": "be endowed with(資源)",
+      "en": "The country is richly endowed with natural resources.",
+      "ja": "その国は天然資源に大いに恵まれている。"
+    },
+    {
+      "source": "original",
+      "label": "endow A with B",
+      "en": "Nature has endowed humans with the ability to use language.",
+      "ja": "自然は人間に言語を使う能力を授けた。"
+    },
+    {
+      "source": "original",
+      "label": "基金を寄付する",
+      "en": "The businessman endowed the university with a large sum of money.",
+      "ja": "その実業家は大学に多額の寄付をした。"
+    },
+    {
+      "source": "original",
+      "label": "基金を寄付する",
+      "en": "A former student endowed a scholarship for poor children.",
+      "ja": "卒業生の一人が貧しい子どもたちのための奨学金を寄付した。"
+    },
+    {
+      "source": "original",
+      "label": "endowment(名詞)",
+      "en": "The museum depends on its endowment to stay open.",
+      "ja": "その博物館は開館を続けるのに寄付金に頼っている。"
+    }
+  ],
+  "check_points": [
+    "be endowed with A の意味と前置詞を言えるか",
+    "endow A with B が provide A with B と同じ型だと言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be endowed with A(Aに恵まれている)が語法・長文で出る。前置詞 with が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 492
+    }
+  ]
+}

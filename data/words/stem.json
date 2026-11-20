@@ -1,0 +1,95 @@
+{
+  "word": "stem",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/stem/",
+  "core_image": {
+    "text": "根もとから伸びて、そこから出てくる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M120 140 C118 110 124 80 120 44\"/><path d=\"M120 100 Q96 86 90 100 Q104 108 120 100\"/><path d=\"M121 76 Q144 62 150 76 Q136 84 121 76\"/><circle cx=\"120\" cy=\"34\" r=\"10\"/><line x1=\"120\" y1=\"140\" x2=\"104\" y2=\"154\"/><line x1=\"120\" y1=\"140\" x2=\"136\" y2=\"154\"/><line x1=\"120\" y1=\"140\" x2=\"120\" y2=\"156\"/><line x1=\"170\" y1=\"132\" x2=\"170\" y2=\"50\"/><polyline points=\"166.2,57 170,50 173.8,57\"/></g><text x=\"200\" y=\"96\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">生じる</text><text x=\"70\" y=\"156\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">根もと</text></svg>"
+  },
+  "etymology": "stem(茎・幹) → 根もとから伸びる茎 → (結果が原因から)出てくる=stem from A(Aから生じる・Aに由来する)。別語源の stem に「(流れを)せき止める」の意味もある",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the main long thin part of a plant that the leaves or flowers grow from."
+    },
+    {
+      "pos": "動詞",
+      "text": "to happen or develop as a result of something (stem from); also, to stop something from flowing or spreading."
+    }
+  ],
+  "cautions": [
+    "stem from A=Aから生じる・Aに由来する(result from、come from、arise from と同じ)。結果が主語で原因が from の後",
+    "自動詞なので受け身にしない(be stemmed from は誤り)",
+    "result in(結果をもたらす)と向きが逆:A stems from B = B results in A",
+    "「(流れ・増加を)せき止める・食い止める」の意味もある:stem the flow / tide of A"
+  ],
+  "patterns": [
+    {
+      "form": "A stem from B",
+      "meaning": "AがBから生じる"
+    },
+    {
+      "form": "stem the flow / tide of A",
+      "meaning": "Aの流れ・勢いを食い止める"
+    },
+    {
+      "form": "the stem of a plant",
+      "meaning": "植物の茎"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "stem from",
+      "en": "His anger stems from a feeling of injustice.",
+      "ja": "彼の怒りは不公平だという気持ちから生じている。"
+    },
+    {
+      "source": "original",
+      "label": "stem from(問題)",
+      "en": "Many health problems stem from a lack of sleep.",
+      "ja": "多くの健康問題は睡眠不足から生じる。"
+    },
+    {
+      "source": "original",
+      "label": "stem from(由来)",
+      "en": "Her interest in science stemmed from her childhood.",
+      "ja": "彼女の科学への興味は子どものころに由来する。"
+    },
+    {
+      "source": "original",
+      "label": "result in との比較",
+      "en": "Lack of sleep results in many health problems.",
+      "ja": "睡眠不足は多くの健康問題をもたらす。"
+    },
+    {
+      "source": "original",
+      "label": "せき止める",
+      "en": "The government took action to stem the flow of illegal drugs.",
+      "ja": "政府は違法薬物の流入を食い止める措置をとった。"
+    },
+    {
+      "source": "original",
+      "label": "茎(名詞)",
+      "en": "Cut the stems of the flowers before putting them in water.",
+      "ja": "水に入れる前に花の茎を切りなさい。"
+    }
+  ],
+  "check_points": [
+    "stem from A を言い換えられるか(result from / arise from)",
+    "A stems from B を result in で書き換えられるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "stem from A(Aから生じる)が長文・言い換え問題で頻出。result from / result in の向きの区別が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 500
+    }
+  ]
+}

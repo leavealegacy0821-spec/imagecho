@@ -1,0 +1,93 @@
+{
+  "word": "cling",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/klɪŋ/",
+  "core_image": {
+    "text": "離れないよう、ぴったりしがみつく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"150\" y1=\"34\" x2=\"150\" y2=\"140\"/><line x1=\"164\" y1=\"34\" x2=\"164\" y2=\"140\"/><ellipse cx=\"164\" cy=\"22\" rx=\"30\" ry=\"13\"/><circle cx=\"126\" cy=\"52\" r=\"10\"/><line x1=\"126\" y1=\"62\" x2=\"126\" y2=\"106\"/><line x1=\"126\" y1=\"106\" x2=\"116\" y2=\"140\"/><line x1=\"126\" y1=\"106\" x2=\"136\" y2=\"140\"/><polyline points=\"126,74 150,64 170,70\"/><polyline points=\"126,78 150,90 170,86\"/></g><text x=\"60\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しがみつく</text></svg>"
+  },
+  "etymology": "cling(古英語で「くっつく」) → 体ごとぴったりしがみつく → (服・においが)まとわりつく → (考え・希望・習慣に)固執する。活用は cling - clung - clung",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to hold someone or something tightly, to stick to something, or to continue to believe in an idea or hope."
+    }
+  ],
+  "cautions": [
+    "cling to A=Aにしがみつく。to は前置詞なので後ろは名詞・動名詞(cling to doing)",
+    "活用は cling - clung - clung(clinged にしない)",
+    "「物理的にしがみつく」だけでなく「(考え・希望・伝統に)固執する」の意味が長文で多い(stick to / adhere to と近い)"
+  ],
+  "patterns": [
+    {
+      "form": "cling to A",
+      "meaning": "Aにしがみつく・固執する"
+    },
+    {
+      "form": "cling to the hope that ~",
+      "meaning": "〜という望みにすがる"
+    },
+    {
+      "form": "cling on",
+      "meaning": "しがみついて離れない"
+    },
+    {
+      "form": "cling - clung - clung",
+      "meaning": "活用"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "しがみつく",
+      "en": "The child clung to her mother's arm.",
+      "ja": "その子は母親の腕にしがみついた。"
+    },
+    {
+      "source": "original",
+      "label": "しがみつく(過去)",
+      "en": "The sailors clung to the boat until help arrived.",
+      "ja": "船員たちは助けが来るまでボートにしがみついていた。"
+    },
+    {
+      "source": "original",
+      "label": "まとわりつく",
+      "en": "My wet shirt clung to my back.",
+      "ja": "ぬれたシャツが背中にまとわりついた。"
+    },
+    {
+      "source": "original",
+      "label": "固執する(考え)",
+      "en": "Some people still cling to old ways of thinking.",
+      "ja": "いまだに古い考え方に固執する人もいる。"
+    },
+    {
+      "source": "original",
+      "label": "cling to the hope",
+      "en": "She clung to the hope that her son was still alive.",
+      "ja": "彼女は息子がまだ生きているという望みにすがった。"
+    },
+    {
+      "source": "original",
+      "label": "固執する(地位)",
+      "en": "The president tried to cling to power.",
+      "ja": "大統領は権力にしがみつこうとした。"
+    }
+  ],
+  "check_points": [
+    "cling の過去形・過去分詞を言えるか(clung)",
+    "cling to A の「固執する」の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "cling to A(しがみつく・固執する)と活用 clung が出る。長文では「考えに固執する」の意味が多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 493
+    }
+  ]
+}
