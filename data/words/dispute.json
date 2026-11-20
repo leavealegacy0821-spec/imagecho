@@ -1,0 +1,103 @@
+{
+  "word": "dispute",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/dɪˈspjuːt/",
+  "core_image": {
+    "text": "考えが別々で、言い合う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"82\" y2=\"64\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"158\" y2=\"64\"/><line x1=\"180\" y1=\"74\" x2=\"192\" y2=\"96\"/><line x1=\"80\" y1=\"48\" x2=\"104\" y2=\"48\"/><polyline points=\"97,44.2 104,48 97,51.8\"/><line x1=\"160\" y1=\"48\" x2=\"136\" y2=\"48\"/><polyline points=\"143,51.8 136,48 143,44.2\"/><polyline points=\"116,34 128,52 114,58 126,78\"/></g><text x=\"120\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">言い合う</text><text x=\"180\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">異議あり</text></svg>"
+  },
+  "etymology": "dis(離れて・別々に)+pute(考える。compute、reputation と同じ) → 別々に考える → 意見がぶつかる → 論争(する)・異議を唱える",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a serious argument or disagreement, especially between groups or countries."
+    },
+    {
+      "pos": "動詞",
+      "text": "to say that something is not true or correct, or to argue about something."
+    }
+  ],
+  "cautions": [
+    "名詞も動詞も同じ形(アクセントは後ろ:dis-PUTE)",
+    "動詞は他動詞:dispute A=Aに異議を唱える(×dispute about A とはふつう言わない)",
+    "a dispute over / about A=Aをめぐる論争",
+    "beyond dispute=議論の余地なく、in dispute=論争中で"
+  ],
+  "patterns": [
+    {
+      "form": "a dispute over A",
+      "meaning": "Aをめぐる論争"
+    },
+    {
+      "form": "dispute A",
+      "meaning": "Aに異議を唱える"
+    },
+    {
+      "form": "beyond dispute",
+      "meaning": "議論の余地なく"
+    },
+    {
+      "form": "in dispute",
+      "meaning": "論争中で"
+    },
+    {
+      "form": "a dispute with A",
+      "meaning": "Aとの争い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "a dispute over",
+      "en": "There was a dispute between the two countries over the island.",
+      "ja": "その島をめぐって2国の間で争いがあった。"
+    },
+    {
+      "source": "original",
+      "label": "a dispute with",
+      "en": "The workers are in a dispute with the company about pay.",
+      "ja": "従業員たちは賃金のことで会社と争っている。"
+    },
+    {
+      "source": "original",
+      "label": "異議を唱える",
+      "en": "She disputed the referee's decision.",
+      "ja": "彼女は審判の判定に異議を唱えた。"
+    },
+    {
+      "source": "original",
+      "label": "否定しない",
+      "en": "No one disputes the importance of education.",
+      "ja": "教育が大切だということにだれも異論はない。"
+    },
+    {
+      "source": "original",
+      "label": "beyond dispute",
+      "en": "His talent is beyond dispute.",
+      "ja": "彼の才能は疑いの余地がない。"
+    },
+    {
+      "source": "original",
+      "label": "in dispute",
+      "en": "The results of the study are still in dispute.",
+      "ja": "その研究の結果はまだ議論されている。"
+    }
+  ],
+  "check_points": [
+    "beyond dispute の意味を言えるか",
+    "動詞 dispute A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "beyond dispute(=unquestionable)と a dispute over A が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 436
+    }
+  ]
+}

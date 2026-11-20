@@ -1,0 +1,103 @@
+{
+  "word": "stick",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/stɪk/",
+  "core_image": {
+    "text": "突き刺して、くっついて離れない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"90\" y2=\"70\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"96\"/><line x1=\"100\" y1=\"70\" x2=\"148\" y2=\"70\"/><polyline points=\"141,66.2 148,70 141,73.8\"/><rect x=\"150\" y=\"40\" width=\"60\" height=\"80\"/><rect x=\"160\" y=\"56\" width=\"30\" height=\"30\"/></g><text x=\"124\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">刺す</text><text x=\"180\" y=\"134\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くっつく</text></svg>"
+  },
+  "etymology": "古い語で「突き刺す」 → 刺してとめる → くっつく・はりつける → (考え・約束に)くっついて離れない=こだわる・守る → 名詞:(先のとがった)棒",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to fix something to a surface, to push something pointed into something, or to become fixed and unable to move."
+    },
+    {
+      "pos": "名詞",
+      "text": "a thin piece of wood."
+    }
+  ],
+  "cautions": [
+    "stick to A=A(計画・約束・考え)を守り通す(=adhere to, keep to)。to は前置詞",
+    "活用は stick - stuck - stuck",
+    "be / get stuck=(物が)動かない・(人が)行きづまる",
+    "stick out=突き出る・目立つ、stick with A=Aを続ける"
+  ],
+  "patterns": [
+    {
+      "form": "stick A on B",
+      "meaning": "AをBにはる"
+    },
+    {
+      "form": "stick to A",
+      "meaning": "Aを守り通す・Aにこだわる"
+    },
+    {
+      "form": "be stuck",
+      "meaning": "動かない・行きづまる"
+    },
+    {
+      "form": "get stuck in A",
+      "meaning": "Aで動けなくなる"
+    },
+    {
+      "form": "stick out",
+      "meaning": "突き出る・目立つ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "はる",
+      "en": "He stuck a stamp on the envelope.",
+      "ja": "彼は封筒に切手をはった。"
+    },
+    {
+      "source": "original",
+      "label": "stick to",
+      "en": "Once you make a plan, stick to it.",
+      "ja": "いったん計画を立てたら、それを守り通しなさい。"
+    },
+    {
+      "source": "original",
+      "label": "be stuck",
+      "en": "The door is stuck and won't open.",
+      "ja": "ドアがひっかかって開かない。"
+    },
+    {
+      "source": "original",
+      "label": "get stuck",
+      "en": "We got stuck in traffic for an hour.",
+      "ja": "私たちは1時間渋滞につかまった。"
+    },
+    {
+      "source": "original",
+      "label": "心に残る",
+      "en": "His name stuck in my mind.",
+      "ja": "彼の名前が頭から離れなかった。"
+    },
+    {
+      "source": "original",
+      "label": "棒(名詞)",
+      "en": "The old man walked with a stick.",
+      "ja": "そのおじいさんはつえをついて歩いた。"
+    }
+  ],
+  "check_points": [
+    "stick to A の意味を言えるか",
+    "stick の過去形・過去分詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "stick to A(=adhere to, keep to)と be stuck が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 440
+    }
+  ]
+}

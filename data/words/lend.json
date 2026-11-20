@@ -1,0 +1,98 @@
+{
+  "word": "lend",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/lend/",
+  "core_image": {
+    "text": "あとで返してもらう約束で、相手へ渡す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"96\" y2=\"74\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><rect x=\"98\" y=\"64\" width=\"16\" height=\"16\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"166\" y2=\"96\"/><line x1=\"180\" y1=\"74\" x2=\"194\" y2=\"96\"/><line x1=\"84\" y1=\"98\" x2=\"156\" y2=\"98\"/><polyline points=\"149,94.2 156,98 149,101.8\"/><line x1=\"156\" y1=\"114\" x2=\"84\" y2=\"114\" stroke-dasharray=\"5 5\"/><polyline points=\"91,117.8 84,114 91,110.2\"/></g><text x=\"106\" y=\"54\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">貸す</text><text x=\"120\" y=\"132\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あとで返す</text></svg>"
+  },
+  "etymology": "古い語で「貸す」(loan と同じ根) → (物・お金を)貸す → (力・性質を)貸し与える・添える → lend A a hand=Aに手を貸す",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give something to someone for a time, expecting it to be given back."
+    }
+  ],
+  "cautions": [
+    "lend A B / lend B to A=AにBを貸す(borrow B from A=AからBを借りる と区別)",
+    "活用は lend - lent - lent",
+    "ふつう無料で貸すこと。お金をとって貸すなら rent (out)",
+    "lend A a hand=Aに手を貸す、lend itself to A=Aに向いている"
+  ],
+  "patterns": [
+    {
+      "form": "lend A B",
+      "meaning": "AにBを貸す"
+    },
+    {
+      "form": "lend B to A",
+      "meaning": "BをAに貸す"
+    },
+    {
+      "form": "borrow B from A",
+      "meaning": "AからBを借りる"
+    },
+    {
+      "form": "lend A a hand",
+      "meaning": "Aに手を貸す"
+    },
+    {
+      "form": "lend itself to A",
+      "meaning": "Aに向いている"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "lend A B",
+      "en": "Could you lend me your dictionary?",
+      "ja": "辞書を貸してもらえますか。"
+    },
+    {
+      "source": "original",
+      "label": "lend B to A",
+      "en": "I lent my bike to Ken last week.",
+      "ja": "先週、自転車をケンに貸した。"
+    },
+    {
+      "source": "original",
+      "label": "borrow との違い",
+      "en": "I borrowed a pen from Yuki because she kindly lent me one.",
+      "ja": "ユキが親切に貸してくれたので、彼女からペンを借りた。"
+    },
+    {
+      "source": "original",
+      "label": "lend A a hand",
+      "en": "Will you lend me a hand with these boxes?",
+      "ja": "この箱を運ぶのを手伝ってくれる?"
+    },
+    {
+      "source": "original",
+      "label": "添える",
+      "en": "Her smile lent warmth to the room.",
+      "ja": "彼女の笑顔が部屋にあたたかさを添えた。"
+    },
+    {
+      "source": "original",
+      "label": "lend itself to",
+      "en": "This story lends itself to a movie.",
+      "ja": "この話は映画にするのに向いている。"
+    }
+  ],
+  "check_points": [
+    "lend と borrow の違いを言えるか",
+    "lend の過去形・過去分詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "lend と borrow の区別、lend A B の語順が会話・語法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 437
+    }
+  ]
+}

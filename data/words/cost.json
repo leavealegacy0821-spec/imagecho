@@ -1,0 +1,103 @@
+{
+  "word": "cost",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/kɔːst/",
+  "core_image": {
+    "text": "手に入れるのに、何かを差し出させる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"90\" y2=\"80\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><circle cx=\"98\" cy=\"82\" r=\"6\"/><line x1=\"110\" y1=\"82\" x2=\"162\" y2=\"82\"/><polyline points=\"155,78.2 162,82 155,85.8\"/><rect x=\"170\" y=\"60\" width=\"40\" height=\"40\"/><line x1=\"190\" y1=\"60\" x2=\"190\" y2=\"100\"/></g><text x=\"136\" y=\"68\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">差し出す</text><text x=\"190\" y=\"122\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手に入れる</text></svg>"
+  },
+  "etymology": "ラテン語 constare(〜で成り立つ・〜に値する) → (値段が)かかる → (時間・労力・命などを)犠牲にさせる → cost A B=AにBを払わせる・失わせる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to have a price, or to make someone lose something such as time, a job or health."
+    },
+    {
+      "pos": "名詞",
+      "text": "the amount of money needed to buy or do something, or what is lost to get something."
+    }
+  ],
+  "cautions": [
+    "cost A B=A(人)にB(お金・時間・命)をかけさせる・失わせる(×cost B to A)",
+    "It costs (A) B to do=〜するのに(Aに)Bがかかる",
+    "主語は「物・こと」(×I cost 1,000 yen)。活用は cost - cost - cost",
+    "at the cost of A=Aを犠牲にして、at all costs=何としても"
+  ],
+  "patterns": [
+    {
+      "form": "cost A B",
+      "meaning": "AにBがかかる・Aに Bを失わせる"
+    },
+    {
+      "form": "It costs (A) B to do",
+      "meaning": "〜するのに Bがかかる"
+    },
+    {
+      "form": "at the cost of A",
+      "meaning": "Aを犠牲にして"
+    },
+    {
+      "form": "at all costs",
+      "meaning": "何としても"
+    },
+    {
+      "form": "the cost of living",
+      "meaning": "生活費"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "cost A B",
+      "en": "This bag cost me 5,000 yen.",
+      "ja": "このかばんは5,000円した。"
+    },
+    {
+      "source": "original",
+      "label": "It costs ... to do",
+      "en": "It cost him a lot of time to finish the report.",
+      "ja": "彼はレポートを仕上げるのにたくさんの時間がかかった。"
+    },
+    {
+      "source": "original",
+      "label": "失わせる",
+      "en": "The mistake cost her her job.",
+      "ja": "そのミスで彼女は職を失った。"
+    },
+    {
+      "source": "original",
+      "label": "命を奪う",
+      "en": "The accident almost cost him his life.",
+      "ja": "その事故で彼はあやうく命を落とすところだった。"
+    },
+    {
+      "source": "original",
+      "label": "at the cost of",
+      "en": "He finished the work at the cost of his health.",
+      "ja": "彼は健康を犠牲にしてその仕事を終えた。"
+    },
+    {
+      "source": "original",
+      "label": "at all costs",
+      "en": "We must protect the environment at all costs.",
+      "ja": "何としても環境を守らなければならない。"
+    }
+  ],
+  "check_points": [
+    "cost A B の A と B を言えるか",
+    "「失わせる」の意味の cost を訳せるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "cost A B(×cost B to A)と It costs A B to do が語法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 439
+    }
+  ]
+}

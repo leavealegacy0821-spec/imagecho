@@ -1,0 +1,98 @@
+{
+  "word": "provoke",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/prəˈvoʊk/",
+  "core_image": {
+    "text": "呼びかけて、相手の反応を引き出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"84\" y2=\"62\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><line x1=\"76\" y1=\"52\" x2=\"140\" y2=\"52\"/><polyline points=\"133,48.2 140,52 133,55.8\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"150\" y2=\"58\"/><line x1=\"170\" y1=\"74\" x2=\"190\" y2=\"58\"/><line x1=\"158\" y1=\"32\" x2=\"153\" y2=\"25\"/><line x1=\"170\" y1=\"29\" x2=\"170\" y2=\"21\"/><line x1=\"182\" y1=\"32\" x2=\"187\" y2=\"25\"/></g><text x=\"104\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">呼ぶ</text><text x=\"115\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">反応</text></svg>"
+  },
+  "etymology": "pro(前へ)+voke(呼ぶ。voice、vocabulary と同じ) → 前へ呼び出す → (反応・感情を)引き起こす → 怒らせる・挑発する → provoke A into doing=Aを挑発して〜させる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to cause a reaction or feeling, especially anger, or to make someone angry on purpose."
+    }
+  ],
+  "cautions": [
+    "目的語は「人」(怒らせる)か「反応・感情」(anger, protest, debate を引き起こす)",
+    "provoke A into doing / provoke A to do=Aを刺激して〜させる",
+    "「怒らせる」だけで覚えない。cause(引き起こす)と言いかえられる",
+    "形容詞 provocative=挑発的な・考えさせる"
+  ],
+  "patterns": [
+    {
+      "form": "provoke A",
+      "meaning": "Aを怒らせる"
+    },
+    {
+      "form": "provoke anger / protest",
+      "meaning": "怒り・抗議を引き起こす"
+    },
+    {
+      "form": "provoke A into doing",
+      "meaning": "Aを挑発して〜させる"
+    },
+    {
+      "form": "provoke A to do",
+      "meaning": "Aを刺激して〜させる"
+    },
+    {
+      "form": "provocative",
+      "meaning": "挑発的な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "怒らせる",
+      "en": "His rude remark provoked her.",
+      "ja": "彼の失礼な一言が彼女を怒らせた。"
+    },
+    {
+      "source": "original",
+      "label": "引き起こす",
+      "en": "The new law provoked strong protests.",
+      "ja": "新しい法律は強い抗議を引き起こした。"
+    },
+    {
+      "source": "original",
+      "label": "議論を呼ぶ",
+      "en": "The movie provoked a lively debate among the students.",
+      "ja": "その映画は生徒の間で活発な議論を呼んだ。"
+    },
+    {
+      "source": "original",
+      "label": "provoke A into doing",
+      "en": "They provoked him into losing his temper.",
+      "ja": "彼らは彼を挑発してかっとさせた。"
+    },
+    {
+      "source": "original",
+      "label": "provoke A to do",
+      "en": "The teacher's question provoked the students to think more deeply.",
+      "ja": "先生の質問は生徒たちをより深く考えさせた。"
+    },
+    {
+      "source": "original",
+      "label": "provocative",
+      "en": "She wrote a provocative article about school rules.",
+      "ja": "彼女は校則について挑発的な記事を書いた。"
+    }
+  ],
+  "check_points": [
+    "provoke の目的語が「反応」のときの意味を言えるか",
+    "provoke A into doing の形を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "provoke=cause(引き起こす)の言いかえと provoke A into doing が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 432
+    }
+  ]
+}

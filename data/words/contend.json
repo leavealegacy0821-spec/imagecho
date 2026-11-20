@@ -1,0 +1,93 @@
+{
+  "word": "contend",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈtend/",
+  "core_image": {
+    "text": "相手と向き合い、力を張り合う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"118\" y2=\"74\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"96\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"122\" y2=\"74\"/><line x1=\"170\" y1=\"74\" x2=\"182\" y2=\"96\"/><line x1=\"94\" y1=\"108\" x2=\"114\" y2=\"108\"/><polyline points=\"107,104.2 114,108 107,111.8\"/><line x1=\"146\" y1=\"108\" x2=\"126\" y2=\"108\"/><polyline points=\"133,111.8 126,108 133,104.2\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">張り合う</text><text x=\"120\" y=\"132\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ゆずらない</text></svg>"
+  },
+  "etymology": "con(共に)+tend(伸ばす・張る。tend、extend と同じ) → 互いに力を張り合う → 争う・競う → (困難と)闘う → (考えを強く)主張する → contend that S V",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to compete or struggle with someone or something, or to say firmly that something is true."
+    }
+  ],
+  "cautions": [
+    "contend with A=A(困難・問題)と闘う・対処する(=deal with, cope with)",
+    "contend for A=Aを求めて争う",
+    "contend that S V=〜と強く主張する(=claim, argue)",
+    "名詞 contention=論争・主張、contender=競争相手"
+  ],
+  "patterns": [
+    {
+      "form": "contend with A",
+      "meaning": "Aと闘う・Aに対処する"
+    },
+    {
+      "form": "contend for A",
+      "meaning": "Aを求めて争う"
+    },
+    {
+      "form": "contend that S V",
+      "meaning": "〜と主張する"
+    },
+    {
+      "form": "contender",
+      "meaning": "競争相手・候補"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "contend with",
+      "en": "Farmers have to contend with bad weather every year.",
+      "ja": "農家は毎年悪天候と闘わなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "困難に対処する",
+      "en": "The doctors had to contend with a lack of medicine.",
+      "ja": "医師たちは薬不足に対処しなければならなかった。"
+    },
+    {
+      "source": "original",
+      "label": "contend for",
+      "en": "Five teams are contending for the championship.",
+      "ja": "5チームが優勝を争っている。"
+    },
+    {
+      "source": "original",
+      "label": "contend that",
+      "en": "Some scientists contend that the theory is wrong.",
+      "ja": "その理論はまちがっていると主張する科学者もいる。"
+    },
+    {
+      "source": "original",
+      "label": "主張する",
+      "en": "She contended that the plan would cost too much.",
+      "ja": "彼女はその計画は費用がかかりすぎると主張した。"
+    },
+    {
+      "source": "original",
+      "label": "contender(名詞)",
+      "en": "He is a strong contender for the prize.",
+      "ja": "彼はその賞の有力候補だ。"
+    }
+  ],
+  "check_points": [
+    "contend with A と contend that S V の意味の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "contend that S V(=claim)と contend with A(=deal with)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 435
+    }
+  ]
+}
