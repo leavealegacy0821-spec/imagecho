@@ -1,0 +1,97 @@
+{
+  "word": "surpass",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/sərˈpæs/",
+  "core_image": {
+    "text": "相手の上を、すっと越えていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"60\" y=\"90\" width=\"40\" height=\"50\"/><rect x=\"140\" y=\"50\" width=\"40\" height=\"90\"/><path d=\"M80 82 Q110 30 160 40\"/><polyline points=\"152,34 160,40 152,46\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">上を越える</text></svg>"
+  },
+  "etymology": "sur(上を。surface と同じ) + pass(通る) → 上を通り越す → (能力・量・期待などで)〜にまさる・〜をしのぐ → surpass description=言葉で表せないほど",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be better or greater than someone or something, or to do more than was expected."
+    }
+  ],
+  "cautions": [
+    "他動詞:surpass A=Aにまさる(×surpass to A)。exceed / outdo と近い",
+    "目的語は人・記録・期待(expectations)など:surpass all expectations=予想をはるかに上回る",
+    "surpass A in B=BでAにまさる"
+  ],
+  "patterns": [
+    {
+      "form": "surpass A",
+      "meaning": "Aにまさる・Aを上回る"
+    },
+    {
+      "form": "surpass A in B",
+      "meaning": "BでAにまさる"
+    },
+    {
+      "form": "surpass (all) expectations",
+      "meaning": "予想を上回る"
+    },
+    {
+      "form": "surpass oneself",
+      "meaning": "いつもより上出来だ"
+    },
+    {
+      "form": "surpass description",
+      "meaning": "言葉で表せないほどだ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "上回る(期待)",
+      "en": "The results surpassed all our expectations.",
+      "ja": "結果は私たちのあらゆる予想を上回った。"
+    },
+    {
+      "source": "original",
+      "label": "まさる(人)",
+      "en": "She soon surpassed her teacher in skill.",
+      "ja": "彼女はすぐに技術で先生をしのいだ。"
+    },
+    {
+      "source": "original",
+      "label": "上回る(数)",
+      "en": "The number of visitors surpassed one million.",
+      "ja": "来場者数は100万人を超えた。"
+    },
+    {
+      "source": "original",
+      "label": "上回る(記録)",
+      "en": "He surpassed the world record by two seconds.",
+      "ja": "彼は世界記録を2秒上回った。"
+    },
+    {
+      "source": "original",
+      "label": "surpass oneself",
+      "en": "The chef really surpassed himself tonight.",
+      "ja": "今夜のシェフは本当にいつも以上の出来だった。"
+    },
+    {
+      "source": "original",
+      "label": "surpass description",
+      "en": "The beauty of the view surpassed description.",
+      "ja": "その景色の美しさは言葉では言い表せなかった。"
+    }
+  ],
+  "check_points": [
+    "surpass の後ろに前置詞が要らないことを言えるか",
+    "surpass と近い意味の動詞を言えるか(exceed)"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "surpass expectations(予想を上回る)、surpass A in B が長文・同意語問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 507
+    }
+  ]
+}

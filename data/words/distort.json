@@ -1,0 +1,97 @@
+{
+  "word": "distort",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈstɔːrt/",
+  "core_image": {
+    "text": "まっすぐな形を、ねじって曲げる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"34\" y=\"50\" width=\"56\" height=\"56\"/><line x1=\"100\" y1=\"78\" x2=\"140\" y2=\"78\"/><polyline points=\"133,74.2 140,78 133,81.8\"/><path d=\"M152 50 Q176 40 206 56 Q192 78 210 104 Q180 116 150 106 Q162 78 152 50 Z\"/></g><text x=\"120\" y=\"128\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ねじ曲げる</text></svg>"
+  },
+  "etymology": "dis(すっかり・離れて) + tort(ラテン語 torquere=ねじる。torture と同じ) → ねじって形を変える → (形・顔・音を)ゆがめる → (事実・意味・考えを)ねじ曲げる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to change the shape, sound, or appearance of something so that it looks strange, or to change facts or ideas so that they are no longer true or accurate."
+    }
+  ],
+  "cautions": [
+    "物の形だけでなく「事実・真実・発言の意味をねじ曲げる」の意味が長文で多い",
+    "distort the truth / facts=真実をゆがめる(わざと誤って伝える)",
+    "名詞 distortion=ゆがみ・歪曲、形容詞 distorted=ゆがんだ"
+  ],
+  "patterns": [
+    {
+      "form": "distort A",
+      "meaning": "A(形・音)をゆがめる"
+    },
+    {
+      "form": "distort the truth / facts",
+      "meaning": "真実・事実をねじ曲げる"
+    },
+    {
+      "form": "distort A's words",
+      "meaning": "Aの言葉の意味をねじ曲げる"
+    },
+    {
+      "form": "distortion",
+      "meaning": "ゆがみ・歪曲"
+    },
+    {
+      "form": "a distorted view",
+      "meaning": "ゆがんだ見方"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "形",
+      "en": "The mirror distorted the shape of my face.",
+      "ja": "鏡のせいで私の顔の形がゆがんで見えた。"
+    },
+    {
+      "source": "original",
+      "label": "顔",
+      "en": "His face was distorted with pain.",
+      "ja": "彼の顔は痛みでゆがんだ。"
+    },
+    {
+      "source": "original",
+      "label": "音",
+      "en": "The sound was distorted because the speaker was broken.",
+      "ja": "スピーカーが壊れていて音がひずんでいた。"
+    },
+    {
+      "source": "original",
+      "label": "事実",
+      "en": "The newspaper distorted the facts to sell more copies.",
+      "ja": "その新聞は部数を伸ばすために事実をねじ曲げた。"
+    },
+    {
+      "source": "original",
+      "label": "発言",
+      "en": "You are distorting what I said.",
+      "ja": "あなたは私の言ったことをねじ曲げている。"
+    },
+    {
+      "source": "original",
+      "label": "distorted(形容詞)",
+      "en": "Social media can give us a distorted view of reality.",
+      "ja": "SNS は現実についてのゆがんだ見方を与えることがある。"
+    }
+  ],
+  "check_points": [
+    "distort の「事実をねじ曲げる」の意味を言えるか",
+    "名詞形を言えるか(distortion)"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "distort the truth / facts(事実をゆがめる)が長文で出る。tort=ねじる の語根問題でも狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 506
+    }
+  ]
+}

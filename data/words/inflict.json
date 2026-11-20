@@ -1,0 +1,97 @@
+{
+  "word": "inflict",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈflɪkt/",
+  "core_image": {
+    "text": "打ちつけて、痛みを相手にのしかける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"96\" y2=\"66\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><line x1=\"100\" y1=\"66\" x2=\"150\" y2=\"66\"/><polyline points=\"143,62.2 150,66 143,69.8\"/><circle cx=\"176\" cy=\"52\" r=\"10\"/><line x1=\"176\" y1=\"62\" x2=\"176\" y2=\"106\"/><line x1=\"176\" y1=\"106\" x2=\"166\" y2=\"140\"/><line x1=\"176\" y1=\"106\" x2=\"186\" y2=\"140\"/><line x1=\"176\" y1=\"74\" x2=\"160\" y2=\"96\"/><line x1=\"176\" y1=\"74\" x2=\"192\" y2=\"96\"/><line x1=\"160\" y1=\"30\" x2=\"168\" y2=\"38\"/><line x1=\"192\" y1=\"30\" x2=\"184\" y2=\"38\"/></g><text x=\"124\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">負わせる</text></svg>"
+  },
+  "etymology": "in(上に) + flict(ラテン語 fligere=打つ。conflict と同じ) → 相手に打ちつける → (損害・苦痛・罰を)負わせる・与える。いやなものを押しつけるときにだけ使う",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to cause something unpleasant, such as damage, pain, or punishment, to happen to someone or something."
+    }
+  ],
+  "cautions": [
+    "inflict A on / upon B=AをBに負わせる。前置詞は on(×inflict B with A はふつう使わない)",
+    "A はいやなもの(damage / pain / injury / punishment / suffering)だけ。よいものには give を使う",
+    "名詞 infliction はあまり使わない。受け身 A is inflicted on B も多い"
+  ],
+  "patterns": [
+    {
+      "form": "inflict A on B",
+      "meaning": "AをBに負わせる"
+    },
+    {
+      "form": "inflict damage on A",
+      "meaning": "Aに損害を与える"
+    },
+    {
+      "form": "inflict pain / suffering on A",
+      "meaning": "Aに苦痛を与える"
+    },
+    {
+      "form": "inflict punishment on A",
+      "meaning": "Aに罰を加える"
+    },
+    {
+      "form": "A is inflicted on B",
+      "meaning": "AがBに負わされる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "損害",
+      "en": "The typhoon inflicted heavy damage on the town.",
+      "ja": "台風はその町に大きな損害を与えた。"
+    },
+    {
+      "source": "original",
+      "label": "苦痛",
+      "en": "We should not inflict unnecessary pain on animals.",
+      "ja": "動物に不必要な苦痛を与えるべきではない。"
+    },
+    {
+      "source": "original",
+      "label": "けが",
+      "en": "The injuries inflicted on him were serious.",
+      "ja": "彼が負わされたけがは重かった。"
+    },
+    {
+      "source": "original",
+      "label": "罰",
+      "en": "The court inflicted a heavy punishment on the criminal.",
+      "ja": "裁判所はその犯罪者に重い罰を科した。"
+    },
+    {
+      "source": "original",
+      "label": "押しつける",
+      "en": "I don't want to inflict my problems on my friends.",
+      "ja": "友人に自分の悩みを押しつけたくない。"
+    },
+    {
+      "source": "original",
+      "label": "負け",
+      "en": "The team inflicted a heavy defeat on their rivals.",
+      "ja": "そのチームはライバルに大敗を喫させた。"
+    }
+  ],
+  "check_points": [
+    "inflict A on B の前置詞を言えるか",
+    "inflict の目的語がいやなものに限られることを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "inflict A on B(AをBに負わせる)の前置詞 on が語法で狙われる。長文では damage と組で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 505
+    }
+  ]
+}

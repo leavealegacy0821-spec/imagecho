@@ -1,0 +1,97 @@
+{
+  "word": "accumulate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈkjuːmjəleɪt/",
+  "core_image": {
+    "text": "少しずつ上へ上へと、積み重なる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"90\" y=\"122\" width=\"60\" height=\"18\"/><rect x=\"94\" y=\"104\" width=\"52\" height=\"18\"/><rect x=\"98\" y=\"86\" width=\"44\" height=\"18\"/><rect x=\"102\" y=\"68\" width=\"36\" height=\"18\"/><line x1=\"170\" y1=\"132\" x2=\"170\" y2=\"64\"/><polyline points=\"166.2,71 170,64 173.8,71\"/><rect x=\"104\" y=\"20\" width=\"32\" height=\"14\"/><line x1=\"120\" y1=\"36\" x2=\"120\" y2=\"64\" stroke-dasharray=\"5 5\"/><polyline points=\"123.8,57 120,64 116.2,57\"/></g><text x=\"52\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">積み重なる</text></svg>"
+  },
+  "etymology": "ac(ad=〜へ) + cumul(ラテン語 cumulus=山・積み重ね) + ate → 山に積む → (少しずつ)ためる・蓄積する(他動詞) → (ほこり・借金・ごみが)たまる(自動詞)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to gradually get more and more of something over a period of time, or to gradually increase in number or amount."
+    }
+  ],
+  "cautions": [
+    "他動詞「ためる」と自動詞「たまる」の両方がある:accumulate wealth / Dust accumulated.",
+    "「一度に集める」ではなく「時間をかけて少しずつ」(collect / gather との違い)",
+    "名詞 accumulation=蓄積、形容詞 cumulative=累積的な"
+  ],
+  "patterns": [
+    {
+      "form": "accumulate A",
+      "meaning": "A(富・知識・証拠)をためる"
+    },
+    {
+      "form": "A accumulate",
+      "meaning": "A(ほこり・借金)がたまる"
+    },
+    {
+      "form": "accumulate knowledge / experience",
+      "meaning": "知識・経験を積む"
+    },
+    {
+      "form": "accumulation",
+      "meaning": "蓄積"
+    },
+    {
+      "form": "cumulative",
+      "meaning": "累積的な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ためる(富)",
+      "en": "He accumulated a large fortune over the years.",
+      "ja": "彼は長年かけて大きな財産を築いた。"
+    },
+    {
+      "source": "original",
+      "label": "積む(知識)",
+      "en": "Scientists have accumulated a lot of knowledge about the brain.",
+      "ja": "科学者たちは脳について多くの知識を蓄積してきた。"
+    },
+    {
+      "source": "original",
+      "label": "たまる(自動詞)",
+      "en": "Dust had accumulated on the old piano.",
+      "ja": "古いピアノの上にほこりがたまっていた。"
+    },
+    {
+      "source": "original",
+      "label": "たまる(借金)",
+      "en": "Their debts accumulated quickly.",
+      "ja": "彼らの借金はみるみるたまった。"
+    },
+    {
+      "source": "original",
+      "label": "集める(証拠)",
+      "en": "The police accumulated enough evidence to arrest him.",
+      "ja": "警察は彼を逮捕するのに十分な証拠を集めた。"
+    },
+    {
+      "source": "original",
+      "label": "accumulation(名詞)",
+      "en": "The accumulation of plastic in the ocean is a serious problem.",
+      "ja": "海にプラスチックがたまることは深刻な問題だ。"
+    }
+  ],
+  "check_points": [
+    "accumulate の自動詞と他動詞の使い方を1つずつ言えるか",
+    "名詞形を言えるか(accumulation)"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文で「(知識・富・ごみが)蓄積する」の意味で頻出。同意語選択で build up / pile up が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 509
+    }
+  ]
+}

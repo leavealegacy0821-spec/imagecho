@@ -1,0 +1,98 @@
+{
+  "word": "coincide",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˌkoʊɪnˈsaɪd/",
+  "core_image": {
+    "text": "2つのものが、ぴたりと同じ所に重なる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"104\" cy=\"80\" r=\"34\"/><circle cx=\"136\" cy=\"80\" r=\"34\"/><line x1=\"40\" y1=\"80\" x2=\"66\" y2=\"80\"/><polyline points=\"59,76.2 66,80 59,83.8\"/><line x1=\"200\" y1=\"80\" x2=\"174\" y2=\"80\"/><polyline points=\"181,83.8 174,80 181,76.2\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぴたり重なる</text></svg>"
+  },
+  "etymology": "co(一緒に) + in(上に) + cide(ラテン語 cadere=落ちる) → 同じ所に一緒に落ちる → (時間が)同時に起こる・(場所・形が)一致する → (考え・意見が)一致する → 名詞 coincidence=偶然の一致",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to happen at the same time as something else, or (of ideas or opinions) to be the same or very similar."
+    }
+  ],
+  "cautions": [
+    "coincide with A=Aと同時に起こる・Aと一致する。前置詞は with",
+    "自動詞なので受け身にしない(×be coincided with)",
+    "名詞 coincidence=偶然の一致。by coincidence=偶然に、What a coincidence!=なんという偶然",
+    "「意見が一致する」の意味もある:Our views coincide."
+  ],
+  "patterns": [
+    {
+      "form": "A coincide with B",
+      "meaning": "AがBと同時に起こる"
+    },
+    {
+      "form": "A and B coincide",
+      "meaning": "AとBが一致する"
+    },
+    {
+      "form": "A's views coincide with B's",
+      "meaning": "意見が一致する"
+    },
+    {
+      "form": "coincidence",
+      "meaning": "偶然の一致"
+    },
+    {
+      "form": "by coincidence",
+      "meaning": "偶然に"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "同時に起こる",
+      "en": "My birthday coincides with the school festival this year.",
+      "ja": "今年は私の誕生日が文化祭と重なる。"
+    },
+    {
+      "source": "original",
+      "label": "同時に起こる",
+      "en": "The president's visit was timed to coincide with the anniversary.",
+      "ja": "大統領の訪問は記念日と重なるよう日程が組まれた。"
+    },
+    {
+      "source": "original",
+      "label": "一致する(意見)",
+      "en": "Our opinions coincided on most points.",
+      "ja": "私たちの意見はほとんどの点で一致した。"
+    },
+    {
+      "source": "original",
+      "label": "一致する(利害)",
+      "en": "His interests do not always coincide with ours.",
+      "ja": "彼の利害はいつも私たちのものと一致するとは限らない。"
+    },
+    {
+      "source": "original",
+      "label": "coincidence",
+      "en": "It was pure coincidence that we met at the station.",
+      "ja": "私たちが駅で会ったのはまったくの偶然だった。"
+    },
+    {
+      "source": "original",
+      "label": "by coincidence",
+      "en": "By coincidence, we were born in the same hospital.",
+      "ja": "偶然にも、私たちは同じ病院で生まれた。"
+    }
+  ],
+  "check_points": [
+    "coincide の後ろの前置詞を言えるか(with)",
+    "名詞 coincidence の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "coincide with A(Aと同時に起こる・一致する)と名詞 coincidence が長文・語彙問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 503
+    }
+  ]
+}

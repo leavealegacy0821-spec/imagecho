@@ -1,0 +1,98 @@
+{
+  "word": "arise",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈraɪz/",
+  "core_image": {
+    "text": "見えなかったものが、ふっと立ち上がって現れる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M30 140 Q70 128 110 140\"/><line x1=\"70\" y1=\"128\" x2=\"70\" y2=\"70\"/><polyline points=\"66.2,77 70,70 73.8,77\"/><circle cx=\"70\" cy=\"56\" r=\"10\"/><path d=\"M130 140 Q170 128 210 140\"/><line x1=\"170\" y1=\"128\" x2=\"170\" y2=\"70\" stroke-dasharray=\"5 5\"/><polyline points=\"166.2,77 170,70 173.8,77\"/><circle cx=\"170\" cy=\"56\" r=\"10\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふっと現れる</text></svg>"
+  },
+  "etymology": "a(上へ・強め) + rise(上がる) → 下から立ち上がる → (問題・機会・疑問などが)生じる・現れる → arise from A=Aから生じる。活用は arise - arose - arisen",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "(of a problem, situation, or question) to begin to exist or to be noticed, or to happen as a result of something."
+    }
+  ],
+  "cautions": [
+    "自動詞なので目的語を取らない:A problem arose.(×arise a problem)。他動詞は raise(〜を上げる・〜を提起する)",
+    "arise from / out of A=Aから生じる(result from / stem from と同じ発想)",
+    "活用は arise - arose - arisen。rise - rose - risen と同じ変わり方",
+    "主語は problem / question / need / opportunity / difficulty など「事がら」が多い"
+  ],
+  "patterns": [
+    {
+      "form": "A arise",
+      "meaning": "A(問題など)が生じる"
+    },
+    {
+      "form": "arise from / out of A",
+      "meaning": "Aから生じる"
+    },
+    {
+      "form": "if the need arises",
+      "meaning": "必要が生じれば"
+    },
+    {
+      "form": "when the opportunity arises",
+      "meaning": "機会があれば"
+    },
+    {
+      "form": "arise - arose - arisen",
+      "meaning": "活用"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "生じる(問題)",
+      "en": "A serious problem arose during the experiment.",
+      "ja": "実験中に深刻な問題が生じた。"
+    },
+    {
+      "source": "original",
+      "label": "arise from",
+      "en": "Many accidents arise from carelessness.",
+      "ja": "多くの事故は不注意から生じる。"
+    },
+    {
+      "source": "original",
+      "label": "生じる(疑問)",
+      "en": "Some questions have arisen about the new plan.",
+      "ja": "新しい計画についていくつか疑問が出てきた。"
+    },
+    {
+      "source": "original",
+      "label": "if the need arises",
+      "en": "I will help you if the need arises.",
+      "ja": "必要が生じたら手伝うよ。"
+    },
+    {
+      "source": "original",
+      "label": "when the opportunity arises",
+      "en": "She will study abroad when the opportunity arises.",
+      "ja": "機会があれば彼女は留学するつもりだ。"
+    },
+    {
+      "source": "original",
+      "label": "raise との区別",
+      "en": "He raised a question, and a long discussion arose.",
+      "ja": "彼が疑問を出し、長い議論が起こった。"
+    }
+  ],
+  "check_points": [
+    "arise と raise の違い(自動詞か他動詞か)を言えるか",
+    "arise の過去形・過去分詞を言えるか(arose, arisen)"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "arise / rise / raise の区別と活用が語法問題で出る。arise from A(Aから生じる)も長文で多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 501
+    }
+  ]
+}

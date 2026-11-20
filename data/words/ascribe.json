@@ -1,0 +1,93 @@
+{
+  "word": "ascribe",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈskraɪb/",
+  "core_image": {
+    "text": "原因や作者の名を、その物に書き添える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"60\" width=\"50\" height=\"50\"/><line x1=\"40\" y1=\"110\" x2=\"90\" y2=\"60\"/><line x1=\"96\" y1=\"84\" x2=\"150\" y2=\"84\" stroke-dasharray=\"5 5\"/><polyline points=\"143,80.2 150,84 143,87.8\"/><rect x=\"156\" y=\"60\" width=\"64\" height=\"40\"/><line x1=\"166\" y1=\"76\" x2=\"210\" y2=\"76\"/><line x1=\"166\" y1=\"88\" x2=\"196\" y2=\"88\"/></g><text x=\"188\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">原因の札</text></svg>"
+  },
+  "etymology": "a(ad=〜へ) + scribe(書く。describe と同じ) → 〜に書き添える → (結果を)Aのせいにする・(作品を)Aの作とする → (性質を)Aにあると考える。attribute A to B と同じ意味・同じ型",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say or think that something is caused by, written by, or belongs to a particular person or thing."
+    }
+  ],
+  "cautions": [
+    "ascribe A to B=AをBのせいにする・AをBに帰する。to の後ろが「原因・作者」(attribute A to B と同じ型)",
+    "受け身 A is ascribed to B=AはBによるものとされている",
+    "A と B を逆にしない:結果(A)を原因(B)へ「書き添える」"
+  ],
+  "patterns": [
+    {
+      "form": "ascribe A to B",
+      "meaning": "AをBのせいにする"
+    },
+    {
+      "form": "A is ascribed to B",
+      "meaning": "AはBによるものとされる"
+    },
+    {
+      "form": "ascribe A to B(作者)",
+      "meaning": "AをBの作とする"
+    },
+    {
+      "form": "ascribe A to B(性質)",
+      "meaning": "AがBにあると考える"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "原因",
+      "en": "He ascribed his success to hard work.",
+      "ja": "彼は自分の成功を努力のおかげだと考えた。"
+    },
+    {
+      "source": "original",
+      "label": "原因(受け身)",
+      "en": "The accident was ascribed to human error.",
+      "ja": "その事故は人為的ミスによるものとされた。"
+    },
+    {
+      "source": "original",
+      "label": "作者",
+      "en": "This poem is usually ascribed to Shakespeare.",
+      "ja": "この詩はふつうシェイクスピアの作とされている。"
+    },
+    {
+      "source": "original",
+      "label": "性質",
+      "en": "People often ascribe human feelings to their pets.",
+      "ja": "人はよくペットに人間のような感情があると考える。"
+    },
+    {
+      "source": "original",
+      "label": "原因",
+      "en": "She ascribed her poor score to lack of sleep.",
+      "ja": "彼女は点が悪かったのを睡眠不足のせいにした。"
+    },
+    {
+      "source": "original",
+      "label": "原因",
+      "en": "Doctors ascribe the rise in the disease to changes in diet.",
+      "ja": "医者はその病気の増加を食生活の変化によるものと考えている。"
+    }
+  ],
+  "check_points": [
+    "ascribe A to B のA・Bのどちらが原因か言えるか",
+    "ascribe と同じ型・同じ意味の動詞を言えるか(attribute)"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "ascribe A to B(AをBのせいにする)が attribute A to B と並んで語法・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 504
+    }
+  ]
+}

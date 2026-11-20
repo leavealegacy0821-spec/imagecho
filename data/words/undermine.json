@@ -1,0 +1,93 @@
+{
+  "word": "undermine",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˌʌndərˈmaɪn/",
+  "core_image": {
+    "text": "足もとの下を掘って、じわじわ崩す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"120\" y=\"70\" width=\"80\" height=\"70\"/><line x1=\"140\" y1=\"70\" x2=\"140\" y2=\"140\"/><line x1=\"160\" y1=\"70\" x2=\"160\" y2=\"140\"/><line x1=\"180\" y1=\"70\" x2=\"180\" y2=\"140\"/><path d=\"M126 140 Q160 156 194 140\"/><line x1=\"80\" y1=\"150\" x2=\"124\" y2=\"148\"/><polyline points=\"116.8,144.5 124,148 117.2,152.2\"/></g><text x=\"56\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">下から崩す</text></svg>"
+  },
+  "etymology": "under(下を) + mine(掘る。地雷・鉱山の mine) → 城壁の下にトンネルを掘る → 土台を崩して弱らせる → (自信・健康・信頼・努力などを)じわじわむしばむ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make something or someone gradually weaker or less effective, often in a way that is not obvious."
+    }
+  ],
+  "cautions": [
+    "「一気に壊す」ではなく「気づかないうちに少しずつ弱らせる」(destroy との違い)",
+    "目的語は confidence / health / trust / authority / efforts など抽象的なものが多い",
+    "under(下)+ mine(掘る)と分けて覚えると意味がぶれない"
+  ],
+  "patterns": [
+    {
+      "form": "undermine A's confidence",
+      "meaning": "Aの自信を失わせる"
+    },
+    {
+      "form": "undermine A's health",
+      "meaning": "Aの健康をむしばむ"
+    },
+    {
+      "form": "undermine trust in A",
+      "meaning": "Aへの信頼を損なう"
+    },
+    {
+      "form": "undermine A's efforts",
+      "meaning": "Aの努力を台無しにする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "自信",
+      "en": "Constant criticism can undermine a child's confidence.",
+      "ja": "絶えず批判されると子どもの自信は損なわれうる。"
+    },
+    {
+      "source": "original",
+      "label": "健康",
+      "en": "Lack of sleep gradually undermined his health.",
+      "ja": "睡眠不足が少しずつ彼の健康をむしばんだ。"
+    },
+    {
+      "source": "original",
+      "label": "信頼",
+      "en": "The scandal undermined public trust in the government.",
+      "ja": "その不祥事は政府への国民の信頼を損なった。"
+    },
+    {
+      "source": "original",
+      "label": "努力",
+      "en": "Their quarrel undermined the team's efforts to win.",
+      "ja": "彼らのけんかが勝とうとするチームの努力を台無しにした。"
+    },
+    {
+      "source": "original",
+      "label": "権威",
+      "en": "The rumor was meant to undermine the leader's authority.",
+      "ja": "そのうわさは指導者の権威を弱めることを狙ったものだった。"
+    },
+    {
+      "source": "original",
+      "label": "土台を崩す",
+      "en": "The waves had undermined the cliff, and it finally fell.",
+      "ja": "波が崖の下を削っていて、ついに崖は崩れた。"
+    }
+  ],
+  "check_points": [
+    "undermine の「少しずつ・目立たずに」というニュアンスを言えるか",
+    "undermine の目的語になりやすい語を2つ言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文で「(信頼・自信・努力を)損なう」の意味で頻出。同意語選択で weaken が正解になる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 502
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "integrate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈɪntɪɡreɪt/",
+  "core_image": {
+    "text": "ばらばらの部分を、1つのまとまりにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"40\" width=\"20\" height=\"20\"/><circle cx=\"40\" cy=\"96\" r=\"10\"/><polygon points=\"40,114 52,132 28,132\"/><line x1=\"60\" y1=\"50\" x2=\"130\" y2=\"76\"/><polyline points=\"124.8,70 130,76 122.1,77.2\"/><line x1=\"60\" y1=\"96\" x2=\"130\" y2=\"86\"/><polyline points=\"122.5,83.2 130,86 123.6,90.8\"/><line x1=\"60\" y1=\"124\" x2=\"130\" y2=\"96\"/><polyline points=\"122.1,95 130,96 124.9,102.2\"/><rect x=\"140\" y=\"56\" width=\"70\" height=\"60\"/><circle cx=\"175\" cy=\"86\" r=\"14\"/></g><text x=\"176\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">1つにまとめる</text></svg>"
+  },
+  "etymology": "integr(ラテン語 integer=欠けていない・まるごと。integrity と同じ) + ate(〜にする) → まるごとの全体にする → (部分を)統合する → (人が社会・集団に)溶けこむ・溶けこませる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to combine two or more things to make one whole, or to become, or help someone become, part of a group or society."
+    }
+  ],
+  "cautions": [
+    "integrate A into B=AをBに組み入れる(前置詞は into)",
+    "integrate A with B=AとBを統合する",
+    "integrate into society=(移民などが)社会に溶けこむ。自動詞でも使う",
+    "名詞 integration=統合・融合、形容詞 integrated=統合された"
+  ],
+  "patterns": [
+    {
+      "form": "integrate A into B",
+      "meaning": "AをBに組み入れる"
+    },
+    {
+      "form": "integrate A with B",
+      "meaning": "AとBを統合する"
+    },
+    {
+      "form": "integrate (into A)",
+      "meaning": "(Aに)溶けこむ"
+    },
+    {
+      "form": "integration",
+      "meaning": "統合・融合"
+    },
+    {
+      "form": "an integrated system",
+      "meaning": "統合されたシステム"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "組み入れる",
+      "en": "The school integrated computers into every subject.",
+      "ja": "その学校はすべての教科にコンピュータを取り入れた。"
+    },
+    {
+      "source": "original",
+      "label": "統合する",
+      "en": "We need to integrate theory with practice.",
+      "ja": "理論と実践を統合する必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "溶けこむ(自動詞)",
+      "en": "It took time for the new students to integrate into the class.",
+      "ja": "転入生がクラスに溶けこむには時間がかかった。"
+    },
+    {
+      "source": "original",
+      "label": "溶けこませる",
+      "en": "The program helps integrate immigrants into society.",
+      "ja": "その計画は移民が社会に溶けこむのを助ける。"
+    },
+    {
+      "source": "original",
+      "label": "integration(名詞)",
+      "en": "The integration of the two companies was not easy.",
+      "ja": "2つの会社の統合は簡単ではなかった。"
+    },
+    {
+      "source": "original",
+      "label": "integrated(形容詞)",
+      "en": "The city has an integrated public transport system.",
+      "ja": "その都市には統合された公共交通網がある。"
+    }
+  ],
+  "check_points": [
+    "integrate A into B の前置詞を言えるか",
+    "「(社会に)溶けこむ」という自動詞の使い方を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "integrate A into B と「(移民などが)社会に溶けこむ」の意味が、社会系の長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 508
+    }
+  ]
+}
