@@ -1,0 +1,94 @@
+{
+  "word": "hinder",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈhɪndər/",
+  "core_image": {
+    "text": "後ろから引っぱって、進むのをじゃまする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"170\" y2=\"88\"/><line x1=\"150\" y1=\"74\" x2=\"132\" y2=\"86\"/><line x1=\"176\" y1=\"120\" x2=\"214\" y2=\"120\"/><polyline points=\"207,116.2 214,120 207,123.8\"/><line x1=\"132\" y1=\"86\" x2=\"70\" y2=\"86\"/><rect x=\"40\" y=\"70\" width=\"30\" height=\"70\"/></g><text x=\"55\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">後ろへ</text><text x=\"195\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">進みたい</text></svg>"
+  },
+  "etymology": "hind(後ろ。behind と同じ) → 後ろへ引きとめる → 妨げる・じゃまする → hinder A from doing=Aが〜するのを妨げる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make it difficult for someone to do something or for something to develop."
+    }
+  ],
+  "cautions": [
+    "hinder A from doing=Aが〜するのを妨げる(prevent A from doing と同じ型)",
+    "prevent は「完全に止める」、hinder は「じゃまして遅らせる・難しくする」",
+    "名詞 hindrance=じゃま(物)",
+    "×hinder A to do は誤り"
+  ],
+  "patterns": [
+    {
+      "form": "hinder A from doing",
+      "meaning": "Aが〜するのを妨げる"
+    },
+    {
+      "form": "hinder A",
+      "meaning": "Aをじゃまする・遅らせる"
+    },
+    {
+      "form": "hindrance",
+      "meaning": "じゃま"
+    },
+    {
+      "form": "prevent A from doing",
+      "meaning": "Aが〜するのを防ぐ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "hinder A from doing",
+      "en": "The heavy rain hindered us from finishing the work.",
+      "ja": "大雨のせいで私たちは仕事を終えられなかった。"
+    },
+    {
+      "source": "original",
+      "label": "じゃまする",
+      "en": "A lack of money hindered the progress of the project.",
+      "ja": "資金不足が計画の進行を妨げた。"
+    },
+    {
+      "source": "original",
+      "label": "遅らせる",
+      "en": "Strong winds hindered the rescue team.",
+      "ja": "強風が救助隊の動きを遅らせた。"
+    },
+    {
+      "source": "original",
+      "label": "成長を妨げる",
+      "en": "Too much stress can hinder a child's development.",
+      "ja": "ストレスが多すぎると子どもの発達が妨げられることがある。"
+    },
+    {
+      "source": "original",
+      "label": "prevent との比較",
+      "en": "The snow hindered, but did not prevent, our trip.",
+      "ja": "雪は旅の妨げにはなったが、旅をやめさせはしなかった。"
+    },
+    {
+      "source": "original",
+      "label": "hindrance(名詞)",
+      "en": "Shyness can be a hindrance when you make friends.",
+      "ja": "人見知りは友達を作るときのじゃまになることがある。"
+    }
+  ],
+  "check_points": [
+    "hinder A from doing の形を言えるか",
+    "hinder と prevent の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "prevent / keep / stop / hinder A from doing の型がまとめて問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 425
+    }
+  ]
+}

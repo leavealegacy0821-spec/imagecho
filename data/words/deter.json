@@ -1,0 +1,94 @@
+{
+  "word": "deter",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈtɜːr/",
+  "core_image": {
+    "text": "こわがらせて、近づかせない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"40\" width=\"50\" height=\"40\"/><line x1=\"65\" y1=\"80\" x2=\"65\" y2=\"140\"/><line x1=\"52\" y1=\"52\" x2=\"78\" y2=\"68\"/><line x1=\"78\" y1=\"52\" x2=\"52\" y2=\"68\"/><circle cx=\"160\" cy=\"52\" r=\"10\"/><line x1=\"160\" y1=\"62\" x2=\"160\" y2=\"106\"/><line x1=\"160\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"160\" y1=\"74\" x2=\"140\" y2=\"64\"/><line x1=\"160\" y1=\"74\" x2=\"176\" y2=\"94\"/><line x1=\"180\" y1=\"120\" x2=\"220\" y2=\"120\"/><polyline points=\"213,116.2 220,120 213,123.8\"/></g><text x=\"65\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こわい</text><text x=\"205\" y=\"106\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やめる</text></svg>"
+  },
+  "etymology": "de(離れて) + ter(こわがらせる。terror、terrible と同じ) → こわがらせて遠ざける → (悪いことを)思いとどまらせる・抑止する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone decide not to do something, usually by making them afraid of what will happen."
+    }
+  ],
+  "cautions": [
+    "deter A from doing=Aに〜するのを思いとどまらせる(discourage と同じ型)",
+    "「こわさ・損」で止めるのが deter、「やる気をなくさせて」止めるのが discourage",
+    "名詞 deterrent=抑止力(nuclear deterrent=核抑止力)",
+    "過去形は deterred(r を重ねる)"
+  ],
+  "patterns": [
+    {
+      "form": "deter A from doing",
+      "meaning": "Aに〜するのを思いとどまらせる"
+    },
+    {
+      "form": "deter crime",
+      "meaning": "犯罪を抑止する"
+    },
+    {
+      "form": "deterrent",
+      "meaning": "抑止力"
+    },
+    {
+      "form": "discourage A from doing",
+      "meaning": "Aにやる気をなくさせる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "deter A from doing",
+      "en": "The high fine deters people from parking here.",
+      "ja": "罰金が高いので、ここに駐車する人はいない。"
+    },
+    {
+      "source": "original",
+      "label": "抑止する",
+      "en": "Cameras on the street help to deter crime.",
+      "ja": "街頭のカメラは犯罪の抑止に役立つ。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "He was not deterred by the danger.",
+      "ja": "彼は危険にもひるまなかった。"
+    },
+    {
+      "source": "original",
+      "label": "思いとどまらせる",
+      "en": "Nothing could deter her from her goal.",
+      "ja": "何があっても彼女は目標をあきらめなかった。"
+    },
+    {
+      "source": "original",
+      "label": "deterrent(名詞)",
+      "en": "Some people believe that heavy punishment is a deterrent.",
+      "ja": "重い罰は抑止力になると考える人もいる。"
+    },
+    {
+      "source": "original",
+      "label": "過去形 deterred",
+      "en": "The bad weather deterred many fans from coming.",
+      "ja": "悪天候のため多くのファンが来るのをやめた。"
+    }
+  ],
+  "check_points": [
+    "deter A from doing の形を言えるか",
+    "名詞 deterrent の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "deter A from doing が prevent 型の仲間として出る。長文で「抑止する」。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 427
+    }
+  ]
+}

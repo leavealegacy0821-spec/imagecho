@@ -1,0 +1,98 @@
+{
+  "word": "notify",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈnoʊtɪfaɪ/",
+  "core_image": {
+    "text": "相手が知っている状態に、正式にする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"82\" y2=\"80\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><rect x=\"104\" y=\"40\" width=\"30\" height=\"20\"/><polyline points=\"104,40 119,52 134,40\"/><line x1=\"140\" y1=\"56\" x2=\"166\" y2=\"72\"/><polyline points=\"162,65.1 166,72 158,71.6\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"166\" y2=\"96\"/><line x1=\"180\" y1=\"74\" x2=\"194\" y2=\"96\"/></g><text x=\"119\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">正式に</text><text x=\"120\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">知らせる</text></svg>"
+  },
+  "etymology": "not(知る。note、notice と同じ) + ify(〜にする) → 知っている状態にする → (正式に)知らせる・通知する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to formally tell someone about something."
+    }
+  ],
+  "cautions": [
+    "notify A of B=AにBを知らせる(inform A of B と同じ「A of B」の型)",
+    "notify A that S V=Aに〜だと知らせる",
+    "目的語は「人」。×notify B to A は誤り",
+    "名詞 notification=通知"
+  ],
+  "patterns": [
+    {
+      "form": "notify A of B",
+      "meaning": "AにBを知らせる"
+    },
+    {
+      "form": "notify A that S V",
+      "meaning": "Aに〜と知らせる"
+    },
+    {
+      "form": "be notified of B",
+      "meaning": "Bを知らされる"
+    },
+    {
+      "form": "notification",
+      "meaning": "通知"
+    },
+    {
+      "form": "inform A of B",
+      "meaning": "AにBを知らせる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "notify A of B",
+      "en": "Please notify us of any change of address.",
+      "ja": "住所が変わったらお知らせください。"
+    },
+    {
+      "source": "original",
+      "label": "notify A that",
+      "en": "The school notified parents that classes were canceled.",
+      "ja": "学校は保護者に休校を知らせた。"
+    },
+    {
+      "source": "original",
+      "label": "be notified of",
+      "en": "You will be notified of the results by email.",
+      "ja": "結果はメールで通知されます。"
+    },
+    {
+      "source": "original",
+      "label": "通報する",
+      "en": "Someone notified the police about the accident.",
+      "ja": "だれかがその事故を警察に通報した。"
+    },
+    {
+      "source": "original",
+      "label": "inform との比較",
+      "en": "They informed, or notified, the staff of the new rule.",
+      "ja": "彼らは職員に新しい規則を知らせた。"
+    },
+    {
+      "source": "original",
+      "label": "notification(名詞)",
+      "en": "I got a notification on my phone.",
+      "ja": "スマホに通知が来た。"
+    }
+  ],
+  "check_points": [
+    "notify A of B の形を言えるか",
+    "inform A of B との共通点を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "inform / remind / notify A of B の「A of B」型でまとめて出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 428
+    }
+  ]
+}

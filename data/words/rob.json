@@ -1,0 +1,98 @@
+{
+  "word": "rob",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɑːb/",
+  "core_image": {
+    "text": "人から、物をむりやりはぎとる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"80\" y2=\"86\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"150\" y2=\"84\"/><line x1=\"180\" y1=\"74\" x2=\"196\" y2=\"96\"/><rect x=\"132\" y=\"80\" width=\"18\" height=\"16\"/><line x1=\"96\" y1=\"66\" x2=\"128\" y2=\"66\"/><polyline points=\"121,62.2 128,66 121,69.8\"/></g><text x=\"60\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">人から</text><text x=\"141\" y=\"118\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">物を</text></svg>"
+  },
+  "etymology": "古い語で「はぎとる」(robe=衣服 と同じ根。はぎとった服) → 人から(物を)むりやり奪う → rob A of B=AからBを奪う",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to steal money or things from a person or place, often using force."
+    }
+  ],
+  "cautions": [
+    "rob A of B=AからBを奪う(目的語は「人・場所」。物を目的語にしない)",
+    "×rob B from A は誤り。「物を盗む」なら steal B (from A)",
+    "be robbed of B=Bを奪われる(×be robbed B)",
+    "名詞 robbery=強盗(事件)、robber=強盗(人)"
+  ],
+  "patterns": [
+    {
+      "form": "rob A of B",
+      "meaning": "AからBを奪う"
+    },
+    {
+      "form": "be robbed of B",
+      "meaning": "Bを奪われる"
+    },
+    {
+      "form": "rob a bank",
+      "meaning": "銀行強盗をする"
+    },
+    {
+      "form": "steal B from A",
+      "meaning": "AからBを盗む"
+    },
+    {
+      "form": "robbery",
+      "meaning": "強盗"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "rob A of B",
+      "en": "A man robbed her of her bag on the street.",
+      "ja": "男が通りで彼女のバッグを奪った。"
+    },
+    {
+      "source": "original",
+      "label": "be robbed of",
+      "en": "I was robbed of my wallet on the train.",
+      "ja": "電車で財布を奪われた。"
+    },
+    {
+      "source": "original",
+      "label": "場所を目的語に",
+      "en": "Two men robbed a bank in the city yesterday.",
+      "ja": "昨日、2人の男が市内の銀行を襲った。"
+    },
+    {
+      "source": "original",
+      "label": "比ゆ的に",
+      "en": "The injury robbed him of the chance to play in the final.",
+      "ja": "けがのせいで彼は決勝に出る機会を失った。"
+    },
+    {
+      "source": "original",
+      "label": "steal との違い",
+      "en": "Someone stole my bike, but nobody robbed me.",
+      "ja": "だれかに自転車は盗まれたが、私が襲われたわけではない。"
+    },
+    {
+      "source": "original",
+      "label": "robbery(名詞)",
+      "en": "The police are investigating the robbery.",
+      "ja": "警察はその強盗事件を捜査している。"
+    }
+  ],
+  "check_points": [
+    "rob A of B と steal B from A の違いを言えるか",
+    "be robbed of B の形を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "rob A of B と steal B from A の区別が語法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 421
+    }
+  ]
+}

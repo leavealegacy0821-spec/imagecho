@@ -1,0 +1,94 @@
+{
+  "word": "discourage",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪsˈkɜːrɪdʒ/",
+  "core_image": {
+    "text": "勇気を取りさって、やる気をくじく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"84\" y2=\"96\"/><line x1=\"110\" y1=\"120\" x2=\"170\" y2=\"60\"/><polyline points=\"162.3,62.3 170,60 167.7,67.7\"/><line x1=\"128\" y1=\"70\" x2=\"152\" y2=\"100\"/><line x1=\"152\" y1=\"70\" x2=\"128\" y2=\"100\"/></g><text x=\"196\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">気をくじく</text></svg>"
+  },
+  "etymology": "dis(離す・取りさる) + courage(勇気) → 勇気を取りさる → がっかりさせる → (やる気をくじいて)思いとどまらせる → discourage A from doing",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone feel less confident, or to try to stop someone from doing something."
+    }
+  ],
+  "cautions": [
+    "discourage A from doing=Aに〜するのを思いとどまらせる(encourage A to do の反対。to do と from doing が逆)",
+    "be discouraged=がっかりしている(感情は受け身)",
+    "discouraging=がっかりさせるような(物が主語)",
+    "名詞 discouragement=落胆"
+  ],
+  "patterns": [
+    {
+      "form": "discourage A from doing",
+      "meaning": "Aに〜するのを思いとどまらせる"
+    },
+    {
+      "form": "be discouraged",
+      "meaning": "がっかりしている"
+    },
+    {
+      "form": "discouraging",
+      "meaning": "がっかりさせる"
+    },
+    {
+      "form": "encourage A to do",
+      "meaning": "Aに〜するよう励ます"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "discourage A from doing",
+      "en": "My parents discouraged me from going abroad alone.",
+      "ja": "両親は私が1人で海外へ行くのをやめさせようとした。"
+    },
+    {
+      "source": "original",
+      "label": "がっかりさせる",
+      "en": "Don't let one failure discourage you.",
+      "ja": "1度の失敗でがっかりしてはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "be discouraged",
+      "en": "She was discouraged by the poor result.",
+      "ja": "彼女はひどい結果にがっかりした。"
+    },
+    {
+      "source": "original",
+      "label": "抑える(物を主語に)",
+      "en": "High prices discourage people from buying new cars.",
+      "ja": "高い値段のせいで人々は新車を買わなくなる。"
+    },
+    {
+      "source": "original",
+      "label": "encourage との対",
+      "en": "The coach encouraged him to try, but the rain discouraged him from playing.",
+      "ja": "コーチは挑戦するよう励ましたが、雨で彼はプレーする気をなくした。"
+    },
+    {
+      "source": "original",
+      "label": "discouraging",
+      "en": "The news from the hospital was discouraging.",
+      "ja": "病院からの知らせはがっかりするものだった。"
+    }
+  ],
+  "check_points": [
+    "discourage A from doing と encourage A to do の違いを言えるか",
+    "be discouraged の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "encourage A to do との対比(to do / from doing)が語法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 426
+    }
+  ]
+}
