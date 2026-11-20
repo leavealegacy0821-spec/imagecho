@@ -1,0 +1,98 @@
+{
+  "word": "tempt",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/tempt/",
+  "core_image": {
+    "text": "そっと触れて、心を引き寄せる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"100\" y2=\"80\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"98\"/><line x1=\"140\" y1=\"100\" x2=\"220\" y2=\"100\"/><line x1=\"150\" y1=\"100\" x2=\"150\" y2=\"140\"/><line x1=\"210\" y1=\"100\" x2=\"210\" y2=\"140\"/><ellipse cx=\"180\" cy=\"92\" rx=\"20\" ry=\"8\"/><line x1=\"160\" y1=\"84\" x2=\"106\" y2=\"80\" stroke-dasharray=\"5 5\"/><polyline points=\"112.7,84.3 106,80 113.3,76.7\"/></g><text x=\"180\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">引き寄せる</text><text x=\"60\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">つい手が出る</text></svg>"
+  },
+  "etymology": "ラテン語 temptare(触れてみる・試す。attempt と同じ) → 心にそっと触れて試す → 誘う・その気にさせる → be tempted to do=つい〜したくなる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone want to do or have something, especially something that is wrong or not good for them."
+    }
+  ],
+  "cautions": [
+    "tempt A to do / into doing=Aを〜する気にさせる・誘う(A to do の型)",
+    "be tempted to do=〜したい気になる・つい〜したくなる(最頻出の形)",
+    "形容詞 tempting=魅力的な・心をそそる(感情を与える側に -ing)",
+    "名詞 temptation=誘惑:resist the temptation to do=〜したい誘惑に耐える"
+  ],
+  "patterns": [
+    {
+      "form": "tempt A to do",
+      "meaning": "Aを〜する気にさせる"
+    },
+    {
+      "form": "tempt A into doing",
+      "meaning": "Aを誘って〜させる"
+    },
+    {
+      "form": "be tempted to do",
+      "meaning": "つい〜したくなる"
+    },
+    {
+      "form": "tempting",
+      "meaning": "魅力的な"
+    },
+    {
+      "form": "temptation",
+      "meaning": "誘惑"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "つい〜したくなる",
+      "en": "I was tempted to eat the whole cake.",
+      "ja": "私はついケーキを丸ごと食べたくなった。"
+    },
+    {
+      "source": "original",
+      "label": "誘う",
+      "en": "The low price tempted me to buy a new phone.",
+      "ja": "安い値段につられて新しい電話を買いたくなった。"
+    },
+    {
+      "source": "original",
+      "label": "tempt into",
+      "en": "Nothing could tempt him into breaking his promise.",
+      "ja": "何があっても彼が約束を破ることはなかった。"
+    },
+    {
+      "source": "original",
+      "label": "tempting(形容詞)",
+      "en": "The offer was tempting, but I said no.",
+      "ja": "その申し出は魅力的だったが、私は断った。"
+    },
+    {
+      "source": "original",
+      "label": "temptation(名詞)",
+      "en": "She resisted the temptation to check her phone.",
+      "ja": "彼女は電話を見たい誘惑に耐えた。"
+    },
+    {
+      "source": "original",
+      "label": "そそる",
+      "en": "The smell of fresh bread tempted us into the shop.",
+      "ja": "焼きたてのパンのにおいにつられて私たちは店に入った。"
+    }
+  ],
+  "check_points": [
+    "be tempted to do の意味を言えるか",
+    "tempting と tempted の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be tempted to do、tempting / tempted の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 460
+    }
+  ]
+}

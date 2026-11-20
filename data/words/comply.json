@@ -1,0 +1,94 @@
+{
+  "word": "comply",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kəmˈplaɪ/",
+  "core_image": {
+    "text": "求めや決まりに、ぴったり合わせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"98\"/><line x1=\"60\" y1=\"74\" x2=\"72\" y2=\"98\"/><rect x=\"140\" y=\"50\" width=\"80\" height=\"54\"/><line x1=\"152\" y1=\"66\" x2=\"208\" y2=\"66\"/><line x1=\"152\" y1=\"78\" x2=\"208\" y2=\"78\"/><line x1=\"152\" y1=\"90\" x2=\"196\" y2=\"90\"/><line x1=\"136\" y1=\"76\" x2=\"86\" y2=\"76\"/><polyline points=\"93,79.8 86,76 93,72.2\"/></g><text x=\"180\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">求め・決まり</text><text x=\"60\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">合わせる</text></svg>"
+  },
+  "etymology": "ラテン語 complere(すっかり満たす。complete と同じ) → (相手の望みを)満たす → 求め・規則に従う・応じる(自動詞なので with が要る)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to obey a rule, law, or request."
+    }
+  ],
+  "cautions": [
+    "comply with A=A(規則・要求)に従う・応じる。自動詞なので with を落とさない",
+    "同意語:obey A(他動詞)、follow A、conform to A、abide by A",
+    "名詞 compliance=(法令)順守:in compliance with A=Aに従って",
+    "complain(不平を言う)とつづりが似ているので注意"
+  ],
+  "patterns": [
+    {
+      "form": "comply with A",
+      "meaning": "Aに従う"
+    },
+    {
+      "form": "comply with a request",
+      "meaning": "要求に応じる"
+    },
+    {
+      "form": "refuse to comply",
+      "meaning": "従うのを拒む"
+    },
+    {
+      "form": "in compliance with A",
+      "meaning": "Aに従って"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "従う",
+      "en": "All students must comply with the school rules.",
+      "ja": "全生徒は校則に従わなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "応じる",
+      "en": "The company complied with the customer's request.",
+      "ja": "その会社は客の要求に応じた。"
+    },
+    {
+      "source": "original",
+      "label": "守る",
+      "en": "Factories have to comply with safety standards.",
+      "ja": "工場は安全基準を守らなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "refuse to comply",
+      "en": "He refused to comply with the order.",
+      "ja": "彼はその命令に従うのを拒んだ。"
+    },
+    {
+      "source": "original",
+      "label": "従う",
+      "en": "If you do not comply, you will have to pay a fine.",
+      "ja": "従わなければ罰金を払わなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "compliance(名詞)",
+      "en": "The building was checked for compliance with the law.",
+      "ja": "その建物は法律に合っているか検査された。"
+    }
+  ],
+  "check_points": [
+    "comply の後に来る前置詞を言えるか",
+    "comply with の同意語を2つ言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "comply with の with、obey・conform to との言い換えが出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 454
+    }
+  ]
+}

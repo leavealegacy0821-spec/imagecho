@@ -1,0 +1,97 @@
+{
+  "word": "approve",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈpruːv/",
+  "core_image": {
+    "text": "確かめて「よし」と認める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"100\" y2=\"84\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"98\"/><rect x=\"110\" y=\"60\" width=\"64\" height=\"80\"/><polyline points=\"122,100 136,116 162,76\"/></g><text x=\"142\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">「よし」と認める</text></svg>"
+  },
+  "etymology": "ap(ad=〜に)+prove(よいと確かめる。prove と同じ) → 確かめてよいと認める → (計画・案を)承認する／approve of=(人・行動を)よいと思う・賛成する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to officially accept a plan or request, or to think that someone or something is good or right."
+    }
+  ],
+  "cautions": [
+    "approve of A=Aをよいと思う・賛成する(of を落とさない。人・行動について)",
+    "approve A(他動詞)=Aを(正式に)承認する(approve a plan / budget)",
+    "disapprove of A=Aをよく思わない、名詞 approval=賛成・承認",
+    "「承認する」だけで覚えると、My parents don't approve of 〜 が読めない"
+  ],
+  "patterns": [
+    {
+      "form": "approve of A",
+      "meaning": "Aをよいと思う"
+    },
+    {
+      "form": "approve of A doing",
+      "meaning": "Aが〜するのに賛成する"
+    },
+    {
+      "form": "approve A",
+      "meaning": "Aを承認する"
+    },
+    {
+      "form": "disapprove of A",
+      "meaning": "Aをよく思わない"
+    },
+    {
+      "form": "approval",
+      "meaning": "賛成・承認"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "よいと思う",
+      "en": "My parents don't approve of my new friends.",
+      "ja": "両親は私の新しい友だちをよく思っていない。"
+    },
+    {
+      "source": "original",
+      "label": "賛成する",
+      "en": "She doesn't approve of her son playing games all night.",
+      "ja": "彼女は息子が一晩中ゲームをすることに賛成していない。"
+    },
+    {
+      "source": "original",
+      "label": "承認する",
+      "en": "The committee approved the plan for the new library.",
+      "ja": "委員会は新しい図書館の計画を承認した。"
+    },
+    {
+      "source": "original",
+      "label": "許可する",
+      "en": "The school approved our request to use the gym.",
+      "ja": "学校は体育館を使いたいという私たちの願いを許可した。"
+    },
+    {
+      "source": "original",
+      "label": "disapprove of",
+      "en": "Many people disapprove of smoking in public places.",
+      "ja": "多くの人が公共の場所での喫煙をよく思っていない。"
+    },
+    {
+      "source": "original",
+      "label": "approval(名詞)",
+      "en": "We need the principal's approval before the event.",
+      "ja": "行事の前に校長の承認が必要だ。"
+    }
+  ],
+  "check_points": [
+    "approve of A と approve A の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "approve of の of が空所補充・整序で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 451
+    }
+  ]
+}

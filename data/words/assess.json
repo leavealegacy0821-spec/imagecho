@@ -1,0 +1,94 @@
+{
+  "word": "assess",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈses/",
+  "core_image": {
+    "text": "そばに座って、値打ちを見積もる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"98\" y2=\"70\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"98\"/><circle cx=\"108\" cy=\"66\" r=\"10\"/><line x1=\"118\" y1=\"74\" x2=\"154\" y2=\"98\" stroke-dasharray=\"5 5\"/><polyline points=\"150.3,90.9 154,98 146,97.3\"/><rect x=\"140\" y=\"100\" width=\"60\" height=\"40\"/></g><text x=\"176\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">値打ちを見積もる</text></svg>"
+  },
+  "etymology": "as(ad=そばに)+sess(座る。session と同じ) → 裁判官のそばに座る補佐役 → (税額・損害を)見積もる → (力・状況を)評価する・判断する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to carefully judge the quality, value, size, or importance of something."
+    }
+  ],
+  "cautions": [
+    "assess A=Aを評価する・判断する(=evaluate)。状況・能力・影響など抽象的なものに使う",
+    "assess the damage / cost=損害・費用を見積もる",
+    "名詞 assessment=評価・査定(environmental assessment=環境アセスメント)",
+    "access(近づく方法)とつづりが似ているので注意"
+  ],
+  "patterns": [
+    {
+      "form": "assess A",
+      "meaning": "Aを評価する"
+    },
+    {
+      "form": "assess the damage",
+      "meaning": "損害を見積もる"
+    },
+    {
+      "form": "assess whether 〜",
+      "meaning": "〜かどうかを判断する"
+    },
+    {
+      "form": "assessment",
+      "meaning": "評価・査定"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "評価する",
+      "en": "Teachers assess students' progress at the end of each term.",
+      "ja": "先生は毎学期の終わりに生徒の進歩を評価する。"
+    },
+    {
+      "source": "original",
+      "label": "見積もる",
+      "en": "Experts came to assess the damage caused by the flood.",
+      "ja": "専門家が洪水による被害を見積もりに来た。"
+    },
+    {
+      "source": "original",
+      "label": "判断する",
+      "en": "It is too early to assess the effects of the new law.",
+      "ja": "新しい法律の効果を判断するのはまだ早すぎる。"
+    },
+    {
+      "source": "original",
+      "label": "assess whether",
+      "en": "Doctors must assess whether the patient can go home.",
+      "ja": "医師は患者が帰宅できるかどうか判断しなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "評価する",
+      "en": "We need to assess the risks before we start.",
+      "ja": "始める前に危険を評価する必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "assessment(名詞)",
+      "en": "An environmental assessment was carried out before the project.",
+      "ja": "計画の前に環境アセスメントが行われた。"
+    }
+  ],
+  "check_points": [
+    "assess の同意語(evaluate)を言えるか",
+    "assess の語源(そばに座る)を説明できるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文で evaluate・judge との言い換えが出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 452
+    }
+  ]
+}

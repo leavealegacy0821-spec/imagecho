@@ -1,0 +1,98 @@
+{
+  "word": "withdraw",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/wɪðˈdrɔː/",
+  "core_image": {
+    "text": "出していたものを、手もとへ引っ込める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"160\" cy=\"52\" r=\"10\"/><line x1=\"160\" y1=\"62\" x2=\"160\" y2=\"106\"/><line x1=\"160\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"160\" y1=\"74\" x2=\"120\" y2=\"74\"/><line x1=\"160\" y1=\"74\" x2=\"170\" y2=\"98\"/><rect x=\"30\" y=\"60\" width=\"54\" height=\"80\"/><line x1=\"90\" y1=\"96\" x2=\"138\" y2=\"96\"/><polyline points=\"131,92.2 138,96 131,99.8\"/></g><text x=\"110\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">引っ込める</text></svg>"
+  },
+  "etymology": "with(後ろへ・反対に)+draw(引く) → 後ろへ引く → (手・言葉・申し出を)引っ込める・撤回する／(お金を)引き出す／(軍・人が)撤退する・身を引く",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to take money out of a bank account, to take something back or away, or to stop taking part in something."
+    }
+  ],
+  "cautions": [
+    "withdraw money (from a bank)=お金を引き出す(「預ける」は deposit)",
+    "withdraw from A=Aから撤退する・身を引く・(大会などを)辞退する",
+    "withdraw A=A(発言・申し出・支援)を撤回する・取り消す",
+    "活用 withdraw - withdrew - withdrawn、名詞 withdrawal=引き出し・撤退"
+  ],
+  "patterns": [
+    {
+      "form": "withdraw money",
+      "meaning": "お金を引き出す"
+    },
+    {
+      "form": "withdraw from A",
+      "meaning": "Aから撤退する"
+    },
+    {
+      "form": "withdraw A",
+      "meaning": "Aを撤回する"
+    },
+    {
+      "form": "withdraw troops",
+      "meaning": "軍を引き揚げる"
+    },
+    {
+      "form": "withdrawal",
+      "meaning": "引き出し・撤退"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "引き出す",
+      "en": "I withdrew 10,000 yen from the bank.",
+      "ja": "私は銀行から1万円を引き出した。"
+    },
+    {
+      "source": "original",
+      "label": "撤退する",
+      "en": "The army withdrew from the area.",
+      "ja": "軍はその地域から撤退した。"
+    },
+    {
+      "source": "original",
+      "label": "辞退する",
+      "en": "She had to withdraw from the race because of an injury.",
+      "ja": "彼女はけがのためにレースを棄権しなければならなかった。"
+    },
+    {
+      "source": "original",
+      "label": "撤回する",
+      "en": "The minister withdrew his comment the next day.",
+      "ja": "大臣は翌日自分の発言を撤回した。"
+    },
+    {
+      "source": "original",
+      "label": "引っ込める",
+      "en": "He quickly withdrew his hand from the hot pan.",
+      "ja": "彼は熱いなべからさっと手を引っ込めた。"
+    },
+    {
+      "source": "original",
+      "label": "引きこもる",
+      "en": "After the accident, he withdrew into himself.",
+      "ja": "事故の後、彼は自分の殻に閉じこもった。"
+    }
+  ],
+  "check_points": [
+    "withdraw の過去形・過去分詞を言えるか",
+    "withdraw の意味を3つ言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「引き出す」「撤退する」「撤回する」の使い分けが長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 456
+    }
+  ]
+}

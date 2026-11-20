@@ -1,0 +1,94 @@
+{
+  "word": "overlook",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˌoʊvərˈlʊk/",
+  "core_image": {
+    "text": "上から見渡すので、足もとを見落とす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"15,140 40,110 100,110 125,140\"/><circle cx=\"70\" cy=\"22\" r=\"10\"/><line x1=\"70\" y1=\"32\" x2=\"70\" y2=\"76\"/><line x1=\"70\" y1=\"76\" x2=\"60\" y2=\"110\"/><line x1=\"70\" y1=\"76\" x2=\"80\" y2=\"110\"/><line x1=\"70\" y1=\"44\" x2=\"90\" y2=\"50\"/><line x1=\"70\" y1=\"44\" x2=\"60\" y2=\"66\"/><line x1=\"92\" y1=\"52\" x2=\"190\" y2=\"120\" stroke-dasharray=\"5 5\"/><polyline points=\"186.4,112.8 190,120 182,119.1\"/><circle cx=\"206\" cy=\"132\" r=\"6\"/></g><text x=\"170\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">上から見渡す</text><text x=\"152\" y=\"134\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見落とす</text></svg>"
+  },
+  "etymology": "over(上から・越えて)+look(見る) → 上から見る → (高い所から)見下ろす・見渡す／目線が越えてしまう → 見落とす／わざと見ないでおく → 大目に見る",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to fail to notice something, to forgive a mistake without punishing it, or to have a view of a place from above."
+    }
+  ],
+  "cautions": [
+    "「見落とす」(=miss, fail to notice)と「大目に見る」(=excuse)の両方がある。文脈で見分ける",
+    "場所が主語で「〜を見下ろす(位置にある)」:a room overlooking the sea=海を見下ろす部屋",
+    "oversee(監督する)と混同しない",
+    "look over A=Aにざっと目を通す とは意味が違う"
+  ],
+  "patterns": [
+    {
+      "form": "overlook a mistake",
+      "meaning": "誤りを見落とす"
+    },
+    {
+      "form": "overlook A",
+      "meaning": "Aを大目に見る"
+    },
+    {
+      "form": "A overlooks B",
+      "meaning": "AからBが見下ろせる"
+    },
+    {
+      "form": "be overlooked",
+      "meaning": "見過ごされる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "見落とす",
+      "en": "The teacher overlooked a mistake in my answer.",
+      "ja": "先生は私の答えの誤りを見落とした。"
+    },
+    {
+      "source": "original",
+      "label": "見過ごされる",
+      "en": "The importance of sleep is often overlooked.",
+      "ja": "睡眠の大切さはしばしば見過ごされている。"
+    },
+    {
+      "source": "original",
+      "label": "大目に見る",
+      "en": "I will overlook your mistake this time.",
+      "ja": "今回はあなたの失敗を大目に見よう。"
+    },
+    {
+      "source": "original",
+      "label": "見下ろす",
+      "en": "Our hotel room overlooked the lake.",
+      "ja": "私たちのホテルの部屋からは湖が見下ろせた。"
+    },
+    {
+      "source": "original",
+      "label": "見下ろす",
+      "en": "The castle stands on a hill overlooking the town.",
+      "ja": "城は町を見下ろす丘の上に建っている。"
+    },
+    {
+      "source": "original",
+      "label": "見落とす",
+      "en": "It is easy to overlook small changes in a friend's mood.",
+      "ja": "友だちの気分の小さな変化は見落としやすい。"
+    }
+  ],
+  "check_points": [
+    "overlook の意味を3つ言えるか",
+    "a room overlooking the sea の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「見落とす」(=miss)と「大目に見る」が同意語・長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 458
+    }
+  ]
+}
