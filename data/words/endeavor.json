@@ -1,0 +1,99 @@
+{
+  "word": "endeavor",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɪnˈdevər/",
+  "core_image": {
+    "text": "力をふりしぼって、やりとげようとする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 100,74 120,80\"/><polyline points=\"70,74 98,86 116,92\"/><circle cx=\"146\" cy=\"104\" r=\"34\"/><line x1=\"186\" y1=\"122\" x2=\"216\" y2=\"122\"/><polyline points=\"209,118.2 216,122 209,125.8\"/></g><text x=\"60\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">力いっぱい</text><text x=\"200\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">努力</text></svg>"
+  },
+  "etymology": "en(〜の中に) + deavor(フランス語 devoir=義務) → 義務として取りかかる → 懸命に努める → 名詞:努力・試み",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to try very hard to do something."
+    },
+    {
+      "pos": "名詞",
+      "text": "an attempt to do something, especially something new or difficult."
+    }
+  ],
+  "cautions": [
+    "endeavor to do=〜しようと努力する(try / attempt to do より硬い。to do を取る)",
+    "名詞:make an endeavor / every endeavor to do=〜しようと努力する",
+    "名詞では「(新しい・難しい)試み・事業」の意味も",
+    "イギリス英語のつづりは endeavour"
+  ],
+  "patterns": [
+    {
+      "form": "endeavor to do",
+      "meaning": "〜しようと努力する"
+    },
+    {
+      "form": "make every endeavor to do",
+      "meaning": "あらゆる努力をする"
+    },
+    {
+      "form": "human endeavor",
+      "meaning": "人間の営み"
+    },
+    {
+      "form": "a new endeavor",
+      "meaning": "新しい試み"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "endeavor to do",
+      "en": "We will endeavor to answer all your questions.",
+      "ja": "すべてのご質問にお答えするよう努めます。"
+    },
+    {
+      "source": "original",
+      "label": "努める",
+      "en": "She endeavored to finish the work before the deadline.",
+      "ja": "彼女は締め切りまでに仕事を終えようと努力した。"
+    },
+    {
+      "source": "original",
+      "label": "make every endeavor",
+      "en": "The team made every endeavor to win the game.",
+      "ja": "チームは試合に勝つためにあらゆる努力をした。"
+    },
+    {
+      "source": "original",
+      "label": "試み(名詞)",
+      "en": "Starting a business is a risky endeavor.",
+      "ja": "事業を始めるのは危険を伴う試みだ。"
+    },
+    {
+      "source": "original",
+      "label": "human endeavor",
+      "en": "Science is one of the greatest areas of human endeavor.",
+      "ja": "科学は人間の営みの中でも最も偉大な分野の1つだ。"
+    },
+    {
+      "source": "original",
+      "label": "try との比較",
+      "en": "He tried hard, and his endeavors were finally rewarded.",
+      "ja": "彼は懸命にがんばり、その努力はついに報われた。"
+    }
+  ],
+  "check_points": [
+    "endeavor の後ろが to do であることを言えるか",
+    "名詞の endeavor の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "endeavor to do(=try to do)の言い換えが語彙問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 410
+    }
+  ]
+}

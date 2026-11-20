@@ -1,0 +1,94 @@
+{
+  "word": "inhibit",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈhɪbɪt/",
+  "core_image": {
+    "text": "中に抑えこんで、出させない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"70\" y=\"90\" width=\"80\" height=\"50\"/><line x1=\"62\" y1=\"90\" x2=\"158\" y2=\"90\"/><line x1=\"110\" y1=\"42\" x2=\"110\" y2=\"84\"/><polyline points=\"113.8,77 110,84 106.2,77\"/><path d=\"M90 120 Q100 104 110 120 Q120 136 130 120\"/></g><text x=\"110\" y=\"32\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">抑える</text><text x=\"190\" y=\"116\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">出させない</text></svg>"
+  },
+  "etymology": "in(中に) + hibit(持つ。exhibit、prohibit と同じ) → 中に持ったままにする → 抑える・妨げる → (人を)気後れさせる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to prevent something from happening or developing, or to make someone too nervous to do something."
+    }
+  ],
+  "cautions": [
+    "inhibit A from doing=Aが〜するのを妨げる(prevent / prohibit A from doing と同じ型)",
+    "「(成長・働きを)抑制する」の意味で科学の長文によく出る",
+    "名詞 inhibition=抑制・ためらい(lose one's inhibitions=遠慮がなくなる)",
+    "prohibit(禁止する)と混同しない"
+  ],
+  "patterns": [
+    {
+      "form": "inhibit A from doing",
+      "meaning": "Aが〜するのを妨げる"
+    },
+    {
+      "form": "inhibit growth",
+      "meaning": "成長を抑える"
+    },
+    {
+      "form": "inhibition",
+      "meaning": "抑制・ためらい"
+    },
+    {
+      "form": "feel inhibited",
+      "meaning": "気後れする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "inhibit A from doing",
+      "en": "Fear of failure inhibits many students from asking questions.",
+      "ja": "失敗を恐れて多くの生徒が質問できずにいる。"
+    },
+    {
+      "source": "original",
+      "label": "抑える",
+      "en": "This chemical inhibits the growth of bacteria.",
+      "ja": "この化学物質は細菌の増殖を抑える。"
+    },
+    {
+      "source": "original",
+      "label": "妨げる",
+      "en": "High taxes may inhibit economic development.",
+      "ja": "高い税金は経済の発展を妨げるかもしれない。"
+    },
+    {
+      "source": "original",
+      "label": "feel inhibited",
+      "en": "She felt inhibited in front of the famous writer.",
+      "ja": "彼女は有名な作家の前で気後れした。"
+    },
+    {
+      "source": "original",
+      "label": "inhibition(名詞)",
+      "en": "Children usually have fewer inhibitions than adults.",
+      "ja": "子どもはふつう大人ほど遠慮がない。"
+    },
+    {
+      "source": "original",
+      "label": "prohibit との比較",
+      "en": "The rule prohibits smoking, but it does not inhibit people's desire to smoke.",
+      "ja": "その規則は喫煙を禁止しているが、吸いたい気持ちを抑えるわけではない。"
+    }
+  ],
+  "check_points": [
+    "inhibit A from doing の意味を言えるか",
+    "inhibit と prohibit の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "inhibit A from doing の型と「抑制する」の意味が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 404
+    }
+  ]
+}

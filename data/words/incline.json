@@ -1,0 +1,103 @@
+{
+  "word": "incline",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɪnˈklaɪn/",
+  "core_image": {
+    "text": "ある方へ、かたむく(体も心も)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"80\" y2=\"90\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><line x1=\"76\" y1=\"46\" x2=\"110\" y2=\"60\" stroke-dasharray=\"5 5\"/><polyline points=\"105,53.8 110,60 102,60.9\"/><polygon points=\"120,140 220,140 220,90\"/><circle cx=\"184\" cy=\"100\" r=\"8\"/><line x1=\"214\" y1=\"70\" x2=\"174\" y2=\"90\"/><polyline points=\"182,90.3 174,90 178.6,83.4\"/></g><text x=\"60\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">気持ちも</text><text x=\"150\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かたむく</text></svg>"
+  },
+  "etymology": "in(〜の方へ) + cline(かたむける。decline、climate と同じ) → ある方へかたむける → (体・頭を)かたむける → (心が)〜したい気になる → 名詞:坂・傾斜",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to lean or bend in a particular direction, or to make someone want to do or think something."
+    },
+    {
+      "pos": "名詞",
+      "text": "a slope."
+    }
+  ],
+  "cautions": [
+    "be inclined to do=〜したい気がする/〜する傾向がある(受け身の形でよく使う)",
+    "incline A to do=Aを〜する気にさせる",
+    "名詞 inclination=気持ち・傾向(have an inclination to do)",
+    "名詞の incline=坂(アクセントは前:/ˈɪnklaɪn/)"
+  ],
+  "patterns": [
+    {
+      "form": "be inclined to do",
+      "meaning": "〜したい気がする・〜しがちだ"
+    },
+    {
+      "form": "incline A to do",
+      "meaning": "Aを〜する気にさせる"
+    },
+    {
+      "form": "incline one's head",
+      "meaning": "頭をかたむける"
+    },
+    {
+      "form": "inclination",
+      "meaning": "気持ち・傾向"
+    },
+    {
+      "form": "a steep incline",
+      "meaning": "急な坂"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "〜したい気がする",
+      "en": "I am inclined to agree with you.",
+      "ja": "どちらかと言えばあなたに賛成したい気がする。"
+    },
+    {
+      "source": "original",
+      "label": "〜しがちだ",
+      "en": "He is inclined to be lazy on weekends.",
+      "ja": "彼は週末になると怠けがちだ。"
+    },
+    {
+      "source": "original",
+      "label": "incline A to do",
+      "en": "His kind words inclined me to trust him.",
+      "ja": "彼のやさしい言葉で、私は彼を信じる気になった。"
+    },
+    {
+      "source": "original",
+      "label": "かたむける",
+      "en": "She inclined her head and listened carefully.",
+      "ja": "彼女は首をかしげて注意深く聞いた。"
+    },
+    {
+      "source": "original",
+      "label": "inclination(名詞)",
+      "en": "I have no inclination to go out tonight.",
+      "ja": "今夜は出かける気がまったくない。"
+    },
+    {
+      "source": "original",
+      "label": "坂(名詞)",
+      "en": "The car slowly climbed the steep incline.",
+      "ja": "車はゆっくりと急な坂を登った。"
+    }
+  ],
+  "check_points": [
+    "be inclined to do の2つの意味を言えるか",
+    "inclination の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be inclined to do(〜しがちだ)が長文・語彙問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 401
+    }
+  ]
+}

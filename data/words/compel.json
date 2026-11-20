@@ -1,0 +1,94 @@
+{
+  "word": "compel",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kəmˈpel/",
+  "core_image": {
+    "text": "力で押して、むりやり動かす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 88,80 112,80\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"132\" y2=\"92\"/><line x1=\"120\" y1=\"74\" x2=\"108\" y2=\"94\"/><line x1=\"142\" y1=\"112\" x2=\"196\" y2=\"112\"/><polyline points=\"189,108.2 196,112 189,115.8\"/></g><text x=\"90\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">むりやり</text><text x=\"180\" y=\"96\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">動かす</text></svg>"
+  },
+  "etymology": "com(強く) + pel(押す・追いやる。propel、expel と同じ) → 強く押しやる → むりやり〜させる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to force someone to do something."
+    }
+  ],
+  "cautions": [
+    "compel A to do=Aにむりやり〜させる(force、oblige と同じ型)",
+    "be compelled to do=〜せざるをえない(受け身でよく出る)",
+    "形容詞 compelling=説得力のある・目が離せない(「強制的な」ではない)",
+    "名詞 compulsion、形容詞 compulsory=義務の・強制の(compulsory education=義務教育)"
+  ],
+  "patterns": [
+    {
+      "form": "compel A to do",
+      "meaning": "Aにむりやり〜させる"
+    },
+    {
+      "form": "be compelled to do",
+      "meaning": "〜せざるをえない"
+    },
+    {
+      "form": "compelling",
+      "meaning": "説得力のある"
+    },
+    {
+      "form": "compulsory",
+      "meaning": "義務の・強制の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "compel A to do",
+      "en": "The heavy rain compelled us to stay indoors.",
+      "ja": "大雨のせいで私たちは家の中にいるしかなかった。"
+    },
+    {
+      "source": "original",
+      "label": "be compelled to do",
+      "en": "He was compelled to resign because of the scandal.",
+      "ja": "その不祥事のせいで彼は辞職せざるをえなかった。"
+    },
+    {
+      "source": "original",
+      "label": "強いる",
+      "en": "The law compels companies to protect personal data.",
+      "ja": "法律は企業に個人情報を守ることを義務づけている。"
+    },
+    {
+      "source": "original",
+      "label": "compelling(説得力)",
+      "en": "She gave a compelling reason for the change.",
+      "ja": "彼女はその変更について説得力のある理由を述べた。"
+    },
+    {
+      "source": "original",
+      "label": "compelling(目が離せない)",
+      "en": "It was a compelling story from beginning to end.",
+      "ja": "それは最初から最後まで目が離せない物語だった。"
+    },
+    {
+      "source": "original",
+      "label": "compulsory(形容詞)",
+      "en": "Education is compulsory until the age of fifteen.",
+      "ja": "教育は15歳まで義務となっている。"
+    }
+  ],
+  "check_points": [
+    "compelling の意味を言えるか(強制的な、ではない)",
+    "compulsory の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "compel A to do と compelling(説得力のある)が語彙・語法問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 403
+    }
+  ]
+}

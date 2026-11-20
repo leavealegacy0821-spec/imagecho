@@ -1,0 +1,107 @@
+{
+  "word": "accord",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/əˈkɔːrd/",
+  "core_image": {
+    "text": "心と心が、ぴたりと合う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"70\" y2=\"88\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"96\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"170\" y2=\"88\"/><line x1=\"190\" y1=\"74\" x2=\"202\" y2=\"96\"/><circle cx=\"110\" cy=\"56\" r=\"14\"/><circle cx=\"130\" cy=\"56\" r=\"14\"/><line x1=\"64\" y1=\"52\" x2=\"88\" y2=\"56\" stroke-dasharray=\"5 5\"/><polyline points=\"81.7,51.1 88,56 80.4,58.6\"/><line x1=\"176\" y1=\"52\" x2=\"152\" y2=\"56\" stroke-dasharray=\"5 5\"/><polyline points=\"159.6,58.6 152,56 158.3,51.1\"/></g><text x=\"120\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぴたり</text><text x=\"120\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">一致</text></svg>"
+  },
+  "etymology": "ac(ad=〜へ) + cord(心。record、cordial と同じ) → 心を合わせる → 一致(する) → (一致して)協定 → (合意の上で)与える",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "agreement, or an official agreement between countries or groups."
+    },
+    {
+      "pos": "動詞",
+      "text": "to agree with something, or to give someone something such as respect or a right."
+    }
+  ],
+  "cautions": [
+    "of one's own accord=自分から進んで・自然に(頻出の熟語)",
+    "in accordance with A=Aに従って・一致して",
+    "according to A=Aによると・Aに応じて(accordingly=それに応じて・したがって)",
+    "動詞:accord with A=Aと一致する、accord A B=AにBを与える"
+  ],
+  "patterns": [
+    {
+      "form": "of one's own accord",
+      "meaning": "自分から進んで"
+    },
+    {
+      "form": "in accordance with A",
+      "meaning": "Aに従って"
+    },
+    {
+      "form": "according to A",
+      "meaning": "Aによると"
+    },
+    {
+      "form": "accord with A",
+      "meaning": "Aと一致する"
+    },
+    {
+      "form": "accordingly",
+      "meaning": "それに応じて・したがって"
+    },
+    {
+      "form": "a peace accord",
+      "meaning": "和平協定"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "of one's own accord",
+      "en": "She left the company of her own accord.",
+      "ja": "彼女は自分から進んで会社を辞めた。"
+    },
+    {
+      "source": "original",
+      "label": "自然に",
+      "en": "The door opened of its own accord.",
+      "ja": "ドアがひとりでに開いた。"
+    },
+    {
+      "source": "original",
+      "label": "in accordance with",
+      "en": "The work was done in accordance with the rules.",
+      "ja": "その作業は規則に従って行われた。"
+    },
+    {
+      "source": "original",
+      "label": "according to",
+      "en": "According to the report, prices will rise again.",
+      "ja": "報告によると、物価はまた上がるそうだ。"
+    },
+    {
+      "source": "original",
+      "label": "accord with(動詞)",
+      "en": "His story does not accord with the facts.",
+      "ja": "彼の話は事実と一致しない。"
+    },
+    {
+      "source": "original",
+      "label": "協定(名詞)",
+      "en": "The two countries signed a peace accord.",
+      "ja": "両国は和平協定に署名した。"
+    }
+  ],
+  "check_points": [
+    "of one's own accord の意味を言えるか",
+    "accordingly の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "of one's own accord、in accordance with、accordingly が熟語・接続の問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 406
+    }
+  ]
+}

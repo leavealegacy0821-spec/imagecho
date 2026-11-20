@@ -1,0 +1,94 @@
+{
+  "word": "concede",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈsiːd/",
+  "core_image": {
+    "text": "(しぶしぶ)退いて、相手にゆずる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 94,84 108,84\"/><line x1=\"70\" y1=\"74\" x2=\"62\" y2=\"96\"/><rect x=\"108\" y=\"78\" width=\"14\" height=\"12\"/><circle cx=\"160\" cy=\"52\" r=\"10\"/><line x1=\"160\" y1=\"62\" x2=\"160\" y2=\"106\"/><line x1=\"160\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"106\" x2=\"170\" y2=\"140\"/><polyline points=\"160,74 136,84 122,84\"/><line x1=\"160\" y1=\"74\" x2=\"168\" y2=\"96\"/><line x1=\"92\" y1=\"114\" x2=\"134\" y2=\"114\"/><polyline points=\"127,110.2 134,114 127,117.8\"/></g><text x=\"70\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しぶしぶ</text><text x=\"115\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ゆずる</text></svg>"
+  },
+  "etymology": "con(すっかり) + cede(行く・退く。proceed、exceed と同じ) → 退いて道をゆずる → (負け・事実を)しぶしぶ認める → (権利・点を)ゆずる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to admit, often unwillingly, that something is true, or to give something to someone else."
+    }
+  ],
+  "cautions": [
+    "concede that S V=(しぶしぶ)〜だと認める(admit に近いが「反論をやめて」のニュアンス)",
+    "concede defeat=負けを認める",
+    "concede A to B=AをBにゆずる(権利・領土・得点)",
+    "名詞 concession=譲歩・(しぶしぶの)容認、make a concession=譲歩する"
+  ],
+  "patterns": [
+    {
+      "form": "concede that S V",
+      "meaning": "〜だと認める"
+    },
+    {
+      "form": "concede defeat",
+      "meaning": "負けを認める"
+    },
+    {
+      "form": "concede A to B",
+      "meaning": "AをBにゆずる"
+    },
+    {
+      "form": "concession",
+      "meaning": "譲歩"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "concede that",
+      "en": "He finally conceded that he had made a mistake.",
+      "ja": "彼はとうとう自分がまちがえたことを認めた。"
+    },
+    {
+      "source": "original",
+      "label": "しぶしぶ認める",
+      "en": "I must concede that your plan is better than mine.",
+      "ja": "君の計画のほうが私のより良いと認めざるをえない。"
+    },
+    {
+      "source": "original",
+      "label": "concede defeat",
+      "en": "The candidate conceded defeat late at night.",
+      "ja": "その候補者は夜遅くに敗北を認めた。"
+    },
+    {
+      "source": "original",
+      "label": "ゆずる",
+      "en": "The country was forced to concede part of its land.",
+      "ja": "その国は領土の一部を割譲させられた。"
+    },
+    {
+      "source": "original",
+      "label": "失点する",
+      "en": "Our team conceded two goals in the first half.",
+      "ja": "私たちのチームは前半に2点を失った。"
+    },
+    {
+      "source": "original",
+      "label": "concession(名詞)",
+      "en": "Both sides had to make concessions to reach an agreement.",
+      "ja": "合意に達するため、双方が譲歩しなければならなかった。"
+    }
+  ],
+  "check_points": [
+    "concede と admit の違いを言えるか",
+    "concession の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "concede that 〜(しぶしぶ認める)と concession(譲歩)が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 405
+    }
+  ]
+}
