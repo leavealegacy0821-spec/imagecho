@@ -1,0 +1,94 @@
+{
+  "word": "dominate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈdɑːmɪneɪt/",
+  "core_image": {
+    "text": "上に立って、まわりを押さえつける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"50\" y=\"110\" width=\"60\" height=\"30\"/><circle cx=\"80\" cy=\"22\" r=\"10\"/><line x1=\"80\" y1=\"32\" x2=\"80\" y2=\"76\"/><line x1=\"80\" y1=\"76\" x2=\"70\" y2=\"110\"/><line x1=\"80\" y1=\"76\" x2=\"90\" y2=\"110\"/><polyline points=\"80,44 100,52 112,60\"/><line x1=\"80\" y1=\"44\" x2=\"68\" y2=\"64\"/><line x1=\"116\" y1=\"66\" x2=\"150\" y2=\"100\" stroke-dasharray=\"5 5\"/><polyline points=\"147.7,92.3 150,100 142.3,97.7\"/><circle cx=\"170\" cy=\"110\" r=\"6\"/><line x1=\"170\" y1=\"116\" x2=\"170\" y2=\"132\"/><line x1=\"170\" y1=\"132\" x2=\"164\" y2=\"140\"/><line x1=\"170\" y1=\"132\" x2=\"176\" y2=\"140\"/><circle cx=\"204\" cy=\"110\" r=\"6\"/><line x1=\"204\" y1=\"116\" x2=\"204\" y2=\"132\"/><line x1=\"204\" y1=\"132\" x2=\"198\" y2=\"140\"/><line x1=\"204\" y1=\"132\" x2=\"210\" y2=\"140\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">上から押さえる</text></svg>"
+  },
+  "etymology": "domin(主人。dominant、domain と同じ) → 主人として上に立つ → 支配する → (目立って)大部分を占める → (高く)そびえる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to control or have power over someone or something, or to be the most important or noticeable part."
+    }
+  ],
+  "cautions": [
+    "dominate A=Aを支配する(他動詞。dominate over A は×)",
+    "「大部分を占める・目立つ」(dominate the conversation=話を独占する)",
+    "「(建物・山が)〜を見下ろしてそびえる」",
+    "形容詞 dominant=支配的な・優勢な、名詞 domination / dominance"
+  ],
+  "patterns": [
+    {
+      "form": "dominate A",
+      "meaning": "Aを支配する"
+    },
+    {
+      "form": "dominate the market",
+      "meaning": "市場を独占する"
+    },
+    {
+      "form": "dominate the conversation",
+      "meaning": "話を独り占めする"
+    },
+    {
+      "form": "dominant",
+      "meaning": "支配的な・優勢な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "支配する",
+      "en": "The empire dominated the region for centuries.",
+      "ja": "その帝国は何世紀もの間その地域を支配した。"
+    },
+    {
+      "source": "original",
+      "label": "独占する",
+      "en": "A few large companies dominate the market.",
+      "ja": "少数の大企業が市場を独占している。"
+    },
+    {
+      "source": "original",
+      "label": "話を独り占めする",
+      "en": "He always dominates the conversation at dinner.",
+      "ja": "彼は夕食の席でいつも話を独り占めする。"
+    },
+    {
+      "source": "original",
+      "label": "大部分を占める",
+      "en": "The news was dominated by the election.",
+      "ja": "ニュースは選挙の話でもちきりだった。"
+    },
+    {
+      "source": "original",
+      "label": "そびえる",
+      "en": "A huge castle dominates the town.",
+      "ja": "大きな城が町を見下ろしてそびえている。"
+    },
+    {
+      "source": "original",
+      "label": "dominant(形容詞)",
+      "en": "English is the dominant language on the Internet.",
+      "ja": "英語はインターネットで優勢な言語だ。"
+    }
+  ],
+  "check_points": [
+    "dominate の後ろに over が要らないことを言えるか",
+    "dominant の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "dominate(支配する・大部分を占める)と dominant が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 394
+    }
+  ]
+}

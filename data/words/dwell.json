@@ -1,0 +1,94 @@
+{
+  "word": "dwell",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dwel/",
+  "core_image": {
+    "text": "1か所にとどまり続ける(体も、心も)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"80\" y2=\"96\"/><path d=\"M52 34 Q40 20 54 12 Q70 6 82 14\"/><line x1=\"82\" y1=\"14\" x2=\"86\" y2=\"30\" stroke-dasharray=\"5 5\"/><polyline points=\"88,22.3 86,30 80.6,24.1\"/><polygon points=\"140,80 180,52 220,80\"/><rect x=\"148\" y=\"80\" width=\"64\" height=\"60\"/><rect x=\"172\" y=\"108\" width=\"16\" height=\"32\"/></g><text x=\"180\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すみか</text><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぐるぐる</text></svg>"
+  },
+  "etymology": "古英語 dwellan(ぐずぐずする・とどまる) → 1か所にとどまる → 住む → (心が1つのことに)とどまる → くよくよ考える",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to live in a place, or to think or talk about something for too long, especially something unpleasant."
+    }
+  ],
+  "cautions": [
+    "dwell on / upon A=A(いやなこと)をくよくよ考える・長々と話す(on を落とさない)",
+    "dwell in A=Aに住む(live より硬い書きことば)",
+    "過去形・過去分詞は dwelt(dwelled も)",
+    "名詞 dweller=住人(city dwellers=都市の住民)、dwelling=住居"
+  ],
+  "patterns": [
+    {
+      "form": "dwell on A",
+      "meaning": "Aをくよくよ考える"
+    },
+    {
+      "form": "dwell in A",
+      "meaning": "Aに住む"
+    },
+    {
+      "form": "city dwellers",
+      "meaning": "都市の住民"
+    },
+    {
+      "form": "dwelling",
+      "meaning": "住居"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "dwell on",
+      "en": "Don't dwell on your mistakes; learn from them.",
+      "ja": "失敗をくよくよ考えるな。そこから学びなさい。"
+    },
+    {
+      "source": "original",
+      "label": "長々と話す",
+      "en": "The speaker dwelt on the history of the town for an hour.",
+      "ja": "講演者は町の歴史について1時間も長々と話した。"
+    },
+    {
+      "source": "original",
+      "label": "dwell in",
+      "en": "People have dwelt in this valley for thousands of years.",
+      "ja": "人々は何千年もこの谷に住んできた。"
+    },
+    {
+      "source": "original",
+      "label": "住む(文語)",
+      "en": "Strange animals dwell deep in the forest.",
+      "ja": "森の奥には珍しい動物が住んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "dweller(名詞)",
+      "en": "Most city dwellers do not grow their own food.",
+      "ja": "都市の住民のほとんどは自分で食べ物を育てない。"
+    },
+    {
+      "source": "original",
+      "label": "dwelling(名詞)",
+      "en": "The ancient dwellings were made of wood and mud.",
+      "ja": "その古代の住居は木と泥でできていた。"
+    }
+  ],
+  "check_points": [
+    "dwell on A の意味を言えるか",
+    "dwell の過去形を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "dwell on(くよくよ考える)が熟語問題で、dweller が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 395
+    }
+  ]
+}

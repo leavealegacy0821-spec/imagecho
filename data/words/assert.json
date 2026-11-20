@@ -1,0 +1,98 @@
+{
+  "word": "assert",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈsɜːrt/",
+  "core_image": {
+    "text": "前に出て、きっぱり言い切る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><polyline points=\"80,74 104,66 116,58\"/><line x1=\"80\" y1=\"74\" x2=\"70\" y2=\"96\"/><line x1=\"140\" y1=\"40\" x2=\"140\" y2=\"66\"/><circle cx=\"140\" cy=\"76\" r=\"2\"/><path d=\"M124 50 L130 54\"/><path d=\"M124 64 L130 62\"/></g><text x=\"190\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">きっぱり</text></svg>"
+  },
+  "etymology": "as(ad=〜へ) + sert(結びつける。insert、series と同じ) → 自分に結びつけて言う → 断言する → (自分のものだと)権利を主張する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to state firmly that something is true, or to demand that others accept your rights or authority."
+    }
+  ],
+  "cautions": [
+    "assert that S V=〜と断言する(say より強く言い切る)",
+    "assert one's rights / authority=権利・権威を主張する",
+    "assert oneself=自己主張する(oneself を忘れない)",
+    "名詞 assertion=断言、形容詞 assertive=自己主張の強い"
+  ],
+  "patterns": [
+    {
+      "form": "assert that S V",
+      "meaning": "〜と断言する"
+    },
+    {
+      "form": "assert one's rights",
+      "meaning": "権利を主張する"
+    },
+    {
+      "form": "assert oneself",
+      "meaning": "自己主張する"
+    },
+    {
+      "form": "assertion",
+      "meaning": "断言・主張"
+    },
+    {
+      "form": "assertive",
+      "meaning": "自己主張の強い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "assert that",
+      "en": "He asserted that he was innocent.",
+      "ja": "彼は自分は無実だと断言した。"
+    },
+    {
+      "source": "original",
+      "label": "言い切る",
+      "en": "The scientist asserts that the data are correct.",
+      "ja": "その科学者はデータが正しいと言い切っている。"
+    },
+    {
+      "source": "original",
+      "label": "assert one's rights",
+      "en": "Workers began to assert their rights.",
+      "ja": "労働者たちは自分たちの権利を主張し始めた。"
+    },
+    {
+      "source": "original",
+      "label": "assert oneself",
+      "en": "You need to assert yourself more in meetings.",
+      "ja": "会議ではもっと自分の意見を主張する必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "assertion(名詞)",
+      "en": "There is no evidence for his assertion.",
+      "ja": "彼の主張には証拠がない。"
+    },
+    {
+      "source": "original",
+      "label": "assertive(形容詞)",
+      "en": "She became more assertive after she started working.",
+      "ja": "働き始めてから彼女は自己主張がはっきりするようになった。"
+    }
+  ],
+  "check_points": [
+    "assert oneself の意味を言えるか",
+    "assertive の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "assert that 〜(断言する)が長文で、assertive が語彙問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 391
+    }
+  ]
+}

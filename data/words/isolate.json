@@ -1,0 +1,94 @@
+{
+  "word": "isolate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈaɪsəleɪt/",
+  "core_image": {
+    "text": "島のように、まわりから切り離す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"170\" cy=\"142\" rx=\"40\" ry=\"8\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"160\" y2=\"96\"/><line x1=\"170\" y1=\"74\" x2=\"180\" y2=\"96\"/><path d=\"M15 140 Q25 134 35 140 Q45 146 55 140 Q65 134 75 140 Q85 146 95 140 Q105 134 115 140\"/></g><text x=\"170\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひとり</text><text x=\"65\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">切りはなす</text></svg>"
+  },
+  "etymology": "isol(島。isle、peninsula=半島 と同じ) → 島のようにする → 孤立させる・隔離する → (ほかから切り離して)取り出す・特定する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to separate someone or something from other people or things."
+    }
+  ],
+  "cautions": [
+    "isolate A from B=AをBから切り離す・隔離する(from とセット)",
+    "isolated=孤立した・へんぴな(an isolated village)",
+    "名詞 isolation=孤立(in isolation=孤立して・単独で)",
+    "「(原因・物質を)取り出す・特定する」の意味もある"
+  ],
+  "patterns": [
+    {
+      "form": "isolate A from B",
+      "meaning": "AをBから切り離す"
+    },
+    {
+      "form": "feel isolated",
+      "meaning": "孤独を感じる"
+    },
+    {
+      "form": "an isolated village",
+      "meaning": "へんぴな村"
+    },
+    {
+      "form": "in isolation",
+      "meaning": "孤立して・単独で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "isolate A from B",
+      "en": "The sick patients were isolated from others.",
+      "ja": "病気の患者たちはほかの人から隔離された。"
+    },
+    {
+      "source": "original",
+      "label": "孤立させる",
+      "en": "The heavy snow isolated the village for a week.",
+      "ja": "大雪で村は1週間孤立した。"
+    },
+    {
+      "source": "original",
+      "label": "feel isolated",
+      "en": "Many elderly people feel isolated.",
+      "ja": "多くのお年寄りが孤独を感じている。"
+    },
+    {
+      "source": "original",
+      "label": "isolated(形容詞)",
+      "en": "They live in an isolated area far from any city.",
+      "ja": "彼らはどの都市からも遠いへんぴな地域に住んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "特定する",
+      "en": "Scientists have isolated the gene that causes the disease.",
+      "ja": "科学者たちはその病気の原因となる遺伝子を特定した。"
+    },
+    {
+      "source": "original",
+      "label": "in isolation",
+      "en": "These problems cannot be solved in isolation.",
+      "ja": "これらの問題は切り離して解決することはできない。"
+    }
+  ],
+  "check_points": [
+    "isol(島)と isolate のつながりを言えるか",
+    "in isolation の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "isolated / isolation が長文で頻出。isolate A from B の形も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 400
+    }
+  ]
+}

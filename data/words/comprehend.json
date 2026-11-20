@@ -1,0 +1,98 @@
+{
+  "word": "comprehend",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˌkɑːmprɪˈhend/",
+  "core_image": {
+    "text": "まるごと、しっかりつかむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 92,68 104,72\"/><polyline points=\"60,74 92,104 104,100\"/><circle cx=\"122\" cy=\"86\" r=\"22\"/></g><text x=\"122\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まるごと</text><text x=\"190\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">わかった</text></svg>"
+  },
+  "etymology": "com(すっかり) + prehend(つかむ。apprehend と同じ) → まるごとつかむ → (内容を)理解する → (範囲に)含む",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to understand something completely, especially something difficult."
+    }
+  ],
+  "cautions": [
+    "comprehend=理解する(understand より硬く、「中身まで丸ごと」)。進行形にしない",
+    "形容詞が2つ: comprehensible=理解できる / comprehensive=包括的な・広い範囲の",
+    "名詞 comprehension=理解(reading comprehension=読解)",
+    "fail to comprehend / cannot comprehend の否定でよく使う"
+  ],
+  "patterns": [
+    {
+      "form": "comprehend A",
+      "meaning": "Aを理解する"
+    },
+    {
+      "form": "comprehend why / how 節",
+      "meaning": "なぜ・どのように〜か理解する"
+    },
+    {
+      "form": "comprehension",
+      "meaning": "理解・読解"
+    },
+    {
+      "form": "comprehensible",
+      "meaning": "理解できる"
+    },
+    {
+      "form": "comprehensive",
+      "meaning": "包括的な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "理解する",
+      "en": "I could not comprehend what the speaker meant.",
+      "ja": "話し手が何を言いたいのか理解できなかった。"
+    },
+    {
+      "source": "original",
+      "label": "why 節",
+      "en": "She failed to comprehend why he was so angry.",
+      "ja": "彼女はなぜ彼があれほど怒っているのか理解できなかった。"
+    },
+    {
+      "source": "original",
+      "label": "comprehension(名詞)",
+      "en": "The test checks your reading comprehension.",
+      "ja": "そのテストは読解力を調べる。"
+    },
+    {
+      "source": "original",
+      "label": "comprehensible",
+      "en": "His explanation was clear and comprehensible.",
+      "ja": "彼の説明ははっきりしていてわかりやすかった。"
+    },
+    {
+      "source": "original",
+      "label": "comprehensive",
+      "en": "The book gives a comprehensive view of world history.",
+      "ja": "その本は世界史を幅広く見渡している。"
+    },
+    {
+      "source": "original",
+      "label": "understand との比較",
+      "en": "Children understand words long before they can comprehend complex ideas.",
+      "ja": "子どもは複雑な考えを理解できるずっと前に言葉がわかる。"
+    }
+  ],
+  "check_points": [
+    "comprehensible と comprehensive の違いを言えるか",
+    "comprehension の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "comprehensible / comprehensive の区別が語彙問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 392
+    }
+  ]
+}

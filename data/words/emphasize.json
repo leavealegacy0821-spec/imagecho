@@ -1,0 +1,94 @@
+{
+  "word": "emphasize",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈemfəsaɪz/",
+  "core_image": {
+    "text": "たくさんの中から、そこだけを目立たせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"134\" r=\"6\"/><circle cx=\"70\" cy=\"134\" r=\"6\"/><circle cx=\"120\" cy=\"122\" r=\"18\"/><circle cx=\"170\" cy=\"134\" r=\"6\"/><circle cx=\"200\" cy=\"134\" r=\"6\"/><line x1=\"120\" y1=\"66\" x2=\"120\" y2=\"96\"/><polyline points=\"123.8,89 120,96 116.2,89\"/></g><text x=\"120\" y=\"54\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ここが大事</text></svg>"
+  },
+  "etymology": "em(中に) + phas(見せる。phenomenon と同じ根) → 表に見せる → (ほかより)目立たせる → 強調する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to show that something is especially important or needs special attention."
+    }
+  ],
+  "cautions": [
+    "emphasize A=Aを強調する(他動詞。emphasize on A は×)",
+    "名詞を使うと put / place / lay emphasis on A(on が要る)",
+    "emphasize that S V=〜だと強調する",
+    "名詞 emphasis(複数 emphases)、形容詞 emphatic=強調した。stress と言い換え"
+  ],
+  "patterns": [
+    {
+      "form": "emphasize A",
+      "meaning": "Aを強調する"
+    },
+    {
+      "form": "emphasize that S V",
+      "meaning": "〜と強調する"
+    },
+    {
+      "form": "put emphasis on A",
+      "meaning": "Aを重視する"
+    },
+    {
+      "form": "emphasis",
+      "meaning": "強調・重点"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "強調する",
+      "en": "The teacher emphasized the importance of reading.",
+      "ja": "先生は読書の大切さを強調した。"
+    },
+    {
+      "source": "original",
+      "label": "emphasize that",
+      "en": "The doctor emphasized that I should get more sleep.",
+      "ja": "医者はもっと眠るべきだと強く言った。"
+    },
+    {
+      "source": "original",
+      "label": "put emphasis on",
+      "en": "Our school puts emphasis on speaking skills.",
+      "ja": "私たちの学校は話す力を重視している。"
+    },
+    {
+      "source": "original",
+      "label": "emphasis(名詞)",
+      "en": "The emphasis of the lesson was on grammar.",
+      "ja": "その授業の重点は文法にあった。"
+    },
+    {
+      "source": "original",
+      "label": "stress との言い換え",
+      "en": "He emphasized, or stressed, the need for safety.",
+      "ja": "彼は安全の必要性を強調した。"
+    },
+    {
+      "source": "original",
+      "label": "声で強める",
+      "en": "Emphasize the first syllable when you say this word.",
+      "ja": "この語を言うときは最初の音節を強めなさい。"
+    }
+  ],
+  "check_points": [
+    "emphasize の後ろに on が要らないことを言えるか",
+    "put emphasis on A の形を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "emphasize A(on は不要)と put emphasis on A の区別が正誤問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 397
+    }
+  ]
+}

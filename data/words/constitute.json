@@ -1,0 +1,94 @@
+{
+  "word": "constitute",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈkɑːnstɪtuːt/",
+  "core_image": {
+    "text": "いくつもの部品を立てて、1つの形にする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"24\" y=\"124\" width=\"14\" height=\"16\"/><rect x=\"42\" y=\"124\" width=\"14\" height=\"16\"/><line x1=\"62\" y1=\"118\" x2=\"80\" y2=\"118\"/><polyline points=\"73,114.2 80,118 73,121.8\"/><rect x=\"90\" y=\"110\" width=\"40\" height=\"30\"/><rect x=\"130\" y=\"110\" width=\"40\" height=\"30\"/><rect x=\"110\" y=\"80\" width=\"40\" height=\"30\"/><polygon points=\"110,80 130,60 150,80\"/></g><text x=\"40\" y=\"108\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">部品</text><text x=\"200\" y=\"72\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">形になる</text></svg>"
+  },
+  "etymology": "con(共に) + stitute(立てる。stand、institute と同じ) → いくつかを共に立てる → 構成する → (それで)〜となる・〜に等しい → (組織を)設立する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to form or make up something, or to be considered as something."
+    }
+  ],
+  "cautions": [
+    "A constitute B=AがBを構成する(make up、compose と同じ)。B consist of A とは主語が逆",
+    "「〜となる・〜に等しい」(constitute a threat=脅威となる)",
+    "進行形にしない",
+    "名詞 constitution=憲法・体質・構成"
+  ],
+  "patterns": [
+    {
+      "form": "A constitute B",
+      "meaning": "AがBを構成する"
+    },
+    {
+      "form": "constitute a threat / problem",
+      "meaning": "脅威・問題となる"
+    },
+    {
+      "form": "constitution",
+      "meaning": "憲法・体質"
+    },
+    {
+      "form": "B consist of A",
+      "meaning": "BはAから成る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "構成する",
+      "en": "Women constitute 40 percent of the workforce.",
+      "ja": "女性が労働人口の40パーセントを占めている。"
+    },
+    {
+      "source": "original",
+      "label": "consist of との比較",
+      "en": "Ten players constitute the team; the team consists of ten players.",
+      "ja": "10人の選手がチームを構成している。つまりチームは10人から成る。"
+    },
+    {
+      "source": "original",
+      "label": "〜となる",
+      "en": "His actions constitute a serious threat to public safety.",
+      "ja": "彼の行動は公共の安全への深刻な脅威となる。"
+    },
+    {
+      "source": "original",
+      "label": "〜に等しい",
+      "en": "Silence does not always constitute agreement.",
+      "ja": "黙っていることが必ずしも同意したことにはならない。"
+    },
+    {
+      "source": "original",
+      "label": "constitution(憲法)",
+      "en": "The Constitution of Japan took effect in 1947.",
+      "ja": "日本国憲法は1947年に施行された。"
+    },
+    {
+      "source": "original",
+      "label": "constitution(体質)",
+      "en": "He has a strong constitution and rarely gets sick.",
+      "ja": "彼は丈夫な体質で、めったに病気にならない。"
+    }
+  ],
+  "check_points": [
+    "constitute と consist of の主語の違いを言えるか",
+    "constitution の2つ以上の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "constitute = make up の言い換え、constitution(憲法・体質)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 393
+    }
+  ]
+}
