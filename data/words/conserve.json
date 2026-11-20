@@ -1,0 +1,94 @@
+{
+  "word": "conserve",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈsɜːrv/",
+  "core_image": {
+    "text": "なくならないよう、大切にとっておく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"98\" y2=\"92\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"98\"/><rect x=\"100\" y=\"76\" width=\"56\" height=\"64\"/><line x1=\"96\" y1=\"76\" x2=\"160\" y2=\"76\"/><circle cx=\"116\" cy=\"118\" r=\"6\"/><circle cx=\"136\" cy=\"122\" r=\"6\"/><circle cx=\"126\" cy=\"100\" r=\"6\"/></g><text x=\"128\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">とっておく</text></svg>"
+  },
+  "etymology": "con(すっかり) + serve(守る・保つ。preserve、observe と同じ) → すっかり保つ → (資源・エネルギーを)節約する・保護する → conservative=今のものを保つ=保守的な",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to protect something from harm or loss, or to use as little of something as possible so that it lasts longer."
+    }
+  ],
+  "cautions": [
+    "conserve energy / water=エネルギー・水を節約する(save と言い換え)",
+    "名詞 conservation=(自然・資源の)保護・節約(conversation=会話 と取り違えない)",
+    "形容詞 conservative=保守的な・控えめな(conservative estimate=控えめな見積もり)",
+    "preserve(元のまま守る)と近い。conserve は「むだに使わない」感じ"
+  ],
+  "patterns": [
+    {
+      "form": "conserve A",
+      "meaning": "Aを節約する・保護する"
+    },
+    {
+      "form": "conserve energy",
+      "meaning": "エネルギーを節約する"
+    },
+    {
+      "form": "conservation",
+      "meaning": "保護・節約"
+    },
+    {
+      "form": "conservative",
+      "meaning": "保守的な・控えめな"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "節約する",
+      "en": "We should turn off the lights to conserve energy.",
+      "ja": "エネルギーを節約するため電気を消すべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "節約する",
+      "en": "During the dry season, people must conserve water.",
+      "ja": "乾季には人々は水を節約しなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "保護する",
+      "en": "The group works to conserve forests in Asia.",
+      "ja": "その団体はアジアの森林の保護に取り組んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "体力を温存する",
+      "en": "The runner conserved her strength for the last lap.",
+      "ja": "その走者は最後の1周のために体力を温存した。"
+    },
+    {
+      "source": "original",
+      "label": "conservation(名詞)",
+      "en": "The conservation of wildlife is an important issue.",
+      "ja": "野生生物の保護は重要な問題だ。"
+    },
+    {
+      "source": "original",
+      "label": "conservative(形容詞)",
+      "en": "My grandfather has conservative views on marriage.",
+      "ja": "祖父は結婚について保守的な考えを持っている。"
+    }
+  ],
+  "check_points": [
+    "conservation と conversation を区別できるか",
+    "conservative の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "conserve energy、conservation(保護)、conservative(保守的な)が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 472
+    }
+  ]
+}

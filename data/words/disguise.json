@@ -1,0 +1,103 @@
+{
+  "word": "disguise",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/dɪsˈɡaɪz/",
+  "core_image": {
+    "text": "見た目を変えて、本当の姿をかくす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"72\" y2=\"96\"/><line x1=\"84\" y1=\"90\" x2=\"130\" y2=\"90\" stroke-dasharray=\"5 5\"/><polyline points=\"123,86.2 130,90 123,93.8\"/><circle cx=\"160\" cy=\"52\" r=\"10\"/><line x1=\"160\" y1=\"62\" x2=\"160\" y2=\"106\"/><line x1=\"160\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"160\" y1=\"74\" x2=\"148\" y2=\"96\"/><line x1=\"160\" y1=\"74\" x2=\"172\" y2=\"96\"/><line x1=\"140\" y1=\"40\" x2=\"180\" y2=\"40\"/><rect x=\"150\" y=\"26\" width=\"20\" height=\"14\"/><circle cx=\"155\" cy=\"52\" r=\"4\"/><circle cx=\"165\" cy=\"52\" r=\"4\"/></g><text x=\"60\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">本当の姿</text><text x=\"160\" y=\"14\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見た目を変える</text></svg>"
+  },
+  "etymology": "dis(離れて・反対) + guise(外見・身なり) → いつもの身なりから離れる → 変装させる → (感情・事実を)かくす・ごまかす → 名詞:変装",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to change the appearance of someone or something so that they cannot be recognized, or to hide a feeling or fact."
+    },
+    {
+      "pos": "名詞",
+      "text": "clothes or other things that you wear to change your appearance."
+    }
+  ],
+  "cautions": [
+    "disguise oneself as A=Aに変装する(be disguised as A も同じ)",
+    "disguise A=A(感情・事実)をかくす(hide、conceal と言い換え)",
+    "in disguise=変装して",
+    "a blessing in disguise=不幸に見えて実はありがたいこと(ことわざ的表現)"
+  ],
+  "patterns": [
+    {
+      "form": "disguise oneself as A",
+      "meaning": "Aに変装する"
+    },
+    {
+      "form": "be disguised as A",
+      "meaning": "Aに変装している"
+    },
+    {
+      "form": "disguise A",
+      "meaning": "Aをかくす"
+    },
+    {
+      "form": "in disguise",
+      "meaning": "変装して"
+    },
+    {
+      "form": "a blessing in disguise",
+      "meaning": "災い転じて福"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "変装する",
+      "en": "The thief disguised himself as a police officer.",
+      "ja": "泥棒は警察官に変装した。"
+    },
+    {
+      "source": "original",
+      "label": "be disguised as",
+      "en": "She was disguised as an old woman.",
+      "ja": "彼女はおばあさんに変装していた。"
+    },
+    {
+      "source": "original",
+      "label": "(感情を)かくす",
+      "en": "He could not disguise his disappointment.",
+      "ja": "彼は失望をかくせなかった。"
+    },
+    {
+      "source": "original",
+      "label": "(事実を)ごまかす",
+      "en": "The company tried to disguise its losses.",
+      "ja": "その会社は損失をごまかそうとした。"
+    },
+    {
+      "source": "original",
+      "label": "in disguise(名詞)",
+      "en": "The prince traveled around the country in disguise.",
+      "ja": "王子は変装して国中を旅した。"
+    },
+    {
+      "source": "original",
+      "label": "a blessing in disguise",
+      "en": "Losing that job was a blessing in disguise.",
+      "ja": "あの仕事を失ったのは、かえって幸いだった。"
+    }
+  ],
+  "check_points": [
+    "disguise oneself as A の意味を言えるか",
+    "a blessing in disguise の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "disguise A=hide A の言い換え、a blessing in disguise が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 474
+    }
+  ]
+}

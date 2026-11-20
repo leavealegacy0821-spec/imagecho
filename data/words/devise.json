@@ -1,0 +1,94 @@
+{
+  "word": "devise",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈvaɪz/",
+  "core_image": {
+    "text": "頭の中で組み立てて、新しいやり方を生み出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"116\" y2=\"92\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"98\"/><circle cx=\"60\" cy=\"18\" r=\"9\"/><rect x=\"56\" y=\"27\" width=\"8\" height=\"6\"/><rect x=\"120\" y=\"76\" width=\"90\" height=\"56\"/><line x1=\"130\" y1=\"92\" x2=\"200\" y2=\"92\"/><circle cx=\"150\" cy=\"112\" r=\"10\"/><rect x=\"172\" y=\"102\" width=\"22\" height=\"20\"/></g><text x=\"165\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">考え出す</text></svg>"
+  },
+  "etymology": "古フランス語 deviser(分ける→整理する→工夫する。ラテン語 dividere=分ける から) → (考えを分けて組み立て)考案する・工夫する → 名詞 device=工夫されたもの=装置",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to invent a new method, plan or machine by careful thinking."
+    }
+  ],
+  "cautions": [
+    "devise a plan / method / way to do=計画・方法を考え出す(think up、invent と言い換え)",
+    "名詞は device(装置・工夫)。発音・つづりが違う(devise /z/、device /s/)",
+    "divide(分ける)と同じ根",
+    "「考案する」で、物を「発明する」なら invent が多い"
+  ],
+  "patterns": [
+    {
+      "form": "devise A",
+      "meaning": "Aを考え出す"
+    },
+    {
+      "form": "devise a way to do",
+      "meaning": "〜する方法を考え出す"
+    },
+    {
+      "form": "device",
+      "meaning": "装置・工夫"
+    },
+    {
+      "form": "think up",
+      "meaning": "考え出す(同じ意味)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "考え出す",
+      "en": "The teacher devised a new way to teach grammar.",
+      "ja": "その先生は文法を教える新しい方法を考え出した。"
+    },
+    {
+      "source": "original",
+      "label": "計画を立てる",
+      "en": "We devised a plan to raise money for the trip.",
+      "ja": "私たちは旅行のお金を集める計画を立てた。"
+    },
+    {
+      "source": "original",
+      "label": "考案する",
+      "en": "He devised a machine that cleans windows automatically.",
+      "ja": "彼は窓を自動で掃除する機械を考案した。"
+    },
+    {
+      "source": "original",
+      "label": "工夫する",
+      "en": "Scientists are trying to devise ways to reduce pollution.",
+      "ja": "科学者たちは汚染を減らす方法を工夫しようとしている。"
+    },
+    {
+      "source": "original",
+      "label": "device(名詞)",
+      "en": "A smartphone is a useful device.",
+      "ja": "スマートフォンは便利な装置だ。"
+    },
+    {
+      "source": "original",
+      "label": "think up との言い換え",
+      "en": "She devised, or thought up, a clever game.",
+      "ja": "彼女はうまいゲームを考え出した。"
+    }
+  ],
+  "check_points": [
+    "devise と device の品詞と意味の違いを言えるか",
+    "devise の言い換えを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "devise と device の区別、think up との言い換えが出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 479
+    }
+  ]
+}

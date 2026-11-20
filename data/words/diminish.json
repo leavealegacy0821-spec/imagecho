@@ -1,0 +1,94 @@
+{
+  "word": "diminish",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈmɪnɪʃ/",
+  "core_image": {
+    "text": "だんだん小さく、細っていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"60\" width=\"30\" height=\"80\"/><rect x=\"90\" y=\"85\" width=\"30\" height=\"55\"/><rect x=\"140\" y=\"110\" width=\"30\" height=\"30\"/><line x1=\"60\" y1=\"44\" x2=\"190\" y2=\"100\"/><polyline points=\"185.1,93.7 190,100 182,100.7\"/></g><text x=\"176\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">だんだん小さく</text></svg>"
+  },
+  "etymology": "di(dis=離れて) + min(小さい。minor、minimum、minute と同じ) → 小さくしていく → 減る・減らす → (価値・評判を)落とす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to become or to make something smaller, weaker or less important."
+    }
+  ],
+  "cautions": [
+    "自動詞(減る)にも他動詞(減らす)にもなる(decrease、reduce と同じ)",
+    "diminish A=A(価値・重要さ)を下げる・けなす",
+    "diminishing returns=収穫逓減(やればやるほど効果が小さくなる)",
+    "min=小さい の仲間:minor、minimum、minimize"
+  ],
+  "patterns": [
+    {
+      "form": "diminish",
+      "meaning": "減る・小さくなる"
+    },
+    {
+      "form": "diminish A",
+      "meaning": "Aを減らす・下げる"
+    },
+    {
+      "form": "diminish in A",
+      "meaning": "Aが減る"
+    },
+    {
+      "form": "diminishing",
+      "meaning": "だんだん減っていく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "減る",
+      "en": "The pain gradually diminished.",
+      "ja": "痛みはだんだんおさまった。"
+    },
+    {
+      "source": "original",
+      "label": "減らす",
+      "en": "The new drug diminishes the risk of heart disease.",
+      "ja": "その新薬は心臓病の危険を減らす。"
+    },
+    {
+      "source": "original",
+      "label": "diminish in A",
+      "en": "The town has diminished in population.",
+      "ja": "その町は人口が減った。"
+    },
+    {
+      "source": "original",
+      "label": "価値を下げる",
+      "en": "Nothing can diminish the value of her work.",
+      "ja": "何も彼女の業績の価値を下げることはできない。"
+    },
+    {
+      "source": "original",
+      "label": "diminishing",
+      "en": "We have diminishing time before the deadline.",
+      "ja": "締め切りまでの時間がどんどん減っている。"
+    },
+    {
+      "source": "original",
+      "label": "decrease との言い換え",
+      "en": "His influence diminished, or decreased, after he retired.",
+      "ja": "引退後、彼の影響力は小さくなった。"
+    }
+  ],
+  "check_points": [
+    "diminish が自動詞・他動詞の両方になることを言えるか",
+    "min=小さい の仲間の語を2つ言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "decrease、reduce との言い換えが語彙・下線部問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 473
+    }
+  ]
+}
