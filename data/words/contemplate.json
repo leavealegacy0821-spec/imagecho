@@ -1,0 +1,93 @@
+{
+  "word": "contemplate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈkɑːntəmpleɪt/",
+  "core_image": {
+    "text": "じっと見つめて、思いをめぐらす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 76,88 70,64\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><circle cx=\"84\" cy=\"44\" r=\"3\"/><circle cx=\"96\" cy=\"36\" r=\"4\"/><ellipse cx=\"144\" cy=\"30\" rx=\"36\" ry=\"15\"/></g><text x=\"144\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">よく考える</text></svg>"
+  },
+  "etymology": "con(すっかり) + templ(神殿。占いのために空を見る区切られた場所。temple と同じ) → 神殿で空をじっと見つめる → じっと見つめる → じっくり考える・(〜しようかと)考える",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to think carefully about something for a long time, or to consider doing something."
+    }
+  ],
+  "cautions": [
+    "contemplate doing=〜しようかと考える(to do は取らない。consider と同じ)",
+    "「見つめる」と「熟考する」の両方。consider よりかたい語",
+    "名詞 contemplation=熟考・瞑想",
+    "contemplate A=A(将来・問題)をじっくり考える"
+  ],
+  "patterns": [
+    {
+      "form": "contemplate A",
+      "meaning": "Aをじっくり考える・見つめる"
+    },
+    {
+      "form": "contemplate doing",
+      "meaning": "〜しようかと考える"
+    },
+    {
+      "form": "contemplate wh-節",
+      "meaning": "〜かを考える"
+    },
+    {
+      "form": "contemplation",
+      "meaning": "熟考"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "じっくり考える",
+      "en": "She sat quietly, contemplating her future.",
+      "ja": "彼女は将来のことをじっくり考えながら静かに座っていた。"
+    },
+    {
+      "source": "original",
+      "label": "contemplate doing",
+      "en": "He is contemplating moving to the countryside.",
+      "ja": "彼は田舎に引っ越そうかと考えている。"
+    },
+    {
+      "source": "original",
+      "label": "見つめる",
+      "en": "The old man stood contemplating the sea.",
+      "ja": "老人は海を見つめて立っていた。"
+    },
+    {
+      "source": "original",
+      "label": "考えにくい(否定)",
+      "en": "The cost of war is too terrible to contemplate.",
+      "ja": "戦争の代償は考えるのも恐ろしい。"
+    },
+    {
+      "source": "original",
+      "label": "wh-節",
+      "en": "I contemplated what I should say to her.",
+      "ja": "彼女に何と言うべきかよく考えた。"
+    },
+    {
+      "source": "original",
+      "label": "contemplation(名詞)",
+      "en": "He spent the afternoon in quiet contemplation.",
+      "ja": "彼は静かに物思いにふけって午後を過ごした。"
+    }
+  ],
+  "check_points": [
+    "contemplate の後に to do と doing のどちらが来るか言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "contemplate doing(to do は不可)が語法問題で出る。consider と同じ型。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 486
+    }
+  ]
+}

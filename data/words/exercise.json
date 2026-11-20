@@ -1,0 +1,103 @@
+{
+  "word": "exercise",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈeksərsaɪz/",
+  "core_image": {
+    "text": "力を、実際に外へ出して使う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><polyline points=\"80,74 60,62 64,32\"/><polyline points=\"80,74 100,62 96,32\"/><line x1=\"44\" y1=\"30\" x2=\"116\" y2=\"30\"/><rect x=\"36\" y=\"20\" width=\"10\" height=\"20\"/><rect x=\"114\" y=\"20\" width=\"10\" height=\"20\"/><line x1=\"136\" y1=\"96\" x2=\"206\" y2=\"96\"/><polyline points=\"199,92.2 206,96 199,99.8\"/></g><text x=\"172\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">力を使う</text></svg>"
+  },
+  "etymology": "ex(外へ) + ercise(閉じこめる。ラテン語 arcere) → 閉じこめずに外へ出して動かす → 体を動かす=運動・練習 → (権利・力を)使う=行使する・(影響を)及ぼす",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "physical activity done to stay healthy, a set of questions for practice, or the use of a power or right."
+    },
+    {
+      "pos": "動詞",
+      "text": "to do physical activity, or to use a power, right or quality."
+    }
+  ],
+  "cautions": [
+    "「運動」の意味では不可算(get / take exercise)。「体操・練習問題」は可算(do exercises)",
+    "exercise a right / power=権利・権力を行使する。「運動する」と訳さない",
+    "exercise influence on A=Aに影響を及ぼす(have influence on と近い)",
+    "exercise care / caution=注意を払う(=use)"
+  ],
+  "patterns": [
+    {
+      "form": "get / take exercise",
+      "meaning": "運動する"
+    },
+    {
+      "form": "do exercises",
+      "meaning": "体操・練習問題をする"
+    },
+    {
+      "form": "exercise A",
+      "meaning": "A(権利・力)を行使する"
+    },
+    {
+      "form": "exercise influence on A",
+      "meaning": "Aに影響を及ぼす"
+    },
+    {
+      "form": "exercise care",
+      "meaning": "注意を払う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "運動(不可算)",
+      "en": "You should get more exercise to stay healthy.",
+      "ja": "健康でいるためにもっと運動したほうがいい。"
+    },
+    {
+      "source": "original",
+      "label": "練習問題(可算)",
+      "en": "Do the exercises on page 20 for homework.",
+      "ja": "宿題に20ページの練習問題をやりなさい。"
+    },
+    {
+      "source": "original",
+      "label": "運動する(動詞)",
+      "en": "I exercise in the park every morning.",
+      "ja": "私は毎朝公園で運動する。"
+    },
+    {
+      "source": "original",
+      "label": "行使する",
+      "en": "Every citizen has the right to exercise freedom of speech.",
+      "ja": "すべての市民は言論の自由を行使する権利がある。"
+    },
+    {
+      "source": "original",
+      "label": "影響を及ぼす",
+      "en": "Parents exercise a great influence on their children.",
+      "ja": "親は子どもに大きな影響を及ぼす。"
+    },
+    {
+      "source": "original",
+      "label": "注意を払う",
+      "en": "Please exercise caution when crossing the road.",
+      "ja": "道路を渡るときは注意を払ってください。"
+    }
+  ],
+  "check_points": [
+    "exercise a right の意味を言えるか",
+    "「運動」の意味で可算か不可算か言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "exercise a right / influence(行使する・及ぼす)が長文で、可算・不可算の区別が文法問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 483
+    }
+  ]
+}

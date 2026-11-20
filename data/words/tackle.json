@@ -1,0 +1,99 @@
+{
+  "word": "tackle",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈtækl/",
+  "core_image": {
+    "text": "問題に、正面から組みつく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"110\" y2=\"78\"/><line x1=\"70\" y1=\"74\" x2=\"110\" y2=\"96\"/><rect x=\"112\" y=\"60\" width=\"70\" height=\"80\"/></g><text x=\"147\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">問題</text><text x=\"70\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">取り組む</text></svg>"
+  },
+  "etymology": "もとは「道具・用具」(fishing tackle=釣り道具) → (相手に)組みつく=タックルする → (問題・仕事に)正面から取り組む",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make an effort to deal with a difficult problem, or to try to take the ball from a player in a sport."
+    },
+    {
+      "pos": "名詞",
+      "text": "an attempt to take the ball from a player, or equipment used for a sport."
+    }
+  ],
+  "cautions": [
+    "tackle A=A(問題・課題)に取り組む。他動詞なので tackle with A としない(deal with A、cope with A と区別)",
+    "tackle A about B=AにBのことで話をつける",
+    "「タックルする」だけで覚えると長文で読めない",
+    "名詞 fishing tackle=釣り道具"
+  ],
+  "patterns": [
+    {
+      "form": "tackle A",
+      "meaning": "A(問題)に取り組む"
+    },
+    {
+      "form": "tackle a problem",
+      "meaning": "問題に取り組む"
+    },
+    {
+      "form": "tackle A about B",
+      "meaning": "AにBのことで話をつける"
+    },
+    {
+      "form": "tackle A(スポーツ)",
+      "meaning": "Aにタックルする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "取り組む",
+      "en": "The government must tackle the problem of poverty.",
+      "ja": "政府は貧困問題に取り組まなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "取り組む(課題)",
+      "en": "Let's tackle the most difficult question first.",
+      "ja": "いちばん難しい問題から取りかかろう。"
+    },
+    {
+      "source": "original",
+      "label": "対策を講じる",
+      "en": "The city is trying to tackle traffic jams downtown.",
+      "ja": "市は中心部の交通渋滞に対策を講じようとしている。"
+    },
+    {
+      "source": "original",
+      "label": "タックルする",
+      "en": "He was tackled just before he reached the goal line.",
+      "ja": "彼はゴールラインの直前でタックルされた。"
+    },
+    {
+      "source": "original",
+      "label": "tackle A about B",
+      "en": "I tackled him about the money he owed me.",
+      "ja": "彼に貸したお金のことで話をつけた。"
+    },
+    {
+      "source": "original",
+      "label": "deal with との比較",
+      "en": "We need to tackle, or deal with, climate change now.",
+      "ja": "私たちは今、気候変動に取り組む必要がある。"
+    }
+  ],
+  "check_points": [
+    "tackle の後に with が要るか言えるか",
+    "tackle a problem の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "tackle a problem(=deal with)が長文・言い換え問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 487
+    }
+  ]
+}

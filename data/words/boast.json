@@ -1,0 +1,99 @@
+{
+  "word": "boast",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/boʊst/",
+  "core_image": {
+    "text": "自分のものを、胸をはって見せる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"80\" y1=\"74\" x2=\"104\" y2=\"48\"/><polyline points=\"80,74 66,88 76,98\"/><path d=\"M98 20 L118 20 L114 36 L102 36 Z\"/><line x1=\"108\" y1=\"36\" x2=\"108\" y2=\"44\"/><line x1=\"100\" y1=\"44\" x2=\"116\" y2=\"44\"/><line x1=\"126\" y1=\"18\" x2=\"136\" y2=\"12\"/><line x1=\"126\" y1=\"30\" x2=\"138\" y2=\"30\"/></g><text x=\"176\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">じまん</text></svg>"
+  },
+  "etymology": "自慢する(boast of / about A) → 胸をはって見せる → (場所・物が、自慢できるものを)持っている・誇る",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to talk too proudly about yourself, or (of a place or thing) to have something good that people can be proud of."
+    },
+    {
+      "pos": "名詞",
+      "text": "something you say that shows too much pride."
+    }
+  ],
+  "cautions": [
+    "boast of / about A=Aを自慢する、boast that ~=〜だと自慢する",
+    "物・場所が主語の boast A=(自慢できる)Aを持っている・誇る。「自慢する」と訳すと不自然",
+    "boast A は状態なので進行形にしない(The town boasts a famous castle.)",
+    "形容詞 boastful=自慢ばかりする、be proud of との違い(boast は口に出す)"
+  ],
+  "patterns": [
+    {
+      "form": "boast of / about A",
+      "meaning": "Aを自慢する"
+    },
+    {
+      "form": "boast that ~",
+      "meaning": "〜だと自慢する"
+    },
+    {
+      "form": "A boast B",
+      "meaning": "A(場所・物)がBを持っている・誇る"
+    },
+    {
+      "form": "boastful",
+      "meaning": "自慢ばかりする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "boast about",
+      "en": "He is always boasting about his rich father.",
+      "ja": "彼はいつも金持ちの父親の自慢ばかりしている。"
+    },
+    {
+      "source": "original",
+      "label": "boast of",
+      "en": "She boasted of her success in the exam.",
+      "ja": "彼女は試験の成功を自慢した。"
+    },
+    {
+      "source": "original",
+      "label": "boast that ~",
+      "en": "Tom boasted that he could swim faster than anyone.",
+      "ja": "トムはだれよりも速く泳げると自慢した。"
+    },
+    {
+      "source": "original",
+      "label": "誇る(場所が主語)",
+      "en": "The city boasts one of the oldest universities in the world.",
+      "ja": "その市は世界最古の大学の一つを誇っている。"
+    },
+    {
+      "source": "original",
+      "label": "持っている(物が主語)",
+      "en": "The new phone boasts a very powerful camera.",
+      "ja": "その新しい電話はとても高性能なカメラを備えている。"
+    },
+    {
+      "source": "original",
+      "label": "boastful(形容詞)",
+      "en": "Nobody likes boastful people.",
+      "ja": "自慢ばかりする人はだれにも好かれない。"
+    }
+  ],
+  "check_points": [
+    "The city boasts A の訳し方を言えるか",
+    "boast の後に来る前置詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "boast of / about A と、物・場所が主語の boast A(誇る・備える)が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 489
+    }
+  ]
+}

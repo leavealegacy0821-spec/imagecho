@@ -1,0 +1,98 @@
+{
+  "word": "cease",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/siːs/",
+  "core_image": {
+    "text": "ずっと続いていたものが、そこで止まる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M20 90 Q35 70 50 90 T80 90 T110 90 T140 90\"/><line x1=\"152\" y1=\"62\" x2=\"152\" y2=\"118\"/></g><text x=\"80\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">続く</text><text x=\"192\" y=\"94\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やむ</text></svg>"
+  },
+  "etymology": "ラテン語 cessare(やめる・止まる。cede=退く と同じ仲間) → 続いていたものが止まる → やむ・やめる → 名詞 cessation=停止、without cease=絶え間なく",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stop happening or existing, or to stop doing something."
+    }
+  ],
+  "cautions": [
+    "cease to do / cease doing=〜しなくなる(どちらも取れる。stop は doing だけ)",
+    "cease to exist=存在しなくなる・なくなる(長文の定番)",
+    "stop よりかたい語。自動詞「やむ」にも他動詞「やめる」にもなる",
+    "without cease=絶え間なく、cease-fire=停戦"
+  ],
+  "patterns": [
+    {
+      "form": "cease",
+      "meaning": "やむ・終わる"
+    },
+    {
+      "form": "cease A",
+      "meaning": "Aをやめる"
+    },
+    {
+      "form": "cease to do / doing",
+      "meaning": "〜しなくなる"
+    },
+    {
+      "form": "cease to exist",
+      "meaning": "存在しなくなる"
+    },
+    {
+      "form": "without cease",
+      "meaning": "絶え間なく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "やむ",
+      "en": "The rain ceased in the evening.",
+      "ja": "雨は夕方にやんだ。"
+    },
+    {
+      "source": "original",
+      "label": "やめる",
+      "en": "The factory ceased production last year.",
+      "ja": "その工場は昨年生産をやめた。"
+    },
+    {
+      "source": "original",
+      "label": "cease to do",
+      "en": "The old tradition has ceased to exist.",
+      "ja": "その古い伝統はなくなってしまった。"
+    },
+    {
+      "source": "original",
+      "label": "cease doing",
+      "en": "He never ceases complaining about his job.",
+      "ja": "彼は仕事の不満を言うのを決してやめない。"
+    },
+    {
+      "source": "original",
+      "label": "never cease to do",
+      "en": "Her talent never ceases to amaze me.",
+      "ja": "彼女の才能にはいつも驚かされる。"
+    },
+    {
+      "source": "original",
+      "label": "cease-fire",
+      "en": "Both sides agreed to a cease-fire.",
+      "ja": "両陣営は停戦に合意した。"
+    }
+  ],
+  "check_points": [
+    "cease の後に to do と doing のどちらが来るか言えるか",
+    "cease to exist の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "cease to do / doing の両方が取れる点、cease to exist が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 484
+    }
+  ]
+}
