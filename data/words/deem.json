@@ -1,0 +1,94 @@
+{
+  "word": "deem",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/diːm/",
+  "core_image": {
+    "text": "よく考えたうえで、「これは〜だ」と判定をくだす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"50\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"100\" y2=\"60\"/><line x1=\"100\" y1=\"60\" x2=\"100\" y2=\"40\"/><rect x=\"140\" y=\"70\" width=\"60\" height=\"70\"/><polyline points=\"156,104 166,116 186,90\"/></g><text x=\"170\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">〜とみなす</text></svg>"
+  },
+  "etymology": "古い英語 deman(判断する。doom=審判・運命 と同じ根) → 判断をくだす → (人・物を)〜とみなす・考える。かたい語で、consider A (to be) B と同じ型",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to consider or judge something in a particular way."
+    }
+  ],
+  "cautions": [
+    "deem A (to be) B=AをBとみなす(consider A (to be) B と同じ型、かたい語)",
+    "受け身が多い:A is deemed (to be) B=AはBとみなされる",
+    "deem it B to do=〜することをBと考える(形式目的語 it)",
+    "進行形にしない"
+  ],
+  "patterns": [
+    {
+      "form": "deem A (to be) B",
+      "meaning": "AをBとみなす"
+    },
+    {
+      "form": "A is deemed (to be) B",
+      "meaning": "AはBとみなされる"
+    },
+    {
+      "form": "deem it B to do",
+      "meaning": "〜するのをBと考える"
+    },
+    {
+      "form": "as A deem(s) necessary",
+      "meaning": "Aが必要と考えるとおりに"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "deem A B",
+      "en": "The judges deemed the plan too risky.",
+      "ja": "審査員はその計画を危険すぎると判断した。"
+    },
+    {
+      "source": "original",
+      "label": "be deemed",
+      "en": "The building was deemed unsafe after the earthquake.",
+      "ja": "その建物は地震のあと危険と判定された。"
+    },
+    {
+      "source": "original",
+      "label": "be deemed to be",
+      "en": "He is deemed to be the best player in the league.",
+      "ja": "彼はリーグで最高の選手とみなされている。"
+    },
+    {
+      "source": "original",
+      "label": "deem it B to do",
+      "en": "We deem it necessary to change the rules.",
+      "ja": "私たちは規則を変える必要があると考えている。"
+    },
+    {
+      "source": "original",
+      "label": "as necessary",
+      "en": "The teacher may change the schedule as she deems necessary.",
+      "ja": "先生は必要と考えれば予定を変えることができる。"
+    },
+    {
+      "source": "original",
+      "label": "be deemed",
+      "en": "Such behavior is deemed rude in Japan.",
+      "ja": "そのようなふるまいは日本では失礼とみなされる。"
+    }
+  ],
+  "check_points": [
+    "deem と同じ型をとる動詞を言えるか(consider)",
+    "deem it B to do の it が何を指すか言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be deemed (to be) B が長文で出る。consider と同じ第5文型として語法で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 545
+    }
+  ]
+}

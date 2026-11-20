@@ -1,0 +1,98 @@
+{
+  "word": "obey",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/oʊˈbeɪ/",
+  "core_image": {
+    "text": "言われたことに耳を向けて、そのとおりにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"96\" y2=\"56\"/><line x1=\"60\" y1=\"74\" x2=\"40\" y2=\"96\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"152\" y2=\"96\"/><line x1=\"170\" y1=\"74\" x2=\"188\" y2=\"96\"/><line x1=\"100\" y1=\"48\" x2=\"146\" y2=\"48\"/><polyline points=\"139,44.2 146,48 139,51.8\"/></g><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">したがう</text></svg>"
+  },
+  "etymology": "ob(〜のほうへ) + ey(ラテン語 audire=聞く。audio と同じ) → 〜に耳を傾ける → (命令・規則・人に)したがう → 名詞 obedience=服従、形容詞 obedient=従順な。反対は disobey",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to do what a person, a law, or a rule tells you to do."
+    }
+  ],
+  "cautions": [
+    "他動詞なので前置詞なし:obey the rules(×obey to the rules)",
+    "目的語は人・命令・法律・規則(obey one's parents / orders / the law)",
+    "名詞 obedience、形容詞 obedient(be obedient to A=Aに従順だ)",
+    "反対は disobey=したがわない"
+  ],
+  "patterns": [
+    {
+      "form": "obey A",
+      "meaning": "Aにしたがう"
+    },
+    {
+      "form": "obey the law / rules",
+      "meaning": "法律・規則を守る"
+    },
+    {
+      "form": "obey orders",
+      "meaning": "命令にしたがう"
+    },
+    {
+      "form": "be obedient to A",
+      "meaning": "Aに従順だ"
+    },
+    {
+      "form": "disobey A",
+      "meaning": "Aにしたがわない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "規則",
+      "en": "Everyone must obey the school rules.",
+      "ja": "全員が校則を守らなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "法律",
+      "en": "Drivers have to obey traffic laws.",
+      "ja": "運転手は交通法規を守らなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "人",
+      "en": "The dog obeys only its owner.",
+      "ja": "その犬は飼い主の言うことしか聞かない。"
+    },
+    {
+      "source": "original",
+      "label": "命令",
+      "en": "The soldiers refused to obey the order.",
+      "ja": "兵士たちはその命令にしたがうのを拒んだ。"
+    },
+    {
+      "source": "original",
+      "label": "obedient",
+      "en": "He was an obedient child.",
+      "ja": "彼は素直な子どもだった。"
+    },
+    {
+      "source": "original",
+      "label": "disobey",
+      "en": "She was punished for disobeying her parents.",
+      "ja": "彼女は親の言いつけを守らなかったので罰を受けた。"
+    }
+  ],
+  "check_points": [
+    "obey の後ろに to を付けないことを言えるか",
+    "obey の名詞・形容詞を言えるか(obedience, obedient)"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "obey A(前置詞なし)が語法問題で出る。obedience / obedient の品詞変化も狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 550
+    }
+  ]
+}

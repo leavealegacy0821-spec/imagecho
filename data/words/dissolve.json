@@ -1,0 +1,94 @@
+{
+  "word": "dissolve",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈzɑːlv/",
+  "core_image": {
+    "text": "固まりがほどけて、ばらばらに溶けていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"80\" y=\"60\" width=\"80\" height=\"80\"/><line x1=\"80\" y1=\"80\" x2=\"160\" y2=\"80\"/><rect x=\"108\" y=\"88\" width=\"16\" height=\"16\"/><circle cx=\"140\" cy=\"110\" r=\"3\"/><circle cx=\"100\" cy=\"120\" r=\"2\"/><circle cx=\"130\" cy=\"126\" r=\"2\"/><circle cx=\"150\" cy=\"96\" r=\"2\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">溶ける</text></svg>"
+  },
+  "etymology": "dis(ばらばらに) + solve(ラテン語 solvere=ゆるめる・ほどく。solve・solution と同じ) → ほどいてばらばらにする → (液体に)溶ける・溶かす → (組織・議会・契約を)解散する・解消する → (感情が)消える",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "(of a solid) to mix into a liquid and become part of it, or to officially end an organization, a parliament, or an agreement."
+    }
+  ],
+  "cautions": [
+    "「溶ける・溶かす」は自動詞・他動詞の両方:Sugar dissolves in water. / Dissolve the sugar in water.",
+    "dissolve in A=Aに溶ける(前置詞 in)",
+    "「(議会・団体を)解散する」「(結婚・契約を)解消する」の意味も入試で出る",
+    "dissolve into tears / laughter=泣きくずれる・どっと笑い出す"
+  ],
+  "patterns": [
+    {
+      "form": "A dissolve in B",
+      "meaning": "AがBに溶ける"
+    },
+    {
+      "form": "dissolve A in B",
+      "meaning": "AをBに溶かす"
+    },
+    {
+      "form": "dissolve parliament",
+      "meaning": "議会を解散する"
+    },
+    {
+      "form": "dissolve into tears",
+      "meaning": "泣きくずれる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "溶ける",
+      "en": "Salt dissolves easily in water.",
+      "ja": "塩は水に簡単に溶ける。"
+    },
+    {
+      "source": "original",
+      "label": "溶かす",
+      "en": "Dissolve the tablet in a glass of water.",
+      "ja": "錠剤をコップ1杯の水に溶かしてください。"
+    },
+    {
+      "source": "original",
+      "label": "解散する",
+      "en": "The prime minister dissolved the parliament.",
+      "ja": "首相は議会を解散した。"
+    },
+    {
+      "source": "original",
+      "label": "解消する",
+      "en": "Their business partnership was dissolved last year.",
+      "ja": "彼らの共同経営は去年解消された。"
+    },
+    {
+      "source": "original",
+      "label": "dissolve into tears",
+      "en": "When she heard the news, she dissolved into tears.",
+      "ja": "その知らせを聞いて、彼女は泣きくずれた。"
+    },
+    {
+      "source": "original",
+      "label": "消える(感情)",
+      "en": "My anger dissolved when he apologized.",
+      "ja": "彼が謝ると私の怒りは消えた。"
+    }
+  ],
+  "check_points": [
+    "dissolve in A の前置詞を言えるか",
+    "dissolve の「解散する」の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "理科系の長文で「溶ける」、政治の話で「(議会を)解散する」の意味で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 547
+    }
+  ]
+}

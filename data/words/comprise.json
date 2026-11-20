@@ -1,0 +1,94 @@
+{
+  "word": "comprise",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kəmˈpraɪz/",
+  "core_image": {
+    "text": "いくつかの部分を、まとめて中に抱える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><ellipse cx=\"120\" cy=\"80\" rx=\"90\" ry=\"50\"/><circle cx=\"80\" cy=\"80\" r=\"14\"/><circle cx=\"120\" cy=\"80\" r=\"14\"/><circle cx=\"160\" cy=\"80\" r=\"14\"/></g><text x=\"120\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">全体が部分を含む</text></svg>"
+  },
+  "etymology": "com(一緒に) + prise(ラテン語 prehendere=つかむ。comprehend と同じ) → 一緒につかむ → (全体が部分を)含む・から成る → (部分が全体を)構成する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to consist of or be made up of particular parts or members; also, to form the parts of something."
+    }
+  ],
+  "cautions": [
+    "全体 comprise 部分=全体は部分から成る(consist of と同じ意味だが of を付けない)",
+    "受け身 be comprised of 部分 も使われる(=consist of)",
+    "部分 comprise 全体=部分が全体を構成する(constitute と同じ)もある。主語が全体か部分かで判断",
+    "consist of / be made up of / be composed of と言いかえ問題で出る"
+  ],
+  "patterns": [
+    {
+      "form": "A comprise B",
+      "meaning": "A(全体)はB(部分)から成る"
+    },
+    {
+      "form": "A be comprised of B",
+      "meaning": "AはBから成る"
+    },
+    {
+      "form": "B comprise A",
+      "meaning": "B(部分)がA(全体)を構成する"
+    },
+    {
+      "form": "consist of との言いかえ",
+      "meaning": "A consist of B"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "全体が主語",
+      "en": "The house comprises three bedrooms and a kitchen.",
+      "ja": "その家は寝室3つと台所から成る。"
+    },
+    {
+      "source": "original",
+      "label": "全体が主語",
+      "en": "The committee comprises ten members.",
+      "ja": "委員会は10人の委員で構成されている。"
+    },
+    {
+      "source": "original",
+      "label": "be comprised of",
+      "en": "The team is comprised of students from five countries.",
+      "ja": "そのチームは5か国の生徒から成る。"
+    },
+    {
+      "source": "original",
+      "label": "部分が主語",
+      "en": "Women comprise more than half of the workers.",
+      "ja": "女性が労働者の半分以上を占めている。"
+    },
+    {
+      "source": "original",
+      "label": "consist of との言いかえ",
+      "en": "The test comprises two parts. = The test consists of two parts.",
+      "ja": "テストは2部から成る。"
+    },
+    {
+      "source": "original",
+      "label": "全体が主語",
+      "en": "The course comprises lectures and practical work.",
+      "ja": "その講座は講義と実習から成る。"
+    }
+  ],
+  "check_points": [
+    "comprise の後ろに of を付けないことを言えるか(能動態のとき)",
+    "comprise を consist of で言いかえられるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "comprise = consist of = be made up of の言いかえと、of の有無が語法問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 544
+    }
+  ]
+}

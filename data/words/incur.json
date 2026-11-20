@@ -1,0 +1,98 @@
+{
+  "word": "incur",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈkɜːr/",
+  "core_image": {
+    "text": "自分の行いで、いやなものの中へ走りこんでしまう",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"40\" y2=\"90\"/><line x1=\"60\" y1=\"74\" x2=\"84\" y2=\"84\"/><line x1=\"86\" y1=\"70\" x2=\"130\" y2=\"70\"/><polyline points=\"123,66.2 130,70 123,73.8\"/><path d=\"M140 30 Q180 10 210 40 Q230 80 200 110 Q170 130 146 108 Q126 70 140 30 Z\"/></g><text x=\"178\" y=\"74\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">損</text></svg>"
+  },
+  "etymology": "in(中へ) + cur(ラテン語 currere=走る。current・occur と同じ) → 中へ走りこむ → (自分の行動の結果として、損失・費用・怒りを)招く・負う",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to experience something unpleasant, such as a cost, a loss, or someone's anger, as a result of your own actions."
+    }
+  ],
+  "cautions": [
+    "目的語はいやなものだけ:costs / expenses / debts / losses / anger / penalty",
+    "「自分の行いのせいで招く」という意味が入っている",
+    "活用で r を重ねる:incurred / incurring",
+    "occur(起こる)と形が似ているので注意"
+  ],
+  "patterns": [
+    {
+      "form": "incur costs / expenses",
+      "meaning": "費用を負担する"
+    },
+    {
+      "form": "incur debts",
+      "meaning": "借金を負う"
+    },
+    {
+      "form": "incur a loss",
+      "meaning": "損失をこうむる"
+    },
+    {
+      "form": "incur A's anger",
+      "meaning": "Aの怒りを買う"
+    },
+    {
+      "form": "incur a penalty",
+      "meaning": "罰金を科される"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "費用",
+      "en": "You will incur extra costs if you cancel late.",
+      "ja": "遅れて取り消すと追加の費用がかかります。"
+    },
+    {
+      "source": "original",
+      "label": "借金",
+      "en": "The company incurred huge debts.",
+      "ja": "その会社は莫大な借金を負った。"
+    },
+    {
+      "source": "original",
+      "label": "損失",
+      "en": "The farmers incurred heavy losses because of the storm.",
+      "ja": "農家は嵐で大きな損失をこうむった。"
+    },
+    {
+      "source": "original",
+      "label": "怒りを買う",
+      "en": "He incurred his father's anger by lying.",
+      "ja": "彼はうそをついて父親の怒りを買った。"
+    },
+    {
+      "source": "original",
+      "label": "罰金",
+      "en": "Late payment will incur a penalty.",
+      "ja": "支払いが遅れると罰金が科されます。"
+    },
+    {
+      "source": "original",
+      "label": "危険",
+      "en": "They incurred great risks to save the child.",
+      "ja": "彼らは子どもを救うために大きな危険を冒した。"
+    }
+  ],
+  "check_points": [
+    "incur の目的語になりやすい語を2つ言えるか",
+    "incur の過去形のつづりを言えるか(incurred)"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "incur costs / losses / anger が長文・語彙問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 549
+    }
+  ]
+}

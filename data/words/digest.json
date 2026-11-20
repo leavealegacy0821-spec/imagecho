@@ -1,0 +1,103 @@
+{
+  "word": "digest",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/daɪˈdʒest/",
+  "core_image": {
+    "text": "取りこんだものを細かく分けて、自分のものにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><ellipse cx=\"80\" cy=\"80\" rx=\"30\" ry=\"40\"/><circle cx=\"72\" cy=\"66\" r=\"6\"/><circle cx=\"88\" cy=\"80\" r=\"4\"/><circle cx=\"76\" cy=\"94\" r=\"3\"/><line x1=\"116\" y1=\"80\" x2=\"156\" y2=\"80\"/><polyline points=\"149,76.2 156,80 149,83.8\"/><circle cx=\"180\" cy=\"80\" r=\"2\"/><circle cx=\"190\" cy=\"70\" r=\"2\"/><circle cx=\"196\" cy=\"88\" r=\"2\"/><circle cx=\"184\" cy=\"96\" r=\"2\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">細かく分ける</text></svg>"
+  },
+  "etymology": "di(dis=ばらばらに) + gest(ラテン語 gerere=運ぶ) → ばらばらにして運ぶ → (食べ物を)消化する → (情報・知識を)よく理解する・こなす → 名詞 digest=要約(内容を細かく整理したもの)。名詞 digestion=消化",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to change food in your stomach into substances your body can use, or to think about information until you understand it fully."
+    },
+    {
+      "pos": "名詞",
+      "text": "a short piece of writing that gives the most important facts from a book or report."
+    }
+  ],
+  "cautions": [
+    "食べ物の「消化する」と、情報の「よく理解する・のみこむ」の2つ",
+    "名詞「要約・ダイジェスト」は第1音節にアクセント /ˈdaɪdʒest/、動詞は第2音節",
+    "名詞 digestion=消化、形容詞 digestive=消化の",
+    "be easy / hard to digest=消化しやすい・しにくい(情報にも使う)"
+  ],
+  "patterns": [
+    {
+      "form": "digest A(食べ物)",
+      "meaning": "Aを消化する"
+    },
+    {
+      "form": "digest A(情報)",
+      "meaning": "Aをよく理解する"
+    },
+    {
+      "form": "be hard to digest",
+      "meaning": "消化しにくい・理解しにくい"
+    },
+    {
+      "form": "a digest of A",
+      "meaning": "Aの要約"
+    },
+    {
+      "form": "digestion",
+      "meaning": "消化"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "消化する",
+      "en": "Some people find it hard to digest milk.",
+      "ja": "牛乳を消化しにくい人もいる。"
+    },
+    {
+      "source": "original",
+      "label": "消化する",
+      "en": "Food is digested in the stomach and intestines.",
+      "ja": "食べ物は胃と腸で消化される。"
+    },
+    {
+      "source": "original",
+      "label": "理解する",
+      "en": "It took me a while to digest the news.",
+      "ja": "その知らせをのみこむのに少し時間がかかった。"
+    },
+    {
+      "source": "original",
+      "label": "理解する",
+      "en": "There was too much information to digest in one lesson.",
+      "ja": "1回の授業で理解するには情報が多すぎた。"
+    },
+    {
+      "source": "original",
+      "label": "要約",
+      "en": "This magazine gives a weekly digest of world news.",
+      "ja": "この雑誌は毎週世界のニュースの要約を載せている。"
+    },
+    {
+      "source": "original",
+      "label": "digestion",
+      "en": "Chewing well helps digestion.",
+      "ja": "よくかむと消化を助ける。"
+    }
+  ],
+  "check_points": [
+    "digest の「情報を理解する」用法を言えるか",
+    "名詞と動詞のアクセントの違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "比喩の digest(情報を理解する)と名詞 digestion が長文で出る。アクセント問題にも出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 546
+    }
+  ]
+}

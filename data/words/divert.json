@@ -1,0 +1,98 @@
+{
+  "word": "divert",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/daɪˈvɜːrt/",
+  "core_image": {
+    "text": "進む向きを、わきへそらす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"20\" y1=\"90\" x2=\"110\" y2=\"90\"/><line x1=\"110\" y1=\"90\" x2=\"220\" y2=\"90\" stroke-dasharray=\"4 6\"/><line x1=\"110\" y1=\"90\" x2=\"190\" y2=\"40\"/><polyline points=\"182,40.5 190,40 186.1,47\"/></g><text x=\"180\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">わきへそらす</text></svg>"
+  },
+  "etymology": "di(dis=わきへ) + vert(ラテン語 vertere=向ける。convert・reverse と同じ) → わきへ向ける → (流れ・道・お金を)そらす・転用する → (注意を)そらす → 楽しませる(気をまぎらす) → 名詞 diversion",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to cause something or someone to change direction, or to take someone's attention away from something."
+    }
+  ],
+  "cautions": [
+    "divert A from B (to C)=AをBから(Cへ)そらす・転用する",
+    "divert attention from A=Aから注意をそらす(入試で最頻出の形)",
+    "distract(気を散らす)と近いが、divert は「向きを変える」が中心",
+    "名詞 diversion=迂回・気晴らし"
+  ],
+  "patterns": [
+    {
+      "form": "divert A from B",
+      "meaning": "AをBからそらす"
+    },
+    {
+      "form": "divert A to B",
+      "meaning": "AをBに回す"
+    },
+    {
+      "form": "divert attention from A",
+      "meaning": "Aから注意をそらす"
+    },
+    {
+      "form": "divert traffic",
+      "meaning": "交通を迂回させる"
+    },
+    {
+      "form": "diversion",
+      "meaning": "迂回・気晴らし"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "流れを変える",
+      "en": "They built a canal to divert water to the farms.",
+      "ja": "彼らは農場に水を引くために水路を造った。"
+    },
+    {
+      "source": "original",
+      "label": "交通",
+      "en": "Traffic was diverted because of the accident.",
+      "ja": "事故のため車は迂回させられた。"
+    },
+    {
+      "source": "original",
+      "label": "注意をそらす",
+      "en": "The magician diverted our attention from his hands.",
+      "ja": "手品師は私たちの注意を彼の手からそらした。"
+    },
+    {
+      "source": "original",
+      "label": "話をそらす",
+      "en": "He tried to divert the conversation away from his mistake.",
+      "ja": "彼は自分のミスから話をそらそうとした。"
+    },
+    {
+      "source": "original",
+      "label": "お金を回す",
+      "en": "The city diverted money from roads to schools.",
+      "ja": "市は道路の予算を学校に回した。"
+    },
+    {
+      "source": "original",
+      "label": "diversion",
+      "en": "Reading is a pleasant diversion from work.",
+      "ja": "読書は仕事のよい気晴らしになる。"
+    }
+  ],
+  "check_points": [
+    "divert attention from A の意味を言えるか",
+    "divert の語源(わきへ+向ける)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "divert attention from A(Aから注意をそらす)が長文で出る。同意語 distract。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 548
+    }
+  ]
+}
