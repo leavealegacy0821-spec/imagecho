@@ -1,0 +1,93 @@
+{
+  "word": "vanish",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈvænɪʃ/",
+  "core_image": {
+    "text": "そこにあったものが、ふっと消えてなくなる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"80\" y1=\"74\" x2=\"60\" y2=\"96\"/><line x1=\"80\" y1=\"74\" x2=\"100\" y2=\"96\"/><circle cx=\"170\" cy=\"56\" r=\"10\" stroke-dasharray=\"3 4\"/><line x1=\"170\" y1=\"66\" x2=\"170\" y2=\"110\" stroke-dasharray=\"3 4\"/><line x1=\"170\" y1=\"110\" x2=\"170\" y2=\"140\" stroke-dasharray=\"3 4\"/></g><text x=\"170\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">消える</text></svg>"
+  },
+  "etymology": "ラテン語 vanus(からっぽの。vain・vacant と近い) → からになる → (突然)消える・見えなくなる → (存在が)なくなる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to disappear suddenly or in a way that cannot be explained, or to stop existing."
+    }
+  ],
+  "cautions": [
+    "自動詞なので受け身にしない(×be vanished)。disappear と同じ使い方",
+    "vanish into thin air=跡形もなく消える",
+    "「(習慣・種などが)なくなる」の意味も:vanishing species=消えつつある種"
+  ],
+  "patterns": [
+    {
+      "form": "A vanish",
+      "meaning": "Aが消える"
+    },
+    {
+      "form": "vanish from A",
+      "meaning": "Aから消える"
+    },
+    {
+      "form": "vanish into thin air",
+      "meaning": "跡形もなく消える"
+    },
+    {
+      "form": "vanishing A",
+      "meaning": "消えつつあるA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "消える",
+      "en": "The magician made the coin vanish.",
+      "ja": "手品師はコインを消してみせた。"
+    },
+    {
+      "source": "original",
+      "label": "vanish from",
+      "en": "The ship vanished from sight.",
+      "ja": "船は見えなくなった。"
+    },
+    {
+      "source": "original",
+      "label": "into thin air",
+      "en": "My keys seem to have vanished into thin air.",
+      "ja": "鍵がどこかへ消えてしまったようだ。"
+    },
+    {
+      "source": "original",
+      "label": "なくなる(習慣)",
+      "en": "Many old customs have vanished.",
+      "ja": "多くの古い習慣が消えてしまった。"
+    },
+    {
+      "source": "original",
+      "label": "なくなる(希望)",
+      "en": "All hope of rescue had vanished.",
+      "ja": "救助の望みはすべて消えていた。"
+    },
+    {
+      "source": "original",
+      "label": "vanishing",
+      "en": "The forest is home to many vanishing species.",
+      "ja": "その森には絶滅しかけている多くの種がすむ。"
+    }
+  ],
+  "check_points": [
+    "vanish と同じ意味の動詞を言えるか(disappear)",
+    "vanish が受け身にならない理由を言えるか(自動詞)"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "同意語 disappear の言いかえで語彙問題に出る。自動詞なので受け身にできない点も狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 535
+    }
+  ]
+}

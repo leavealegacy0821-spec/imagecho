@@ -1,0 +1,99 @@
+{
+  "word": "retreat",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/rɪˈtriːt/",
+  "core_image": {
+    "text": "前に出ていた所から、後ろへ引きさがる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"130\" y2=\"96\"/><line x1=\"150\" y1=\"74\" x2=\"170\" y2=\"96\"/><line x1=\"130\" y1=\"40\" x2=\"60\" y2=\"40\"/><polyline points=\"67,43.8 60,40 67,36.2\"/><line x1=\"200\" y1=\"30\" x2=\"200\" y2=\"140\"/></g><text x=\"92\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">引きさがる</text></svg>"
+  },
+  "etymology": "re(後ろへ) + treat(ラテン語 trahere=引く。tract と同じ) → 後ろへ引く → (軍が)退却する → (静かな所へ)引きこもる → 名詞 retreat=退却・隠れ家・静養先",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move back or away from a place or situation, especially to escape danger or difficulty."
+    },
+    {
+      "pos": "名詞",
+      "text": "a movement back or away, or a quiet place where people go to rest or be alone."
+    }
+  ],
+  "cautions": [
+    "retreat from A=Aから退く、retreat to / into A=Aへ引きこもる",
+    "名詞「隠れ家・静養所」:a mountain retreat",
+    "比喩で「(主張・計画から)後退する」:retreat from a promise",
+    "advance(前進する)の反対"
+  ],
+  "patterns": [
+    {
+      "form": "retreat (from A)",
+      "meaning": "(Aから)退却する"
+    },
+    {
+      "form": "retreat to / into A",
+      "meaning": "Aに引きこもる"
+    },
+    {
+      "form": "beat a retreat",
+      "meaning": "退散する"
+    },
+    {
+      "form": "a (mountain) retreat",
+      "meaning": "(山の)隠れ家"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "退却する",
+      "en": "The army was forced to retreat.",
+      "ja": "軍は退却を強いられた。"
+    },
+    {
+      "source": "original",
+      "label": "retreat from",
+      "en": "The soldiers retreated from the city.",
+      "ja": "兵士たちは町から撤退した。"
+    },
+    {
+      "source": "original",
+      "label": "retreat into",
+      "en": "After the failure, he retreated into his room.",
+      "ja": "失敗のあと、彼は部屋に引きこもった。"
+    },
+    {
+      "source": "original",
+      "label": "後退する(主張)",
+      "en": "The government retreated from its earlier promise.",
+      "ja": "政府は以前の約束から後退した。"
+    },
+    {
+      "source": "original",
+      "label": "名詞(隠れ家)",
+      "en": "They spent the summer at their mountain retreat.",
+      "ja": "彼らは山の別荘で夏を過ごした。"
+    },
+    {
+      "source": "original",
+      "label": "氷河",
+      "en": "The glacier has retreated a lot in the past 50 years.",
+      "ja": "その氷河はこの50年で大きく後退した。"
+    }
+  ],
+  "check_points": [
+    "retreat の反意語を言えるか(advance)",
+    "名詞 retreat の「隠れ家」の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で「(軍・氷河が)後退する」「(人が)引きこもる」の意味で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 534
+    }
+  ]
+}

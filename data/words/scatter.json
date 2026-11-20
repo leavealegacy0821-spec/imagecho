@@ -1,0 +1,94 @@
+{
+  "word": "scatter",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈskætər/",
+  "core_image": {
+    "text": "一か所のものを、あちこちへばらまく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"70\" r=\"6\"/><line x1=\"120\" y1=\"70\" x2=\"60\" y2=\"40\"/><polyline points=\"64.6,46.6 60,40 68,39.7\"/><line x1=\"120\" y1=\"70\" x2=\"180\" y2=\"40\"/><polyline points=\"172,39.7 180,40 175.4,46.6\"/><line x1=\"120\" y1=\"70\" x2=\"60\" y2=\"110\"/><polyline points=\"68,109.3 60,110 63.7,102.9\"/><line x1=\"120\" y1=\"70\" x2=\"180\" y2=\"110\"/><polyline points=\"176.3,102.9 180,110 172,109.3\"/><circle cx=\"50\" cy=\"34\" r=\"4\"/><circle cx=\"190\" cy=\"34\" r=\"4\"/><circle cx=\"50\" cy=\"118\" r=\"4\"/><circle cx=\"190\" cy=\"118\" r=\"4\"/></g><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ばらまく</text></svg>"
+  },
+  "etymology": "古い英語 scaterian(ばらまく) → (物を)まき散らす → (人・動物が)散らばる・散り散りになる(自動詞) → 形容詞 scattered=まばらな・点在する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to throw or drop things so that they spread over a wide area, or (of people or animals) to move away quickly in different directions."
+    }
+  ],
+  "cautions": [
+    "他動詞「まき散らす」と自動詞「(人・動物が)散る」の両方",
+    "scatter A over / on B=AをBにまく(= scatter B with A)",
+    "形容詞 scattered=点在する・まばらな(scattered showers=所によりにわか雨)",
+    "「全体に広がる」spread と違い、scatter は「ばらばらに散る」"
+  ],
+  "patterns": [
+    {
+      "form": "scatter A (on / over B)",
+      "meaning": "Aを(Bに)まき散らす"
+    },
+    {
+      "form": "scatter B with A",
+      "meaning": "BにAをまく"
+    },
+    {
+      "form": "A scatter",
+      "meaning": "Aが散り散りになる"
+    },
+    {
+      "form": "scattered A",
+      "meaning": "点在するA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "まき散らす",
+      "en": "He scattered seeds over the field.",
+      "ja": "彼は畑に種をまいた。"
+    },
+    {
+      "source": "original",
+      "label": "散らかす",
+      "en": "Toys were scattered all over the floor.",
+      "ja": "おもちゃが床じゅうに散らばっていた。"
+    },
+    {
+      "source": "original",
+      "label": "散る(自動詞)",
+      "en": "The birds scattered when the cat appeared.",
+      "ja": "猫が現れると鳥たちは散り散りに飛び去った。"
+    },
+    {
+      "source": "original",
+      "label": "散らばる(人)",
+      "en": "After the war, the family was scattered across the world.",
+      "ja": "戦後、その家族は世界中に散り散りになった。"
+    },
+    {
+      "source": "original",
+      "label": "scattered",
+      "en": "There are a few scattered houses in the valley.",
+      "ja": "谷には家がまばらに点在している。"
+    },
+    {
+      "source": "original",
+      "label": "scatter B with A",
+      "en": "The path was scattered with fallen leaves.",
+      "ja": "小道には落ち葉が散らばっていた。"
+    }
+  ],
+  "check_points": [
+    "scatter の自動詞の意味を言えるか",
+    "形容詞 scattered の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で「(人・物が)散らばる」、scattered(点在する)の意味で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 533
+    }
+  ]
+}

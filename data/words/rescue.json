@@ -1,0 +1,98 @@
+{
+  "word": "rescue",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈreskjuː/",
+  "core_image": {
+    "text": "危ない所から、さっと引っぱり出して守る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M20 110 Q40 102 60 110 Q80 118 100 110\"/><path d=\"M20 124 Q40 116 60 124 Q80 132 100 124\"/><circle cx=\"64\" cy=\"98\" r=\"10\"/><line x1=\"72\" y1=\"92\" x2=\"110\" y2=\"70\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"112\" y2=\"70\"/><line x1=\"150\" y1=\"74\" x2=\"168\" y2=\"96\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">助け出す</text></svg>"
+  },
+  "etymology": "re(強め) + ex(外へ) + cue(ラテン語 quatere=振る) → 振り払って外へ出す → (危険・困難から)救い出す → 名詞も同じ形:come to A's rescue=Aを助けに来る",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to save someone or something from a dangerous or difficult situation."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of saving someone or something from danger."
+    }
+  ],
+  "cautions": [
+    "rescue A from B=AをBから救う(save A from B と同じ型)",
+    "名詞 come to A's rescue / come to the rescue=助けに来る",
+    "help より「危険から救い出す」意味がはっきりしている"
+  ],
+  "patterns": [
+    {
+      "form": "rescue A from B",
+      "meaning": "AをBから救う"
+    },
+    {
+      "form": "come to A's rescue",
+      "meaning": "Aを助けに来る"
+    },
+    {
+      "form": "a rescue team",
+      "meaning": "救助隊"
+    },
+    {
+      "form": "rescue work",
+      "meaning": "救助活動"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "rescue A from B",
+      "en": "The firefighters rescued a child from the burning house.",
+      "ja": "消防士が燃えている家から子どもを救い出した。"
+    },
+    {
+      "source": "original",
+      "label": "救助する",
+      "en": "Ten people were rescued after the earthquake.",
+      "ja": "地震のあと10人が救助された。"
+    },
+    {
+      "source": "original",
+      "label": "come to A's rescue",
+      "en": "When I got lost, a kind woman came to my rescue.",
+      "ja": "道に迷ったとき、親切な女性が助けてくれた。"
+    },
+    {
+      "source": "original",
+      "label": "a rescue team",
+      "en": "A rescue team was sent to the mountain.",
+      "ja": "救助隊が山に送られた。"
+    },
+    {
+      "source": "original",
+      "label": "困難から救う",
+      "en": "The new manager rescued the company from bankruptcy.",
+      "ja": "新しい社長がその会社を倒産から救った。"
+    },
+    {
+      "source": "original",
+      "label": "rescue work",
+      "en": "Heavy rain made the rescue work difficult.",
+      "ja": "大雨で救助活動は難しくなった。"
+    }
+  ],
+  "check_points": [
+    "rescue A from B の型を言えるか",
+    "come to A's rescue の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "rescue A from B と come to A's rescue が長文・熟語問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 536
+    }
+  ]
+}

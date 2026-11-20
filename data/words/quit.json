@@ -1,0 +1,94 @@
+{
+  "word": "quit",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kwɪt/",
+  "core_image": {
+    "text": "続けていたことから、すっぱり手を引く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"130\" y2=\"96\"/><line x1=\"150\" y1=\"74\" x2=\"170\" y2=\"96\"/><rect x=\"40\" y=\"90\" width=\"50\" height=\"50\"/><line x1=\"40\" y1=\"90\" x2=\"90\" y2=\"140\"/><line x1=\"90\" y1=\"90\" x2=\"40\" y2=\"140\"/><line x1=\"170\" y1=\"40\" x2=\"214\" y2=\"40\"/><polyline points=\"207,36.2 214,40 207,43.8\"/></g><text x=\"64\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やめる</text></svg>"
+  },
+  "etymology": "ラテン語 quietus(静かな・解き放たれた。quiet と同じ根) → (義務から)自由になる → (仕事・学校・習慣を)やめる・去る。活用 quit - quit - quit(quitted もある)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stop doing something, or to leave a job, school, or place."
+    }
+  ],
+  "cautions": [
+    "quit の後ろは動名詞:quit smoking(×quit to smoke)",
+    "活用は quit - quit - quit(3つとも同じ形)",
+    "quit one's job=仕事を辞める(会話的。かたい言い方は resign / leave)",
+    "stop と似ているが、quit は「(習慣・仕事を)きっぱりやめる」"
+  ],
+  "patterns": [
+    {
+      "form": "quit doing",
+      "meaning": "〜するのをやめる"
+    },
+    {
+      "form": "quit one's job",
+      "meaning": "仕事を辞める"
+    },
+    {
+      "form": "quit school",
+      "meaning": "学校を辞める"
+    },
+    {
+      "form": "quit - quit - quit",
+      "meaning": "活用"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "quit doing",
+      "en": "My father quit smoking last year.",
+      "ja": "父は去年たばこをやめた。"
+    },
+    {
+      "source": "original",
+      "label": "仕事を辞める",
+      "en": "She quit her job to travel around the world.",
+      "ja": "彼女は世界を旅するために仕事を辞めた。"
+    },
+    {
+      "source": "original",
+      "label": "学校",
+      "en": "He quit school at sixteen.",
+      "ja": "彼は16歳で学校を辞めた。"
+    },
+    {
+      "source": "original",
+      "label": "あきらめる",
+      "en": "Don't quit now; you are almost there.",
+      "ja": "今やめてはだめだ。もう少しだよ。"
+    },
+    {
+      "source": "original",
+      "label": "過去形 quit",
+      "en": "I quit the team after the first season.",
+      "ja": "最初のシーズンのあと、私はチームを辞めた。"
+    },
+    {
+      "source": "original",
+      "label": "アプリを閉じる",
+      "en": "Quit the program before you turn off the computer.",
+      "ja": "電源を切る前にそのプログラムを終了しなさい。"
+    }
+  ],
+  "check_points": [
+    "quit の後ろが動名詞か不定詞か言えるか(動名詞)",
+    "quit の過去形・過去分詞を言えるか(quit)"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "quit doing(動名詞を取る動詞)と、quit - quit - quit の活用が語法問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 540
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "strain",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/streɪn/",
+  "core_image": {
+    "text": "ぴんと引っぱって、限界近くまで張りつめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"40\" y1=\"40\" x2=\"40\" y2=\"140\"/><line x1=\"200\" y1=\"40\" x2=\"200\" y2=\"140\"/><line x1=\"40\" y1=\"70\" x2=\"200\" y2=\"70\"/><line x1=\"120\" y1=\"74\" x2=\"120\" y2=\"110\"/><polyline points=\"123.8,103 120,110 116.2,103\"/><line x1=\"70\" y1=\"70\" x2=\"46\" y2=\"70\"/><polyline points=\"53,73.8 46,70 53,66.2\"/><line x1=\"170\" y1=\"70\" x2=\"194\" y2=\"70\"/><polyline points=\"187,66.2 194,70 187,73.8\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぴんと張る</text></svg>"
+  },
+  "etymology": "ラテン語 stringere(きつく締める。strict・restrict と同じ) → ぴんと引っぱる → (体・心・関係に)負担をかける=緊張・重圧(名詞) → (目・筋肉を)酷使する・痛める → (液体を)こす(張った布でこす)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "pressure or worry caused by a difficult situation, or force that pulls or stretches something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to try very hard to do something, or to injure a part of your body by using it too much."
+    }
+  ],
+  "cautions": [
+    "名詞 strain=重圧・負担(stress に近い):be under strain=重圧を受けている",
+    "put a strain on A=Aに負担をかける(前置詞は on)",
+    "動詞 strain one's eyes / back=目・腰を酷使して痛める",
+    "strain to do=〜しようと必死に努める(strain to hear=懸命に聞き取ろうとする)"
+  ],
+  "patterns": [
+    {
+      "form": "put a strain on A",
+      "meaning": "Aに負担をかける"
+    },
+    {
+      "form": "under strain",
+      "meaning": "重圧を受けて"
+    },
+    {
+      "form": "strain one's eyes",
+      "meaning": "目を酷使する"
+    },
+    {
+      "form": "strain to do",
+      "meaning": "必死に〜しようとする"
+    },
+    {
+      "form": "strain A(液体)",
+      "meaning": "Aをこす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "負担",
+      "en": "Caring for her mother put a great strain on her.",
+      "ja": "母親の介護は彼女に大きな負担をかけた。"
+    },
+    {
+      "source": "original",
+      "label": "under strain",
+      "en": "He has been under a lot of strain at work.",
+      "ja": "彼は仕事でずっと大きな重圧を受けている。"
+    },
+    {
+      "source": "original",
+      "label": "関係の緊張",
+      "en": "The argument caused a strain in their friendship.",
+      "ja": "その口論で2人の友情にひびが入った。"
+    },
+    {
+      "source": "original",
+      "label": "酷使する",
+      "en": "Reading in the dark will strain your eyes.",
+      "ja": "暗い所で読書すると目を痛める。"
+    },
+    {
+      "source": "original",
+      "label": "strain to do",
+      "en": "I strained to hear what she was saying.",
+      "ja": "私は彼女の言っていることを懸命に聞き取ろうとした。"
+    },
+    {
+      "source": "original",
+      "label": "こす",
+      "en": "Strain the soup to remove the bones.",
+      "ja": "骨を取り除くためにスープをこしなさい。"
+    }
+  ],
+  "check_points": [
+    "put a strain on A の意味と前置詞を言えるか",
+    "strain to do の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "put a strain on A(Aに負担をかける)と、関係・体への「負担・緊張」の意味が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 531
+    }
+  ]
+}

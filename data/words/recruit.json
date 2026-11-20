@@ -1,0 +1,102 @@
+{
+  "word": "recruit",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/rɪˈkruːt/",
+  "core_image": {
+    "text": "外から新しい人を集めて、仲間を育て増やす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"40\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"80\" y2=\"96\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"100\" y2=\"96\"/><line x1=\"120\" y1=\"74\" x2=\"140\" y2=\"96\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"180\" y2=\"96\"/><line x1=\"200\" y1=\"74\" x2=\"220\" y2=\"96\"/><line x1=\"184\" y1=\"40\" x2=\"146\" y2=\"40\"/><polyline points=\"153,43.8 146,40 153,36.2\"/></g><text x=\"90\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">仲間を増やす</text></svg>"
+  },
+  "etymology": "re(再び) + cruit(ラテン語 crescere=育つ・増える。increase・crescent と同じ) → (兵力を)もう一度増やす → 新人を募集する・入れる → 名詞 recruit=新人・新兵、recruitment=採用",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to find new people to join a company, an organization, or the armed forces."
+    },
+    {
+      "pos": "名詞",
+      "text": "a person who has recently joined an organization or the army."
+    }
+  ],
+  "cautions": [
+    "名詞 recruit は「新人・新兵」(人)。日本語の「就職活動(リクルート)」は job hunting",
+    "recruit A to do / recruit A for B=Aを〜するために・Bのために勧誘する",
+    "名詞 recruitment=採用・募集"
+  ],
+  "patterns": [
+    {
+      "form": "recruit A",
+      "meaning": "Aを募集する・採用する"
+    },
+    {
+      "form": "recruit A for B",
+      "meaning": "AをBに勧誘する"
+    },
+    {
+      "form": "recruit A to do",
+      "meaning": "Aを〜するよう勧誘する"
+    },
+    {
+      "form": "a new recruit",
+      "meaning": "新人"
+    },
+    {
+      "form": "recruitment",
+      "meaning": "採用"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "採用する",
+      "en": "The company plans to recruit 50 new workers.",
+      "ja": "その会社は新しい社員を50人採用する予定だ。"
+    },
+    {
+      "source": "original",
+      "label": "勧誘する",
+      "en": "The club is trying to recruit more members.",
+      "ja": "そのクラブはもっと部員を集めようとしている。"
+    },
+    {
+      "source": "original",
+      "label": "recruit A for B",
+      "en": "They recruited volunteers for the festival.",
+      "ja": "彼らは祭りのためのボランティアを集めた。"
+    },
+    {
+      "source": "original",
+      "label": "recruit A to do",
+      "en": "She recruited her friends to help with the project.",
+      "ja": "彼女は友人を誘って計画を手伝ってもらった。"
+    },
+    {
+      "source": "original",
+      "label": "名詞(新人)",
+      "en": "The new recruits will start training next week.",
+      "ja": "新人たちは来週研修を始める。"
+    },
+    {
+      "source": "original",
+      "label": "job hunting との区別",
+      "en": "My sister is busy job hunting, and many firms are recruiting.",
+      "ja": "姉は就活で忙しく、多くの会社が採用活動をしている。"
+    }
+  ],
+  "check_points": [
+    "名詞 recruit が「人」を表すことを言えるか",
+    "日本語の「就活」を英語で言えるか(job hunting)"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "recruit(採用する・新人)が長文で出る。和製英語「リクルート」との違いが英作文で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 537
+    }
+  ]
+}

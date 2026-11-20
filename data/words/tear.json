@@ -1,0 +1,103 @@
+{
+  "word": "tear",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ter/",
+  "core_image": {
+    "text": "強い力で引っぱって、二つに裂く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"40,40 100,40 110,60 100,80 112,100 100,120 40,120 40,40\"/><polyline points=\"200,40 140,40 150,60 140,80 152,100 140,120 200,120 200,40\"/><line x1=\"60\" y1=\"80\" x2=\"30\" y2=\"80\"/><polyline points=\"37,83.8 30,80 37,76.2\"/><line x1=\"180\" y1=\"80\" x2=\"210\" y2=\"80\"/><polyline points=\"203,76.2 210,80 203,83.8\"/></g><text x=\"124\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">裂く</text></svg>"
+  },
+  "etymology": "古い英語 teran(裂く) → (紙・布を)引き裂く・破る → (心を)引き裂く → tear oneself away=(名残惜しいものから)無理に離れる。活用 tear - tore - torn。発音 /ter/。「涙」の tear /tɪr/ は別語",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to pull something apart or pull pieces off it with force, so that it is damaged."
+    },
+    {
+      "pos": "名詞",
+      "text": "a hole or split in something where it has been torn."
+    }
+  ],
+  "cautions": [
+    "活用は tear - tore - torn(wear - wore - worn と同じ変わり方)",
+    "「裂く」は /ter/、「涙」は /tɪr/。つづりは同じで発音がちがう",
+    "tear A up=Aをびりびりに破る、tear down A=A(建物)を取り壊す",
+    "be torn between A and B=AとBの間で板ばさみになる"
+  ],
+  "patterns": [
+    {
+      "form": "tear A",
+      "meaning": "Aを引き裂く"
+    },
+    {
+      "form": "tear A up",
+      "meaning": "Aをびりびりに破る"
+    },
+    {
+      "form": "tear down A",
+      "meaning": "Aを取り壊す"
+    },
+    {
+      "form": "be torn between A and B",
+      "meaning": "AとBの間で迷う"
+    },
+    {
+      "form": "tear oneself away (from A)",
+      "meaning": "(Aから)無理に離れる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "破る",
+      "en": "She tore the letter in two.",
+      "ja": "彼女はその手紙を2つに破いた。"
+    },
+    {
+      "source": "original",
+      "label": "tear up",
+      "en": "He tore up the photo in anger.",
+      "ja": "彼は怒って写真をびりびりに破った。"
+    },
+    {
+      "source": "original",
+      "label": "tear down",
+      "en": "The old school was torn down last year.",
+      "ja": "古い校舎は去年取り壊された。"
+    },
+    {
+      "source": "original",
+      "label": "be torn between",
+      "en": "I am torn between going to college and getting a job.",
+      "ja": "大学に行くか就職するかで迷っている。"
+    },
+    {
+      "source": "original",
+      "label": "tear oneself away",
+      "en": "I could hardly tear myself away from the game.",
+      "ja": "そのゲームからなかなか離れられなかった。"
+    },
+    {
+      "source": "original",
+      "label": "名詞(裂け目)",
+      "en": "There is a tear in your shirt.",
+      "ja": "シャツに裂け目があるよ。"
+    }
+  ],
+  "check_points": [
+    "tear の過去形・過去分詞を言えるか(tore, torn)",
+    "be torn between A and B の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "活用 tore / torn と、be torn between A and B(板ばさみ)、tear down A が出る。「涙」との発音の違いも狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 539
+    }
+  ]
+}
