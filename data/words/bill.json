@@ -1,0 +1,103 @@
+{
+  "word": "bill",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/bɪl/",
+  "core_image": {
+    "text": "項目が書きこまれた1枚の紙",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"104\" y2=\"80\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"98\"/><rect x=\"104\" y=\"40\" width=\"66\" height=\"90\"/><line x1=\"114\" y1=\"58\" x2=\"160\" y2=\"58\"/><line x1=\"114\" y1=\"74\" x2=\"160\" y2=\"74\"/><line x1=\"114\" y1=\"90\" x2=\"160\" y2=\"90\"/><line x1=\"114\" y1=\"106\" x2=\"140\" y2=\"106\"/></g><text x=\"206\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">請求書</text><text x=\"206\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">法案</text></svg>"
+  },
+  "etymology": "ラテン語 bulla(封印・印を押した文書。bulletin と同じ) → 書かれた1枚の紙 → 代金を書いた紙=請求書・勘定書／お金として通用する紙=紙幣(米)／議会に出す書類=法案／はり紙=ポスター(billboard)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a piece of paper showing how much you must pay, a piece of paper money (US), or a written plan for a new law."
+    },
+    {
+      "pos": "動詞",
+      "text": "to send someone a bill asking them to pay for something."
+    }
+  ],
+  "cautions": [
+    "「請求書・勘定書」: pay the bill、an electricity bill(電気代の請求書)",
+    "米では「紙幣」: a ten-dollar bill(英では note)",
+    "「法案」: pass a bill=法案を可決する(法律になる前の案)",
+    "foot the bill=費用を負担する。鳥の「くちばし」の bill は別の語"
+  ],
+  "patterns": [
+    {
+      "form": "pay the bill",
+      "meaning": "代金を払う"
+    },
+    {
+      "form": "a ten-dollar bill",
+      "meaning": "10ドル札"
+    },
+    {
+      "form": "pass a bill",
+      "meaning": "法案を可決する"
+    },
+    {
+      "form": "bill A for B",
+      "meaning": "AにBの代金を請求する"
+    },
+    {
+      "form": "foot the bill",
+      "meaning": "費用を負担する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "請求書",
+      "en": "I forgot to pay the gas bill this month.",
+      "ja": "今月はガス代の請求書の支払いを忘れた。"
+    },
+    {
+      "source": "original",
+      "label": "勘定",
+      "en": "Could we have the bill, please?",
+      "ja": "お勘定をお願いできますか。"
+    },
+    {
+      "source": "original",
+      "label": "紙幣",
+      "en": "He paid with a twenty-dollar bill.",
+      "ja": "彼は20ドル札で支払った。"
+    },
+    {
+      "source": "original",
+      "label": "法案",
+      "en": "The bill was passed by a large majority.",
+      "ja": "その法案は大差で可決された。"
+    },
+    {
+      "source": "original",
+      "label": "foot the bill",
+      "en": "Who is going to foot the bill for the party?",
+      "ja": "パーティーの費用はだれが負担するのですか。"
+    },
+    {
+      "source": "original",
+      "label": "請求する(動詞)",
+      "en": "The hotel billed us for the extra night.",
+      "ja": "ホテルは追加の1泊分を私たちに請求した。"
+    }
+  ],
+  "check_points": [
+    "bill の「請求書」「紙幣」「法案」を「書かれた紙」から説明できるか",
+    "pass a bill の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「法案」「紙幣」の意味が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 450
+    }
+  ]
+}

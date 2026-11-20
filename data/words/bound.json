@@ -1,0 +1,103 @@
+{
+  "word": "bound",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/baʊnd/",
+  "core_image": {
+    "text": "縛られて、もう行き先が決まっている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"100\"/><line x1=\"70\" y1=\"74\" x2=\"80\" y2=\"100\"/><ellipse cx=\"70\" cy=\"84\" rx=\"16\" ry=\"5\"/><ellipse cx=\"70\" cy=\"96\" rx=\"16\" ry=\"5\"/><line x1=\"100\" y1=\"90\" x2=\"210\" y2=\"90\"/><polyline points=\"203,86.2 210,90 203,93.8\"/></g><text x=\"70\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">縛られた</text><text x=\"155\" y=\"78\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">決まった先へ</text></svg>"
+  },
+  "etymology": "bind(縛る)の過去分詞 → 縛られた → 〜するように縛られている=きっと〜する・〜する義務がある → bound up with=〜と固く結びついた。「〜行きの」(bound for)は別の語(準備ができた)から。名詞 bounds=境界(boundary と同じ)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "certain to happen or to do something, having a duty to do something, or travelling towards a particular place."
+    },
+    {
+      "pos": "名詞",
+      "text": "the limits of something, especially the edges of an area."
+    }
+  ],
+  "cautions": [
+    "be bound to do=きっと〜する(=be sure to do)/〜する義務がある。文脈で見分ける",
+    "be bound for A=A行きの(a train bound for Osaka=大阪行きの列車)",
+    "be bound up with A=Aと密接に関係している",
+    "out of bounds=立入禁止・範囲外(名詞 bounds=境界)"
+  ],
+  "patterns": [
+    {
+      "form": "be bound to do",
+      "meaning": "きっと〜する"
+    },
+    {
+      "form": "be bound to do",
+      "meaning": "〜する義務がある"
+    },
+    {
+      "form": "be bound for A",
+      "meaning": "A行きだ"
+    },
+    {
+      "form": "be bound up with A",
+      "meaning": "Aと密接に関係している"
+    },
+    {
+      "form": "out of bounds",
+      "meaning": "立入禁止で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "きっと〜する",
+      "en": "If you keep practicing, you are bound to improve.",
+      "ja": "練習を続ければ、きっと上達する。"
+    },
+    {
+      "source": "original",
+      "label": "きっと〜する",
+      "en": "It was bound to happen sooner or later.",
+      "ja": "それは遅かれ早かれ起こるに決まっていた。"
+    },
+    {
+      "source": "original",
+      "label": "義務がある",
+      "en": "We are bound by law to pay taxes.",
+      "ja": "私たちは法律によって税を払う義務がある。"
+    },
+    {
+      "source": "original",
+      "label": "〜行きの",
+      "en": "This train is bound for Kyoto.",
+      "ja": "この列車は京都行きだ。"
+    },
+    {
+      "source": "original",
+      "label": "bound up with",
+      "en": "His happiness is closely bound up with his work.",
+      "ja": "彼の幸せは仕事と密接に結びついている。"
+    },
+    {
+      "source": "original",
+      "label": "境界",
+      "en": "The area near the river is out of bounds for students.",
+      "ja": "川の近くは生徒の立入禁止区域だ。"
+    }
+  ],
+  "check_points": [
+    "be bound to do の2つの意味を言えるか",
+    "be bound for A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be bound to do(=be sure to do)が空所・同意語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 443
+    }
+  ]
+}

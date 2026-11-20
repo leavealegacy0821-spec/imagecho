@@ -1,0 +1,98 @@
+{
+  "word": "odd",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ɑːd/",
+  "core_image": {
+    "text": "ペアからはみ出した、あまりの1つ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"50\" cy=\"100\" rx=\"28\" ry=\"16\"/><circle cx=\"40\" cy=\"100\" r=\"8\"/><circle cx=\"60\" cy=\"100\" r=\"8\"/><ellipse cx=\"110\" cy=\"100\" rx=\"28\" ry=\"16\"/><circle cx=\"100\" cy=\"100\" r=\"8\"/><circle cx=\"120\" cy=\"100\" r=\"8\"/><circle cx=\"190\" cy=\"100\" r=\"8\"/><line x1=\"190\" y1=\"64\" x2=\"190\" y2=\"86\"/><polyline points=\"193.8,79 190,86 186.2,79\"/></g><text x=\"190\" y=\"54\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">はみ出す1つ</text><text x=\"80\" y=\"138\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ペア</text></svg>"
+  },
+  "etymology": "古ノルド語 oddi(とがった先・3つ目の数) → ペアからはみ出す1つ → 奇数の → 対にならない=半端な・片方だけの → ふつうの型から外れた=奇妙な・変な → 決まっていない=臨時の(odd jobs)。名詞 odds=見込み・勝ち目",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "strange or unusual, (of a number) not able to be divided by two, or not part of a pair or set."
+    }
+  ],
+  "cautions": [
+    "「奇妙な」(=strange)のほか「奇数の」(odd numbers ⇔ even numbers)",
+    "「片方だけの・半端な」: an odd sock(片方だけの靴下)、odd jobs(臨時の雑用)",
+    "It is odd that 〜=〜とは奇妙だ",
+    "odds=見込み・勝ち目(The odds are that 〜=たぶん〜だ)、at odds with A=Aと対立して"
+  ],
+  "patterns": [
+    {
+      "form": "It is odd that 〜",
+      "meaning": "〜とは奇妙だ"
+    },
+    {
+      "form": "an odd number",
+      "meaning": "奇数"
+    },
+    {
+      "form": "odd jobs",
+      "meaning": "臨時の仕事・雑用"
+    },
+    {
+      "form": "The odds are that 〜",
+      "meaning": "たぶん〜だろう"
+    },
+    {
+      "form": "at odds with A",
+      "meaning": "Aと対立して"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "奇妙な",
+      "en": "There was something odd about his behavior.",
+      "ja": "彼のふるまいにはどこか奇妙なところがあった。"
+    },
+    {
+      "source": "original",
+      "label": "It is odd that",
+      "en": "It is odd that she hasn't called yet.",
+      "ja": "彼女がまだ電話してこないのは変だ。"
+    },
+    {
+      "source": "original",
+      "label": "奇数の",
+      "en": "1, 3 and 5 are odd numbers.",
+      "ja": "1、3、5は奇数だ。"
+    },
+    {
+      "source": "original",
+      "label": "片方だけの",
+      "en": "I found an odd sock under the bed.",
+      "ja": "ベッドの下で片方だけの靴下を見つけた。"
+    },
+    {
+      "source": "original",
+      "label": "臨時の",
+      "en": "He did odd jobs to pay for his trip.",
+      "ja": "彼は旅費をかせぐために雑用をした。"
+    },
+    {
+      "source": "original",
+      "label": "odds",
+      "en": "The odds are that it will rain tomorrow.",
+      "ja": "たぶん明日は雨が降るだろう。"
+    }
+  ],
+  "check_points": [
+    "odd の「奇妙な」以外の意味を言えるか",
+    "odd と even の関係を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「奇妙な」(=strange)の同意語と、odd numbers、odds が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 446
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "board",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/bɔːrd/",
+  "core_image": {
+    "text": "1枚の板と、それを囲む人たち",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"70\" y2=\"92\"/><line x1=\"190\" y1=\"74\" x2=\"170\" y2=\"92\"/><line x1=\"70\" y1=\"92\" x2=\"170\" y2=\"92\"/><line x1=\"80\" y1=\"92\" x2=\"80\" y2=\"140\"/><line x1=\"160\" y1=\"92\" x2=\"160\" y2=\"140\"/></g><text x=\"120\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">板の机</text><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">囲む人=委員会</text></svg>"
+  },
+  "etymology": "古英語 bord(板) → 板 → 板のテーブル → それを囲んで話し合う人たち=委員会・役員会／食卓=食事(room and board)／船の板張り=船の上 → on board=乗って → board=(乗り物に)乗り込む",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a flat piece of wood, a group of people who control an organization, or meals that are provided when you pay to stay somewhere."
+    },
+    {
+      "pos": "動詞",
+      "text": "to get on a ship, train, plane or bus."
+    }
+  ],
+  "cautions": [
+    "「委員会・役員会」: the board of directors(取締役会)、a board of education(教育委員会)",
+    "動詞 board A は他動詞: board a plane(board on a plane ×)",
+    "on board=(乗り物に)乗って、across the board=全面的に・一律に",
+    "room and board=部屋と食事(下宿の費用)"
+  ],
+  "patterns": [
+    {
+      "form": "board A",
+      "meaning": "A(乗り物)に乗り込む"
+    },
+    {
+      "form": "on board",
+      "meaning": "乗って"
+    },
+    {
+      "form": "the board of directors",
+      "meaning": "取締役会"
+    },
+    {
+      "form": "room and board",
+      "meaning": "部屋と食事"
+    },
+    {
+      "form": "across the board",
+      "meaning": "一律に"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "板",
+      "en": "He wrote the answer on the board.",
+      "ja": "彼はボード(黒板)に答えを書いた。"
+    },
+    {
+      "source": "original",
+      "label": "委員会",
+      "en": "The board of education decided to build a new school.",
+      "ja": "教育委員会は新しい学校を建てることを決めた。"
+    },
+    {
+      "source": "original",
+      "label": "乗り込む",
+      "en": "Passengers are now boarding the plane.",
+      "ja": "乗客は今、飛行機に乗り込んでいるところだ。"
+    },
+    {
+      "source": "original",
+      "label": "on board",
+      "en": "There were 200 people on board the ship.",
+      "ja": "その船には200人が乗っていた。"
+    },
+    {
+      "source": "original",
+      "label": "食事",
+      "en": "She pays 50,000 yen a month for room and board.",
+      "ja": "彼女は部屋代と食事代に月5万円払っている。"
+    },
+    {
+      "source": "original",
+      "label": "across the board",
+      "en": "Prices rose across the board.",
+      "ja": "物価が全面的に上がった。"
+    }
+  ],
+  "check_points": [
+    "board の「委員会」と「乗り込む」を「板」から説明できるか",
+    "board a plane に on がいらないことを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「委員会」「乗り込む」の意味と on board が長文・語法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 449
+    }
+  ]
+}

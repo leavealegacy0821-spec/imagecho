@@ -1,0 +1,103 @@
+{
+  "word": "fair",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/fer/",
+  "core_image": {
+    "text": "片寄りがなく、きれいに整った",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"120\" y1=\"50\" x2=\"120\" y2=\"140\"/><polygon points=\"112,140 128,140 120,130\"/><line x1=\"60\" y1=\"50\" x2=\"180\" y2=\"50\"/><line x1=\"60\" y1=\"50\" x2=\"46\" y2=\"90\"/><line x1=\"60\" y1=\"50\" x2=\"74\" y2=\"90\"/><line x1=\"42\" y1=\"90\" x2=\"78\" y2=\"90\"/><line x1=\"180\" y1=\"50\" x2=\"166\" y2=\"90\"/><line x1=\"180\" y1=\"50\" x2=\"194\" y2=\"90\"/><line x1=\"162\" y1=\"90\" x2=\"198\" y2=\"90\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">片寄らない</text><text x=\"60\" y=\"114\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">つり合う</text></svg>"
+  },
+  "etymology": "古英語 fæger(美しい・きれい) → 汚れや片寄りがない → 公平な・正当な／(肌が)色白の・(髪が)金色の／(天気が)晴れた／悪くない=まあまあの・かなりの(a fair amount)。名詞「見本市・品評会」は別の語(祭日)から",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "treating people equally or in a way that is right, quite large or quite good, or (of skin or hair) light in color."
+    },
+    {
+      "pos": "名詞",
+      "text": "an event where people show and sell goods, or an outdoor event with rides and games."
+    }
+  ],
+  "cautions": [
+    "「公平な」以外に「かなりの・まあまあの」がある: a fair number of=かなりの数の",
+    "It is fair to say that 〜=〜と言ってさしつかえない",
+    "fair skin / hair=色白の肌・金髪。fair weather=晴れ",
+    "名詞:a book fair=本の見本市、a job fair=就職説明会"
+  ],
+  "patterns": [
+    {
+      "form": "be fair to A",
+      "meaning": "Aに対して公平だ"
+    },
+    {
+      "form": "a fair price",
+      "meaning": "適正な値段"
+    },
+    {
+      "form": "a fair number of A",
+      "meaning": "かなりの数のA"
+    },
+    {
+      "form": "It is fair to say that 〜",
+      "meaning": "〜と言ってよい"
+    },
+    {
+      "form": "a book fair",
+      "meaning": "本の見本市"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "公平な",
+      "en": "The teacher is always fair to all the students.",
+      "ja": "その先生はいつもすべての生徒に公平だ。"
+    },
+    {
+      "source": "original",
+      "label": "正当な",
+      "en": "I think 3,000 yen is a fair price for this bag.",
+      "ja": "このかばんに3,000円は適正な値段だと思う。"
+    },
+    {
+      "source": "original",
+      "label": "かなりの",
+      "en": "A fair number of people came to the concert.",
+      "ja": "かなりの数の人がコンサートに来た。"
+    },
+    {
+      "source": "original",
+      "label": "まあまあの",
+      "en": "His English is fair, but he needs more practice.",
+      "ja": "彼の英語はまあまあだが、もっと練習が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "It is fair to say",
+      "en": "It is fair to say that the plan was a success.",
+      "ja": "その計画は成功だったと言ってよい。"
+    },
+    {
+      "source": "original",
+      "label": "見本市",
+      "en": "We visited a book fair in Tokyo last weekend.",
+      "ja": "先週末、東京の本の見本市に行った。"
+    }
+  ],
+  "check_points": [
+    "fair の「公平な」以外の意味を2つ言えるか",
+    "a fair number of の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「かなりの」「まあまあの」の意味と It is fair to say that が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 444
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "pose",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/poʊz/",
+  "core_image": {
+    "text": "相手の目の前に、ぽんと置いて見せる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"96\" y2=\"70\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"98\"/><line x1=\"100\" y1=\"72\" x2=\"150\" y2=\"98\" stroke-dasharray=\"5 5\"/><polyline points=\"145.5,91.4 150,98 142,98.2\"/><rect x=\"140\" y=\"104\" width=\"50\" height=\"36\"/></g><text x=\"190\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">目の前に置く</text></svg>"
+  },
+  "etymology": "フランス語 poser(置く。position、propose、expose と同じ仲間) → 目の前に置く → (問題・危険を)突きつける・引き起こす／(質問を)投げかける／体を形にして置く=ポーズをとる → pose as A=Aのふりをする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to cause a problem or danger, to ask a question, or to sit or stand in a position for a photograph or picture."
+    },
+    {
+      "pos": "名詞",
+      "text": "a position in which someone stands or sits, or a way of behaving that is not sincere."
+    }
+  ],
+  "cautions": [
+    "pose a problem / threat / risk=問題・脅威・危険をもたらす(長文で最頻出の形。主語は物ごと)",
+    "pose a question=質問を投げかける・問題を提起する",
+    "pose for a photo=写真のためにポーズをとる、pose as A=Aのふりをする・Aになりすます",
+    "「ポーズをとる」だけで覚えると、pose a threat が読めない"
+  ],
+  "patterns": [
+    {
+      "form": "pose a problem",
+      "meaning": "問題を引き起こす"
+    },
+    {
+      "form": "pose a threat to A",
+      "meaning": "Aにとって脅威となる"
+    },
+    {
+      "form": "pose a question",
+      "meaning": "質問を投げかける"
+    },
+    {
+      "form": "pose for A",
+      "meaning": "Aのためにポーズをとる"
+    },
+    {
+      "form": "pose as A",
+      "meaning": "Aのふりをする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "問題を引き起こす",
+      "en": "The aging population poses serious problems for the country.",
+      "ja": "高齢化はその国に深刻な問題をもたらしている。"
+    },
+    {
+      "source": "original",
+      "label": "脅威となる",
+      "en": "Plastic waste poses a threat to sea animals.",
+      "ja": "プラスチックごみは海の動物にとって脅威となっている。"
+    },
+    {
+      "source": "original",
+      "label": "危険をもたらす",
+      "en": "Driving while using a phone poses a great risk.",
+      "ja": "携帯電話を使いながらの運転は大きな危険をもたらす。"
+    },
+    {
+      "source": "original",
+      "label": "質問を投げかける",
+      "en": "The teacher posed a difficult question to the class.",
+      "ja": "先生はクラスに難しい質問を投げかけた。"
+    },
+    {
+      "source": "original",
+      "label": "ポーズをとる",
+      "en": "The players posed for a photo after the game.",
+      "ja": "選手たちは試合後に写真のためにポーズをとった。"
+    },
+    {
+      "source": "original",
+      "label": "pose as",
+      "en": "The man posed as a police officer to cheat old people.",
+      "ja": "その男は警察官になりすまして高齢者をだました。"
+    }
+  ],
+  "check_points": [
+    "pose a threat to A の意味を言えるか",
+    "pose as A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "pose a problem / threat(=cause)が長文・同意語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 441
+    }
+  ]
+}

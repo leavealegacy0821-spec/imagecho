@@ -1,0 +1,103 @@
+{
+  "word": "suit",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/suːt/",
+  "core_image": {
+    "text": "相手にぴったりついて、合う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><polygon points=\"102,64 138,64 142,106 98,106\"/><line x1=\"120\" y1=\"74\" x2=\"100\" y2=\"98\"/><line x1=\"120\" y1=\"74\" x2=\"140\" y2=\"98\"/><line x1=\"56\" y1=\"86\" x2=\"92\" y2=\"86\"/><polyline points=\"85,82.2 92,86 85,89.8\"/><line x1=\"184\" y1=\"86\" x2=\"148\" y2=\"86\"/><polyline points=\"155,89.8 148,86 155,82.2\"/></g><text x=\"120\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぴったり合う</text></svg>"
+  },
+  "etymology": "ラテン語 sequi(ついて行く。sequence、pursue と同じ) → ぴったりついて来る → (服・色・条件が)合う=似合う・都合がよい／ひとそろいのもの=スーツ／(権利を)追い求めること=訴訟(lawsuit)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to look good on someone, or to be right or convenient for someone or something."
+    },
+    {
+      "pos": "名詞",
+      "text": "a set of clothes made of the same cloth, or a case in a court of law."
+    }
+  ],
+  "cautions": [
+    "suit A は他動詞: That color suits you.(suit to you ×)",
+    "suit(色・柄・条件が似合う・都合がよい)、fit(サイズ・形が合う)、match / go with(物と物が調和する)の使い分け",
+    "be suited to (for) A / suitable for A=Aに向いている・適している",
+    "名詞「訴訟」: file a suit against A=Aを訴える。follow suit=先例にならう"
+  ],
+  "patterns": [
+    {
+      "form": "suit A",
+      "meaning": "Aに似合う・Aに都合がよい"
+    },
+    {
+      "form": "be suited to (for) A",
+      "meaning": "Aに向いている"
+    },
+    {
+      "form": "suitable for A",
+      "meaning": "Aに適した"
+    },
+    {
+      "form": "Suit yourself.",
+      "meaning": "好きにしなさい"
+    },
+    {
+      "form": "follow suit",
+      "meaning": "先例にならう"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "似合う",
+      "en": "That blue dress really suits you.",
+      "ja": "その青いドレスは本当にあなたに似合う。"
+    },
+    {
+      "source": "original",
+      "label": "都合がよい",
+      "en": "Would Friday suit you for the meeting?",
+      "ja": "会議は金曜日でご都合はよろしいですか。"
+    },
+    {
+      "source": "original",
+      "label": "be suited to",
+      "en": "He is not suited to this kind of work.",
+      "ja": "彼はこの種の仕事に向いていない。"
+    },
+    {
+      "source": "original",
+      "label": "suitable for",
+      "en": "This book is suitable for beginners.",
+      "ja": "この本は初心者に適している。"
+    },
+    {
+      "source": "original",
+      "label": "follow suit",
+      "en": "When one store lowered its prices, others followed suit.",
+      "ja": "1つの店が値下げすると、ほかの店もそれにならった。"
+    },
+    {
+      "source": "original",
+      "label": "訴訟",
+      "en": "She filed a suit against the company.",
+      "ja": "彼女はその会社を訴えた。"
+    }
+  ],
+  "check_points": [
+    "suit と fit と match の違いを言えるか",
+    "suit A が他動詞であることを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "suit / fit / match の使い分けと、suit to A としない語法が正誤で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 447
+    }
+  ]
+}
