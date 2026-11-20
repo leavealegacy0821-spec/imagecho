@@ -1,0 +1,103 @@
+{
+  "word": "register",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈredʒɪstər/",
+  "core_image": {
+    "text": "名前を正式な帳面に書きこんで、残しておく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"60\" y=\"40\" width=\"80\" height=\"100\"/><line x1=\"72\" y1=\"60\" x2=\"128\" y2=\"60\"/><line x1=\"72\" y1=\"80\" x2=\"128\" y2=\"80\"/><line x1=\"72\" y1=\"100\" x2=\"110\" y2=\"100\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"140\" y2=\"96\"/><line x1=\"190\" y1=\"74\" x2=\"210\" y2=\"96\"/></g><text x=\"100\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">名簿</text></svg>"
+  },
+  "etymology": "re(後ろへ・もとへ) + gister(ラテン語 gerere=運ぶ) → 運んで記録に残す → 名簿・登録簿 → (名前・出生・郵便を)登録する・届け出る → (計器が数値を)示す・(気持ちが表情に)表れる。名詞 registration=登録",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to put someone's or something's name on an official list, or (of a measuring device) to show a measurement."
+    },
+    {
+      "pos": "名詞",
+      "text": "an official list of names or records."
+    }
+  ],
+  "cautions": [
+    "register for A=Aに登録する・申し込む(register for a course)",
+    "register a letter=手紙を書留にする(registered mail=書留郵便)",
+    "(計器が)〜を示す:The thermometer registered 35℃.",
+    "「気づく・頭に入る」の意味もある:It didn't register with me."
+  ],
+  "patterns": [
+    {
+      "form": "register for A",
+      "meaning": "Aに登録する"
+    },
+    {
+      "form": "register A",
+      "meaning": "Aを登録する・届け出る"
+    },
+    {
+      "form": "registered mail",
+      "meaning": "書留郵便"
+    },
+    {
+      "form": "A register B(計器)",
+      "meaning": "AがBを示す"
+    },
+    {
+      "form": "a cash register",
+      "meaning": "レジ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "register for",
+      "en": "You need to register for the class by Friday.",
+      "ja": "金曜日までにその授業に登録する必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "登録する",
+      "en": "We registered our new car last week.",
+      "ja": "私たちは先週新しい車を登録した。"
+    },
+    {
+      "source": "original",
+      "label": "届け出る",
+      "en": "The birth of a baby must be registered within two weeks.",
+      "ja": "子どもが生まれたら2週間以内に届け出なければならない。"
+    },
+    {
+      "source": "original",
+      "label": "示す(計器)",
+      "en": "The thermometer registered 38 degrees.",
+      "ja": "温度計は38度を示した。"
+    },
+    {
+      "source": "original",
+      "label": "書留",
+      "en": "I sent the documents by registered mail.",
+      "ja": "書類を書留で送った。"
+    },
+    {
+      "source": "original",
+      "label": "頭に入る",
+      "en": "I heard her name, but it didn't register.",
+      "ja": "彼女の名前を聞いたが、頭に入らなかった。"
+    }
+  ],
+  "check_points": [
+    "register for A の意味を言えるか",
+    "計器が主語のときの register の意味を言えるか(示す)"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "register for A(Aに登録する)が会話・長文で出る。registered mail(書留)も語彙問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 528
+    }
+  ]
+}

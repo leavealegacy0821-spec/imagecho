@@ -1,0 +1,103 @@
+{
+  "word": "envy",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈenvi/",
+  "core_image": {
+    "text": "人の持っているものを、横目でじっと見てほしがる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"40\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"80\" y2=\"96\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"196\" y2=\"66\"/><line x1=\"170\" y1=\"74\" x2=\"150\" y2=\"96\"/><polygon points=\"206,52 216,66 206,80 196,66\"/><line x1=\"76\" y1=\"46\" x2=\"140\" y2=\"46\"/><polyline points=\"133,42.2 140,46 133,49.8\"/></g><text x=\"106\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いいなあ</text></svg>"
+  },
+  "etymology": "en(in=上に・中に) + vy(ラテン語 videre=見る) → (悪い気持ちで)じっと見る → うらやむ・ねたむ。名詞も同じ形。形容詞 envious(うらやましがる)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to wish that you had something that another person has, or that you were in their situation."
+    },
+    {
+      "pos": "名詞",
+      "text": "the feeling of wanting something that someone else has."
+    }
+  ],
+  "cautions": [
+    "envy A B=AのBをうらやむ(第4文型):I envy you your success.(×envy your success to you も×)",
+    "envy A for B も同じ意味(envy you for your success)",
+    "be envious of A=Aをうらやむ(形容詞は of)",
+    "jealous は「自分のものを取られまいとする」意味もある。envy は「人のものをほしがる」"
+  ],
+  "patterns": [
+    {
+      "form": "envy A",
+      "meaning": "Aをうらやむ"
+    },
+    {
+      "form": "envy A B",
+      "meaning": "AのBをうらやむ"
+    },
+    {
+      "form": "envy A for B",
+      "meaning": "AのBをうらやむ"
+    },
+    {
+      "form": "be envious of A",
+      "meaning": "Aをうらやましく思う"
+    },
+    {
+      "form": "be the envy of A",
+      "meaning": "Aの羨望の的である"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "envy A",
+      "en": "I envy people who can sing well.",
+      "ja": "歌が上手な人がうらやましい。"
+    },
+    {
+      "source": "original",
+      "label": "envy A B",
+      "en": "I envy you your long holidays.",
+      "ja": "君の長い休みがうらやましいよ。"
+    },
+    {
+      "source": "original",
+      "label": "envy A for B",
+      "en": "Everyone envied her for her beautiful voice.",
+      "ja": "誰もが彼女の美しい声をうらやんだ。"
+    },
+    {
+      "source": "original",
+      "label": "be envious of",
+      "en": "He was envious of his brother's success.",
+      "ja": "彼は兄の成功をうらやんでいた。"
+    },
+    {
+      "source": "original",
+      "label": "名詞 envy",
+      "en": "She looked at my new bike with envy.",
+      "ja": "彼女はうらやましそうに私の新しい自転車を見た。"
+    },
+    {
+      "source": "original",
+      "label": "the envy of",
+      "en": "Their garden is the envy of the whole town.",
+      "ja": "彼らの庭は町じゅうの羨望の的だ。"
+    }
+  ],
+  "check_points": [
+    "envy A B の語順(人が先、物が後)を言えるか",
+    "形容詞 envious の後ろの前置詞を言えるか(of)"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "envy A B(第4文型)の語順と be envious of A が語法・整序問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 524
+    }
+  ]
+}

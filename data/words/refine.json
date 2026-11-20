@@ -1,0 +1,97 @@
+{
+  "word": "refine",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈfaɪn/",
+  "core_image": {
+    "text": "まじりものを取って、すっきり細かく仕上げる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polygon points=\"70,40 130,40 108,80 92,80\"/><line x1=\"100\" y1=\"80\" x2=\"100\" y2=\"110\"/><circle cx=\"84\" cy=\"52\" r=\"3\"/><circle cx=\"110\" cy=\"50\" r=\"3\"/><circle cx=\"98\" cy=\"60\" r=\"3\"/><rect x=\"84\" y=\"114\" width=\"32\" height=\"26\"/><line x1=\"140\" y1=\"100\" x2=\"190\" y2=\"100\"/><polyline points=\"183,96.2 190,100 183,103.8\"/></g><text x=\"188\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">みがく</text></svg>"
+  },
+  "etymology": "re(もう一度・強め) + fine(細かい・純粋な) → さらに細かく純粋にする → (石油・砂糖を)精製する → (技術・考え・文章を)みがきあげる → refined=上品な・洗練された、refinement=洗練",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make a substance pure by removing other substances from it, or to improve something by making small changes."
+    }
+  ],
+  "cautions": [
+    "物質を「精製する」と、技術・方法・考えを「(小さな改良を重ねて)みがく」の2つ",
+    "形容詞 refined=精製された・(人・好みが)上品な",
+    "improve よりも「細部を少しずつ直してよくする」感じ"
+  ],
+  "patterns": [
+    {
+      "form": "refine A",
+      "meaning": "Aを精製する"
+    },
+    {
+      "form": "refine A's skills / methods",
+      "meaning": "技術・方法をみがく"
+    },
+    {
+      "form": "refined sugar / oil",
+      "meaning": "精製された砂糖・油"
+    },
+    {
+      "form": "refined A(人・好み)",
+      "meaning": "上品なA"
+    },
+    {
+      "form": "refinement",
+      "meaning": "改良・洗練"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "精製する",
+      "en": "Crude oil is refined into gasoline.",
+      "ja": "原油は精製されてガソリンになる。"
+    },
+    {
+      "source": "original",
+      "label": "refined",
+      "en": "Refined sugar is not good for your health in large amounts.",
+      "ja": "精製された砂糖はたくさんとると体によくない。"
+    },
+    {
+      "source": "original",
+      "label": "技術をみがく",
+      "en": "She spent years refining her painting skills.",
+      "ja": "彼女は何年もかけて絵の技術をみがいた。"
+    },
+    {
+      "source": "original",
+      "label": "方法を改良する",
+      "en": "Scientists are refining the method to make it more accurate.",
+      "ja": "科学者たちはその方法をより正確にするために改良している。"
+    },
+    {
+      "source": "original",
+      "label": "考えを練る",
+      "en": "Let's refine our plan before we present it.",
+      "ja": "発表する前に計画を練り直そう。"
+    },
+    {
+      "source": "original",
+      "label": "上品な",
+      "en": "He has a refined taste in music.",
+      "ja": "彼は音楽の趣味が洗練されている。"
+    }
+  ],
+  "check_points": [
+    "refine の2つの意味(精製する・みがく)を言えるか",
+    "形容詞 refined の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "refine A's skills / methods(技術・方法をみがく)が長文で出る。refined(上品な)も語彙問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 526
+    }
+  ]
+}

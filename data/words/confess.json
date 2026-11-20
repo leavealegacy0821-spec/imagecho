@@ -1,0 +1,98 @@
+{
+  "word": "confess",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈfes/",
+  "core_image": {
+    "text": "胸にしまっていたことを、すっかり口に出して認める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"50\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"90\" y2=\"96\"/><rect x=\"58\" y=\"80\" width=\"24\" height=\"16\"/><line x1=\"98\" y1=\"50\" x2=\"150\" y2=\"50\"/><polyline points=\"143,46.2 150,50 143,53.8\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"160\" y2=\"96\"/><line x1=\"180\" y1=\"74\" x2=\"200\" y2=\"96\"/></g><text x=\"124\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">打ち明ける</text></svg>"
+  },
+  "etymology": "con(すっかり・強め) + fess(ラテン語 fateri=認める・言う。profess と同じ) → すっかり認めて言う → (罪・過ち・秘密を)白状する・打ち明ける → 名詞 confession=告白",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to admit that you have done something wrong or something you feel embarrassed about."
+    }
+  ],
+  "cautions": [
+    "confess to A / confess to doing=A・〜したことを白状する。to は前置詞なので後ろは動名詞(×confess to do)",
+    "confess that … / confess (to A) that …=(Aに)…だと打ち明ける",
+    "admit とほぼ同じだが、confess は「隠していた悪いことを打ち明ける」感じが強い",
+    "I must confess (that) …=実を言うと…(軽い告白にも使う)"
+  ],
+  "patterns": [
+    {
+      "form": "confess to A",
+      "meaning": "Aを白状する"
+    },
+    {
+      "form": "confess to doing",
+      "meaning": "〜したことを白状する"
+    },
+    {
+      "form": "confess (that) …",
+      "meaning": "…だと打ち明ける"
+    },
+    {
+      "form": "I must confess (that) …",
+      "meaning": "実を言うと…"
+    },
+    {
+      "form": "confession",
+      "meaning": "告白"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "confess to A",
+      "en": "He finally confessed to the crime.",
+      "ja": "彼はついに罪を白状した。"
+    },
+    {
+      "source": "original",
+      "label": "confess to doing",
+      "en": "She confessed to eating all the cake.",
+      "ja": "彼女はケーキを全部食べたことを白状した。"
+    },
+    {
+      "source": "original",
+      "label": "confess that",
+      "en": "He confessed that he had lied to his parents.",
+      "ja": "彼は両親にうそをついていたことを打ち明けた。"
+    },
+    {
+      "source": "original",
+      "label": "I must confess",
+      "en": "I must confess I have never read the book.",
+      "ja": "実を言うと、その本を一度も読んだことがありません。"
+    },
+    {
+      "source": "original",
+      "label": "confess A to B",
+      "en": "She confessed her feelings to him.",
+      "ja": "彼女は彼に自分の気持ちを打ち明けた。"
+    },
+    {
+      "source": "original",
+      "label": "confession",
+      "en": "The police got a confession from the suspect.",
+      "ja": "警察は容疑者から自白を得た。"
+    }
+  ],
+  "check_points": [
+    "confess to の後ろが動名詞になる理由を言えるか(to が前置詞)",
+    "confess と admit の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "confess to doing(to が前置詞)が「to の後ろは doing」型として語法問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 521
+    }
+  ]
+}

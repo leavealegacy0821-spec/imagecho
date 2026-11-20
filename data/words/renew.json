@@ -1,0 +1,97 @@
+{
+  "word": "renew",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈnuː/",
+  "core_image": {
+    "text": "古くなったものを、もう一度新しくし直す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"60\" width=\"50\" height=\"70\"/><line x1=\"40\" y1=\"60\" x2=\"90\" y2=\"130\"/><line x1=\"100\" y1=\"95\" x2=\"140\" y2=\"95\"/><polyline points=\"133,91.2 140,95 133,98.8\"/><rect x=\"150\" y=\"60\" width=\"50\" height=\"70\"/><polyline points=\"160,96 172,108 192,80\"/></g><text x=\"124\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">新しくする</text></svg>"
+  },
+  "etymology": "re(もう一度) + new(新しい) → もう一度新しくする → (契約・免許・パスポートを)更新する → (関係・努力・攻撃を)再開する → 名詞 renewal=更新、renewable=再生可能な(renewable energy)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make something valid for a further period of time, or to begin something again after a pause."
+    }
+  ],
+  "cautions": [
+    "期限のある物(passport / license / contract / membership)を「更新する」が中心",
+    "「(中断したことを)再開する・新たにする」:renew one's efforts / renew a friendship",
+    "形容詞 renewable=再生可能な(renewable energy=再生可能エネルギー)"
+  ],
+  "patterns": [
+    {
+      "form": "renew a passport / license",
+      "meaning": "パスポート・免許を更新する"
+    },
+    {
+      "form": "renew a contract",
+      "meaning": "契約を更新する"
+    },
+    {
+      "form": "renew one's efforts",
+      "meaning": "改めて努力する"
+    },
+    {
+      "form": "renewed A",
+      "meaning": "新たなA"
+    },
+    {
+      "form": "renewable energy",
+      "meaning": "再生可能エネルギー"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "更新する",
+      "en": "I have to renew my passport this year.",
+      "ja": "今年パスポートを更新しなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "契約",
+      "en": "The club decided not to renew his contract.",
+      "ja": "そのクラブは彼との契約を更新しないことにした。"
+    },
+    {
+      "source": "original",
+      "label": "再開する",
+      "en": "The two countries renewed their talks.",
+      "ja": "2国は話し合いを再開した。"
+    },
+    {
+      "source": "original",
+      "label": "renew one's efforts",
+      "en": "After the defeat, the team renewed its efforts.",
+      "ja": "負けたあと、チームは改めて努力した。"
+    },
+    {
+      "source": "original",
+      "label": "renewed",
+      "en": "She returned to work with renewed energy.",
+      "ja": "彼女は新たな気力で仕事に戻った。"
+    },
+    {
+      "source": "original",
+      "label": "renewable",
+      "en": "Solar power is a renewable energy source.",
+      "ja": "太陽光は再生可能なエネルギー源だ。"
+    }
+  ],
+  "check_points": [
+    "renew の目的語になる物を2つ言えるか",
+    "renewable energy の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "renew a passport / contract と renewable energy が長文・語彙問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 529
+    }
+  ]
+}

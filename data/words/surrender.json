@@ -1,0 +1,99 @@
+{
+  "word": "surrender",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/səˈrendər/",
+  "core_image": {
+    "text": "力を手放して、相手の手に自分をあずける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"100\" y2=\"40\"/><line x1=\"120\" y1=\"74\" x2=\"140\" y2=\"40\"/><line x1=\"140\" y1=\"40\" x2=\"140\" y2=\"10\"/><rect x=\"140\" y=\"10\" width=\"30\" height=\"18\"/></g><text x=\"60\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">降参</text></svg>"
+  },
+  "etymology": "sur(上に・すっかり) + render(渡す) → すっかり渡す → (敵に)降伏する・(武器・権利を)引き渡す → (感情・誘惑に)身をゆだねる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stop fighting and admit defeat, or to give something to someone because you are forced to."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of admitting defeat or giving something up."
+    }
+  ],
+  "cautions": [
+    "surrender to A=Aに降伏する・Aに屈する(to の後ろは敵・誘惑・感情)",
+    "surrender A to B=AをBに引き渡す",
+    "give in / give up とほぼ同じ。surrender のほうがかたい",
+    "名詞も同じ形:unconditional surrender=無条件降伏"
+  ],
+  "patterns": [
+    {
+      "form": "surrender (to A)",
+      "meaning": "(Aに)降伏する"
+    },
+    {
+      "form": "surrender A to B",
+      "meaning": "AをBに引き渡す"
+    },
+    {
+      "form": "surrender to temptation",
+      "meaning": "誘惑に負ける"
+    },
+    {
+      "form": "unconditional surrender",
+      "meaning": "無条件降伏"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "降伏する",
+      "en": "The enemy army finally surrendered.",
+      "ja": "敵軍はついに降伏した。"
+    },
+    {
+      "source": "original",
+      "label": "surrender to A",
+      "en": "The thief surrendered to the police.",
+      "ja": "泥棒は警察に自首した。"
+    },
+    {
+      "source": "original",
+      "label": "surrender A to B",
+      "en": "He had to surrender his passport to the officer.",
+      "ja": "彼はパスポートを係官に引き渡さなければならなかった。"
+    },
+    {
+      "source": "original",
+      "label": "屈する",
+      "en": "She surrendered to temptation and ate the chocolate.",
+      "ja": "彼女は誘惑に負けてチョコレートを食べた。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "Japan's surrender ended the war in 1945.",
+      "ja": "日本の降伏で1945年に戦争は終わった。"
+    },
+    {
+      "source": "original",
+      "label": "手放す",
+      "en": "We will never surrender our freedom.",
+      "ja": "私たちは決して自由を手放さない。"
+    }
+  ],
+  "check_points": [
+    "surrender to A の A に来るものを言えるか",
+    "surrender とほぼ同じ意味の句動詞を言えるか(give in)"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "surrender to A(Aに屈する)と、give in / yield との言いかえが語彙問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 530
+    }
+  ]
+}

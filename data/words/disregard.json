@@ -1,0 +1,98 @@
+{
+  "word": "disregard",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˌdɪsrɪˈɡɑːrd/",
+  "core_image": {
+    "text": "目の前にあっても、目を向けずに放っておく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"130\" y2=\"96\"/><line x1=\"150\" y1=\"74\" x2=\"170\" y2=\"96\"/><polygon points=\"40,90 70,40 100,90\"/><line x1=\"70\" y1=\"56\" x2=\"70\" y2=\"74\"/><circle cx=\"70\" cy=\"82\" r=\"2\"/><line x1=\"160\" y1=\"40\" x2=\"210\" y2=\"40\"/><polyline points=\"203,36.2 210,40 203,43.8\"/></g><text x=\"186\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見ない</text></svg>"
+  },
+  "etymology": "dis(〜しない) + regard(目を向ける・注意する) → 注意を向けない → (規則・警告・感情を)無視する・軽んじる → 名詞 disregard for A=Aの無視・軽視",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to ignore something or treat it as unimportant."
+    },
+    {
+      "pos": "名詞",
+      "text": "the fact of ignoring something or treating it as unimportant."
+    }
+  ],
+  "cautions": [
+    "名詞のときは for / of を取る:disregard for A=Aを無視すること(with complete disregard for safety)",
+    "ignore とほぼ同じだが、disregard は「規則・警告・意見」など、本来注意すべきものを軽んじる",
+    "in disregard of A=Aを無視して(regardless of A=Aにかかわらず と区別)"
+  ],
+  "patterns": [
+    {
+      "form": "disregard A",
+      "meaning": "Aを無視する"
+    },
+    {
+      "form": "disregard for A",
+      "meaning": "Aの無視・軽視"
+    },
+    {
+      "form": "with (complete) disregard for A",
+      "meaning": "Aを(まったく)無視して"
+    },
+    {
+      "form": "in disregard of A",
+      "meaning": "Aを無視して"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "無視する(警告)",
+      "en": "Many drivers disregard the speed limit.",
+      "ja": "多くの運転手が制限速度を無視する。"
+    },
+    {
+      "source": "original",
+      "label": "無視する(意見)",
+      "en": "The manager disregarded our advice.",
+      "ja": "部長は私たちの助言を無視した。"
+    },
+    {
+      "source": "original",
+      "label": "disregard for",
+      "en": "He showed a complete disregard for other people's feelings.",
+      "ja": "彼は他人の気持ちをまったく考えていなかった。"
+    },
+    {
+      "source": "original",
+      "label": "with disregard for",
+      "en": "They built the factory with disregard for the environment.",
+      "ja": "彼らは環境を無視してその工場を建てた。"
+    },
+    {
+      "source": "original",
+      "label": "無視してよい",
+      "en": "Please disregard the previous e-mail.",
+      "ja": "前のメールは無視してください。"
+    },
+    {
+      "source": "original",
+      "label": "in disregard of",
+      "en": "He went out in disregard of his doctor's orders.",
+      "ja": "彼は医者の指示を無視して外出した。"
+    }
+  ],
+  "check_points": [
+    "名詞 disregard の後ろの前置詞を言えるか(for)",
+    "disregard と regardless of の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "名詞 disregard for A と、同意語 ignore が語彙問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 522
+    }
+  ]
+}
