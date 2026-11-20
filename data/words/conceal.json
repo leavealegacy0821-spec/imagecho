@@ -1,0 +1,94 @@
+{
+  "word": "conceal",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈsiːl/",
+  "core_image": {
+    "text": "すっかり覆って、見えなくする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"126\" y2=\"86\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"98\"/><rect x=\"130\" y=\"92\" width=\"60\" height=\"48\"/><line x1=\"124\" y1=\"88\" x2=\"196\" y2=\"88\"/><circle cx=\"160\" cy=\"118\" r=\"10\"/></g><text x=\"160\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">覆い隠す</text></svg>"
+  },
+  "etymology": "con(すっかり)+ceal(ラテン語 celare=隠す) → すっかり覆い隠す → (物・感情・事実を)隠す",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to hide something or someone, or to keep a feeling or fact secret."
+    }
+  ],
+  "cautions": [
+    "conceal A from B=AをBに隠す(from を使う。to ではない)",
+    "hide とほぼ同じだが改まった語。感情・事実・正体にもよく使う",
+    "反対語:reveal、disclose(明らかにする)",
+    "名詞 concealment=隠すこと"
+  ],
+  "patterns": [
+    {
+      "form": "conceal A",
+      "meaning": "Aを隠す"
+    },
+    {
+      "form": "conceal A from B",
+      "meaning": "AをBに隠す"
+    },
+    {
+      "form": "conceal one's feelings",
+      "meaning": "感情を隠す"
+    },
+    {
+      "form": "concealed",
+      "meaning": "隠された"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "隠す",
+      "en": "He concealed the letter in a drawer.",
+      "ja": "彼はその手紙を引き出しの中に隠した。"
+    },
+    {
+      "source": "original",
+      "label": "conceal A from B",
+      "en": "She concealed the truth from her parents.",
+      "ja": "彼女は本当のことを両親に隠した。"
+    },
+    {
+      "source": "original",
+      "label": "感情を隠す",
+      "en": "He could not conceal his disappointment.",
+      "ja": "彼は失望を隠すことができなかった。"
+    },
+    {
+      "source": "original",
+      "label": "正体を隠す",
+      "en": "The thief wore a mask to conceal his face.",
+      "ja": "泥棒は顔を隠すためにマスクをしていた。"
+    },
+    {
+      "source": "original",
+      "label": "隠す",
+      "en": "The company tried to conceal the problem from the public.",
+      "ja": "その会社は問題を世間に隠そうとした。"
+    },
+    {
+      "source": "original",
+      "label": "concealed",
+      "en": "A concealed camera recorded the whole event.",
+      "ja": "隠しカメラがその出来事を全部記録していた。"
+    }
+  ],
+  "check_points": [
+    "conceal A from B の前置詞を言えるか",
+    "conceal の反対語を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "hide との言い換え、conceal A from B の from が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 462
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "bind",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/baɪnd/",
+  "core_image": {
+    "text": "ひもを回して、ぎゅっとしばる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"108\" y2=\"98\"/><line x1=\"60\" y1=\"74\" x2=\"108\" y2=\"112\"/><line x1=\"115\" y1=\"72\" x2=\"115\" y2=\"140\"/><line x1=\"130\" y1=\"72\" x2=\"130\" y2=\"140\"/><line x1=\"145\" y1=\"72\" x2=\"145\" y2=\"140\"/><ellipse cx=\"130\" cy=\"104\" rx=\"22\" ry=\"7\"/></g><text x=\"130\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しばる</text></svg>"
+  },
+  "etymology": "古英語 bindan(しばる。band、bond、bundle と同じ仲間) → ひもでしばる → (本を)とじる → (約束・義務で人を)しばる=拘束する → be bound to do=〜する運命にしばられている=きっと〜する・〜する義務がある",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to tie something tightly, to unite people, or to make someone legally or morally obliged to do something."
+    }
+  ],
+  "cautions": [
+    "活用は bind-bound-bound(bound は「縛られた」という形容詞にもなる)",
+    "be bound to do=きっと〜する(=be sure to do)/〜する義務がある",
+    "bind A to B=AをBに縛りつける、bind A together=Aを団結させる",
+    "形容詞 binding=拘束力のある(a binding contract)"
+  ],
+  "patterns": [
+    {
+      "form": "bind A",
+      "meaning": "Aをしばる"
+    },
+    {
+      "form": "bind A to B",
+      "meaning": "AをBに縛りつける"
+    },
+    {
+      "form": "bind A together",
+      "meaning": "Aを団結させる"
+    },
+    {
+      "form": "be bound to do",
+      "meaning": "きっと〜する"
+    },
+    {
+      "form": "binding",
+      "meaning": "拘束力のある"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "しばる",
+      "en": "She bound the old newspapers with string.",
+      "ja": "彼女は古新聞をひもでしばった。"
+    },
+    {
+      "source": "original",
+      "label": "縛りつける",
+      "en": "The thieves bound him to a chair.",
+      "ja": "泥棒たちは彼をいすに縛りつけた。"
+    },
+    {
+      "source": "original",
+      "label": "団結させる",
+      "en": "Shared experiences bind people together.",
+      "ja": "共通の経験は人々を結びつける。"
+    },
+    {
+      "source": "original",
+      "label": "拘束する",
+      "en": "We are bound by the rules of the contract.",
+      "ja": "私たちは契約の規則に拘束されている。"
+    },
+    {
+      "source": "original",
+      "label": "be bound to do",
+      "en": "If you keep practicing, you are bound to improve.",
+      "ja": "練習を続ければ、きっと上達する。"
+    },
+    {
+      "source": "original",
+      "label": "binding",
+      "en": "The agreement is legally binding.",
+      "ja": "その合意には法的拘束力がある。"
+    }
+  ],
+  "check_points": [
+    "bind の活用を言えるか",
+    "be bound to do の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "活用 bind-bound-bound と be bound to do が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 469
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "disclose",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪsˈkloʊz/",
+  "core_image": {
+    "text": "閉じたふたを開けて、中を見せる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"100\" y2=\"84\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"98\"/><rect x=\"120\" y=\"100\" width=\"60\" height=\"40\"/><line x1=\"120\" y1=\"100\" x2=\"136\" y2=\"66\"/><circle cx=\"156\" cy=\"116\" r=\"8\"/><line x1=\"166\" y1=\"96\" x2=\"166\" y2=\"62\"/><polyline points=\"162.2,69 166,62 169.8,69\"/></g><text x=\"204\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">明かす</text></svg>"
+  },
+  "etymology": "dis(反対に)+close(閉じる) → 閉じたものを開ける → (秘密・情報を)明らかにする・公表する。名詞 disclosure",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make known something that was secret or private."
+    }
+  ],
+  "cautions": [
+    "disclose A to B=AをBに明かす(to を使う)",
+    "disclose that 〜=〜ということを明らかにする",
+    "同意語:reveal、make public。反対語:conceal、hide",
+    "名詞 disclosure=公開・暴露(information disclosure=情報公開)"
+  ],
+  "patterns": [
+    {
+      "form": "disclose A",
+      "meaning": "Aを明らかにする"
+    },
+    {
+      "form": "disclose A to B",
+      "meaning": "AをBに明かす"
+    },
+    {
+      "form": "disclose that 〜",
+      "meaning": "〜と明らかにする"
+    },
+    {
+      "form": "refuse to disclose A",
+      "meaning": "Aを明かすのを拒む"
+    },
+    {
+      "form": "disclosure",
+      "meaning": "公開"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "明らかにする",
+      "en": "The police did not disclose the name of the suspect.",
+      "ja": "警察は容疑者の名前を明らかにしなかった。"
+    },
+    {
+      "source": "original",
+      "label": "disclose A to B",
+      "en": "He disclosed his secret to his best friend.",
+      "ja": "彼は親友に秘密を打ち明けた。"
+    },
+    {
+      "source": "original",
+      "label": "disclose that",
+      "en": "The report disclosed that many workers were unpaid.",
+      "ja": "報告書は多くの労働者が給料を払われていないことを明らかにした。"
+    },
+    {
+      "source": "original",
+      "label": "公表する",
+      "en": "The company disclosed its sales figures for the year.",
+      "ja": "その会社は年間の売上高を公表した。"
+    },
+    {
+      "source": "original",
+      "label": "refuse to disclose",
+      "en": "She refused to disclose where she had been.",
+      "ja": "彼女はどこにいたのか明かすのを拒んだ。"
+    },
+    {
+      "source": "original",
+      "label": "disclosure(名詞)",
+      "en": "The new law requires full disclosure of political donations.",
+      "ja": "新しい法律は政治献金の完全な公開を求めている。"
+    }
+  ],
+  "check_points": [
+    "disclose の語源(dis+close)を説明できるか",
+    "disclose の同意語・反対語を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "reveal との言い換えが長文・同意語問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 463
+    }
+  ]
+}

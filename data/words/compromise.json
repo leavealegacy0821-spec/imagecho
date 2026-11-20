@@ -1,0 +1,103 @@
+{
+  "word": "compromise",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈkɑːmprəmaɪz/",
+  "core_image": {
+    "text": "両側から少しずつ譲って、真ん中で手を打つ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"60\" y1=\"84\" x2=\"108\" y2=\"84\"/><polyline points=\"101,80.2 108,84 101,87.8\"/><line x1=\"180\" y1=\"84\" x2=\"132\" y2=\"84\"/><polyline points=\"139,87.8 132,84 139,80.2\"/><line x1=\"120\" y1=\"70\" x2=\"120\" y2=\"98\"/></g><text x=\"120\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">歩み寄る</text></svg>"
+  },
+  "etymology": "com(共に)+promise(約束) → 互いに約束しあう → 双方が譲り合う・妥協(する) → (妥協しすぎて)原則・安全・評判を損なう・危うくする",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an agreement in which both sides accept less than they wanted."
+    },
+    {
+      "pos": "動詞",
+      "text": "to reach an agreement by giving up part of what you want, or to damage or weaken something such as safety or principles."
+    }
+  ],
+  "cautions": [
+    "reach (come to) a compromise=妥協に達する、make a compromise=妥協する",
+    "compromise with A (on B)=Aと(Bについて)妥協する(自動詞なので with)",
+    "compromise A(他動詞)=Aを損なう・危うくする(compromise safety / health)。「妥協する」だけで覚えると読めない",
+    "形容詞 uncompromising=妥協しない・断固とした"
+  ],
+  "patterns": [
+    {
+      "form": "reach a compromise",
+      "meaning": "妥協に達する"
+    },
+    {
+      "form": "compromise with A",
+      "meaning": "Aと妥協する"
+    },
+    {
+      "form": "compromise on A",
+      "meaning": "Aについて譲る"
+    },
+    {
+      "form": "compromise A",
+      "meaning": "Aを損なう"
+    },
+    {
+      "form": "uncompromising",
+      "meaning": "妥協しない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "妥協(名詞)",
+      "en": "After long talks, the two sides reached a compromise.",
+      "ja": "長い話し合いの末、両者は妥協に達した。"
+    },
+    {
+      "source": "original",
+      "label": "妥協する",
+      "en": "We had to compromise with our neighbors about the noise.",
+      "ja": "私たちは騒音のことで近所の人と妥協しなければならなかった。"
+    },
+    {
+      "source": "original",
+      "label": "譲る",
+      "en": "I will not compromise on quality.",
+      "ja": "質については譲るつもりはない。"
+    },
+    {
+      "source": "original",
+      "label": "危うくする",
+      "en": "Using old software can compromise your security.",
+      "ja": "古いソフトを使うと安全が危うくなることがある。"
+    },
+    {
+      "source": "original",
+      "label": "損なう",
+      "en": "He refused to compromise his principles for money.",
+      "ja": "彼はお金のために自分の信念を曲げることを拒んだ。"
+    },
+    {
+      "source": "original",
+      "label": "uncompromising",
+      "en": "She is known for her uncompromising attitude.",
+      "ja": "彼女は妥協しない態度で知られている。"
+    }
+  ],
+  "check_points": [
+    "compromise の「妥協」以外の意味を言えるか",
+    "reach a compromise の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "compromise A(危うくする)が長文・下線部の意味で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 466
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "enforce",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈfɔːrs/",
+  "core_image": {
+    "text": "力をこめて、決まりを守らせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"80\" y2=\"60\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"98\"/><rect x=\"80\" y=\"40\" width=\"40\" height=\"30\"/><line x1=\"88\" y1=\"50\" x2=\"112\" y2=\"50\"/><line x1=\"88\" y1=\"60\" x2=\"112\" y2=\"60\"/><line x1=\"124\" y1=\"84\" x2=\"154\" y2=\"84\"/><polyline points=\"147,80.2 154,84 147,87.8\"/><circle cx=\"172\" cy=\"52\" r=\"10\"/><line x1=\"172\" y1=\"62\" x2=\"172\" y2=\"106\"/><line x1=\"172\" y1=\"106\" x2=\"162\" y2=\"140\"/><line x1=\"172\" y1=\"106\" x2=\"182\" y2=\"140\"/></g><text x=\"100\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">決まり</text><text x=\"128\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">守らせる</text></svg>"
+  },
+  "etymology": "en(〜の中に・〜にする)+force(力) → 力をこめる → (法律・規則を)施行する・守らせる → enforce A on B=AをBに押しつける。名詞 enforcement",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make sure that people obey a law or rule, or to make something happen by force."
+    }
+  ],
+  "cautions": [
+    "enforce the law / rules=法律・規則を施行する・取り締まる(「強化する」ではない)",
+    "reinforce=強化する とまぎらわしいので区別する",
+    "enforce A on B=AをBに押しつける・強いる",
+    "名詞 enforcement:law enforcement=法の執行(警察などの機関)"
+  ],
+  "patterns": [
+    {
+      "form": "enforce a law",
+      "meaning": "法律を施行する"
+    },
+    {
+      "form": "enforce the rules",
+      "meaning": "規則を守らせる"
+    },
+    {
+      "form": "enforce A on B",
+      "meaning": "AをBに押しつける"
+    },
+    {
+      "form": "law enforcement",
+      "meaning": "法の執行"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "施行する",
+      "en": "The government will enforce the new law next year.",
+      "ja": "政府は来年その新しい法律を施行する。"
+    },
+    {
+      "source": "original",
+      "label": "守らせる",
+      "en": "Teachers must enforce the school rules fairly.",
+      "ja": "先生は校則を公平に守らせなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "取り締まる",
+      "en": "The police are enforcing speed limits on this road.",
+      "ja": "警察はこの道路で速度制限を取り締まっている。"
+    },
+    {
+      "source": "original",
+      "label": "押しつける",
+      "en": "You cannot enforce your opinions on others.",
+      "ja": "自分の意見を他人に押しつけることはできない。"
+    },
+    {
+      "source": "original",
+      "label": "enforcement(名詞)",
+      "en": "Strict enforcement of the rules reduced accidents.",
+      "ja": "規則を厳しく守らせたことで事故が減った。"
+    },
+    {
+      "source": "original",
+      "label": "law enforcement",
+      "en": "Law enforcement officers arrived at the scene.",
+      "ja": "警察官たちが現場に到着した。"
+    }
+  ],
+  "check_points": [
+    "enforce と reinforce の違いを言えるか",
+    "enforce A on B の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "enforce a law(施行する)が長文の内容一致・同意語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 464
+    }
+  ]
+}

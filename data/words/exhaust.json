@@ -1,0 +1,103 @@
+{
+  "word": "exhaust",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɪɡˈzɔːst/",
+  "core_image": {
+    "text": "中身を、すっかり外へくみ出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"112\" y2=\"70\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"98\"/><polygon points=\"112,60 152,60 147,110 117,110\"/><line x1=\"156\" y1=\"70\" x2=\"204\" y2=\"110\"/><polyline points=\"201.1,102.6 204,110 196.2,108.5\"/></g><text x=\"200\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">出しきる</text></svg>"
+  },
+  "etymology": "ex(外へ)+haust(ラテン語 haurire=くみ出す) → すっかりくみ出す → (資源・お金を)使い果たす → (体力を出しきらせて)疲れ果てさせる → 名詞:外へ出るもの=排気(ガス)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone extremely tired, or to use something completely."
+    },
+    {
+      "pos": "名詞",
+      "text": "the waste gas from an engine, or the pipe it comes out of."
+    }
+  ],
+  "cautions": [
+    "be exhausted=(人が)疲れ果てている、exhausting=(物ごとが)ひどく疲れさせる(-ed と -ing の区別)",
+    "exhaust A=A(資源・お金・話題)を使い果たす(exhaust natural resources)",
+    "exhaustive=徹底的な・網羅的な(exhausted と取り違えない)",
+    "名詞 exhaustion=疲労困憊・枯渇、exhaust fumes=排気ガス"
+  ],
+  "patterns": [
+    {
+      "form": "be exhausted",
+      "meaning": "疲れ果てている"
+    },
+    {
+      "form": "exhausting",
+      "meaning": "ひどく疲れさせる"
+    },
+    {
+      "form": "exhaust A",
+      "meaning": "Aを使い果たす"
+    },
+    {
+      "form": "exhaustive",
+      "meaning": "徹底的な"
+    },
+    {
+      "form": "exhaust fumes",
+      "meaning": "排気ガス"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "疲れ果てる",
+      "en": "I was exhausted after the long walk.",
+      "ja": "長い散歩の後、私はくたくたに疲れていた。"
+    },
+    {
+      "source": "original",
+      "label": "exhausting",
+      "en": "Taking care of a baby is exhausting work.",
+      "ja": "赤ちゃんの世話はひどく疲れる仕事だ。"
+    },
+    {
+      "source": "original",
+      "label": "使い果たす",
+      "en": "We may exhaust the world's oil supply someday.",
+      "ja": "私たちはいつか世界の石油を使い果たすかもしれない。"
+    },
+    {
+      "source": "original",
+      "label": "使い果たす",
+      "en": "They had exhausted all their money by the end of the trip.",
+      "ja": "旅の終わりまでに彼らはお金を使い果たしていた。"
+    },
+    {
+      "source": "original",
+      "label": "exhaustive",
+      "en": "The scientist made an exhaustive study of the data.",
+      "ja": "その科学者はデータを徹底的に調べた。"
+    },
+    {
+      "source": "original",
+      "label": "排気ガス(名詞)",
+      "en": "Exhaust fumes from cars pollute the air.",
+      "ja": "車の排気ガスが空気を汚す。"
+    }
+  ],
+  "check_points": [
+    "exhausted と exhausting の使い分けを言えるか",
+    "exhaustive の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be exhausted(-ed / -ing の区別)と「使い果たす」が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 467
+    }
+  ]
+}

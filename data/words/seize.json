@@ -1,0 +1,98 @@
+{
+  "word": "seize",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/siːz/",
+  "core_image": {
+    "text": "さっと手を伸ばして、ぐいとつかむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"144\" y2=\"86\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"98\"/><line x1=\"170\" y1=\"74\" x2=\"144\" y2=\"86\"/><line x1=\"170\" y1=\"74\" x2=\"180\" y2=\"98\"/></g><text x=\"115\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぐいとつかむ</text></svg>"
+  },
+  "etymology": "古フランス語 saisir(つかむ・自分のものにする) → 力ずくでつかむ → (権力・財産を)奪う・押収する → (機会を)とらえる → (恐怖・病気が人を)襲う",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to take hold of something suddenly and firmly, to take control of something by force, or to take an opportunity quickly."
+    }
+  ],
+  "cautions": [
+    "seize A by the arm=Aの腕をつかむ(by the+体の部分。所有格 his ではなく the)",
+    "seize the opportunity / chance=機会をとらえる(=take advantage of)",
+    "be seized with A=A(恐怖・病気など)に襲われる",
+    "名詞 seizure=押収・(病気の)発作。つづり ei に注意"
+  ],
+  "patterns": [
+    {
+      "form": "seize A",
+      "meaning": "Aをつかむ"
+    },
+    {
+      "form": "seize A by the arm",
+      "meaning": "Aの腕をつかむ"
+    },
+    {
+      "form": "seize the opportunity",
+      "meaning": "機会をとらえる"
+    },
+    {
+      "form": "seize power",
+      "meaning": "権力を奪う"
+    },
+    {
+      "form": "be seized with A",
+      "meaning": "Aに襲われる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "つかむ",
+      "en": "He seized the rope and pulled hard.",
+      "ja": "彼はロープをつかんで強く引いた。"
+    },
+    {
+      "source": "original",
+      "label": "seize A by the arm",
+      "en": "The police officer seized the man by the arm.",
+      "ja": "警官はその男の腕をつかんだ。"
+    },
+    {
+      "source": "original",
+      "label": "機会をとらえる",
+      "en": "You should seize every chance to speak English.",
+      "ja": "英語を話す機会はすべてつかむべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "奪う",
+      "en": "The army seized power in the country.",
+      "ja": "軍がその国の権力を奪った。"
+    },
+    {
+      "source": "original",
+      "label": "押収する",
+      "en": "The police seized a large amount of drugs.",
+      "ja": "警察は大量の薬物を押収した。"
+    },
+    {
+      "source": "original",
+      "label": "be seized with",
+      "en": "She was seized with fear when she heard the noise.",
+      "ja": "その物音を聞いて彼女は恐怖に襲われた。"
+    }
+  ],
+  "check_points": [
+    "seize A by the arm の the の理由を言えるか",
+    "seize the opportunity の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "seize A by the arm(by the+体の部分)が語法・整序で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 470
+    }
+  ]
+}

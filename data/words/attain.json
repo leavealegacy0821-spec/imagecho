@@ -1,0 +1,94 @@
+{
+  "word": "attain",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈteɪn/",
+  "core_image": {
+    "text": "手を伸ばして、高いところに届く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"72\" y2=\"56\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"98\"/><polyline points=\"90,140 90,120 120,120 120,100 150,100 150,80 190,80 190,140\"/><line x1=\"180\" y1=\"80\" x2=\"180\" y2=\"44\"/><polygon points=\"180,44 202,50 180,56\"/><line x1=\"78\" y1=\"64\" x2=\"168\" y2=\"50\" stroke-dasharray=\"5 5\"/><polyline points=\"160.5,47.3 168,50 161.7,54.9\"/></g><text x=\"118\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">目標に届く</text></svg>"
+  },
+  "etymology": "at(ad=〜に)+tain(ラテン語 tangere=触れる。contact と同じ仲間) → 触れるところまで届く → (目標・地位を努力して)達成する・手に入れる → (年齢・高さ・状態に)達する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to succeed in achieving something after a lot of effort, or to reach a particular age, level, or condition."
+    }
+  ],
+  "cautions": [
+    "attain A(他動詞)=Aを達成する。to や at は要らない(× attain to the goal)",
+    "同意語:achieve、reach、accomplish(長文の言い換えで出る)",
+    "attain the age of A=A歳に達する。年齢・高さ・速さにも使う",
+    "名詞 attainment=達成、形容詞 attainable=達成できる"
+  ],
+  "patterns": [
+    {
+      "form": "attain A",
+      "meaning": "Aを達成する"
+    },
+    {
+      "form": "attain one's goal",
+      "meaning": "目標を達成する"
+    },
+    {
+      "form": "attain the age of A",
+      "meaning": "A歳に達する"
+    },
+    {
+      "form": "attainable",
+      "meaning": "達成できる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "達成する",
+      "en": "She worked hard and finally attained her goal.",
+      "ja": "彼女は懸命に努力し、ついに目標を達成した。"
+    },
+    {
+      "source": "original",
+      "label": "手に入れる",
+      "en": "He attained the position of captain in his second year.",
+      "ja": "彼は2年生でキャプテンの地位を手に入れた。"
+    },
+    {
+      "source": "original",
+      "label": "達する",
+      "en": "Children who attain the age of 18 can vote.",
+      "ja": "18歳に達した人は投票できる。"
+    },
+    {
+      "source": "original",
+      "label": "達する",
+      "en": "The plane attained a height of 10,000 meters.",
+      "ja": "飛行機は高度1万メートルに達した。"
+    },
+    {
+      "source": "original",
+      "label": "attainable",
+      "en": "Set goals that are difficult but attainable.",
+      "ja": "難しいが達成できる目標を立てなさい。"
+    },
+    {
+      "source": "original",
+      "label": "attainment(名詞)",
+      "en": "Reading at home is linked to higher educational attainment.",
+      "ja": "家での読書はより高い学力の達成と結びついている。"
+    }
+  ],
+  "check_points": [
+    "attain の後に to が要らないことを言えるか",
+    "attain の同意語を2つ言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "achieve・reach との言い換え、他動詞であることが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 461
+    }
+  ]
+}
