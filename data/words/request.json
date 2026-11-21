@@ -1,0 +1,107 @@
+{
+  "word": "request",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/rɪˈkwest/",
+  "core_image": {
+    "text": "ていねいに、求めを相手に差し出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 90,80 104,80\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"98\"/><rect x=\"104\" y=\"70\" width=\"22\" height=\"28\"/><line x1=\"109\" y1=\"78\" x2=\"121\" y2=\"78\"/><line x1=\"109\" y1=\"86\" x2=\"121\" y2=\"86\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"168\" y2=\"98\"/><line x1=\"180\" y1=\"74\" x2=\"192\" y2=\"98\"/><line x1=\"132\" y1=\"56\" x2=\"162\" y2=\"56\"/><polyline points=\"155,52.2 162,56 155,59.8\"/></g><text x=\"120\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">お願いします</text></svg>"
+  },
+  "etymology": "re(強く・再び) + quest(求める。question、require と同じ根) → 強く求める → (正式に・ていねいに)頼む・要請する → 頼みごと・要望",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to ask for something politely or formally."
+    },
+    {
+      "pos": "名詞",
+      "text": "an act of politely or formally asking for something."
+    }
+  ],
+  "cautions": [
+    "request は他動詞。request A(Aを求める)で、request for A としない(名詞なら make a request for A)",
+    "request that S (should) 原形=〜するよう求める(insist、demand と同じ形)",
+    "request A to do=Aに〜するよう頼む、request A from / of B=BにAを求める",
+    "at the request of A / at A's request=Aの頼みで、on request=請求があれば"
+  ],
+  "patterns": [
+    {
+      "form": "request A",
+      "meaning": "Aを求める"
+    },
+    {
+      "form": "request A to do",
+      "meaning": "Aに〜するよう頼む"
+    },
+    {
+      "form": "request that S (should) 原形",
+      "meaning": "〜するよう求める"
+    },
+    {
+      "form": "make a request for A",
+      "meaning": "Aを求める"
+    },
+    {
+      "form": "at the request of A",
+      "meaning": "Aの頼みで"
+    },
+    {
+      "form": "on request",
+      "meaning": "請求があれば"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "request A",
+      "en": "The hotel guest requested a quiet room.",
+      "ja": "そのホテルの客は静かな部屋を求めた。"
+    },
+    {
+      "source": "original",
+      "label": "request A to do",
+      "en": "Passengers are requested to fasten their seat belts.",
+      "ja": "乗客はシートベルトをお締めください。"
+    },
+    {
+      "source": "original",
+      "label": "request that S 原形",
+      "en": "The teacher requested that every student submit the report by Monday.",
+      "ja": "先生は全員が月曜までにレポートを出すよう求めた。"
+    },
+    {
+      "source": "original",
+      "label": "request A from B",
+      "en": "We requested more information from the company.",
+      "ja": "私たちは会社にさらなる情報を求めた。"
+    },
+    {
+      "source": "original",
+      "label": "頼みごと(名詞)",
+      "en": "The city rejected our request for a new park.",
+      "ja": "市は新しい公園がほしいという私たちの要望を退けた。"
+    },
+    {
+      "source": "original",
+      "label": "at the request of",
+      "en": "He gave a speech at the request of his old friend.",
+      "ja": "彼は旧友の頼みでスピーチをした。"
+    }
+  ],
+  "check_points": [
+    "request for A が誤りになるのはなぜか言えるか",
+    "request that 節の中の動詞の形を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "request that S (should) 原形と、他動詞(request for としない)が語法問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 651
+    }
+  ]
+}

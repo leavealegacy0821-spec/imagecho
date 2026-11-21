@@ -1,0 +1,94 @@
+{
+  "word": "historic",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/hɪˈstɔːrɪk/",
+  "core_image": {
+    "text": "歴史に名を残すほど、重大な",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M40 140 Q120 60 200 140\"/><line x1=\"120\" y1=\"100\" x2=\"120\" y2=\"40\"/><polygon points=\"120,40 150,50 120,60\"/></g><text x=\"190\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">歴史に残る</text><text x=\"120\" y=\"128\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">大事件</text></svg>"
+  },
+  "etymology": "history(歴史) + ic(〜の性質の) → 歴史になる性質の → 歴史上重要な・歴史的な(出来事・場所)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "important in history; likely to be remembered as important in the future."
+    }
+  ],
+  "cautions": [
+    "historic=歴史に残るほど重要な、historical=歴史に関する・歴史上実在した。訳語「歴史的」で同じにしない",
+    "a historic event=歴史的な(重大な)出来事、a historic building=歴史的建造物",
+    "a historical novel=歴史小説(歴史を題材にした)と区別",
+    "名詞 history は「歴史・経歴」、historian=歴史家"
+  ],
+  "patterns": [
+    {
+      "form": "a historic event",
+      "meaning": "歴史的な出来事"
+    },
+    {
+      "form": "a historic moment",
+      "meaning": "歴史的瞬間"
+    },
+    {
+      "form": "a historic building",
+      "meaning": "歴史的建造物"
+    },
+    {
+      "form": "a historic site",
+      "meaning": "史跡"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "歴史的な出来事",
+      "en": "The first moon landing was a historic event.",
+      "ja": "初の月面着陸は歴史的な出来事だった。"
+    },
+    {
+      "source": "original",
+      "label": "歴史的瞬間",
+      "en": "This is a historic moment for our country.",
+      "ja": "これはわが国にとって歴史的な瞬間だ。"
+    },
+    {
+      "source": "original",
+      "label": "歴史的建造物",
+      "en": "Kyoto has many historic temples and shrines.",
+      "ja": "京都には歴史ある寺や神社がたくさんある。"
+    },
+    {
+      "source": "original",
+      "label": "史跡",
+      "en": "The castle ruins are a famous historic site.",
+      "ja": "その城跡は有名な史跡だ。"
+    },
+    {
+      "source": "original",
+      "label": "重大な",
+      "en": "The two leaders signed a historic agreement.",
+      "ja": "2人の指導者は歴史的な合意に署名した。"
+    },
+    {
+      "source": "original",
+      "label": "historical との比較",
+      "en": "It was a historic day, and historical records describe it in detail.",
+      "ja": "それは歴史に残る日で、歴史の記録が詳しく伝えている。"
+    }
+  ],
+  "check_points": [
+    "historic と historical の違いを言えるか",
+    "a historic event はどんな出来事か言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "historic / historical の区別がまぎらわしい形容詞の問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 659
+    }
+  ]
+}

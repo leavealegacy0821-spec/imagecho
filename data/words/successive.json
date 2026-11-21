@@ -1,0 +1,98 @@
+{
+  "word": "successive",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/səkˈsesɪv/",
+  "core_image": {
+    "text": "切れ目なく、次々に後へ続いていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"20\" y=\"105\" width=\"35\" height=\"35\"/><rect x=\"75\" y=\"105\" width=\"35\" height=\"35\"/><rect x=\"130\" y=\"105\" width=\"35\" height=\"35\"/><rect x=\"185\" y=\"105\" width=\"35\" height=\"35\"/><line x1=\"58\" y1=\"96\" x2=\"72\" y2=\"96\"/><polyline points=\"65,92.2 72,96 65,99.8\"/><line x1=\"113\" y1=\"96\" x2=\"127\" y2=\"96\"/><polyline points=\"120,92.2 127,96 120,99.8\"/><line x1=\"168\" y1=\"96\" x2=\"182\" y2=\"96\"/><polyline points=\"175,92.2 182,96 175,99.8\"/></g><text x=\"120\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">次々に続く</text></svg>"
+  },
+  "etymology": "suc(sub=下に・後に) + cess(行く。succeed、process と同じ根) + ive → 後に続いて行く → 連続する・歴代の",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "following one after another without a break."
+    }
+  ],
+  "cautions": [
+    "successive=連続した、successful=成功した。succeed の2つの意味(続く・成功する)から別々にできた",
+    "for three successive years=3年連続で(consecutive とほぼ同じ)",
+    "名詞 succession=連続・継承(a succession of A=一連のA)、successor=後継者",
+    "successive governments=歴代の政府"
+  ],
+  "patterns": [
+    {
+      "form": "for 〜 successive years",
+      "meaning": "〜年連続で"
+    },
+    {
+      "form": "successive governments",
+      "meaning": "歴代の政府"
+    },
+    {
+      "form": "a succession of A",
+      "meaning": "一連のA"
+    },
+    {
+      "form": "successor",
+      "meaning": "後継者"
+    },
+    {
+      "form": "successful",
+      "meaning": "成功した"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "連続の",
+      "en": "Our team won the championship for three successive years.",
+      "ja": "私たちのチームは3年連続で優勝した。"
+    },
+    {
+      "source": "original",
+      "label": "続けざまの",
+      "en": "It rained on five successive days.",
+      "ja": "5日続けて雨が降った。"
+    },
+    {
+      "source": "original",
+      "label": "歴代の",
+      "en": "Successive governments have failed to solve the problem.",
+      "ja": "歴代の政府はその問題を解決できなかった。"
+    },
+    {
+      "source": "original",
+      "label": "succession(名詞)",
+      "en": "A succession of accidents happened on the road.",
+      "ja": "その道路で事故が相次いだ。"
+    },
+    {
+      "source": "original",
+      "label": "successor(名詞)",
+      "en": "The king chose his son as his successor.",
+      "ja": "王は息子を後継者に選んだ。"
+    },
+    {
+      "source": "original",
+      "label": "successful との比較",
+      "en": "After four successive failures, she was finally successful.",
+      "ja": "4回続けて失敗した後、彼女はついに成功した。"
+    }
+  ],
+  "check_points": [
+    "successive と successful の違いを言えるか",
+    "succeed のもう1つの意味(後を継ぐ・続く)を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "successive / successful の区別が語彙問題の定番。succeed の2つの意味と合わせて出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 658
+    }
+  ]
+}

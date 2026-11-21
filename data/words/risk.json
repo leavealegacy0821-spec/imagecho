@@ -1,0 +1,107 @@
+{
+  "word": "risk",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/rɪsk/",
+  "core_image": {
+    "text": "失うかもしれないと知りつつ、身をさらす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"150\" y2=\"140\"/><line x1=\"150\" y1=\"140\" x2=\"150\" y2=\"158\"/><circle cx=\"130\" cy=\"52\" r=\"10\"/><line x1=\"130\" y1=\"62\" x2=\"130\" y2=\"106\"/><line x1=\"130\" y1=\"106\" x2=\"120\" y2=\"140\"/><line x1=\"130\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"130\" y1=\"74\" x2=\"112\" y2=\"92\"/><line x1=\"130\" y1=\"74\" x2=\"152\" y2=\"62\"/><line x1=\"158\" y1=\"90\" x2=\"196\" y2=\"130\" stroke-dasharray=\"5 5\"/><polyline points=\"193.9,122.3 196,130 188.4,127.6\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">危険を承知で</text><text x=\"200\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">失うかも</text></svg>"
+  },
+  "etymology": "イタリア語 risco(危険)から → 悪いことが起こるかもしれない可能性 → 危険・おそれ → (失うかもしれないのに)あえてする・(命などを)危険にさらす",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the possibility that something bad will happen."
+    },
+    {
+      "pos": "動詞",
+      "text": "to put something valuable in danger; to do something although something bad may happen."
+    }
+  ],
+  "cautions": [
+    "risk doing=(悪い結果を)覚悟で〜する。risk to do としない(doing を取る動詞)",
+    "risk A=A(命・財産など)を危険にさらす(risk one's life)",
+    "at the risk of A / doing=〜の危険を冒して、at risk=危険にさらされて",
+    "danger は「危険な状態そのもの」、risk は「自分で選んで冒す危険・起こる可能性」"
+  ],
+  "patterns": [
+    {
+      "form": "risk doing",
+      "meaning": "〜する危険を冒す"
+    },
+    {
+      "form": "risk A",
+      "meaning": "Aを危険にさらす"
+    },
+    {
+      "form": "take / run a risk",
+      "meaning": "危険を冒す"
+    },
+    {
+      "form": "at the risk of A",
+      "meaning": "Aの危険を冒して"
+    },
+    {
+      "form": "at risk",
+      "meaning": "危険にさらされて"
+    },
+    {
+      "form": "the risk of A",
+      "meaning": "Aのおそれ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "risk doing",
+      "en": "If you go out now, you risk getting caught in the storm.",
+      "ja": "今出かけると嵐にあうおそれがある。"
+    },
+    {
+      "source": "original",
+      "label": "risk A",
+      "en": "The man risked his life to save the child.",
+      "ja": "その男性は命がけで子どもを救った。"
+    },
+    {
+      "source": "original",
+      "label": "take a risk",
+      "en": "You have to take risks to succeed in business.",
+      "ja": "商売で成功するには危険を冒さなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "at the risk of",
+      "en": "At the risk of sounding rude, I must say no.",
+      "ja": "失礼に聞こえるかもしれないが、お断りしなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "at risk",
+      "en": "Many animals are at risk because of climate change.",
+      "ja": "気候変動で多くの動物が危険にさらされている。"
+    },
+    {
+      "source": "original",
+      "label": "the risk of(名詞)",
+      "en": "Smoking increases the risk of heart disease.",
+      "ja": "喫煙は心臓病のおそれを高める。"
+    }
+  ],
+  "check_points": [
+    "risk の後ろが to do でなく doing になることを言えるか",
+    "at risk と at the risk of の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "risk doing(動名詞を取る動詞)と at the risk of / at risk が語法・熟語問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 653
+    }
+  ]
+}

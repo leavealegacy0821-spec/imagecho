@@ -1,0 +1,98 @@
+{
+  "word": "literate",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈlɪtərət/",
+  "core_image": {
+    "text": "文字を読み書きできる力を持っている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><polyline points=\"80,74 110,92 132,96\"/><line x1=\"80\" y1=\"74\" x2=\"70\" y2=\"98\"/><line x1=\"132\" y1=\"96\" x2=\"142\" y2=\"106\"/><rect x=\"138\" y=\"76\" width=\"64\" height=\"48\"/><line x1=\"148\" y1=\"90\" x2=\"192\" y2=\"90\"/><line x1=\"150\" y1=\"110\" x2=\"192\" y2=\"110\"/></g><text x=\"190\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">読み書き</text></svg>"
+  },
+  "etymology": "ラテン語 littera(文字) + ate(〜を持った) → 文字の力を持った → 読み書きできる → (ある分野について)知識・能力がある(computer literate)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "able to read and write; having knowledge of a particular subject."
+    }
+  ],
+  "cautions": [
+    "literate=読み書きできる。literal(文字どおりの)、literary(文学の)と区別",
+    "反対は illiterate=読み書きできない",
+    "名詞 literacy=読み書きの能力(literacy rate=識字率)。computer literacy=コンピュータを使いこなす力",
+    "「教養がある・(分野に)明るい」の意味もある(computer literate)"
+  ],
+  "patterns": [
+    {
+      "form": "be literate",
+      "meaning": "読み書きができる"
+    },
+    {
+      "form": "illiterate",
+      "meaning": "読み書きできない"
+    },
+    {
+      "form": "literacy",
+      "meaning": "読み書きの能力"
+    },
+    {
+      "form": "the literacy rate",
+      "meaning": "識字率"
+    },
+    {
+      "form": "computer literate",
+      "meaning": "コンピュータに強い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "読み書きできる",
+      "en": "Almost all adults in Japan are literate.",
+      "ja": "日本ではほぼすべての大人が読み書きできる。"
+    },
+    {
+      "source": "original",
+      "label": "illiterate(反対)",
+      "en": "Many children there are still illiterate.",
+      "ja": "そこではまだ多くの子どもが読み書きできない。"
+    },
+    {
+      "source": "original",
+      "label": "literacy(名詞)",
+      "en": "The country has greatly improved its literacy rate.",
+      "ja": "その国は識字率を大きく上げた。"
+    },
+    {
+      "source": "original",
+      "label": "分野に強い",
+      "en": "Workers today need to be computer literate.",
+      "ja": "今の働き手にはコンピュータを使いこなす力が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "〜リテラシー",
+      "en": "Media literacy helps us judge news on the internet.",
+      "ja": "メディア・リテラシーはネットのニュースを判断する助けになる。"
+    },
+    {
+      "source": "original",
+      "label": "literary との比較",
+      "en": "A literate person can read a book, but that does not make him a literary expert.",
+      "ja": "読み書きができても、文学の専門家になれるわけではない。"
+    }
+  ],
+  "check_points": [
+    "literate の反対語を言えるか",
+    "literacy の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "literal / literary / literate の区別と、名詞 literacy(識字・リテラシー)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 657
+    }
+  ]
+}

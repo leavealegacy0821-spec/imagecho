@@ -1,0 +1,107 @@
+{
+  "word": "promise",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈprɑːmɪs/",
+  "core_image": {
+    "text": "先のことを、前もって言葉で差し出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 100,86 116,86\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"98\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><polyline points=\"170,74 140,86 124,86\"/><line x1=\"170\" y1=\"74\" x2=\"180\" y2=\"98\"/><circle cx=\"120\" cy=\"86\" r=\"4\"/><line x1=\"60\" y1=\"26\" x2=\"180\" y2=\"26\" stroke-dasharray=\"5 5\"/><polyline points=\"173,22.2 180,26 173,29.8\"/></g><text x=\"120\" y=\"14\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">先へ</text><text x=\"120\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">約束</text></svg>"
+  },
+  "etymology": "pro(前へ) + mise(送る。mit と同じ根) → 前もって(言葉を)送り出す → 約束(する) → (前もって示す)見込み・〜しそうだ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to tell someone that you will certainly do something; to show signs that something will happen."
+    },
+    {
+      "pos": "名詞",
+      "text": "a statement that you will certainly do something; signs of future success."
+    }
+  ],
+  "cautions": [
+    "promise to do=〜すると約束する(to do を取る)",
+    "promise A B / promise A that 〜=AにBを・〜と約束する(二重目的語が取れる)",
+    "名詞で「見込み・有望さ」の意味がある(show promise=見込みがある)。形容詞 promising=有望な",
+    "keep a promise=約束を守る、break a promise=約束を破る"
+  ],
+  "patterns": [
+    {
+      "form": "promise to do",
+      "meaning": "〜すると約束する"
+    },
+    {
+      "form": "promise A B",
+      "meaning": "AにBを約束する"
+    },
+    {
+      "form": "promise A that 〜",
+      "meaning": "Aに〜と約束する"
+    },
+    {
+      "form": "keep / break a promise",
+      "meaning": "約束を守る・破る"
+    },
+    {
+      "form": "show promise",
+      "meaning": "見込みがある"
+    },
+    {
+      "form": "promising",
+      "meaning": "有望な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "promise to do",
+      "en": "He promised to call me when he arrived.",
+      "ja": "彼は着いたら電話すると約束した。"
+    },
+    {
+      "source": "original",
+      "label": "promise A that",
+      "en": "She promised her mother that she would come home early.",
+      "ja": "彼女は早く帰ると母に約束した。"
+    },
+    {
+      "source": "original",
+      "label": "promise A B",
+      "en": "The company promised us a bonus.",
+      "ja": "会社は私たちにボーナスを約束した。"
+    },
+    {
+      "source": "original",
+      "label": "keep a promise",
+      "en": "You should never make a promise you cannot keep.",
+      "ja": "守れない約束はするべきではない。"
+    },
+    {
+      "source": "original",
+      "label": "〜しそうだ",
+      "en": "The weather promises to be fine tomorrow.",
+      "ja": "明日は晴れそうだ。"
+    },
+    {
+      "source": "original",
+      "label": "見込み(名詞)",
+      "en": "The young pianist shows great promise.",
+      "ja": "その若いピアニストはとても有望だ。"
+    }
+  ],
+  "check_points": [
+    "名詞 promise の「約束」以外の意味を言えるか",
+    "promising の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "promise to do / promise A that の型と、名詞「見込み」・promising(有望な)が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 654
+    }
+  ]
+}

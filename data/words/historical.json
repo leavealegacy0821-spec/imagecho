@@ -1,0 +1,98 @@
+{
+  "word": "historical",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/hɪˈstɔːrɪkəl/",
+  "core_image": {
+    "text": "過去をふり返った、歴史の事実に関する",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"20\" y1=\"100\" x2=\"175\" y2=\"100\"/><line x1=\"40\" y1=\"94\" x2=\"40\" y2=\"106\"/><line x1=\"80\" y1=\"94\" x2=\"80\" y2=\"106\"/><line x1=\"120\" y1=\"94\" x2=\"120\" y2=\"106\"/><line x1=\"160\" y1=\"94\" x2=\"160\" y2=\"106\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"186\" y2=\"96\"/><line x1=\"200\" y1=\"74\" x2=\"212\" y2=\"96\"/><line x1=\"176\" y1=\"70\" x2=\"60\" y2=\"70\" stroke-dasharray=\"5 5\"/><polyline points=\"67,73.8 60,70 67,66.2\"/></g><text x=\"90\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">過去の事実</text></svg>"
+  },
+  "etymology": "history(歴史) + ical(〜に関する) → 歴史に関する → 歴史上の・歴史学の・史実にもとづく",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "connected with the past or the study of history; based on real events or people in the past."
+    }
+  ],
+  "cautions": [
+    "historical=歴史に関する・歴史上実在した。historic(歴史に残るほど重要な)と区別",
+    "a historical novel / drama=歴史小説・歴史劇(歴史を題材にした作品)",
+    "historical figures=歴史上の人物、historical facts=史実",
+    "副詞 historically=歴史的に見て"
+  ],
+  "patterns": [
+    {
+      "form": "a historical novel",
+      "meaning": "歴史小説"
+    },
+    {
+      "form": "historical figures",
+      "meaning": "歴史上の人物"
+    },
+    {
+      "form": "historical facts",
+      "meaning": "史実"
+    },
+    {
+      "form": "historical research",
+      "meaning": "歴史研究"
+    },
+    {
+      "form": "historically",
+      "meaning": "歴史的に見て"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "歴史を題材にした",
+      "en": "I like reading historical novels about samurai.",
+      "ja": "私は武士の歴史小説を読むのが好きだ。"
+    },
+    {
+      "source": "original",
+      "label": "歴史上の人物",
+      "en": "Oda Nobunaga is one of the most popular historical figures.",
+      "ja": "織田信長は最も人気のある歴史上の人物の一人だ。"
+    },
+    {
+      "source": "original",
+      "label": "史実",
+      "en": "The movie is not based on historical facts.",
+      "ja": "その映画は史実にもとづいていない。"
+    },
+    {
+      "source": "original",
+      "label": "歴史研究の",
+      "en": "The museum keeps many historical documents.",
+      "ja": "その博物館は多くの歴史資料を保管している。"
+    },
+    {
+      "source": "original",
+      "label": "historically(副詞)",
+      "en": "Historically, the town was a center of trade.",
+      "ja": "歴史的に見て、その町は交易の中心だった。"
+    },
+    {
+      "source": "original",
+      "label": "historic との比較",
+      "en": "Historians study historical events, but only some of them were truly historic.",
+      "ja": "歴史家は歴史上の出来事を研究するが、本当に歴史に残る重大事はその一部だ。"
+    }
+  ],
+  "check_points": [
+    "a historical novel と a historic event の「歴史的」の違いを言えるか",
+    "historical figures の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "historic / historical の区別が定番。歴史小説は historical novel。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 660
+    }
+  ]
+}

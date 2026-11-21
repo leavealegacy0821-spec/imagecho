@@ -1,0 +1,98 @@
+{
+  "word": "literary",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈlɪtəreri/",
+  "core_image": {
+    "text": "文字で作られた、文学の世界の",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon points=\"60,60 120,72 120,130 60,118\"/><polygon points=\"180,60 120,72 120,130 180,118\"/><line x1=\"70\" y1=\"76\" x2=\"110\" y2=\"84\"/><line x1=\"70\" y1=\"90\" x2=\"110\" y2=\"98\"/><line x1=\"70\" y1=\"104\" x2=\"110\" y2=\"112\"/><line x1=\"130\" y1=\"84\" x2=\"170\" y2=\"76\"/><line x1=\"130\" y1=\"98\" x2=\"170\" y2=\"90\"/><line x1=\"130\" y1=\"112\" x2=\"170\" y2=\"104\"/></g><text x=\"120\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">文学</text></svg>"
+  },
+  "etymology": "ラテン語 littera(文字) + ary(〜に関する) → 文字で書かれたものに関する → 文学の・文芸の → (話し言葉に対して)文語の・堅い書き言葉の",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "connected with literature; (of language) used in writing rather than in everyday speech."
+    }
+  ],
+  "cautions": [
+    "literary=文学の(a literary work=文学作品)。literal(文字どおりの)、literate(読み書きできる)と区別",
+    "「文語的な・堅い」の意味もある(a literary word=書き言葉で使う語)",
+    "名詞 literature=文学・(ある分野の)文献",
+    "literary criticism=文芸批評"
+  ],
+  "patterns": [
+    {
+      "form": "a literary work",
+      "meaning": "文学作品"
+    },
+    {
+      "form": "literary history",
+      "meaning": "文学史"
+    },
+    {
+      "form": "a literary prize",
+      "meaning": "文学賞"
+    },
+    {
+      "form": "literary language",
+      "meaning": "文語・書き言葉"
+    },
+    {
+      "form": "literature",
+      "meaning": "文学"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "文学の",
+      "en": "\"Kokoro\" is one of the greatest literary works in Japan.",
+      "ja": "『こころ』は日本の最も偉大な文学作品の一つだ。"
+    },
+    {
+      "source": "original",
+      "label": "文学賞",
+      "en": "She won a literary prize for her first novel.",
+      "ja": "彼女は最初の小説で文学賞を取った。"
+    },
+    {
+      "source": "original",
+      "label": "文学に関わる",
+      "en": "He has many friends in literary circles.",
+      "ja": "彼には文学界に多くの友人がいる。"
+    },
+    {
+      "source": "original",
+      "label": "文語的な",
+      "en": "\"Thus\" is a rather literary word.",
+      "ja": "thus はやや堅い書き言葉だ。"
+    },
+    {
+      "source": "original",
+      "label": "literature(名詞)",
+      "en": "I majored in English literature at college.",
+      "ja": "私は大学で英文学を専攻した。"
+    },
+    {
+      "source": "original",
+      "label": "literal との比較",
+      "en": "A literary translator does not always give a literal translation.",
+      "ja": "文学作品の翻訳者がいつも直訳するとは限らない。"
+    }
+  ],
+  "check_points": [
+    "literary と literal の違いを言えるか",
+    "a literary word とはどんな語か言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "literal / literary / literate の区別、名詞 literature との関係が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 656
+    }
+  ]
+}

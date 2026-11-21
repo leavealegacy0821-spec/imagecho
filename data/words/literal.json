@@ -1,0 +1,94 @@
+{
+  "word": "literal",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈlɪtərəl/",
+  "core_image": {
+    "text": "文字どおり、一字一句そのまま",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"50\" width=\"60\" height=\"70\"/><line x1=\"40\" y1=\"66\" x2=\"80\" y2=\"66\"/><line x1=\"40\" y1=\"82\" x2=\"80\" y2=\"82\"/><line x1=\"40\" y1=\"98\" x2=\"70\" y2=\"98\"/><rect x=\"150\" y=\"50\" width=\"60\" height=\"70\"/><line x1=\"160\" y1=\"66\" x2=\"200\" y2=\"66\"/><line x1=\"160\" y1=\"82\" x2=\"200\" y2=\"82\"/><line x1=\"160\" y1=\"98\" x2=\"190\" y2=\"98\"/><line x1=\"96\" y1=\"85\" x2=\"144\" y2=\"85\"/><polyline points=\"137,81.2 144,85 137,88.8\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そのまま</text><text x=\"60\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">原文</text><text x=\"180\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">訳</text></svg>"
+  },
+  "etymology": "ラテン語 littera(文字) + al(〜の) → 文字の → 文字どおりの・逐語的な → (想像を交えない)ありのままの",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "using the basic or usual meaning of a word; following the original words exactly."
+    }
+  ],
+  "cautions": [
+    "literal=文字どおりの、literary=文学の、literate=読み書きできる。3つの区別が定番",
+    "a literal translation=直訳(free translation=意訳)",
+    "副詞 literally=文字どおり。口語では強調の「本当に・まったく」にも使う",
+    "in the literal sense=文字どおりの意味で(⇔ figurative=比喩的な)"
+  ],
+  "patterns": [
+    {
+      "form": "a literal translation",
+      "meaning": "直訳"
+    },
+    {
+      "form": "the literal meaning",
+      "meaning": "文字どおりの意味"
+    },
+    {
+      "form": "in the literal sense",
+      "meaning": "文字どおりの意味で"
+    },
+    {
+      "form": "literally",
+      "meaning": "文字どおり・本当に"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "文字どおりの",
+      "en": "The literal meaning of \"breakfast\" is \"to break a fast.\"",
+      "ja": "breakfast の文字どおりの意味は「断食を破る」だ。"
+    },
+    {
+      "source": "original",
+      "label": "直訳",
+      "en": "A literal translation often sounds strange.",
+      "ja": "直訳はしばしば不自然に聞こえる。"
+    },
+    {
+      "source": "original",
+      "label": "比喩との対比",
+      "en": "He used the word in a figurative, not literal, sense.",
+      "ja": "彼はその語を文字どおりではなく比喩的な意味で使った。"
+    },
+    {
+      "source": "original",
+      "label": "literally(文字どおり)",
+      "en": "The town was literally destroyed by the flood.",
+      "ja": "町は洪水で文字どおり破壊された。"
+    },
+    {
+      "source": "original",
+      "label": "literally(本当に)",
+      "en": "I was literally shaking with fear.",
+      "ja": "私は本当に恐怖で震えていた。"
+    },
+    {
+      "source": "original",
+      "label": "literary との比較",
+      "en": "A literal reading of a poem may miss its literary beauty.",
+      "ja": "詩を文字どおりに読むと、その文学的な美しさを見落とすことがある。"
+    }
+  ],
+  "check_points": [
+    "literal / literary / literate の違いを言えるか",
+    "a literal translation の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "literal / literary / literate のまぎらわしい3語の区別が語彙問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 655
+    }
+  ]
+}
