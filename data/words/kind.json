@@ -1,0 +1,103 @@
+{
+  "word": "kind",
+  "pos": [
+    "名詞",
+    "形容詞"
+  ],
+  "ipa": "/kaɪnd/",
+  "core_image": {
+    "text": "同じ生まれの仲間と、仲間へのやさしさ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"20\" y=\"92\" width=\"40\" height=\"48\"/><circle cx=\"32\" cy=\"106\" r=\"6\"/><circle cx=\"48\" cy=\"106\" r=\"6\"/><circle cx=\"40\" cy=\"126\" r=\"6\"/><rect x=\"66\" y=\"92\" width=\"40\" height=\"48\"/><polygon points=\"78,112 72,100 84,100\"/><polygon points=\"94,112 88,100 100,100\"/><polygon points=\"86,132 80,120 92,120\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"150\" y2=\"70\"/><line x1=\"190\" y1=\"74\" x2=\"202\" y2=\"96\"/><path d=\"M128 70 C108 56 116 42 128 54 C140 42 148 56 128 70\"/></g><text x=\"63\" y=\"82\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">種類</text><text x=\"128\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">親切</text></svg>"
+  },
+  "etymology": "古い英語 cynd(生まれ・種族。kin=親族 と同じ根) → 同じ生まれのもの=種類(a kind of A) → 同じ仲間に向ける思いやり → 親切な・やさしい(形容詞)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a group of people or things that are the same in some way; a type."
+    },
+    {
+      "pos": "形容詞",
+      "text": "friendly, helpful and caring toward other people."
+    }
+  ],
+  "cautions": [
+    "a kind of A=Aの一種、all kinds of A=あらゆる種類のA、this kind of A=この種のA",
+    "It is kind of 人 to do=〜するとは(人)は親切だ(人の性質なので for でなく of)",
+    "kind of+形容詞=(口語)ちょっと・なんとなく(I'm kind of tired.)",
+    "be kind to 人=人に親切にする。名詞 kindness=親切、副詞 kindly=親切に"
+  ],
+  "patterns": [
+    {
+      "form": "a kind of A",
+      "meaning": "Aの一種"
+    },
+    {
+      "form": "all kinds of A",
+      "meaning": "あらゆる種類のA"
+    },
+    {
+      "form": "It is kind of 人 to do",
+      "meaning": "〜するとは人は親切だ"
+    },
+    {
+      "form": "be kind to 人",
+      "meaning": "人に親切だ"
+    },
+    {
+      "form": "kind of 形容詞",
+      "meaning": "ちょっと〜"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "一種",
+      "en": "A whale is a kind of mammal, not a fish.",
+      "ja": "クジラは魚ではなく哺乳類の一種だ。"
+    },
+    {
+      "source": "original",
+      "label": "あらゆる種類",
+      "en": "The store sells all kinds of vegetables.",
+      "ja": "その店ではあらゆる種類の野菜を売っている。"
+    },
+    {
+      "source": "original",
+      "label": "この種の",
+      "en": "I don't like this kind of music.",
+      "ja": "私はこういう種類の音楽は好きではない。"
+    },
+    {
+      "source": "original",
+      "label": "It is kind of",
+      "en": "It was very kind of you to help me.",
+      "ja": "手伝ってくれて本当にありがとう(あなたはとても親切だった)。"
+    },
+    {
+      "source": "original",
+      "label": "be kind to",
+      "en": "You should be kind to animals.",
+      "ja": "動物にはやさしくするべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "ちょっと",
+      "en": "The movie was kind of boring.",
+      "ja": "その映画はちょっと退屈だった。"
+    }
+  ],
+  "check_points": [
+    "It is kind of 人 to do でなぜ for でなく of なのか言えるか",
+    "名詞 kind の意味と a kind of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "名詞「種類」と形容詞「親切な」の両方が出る。It is kind of 人 to do の of が語法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 621
+    }
+  ]
+}

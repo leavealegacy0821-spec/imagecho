@@ -1,0 +1,107 @@
+{
+  "word": "trouble",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈtrʌbl/",
+  "core_image": {
+    "text": "心や物事をかき乱す、面倒ごと",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"56\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><path d=\"M140 64 C168 24 210 70 180 90 C150 110 128 70 164 60 C194 52 202 100 160 104\"/></g><text x=\"170\" y=\"128\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かき乱す</text></svg>"
+  },
+  "etymology": "ラテン語 turbidus(かき乱された。disturb と同じ根) → かき乱す=悩ませる・迷惑をかける(動詞) → 困りごと・面倒(名詞) → (体の調子の乱れ)病気・不調(heart trouble) → (かかる)手間・骨折り(take the trouble to do)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a problem or difficulty; effort; a health problem."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make someone worried; to cause someone inconvenience."
+    }
+  ],
+  "cautions": [
+    "have trouble (in) doing=〜するのに苦労する(× have trouble to do)。have trouble with A=Aに手こずる",
+    "take the trouble to do=わざわざ〜する(手間をかける)",
+    "be in trouble=困っている、get into trouble=困ったことになる、The trouble is (that) S V=困ったことに〜だ",
+    "動詞:I'm sorry to trouble you, but …=お手数ですが…。heart trouble=心臓病"
+  ],
+  "patterns": [
+    {
+      "form": "have trouble (in) doing",
+      "meaning": "〜するのに苦労する"
+    },
+    {
+      "form": "have trouble with A",
+      "meaning": "Aに手こずる"
+    },
+    {
+      "form": "take the trouble to do",
+      "meaning": "わざわざ〜する"
+    },
+    {
+      "form": "be in trouble",
+      "meaning": "困っている"
+    },
+    {
+      "form": "The trouble is (that) S V",
+      "meaning": "困ったことに〜だ"
+    },
+    {
+      "form": "I'm sorry to trouble you",
+      "meaning": "お手数ですが"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "have trouble doing",
+      "en": "I had trouble finding his house.",
+      "ja": "彼の家を見つけるのに苦労した。"
+    },
+    {
+      "source": "original",
+      "label": "take the trouble",
+      "en": "She took the trouble to show me the way to the station.",
+      "ja": "彼女はわざわざ駅までの道を案内してくれた。"
+    },
+    {
+      "source": "original",
+      "label": "be in trouble",
+      "en": "Call me if you are in trouble.",
+      "ja": "困ったときは電話してね。"
+    },
+    {
+      "source": "original",
+      "label": "The trouble is",
+      "en": "The trouble is that we don't have enough time.",
+      "ja": "困ったことに時間が足りない。"
+    },
+    {
+      "source": "original",
+      "label": "迷惑をかける",
+      "en": "I'm sorry to trouble you, but could you open the window?",
+      "ja": "お手数ですが、窓を開けていただけますか。"
+    },
+    {
+      "source": "original",
+      "label": "不調",
+      "en": "My father has back trouble.",
+      "ja": "父は腰を痛めている。"
+    }
+  ],
+  "check_points": [
+    "have trouble の後ろは doing か to do か言えるか",
+    "take the trouble to do の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "have trouble (in) doing の形が語法問題の定番。take the trouble to do も頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 629
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "room",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ruːm/",
+  "core_image": {
+    "text": "何かが入れるだけの、空いた広がり",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"90\" y2=\"100\"/><line x1=\"50\" y1=\"74\" x2=\"90\" y2=\"112\"/><rect x=\"92\" y=\"96\" width=\"44\" height=\"44\"/><rect x=\"142\" y=\"96\" width=\"62\" height=\"44\" stroke-dasharray=\"5 4\"/><line x1=\"150\" y1=\"118\" x2=\"194\" y2=\"118\"/><polyline points=\"187,114.2 194,118 187,121.8\"/></g><text x=\"173\" y=\"86\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">空き</text></svg>"
+  },
+  "etymology": "古い英語 rūm(空間・広がり) → 空いた広がり=場所・余地(数えない) → 壁で区切った広がり=部屋(数える) → (考えなどが入りこむ余地)可能性",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a part of a building with its own walls; space that can be used for something; the possibility for something to happen."
+    }
+  ],
+  "cautions": [
+    "「場所・余地」の意味では数えない名詞(a や -s を付けない):There is no room for A=Aの余地がない",
+    "make room for A=Aのために場所をあける・席をゆずる",
+    "room for improvement=改善の余地、room for doubt=疑いの余地",
+    "take up room=場所を取る。「部屋」の意味のときは a room / rooms と数える"
+  ],
+  "patterns": [
+    {
+      "form": "make room for A",
+      "meaning": "Aのために場所をあける"
+    },
+    {
+      "form": "There is no room for A",
+      "meaning": "Aの余地はない"
+    },
+    {
+      "form": "room for improvement",
+      "meaning": "改善の余地"
+    },
+    {
+      "form": "take up room",
+      "meaning": "場所を取る"
+    },
+    {
+      "form": "a single room",
+      "meaning": "1人部屋"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "部屋",
+      "en": "My room is on the second floor.",
+      "ja": "私の部屋は2階にある。"
+    },
+    {
+      "source": "original",
+      "label": "make room for",
+      "en": "Could you make room for this old man?",
+      "ja": "このお年寄りのために席をつめてくれませんか。"
+    },
+    {
+      "source": "original",
+      "label": "no room for",
+      "en": "There is no room for doubt about his honesty.",
+      "ja": "彼の正直さには疑いの余地がない。"
+    },
+    {
+      "source": "original",
+      "label": "改善の余地",
+      "en": "Your essay is good, but there is still room for improvement.",
+      "ja": "君の作文はよいが、まだ改善の余地がある。"
+    },
+    {
+      "source": "original",
+      "label": "場所を取る",
+      "en": "This sofa takes up too much room.",
+      "ja": "このソファーは場所を取りすぎる。"
+    },
+    {
+      "source": "original",
+      "label": "場所",
+      "en": "Is there room for one more person in the car?",
+      "ja": "車にもう1人乗れる場所はありますか。"
+    }
+  ],
+  "check_points": [
+    "「余地・場所」の room に a が付かない理由を言えるか",
+    "make room for A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「部屋」以外の「余地・場所(数えない)」の意味が長文・語法で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 622
+    }
+  ]
+}

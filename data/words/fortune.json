@@ -1,0 +1,98 @@
+{
+  "word": "fortune",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈfɔːrtʃən/",
+  "core_image": {
+    "text": "めぐってくる運と、運が運ぶ富",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"90\" r=\"30\"/><circle cx=\"70\" cy=\"90\" r=\"4\"/><line x1=\"70\" y1=\"60\" x2=\"70\" y2=\"120\"/><line x1=\"40\" y1=\"90\" x2=\"100\" y2=\"90\"/><line x1=\"49\" y1=\"69\" x2=\"91\" y2=\"111\"/><line x1=\"91\" y1=\"69\" x2=\"49\" y2=\"111\"/><line x1=\"106\" y1=\"100\" x2=\"142\" y2=\"114\"/><polyline points=\"136.8,107.9 142,114 134.1,115\"/><path d=\"M152 140 Q140 102 164 96 L176 96 Q200 102 188 140 Z\"/><line x1=\"162\" y1=\"92\" x2=\"178\" y2=\"92\"/></g><text x=\"70\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">運</text><text x=\"170\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">富</text></svg>"
+  },
+  "etymology": "ラテン語 fortuna(運。運命の女神) → めぐってくる運・運命(good fortune=幸運) → 運がもたらすもの=財産・大金(make a fortune) → fortunate(幸運な)・fortunately(幸いにも)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "chance or luck, especially in the way it affects people's lives; a very large amount of money."
+    }
+  ],
+  "cautions": [
+    "「運」と「財産・大金」の2つの意味がある:make a fortune=ひと財産つくる、cost a fortune=大金がかかる",
+    "tell 人's fortune=人の運勢を占う、a fortune-teller=占い師",
+    "形容詞 fortunate=幸運な:be fortunate enough to do=幸運にも〜する",
+    "反対語 misfortune=不運、unfortunately=不運にも・残念ながら"
+  ],
+  "patterns": [
+    {
+      "form": "good fortune",
+      "meaning": "幸運"
+    },
+    {
+      "form": "make a fortune",
+      "meaning": "ひと財産つくる"
+    },
+    {
+      "form": "cost a fortune",
+      "meaning": "大金がかかる"
+    },
+    {
+      "form": "tell 人's fortune",
+      "meaning": "人の運勢を占う"
+    },
+    {
+      "form": "be fortunate enough to do",
+      "meaning": "幸運にも〜する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "運",
+      "en": "I had the good fortune to meet a great teacher.",
+      "ja": "私は幸運にもすばらしい先生に出会えた。"
+    },
+    {
+      "source": "original",
+      "label": "make a fortune",
+      "en": "He made a fortune in the computer business.",
+      "ja": "彼はコンピューター事業でひと財産つくった。"
+    },
+    {
+      "source": "original",
+      "label": "cost a fortune",
+      "en": "Repairing this old house will cost a fortune.",
+      "ja": "この古い家を直すには大金がかかるだろう。"
+    },
+    {
+      "source": "original",
+      "label": "占う",
+      "en": "The woman offered to tell my fortune.",
+      "ja": "その女性は私の運勢を占ってあげようと言った。"
+    },
+    {
+      "source": "original",
+      "label": "fortunate",
+      "en": "We were fortunate enough to get tickets for the concert.",
+      "ja": "私たちは幸運にもそのコンサートの券を手に入れた。"
+    },
+    {
+      "source": "original",
+      "label": "unfortunately",
+      "en": "Unfortunately, it rained on the day of the festival.",
+      "ja": "あいにく祭りの日は雨だった。"
+    }
+  ],
+  "check_points": [
+    "fortune の「運」以外の意味を言えるか",
+    "make a fortune の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「財産・大金」の意味(make a fortune / cost a fortune)と fortunate / unfortunately が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 627
+    }
+  ]
+}

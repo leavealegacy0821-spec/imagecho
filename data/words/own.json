@@ -1,0 +1,103 @@
+{
+  "word": "own",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/oʊn/",
+  "core_image": {
+    "text": "ほかでもない、自分のものとして持つ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"118\" y2=\"100\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><rect x=\"120\" y=\"100\" width=\"56\" height=\"40\"/><polyline points=\"114,100 148,72 182,100\"/></g><text x=\"148\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">自分のもの</text></svg>"
+  },
+  "etymology": "古い英語 āgen(持っている。owe と同じ根) → 自分が持っている → 自分自身の(my own A) → 持っている・所有する(動詞) → owner(持ち主)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "belonging to a particular person and no one else."
+    },
+    {
+      "pos": "動詞",
+      "text": "to have something that legally belongs to you."
+    }
+  ],
+  "cautions": [
+    "形容詞 own は所有格の後ろに置く:my own room / a room of my own(× an own room)",
+    "on one's own=ひとりで・独力で(=by oneself)",
+    "of one's own doing=自分で〜した(a dress of her own making=彼女の手作りのドレス)",
+    "動詞 own=所有する(状態なので進行形にしない)。名詞 owner=持ち主、ownership=所有"
+  ],
+  "patterns": [
+    {
+      "form": "one's own A",
+      "meaning": "自分自身のA"
+    },
+    {
+      "form": "A of one's own",
+      "meaning": "自分自身のA"
+    },
+    {
+      "form": "on one's own",
+      "meaning": "ひとりで・独力で"
+    },
+    {
+      "form": "of one's own doing",
+      "meaning": "自分で〜した"
+    },
+    {
+      "form": "own A",
+      "meaning": "Aを所有している"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "自分自身の",
+      "en": "I want to have my own room.",
+      "ja": "自分だけの部屋がほしい。"
+    },
+    {
+      "source": "original",
+      "label": "A of one's own",
+      "en": "She has a car of her own.",
+      "ja": "彼女は自分の車を持っている。"
+    },
+    {
+      "source": "original",
+      "label": "on one's own",
+      "en": "He solved the problem on his own.",
+      "ja": "彼はその問題を独力で解いた。"
+    },
+    {
+      "source": "original",
+      "label": "ひとりで",
+      "en": "My grandfather lives on his own.",
+      "ja": "祖父はひとりで暮らしている。"
+    },
+    {
+      "source": "original",
+      "label": "所有する",
+      "en": "Who owns this land?",
+      "ja": "この土地はだれのものですか。"
+    },
+    {
+      "source": "original",
+      "label": "of one's own doing",
+      "en": "This is a cake of my own making.",
+      "ja": "これは私の手作りのケーキだ。"
+    }
+  ],
+  "check_points": [
+    "a car of my own の形を言えるか(× an own car)",
+    "on one's own の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "a 〜 of one's own の語順と on one's own「独力で」が語法・言いかえで狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 625
+    }
+  ]
+}

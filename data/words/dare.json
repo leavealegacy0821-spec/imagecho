@@ -1,0 +1,103 @@
+{
+  "word": "dare",
+  "pos": [
+    "動詞",
+    "助動詞"
+  ],
+  "ipa": "/der/",
+  "core_image": {
+    "text": "こわさを押しのけ、あえて踏み出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"76\" y2=\"58\"/><line x1=\"60\" y1=\"74\" x2=\"44\" y2=\"88\"/><polygon points=\"110,140 120,110 130,140 140,106 150,140 160,112 170,140\"/><path d=\"M78 60 Q140 0 196 104\"/><line x1=\"188\" y1=\"90\" x2=\"196\" y2=\"104\"/><polyline points=\"195.8,96 196,104 189.2,99.8\"/></g><text x=\"140\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あえて</text><text x=\"140\" y=\"98\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こわい</text></svg>"
+  },
+  "etymology": "古い英語 durran(思い切ってする) → 勇気を出して〜する=あえて〜する → (相手に)やれるものならやってみろと挑む(dare 人 to do) → How dare you …!=よくもまあ〜できるね(怒り)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be brave enough to do something; to challenge someone to do something dangerous."
+    },
+    {
+      "pos": "助動詞",
+      "text": "used, mainly in negatives and questions, to mean \"be brave enough to\"."
+    }
+  ],
+  "cautions": [
+    "動詞 dare (to) do=あえて〜する(to は省かれることもある)。否定は don't dare (to) do",
+    "助動詞 dare do は主に否定・疑問(He dare not go out.=彼はこわくて外に出られない)。後ろは原形",
+    "How dare you do!=よくもまあ〜できるね(相手を強く責める)",
+    "dare 人 to do=人に〜できるならやってみろと挑む。I dare say=たぶん〜だろう。形容詞 daring=大胆な"
+  ],
+  "patterns": [
+    {
+      "form": "dare (to) do",
+      "meaning": "あえて〜する"
+    },
+    {
+      "form": "don't dare (to) do",
+      "meaning": "こわくて〜できない"
+    },
+    {
+      "form": "dare not do",
+      "meaning": "(助動詞)こわくて〜できない"
+    },
+    {
+      "form": "How dare you do!",
+      "meaning": "よくもまあ〜できるね"
+    },
+    {
+      "form": "dare 人 to do",
+      "meaning": "人に〜してみろと挑む"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "dare to do",
+      "en": "Few people dared to speak against the king.",
+      "ja": "王に反対の意見を言う勇気のある人はほとんどいなかった。"
+    },
+    {
+      "source": "original",
+      "label": "don't dare",
+      "en": "I didn't dare to tell my mother the truth.",
+      "ja": "こわくて母に本当のことを言えなかった。"
+    },
+    {
+      "source": "original",
+      "label": "dare not",
+      "en": "He dare not climb the tall tree.",
+      "ja": "彼はこわくてその高い木に登れない。"
+    },
+    {
+      "source": "original",
+      "label": "How dare you",
+      "en": "How dare you read my diary!",
+      "ja": "よくも私の日記を読んだわね!"
+    },
+    {
+      "source": "original",
+      "label": "挑む",
+      "en": "My friends dared me to jump into the cold river.",
+      "ja": "友人たちは冷たい川に飛びこめるものならやってみろと私をけしかけた。"
+    },
+    {
+      "source": "original",
+      "label": "daring",
+      "en": "It was a daring plan.",
+      "ja": "それは大胆な計画だった。"
+    }
+  ],
+  "check_points": [
+    "助動詞 dare の後ろの形(原形)を言えるか",
+    "How dare you …! の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "助動詞 dare not do と動詞 dare (to) do の形、How dare you の意味が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 630
+    }
+  ]
+}

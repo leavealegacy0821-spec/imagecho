@@ -1,0 +1,103 @@
+{
+  "word": "spot",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/spɑːt/",
+  "core_image": {
+    "text": "ぽつんと目立つ、小さな一点",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"100\" y2=\"68\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><rect x=\"110\" y=\"30\" width=\"110\" height=\"80\"/><circle cx=\"140\" cy=\"58\" r=\"3\"/><circle cx=\"200\" cy=\"92\" r=\"3\"/><circle cx=\"170\" cy=\"70\" r=\"4\"/><circle cx=\"170\" cy=\"70\" r=\"11\"/></g><text x=\"165\" y=\"128\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">一点</text></svg>"
+  },
+  "etymology": "中英語 spot(小さなしみ・点) → 点・しみ・斑点 → (地図の上の一点)場所・地点 → (目が一点にとまる)見つける・見抜く(動詞) → on the spot=まさにその場所で=その場で・即座に",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a small round mark; a particular place."
+    },
+    {
+      "pos": "動詞",
+      "text": "to see or notice someone or something, especially when it is hard to do."
+    }
+  ],
+  "cautions": [
+    "動詞 spot=(探していた・見つけにくいものを)見つける(=notice / find)。入試の長文でよく出る",
+    "on the spot=その場で・即座に(現場で)",
+    "「場所」だけでなく「しみ・斑点」の意味もある(a spot on the shirt)",
+    "a blind spot=死角・盲点、spotless=しみ一つない"
+  ],
+  "patterns": [
+    {
+      "form": "on the spot",
+      "meaning": "その場で・即座に"
+    },
+    {
+      "form": "spot A",
+      "meaning": "Aを見つける"
+    },
+    {
+      "form": "spot A doing",
+      "meaning": "Aが〜しているのを見つける"
+    },
+    {
+      "form": "a tourist spot",
+      "meaning": "観光地"
+    },
+    {
+      "form": "a blind spot",
+      "meaning": "死角・盲点"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "しみ",
+      "en": "There is a spot of ink on your shirt.",
+      "ja": "君のシャツにインクのしみがある。"
+    },
+    {
+      "source": "original",
+      "label": "場所",
+      "en": "This beach is a popular spot for surfers.",
+      "ja": "この海岸はサーファーに人気の場所だ。"
+    },
+    {
+      "source": "original",
+      "label": "見つける",
+      "en": "I spotted my friend in the crowd.",
+      "ja": "人ごみの中で友人を見つけた。"
+    },
+    {
+      "source": "original",
+      "label": "spot A doing",
+      "en": "The guard spotted a man climbing over the wall.",
+      "ja": "警備員は男が塀を乗り越えているのを見つけた。"
+    },
+    {
+      "source": "original",
+      "label": "on the spot",
+      "en": "He was hired on the spot.",
+      "ja": "彼はその場で採用された。"
+    },
+    {
+      "source": "original",
+      "label": "盲点",
+      "en": "Everyone has a blind spot in their thinking.",
+      "ja": "だれにでも考え方の盲点がある。"
+    }
+  ],
+  "check_points": [
+    "動詞 spot の意味を言えるか",
+    "on the spot の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "動詞「見つける」と on the spot「その場で」が長文や言いかえで狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 623
+    }
+  ]
+}

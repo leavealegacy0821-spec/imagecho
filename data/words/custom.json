@@ -1,0 +1,94 @@
+{
+  "word": "custom",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈkʌstəm/",
+  "core_image": {
+    "text": "社会でくり返されて慣れたやり方",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"66\" y2=\"58\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"136\" y2=\"58\"/><line x1=\"120\" y1=\"74\" x2=\"110\" y2=\"96\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"206\" y2=\"58\"/><line x1=\"190\" y1=\"74\" x2=\"180\" y2=\"96\"/><line x1=\"64\" y1=\"100\" x2=\"102\" y2=\"100\" stroke-dasharray=\"5 5\"/><polyline points=\"95,96.2 102,100 95,103.8\"/><line x1=\"134\" y1=\"100\" x2=\"172\" y2=\"100\" stroke-dasharray=\"5 5\"/><polyline points=\"165,96.2 172,100 165,103.8\"/></g><text x=\"120\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くり返す慣わし</text></svg>"
+  },
+  "etymology": "ラテン語 consuetudo(慣れ親しむこと) → 古いフランス語 costume → 社会の慣わし=慣習・風習 → (個人の)習慣 → (慣例として取られる)税=customs(関税・税関) → (店に通い慣れた人)customer=客",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "something that people in a society usually do; (customs) the place where bags are checked when you enter a country, or the tax paid on goods."
+    }
+  ],
+  "cautions": [
+    "custom=社会・集団の慣習、habit=個人のくせ・習慣と区別する",
+    "customs(複数形)=税関・関税:go through customs=税関を通る",
+    "customer=(店の)客、guest=招待客・宿泊客、client=(弁護士などの)依頼人、passenger=乗客",
+    "It is the custom (for A) to do=(Aが)〜するのが慣わしだ。形容詞 customary=慣例の"
+  ],
+  "patterns": [
+    {
+      "form": "a local custom",
+      "meaning": "地元の慣習"
+    },
+    {
+      "form": "It is the custom to do",
+      "meaning": "〜するのが慣わしだ"
+    },
+    {
+      "form": "go through customs",
+      "meaning": "税関を通る"
+    },
+    {
+      "form": "customs duties",
+      "meaning": "関税"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "慣習",
+      "en": "Each country has its own customs.",
+      "ja": "それぞれの国に独自の慣習がある。"
+    },
+    {
+      "source": "original",
+      "label": "It is the custom",
+      "en": "In Japan, it is the custom to take off your shoes at home.",
+      "ja": "日本では家で靴を脱ぐのが慣わしだ。"
+    },
+    {
+      "source": "original",
+      "label": "風習",
+      "en": "The custom of giving gifts at New Year is still alive.",
+      "ja": "新年に贈り物をする風習は今も残っている。"
+    },
+    {
+      "source": "original",
+      "label": "税関",
+      "en": "It took an hour to go through customs at the airport.",
+      "ja": "空港で税関を通るのに1時間かかった。"
+    },
+    {
+      "source": "original",
+      "label": "customer",
+      "en": "The shop has many regular customers.",
+      "ja": "その店には常連客が多い。"
+    },
+    {
+      "source": "original",
+      "label": "habit との違い",
+      "en": "Biting your nails is a bad habit, not a custom.",
+      "ja": "つめをかむのは悪いくせであって、慣習ではない。"
+    }
+  ],
+  "check_points": [
+    "custom と habit の違いを言えるか",
+    "customs と customer の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "custom と habit の区別、customs「税関」、客を表す語(customer / guest / client)の使い分けが狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 626
+    }
+  ]
+}
