@@ -1,0 +1,112 @@
+{
+  "word": "need",
+  "pos": [
+    "動詞",
+    "名詞",
+    "助動詞"
+  ],
+  "ipa": "/niːd/",
+  "core_image": {
+    "text": "それがないと困るので、どうしても欲しい",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"104\" y2=\"64\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><line x1=\"112\" y1=\"66\" x2=\"150\" y2=\"74\" stroke-dasharray=\"5 5\"/><polyline points=\"143.9,68.8 150,74 142.3,76.3\"/><polygon points=\"160,58 192,58 188,100 164,100\"/></g><text x=\"176\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">欠かせない</text></svg>"
+  },
+  "etymology": "古い英語 nēod(必要・困った状態) → 欠けていて困る → 必要とする(need A / need to do) → (〜される)必要がある(need doing) → 必要・困窮(in need)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to require something because it is necessary."
+    },
+    {
+      "pos": "名詞",
+      "text": "a situation in which something is necessary; the state of not having enough money or food."
+    },
+    {
+      "pos": "助動詞",
+      "text": "used in negatives and questions to say that something is necessary."
+    }
+  ],
+  "cautions": [
+    "need doing=〜される必要がある(=need to be done)。主語は「される側」(The car needs washing.)",
+    "助動詞 need:You need not do=〜する必要はない(否定・疑問で)、need not have done=〜する必要はなかったのに(したけれど)",
+    "There is no need to do=〜する必要はない、a need for A=Aの必要",
+    "in need=困っている(A friend in need is a friend indeed.)"
+  ],
+  "patterns": [
+    {
+      "form": "need to do",
+      "meaning": "〜する必要がある"
+    },
+    {
+      "form": "need doing",
+      "meaning": "〜される必要がある"
+    },
+    {
+      "form": "need not do",
+      "meaning": "〜する必要はない"
+    },
+    {
+      "form": "need not have done",
+      "meaning": "〜する必要はなかったのに"
+    },
+    {
+      "form": "There is no need to do",
+      "meaning": "〜する必要はない"
+    },
+    {
+      "form": "in need",
+      "meaning": "困っている"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "必要とする",
+      "en": "Plants need water and sunlight.",
+      "ja": "植物には水と日光が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "need to do",
+      "en": "You need to finish this report by Friday.",
+      "ja": "君は金曜までにこの報告書を仕上げる必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "need doing",
+      "en": "My bike needs repairing.",
+      "ja": "私の自転車は修理する必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "need not have done",
+      "en": "You need not have brought an umbrella.",
+      "ja": "かさを持ってくる必要はなかったのに。"
+    },
+    {
+      "source": "original",
+      "label": "no need",
+      "en": "There is no need to hurry.",
+      "ja": "急ぐ必要はない。"
+    },
+    {
+      "source": "original",
+      "label": "in need",
+      "en": "We should help people in need.",
+      "ja": "困っている人を助けるべきだ。"
+    }
+  ],
+  "check_points": [
+    "need doing の意味と主語の特徴を言えるか",
+    "need not have done の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "need doing(=need to be done)、助動詞 need not have done が語法問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 615
+    }
+  ]
+}

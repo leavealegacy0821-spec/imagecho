@@ -1,0 +1,107 @@
+{
+  "word": "use",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/juːz/",
+  "core_image": {
+    "text": "目的のために、道具として手に取る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"98\" y2=\"66\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><line x1=\"98\" y1=\"66\" x2=\"126\" y2=\"66\"/><rect x=\"124\" y=\"56\" width=\"10\" height=\"20\"/><rect x=\"140\" y=\"104\" width=\"64\" height=\"36\"/><line x1=\"166\" y1=\"104\" x2=\"166\" y2=\"88\"/></g><text x=\"178\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">役立てる</text></svg>"
+  },
+  "etymology": "ラテン語 uti(使う) → 使う・利用する → 使い道・役に立つこと(of use=役に立つ) → (いつも使っていた)習慣 → used to do(以前はよく〜した) → (使って)慣れた be used to doing",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to do something with a tool, method, etc. for a purpose."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of using something; the purpose or value of something."
+    }
+  ],
+  "cautions": [
+    "used to do=以前はよく〜した・以前は〜だった(今はちがう)、be used to doing=〜に慣れている(to は前置詞)",
+    "be used to do=〜するために使われる(受け身+目的の to do)。3つを区別する",
+    "名詞:of use=役に立つ(=useful)、It is no use doing=〜してもむだだ、make use of A=Aを利用する",
+    "発音:動詞 /juːz/、名詞 /juːs/、used to は /juːst/"
+  ],
+  "patterns": [
+    {
+      "form": "used to do",
+      "meaning": "以前はよく〜した"
+    },
+    {
+      "form": "be used to doing",
+      "meaning": "〜に慣れている"
+    },
+    {
+      "form": "be used to do",
+      "meaning": "〜するために使われる"
+    },
+    {
+      "form": "make use of A",
+      "meaning": "Aを利用する"
+    },
+    {
+      "form": "It is no use doing",
+      "meaning": "〜してもむだだ"
+    },
+    {
+      "form": "of use",
+      "meaning": "役に立つ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "使う",
+      "en": "May I use your dictionary?",
+      "ja": "あなたの辞書を使ってもいいですか。"
+    },
+    {
+      "source": "original",
+      "label": "used to do",
+      "en": "I used to play tennis every weekend.",
+      "ja": "以前は毎週末テニスをしたものだ。"
+    },
+    {
+      "source": "original",
+      "label": "be used to doing",
+      "en": "She is used to getting up early.",
+      "ja": "彼女は早起きに慣れている。"
+    },
+    {
+      "source": "original",
+      "label": "be used to do",
+      "en": "This knife is used to cut bread.",
+      "ja": "このナイフはパンを切るのに使われる。"
+    },
+    {
+      "source": "original",
+      "label": "make use of",
+      "en": "You should make good use of your free time.",
+      "ja": "自由な時間をうまく利用するべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "no use doing",
+      "en": "It is no use crying over spilt milk.",
+      "ja": "こぼれたミルクを嘆いてもむだだ(覆水盆に返らず)。"
+    }
+  ],
+  "check_points": [
+    "used to do / be used to doing / be used to do の違いを言えるか",
+    "It is no use doing の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "used to do と be used to doing の区別は語法問題の定番。make use of、It is no use doing も頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 614
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "advance",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ədˈvæns/",
+  "core_image": {
+    "text": "一歩ずつ、前へ前へと出る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"94\"/><line x1=\"60\" y1=\"74\" x2=\"76\" y2=\"92\"/><polyline points=\"100,140 100,120 130,120 130,100 160,100 160,80 190,80 190,60 220,60\"/><line x1=\"110\" y1=\"38\" x2=\"206\" y2=\"38\"/><polyline points=\"199,34.2 206,38 199,41.8\"/></g><text x=\"60\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">前へ進む</text></svg>"
+  },
+  "etymology": "ラテン語 ab ante(前から) → 古いフランス語 avancer(前へ進める) → 前進する・進める → (技術・学問が)進歩する・進歩 → (時より前に)前もって(in advance) → (支払いを前に)前払い",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move forward; to develop or improve."
+    },
+    {
+      "pos": "名詞",
+      "text": "forward movement; progress or development; money paid before it is due."
+    }
+  ],
+  "cautions": [
+    "in advance=前もって(beforehand と同じ)、in advance of A=Aより前に・Aより進んで",
+    "名詞「進歩」:advances in medicine=医学の進歩(in を使う)",
+    "形容詞 advanced=進んだ・上級の(advanced technology / an advanced course)",
+    "名詞 advancement=昇進・進歩。advantage(有利)とまぎらわしいので注意"
+  ],
+  "patterns": [
+    {
+      "form": "advance",
+      "meaning": "前進する・進歩する"
+    },
+    {
+      "form": "in advance",
+      "meaning": "前もって"
+    },
+    {
+      "form": "in advance of A",
+      "meaning": "Aより前に"
+    },
+    {
+      "form": "advances in A",
+      "meaning": "Aの進歩"
+    },
+    {
+      "form": "advanced A",
+      "meaning": "進んだA・上級のA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "前進する",
+      "en": "The army advanced toward the city.",
+      "ja": "軍はその都市に向かって前進した。"
+    },
+    {
+      "source": "original",
+      "label": "進歩する",
+      "en": "Science has advanced rapidly in this century.",
+      "ja": "今世紀に科学は急速に進歩した。"
+    },
+    {
+      "source": "original",
+      "label": "in advance",
+      "en": "Please buy your tickets in advance.",
+      "ja": "チケットは前もって買っておいてください。"
+    },
+    {
+      "source": "original",
+      "label": "進歩",
+      "en": "There have been great advances in medicine.",
+      "ja": "医学には大きな進歩があった。"
+    },
+    {
+      "source": "original",
+      "label": "in advance of",
+      "en": "He arrived in advance of the others.",
+      "ja": "彼はほかの人たちより先に着いた。"
+    },
+    {
+      "source": "original",
+      "label": "advanced",
+      "en": "She is taking an advanced English course.",
+      "ja": "彼女は上級の英語講座を受けている。"
+    }
+  ],
+  "check_points": [
+    "in advance の意味を言えるか",
+    "「〜の進歩」で advance の後ろに来る前置詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "in advance(=beforehand)の言い換え、advances in A、advanced の意味が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 616
+    }
+  ]
+}

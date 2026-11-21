@@ -1,0 +1,103 @@
+{
+  "word": "hard",
+  "pos": [
+    "形容詞",
+    "副詞"
+  ],
+  "ipa": "/hɑːrd/",
+  "core_image": {
+    "text": "固くて、力を込めないと動かない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"102\" y2=\"80\"/><line x1=\"60\" y1=\"74\" x2=\"102\" y2=\"94\"/><polygon points=\"102,140 106,76 140,62 180,72 196,140\"/></g><text x=\"190\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">固い・きつい</text></svg>"
+  },
+  "etymology": "古い英語 heard(固い) → 固い → (固くて歯が立たない)難しい・つらい → (固いものに)力を込めて → 熱心に・激しく(work hard / rain hard)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "firm and difficult to bend or break; difficult to do or understand; causing trouble or pain."
+    },
+    {
+      "pos": "副詞",
+      "text": "with a lot of effort; with great force."
+    }
+  ],
+  "cautions": [
+    "hardly は「ほとんど〜ない」(× 熱心に)。work hard=熱心に働く / hardly work=ほとんど働かない",
+    "A is hard to do=Aは〜しにくい(He is hard to please.=It is hard to please him.)",
+    "have a hard time (in) doing=〜するのに苦労する",
+    "try hard / rain hard=懸命に・激しく(副詞の hard)、a hard worker=勤勉な人"
+  ],
+  "patterns": [
+    {
+      "form": "hard",
+      "meaning": "固い・難しい"
+    },
+    {
+      "form": "A is hard to do",
+      "meaning": "Aは〜しにくい"
+    },
+    {
+      "form": "have a hard time doing",
+      "meaning": "〜するのに苦労する"
+    },
+    {
+      "form": "work hard",
+      "meaning": "熱心に働く"
+    },
+    {
+      "form": "hardly",
+      "meaning": "ほとんど〜ない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "固い",
+      "en": "The ground was hard because of the frost.",
+      "ja": "霜のせいで地面が固かった。"
+    },
+    {
+      "source": "original",
+      "label": "難しい",
+      "en": "This question is too hard for me.",
+      "ja": "この問題は私には難しすぎる。"
+    },
+    {
+      "source": "original",
+      "label": "hard to do",
+      "en": "My grandfather is hard to please.",
+      "ja": "祖父は喜ばせるのが難しい人だ。"
+    },
+    {
+      "source": "original",
+      "label": "熱心に",
+      "en": "She studied hard to pass the exam.",
+      "ja": "彼女は試験に合格するために熱心に勉強した。"
+    },
+    {
+      "source": "original",
+      "label": "hard time",
+      "en": "I had a hard time finding the hotel.",
+      "ja": "そのホテルを見つけるのに苦労した。"
+    },
+    {
+      "source": "original",
+      "label": "hardly",
+      "en": "I could hardly believe my eyes.",
+      "ja": "私は自分の目がほとんど信じられなかった。"
+    }
+  ],
+  "check_points": [
+    "hard と hardly の意味の違いを言えるか",
+    "He is hard to please. を It を主語にして言いかえられるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "hard と hardly の区別、A is hard to do(難易形容詞の構文)が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 619
+    }
+  ]
+}

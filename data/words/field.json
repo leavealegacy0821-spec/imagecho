@@ -1,0 +1,103 @@
+{
+  "word": "field",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/fiːld/",
+  "core_image": {
+    "text": "線で区切られた、ひと続きの広い場",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"90\" width=\"180\" height=\"50\" stroke-dasharray=\"5 4\"/><line x1=\"50\" y1=\"104\" x2=\"190\" y2=\"104\"/><line x1=\"50\" y1=\"116\" x2=\"190\" y2=\"116\"/><line x1=\"50\" y1=\"128\" x2=\"190\" y2=\"128\"/><circle cx=\"200\" cy=\"36\" r=\"12\"/></g><text x=\"110\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">区切られた場</text></svg>"
+  },
+  "etymology": "古い英語 feld(開けた土地) → 野原・畑 → (区切られた広い場)競技場・〜場(oil field=油田) → (頭の中で区切られた場)分野・領域 → (研究室の外の)現場(field work=現地調査)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an area of land used for farming or sports; a subject or area of study or work."
+    },
+    {
+      "pos": "動詞",
+      "text": "to answer questions; (in sports) to catch or stop the ball."
+    }
+  ],
+  "cautions": [
+    "「畑・野原」だけでなく「分野・領域」の意味が入試で多い(in the field of A=Aの分野で)",
+    "a playing field=競技場、a magnetic field=磁場、a field of vision=視野",
+    "field work / field trip=現地調査・校外学習(教室の外の「現場」)",
+    "動詞 field questions=(質問を)さばく・受け答えする"
+  ],
+  "patterns": [
+    {
+      "form": "a rice field",
+      "meaning": "田んぼ"
+    },
+    {
+      "form": "in the field of A",
+      "meaning": "Aの分野で"
+    },
+    {
+      "form": "a playing field",
+      "meaning": "競技場"
+    },
+    {
+      "form": "field work",
+      "meaning": "現地調査"
+    },
+    {
+      "form": "a field trip",
+      "meaning": "校外学習・見学旅行"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "畑",
+      "en": "Farmers were working in the fields.",
+      "ja": "農家の人たちが畑で働いていた。"
+    },
+    {
+      "source": "original",
+      "label": "分野",
+      "en": "She is an expert in the field of genetics.",
+      "ja": "彼女は遺伝学の分野の専門家だ。"
+    },
+    {
+      "source": "original",
+      "label": "競技場",
+      "en": "The players ran onto the field.",
+      "ja": "選手たちが競技場にかけ出していった。"
+    },
+    {
+      "source": "original",
+      "label": "field trip",
+      "en": "Our class went on a field trip to a museum.",
+      "ja": "私たちのクラスは博物館に見学に行った。"
+    },
+    {
+      "source": "original",
+      "label": "field work",
+      "en": "The researchers did field work in Africa.",
+      "ja": "研究者たちはアフリカで現地調査をした。"
+    },
+    {
+      "source": "original",
+      "label": "質問をさばく",
+      "en": "The minister fielded questions from reporters.",
+      "ja": "大臣は記者からの質問に答えた。"
+    }
+  ],
+  "check_points": [
+    "field の「畑」以外の意味を言えるか",
+    "in the field of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文では「分野・領域」の意味で頻出。field work / field trip も出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 617
+    }
+  ]
+}

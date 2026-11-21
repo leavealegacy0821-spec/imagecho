@@ -1,0 +1,107 @@
+{
+  "word": "sure",
+  "pos": [
+    "形容詞",
+    "副詞"
+  ],
+  "ipa": "/ʃʊər/",
+  "core_image": {
+    "text": "ぐらつかず、しっかり確かだ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"104\" y2=\"68\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><polyline points=\"136,78 158,104 204,46\"/></g><text x=\"170\" y=\"128\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">確かだ</text></svg>"
+  },
+  "etymology": "ラテン語 securus(心配がない。secure と同じ) → 不安がない → 確信している(be sure of A) → (話し手から見て)きっと〜する(be sure to do) → 確実に(make sure / for sure) → (返事で)もちろん",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "having no doubt that something is true; certain to happen."
+    },
+    {
+      "pos": "副詞",
+      "text": "used to say yes; certainly."
+    }
+  ],
+  "cautions": [
+    "be sure of / about A=(主語が)Aを確信している、be sure to do=(話し手が見て)きっと〜する",
+    "He is sure of winning.=彼は勝つと確信している / He is sure to win.=彼はきっと勝つ(確信しているのは話し手)",
+    "Be sure to do.=必ず〜しなさい、make sure (that) S V=必ず〜するようにする・〜を確かめる",
+    "for sure=確かに、Sure.=もちろん。certain も同じ型をとる"
+  ],
+  "patterns": [
+    {
+      "form": "be sure of A",
+      "meaning": "Aを確信している"
+    },
+    {
+      "form": "be sure (that) S V",
+      "meaning": "〜だと確信している"
+    },
+    {
+      "form": "be sure to do",
+      "meaning": "きっと〜する"
+    },
+    {
+      "form": "Be sure to do",
+      "meaning": "必ず〜しなさい"
+    },
+    {
+      "form": "make sure (that) S V",
+      "meaning": "必ず〜するようにする"
+    },
+    {
+      "form": "for sure",
+      "meaning": "確かに"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "確信",
+      "en": "I'm sure of his success.",
+      "ja": "私は彼の成功を確信している。"
+    },
+    {
+      "source": "original",
+      "label": "sure that",
+      "en": "Are you sure that you locked the door?",
+      "ja": "本当にドアのかぎをかけたの?"
+    },
+    {
+      "source": "original",
+      "label": "sure to do",
+      "en": "It is sure to rain this afternoon.",
+      "ja": "午後はきっと雨が降る。"
+    },
+    {
+      "source": "original",
+      "label": "Be sure to",
+      "en": "Be sure to call me when you get home.",
+      "ja": "家に着いたら必ず電話してね。"
+    },
+    {
+      "source": "original",
+      "label": "make sure",
+      "en": "Make sure that all the windows are closed.",
+      "ja": "窓が全部閉まっているか確かめなさい。"
+    },
+    {
+      "source": "original",
+      "label": "for sure",
+      "en": "Nobody knows for sure what happened.",
+      "ja": "何が起きたのかはっきりわかる人はいない。"
+    }
+  ],
+  "check_points": [
+    "He is sure of winning と He is sure to win の違いを言えるか",
+    "make sure の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "be sure of doing と be sure to do の「だれが確信しているか」の違いが狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 613
+    }
+  ]
+}

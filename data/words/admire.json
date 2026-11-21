@@ -1,0 +1,98 @@
+{
+  "word": "admire",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ədˈmaɪər/",
+  "core_image": {
+    "text": "すばらしさに驚いて、見上げる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"72\" y2=\"96\"/><line x1=\"78\" y1=\"46\" x2=\"140\" y2=\"48\" stroke-dasharray=\"5 5\"/><polyline points=\"133.1,43.9 140,48 132.9,51.6\"/><polygon points=\"170,28 175.3,42.7 190.9,43.2 178.6,52.8 182.9,67.8 170,59 157.1,67.8 161.4,52.8 149.1,43.2 164.7,42.7\"/></g><text x=\"170\" y=\"96\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">感心する</text></svg>"
+  },
+  "etymology": "ad(〜に) + mire(ラテン語 mirari=驚く。miracle と同じ) → 驚いて見つめる → 感心する・尊敬する → (美しいものに)見とれる → (感心して)ほめる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to respect someone or something very much; to look at something and enjoy it because it is beautiful."
+    }
+  ],
+  "cautions": [
+    "admire A for B=AのBに感心する(B が理由。× admire A's B for)",
+    "「見とれる・眺めて楽しむ」の意味もある(admire the view)",
+    "名詞 admiration=称賛、形容詞 admirable=称賛に値する(人が感心するような)",
+    "respect=尊敬する(敬意)、admire=すばらしいと感心する"
+  ],
+  "patterns": [
+    {
+      "form": "admire A",
+      "meaning": "Aに感心する・Aを尊敬する"
+    },
+    {
+      "form": "admire A for B",
+      "meaning": "AのBに感心する"
+    },
+    {
+      "form": "admire the view",
+      "meaning": "景色に見とれる"
+    },
+    {
+      "form": "admiration for A",
+      "meaning": "Aへの称賛"
+    },
+    {
+      "form": "admirable",
+      "meaning": "見事な・称賛に値する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "感心する",
+      "en": "I really admire your courage.",
+      "ja": "あなたの勇気には本当に感心する。"
+    },
+    {
+      "source": "original",
+      "label": "admire A for B",
+      "en": "Everyone admired him for his honesty.",
+      "ja": "みんな彼の正直さに感心した。"
+    },
+    {
+      "source": "original",
+      "label": "見とれる",
+      "en": "We stopped to admire the view from the hill.",
+      "ja": "私たちは立ち止まって丘からの景色に見とれた。"
+    },
+    {
+      "source": "original",
+      "label": "尊敬する",
+      "en": "The scientist is admired all over the world.",
+      "ja": "その科学者は世界中で尊敬されている。"
+    },
+    {
+      "source": "original",
+      "label": "admiration",
+      "en": "She looked at the painting with admiration.",
+      "ja": "彼女は感嘆してその絵を見た。"
+    },
+    {
+      "source": "original",
+      "label": "admirable",
+      "en": "His efforts to help the poor are admirable.",
+      "ja": "貧しい人を助けようとする彼の努力は称賛に値する。"
+    }
+  ],
+  "check_points": [
+    "admire A for B の B に何が来るか言えるか",
+    "admirable の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "admire A for B の型、admiration / admirable の派生語が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 620
+    }
+  ]
+}
