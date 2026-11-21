@@ -1,0 +1,107 @@
+{
+  "word": "will",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/wɪl/",
+  "core_image": {
+    "text": "「こうするぞ」と心が向かう力",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 90,70\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"98\"/><line x1=\"100\" y1=\"70\" x2=\"200\" y2=\"70\"/><polyline points=\"193,66.2 200,70 193,73.8\"/><line x1=\"210\" y1=\"140\" x2=\"210\" y2=\"56\"/><polygon points=\"210,56 230,62 210,68\"/></g><text x=\"150\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こうするぞ</text></svg>"
+  },
+  "etymology": "古英語 willa(望み・意志) → こうしたいと向かう心 → 意志・決意 → (死後こうしてほしいという意志)遺言 → 助動詞 will=〜するつもりだ・〜だろう",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the mental power to decide and act; what someone wants; a legal document saying what should happen to a person's property after death."
+    },
+    {
+      "pos": "動詞",
+      "text": "to want or intend something to happen."
+    }
+  ],
+  "cautions": [
+    "名詞 will=意志(free will=自由意志)・遺言(make a will=遺言を書く)",
+    "against one's will=意に反して、at will=思いのままに、of one's own free will=自分の意志で",
+    "Where there's a will, there's a way.=意志あるところに道は開ける(定番のことわざ)",
+    "形容詞 willing=いとわない(be willing to do)。unwilling / reluctant と対で出る"
+  ],
+  "patterns": [
+    {
+      "form": "against one's will",
+      "meaning": "意に反して"
+    },
+    {
+      "form": "at will",
+      "meaning": "思いのままに"
+    },
+    {
+      "form": "of one's own free will",
+      "meaning": "自分の意志で"
+    },
+    {
+      "form": "make a will",
+      "meaning": "遺言を書く"
+    },
+    {
+      "form": "a strong will",
+      "meaning": "強い意志"
+    },
+    {
+      "form": "willpower",
+      "meaning": "意志の力"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "意志",
+      "en": "She has a strong will and never gives up.",
+      "ja": "彼女は意志が強く、決してあきらめない。"
+    },
+    {
+      "source": "original",
+      "label": "against one's will",
+      "en": "He was forced to sign the contract against his will.",
+      "ja": "彼は意に反して契約書に署名させられた。"
+    },
+    {
+      "source": "original",
+      "label": "at will",
+      "en": "In this game, players can change their characters at will.",
+      "ja": "このゲームでは好きなときにキャラクターを変えられる。"
+    },
+    {
+      "source": "original",
+      "label": "遺言",
+      "en": "My grandfather left all his books to me in his will.",
+      "ja": "祖父は遺言で蔵書をすべて私に残した。"
+    },
+    {
+      "source": "original",
+      "label": "ことわざ",
+      "en": "Where there's a will, there's a way.",
+      "ja": "意志あるところに道は開ける。"
+    },
+    {
+      "source": "original",
+      "label": "自分の意志で",
+      "en": "She joined the volunteer group of her own free will.",
+      "ja": "彼女は自分の意志でボランティアの会に入った。"
+    }
+  ],
+  "check_points": [
+    "名詞 will の「意志」以外の意味を言えるか",
+    "against one's will と at will の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "名詞 will の「遺言」の意味と、against one's will / at will / of one's own free will が熟語問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 664
+    }
+  ]
+}

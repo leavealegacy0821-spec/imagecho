@@ -1,0 +1,103 @@
+{
+  "word": "temper",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈtempər/",
+  "core_image": {
+    "text": "心の混ぜぐあい(ほどよい温度)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"98\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"98\"/><rect x=\"150\" y=\"30\" width=\"14\" height=\"90\"/><circle cx=\"157\" cy=\"128\" r=\"10\"/><line x1=\"164\" y1=\"50\" x2=\"172\" y2=\"50\"/><line x1=\"164\" y1=\"70\" x2=\"172\" y2=\"70\"/><line x1=\"164\" y1=\"90\" x2=\"172\" y2=\"90\"/></g><text x=\"110\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">心の温度</text></svg>"
+  },
+  "etymology": "ラテン語 temperare(ほどよく混ぜる。temperature、temperament と同じ根) → 心の成分の混ぜぐあい → 気質・気分 → (ほどよく保った)平静 / (かっとなった)かんしゃく → 動詞 和らげる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a person's mood; a tendency to become angry easily; calmness."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make something less strong or extreme."
+    }
+  ],
+  "cautions": [
+    "lose one's temper=かっとなる・腹を立てる、keep one's temper=平静を保つ。temper 自体は「平静」と「かんしゃく」の両方になる",
+    "have a (bad / short) temper=怒りっぽい、in a bad temper=機嫌が悪い",
+    "動詞 temper A with B=AをBで和らげる(temper justice with mercy)",
+    "temperament=気質・性分、temperate=(気候が)温暖な・節度のある"
+  ],
+  "patterns": [
+    {
+      "form": "lose one's temper",
+      "meaning": "かっとなる"
+    },
+    {
+      "form": "keep one's temper",
+      "meaning": "平静を保つ"
+    },
+    {
+      "form": "have a short temper",
+      "meaning": "怒りっぽい"
+    },
+    {
+      "form": "in a good / bad temper",
+      "meaning": "機嫌がよい・悪い"
+    },
+    {
+      "form": "temper A with B",
+      "meaning": "AをBで和らげる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "lose one's temper",
+      "en": "He lost his temper and shouted at his brother.",
+      "ja": "彼はかっとなって弟にどなった。"
+    },
+    {
+      "source": "original",
+      "label": "keep one's temper",
+      "en": "She kept her temper even when people laughed at her.",
+      "ja": "笑われても彼女は平静を保った。"
+    },
+    {
+      "source": "original",
+      "label": "怒りっぽさ",
+      "en": "My father has a short temper, but he is very kind.",
+      "ja": "父は怒りっぽいが、とてもやさしい。"
+    },
+    {
+      "source": "original",
+      "label": "機嫌",
+      "en": "The boss is in a bad temper this morning.",
+      "ja": "上司は今朝機嫌が悪い。"
+    },
+    {
+      "source": "original",
+      "label": "和らげる(動詞)",
+      "en": "The judge tempered justice with mercy.",
+      "ja": "裁判官は正義を情けで和らげた。"
+    },
+    {
+      "source": "original",
+      "label": "temperate",
+      "en": "Japan has a temperate climate with four seasons.",
+      "ja": "日本は四季のある温暖な気候だ。"
+    }
+  ],
+  "check_points": [
+    "lose one's temper と keep one's temper の意味を言えるか",
+    "temper が「平静」と「かんしゃく」の両方になる理由を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "lose / keep one's temper が熟語問題の定番。temperament・temperate との区別も出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 670
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "word": "well",
+  "pos": [
+    "副詞",
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/wel/",
+  "core_image": {
+    "text": "望みどおりに、十分に満ちている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"44\" y2=\"58\"/><line x1=\"60\" y1=\"74\" x2=\"76\" y2=\"58\"/><rect x=\"150\" y=\"80\" width=\"50\" height=\"60\"/><path d=\"M150 88 Q162 82 175 88 T200 88\"/></g><text x=\"175\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">十分に満ちて</text></svg>"
+  },
+  "etymology": "古英語 wel(望みどおりに。will と同じ根) → 申し分なく・上手に → 十分に・かなり → (体が申し分ない)健康な / (別の語)名詞 well=井戸・わき出る所",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "in a good or skillful way; thoroughly; to a great degree."
+    },
+    {
+      "pos": "形容詞",
+      "text": "healthy."
+    },
+    {
+      "pos": "名詞",
+      "text": "a deep hole in the ground from which water or oil is taken."
+    }
+  ],
+  "cautions": [
+    "形容詞 well=健康な は叙述用法が中心(I am well.)。「健康な人」は a healthy person とする",
+    "A as well as B=BだけでなくAも(強調は A の方。動詞は A に合わせる)",
+    "may well do=〜するのももっともだ・たぶん〜だろう、may as well do=〜した方がよい",
+    "well は「十分に・かなり」と程度も表す(well before=ずっと前に、be well aware of=よく知っている)"
+  ],
+  "patterns": [
+    {
+      "form": "A as well as B",
+      "meaning": "BだけでなくAも"
+    },
+    {
+      "form": "as well",
+      "meaning": "〜もまた"
+    },
+    {
+      "form": "may well do",
+      "meaning": "〜するのももっともだ"
+    },
+    {
+      "form": "may as well do",
+      "meaning": "〜した方がよい"
+    },
+    {
+      "form": "be well aware of A",
+      "meaning": "Aをよく知っている"
+    },
+    {
+      "form": "be well off",
+      "meaning": "裕福だ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "上手に",
+      "en": "She speaks English very well.",
+      "ja": "彼女はとても上手に英語を話す。"
+    },
+    {
+      "source": "original",
+      "label": "十分に・かなり",
+      "en": "We arrived well before the concert started.",
+      "ja": "私たちはコンサートが始まるずっと前に着いた。"
+    },
+    {
+      "source": "original",
+      "label": "健康な(形容詞)",
+      "en": "I had a cold last week, but I'm well now.",
+      "ja": "先週風邪をひいたが、今は元気だ。"
+    },
+    {
+      "source": "original",
+      "label": "A as well as B",
+      "en": "The singer as well as the dancers was praised.",
+      "ja": "ダンサーだけでなくその歌手もほめられた。"
+    },
+    {
+      "source": "original",
+      "label": "may well do",
+      "en": "You may well be surprised at the news.",
+      "ja": "その知らせに驚くのももっともだ。"
+    },
+    {
+      "source": "original",
+      "label": "井戸(名詞)",
+      "en": "The villagers dug a well to get clean water.",
+      "ja": "村人たちはきれいな水を得るため井戸を掘った。"
+    }
+  ],
+  "check_points": [
+    "A as well as B で動詞をどちらに合わせるか言えるか",
+    "may well do と may as well do の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "A as well as B の一致、may well / may as well、形容詞「健康な」の用法が文法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 663
+    }
+  ]
+}

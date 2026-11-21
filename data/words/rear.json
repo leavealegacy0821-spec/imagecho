@@ -1,0 +1,108 @@
+{
+  "word": "rear",
+  "pos": [
+    "動詞",
+    "名詞",
+    "形容詞"
+  ],
+  "ipa": "/rɪr/",
+  "core_image": {
+    "text": "小さいものを、上へと育て上げる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"140\" y2=\"98\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"98\"/><circle cx=\"150\" cy=\"100\" r=\"7\"/><line x1=\"150\" y1=\"107\" x2=\"150\" y2=\"125\"/><line x1=\"150\" y1=\"125\" x2=\"144\" y2=\"140\"/><line x1=\"150\" y1=\"125\" x2=\"156\" y2=\"140\"/><line x1=\"185\" y1=\"135\" x2=\"185\" y2=\"85\"/><polyline points=\"181.2,92 185,85 188.8,92\"/></g><text x=\"150\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">育てる</text></svg>"
+  },
+  "etymology": "古英語 rǣran(起こす・上げる。raise と同じく rise「上がる」から) → 持ち上げる → (子・動物を)育て上げる・飼育する / (別の語)名詞 rear=後ろ・後部",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to care for young children or animals until they are fully grown; to raise."
+    },
+    {
+      "pos": "名詞",
+      "text": "the back part of something."
+    },
+    {
+      "pos": "形容詞",
+      "text": "at the back."
+    }
+  ],
+  "cautions": [
+    "rear=育てる は bring up、raise と同じ意味(be reared by A=Aに育てられる)",
+    "名詞 rear=後ろ・後部は別の語(in the rear=後方に、⇔ front)。形容詞 rear=後ろの(a rear seat)",
+    "rear と raise:raise は「(物を)上げる」から「育てる」まで広い。rear は育てる・飼育する中心",
+    "rear one's head=(問題などが)頭をもたげる・現れる"
+  ],
+  "patterns": [
+    {
+      "form": "rear A",
+      "meaning": "Aを育てる・飼育する"
+    },
+    {
+      "form": "be reared by A",
+      "meaning": "Aに育てられる"
+    },
+    {
+      "form": "in the rear",
+      "meaning": "後方に"
+    },
+    {
+      "form": "the rear of A",
+      "meaning": "Aの後部"
+    },
+    {
+      "form": "a rear seat",
+      "meaning": "後部座席"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "育てる",
+      "en": "She reared three children by herself.",
+      "ja": "彼女は3人の子どもを女手一つで育てた。"
+    },
+    {
+      "source": "original",
+      "label": "be reared by",
+      "en": "He was reared by his grandparents in the countryside.",
+      "ja": "彼はいなかで祖父母に育てられた。"
+    },
+    {
+      "source": "original",
+      "label": "飼育する",
+      "en": "The farm rears sheep and cattle.",
+      "ja": "その農場は羊と牛を飼っている。"
+    },
+    {
+      "source": "original",
+      "label": "後部(名詞)",
+      "en": "The kitchen is at the rear of the house.",
+      "ja": "台所は家の奥にある。"
+    },
+    {
+      "source": "original",
+      "label": "後ろの(形容詞)",
+      "en": "Children should sit in the rear seat of a car.",
+      "ja": "子どもは車の後部座席に座るべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "頭をもたげる",
+      "en": "The same problem has reared its head again.",
+      "ja": "同じ問題がまたもや持ち上がった。"
+    }
+  ],
+  "check_points": [
+    "rear を言いかえる熟語(bring up)を言えるか",
+    "名詞 rear の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "rear=bring up=raise の言いかえと、名詞「後部」の意味が語彙問題で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 667
+    }
+  ]
+}

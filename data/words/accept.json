@@ -1,0 +1,98 @@
+{
+  "word": "accept",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əkˈsept/",
+  "core_image": {
+    "text": "差し出されたものを、すすんで受け入れる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"70\" width=\"24\" height=\"20\"/><line x1=\"70\" y1=\"80\" x2=\"100\" y2=\"80\"/><polyline points=\"93,76.2 100,80 93,83.8\"/><circle cx=\"130\" cy=\"52\" r=\"10\"/><line x1=\"130\" y1=\"62\" x2=\"130\" y2=\"106\"/><line x1=\"130\" y1=\"106\" x2=\"120\" y2=\"140\"/><line x1=\"130\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"130\" y1=\"74\" x2=\"108\" y2=\"80\"/><line x1=\"130\" y1=\"74\" x2=\"110\" y2=\"90\"/></g><text x=\"130\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すすんで受け取る</text></svg>"
+  },
+  "etymology": "ac(〜の方へ) + cept(取る。receive、except と同じ cap の根) → 自分の方へ取る → (贈り物・申し出を)受け取る → (事実・考えを)受け入れる・認める",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to agree to take something that is offered; to agree that something is true or right; to tolerate something difficult."
+    }
+  ],
+  "cautions": [
+    "receive=(物理的に)受け取る、accept=(同意して)受け入れる。贈り物を receive しても accept しない(断る)ことがある",
+    "accept that 〜=〜ということを認める・受け入れる",
+    "accept A as B=AをBとして認める・受け入れる",
+    "名詞 acceptance、形容詞 acceptable=受け入れられる、accepted=一般に認められた"
+  ],
+  "patterns": [
+    {
+      "form": "accept A",
+      "meaning": "Aを受け入れる"
+    },
+    {
+      "form": "accept that 〜",
+      "meaning": "〜ということを認める"
+    },
+    {
+      "form": "accept A as B",
+      "meaning": "AをBとして受け入れる"
+    },
+    {
+      "form": "accept responsibility for A",
+      "meaning": "Aの責任を認める"
+    },
+    {
+      "form": "generally accepted",
+      "meaning": "一般に認められた"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "受け取る",
+      "en": "She accepted the gift with a smile.",
+      "ja": "彼女はほほえんで贈り物を受け取った。"
+    },
+    {
+      "source": "original",
+      "label": "(申し出を)受け入れる",
+      "en": "He accepted the job offer from a company in Osaka.",
+      "ja": "彼は大阪の会社からの仕事の申し出を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "accept that",
+      "en": "You have to accept that some things cannot be changed.",
+      "ja": "変えられないこともあると受け入れなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "accept A as B",
+      "en": "The local people accepted him as a member of their community.",
+      "ja": "地元の人々は彼を地域の一員として受け入れた。"
+    },
+    {
+      "source": "original",
+      "label": "責任を認める",
+      "en": "The company refused to accept responsibility for the accident.",
+      "ja": "会社は事故の責任を認めるのを拒んだ。"
+    },
+    {
+      "source": "original",
+      "label": "receive との違い",
+      "en": "I received an invitation, but I could not accept it.",
+      "ja": "招待状は受け取ったが、それに応じることはできなかった。"
+    }
+  ],
+  "check_points": [
+    "receive と accept の違いを言えるか",
+    "accept A as B の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "receive との違い、accept that 〜 / accept A as B、acceptable が語彙・内容一致で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 665
+    }
+  ]
+}

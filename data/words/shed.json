@@ -1,0 +1,103 @@
+{
+  "word": "shed",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ʃed/",
+  "core_image": {
+    "text": "まとっていたものを、はらりと落とす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"120\" y1=\"140\" x2=\"120\" y2=\"70\"/><line x1=\"120\" y1=\"92\" x2=\"95\" y2=\"66\"/><line x1=\"120\" y1=\"86\" x2=\"145\" y2=\"60\"/><ellipse cx=\"85\" cy=\"105\" rx=\"6\" ry=\"3\"/><ellipse cx=\"158\" cy=\"98\" rx=\"6\" ry=\"3\"/><ellipse cx=\"172\" cy=\"126\" rx=\"6\" ry=\"3\"/><line x1=\"150\" y1=\"66\" x2=\"158\" y2=\"88\" stroke-dasharray=\"5 5\"/><polyline points=\"159.2,80.1 158,88 152,82.7\"/></g><text x=\"195\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">落とす</text></svg>"
+  },
+  "etymology": "古英語 sceadan(分ける) → 自分から分け離す → (葉・皮・毛を)落とす → (涙・血を)流す → (光を)放つ → (不要なものを)捨てる・減らす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to let something fall off naturally; to get rid of something; to send out light; to let tears or blood flow."
+    },
+    {
+      "pos": "名詞",
+      "text": "a small simple building used for storing things."
+    }
+  ],
+  "cautions": [
+    "活用は shed-shed-shed(形が変わらない)。進行形は shedding",
+    "shed light on A=Aを解明する・Aに光を当てる(throw light on A と同じ。入試の定番)",
+    "shed tears=涙を流す、shed blood=血を流す(殺す・死傷者を出す)",
+    "shed weight / jobs=体重を落とす・人員を減らす。名詞 shed=物置小屋は別の語"
+  ],
+  "patterns": [
+    {
+      "form": "shed light on A",
+      "meaning": "Aを解明する"
+    },
+    {
+      "form": "shed tears",
+      "meaning": "涙を流す"
+    },
+    {
+      "form": "shed leaves / skin",
+      "meaning": "葉・皮を落とす"
+    },
+    {
+      "form": "shed blood",
+      "meaning": "血を流す"
+    },
+    {
+      "form": "shed weight",
+      "meaning": "体重を落とす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "shed light on",
+      "en": "The new study sheds light on how dinosaurs lived.",
+      "ja": "その新しい研究は恐竜の暮らしぶりを明らかにしている。"
+    },
+    {
+      "source": "original",
+      "label": "葉を落とす",
+      "en": "Many trees shed their leaves in autumn.",
+      "ja": "多くの木は秋に葉を落とす。"
+    },
+    {
+      "source": "original",
+      "label": "皮を落とす",
+      "en": "Snakes shed their skin several times a year.",
+      "ja": "ヘビは年に何度か脱皮する。"
+    },
+    {
+      "source": "original",
+      "label": "涙を流す",
+      "en": "She shed tears of joy when she heard the result.",
+      "ja": "結果を聞いて彼女はうれし涙を流した。"
+    },
+    {
+      "source": "original",
+      "label": "捨てる・減らす",
+      "en": "The company had to shed 500 jobs last year.",
+      "ja": "その会社は昨年500人の人員を減らさなければならなかった。"
+    },
+    {
+      "source": "original",
+      "label": "(光を)放つ",
+      "en": "The lamp shed a soft light over the room.",
+      "ja": "ランプが部屋にやわらかな光を投げかけていた。"
+    }
+  ],
+  "check_points": [
+    "shed light on A の意味を言えるか",
+    "shed の過去形・過去分詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "shed light on A(解明する)が長文・熟語問題の定番。shed-shed-shed の活用も確認。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 666
+    }
+  ]
+}

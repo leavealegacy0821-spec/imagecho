@@ -1,0 +1,103 @@
+{
+  "word": "game",
+  "pos": [
+    "名詞",
+    "形容詞"
+  ],
+  "ipa": "/ɡeɪm/",
+  "core_image": {
+    "text": "ルールのある楽しみ(狩りも含む)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"44\" y2=\"94\"/><line x1=\"60\" y1=\"74\" x2=\"76\" y2=\"94\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"164\" y2=\"94\"/><line x1=\"180\" y1=\"74\" x2=\"196\" y2=\"94\"/><circle cx=\"120\" cy=\"130\" r=\"10\"/><line x1=\"74\" y1=\"116\" x2=\"106\" y2=\"126\" stroke-dasharray=\"5 5\"/><polyline points=\"100.4,120.2 106,126 98.2,127.6\"/></g><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ルールある楽しみ</text></svg>"
+  },
+  "etymology": "古英語 gamen(遊び・楽しみ) → 遊び・ゲーム → (ルールに従う)試合・競技 → (昔の貴族の楽しみだった狩りの)獲物 → (楽しみに乗る)乗り気の",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an activity or sport with rules that people play for fun; wild animals hunted for sport or food."
+    },
+    {
+      "pos": "形容詞",
+      "text": "willing to do something new or difficult."
+    }
+  ],
+  "cautions": [
+    "game=「1回の試合」(a game of tennis)。the Olympic Games のように複数形で「競技大会」",
+    "game は不可算で「(狩りの)獲物・猟の鳥獣」の意味がある(big game=大型の獲物)",
+    "形容詞 be game for A / be game to do=Aに・〜するのに乗り気だ(口語)",
+    "the name of the game=いちばん大事なこと、play the game=ルールを守る・正々堂々とふるまう"
+  ],
+  "patterns": [
+    {
+      "form": "a game of A",
+      "meaning": "Aの試合・ゲーム1回"
+    },
+    {
+      "form": "win / lose a game",
+      "meaning": "試合に勝つ・負ける"
+    },
+    {
+      "form": "the Olympic Games",
+      "meaning": "オリンピック大会"
+    },
+    {
+      "form": "big game",
+      "meaning": "大型の獲物"
+    },
+    {
+      "form": "be game for A",
+      "meaning": "Aに乗り気だ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "試合",
+      "en": "Our team won the game by three points.",
+      "ja": "私たちのチームは3点差で試合に勝った。"
+    },
+    {
+      "source": "original",
+      "label": "遊び・ゲーム",
+      "en": "The children played a game of hide-and-seek in the park.",
+      "ja": "子どもたちは公園でかくれんぼをして遊んだ。"
+    },
+    {
+      "source": "original",
+      "label": "競技大会",
+      "en": "Tokyo hosted the Olympic Games in 2021.",
+      "ja": "東京は2021年にオリンピックを開いた。"
+    },
+    {
+      "source": "original",
+      "label": "獲物",
+      "en": "The hunters went into the forest in search of game.",
+      "ja": "猟師たちは獲物を探して森に入った。"
+    },
+    {
+      "source": "original",
+      "label": "乗り気の(形容詞)",
+      "en": "\"Shall we try climbing that mountain?\" \"Sure, I'm game.\"",
+      "ja": "「あの山に登ってみない?」「いいね、乗った。」"
+    },
+    {
+      "source": "original",
+      "label": "駆け引き",
+      "en": "Politics is often described as a game of power.",
+      "ja": "政治はしばしば力の駆け引きだと言われる。"
+    }
+  ],
+  "check_points": [
+    "game の「獲物」の意味を言えるか",
+    "I'm game. の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「獲物」(不可算)と形容詞「乗り気の」が、意外な意味として長文や会話文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 661
+    }
+  ]
+}
