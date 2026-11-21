@@ -1,0 +1,103 @@
+{
+  "word": "pass",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/pæs/",
+  "core_image": {
+    "text": "ある地点を、通り抜けて先へ進む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"44\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"78\" y2=\"96\"/><line x1=\"140\" y1=\"60\" x2=\"140\" y2=\"140\"/><line x1=\"80\" y1=\"40\" x2=\"210\" y2=\"40\"/><polyline points=\"203,36.2 210,40 203,43.8\"/></g><text x=\"190\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">通り過ぎる</text></svg>"
+  },
+  "etymology": "ラテン語 passus(歩み) → 歩いて通る → 通り過ぎる・通過する → (時が)過ぎる → (試験・法案が)通る → (物を)次の人へ通す=手渡す → pass away=(この世を)通り過ぎる=亡くなる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to go past something; (of time) to go by; to succeed in an exam; to give something to someone; (of a law) to be approved."
+    },
+    {
+      "pos": "名詞",
+      "text": "a successful result in an exam, or a ticket that allows you to enter a place."
+    }
+  ],
+  "cautions": [
+    "「試験に受かる」は他動詞:pass the exam(× pass in the exam)",
+    "手渡す:pass A B / pass B to A(Pass me the salt.)",
+    "pass away=亡くなる(die の遠回しな言い方)、pass for / as A=Aとして通る",
+    "過去形 passed と、形容詞・前置詞 past(過ぎた・〜を過ぎて)を混同しない"
+  ],
+  "patterns": [
+    {
+      "form": "pass A",
+      "meaning": "Aを通り過ぎる・A(試験)に合格する"
+    },
+    {
+      "form": "pass A B / pass B to A",
+      "meaning": "AにBを手渡す"
+    },
+    {
+      "form": "time passes",
+      "meaning": "時が過ぎる"
+    },
+    {
+      "form": "pass away",
+      "meaning": "亡くなる"
+    },
+    {
+      "form": "pass for / as A",
+      "meaning": "Aとして通る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "通り過ぎる",
+      "en": "I pass the library on my way to school.",
+      "ja": "私は通学途中に図書館の前を通る。"
+    },
+    {
+      "source": "original",
+      "label": "合格する",
+      "en": "She studied hard and passed the entrance exam.",
+      "ja": "彼女は一生懸命勉強して入試に合格した。"
+    },
+    {
+      "source": "original",
+      "label": "手渡す",
+      "en": "Could you pass me the salt?",
+      "ja": "塩を取ってもらえますか。"
+    },
+    {
+      "source": "original",
+      "label": "時が過ぎる",
+      "en": "Ten years have passed since we first met.",
+      "ja": "私たちが初めて会ってから10年が過ぎた。"
+    },
+    {
+      "source": "original",
+      "label": "法案が通る",
+      "en": "The new law was passed last year.",
+      "ja": "その新しい法律は去年可決された。"
+    },
+    {
+      "source": "original",
+      "label": "pass away",
+      "en": "My grandfather passed away peacefully.",
+      "ja": "祖父は安らかに亡くなった。"
+    }
+  ],
+  "check_points": [
+    "「試験に受かる」を pass で言えるか(前置詞不要)",
+    "pass away の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "pass A B(手渡す)、pass away、時が passes が会話・長文で頻出。passed と past の区別も出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 552
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "word": "draw",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/drɔː/",
+  "core_image": {
+    "text": "ひもをつかんで、こちらへ引き寄せる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"80\" y2=\"84\"/><line x1=\"50\" y1=\"74\" x2=\"76\" y2=\"92\"/><line x1=\"80\" y1=\"86\" x2=\"160\" y2=\"100\"/><rect x=\"160\" y=\"80\" width=\"50\" height=\"60\"/><line x1=\"150\" y1=\"60\" x2=\"100\" y2=\"60\"/><polyline points=\"107,63.8 100,60 107,56.2\"/></g><text x=\"130\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">引き寄せる</text></svg>"
+  },
+  "etymology": "古い英語 dragan(引く。drag と同じ根) → 引く → ペンを引いて線を引く=(線で)描く → (お金・結論を)引き出す → (注意・人を)引きつける → (時が)近づく(draw near)。活用 draw-drew-drawn",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make a picture with lines; to pull something; to attract attention or people; to take out money or reach a conclusion; to move or come near."
+    },
+    {
+      "pos": "名詞",
+      "text": "a game or competition that ends with equal scores."
+    }
+  ],
+  "cautions": [
+    "draw は「線で描く」(鉛筆・ペン)。絵の具で描くのは paint",
+    "draw attention to A=Aに注意を引く(to は前置詞)",
+    "draw a conclusion=結論を引き出す、draw on A=A(経験・知識)を利用する・頼る",
+    "名詞 draw=引き分け(The game ended in a draw.)"
+  ],
+  "patterns": [
+    {
+      "form": "draw a picture / map",
+      "meaning": "絵・地図を(線で)描く"
+    },
+    {
+      "form": "draw A's attention to B",
+      "meaning": "Aの注意をBに向ける"
+    },
+    {
+      "form": "draw a conclusion",
+      "meaning": "結論を出す"
+    },
+    {
+      "form": "draw on A",
+      "meaning": "Aを利用する・Aに頼る"
+    },
+    {
+      "form": "draw near / to a close",
+      "meaning": "近づく・終わりに近づく"
+    },
+    {
+      "form": "draw money from A",
+      "meaning": "Aからお金を引き出す"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "描く",
+      "en": "She drew a map to show me the way.",
+      "ja": "彼女は道を教えるために地図を描いてくれた。"
+    },
+    {
+      "source": "original",
+      "label": "引く",
+      "en": "He drew the curtains and the room became dark.",
+      "ja": "彼がカーテンを引くと部屋は暗くなった。"
+    },
+    {
+      "source": "original",
+      "label": "注意を引く",
+      "en": "The report drew attention to the problem of waste.",
+      "ja": "その報告はごみの問題に注意を向けさせた。"
+    },
+    {
+      "source": "original",
+      "label": "結論",
+      "en": "It is too early to draw a conclusion.",
+      "ja": "結論を出すのはまだ早すぎる。"
+    },
+    {
+      "source": "original",
+      "label": "draw on",
+      "en": "The writer drew on her own experience in the novel.",
+      "ja": "その作家は小説で自分の経験を生かした。"
+    },
+    {
+      "source": "original",
+      "label": "近づく",
+      "en": "The summer vacation is drawing to a close.",
+      "ja": "夏休みも終わりに近づいている。"
+    }
+  ],
+  "check_points": [
+    "draw と paint の違いを言えるか",
+    "draw a conclusion / draw on A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "draw attention to / draw a conclusion / draw on が長文・語法で頻出。活用 drew-drawn も確認。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 551
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "allocate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈæləkeɪt/",
+  "core_image": {
+    "text": "決まった分を、それぞれの場所へ割りふる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"95\" y=\"20\" width=\"50\" height=\"30\"/><line x1=\"120\" y1=\"52\" x2=\"54\" y2=\"100\"/><polyline points=\"61.9,99 54,100 57.4,92.8\"/><line x1=\"120\" y1=\"52\" x2=\"120\" y2=\"100\"/><polyline points=\"123.8,93 120,100 116.2,93\"/><line x1=\"120\" y1=\"52\" x2=\"186\" y2=\"100\"/><polyline points=\"182.6,92.8 186,100 178.1,99\"/><rect x=\"36\" y=\"104\" width=\"30\" height=\"30\"/><rect x=\"105\" y=\"104\" width=\"30\" height=\"30\"/><rect x=\"174\" y=\"104\" width=\"30\" height=\"30\"/></g><text x=\"200\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">割り当てる</text></svg>"
+  },
+  "etymology": "al(ad=〜へ) + locate(loc=場所。local・locate と同じ根) → それぞれの場所へ置く → (お金・時間・仕事を目的ごとに)割り当てる・配分する → 名詞 allocation",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give something officially to someone or for a particular purpose, such as money, time, or space."
+    }
+  ],
+  "cautions": [
+    "allocate A to B / allocate B A=AをBに割り当てる",
+    "allocate A for B=AをB(目的)のために取っておく",
+    "目的語はお金・時間・資源・仕事など(budget / time / resources)",
+    "distribute(配る)より「目的ごとに決めて分ける」感じ"
+  ],
+  "patterns": [
+    {
+      "form": "allocate A to B",
+      "meaning": "AをBに割り当てる"
+    },
+    {
+      "form": "allocate B A",
+      "meaning": "BにAを割り当てる"
+    },
+    {
+      "form": "allocate A for B",
+      "meaning": "AをBのために充てる"
+    },
+    {
+      "form": "allocation",
+      "meaning": "配分"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "お金",
+      "en": "The city allocated more money to education.",
+      "ja": "市は教育により多くのお金を割り当てた。"
+    },
+    {
+      "source": "original",
+      "label": "時間",
+      "en": "You should allocate enough time for review.",
+      "ja": "復習に十分な時間を充てるべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "allocate B A",
+      "en": "The teacher allocated each student a different topic.",
+      "ja": "先生は生徒一人一人に違うテーマを割り当てた。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "Two rooms were allocated to our class.",
+      "ja": "私たちのクラスには2部屋が割り当てられた。"
+    },
+    {
+      "source": "original",
+      "label": "資源",
+      "en": "We must allocate resources more wisely.",
+      "ja": "私たちは資源をもっと賢く配分しなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "allocation",
+      "en": "The allocation of the budget caused an argument.",
+      "ja": "予算の配分が議論を呼んだ。"
+    }
+  ],
+  "check_points": [
+    "allocate A to B の形を言えるか",
+    "allocate の語源(場所へ置く)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "allocate A to B(予算・時間の配分)が説明文で出る。同意語 assign / distribute。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 557
+    }
+  ]
+}

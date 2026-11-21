@@ -1,0 +1,98 @@
+{
+  "word": "carry",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈkæri/",
+  "core_image": {
+    "text": "物を身につけて、別の場所へ持っていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><polyline points=\"90,74 66,62 66,32\"/><polyline points=\"90,74 114,62 114,32\"/><rect x=\"62\" y=\"10\" width=\"56\" height=\"22\"/><line x1=\"130\" y1=\"100\" x2=\"200\" y2=\"100\"/><polyline points=\"193,96.2 200,100 193,103.8\"/></g><text x=\"170\" y=\"82\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">運ぶ</text></svg>"
+  },
+  "etymology": "古いフランス語 carier(車で運ぶ。car と同じ根) → 運ぶ → (いつも)持ち歩く → (情報・病気を)伝える・運ぶ → (店が商品を)置いている → carry out=最後まで運ぶ=実行する、carry on=運び続ける=続ける",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to hold something and take it somewhere; to have something with you; to spread a disease or send information; (of a shop) to have goods for sale."
+    }
+  ],
+  "cautions": [
+    "carry out A=A(計画・実験・約束)を実行する(入試の最頻出句)",
+    "carry on (with) A / carry on doing=Aを続ける",
+    "店が主語:The store carries ~=〜を扱っている(運ぶではない)",
+    "過去形 carried(y→ied)"
+  ],
+  "patterns": [
+    {
+      "form": "carry A to B",
+      "meaning": "AをBへ運ぶ"
+    },
+    {
+      "form": "carry out A",
+      "meaning": "Aを実行する"
+    },
+    {
+      "form": "carry on (with) A / doing",
+      "meaning": "Aを続ける"
+    },
+    {
+      "form": "carry a disease",
+      "meaning": "病気を運ぶ・媒介する"
+    },
+    {
+      "form": "carry A with one",
+      "meaning": "Aを持ち歩く"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "運ぶ",
+      "en": "He carried the heavy box up the stairs.",
+      "ja": "彼は重い箱を階段の上まで運んだ。"
+    },
+    {
+      "source": "original",
+      "label": "持ち歩く",
+      "en": "I always carry an umbrella in my bag.",
+      "ja": "私はいつもかばんに傘を入れて持ち歩いている。"
+    },
+    {
+      "source": "original",
+      "label": "carry out",
+      "en": "The scientists carried out an experiment.",
+      "ja": "科学者たちは実験を行った。"
+    },
+    {
+      "source": "original",
+      "label": "carry on",
+      "en": "Please carry on with your work.",
+      "ja": "どうぞ作業を続けてください。"
+    },
+    {
+      "source": "original",
+      "label": "病気を運ぶ",
+      "en": "Mosquitoes can carry dangerous diseases.",
+      "ja": "蚊は危険な病気を媒介することがある。"
+    },
+    {
+      "source": "original",
+      "label": "店が扱う",
+      "en": "Does this shop carry English books?",
+      "ja": "この店は英語の本を扱っていますか。"
+    }
+  ],
+  "check_points": [
+    "carry out の意味を言えるか",
+    "店が主語の carry の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "carry out(実行する)は語法・言いかえ問題の最頻出。carry on も会話で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 553
+    }
+  ]
+}

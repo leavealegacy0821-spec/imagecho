@@ -1,0 +1,94 @@
+{
+  "word": "reluctant",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/rɪˈlʌktənt/",
+  "core_image": {
+    "text": "前へ引かれても、後ろへ踏んばってしまう",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"80\" y1=\"74\" x2=\"60\" y2=\"94\"/><line x1=\"80\" y1=\"74\" x2=\"104\" y2=\"86\"/><line x1=\"120\" y1=\"60\" x2=\"190\" y2=\"60\"/><polyline points=\"183,56.2 190,60 183,63.8\"/><line x1=\"66\" y1=\"30\" x2=\"26\" y2=\"30\" stroke-dasharray=\"5 5\"/><polyline points=\"33,33.8 26,30 33,26.2\"/></g><text x=\"180\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">気が進まない</text></svg>"
+  },
+  "etymology": "re(後ろへ・逆らって) + luct(ラテン語 luctari=もがく・抵抗する) → 後ろへ逆らってもがく → (〜するのに)気が進まない・しぶしぶの → 副詞 reluctantly、名詞 reluctance",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not willing to do something and therefore slow to do it."
+    }
+  ],
+  "cautions": [
+    "be reluctant to do=〜するのに気が進まない(to do を取る。× reluctant doing)",
+    "反対の意味は be willing to do / be eager to do",
+    "副詞 reluctantly=しぶしぶ、名詞 reluctance=気の進まなさ(with reluctance)",
+    "「やらない」ではなく「やるけど、いやいや」のことも多い"
+  ],
+  "patterns": [
+    {
+      "form": "be reluctant to do",
+      "meaning": "〜するのに気が進まない"
+    },
+    {
+      "form": "reluctantly",
+      "meaning": "しぶしぶ"
+    },
+    {
+      "form": "with reluctance",
+      "meaning": "いやいやながら"
+    },
+    {
+      "form": "a reluctant hero",
+      "meaning": "しぶしぶ英雄になった人"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "気が進まない",
+      "en": "He was reluctant to tell the truth.",
+      "ja": "彼は本当のことを言いたがらなかった。"
+    },
+    {
+      "source": "original",
+      "label": "気が進まない",
+      "en": "Many people are reluctant to change their habits.",
+      "ja": "多くの人は習慣を変えたがらない。"
+    },
+    {
+      "source": "original",
+      "label": "reluctantly",
+      "en": "She reluctantly agreed to help us.",
+      "ja": "彼女はしぶしぶ私たちを手伝うことに同意した。"
+    },
+    {
+      "source": "original",
+      "label": "with reluctance",
+      "en": "I accepted the offer with reluctance.",
+      "ja": "私はいやいやその申し出を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "willing との対比",
+      "en": "He was willing to go, but his sister was reluctant.",
+      "ja": "彼は行く気だったが、妹は気が進まなかった。"
+    },
+    {
+      "source": "original",
+      "label": "名詞の前",
+      "en": "The reluctant student finally raised his hand.",
+      "ja": "しぶしぶだった生徒がついに手を挙げた。"
+    }
+  ],
+  "check_points": [
+    "be reluctant の後ろの形(to do)を言えるか",
+    "反対の意味の be willing to do を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be reluctant to do が語法・長文で頻出。reluctantly の言いかえ(unwillingly)も出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 558
+    }
+  ]
+}

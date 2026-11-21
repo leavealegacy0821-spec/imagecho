@@ -1,0 +1,94 @@
+{
+  "word": "intervene",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˌɪntərˈviːn/",
+  "core_image": {
+    "text": "2つのもののあいだに、割って入る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"60\" y2=\"90\"/><line x1=\"40\" y1=\"74\" x2=\"24\" y2=\"96\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"180\" y2=\"90\"/><line x1=\"200\" y1=\"74\" x2=\"216\" y2=\"96\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"96\" y2=\"70\"/><line x1=\"120\" y1=\"74\" x2=\"144\" y2=\"70\"/><line x1=\"120\" y1=\"12\" x2=\"120\" y2=\"36\"/><polyline points=\"123.8,29 120,36 116.2,29\"/></g><text x=\"66\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">間に入る</text></svg>"
+  },
+  "etymology": "inter(あいだに) + vene(ラテン語 venire=来る。convene・prevent と同じ根) → あいだに入って来る → (争い・問題に)介入する・仲裁する → (出来事が)間に起こる → 名詞 intervention",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to become involved in a situation in order to improve it or stop it; to happen between two times or events."
+    }
+  ],
+  "cautions": [
+    "自動詞:intervene in A=Aに介入する(× intervene A)",
+    "intervene between A and B=AとBのあいだに入る・仲裁する",
+    "intervening=あいだの:in the intervening years=その間の年月",
+    "名詞 intervention=介入(government intervention)"
+  ],
+  "patterns": [
+    {
+      "form": "intervene in A",
+      "meaning": "Aに介入する"
+    },
+    {
+      "form": "intervene between A and B",
+      "meaning": "AとBを仲裁する"
+    },
+    {
+      "form": "intervene to do",
+      "meaning": "〜するために介入する"
+    },
+    {
+      "form": "intervention",
+      "meaning": "介入"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "介入する",
+      "en": "The government intervened in the market.",
+      "ja": "政府は市場に介入した。"
+    },
+    {
+      "source": "original",
+      "label": "仲裁する",
+      "en": "The teacher intervened between the two boys.",
+      "ja": "先生が2人の少年のあいだに入って仲裁した。"
+    },
+    {
+      "source": "original",
+      "label": "intervene to do",
+      "en": "The police intervened to stop the fight.",
+      "ja": "警察がけんかを止めるために割って入った。"
+    },
+    {
+      "source": "original",
+      "label": "介入しない",
+      "en": "My parents never intervene in my decisions.",
+      "ja": "両親は私の決定に決して口を出さない。"
+    },
+    {
+      "source": "original",
+      "label": "間の",
+      "en": "In the intervening years, the town changed a lot.",
+      "ja": "その間の年月に、町は大きく変わった。"
+    },
+    {
+      "source": "original",
+      "label": "intervention",
+      "en": "Without quick intervention, the patient would have died.",
+      "ja": "すばやい処置がなければ、その患者は亡くなっていただろう。"
+    }
+  ],
+  "check_points": [
+    "intervene の後ろに in が必要なことを言えるか",
+    "名詞形 intervention を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "intervene in A と名詞 intervention(政府の介入・医療処置)が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 555
+    }
+  ]
+}

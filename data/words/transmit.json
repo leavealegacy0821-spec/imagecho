@@ -1,0 +1,94 @@
+{
+  "word": "transmit",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/trænsˈmɪt/",
+  "core_image": {
+    "text": "こちらから、向こう側へ送り届ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"60\" width=\"30\" height=\"80\"/><path d=\"M70 64 Q80 80 70 96\"/><path d=\"M78 56 Q92 80 78 104\"/><line x1=\"96\" y1=\"80\" x2=\"170\" y2=\"80\"/><polyline points=\"163,76.2 170,80 163,83.8\"/><rect x=\"180\" y=\"60\" width=\"30\" height=\"80\"/></g><text x=\"134\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">向こうへ送る</text></svg>"
+  },
+  "etymology": "trans(向こうへ・越えて) + mit(ラテン語 mittere=送る。submit・permit と同じ根) → 向こうへ送る → (電波・情報を)送信する・放送する → (病気を)うつす → (知識・文化を次の世代へ)伝える → 名詞 transmission",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to send out a signal or information; to pass a disease from one person to another; to pass knowledge or ideas to others."
+    }
+  ],
+  "cautions": [
+    "transmit A to B=AをBに伝える・うつす(to を使う)",
+    "病気がうつる:be transmitted by / through A=Aによって感染する",
+    "活用で t を重ねる:transmitted / transmitting",
+    "名詞 transmission=送信・伝染・伝達"
+  ],
+  "patterns": [
+    {
+      "form": "transmit A to B",
+      "meaning": "AをBに伝える"
+    },
+    {
+      "form": "transmit a signal",
+      "meaning": "信号を送る"
+    },
+    {
+      "form": "be transmitted by A",
+      "meaning": "Aによってうつる"
+    },
+    {
+      "form": "transmission",
+      "meaning": "送信・伝染"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "送信する",
+      "en": "The satellite transmits signals to the earth.",
+      "ja": "その衛星は地球に信号を送っている。"
+    },
+    {
+      "source": "original",
+      "label": "放送する",
+      "en": "The game was transmitted live around the world.",
+      "ja": "その試合は世界中に生放送された。"
+    },
+    {
+      "source": "original",
+      "label": "病気",
+      "en": "The disease is transmitted by mosquitoes.",
+      "ja": "その病気は蚊によって感染する。"
+    },
+    {
+      "source": "original",
+      "label": "うつす",
+      "en": "Wash your hands so you don't transmit the virus to others.",
+      "ja": "ウイルスを人にうつさないよう手を洗いなさい。"
+    },
+    {
+      "source": "original",
+      "label": "文化を伝える",
+      "en": "Parents transmit their values to their children.",
+      "ja": "親は自分の価値観を子どもに伝える。"
+    },
+    {
+      "source": "original",
+      "label": "transmission",
+      "en": "The transmission of knowledge is the purpose of schools.",
+      "ja": "知識を伝えることが学校の目的だ。"
+    }
+  ],
+  "check_points": [
+    "transmit の語源(trans+mit)を言えるか",
+    "「病気がうつる」の受け身の形を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be transmitted by A(感染する)が説明文・医療系の長文で出る。mit=送る の語根で覚える。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 556
+    }
+  ]
+}
