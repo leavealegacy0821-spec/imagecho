@@ -1,0 +1,90 @@
+{
+  "word": "respective",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/rɪˈspektɪv/",
+  "core_image": {
+    "text": "ひとつひとつに目を向けて、それぞれの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"100\" width=\"40\" height=\"40\"/><polyline points=\"26,100 50,80 74,100\"/><rect x=\"100\" y=\"100\" width=\"40\" height=\"40\"/><polyline points=\"96,100 120,80 144,100\"/><rect x=\"170\" y=\"100\" width=\"40\" height=\"40\"/><polyline points=\"166,100 190,80 214,100\"/><circle cx=\"50\" cy=\"44\" r=\"8\"/><circle cx=\"120\" cy=\"44\" r=\"8\"/><circle cx=\"190\" cy=\"44\" r=\"8\"/><line x1=\"50\" y1=\"54\" x2=\"50\" y2=\"76\"/><polyline points=\"53.8,69 50,76 46.2,69\"/><line x1=\"120\" y1=\"54\" x2=\"120\" y2=\"76\"/><polyline points=\"123.8,69 120,76 116.2,69\"/><line x1=\"190\" y1=\"54\" x2=\"190\" y2=\"76\"/><polyline points=\"193.8,69 190,76 186.2,69\"/></g><text x=\"120\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">それぞれの家へ</text></svg>"
+  },
+  "etymology": "re(ふり返って) + spect(見る) + ive(〜の性質の) → 一つ一つをふり返って見る → 個々の・それぞれの",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "belonging or relating to each of the people or things mentioned."
+    }
+  ],
+  "cautions": [
+    "名詞の前で使い、ふつう複数形の名詞が続く(their respective homes)",
+    "副詞 respectively=それぞれ(前に並べた順に対応して)。文末に置く",
+    "respectable(ちゃんとした)、respectful(敬意を払う)と区別",
+    "「尊敬」の意味はまったく無い"
+  ],
+  "patterns": [
+    {
+      "form": "their respective A",
+      "meaning": "彼らそれぞれのA"
+    },
+    {
+      "form": "A and B, respectively",
+      "meaning": "AとBはそれぞれ"
+    },
+    {
+      "form": "respectively",
+      "meaning": "それぞれ(順に)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "それぞれの",
+      "en": "After the party, the guests went back to their respective homes.",
+      "ja": "パーティーの後、客はそれぞれの家に帰った。"
+    },
+    {
+      "source": "original",
+      "label": "各自の",
+      "en": "The two scientists are famous in their respective fields.",
+      "ja": "その2人の科学者はそれぞれの分野で有名だ。"
+    },
+    {
+      "source": "original",
+      "label": "それぞれの国",
+      "en": "The leaders returned to their respective countries.",
+      "ja": "首脳たちはそれぞれの国に戻った。"
+    },
+    {
+      "source": "original",
+      "label": "respectively(副詞)",
+      "en": "Tom and Ken are 15 and 17 years old, respectively.",
+      "ja": "トムとケンはそれぞれ15歳と17歳だ。"
+    },
+    {
+      "source": "original",
+      "label": "順に対応",
+      "en": "The first and second prizes went to Mary and Lisa, respectively.",
+      "ja": "1等と2等はそれぞれメアリーとリサに贈られた。"
+    },
+    {
+      "source": "original",
+      "label": "3つの比較",
+      "en": "The respectful students thanked their respective teachers for a respectable result.",
+      "ja": "礼儀正しい生徒たちは、なかなかの結果についてそれぞれの先生に感謝した。"
+    }
+  ],
+  "check_points": [
+    "respectively を使った文を訳せるか",
+    "respective に「尊敬」の意味があるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "respectively(それぞれ)の訳し方と、respectable / respectful との区別が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 633
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "economic",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˌiːkəˈnɑːmɪk/",
+  "core_image": {
+    "text": "お金とモノがめぐる、経済の",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"60\" width=\"60\" height=\"40\"/><rect x=\"150\" y=\"60\" width=\"60\" height=\"40\"/><line x1=\"92\" y1=\"70\" x2=\"148\" y2=\"70\"/><polyline points=\"141,66.2 148,70 141,73.8\"/><line x1=\"148\" y1=\"92\" x2=\"92\" y2=\"92\"/><polyline points=\"99,95.8 92,92 99,88.2\"/><circle cx=\"120\" cy=\"124\" r=\"10\"/><circle cx=\"120\" cy=\"124\" r=\"5\"/><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/></g><text x=\"60\" y=\"85\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">家計</text><text x=\"180\" y=\"85\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">会社</text></svg>"
+  },
+  "etymology": "economy(ギリシャ語 oikos=家 + nomos=管理 → 家の切り盛り → 国の切り盛り=経済) + ic(〜の) → 経済の・経済上の",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "connected with the trade, industry and money of a country or area."
+    }
+  ],
+  "cautions": [
+    "economic=経済の(economic growth=経済成長)。economical=節約になる・安上がりな と区別",
+    "「経済的な」と訳すと両方に当たるので、「経済の」か「節約の」かで考える",
+    "economics=経済学、economist=経済学者、economy=経済・節約",
+    "economic は「お得」の意味では使わない"
+  ],
+  "patterns": [
+    {
+      "form": "economic growth",
+      "meaning": "経済成長"
+    },
+    {
+      "form": "economic policy",
+      "meaning": "経済政策"
+    },
+    {
+      "form": "an economic crisis",
+      "meaning": "経済危機"
+    },
+    {
+      "form": "economics",
+      "meaning": "経済学"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "経済成長",
+      "en": "China achieved rapid economic growth.",
+      "ja": "中国は急速な経済成長をとげた。"
+    },
+    {
+      "source": "original",
+      "label": "経済政策",
+      "en": "The government announced a new economic policy.",
+      "ja": "政府は新しい経済政策を発表した。"
+    },
+    {
+      "source": "original",
+      "label": "経済危機",
+      "en": "Many companies went bankrupt during the economic crisis.",
+      "ja": "経済危機の間に多くの会社が倒産した。"
+    },
+    {
+      "source": "original",
+      "label": "経済上の",
+      "en": "The project failed for economic reasons.",
+      "ja": "その計画は経済上の理由で失敗した。"
+    },
+    {
+      "source": "original",
+      "label": "economics(名詞)",
+      "en": "My brother studies economics at university.",
+      "ja": "兄は大学で経済学を学んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "economical との比較",
+      "en": "For economic reasons, people bought more economical cars.",
+      "ja": "経済的な(お金の)理由で、人々はもっと燃費のよい車を買った。"
+    }
+  ],
+  "check_points": [
+    "economic と economical の違いを言えるか",
+    "economics の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "economic / economical の区別が語彙問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 636
+    }
+  ]
+}
