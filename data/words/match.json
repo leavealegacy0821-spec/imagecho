@@ -1,0 +1,103 @@
+{
+  "word": "match",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/mætʃ/",
+  "core_image": {
+    "text": "2つが並んで、ぴたりと釣り合う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"90\" y2=\"92\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"150\" y2=\"92\"/><line x1=\"170\" y1=\"74\" x2=\"184\" y2=\"96\"/><line x1=\"110\" y1=\"88\" x2=\"130\" y2=\"88\"/><line x1=\"110\" y1=\"98\" x2=\"130\" y2=\"98\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">釣り合う相手</text></svg>"
+  },
+  "etymology": "古い英語 gemæcca(連れ合い・対になる相手。mate と同じ仲間) → 釣り合う相手・好敵手 → 互角に戦う=試合 → (色・形が)よく合う。火をつける「マッチ」は別の語",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a sports game between two people or teams; a person or thing that is equal to another."
+    },
+    {
+      "pos": "動詞",
+      "text": "to be the same as or suitable for something else; to be as good as someone or something."
+    }
+  ],
+  "cautions": [
+    "動詞 match A=Aと合う・似合う(他動詞:× match with A のことが多い)。The tie matches your shirt.",
+    "be no match for A=Aにはとてもかなわない(相手にならない)",
+    "A match B と A suit B:match は「物どうしが合う」、suit は「人に似合う・都合がよい」",
+    "名詞「試合」は主にイギリス英語。アメリカでは game も"
+  ],
+  "patterns": [
+    {
+      "form": "match A",
+      "meaning": "Aと合う・Aと釣り合う"
+    },
+    {
+      "form": "be no match for A",
+      "meaning": "Aにはかなわない"
+    },
+    {
+      "form": "a perfect match",
+      "meaning": "ぴったりの組み合わせ"
+    },
+    {
+      "form": "match A with B",
+      "meaning": "AとBを組み合わせる"
+    },
+    {
+      "form": "a tennis match",
+      "meaning": "テニスの試合"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "試合",
+      "en": "We watched the football match on TV.",
+      "ja": "私たちはテレビでサッカーの試合を見た。"
+    },
+    {
+      "source": "original",
+      "label": "合う",
+      "en": "Your shoes match your dress perfectly.",
+      "ja": "あなたの靴はドレスにぴったり合っている。"
+    },
+    {
+      "source": "original",
+      "label": "be no match for",
+      "en": "I am no match for my brother at chess.",
+      "ja": "チェスでは兄にまったくかなわない。"
+    },
+    {
+      "source": "original",
+      "label": "一致する",
+      "en": "His story does not match the facts.",
+      "ja": "彼の話は事実と一致しない。"
+    },
+    {
+      "source": "original",
+      "label": "釣り合う",
+      "en": "Few players can match her speed.",
+      "ja": "彼女の速さに匹敵する選手はほとんどいない。"
+    },
+    {
+      "source": "original",
+      "label": "match A with B",
+      "en": "Match each word with its meaning.",
+      "ja": "それぞれの単語をその意味と結びつけなさい。"
+    }
+  ],
+  "check_points": [
+    "be no match for A の意味を言えるか",
+    "match と suit の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "match / suit / fit の使い分け、be no match for A が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 576
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "borrow",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈbɑːroʊ/",
+  "core_image": {
+    "text": "人の物を、あとで返す約束でこちらへ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"70\" y2=\"86\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"170\" y2=\"86\"/><line x1=\"190\" y1=\"74\" x2=\"200\" y2=\"96\"/><rect x=\"110\" y=\"72\" width=\"20\" height=\"12\"/><line x1=\"76\" y1=\"92\" x2=\"164\" y2=\"92\"/><polyline points=\"157,88.2 164,92 157,95.8\"/><line x1=\"164\" y1=\"112\" x2=\"76\" y2=\"112\" stroke-dasharray=\"5 5\"/><polyline points=\"83,115.8 76,112 83,108.2\"/></g><text x=\"120\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">借りる</text><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あとで返す</text></svg>"
+  },
+  "etymology": "古い英語 borgian(担保を取って貸し借りする。borg=担保) → (返す約束で)借りる → (考え・言葉を)借りてくる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to take and use something that belongs to someone else, and return it later."
+    }
+  ],
+  "cautions": [
+    "borrow A from B=BからAを借りる(× borrow B A)。貸すのは lend A to B / lend B A",
+    "borrow は持ち運べる物。トイレ・電話をその場で使わせてもらうのは use(May I use the bathroom?)",
+    "お金を払って借りるのは rent(部屋・車)",
+    "言葉を借りる:borrow a word from English(英語から言葉を取り入れる)"
+  ],
+  "patterns": [
+    {
+      "form": "borrow A from B",
+      "meaning": "BからAを借りる"
+    },
+    {
+      "form": "lend A to B / lend B A",
+      "meaning": "BにAを貸す(反対)"
+    },
+    {
+      "form": "May I use A?",
+      "meaning": "(その場で)Aを使ってもいいか"
+    },
+    {
+      "form": "rent A",
+      "meaning": "(お金を払って)Aを借りる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "borrow A from B",
+      "en": "I borrowed this book from the library.",
+      "ja": "この本は図書館から借りた。"
+    },
+    {
+      "source": "original",
+      "label": "Can I borrow",
+      "en": "Can I borrow your pen for a minute?",
+      "ja": "ちょっとペンを借りてもいい?"
+    },
+    {
+      "source": "original",
+      "label": "lend との比較",
+      "en": "He borrowed some money from me, so I lent him 1,000 yen.",
+      "ja": "彼が私からお金を借りたので、私は彼に千円貸した。"
+    },
+    {
+      "source": "original",
+      "label": "use との違い",
+      "en": "You can borrow my umbrella, and you can use the phone here.",
+      "ja": "かさは貸してあげるし、ここの電話も使っていいよ。"
+    },
+    {
+      "source": "original",
+      "label": "お金を借りる",
+      "en": "The company borrowed a large sum from the bank.",
+      "ja": "その会社は銀行から多額の金を借りた。"
+    },
+    {
+      "source": "original",
+      "label": "言葉を借りる",
+      "en": "Japanese has borrowed many words from English.",
+      "ja": "日本語は英語から多くの言葉を取り入れてきた。"
+    }
+  ],
+  "check_points": [
+    "borrow と lend の型の違いを言えるか",
+    "トイレを借りるときに borrow ではなく use を使う理由を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "borrow / lend / use / rent の使い分けが語法問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 575
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "manner",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈmænər/",
+  "core_image": {
+    "text": "物ごとの扱い方、ふるまい方",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"72\" y2=\"96\"/><circle cx=\"186\" cy=\"74\" r=\"10\"/><line x1=\"178\" y1=\"80\" x2=\"160\" y2=\"104\"/><line x1=\"160\" y1=\"104\" x2=\"152\" y2=\"140\"/><line x1=\"160\" y1=\"104\" x2=\"168\" y2=\"140\"/><line x1=\"170\" y1=\"92\" x2=\"178\" y2=\"110\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふるまい方</text></svg>"
+  },
+  "etymology": "ラテン語 manus(手。manual、manage と同じ) → 手での扱い方 → やり方・方法 → (人の)ふるまい方・態度 → (複数形で)行儀・作法",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the way something is done; the way someone behaves towards other people; (manners) polite ways of behaving."
+    }
+  ],
+  "cautions": [
+    "単数 manner=方法・態度、複数 manners=行儀・作法(× good manner)",
+    "in a 〜 manner=〜なやり方で(in a friendly manner=親しげに)",
+    "It is bad manners to do=〜するのは行儀が悪い(manners なのに is)",
+    "all manner of A=あらゆる種類のA"
+  ],
+  "patterns": [
+    {
+      "form": "in a 〜 manner",
+      "meaning": "〜なやり方で"
+    },
+    {
+      "form": "in this manner",
+      "meaning": "このようにして"
+    },
+    {
+      "form": "have good manners",
+      "meaning": "行儀がよい"
+    },
+    {
+      "form": "table manners",
+      "meaning": "食事の作法"
+    },
+    {
+      "form": "It is bad manners to do",
+      "meaning": "〜するのは行儀が悪い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "方法",
+      "en": "The work must be done in the same manner.",
+      "ja": "その作業は同じやり方でしなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "in a 〜 manner",
+      "en": "She answered in a friendly manner.",
+      "ja": "彼女は親しげに答えた。"
+    },
+    {
+      "source": "original",
+      "label": "態度",
+      "en": "I did not like his rude manner.",
+      "ja": "彼の無礼な態度が気に入らなかった。"
+    },
+    {
+      "source": "original",
+      "label": "manners(作法)",
+      "en": "The children have very good manners.",
+      "ja": "その子どもたちはとても行儀がよい。"
+    },
+    {
+      "source": "original",
+      "label": "It is bad manners",
+      "en": "It is bad manners to talk with your mouth full.",
+      "ja": "口に物を入れたまま話すのは行儀が悪い。"
+    },
+    {
+      "source": "original",
+      "label": "table manners",
+      "en": "Table manners differ from country to country.",
+      "ja": "食事の作法は国によって違う。"
+    }
+  ],
+  "check_points": [
+    "manner と manners の意味の違いを言えるか",
+    "in a 〜 manner の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "manner(方法・態度)と manners(作法)の区別、in a 〜 manner が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 579
+    }
+  ]
+}

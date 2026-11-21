@@ -1,0 +1,103 @@
+{
+  "word": "contract",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈkɑːntrækt/",
+  "core_image": {
+    "text": "両方から引き寄せて、ぎゅっと結ぶ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"58\" y2=\"90\"/><line x1=\"40\" y1=\"74\" x2=\"30\" y2=\"96\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"182\" y2=\"90\"/><line x1=\"200\" y1=\"74\" x2=\"210\" y2=\"96\"/><rect x=\"100\" y=\"70\" width=\"40\" height=\"50\"/><line x1=\"108\" y1=\"84\" x2=\"132\" y2=\"84\"/><line x1=\"108\" y1=\"96\" x2=\"132\" y2=\"96\"/><line x1=\"108\" y1=\"108\" x2=\"124\" y2=\"108\"/><line x1=\"62\" y1=\"95\" x2=\"96\" y2=\"95\"/><polyline points=\"89,91.2 96,95 89,98.8\"/><line x1=\"178\" y1=\"95\" x2=\"144\" y2=\"95\"/><polyline points=\"151,98.8 144,95 151,91.2\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">引き合わせる</text></svg>"
+  },
+  "etymology": "con(いっしょに) + tract(引く。attract、extract と同じ) → いっしょに引き寄せる → 両者を結ぶ=契約(する) → 引き締める=縮む・縮める → (病気を)引き寄せる=かかる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a written legal agreement between two people or companies."
+    },
+    {
+      "pos": "動詞",
+      "text": "to become smaller or shorter; to make a legal agreement; to get a serious illness."
+    }
+  ],
+  "cautions": [
+    "名詞は前にアクセント(CONtract)、動詞は後ろ(conTRACT)",
+    "sign a contract (with A)=(Aと)契約を結ぶ、a contract to do=〜する契約",
+    "動詞「縮む」:Metal contracts when it cools. 反対は expand",
+    "contract a disease=病気にかかる(catch より硬い言い方)"
+  ],
+  "patterns": [
+    {
+      "form": "sign a contract with A",
+      "meaning": "Aと契約を結ぶ"
+    },
+    {
+      "form": "under contract",
+      "meaning": "契約して"
+    },
+    {
+      "form": "contract",
+      "meaning": "縮む・縮める"
+    },
+    {
+      "form": "contract a disease",
+      "meaning": "病気にかかる"
+    },
+    {
+      "form": "contract with A to do",
+      "meaning": "〜するようAと契約する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "契約",
+      "en": "She signed a two-year contract with the company.",
+      "ja": "彼女はその会社と2年契約を結んだ。"
+    },
+    {
+      "source": "original",
+      "label": "契約する",
+      "en": "The city contracted with a local firm to build the bridge.",
+      "ja": "市は橋を建てるよう地元の会社と契約した。"
+    },
+    {
+      "source": "original",
+      "label": "縮む",
+      "en": "Metal expands when heated and contracts when cooled.",
+      "ja": "金属は熱すると膨張し、冷やすと縮む。"
+    },
+    {
+      "source": "original",
+      "label": "縮める",
+      "en": "The muscles contract when you lift something heavy.",
+      "ja": "重い物を持ち上げると筋肉が縮む。"
+    },
+    {
+      "source": "original",
+      "label": "病気にかかる",
+      "en": "He contracted malaria while traveling in Africa.",
+      "ja": "彼はアフリカを旅行中にマラリアにかかった。"
+    },
+    {
+      "source": "original",
+      "label": "under contract",
+      "en": "The player is under contract until next year.",
+      "ja": "その選手は来年まで契約している。"
+    }
+  ],
+  "check_points": [
+    "contract の3つの意味(契約・縮む・病気にかかる)を言えるか",
+    "名詞と動詞のアクセントの違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「縮む」「病気にかかる」の意味が長文で狙われる。アクセント問題にも。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 577
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "word": "contrary",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/ˈkɑːntreri/",
+  "core_image": {
+    "text": "向きがまるで逆、正反対",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"110\"/><line x1=\"110\" y1=\"75\" x2=\"30\" y2=\"75\"/><polyline points=\"37,78.8 30,75 37,71.2\"/><line x1=\"130\" y1=\"75\" x2=\"210\" y2=\"75\"/><polyline points=\"203,71.2 210,75 203,78.8\"/></g><text x=\"120\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">正反対</text><text x=\"170\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">逆の向き</text></svg>"
+  },
+  "etymology": "contra(反対に。contrast、contradict と同じ) + ary(〜の) → 反対の → 正反対のこと → on the contrary=それどころか(逆だ)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "completely different or opposed to something."
+    },
+    {
+      "pos": "名詞",
+      "text": "the opposite of something."
+    }
+  ],
+  "cautions": [
+    "contrary to A=Aに反して(contrary to expectations=予想に反して)",
+    "on the contrary=それどころか・とんでもない(前の内容を打ち消す)。on the other hand(一方で)とは違う",
+    "to the contrary=それと反対の(evidence to the contrary=反対の証拠)",
+    "形容詞 contrary は be contrary to A の形が多い"
+  ],
+  "patterns": [
+    {
+      "form": "contrary to A",
+      "meaning": "Aに反して"
+    },
+    {
+      "form": "on the contrary",
+      "meaning": "それどころか・とんでもない"
+    },
+    {
+      "form": "to the contrary",
+      "meaning": "それと反対の・反対に"
+    },
+    {
+      "form": "be contrary to A",
+      "meaning": "Aと正反対である"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "contrary to",
+      "en": "Contrary to our expectations, the team won easily.",
+      "ja": "私たちの予想に反して、そのチームは楽勝した。"
+    },
+    {
+      "source": "original",
+      "label": "on the contrary",
+      "en": "\"Is the movie boring?\" \"On the contrary, it is very exciting.\"",
+      "ja": "「その映画は退屈?」「それどころか、とてもわくわくするよ」"
+    },
+    {
+      "source": "original",
+      "label": "on the contrary",
+      "en": "He is not lazy. On the contrary, he works harder than anyone.",
+      "ja": "彼は怠け者ではない。それどころか、だれよりもよく働く。"
+    },
+    {
+      "source": "original",
+      "label": "to the contrary",
+      "en": "There is no evidence to the contrary.",
+      "ja": "それと反対の証拠は何もない。"
+    },
+    {
+      "source": "original",
+      "label": "be contrary to",
+      "en": "His actions were contrary to the rules.",
+      "ja": "彼の行動は規則に反していた。"
+    },
+    {
+      "source": "original",
+      "label": "正反対の",
+      "en": "They hold contrary opinions on the matter.",
+      "ja": "彼らはその件で正反対の意見を持っている。"
+    }
+  ],
+  "check_points": [
+    "on the contrary と on the other hand の違いを言えるか",
+    "contrary to A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "on the contrary(打ち消し)と on the other hand(対比)の区別が空所補充の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 573
+    }
+  ]
+}

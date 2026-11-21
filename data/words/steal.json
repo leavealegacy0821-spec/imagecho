@@ -1,0 +1,99 @@
+{
+  "word": "steal",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/stiːl/",
+  "core_image": {
+    "text": "人の物を、こっそり持ち去る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"24\" y=\"96\" width=\"50\" height=\"44\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"128\" y2=\"94\"/><circle cx=\"122\" cy=\"102\" r=\"9\"/><line x1=\"150\" y1=\"74\" x2=\"168\" y2=\"94\"/><line x1=\"80\" y1=\"116\" x2=\"110\" y2=\"108\" stroke-dasharray=\"5 5\"/><polyline points=\"102.2,106.1 110,108 104.2,113.5\"/><line x1=\"170\" y1=\"36\" x2=\"214\" y2=\"36\"/><polyline points=\"207,32.2 214,36 207,39.8\"/></g><text x=\"52\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">人の物</text><text x=\"192\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こっそり</text></svg>"
+  },
+  "etymology": "古い英語 stelan(盗む) → (物を)こっそり盗む → (人に気づかれず)そっと動く(steal into the room) → (視線などを)盗むようにする(steal a glance)。活用 steal-stole-stolen",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to take something that belongs to someone else without permission; to move quietly and secretly."
+    }
+  ],
+  "cautions": [
+    "steal A (from B)=(Bから)Aを盗む。目的語は「盗まれる物」(× steal him of his money)",
+    "rob B of A=BからAを奪う。rob の目的語は「人・場所」",
+    "have A stolen=Aを盗まれる(× I was stolen my bike)",
+    "活用 steal-stole-stolen、名詞 theft=盗み、thief=泥棒"
+  ],
+  "patterns": [
+    {
+      "form": "steal A from B",
+      "meaning": "BからAを盗む"
+    },
+    {
+      "form": "have A stolen",
+      "meaning": "Aを盗まれる"
+    },
+    {
+      "form": "A is stolen",
+      "meaning": "Aが盗まれる"
+    },
+    {
+      "form": "steal into / out of A",
+      "meaning": "こっそりAに入る・から出る"
+    },
+    {
+      "form": "rob B of A",
+      "meaning": "BからAを奪う(比べて)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "steal A from B",
+      "en": "Someone stole money from her bag.",
+      "ja": "だれかが彼女のかばんからお金を盗んだ。"
+    },
+    {
+      "source": "original",
+      "label": "have A stolen",
+      "en": "I had my bike stolen at the station.",
+      "ja": "駅で自転車を盗まれた。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "His passport was stolen during the trip.",
+      "ja": "旅行中に彼のパスポートが盗まれた。"
+    },
+    {
+      "source": "original",
+      "label": "rob との比較",
+      "en": "The man robbed her of her purse. He stole her purse.",
+      "ja": "男は彼女から財布を奪った。彼は彼女の財布を盗んだ。"
+    },
+    {
+      "source": "original",
+      "label": "こっそり動く",
+      "en": "The boy stole into the kitchen to eat some cake.",
+      "ja": "少年はケーキを食べにこっそり台所に入った。"
+    },
+    {
+      "source": "original",
+      "label": "比ゆ",
+      "en": "The young actor stole the show.",
+      "ja": "その若い俳優が人気をさらった。"
+    }
+  ],
+  "check_points": [
+    "steal と rob の目的語の違いを言えるか",
+    "「自転車を盗まれた」を英語で言えるか",
+    "steal の活用を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "steal A from B と rob B of A の区別、have A stolen の型は語法・正誤問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 574
+    }
+  ]
+}

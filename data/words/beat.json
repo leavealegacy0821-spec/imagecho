@@ -1,0 +1,103 @@
+{
+  "word": "beat",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/biːt/",
+  "core_image": {
+    "text": "くり返し、強く打ちつける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"100\" y2=\"70\"/><line x1=\"100\" y1=\"70\" x2=\"130\" y2=\"92\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><ellipse cx=\"150\" cy=\"100\" rx=\"30\" ry=\"8\"/><line x1=\"120\" y1=\"100\" x2=\"120\" y2=\"128\"/><line x1=\"180\" y1=\"100\" x2=\"180\" y2=\"128\"/><path d=\"M120 128 Q150 140 180 128\"/><line x1=\"140\" y1=\"72\" x2=\"146\" y2=\"64\"/><line x1=\"152\" y1=\"76\" x2=\"160\" y2=\"70\"/></g><text x=\"176\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">何度も打つ</text></svg>"
+  },
+  "etymology": "古い英語 beatan(打つ) → くり返し打つ・たたく → (心臓が)打つ・鼓動 → (相手を打ち)負かす → (打つ)拍子・リズム。活用 beat-beat-beaten",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to hit repeatedly; (of the heart) to move regularly; to defeat someone in a game or competition."
+    },
+    {
+      "pos": "名詞",
+      "text": "a single hit or movement; the main rhythm in music."
+    }
+  ],
+  "cautions": [
+    "beat A=A(相手)を負かす。win A は「試合・賞を勝ち取る」(× win the team)",
+    "活用 beat-beat-beaten(過去分詞は beaten)",
+    "My heart was beating fast.=心臓がどきどきしていた",
+    "beat around the bush=遠回しに言う"
+  ],
+  "patterns": [
+    {
+      "form": "beat A",
+      "meaning": "A(相手)を負かす"
+    },
+    {
+      "form": "beat A at B",
+      "meaning": "BでAを負かす"
+    },
+    {
+      "form": "beat on A",
+      "meaning": "Aをたたく"
+    },
+    {
+      "form": "A's heart beats",
+      "meaning": "Aの心臓が打つ"
+    },
+    {
+      "form": "win A",
+      "meaning": "A(試合・賞)に勝つ(比べて)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "負かす",
+      "en": "Our team beat the champion 3 to 1.",
+      "ja": "私たちのチームは王者に3対1で勝った。"
+    },
+    {
+      "source": "original",
+      "label": "beat A at B",
+      "en": "My little sister always beats me at cards.",
+      "ja": "妹はトランプでいつも私を負かす。"
+    },
+    {
+      "source": "original",
+      "label": "win との比較",
+      "en": "We won the game. We beat the other team.",
+      "ja": "私たちは試合に勝った。相手チームを負かした。"
+    },
+    {
+      "source": "original",
+      "label": "打つ",
+      "en": "The rain was beating against the window.",
+      "ja": "雨が窓に激しく打ちつけていた。"
+    },
+    {
+      "source": "original",
+      "label": "鼓動",
+      "en": "My heart beat fast before my speech.",
+      "ja": "スピーチの前、心臓がどきどきした。"
+    },
+    {
+      "source": "original",
+      "label": "拍子",
+      "en": "The song has a strong beat.",
+      "ja": "その歌は力強いリズムを持つ。"
+    }
+  ],
+  "check_points": [
+    "beat と win の目的語の違いを言えるか",
+    "beat の活用を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "beat(相手を負かす)と win(試合に勝つ)の区別は語法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 580
+    }
+  ]
+}
