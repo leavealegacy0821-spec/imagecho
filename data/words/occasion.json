@@ -1,0 +1,98 @@
+{
+  "word": "occasion",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/əˈkeɪʒən/",
+  "core_image": {
+    "text": "物事がふと降りかかる、そのとき",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"40\" width=\"120\" height=\"90\"/><line x1=\"60\" y1=\"62\" x2=\"180\" y2=\"62\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"130\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"130\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"130\"/><line x1=\"60\" y1=\"85\" x2=\"180\" y2=\"85\"/><line x1=\"60\" y1=\"108\" x2=\"180\" y2=\"108\"/><circle cx=\"135\" cy=\"96\" r=\"9\"/></g><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">その時・その場</text></svg>"
+  },
+  "etymology": "oc(ob=〜の方へ) + cas(落ちる。case、casual と同じ) → (物事が)ふと降りかかる場面 → 時・場合 → (特別な)行事 → 機会 → きっかけ・理由",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a particular time when something happens; a special event; a suitable time or reason for something."
+    }
+  ],
+  "cautions": [
+    "on occasion(s)=時々(= occasionally、sometimes)",
+    "on the occasion of A=Aに際して(on this occasion=今回は)",
+    "a special occasion=特別な行事・祝いごと",
+    "have occasion to do=〜する機会・必要がある、形容詞 occasional=時折の"
+  ],
+  "patterns": [
+    {
+      "form": "on occasion",
+      "meaning": "時々"
+    },
+    {
+      "form": "on the occasion of A",
+      "meaning": "Aに際して"
+    },
+    {
+      "form": "a special occasion",
+      "meaning": "特別な行事"
+    },
+    {
+      "form": "have occasion to do",
+      "meaning": "〜する必要・機会がある"
+    },
+    {
+      "form": "occasional / occasionally",
+      "meaning": "時折の・時々"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "時",
+      "en": "I have met him on several occasions.",
+      "ja": "彼には何度か会ったことがある。"
+    },
+    {
+      "source": "original",
+      "label": "行事",
+      "en": "A wedding is a special occasion for the family.",
+      "ja": "結婚式は家族にとって特別な行事だ。"
+    },
+    {
+      "source": "original",
+      "label": "on occasion",
+      "en": "We go out for dinner on occasion.",
+      "ja": "私たちは時々外食する。"
+    },
+    {
+      "source": "original",
+      "label": "on the occasion of",
+      "en": "A party was held on the occasion of his retirement.",
+      "ja": "彼の退職に際してパーティーが開かれた。"
+    },
+    {
+      "source": "original",
+      "label": "have occasion to",
+      "en": "I have had no occasion to use French recently.",
+      "ja": "最近はフランス語を使う機会がない。"
+    },
+    {
+      "source": "original",
+      "label": "occasionally",
+      "en": "It occasionally snows here in March.",
+      "ja": "ここでは3月に時々雪が降る。"
+    }
+  ],
+  "check_points": [
+    "on occasion の意味を言えるか",
+    "occasion と case が同じ「落ちる」の仲間であることを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "on occasion(=sometimes)、on the occasion of A、occasionally が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 599
+    }
+  ]
+}

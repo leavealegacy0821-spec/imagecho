@@ -1,0 +1,107 @@
+{
+  "word": "touch",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/tʌtʃ/",
+  "core_image": {
+    "text": "そっと触れて、相手に届く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"116\" y2=\"80\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"96\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"124\" y2=\"80\"/><line x1=\"170\" y1=\"74\" x2=\"182\" y2=\"96\"/><circle cx=\"120\" cy=\"80\" r=\"4\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">触れる</text><text x=\"120\" y=\"122\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">心に届く</text></svg>"
+  },
+  "etymology": "古いフランス語 tochier(さわる) → 触れる → (話題に)軽く触れる(touch on) → 心に触れる=感動させる → (人と触れ合う)連絡(keep in touch) → ひと触れ=ほんの少し(a touch of)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to put your hand or another part of your body on something; to make someone feel emotion; to mention something briefly."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of touching; communication with someone; a small amount."
+    }
+  ],
+  "cautions": [
+    "touch A=Aに触る(他動詞。× touch to A)",
+    "touch on A=Aに(話で)軽く触れる",
+    "be touched by A=Aに感動する(move と同じ使い方)",
+    "keep / stay in touch with A=Aと連絡を保つ、get in touch with A=Aと連絡をとる、lose touch with A=Aと連絡が途絶える"
+  ],
+  "patterns": [
+    {
+      "form": "touch A",
+      "meaning": "Aに触る"
+    },
+    {
+      "form": "touch on A",
+      "meaning": "Aに軽く触れる"
+    },
+    {
+      "form": "be touched by A",
+      "meaning": "Aに感動する"
+    },
+    {
+      "form": "keep in touch with A",
+      "meaning": "Aと連絡を保つ"
+    },
+    {
+      "form": "get in touch with A",
+      "meaning": "Aと連絡をとる"
+    },
+    {
+      "form": "a touch of A",
+      "meaning": "少しのA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "触る",
+      "en": "Please don't touch the paintings.",
+      "ja": "絵に触らないでください。"
+    },
+    {
+      "source": "original",
+      "label": "touch on",
+      "en": "The speaker touched on the problem of climate change.",
+      "ja": "講演者は気候変動の問題に軽く触れた。"
+    },
+    {
+      "source": "original",
+      "label": "be touched by",
+      "en": "I was deeply touched by her kindness.",
+      "ja": "彼女の優しさにとても感動した。"
+    },
+    {
+      "source": "original",
+      "label": "keep in touch",
+      "en": "Let's keep in touch after graduation.",
+      "ja": "卒業後も連絡を取り合おう。"
+    },
+    {
+      "source": "original",
+      "label": "get in touch with",
+      "en": "I'll get in touch with you next week.",
+      "ja": "来週あなたに連絡します。"
+    },
+    {
+      "source": "original",
+      "label": "a touch of",
+      "en": "Add a touch of salt to the soup.",
+      "ja": "スープに塩を少し加えてください。"
+    }
+  ],
+  "check_points": [
+    "be touched by A の意味を言えるか",
+    "keep in touch / get in touch / lose touch の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「感動させる」の意味と、in touch with の表現が会話文・語法で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 594
+    }
+  ]
+}

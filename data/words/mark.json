@@ -1,0 +1,103 @@
+{
+  "word": "mark",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/mɑːrk/",
+  "core_image": {
+    "text": "目に見える印をつけて、区切る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"40\" width=\"90\" height=\"90\"/><polyline points=\"62,86 80,106 112,62\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"142\" y2=\"80\"/><line x1=\"190\" y1=\"74\" x2=\"202\" y2=\"96\"/></g><text x=\"190\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">印をつける</text></svg>"
+  },
+  "etymology": "古い英語 mearc(境界の印) → 印・跡 → 印をつける → (答案につける印)点数・採点する → (目印として)記念する・(時代を)区切る",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a sign, line, spot, etc. on something; a number or letter showing how good a piece of work is."
+    },
+    {
+      "pos": "動詞",
+      "text": "to put a sign on something; to give a score to a piece of work; to celebrate or show an important event."
+    }
+  ],
+  "cautions": [
+    "mark A=Aを記念する・祝う(mark the 100th anniversary=100周年を祝う)",
+    "名詞 mark=点数・成績(full marks=満点、get good marks)",
+    "leave a mark on A=Aに跡・影響を残す",
+    "question mark=疑問符、landmark=目印になるもの"
+  ],
+  "patterns": [
+    {
+      "form": "mark A",
+      "meaning": "Aに印をつける"
+    },
+    {
+      "form": "mark A",
+      "meaning": "Aを記念する"
+    },
+    {
+      "form": "mark papers",
+      "meaning": "答案を採点する"
+    },
+    {
+      "form": "full marks",
+      "meaning": "満点"
+    },
+    {
+      "form": "leave a mark on A",
+      "meaning": "Aに跡を残す"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "印をつける",
+      "en": "Mark the important words with a pen.",
+      "ja": "大事な語にペンで印をつけなさい。"
+    },
+    {
+      "source": "original",
+      "label": "跡",
+      "en": "The coffee cup left a mark on the table.",
+      "ja": "コーヒーカップがテーブルに跡を残した。"
+    },
+    {
+      "source": "original",
+      "label": "点数",
+      "en": "She got full marks in the math test.",
+      "ja": "彼女は数学のテストで満点をとった。"
+    },
+    {
+      "source": "original",
+      "label": "採点する",
+      "en": "The teacher spent the evening marking papers.",
+      "ja": "先生は夕方ずっと答案の採点をしていた。"
+    },
+    {
+      "source": "original",
+      "label": "記念する",
+      "en": "The city held a festival to mark its 100th anniversary.",
+      "ja": "市は100周年を記念して祭りを開いた。"
+    },
+    {
+      "source": "original",
+      "label": "leave a mark on",
+      "en": "The war left a deep mark on the people.",
+      "ja": "戦争は人々に深い傷跡を残した。"
+    }
+  ],
+  "check_points": [
+    "動詞 mark の「記念する」の意味を言えるか",
+    "名詞 mark の「点数」の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「記念する」「点数」の意味が長文で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 595
+    }
+  ]
+}

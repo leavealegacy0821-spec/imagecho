@@ -1,0 +1,98 @@
+{
+  "word": "appear",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈpɪər/",
+  "core_image": {
+    "text": "見えなかったものが、目の前に出てくる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M80 140 A40 40 0 0 1 160 140\"/><line x1=\"120\" y1=\"92\" x2=\"120\" y2=\"74\"/><line x1=\"86\" y1=\"106\" x2=\"72\" y2=\"94\"/><line x1=\"154\" y1=\"106\" x2=\"168\" y2=\"94\"/><line x1=\"200\" y1=\"130\" x2=\"200\" y2=\"70\"/><polyline points=\"196.2,77 200,70 203.8,77\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">姿を現す</text><text x=\"204\" y=\"54\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見えてくる</text></svg>"
+  },
+  "etymology": "ap(ad=〜へ) + pear(見えてくる。apparent と同じ) → 目の前に現れる・姿を現す → (外から見て)〜のように見える → (人前に)出る=出演する・(本が)出る",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to start to be seen; to seem; to take part in a film, show, etc.; to be published."
+    }
+  ],
+  "cautions": [
+    "appear (to be) C / appear to do=〜のようだ(seem と同じ型)。It appears that S V=〜らしい",
+    "自動詞なので受動態にしない(× be appeared)。反対は disappear",
+    "appear on TV / in a film=テレビ・映画に出る",
+    "名詞 appearance=外見・出現(judge by appearances=見た目で判断する)"
+  ],
+  "patterns": [
+    {
+      "form": "appear (to be) C",
+      "meaning": "〜のように見える"
+    },
+    {
+      "form": "appear to do",
+      "meaning": "〜するようだ"
+    },
+    {
+      "form": "It appears that S V",
+      "meaning": "〜らしい"
+    },
+    {
+      "form": "appear on TV",
+      "meaning": "テレビに出る"
+    },
+    {
+      "form": "appearance",
+      "meaning": "外見・出現"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "現れる",
+      "en": "A rainbow appeared after the rain.",
+      "ja": "雨のあとに虹が現れた。"
+    },
+    {
+      "source": "original",
+      "label": "appear C",
+      "en": "The old man appeared tired.",
+      "ja": "その老人は疲れているように見えた。"
+    },
+    {
+      "source": "original",
+      "label": "appear to do",
+      "en": "She appears to know the answer.",
+      "ja": "彼女は答えを知っているようだ。"
+    },
+    {
+      "source": "original",
+      "label": "It appears that",
+      "en": "It appears that someone has been in my room.",
+      "ja": "だれかが私の部屋に入ったらしい。"
+    },
+    {
+      "source": "original",
+      "label": "出演する",
+      "en": "The singer will appear on TV tonight.",
+      "ja": "その歌手は今夜テレビに出る。"
+    },
+    {
+      "source": "original",
+      "label": "appearance(名詞)",
+      "en": "You shouldn't judge people by their appearance.",
+      "ja": "人を見た目で判断すべきではない。"
+    }
+  ],
+  "check_points": [
+    "appear の「現れる」以外の意味を言えるか",
+    "appear を受動態にしない理由を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "appear to do / It appears that(=seem)の書きかえ、名詞 appearance が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 591
+    }
+  ]
+}

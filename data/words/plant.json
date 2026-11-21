@@ -1,0 +1,103 @@
+{
+  "word": "plant",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/plænt/",
+  "core_image": {
+    "text": "地面にしっかり据えて、根を張らせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"60\" y1=\"140\" x2=\"60\" y2=\"90\"/><path d=\"M60 112 Q40 106 36 92 Q52 94 60 112\"/><path d=\"M60 100 Q80 92 84 78 Q66 82 60 100\"/><polyline points=\"130,140 130,90 150,80 150,90 170,80 170,90 190,80 190,140\"/><rect x=\"196\" y=\"60\" width=\"12\" height=\"80\"/></g><text x=\"60\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">植物</text><text x=\"160\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">工場</text></svg>"
+  },
+  "etymology": "ラテン語 planta(若木・苗) → 植物 → 植える → (植えるように)しっかり据えつける・(考えを)植えつける → 機械を据えつけた所=工場・発電所",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a living thing that grows in the ground; a factory or a place where power is produced."
+    },
+    {
+      "pos": "動詞",
+      "text": "to put seeds or plants in the ground; to put something firmly in place; to put an idea into someone's mind."
+    }
+  ],
+  "cautions": [
+    "名詞 plant=工場・設備(a car plant=自動車工場、a power plant=発電所)。長文で「植物」と訳すと意味が通らない",
+    "plant A=Aを植える、plant A with B=A(場所)にBを植える",
+    "plant an idea in A's mind=Aの心に考えを植えつける",
+    "plant oneself=どっしり立つ・居座る"
+  ],
+  "patterns": [
+    {
+      "form": "plant A",
+      "meaning": "Aを植える"
+    },
+    {
+      "form": "plant A with B",
+      "meaning": "AにBを植える"
+    },
+    {
+      "form": "a power plant",
+      "meaning": "発電所"
+    },
+    {
+      "form": "a car plant",
+      "meaning": "自動車工場"
+    },
+    {
+      "form": "plant A in B's mind",
+      "meaning": "Bの心にAを植えつける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "植物",
+      "en": "Plants need water and sunlight to grow.",
+      "ja": "植物は育つのに水と日光が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "植える",
+      "en": "We planted tomatoes in the garden.",
+      "ja": "私たちは庭にトマトを植えた。"
+    },
+    {
+      "source": "original",
+      "label": "plant A with B",
+      "en": "The street is planted with cherry trees.",
+      "ja": "その通りには桜の木が植えられている。"
+    },
+    {
+      "source": "original",
+      "label": "工場",
+      "en": "The company is going to build a new plant in Vietnam.",
+      "ja": "その会社はベトナムに新しい工場を建てる予定だ。"
+    },
+    {
+      "source": "original",
+      "label": "a power plant",
+      "en": "The power plant supplies electricity to the city.",
+      "ja": "その発電所が市に電気を送っている。"
+    },
+    {
+      "source": "original",
+      "label": "植えつける",
+      "en": "His words planted a doubt in my mind.",
+      "ja": "彼の言葉は私の心に疑いを植えつけた。"
+    }
+  ],
+  "check_points": [
+    "名詞 plant の「工場」の意味を言えるか",
+    "plant A with B の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「工場・発電所」の意味が長文で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 600
+    }
+  ]
+}

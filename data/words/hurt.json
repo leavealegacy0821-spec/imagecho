@@ -1,0 +1,103 @@
+{
+  "word": "hurt",
+  "pos": [
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/hɜːrt/",
+  "core_image": {
+    "text": "ぶつかって、体や心が痛む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"90\" y1=\"74\" x2=\"80\" y2=\"100\"/><line x1=\"90\" y1=\"74\" x2=\"110\" y2=\"96\"/><line x1=\"102\" y1=\"40\" x2=\"110\" y2=\"34\"/><line x1=\"104\" y1=\"48\" x2=\"114\" y2=\"47\"/><line x1=\"98\" y1=\"36\" x2=\"101\" y2=\"28\"/><path d=\"M180 82 C180 66 202 66 202 82 C202 96 186 104 180 112 C174 104 158 96 158 82 C158 66 180 66 180 82\"/><polyline points=\"180,80 175,90 184,98 178,108\"/></g><text x=\"40\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">痛む</text><text x=\"180\" y=\"132\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">心も痛む</text></svg>"
+  },
+  "etymology": "古いフランス語 hurter(ぶつける) → ぶつけて傷つける・けがをさせる → (体の一部が)痛む → 気持ちを傷つける → (評判・利益を)損なう。活用 hurt-hurt-hurt",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to cause pain or injury to someone; to feel pain; to make someone unhappy; to damage something."
+    },
+    {
+      "pos": "形容詞",
+      "text": "injured; upset and unhappy."
+    }
+  ],
+  "cautions": [
+    "活用は hurt-hurt-hurt(× hurted)",
+    "他動詞「傷つける」と自動詞「痛む」の両方:My leg hurts.=足が痛い",
+    "get hurt / be hurt=けがをする(injure、wound との違い:hurt は体にも心にも使う)",
+    "It won't hurt (A) to do=〜しても損はない・〜してみたらどうか"
+  ],
+  "patterns": [
+    {
+      "form": "hurt A",
+      "meaning": "Aを傷つける"
+    },
+    {
+      "form": "A hurt(s)",
+      "meaning": "Aが痛む"
+    },
+    {
+      "form": "get hurt",
+      "meaning": "けがをする"
+    },
+    {
+      "form": "hurt one's feelings",
+      "meaning": "気持ちを傷つける"
+    },
+    {
+      "form": "It won't hurt to do",
+      "meaning": "〜しても損はない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "けがをさせる",
+      "en": "I hurt my knee while playing soccer.",
+      "ja": "サッカーをしていて膝を痛めた。"
+    },
+    {
+      "source": "original",
+      "label": "痛む",
+      "en": "My back still hurts.",
+      "ja": "背中がまだ痛む。"
+    },
+    {
+      "source": "original",
+      "label": "get hurt",
+      "en": "Luckily, no one got hurt in the accident.",
+      "ja": "幸い、その事故でけがをした人はいなかった。"
+    },
+    {
+      "source": "original",
+      "label": "hurt one's feelings",
+      "en": "I'm sorry if I hurt your feelings.",
+      "ja": "気を悪くさせたならごめんなさい。"
+    },
+    {
+      "source": "original",
+      "label": "損なう",
+      "en": "The scandal hurt the company's reputation.",
+      "ja": "その不祥事は会社の評判を傷つけた。"
+    },
+    {
+      "source": "original",
+      "label": "It won't hurt to",
+      "en": "It won't hurt to ask him for advice.",
+      "ja": "彼に助言を求めても損はないよ。"
+    }
+  ],
+  "check_points": [
+    "hurt の活用を言えるか",
+    "My leg hurts. の hurt が自動詞であることを説明できるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "活用(hurt-hurt-hurt)、get hurt、It won't hurt to do が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 598
+    }
+  ]
+}

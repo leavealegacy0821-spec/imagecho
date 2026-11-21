@@ -1,0 +1,103 @@
+{
+  "word": "spell",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/spel/",
+  "core_image": {
+    "text": "文字を一つずつ並べて、言葉を唱える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"34\" y=\"66\" width=\"30\" height=\"34\"/><rect x=\"72\" y=\"66\" width=\"30\" height=\"34\"/><rect x=\"110\" y=\"66\" width=\"30\" height=\"34\"/><rect x=\"148\" y=\"66\" width=\"30\" height=\"34\"/><rect x=\"186\" y=\"66\" width=\"30\" height=\"34\"/><line x1=\"34\" y1=\"118\" x2=\"216\" y2=\"118\"/><polyline points=\"209,114.2 216,118 209,121.8\"/></g><text x=\"125\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">一字ずつ</text></svg>"
+  },
+  "etymology": "もとは「語る・一字ずつ読み上げる」 → 単語を一字ずつ言う・書く=つづる → (文字が並んで)〜という語になる・〜を意味する → 唱える言葉=呪文・魔力(under a spell)。「ひと続きの期間」(a spell of 〜)は形が同じ別の語",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say or write the letters of a word in the correct order; to have a particular result."
+    },
+    {
+      "pos": "名詞",
+      "text": "words that have magic power; a short period of time."
+    }
+  ],
+  "cautions": [
+    "How do you spell A?=Aはどうつづりますか(× How do you write A? も言うが spell が普通)",
+    "名詞「つづり」は spelling(× spell mistake → spelling mistake)",
+    "be under a spell=魔法にかかっている、cast a spell on A=Aに魔法をかける",
+    "a spell of A=ひと続きのA(a spell of fine weather=晴天続き)"
+  ],
+  "patterns": [
+    {
+      "form": "spell A",
+      "meaning": "Aをつづる"
+    },
+    {
+      "form": "spell out A",
+      "meaning": "Aをはっきり説明する"
+    },
+    {
+      "form": "spelling",
+      "meaning": "つづり"
+    },
+    {
+      "form": "be under a spell",
+      "meaning": "魔法にかかっている"
+    },
+    {
+      "form": "a spell of A",
+      "meaning": "ひと続きのA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "つづる",
+      "en": "How do you spell your name?",
+      "ja": "お名前はどうつづりますか。"
+    },
+    {
+      "source": "original",
+      "label": "spelling",
+      "en": "There are some spelling mistakes in your essay.",
+      "ja": "君の作文にはつづりの間違いがいくつかある。"
+    },
+    {
+      "source": "original",
+      "label": "spell out",
+      "en": "The teacher spelled out the rules for the test.",
+      "ja": "先生はテストの決まりをはっきり説明した。"
+    },
+    {
+      "source": "original",
+      "label": "呪文",
+      "en": "The witch cast a spell on the prince.",
+      "ja": "魔女は王子に魔法をかけた。"
+    },
+    {
+      "source": "original",
+      "label": "魅力",
+      "en": "The audience was under the spell of her voice.",
+      "ja": "観客は彼女の歌声に魅了されていた。"
+    },
+    {
+      "source": "original",
+      "label": "a spell of",
+      "en": "We had a long spell of dry weather this summer.",
+      "ja": "この夏は乾燥した天気が長く続いた。"
+    }
+  ],
+  "check_points": [
+    "「つづりの間違い」を英語で正しく言えるか",
+    "a spell of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "spelling(× spell)の区別、a spell of(期間)、under a spell が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 596
+    }
+  ]
+}

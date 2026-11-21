@@ -1,0 +1,98 @@
+{
+  "word": "otherwise",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˈʌðərwaɪz/",
+  "core_image": {
+    "text": "今とちがう、別の道を考えると",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"30,130 110,80\"/><line x1=\"110\" y1=\"80\" x2=\"200\" y2=\"40\"/><polyline points=\"192,39.3 200,40 195.1,46.4\"/><line x1=\"110\" y1=\"80\" x2=\"200\" y2=\"120\" stroke-dasharray=\"5 5\"/><polyline points=\"195.1,113.6 200,120 192,120.7\"/></g><text x=\"56\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">分かれ道</text><text x=\"176\" y=\"146\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そうでなければ</text></svg>"
+  },
+  "etymology": "other(別の) + wise(やり方。likewise、clockwise と同じ) → 別のやり方で・違ったふうに → (今言った点を除けば)それ以外の点では → (そうしなかったら)さもなければ・そうでなければ",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "used to say what would happen if something did not happen; apart from that; in a different way."
+    }
+  ],
+  "cautions": [
+    "3つの意味:①そうでなければ(=if not)②それ以外の点では ③違ったふうに(think otherwise=違う考えをもつ)",
+    "①は仮定法と一緒によく出る:I was busy; otherwise I would have gone.(=If I had not been busy, …)",
+    "副詞なので本来は文を2つつなげない。; otherwise / . Otherwise の形が正式(命令文, or 〜 と似た意味)",
+    "unless otherwise stated=特に断りがない限り"
+  ],
+  "patterns": [
+    {
+      "form": "S V; otherwise S V",
+      "meaning": "そうでなければ〜"
+    },
+    {
+      "form": "otherwise S would have p.p.",
+      "meaning": "そうでなかったら〜しただろう"
+    },
+    {
+      "form": "A otherwise B",
+      "meaning": "それ以外はBなA"
+    },
+    {
+      "form": "think otherwise",
+      "meaning": "違う考えをもつ"
+    },
+    {
+      "form": "unless otherwise stated",
+      "meaning": "特に断りのない限り"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "そうでなければ",
+      "en": "Hurry up; otherwise you'll miss the bus.",
+      "ja": "急ぎなさい。さもないとバスに乗り遅れますよ。"
+    },
+    {
+      "source": "original",
+      "label": "仮定法",
+      "en": "I had a cold; otherwise I would have joined the party.",
+      "ja": "風邪をひいていた。そうでなければパーティーに参加していたのに。"
+    },
+    {
+      "source": "original",
+      "label": "それ以外の点では",
+      "en": "The room is small, but otherwise it is perfect.",
+      "ja": "部屋は狭いが、それ以外は申し分ない。"
+    },
+    {
+      "source": "original",
+      "label": "otherwise A",
+      "en": "He made a mistake in an otherwise excellent report.",
+      "ja": "ほかの点ではすばらしい報告書で、彼は1つ間違いをした。"
+    },
+    {
+      "source": "original",
+      "label": "違ったふうに",
+      "en": "Most people agree, but I think otherwise.",
+      "ja": "たいていの人は賛成するが、私は違う考えだ。"
+    },
+    {
+      "source": "original",
+      "label": "unless otherwise",
+      "en": "Unless otherwise stated, all prices include tax.",
+      "ja": "特に断りのない限り、価格はすべて税込みです。"
+    }
+  ],
+  "check_points": [
+    "otherwise の3つの意味を言えるか",
+    "otherwise を if 節に書きかえられるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "仮定法の otherwise(=if not)は書きかえ・和訳の定番。「それ以外の点では」も長文で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 597
+    }
+  ]
+}

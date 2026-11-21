@@ -1,0 +1,108 @@
+{
+  "word": "turn",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/tɜːrn/",
+  "core_image": {
+    "text": "くるりと向きを変えて、別の状態になる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M50 140 L50 40 L190 40\"/><line x1=\"190\" y1=\"40\" x2=\"190\" y2=\"130\"/><polyline points=\"193.8,123 190,130 186.2,123\"/><circle cx=\"50\" cy=\"40\" r=\"4\"/></g><text x=\"120\" y=\"96\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">向きを変える</text></svg>"
+  },
+  "etymology": "ラテン語 tornare(ろくろで回す) → 回る・回す → 向きを変える・曲がる → (状態の向きが変わる)〜になる・変わる → (回ってくる)順番",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move around a central point; to change direction; to become; to change into something different."
+    },
+    {
+      "pos": "名詞",
+      "text": "a change of direction; the time when someone can or must do something."
+    }
+  ],
+  "cautions": [
+    "turn C=〜(の状態)になる(turn red=赤くなる、turn 18=18歳になる)",
+    "turn A into B=AをBに変える、turn out (to be) C=結局〜だとわかる",
+    "turn down=断る・(音を)下げる、turn up=現れる・(音を)上げる、turn to A=Aに頼る",
+    "名詞:It's your turn.=君の番だ、take turns doing=交代で〜する、in turn=順番に・今度は"
+  ],
+  "patterns": [
+    {
+      "form": "turn C",
+      "meaning": "〜になる"
+    },
+    {
+      "form": "turn A into B",
+      "meaning": "AをBに変える"
+    },
+    {
+      "form": "turn out (to be) C",
+      "meaning": "〜だとわかる"
+    },
+    {
+      "form": "turn down A",
+      "meaning": "Aを断る"
+    },
+    {
+      "form": "turn to A",
+      "meaning": "Aに頼る"
+    },
+    {
+      "form": "take turns doing",
+      "meaning": "交代で〜する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "曲がる",
+      "en": "Turn left at the next corner.",
+      "ja": "次の角を左に曲がってください。"
+    },
+    {
+      "source": "original",
+      "label": "turn C",
+      "en": "The leaves turn red in autumn.",
+      "ja": "秋には葉が赤くなる。"
+    },
+    {
+      "source": "original",
+      "label": "turn A into B",
+      "en": "The old school was turned into a museum.",
+      "ja": "その古い学校は博物館に変えられた。"
+    },
+    {
+      "source": "original",
+      "label": "turn out",
+      "en": "The rumor turned out to be false.",
+      "ja": "そのうわさはうそだとわかった。"
+    },
+    {
+      "source": "original",
+      "label": "turn down",
+      "en": "She turned down his invitation.",
+      "ja": "彼女は彼の招待を断った。"
+    },
+    {
+      "source": "original",
+      "label": "take turns",
+      "en": "We took turns driving the car.",
+      "ja": "私たちは交代で車を運転した。"
+    }
+  ],
+  "check_points": [
+    "turn out (to be) C の意味を言えるか",
+    "turn down の2つの意味を言えるか",
+    "名詞 turn の「順番」を使った表現を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "turn out、turn down、turn to、take turns などの句動詞が大量に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 592
+    }
+  ]
+}
