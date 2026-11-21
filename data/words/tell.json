@@ -1,0 +1,103 @@
+{
+  "word": "tell",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/tel/",
+  "core_image": {
+    "text": "一つずつ区別して、相手に伝える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"80\" y2=\"88\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"168\" y2=\"96\"/><line x1=\"180\" y1=\"74\" x2=\"192\" y2=\"96\"/><line x1=\"78\" y1=\"52\" x2=\"158\" y2=\"52\"/><polyline points=\"151,48.2 158,52 151,55.8\"/><line x1=\"84\" y1=\"40\" x2=\"96\" y2=\"34\"/><line x1=\"84\" y1=\"64\" x2=\"96\" y2=\"70\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">伝える</text><text x=\"120\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見分ける</text></svg>"
+  },
+  "etymology": "古い英語 tellan(数える・語る。銀行の teller=お金を数える係) → 一つずつ数え上げる → 話して伝える・教える → 一つずつ区別する=見分ける・わかる。活用 tell-told-told",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give information to someone in words; to order someone to do something; to know or recognize something, especially a difference."
+    }
+  ],
+  "cautions": [
+    "tell A B / tell B to A=AにBを伝える、tell A that S V=Aに〜と言う(say は say to A that 〜 の形。× say me)",
+    "tell A to do=Aに〜するように言う(命令)。tell A about B=AにBについて話す",
+    "tell A from B=AとBを見分ける、can tell=わかる(I can't tell which is which.)",
+    "tell a lie / the truth / a story は say ではなく tell"
+  ],
+  "patterns": [
+    {
+      "form": "tell A B / tell B to A",
+      "meaning": "AにBを伝える"
+    },
+    {
+      "form": "tell A that S V",
+      "meaning": "Aに〜と言う"
+    },
+    {
+      "form": "tell A to do",
+      "meaning": "Aに〜するように言う"
+    },
+    {
+      "form": "tell A from B",
+      "meaning": "AとBを見分ける"
+    },
+    {
+      "form": "can tell wh- / that 〜",
+      "meaning": "〜がわかる"
+    },
+    {
+      "form": "tell a lie",
+      "meaning": "嘘をつく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "tell A B",
+      "en": "Please tell me the way to the station.",
+      "ja": "駅へ行く道を教えてください。"
+    },
+    {
+      "source": "original",
+      "label": "tell A that",
+      "en": "She told me that she would be late.",
+      "ja": "彼女は遅れると私に言った。"
+    },
+    {
+      "source": "original",
+      "label": "tell A to do",
+      "en": "My mother told me to clean my room.",
+      "ja": "母は私に部屋を掃除するように言った。"
+    },
+    {
+      "source": "original",
+      "label": "tell A from B",
+      "en": "It is hard to tell the twins from each other.",
+      "ja": "その双子を見分けるのは難しい。"
+    },
+    {
+      "source": "original",
+      "label": "can tell",
+      "en": "I could tell from his face that he was angry.",
+      "ja": "顔を見て、彼が怒っているのがわかった。"
+    },
+    {
+      "source": "original",
+      "label": "tell a lie",
+      "en": "He never tells a lie.",
+      "ja": "彼は決して嘘をつかない。"
+    }
+  ],
+  "check_points": [
+    "tell と say の型の違いを言えるか",
+    "tell A from B の意味を言えるか",
+    "tell の活用を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "tell A to do、tell A from B、say との区別(× say me)は語法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 581
+    }
+  ]
+}

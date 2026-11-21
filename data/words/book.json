@@ -1,0 +1,103 @@
+{
+  "word": "book",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/bʊk/",
+  "core_image": {
+    "text": "書きつけた束、そこへ名前を書きこむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polygon points=\"40,110 120,120 120,70 40,60\"/><polygon points=\"120,120 200,110 200,60 120,70\"/><line x1=\"54\" y1=\"76\" x2=\"106\" y2=\"82\"/><line x1=\"54\" y1=\"90\" x2=\"106\" y2=\"96\"/><line x1=\"134\" y1=\"82\" x2=\"186\" y2=\"76\"/><line x1=\"134\" y1=\"96\" x2=\"170\" y2=\"92\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">名前を書きこむ</text><text x=\"120\" y=\"136\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">予約</text></svg>"
+  },
+  "etymology": "古い英語 boc(書かれたもの) → 書いたものの束=本・帳簿 → 帳簿に名前を書きこむ → (席・部屋・切符を)予約する → (警察が名簿に)記録する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a set of printed pages fastened together; (books) the written records of a business."
+    },
+    {
+      "pos": "動詞",
+      "text": "to arrange to have a seat, room, ticket, etc. at a particular time in the future."
+    }
+  ],
+  "cautions": [
+    "動詞 book=予約する(reserve とほぼ同じ):book a table / a room / a flight",
+    "be fully booked=予約でいっぱいだ(be booked up も同じ)",
+    "名詞 booking=予約(イギリス英語)、reservation(アメリカ英語)",
+    "by the book=規則どおりに"
+  ],
+  "patterns": [
+    {
+      "form": "book a room / a table",
+      "meaning": "部屋・席を予約する"
+    },
+    {
+      "form": "book A for B",
+      "meaning": "B(日時・人)のためにAを予約する"
+    },
+    {
+      "form": "be fully booked",
+      "meaning": "予約でいっぱいだ"
+    },
+    {
+      "form": "make a booking",
+      "meaning": "予約をする"
+    },
+    {
+      "form": "by the book",
+      "meaning": "規則どおりに"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "本",
+      "en": "I borrowed three books from the library.",
+      "ja": "図書館で本を3冊借りた。"
+    },
+    {
+      "source": "original",
+      "label": "予約する",
+      "en": "I booked a table for four at the restaurant.",
+      "ja": "そのレストランに4人分の席を予約した。"
+    },
+    {
+      "source": "original",
+      "label": "book A for B",
+      "en": "We booked a hotel room for two nights.",
+      "ja": "私たちはホテルの部屋を2泊予約した。"
+    },
+    {
+      "source": "original",
+      "label": "be fully booked",
+      "en": "Sorry, the hotel is fully booked this weekend.",
+      "ja": "申し訳ありませんが、今週末ホテルは満室です。"
+    },
+    {
+      "source": "original",
+      "label": "booking",
+      "en": "You can make a booking online.",
+      "ja": "オンラインで予約できます。"
+    },
+    {
+      "source": "original",
+      "label": "by the book",
+      "en": "He always does everything by the book.",
+      "ja": "彼はいつも何でも規則どおりにやる。"
+    }
+  ],
+  "check_points": [
+    "動詞 book の意味を言えるか",
+    "be fully booked の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "動詞「予約する」の意味が会話文・長文で狙われる。be fully booked も頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 583
+    }
+  ]
+}

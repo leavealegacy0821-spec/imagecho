@@ -1,0 +1,98 @@
+{
+  "word": "explain",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪkˈspleɪn/",
+  "core_image": {
+    "text": "平らに広げて、見えるようにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M30 90 L40 70 L52 96 L62 64 L74 92 L84 72 L90 90\"/><line x1=\"104\" y1=\"82\" x2=\"142\" y2=\"82\"/><polyline points=\"135,78.2 142,82 135,85.8\"/><line x1=\"156\" y1=\"82\" x2=\"220\" y2=\"82\"/><line x1=\"156\" y1=\"72\" x2=\"156\" y2=\"92\"/><line x1=\"220\" y1=\"72\" x2=\"220\" y2=\"92\"/></g><text x=\"60\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こみ入った</text><text x=\"188\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">平らに広げる</text></svg>"
+  },
+  "etymology": "ex(外へ) + plain(平らな。plain と同じ) → 平らに広げる → (こみ入ったことを)わかりやすくする → 説明する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make something clear or easy to understand by describing it; to give a reason for something."
+    }
+  ],
+  "cautions": [
+    "explain A to B=BにAを説明する(× explain B A。× explain me the rule)",
+    "explain (to B) that S V / wh-=〜ということ・〜かを説明する",
+    "explain A=Aの理由を説明する・Aの原因となる(That explains it.=それでわかった)",
+    "名詞 explanation(つづりに注意:explaination ではない)"
+  ],
+  "patterns": [
+    {
+      "form": "explain A to B",
+      "meaning": "BにAを説明する"
+    },
+    {
+      "form": "explain (to B) that S V",
+      "meaning": "〜と説明する"
+    },
+    {
+      "form": "explain wh-",
+      "meaning": "〜かを説明する"
+    },
+    {
+      "form": "explain oneself",
+      "meaning": "自分の言いたいことを説明する・弁明する"
+    },
+    {
+      "form": "explanation",
+      "meaning": "説明"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "explain A to B",
+      "en": "The teacher explained the rule to us.",
+      "ja": "先生は私たちにそのルールを説明した。"
+    },
+    {
+      "source": "original",
+      "label": "explain wh-",
+      "en": "Can you explain why you were absent?",
+      "ja": "欠席した理由を説明してくれますか。"
+    },
+    {
+      "source": "original",
+      "label": "explain to B that",
+      "en": "He explained to me that the train was delayed.",
+      "ja": "電車が遅れたのだと彼は私に説明した。"
+    },
+    {
+      "source": "original",
+      "label": "原因となる",
+      "en": "The heavy rain explains the low number of visitors.",
+      "ja": "大雨のせいで客が少なかったのだ。"
+    },
+    {
+      "source": "original",
+      "label": "explain oneself",
+      "en": "Please explain yourself more clearly.",
+      "ja": "言いたいことをもっとはっきり説明してください。"
+    },
+    {
+      "source": "original",
+      "label": "explanation",
+      "en": "There must be some explanation for this.",
+      "ja": "これには何か説明がつくはずだ。"
+    }
+  ],
+  "check_points": [
+    "「私にそれを説明して」を正しく英語にできるか",
+    "explain A to B の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "× explain me the rule の正誤問題が定番。explain A to B の語順を確実に。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 586
+    }
+  ]
+}

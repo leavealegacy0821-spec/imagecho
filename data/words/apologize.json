@@ -1,0 +1,98 @@
+{
+  "word": "apologize",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈpɑːlədʒaɪz/",
+  "core_image": {
+    "text": "自分の非を認めて、頭を下げる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"72\" y2=\"96\"/><circle cx=\"138\" cy=\"76\" r=\"10\"/><line x1=\"146\" y1=\"82\" x2=\"176\" y2=\"100\"/><line x1=\"176\" y1=\"100\" x2=\"168\" y2=\"140\"/><line x1=\"176\" y1=\"100\" x2=\"184\" y2=\"140\"/><line x1=\"152\" y1=\"86\" x2=\"150\" y2=\"114\"/></g><text x=\"160\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ごめんなさい</text></svg>"
+  },
+  "etymology": "apo(離れて) + logy(言葉。logic と同じ) → (罪から)離れるための言葉=弁明 → わびの言葉=謝罪(apology) → apologize=わびる・謝る",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say that you are sorry for doing something wrong or causing a problem."
+    }
+  ],
+  "cautions": [
+    "apologize to A for B=BのことでAに謝る。自動詞なので to が要る(× apologize him)",
+    "for の後ろは事柄・doing:apologize for being late",
+    "名詞 apology:make an apology / owe A an apology(Aに謝らなければならない)",
+    "イギリス英語のつづりは apologise"
+  ],
+  "patterns": [
+    {
+      "form": "apologize to A",
+      "meaning": "Aに謝る"
+    },
+    {
+      "form": "apologize for B / doing",
+      "meaning": "B・〜したことを謝る"
+    },
+    {
+      "form": "apologize to A for B",
+      "meaning": "BのことでAに謝る"
+    },
+    {
+      "form": "make an apology",
+      "meaning": "謝罪する"
+    },
+    {
+      "form": "owe A an apology",
+      "meaning": "Aに謝るべきだ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "apologize to A for B",
+      "en": "I apologized to my teacher for my rudeness.",
+      "ja": "私は失礼な態度を先生に謝った。"
+    },
+    {
+      "source": "original",
+      "label": "apologize for doing",
+      "en": "He apologized for being late.",
+      "ja": "彼は遅れたことを謝った。"
+    },
+    {
+      "source": "original",
+      "label": "apologize to A",
+      "en": "You should apologize to her.",
+      "ja": "君は彼女に謝るべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "会社が謝る",
+      "en": "The company apologized for the delay.",
+      "ja": "その会社は遅れを謝罪した。"
+    },
+    {
+      "source": "original",
+      "label": "apology",
+      "en": "She made a sincere apology to everyone.",
+      "ja": "彼女はみんなに心から謝罪した。"
+    },
+    {
+      "source": "original",
+      "label": "owe A an apology",
+      "en": "I think I owe you an apology.",
+      "ja": "あなたに謝らなければならないと思う。"
+    }
+  ],
+  "check_points": [
+    "apologize の後ろに to が要る理由を言えるか",
+    "apologize to A for B の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "× apologize him の正誤問題、apologize to A for B の前置詞補充が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 585
+    }
+  ]
+}

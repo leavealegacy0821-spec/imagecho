@@ -1,0 +1,98 @@
+{
+  "word": "marry",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈmæri/",
+  "core_image": {
+    "text": "二人が結ばれて、一つの家族に",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"80\" y1=\"74\" x2=\"100\" y2=\"96\"/><line x1=\"80\" y1=\"74\" x2=\"68\" y2=\"96\"/><circle cx=\"160\" cy=\"52\" r=\"10\"/><line x1=\"160\" y1=\"62\" x2=\"160\" y2=\"106\"/><line x1=\"160\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"160\" y1=\"74\" x2=\"140\" y2=\"96\"/><line x1=\"160\" y1=\"74\" x2=\"172\" y2=\"96\"/><line x1=\"100\" y1=\"96\" x2=\"140\" y2=\"96\"/><path d=\"M120 38 C110 26 98 38 120 54 C142 38 130 26 120 38\"/></g><text x=\"40\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">結ばれる</text></svg>"
+  },
+  "etymology": "ラテン語 maritus(夫・結婚した) → 夫や妻を持つ → 結婚する・結婚させる → 名詞 marriage=結婚",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to become the husband or wife of someone."
+    }
+  ],
+  "cautions": [
+    "marry A=Aと結婚する(他動詞。× marry with A)",
+    "get married (to A)=(Aと)結婚する(動作)、be married (to A)=結婚している(状態)",
+    "「結婚して5年」は have been married for five years(× have married)",
+    "名詞 marriage=結婚(生活)、married 形容詞=結婚している"
+  ],
+  "patterns": [
+    {
+      "form": "marry A",
+      "meaning": "Aと結婚する"
+    },
+    {
+      "form": "get married (to A)",
+      "meaning": "(Aと)結婚する"
+    },
+    {
+      "form": "be married (to A)",
+      "meaning": "(Aと)結婚している"
+    },
+    {
+      "form": "have been married for 〜",
+      "meaning": "結婚して〜になる"
+    },
+    {
+      "form": "marriage",
+      "meaning": "結婚"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "marry A",
+      "en": "She married a doctor last year.",
+      "ja": "彼女は昨年、医者と結婚した。"
+    },
+    {
+      "source": "original",
+      "label": "get married to",
+      "en": "He got married to his high school friend.",
+      "ja": "彼は高校時代の友人と結婚した。"
+    },
+    {
+      "source": "original",
+      "label": "be married",
+      "en": "Are you married?",
+      "ja": "あなたは結婚していますか。"
+    },
+    {
+      "source": "original",
+      "label": "have been married",
+      "en": "They have been married for twenty years.",
+      "ja": "彼らは結婚して20年になる。"
+    },
+    {
+      "source": "original",
+      "label": "Will you marry me?",
+      "en": "He finally said, \"Will you marry me?\"",
+      "ja": "彼はついに「結婚してくれますか」と言った。"
+    },
+    {
+      "source": "original",
+      "label": "marriage",
+      "en": "Their marriage was a happy one.",
+      "ja": "彼らの結婚生活は幸せなものだった。"
+    }
+  ],
+  "check_points": [
+    "× marry with A がだめな理由を言えるか",
+    "get married と be married の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "× marry with、be married to、have been married for の正誤・並べかえ問題が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 587
+    }
+  ]
+}

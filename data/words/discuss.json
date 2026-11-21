@@ -1,0 +1,94 @@
+{
+  "word": "discuss",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈskʌs/",
+  "core_image": {
+    "text": "問題を割って、みんなで中を調べる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"62\" y2=\"92\"/><line x1=\"40\" y1=\"74\" x2=\"30\" y2=\"96\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"178\" y2=\"92\"/><line x1=\"200\" y1=\"74\" x2=\"210\" y2=\"96\"/><line x1=\"80\" y1=\"100\" x2=\"160\" y2=\"100\"/><line x1=\"96\" y1=\"100\" x2=\"96\" y2=\"140\"/><line x1=\"144\" y1=\"100\" x2=\"144\" y2=\"140\"/><circle cx=\"120\" cy=\"84\" r=\"12\"/><line x1=\"120\" y1=\"72\" x2=\"120\" y2=\"96\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">話し合う</text></svg>"
+  },
+  "etymology": "dis(ばらばらに) + cuss(打つ) → 打ち砕いて調べる → (問題を)細かく分けて検討する → 話し合う・議論する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to talk about something with other people in order to share ideas or make a decision."
+    }
+  ],
+  "cautions": [
+    "discuss A=Aについて話し合う(他動詞。× discuss about A)",
+    "名詞 discussion は about / on を取ってよい(a discussion about the plan)",
+    "discuss A with B=AについてBと話し合う",
+    "discuss wh- / doing=〜かを・〜することを話し合う"
+  ],
+  "patterns": [
+    {
+      "form": "discuss A",
+      "meaning": "Aについて話し合う"
+    },
+    {
+      "form": "discuss A with B",
+      "meaning": "AについてBと話し合う"
+    },
+    {
+      "form": "discuss wh- to do",
+      "meaning": "〜すべきかを話し合う"
+    },
+    {
+      "form": "have a discussion about A",
+      "meaning": "Aについて話し合う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "discuss A",
+      "en": "We discussed the plan for the school festival.",
+      "ja": "私たちは文化祭の計画について話し合った。"
+    },
+    {
+      "source": "original",
+      "label": "discuss A with B",
+      "en": "I discussed my future with my parents.",
+      "ja": "私は自分の将来について両親と話し合った。"
+    },
+    {
+      "source": "original",
+      "label": "discuss wh-",
+      "en": "They discussed what to do next.",
+      "ja": "彼らは次に何をすべきか話し合った。"
+    },
+    {
+      "source": "original",
+      "label": "議論する",
+      "en": "The book discusses the effects of climate change.",
+      "ja": "その本は気候変動の影響を論じている。"
+    },
+    {
+      "source": "original",
+      "label": "discussion about",
+      "en": "We had a long discussion about the problem.",
+      "ja": "私たちはその問題について長い話し合いをした。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "This issue will be discussed at the next meeting.",
+      "ja": "この件は次の会議で話し合われる。"
+    }
+  ],
+  "check_points": [
+    "× discuss about がだめな理由を言えるか",
+    "discussion なら about を付けてよいと言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "× discuss about の正誤問題は定番中の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 588
+    }
+  ]
+}

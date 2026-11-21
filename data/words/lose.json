@@ -1,0 +1,103 @@
+{
+  "word": "lose",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/luːz/",
+  "core_image": {
+    "text": "持っていた物が、手から離れていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"94\" y2=\"78\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"96\"/><circle cx=\"130\" cy=\"96\" r=\"8\"/><line x1=\"100\" y1=\"80\" x2=\"124\" y2=\"90\" stroke-dasharray=\"5 5\"/><polyline points=\"119,83.8 124,90 116,90.8\"/><line x1=\"136\" y1=\"104\" x2=\"160\" y2=\"132\" stroke-dasharray=\"5 5\"/><polyline points=\"158.3,124.2 160,132 152.5,129.2\"/></g><text x=\"176\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">なくす</text></svg>"
+  },
+  "etymology": "古い英語 losian(失う・滅びる) → 持っていたものをなくす → (試合・勝ちを)落とす=負ける → (時計が時間を)失う=遅れる → (道・自分を)見失う。活用 lose-lost-lost",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to no longer have something; to fail to win; (of a clock) to go too slowly."
+    }
+  ],
+  "cautions": [
+    "活用 lose-lost-lost。loose(ゆるい、発音 /luːs/)と区別",
+    "lose to A=Aに負ける、lose A=A(試合)に負ける。相手を負かすのは beat",
+    "My watch loses five minutes a day.=1日5分遅れる(反対は gain)",
+    "lose one's way=道に迷う、lose weight=やせる、名詞 loss=失うこと・損失"
+  ],
+  "patterns": [
+    {
+      "form": "lose A",
+      "meaning": "Aをなくす"
+    },
+    {
+      "form": "lose to A",
+      "meaning": "Aに負ける"
+    },
+    {
+      "form": "lose one's way",
+      "meaning": "道に迷う"
+    },
+    {
+      "form": "lose weight",
+      "meaning": "やせる"
+    },
+    {
+      "form": "be lost in A",
+      "meaning": "Aに夢中だ"
+    },
+    {
+      "form": "be at a loss",
+      "meaning": "途方に暮れる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "なくす",
+      "en": "I lost my wallet on the train.",
+      "ja": "電車で財布をなくした。"
+    },
+    {
+      "source": "original",
+      "label": "負ける",
+      "en": "Our team lost the game.",
+      "ja": "私たちのチームは試合に負けた。"
+    },
+    {
+      "source": "original",
+      "label": "lose to A",
+      "en": "We lost to them by two points.",
+      "ja": "私たちは彼らに2点差で負けた。"
+    },
+    {
+      "source": "original",
+      "label": "時計が遅れる",
+      "en": "This old clock loses three minutes a day.",
+      "ja": "この古い時計は1日3分遅れる。"
+    },
+    {
+      "source": "original",
+      "label": "lose one's way",
+      "en": "We lost our way in the forest.",
+      "ja": "私たちは森で道に迷った。"
+    },
+    {
+      "source": "original",
+      "label": "be lost in",
+      "en": "He was lost in thought.",
+      "ja": "彼は物思いにふけっていた。"
+    }
+  ],
+  "check_points": [
+    "lose と loose の違いを言えるか",
+    "時計が「遅れる」「進む」を lose / gain で言えるか",
+    "lose の活用を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "時計の lose / gain、lose to A、loose との区別が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 590
+    }
+  ]
+}

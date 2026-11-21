@@ -1,0 +1,98 @@
+{
+  "word": "enter",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈentər/",
+  "core_image": {
+    "text": "境目をこえて、中へ入る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"150\" y=\"60\" width=\"50\" height=\"80\"/><circle cx=\"190\" cy=\"102\" r=\"3\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"88\" y2=\"88\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"96\"/><line x1=\"96\" y1=\"110\" x2=\"172\" y2=\"110\"/><polyline points=\"165,106.2 172,110 165,113.8\"/></g><text x=\"134\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">中へ</text></svg>"
+  },
+  "etymology": "ラテン語 intrare(中へ入る。in、inter と同じ仲間) → (部屋・建物に)入る → (学校・組織に)入る → (競技に)参加する・申しこむ → (記録の中に)書きこむ・入力する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to come or go into a place; to become a member of an organization; to take part in a competition; to put information into a computer or record."
+    }
+  ],
+  "cautions": [
+    "enter A=Aに入る(他動詞。× enter into the room)",
+    "enter into A=(交渉・契約など)を始める。場所に入るときは into を付けない",
+    "enter university / a company=大学・会社に入る、enter a contest=大会に出る",
+    "名詞 entrance=入口・入学(entrance exam)、entry=入ること・参加・記入"
+  ],
+  "patterns": [
+    {
+      "form": "enter A",
+      "meaning": "Aに入る"
+    },
+    {
+      "form": "enter university",
+      "meaning": "大学に入る"
+    },
+    {
+      "form": "enter A for B / enter B",
+      "meaning": "B(大会)に出る・申しこむ"
+    },
+    {
+      "form": "enter A into B",
+      "meaning": "AをBに入力する"
+    },
+    {
+      "form": "enter into A",
+      "meaning": "A(交渉など)を始める"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "enter A",
+      "en": "Please knock before you enter the room.",
+      "ja": "部屋に入る前にノックしてください。"
+    },
+    {
+      "source": "original",
+      "label": "大学に入る",
+      "en": "She entered university at eighteen.",
+      "ja": "彼女は18歳で大学に入った。"
+    },
+    {
+      "source": "original",
+      "label": "参加する",
+      "en": "He entered the speech contest.",
+      "ja": "彼はスピーチコンテストに出場した。"
+    },
+    {
+      "source": "original",
+      "label": "入力する",
+      "en": "Enter your password and press the button.",
+      "ja": "パスワードを入力してボタンを押してください。"
+    },
+    {
+      "source": "original",
+      "label": "enter into",
+      "en": "The two companies entered into talks.",
+      "ja": "その2社は交渉を始めた。"
+    },
+    {
+      "source": "original",
+      "label": "entrance",
+      "en": "The entrance exam is next month.",
+      "ja": "入学試験は来月だ。"
+    }
+  ],
+  "check_points": [
+    "× enter into the room がだめな理由を言えるか",
+    "enter into A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "× enter into the room の正誤問題、entrance / entry の区別が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 589
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "word": "fire",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈfaɪər/",
+  "core_image": {
+    "text": "火がついて、勢いよく飛び出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M70 140 Q50 110 70 80 Q74 100 84 96 Q80 70 98 50 Q100 84 116 92 Q122 110 110 140\"/><path d=\"M84 140 Q78 122 90 108 Q96 124 100 140\"/><line x1=\"130\" y1=\"100\" x2=\"200\" y2=\"70\"/><polyline points=\"192,69.2 200,70 195.1,76.3\"/><line x1=\"130\" y1=\"116\" x2=\"206\" y2=\"116\"/><polyline points=\"199,112.2 206,116 199,119.8\"/></g><text x=\"90\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">火</text><text x=\"180\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">飛び出す</text></svg>"
+  },
+  "etymology": "古い英語 fyr(火) → 火・火事 → (銃の火薬に火をつけ)発砲する → (弾のように)勢いよく追い出す=解雇する → (心に火をつけて)かき立てる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "flames and heat from something that is burning; a situation in which something burns and is damaged; shooting from guns."
+    },
+    {
+      "pos": "動詞",
+      "text": "to shoot a gun; to make someone leave their job."
+    }
+  ],
+  "cautions": [
+    "動詞 fire A=Aを解雇する(口語)、be fired=クビになる(dismiss より口語的)",
+    "catch fire=火がつく、be on fire=燃えている、set fire to A / set A on fire=Aに火をつける",
+    "fire at A=Aに向かって発砲する、open fire=発砲を始める",
+    "a fire=火事(数えられる)、fire=火(数えられない)"
+  ],
+  "patterns": [
+    {
+      "form": "catch fire",
+      "meaning": "火がつく"
+    },
+    {
+      "form": "be on fire",
+      "meaning": "燃えている"
+    },
+    {
+      "form": "set fire to A",
+      "meaning": "Aに火をつける"
+    },
+    {
+      "form": "fire A",
+      "meaning": "Aを解雇する"
+    },
+    {
+      "form": "fire at A",
+      "meaning": "Aに向かって撃つ"
+    },
+    {
+      "form": "under fire",
+      "meaning": "非難を浴びて"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "火事",
+      "en": "A fire broke out near the station last night.",
+      "ja": "昨夜、駅の近くで火事が起きた。"
+    },
+    {
+      "source": "original",
+      "label": "catch fire",
+      "en": "The curtains caught fire from the candle.",
+      "ja": "ろうそくからカーテンに火がついた。"
+    },
+    {
+      "source": "original",
+      "label": "be on fire",
+      "en": "Look! That house is on fire!",
+      "ja": "見て!あの家が燃えている!"
+    },
+    {
+      "source": "original",
+      "label": "解雇する",
+      "en": "He was fired for being late too often.",
+      "ja": "彼は遅刻が多すぎてクビになった。"
+    },
+    {
+      "source": "original",
+      "label": "発砲する",
+      "en": "The soldier fired at the target.",
+      "ja": "兵士は的に向かって発砲した。"
+    },
+    {
+      "source": "original",
+      "label": "under fire",
+      "en": "The minister came under fire for his remarks.",
+      "ja": "大臣は発言で非難を浴びた。"
+    }
+  ],
+  "check_points": [
+    "動詞 fire の「解雇する」の意味を言えるか",
+    "catch fire と be on fire の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「解雇する」の意味、catch fire / set fire to A の型が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 584
+    }
+  ]
+}

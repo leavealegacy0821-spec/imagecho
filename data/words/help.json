@@ -1,0 +1,107 @@
+{
+  "word": "help",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/help/",
+  "core_image": {
+    "text": "そばで手を貸して、楽にする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"94\" y2=\"98\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"146\" y2=\"98\"/><line x1=\"180\" y1=\"74\" x2=\"192\" y2=\"96\"/><rect x=\"96\" y=\"96\" width=\"48\" height=\"30\"/><line x1=\"120\" y1=\"88\" x2=\"120\" y2=\"60\"/><polyline points=\"116.2,67 120,60 123.8,67\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手を貸す</text></svg>"
+  },
+  "etymology": "古い英語 helpan(助ける) → 手を貸す・手伝う → (状況を)よくする・役に立つ → (どうにかしてやめる)can't help it=どうしようもない、can't help doing=〜せずにいられない",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make it easier for someone to do something; to make a situation better."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of helping; someone or something that helps."
+    }
+  ],
+  "cautions": [
+    "help A (to) do=Aが〜するのを手伝う(to は省いてよい)",
+    "help A with B=AのBを手伝う(× help my homework → help me with my homework)",
+    "cannot help doing=〜せずにはいられない(= cannot help but do)",
+    "help oneself (to A)=(Aを)自由に取って食べる"
+  ],
+  "patterns": [
+    {
+      "form": "help A (to) do",
+      "meaning": "Aが〜するのを手伝う"
+    },
+    {
+      "form": "help A with B",
+      "meaning": "AのBを手伝う"
+    },
+    {
+      "form": "cannot help doing",
+      "meaning": "〜せずにはいられない"
+    },
+    {
+      "form": "help oneself to A",
+      "meaning": "Aを自由に取って食べる"
+    },
+    {
+      "form": "It can't be helped.",
+      "meaning": "しかたがない"
+    },
+    {
+      "form": "with the help of A",
+      "meaning": "Aの助けを借りて"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "help A do",
+      "en": "Could you help me carry this box?",
+      "ja": "この箱を運ぶのを手伝ってくれませんか。"
+    },
+    {
+      "source": "original",
+      "label": "help A with B",
+      "en": "My brother helped me with my homework.",
+      "ja": "兄が宿題を手伝ってくれた。"
+    },
+    {
+      "source": "original",
+      "label": "cannot help doing",
+      "en": "I couldn't help laughing at his joke.",
+      "ja": "彼の冗談に笑わずにはいられなかった。"
+    },
+    {
+      "source": "original",
+      "label": "help oneself to",
+      "en": "Please help yourself to the cookies.",
+      "ja": "クッキーをご自由にどうぞ。"
+    },
+    {
+      "source": "original",
+      "label": "役に立つ",
+      "en": "Drinking water helps prevent heatstroke.",
+      "ja": "水を飲むことは熱中症を防ぐのに役立つ。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "She finished the work with the help of her friends.",
+      "ja": "彼女は友だちの助けを借りて仕事を終えた。"
+    }
+  ],
+  "check_points": [
+    "「宿題を手伝う」を help を使って正しく言えるか",
+    "cannot help doing の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "help A with B(× help my homework)、cannot help doing、help oneself to は語法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 582
+    }
+  ]
+}
