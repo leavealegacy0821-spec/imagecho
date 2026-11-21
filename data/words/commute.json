@@ -1,0 +1,103 @@
+{
+  "word": "commute",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/kəˈmjuːt/",
+  "core_image": {
+    "text": "家と職場のあいだを、毎日行き来する",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polygon points=\"20,90 45,68 70,90\"/><rect x=\"25\" y=\"90\" width=\"40\" height=\"50\"/><rect x=\"170\" y=\"50\" width=\"50\" height=\"90\"/><line x1=\"76\" y1=\"110\" x2=\"162\" y2=\"110\"/><polyline points=\"155,106.2 162,110 155,113.8\"/><line x1=\"162\" y1=\"126\" x2=\"76\" y2=\"126\"/><polyline points=\"83,129.8 76,126 83,122.2\"/></g><text x=\"120\" y=\"92\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">行き来する</text></svg>"
+  },
+  "etymology": "com(すっかり) + mute(ラテン語 mutare=変える) → すっかり取り換える → (重い刑を)軽い刑に換える=減刑する → (回数券で運賃を払い換えて)通う=通勤・通学する → 名詞 commute(通勤)、commuter(通勤者)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to travel regularly between your home and your place of work or study; to change a punishment to a less severe one."
+    },
+    {
+      "pos": "名詞",
+      "text": "the journey that you make regularly to work or school."
+    }
+  ],
+  "cautions": [
+    "自動詞:commute to A / commute from A to B(× commute A)",
+    "commute by train / bus=電車・バスで通勤する",
+    "名詞 a long commute=長い通勤(時間)、commuter=通勤者",
+    "commute a sentence=減刑する(法律の文で)"
+  ],
+  "patterns": [
+    {
+      "form": "commute to A",
+      "meaning": "Aに通勤・通学する"
+    },
+    {
+      "form": "commute from A to B",
+      "meaning": "AからBへ通う"
+    },
+    {
+      "form": "commute by train",
+      "meaning": "電車で通う"
+    },
+    {
+      "form": "a long commute",
+      "meaning": "長い通勤"
+    },
+    {
+      "form": "commuter",
+      "meaning": "通勤者"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "通勤する",
+      "en": "My father commutes to Tokyo every day.",
+      "ja": "父は毎日東京へ通勤している。"
+    },
+    {
+      "source": "original",
+      "label": "通う",
+      "en": "She commutes from Chiba to her university by train.",
+      "ja": "彼女は千葉から大学まで電車で通っている。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "I read books during my long commute.",
+      "ja": "私は長い通勤時間に本を読む。"
+    },
+    {
+      "source": "original",
+      "label": "commuter",
+      "en": "The trains are full of commuters in the morning.",
+      "ja": "朝は電車が通勤客でいっぱいだ。"
+    },
+    {
+      "source": "original",
+      "label": "在宅",
+      "en": "Working from home means people do not have to commute.",
+      "ja": "在宅勤務なら人々は通勤しなくてよい。"
+    },
+    {
+      "source": "original",
+      "label": "減刑する",
+      "en": "His death sentence was commuted to life in prison.",
+      "ja": "彼の死刑は終身刑に減刑された。"
+    }
+  ],
+  "check_points": [
+    "commute の後ろに来る前置詞を言えるか",
+    "commuter の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "commute / commuter が長文・会話で出る。自動詞なので commute to A の形を確認。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 570
+    }
+  ]
+}

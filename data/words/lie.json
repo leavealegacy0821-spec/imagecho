@@ -1,0 +1,103 @@
+{
+  "word": "lie",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/laɪ/",
+  "core_image": {
+    "text": "体を横たえて、そこにじっとある",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"130\" width=\"160\" height=\"10\"/><circle cx=\"62\" cy=\"120\" r=\"10\"/><line x1=\"72\" y1=\"120\" x2=\"140\" y2=\"120\"/><line x1=\"140\" y1=\"120\" x2=\"180\" y2=\"116\"/><line x1=\"140\" y1=\"120\" x2=\"180\" y2=\"126\"/><line x1=\"100\" y1=\"120\" x2=\"120\" y2=\"110\"/></g><text x=\"120\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">横になっている</text></svg>"
+  },
+  "etymology": "古い英語 licgan(横たわる) → 横たわる・横になる → (物が)横たわっている=ある・位置する → (原因・問題が)ある(lie in A) → (ある状態のまま)である(lie idle)。活用 lie-lay-lain、-ing形 lying。「嘘をつく」の lie(lie-lied-lied)は別の語",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be in a flat position on a surface; to be in a particular place; (of a cause or problem) to exist in something; to say something that is not true."
+    },
+    {
+      "pos": "名詞",
+      "text": "a statement that you know is not true."
+    }
+  ],
+  "cautions": [
+    "自動詞:lie on the bed(× lie the bed)。「〜を横にする」は他動詞 lay",
+    "活用 lie-lay-lain。過去形 lay は他動詞 lay の原形と同じ形なので文の中で見分ける",
+    "「嘘をつく」は lie-lied-lied、tell a lie=嘘をつく(× say a lie)",
+    "lie in A=(原因・答えが)Aにある(The problem lies in his attitude.)"
+  ],
+  "patterns": [
+    {
+      "form": "lie on / in A",
+      "meaning": "Aの上に・中に横になる"
+    },
+    {
+      "form": "lie in A",
+      "meaning": "(原因などが)Aにある"
+    },
+    {
+      "form": "lie + 形容詞",
+      "meaning": "〜の状態のままである"
+    },
+    {
+      "form": "lie to A",
+      "meaning": "Aに嘘をつく"
+    },
+    {
+      "form": "tell a lie",
+      "meaning": "嘘をつく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "横になる",
+      "en": "I was so tired that I lay on the sofa all afternoon.",
+      "ja": "とても疲れていたので、午後ずっとソファーに横になっていた。"
+    },
+    {
+      "source": "original",
+      "label": "横になっている",
+      "en": "The cat is lying in the sun.",
+      "ja": "猫がひなたで寝そべっている。"
+    },
+    {
+      "source": "original",
+      "label": "位置する",
+      "en": "The village lies at the foot of the mountain.",
+      "ja": "その村は山のふもとにある。"
+    },
+    {
+      "source": "original",
+      "label": "lie in",
+      "en": "The cause of the problem lies in poor planning.",
+      "ja": "問題の原因はずさんな計画にある。"
+    },
+    {
+      "source": "original",
+      "label": "状態のまま",
+      "en": "The old bike has lain unused in the garage for years.",
+      "ja": "その古い自転車は何年も車庫で使われないままになっている。"
+    },
+    {
+      "source": "original",
+      "label": "嘘をつく",
+      "en": "He lied to his parents about the test.",
+      "ja": "彼はテストのことで両親に嘘をついた。"
+    }
+  ],
+  "check_points": [
+    "lie(横たわる)と lie(嘘をつく)の活用を言えるか",
+    "lie と lay(他動詞)の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "lie-lay-lain と lay-laid-laid の区別は語法・正誤問題の定番。lie in A(原因がある)も長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 561
+    }
+  ]
+}

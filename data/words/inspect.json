@@ -1,0 +1,94 @@
+{
+  "word": "inspect",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈspekt/",
+  "core_image": {
+    "text": "中までのぞきこんで、細かく調べる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"74\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"30\" y2=\"98\"/><line x1=\"74\" y1=\"96\" x2=\"90\" y2=\"88\"/><circle cx=\"102\" cy=\"80\" r=\"14\"/><rect x=\"140\" y=\"90\" width=\"70\" height=\"50\"/><line x1=\"118\" y1=\"82\" x2=\"150\" y2=\"100\" stroke-dasharray=\"5 5\"/><polyline points=\"145.8,93.2 150,100 142,99.9\"/></g><text x=\"176\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">よく調べる</text></svg>"
+  },
+  "etymology": "in(中を) + spect(ラテン語 specere=見る。respect・expect と同じ根) → 中までのぞきこむ → (細かいところまで)調べる・点検する → (役人が公式に)視察する・検査する → 名詞 inspection(検査)、inspector(検査官)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to look at something carefully to check it; to visit a place officially to check that rules are followed."
+    }
+  ],
+  "cautions": [
+    "他動詞:inspect A=Aを調べる(× inspect about A)",
+    "inspect A for B=Bがないか Aを調べる",
+    "examine より「規則どおりか・欠陥がないかを点検する」感じが強い",
+    "名詞 inspection=検査、inspector=検査官"
+  ],
+  "patterns": [
+    {
+      "form": "inspect A",
+      "meaning": "Aを点検する・調べる"
+    },
+    {
+      "form": "inspect A for B",
+      "meaning": "Bがないか Aを調べる"
+    },
+    {
+      "form": "inspection",
+      "meaning": "検査・視察"
+    },
+    {
+      "form": "inspector",
+      "meaning": "検査官"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "調べる",
+      "en": "The doctor inspected the cut on my arm.",
+      "ja": "医師は私の腕の切り傷をよく調べた。"
+    },
+    {
+      "source": "original",
+      "label": "点検する",
+      "en": "Workers inspect the trains every night.",
+      "ja": "作業員が毎晩列車を点検している。"
+    },
+    {
+      "source": "original",
+      "label": "inspect A for B",
+      "en": "He inspected the car for damage.",
+      "ja": "彼は車に傷がないか調べた。"
+    },
+    {
+      "source": "original",
+      "label": "視察する",
+      "en": "Government officials inspected the school.",
+      "ja": "政府の役人が学校を視察した。"
+    },
+    {
+      "source": "original",
+      "label": "inspection",
+      "en": "The building failed the safety inspection.",
+      "ja": "その建物は安全検査に不合格だった。"
+    },
+    {
+      "source": "original",
+      "label": "inspector",
+      "en": "A ticket inspector checked our tickets.",
+      "ja": "検札係が私たちの切符を調べた。"
+    }
+  ],
+  "check_points": [
+    "inspect の語源(in + spect)を言えるか",
+    "inspect A for B の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "inspection / inspector が長文・説明文で出る。spect=見る の語根でまとめて覚える。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 568
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "lay",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/leɪ/",
+  "core_image": {
+    "text": "物を、そっと横にして置く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"102\" y2=\"120\"/><line x1=\"60\" y1=\"74\" x2=\"40\" y2=\"98\"/><rect x=\"104\" y=\"126\" width=\"48\" height=\"14\"/><line x1=\"128\" y1=\"78\" x2=\"128\" y2=\"118\"/><polyline points=\"131.8,111 128,118 124.2,111\"/></g><text x=\"186\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">横にして置く</text></svg>"
+  },
+  "etymology": "古い英語 lecgan(横にさせる。lie の「させる」形) → 横にして置く → (卵を)産み置く → (土台・計画を)据える(lay the foundation) → lay off=(仕事から)外して置く=一時解雇する。活用 lay-laid-laid",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to put something down carefully in a flat position; (of a bird) to produce eggs; to prepare or establish something."
+    }
+  ],
+  "cautions": [
+    "他動詞:lay A on B=AをBの上に置く(目的語が必要)。自分が横になるのは lie",
+    "活用 lay-laid-laid(× layed)",
+    "lay off A=Aを一時解雇する、lay out A=Aを並べる・設計する",
+    "lay の形が lie の過去形と同じ:He lay down.(横になった)と He laid the book down.(本を置いた)"
+  ],
+  "patterns": [
+    {
+      "form": "lay A on B",
+      "meaning": "AをBの上に(横にして)置く"
+    },
+    {
+      "form": "lay eggs",
+      "meaning": "卵を産む"
+    },
+    {
+      "form": "lay the foundation(s) for A",
+      "meaning": "Aの土台を築く"
+    },
+    {
+      "form": "lay off A",
+      "meaning": "Aを一時解雇する"
+    },
+    {
+      "form": "lay out A",
+      "meaning": "Aを並べる・設計する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "置く",
+      "en": "She laid the baby gently on the bed.",
+      "ja": "彼女は赤ちゃんをそっとベッドに寝かせた。"
+    },
+    {
+      "source": "original",
+      "label": "置く",
+      "en": "Please lay your books on the desk.",
+      "ja": "本を机の上に置いてください。"
+    },
+    {
+      "source": "original",
+      "label": "卵を産む",
+      "en": "Our hens lay an egg almost every day.",
+      "ja": "うちのめんどりはほとんど毎日卵を産む。"
+    },
+    {
+      "source": "original",
+      "label": "土台を築く",
+      "en": "His research laid the foundation for modern medicine.",
+      "ja": "彼の研究は現代医学の土台を築いた。"
+    },
+    {
+      "source": "original",
+      "label": "lay off",
+      "en": "The company laid off two hundred workers.",
+      "ja": "その会社は200人の従業員を一時解雇した。"
+    },
+    {
+      "source": "original",
+      "label": "lay out",
+      "en": "The map was laid out on the table.",
+      "ja": "地図がテーブルの上に広げられていた。"
+    }
+  ],
+  "check_points": [
+    "lay の活用を言えるか",
+    "He lay down. と He laid it down. の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "lie との区別(自動詞・他動詞、活用)が正誤・空所補充の定番。lay off も長文に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 562
+    }
+  ]
+}

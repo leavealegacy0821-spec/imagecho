@@ -1,0 +1,103 @@
+{
+  "word": "rise",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/raɪz/",
+  "core_image": {
+    "text": "下から、自分の力で上へ上がる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"40\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"80\" y2=\"96\"/><path d=\"M150 140 A30 30 0 0 1 210 140\"/><line x1=\"180\" y1=\"100\" x2=\"180\" y2=\"50\"/><polyline points=\"176.2,57 180,50 183.8,57\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">上がる</text></svg>"
+  },
+  "etymology": "古い英語 risan(上がる) → (自分で)上がる → (日・月が)昇る → (値段・数が)上がる → 起き上がる・立ち上がる → (人々が)立ち上がる=反乱を起こす → 名詞 rise=上昇。活用 rise-rose-risen",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move upward; (of the sun or moon) to appear in the sky; to increase in amount or level; to stand up."
+    },
+    {
+      "pos": "名詞",
+      "text": "an increase in amount, number or level."
+    }
+  ],
+  "cautions": [
+    "自動詞:目的語をとらない。「〜を上げる」は他動詞 raise(raise one's hand)",
+    "活用 rise-rose-risen(raise は raised-raised)",
+    "名詞 a rise in A=Aの上昇、give rise to A=Aを引き起こす",
+    "arise(起こる・生じる)と混同しない"
+  ],
+  "patterns": [
+    {
+      "form": "rise",
+      "meaning": "上がる・昇る"
+    },
+    {
+      "form": "rise by A",
+      "meaning": "Aだけ上がる(差)"
+    },
+    {
+      "form": "rise to A",
+      "meaning": "Aまで上がる"
+    },
+    {
+      "form": "a rise in A",
+      "meaning": "Aの上昇"
+    },
+    {
+      "form": "give rise to A",
+      "meaning": "Aを引き起こす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "昇る",
+      "en": "The sun rises in the east.",
+      "ja": "太陽は東から昇る。"
+    },
+    {
+      "source": "original",
+      "label": "上がる",
+      "en": "Prices have risen by ten percent this year.",
+      "ja": "今年、物価は10パーセント上がった。"
+    },
+    {
+      "source": "original",
+      "label": "立ち上がる",
+      "en": "Everyone rose when the teacher came in.",
+      "ja": "先生が入ってくると全員が立ち上がった。"
+    },
+    {
+      "source": "original",
+      "label": "上昇",
+      "en": "There has been a sharp rise in the number of tourists.",
+      "ja": "観光客の数が急に増えている。"
+    },
+    {
+      "source": "original",
+      "label": "give rise to",
+      "en": "The new law gave rise to a lot of arguments.",
+      "ja": "その新しい法律は多くの議論を引き起こした。"
+    },
+    {
+      "source": "original",
+      "label": "反乱",
+      "en": "The people rose against the king.",
+      "ja": "人々は王に対して立ち上がった。"
+    }
+  ],
+  "check_points": [
+    "rise と raise の違い(自・他、活用)を言えるか",
+    "give rise to A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "rise / raise / arise の区別が正誤・語法の定番。give rise to はイディオム問題で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 563
+    }
+  ]
+}

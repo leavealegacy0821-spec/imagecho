@@ -1,0 +1,107 @@
+{
+  "word": "cast",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/kæst/",
+  "core_image": {
+    "text": "力をこめて、パッと投げる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"72\" y2=\"48\"/><line x1=\"50\" y1=\"74\" x2=\"30\" y2=\"96\"/><line x1=\"80\" y1=\"46\" x2=\"190\" y2=\"104\" stroke-dasharray=\"5 5\"/><polyline points=\"185.6,97.3 190,104 182,104.1\"/><circle cx=\"200\" cy=\"116\" r=\"8\"/></g><text x=\"150\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">投げる</text></svg>"
+  },
+  "etymology": "古いノルド語 kasta(投げる) → 投げる → (視線・光・影を)投げかける → (票を)投じる → (役を)割り振る=配役する → (溶かした金属を型に)流し込む=鋳造する。活用 cast-cast-cast",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to throw something; to send light, a shadow or a look in a direction; to give a vote; to choose actors for roles in a play or film."
+    },
+    {
+      "pos": "名詞",
+      "text": "all the actors in a play or film."
+    }
+  ],
+  "cautions": [
+    "活用は cast-cast-cast(すべて同じ形)",
+    "cast doubt on A=Aに疑いを投げかける",
+    "cast a vote=投票する、cast a glance at A=Aをちらっと見る",
+    "名詞 the cast=(劇・映画の)出演者全員"
+  ],
+  "patterns": [
+    {
+      "form": "cast A",
+      "meaning": "Aを投げる"
+    },
+    {
+      "form": "cast a shadow",
+      "meaning": "影を落とす"
+    },
+    {
+      "form": "cast doubt on A",
+      "meaning": "Aに疑いを投げかける"
+    },
+    {
+      "form": "cast a vote",
+      "meaning": "投票する"
+    },
+    {
+      "form": "cast a glance at A",
+      "meaning": "Aをちらっと見る"
+    },
+    {
+      "form": "cast A as B",
+      "meaning": "AをBの役に選ぶ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "投げる",
+      "en": "The fisherman cast his net into the sea.",
+      "ja": "漁師は網を海に投げた。"
+    },
+    {
+      "source": "original",
+      "label": "影を落とす",
+      "en": "The tall tree cast a long shadow on the ground.",
+      "ja": "高い木が地面に長い影を落としていた。"
+    },
+    {
+      "source": "original",
+      "label": "疑い",
+      "en": "The new evidence cast doubt on his story.",
+      "ja": "新しい証拠が彼の話に疑いを投げかけた。"
+    },
+    {
+      "source": "original",
+      "label": "投票する",
+      "en": "Many young people cast their votes for the first time.",
+      "ja": "多くの若者が初めて投票した。"
+    },
+    {
+      "source": "original",
+      "label": "ちらっと見る",
+      "en": "She cast a quick glance at the clock.",
+      "ja": "彼女はちらっと時計を見た。"
+    },
+    {
+      "source": "original",
+      "label": "配役する",
+      "en": "He was cast as the hero in the school play.",
+      "ja": "彼は学校劇で主人公の役に選ばれた。"
+    }
+  ],
+  "check_points": [
+    "cast の活用を言えるか",
+    "cast doubt on A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "cast doubt on / cast a shadow / cast a vote が長文で出る。活用が同形なのも確認。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 565
+    }
+  ]
+}

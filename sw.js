@@ -3,7 +3,7 @@
 // ★アプリの部品(html / css / js / アイコン / manifest)を書き換えたら、
 //   下の APP_VERSION の数字を必ず1つ上げること。
 //   上げると新しい部品を取り直し、古い部品のキャッシュは消える。
-const APP_VERSION = 'v31';
+const APP_VERSION = 'v32';
 
 const APP_CACHE = 'imagecho-app-' + APP_VERSION; // アプリの部品
 const INDEX_CACHE = 'imagecho-index';            // data/index.json の控え

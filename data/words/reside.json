@@ -1,0 +1,98 @@
+{
+  "word": "reside",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈzaɪd/",
+  "core_image": {
+    "text": "ある場所に、腰を落ち着けて住む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"84\" y2=\"90\"/><line x1=\"60\" y1=\"74\" x2=\"40\" y2=\"96\"/><polygon points=\"120,70 170,40 220,70\"/><rect x=\"130\" y=\"70\" width=\"80\" height=\"70\"/><rect x=\"160\" y=\"105\" width=\"20\" height=\"35\"/></g><text x=\"60\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">住む</text></svg>"
+  },
+  "etymology": "re(後ろに・とどまって) + side(ラテン語 sedere=座る。sit・session と同じ根) → 座りこんでとどまる → (ある場所に)住む・居住する → (性質・権限が)ある・宿る(reside in A) → resident(住民)、residence(住まい)、residential(住宅の)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to live in a particular place; (of a quality or power) to be present in someone or something."
+    }
+  ],
+  "cautions": [
+    "自動詞:reside in / at A(× reside A)",
+    "live より硬い言い方(公式の書類・説明文で使う)",
+    "reside in A(抽象)=(性質・権限が)Aにある",
+    "名詞 resident=住民、residence=住まい、形容詞 residential area=住宅地"
+  ],
+  "patterns": [
+    {
+      "form": "reside in / at A",
+      "meaning": "Aに住む"
+    },
+    {
+      "form": "reside in A",
+      "meaning": "(性質・権限が)Aにある"
+    },
+    {
+      "form": "resident",
+      "meaning": "住民"
+    },
+    {
+      "form": "residence",
+      "meaning": "住まい・居住"
+    },
+    {
+      "form": "residential area",
+      "meaning": "住宅地"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "住む",
+      "en": "My uncle now resides in Canada.",
+      "ja": "おじは今カナダに住んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "居住する",
+      "en": "About 3,000 people reside in this town.",
+      "ja": "この町には約3000人が住んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "ある",
+      "en": "Real power resides in the people.",
+      "ja": "本当の権力は国民にある。"
+    },
+    {
+      "source": "original",
+      "label": "resident",
+      "en": "Local residents complained about the noise.",
+      "ja": "地元の住民が騒音に苦情を言った。"
+    },
+    {
+      "source": "original",
+      "label": "residence",
+      "en": "The palace was the king's official residence.",
+      "ja": "その宮殿は王の公邸だった。"
+    },
+    {
+      "source": "original",
+      "label": "residential",
+      "en": "They live in a quiet residential area.",
+      "ja": "彼らは静かな住宅地に住んでいる。"
+    }
+  ],
+  "check_points": [
+    "reside の後ろに来る前置詞を言えるか",
+    "resident / residence の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "resident(住民)・residential(住宅の)が長文で頻出。reside in の自動詞の語法も確認。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 569
+    }
+  ]
+}

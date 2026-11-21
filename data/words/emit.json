@@ -1,0 +1,94 @@
+{
+  "word": "emit",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/iˈmɪt/",
+  "core_image": {
+    "text": "中から外へ、送り出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"90\" width=\"70\" height=\"50\"/><rect x=\"88\" y=\"60\" width=\"14\" height=\"30\"/><line x1=\"96\" y1=\"54\" x2=\"140\" y2=\"20\" stroke-dasharray=\"5 5\"/><polyline points=\"132.1,21.3 140,20 136.8,27.3\"/><line x1=\"104\" y1=\"58\" x2=\"170\" y2=\"46\" stroke-dasharray=\"5 5\"/><polyline points=\"162.4,43.5 170,46 163.8,51\"/><line x1=\"108\" y1=\"66\" x2=\"190\" y2=\"76\" stroke-dasharray=\"5 5\"/><polyline points=\"183.5,71.3 190,76 182.6,79\"/></g><text x=\"180\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">外へ出す</text></svg>"
+  },
+  "etymology": "e(=ex。外へ) + mit(ラテン語 mittere=送る。submit・transmit と同じ根) → 外へ送り出す → (光・熱・ガス・音・におい を)出す・放つ → 名詞 emission(排出・放出)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to send out light, heat, gas, sound, etc."
+    }
+  ],
+  "cautions": [
+    "主語は太陽・工場・車・機械などの「物」が多い(The sun emits light.)",
+    "他動詞:emit A=Aを出す(× emit out A は不要)",
+    "名詞 emission=排出(CO2 emissions=二酸化炭素の排出量)",
+    "omit(省く)・admit(認める)と形が似ているので区別する"
+  ],
+  "patterns": [
+    {
+      "form": "emit A",
+      "meaning": "A(光・熱・ガスなど)を出す"
+    },
+    {
+      "form": "emit A into B",
+      "meaning": "AをBに放出する"
+    },
+    {
+      "form": "emission(s)",
+      "meaning": "排出・排出量"
+    },
+    {
+      "form": "reduce emissions",
+      "meaning": "排出量を減らす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "光を出す",
+      "en": "The sun emits light and heat.",
+      "ja": "太陽は光と熱を出す。"
+    },
+    {
+      "source": "original",
+      "label": "ガスを出す",
+      "en": "Cars emit large amounts of carbon dioxide.",
+      "ja": "車は大量の二酸化炭素を出す。"
+    },
+    {
+      "source": "original",
+      "label": "音を出す",
+      "en": "The machine emitted a strange noise.",
+      "ja": "その機械は奇妙な音を出した。"
+    },
+    {
+      "source": "original",
+      "label": "放出する",
+      "en": "Factories emit harmful gases into the air.",
+      "ja": "工場は有害なガスを大気中に放出している。"
+    },
+    {
+      "source": "original",
+      "label": "emission",
+      "en": "We must reduce greenhouse gas emissions.",
+      "ja": "私たちは温室効果ガスの排出量を減らさなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "におい",
+      "en": "The flowers emit a sweet smell at night.",
+      "ja": "その花は夜になると甘い香りを放つ。"
+    }
+  ],
+  "check_points": [
+    "emit と omit の違いを言えるか",
+    "emission の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "環境問題の長文で emit / emissions が頻出。言いかえ give off も確認。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 567
+    }
+  ]
+}
