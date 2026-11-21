@@ -1,0 +1,108 @@
+{
+  "word": "view",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/vjuː/",
+  "core_image": {
+    "text": "目に入る景色と、それを見る目",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"46\" y1=\"74\" x2=\"34\" y2=\"96\"/><line x1=\"46\" y1=\"74\" x2=\"58\" y2=\"96\"/><polyline points=\"110,140 150,90 175,115 200,84 225,140\"/><line x1=\"60\" y1=\"50\" x2=\"140\" y2=\"92\" stroke-dasharray=\"5 5\"/><polyline points=\"135.6,85.3 140,92 132,92.1\"/></g><text x=\"170\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">眺め・見方</text></svg>"
+  },
+  "etymology": "ラテン語 videre(見る。vis と同じ) → 見ること・見える景色(眺め) → 頭で見たもの=見方・意見(in my view) → 見て判断する(view A as B=AをBとみなす)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "what you can see from a place; a personal opinion or way of thinking about something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to look at something; to think about something in a particular way."
+    }
+  ],
+  "cautions": [
+    "「眺め」と「意見・見方」の2つが中心(point of view=観点)",
+    "in my view=私の考えでは、in view of A=Aを考慮して、with a view to doing=〜する目的で(to は前置詞)",
+    "view A as B=AをBとみなす(regard A as B と同じ型)",
+    "come into view=見えてくる"
+  ],
+  "patterns": [
+    {
+      "form": "a view of A",
+      "meaning": "Aの眺め"
+    },
+    {
+      "form": "in my view",
+      "meaning": "私の考えでは"
+    },
+    {
+      "form": "view A as B",
+      "meaning": "AをBとみなす"
+    },
+    {
+      "form": "in view of A",
+      "meaning": "Aを考慮して"
+    },
+    {
+      "form": "with a view to doing",
+      "meaning": "〜する目的で"
+    },
+    {
+      "form": "point of view",
+      "meaning": "観点"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "眺め",
+      "en": "The hotel room has a beautiful view of the sea.",
+      "ja": "そのホテルの部屋からは海の美しい眺めが見える。"
+    },
+    {
+      "source": "original",
+      "label": "意見",
+      "en": "In my view, the plan will not work.",
+      "ja": "私の考えでは、その計画はうまくいかないだろう。"
+    },
+    {
+      "source": "original",
+      "label": "view A as B",
+      "en": "Many people view the artist as a genius.",
+      "ja": "多くの人がその画家を天才とみなしている。"
+    },
+    {
+      "source": "original",
+      "label": "in view of",
+      "en": "In view of the weather, the game was canceled.",
+      "ja": "天候を考慮して、試合は中止された。"
+    },
+    {
+      "source": "original",
+      "label": "with a view to",
+      "en": "She is saving money with a view to studying abroad.",
+      "ja": "彼女は留学するためにお金をためている。"
+    },
+    {
+      "source": "original",
+      "label": "come into view",
+      "en": "The castle came into view as we turned the corner.",
+      "ja": "角を曲がると城が見えてきた。"
+    }
+  ],
+  "check_points": [
+    "view の「眺め」以外の意味を言えるか",
+    "with a view to の後ろの形を言えるか",
+    "view A as B と同じ型の動詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "with a view to doing(to が前置詞)、view A as B、in view of が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 607
+    }
+  ]
+}

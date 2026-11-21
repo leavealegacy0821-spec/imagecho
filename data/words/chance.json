@@ -1,0 +1,98 @@
+{
+  "word": "chance",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/tʃæns/",
+  "core_image": {
+    "text": "どちらに転ぶかわからない、サイコロの目",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"96\" y=\"90\" width=\"50\" height=\"50\"/><circle cx=\"108\" cy=\"102\" r=\"4\"/><circle cx=\"121\" cy=\"115\" r=\"4\"/><circle cx=\"134\" cy=\"128\" r=\"4\"/><line x1=\"50\" y1=\"30\" x2=\"92\" y2=\"82\" stroke-dasharray=\"5 5\"/><polyline points=\"90.6,74.1 92,82 84.6,78.9\"/><path d=\"M40 60 Q60 40 80 50\"/></g><text x=\"188\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">偶然・見込み</text></svg>"
+  },
+  "etymology": "ラテン語 cadere(落ちる。case と同じ) → (サイコロの)落ち方 → 偶然・運(by chance) → 起こりうる見込み=可能性(chances are) → 都合のよい機会=好機",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the way things happen without any plan; the possibility that something will happen; an opportunity to do something."
+    }
+  ],
+  "cautions": [
+    "by chance=偶然に(by accident と同じ)。「偶然」「可能性」「機会」の3つを文脈で区別",
+    "(The) chances are (that) S V=おそらく〜だろう",
+    "There is a chance that S V=〜する可能性がある、have a chance to do / of doing=〜する機会・見込みがある",
+    "take a chance=思い切ってやってみる"
+  ],
+  "patterns": [
+    {
+      "form": "by chance",
+      "meaning": "偶然に"
+    },
+    {
+      "form": "(The) chances are that S V",
+      "meaning": "おそらく〜だろう"
+    },
+    {
+      "form": "a chance of doing",
+      "meaning": "〜する見込み"
+    },
+    {
+      "form": "a chance to do",
+      "meaning": "〜する機会"
+    },
+    {
+      "form": "take a chance",
+      "meaning": "思い切ってやる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "偶然",
+      "en": "I met an old friend by chance at the airport.",
+      "ja": "空港で偶然、旧友に会った。"
+    },
+    {
+      "source": "original",
+      "label": "chances are",
+      "en": "Chances are that it will rain tomorrow.",
+      "ja": "おそらく明日は雨だろう。"
+    },
+    {
+      "source": "original",
+      "label": "見込み",
+      "en": "We have little chance of winning the game.",
+      "ja": "私たちがその試合に勝つ見込みはほとんどない。"
+    },
+    {
+      "source": "original",
+      "label": "機会",
+      "en": "I had a chance to talk with the mayor.",
+      "ja": "市長と話す機会があった。"
+    },
+    {
+      "source": "original",
+      "label": "There is a chance",
+      "en": "There is a chance that the train will be late.",
+      "ja": "電車が遅れる可能性がある。"
+    },
+    {
+      "source": "original",
+      "label": "take a chance",
+      "en": "He took a chance and started his own business.",
+      "ja": "彼は思い切って自分の会社を始めた。"
+    }
+  ],
+  "check_points": [
+    "chance の3つの意味を言えるか",
+    "Chances are that S V の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "by chance、(The) chances are、chance of doing の意味が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 606
+    }
+  ]
+}

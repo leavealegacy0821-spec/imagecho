@@ -1,0 +1,103 @@
+{
+  "word": "stop",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/stɑːp/",
+  "core_image": {
+    "text": "動いているものを、そこでぴたりと止める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"80\" y1=\"74\" x2=\"66\" y2=\"96\"/><line x1=\"80\" y1=\"74\" x2=\"94\" y2=\"96\"/><line x1=\"14\" y1=\"52\" x2=\"60\" y2=\"52\"/><polyline points=\"53,48.2 60,52 53,55.8\"/><rect x=\"108\" y=\"60\" width=\"10\" height=\"80\"/><line x1=\"128\" y1=\"70\" x2=\"140\" y2=\"70\"/><line x1=\"128\" y1=\"84\" x2=\"144\" y2=\"84\"/></g><text x=\"182\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そこで止める</text></svg>"
+  },
+  "etymology": "古い英語 stoppian(穴をふさぐ) → 流れをふさぐ → 止める・止まる → (〜するのを)やめる → 止まる場所(バス停)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to no longer move; to end an activity; to prevent someone from doing something."
+    },
+    {
+      "pos": "名詞",
+      "text": "an act of stopping; a place where a bus or train stops."
+    }
+  ],
+  "cautions": [
+    "stop doing=〜するのをやめる、stop to do=〜するために立ち止まる(to do は目的を表す副詞用法)",
+    "stop A (from) doing=Aが〜するのを止める(prevent A from doing と同じ型)",
+    "名詞:a bus stop=バス停、come to a stop=止まる、put a stop to A=Aをやめさせる",
+    "過去形は stopped(p を重ねる)"
+  ],
+  "patterns": [
+    {
+      "form": "stop doing",
+      "meaning": "〜するのをやめる"
+    },
+    {
+      "form": "stop to do",
+      "meaning": "〜するために立ち止まる"
+    },
+    {
+      "form": "stop A (from) doing",
+      "meaning": "Aが〜するのを止める"
+    },
+    {
+      "form": "put a stop to A",
+      "meaning": "Aをやめさせる"
+    },
+    {
+      "form": "bus stop",
+      "meaning": "バス停"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "止まる",
+      "en": "The train stopped suddenly.",
+      "ja": "電車が急に止まった。"
+    },
+    {
+      "source": "original",
+      "label": "stop doing",
+      "en": "My father stopped smoking last year.",
+      "ja": "父は去年たばこをやめた。"
+    },
+    {
+      "source": "original",
+      "label": "stop to do",
+      "en": "He stopped to look at the map.",
+      "ja": "彼は地図を見るために立ち止まった。"
+    },
+    {
+      "source": "original",
+      "label": "stop A from doing",
+      "en": "The rain stopped us from going out.",
+      "ja": "雨のせいで私たちは出かけられなかった。"
+    },
+    {
+      "source": "original",
+      "label": "put a stop to",
+      "en": "The school put a stop to bullying.",
+      "ja": "学校はいじめをやめさせた。"
+    },
+    {
+      "source": "original",
+      "label": "バス停",
+      "en": "Get off at the next stop.",
+      "ja": "次の停留所で降りてください。"
+    }
+  ],
+  "check_points": [
+    "stop doing と stop to do の違いを言えるか",
+    "stop A from doing と同じ型の動詞を1つ言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "stop doing / stop to do の区別、stop A from doing が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 603
+    }
+  ]
+}

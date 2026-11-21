@@ -1,0 +1,99 @@
+{
+  "word": "forget",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/fərˈɡet/",
+  "core_image": {
+    "text": "頭の中にあったものが、抜け落ちる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"96\"/><circle cx=\"82\" cy=\"40\" r=\"3\"/><circle cx=\"94\" cy=\"32\" r=\"4\"/><ellipse cx=\"150\" cy=\"44\" rx=\"44\" ry=\"26\" stroke-dasharray=\"5 4\"/><rect x=\"134\" y=\"34\" width=\"32\" height=\"20\" stroke-dasharray=\"4 3\"/><line x1=\"180\" y1=\"60\" x2=\"220\" y2=\"96\" stroke-dasharray=\"5 5\"/><polyline points=\"217.3,88.5 220,96 212.2,94.2\"/></g><text x=\"130\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">抜け落ちる</text></svg>"
+  },
+  "etymology": "for(離れて・失って) + get(つかむ) → つかんでいたものを手放す → 忘れる → (うっかり)〜し忘れる・置き忘れる。活用 forget-forgot-forgotten",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be unable to remember something; to not remember to do something; to stop thinking about something."
+    }
+  ],
+  "cautions": [
+    "forget to do=(これから)〜するのを忘れる、forget doing=(過去に)〜したことを忘れる(多くは never forget doing / I'll never forget doing の形)",
+    "「置き忘れる」で場所を言うときは leave を使う(× I forgot my umbrella on the train → I left my umbrella on the train)",
+    "forget about A=Aのことを(考えるのを)やめる・忘れる",
+    "活用 forget-forgot-forgotten。形容詞 forgetful=忘れっぽい"
+  ],
+  "patterns": [
+    {
+      "form": "forget to do",
+      "meaning": "〜し忘れる"
+    },
+    {
+      "form": "forget doing",
+      "meaning": "〜したことを忘れる"
+    },
+    {
+      "form": "never forget doing",
+      "meaning": "〜したことを決して忘れない"
+    },
+    {
+      "form": "forget about A",
+      "meaning": "Aのことを忘れる"
+    },
+    {
+      "form": "leave A 場所",
+      "meaning": "Aを〜に置き忘れる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "忘れる",
+      "en": "I forgot his phone number.",
+      "ja": "彼の電話番号を忘れてしまった。"
+    },
+    {
+      "source": "original",
+      "label": "forget to do",
+      "en": "Don't forget to bring your passport.",
+      "ja": "パスポートを持ってくるのを忘れないで。"
+    },
+    {
+      "source": "original",
+      "label": "forget doing",
+      "en": "I will never forget seeing the sunrise from the top of Mt. Fuji.",
+      "ja": "富士山の頂上から日の出を見たことを決して忘れない。"
+    },
+    {
+      "source": "original",
+      "label": "forget about",
+      "en": "Let's forget about the test and enjoy dinner.",
+      "ja": "テストのことは忘れて夕食を楽しもう。"
+    },
+    {
+      "source": "original",
+      "label": "leave と区別",
+      "en": "I forgot my umbrella. I left it on the train.",
+      "ja": "傘を忘れた。電車に置き忘れたのだ。"
+    },
+    {
+      "source": "original",
+      "label": "forgotten",
+      "en": "The old song had been forgotten for years.",
+      "ja": "その古い歌は何年も忘れられていた。"
+    }
+  ],
+  "check_points": [
+    "forget to do と forget doing の違いを言えるか",
+    "「電車に傘を置き忘れた」で forget ではなく何を使うか言えるか",
+    "forget の活用を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "forget to do / doing の区別、場所がつくと leave を使う点が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 602
+    }
+  ]
+}

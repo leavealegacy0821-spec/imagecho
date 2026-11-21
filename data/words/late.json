@@ -1,0 +1,108 @@
+{
+  "word": "late",
+  "pos": [
+    "形容詞",
+    "副詞"
+  ],
+  "ipa": "/leɪt/",
+  "core_image": {
+    "text": "決まった時より、あとのほうに来る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"56\" cy=\"50\" r=\"24\"/><line x1=\"56\" y1=\"50\" x2=\"56\" y2=\"34\"/><line x1=\"56\" y1=\"50\" x2=\"68\" y2=\"50\"/><line x1=\"110\" y1=\"122\" x2=\"110\" y2=\"140\"/><circle cx=\"172\" cy=\"52\" r=\"10\"/><line x1=\"172\" y1=\"62\" x2=\"172\" y2=\"106\"/><line x1=\"172\" y1=\"106\" x2=\"162\" y2=\"140\"/><line x1=\"172\" y1=\"106\" x2=\"182\" y2=\"140\"/><line x1=\"172\" y1=\"74\" x2=\"158\" y2=\"94\"/><line x1=\"172\" y1=\"74\" x2=\"186\" y2=\"94\"/><line x1=\"118\" y1=\"130\" x2=\"150\" y2=\"130\"/><polyline points=\"143,126.2 150,130 143,133.8\"/></g><text x=\"110\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">決まった時</text><text x=\"214\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あと</text></svg>"
+  },
+  "etymology": "古い英語 læt(遅い) → 決まった時より遅れて=遅刻した → (時期の)終わりのほうの(late in the evening) → (時が過ぎて)今はもういない=故〜(the late Mr. A) → (つい少し前の)最近の(lately=最近)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "arriving or happening after the expected time; near the end of a period of time; no longer alive."
+    },
+    {
+      "pos": "副詞",
+      "text": "after the usual or expected time; near the end of a period."
+    }
+  ],
+  "cautions": [
+    "be late for A=Aに遅れる(for を使う)",
+    "lately=最近(× 遅く)。副詞「遅く」は late そのもの(work late=遅くまで働く)",
+    "later/latest=時間の順(後で・最新の)、latter/last=順番(後者・最後の)",
+    "the late A=故A(亡くなったA)。in the late 1990s=1990年代後半"
+  ],
+  "patterns": [
+    {
+      "form": "be late for A",
+      "meaning": "Aに遅れる"
+    },
+    {
+      "form": "late in A",
+      "meaning": "Aの終わりごろに"
+    },
+    {
+      "form": "lately",
+      "meaning": "最近"
+    },
+    {
+      "form": "the latest A",
+      "meaning": "最新のA"
+    },
+    {
+      "form": "the latter",
+      "meaning": "後者"
+    },
+    {
+      "form": "the late A",
+      "meaning": "故A"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "遅刻",
+      "en": "Hurry up, or you'll be late for school.",
+      "ja": "急がないと学校に遅れるよ。"
+    },
+    {
+      "source": "original",
+      "label": "遅く(副詞)",
+      "en": "My father often works late.",
+      "ja": "父はよく遅くまで働く。"
+    },
+    {
+      "source": "original",
+      "label": "終わりごろ",
+      "en": "The accident happened late at night.",
+      "ja": "その事故は夜遅くに起きた。"
+    },
+    {
+      "source": "original",
+      "label": "lately",
+      "en": "I haven't seen him lately.",
+      "ja": "最近、彼に会っていない。"
+    },
+    {
+      "source": "original",
+      "label": "latest",
+      "en": "This is the latest model of the camera.",
+      "ja": "これはそのカメラの最新機種です。"
+    },
+    {
+      "source": "original",
+      "label": "the late",
+      "en": "The museum has many paintings by the late artist.",
+      "ja": "その美術館には故人となった画家の絵がたくさんある。"
+    }
+  ],
+  "check_points": [
+    "lately の意味を言えるか",
+    "later と latter の違いを言えるか",
+    "the late A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "lately の意味、later/latest と latter/last の区別、the late A が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 608
+    }
+  ]
+}

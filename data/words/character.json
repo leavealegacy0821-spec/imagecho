@@ -1,0 +1,98 @@
+{
+  "word": "character",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈkærəktər/",
+  "core_image": {
+    "text": "その人・物だけに刻まれた、しるし",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"56\" y=\"24\" width=\"128\" height=\"96\"/><polyline points=\"80,100 96,52 112,100\"/><line x1=\"88\" y1=\"80\" x2=\"104\" y2=\"80\"/><circle cx=\"148\" cy=\"64\" r=\"18\"/><line x1=\"140\" y1=\"58\" x2=\"140\" y2=\"60\"/><line x1=\"156\" y1=\"58\" x2=\"156\" y2=\"60\"/><path d=\"M138 70 Q148 78 158 70\"/></g><text x=\"120\" y=\"144\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">刻まれたしるし</text></svg>"
+  },
+  "etymology": "ギリシャ語 kharaktēr(刻む道具・刻まれたしるし) → 他と見分けるしるし → (人に刻まれた)性格・人格 → (物の)特徴・特色 → (物語の)登場人物 → (刻まれた)文字(Chinese characters=漢字)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the qualities that make a person or thing different from others; a person in a story; a letter or sign used in writing."
+    }
+  ],
+  "cautions": [
+    "「性格」以外に「特徴・特色」「登場人物」「文字」がある(the character of the town=町の特色)",
+    "a man of character=人格者(character だけで「立派な人格」)",
+    "形容詞 characteristic=特有の(be characteristic of A=Aに特有だ)。名詞でも「特徴」",
+    "動詞 characterize=特徴づける。personality は「人柄・個性」に近い"
+  ],
+  "patterns": [
+    {
+      "form": "character",
+      "meaning": "性格・人格"
+    },
+    {
+      "form": "the character of A",
+      "meaning": "Aの特色"
+    },
+    {
+      "form": "a character in A",
+      "meaning": "Aの登場人物"
+    },
+    {
+      "form": "Chinese characters",
+      "meaning": "漢字"
+    },
+    {
+      "form": "be characteristic of A",
+      "meaning": "Aに特有だ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "性格",
+      "en": "My brother and I have very different characters.",
+      "ja": "兄と私はまったく違う性格だ。"
+    },
+    {
+      "source": "original",
+      "label": "特色",
+      "en": "The town has kept its old character.",
+      "ja": "その町は昔ながらの特色を残している。"
+    },
+    {
+      "source": "original",
+      "label": "登場人物",
+      "en": "Who is your favorite character in the novel?",
+      "ja": "その小説でいちばん好きな登場人物はだれですか。"
+    },
+    {
+      "source": "original",
+      "label": "文字",
+      "en": "Japanese uses Chinese characters.",
+      "ja": "日本語は漢字を使う。"
+    },
+    {
+      "source": "original",
+      "label": "人格",
+      "en": "She is a woman of strong character.",
+      "ja": "彼女はしっかりした人格の女性だ。"
+    },
+    {
+      "source": "original",
+      "label": "characteristic",
+      "en": "This kind of humor is characteristic of British people.",
+      "ja": "この種のユーモアはイギリス人に特有だ。"
+    }
+  ],
+  "check_points": [
+    "character の「性格」以外の意味を2つ言えるか",
+    "be characteristic of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「登場人物」「文字」「特色」の意味、characteristic の語法が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 605
+    }
+  ]
+}

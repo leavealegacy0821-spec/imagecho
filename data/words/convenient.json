@@ -1,0 +1,98 @@
+{
+  "word": "convenient",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/kənˈviːniənt/",
+  "core_image": {
+    "text": "相手の都合に、ぴったりはまる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon points=\"30,60 100,60 100,80 120,80 120,100 100,100 100,120 30,120\"/><polygon points=\"150,60 214,60 214,120 150,120 150,100 170,100 170,80 150,80\"/><line x1=\"196\" y1=\"40\" x2=\"160\" y2=\"40\"/><polyline points=\"167,43.8 160,40 167,36.2\"/></g><text x=\"120\" y=\"146\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぴったり合う</text></svg>"
+  },
+  "etymology": "con(共に) + ven(来る。event・prevent と同じ) → (都合よく)ちょうど一緒にやって来る → 都合がよい・便利な → (場所が)近くて便利な",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "suitable for your needs or plans; near or easy to get to."
+    }
+  ],
+  "cautions": [
+    "人を主語にしない(× If you are convenient → If it is convenient for you=ご都合がよければ)",
+    "be convenient for A=Aにとって都合がよい、be convenient for / to A(場所)=Aに近くて便利",
+    "名詞 convenience=便利さ(a convenience store=コンビニ、at your convenience=ご都合のよいときに)",
+    "反対は inconvenient(不便な・都合が悪い)"
+  ],
+  "patterns": [
+    {
+      "form": "It is convenient for A (to do)",
+      "meaning": "Aにとって(〜するのが)都合がよい"
+    },
+    {
+      "form": "be convenient for A",
+      "meaning": "Aに便利だ"
+    },
+    {
+      "form": "if it is convenient",
+      "meaning": "都合がよければ"
+    },
+    {
+      "form": "at your convenience",
+      "meaning": "都合のよいときに"
+    },
+    {
+      "form": "inconvenient",
+      "meaning": "不便な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "都合",
+      "en": "Would Friday be convenient for you?",
+      "ja": "金曜日はご都合がよろしいですか。"
+    },
+    {
+      "source": "original",
+      "label": "if it is convenient",
+      "en": "Please call me back if it is convenient for you.",
+      "ja": "ご都合がよければ折り返しお電話ください。"
+    },
+    {
+      "source": "original",
+      "label": "便利な",
+      "en": "Smartphones are convenient for checking the news.",
+      "ja": "スマートフォンはニュースを見るのに便利だ。"
+    },
+    {
+      "source": "original",
+      "label": "場所",
+      "en": "The hotel is convenient for the station.",
+      "ja": "そのホテルは駅に近くて便利だ。"
+    },
+    {
+      "source": "original",
+      "label": "at your convenience",
+      "en": "Please reply at your convenience.",
+      "ja": "ご都合のよいときにお返事ください。"
+    },
+    {
+      "source": "original",
+      "label": "inconvenient",
+      "en": "Living without a car is inconvenient in this area.",
+      "ja": "この地域では車なしの生活は不便だ。"
+    }
+  ],
+  "check_points": [
+    "「ご都合がよければ」を英語で言えるか(人を主語にしない)",
+    "convenience を使った表現を1つ言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "人を主語にしない点(× I am convenient)が正誤問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 610
+    }
+  ]
+}

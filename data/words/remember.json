@@ -1,0 +1,98 @@
+{
+  "word": "remember",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈmembər/",
+  "core_image": {
+    "text": "頭の中に残っていて、取り出せる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"96\"/><circle cx=\"82\" cy=\"40\" r=\"3\"/><circle cx=\"94\" cy=\"32\" r=\"4\"/><ellipse cx=\"160\" cy=\"44\" rx=\"48\" ry=\"26\"/><rect x=\"142\" y=\"34\" width=\"36\" height=\"22\"/><circle cx=\"152\" cy=\"42\" r=\"3\"/><polyline points=\"144,56 156,46 166,52 178,40\"/></g><text x=\"160\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">記憶にある</text></svg>"
+  },
+  "etymology": "re(再び) + member(心に留める。memory と同じ) → 心にもう一度呼び出す → 覚えている・思い出す → (覚えていて)忘れずに〜する → (人を思って)よろしく伝える",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to have something in your mind from the past; to bring something back into your mind; not to forget to do something."
+    }
+  ],
+  "cautions": [
+    "remember to do=(これから)忘れずに〜する、remember doing=(過去に)〜したのを覚えている",
+    "remember A as B=AをBとして覚えている",
+    "remember me to A=Aによろしく伝えて(remember A to B の型)",
+    "「思い出そうとする」は try to remember。「〜が思い出せない」は can't remember"
+  ],
+  "patterns": [
+    {
+      "form": "remember to do",
+      "meaning": "忘れずに〜する"
+    },
+    {
+      "form": "remember doing",
+      "meaning": "〜したのを覚えている"
+    },
+    {
+      "form": "remember A doing",
+      "meaning": "Aが〜したのを覚えている"
+    },
+    {
+      "form": "remember that S V",
+      "meaning": "〜ということを覚えている"
+    },
+    {
+      "form": "remember me to A",
+      "meaning": "Aによろしく伝える"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "覚えている",
+      "en": "I still remember the name of my first teacher.",
+      "ja": "私は最初の先生の名前を今でも覚えている。"
+    },
+    {
+      "source": "original",
+      "label": "remember to do",
+      "en": "Remember to lock the door when you go out.",
+      "ja": "出かけるときは忘れずにドアのかぎをかけなさい。"
+    },
+    {
+      "source": "original",
+      "label": "remember doing",
+      "en": "I remember meeting her at the station years ago.",
+      "ja": "何年も前に駅で彼女に会ったのを覚えている。"
+    },
+    {
+      "source": "original",
+      "label": "remember A doing",
+      "en": "I remember my father reading to me at night.",
+      "ja": "父が夜に本を読んでくれたのを覚えている。"
+    },
+    {
+      "source": "original",
+      "label": "remember that",
+      "en": "Remember that the test starts at nine.",
+      "ja": "テストは9時に始まることを覚えておきなさい。"
+    },
+    {
+      "source": "original",
+      "label": "remember me to",
+      "en": "Please remember me to your parents.",
+      "ja": "ご両親によろしくお伝えください。"
+    }
+  ],
+  "check_points": [
+    "remember to do と remember doing の違いを言えるか",
+    "remember me to A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "remember to do / doing の区別は語法問題の定番。forget・stop・try とセットで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 601
+    }
+  ]
+}

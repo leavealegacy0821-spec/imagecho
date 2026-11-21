@@ -1,0 +1,103 @@
+{
+  "word": "try",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/traɪ/",
+  "core_image": {
+    "text": "うまくいくか、まず手を出してみる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"118\" y2=\"88\"/><line x1=\"70\" y1=\"74\" x2=\"116\" y2=\"102\"/><rect x=\"120\" y=\"70\" width=\"70\" height=\"70\"/><line x1=\"130\" y1=\"56\" x2=\"182\" y2=\"56\"/><polyline points=\"175,52.2 182,56 175,59.8\"/></g><text x=\"155\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やってみる</text></svg>"
+  },
+  "etymology": "古いフランス語 trier(より分ける・確かめる) → よしあしを確かめる → 試す・やってみる → 努力する(try to do) → (法廷で確かめる)裁判にかける",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make an effort to do something; to do or use something to see if it is good or works; to examine a case in court."
+    },
+    {
+      "pos": "名詞",
+      "text": "an attempt to do something."
+    }
+  ],
+  "cautions": [
+    "try to do=〜しようと努力する(できたかは不明)、try doing=試しに〜してみる(実際にやる)",
+    "try on A / try A on=Aを試着する、try out A=Aを試してみる",
+    "try A for B=AをBの罪で裁判にかける(be tried for murder)",
+    "名詞:give it a try / have a try=やってみる"
+  ],
+  "patterns": [
+    {
+      "form": "try to do",
+      "meaning": "〜しようとする"
+    },
+    {
+      "form": "try doing",
+      "meaning": "試しに〜してみる"
+    },
+    {
+      "form": "try on A",
+      "meaning": "Aを試着する"
+    },
+    {
+      "form": "try out A",
+      "meaning": "Aを試す"
+    },
+    {
+      "form": "give it a try",
+      "meaning": "やってみる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "try to do",
+      "en": "I tried to open the window, but it was stuck.",
+      "ja": "窓を開けようとしたが、引っかかって開かなかった。"
+    },
+    {
+      "source": "original",
+      "label": "try doing",
+      "en": "Try adding a little salt to the soup.",
+      "ja": "試しにスープに塩を少し入れてごらん。"
+    },
+    {
+      "source": "original",
+      "label": "試す",
+      "en": "Have you ever tried Thai food?",
+      "ja": "タイ料理を食べてみたことはありますか。"
+    },
+    {
+      "source": "original",
+      "label": "try on",
+      "en": "Can I try on this jacket?",
+      "ja": "このジャケットを試着してもいいですか。"
+    },
+    {
+      "source": "original",
+      "label": "裁判にかける",
+      "en": "He was tried for robbery.",
+      "ja": "彼は強盗の罪で裁判にかけられた。"
+    },
+    {
+      "source": "original",
+      "label": "give it a try",
+      "en": "It looks difficult, but I'll give it a try.",
+      "ja": "難しそうだが、やってみよう。"
+    }
+  ],
+  "check_points": [
+    "try to do と try doing の違いを言えるか",
+    "try on の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "try to do / doing の区別、try on、be tried for が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 604
+    }
+  ]
+}
