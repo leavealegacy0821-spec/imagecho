@@ -1,0 +1,103 @@
+{
+  "word": "rule",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ruːl/",
+  "core_image": {
+    "text": "まっすぐな定規を当てて、従わせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"40\" width=\"160\" height=\"16\"/><line x1=\"60\" y1=\"40\" x2=\"60\" y2=\"48\"/><line x1=\"80\" y1=\"40\" x2=\"80\" y2=\"48\"/><line x1=\"100\" y1=\"40\" x2=\"100\" y2=\"48\"/><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"48\"/><line x1=\"140\" y1=\"40\" x2=\"140\" y2=\"48\"/><line x1=\"160\" y1=\"40\" x2=\"160\" y2=\"48\"/><line x1=\"180\" y1=\"40\" x2=\"180\" y2=\"48\"/><line x1=\"50\" y1=\"110\" x2=\"190\" y2=\"110\"/><line x1=\"120\" y1=\"60\" x2=\"120\" y2=\"104\"/><polyline points=\"123.8,97 120,104 116.2,97\"/></g><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">定規</text><text x=\"120\" y=\"132\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まっすぐ</text></svg>"
+  },
+  "etymology": "ラテン語 regula(まっすぐな棒・定規。regular と同じ根) → 物事をまっすぐにそろえる基準 → 規則 → 支配(する)・(物事の)ふつうのこと → (定規で)線を引く",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an instruction that says what is allowed; the usual way something happens; control of a country."
+    },
+    {
+      "pos": "動詞",
+      "text": "to control a country or group of people; to make an official decision."
+    }
+  ],
+  "cautions": [
+    "as a rule=概して・ふつうは(usually と同じ)",
+    "make it a rule to do=〜することにしている(it を忘れない)",
+    "rule out A=Aを除外する・(可能性を)否定する",
+    "動詞は「支配する・統治する」、ruler=支配者・定規"
+  ],
+  "patterns": [
+    {
+      "form": "as a rule",
+      "meaning": "概して・ふつうは"
+    },
+    {
+      "form": "make it a rule to do",
+      "meaning": "〜することにしている"
+    },
+    {
+      "form": "rule out A",
+      "meaning": "Aを除外する"
+    },
+    {
+      "form": "follow / break the rules",
+      "meaning": "規則を守る・破る"
+    },
+    {
+      "form": "under the rule of A",
+      "meaning": "Aの支配のもとで"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "規則",
+      "en": "You must follow the school rules.",
+      "ja": "校則を守らなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "as a rule",
+      "en": "As a rule, I get up at six.",
+      "ja": "ふつう私は6時に起きる。"
+    },
+    {
+      "source": "original",
+      "label": "make it a rule to do",
+      "en": "She makes it a rule to read before bed.",
+      "ja": "彼女は寝る前に読書することにしている。"
+    },
+    {
+      "source": "original",
+      "label": "rule out",
+      "en": "The police have not ruled out the possibility of murder.",
+      "ja": "警察は殺人の可能性を否定していない。"
+    },
+    {
+      "source": "original",
+      "label": "支配(名詞)",
+      "en": "The country was under British rule for many years.",
+      "ja": "その国は長年イギリスの支配下にあった。"
+    },
+    {
+      "source": "original",
+      "label": "支配する(動詞)",
+      "en": "The king ruled the land for forty years.",
+      "ja": "王はその国を40年間治めた。"
+    }
+  ],
+  "check_points": [
+    "make it a rule to do の it の役割を言えるか",
+    "rule out の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "as a rule、make it a rule to do、rule out が熟語問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 647
+    }
+  ]
+}

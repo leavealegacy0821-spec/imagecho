@@ -1,0 +1,94 @@
+{
+  "word": "relevant",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈreləvənt/",
+  "core_image": {
+    "text": "いま話していることに、ぴたりと結びつく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"80\" r=\"26\"/><circle cx=\"180\" cy=\"80\" r=\"18\"/><line x1=\"86\" y1=\"80\" x2=\"162\" y2=\"80\"/><circle cx=\"180\" cy=\"130\" r=\"8\"/><line x1=\"200\" y1=\"122\" x2=\"214\" y2=\"136\"/><line x1=\"214\" y1=\"122\" x2=\"200\" y2=\"136\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">話題</text><text x=\"120\" y=\"66\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">つながる</text><text x=\"136\" y=\"134\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">無関係</text></svg>"
+  },
+  "etymology": "ラテン語 relevare(持ち上げる。re + levare=軽くする・上げる。relieve と同じ根) → (問題を)持ち上げて役立つ → いまの話に関係のある・的を射た",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "closely connected with the subject or situation being discussed."
+    }
+  ],
+  "cautions": [
+    "be relevant to A=Aに関係がある・Aにとって重要だ(to を使う)",
+    "反対は irrelevant=無関係な・見当ちがいの",
+    "名詞 relevance=関連性",
+    "related(関連した)より「いまの話題に直接かかわる」感じが強い"
+  ],
+  "patterns": [
+    {
+      "form": "be relevant to A",
+      "meaning": "Aに関係がある"
+    },
+    {
+      "form": "relevant information",
+      "meaning": "関連する情報"
+    },
+    {
+      "form": "irrelevant",
+      "meaning": "無関係な"
+    },
+    {
+      "form": "relevance",
+      "meaning": "関連性"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "be relevant to",
+      "en": "His comment was not relevant to the discussion.",
+      "ja": "彼の発言は議論と関係がなかった。"
+    },
+    {
+      "source": "original",
+      "label": "関連する",
+      "en": "Please send me all the relevant documents.",
+      "ja": "関連する書類をすべて送ってください。"
+    },
+    {
+      "source": "original",
+      "label": "的を射た",
+      "en": "She asked a very relevant question.",
+      "ja": "彼女はとても的を射た質問をした。"
+    },
+    {
+      "source": "original",
+      "label": "いまに通じる",
+      "en": "This old novel is still relevant today.",
+      "ja": "この古い小説は今でも通じるものがある。"
+    },
+    {
+      "source": "original",
+      "label": "irrelevant",
+      "en": "Age is irrelevant to this job.",
+      "ja": "この仕事に年齢は関係ない。"
+    },
+    {
+      "source": "original",
+      "label": "relevance(名詞)",
+      "en": "I don't see the relevance of your point.",
+      "ja": "あなたの指摘の関連性がわからない。"
+    }
+  ],
+  "check_points": [
+    "be relevant のあとの前置詞を言えるか",
+    "irrelevant の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be relevant to と反対語 irrelevant が長文・語彙問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 649
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "criticize",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈkrɪtɪsaɪz/",
+  "core_image": {
+    "text": "良し悪しを切り分けて、悪い所を指さす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 100,66 116,64\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"160\" y2=\"96\"/><line x1=\"170\" y1=\"74\" x2=\"180\" y2=\"96\"/><line x1=\"200\" y1=\"56\" x2=\"214\" y2=\"70\"/><line x1=\"214\" y1=\"56\" x2=\"200\" y2=\"70\"/></g><text x=\"70\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そこがダメ</text><text x=\"218\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">欠点</text></svg>"
+  },
+  "etymology": "ギリシャ語 kritikos(判断できる。krinein=分ける・判断する。crisis、critic、criterion と同じ根) → 良し悪しを分けて判断する → 批評する → 欠点を指摘する・非難する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say what you think is bad about someone or something; to judge the good and bad qualities of something."
+    }
+  ],
+  "cautions": [
+    "criticize A for B=BのことでAを非難する(理由は for)",
+    "「批判する」だけでなく「批評する(良し悪しを判断する)」の意味もある",
+    "名詞 criticism=批判・批評、critic=批評家、形容詞 critical=批判的な・重大な",
+    "blame A for B(責任を負わせる)、accuse A of B(訴える・責める)と前置詞を区別"
+  ],
+  "patterns": [
+    {
+      "form": "criticize A for B",
+      "meaning": "BのことでAを非難する"
+    },
+    {
+      "form": "be criticized for doing",
+      "meaning": "〜したことで批判される"
+    },
+    {
+      "form": "criticism",
+      "meaning": "批判"
+    },
+    {
+      "form": "critic",
+      "meaning": "批評家"
+    },
+    {
+      "form": "critical",
+      "meaning": "批判的な・重大な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "criticize A for B",
+      "en": "The newspaper criticized the mayor for wasting money.",
+      "ja": "新聞は市長がお金を無駄にしたと非難した。"
+    },
+    {
+      "source": "original",
+      "label": "be criticized for",
+      "en": "The company was criticized for its poor service.",
+      "ja": "その会社はサービスの悪さで批判された。"
+    },
+    {
+      "source": "original",
+      "label": "批評する",
+      "en": "Students were asked to criticize each other's essays.",
+      "ja": "生徒たちはたがいの作文を批評するよう言われた。"
+    },
+    {
+      "source": "original",
+      "label": "criticism(名詞)",
+      "en": "He cannot accept criticism from others.",
+      "ja": "彼は他人からの批判を受け入れられない。"
+    },
+    {
+      "source": "original",
+      "label": "critical(形容詞)",
+      "en": "She is very critical of the new policy.",
+      "ja": "彼女は新しい政策にとても批判的だ。"
+    },
+    {
+      "source": "original",
+      "label": "accuse との比較",
+      "en": "They criticized him for being late, but they did not accuse him of lying.",
+      "ja": "彼らは彼の遅刻を責めたが、うそをついたとまでは言わなかった。"
+    }
+  ],
+  "check_points": [
+    "criticize A for B と accuse A of B の前置詞の違いを言えるか",
+    "critical の2つの意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "criticize A for B の for、名詞 criticism、critical(批判的な・重大な)が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 643
+    }
+  ]
+}

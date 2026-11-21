@@ -1,0 +1,103 @@
+{
+  "word": "praise",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/preɪz/",
+  "core_image": {
+    "text": "値打ちを認めて、高く持ち上げる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 92,60 104,48\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"158\" y2=\"96\"/><line x1=\"170\" y1=\"74\" x2=\"182\" y2=\"96\"/><line x1=\"170\" y1=\"32\" x2=\"170\" y2=\"12\"/><polyline points=\"166.2,19 170,12 173.8,19\"/></g><text x=\"100\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すごい!</text><text x=\"210\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">持ち上げる</text></svg>"
+  },
+  "etymology": "古フランス語 preisier(値をつける。price、prize と同じ根) → 値打ちを高くつける → ほめる・称賛(する)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say that someone or something is very good."
+    },
+    {
+      "pos": "名詞",
+      "text": "words that show approval or admiration."
+    }
+  ],
+  "cautions": [
+    "praise A for B=BのことでAをほめる(理由は for)",
+    "praise は名詞では数えない(a praise としない。high praise、words of praise)",
+    "price(値段)、prize(賞)と同じ根",
+    "反対は criticize A for B=BのことでAを非難する"
+  ],
+  "patterns": [
+    {
+      "form": "praise A for B",
+      "meaning": "BのことでAをほめる"
+    },
+    {
+      "form": "be praised for A",
+      "meaning": "Aのことでほめられる"
+    },
+    {
+      "form": "win praise",
+      "meaning": "称賛を得る"
+    },
+    {
+      "form": "in praise of A",
+      "meaning": "Aをたたえて"
+    },
+    {
+      "form": "praiseworthy",
+      "meaning": "ほめるに値する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "praise A for B",
+      "en": "The teacher praised him for his hard work.",
+      "ja": "先生は彼の努力をほめた。"
+    },
+    {
+      "source": "original",
+      "label": "be praised for",
+      "en": "The firefighter was praised for his courage.",
+      "ja": "その消防士は勇気をたたえられた。"
+    },
+    {
+      "source": "original",
+      "label": "称賛(名詞)",
+      "en": "Her first novel received high praise from critics.",
+      "ja": "彼女の最初の小説は批評家から高い称賛を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "数えない名詞",
+      "en": "He is always generous with praise.",
+      "ja": "彼はいつも惜しまずほめる。"
+    },
+    {
+      "source": "original",
+      "label": "in praise of",
+      "en": "The poet wrote a song in praise of the sea.",
+      "ja": "詩人は海をたたえる歌を書いた。"
+    },
+    {
+      "source": "original",
+      "label": "criticize との比較",
+      "en": "Parents should praise children for effort, not only criticize them for mistakes.",
+      "ja": "親は子どもの間違いを責めるだけでなく、努力をほめるべきだ。"
+    }
+  ],
+  "check_points": [
+    "praise A for B の for の意味を言えるか",
+    "名詞 praise に a をつけない理由を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "praise A for B の型と、数えない名詞 praise が語法問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 641
+    }
+  ]
+}

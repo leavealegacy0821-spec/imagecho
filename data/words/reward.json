@@ -1,0 +1,103 @@
+{
+  "word": "reward",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/rɪˈwɔːrd/",
+  "core_image": {
+    "text": "よい行いを見ていて、お返しをする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 96,84 112,84\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><polyline points=\"180,74 156,84 140,84\"/><line x1=\"180\" y1=\"74\" x2=\"190\" y2=\"96\"/><rect x=\"114\" y=\"76\" width=\"24\" height=\"18\"/><line x1=\"126\" y1=\"76\" x2=\"126\" y2=\"94\"/></g><text x=\"126\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">お返し</text></svg>"
+  },
+  "etymology": "re(しっかり) + ward(見守る。guard、warden と同じ根) → (行いを)見ていてお返しする → ほうび・報酬・報いる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "something given to someone because they have done something good or useful."
+    },
+    {
+      "pos": "動詞",
+      "text": "to give something to someone because they have done something good."
+    }
+  ],
+  "cautions": [
+    "reward A for B=BのことでAに報いる(理由は for)",
+    "reward A with B=AにBを(ほうびとして)与える。with と for を区別",
+    "名詞 in reward for A=Aのほうびとして、a reward for A=Aへのほうび・報奨金",
+    "形容詞 rewarding=やりがいのある(a rewarding job)"
+  ],
+  "patterns": [
+    {
+      "form": "reward A for B",
+      "meaning": "BのことでAに報いる"
+    },
+    {
+      "form": "reward A with B",
+      "meaning": "AにBを与えて報いる"
+    },
+    {
+      "form": "a reward for A",
+      "meaning": "Aへのほうび"
+    },
+    {
+      "form": "in reward for A",
+      "meaning": "Aのほうびとして"
+    },
+    {
+      "form": "rewarding",
+      "meaning": "やりがいのある"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "reward A for B",
+      "en": "The company rewarded her for her excellent work.",
+      "ja": "会社は彼女のすばらしい仕事に報いた。"
+    },
+    {
+      "source": "original",
+      "label": "reward A with B",
+      "en": "His parents rewarded him with a new bike.",
+      "ja": "両親は彼にほうびとして新しい自転車を与えた。"
+    },
+    {
+      "source": "original",
+      "label": "ほうび(名詞)",
+      "en": "A reward of 1,000 dollars was offered for the lost dog.",
+      "ja": "いなくなった犬に1000ドルの謝礼が出された。"
+    },
+    {
+      "source": "original",
+      "label": "in reward for",
+      "en": "She received a medal in reward for her bravery.",
+      "ja": "彼女は勇敢さをたたえられてメダルをもらった。"
+    },
+    {
+      "source": "original",
+      "label": "報われる",
+      "en": "Your patience will be rewarded.",
+      "ja": "あなたの忍耐はきっと報われる。"
+    },
+    {
+      "source": "original",
+      "label": "rewarding(形容詞)",
+      "en": "Teaching is a hard but rewarding job.",
+      "ja": "教えることは大変だが、やりがいのある仕事だ。"
+    }
+  ],
+  "check_points": [
+    "reward A for B と reward A with B の違いを言えるか",
+    "rewarding の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "reward A with B / for B の前置詞と、rewarding(やりがいのある)が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 644
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "sufficient",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/səˈfɪʃənt/",
+  "core_image": {
+    "text": "下から満たして、必要な線まで届いている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"90,40 90,140 150,140 150,40\"/><line x1=\"90\" y1=\"70\" x2=\"150\" y2=\"70\" stroke-dasharray=\"4 4\"/><line x1=\"90\" y1=\"72\" x2=\"150\" y2=\"72\"/><line x1=\"170\" y1=\"130\" x2=\"170\" y2=\"78\"/><polyline points=\"166.2,85 170,78 173.8,85\"/></g><text x=\"200\" y=\"66\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">必要な線</text><text x=\"45\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">満ちた</text></svg>"
+  },
+  "etymology": "suf(sub=下から) + fic(作る・する。factory と同じ根) → 下から満たして足りるようにする → 十分な(suffice=足りる)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "enough for a particular purpose."
+    }
+  ],
+  "cautions": [
+    "be sufficient for A=Aに十分だ、sufficient to do=〜するのに十分な",
+    "enough とほぼ同じだが、置く位置が自由(enough は形容詞のあとに置く)",
+    "反対は insufficient=不十分な、名詞 sufficiency",
+    "self-sufficient=自給自足の"
+  ],
+  "patterns": [
+    {
+      "form": "be sufficient for A",
+      "meaning": "Aに十分だ"
+    },
+    {
+      "form": "sufficient to do",
+      "meaning": "〜するのに十分な"
+    },
+    {
+      "form": "insufficient",
+      "meaning": "不十分な"
+    },
+    {
+      "form": "self-sufficient",
+      "meaning": "自給自足の"
+    },
+    {
+      "form": "suffice",
+      "meaning": "足りる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "十分な",
+      "en": "We don't have sufficient time to finish the work.",
+      "ja": "その仕事を終える十分な時間がない。"
+    },
+    {
+      "source": "original",
+      "label": "be sufficient for",
+      "en": "This food will be sufficient for ten people.",
+      "ja": "この食べ物で10人には足りるだろう。"
+    },
+    {
+      "source": "original",
+      "label": "sufficient to do",
+      "en": "His income is sufficient to support his family.",
+      "ja": "彼の収入は家族を養うのに十分だ。"
+    },
+    {
+      "source": "original",
+      "label": "insufficient",
+      "en": "The police had insufficient evidence to arrest him.",
+      "ja": "警察には彼を逮捕する十分な証拠がなかった。"
+    },
+    {
+      "source": "original",
+      "label": "self-sufficient",
+      "en": "The village is almost self-sufficient in food.",
+      "ja": "その村は食料をほぼ自給している。"
+    },
+    {
+      "source": "original",
+      "label": "enough との言い換え",
+      "en": "Is this sufficient, or enough, for the trip?",
+      "ja": "旅行にはこれで足りますか。"
+    }
+  ],
+  "check_points": [
+    "sufficient の反対語を言えるか",
+    "sufficient と enough の置く位置の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "enough の言い換え、insufficient、self-sufficient が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 650
+    }
+  ]
+}

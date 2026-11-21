@@ -1,0 +1,103 @@
+{
+  "word": "end",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/end/",
+  "core_image": {
+    "text": "線のいちばん先、そこで切れる所",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"30\" y1=\"100\" x2=\"190\" y2=\"100\"/><line x1=\"190\" y1=\"86\" x2=\"190\" y2=\"114\"/><circle cx=\"210\" cy=\"60\" r=\"10\"/><line x1=\"196\" y1=\"92\" x2=\"206\" y2=\"74\"/><polyline points=\"199.2,78.3 206,74 205.9,82\"/></g><text x=\"110\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">線</text><text x=\"190\" y=\"132\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">はし・終わり</text><text x=\"210\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">目的</text></svg>"
+  },
+  "etymology": "古英語 ende(はし・境目) → 線の先 → (時間の)終わり → (行きつく先にある)目的。動詞では「終わる・終える」",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the final part of something; the furthest part of a place or thing; an aim or purpose."
+    },
+    {
+      "pos": "動詞",
+      "text": "to finish or to make something finish."
+    }
+  ],
+  "cautions": [
+    "「終わり」だけでなく「はし・先」「目的」の意味がある(a means to an end=目的のための手段)",
+    "end up doing / with A=結局〜することになる(to do にしない)",
+    "in the end=結局。at the end of A=Aの終わりに(at と of を忘れない)",
+    "come to an end=終わる。put an end to A=Aを終わらせる"
+  ],
+  "patterns": [
+    {
+      "form": "end up doing",
+      "meaning": "結局〜することになる"
+    },
+    {
+      "form": "in the end",
+      "meaning": "結局"
+    },
+    {
+      "form": "at the end of A",
+      "meaning": "Aの終わりに"
+    },
+    {
+      "form": "put an end to A",
+      "meaning": "Aを終わらせる"
+    },
+    {
+      "form": "a means to an end",
+      "meaning": "目的のための手段"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "終わり",
+      "en": "We will finish the project by the end of this month.",
+      "ja": "今月末までに計画を終える。"
+    },
+    {
+      "source": "original",
+      "label": "はし",
+      "en": "She lives at the other end of the town.",
+      "ja": "彼女は町の反対のはずれに住んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "目的",
+      "en": "For him, money is only a means to an end.",
+      "ja": "彼にとってお金は目的のための手段にすぎない。"
+    },
+    {
+      "source": "original",
+      "label": "end up doing",
+      "en": "We got lost and ended up walking for two hours.",
+      "ja": "道に迷って結局2時間歩くことになった。"
+    },
+    {
+      "source": "original",
+      "label": "in the end",
+      "en": "In the end, they decided to stay home.",
+      "ja": "結局、彼らは家にいることにした。"
+    },
+    {
+      "source": "original",
+      "label": "put an end to",
+      "en": "The new law put an end to the long dispute.",
+      "ja": "新しい法律が長い争いを終わらせた。"
+    }
+  ],
+  "check_points": [
+    "a means to an end の end の意味を言えるか",
+    "end up のあとの形を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "end up doing の形、「目的」の意味(means to an end)が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 646
+    }
+  ]
+}
