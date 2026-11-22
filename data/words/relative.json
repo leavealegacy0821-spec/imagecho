@@ -1,0 +1,103 @@
+{
+  "word": "relative",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/ˈrelətɪv/",
+  "core_image": {
+    "text": "ほかと結びつけて、比べてはかる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"50\" y=\"80\" width=\"40\" height=\"60\"/><rect x=\"150\" y=\"50\" width=\"40\" height=\"90\"/><line x1=\"96\" y1=\"100\" x2=\"144\" y2=\"100\" stroke-dasharray=\"5 5\"/><polyline points=\"137,96.2 144,100 137,103.8\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">比べると</text></svg>"
+  },
+  "etymology": "relate(関係づける。re=戻して + late=運ぶ) + ive(〜の性質の) → ほかと関係づけた → (ほかと比べての)相対的な・比較的な → (血のつながりで関係のある人)親戚",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "considered in comparison with something else; connected with something."
+    },
+    {
+      "pos": "名詞",
+      "text": "a member of your family."
+    }
+  ],
+  "cautions": [
+    "副詞 relatively=比較的・わりあいに(relatively easy)。長文で多い",
+    "relative to A=Aと比べて・Aに関して",
+    "名詞 relative=親戚(relation とも言う)",
+    "反対は absolute(絶対的な)"
+  ],
+  "patterns": [
+    {
+      "form": "relatively",
+      "meaning": "比較的"
+    },
+    {
+      "form": "relative to A",
+      "meaning": "Aと比べて・Aに関して"
+    },
+    {
+      "form": "relative importance",
+      "meaning": "相対的な重要さ"
+    },
+    {
+      "form": "a relative",
+      "meaning": "親戚"
+    },
+    {
+      "form": "absolute",
+      "meaning": "絶対的な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "relatively(副詞)",
+      "en": "The test was relatively easy.",
+      "ja": "その試験は比較的やさしかった。"
+    },
+    {
+      "source": "original",
+      "label": "relative to",
+      "en": "Prices here are high relative to income.",
+      "ja": "ここの物価は収入と比べて高い。"
+    },
+    {
+      "source": "original",
+      "label": "相対的な",
+      "en": "We discussed the relative importance of each plan.",
+      "ja": "それぞれの計画の相対的な重要さを話し合った。"
+    },
+    {
+      "source": "original",
+      "label": "比較的な",
+      "en": "They live in relative comfort.",
+      "ja": "彼らは比較的楽に暮らしている。"
+    },
+    {
+      "source": "original",
+      "label": "親戚(名詞)",
+      "en": "I visited my relatives during the holidays.",
+      "ja": "休みの間に親戚を訪ねた。"
+    },
+    {
+      "source": "original",
+      "label": "absolute との対比",
+      "en": "Beauty is relative, not absolute.",
+      "ja": "美しさは相対的なもので、絶対的なものではない。"
+    }
+  ],
+  "check_points": [
+    "名詞 relative の意味を言えるか",
+    "relatively の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "relatively(比較的)と名詞の relative(親戚)が長文・語彙問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 755
+    }
+  ]
+}

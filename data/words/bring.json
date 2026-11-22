@@ -1,0 +1,98 @@
+{
+  "word": "bring",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/brɪŋ/",
+  "core_image": {
+    "text": "話し手のいる所へ、持ってくる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"80\" y2=\"82\"/><line x1=\"60\" y1=\"74\" x2=\"80\" y2=\"90\"/><rect x=\"82\" y=\"72\" width=\"22\" height=\"20\"/><line x1=\"112\" y1=\"82\" x2=\"150\" y2=\"82\"/><polyline points=\"143,78.2 150,82 143,85.8\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"170\" y2=\"96\"/><line x1=\"180\" y1=\"74\" x2=\"190\" y2=\"96\"/></g><text x=\"180\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こちらへ</text></svg>"
+  },
+  "etymology": "話し手・聞き手のいる所へ持ってくる・連れてくる → (ある状態・結果を)もたらす → bring about=引き起こす / bring up=(子を)育てる・(話題を)持ち出す",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to take someone or something to the place where you are or the place you are going to; to cause something."
+    }
+  ],
+  "cautions": [
+    "bring は「こちらへ持ってくる」、take は「あちらへ持っていく」",
+    "bring about A=Aを引き起こす(cause)/ bring up A=Aを育てる(raise)・話題に出す",
+    "What brings you here?=どうしてここへ来たの?(無生物主語)",
+    "過去・過去分詞は brought(bring-brought-brought)"
+  ],
+  "patterns": [
+    {
+      "form": "bring A B / bring B to A",
+      "meaning": "AにBを持ってくる"
+    },
+    {
+      "form": "bring about A",
+      "meaning": "Aを引き起こす"
+    },
+    {
+      "form": "bring up A",
+      "meaning": "Aを育てる・持ち出す"
+    },
+    {
+      "form": "bring A to B",
+      "meaning": "AをBの状態にする"
+    },
+    {
+      "form": "What brings you here?",
+      "meaning": "どうしてここへ?"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "持ってくる",
+      "en": "Could you bring me a glass of water?",
+      "ja": "水を1杯持ってきてくれますか。"
+    },
+    {
+      "source": "original",
+      "label": "連れてくる",
+      "en": "You can bring your friend to the party.",
+      "ja": "パーティーに友だちを連れてきていいよ。"
+    },
+    {
+      "source": "original",
+      "label": "bring about",
+      "en": "The new technology brought about great changes.",
+      "ja": "新しい技術は大きな変化をもたらした。"
+    },
+    {
+      "source": "original",
+      "label": "bring up(育てる)",
+      "en": "She was brought up by her grandparents.",
+      "ja": "彼女は祖父母に育てられた。"
+    },
+    {
+      "source": "original",
+      "label": "bring up(持ち出す)",
+      "en": "He brought up the problem at the meeting.",
+      "ja": "彼は会議でその問題を持ち出した。"
+    },
+    {
+      "source": "original",
+      "label": "無生物主語",
+      "en": "What brings you to Tokyo?",
+      "ja": "どうして東京に来たのですか。"
+    }
+  ],
+  "check_points": [
+    "bring と take の違いを言えるか",
+    "bring about と bring up の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "bring about(引き起こす)、bring up(育てる)と無生物主語の文が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 758
+    }
+  ]
+}

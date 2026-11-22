@@ -1,0 +1,98 @@
+{
+  "word": "absent",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈæbsənt/",
+  "core_image": {
+    "text": "いるはずの場所から、離れていない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"90\" width=\"60\" height=\"8\"/><line x1=\"50\" y1=\"98\" x2=\"50\" y2=\"140\"/><line x1=\"90\" y1=\"98\" x2=\"90\" y2=\"140\"/><circle cx=\"70\" cy=\"62\" r=\"10\" stroke-dasharray=\"3 3\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"110\" y1=\"80\" x2=\"168\" y2=\"80\"/><polyline points=\"161,76.2 168,80 161,83.8\"/></g><text x=\"70\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いない</text><text x=\"190\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">別の所</text></svg>"
+  },
+  "etymology": "ab(離れて) + sent(いる。ラテン語 esse=ある・いる) → 離れている → 欠席して・不在で → (心がその場を離れて)ぼんやりした。present(いる)の反対",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not in the place where you are expected to be; not existing; not paying attention."
+    }
+  ],
+  "cautions": [
+    "be absent from A=Aを欠席している(前置詞は from。school には the を付けない)",
+    "名詞 absence=欠席・不在。in one's absence=〜のいない間に / in the absence of A=Aがないときに",
+    "absent-minded=上の空の・ぼんやりした",
+    "反対は present(出席して)。「欠席する」は be absent で、absent 一語を動詞にしない"
+  ],
+  "patterns": [
+    {
+      "form": "be absent from A",
+      "meaning": "Aを欠席している"
+    },
+    {
+      "form": "absence",
+      "meaning": "欠席・不在"
+    },
+    {
+      "form": "in the absence of A",
+      "meaning": "Aがないときに"
+    },
+    {
+      "form": "absent-minded",
+      "meaning": "上の空の"
+    },
+    {
+      "form": "present",
+      "meaning": "出席して"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "be absent from",
+      "en": "He was absent from school yesterday.",
+      "ja": "彼はきのう学校を休んだ。"
+    },
+    {
+      "source": "original",
+      "label": "不在の",
+      "en": "The manager is absent today, so I will help you.",
+      "ja": "今日は責任者が不在なので、私がご案内します。"
+    },
+    {
+      "source": "original",
+      "label": "absence(名詞)",
+      "en": "Your absence was noticed by everyone.",
+      "ja": "あなたがいないことにみんなが気づいた。"
+    },
+    {
+      "source": "original",
+      "label": "in the absence of",
+      "en": "In the absence of evidence, he was set free.",
+      "ja": "証拠がなかったので、彼は釈放された。"
+    },
+    {
+      "source": "original",
+      "label": "存在しない",
+      "en": "Color is completely absent from this painting.",
+      "ja": "この絵には色がまったくない。"
+    },
+    {
+      "source": "original",
+      "label": "absent-minded",
+      "en": "My grandfather is a little absent-minded these days.",
+      "ja": "祖父は最近少しぼんやりしている。"
+    }
+  ],
+  "check_points": [
+    "be absent from の前置詞を言えるか",
+    "in the absence of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be absent from と名詞 absence(in the absence of)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 754
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "word": "inferior",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/ɪnˈfɪriər/",
+  "core_image": {
+    "text": "下の段にいて、おとっている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"60\" width=\"50\" height=\"80\"/><rect x=\"140\" y=\"110\" width=\"50\" height=\"30\"/><circle cx=\"65\" cy=\"48\" r=\"10\"/><circle cx=\"165\" cy=\"98\" r=\"10\"/><line x1=\"100\" y1=\"70\" x2=\"130\" y2=\"100\"/><polyline points=\"127.7,92.3 130,100 122.3,97.7\"/></g><text x=\"65\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">上</text><text x=\"165\" y=\"76\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">下・おとる</text></svg>"
+  },
+  "etymology": "infer(下の。ラテン語 inferus) + ior(より〜。比較を表す) → より下の → (質・能力が)おとった・下等な → (地位が下の人)目下の人",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not as good in quality or ability as someone or something else; lower in rank."
+    },
+    {
+      "pos": "名詞",
+      "text": "a person of lower rank or position."
+    }
+  ],
+  "cautions": [
+    "A is inferior to B=AはBよりおとっている。than ではなく to を使う",
+    "more inferior とは言わない。強めるのは much / far",
+    "inferiority complex=劣等感",
+    "反対は superior(まさった)"
+  ],
+  "patterns": [
+    {
+      "form": "be inferior to A",
+      "meaning": "Aよりおとっている"
+    },
+    {
+      "form": "be much inferior to A",
+      "meaning": "Aよりずっとおとる"
+    },
+    {
+      "form": "inferior quality",
+      "meaning": "粗悪な品質"
+    },
+    {
+      "form": "inferiority complex",
+      "meaning": "劣等感"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "be inferior to",
+      "en": "This copy is inferior to the original.",
+      "ja": "この写しは原本よりおとっている。"
+    },
+    {
+      "source": "original",
+      "label": "much で強める",
+      "en": "Their products are much inferior to ours.",
+      "ja": "彼らの製品は私たちのものよりずっとおとる。"
+    },
+    {
+      "source": "original",
+      "label": "粗悪な",
+      "en": "Cheap goods are often of inferior quality.",
+      "ja": "安い品物は品質がおとることが多い。"
+    },
+    {
+      "source": "original",
+      "label": "人について",
+      "en": "Never make others feel inferior.",
+      "ja": "他人に引け目を感じさせてはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "inferiority complex",
+      "en": "He has an inferiority complex about his height.",
+      "ja": "彼は身長に劣等感を持っている。"
+    },
+    {
+      "source": "original",
+      "label": "superior との対比",
+      "en": "In speed, this car is not inferior to any other.",
+      "ja": "速さでは、この車はほかのどの車にもおとらない。"
+    }
+  ],
+  "check_points": [
+    "inferior の後ろに来る前置詞を言えるか",
+    "inferiority complex の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "inferior to(than 不可)が superior とセットで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 752
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "prior",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈpraɪər/",
+  "core_image": {
+    "text": "ほかより先に、前に来ている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"110\" x2=\"225\" y2=\"110\"/><polyline points=\"218,106.2 225,110 218,113.8\"/><circle cx=\"70\" cy=\"110\" r=\"8\"/><circle cx=\"170\" cy=\"110\" r=\"8\"/><path d=\"M70 92 Q120 60 170 92\"/></g><text x=\"70\" y=\"138\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">先</text><text x=\"170\" y=\"138\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あと</text></svg>"
+  },
+  "etymology": "ラテン語 prior(より前の。prime=第一の と同じ仲間) → 時間・順番が前の → 前もっての・事前の → (ほかより先に扱う)優先の(priority)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "happening or existing before something else; more important than something else."
+    }
+  ],
+  "cautions": [
+    "prior to A=Aより前に(before と同じ)。than ではなく to を使う(最頻出)",
+    "prior は名詞の前で「事前の」(prior knowledge, prior experience)",
+    "名詞 priority=優先(事項)。give priority to A=Aを優先する / top priority=最優先",
+    "prior notice=事前の通知"
+  ],
+  "patterns": [
+    {
+      "form": "prior to A",
+      "meaning": "Aより前に"
+    },
+    {
+      "form": "prior knowledge",
+      "meaning": "予備知識"
+    },
+    {
+      "form": "prior experience",
+      "meaning": "以前の経験"
+    },
+    {
+      "form": "priority",
+      "meaning": "優先(事項)"
+    },
+    {
+      "form": "give priority to A",
+      "meaning": "Aを優先する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "prior to",
+      "en": "Please arrive ten minutes prior to the start of the exam.",
+      "ja": "試験開始の10分前に来てください。"
+    },
+    {
+      "source": "original",
+      "label": "before との言い換え",
+      "en": "Prior to the meeting, we checked the data.",
+      "ja": "会議の前に、私たちはデータを確かめた。"
+    },
+    {
+      "source": "original",
+      "label": "事前の",
+      "en": "No prior knowledge of the subject is needed.",
+      "ja": "その分野の予備知識はいらない。"
+    },
+    {
+      "source": "original",
+      "label": "以前の",
+      "en": "Do you have any prior experience in this job?",
+      "ja": "この仕事の経験はありますか。"
+    },
+    {
+      "source": "original",
+      "label": "priority(名詞)",
+      "en": "Safety is our top priority.",
+      "ja": "安全が私たちの最優先事項だ。"
+    },
+    {
+      "source": "original",
+      "label": "give priority to",
+      "en": "The city gives priority to public transport.",
+      "ja": "市は公共交通を優先している。"
+    }
+  ],
+  "check_points": [
+    "prior to が before と同じ意味になることを言えるか",
+    "名詞 priority の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "prior to(than 不可)と priority(優先)が長文・語彙問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 753
+    }
+  ]
+}

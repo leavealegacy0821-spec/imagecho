@@ -1,0 +1,102 @@
+{
+  "word": "put",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/pʊt/",
+  "core_image": {
+    "text": "動かして、ある場所・状態にぐっと置く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"80\" y2=\"82\"/><line x1=\"50\" y1=\"74\" x2=\"80\" y2=\"92\"/><rect x=\"82\" y=\"76\" width=\"20\" height=\"20\"/><line x1=\"108\" y1=\"86\" x2=\"150\" y2=\"108\"/><polyline points=\"145.6,101.3 150,108 142,108.1\"/><rect x=\"150\" y=\"100\" width=\"60\" height=\"40\"/></g><text x=\"180\" y=\"86\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ここへ</text></svg>"
+  },
+  "etymology": "ものを動かしてある場所に置く → 人・ものをある状態に置く(put A in danger) → 考えをことばの形に置く=言い表す(to put it simply) → 副詞と組んで put off(先へ置く=延期する)/ put up with(がまんする)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move something into a place or position; to cause someone or something to be in a state; to express something in words."
+    }
+  ],
+  "cautions": [
+    "put-put-put と形が変わらない(ing 形 putting)",
+    "put off A=Aを延期する(postpone)/ put up with A=Aをがまんする(tolerate, bear)",
+    "put on=身につける(動作)。wear=身につけている(状態)",
+    "put A into B=AをBに言いかえる・訳す / to put it simply=簡単に言えば"
+  ],
+  "patterns": [
+    {
+      "form": "put A in / on B",
+      "meaning": "AをBに置く"
+    },
+    {
+      "form": "put off A",
+      "meaning": "Aを延期する"
+    },
+    {
+      "form": "put up with A",
+      "meaning": "Aをがまんする"
+    },
+    {
+      "form": "put on A",
+      "meaning": "Aを身につける"
+    },
+    {
+      "form": "put A into B",
+      "meaning": "AをBに言いかえる"
+    },
+    {
+      "form": "to put it simply",
+      "meaning": "簡単に言えば"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "置く",
+      "en": "Put your bag on the desk.",
+      "ja": "かばんを机の上に置きなさい。"
+    },
+    {
+      "source": "original",
+      "label": "状態に置く",
+      "en": "His careless driving put us in danger.",
+      "ja": "彼の不注意な運転で私たちは危険にさらされた。"
+    },
+    {
+      "source": "original",
+      "label": "put off",
+      "en": "We had to put off the game because of the rain.",
+      "ja": "雨のため試合を延期しなければならなかった。"
+    },
+    {
+      "source": "original",
+      "label": "put up with",
+      "en": "I can't put up with this noise any longer.",
+      "ja": "この騒音にはもうがまんできない。"
+    },
+    {
+      "source": "original",
+      "label": "put on",
+      "en": "She put on her coat and went out.",
+      "ja": "彼女はコートを着て出かけた。"
+    },
+    {
+      "source": "original",
+      "label": "言い表す",
+      "en": "To put it simply, we need more time.",
+      "ja": "簡単に言えば、もっと時間が必要だ。"
+    }
+  ],
+  "check_points": [
+    "put off と put up with の意味を言えるか",
+    "put on と wear の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "put off(延期する)、put up with(がまんする)の言いかえが定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 760
+    }
+  ]
+}

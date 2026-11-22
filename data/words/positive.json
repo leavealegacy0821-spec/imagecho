@@ -1,0 +1,98 @@
+{
+  "word": "positive",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈpɑːzətɪv/",
+  "core_image": {
+    "text": "はっきり置かれて、プラスの側にある",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 52,58 46,46\"/><polyline points=\"70,74 88,58 94,46\"/><line x1=\"170\" y1=\"50\" x2=\"170\" y2=\"110\"/><line x1=\"140\" y1=\"80\" x2=\"200\" y2=\"80\"/></g><text x=\"70\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">前向き</text><text x=\"170\" y=\"128\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">プラス</text></svg>"
+  },
+  "etymology": "ラテン語 positivus(置かれた。pose、position と同じ根) → はっきり置かれた・定められた → 確かな・確信して → 肯定的な・前向きな → (検査で)陽性の",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "hopeful and confident; certain about something; showing that something is present in a test."
+    }
+  ],
+  "cautions": [
+    "be positive about A / that S V=〜を確信している(sure と同じ。「前向き」ではない)",
+    "positive attitude=前向きな態度 / positive effect=よい影響",
+    "test positive for A=Aの検査で陽性と出る",
+    "反対は negative(否定的な・陰性の)"
+  ],
+  "patterns": [
+    {
+      "form": "be positive that S V",
+      "meaning": "〜だと確信している"
+    },
+    {
+      "form": "positive attitude",
+      "meaning": "前向きな態度"
+    },
+    {
+      "form": "positive effect",
+      "meaning": "よい影響"
+    },
+    {
+      "form": "test positive for A",
+      "meaning": "Aで陽性と出る"
+    },
+    {
+      "form": "negative",
+      "meaning": "否定的な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "確信して",
+      "en": "I'm positive that I locked the door.",
+      "ja": "ドアに鍵をかけたのは確かだ。"
+    },
+    {
+      "source": "original",
+      "label": "前向きな",
+      "en": "Try to keep a positive attitude.",
+      "ja": "前向きな気持ちを持つようにしなさい。"
+    },
+    {
+      "source": "original",
+      "label": "よい",
+      "en": "Music can have a positive effect on our minds.",
+      "ja": "音楽は心によい影響を与えうる。"
+    },
+    {
+      "source": "original",
+      "label": "肯定的な",
+      "en": "We received a positive answer from the company.",
+      "ja": "会社から前向きな返事をもらった。"
+    },
+    {
+      "source": "original",
+      "label": "陽性の",
+      "en": "He tested positive for the flu.",
+      "ja": "彼はインフルエンザの検査で陽性だった。"
+    },
+    {
+      "source": "original",
+      "label": "negative との対比",
+      "en": "There are positive and negative sides to social media.",
+      "ja": "SNSにはよい面と悪い面がある。"
+    }
+  ],
+  "check_points": [
+    "be positive that S V の意味を言えるか",
+    "test positive の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be positive that(確信して)の意味が狙われる。positive / negative の対比も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 756
+    }
+  ]
+}

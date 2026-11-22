@@ -1,0 +1,103 @@
+{
+  "word": "superior",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/suːˈpɪriər/",
+  "core_image": {
+    "text": "上の段にいて、まさっている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"110\" width=\"50\" height=\"30\"/><rect x=\"140\" y=\"60\" width=\"50\" height=\"80\"/><circle cx=\"65\" cy=\"98\" r=\"10\"/><circle cx=\"165\" cy=\"48\" r=\"10\"/><line x1=\"100\" y1=\"100\" x2=\"130\" y2=\"70\"/><polyline points=\"122.3,72.3 130,70 127.7,77.7\"/></g><text x=\"165\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">上・まさる</text><text x=\"65\" y=\"76\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">下</text></svg>"
+  },
+  "etymology": "super(上に) + ior(より〜。比較を表す) → より上の → (質・能力が)まさった・上等な → (地位が上の人)上司・目上の人",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "better in quality or ability than someone or something else; higher in rank."
+    },
+    {
+      "pos": "名詞",
+      "text": "a person of higher rank or position, such as your boss."
+    }
+  ],
+  "cautions": [
+    "A is superior to B=AはBよりまさっている。than ではなく to を使う(最頻出)",
+    "もともと比較の意味を含むので more superior とは言わない。強めるのは much / far(very は不可)",
+    "名詞 superior=上司・目上の人(my superior)。superiority=優越",
+    "反対は inferior(おとった)"
+  ],
+  "patterns": [
+    {
+      "form": "be superior to A",
+      "meaning": "Aよりまさっている"
+    },
+    {
+      "form": "be far superior to A",
+      "meaning": "Aよりはるかにまさっている"
+    },
+    {
+      "form": "superior quality",
+      "meaning": "上等な品質"
+    },
+    {
+      "form": "one's superior",
+      "meaning": "上司"
+    },
+    {
+      "form": "superiority",
+      "meaning": "優越"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "be superior to",
+      "en": "This camera is superior to that one.",
+      "ja": "このカメラはあのカメラよりすぐれている。"
+    },
+    {
+      "source": "original",
+      "label": "much / far で強める",
+      "en": "The new model is far superior to the old one.",
+      "ja": "新型は旧型よりはるかにすぐれている。"
+    },
+    {
+      "source": "original",
+      "label": "上等な",
+      "en": "The shop sells only goods of superior quality.",
+      "ja": "その店は上等な品質の品物しか売らない。"
+    },
+    {
+      "source": "original",
+      "label": "上司(名詞)",
+      "en": "You should report the problem to your superior.",
+      "ja": "その問題は上司に報告すべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "人について",
+      "en": "She felt superior to the other members of the team.",
+      "ja": "彼女はチームのほかのメンバーより自分が上だと感じていた。"
+    },
+    {
+      "source": "original",
+      "label": "superiority(名詞)",
+      "en": "The team showed its superiority in the second half.",
+      "ja": "チームは後半に実力の差を見せつけた。"
+    }
+  ],
+  "check_points": [
+    "superior の後ろに than ではなく to を使うことを言えるか",
+    "very ではなく much / far で強めることを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "superior to(than 不可)が文法・正誤問題の定番。inferior / prior / senior と一緒に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 751
+    }
+  ]
+}
