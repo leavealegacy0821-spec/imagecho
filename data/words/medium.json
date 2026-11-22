@@ -1,0 +1,103 @@
+{
+  "word": "medium",
+  "pos": [
+    "名詞",
+    "形容詞"
+  ],
+  "ipa": "/ˈmiːdiəm/",
+  "core_image": {
+    "text": "あいだに立って、なかだちをする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"28\" y2=\"98\"/><line x1=\"40\" y1=\"74\" x2=\"52\" y2=\"98\"/><rect x=\"96\" y=\"56\" width=\"48\" height=\"36\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"188\" y2=\"98\"/><line x1=\"200\" y1=\"74\" x2=\"212\" y2=\"98\"/><line x1=\"58\" y1=\"74\" x2=\"92\" y2=\"74\"/><polyline points=\"85,70.2 92,74 85,77.8\"/><line x1=\"148\" y1=\"74\" x2=\"182\" y2=\"74\"/><polyline points=\"175,70.2 182,74 175,77.8\"/></g><text x=\"120\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">なかだち</text></svg>"
+  },
+  "etymology": "ラテン語 medius(まん中の。middle、mediate と同じ) → まん中にあるもの → (情報を伝える)媒体・手段 → (形容詞)中くらいの → 複数形 media=マスメディア",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a way of communicating information, or the materials an artist uses; a substance in which something lives or grows."
+    },
+    {
+      "pos": "形容詞",
+      "text": "of middle size or amount."
+    }
+  ],
+  "cautions": [
+    "複数形は media(the media=マスコミ)。mediums ではないことが多い",
+    "「媒体・手段」の意味(a medium of communication)",
+    "形容詞「中くらいの」(medium size=Mサイズ、ステーキの焼き加減も)",
+    "through the medium of A=Aを通して"
+  ],
+  "patterns": [
+    {
+      "form": "a medium of A",
+      "meaning": "Aの媒体・手段"
+    },
+    {
+      "form": "through the medium of A",
+      "meaning": "Aを通して"
+    },
+    {
+      "form": "the media",
+      "meaning": "マスメディア"
+    },
+    {
+      "form": "medium-sized",
+      "meaning": "中くらいの大きさの"
+    },
+    {
+      "form": "a happy medium",
+      "meaning": "ほどよい中間"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "媒体",
+      "en": "Television is still a powerful medium.",
+      "ja": "テレビはいまでも力のある媒体だ。"
+    },
+    {
+      "source": "original",
+      "label": "手段",
+      "en": "English is used as a medium of communication worldwide.",
+      "ja": "英語は世界中で伝達の手段として使われている。"
+    },
+    {
+      "source": "original",
+      "label": "through the medium of",
+      "en": "The lessons are taught through the medium of English.",
+      "ja": "授業は英語を通して(英語で)行われる。"
+    },
+    {
+      "source": "original",
+      "label": "the media",
+      "en": "The news was widely reported in the media.",
+      "ja": "そのニュースはマスコミで広く報じられた。"
+    },
+    {
+      "source": "original",
+      "label": "中くらいの",
+      "en": "I'd like a medium-sized T-shirt.",
+      "ja": "Mサイズの T シャツをください。"
+    },
+    {
+      "source": "original",
+      "label": "ほどよい中間",
+      "en": "We need to find a happy medium between work and rest.",
+      "ja": "仕事と休みのほどよい釣り合いを見つける必要がある。"
+    }
+  ],
+  "check_points": [
+    "medium の複数形 media を言えるか",
+    "「媒体・手段」の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "複数形 media と「媒体・手段」の意味が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 737
+    }
+  ]
+}

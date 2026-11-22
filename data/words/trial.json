@@ -1,0 +1,98 @@
+{
+  "word": "trial",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈtraɪəl/",
+  "core_image": {
+    "text": "本当かどうか、ためしてみる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"96\" y2=\"64\"/><line x1=\"120\" y1=\"74\" x2=\"144\" y2=\"64\"/><line x1=\"60\" y1=\"64\" x2=\"132\" y2=\"64\"/><line x1=\"108\" y1=\"64\" x2=\"180\" y2=\"64\"/><line x1=\"70\" y1=\"64\" x2=\"60\" y2=\"90\"/><line x1=\"70\" y1=\"64\" x2=\"80\" y2=\"90\"/><path d=\"M56 90 Q70 98 84 90\"/><line x1=\"170\" y1=\"64\" x2=\"160\" y2=\"90\"/><line x1=\"170\" y1=\"64\" x2=\"180\" y2=\"90\"/><path d=\"M156 90 Q170 98 184 90\"/></g><text x=\"40\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ためす</text><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">裁判</text></svg>"
+  },
+  "etymology": "try(ためす) + -al(名詞にする) → ためすこと=試み・試験 → (罪があるかを)ためす=裁判 → (人の心を)ためすもの=試練",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a test of something to see how good or useful it is; a process in a court of law to decide if someone is guilty; a difficult experience."
+    }
+  ],
+  "cautions": [
+    "「裁判」の意味が長文で出る(on trial=裁判にかけられて)",
+    "by trial and error=試行錯誤で(決まった言い方)",
+    "「試練・苦難」の意味もある(trials and difficulties)",
+    "a trial period=試用期間・お試し期間"
+  ],
+  "patterns": [
+    {
+      "form": "by trial and error",
+      "meaning": "試行錯誤で"
+    },
+    {
+      "form": "be on trial (for A)",
+      "meaning": "(Aの罪で)裁判にかけられている"
+    },
+    {
+      "form": "stand trial",
+      "meaning": "裁判を受ける"
+    },
+    {
+      "form": "a clinical trial",
+      "meaning": "臨床試験"
+    },
+    {
+      "form": "a free trial",
+      "meaning": "無料のお試し"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "試行錯誤",
+      "en": "We found the answer by trial and error.",
+      "ja": "私たちは試行錯誤で答えを見つけた。"
+    },
+    {
+      "source": "original",
+      "label": "裁判",
+      "en": "The man is on trial for stealing a car.",
+      "ja": "その男は車を盗んだ罪で裁判にかけられている。"
+    },
+    {
+      "source": "original",
+      "label": "裁判を受ける",
+      "en": "He will stand trial next month.",
+      "ja": "彼は来月、裁判を受ける。"
+    },
+    {
+      "source": "original",
+      "label": "試験",
+      "en": "The new medicine is still in clinical trials.",
+      "ja": "その新薬はまだ臨床試験の段階だ。"
+    },
+    {
+      "source": "original",
+      "label": "お試し",
+      "en": "You can use the app free during a one-month trial.",
+      "ja": "1か月のお試し期間はそのアプリを無料で使える。"
+    },
+    {
+      "source": "original",
+      "label": "試練",
+      "en": "Losing her job was a great trial for her.",
+      "ja": "仕事を失ったことは彼女にとって大きな試練だった。"
+    }
+  ],
+  "check_points": [
+    "by trial and error の意味を言えるか",
+    "「裁判」の trial を訳せるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "by trial and error と「裁判」の意味が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 738
+    }
+  ]
+}

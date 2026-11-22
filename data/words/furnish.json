@@ -1,0 +1,98 @@
+{
+  "word": "furnish",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈfɜːrnɪʃ/",
+  "core_image": {
+    "text": "空っぽのところに、必要な物をそろえる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"40\" width=\"80\" height=\"100\"/><rect x=\"140\" y=\"96\" width=\"60\" height=\"10\"/><line x1=\"146\" y1=\"106\" x2=\"146\" y2=\"140\"/><line x1=\"194\" y1=\"106\" x2=\"194\" y2=\"140\"/><rect x=\"150\" y=\"60\" width=\"16\" height=\"36\"/><line x1=\"150\" y1=\"78\" x2=\"166\" y2=\"78\"/><line x1=\"114\" y1=\"110\" x2=\"136\" y2=\"110\"/><polyline points=\"129,106.2 136,110 129,113.8\"/></g><text x=\"70\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">空の部屋</text><text x=\"176\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">家具をそろえる</text></svg>"
+  },
+  "etymology": "古フランス語 furnir(用意する・そろえる) → 必要な物をそろえて与える → (部屋に)家具を備えつける → (情報などを)提供する。名詞 furniture=そろえた物=家具",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to put furniture into a room or house; to supply someone with something they need."
+    }
+  ],
+  "cautions": [
+    "furnish A with B=AにBを与える・備えつける(provide A with B と同じ型)",
+    "furnish B to A の形もある(B を A に提供する)",
+    "a furnished room=家具つきの部屋(受け身・過去分詞で形容詞的に)",
+    "名詞 furniture は数えられない(a piece of furniture)"
+  ],
+  "patterns": [
+    {
+      "form": "furnish A with B",
+      "meaning": "AにBを与える・備えつける"
+    },
+    {
+      "form": "furnish B to A",
+      "meaning": "BをAに提供する"
+    },
+    {
+      "form": "be furnished with B",
+      "meaning": "Bが備えつけられている"
+    },
+    {
+      "form": "a furnished room",
+      "meaning": "家具つきの部屋"
+    },
+    {
+      "form": "a piece of furniture",
+      "meaning": "家具1点"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "furnish A with B",
+      "en": "The guide furnished us with a map of the town.",
+      "ja": "ガイドは私たちに町の地図をくれた。"
+    },
+    {
+      "source": "original",
+      "label": "家具を備えつける",
+      "en": "They furnished the new apartment with second-hand items.",
+      "ja": "彼らは新しいアパートに中古の家具をそろえた。"
+    },
+    {
+      "source": "original",
+      "label": "be furnished with",
+      "en": "Each room is furnished with a desk and a bed.",
+      "ja": "どの部屋にも机とベッドが備えつけられている。"
+    },
+    {
+      "source": "original",
+      "label": "家具つきの",
+      "en": "She rented a furnished room near the station.",
+      "ja": "彼女は駅の近くに家具つきの部屋を借りた。"
+    },
+    {
+      "source": "original",
+      "label": "情報を提供する",
+      "en": "The witness furnished the police with important information.",
+      "ja": "目撃者は警察に重要な情報を提供した。"
+    },
+    {
+      "source": "original",
+      "label": "furniture(数えられない)",
+      "en": "We bought three pieces of furniture.",
+      "ja": "私たちは家具を3点買った。"
+    }
+  ],
+  "check_points": [
+    "furnish A with B の型と意味を言えるか",
+    "furniture が数えられない名詞だと言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "provide A with B と同じ型(A with B)として語法問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 731
+    }
+  ]
+}

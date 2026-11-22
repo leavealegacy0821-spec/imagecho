@@ -1,0 +1,98 @@
+{
+  "word": "equip",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪˈkwɪp/",
+  "core_image": {
+    "text": "出かける前に、道具を身につけさせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"110\" cy=\"52\" r=\"10\"/><line x1=\"110\" y1=\"62\" x2=\"110\" y2=\"106\"/><line x1=\"110\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"110\" y1=\"106\" x2=\"120\" y2=\"140\"/><line x1=\"110\" y1=\"74\" x2=\"96\" y2=\"100\"/><line x1=\"110\" y1=\"74\" x2=\"136\" y2=\"84\"/><line x1=\"136\" y1=\"70\" x2=\"136\" y2=\"100\"/><rect x=\"88\" y=\"66\" width=\"12\" height=\"26\"/><path d=\"M100 40 Q110 30 120 40\"/></g><text x=\"50\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">道具</text><text x=\"180\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">備える</text></svg>"
+  },
+  "etymology": "古フランス語 equiper(船に必要な物を積む) → 必要な道具を持たせる → 装備させる → (能力を)身につけさせる。名詞 equipment=装備・設備",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to provide a person or place with the things needed for a particular activity; to prepare someone with skills or knowledge."
+    }
+  ],
+  "cautions": [
+    "equip A with B=AにBを備えつける・持たせる(with を使う)",
+    "be equipped with B=Bを備えている(受け身でよく出る)",
+    "be equipped to do=〜する能力・準備がある",
+    "名詞 equipment は数えられない(an equipment ✕)。つづりは equipped(p を重ねる)"
+  ],
+  "patterns": [
+    {
+      "form": "equip A with B",
+      "meaning": "AにBを備えつける"
+    },
+    {
+      "form": "be equipped with B",
+      "meaning": "Bを備えている"
+    },
+    {
+      "form": "be (well) equipped to do",
+      "meaning": "〜する準備・能力がある"
+    },
+    {
+      "form": "equip A for B",
+      "meaning": "AにBの準備をさせる"
+    },
+    {
+      "form": "equipment",
+      "meaning": "装備・設備(数えられない)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "be equipped with",
+      "en": "All the classrooms are equipped with air conditioners.",
+      "ja": "すべての教室にエアコンが備えつけられている。"
+    },
+    {
+      "source": "original",
+      "label": "equip A with B",
+      "en": "The school equipped every student with a tablet.",
+      "ja": "学校は全生徒にタブレットを持たせた。"
+    },
+    {
+      "source": "original",
+      "label": "能力を身につけさせる",
+      "en": "Education should equip children with the skills they need.",
+      "ja": "教育は子どもに必要な技能を身につけさせるべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "be equipped to do",
+      "en": "The small hospital is not equipped to deal with serious cases.",
+      "ja": "その小さな病院は重い症例に対応する設備がない。"
+    },
+    {
+      "source": "original",
+      "label": "equip A for B",
+      "en": "The training equipped us for life abroad.",
+      "ja": "その研修で私たちは海外生活への備えができた。"
+    },
+    {
+      "source": "original",
+      "label": "equipment(数えられない)",
+      "en": "We need some new equipment for the lab.",
+      "ja": "実験室に新しい設備がいくつか必要だ。"
+    }
+  ],
+  "check_points": [
+    "be equipped with B の意味を言えるか",
+    "equipment に a をつけないと言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be equipped with の受け身と、equipment(不可算)が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 732
+    }
+  ]
+}

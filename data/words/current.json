@@ -1,0 +1,103 @@
+{
+  "word": "current",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/ˈkɜːrənt/",
+  "core_image": {
+    "text": "いま、目の前を流れている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M20 70 Q60 56 100 70 Q140 84 180 70 Q200 63 220 70\"/><path d=\"M20 100 Q60 86 100 100 Q140 114 180 100 Q200 93 220 100\"/><line x1=\"70\" y1=\"85\" x2=\"170\" y2=\"85\"/><polyline points=\"163,81.2 170,85 163,88.8\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">流れ</text><text x=\"120\" y=\"126\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いまの</text></svg>"
+  },
+  "etymology": "ラテン語 currere(走る・流れる。occur、course と同じ) → いま流れている → 現在の・最新の → (水・空気・電気の)流れ → (世の中の)風潮",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "happening or existing now."
+    },
+    {
+      "pos": "名詞",
+      "text": "a continuous movement of water, air, or electricity in one direction; a general tendency of opinion."
+    }
+  ],
+  "cautions": [
+    "形容詞「現在の・最新の」(current events=時事問題)",
+    "名詞「(水・空気の)流れ」「電流」もある(an electric current)",
+    "副詞 currently=現在は(「流暢に」ではない)",
+    "名詞 currency=通貨(流通しているお金)と混同しない"
+  ],
+  "patterns": [
+    {
+      "form": "current events",
+      "meaning": "時事問題"
+    },
+    {
+      "form": "the current situation",
+      "meaning": "現状"
+    },
+    {
+      "form": "an ocean current",
+      "meaning": "海流"
+    },
+    {
+      "form": "an electric current",
+      "meaning": "電流"
+    },
+    {
+      "form": "currently",
+      "meaning": "現在は"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "現在の",
+      "en": "The current system has many problems.",
+      "ja": "現在の制度には多くの問題がある。"
+    },
+    {
+      "source": "original",
+      "label": "時事",
+      "en": "We discussed current events in English class.",
+      "ja": "英語の授業で時事問題について話し合った。"
+    },
+    {
+      "source": "original",
+      "label": "currently",
+      "en": "She is currently living in London.",
+      "ja": "彼女は現在ロンドンに住んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "流れ",
+      "en": "The current was too strong to swim against.",
+      "ja": "流れが強すぎて逆らって泳げなかった。"
+    },
+    {
+      "source": "original",
+      "label": "電流",
+      "en": "An electric current flows through the wire.",
+      "ja": "電流が電線を流れる。"
+    },
+    {
+      "source": "original",
+      "label": "風潮",
+      "en": "He went against the current of public opinion.",
+      "ja": "彼は世論の流れに逆らった。"
+    }
+  ],
+  "check_points": [
+    "形容詞「現在の」と名詞「流れ」を言えるか",
+    "currently と currency の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「現在の」(current situation)が長文の定番。名詞「流れ・電流」も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 736
+    }
+  ]
+}

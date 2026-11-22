@@ -1,0 +1,98 @@
+{
+  "word": "industry",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈɪndəstri/",
+  "core_image": {
+    "text": "せっせと働き続けて、物を作る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"80\" width=\"110\" height=\"60\"/><polyline points=\"30,80 60,60 60,80 90,60 90,80 120,60 120,80\"/><rect x=\"120\" y=\"40\" width=\"14\" height=\"40\"/><path d=\"M127 36 Q120 26 130 22 Q140 18 134 10\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"176\" y2=\"96\"/><line x1=\"190\" y1=\"74\" x2=\"204\" y2=\"96\"/></g><text x=\"70\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">産業</text><text x=\"190\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">勤勉</text></svg>"
+  },
+  "etymology": "ラテン語 industria(勤勉・熱心に働くこと) → せっせと働くこと=勤勉 → 働いて物を作ること → 産業・工業 → (特定の)業界",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the production of goods, especially in factories; a particular type of business; the quality of working hard."
+    }
+  ],
+  "cautions": [
+    "「産業・工業」と「勤勉」の2つの意味がある",
+    "形容詞が2つ:industrial=産業の、industrious=勤勉な(区別が頻出)",
+    "「〜業界」は the 〜 industry(the tourism industry=観光業)",
+    "heavy industry=重工業"
+  ],
+  "patterns": [
+    {
+      "form": "the 〜 industry",
+      "meaning": "〜業界"
+    },
+    {
+      "form": "heavy / light industry",
+      "meaning": "重工業・軽工業"
+    },
+    {
+      "form": "industrial",
+      "meaning": "産業の"
+    },
+    {
+      "form": "industrious",
+      "meaning": "勤勉な"
+    },
+    {
+      "form": "with industry",
+      "meaning": "勤勉に"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "産業",
+      "en": "The car industry is very important to the country.",
+      "ja": "自動車産業はその国にとってとても重要だ。"
+    },
+    {
+      "source": "original",
+      "label": "業界",
+      "en": "She works in the tourism industry.",
+      "ja": "彼女は観光業界で働いている。"
+    },
+    {
+      "source": "original",
+      "label": "工業",
+      "en": "The city grew rapidly with the development of industry.",
+      "ja": "その都市は工業の発展とともに急成長した。"
+    },
+    {
+      "source": "original",
+      "label": "勤勉",
+      "en": "He succeeded through talent and industry.",
+      "ja": "彼は才能と勤勉によって成功した。"
+    },
+    {
+      "source": "original",
+      "label": "industrial",
+      "en": "Industrial waste polluted the river.",
+      "ja": "産業廃棄物が川を汚染した。"
+    },
+    {
+      "source": "original",
+      "label": "industrious",
+      "en": "The Japanese are often said to be industrious.",
+      "ja": "日本人は勤勉だとよく言われる。"
+    }
+  ],
+  "check_points": [
+    "「産業」と「勤勉」の2つの意味を言えるか",
+    "industrial と industrious を区別できるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "industrial / industrious の区別と、「勤勉」の意味が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 735
+    }
+  ]
+}

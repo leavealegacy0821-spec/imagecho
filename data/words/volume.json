@@ -1,0 +1,97 @@
+{
+  "word": "volume",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈvɑːljuːm/",
+  "core_image": {
+    "text": "くるくる巻いた、ひとかたまりの分量",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"80\" width=\"22\" height=\"60\"/><rect x=\"54\" y=\"80\" width=\"22\" height=\"60\"/><rect x=\"78\" y=\"80\" width=\"22\" height=\"60\"/><line x1=\"36\" y1=\"96\" x2=\"46\" y2=\"96\"/><line x1=\"60\" y1=\"96\" x2=\"70\" y2=\"96\"/><line x1=\"84\" y1=\"96\" x2=\"94\" y2=\"96\"/><rect x=\"140\" y=\"70\" width=\"30\" height=\"40\"/><polygon points=\"170,70 196,50 196,130 170,110\"/><path d=\"M204 76 Q212 90 204 104\"/></g><text x=\"66\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">1巻・2巻</text><text x=\"176\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">音量</text></svg>"
+  },
+  "etymology": "ラテン語 volumen(巻物。revolve の volv=回す・巻くと同じ) → 巻いたひとかたまり=(本の)巻・冊 → ひとかたまりの大きさ=量・体積 → 音の大きさ=音量",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the amount of space something contains; the amount of something; how loud a sound is; one book in a set of books."
+    }
+  ],
+  "cautions": [
+    "「量・分量」の意味が長文で最も出る(the volume of traffic=交通量)",
+    "「音量」(turn up / down the volume)",
+    "「(全集の)巻・冊」(Volume 2=第2巻)",
+    "形容詞 voluminous=大量の・かさばる"
+  ],
+  "patterns": [
+    {
+      "form": "the volume of A",
+      "meaning": "Aの量"
+    },
+    {
+      "form": "a large volume of A",
+      "meaning": "大量のA"
+    },
+    {
+      "form": "turn up / down the volume",
+      "meaning": "音量を上げる・下げる"
+    },
+    {
+      "form": "Volume 1",
+      "meaning": "第1巻"
+    },
+    {
+      "form": "speak volumes",
+      "meaning": "多くを物語る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "量",
+      "en": "The volume of traffic increases during the holidays.",
+      "ja": "休みのあいだは交通量が増える。"
+    },
+    {
+      "source": "original",
+      "label": "大量の",
+      "en": "The website receives a large volume of visitors every day.",
+      "ja": "そのサイトには毎日大量の訪問者がある。"
+    },
+    {
+      "source": "original",
+      "label": "音量",
+      "en": "Could you turn down the volume a little?",
+      "ja": "少し音量を下げてもらえますか。"
+    },
+    {
+      "source": "original",
+      "label": "巻",
+      "en": "The story continues in the second volume.",
+      "ja": "物語は第2巻に続く。"
+    },
+    {
+      "source": "original",
+      "label": "体積",
+      "en": "Measure the volume of the box.",
+      "ja": "その箱の体積をはかりなさい。"
+    },
+    {
+      "source": "original",
+      "label": "speak volumes",
+      "en": "Her silence spoke volumes.",
+      "ja": "彼女の沈黙が多くを物語っていた。"
+    }
+  ],
+  "check_points": [
+    "「量」「音量」「巻」の3つを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「量」の意味(the volume of A)が長文・語彙で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 739
+    }
+  ]
+}
