@@ -1,0 +1,98 @@
+{
+  "word": "have",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/hæv/",
+  "core_image": {
+    "text": "自分の手もとに、もっている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"104\" y2=\"82\"/><line x1=\"70\" y1=\"74\" x2=\"104\" y2=\"96\"/><rect x=\"104\" y=\"76\" width=\"32\" height=\"28\"/></g><text x=\"180\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手もと</text></svg>"
+  },
+  "etymology": "古英語 habban(もつ) → (物を)もっている → (時間・経験を)もつ=過ごす・経験する(have a good time) → (ある状態を)もたせる=使役(have O do / have O done) → (やることを)かかえる=have to do",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to own or hold something; to experience something; to cause someone to do something or something to be done; to be obliged to do something."
+    }
+  ],
+  "cautions": [
+    "have O do=(当然の役目として)Oに〜してもらう・させる / have O done=Oを〜してもらう・〜される(被害)",
+    "don't have to do=〜する必要はない。must not(〜してはいけない)と取り違えない",
+    "「所有」の have は進行形にしない(×I am having a car)。have lunch(食べる)などは進行形にできる",
+    "have nothing to do with A=Aと何の関係もない"
+  ],
+  "patterns": [
+    {
+      "form": "have O do",
+      "meaning": "Oに〜してもらう・させる"
+    },
+    {
+      "form": "have O done",
+      "meaning": "Oを〜してもらう・〜される"
+    },
+    {
+      "form": "have to do",
+      "meaning": "〜しなければならない"
+    },
+    {
+      "form": "don't have to do",
+      "meaning": "〜する必要はない"
+    },
+    {
+      "form": "have nothing to do with A",
+      "meaning": "Aと関係がない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "もっている",
+      "en": "My sister has two cats.",
+      "ja": "姉はねこを2ひき飼っている。"
+    },
+    {
+      "source": "original",
+      "label": "経験する",
+      "en": "We had a great time at the festival.",
+      "ja": "お祭りではとても楽しく過ごした。"
+    },
+    {
+      "source": "original",
+      "label": "have O do",
+      "en": "I'll have my brother carry the box.",
+      "ja": "兄にその箱を運んでもらおう。"
+    },
+    {
+      "source": "original",
+      "label": "have O done(してもらう)",
+      "en": "I had my hair cut yesterday.",
+      "ja": "きのう髪を切ってもらった。"
+    },
+    {
+      "source": "original",
+      "label": "have O done(される)",
+      "en": "He had his bike stolen at the station.",
+      "ja": "彼は駅で自転車を盗まれた。"
+    },
+    {
+      "source": "original",
+      "label": "don't have to",
+      "en": "You don't have to come if you're busy.",
+      "ja": "忙しいなら来なくてもいいよ。"
+    }
+  ],
+  "check_points": [
+    "have O do と have O done の違いを言えるか",
+    "don't have to と must not の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "使役 have O do / have O done(被害の「〜される」も)、don't have to と must not の区別が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 781
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "word": "speak",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/spiːk/",
+  "core_image": {
+    "text": "声を出して、話す(話す行為そのもの)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"80\" y2=\"96\"/><path d=\"M86 46 Q94 52 86 58\"/><path d=\"M94 40 Q106 52 94 64\"/><path d=\"M102 34 Q118 52 102 70\"/></g><text x=\"176\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">声を出す</text></svg>"
+  },
+  "etymology": "古英語 sprecan(声を出して話す) → (人前で・ある言語で)話す(speak English) → (〜について)話す(speak of / about A) → (話して)評価する(speak well / ill of A)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say words using your voice; to be able to use a language; to give a speech; to talk about someone or something."
+    }
+  ],
+  "cautions": [
+    "speak は「声を出して話す行為」に重点。言う中身を目的語にする say とちがい、目的語は言語など(speak English)",
+    "speak to 人=人に話しかける。受け身は be spoken to(by)と to が残る",
+    "speak well of A=Aをほめる / speak ill of A=Aの悪口を言う",
+    "過去形 spoke、過去分詞 spoken / 決まり文句 so to speak=いわば、generally speaking=一般的に言って"
+  ],
+  "patterns": [
+    {
+      "form": "speak to 人",
+      "meaning": "人に話しかける"
+    },
+    {
+      "form": "be spoken to",
+      "meaning": "話しかけられる"
+    },
+    {
+      "form": "speak of / about A",
+      "meaning": "Aについて話す"
+    },
+    {
+      "form": "speak well / ill of A",
+      "meaning": "Aをほめる / Aの悪口を言う"
+    },
+    {
+      "form": "so to speak",
+      "meaning": "いわば"
+    },
+    {
+      "form": "generally speaking",
+      "meaning": "一般的に言えば"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "話す",
+      "en": "She speaks three languages.",
+      "ja": "彼女は3か国語を話す。"
+    },
+    {
+      "source": "original",
+      "label": "speak to",
+      "en": "A stranger spoke to me at the station.",
+      "ja": "駅で知らない人に話しかけられた。"
+    },
+    {
+      "source": "original",
+      "label": "be spoken to",
+      "en": "I was spoken to by a tourist in English.",
+      "ja": "観光客に英語で話しかけられた。"
+    },
+    {
+      "source": "original",
+      "label": "speak ill of",
+      "en": "You shouldn't speak ill of others behind their backs.",
+      "ja": "かげで人の悪口を言うべきではない。"
+    },
+    {
+      "source": "original",
+      "label": "so to speak",
+      "en": "He is, so to speak, a walking dictionary.",
+      "ja": "彼はいわば生き字引だ。"
+    },
+    {
+      "source": "original",
+      "label": "generally speaking",
+      "en": "Generally speaking, Japanese trains are on time.",
+      "ja": "一般的に言って、日本の電車は時間どおりだ。"
+    }
+  ],
+  "check_points": [
+    "speak to の受け身で to が残ることを言えるか",
+    "speak well of / speak ill of の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be spoken to by(前置詞が残る受け身)、speak ill of、so to speak / generally speaking が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 786
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "hope",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/hoʊp/",
+  "core_image": {
+    "text": "先にある良いことを、そうなると信じて待つ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"60\" y2=\"96\"/><line x1=\"70\" y1=\"70\" x2=\"160\" y2=\"110\" stroke-dasharray=\"5 5\"/><polyline points=\"155.1,103.6 160,110 152,110.7\"/><path d=\"M170 140 A26 26 0 0 1 222 140\"/><line x1=\"196\" y1=\"108\" x2=\"196\" y2=\"98\"/><line x1=\"174\" y1=\"114\" x2=\"166\" y2=\"108\"/><line x1=\"218\" y1=\"114\" x2=\"226\" y2=\"108\"/></g><text x=\"150\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そうなるはず</text></svg>"
+  },
+  "etymology": "古英語 hopian(期待して待つ) → (良いことが起こると)望む・期待する(hope to do / hope that) → (名詞)望み・見込み(There is no hope of A)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to want something to happen and think that it is possible."
+    },
+    {
+      "pos": "名詞",
+      "text": "a feeling that something good may happen; a chance that something good will happen."
+    }
+  ],
+  "cautions": [
+    "hope to do / hope that S V は○。×hope O to do(人に〜してほしい は want O to do)",
+    "hope は実現しそうなこと。実現しそうにないことは wish(I hope it will be sunny tomorrow.)",
+    "I hope so.=そうだといいね / I hope not.=そうでないといいね(×I don't hope so)",
+    "in the hope of doing / that S V=〜を期待して"
+  ],
+  "patterns": [
+    {
+      "form": "hope to do",
+      "meaning": "〜したいと思う"
+    },
+    {
+      "form": "hope that S V",
+      "meaning": "〜だといいと思う"
+    },
+    {
+      "form": "I hope so / I hope not",
+      "meaning": "そうだといい / そうでないといい"
+    },
+    {
+      "form": "in the hope of doing",
+      "meaning": "〜を期待して"
+    },
+    {
+      "form": "There is no hope of A",
+      "meaning": "Aの見込みはない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "hope to do",
+      "en": "I hope to study abroad someday.",
+      "ja": "いつか留学したいと思っている。"
+    },
+    {
+      "source": "original",
+      "label": "hope that",
+      "en": "I hope that you will get well soon.",
+      "ja": "早くよくなるといいですね。"
+    },
+    {
+      "source": "original",
+      "label": "I hope not",
+      "en": "\"Will it rain tomorrow?\" \"I hope not.\"",
+      "ja": "「あした雨かな」「降らないといいね」"
+    },
+    {
+      "source": "original",
+      "label": "want O to do",
+      "en": "My parents want me to become a doctor.",
+      "ja": "両親は私に医者になってほしいと思っている。"
+    },
+    {
+      "source": "original",
+      "label": "in the hope of",
+      "en": "He moved to Tokyo in the hope of finding a job.",
+      "ja": "彼は仕事が見つかることを期待して東京へ引っ越した。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "There is little hope of finding the lost dog.",
+      "ja": "いなくなった犬が見つかる見込みはほとんどない。"
+    }
+  ],
+  "check_points": [
+    "×hope O to do のかわりに何を使うか言えるか",
+    "I hope not. と ×I don't hope so. の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "×hope O to do(正誤問題)、I hope not、wish との区別が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 789
+    }
+  ]
+}

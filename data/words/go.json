@@ -1,0 +1,102 @@
+{
+  "word": "go",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɡoʊ/",
+  "core_image": {
+    "text": "今いる所から、離れて向こうへ進む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"62\" y2=\"94\"/><line x1=\"72\" y1=\"96\" x2=\"200\" y2=\"96\"/><polyline points=\"193,92.2 200,96 193,99.8\"/></g><text x=\"50\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ここ</text><text x=\"140\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">離れていく</text></svg>"
+  },
+  "etymology": "古英語 gān(行く) → (話の中心から)離れて行く → (物事が)進む(go well) → (元の状態から離れて)〜になる(go bad / go wrong:多くは悪い変化) → (ある方向へ進む)=be going to do(〜しようとしている)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move or travel away from where you are; to happen or progress in a particular way; to become, especially in a bad way."
+    }
+  ],
+  "cautions": [
+    "go C=Cになる。多くは悪い変化(go bad=くさる、go wrong=うまくいかない、go blind)",
+    "go doing=〜しに行く。後ろの前置詞は場所に合わせる(go shopping in Shibuya / ×to Shibuya)",
+    "go on doing=〜し続ける / go on to do=続けて(次に)〜する",
+    "go with A=Aと合う / go through A=A(つらいこと)を経験する"
+  ],
+  "patterns": [
+    {
+      "form": "go C",
+      "meaning": "Cになる(悪い変化)"
+    },
+    {
+      "form": "go doing",
+      "meaning": "〜しに行く"
+    },
+    {
+      "form": "go on doing",
+      "meaning": "〜し続ける"
+    },
+    {
+      "form": "go on to do",
+      "meaning": "続けて〜する"
+    },
+    {
+      "form": "go through A",
+      "meaning": "Aを経験する"
+    },
+    {
+      "form": "go with A",
+      "meaning": "Aに合う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "行く",
+      "en": "I go to school by train.",
+      "ja": "私は電車で学校に行く。"
+    },
+    {
+      "source": "original",
+      "label": "go C",
+      "en": "The milk went bad because I left it out.",
+      "ja": "出しっぱなしにしたので牛乳がくさった。"
+    },
+    {
+      "source": "original",
+      "label": "go doing",
+      "en": "We went fishing in the river.",
+      "ja": "私たちは川へつりに行った。"
+    },
+    {
+      "source": "original",
+      "label": "go on doing",
+      "en": "She went on talking for an hour.",
+      "ja": "彼女は1時間話し続けた。"
+    },
+    {
+      "source": "original",
+      "label": "go through",
+      "en": "He went through a lot of hardships as a child.",
+      "ja": "彼は子どものころ多くの苦労を経験した。"
+    },
+    {
+      "source": "original",
+      "label": "進む",
+      "en": "How is your new job going?",
+      "ja": "新しい仕事の調子はどう?"
+    }
+  ],
+  "check_points": [
+    "go bad / go wrong の go が「なる」であることを言えるか",
+    "go shopping in と ×to の理由を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "go C(悪い変化)、go doing in 場所、go on doing と go on to do の区別が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 783
+    }
+  ]
+}

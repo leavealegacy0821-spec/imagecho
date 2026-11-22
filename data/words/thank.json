@@ -1,0 +1,94 @@
+{
+  "word": "thank",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/θæŋk/",
+  "core_image": {
+    "text": "してもらったことに、「ありがとう」を返す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"60\" y2=\"96\"/><line x1=\"66\" y1=\"72\" x2=\"136\" y2=\"84\" stroke-dasharray=\"5 5\"/><polyline points=\"129.7,79 136,84 128.4,86.6\"/><rect x=\"140\" y=\"78\" width=\"24\" height=\"20\"/><line x1=\"152\" y1=\"78\" x2=\"152\" y2=\"98\"/><circle cx=\"186\" cy=\"52\" r=\"10\"/><line x1=\"186\" y1=\"62\" x2=\"186\" y2=\"106\"/><line x1=\"186\" y1=\"106\" x2=\"176\" y2=\"140\"/><line x1=\"186\" y1=\"106\" x2=\"196\" y2=\"140\"/><line x1=\"186\" y1=\"74\" x2=\"164\" y2=\"86\"/><line x1=\"186\" y1=\"74\" x2=\"196\" y2=\"96\"/></g><text x=\"176\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ありがとう</text></svg>"
+  },
+  "etymology": "古英語 þancian(感謝する。think と同じ根で「心にかける」) → (人に)感謝する(thank A for B) → (名詞 thanks)感謝・〜のおかげで(thanks to A)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to tell someone that you are grateful for something they have done or given."
+    }
+  ],
+  "cautions": [
+    "thank A for B=BのことでAに感謝する。目的語は人(×thank your help → thank you for your help)",
+    "for の後ろは名詞か doing(Thank you for coming.)",
+    "thanks to A=Aのおかげで(悪い結果にも使う)。because of / owing to と同じ働き",
+    "I'd appreciate it if 〜 のように、appreciate は「物事」を目的語にとる(人は×)。thank との使い分けが狙われる"
+  ],
+  "patterns": [
+    {
+      "form": "thank A for B",
+      "meaning": "BのことでAに感謝する"
+    },
+    {
+      "form": "thank A for doing",
+      "meaning": "〜してくれてAに感謝する"
+    },
+    {
+      "form": "thanks to A",
+      "meaning": "Aのおかげで"
+    },
+    {
+      "form": "No, thank you.",
+      "meaning": "いいえ、けっこうです"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "thank A for B",
+      "en": "Thank you for your kind letter.",
+      "ja": "ご親切なお手紙ありがとう。"
+    },
+    {
+      "source": "original",
+      "label": "thank A for doing",
+      "en": "I thanked him for helping me with my homework.",
+      "ja": "宿題を手伝ってくれたことを彼に感謝した。"
+    },
+    {
+      "source": "original",
+      "label": "thank A for doing",
+      "en": "Thank you for coming all the way here.",
+      "ja": "わざわざ来てくれてありがとう。"
+    },
+    {
+      "source": "original",
+      "label": "thanks to",
+      "en": "Thanks to your advice, I passed the exam.",
+      "ja": "あなたの助言のおかげで試験に受かった。"
+    },
+    {
+      "source": "original",
+      "label": "thanks to(悪い結果)",
+      "en": "Thanks to the heavy snow, the trains stopped.",
+      "ja": "大雪のせいで電車が止まった。"
+    },
+    {
+      "source": "original",
+      "label": "appreciate との違い",
+      "en": "I really appreciate your help.",
+      "ja": "手伝ってくれて本当に感謝しています。"
+    }
+  ],
+  "check_points": [
+    "thank の目的語が人、appreciate の目的語が物事であることを言えるか",
+    "thanks to A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "thank A for B の語順、thanks to=because of、appreciate との目的語の違いが定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 790
+    }
+  ]
+}

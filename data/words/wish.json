@@ -1,0 +1,103 @@
+{
+  "word": "wish",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/wɪʃ/",
+  "core_image": {
+    "text": "かなわない(遠い)ことを、心で思い描く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"70\" y2=\"96\"/><circle cx=\"78\" cy=\"40\" r=\"3\"/><circle cx=\"92\" cy=\"32\" r=\"4\"/><ellipse cx=\"150\" cy=\"30\" rx=\"40\" ry=\"20\"/><polygon points=\"150,18 154,27 164,28 156,34 158,43 150,38 142,43 144,34 136,28 146,27\"/></g><text x=\"160\" y=\"96\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">〜ならなあ</text></svg>"
+  },
+  "etymology": "古英語 wȳscan(強く望む) → (かないそうにないことを)願う=I wish + 仮定法 → (人に幸運などを)願う(wish O O) → (ていねいに)〜したいと思う(wish to do)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to want something that is impossible or unlikely to happen; to hope that someone has something good; to want to do something (formal)."
+    },
+    {
+      "pos": "名詞",
+      "text": "a feeling of wanting something; a hope expressed for someone's happiness or success."
+    }
+  ],
+  "cautions": [
+    "I wish S 過去形=今〜ならいいのに / I wish S had done=あのとき〜だったらよかったのに(仮定法)",
+    "hope はかないそうなこと、wish はかないそうにないこと(現実と逆)",
+    "wish O O=OにOを祈る(I wish you good luck.)。×wish that you have good luck",
+    "If only S 過去形 も「〜ならいいのに」と同じ働き"
+  ],
+  "patterns": [
+    {
+      "form": "I wish S 過去形",
+      "meaning": "今〜ならいいのに"
+    },
+    {
+      "form": "I wish S had done",
+      "meaning": "あのとき〜だったらよかったのに"
+    },
+    {
+      "form": "wish O O",
+      "meaning": "OにOを祈る"
+    },
+    {
+      "form": "wish to do",
+      "meaning": "〜したいと思う(かたい)"
+    },
+    {
+      "form": "make a wish",
+      "meaning": "願いごとをする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "I wish S 過去形",
+      "en": "I wish I had more time to read.",
+      "ja": "もっと本を読む時間があればいいのに。"
+    },
+    {
+      "source": "original",
+      "label": "I wish S were",
+      "en": "I wish I were a bird.",
+      "ja": "鳥だったらいいのになあ。"
+    },
+    {
+      "source": "original",
+      "label": "I wish S had done",
+      "en": "I wish I had studied harder for the test.",
+      "ja": "もっとテスト勉強をしておけばよかった。"
+    },
+    {
+      "source": "original",
+      "label": "wish O O",
+      "en": "We wish you a merry Christmas.",
+      "ja": "楽しいクリスマスを。"
+    },
+    {
+      "source": "original",
+      "label": "wish to do",
+      "en": "I wish to speak to the manager.",
+      "ja": "責任者の方とお話ししたいのですが。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "Close your eyes and make a wish.",
+      "ja": "目を閉じて願いごとをしてごらん。"
+    }
+  ],
+  "check_points": [
+    "I wish の後ろの時制が1つ過去にずれる理由を言えるか",
+    "wish と hope の使い分けを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "I wish + 仮定法過去 / 過去完了、If only との言いかえ、hope との区別が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 788
+    }
+  ]
+}

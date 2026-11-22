@@ -1,0 +1,98 @@
+{
+  "word": "grow",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɡroʊ/",
+  "core_image": {
+    "text": "時間をかけて、少しずつ大きくなる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"50\" y1=\"140\" x2=\"50\" y2=\"124\"/><path d=\"M50 128 Q40 120 36 124\"/><path d=\"M50 128 Q60 120 64 124\"/><line x1=\"115\" y1=\"140\" x2=\"115\" y2=\"104\"/><path d=\"M115 116 Q100 106 96 112\"/><path d=\"M115 112 Q130 102 134 108\"/><line x1=\"185\" y1=\"140\" x2=\"185\" y2=\"66\"/><path d=\"M185 104 Q166 92 160 100\"/><path d=\"M185 92 Q204 80 210 88\"/><path d=\"M185 78 Q170 66 166 72\"/><line x1=\"62\" y1=\"112\" x2=\"96\" y2=\"100\" stroke-dasharray=\"5 5\"/><polyline points=\"88.1,98.7 96,100 90.7,106\"/><line x1=\"132\" y1=\"92\" x2=\"166\" y2=\"76\" stroke-dasharray=\"5 5\"/><polyline points=\"158,75.5 166,76 161.3,82.5\"/></g><text x=\"110\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">少しずつ</text></svg>"
+  },
+  "etymology": "古英語 grōwan(草木が育つ) → (植物が)育つ・(人が)成長する(grow up) → (育てて)栽培する(grow O) → (少しずつ)〜になる(grow C) → (だんだん)〜するようになる(grow to do)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to become bigger or develop; to cause plants to develop; to gradually become; to increase in size or amount."
+    }
+  ],
+  "cautions": [
+    "grow C=(だんだん)Cになる(grow old / grow dark)。become より「少しずつ」の感じ",
+    "grow to do=〜するようになる(come to do と同じ)",
+    "grow up=(人が)大人になる / grow O=Oを育てる・栽培する(他動詞)",
+    "過去形 grew、過去分詞 grown(grown-up=大人)"
+  ],
+  "patterns": [
+    {
+      "form": "grow C",
+      "meaning": "(だんだん)Cになる"
+    },
+    {
+      "form": "grow to do",
+      "meaning": "〜するようになる"
+    },
+    {
+      "form": "grow up",
+      "meaning": "大人になる・育つ"
+    },
+    {
+      "form": "grow O",
+      "meaning": "Oを育てる・栽培する"
+    },
+    {
+      "form": "grow out of A",
+      "meaning": "Aから生じる・(大きくなって)Aを卒業する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "育つ",
+      "en": "These plants grow well in warm places.",
+      "ja": "この植物は暖かい所でよく育つ。"
+    },
+    {
+      "source": "original",
+      "label": "grow up",
+      "en": "I grew up in a small town near the sea.",
+      "ja": "私は海の近くの小さな町で育った。"
+    },
+    {
+      "source": "original",
+      "label": "栽培する",
+      "en": "My grandfather grows tomatoes in his garden.",
+      "ja": "祖父は庭でトマトを育てている。"
+    },
+    {
+      "source": "original",
+      "label": "grow C",
+      "en": "It was growing dark, so we went home.",
+      "ja": "暗くなってきたので家に帰った。"
+    },
+    {
+      "source": "original",
+      "label": "grow to do",
+      "en": "I grew to love the city after living there for a year.",
+      "ja": "1年住んでその町が大好きになった。"
+    },
+    {
+      "source": "original",
+      "label": "増える",
+      "en": "The number of foreign visitors has grown rapidly.",
+      "ja": "外国人観光客の数は急速に増えた。"
+    }
+  ],
+  "check_points": [
+    "grow to do を come to do で言いかえられるか",
+    "grow C と become C のちがい(少しずつ)を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "grow C、grow to do=come to do、他動詞 grow O(栽培する)が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 784
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "hear",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/hɪər/",
+  "core_image": {
+    "text": "音や話が、耳に自然と入ってくる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"28\" y=\"38\" width=\"22\" height=\"30\"/><polygon points=\"50,44 66,34 66,72 50,62\"/><line x1=\"76\" y1=\"53\" x2=\"150\" y2=\"53\" stroke-dasharray=\"5 5\"/><polyline points=\"143,49.2 150,53 143,56.8\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"170\" y2=\"96\"/><line x1=\"180\" y1=\"74\" x2=\"190\" y2=\"96\"/><path d=\"M162 46 Q157 52 162 58\"/></g><text x=\"112\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">耳に入る</text></svg>"
+  },
+  "etymology": "古英語 hīeran(聞こえる) → (音が耳に入って)聞こえる → (話が耳に入って)聞いて知る(hear of / about A) → (便りが届いて)連絡をもらう(hear from A)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to notice sounds with your ears; to be told or learn about something; to receive news or a message from someone."
+    }
+  ],
+  "cautions": [
+    "hear は自然に耳に入る。意識して耳を傾けるのは listen to",
+    "hear O do / doing=Oが〜する(している)のが聞こえる。受け身は be heard to do(to が出る)",
+    "hear from A=Aから連絡(便り)がある / hear of A=Aのことを(うわさで)聞く",
+    "過去形・過去分詞は heard(発音 /hɜːrd/)"
+  ],
+  "patterns": [
+    {
+      "form": "hear O do / doing",
+      "meaning": "Oが〜する(している)のが聞こえる"
+    },
+    {
+      "form": "be heard to do",
+      "meaning": "〜するのが聞こえる(受け身)"
+    },
+    {
+      "form": "hear from A",
+      "meaning": "Aから連絡がある"
+    },
+    {
+      "form": "hear of / about A",
+      "meaning": "Aのことを聞く"
+    },
+    {
+      "form": "hear that S V",
+      "meaning": "〜だと聞いている"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "聞こえる",
+      "en": "Can you hear me at the back?",
+      "ja": "うしろの人、聞こえますか。"
+    },
+    {
+      "source": "original",
+      "label": "hear O do",
+      "en": "I heard someone knock on the door.",
+      "ja": "だれかがドアをノックするのが聞こえた。"
+    },
+    {
+      "source": "original",
+      "label": "hear O doing",
+      "en": "We heard the birds singing in the morning.",
+      "ja": "朝、鳥がさえずっているのが聞こえた。"
+    },
+    {
+      "source": "original",
+      "label": "be heard to do",
+      "en": "She was heard to say \"Thank you.\"",
+      "ja": "彼女が「ありがとう」と言うのが聞こえた。"
+    },
+    {
+      "source": "original",
+      "label": "hear from",
+      "en": "I haven't heard from my cousin for months.",
+      "ja": "いとこから何か月も連絡がない。"
+    },
+    {
+      "source": "original",
+      "label": "hear of",
+      "en": "I've never heard of that singer.",
+      "ja": "その歌手のことは聞いたことがない。"
+    }
+  ],
+  "check_points": [
+    "hear と listen to の違いを言えるか",
+    "hear from と hear of の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "知覚動詞 hear O do と受け身 be heard to do、hear from / hear of の区別が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 787
+    }
+  ]
+}
