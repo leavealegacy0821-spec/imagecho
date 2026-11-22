@@ -1,0 +1,94 @@
+{
+  "word": "vain",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/veɪn/",
+  "core_image": {
+    "text": "中身がからっぽ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M80 80 L80 130 Q80 140 90 140 L150 140 Q160 140 160 130 L160 80\"/><line x1=\"70\" y1=\"80\" x2=\"170\" y2=\"80\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"186\" y2=\"96\"/><line x1=\"200\" y1=\"74\" x2=\"214\" y2=\"96\"/></g><text x=\"120\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">からっぽ</text><text x=\"120\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">むだ</text></svg>"
+  },
+  "etymology": "ラテン語 vanus(からっぽの。vanish、vacant と同じ根) → 中身がない → むだな・むなしい(in vain=むだに) → (中身がないのに)見かけを気にする・うぬぼれた",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "unsuccessful or useless; too proud of one's appearance or abilities."
+    }
+  ],
+  "cautions": [
+    "in vain=むだに・むなしく(=without success)。文末に置くことが多い",
+    "人について vain=うぬぼれの強い・見えっ張りの(be vain about A)",
+    "名詞 vanity=うぬぼれ・むなしさ(化粧台 vanity table も)",
+    "vein(静脈)と同じ発音。つづりに注意"
+  ],
+  "patterns": [
+    {
+      "form": "in vain",
+      "meaning": "むだに"
+    },
+    {
+      "form": "a vain attempt / effort",
+      "meaning": "むだな試み・努力"
+    },
+    {
+      "form": "be vain about A",
+      "meaning": "Aを鼻にかける"
+    },
+    {
+      "form": "vanity",
+      "meaning": "うぬぼれ・むなしさ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "in vain",
+      "en": "We searched for the lost key, but in vain.",
+      "ja": "なくした鍵を探したが、むだだった。"
+    },
+    {
+      "source": "original",
+      "label": "in vain",
+      "en": "He tried in vain to persuade his father.",
+      "ja": "彼は父を説得しようとしたが、うまくいかなかった。"
+    },
+    {
+      "source": "original",
+      "label": "むだな",
+      "en": "The doctors made a vain attempt to save the patient.",
+      "ja": "医師たちは患者を救おうとしたが、むだに終わった。"
+    },
+    {
+      "source": "original",
+      "label": "うぬぼれた",
+      "en": "She is so vain that she checks her hair every few minutes.",
+      "ja": "彼女はうぬぼれが強く、数分おきに髪を確かめる。"
+    },
+    {
+      "source": "original",
+      "label": "be vain about",
+      "en": "He is vain about his good looks.",
+      "ja": "彼は自分の顔のよさを鼻にかけている。"
+    },
+    {
+      "source": "original",
+      "label": "うぬぼれ(名詞)",
+      "en": "His vanity made it hard for him to admit his mistakes.",
+      "ja": "うぬぼれのせいで彼は自分の誤りを認めにくかった。"
+    }
+  ],
+  "check_points": [
+    "in vain の意味と言いかえを言えるか",
+    "人について vain の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "in vain(=むだに)は熟語の定番。「うぬぼれた」の意味も長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 679
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "word": "abstract",
+  "pos": [
+    "形容詞",
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈæbstrækt/",
+  "core_image": {
+    "text": "具体物から、要点だけを引き抜いた",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"80\" width=\"50\" height=\"60\"/><circle cx=\"45\" cy=\"100\" r=\"6\"/><rect x=\"58\" y=\"112\" width=\"14\" height=\"14\"/><polygon points=\"40,132 48,122 56,132\"/><line x1=\"90\" y1=\"105\" x2=\"150\" y2=\"105\"/><polyline points=\"143,101.2 150,105 143,108.8\"/><circle cx=\"190\" cy=\"105\" r=\"12\"/></g><text x=\"55\" y=\"66\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">具体物</text><text x=\"190\" y=\"78\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">要点だけ</text></svg>"
+  },
+  "etymology": "abs(〜から離れて) + tract(引く。attract、extract と同じ根) → 具体的なものから引き離した → 抽象的な / (論文から要点を引き抜いた)要約 → 動詞:取り出す・抜き出す",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "based on general ideas rather than real, physical things."
+    },
+    {
+      "pos": "名詞",
+      "text": "a short summary of a longer piece of writing."
+    },
+    {
+      "pos": "動詞",
+      "text": "to remove or take out something; to make a summary of."
+    }
+  ],
+  "cautions": [
+    "abstract ⇔ concrete(具体的な)。対で出る",
+    "abstract art=抽象芸術、an abstract idea=抽象的な考え",
+    "名詞 abstract=(論文の)要約。in the abstract=抽象的に・理屈の上で",
+    "名詞 abstraction=抽象(化)"
+  ],
+  "patterns": [
+    {
+      "form": "abstract ideas / concepts",
+      "meaning": "抽象的な考え・概念"
+    },
+    {
+      "form": "abstract art",
+      "meaning": "抽象芸術"
+    },
+    {
+      "form": "in the abstract",
+      "meaning": "抽象的に・理屈の上で"
+    },
+    {
+      "form": "an abstract of A",
+      "meaning": "Aの要約"
+    },
+    {
+      "form": "abstract A from B",
+      "meaning": "BからAを抜き出す"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "抽象的な",
+      "en": "\"Freedom\" is an abstract idea that is hard to define.",
+      "ja": "「自由」は定義しにくい抽象的な考えだ。"
+    },
+    {
+      "source": "original",
+      "label": "concrete との対比",
+      "en": "Could you give me a concrete example instead of abstract words?",
+      "ja": "抽象的な言葉ではなく具体例を挙げてもらえますか。"
+    },
+    {
+      "source": "original",
+      "label": "抽象芸術",
+      "en": "Many people find abstract art difficult to understand.",
+      "ja": "抽象芸術はわかりにくいと感じる人が多い。"
+    },
+    {
+      "source": "original",
+      "label": "in the abstract",
+      "en": "It is easy to talk about peace in the abstract.",
+      "ja": "理屈の上で平和を語るのは簡単だ。"
+    },
+    {
+      "source": "original",
+      "label": "要約(名詞)",
+      "en": "Please read the abstract before you read the whole paper.",
+      "ja": "論文全体を読む前に要約を読んでください。"
+    },
+    {
+      "source": "original",
+      "label": "抜き出す(動詞)",
+      "en": "The researcher abstracted the main points from the data.",
+      "ja": "研究者はデータから要点を抜き出した。"
+    }
+  ],
+  "check_points": [
+    "abstract の反意語を言えるか",
+    "名詞 abstract の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "concrete との対比が長文の論理で、名詞「要約」が意外な意味として問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 671
+    }
+  ]
+}

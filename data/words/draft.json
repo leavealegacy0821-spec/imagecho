@@ -1,0 +1,103 @@
+{
+  "word": "draft",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/dræft/",
+  "core_image": {
+    "text": "さっと引いた最初の線(と、引き込まれる風)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"60\" width=\"70\" height=\"80\"/><line x1=\"50\" y1=\"76\" x2=\"96\" y2=\"76\"/><line x1=\"50\" y1=\"90\" x2=\"90\" y2=\"90\"/><line x1=\"50\" y1=\"104\" x2=\"98\" y2=\"104\"/><line x1=\"110\" y1=\"60\" x2=\"130\" y2=\"40\"/><line x1=\"150\" y1=\"90\" x2=\"200\" y2=\"90\" stroke-dasharray=\"5 5\"/><polyline points=\"193,86.2 200,90 193,93.8\"/><line x1=\"150\" y1=\"110\" x2=\"200\" y2=\"110\" stroke-dasharray=\"5 5\"/><polyline points=\"193,106.2 200,110 193,113.8\"/></g><text x=\"75\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">下書き</text><text x=\"176\" y=\"72\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すきま風</text></svg>"
+  },
+  "etymology": "draw(引く)と同じ根 → さっと引いた線 → 下書き・草案・設計図 → (書類で引き出す)為替手形 / (人を引き抜く)徴兵・ドラフト / (引き込まれる)すきま風",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an early version of a piece of writing; a flow of cold air in a room; the selection of people for military service or a sports team."
+    },
+    {
+      "pos": "動詞",
+      "text": "to write the first version of something; to choose someone for a team or the army."
+    }
+  ],
+  "cautions": [
+    "a first draft=最初の下書き、a rough draft=大まかな草案",
+    "名詞 draft=すきま風(イギリス英語では draught)",
+    "動詞 draft A=Aの草案を書く・(人を)選抜する・徴兵する(be drafted into A)",
+    "名詞 draft=(プロ野球などの)ドラフト・新人選択"
+  ],
+  "patterns": [
+    {
+      "form": "a first / rough draft",
+      "meaning": "最初の・大まかな下書き"
+    },
+    {
+      "form": "draft a speech / letter",
+      "meaning": "スピーチ・手紙の下書きをする"
+    },
+    {
+      "form": "a draft of A",
+      "meaning": "Aの草案"
+    },
+    {
+      "form": "be drafted into the army",
+      "meaning": "徴兵される"
+    },
+    {
+      "form": "a cold draft",
+      "meaning": "冷たいすきま風"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "下書き",
+      "en": "I wrote the first draft of my essay last night.",
+      "ja": "昨夜、作文の最初の下書きを書いた。"
+    },
+    {
+      "source": "original",
+      "label": "草案",
+      "en": "The committee is discussing a draft of the new rules.",
+      "ja": "委員会は新しい規則の草案を議論している。"
+    },
+    {
+      "source": "original",
+      "label": "下書きをする(動詞)",
+      "en": "She spent an hour drafting her speech for the ceremony.",
+      "ja": "彼女は式のスピーチの下書きに1時間かけた。"
+    },
+    {
+      "source": "original",
+      "label": "すきま風",
+      "en": "I felt a cold draft from the old window.",
+      "ja": "古い窓から冷たいすきま風が入ってきた。"
+    },
+    {
+      "source": "original",
+      "label": "徴兵する",
+      "en": "Many young men were drafted into the army during the war.",
+      "ja": "戦争中、多くの若者が徴兵された。"
+    },
+    {
+      "source": "original",
+      "label": "ドラフト",
+      "en": "He was chosen first in the professional baseball draft.",
+      "ja": "彼はプロ野球のドラフトで1位指名された。"
+    }
+  ],
+  "check_points": [
+    "draft の「すきま風」の意味を言えるか",
+    "draft と draw のつながりを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「下書き・草案」が中心。「すきま風」「徴兵する」が意外な意味として長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 678
+    }
+  ]
+}

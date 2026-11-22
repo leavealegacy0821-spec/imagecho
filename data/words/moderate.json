@@ -1,0 +1,103 @@
+{
+  "word": "moderate",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/ˈmɑːdərət/",
+  "core_image": {
+    "text": "ほどよい真ん中にとどまる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"40\" y1=\"110\" x2=\"200\" y2=\"110\"/><line x1=\"40\" y1=\"104\" x2=\"40\" y2=\"116\"/><line x1=\"200\" y1=\"104\" x2=\"200\" y2=\"116\"/><circle cx=\"120\" cy=\"110\" r=\"8\"/><line x1=\"70\" y1=\"85\" x2=\"108\" y2=\"104\" stroke-dasharray=\"5 5\"/><polyline points=\"103.4,97.4 108,104 100,104.3\"/><line x1=\"170\" y1=\"85\" x2=\"132\" y2=\"104\" stroke-dasharray=\"5 5\"/><polyline points=\"140,104.3 132,104 136.6,97.4\"/></g><text x=\"40\" y=\"132\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">少なすぎ</text><text x=\"200\" y=\"132\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">多すぎ</text><text x=\"120\" y=\"66\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ほどよい</text></svg>"
+  },
+  "etymology": "mod(尺度・ほどよい量。mode、modest と同じ根) → 尺度に合わせた → 極端に走らない・適度な・(考えが)穏健な → 動詞:和らげる・(会議の)司会をする",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "neither very large nor very small; not extreme, especially in political opinions."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make or become less extreme; to lead a discussion."
+    }
+  ],
+  "cautions": [
+    "moderate exercise=適度な運動、a moderate price=手ごろな値段",
+    "考えについて「穏健な」(⇔ extreme / radical)",
+    "動詞は /ˈmɑːdəreɪt/ と発音が変わる。「和らげる・司会をする」(moderator=司会者)",
+    "副詞 moderately=ほどほどに、名詞 moderation=節度(in moderation=ほどほどに)"
+  ],
+  "patterns": [
+    {
+      "form": "moderate exercise",
+      "meaning": "適度な運動"
+    },
+    {
+      "form": "at a moderate speed",
+      "meaning": "ほどよい速さで"
+    },
+    {
+      "form": "a moderate price",
+      "meaning": "手ごろな値段"
+    },
+    {
+      "form": "in moderation",
+      "meaning": "ほどほどに"
+    },
+    {
+      "form": "moderate a discussion",
+      "meaning": "議論の司会をする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "適度な",
+      "en": "Doctors recommend moderate exercise every day.",
+      "ja": "医師は毎日の適度な運動をすすめる。"
+    },
+    {
+      "source": "original",
+      "label": "ほどよい速さ",
+      "en": "Drive at a moderate speed on this narrow road.",
+      "ja": "この細い道はほどよい速さで運転しなさい。"
+    },
+    {
+      "source": "original",
+      "label": "手ごろな",
+      "en": "The hotel offers clean rooms at moderate prices.",
+      "ja": "そのホテルは清潔な部屋を手ごろな値段で提供している。"
+    },
+    {
+      "source": "original",
+      "label": "穏健な",
+      "en": "He holds moderate views on the issue.",
+      "ja": "彼はその問題について穏健な考えを持っている。"
+    },
+    {
+      "source": "original",
+      "label": "in moderation",
+      "en": "Sweets are fine if you eat them in moderation.",
+      "ja": "甘い物はほどほどに食べるなら問題ない。"
+    },
+    {
+      "source": "original",
+      "label": "司会をする(動詞)",
+      "en": "Our teacher moderated the debate between the two teams.",
+      "ja": "先生が2チームの討論の司会をした。"
+    }
+  ],
+  "check_points": [
+    "moderate の「穏健な」の反意語を言えるか",
+    "in moderation の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「適度な・手ごろな」の言いかえ(reasonable)と、in moderation が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 672
+    }
+  ]
+}

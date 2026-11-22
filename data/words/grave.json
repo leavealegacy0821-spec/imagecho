@@ -1,0 +1,103 @@
+{
+  "word": "grave",
+  "pos": [
+    "名詞",
+    "形容詞"
+  ],
+  "ipa": "/ɡreɪv/",
+  "core_image": {
+    "text": "ずっしり重い(墓は掘った穴)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M150 140 L150 90 Q170 70 190 90 L190 140\"/><line x1=\"170\" y1=\"96\" x2=\"170\" y2=\"122\"/><line x1=\"160\" y1=\"104\" x2=\"180\" y2=\"104\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,72 38,62 42,34\"/><polyline points=\"60,72 82,62 78,34\"/><rect x=\"34\" y=\"14\" width=\"52\" height=\"20\"/></g><text x=\"110\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">重い</text><text x=\"170\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">墓</text></svg>"
+  },
+  "etymology": "形容詞:ラテン語 gravis(重い。gravity と同じ根) → 重々しい・重大な・深刻な / 名詞:古英語 græf(掘った穴。grave=彫る) → 墓",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "very serious and worrying; serious in manner."
+    },
+    {
+      "pos": "名詞",
+      "text": "a place in the ground where a dead body is buried."
+    }
+  ],
+  "cautions": [
+    "形容詞 grave=重大な・深刻な(=serious)。a grave mistake / grave danger",
+    "名詞 grave=墓。形容詞とは別の語(語源が違う)",
+    "名詞 gravity=重力・重大さ・まじめさ",
+    "from the cradle to the grave=ゆりかごから墓場まで(一生)"
+  ],
+  "patterns": [
+    {
+      "form": "a grave mistake",
+      "meaning": "重大な誤り"
+    },
+    {
+      "form": "grave danger / concern",
+      "meaning": "深刻な危険・懸念"
+    },
+    {
+      "form": "a grave expression",
+      "meaning": "重々しい表情"
+    },
+    {
+      "form": "visit A's grave",
+      "meaning": "Aの墓参りをする"
+    },
+    {
+      "form": "from the cradle to the grave",
+      "meaning": "一生"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "重大な",
+      "en": "It was a grave mistake to trust him.",
+      "ja": "彼を信じたのは重大な誤りだった。"
+    },
+    {
+      "source": "original",
+      "label": "深刻な",
+      "en": "The forest fire put the village in grave danger.",
+      "ja": "山火事で村は深刻な危険にさらされた。"
+    },
+    {
+      "source": "original",
+      "label": "重々しい",
+      "en": "The doctor came out with a grave expression.",
+      "ja": "医師は重々しい表情で出てきた。"
+    },
+    {
+      "source": "original",
+      "label": "墓(名詞)",
+      "en": "We visit my grandfather's grave every summer.",
+      "ja": "私たちは毎年夏に祖父の墓参りをする。"
+    },
+    {
+      "source": "original",
+      "label": "一生",
+      "en": "The system supports people from the cradle to the grave.",
+      "ja": "その制度は人々を一生支える。"
+    },
+    {
+      "source": "original",
+      "label": "重大さ(名詞)",
+      "en": "He did not understand the gravity of the situation.",
+      "ja": "彼は事態の重大さを理解していなかった。"
+    }
+  ],
+  "check_points": [
+    "形容詞 grave の言いかえを言えるか",
+    "名詞 gravity の意味を2つ言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "形容詞「重大な」(=serious)と名詞 gravity「重大さ」が長文の語彙で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 676
+    }
+  ]
+}

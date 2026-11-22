@@ -1,0 +1,93 @@
+{
+  "word": "manifest",
+  "pos": [
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/ˈmænɪfest/",
+  "core_image": {
+    "text": "手に取るように、はっきり表に出る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"90\" y2=\"64\"/><line x1=\"60\" y1=\"74\" x2=\"44\" y2=\"96\"/><rect x=\"96\" y=\"56\" width=\"18\" height=\"16\"/><line x1=\"124\" y1=\"64\" x2=\"170\" y2=\"64\"/><polyline points=\"163,60.2 170,64 163,67.8\"/><line x1=\"190\" y1=\"40\" x2=\"190\" y2=\"88\"/><line x1=\"200\" y1=\"44\" x2=\"216\" y2=\"36\"/><line x1=\"200\" y1=\"64\" x2=\"220\" y2=\"64\"/><line x1=\"200\" y1=\"84\" x2=\"216\" y2=\"92\"/></g><text x=\"150\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">はっきり見える</text></svg>"
+  },
+  "etymology": "mani(手。manual、manage と同じ根) + fest(つかまれた) → 手でつかめるほど → 明らかな(形容詞) → (はっきり)示す・表に出る(動詞) → 名詞 manifestation=表れ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to show something clearly; to appear or become noticeable."
+    },
+    {
+      "pos": "形容詞",
+      "text": "easy to see or understand; obvious."
+    }
+  ],
+  "cautions": [
+    "動詞 manifest A=Aをはっきり示す。manifest itself=(症状などが)表れる",
+    "形容詞 manifest=明らかな(=obvious / evident)。be manifest in A=Aにはっきり表れている",
+    "名詞 manifestation=表れ・兆候",
+    "名詞 manifesto=(政党の)公約・宣言(別の語として覚える)"
+  ],
+  "patterns": [
+    {
+      "form": "manifest A",
+      "meaning": "Aをはっきり示す"
+    },
+    {
+      "form": "manifest itself",
+      "meaning": "(症状などが)表れる"
+    },
+    {
+      "form": "be manifest in A",
+      "meaning": "Aにはっきり表れている"
+    },
+    {
+      "form": "a manifestation of A",
+      "meaning": "Aの表れ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "はっきり示す",
+      "en": "The students manifested a strong interest in the project.",
+      "ja": "生徒たちはその計画に強い関心をはっきり示した。"
+    },
+    {
+      "source": "original",
+      "label": "manifest itself",
+      "en": "The disease often manifests itself as a high fever.",
+      "ja": "その病気はしばしば高熱という形で表れる。"
+    },
+    {
+      "source": "original",
+      "label": "明らかな(形容詞)",
+      "en": "His anger was manifest in his voice.",
+      "ja": "彼の怒りは声にはっきり表れていた。"
+    },
+    {
+      "source": "original",
+      "label": "明らかな",
+      "en": "It was a manifest mistake to ignore the warning.",
+      "ja": "警告を無視したのは明らかな誤りだった。"
+    },
+    {
+      "source": "original",
+      "label": "表れ(名詞)",
+      "en": "Crying can be a manifestation of stress.",
+      "ja": "泣くことはストレスの表れであることがある。"
+    }
+  ],
+  "check_points": [
+    "manifest itself の意味を言えるか",
+    "形容詞 manifest の言いかえを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「明らかな」(=obvious)の言いかえと、manifest itself の型が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 673
+    }
+  ]
+}
