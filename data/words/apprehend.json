@@ -1,0 +1,88 @@
+{
+  "word": "apprehend",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˌæprɪˈhend/",
+  "core_image": {
+    "text": "手を伸ばして、ぐっとつかむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"110\" y2=\"76\"/><line x1=\"60\" y1=\"74\" x2=\"44\" y2=\"98\"/><circle cx=\"140\" cy=\"52\" r=\"10\"/><line x1=\"140\" y1=\"62\" x2=\"140\" y2=\"106\"/><line x1=\"140\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"140\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"140\" y1=\"74\" x2=\"156\" y2=\"98\"/><line x1=\"140\" y1=\"74\" x2=\"160\" y2=\"60\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">つかまえる</text></svg>"
+  },
+  "etymology": "ad(〜へ) + prehend(つかむ。comprehend と同じ根) → 手でつかむ → (犯人を)逮捕する / (意味を)つかむ=理解する → (先のことを心でつかんで)心配する=apprehension",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to catch and arrest someone; to understand something."
+    }
+  ],
+  "cautions": [
+    "apprehend a criminal=犯人を逮捕する(=arrest)",
+    "「理解する」の意味もある(=grasp / comprehend)。やや堅い",
+    "名詞 apprehension=不安・心配、逮捕。形容詞 apprehensive=心配して(be apprehensive about A)",
+    "comprehend(すっかり理解する)と同じ根"
+  ],
+  "patterns": [
+    {
+      "form": "apprehend a suspect",
+      "meaning": "容疑者を逮捕する"
+    },
+    {
+      "form": "apprehend the meaning",
+      "meaning": "意味をつかむ"
+    },
+    {
+      "form": "be apprehensive about A",
+      "meaning": "Aを心配している"
+    },
+    {
+      "form": "with apprehension",
+      "meaning": "不安な気持ちで"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "逮捕する",
+      "en": "The police apprehended the thief near the station.",
+      "ja": "警察は駅の近くで泥棒を逮捕した。"
+    },
+    {
+      "source": "original",
+      "label": "逮捕する(受け身)",
+      "en": "The suspect was apprehended two days later.",
+      "ja": "容疑者は2日後に逮捕された。"
+    },
+    {
+      "source": "original",
+      "label": "理解する",
+      "en": "It took me a while to apprehend what he meant.",
+      "ja": "彼の言いたいことを理解するのにしばらくかかった。"
+    },
+    {
+      "source": "original",
+      "label": "心配して(形容詞)",
+      "en": "She was apprehensive about her first job interview.",
+      "ja": "彼女は初めての就職面接を心配していた。"
+    },
+    {
+      "source": "original",
+      "label": "不安(名詞)",
+      "en": "We waited for the results with apprehension.",
+      "ja": "私たちは不安な気持ちで結果を待った。"
+    }
+  ],
+  "check_points": [
+    "apprehend の2つの意味を言えるか",
+    "apprehensive の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「逮捕する」(=arrest)の言いかえと、apprehensive=不安な が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 684
+    }
+  ]
+}

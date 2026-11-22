@@ -1,0 +1,108 @@
+{
+  "word": "fancy",
+  "pos": [
+    "名詞",
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/ˈfænsi/",
+  "core_image": {
+    "text": "心にふっと思い浮かべる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"44\" y2=\"98\"/><line x1=\"60\" y1=\"74\" x2=\"76\" y2=\"98\"/><circle cx=\"96\" cy=\"26\" r=\"3\"/><circle cx=\"108\" cy=\"18\" r=\"5\"/><ellipse cx=\"160\" cy=\"40\" rx=\"40\" ry=\"22\"/><rect x=\"148\" y=\"32\" width=\"24\" height=\"16\"/></g><text x=\"170\" y=\"96\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">思い浮かべる</text></svg>"
+  },
+  "etymology": "fantasy(空想)が縮まった語 → 心に思い浮かべるもの → 空想・好み(take a fancy to A) → 動詞:思い浮かべる・〜したい気がする → (空想のように)凝った・高級な",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a liking or wish for something; imagination."
+    },
+    {
+      "pos": "動詞",
+      "text": "to want or like something; to imagine."
+    },
+    {
+      "pos": "形容詞",
+      "text": "expensive and decorated; not simple."
+    }
+  ],
+  "cautions": [
+    "形容詞 fancy=凝った・高級な(a fancy restaurant)。「空想的な」ではない",
+    "take a fancy to A=Aが気に入る",
+    "動詞 Fancy doing!=〜するなんて(驚き)。fancy doing=〜したい気がする(主にイギリス)",
+    "fancy that S=〜と思う(=imagine)"
+  ],
+  "patterns": [
+    {
+      "form": "a fancy restaurant / hotel",
+      "meaning": "高級なレストラン・ホテル"
+    },
+    {
+      "form": "take a fancy to A",
+      "meaning": "Aが気に入る"
+    },
+    {
+      "form": "Fancy doing!",
+      "meaning": "〜するなんて"
+    },
+    {
+      "form": "fancy doing",
+      "meaning": "〜したい気がする"
+    },
+    {
+      "form": "catch A's fancy",
+      "meaning": "Aの気に入る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "高級な",
+      "en": "They had dinner at a fancy restaurant downtown.",
+      "ja": "彼らは街の中心の高級レストランで夕食をとった。"
+    },
+    {
+      "source": "original",
+      "label": "凝った",
+      "en": "I don't need a fancy phone; a simple one is fine.",
+      "ja": "凝った電話はいらない。シンプルなもので十分だ。"
+    },
+    {
+      "source": "original",
+      "label": "気に入る",
+      "en": "The little girl took a fancy to the white puppy.",
+      "ja": "その女の子は白い子犬が気に入った。"
+    },
+    {
+      "source": "original",
+      "label": "〜するなんて",
+      "en": "Fancy meeting you here!",
+      "ja": "こんなところで会うなんて!"
+    },
+    {
+      "source": "original",
+      "label": "〜したい気がする",
+      "en": "Do you fancy going to the movies tonight?",
+      "ja": "今夜映画に行きたい気分?"
+    },
+    {
+      "source": "original",
+      "label": "思い浮かべる",
+      "en": "She fancied that she heard someone calling her.",
+      "ja": "彼女は誰かに呼ばれた気がした。"
+    }
+  ],
+  "check_points": [
+    "形容詞 fancy の意味を言えるか",
+    "take a fancy to A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "形容詞「高級な」と、Fancy doing! / take a fancy to が会話・語法で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 686
+    }
+  ]
+}

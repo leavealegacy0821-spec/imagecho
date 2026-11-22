@@ -1,0 +1,99 @@
+{
+  "word": "alternative",
+  "pos": [
+    "名詞",
+    "形容詞"
+  ],
+  "ipa": "/ɔːlˈtɜːrnətɪv/",
+  "core_image": {
+    "text": "もう一方の、別の道",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"54\" y2=\"96\"/><line x1=\"40\" y1=\"74\" x2=\"26\" y2=\"96\"/><line x1=\"64\" y1=\"100\" x2=\"200\" y2=\"60\"/><polyline points=\"192.2,58.3 200,60 194.3,65.7\"/><line x1=\"64\" y1=\"110\" x2=\"200\" y2=\"128\" stroke-dasharray=\"5 5\"/><polyline points=\"193.5,123.3 200,128 192.5,130.9\"/></g><text x=\"140\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こちらの道</text><text x=\"150\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">別の道</text></svg>"
+  },
+  "etymology": "alter(もう一方の。alter、alternate と同じ根) → 2つのうちのもう一方 → 代わりの手段・選択肢(名詞) → 代わりの・別の(形容詞)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "something you can choose instead of something else."
+    },
+    {
+      "pos": "形容詞",
+      "text": "available as another choice; different from the usual."
+    }
+  ],
+  "cautions": [
+    "an alternative to A=Aに代わるもの(to を取る)",
+    "have no alternative but to do=〜するしかない(=have no choice but to do)",
+    "形容詞 alternative energy=代替エネルギー",
+    "alternate(交互の・1つおきの)と区別する。副詞 alternatively=あるいは"
+  ],
+  "patterns": [
+    {
+      "form": "an alternative to A",
+      "meaning": "Aに代わるもの"
+    },
+    {
+      "form": "have no alternative but to do",
+      "meaning": "〜するしかない"
+    },
+    {
+      "form": "alternative energy",
+      "meaning": "代替エネルギー"
+    },
+    {
+      "form": "an alternative plan / route",
+      "meaning": "別の案・別の道"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "代わるもの",
+      "en": "Is there any alternative to this plan?",
+      "ja": "この計画に代わるものはありますか。"
+    },
+    {
+      "source": "original",
+      "label": "〜するしかない",
+      "en": "We had no alternative but to cancel the trip.",
+      "ja": "私たちは旅行を中止するしかなかった。"
+    },
+    {
+      "source": "original",
+      "label": "代替エネルギー",
+      "en": "The government is investing in alternative energy.",
+      "ja": "政府は代替エネルギーに投資している。"
+    },
+    {
+      "source": "original",
+      "label": "別の道",
+      "en": "The road was closed, so we took an alternative route.",
+      "ja": "道が閉鎖されていたので別の道を通った。"
+    },
+    {
+      "source": "original",
+      "label": "選択肢",
+      "en": "Walking is a healthy alternative to driving.",
+      "ja": "歩くことは車の運転に代わる健康的な選択肢だ。"
+    },
+    {
+      "source": "original",
+      "label": "あるいは(副詞)",
+      "en": "You can take the train. Alternatively, you can take a bus.",
+      "ja": "電車で行けます。あるいはバスでも行けます。"
+    }
+  ],
+  "check_points": [
+    "have no alternative but to do の意味を言えるか",
+    "an alternative の後の前置詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "have no alternative but to do と、alternative to A の to が語法問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 683
+    }
+  ]
+}

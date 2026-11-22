@@ -1,0 +1,97 @@
+{
+  "word": "faint",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/feɪnt/",
+  "core_image": {
+    "text": "力が抜けて、かすかになる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"36\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"64\" y2=\"96\"/><line x1=\"76\" y1=\"90\" x2=\"130\" y2=\"120\" stroke-dasharray=\"5 5\"/><polyline points=\"125.7,113.2 130,120 122,119.9\"/><circle cx=\"150\" cy=\"128\" r=\"8\"/><line x1=\"160\" y1=\"130\" x2=\"210\" y2=\"132\"/></g><text x=\"170\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">力が抜ける</text></svg>"
+  },
+  "etymology": "古フランス語 feindre(見せかける。feign と同じ根)の過去分詞 → 見せかけだけで弱い → (光・音・望みが)かすかな → (力が抜けて)気を失う(動詞)・ふらふらする",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "very weak or not clear; feeling weak and about to fall."
+    },
+    {
+      "pos": "動詞",
+      "text": "to suddenly lose consciousness for a short time."
+    }
+  ],
+  "cautions": [
+    "形容詞「(光・音・望みが)かすかな」(a faint light / hope)",
+    "動詞 faint=気を失う(=pass out)。名詞 faint もある(fall into a faint)",
+    "I haven't the faintest idea.=まったくわからない(最上級の決まり文句)",
+    "feint(見せかけの動き)・feign(ふりをする)とまぎらわしい"
+  ],
+  "patterns": [
+    {
+      "form": "a faint light / sound",
+      "meaning": "かすかな光・音"
+    },
+    {
+      "form": "a faint hope",
+      "meaning": "かすかな望み"
+    },
+    {
+      "form": "feel faint",
+      "meaning": "めまいがする"
+    },
+    {
+      "form": "faint from A",
+      "meaning": "Aで気を失う"
+    },
+    {
+      "form": "not have the faintest idea",
+      "meaning": "まったくわからない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "かすかな(音)",
+      "en": "I heard a faint sound from the next room.",
+      "ja": "隣の部屋からかすかな音が聞こえた。"
+    },
+    {
+      "source": "original",
+      "label": "かすかな(望み)",
+      "en": "There is still a faint hope that they are alive.",
+      "ja": "彼らが生きているというかすかな望みがまだある。"
+    },
+    {
+      "source": "original",
+      "label": "めまいがする",
+      "en": "I felt faint after standing in the sun for hours.",
+      "ja": "何時間も日なたに立っていて、めまいがした。"
+    },
+    {
+      "source": "original",
+      "label": "気を失う(動詞)",
+      "en": "She fainted from the heat during the ceremony.",
+      "ja": "彼女は式典の最中に暑さで気を失った。"
+    },
+    {
+      "source": "original",
+      "label": "まったくわからない",
+      "en": "I don't have the faintest idea where he went.",
+      "ja": "彼がどこへ行ったのかまったくわからない。"
+    }
+  ],
+  "check_points": [
+    "動詞 faint の意味を言えるか",
+    "not have the faintest idea の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "形容詞「かすかな」と動詞「気を失う」の両方、the faintest idea の決まり文句が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 690
+    }
+  ]
+}

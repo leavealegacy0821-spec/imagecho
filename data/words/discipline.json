@@ -1,0 +1,99 @@
+{
+  "word": "discipline",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈdɪsəplɪn/",
+  "core_image": {
+    "text": "教えの型に、自分をはめて鍛える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"98\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"98\"/><line x1=\"84\" y1=\"80\" x2=\"124\" y2=\"80\"/><polyline points=\"117,76.2 124,80 117,83.8\"/><rect x=\"130\" y=\"34\" width=\"60\" height=\"106\"/><circle cx=\"160\" cy=\"52\" r=\"10\"/><line x1=\"160\" y1=\"62\" x2=\"160\" y2=\"106\"/><line x1=\"160\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"160\" y1=\"74\" x2=\"144\" y2=\"96\"/><line x1=\"160\" y1=\"74\" x2=\"176\" y2=\"96\"/></g><text x=\"60\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">自分</text><text x=\"160\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">教えの型</text></svg>"
+  },
+  "etymology": "disciple(弟子)と同じ根 discere(学ぶ) → 弟子が受ける教え → 規律・しつけ・訓練 → (自分を律する)自制心 → (学ぶもの)学問分野 → 動詞:しつける・罰する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "training to obey rules; the ability to control yourself; a subject of study."
+    },
+    {
+      "pos": "動詞",
+      "text": "to train someone to obey rules; to punish."
+    }
+  ],
+  "cautions": [
+    "名詞「規律・しつけ」、self-discipline=自制心",
+    "「学問分野」の意味もある(academic disciplines)",
+    "動詞 discipline=しつける・罰する(=punish)",
+    "形容詞 disciplined=規律正しい"
+  ],
+  "patterns": [
+    {
+      "form": "maintain discipline",
+      "meaning": "規律を保つ"
+    },
+    {
+      "form": "self-discipline",
+      "meaning": "自制心"
+    },
+    {
+      "form": "an academic discipline",
+      "meaning": "学問分野"
+    },
+    {
+      "form": "discipline A for B",
+      "meaning": "BのことでAを罰する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "規律",
+      "en": "The teacher found it hard to maintain discipline in the class.",
+      "ja": "先生はそのクラスで規律を保つのに苦労した。"
+    },
+    {
+      "source": "original",
+      "label": "自制心",
+      "en": "Studying alone every day requires self-discipline.",
+      "ja": "毎日一人で勉強するには自制心が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "訓練",
+      "en": "Learning a musical instrument takes years of discipline.",
+      "ja": "楽器を身につけるには何年もの鍛錬がいる。"
+    },
+    {
+      "source": "original",
+      "label": "学問分野",
+      "en": "Economics and psychology are different disciplines.",
+      "ja": "経済学と心理学は別の学問分野だ。"
+    },
+    {
+      "source": "original",
+      "label": "罰する(動詞)",
+      "en": "The player was disciplined for breaking the rules.",
+      "ja": "その選手は規則違反で処分を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "規律正しい",
+      "en": "The team was well disciplined and played as one.",
+      "ja": "チームは規律正しく、一体となってプレーした。"
+    }
+  ],
+  "check_points": [
+    "discipline の「学問分野」の意味を知っているか",
+    "self-discipline の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「規律・しつけ」に加え「学問分野」が長文の意外な意味として問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 685
+    }
+  ]
+}

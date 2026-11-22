@@ -1,0 +1,98 @@
+{
+  "word": "acute",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/əˈkjuːt/",
+  "core_image": {
+    "text": "針の先のように鋭くとがった",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polygon points=\"30,120 200,100 30,80\"/><line x1=\"200\" y1=\"100\" x2=\"222\" y2=\"100\"/></g><text x=\"70\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">先が鋭い</text></svg>"
+  },
+  "etymology": "ラテン語 acutus(とがらせた。acid、acupuncture と同じ根) → 先がとがった → (感覚が)鋭い / (痛みが)激しい / (問題が)深刻な / (病気が)急性の",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "very serious or severe; (of senses) very sensitive; (of illness) coming on suddenly."
+    }
+  ],
+  "cautions": [
+    "「かわいい cute」ではない。a-cute=とがった",
+    "an acute shortage=深刻な不足、acute pain=激しい痛み(=severe)",
+    "感覚について「鋭い」(=keen)。an acute sense of smell=鋭い嗅覚",
+    "病気の「急性の」(⇔ chronic=慢性の)"
+  ],
+  "patterns": [
+    {
+      "form": "an acute shortage of A",
+      "meaning": "Aの深刻な不足"
+    },
+    {
+      "form": "acute pain",
+      "meaning": "激しい痛み"
+    },
+    {
+      "form": "an acute sense of A",
+      "meaning": "Aの鋭い感覚"
+    },
+    {
+      "form": "acute disease",
+      "meaning": "急性の病気"
+    },
+    {
+      "form": "become acute",
+      "meaning": "(問題が)深刻になる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "深刻な",
+      "en": "There is an acute shortage of doctors in the area.",
+      "ja": "その地域では医師が深刻に不足している。"
+    },
+    {
+      "source": "original",
+      "label": "激しい",
+      "en": "She felt an acute pain in her stomach.",
+      "ja": "彼女は胃に激しい痛みを感じた。"
+    },
+    {
+      "source": "original",
+      "label": "鋭い(感覚)",
+      "en": "Dogs have an acute sense of smell.",
+      "ja": "犬は鋭い嗅覚を持っている。"
+    },
+    {
+      "source": "original",
+      "label": "急性の",
+      "en": "He was taken to hospital with acute appendicitis.",
+      "ja": "彼は急性虫垂炎で病院に運ばれた。"
+    },
+    {
+      "source": "original",
+      "label": "深刻になる",
+      "en": "The water problem became acute during the long dry season.",
+      "ja": "長い乾季の間に水問題が深刻になった。"
+    },
+    {
+      "source": "original",
+      "label": "鋭い(観察)",
+      "en": "She is an acute observer of human nature.",
+      "ja": "彼女は人間性の鋭い観察者だ。"
+    }
+  ],
+  "check_points": [
+    "acute の「急性の」の反意語を言えるか",
+    "an acute shortage の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「深刻な」(=severe)の言いかえと、chronic との対比が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 681
+    }
+  ]
+}

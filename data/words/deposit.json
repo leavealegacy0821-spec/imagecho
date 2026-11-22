@@ -1,0 +1,99 @@
+{
+  "word": "deposit",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/dɪˈpɑːzɪt/",
+  "core_image": {
+    "text": "下に置いて、そのまま残しておく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"130\" y=\"90\" width=\"80\" height=\"50\"/><line x1=\"150\" y1=\"90\" x2=\"190\" y2=\"90\"/><line x1=\"170\" y1=\"30\" x2=\"170\" y2=\"82\"/><polyline points=\"173.8,75 170,82 166.2,75\"/><circle cx=\"170\" cy=\"20\" r=\"8\"/></g><text x=\"70\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">下に置く</text></svg>"
+  },
+  "etymology": "de(下へ) + posit(置く。pose、position と同じ根) → 下に置く → (お金を)預ける・頭金 / (川が泥を)積もらせる・堆積物・鉱床",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "money paid into a bank or paid first as part of a price; a layer of material left by water or wind."
+    },
+    {
+      "pos": "動詞",
+      "text": "to put money into a bank; to put something down; to leave a layer of material."
+    }
+  ],
+  "cautions": [
+    "deposit money in a bank=銀行にお金を預ける(⇔ withdraw=引き出す)",
+    "名詞「手付金・頭金・保証金」(pay a deposit)",
+    "名詞「堆積物・鉱床」(oil deposits=石油の埋蔵)",
+    "動詞「(物を)置く」「(川が土砂を)堆積させる」"
+  ],
+  "patterns": [
+    {
+      "form": "deposit A in a bank",
+      "meaning": "Aを銀行に預ける"
+    },
+    {
+      "form": "pay a deposit",
+      "meaning": "手付金を払う"
+    },
+    {
+      "form": "oil / mineral deposits",
+      "meaning": "石油の埋蔵・鉱床"
+    },
+    {
+      "form": "make a deposit",
+      "meaning": "預金する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "預ける",
+      "en": "I deposited my salary in the bank.",
+      "ja": "給料を銀行に預けた。"
+    },
+    {
+      "source": "original",
+      "label": "手付金",
+      "en": "We paid a deposit of 10,000 yen to book the room.",
+      "ja": "部屋を予約するため1万円の手付金を払った。"
+    },
+    {
+      "source": "original",
+      "label": "保証金",
+      "en": "You will get your deposit back when you return the key.",
+      "ja": "鍵を返せば保証金は戻ってきます。"
+    },
+    {
+      "source": "original",
+      "label": "鉱床",
+      "en": "Large oil deposits were found under the sea.",
+      "ja": "海底で大量の石油の埋蔵が見つかった。"
+    },
+    {
+      "source": "original",
+      "label": "堆積させる",
+      "en": "The river deposits mud on the fields every spring.",
+      "ja": "その川は毎春、畑に泥を積もらせる。"
+    },
+    {
+      "source": "original",
+      "label": "置く",
+      "en": "She deposited her bags on the floor and sat down.",
+      "ja": "彼女は床にかばんを置いて腰を下ろした。"
+    }
+  ],
+  "check_points": [
+    "deposit の反意語(お金)を言えるか",
+    "oil deposits の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「預金・手付金」に加え「堆積物・鉱床」が長文の意外な意味として問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 689
+    }
+  ]
+}
