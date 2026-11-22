@@ -1,0 +1,103 @@
+{
+  "word": "function",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈfʌŋkʃən/",
+  "core_image": {
+    "text": "それぞれが、受け持ちの働きをする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"80\" r=\"28\"/><circle cx=\"80\" cy=\"80\" r=\"8\"/><circle cx=\"150\" cy=\"96\" r=\"20\"/><circle cx=\"150\" cy=\"96\" r=\"6\"/><line x1=\"80\" y1=\"52\" x2=\"80\" y2=\"44\"/><line x1=\"108\" y1=\"80\" x2=\"116\" y2=\"80\"/><line x1=\"80\" y1=\"108\" x2=\"80\" y2=\"116\"/><line x1=\"52\" y1=\"80\" x2=\"44\" y2=\"80\"/><line x1=\"180\" y1=\"70\" x2=\"210\" y2=\"50\"/><polyline points=\"202,50.7 210,50 206.3,57.1\"/></g><text x=\"80\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">はたらき</text><text x=\"200\" y=\"94\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">役目</text></svg>"
+  },
+  "etymology": "ラテン語 functio(果たすこと・行うこと) → 受け持った働きを果たす → 機能・役目 → (数学)関数 → (正式な)行事 → (動詞)働く・機能する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the purpose or job that something or someone has; a large formal party or event; a mathematical relationship."
+    },
+    {
+      "pos": "動詞",
+      "text": "to work or operate in a particular way."
+    }
+  ],
+  "cautions": [
+    "function as A=Aとして働く・Aの役目を果たす(serve as A と同じ)",
+    "「(公式の)行事・式典」の意味もある(a social function)",
+    "数学の「関数」も function",
+    "形容詞 functional=機能的な・実用的な"
+  ],
+  "patterns": [
+    {
+      "form": "the function of A",
+      "meaning": "Aの機能・役目"
+    },
+    {
+      "form": "function as A",
+      "meaning": "Aとして働く"
+    },
+    {
+      "form": "function well / properly",
+      "meaning": "うまく機能する"
+    },
+    {
+      "form": "a social function",
+      "meaning": "社交の行事"
+    },
+    {
+      "form": "functional",
+      "meaning": "機能的な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "機能",
+      "en": "The main function of the heart is to pump blood.",
+      "ja": "心臓のおもな働きは血液を送り出すことだ。"
+    },
+    {
+      "source": "original",
+      "label": "function as",
+      "en": "This room functions as both a study and a bedroom.",
+      "ja": "この部屋は書斎と寝室の両方の役目を果たしている。"
+    },
+    {
+      "source": "original",
+      "label": "機能する(動詞)",
+      "en": "The machine is not functioning properly.",
+      "ja": "その機械はちゃんと動いていない。"
+    },
+    {
+      "source": "original",
+      "label": "行事",
+      "en": "The mayor attended an official function at the hotel.",
+      "ja": "市長はホテルでの公式行事に出席した。"
+    },
+    {
+      "source": "original",
+      "label": "関数",
+      "en": "In math class, we learned about quadratic functions.",
+      "ja": "数学の授業で2次関数を学んだ。"
+    },
+    {
+      "source": "original",
+      "label": "functional",
+      "en": "The furniture is simple and functional.",
+      "ja": "その家具は簡素で実用的だ。"
+    }
+  ],
+  "check_points": [
+    "function as A の意味を言えるか",
+    "「行事」の function を訳せるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「機能」「働く」が長文の定番。function as も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 727
+    }
+  ]
+}

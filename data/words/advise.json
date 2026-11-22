@@ -1,0 +1,98 @@
+{
+  "word": "advise",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ədˈvaɪz/",
+  "core_image": {
+    "text": "相手の先を見て、こうしたらと勧める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"98\"/><line x1=\"70\" y1=\"74\" x2=\"96\" y2=\"70\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"158\" y2=\"98\"/><line x1=\"170\" y1=\"74\" x2=\"182\" y2=\"98\"/><line x1=\"104\" y1=\"60\" x2=\"150\" y2=\"60\"/><polyline points=\"143,56.2 150,60 143,63.8\"/></g><text x=\"70\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">助言</text><text x=\"127\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">〜したら</text></svg>"
+  },
+  "etymology": "ad(〜へ) + vis(見る。vision、revise と同じ) → (相手のために)先を見てやる → 助言する・勧める → (正式に)知らせる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to tell someone what you think they should do; to formally tell someone about something."
+    }
+  ],
+  "cautions": [
+    "advise A to do=Aに〜するよう勧める(A to do の型)",
+    "advise that S (should) 原形 も使える",
+    "名詞 advice は数えられない(an advice ✕、a piece of advice ○)。つづりは c、動詞は s",
+    "advise A of B=AにBを知らせる(inform A of B と同じ型)"
+  ],
+  "patterns": [
+    {
+      "form": "advise A to do",
+      "meaning": "Aに〜するよう勧める"
+    },
+    {
+      "form": "advise A not to do",
+      "meaning": "Aに〜しないよう勧める"
+    },
+    {
+      "form": "advise that S (should) 原形",
+      "meaning": "〜するよう勧める"
+    },
+    {
+      "form": "advise A of B",
+      "meaning": "AにBを知らせる"
+    },
+    {
+      "form": "a piece of advice",
+      "meaning": "1つの助言"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "advise A to do",
+      "en": "The doctor advised me to get more sleep.",
+      "ja": "医者は私にもっと睡眠をとるよう勧めた。"
+    },
+    {
+      "source": "original",
+      "label": "advise A not to do",
+      "en": "My parents advised me not to quit the club.",
+      "ja": "両親は部活をやめないよう私に助言した。"
+    },
+    {
+      "source": "original",
+      "label": "that S (should) 原形",
+      "en": "The teacher advised that we start preparing early.",
+      "ja": "先生は早めに準備を始めるよう勧めた。"
+    },
+    {
+      "source": "original",
+      "label": "advise A of B",
+      "en": "Passengers will be advised of any delays.",
+      "ja": "遅れがあれば乗客に知らされる。"
+    },
+    {
+      "source": "original",
+      "label": "advice(数えられない)",
+      "en": "She gave me a useful piece of advice.",
+      "ja": "彼女は役に立つ助言を1つくれた。"
+    },
+    {
+      "source": "original",
+      "label": "助言を求める",
+      "en": "You should ask a lawyer for advice before you sign.",
+      "ja": "署名する前に弁護士に助言を求めるべきだ。"
+    }
+  ],
+  "check_points": [
+    "advise A to do の型で文を作れるか",
+    "advice が数えられない名詞だと言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "advise A to do の型と、advice(不可算)の数え方が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 721
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "post",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/poʊst/",
+  "core_image": {
+    "text": "決まった場所に、立てて置く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"50\" y1=\"56\" x2=\"50\" y2=\"140\"/><rect x=\"20\" y=\"36\" width=\"60\" height=\"20\"/><rect x=\"130\" y=\"60\" width=\"44\" height=\"80\"/><rect x=\"140\" y=\"72\" width=\"24\" height=\"6\"/><circle cx=\"205\" cy=\"52\" r=\"10\"/><line x1=\"205\" y1=\"62\" x2=\"205\" y2=\"106\"/><line x1=\"205\" y1=\"106\" x2=\"195\" y2=\"140\"/><line x1=\"205\" y1=\"106\" x2=\"215\" y2=\"140\"/><line x1=\"205\" y1=\"74\" x2=\"180\" y2=\"76\"/><line x1=\"205\" y1=\"74\" x2=\"217\" y2=\"98\"/></g><text x=\"50\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">掲示</text><text x=\"152\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ポスト</text></svg>"
+  },
+  "etymology": "ラテン語 ponere(置く。position、pose と同じ)の過去分詞 positum → 立てて置いたもの=柱 → (柱に)掲示する → 決まった場所=持ち場・地位 → (道に置いた中継所=)郵便。post-(〜の後)は別のパーツ",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a job or position; a place where someone is on duty; mail; a message on the internet; a strong upright pole."
+    },
+    {
+      "pos": "動詞",
+      "text": "to put up a notice or put something on the internet; to send a letter; to send someone to a job in a place."
+    }
+  ],
+  "cautions": [
+    "「地位・職」の意味がある(apply for the post=その職に応募する)",
+    "be posted to A=Aに配属・赴任させられる",
+    "イギリス英語で「郵便」(post=mail)。by post=郵便で",
+    "keep A posted=Aに最新の情報を知らせ続ける"
+  ],
+  "patterns": [
+    {
+      "form": "a post",
+      "meaning": "地位・職"
+    },
+    {
+      "form": "by post",
+      "meaning": "郵便で"
+    },
+    {
+      "form": "post A on B",
+      "meaning": "A(記事など)をBに投稿・掲示する"
+    },
+    {
+      "form": "be posted to A",
+      "meaning": "Aに赴任する"
+    },
+    {
+      "form": "keep A posted",
+      "meaning": "Aに随時知らせる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "地位・職",
+      "en": "She was offered the post of manager.",
+      "ja": "彼女は部長の職を打診された。"
+    },
+    {
+      "source": "original",
+      "label": "持ち場",
+      "en": "The guard never left his post.",
+      "ja": "警備員は一度も持ち場を離れなかった。"
+    },
+    {
+      "source": "original",
+      "label": "投稿する(動詞)",
+      "en": "He posted a photo of the sunset online.",
+      "ja": "彼は夕日の写真をネットに投稿した。"
+    },
+    {
+      "source": "original",
+      "label": "赴任する",
+      "en": "My father was posted to the branch in Osaka.",
+      "ja": "父は大阪支店に転勤になった。"
+    },
+    {
+      "source": "original",
+      "label": "郵便",
+      "en": "I sent the documents by post.",
+      "ja": "書類を郵便で送った。"
+    },
+    {
+      "source": "original",
+      "label": "keep A posted",
+      "en": "Please keep me posted on your progress.",
+      "ja": "進み具合を随時知らせてください。"
+    }
+  ],
+  "check_points": [
+    "「地位・職」の post を訳せるか",
+    "keep A posted の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「地位・職」「赴任させる」の意味が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 725
+    }
+  ]
+}

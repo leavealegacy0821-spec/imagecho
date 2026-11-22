@@ -1,0 +1,103 @@
+{
+  "word": "mature",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/məˈtʃʊr/",
+  "core_image": {
+    "text": "時が満ちて、すっかり育ちきる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"50\" y1=\"140\" x2=\"50\" y2=\"120\"/><path d=\"M50 128 Q40 122 38 114 Q48 116 50 128\"/><line x1=\"74\" y1=\"120\" x2=\"104\" y2=\"104\"/><polyline points=\"96,103.9 104,104 99.6,110.7\"/><line x1=\"160\" y1=\"140\" x2=\"160\" y2=\"80\"/><ellipse cx=\"160\" cy=\"62\" rx=\"40\" ry=\"28\"/><circle cx=\"146\" cy=\"66\" r=\"5\"/><circle cx=\"170\" cy=\"56\" r=\"5\"/><circle cx=\"176\" cy=\"74\" r=\"5\"/></g><text x=\"50\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">芽</text><text x=\"214\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">実る</text></svg>"
+  },
+  "etymology": "ラテン語 maturus(時を得た・熟した) → 時が満ちて育ちきる → (人が)大人びた・分別のある/(果物・酒などが)熟した → (動詞)成熟する・満期になる",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "behaving in a sensible way like an adult; fully grown or developed."
+    },
+    {
+      "pos": "動詞",
+      "text": "to become fully grown or developed; to become sensible like an adult."
+    }
+  ],
+  "cautions": [
+    "人について「大人びた・分別のある」(年齢より考え方)",
+    "反対は immature=未熟な・子どもっぽい",
+    "名詞 maturity=成熟",
+    "premature=早すぎる・時期尚早の(pre=前に)"
+  ],
+  "patterns": [
+    {
+      "form": "mature for one's age",
+      "meaning": "年の割に大人びた"
+    },
+    {
+      "form": "a mature attitude",
+      "meaning": "分別のある態度"
+    },
+    {
+      "form": "immature",
+      "meaning": "未熟な"
+    },
+    {
+      "form": "maturity",
+      "meaning": "成熟"
+    },
+    {
+      "form": "premature",
+      "meaning": "早すぎる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "大人びた",
+      "en": "She is very mature for her age.",
+      "ja": "彼女は年の割にとても大人びている。"
+    },
+    {
+      "source": "original",
+      "label": "分別のある",
+      "en": "We need a mature discussion, not shouting.",
+      "ja": "必要なのはどなり合いではなく、落ち着いた話し合いだ。"
+    },
+    {
+      "source": "original",
+      "label": "成熟する(動詞)",
+      "en": "He has matured a lot since he started working.",
+      "ja": "彼は働き始めてからずいぶん大人になった。"
+    },
+    {
+      "source": "original",
+      "label": "育ちきった",
+      "en": "It takes about ten years for the tree to become mature.",
+      "ja": "その木が育ちきるには10年ほどかかる。"
+    },
+    {
+      "source": "original",
+      "label": "immature",
+      "en": "It was immature of him to get angry over such a small thing.",
+      "ja": "そんな小さなことで怒るなんて彼は子どもっぽかった。"
+    },
+    {
+      "source": "original",
+      "label": "premature",
+      "en": "It is premature to say the project has failed.",
+      "ja": "計画が失敗したと言うのは時期尚早だ。"
+    }
+  ],
+  "check_points": [
+    "mature for one's age の意味を言えるか",
+    "immature と premature の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "人について「分別のある」の意味と、immature・premature が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 728
+    }
+  ]
+}

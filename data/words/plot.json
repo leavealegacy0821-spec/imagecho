@@ -1,0 +1,103 @@
+{
+  "word": "plot",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/plɑːt/",
+  "core_image": {
+    "text": "線を引いて、筋道をくわだてる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"25\" y=\"40\" width=\"80\" height=\"60\"/><polyline points=\"35,90 55,70 70,80 95,50\"/><circle cx=\"55\" cy=\"70\" r=\"3\"/><circle cx=\"70\" cy=\"80\" r=\"3\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"158\" y2=\"98\"/><line x1=\"170\" y1=\"74\" x2=\"182\" y2=\"98\"/><path d=\"M186 40 Q198 34 196 46\"/></g><text x=\"65\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">筋書き</text><text x=\"170\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">たくらむ</text></svg>"
+  },
+  "etymology": "古英語 plot(小さな土地・区画) → 区画を図に描く → 図に線を引く・筋道を書く → (物語の)筋 → (秘密の)筋書き=陰謀・たくらむ",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the series of events in a story; a secret plan to do something bad; a small piece of land."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make a secret plan to do something bad; to mark points or a line on a graph or map."
+    }
+  ],
+  "cautions": [
+    "「(物語の)筋」と「陰謀」の両方を文脈で見分ける",
+    "plot to do=〜しようとたくらむ",
+    "plot against A=Aに対して陰謀をくわだてる",
+    "「(小さな)区画・土地」もある(a plot of land)"
+  ],
+  "patterns": [
+    {
+      "form": "the plot of A",
+      "meaning": "Aの筋"
+    },
+    {
+      "form": "a plot to do",
+      "meaning": "〜するたくらみ"
+    },
+    {
+      "form": "plot against A",
+      "meaning": "Aに対して陰謀をくわだてる"
+    },
+    {
+      "form": "a plot of land",
+      "meaning": "1区画の土地"
+    },
+    {
+      "form": "plot A on a graph",
+      "meaning": "Aをグラフに描く"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "筋",
+      "en": "The plot of the movie was hard to follow.",
+      "ja": "その映画の筋はわかりにくかった。"
+    },
+    {
+      "source": "original",
+      "label": "陰謀",
+      "en": "The police discovered a plot to rob the bank.",
+      "ja": "警察は銀行強盗のたくらみを見つけた。"
+    },
+    {
+      "source": "original",
+      "label": "plot to do(動詞)",
+      "en": "They plotted to escape from the prison.",
+      "ja": "彼らは刑務所からの脱走をたくらんだ。"
+    },
+    {
+      "source": "original",
+      "label": "plot against",
+      "en": "He believed his enemies were plotting against him.",
+      "ja": "彼は敵が自分に陰謀をくわだてていると信じていた。"
+    },
+    {
+      "source": "original",
+      "label": "区画",
+      "en": "They bought a small plot of land to grow vegetables.",
+      "ja": "彼らは野菜を育てるため小さな土地を買った。"
+    },
+    {
+      "source": "original",
+      "label": "グラフに描く",
+      "en": "Plot the results on a graph.",
+      "ja": "結果をグラフに描きなさい。"
+    }
+  ],
+  "check_points": [
+    "「筋」と「陰謀」の plot を見分けられるか",
+    "plot to do の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「筋」と「陰謀」の読み分けが長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 726
+    }
+  ]
+}

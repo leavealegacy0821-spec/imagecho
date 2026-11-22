@@ -1,0 +1,98 @@
+{
+  "word": "perspective",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/pərˈspektɪv/",
+  "core_image": {
+    "text": "ある立ち位置から、見通す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"28\" y2=\"98\"/><line x1=\"40\" y1=\"74\" x2=\"52\" y2=\"98\"/><line x1=\"70\" y1=\"140\" x2=\"190\" y2=\"90\"/><line x1=\"70\" y1=\"40\" x2=\"190\" y2=\"80\"/><line x1=\"100\" y1=\"50\" x2=\"100\" y2=\"128\"/><line x1=\"140\" y1=\"63\" x2=\"140\" y2=\"111\"/><line x1=\"175\" y1=\"75\" x2=\"175\" y2=\"96\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見通す</text></svg>"
+  },
+  "etymology": "per(通して) + spect(見る。inspect、respect と同じ) → 見通すこと → (ある立場からの)見方・観点 → 物事の正しい釣り合い → (絵の)遠近法",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a particular way of thinking about something; the ability to judge how important something is; a way of drawing that shows distance."
+    }
+  ],
+  "cautions": [
+    "from A's perspective=Aの見方からすると(from A's point of view と同じ)",
+    "put A in(to) perspective=Aを正しく(釣り合いよく)とらえる",
+    "keep / lose perspective=冷静な判断を保つ・失う",
+    "絵の「遠近法」の意味もある"
+  ],
+  "patterns": [
+    {
+      "form": "from A's perspective",
+      "meaning": "Aの見方からすると"
+    },
+    {
+      "form": "a different perspective",
+      "meaning": "違う見方"
+    },
+    {
+      "form": "put A in perspective",
+      "meaning": "Aを正しくとらえる"
+    },
+    {
+      "form": "lose perspective",
+      "meaning": "冷静さを失う"
+    },
+    {
+      "form": "in perspective",
+      "meaning": "遠近法で・正しい見方で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "見方",
+      "en": "Living abroad gave me a new perspective on life.",
+      "ja": "海外に住んで、人生について新しい見方ができた。"
+    },
+    {
+      "source": "original",
+      "label": "from A's perspective",
+      "en": "From a child's perspective, the rule seems unfair.",
+      "ja": "子どもの見方からすると、その規則は不公平に思える。"
+    },
+    {
+      "source": "original",
+      "label": "違う見方",
+      "en": "Let's look at the problem from a different perspective.",
+      "ja": "その問題を違う観点から見てみよう。"
+    },
+    {
+      "source": "original",
+      "label": "正しくとらえる",
+      "en": "The disaster put our small worries into perspective.",
+      "ja": "その災害で、自分たちの小さな悩みがどれほどのものかわかった。"
+    },
+    {
+      "source": "original",
+      "label": "冷静さを失う",
+      "en": "When you are angry, it is easy to lose perspective.",
+      "ja": "怒っているときは冷静な判断を失いやすい。"
+    },
+    {
+      "source": "original",
+      "label": "遠近法",
+      "en": "The artist used perspective to make the road look long.",
+      "ja": "画家は遠近法を使って道を長く見せた。"
+    }
+  ],
+  "check_points": [
+    "from A's perspective の意味を言えるか",
+    "put A in perspective の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「観点・見方」の意味が長文で頻出。from a ... perspective の型。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 730
+    }
+  ]
+}

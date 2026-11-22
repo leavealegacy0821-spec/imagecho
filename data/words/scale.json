@@ -1,0 +1,103 @@
+{
+  "word": "scale",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/skeɪl/",
+  "core_image": {
+    "text": "段々の目盛りで、大きさをはかる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"50\" y1=\"40\" x2=\"50\" y2=\"140\"/><line x1=\"50\" y1=\"50\" x2=\"66\" y2=\"50\"/><line x1=\"50\" y1=\"70\" x2=\"60\" y2=\"70\"/><line x1=\"50\" y1=\"90\" x2=\"66\" y2=\"90\"/><line x1=\"50\" y1=\"110\" x2=\"60\" y2=\"110\"/><line x1=\"50\" y1=\"130\" x2=\"66\" y2=\"130\"/><line x1=\"170\" y1=\"60\" x2=\"170\" y2=\"140\"/><line x1=\"130\" y1=\"60\" x2=\"210\" y2=\"60\"/><line x1=\"134\" y1=\"60\" x2=\"124\" y2=\"88\"/><line x1=\"134\" y1=\"60\" x2=\"144\" y2=\"88\"/><path d=\"M118 88 Q134 98 150 88\"/><line x1=\"206\" y1=\"60\" x2=\"196\" y2=\"88\"/><line x1=\"206\" y1=\"60\" x2=\"216\" y2=\"88\"/><path d=\"M190 88 Q206 98 222 88\"/></g><text x=\"90\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">目盛り</text><text x=\"170\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">はかり</text></svg>"
+  },
+  "etymology": "ラテン語 scala(はしご・段) → 段々の目盛り → 尺度・規模・縮尺 → (はしごで)よじ登る。「はかり・天秤」「うろこ」の scale は別の語(皿・薄片から)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the size or level of something; a set of marks or numbers used for measuring; a machine for weighing; one of the small flat pieces on a fish."
+    },
+    {
+      "pos": "動詞",
+      "text": "to climb up something steep; to change the size of something."
+    }
+  ],
+  "cautions": [
+    "on a large / small scale=大規模に・小規模に(前置詞は on)",
+    "「規模・程度」の意味が長文で最もよく出る(the scale of the damage=被害の規模)",
+    "「はかり」(scales と複数で言うことも)、「うろこ」もある",
+    "scale down / up=縮小する・拡大する"
+  ],
+  "patterns": [
+    {
+      "form": "on a large scale",
+      "meaning": "大規模に"
+    },
+    {
+      "form": "the scale of A",
+      "meaning": "Aの規模"
+    },
+    {
+      "form": "on a scale of 1 to 10",
+      "meaning": "10段階で"
+    },
+    {
+      "form": "scale down / up",
+      "meaning": "縮小・拡大する"
+    },
+    {
+      "form": "a map scale",
+      "meaning": "地図の縮尺"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "規模",
+      "en": "Nobody understood the scale of the problem at first.",
+      "ja": "初めはだれも問題の規模を理解していなかった。"
+    },
+    {
+      "source": "original",
+      "label": "on a large scale",
+      "en": "The company produces cars on a large scale.",
+      "ja": "その会社は車を大規模に生産している。"
+    },
+    {
+      "source": "original",
+      "label": "段階(目盛り)",
+      "en": "On a scale of 1 to 10, how happy are you?",
+      "ja": "10段階で言うと、あなたはどのくらい幸せですか。"
+    },
+    {
+      "source": "original",
+      "label": "縮尺",
+      "en": "The map is drawn to a scale of 1 to 25,000.",
+      "ja": "その地図は2万5千分の1の縮尺で描かれている。"
+    },
+    {
+      "source": "original",
+      "label": "はかり",
+      "en": "She weighed the flour on the kitchen scale.",
+      "ja": "彼女は台所のはかりで小麦粉を量った。"
+    },
+    {
+      "source": "original",
+      "label": "縮小する(動詞)",
+      "en": "The plan was scaled down because of the cost.",
+      "ja": "費用のため計画は縮小された。"
+    }
+  ],
+  "check_points": [
+    "on a large scale の意味と前置詞を言えるか",
+    "「規模」「目盛り」「はかり」の3つを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「規模」の意味(on a ... scale)が長文・語彙で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 724
+    }
+  ]
+}
