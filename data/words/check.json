@@ -1,0 +1,103 @@
+{
+  "word": "check",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/tʃek/",
+  "core_image": {
+    "text": "動きを止めて、確かめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"50\" width=\"50\" height=\"50\"/><polyline points=\"50,74 62,88 84,58\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><polyline points=\"170,74 140,72 136,62\"/><line x1=\"170\" y1=\"74\" x2=\"182\" y2=\"98\"/></g><text x=\"65\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">確かめる</text><text x=\"198\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">止める</text></svg>"
+  },
+  "etymology": "ペルシャ語 shāh(王)がチェスの「王手」に → 王手で相手の動きを止める → 抑える・食い止める → (止めて)照合する・調べる → 照合用の札=小切手・勘定書",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to look at something to make sure it is correct, safe or acceptable; to stop something from increasing."
+    },
+    {
+      "pos": "名詞",
+      "text": "an examination to make sure something is correct; (American English) a bill in a restaurant; a printed form used to pay money from a bank account."
+    }
+  ],
+  "cautions": [
+    "check A for B=Bがないか(あるか)Aを調べる",
+    "「抑える・食い止める」の意味がある(keep A in check=Aを抑えておく)",
+    "check out=(ホテルを)出る・調べる・(本を)借り出す",
+    "名詞は(米)「勘定書」「小切手」(英では bill、cheque)"
+  ],
+  "patterns": [
+    {
+      "form": "check A for B",
+      "meaning": "BがないかAを調べる"
+    },
+    {
+      "form": "check (that) S V",
+      "meaning": "〜か確かめる"
+    },
+    {
+      "form": "keep A in check",
+      "meaning": "Aを抑えておく"
+    },
+    {
+      "form": "check in / out",
+      "meaning": "(手続きをして)入る・出る"
+    },
+    {
+      "form": "Check, please.",
+      "meaning": "お勘定をお願いします"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "確かめる",
+      "en": "Please check that the door is locked.",
+      "ja": "ドアに鍵がかかっているか確かめてください。"
+    },
+    {
+      "source": "original",
+      "label": "check A for B",
+      "en": "The doctor checked him for broken bones.",
+      "ja": "医者は彼に骨折がないか調べた。"
+    },
+    {
+      "source": "original",
+      "label": "食い止める",
+      "en": "The government took steps to check rising prices.",
+      "ja": "政府は物価の上昇を抑える手を打った。"
+    },
+    {
+      "source": "original",
+      "label": "keep A in check",
+      "en": "She tried hard to keep her anger in check.",
+      "ja": "彼女は怒りを抑えようと必死だった。"
+    },
+    {
+      "source": "original",
+      "label": "チェックアウト",
+      "en": "We have to check out of the hotel by eleven.",
+      "ja": "11時までにホテルをチェックアウトしなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "勘定書(名詞)",
+      "en": "Could we have the check, please?",
+      "ja": "お勘定をお願いできますか。"
+    }
+  ],
+  "check_points": [
+    "「抑える・食い止める」の意味を言えるか",
+    "check A for B の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "check=抑える(keep A in check)の意味が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 719
+    }
+  ]
+}

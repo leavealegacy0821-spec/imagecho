@@ -1,0 +1,99 @@
+{
+  "word": "complement",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈkɑːmplɪmənt/",
+  "core_image": {
+    "text": "欠けたところを埋めて、全体を満たす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polygon points=\"40,60 150,60 150,95 115,95 115,130 40,130\"/><rect x=\"115\" y=\"95\" width=\"35\" height=\"35\" stroke-dasharray=\"4 4\"/><rect x=\"178\" y=\"32\" width=\"35\" height=\"35\"/><line x1=\"186\" y1=\"72\" x2=\"148\" y2=\"92\"/><polyline points=\"156,92.1 148,92 152.4,85.3\"/></g><text x=\"196\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">補う</text></svg>"
+  },
+  "etymology": "com(すっかり) + ple(満たす。complete、supply と同じ) + ment → すっかり満たすもの → 補って完全にするもの・補語 → (動詞)補う・引き立てる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a thing that adds to something else and makes it complete or better; a word or phrase that completes the meaning of a sentence."
+    },
+    {
+      "pos": "動詞",
+      "text": "to add to something in a way that makes it better or more complete."
+    }
+  ],
+  "cautions": [
+    "compliment(ほめ言葉)と発音が同じ・つづりが1文字違い。e が complete の e と覚える",
+    "A complement B=AがBを補う・引き立てる(他動詞)",
+    "文法用語「補語」(SVC の C=complement)",
+    "形容詞 complementary=補い合う(complimentary=無料の・ほめる とは別)"
+  ],
+  "patterns": [
+    {
+      "form": "A complement B",
+      "meaning": "AがBを補う・引き立てる"
+    },
+    {
+      "form": "a complement to A",
+      "meaning": "Aを補うもの"
+    },
+    {
+      "form": "complementary",
+      "meaning": "補い合う"
+    },
+    {
+      "form": "complement(文法)",
+      "meaning": "補語"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "引き立てる",
+      "en": "The white wine complements the fish perfectly.",
+      "ja": "その白ワインは魚料理をよく引き立てる。"
+    },
+    {
+      "source": "original",
+      "label": "補い合う",
+      "en": "Their skills complement each other, so they make a good team.",
+      "ja": "2人の能力は補い合うので、よいチームになる。"
+    },
+    {
+      "source": "original",
+      "label": "補うもの",
+      "en": "Exercise is a good complement to a healthy diet.",
+      "ja": "運動は健康的な食事をよく補うものだ。"
+    },
+    {
+      "source": "original",
+      "label": "complementary",
+      "en": "The two plans are complementary, not competing.",
+      "ja": "その2つの計画は張り合うものではなく補い合うものだ。"
+    },
+    {
+      "source": "original",
+      "label": "補語",
+      "en": "In \"She became a doctor,\" \"a doctor\" is the complement.",
+      "ja": "\"She became a doctor\" では \"a doctor\" が補語だ。"
+    },
+    {
+      "source": "original",
+      "label": "compliment との区別",
+      "en": "The scarf complements her coat, and she got a compliment on it.",
+      "ja": "そのスカーフはコートを引き立て、彼女はそれをほめられた。"
+    }
+  ],
+  "check_points": [
+    "complement と compliment の違いを言えるか",
+    "complementary の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "compliment とのつづりの取り違えが語彙問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 714
+    }
+  ]
+}

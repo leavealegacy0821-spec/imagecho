@@ -1,0 +1,99 @@
+{
+  "word": "compliment",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈkɑːmplɪmənt/",
+  "core_image": {
+    "text": "相手をほめて、礼を尽くす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"98\"/><polyline points=\"70,74 90,82 100,78\"/><path d=\"M92 44 Q100 50 92 56\"/><path d=\"M100 38 Q112 50 100 62\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"158\" y2=\"98\"/><line x1=\"170\" y1=\"74\" x2=\"182\" y2=\"98\"/><line x1=\"186\" y1=\"30\" x2=\"194\" y2=\"22\"/><line x1=\"190\" y1=\"38\" x2=\"200\" y2=\"36\"/></g><text x=\"110\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すてき！</text></svg>"
+  },
+  "etymology": "ラテン語 complere(満たす。complete と同じ)がスペイン語・イタリア語を通って → 礼儀を満たすこと → ほめ言葉・賛辞 → (動詞)ほめる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a remark that shows you admire someone or something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to say something nice to someone in order to praise them."
+    }
+  ],
+  "cautions": [
+    "pay A a compliment / pay a compliment to A=Aをほめる",
+    "compliment A on B=AのBをほめる(前置詞は on)",
+    "complimentary=ほめる・無料の(a complimentary ticket=招待券)",
+    "complement(補うもの)と発音が同じ。i は「I(私)がほめる」と覚える"
+  ],
+  "patterns": [
+    {
+      "form": "pay A a compliment",
+      "meaning": "Aをほめる"
+    },
+    {
+      "form": "compliment A on B",
+      "meaning": "AのBをほめる"
+    },
+    {
+      "form": "take A as a compliment",
+      "meaning": "Aをほめ言葉と受け取る"
+    },
+    {
+      "form": "complimentary",
+      "meaning": "無料の・ほめる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ほめ言葉",
+      "en": "Thank you for the compliment.",
+      "ja": "おほめの言葉をありがとう。"
+    },
+    {
+      "source": "original",
+      "label": "pay A a compliment",
+      "en": "My teacher paid me a compliment on my essay.",
+      "ja": "先生が私の作文をほめてくれた。"
+    },
+    {
+      "source": "original",
+      "label": "compliment A on B",
+      "en": "He complimented her on her excellent English.",
+      "ja": "彼は彼女のすばらしい英語をほめた。"
+    },
+    {
+      "source": "original",
+      "label": "ほめ言葉と受け取る",
+      "en": "I will take that as a compliment.",
+      "ja": "それはほめ言葉として受け取っておきます。"
+    },
+    {
+      "source": "original",
+      "label": "無料の",
+      "en": "Guests receive a complimentary breakfast.",
+      "ja": "宿泊客には無料の朝食が付く。"
+    },
+    {
+      "source": "original",
+      "label": "complement との区別",
+      "en": "She gave him a compliment, not a complement.",
+      "ja": "彼女は彼に「補うもの」ではなく「ほめ言葉」を贈った。"
+    }
+  ],
+  "check_points": [
+    "compliment A on B の前置詞を言えるか",
+    "complimentary の2つの意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "compliment A on B と complimentary(無料の)が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 715
+    }
+  ]
+}

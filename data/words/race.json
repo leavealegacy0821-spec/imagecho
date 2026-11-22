@@ -1,0 +1,103 @@
+{
+  "word": "race",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/reɪs/",
+  "core_image": {
+    "text": "先を争って、全力で走る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"44\" y2=\"90\"/><line x1=\"60\" y1=\"74\" x2=\"78\" y2=\"62\"/><circle cx=\"115\" cy=\"52\" r=\"10\"/><line x1=\"115\" y1=\"62\" x2=\"115\" y2=\"106\"/><line x1=\"115\" y1=\"106\" x2=\"105\" y2=\"140\"/><line x1=\"115\" y1=\"106\" x2=\"125\" y2=\"140\"/><line x1=\"115\" y1=\"74\" x2=\"99\" y2=\"90\"/><line x1=\"115\" y1=\"74\" x2=\"133\" y2=\"62\"/><line x1=\"140\" y1=\"84\" x2=\"190\" y2=\"84\"/><polyline points=\"183,80.2 190,84 183,87.8\"/><line x1=\"205\" y1=\"56\" x2=\"205\" y2=\"140\"/><polygon points=\"205,56 224,62 205,68\"/></g><text x=\"88\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">きそう</text><text x=\"205\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ゴール</text></svg>"
+  },
+  "etymology": "古ノルド語 rás(走ること・流れ) → 先を争って走る → 競走・競争(an arms race)→ 急いで走る・急ぐ。「人種・民族」の race は別の語(由来ははっきりしない)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a competition to see who is the fastest; a struggle to be the first to get something; a group of people with the same origins."
+    },
+    {
+      "pos": "動詞",
+      "text": "to compete in a race; to move or go very quickly."
+    }
+  ],
+  "cautions": [
+    "「競走・競争」と「人種」は別の語。文脈で区別する(the human race=人類)",
+    "race against time=時間との競争(大急ぎでやる)",
+    "動詞 race=全速力で走る・急ぐ。心臓や心が「どきどきする・せわしく動く」にも使う",
+    "形容詞 racial=人種の(racial discrimination=人種差別)"
+  ],
+  "patterns": [
+    {
+      "form": "win / lose a race",
+      "meaning": "競走に勝つ・負ける"
+    },
+    {
+      "form": "a race against time",
+      "meaning": "時間との競争"
+    },
+    {
+      "form": "the human race",
+      "meaning": "人類"
+    },
+    {
+      "form": "race to do",
+      "meaning": "急いで〜する"
+    },
+    {
+      "form": "racial",
+      "meaning": "人種の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "競走",
+      "en": "He came first in the 100-meter race.",
+      "ja": "彼は100メートル競走で1位になった。"
+    },
+    {
+      "source": "original",
+      "label": "競争",
+      "en": "The two companies are in a race to develop a new battery.",
+      "ja": "2社は新しい電池の開発を争っている。"
+    },
+    {
+      "source": "original",
+      "label": "時間との競争",
+      "en": "It was a race against time to finish the report.",
+      "ja": "報告書を仕上げるのは時間との競争だった。"
+    },
+    {
+      "source": "original",
+      "label": "急いで行く(動詞)",
+      "en": "She raced to the station to catch the last train.",
+      "ja": "彼女は終電に乗るため駅へ急いだ。"
+    },
+    {
+      "source": "original",
+      "label": "人種",
+      "en": "People of every race and religion live in this city.",
+      "ja": "この都市にはあらゆる人種・宗教の人が住んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "人類",
+      "en": "Climate change is a threat to the whole human race.",
+      "ja": "気候変動は人類全体への脅威だ。"
+    }
+  ],
+  "check_points": [
+    "「競争」と「人種」の race を文脈で見分けられるか",
+    "the human race の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文で「競争」か「人種」かの読み分けが問われる。racial も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 711
+    }
+  ]
+}

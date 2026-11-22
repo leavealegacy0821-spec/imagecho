@@ -1,0 +1,103 @@
+{
+  "word": "lean",
+  "pos": [
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/liːn/",
+  "core_image": {
+    "text": "体を傾けて、もたれかかる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"170\" y=\"30\" width=\"20\" height=\"110\"/><circle cx=\"140\" cy=\"52\" r=\"10\"/><line x1=\"136\" y1=\"61\" x2=\"114\" y2=\"106\"/><line x1=\"114\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"114\" y1=\"106\" x2=\"120\" y2=\"140\"/><line x1=\"130\" y1=\"74\" x2=\"170\" y2=\"68\"/><line x1=\"130\" y1=\"74\" x2=\"150\" y2=\"92\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もたれる</text></svg>"
+  },
+  "etymology": "古英語 hleonian(傾く・もたれる) → 体を傾ける・寄りかかる → (心が)傾く=〜の傾向がある → 頼る(lean on)。形容詞 lean(やせた・ぜい肉のない)は別の語",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to bend your body in a particular direction; to rest against something for support."
+    },
+    {
+      "pos": "形容詞",
+      "text": "thin and healthy; containing little fat."
+    }
+  ],
+  "cautions": [
+    "lean against A=Aにもたれる、lean on A=Aに寄りかかる・Aに頼る",
+    "lean A against B=AをBに立てかける(他動詞)",
+    "lean toward A=Aの方に傾く(意見・好み)",
+    "形容詞 lean=やせて引きしまった・脂身の少ない(lean meat)"
+  ],
+  "patterns": [
+    {
+      "form": "lean against A",
+      "meaning": "Aにもたれる"
+    },
+    {
+      "form": "lean on A",
+      "meaning": "Aに頼る"
+    },
+    {
+      "form": "lean A against B",
+      "meaning": "AをBに立てかける"
+    },
+    {
+      "form": "lean forward",
+      "meaning": "身を乗り出す"
+    },
+    {
+      "form": "lean toward A",
+      "meaning": "Aに傾く"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "もたれる",
+      "en": "He was leaning against the wall, waiting for her.",
+      "ja": "彼は壁にもたれて彼女を待っていた。"
+    },
+    {
+      "source": "original",
+      "label": "立てかける",
+      "en": "She leaned her bike against the fence.",
+      "ja": "彼女は自転車を柵に立てかけた。"
+    },
+    {
+      "source": "original",
+      "label": "身を乗り出す",
+      "en": "The students leaned forward to hear better.",
+      "ja": "生徒たちはよく聞こうと身を乗り出した。"
+    },
+    {
+      "source": "original",
+      "label": "頼る",
+      "en": "You can always lean on your friends when times are hard.",
+      "ja": "つらいときはいつでも友だちに頼っていい。"
+    },
+    {
+      "source": "original",
+      "label": "(意見が)傾く",
+      "en": "Most voters are leaning toward the new candidate.",
+      "ja": "有権者の多くは新しい候補者に傾いている。"
+    },
+    {
+      "source": "original",
+      "label": "やせた(形容詞)",
+      "en": "He is tall and lean, like a runner.",
+      "ja": "彼は背が高く、ランナーのように引きしまっている。"
+    }
+  ],
+  "check_points": [
+    "lean against と lean on の違いを言えるか",
+    "形容詞 lean の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "lean on(頼る)と lean A against B(立てかける)の語法が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 716
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "word": "desert",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/dɪˈzɜːrt/",
+  "core_image": {
+    "text": "つながりを断って、置き去りにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"98\"/><line x1=\"50\" y1=\"74\" x2=\"60\" y2=\"98\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"164\" y2=\"94\"/><line x1=\"150\" y1=\"74\" x2=\"138\" y2=\"92\"/><line x1=\"172\" y1=\"100\" x2=\"222\" y2=\"100\" stroke-dasharray=\"5 5\"/><polyline points=\"215,96.2 222,100 215,103.8\"/></g><text x=\"50\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">置き去り</text><text x=\"198\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">去る</text></svg>"
+  },
+  "etymology": "de(離す) + sert(つなぐ。insert、series と同じ) → つながりを断つ → (人・場所・持ち場を)見捨てる・去る → 見捨てられた土地=砂漠(名詞は /ˈdezərt/)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to leave someone or something without help, or to leave a place so that it is empty."
+    },
+    {
+      "pos": "名詞",
+      "text": "a large area of land with very little water and few plants."
+    }
+  ],
+  "cautions": [
+    "動詞「見捨てる」は後ろを強く /dɪˈzɜːrt/、名詞「砂漠」は前を強く /ˈdezərt/",
+    "dessert(デザート)と別の語。つづりと発音に注意",
+    "deserted=人のいない・さびれた(a deserted street)",
+    "his courage deserted him=勇気が失せた(物が主語になる)"
+  ],
+  "patterns": [
+    {
+      "form": "desert A",
+      "meaning": "Aを見捨てる"
+    },
+    {
+      "form": "A desert(s) B",
+      "meaning": "(勇気などが)Bから失せる"
+    },
+    {
+      "form": "deserted",
+      "meaning": "人のいない"
+    },
+    {
+      "form": "the Sahara Desert",
+      "meaning": "サハラ砂漠"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "見捨てる",
+      "en": "He deserted his family and never came back.",
+      "ja": "彼は家族を見捨て、二度と戻らなかった。"
+    },
+    {
+      "source": "original",
+      "label": "持ち場を去る",
+      "en": "The soldier was punished for deserting his post.",
+      "ja": "その兵士は持ち場を離れたことで罰せられた。"
+    },
+    {
+      "source": "original",
+      "label": "人のいない",
+      "en": "The streets were deserted late at night.",
+      "ja": "夜遅くには通りに人影がなかった。"
+    },
+    {
+      "source": "original",
+      "label": "(物が主語)失せる",
+      "en": "At the last moment, his courage deserted him.",
+      "ja": "最後の瞬間に、彼は勇気をなくした。"
+    },
+    {
+      "source": "original",
+      "label": "砂漠(名詞)",
+      "en": "Very few plants can grow in the desert.",
+      "ja": "砂漠で育つ植物はほとんどない。"
+    },
+    {
+      "source": "original",
+      "label": "dessert との区別",
+      "en": "We crossed the desert and then had dessert at a hotel.",
+      "ja": "私たちは砂漠を越え、ホテルでデザートを食べた。"
+    }
+  ],
+  "check_points": [
+    "動詞と名詞の発音の違いを言えるか",
+    "deserted の意味を言えるか",
+    "dessert との違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "アクセント問題と deserted(人のいない)が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 713
+    }
+  ]
+}

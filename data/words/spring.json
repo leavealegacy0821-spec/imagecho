@@ -1,0 +1,103 @@
+{
+  "word": "spring",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/sprɪŋ/",
+  "core_image": {
+    "text": "ぱっと勢いよく、はね出る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"60,140 40,128 80,116 40,104 80,92 40,80 60,74\"/><line x1=\"40\" y1=\"70\" x2=\"80\" y2=\"70\"/><line x1=\"120\" y1=\"120\" x2=\"120\" y2=\"50\"/><polyline points=\"116.2,57 120,50 123.8,57\"/><line x1=\"180\" y1=\"140\" x2=\"180\" y2=\"102\"/><path d=\"M180 112 Q164 104 160 92 Q174 96 180 112\"/><path d=\"M180 106 Q194 96 196 84 Q182 90 180 106\"/></g><text x=\"60\" y=\"54\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ばね</text><text x=\"180\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">芽</text></svg>"
+  },
+  "etymology": "古英語 springan(はねる・わき出る) → 勢いよく跳ぶ → ばね → (水が)わき出る所=泉 → (草木が)芽を出す季節=春 → (物事が)生じる(spring from)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to jump or move suddenly and quickly; to appear or come from something suddenly."
+    },
+    {
+      "pos": "名詞",
+      "text": "the season after winter; a place where water comes up from the ground; a curved piece of metal that returns to its shape."
+    }
+  ],
+  "cautions": [
+    "活用は spring – sprang – sprung",
+    "spring from A=Aから生じる(come from、arise from と同じ)",
+    "spring to mind=(考えが)ぱっと浮かぶ",
+    "名詞は「春」だけでなく「泉」(a hot spring=温泉)・「ばね」"
+  ],
+  "patterns": [
+    {
+      "form": "spring up",
+      "meaning": "急に現れる・出現する"
+    },
+    {
+      "form": "spring from A",
+      "meaning": "Aから生じる"
+    },
+    {
+      "form": "spring to mind",
+      "meaning": "ぱっと思い浮かぶ"
+    },
+    {
+      "form": "a hot spring",
+      "meaning": "温泉"
+    },
+    {
+      "form": "spring to one's feet",
+      "meaning": "さっと立ち上がる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "跳ぶ",
+      "en": "The cat sprang onto the table.",
+      "ja": "猫がテーブルの上に跳び乗った。"
+    },
+    {
+      "source": "original",
+      "label": "さっと立つ",
+      "en": "He sprang to his feet when the door opened.",
+      "ja": "ドアが開くと彼はさっと立ち上がった。"
+    },
+    {
+      "source": "original",
+      "label": "出現する",
+      "en": "New cafés have sprung up all over the town.",
+      "ja": "町じゅうに新しいカフェが次々とできた。"
+    },
+    {
+      "source": "original",
+      "label": "生じる",
+      "en": "Her interest in science sprang from a visit to a museum.",
+      "ja": "彼女の科学への興味は博物館を訪れたことから生まれた。"
+    },
+    {
+      "source": "original",
+      "label": "ぱっと浮かぶ",
+      "en": "When I think of summer, the beach springs to mind.",
+      "ja": "夏と言えば、海辺がぱっと思い浮かぶ。"
+    },
+    {
+      "source": "original",
+      "label": "泉・温泉(名詞)",
+      "en": "We stayed at a hotel with a hot spring.",
+      "ja": "私たちは温泉のあるホテルに泊まった。"
+    }
+  ],
+  "check_points": [
+    "spring の活用を言えるか",
+    "spring from A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "spring from(生じる)と spring up(出現する)が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 717
+    }
+  ]
+}

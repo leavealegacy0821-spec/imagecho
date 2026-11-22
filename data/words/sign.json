@@ -1,0 +1,103 @@
+{
+  "word": "sign",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/saɪn/",
+  "core_image": {
+    "text": "しるしをつけて、知らせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"60\" y1=\"66\" x2=\"60\" y2=\"140\"/><rect x=\"25\" y=\"40\" width=\"70\" height=\"26\"/><polyline points=\"40,53 75,53 70,48\"/><rect x=\"140\" y=\"56\" width=\"70\" height=\"72\"/><line x1=\"150\" y1=\"72\" x2=\"200\" y2=\"72\"/><line x1=\"150\" y1=\"84\" x2=\"200\" y2=\"84\"/><path d=\"M150 112 Q158 98 164 112 Q170 124 178 106 Q184 98 196 110\"/></g><text x=\"60\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">標識</text><text x=\"175\" y=\"42\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">署名</text></svg>"
+  },
+  "etymology": "ラテン語 signum(しるし。signal、signature、design と同じ) → しるし・記号 → 合図・身ぶり → (何かが起こる)しるし=兆候 → 看板・標識 → (しるしとして名前を書く)署名する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an event or fact that shows something exists or may happen; a board or notice giving information; a movement that gives a message."
+    },
+    {
+      "pos": "動詞",
+      "text": "to write your name on a document or letter."
+    }
+  ],
+  "cautions": [
+    "動詞 sign=(書類に)署名する。有名人の「サイン」は autograph、署名そのものは signature",
+    "a sign of A=Aの兆候・しるし(There is no sign of A=Aの気配がない)",
+    "sign up for A=Aに申しこむ・登録する",
+    "sign language=手話"
+  ],
+  "patterns": [
+    {
+      "form": "a sign of A",
+      "meaning": "Aの兆候"
+    },
+    {
+      "form": "show signs of A",
+      "meaning": "Aの兆しを見せる"
+    },
+    {
+      "form": "sign A",
+      "meaning": "Aに署名する"
+    },
+    {
+      "form": "sign up for A",
+      "meaning": "Aに申しこむ"
+    },
+    {
+      "form": "make a sign to A",
+      "meaning": "Aに合図する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "兆候",
+      "en": "A high fever can be a sign of serious illness.",
+      "ja": "高熱は重い病気の兆候であることがある。"
+    },
+    {
+      "source": "original",
+      "label": "気配",
+      "en": "There was no sign of life in the old house.",
+      "ja": "その古い家には人の気配がなかった。"
+    },
+    {
+      "source": "original",
+      "label": "標識",
+      "en": "The sign says \"No Parking.\"",
+      "ja": "標識には「駐車禁止」と書いてある。"
+    },
+    {
+      "source": "original",
+      "label": "合図",
+      "en": "She made a sign to me to be quiet.",
+      "ja": "彼女は私に静かにするよう合図した。"
+    },
+    {
+      "source": "original",
+      "label": "署名する(動詞)",
+      "en": "Please sign your name at the bottom of the form.",
+      "ja": "用紙のいちばん下に署名してください。"
+    },
+    {
+      "source": "original",
+      "label": "sign up for",
+      "en": "I signed up for a summer English course.",
+      "ja": "夏の英語講座に申しこんだ。"
+    }
+  ],
+  "check_points": [
+    "有名人の「サイン」を英語で言えるか",
+    "a sign of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "sign=署名する、autograph との区別、a sign of(兆候)が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 718
+    }
+  ]
+}

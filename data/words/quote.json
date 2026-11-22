@@ -1,0 +1,103 @@
+{
+  "word": "quote",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/kwoʊt/",
+  "core_image": {
+    "text": "言葉を抜き出して、そのまま示す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"40\" width=\"70\" height=\"90\"/><line x1=\"42\" y1=\"58\" x2=\"88\" y2=\"58\"/><line x1=\"42\" y1=\"72\" x2=\"88\" y2=\"72\"/><line x1=\"42\" y1=\"86\" x2=\"88\" y2=\"86\"/><line x1=\"42\" y1=\"100\" x2=\"88\" y2=\"100\"/><line x1=\"110\" y1=\"86\" x2=\"142\" y2=\"86\"/><polyline points=\"135,82.2 142,86 135,89.8\"/><ellipse cx=\"185\" cy=\"86\" rx=\"40\" ry=\"28\"/><line x1=\"170\" y1=\"76\" x2=\"166\" y2=\"86\"/><line x1=\"178\" y1=\"76\" x2=\"174\" y2=\"86\"/><line x1=\"196\" y1=\"86\" x2=\"192\" y2=\"96\"/><line x1=\"204\" y1=\"86\" x2=\"200\" y2=\"96\"/></g><text x=\"128\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">抜き出す</text></svg>"
+  },
+  "etymology": "ラテン語 quotare(番号をつける。quot=いくつ、quota と同じ) → 本の章・節に番号をつけて示す → (人の言葉を)そのまま引用する → (値段を数字で示す)見積もる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to repeat the exact words that someone else has said or written; to tell someone how much something will cost."
+    },
+    {
+      "pos": "名詞",
+      "text": "a sentence or phrase taken from a book or speech; a statement of how much a job will cost."
+    }
+  ],
+  "cautions": [
+    "quote A=Aを引用する(quote from A=Aから引用する)",
+    "A is quoted as saying …=Aは…と言ったと伝えられている",
+    "quote a price=値段を見積もる・言い値を示す",
+    "名詞 quotation=引用・見積もり。quotation marks=引用符(\"\")"
+  ],
+  "patterns": [
+    {
+      "form": "quote A",
+      "meaning": "Aを引用する"
+    },
+    {
+      "form": "quote from A",
+      "meaning": "Aから引用する"
+    },
+    {
+      "form": "A is quoted as saying",
+      "meaning": "Aは〜と語ったとされる"
+    },
+    {
+      "form": "quote A a price",
+      "meaning": "Aに値段を見積もる"
+    },
+    {
+      "form": "quotation marks",
+      "meaning": "引用符"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "引用する",
+      "en": "The speaker quoted a famous line from Shakespeare.",
+      "ja": "話し手はシェイクスピアの有名な一節を引用した。"
+    },
+    {
+      "source": "original",
+      "label": "quote from",
+      "en": "He often quotes from the Bible in his speeches.",
+      "ja": "彼は演説でよく聖書から引用する。"
+    },
+    {
+      "source": "original",
+      "label": "〜と語ったとされる",
+      "en": "The minister was quoted as saying that taxes would not rise.",
+      "ja": "大臣は増税はしないと語ったと伝えられた。"
+    },
+    {
+      "source": "original",
+      "label": "見積もる",
+      "en": "The shop quoted me a price of 50,000 yen for the repair.",
+      "ja": "店は修理代を5万円と見積もった。"
+    },
+    {
+      "source": "original",
+      "label": "引用文(名詞)",
+      "en": "This quote is from a speech by Martin Luther King.",
+      "ja": "この引用はキング牧師の演説からのものだ。"
+    },
+    {
+      "source": "original",
+      "label": "quotation",
+      "en": "Put the title in quotation marks.",
+      "ja": "題名を引用符でくくりなさい。"
+    }
+  ],
+  "check_points": [
+    "A is quoted as saying の意味を言えるか",
+    "「見積もる」の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "quote=引用する、is quoted as saying の型が長文・英作文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 720
+    }
+  ]
+}
