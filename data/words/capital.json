@@ -1,0 +1,103 @@
+{
+  "word": "capital",
+  "pos": [
+    "名詞",
+    "形容詞"
+  ],
+  "ipa": "/ˈkæpɪtəl/",
+  "core_image": {
+    "text": "いちばん上の「頭」にあたるもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"16\" stroke-dasharray=\"4 4\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"98\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"98\"/><ellipse cx=\"165\" cy=\"98\" rx=\"55\" ry=\"34\"/><circle cx=\"150\" cy=\"88\" r=\"9\"/><circle cx=\"150\" cy=\"88\" r=\"3\"/></g><text x=\"60\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">頭</text><text x=\"165\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">首都</text></svg>"
+  },
+  "etymology": "ラテン語 caput(頭。captain、chief と同じ根) → 頭にあたるもの → 首都(国の頭)・大文字(文の頭の字)・資本(元になる頭金) → 形容詞:主要な・(頭=命にかかわる)死刑の",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the most important city of a country; money used to start or run a business; a large letter such as A, B or C."
+    },
+    {
+      "pos": "形容詞",
+      "text": "punishable by death; (of a letter) written in its large form."
+    }
+  ],
+  "cautions": [
+    "the capital (of A)=(Aの)首都",
+    "capital=資本(金)。capitalism=資本主義、capitalist=資本家",
+    "capital letter=大文字(⇔ small letter)",
+    "capital punishment=死刑(頭=命を奪う罰)"
+  ],
+  "patterns": [
+    {
+      "form": "the capital of A",
+      "meaning": "Aの首都"
+    },
+    {
+      "form": "capital and labor",
+      "meaning": "資本と労働"
+    },
+    {
+      "form": "a capital letter",
+      "meaning": "大文字"
+    },
+    {
+      "form": "capital punishment",
+      "meaning": "死刑"
+    },
+    {
+      "form": "capitalism",
+      "meaning": "資本主義"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "首都",
+      "en": "Canberra is the capital of Australia.",
+      "ja": "キャンベラはオーストラリアの首都だ。"
+    },
+    {
+      "source": "original",
+      "label": "中心地",
+      "en": "Paris has long been a capital of fashion.",
+      "ja": "パリは長い間ファッションの中心地だ。"
+    },
+    {
+      "source": "original",
+      "label": "資本",
+      "en": "He needed more capital to start his own business.",
+      "ja": "彼は自分の事業を始めるのにもっと資本が必要だった。"
+    },
+    {
+      "source": "original",
+      "label": "大文字",
+      "en": "Write your name in capital letters.",
+      "ja": "名前を大文字で書きなさい。"
+    },
+    {
+      "source": "original",
+      "label": "死刑の(形容詞)",
+      "en": "Some countries have abolished capital punishment.",
+      "ja": "死刑を廃止した国もある。"
+    },
+    {
+      "source": "original",
+      "label": "資本主義",
+      "en": "Capitalism is based on private ownership of business.",
+      "ja": "資本主義は企業の私的所有に基づいている。"
+    }
+  ],
+  "check_points": [
+    "capital の意味を3つ以上言えるか",
+    "capital punishment の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「首都」以外の「資本」「大文字」「死刑の」が長文・語彙問題で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 705
+    }
+  ]
+}

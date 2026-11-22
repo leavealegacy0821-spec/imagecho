@@ -1,0 +1,99 @@
+{
+  "word": "fare",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/fer/",
+  "core_image": {
+    "text": "道を進んでいく旅(その代金と、旅の具合)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"72\" y2=\"84\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><circle cx=\"80\" cy=\"86\" r=\"6\"/><line x1=\"90\" y1=\"86\" x2=\"106\" y2=\"86\"/><polyline points=\"99,82.2 106,86 99,89.8\"/><rect x=\"110\" y=\"75\" width=\"100\" height=\"45\"/><rect x=\"120\" y=\"85\" width=\"20\" height=\"15\"/><rect x=\"150\" y=\"85\" width=\"20\" height=\"15\"/><rect x=\"180\" y=\"85\" width=\"20\" height=\"15\"/><circle cx=\"132\" cy=\"130\" r=\"10\"/><circle cx=\"188\" cy=\"130\" r=\"10\"/></g><text x=\"160\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">運賃</text></svg>"
+  },
+  "etymology": "古英語 faran(行く・旅する。farewell=元気で行け、welfare=うまく行くこと と同じ根) → 乗り物で行く代金=運賃 → 動詞:(旅の)具合が〜だ=やっていく(fare well / badly)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the money that you pay to travel by bus, train, plane or taxi."
+    },
+    {
+      "pos": "動詞",
+      "text": "to be successful or unsuccessful in a particular situation."
+    }
+  ],
+  "cautions": [
+    "fare=乗り物の運賃。fee(謝礼・入場料)、charge(サービス料)、fine(罰金)、toll(通行料)と区別",
+    "動詞 fare well / badly=うまくやる・うまくいかない(=get on、do well)",
+    "How did you fare?=どうだった(うまくいった)?",
+    "farewell(別れ)、welfare(福祉)と同じ根"
+  ],
+  "patterns": [
+    {
+      "form": "a bus / train / taxi fare",
+      "meaning": "バス・電車・タクシー代"
+    },
+    {
+      "form": "airfare",
+      "meaning": "航空運賃"
+    },
+    {
+      "form": "fare well / badly",
+      "meaning": "うまくやる・うまくいかない"
+    },
+    {
+      "form": "How did A fare?",
+      "meaning": "Aはどうだった?"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "運賃",
+      "en": "The bus fare is 230 yen.",
+      "ja": "バス代は230円だ。"
+    },
+    {
+      "source": "original",
+      "label": "運賃(fee との比較)",
+      "en": "The train fare was cheap, but the museum entrance fee was expensive.",
+      "ja": "電車代は安かったが、博物館の入館料は高かった。"
+    },
+    {
+      "source": "original",
+      "label": "航空運賃",
+      "en": "Airfares go up during the holidays.",
+      "ja": "休暇中は航空運賃が上がる。"
+    },
+    {
+      "source": "original",
+      "label": "うまくやる(動詞)",
+      "en": "Our team fared well in the tournament.",
+      "ja": "わがチームはトーナメントで健闘した。"
+    },
+    {
+      "source": "original",
+      "label": "うまくいかない(動詞)",
+      "en": "Small shops fared badly during the recession.",
+      "ja": "不況の間、小さな店は苦しんだ。"
+    },
+    {
+      "source": "original",
+      "label": "How did A fare?",
+      "en": "How did you fare in the interview?",
+      "ja": "面接はどうだった?"
+    }
+  ],
+  "check_points": [
+    "fare と fee・charge・fine の違いを言えるか",
+    "動詞 fare well の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「料金」を表す語(fare / fee / charge / fine)の使い分けが語彙問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 703
+    }
+  ]
+}

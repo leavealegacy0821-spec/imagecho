@@ -1,0 +1,99 @@
+{
+  "word": "harbor",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈhɑːrbər/",
+  "core_image": {
+    "text": "囲いの中に、大事にかくまう",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 60 Q20 132 120 132 Q220 132 220 60\"/><path d=\"M95 100 L145 100 L135 115 L105 115 Z\"/><line x1=\"120\" y1=\"100\" x2=\"120\" y2=\"72\"/><polygon points=\"120,75 120,96 138,96\"/><line x1=\"34\" y1=\"84\" x2=\"70\" y2=\"104\"/><polyline points=\"65.7,97.2 70,104 62,103.9\"/><line x1=\"206\" y1=\"84\" x2=\"170\" y2=\"104\"/><polyline points=\"178,103.9 170,104 174.3,97.2\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">囲って守る</text></svg>"
+  },
+  "etymology": "古英語 here(人々・軍) + beorg(守る所) → 人をかくまう宿 → 船をかくまう所=港 → 動詞:(人を)かくまう → (思いを心の中にかくまう)=(悪い感情などを)抱く",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an area of water near the coast where ships are safe."
+    },
+    {
+      "pos": "動詞",
+      "text": "to hide or protect someone; to keep a feeling or thought in your mind for a long time."
+    }
+  ],
+  "cautions": [
+    "動詞 harbor doubts / a grudge=疑い・恨みを心に抱く(よくない感情が多い)",
+    "harbor a criminal=犯人をかくまう",
+    "「港」は port より「船が避難できる入り江」の感じ",
+    "イギリス式のつづりは harbour"
+  ],
+  "patterns": [
+    {
+      "form": "in the harbor",
+      "meaning": "港で"
+    },
+    {
+      "form": "harbor doubts / suspicions",
+      "meaning": "疑いを抱く"
+    },
+    {
+      "form": "harbor a grudge against A",
+      "meaning": "Aに恨みを抱く"
+    },
+    {
+      "form": "harbor A",
+      "meaning": "Aをかくまう"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "港",
+      "en": "Many fishing boats were in the harbor.",
+      "ja": "たくさんの漁船が港にいた。"
+    },
+    {
+      "source": "original",
+      "label": "避難所",
+      "en": "The small bay offered a safe harbor during the storm.",
+      "ja": "その小さな湾は嵐の間の安全な避難場所になった。"
+    },
+    {
+      "source": "original",
+      "label": "かくまう(動詞)",
+      "en": "He was arrested for harboring a criminal.",
+      "ja": "彼は犯人をかくまったことで逮捕された。"
+    },
+    {
+      "source": "original",
+      "label": "(疑いを)抱く",
+      "en": "She began to harbor doubts about his story.",
+      "ja": "彼女は彼の話に疑いを抱き始めた。"
+    },
+    {
+      "source": "original",
+      "label": "(恨みを)抱く",
+      "en": "He still harbors a grudge against his old boss.",
+      "ja": "彼は今も昔の上司に恨みを抱いている。"
+    },
+    {
+      "source": "original",
+      "label": "(細菌を)宿す",
+      "en": "Old towels can harbor harmful bacteria.",
+      "ja": "古いタオルには有害な細菌がすみつくことがある。"
+    }
+  ],
+  "check_points": [
+    "動詞 harbor doubts の意味を言えるか",
+    "名詞と動詞の意味のつながりを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "動詞「(感情を)抱く」の意味が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 706
+    }
+  ]
+}

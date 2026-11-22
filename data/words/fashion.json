@@ -1,0 +1,103 @@
+{
+  "word": "fashion",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈfæʃən/",
+  "core_image": {
+    "text": "ものを形づくる「やり方」",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"104\" y2=\"104\"/><line x1=\"60\" y1=\"74\" x2=\"100\" y2=\"120\"/><path d=\"M112 140 Q100 115 115 95 L135 95 Q150 115 138 140 Z\"/><path d=\"M182 140 Q170 115 185 95 L205 95 Q220 115 208 140 Z\" stroke-dasharray=\"4 4\"/><line x1=\"150\" y1=\"118\" x2=\"168\" y2=\"118\" stroke-dasharray=\"5 5\"/><polyline points=\"161,114.2 168,118 161,121.8\"/></g><text x=\"125\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">形づくる</text><text x=\"195\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">同じ型</text></svg>"
+  },
+  "etymology": "ラテン語 factio(作ること。fact、factory と同じ根) → 作り方・形 → やり方・方法(in a 〜 fashion) → (その時代のみんなの)やり方=流行 → 動詞:形づくる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a popular style of clothes or behaviour at a particular time; a way of doing something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make or shape something, especially with your hands."
+    }
+  ],
+  "cautions": [
+    "in a 〜 fashion=〜なやり方で(=in a 〜 manner / way)。長文で「流行」と訳すと誤り",
+    "in fashion=流行して、out of fashion=すたれて",
+    "after a fashion=いちおう・どうにか",
+    "動詞 fashion A from / out of B=BからAを作る"
+  ],
+  "patterns": [
+    {
+      "form": "in a 〜 fashion",
+      "meaning": "〜なやり方で"
+    },
+    {
+      "form": "in / out of fashion",
+      "meaning": "流行して・すたれて"
+    },
+    {
+      "form": "after a fashion",
+      "meaning": "いちおう・どうにか"
+    },
+    {
+      "form": "fashion A from B",
+      "meaning": "BでAを作る"
+    },
+    {
+      "form": "old-fashioned",
+      "meaning": "時代遅れの"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "流行",
+      "en": "Short skirts are back in fashion.",
+      "ja": "短いスカートがまた流行している。"
+    },
+    {
+      "source": "original",
+      "label": "out of fashion",
+      "en": "That style went out of fashion years ago.",
+      "ja": "その型は何年も前にすたれた。"
+    },
+    {
+      "source": "original",
+      "label": "やり方",
+      "en": "She solved the problem in a very clever fashion.",
+      "ja": "彼女はとても賢いやり方でその問題を解いた。"
+    },
+    {
+      "source": "original",
+      "label": "in a 〜 fashion",
+      "en": "The students left the room in an orderly fashion.",
+      "ja": "生徒たちは整然と部屋を出た。"
+    },
+    {
+      "source": "original",
+      "label": "after a fashion",
+      "en": "I can speak French, after a fashion.",
+      "ja": "フランス語はいちおう話せる。"
+    },
+    {
+      "source": "original",
+      "label": "形づくる(動詞)",
+      "en": "He fashioned a small boat from a piece of wood.",
+      "ja": "彼は1本の木から小さな舟を作った。"
+    }
+  ],
+  "check_points": [
+    "in a 〜 fashion の意味を言えるか",
+    "動詞 fashion の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「流行」ではなく「やり方」(in a 〜 fashion)の意味が長文・和訳で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 704
+    }
+  ]
+}

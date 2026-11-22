@@ -1,0 +1,94 @@
+{
+  "word": "faculty",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈfækəlti/",
+  "core_image": {
+    "text": "ものごとをなしうる力",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"44\" y2=\"98\"/><line x1=\"60\" y1=\"74\" x2=\"76\" y2=\"98\"/><line x1=\"60\" y1=\"30\" x2=\"60\" y2=\"22\"/><line x1=\"76\" y1=\"38\" x2=\"84\" y2=\"30\"/><line x1=\"44\" y1=\"38\" x2=\"36\" y2=\"30\"/><polygon points=\"120,72 170,46 220,72\"/><line x1=\"120\" y1=\"72\" x2=\"220\" y2=\"72\"/><line x1=\"135\" y1=\"76\" x2=\"135\" y2=\"140\"/><line x1=\"158\" y1=\"76\" x2=\"158\" y2=\"140\"/><line x1=\"182\" y1=\"76\" x2=\"182\" y2=\"140\"/><line x1=\"205\" y1=\"76\" x2=\"205\" y2=\"140\"/></g><text x=\"60\" y=\"14\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">力</text><text x=\"170\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">学部</text></svg>"
+  },
+  "etymology": "fac(する・なす。facility、facile と同じ根) + ulty → なしうる力=能力 → (知の力を使う)学問の一分野 → その分野の学部・教授陣",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a natural ability of the body or mind; a department of a university; all the teachers in a university or school."
+    }
+  ],
+  "cautions": [
+    "「能力」は生まれつきの体・心の力(the faculty of speech=話す能力)",
+    "「学部」(the Faculty of Law=法学部)、「(大学の)教授陣」と意味が大きく変わる",
+    "have a faculty for doing=〜する才能がある",
+    "facility(施設・器用さ)と区別する"
+  ],
+  "patterns": [
+    {
+      "form": "the faculty of A",
+      "meaning": "Aの能力"
+    },
+    {
+      "form": "have a faculty for doing",
+      "meaning": "〜する才能がある"
+    },
+    {
+      "form": "the Faculty of Law / Medicine",
+      "meaning": "法学部・医学部"
+    },
+    {
+      "form": "faculty members",
+      "meaning": "教員"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "能力",
+      "en": "Humans have the faculty of speech.",
+      "ja": "人間には話す能力がある。"
+    },
+    {
+      "source": "original",
+      "label": "(体の)機能",
+      "en": "Even at ninety, she still has all her faculties.",
+      "ja": "90歳になっても彼女は心身ともにしっかりしている。"
+    },
+    {
+      "source": "original",
+      "label": "才能",
+      "en": "He has a faculty for making friends easily.",
+      "ja": "彼にはすぐに友だちを作る才能がある。"
+    },
+    {
+      "source": "original",
+      "label": "学部",
+      "en": "My sister studies in the Faculty of Medicine.",
+      "ja": "姉は医学部で学んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "教授陣",
+      "en": "The faculty met to discuss the new course.",
+      "ja": "教授陣が集まって新しい課程について話し合った。"
+    },
+    {
+      "source": "original",
+      "label": "教員",
+      "en": "All faculty members must attend the meeting.",
+      "ja": "教員は全員その会議に出なければならない。"
+    }
+  ],
+  "check_points": [
+    "「能力」と「学部・教授陣」の2つの意味を言えるか",
+    "facility との違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「能力」の意味が長文で、「学部」の意味が大学関係の文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 702
+    }
+  ]
+}

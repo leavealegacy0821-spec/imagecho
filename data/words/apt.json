@@ -1,0 +1,94 @@
+{
+  "word": "apt",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/æpt/",
+  "core_image": {
+    "text": "ぴったり合って、そうなりやすい",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polygon points=\"40,60 120,60 120,85 105,85 105,115 120,115 120,140 40,140\"/><polygon points=\"160,60 220,60 220,140 160,140 160,115 145,115 145,85 160,85\"/><line x1=\"178\" y1=\"46\" x2=\"138\" y2=\"46\"/><polyline points=\"145,49.8 138,46 145,42.2\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぴったり合う</text></svg>"
+  },
+  "etymology": "ラテン語 aptus(くっつけられた・合った。adapt、aptitude と同じ根) → ぴったり合う=適切な → (性質に合って)〜しがちな → (頭に合って)のみこみが早い",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "likely to do something; suitable or right for a situation; quick to learn."
+    }
+  ],
+  "cautions": [
+    "be apt to do=〜しがちだ(=be liable to do、tend to do)",
+    "名詞の前では「適切な」(an apt remark=的を射た発言=appropriate)",
+    "aptitude=適性・才能(an aptitude for A)",
+    "adapt(合わせる)と同じ仲間"
+  ],
+  "patterns": [
+    {
+      "form": "be apt to do",
+      "meaning": "〜しがちだ"
+    },
+    {
+      "form": "an apt remark / example",
+      "meaning": "適切な発言・例"
+    },
+    {
+      "form": "be apt at doing",
+      "meaning": "〜するのが上手だ"
+    },
+    {
+      "form": "aptitude",
+      "meaning": "適性"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "be apt to do",
+      "en": "We are apt to forget how lucky we are.",
+      "ja": "私たちは自分がどれほど幸運かを忘れがちだ。"
+    },
+    {
+      "source": "original",
+      "label": "しがちだ",
+      "en": "This old car is apt to break down in cold weather.",
+      "ja": "この古い車は寒いと故障しがちだ。"
+    },
+    {
+      "source": "original",
+      "label": "適切な",
+      "en": "That was an apt description of the situation.",
+      "ja": "それはその状況を的確に言い表していた。"
+    },
+    {
+      "source": "original",
+      "label": "のみこみが早い",
+      "en": "She is an apt student who learns quickly.",
+      "ja": "彼女はのみこみの早い生徒だ。"
+    },
+    {
+      "source": "original",
+      "label": "tend to do との言いかえ",
+      "en": "Teenagers are apt to, or tend to, stay up late.",
+      "ja": "10代はつい夜ふかしをしがちだ。"
+    },
+    {
+      "source": "original",
+      "label": "aptitude(名詞)",
+      "en": "He showed an aptitude for languages.",
+      "ja": "彼は語学の適性を見せた。"
+    }
+  ],
+  "check_points": [
+    "be apt to do の意味と言いかえを言えるか",
+    "an apt remark の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be apt to do=tend to do=be liable to do の言いかえが定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 709
+    }
+  ]
+}
