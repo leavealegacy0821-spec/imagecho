@@ -1,0 +1,102 @@
+{
+  "word": "expense",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ɪkˈspens/",
+  "core_image": {
+    "text": "お金や大事な物を、外へ払い出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"98\"/><line x1=\"50\" y1=\"74\" x2=\"78\" y2=\"90\"/><rect x=\"78\" y=\"82\" width=\"28\" height=\"20\"/><line x1=\"112\" y1=\"90\" x2=\"148\" y2=\"72\"/><polyline points=\"140,71.7 148,72 143.4,78.6\"/><circle cx=\"164\" cy=\"64\" r=\"7\"/><circle cx=\"186\" cy=\"82\" r=\"7\"/><circle cx=\"168\" cy=\"94\" r=\"7\"/></g><text x=\"130\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">払い出す</text><text x=\"186\" y=\"42\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">費用</text></svg>"
+  },
+  "etymology": "ex(外へ) + pense(量る・払う。spend、expend と同じ根) → 量って払い出すこと → 費用・出費 → (何かのために)払う犠牲 → at the expense of A=Aを犠牲にして",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the money that you spend on something; something that is lost or harmed in order to get something else."
+    }
+  ],
+  "cautions": [
+    "at the expense of A=Aを犠牲にして(長文・和訳で頻出)/ Aの費用で",
+    "at one's (own) expense=自費で",
+    "複数形 expenses=(仕事などの)経費・〜費(living expenses=生活費)",
+    "形容詞 expensive=高価な。ただし「値段が高い」は The price is high(expensive ✕)"
+  ],
+  "patterns": [
+    {
+      "form": "at the expense of A",
+      "meaning": "Aを犠牲にして"
+    },
+    {
+      "form": "at one's own expense",
+      "meaning": "自費で"
+    },
+    {
+      "form": "living expenses",
+      "meaning": "生活費"
+    },
+    {
+      "form": "travel expenses",
+      "meaning": "旅費"
+    },
+    {
+      "form": "spare no expense",
+      "meaning": "費用を惜しまない"
+    },
+    {
+      "form": "expensive",
+      "meaning": "高価な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "at the expense of",
+      "en": "He finished the work at the expense of his health.",
+      "ja": "彼は健康を犠牲にしてその仕事を終えた。"
+    },
+    {
+      "source": "original",
+      "label": "at one's own expense",
+      "en": "She studied abroad at her own expense.",
+      "ja": "彼女は自費で留学した。"
+    },
+    {
+      "source": "original",
+      "label": "費用",
+      "en": "The expense of repairing the roof was high.",
+      "ja": "屋根の修理費用は高かった。"
+    },
+    {
+      "source": "original",
+      "label": "living expenses",
+      "en": "He works part-time to cover his living expenses.",
+      "ja": "彼は生活費をまかなうためにアルバイトをしている。"
+    },
+    {
+      "source": "original",
+      "label": "spare no expense",
+      "en": "They spared no expense on the wedding.",
+      "ja": "彼らは結婚式に費用を惜しまなかった。"
+    },
+    {
+      "source": "original",
+      "label": "price と expensive",
+      "en": "The price of this bag is high, so it is too expensive for me.",
+      "ja": "このかばんは値段が高いので、私には高すぎる。"
+    }
+  ],
+  "check_points": [
+    "at the expense of A の意味を言えるか",
+    "「値段が高い」を price で言うとき expensive を使わないと言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "at the expense of A(〜を犠牲にして)が長文・和訳で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 744
+    }
+  ]
+}

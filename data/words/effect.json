@@ -1,0 +1,107 @@
+{
+  "word": "effect",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ɪˈfekt/",
+  "core_image": {
+    "text": "働きかけたあとに、広がって残る変化",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"36\" r=\"6\"/><line x1=\"120\" y1=\"46\" x2=\"120\" y2=\"90\"/><polyline points=\"123.8,83 120,90 116.2,83\"/><ellipse cx=\"120\" cy=\"110\" rx=\"20\" ry=\"5\"/><ellipse cx=\"120\" cy=\"110\" rx=\"45\" ry=\"11\"/><ellipse cx=\"120\" cy=\"110\" rx=\"70\" ry=\"17\"/></g><text x=\"72\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">働きかけ</text><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">広がる変化</text></svg>"
+  },
+  "etymology": "ef(外へ) + fect(作る。factory、affect と同じ根) → 外に作り出されたもの → 結果・効果・影響 → 効力が実際に出ること(take effect) → 動詞:(変化を)もたらす",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a change that something causes in something else; the state of being in use or having force."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make something happen or bring about a change."
+    }
+  ],
+  "cautions": [
+    "affect は動詞「影響を与える」、effect は名詞「影響」(つづりの区別が頻出)",
+    "have an effect on A=Aに影響を与える(前置詞は on)",
+    "take effect / come into effect=(法律・薬が)効力を生じる。in effect=事実上・実際には",
+    "動詞の effect は「(変化を)もたらす」(effect a change)で、affect とは意味が違う"
+  ],
+  "patterns": [
+    {
+      "form": "have an effect on A",
+      "meaning": "Aに影響を与える"
+    },
+    {
+      "form": "take effect",
+      "meaning": "効力を生じる・効く"
+    },
+    {
+      "form": "come into effect",
+      "meaning": "(法律などが)施行される"
+    },
+    {
+      "form": "in effect",
+      "meaning": "事実上・実際には"
+    },
+    {
+      "form": "side effect",
+      "meaning": "副作用"
+    },
+    {
+      "form": "effective",
+      "meaning": "効果的な・有効な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "have an effect on",
+      "en": "Music can have a strong effect on our mood.",
+      "ja": "音楽は私たちの気分に強い影響を与えることがある。"
+    },
+    {
+      "source": "original",
+      "label": "affect との区別",
+      "en": "Lack of sleep affects your health.",
+      "ja": "睡眠不足は健康に影響する。"
+    },
+    {
+      "source": "original",
+      "label": "take effect",
+      "en": "The medicine began to take effect after an hour.",
+      "ja": "1時間後に薬が効きはじめた。"
+    },
+    {
+      "source": "original",
+      "label": "come into effect",
+      "en": "The new law will come into effect next April.",
+      "ja": "新しい法律は来年の4月に施行される。"
+    },
+    {
+      "source": "original",
+      "label": "in effect",
+      "en": "His silence was, in effect, a refusal.",
+      "ja": "彼の沈黙は、事実上の拒否だった。"
+    },
+    {
+      "source": "original",
+      "label": "side effect",
+      "en": "This drug has few side effects.",
+      "ja": "この薬は副作用がほとんどない。"
+    }
+  ],
+  "check_points": [
+    "affect(動詞)と effect(名詞)を区別できるか",
+    "have an effect on A の前置詞と、take effect の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "affect / effect の区別、have an effect on、take effect が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 742
+    }
+  ]
+}

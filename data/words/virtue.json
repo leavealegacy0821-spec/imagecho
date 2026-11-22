@@ -1,0 +1,98 @@
+{
+  "word": "virtue",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈvɜːrtʃuː/",
+  "core_image": {
+    "text": "人の中にある、よいはたらきの力",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"100\" y2=\"100\"/><line x1=\"120\" y1=\"74\" x2=\"140\" y2=\"100\"/><circle cx=\"120\" cy=\"86\" r=\"7\"/><line x1=\"106\" y1=\"66\" x2=\"96\" y2=\"58\"/><line x1=\"134\" y1=\"66\" x2=\"144\" y2=\"58\"/><line x1=\"98\" y1=\"40\" x2=\"86\" y2=\"36\"/><line x1=\"142\" y1=\"40\" x2=\"154\" y2=\"36\"/></g><text x=\"52\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">内なる力</text><text x=\"190\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">美徳・長所</text></svg>"
+  },
+  "etymology": "ラテン語 virtus(強さ・力) → 人の中にあるよい力 → 美徳(⇔ vice 悪徳) → (物の)長所・利点 → by virtue of A=Aの力によって・おかげで",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a good moral quality in a person; an advantage or useful quality of something."
+    }
+  ],
+  "cautions": [
+    "「美徳」(⇔ vice=悪徳)と「長所・利点」(= merit)の2つの意味がある",
+    "by virtue of A=Aのおかげで・Aによって(because of のかたい言い方)",
+    "the virtue of A=Aのよい点(the virtues of city life)",
+    "形容詞 virtuous=徳の高い"
+  ],
+  "patterns": [
+    {
+      "form": "by virtue of A",
+      "meaning": "Aのおかげで・Aによって"
+    },
+    {
+      "form": "virtue and vice",
+      "meaning": "美徳と悪徳"
+    },
+    {
+      "form": "the virtue(s) of A",
+      "meaning": "Aの長所"
+    },
+    {
+      "form": "make a virtue of A",
+      "meaning": "Aを(しかたなく)よいことに変える"
+    },
+    {
+      "form": "virtuous",
+      "meaning": "徳の高い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "美徳",
+      "en": "Patience is a virtue.",
+      "ja": "忍耐は美徳である。"
+    },
+    {
+      "source": "original",
+      "label": "virtue と vice",
+      "en": "The story teaches children the difference between virtue and vice.",
+      "ja": "その物語は子どもに善と悪の違いを教える。"
+    },
+    {
+      "source": "original",
+      "label": "長所・利点",
+      "en": "One of the virtues of this car is its low price.",
+      "ja": "この車の長所の1つは値段が安いことだ。"
+    },
+    {
+      "source": "original",
+      "label": "by virtue of",
+      "en": "She got the job by virtue of her experience.",
+      "ja": "彼女は経験のおかげでその仕事を得た。"
+    },
+    {
+      "source": "original",
+      "label": "by virtue of(資格)",
+      "en": "By virtue of being born here, he is a citizen of this country.",
+      "ja": "ここで生まれたことによって、彼はこの国の市民である。"
+    },
+    {
+      "source": "original",
+      "label": "virtuous",
+      "en": "He was respected as a virtuous man.",
+      "ja": "彼は徳の高い人として尊敬されていた。"
+    }
+  ],
+  "check_points": [
+    "「美徳」と「長所」の2つの意味を言えるか",
+    "by virtue of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "by virtue of A と「長所」の意味が長文で問われる。vice との対比も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 745
+    }
+  ]
+}

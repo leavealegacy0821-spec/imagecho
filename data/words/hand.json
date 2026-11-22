@@ -1,0 +1,107 @@
+{
+  "word": "hand",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/hænd/",
+  "core_image": {
+    "text": "手に持ち、手から手へ渡す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"98\"/><line x1=\"60\" y1=\"74\" x2=\"102\" y2=\"80\"/><rect x=\"102\" y=\"70\" width=\"24\" height=\"18\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"130\" y2=\"80\"/><line x1=\"180\" y1=\"74\" x2=\"192\" y2=\"98\"/></g><text x=\"114\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手渡す</text><text x=\"114\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手助け</text></svg>"
+  },
+  "etymology": "古英語 hand(手) → 手 → 手で渡す(動詞 hand) → 手を貸すこと=手助け(give A a hand) → 手の届くところ(at hand) → 片方の手=側(on the other hand) → 働き手",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the part of the body at the end of the arm; help with doing something; one side of an argument."
+    },
+    {
+      "pos": "動詞",
+      "text": "to give something to someone by passing it with your hand."
+    }
+  ],
+  "cautions": [
+    "動詞 hand A B / hand B to A=AにBを手渡す",
+    "hand in=提出する(= submit, turn in)/ hand out=配る / hand down=(次の世代に)伝える",
+    "give A a hand=Aを手伝う(lend A a hand も)",
+    "on the other hand=他方で(on the one hand と対)。at hand=手近に・間近に"
+  ],
+  "patterns": [
+    {
+      "form": "hand A B / hand B to A",
+      "meaning": "AにBを手渡す"
+    },
+    {
+      "form": "hand in A",
+      "meaning": "Aを提出する"
+    },
+    {
+      "form": "hand down A",
+      "meaning": "Aを伝える"
+    },
+    {
+      "form": "give A a hand",
+      "meaning": "Aを手伝う"
+    },
+    {
+      "form": "on the other hand",
+      "meaning": "他方で"
+    },
+    {
+      "form": "at hand",
+      "meaning": "手近に・間近に"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "hand A B",
+      "en": "Could you hand me that book?",
+      "ja": "その本を取ってくれませんか。"
+    },
+    {
+      "source": "original",
+      "label": "hand in",
+      "en": "Please hand in your reports by Friday.",
+      "ja": "金曜日までにレポートを提出してください。"
+    },
+    {
+      "source": "original",
+      "label": "hand down",
+      "en": "This story has been handed down for generations.",
+      "ja": "この話は何世代にもわたって伝えられてきた。"
+    },
+    {
+      "source": "original",
+      "label": "give A a hand",
+      "en": "Can you give me a hand with these boxes?",
+      "ja": "この箱を運ぶのを手伝ってくれませんか。"
+    },
+    {
+      "source": "original",
+      "label": "on the other hand",
+      "en": "The city is exciting. On the other hand, it is expensive to live in.",
+      "ja": "都会は刺激的だ。他方で、住むのにお金がかかる。"
+    },
+    {
+      "source": "original",
+      "label": "at hand",
+      "en": "The exam is close at hand.",
+      "ja": "試験が間近にせまっている。"
+    }
+  ],
+  "check_points": [
+    "hand in / hand out / hand down の意味を言い分けられるか",
+    "give A a hand と on the other hand の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "hand in(=submit)、give A a hand、on the other hand、at hand が会話・語彙問題で定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 746
+    }
+  ]
+}

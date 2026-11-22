@@ -1,0 +1,98 @@
+{
+  "word": "insure",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈʃʊər/",
+  "core_image": {
+    "text": "もしもの損に、前もって傘をさしておく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"95\" y=\"100\" width=\"50\" height=\"40\"/><polygon points=\"88,100 120,78 152,100\"/><path d=\"M60 66 Q120 16 180 66 Z\"/><line x1=\"120\" y1=\"66\" x2=\"120\" y2=\"72\"/><line x1=\"40\" y1=\"40\" x2=\"34\" y2=\"56\"/><line x1=\"30\" y1=\"76\" x2=\"24\" y2=\"92\"/><line x1=\"202\" y1=\"40\" x2=\"196\" y2=\"56\"/><line x1=\"212\" y1=\"76\" x2=\"206\" y2=\"92\"/></g><text x=\"42\" y=\"122\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もしも</text><text x=\"200\" y=\"122\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">備える</text></svg>"
+  },
+  "etymology": "in(〜にする) + sure(確かな) → 確かにしておく → (お金を払って)損に備える=保険をかける。ensure(確実にする)・assure(保証する)と同じく sure を含む",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to buy insurance so that you will receive money if something is lost, damaged, or harmed."
+    }
+  ],
+  "cautions": [
+    "insure A against B=AにBに対する保険をかける(前置詞 against)",
+    "ensure=確実にする、assure A of B / assure A that=Aに保証する・請け合う、との区別が狙われる",
+    "insure A for 金額=Aに〜の保険をかける。名詞 insurance=保険",
+    "アメリカ英語では insure を ensure(確実にする)の意味でも使うことがある"
+  ],
+  "patterns": [
+    {
+      "form": "insure A against B",
+      "meaning": "AにBに対する保険をかける"
+    },
+    {
+      "form": "insure A for 金額",
+      "meaning": "Aに〜の保険をかける"
+    },
+    {
+      "form": "be insured",
+      "meaning": "保険がかかっている"
+    },
+    {
+      "form": "insurance",
+      "meaning": "保険"
+    },
+    {
+      "form": "take out insurance",
+      "meaning": "保険に入る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "insure A against B",
+      "en": "We insured our house against fire.",
+      "ja": "私たちは家に火災保険をかけた。"
+    },
+    {
+      "source": "original",
+      "label": "insure A for 金額",
+      "en": "The painting is insured for one million dollars.",
+      "ja": "その絵には100万ドルの保険がかけられている。"
+    },
+    {
+      "source": "original",
+      "label": "be insured",
+      "en": "Is your car insured?",
+      "ja": "あなたの車には保険がかかっていますか。"
+    },
+    {
+      "source": "original",
+      "label": "insurance",
+      "en": "He bought travel insurance before the trip.",
+      "ja": "彼は旅行の前に旅行保険に入った。"
+    },
+    {
+      "source": "original",
+      "label": "ensure との区別",
+      "en": "Please ensure that all the doors are locked.",
+      "ja": "すべてのドアに鍵がかかっているか確認してください。"
+    },
+    {
+      "source": "original",
+      "label": "assure との区別",
+      "en": "I assure you that the plan is safe.",
+      "ja": "その計画は安全だと請け合います。"
+    }
+  ],
+  "check_points": [
+    "insure A against B の前置詞を言えるか",
+    "insure / ensure / assure を区別できるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "ensure / assure / insure の区別が語彙問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 749
+    }
+  ]
+}

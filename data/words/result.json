@@ -1,0 +1,103 @@
+{
+  "word": "result",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/rɪˈzʌlt/",
+  "core_image": {
+    "text": "行いが跳ね返って、あとに出てくるもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"20\" y=\"90\" width=\"40\" height=\"40\"/><line x1=\"66\" y1=\"110\" x2=\"156\" y2=\"110\"/><polyline points=\"149,106.2 156,110 149,113.8\"/><circle cx=\"180\" cy=\"110\" r=\"18\"/><path d=\"M80 96 Q110 76 140 96\"/></g><text x=\"40\" y=\"82\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">原因</text><text x=\"180\" y=\"82\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">結果</text></svg>"
+  },
+  "etymology": "re(戻って) + sult(跳ぶ。ラテン語 saltare) → 跳ね返る → 行いから跳ね返って出てくるもの=結果 → (試験などの)成績 → 動詞:結果として生じる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "something that happens because of something else; the final score or mark."
+    },
+    {
+      "pos": "動詞",
+      "text": "to happen because of something else (result from); to cause something (result in)."
+    }
+  ],
+  "cautions": [
+    "A result in B=AがBという結果になる(後ろが結果)/ B result from A=BはAから生じる(後ろが原因)。向きの取り違えが最頻出",
+    "A result in B と B result from A は同じ内容に書きかえられる",
+    "as a result=その結果(副詞句)/ as a result of A=Aの結果として",
+    "名詞の複数 results=(試験・選挙などの)成績・結果"
+  ],
+  "patterns": [
+    {
+      "form": "A result in B",
+      "meaning": "AがBという結果になる"
+    },
+    {
+      "form": "B result from A",
+      "meaning": "BはAから生じる"
+    },
+    {
+      "form": "as a result",
+      "meaning": "その結果"
+    },
+    {
+      "form": "as a result of A",
+      "meaning": "Aの結果として"
+    },
+    {
+      "form": "with the result that S V",
+      "meaning": "その結果〜になる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "result in",
+      "en": "The heavy rain resulted in a flood.",
+      "ja": "大雨は洪水という結果になった。"
+    },
+    {
+      "source": "original",
+      "label": "result from",
+      "en": "The flood resulted from the heavy rain.",
+      "ja": "洪水は大雨から生じた。"
+    },
+    {
+      "source": "original",
+      "label": "as a result",
+      "en": "He didn't study at all. As a result, he failed the test.",
+      "ja": "彼はまったく勉強しなかった。その結果、試験に落ちた。"
+    },
+    {
+      "source": "original",
+      "label": "as a result of",
+      "en": "As a result of the accident, the road was closed.",
+      "ja": "事故の結果、道路は通行止めになった。"
+    },
+    {
+      "source": "original",
+      "label": "成績・結果",
+      "en": "I was happy with my exam results.",
+      "ja": "私は試験の成績に満足した。"
+    },
+    {
+      "source": "original",
+      "label": "with the result that",
+      "en": "He left early, with the result that he missed the final scene.",
+      "ja": "彼は早く帰ったので、最後の場面を見のがした。"
+    }
+  ],
+  "check_points": [
+    "result in と result from で、後ろに来るのが結果か原因かを言えるか",
+    "as a result と as a result of A を使い分けられるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "result in ⇔ result from の向きと書きかえが語法・整序問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 741
+    }
+  ]
+}

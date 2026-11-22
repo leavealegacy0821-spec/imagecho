@@ -1,0 +1,102 @@
+{
+  "word": "dawn",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/dɔːn/",
+  "core_image": {
+    "text": "暗やみに、光がさしはじめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M80 140 A30 30 0 0 1 140 140\"/><line x1=\"110\" y1=\"100\" x2=\"110\" y2=\"86\"/><line x1=\"82\" y1=\"112\" x2=\"73\" y2=\"103\"/><line x1=\"138\" y1=\"112\" x2=\"147\" y2=\"103\"/><line x1=\"72\" y1=\"126\" x2=\"61\" y2=\"122\"/><line x1=\"148\" y1=\"126\" x2=\"159\" y2=\"122\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/></g><text x=\"110\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">夜明け</text><text x=\"200\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふと気づく</text></svg>"
+  },
+  "etymology": "古英語 dagian(日になる。day と同じ根) → 夜が明ける → 夜明け → (物事の)始まり → 頭の中に光がさす=(考えが)わかりはじめる(dawn on A)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the time of day when light first appears; the beginning of something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to begin to grow light; (of an idea) to become clear to someone for the first time."
+    }
+  ],
+  "cautions": [
+    "It dawned on A that S V=Aは〜にふと気づいた(主語は It・事柄、人は on の後ろ)",
+    "A dawn on B=AがBにわかりはじめる(B が人)。I dawned ✕",
+    "at dawn=夜明けに / from dawn till dusk=夜明けから日暮れまで",
+    "the dawn of A=Aの始まり(the dawn of civilization=文明のあけぼの)"
+  ],
+  "patterns": [
+    {
+      "form": "It dawns on A that S V",
+      "meaning": "Aは〜にふと気づく"
+    },
+    {
+      "form": "A dawn on B",
+      "meaning": "AがBにわかってくる"
+    },
+    {
+      "form": "at dawn",
+      "meaning": "夜明けに"
+    },
+    {
+      "form": "from dawn till dusk",
+      "meaning": "朝から晩まで"
+    },
+    {
+      "form": "the dawn of A",
+      "meaning": "Aの始まり"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "It dawned on A that",
+      "en": "It suddenly dawned on me that I had left my wallet at home.",
+      "ja": "財布を家に忘れてきたことに、ふと気づいた。"
+    },
+    {
+      "source": "original",
+      "label": "A dawn on B",
+      "en": "The truth finally dawned on him.",
+      "ja": "ついに真実が彼にわかった。"
+    },
+    {
+      "source": "original",
+      "label": "at dawn",
+      "en": "The farmers start working at dawn.",
+      "ja": "農家の人たちは夜明けに働きはじめる。"
+    },
+    {
+      "source": "original",
+      "label": "夜が明ける",
+      "en": "The day dawned clear and bright.",
+      "ja": "晴れて明るい朝になった。"
+    },
+    {
+      "source": "original",
+      "label": "from dawn till dusk",
+      "en": "They worked from dawn till dusk.",
+      "ja": "彼らは朝から晩まで働いた。"
+    },
+    {
+      "source": "original",
+      "label": "the dawn of",
+      "en": "The invention marked the dawn of a new age.",
+      "ja": "その発明は新しい時代の始まりを告げた。"
+    }
+  ],
+  "check_points": [
+    "It dawned on me that … の意味と、人が on の後ろに来ることを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "It dawned on A that …(ふと気づいた)が和訳・整序で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 748
+    }
+  ]
+}

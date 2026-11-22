@@ -1,0 +1,107 @@
+{
+  "word": "favor",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈfeɪvər/",
+  "core_image": {
+    "text": "相手の側に立って、好意をかける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"98\"/><line x1=\"70\" y1=\"74\" x2=\"108\" y2=\"72\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"158\" y2=\"98\"/><line x1=\"170\" y1=\"74\" x2=\"182\" y2=\"98\"/><path d=\"M120 42 C120 32 104 32 104 42 C104 52 120 56 120 64 C120 56 136 52 136 42 C136 32 120 32 120 42 Z\"/></g><text x=\"120\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">好意</text><text x=\"120\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">味方する</text></svg>"
+  },
+  "etymology": "ラテン語 favor(好意・支持) → 相手への好意 → 好意からの親切な行い(do A a favor) → 支持・賛成(in favor of) → 有利(in A's favor) → 動詞:ひいきする・味方する。形容詞 favorable=好意的な・有利な",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "something kind that you do for someone; approval or support for someone or something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to prefer or support someone or something; to treat someone better than others."
+    }
+  ],
+  "cautions": [
+    "ask A a favor / ask a favor of A=Aにお願いをする(of を使う型に注意)",
+    "do A a favor=Aの頼みをきく(May I ask you a favor? への返事でよく出る)",
+    "in favor of A=Aに賛成して(⇔ against A)/ in A's favor=Aに有利に",
+    "動詞 favor A over B=BよりAをひいきする・好む"
+  ],
+  "patterns": [
+    {
+      "form": "ask A a favor",
+      "meaning": "Aにお願いをする"
+    },
+    {
+      "form": "ask a favor of A",
+      "meaning": "Aにお願いをする"
+    },
+    {
+      "form": "do A a favor",
+      "meaning": "Aの頼みをきく"
+    },
+    {
+      "form": "in favor of A",
+      "meaning": "Aに賛成して"
+    },
+    {
+      "form": "in A's favor",
+      "meaning": "Aに有利に"
+    },
+    {
+      "form": "favor A over B",
+      "meaning": "BよりAを好む・ひいきする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ask A a favor",
+      "en": "May I ask you a favor?",
+      "ja": "お願いがあるのですが。"
+    },
+    {
+      "source": "original",
+      "label": "ask a favor of A",
+      "en": "I have a favor to ask of you.",
+      "ja": "あなたにお願いしたいことがあります。"
+    },
+    {
+      "source": "original",
+      "label": "do A a favor",
+      "en": "Could you do me a favor and close the window?",
+      "ja": "お願いだから窓を閉めてくれませんか。"
+    },
+    {
+      "source": "original",
+      "label": "in favor of",
+      "en": "Most students were in favor of the plan.",
+      "ja": "ほとんどの生徒がその計画に賛成だった。"
+    },
+    {
+      "source": "original",
+      "label": "in A's favor",
+      "en": "The judge decided in our favor.",
+      "ja": "裁判官は私たちに有利な判決を下した。"
+    },
+    {
+      "source": "original",
+      "label": "動詞 ひいきする",
+      "en": "The teacher seemed to favor the older students.",
+      "ja": "その先生は上級生をひいきしているようだった。"
+    }
+  ],
+  "check_points": [
+    "ask a favor of A の of と、do A a favor の意味を言えるか",
+    "in favor of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "May I ask you a favor? / do me a favor の会話表現と、in favor of が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 743
+    }
+  ]
+}
