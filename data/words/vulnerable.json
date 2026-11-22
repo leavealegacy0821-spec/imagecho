@@ -1,0 +1,94 @@
+{
+  "word": "vulnerable",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈvʌlnərəbl/",
+  "core_image": {
+    "text": "守りがなく、傷を受けやすい",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"54\" y2=\"98\"/><line x1=\"70\" y1=\"74\" x2=\"86\" y2=\"98\"/><line x1=\"210\" y1=\"80\" x2=\"90\" y2=\"80\"/><polyline points=\"97,83.8 90,80 97,76.2\"/></g><text x=\"160\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">傷つきやすい</text></svg>"
+  },
+  "etymology": "vulner(傷つける。ラテン語 vulnus=傷) + able(〜されうる) → 傷つけられうる → (攻撃・病気・批判に)弱い・もろい",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "easily hurt, harmed or attacked, physically or emotionally."
+    }
+  ],
+  "cautions": [
+    "be vulnerable to A=Aに弱い・Aを受けやすい(to を取る)",
+    "人だけでなく、場所・制度などにも使う(a vulnerable system)",
+    "⇔ invulnerable / resistant。名詞 vulnerability=もろさ",
+    "「敏感な sensitive」とは違い、「害を受けやすい」点に重心がある"
+  ],
+  "patterns": [
+    {
+      "form": "be vulnerable to A",
+      "meaning": "Aに弱い・Aを受けやすい"
+    },
+    {
+      "form": "the vulnerable",
+      "meaning": "弱い立場の人々"
+    },
+    {
+      "form": "vulnerable groups",
+      "meaning": "弱い立場の集団"
+    },
+    {
+      "form": "vulnerability",
+      "meaning": "もろさ・弱さ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "Aに弱い(病気)",
+      "en": "Young children are vulnerable to infection.",
+      "ja": "幼い子どもは感染症にかかりやすい。"
+    },
+    {
+      "source": "original",
+      "label": "Aを受けやすい(攻撃)",
+      "en": "The computer system was vulnerable to attack.",
+      "ja": "そのコンピューターシステムは攻撃を受けやすかった。"
+    },
+    {
+      "source": "original",
+      "label": "傷つきやすい(心)",
+      "en": "She felt lonely and vulnerable after moving to the city.",
+      "ja": "都会に越してきて、彼女は孤独で心細かった。"
+    },
+    {
+      "source": "original",
+      "label": "弱い立場の人々",
+      "en": "The new law aims to protect the vulnerable.",
+      "ja": "新しい法律は弱い立場の人々を守ることを目指している。"
+    },
+    {
+      "source": "original",
+      "label": "もろい(場所)",
+      "en": "Coastal areas are especially vulnerable to rising sea levels.",
+      "ja": "沿岸地域は海面上昇の影響を特に受けやすい。"
+    },
+    {
+      "source": "original",
+      "label": "もろさ(名詞)",
+      "en": "The accident showed the vulnerability of the power network.",
+      "ja": "その事故で電力網のもろさが明らかになった。"
+    }
+  ],
+  "check_points": [
+    "be vulnerable の後の前置詞を言えるか",
+    "the vulnerable の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "be vulnerable to A の型と、「影響を受けやすい」(=susceptible)の言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 695
+    }
+  ]
+}

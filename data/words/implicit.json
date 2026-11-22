@@ -1,0 +1,88 @@
+{
+  "word": "implicit",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ɪmˈplɪsɪt/",
+  "core_image": {
+    "text": "中にたたみこまれて、表に出ない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"70\" y=\"80\" width=\"100\" height=\"60\"/><polyline points=\"70,80 120,110 170,80\"/><circle cx=\"120\" cy=\"124\" r=\"6\"/></g><text x=\"120\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">中にたたみこむ</text></svg>"
+  },
+  "etymology": "im(中へ) + plic(たたむ。explicit、imply と同じ根) → 中にたたみこまれた → 口に出さないが含まれた・暗黙の / (疑いを中にたたみこんで)絶対の(implicit trust)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "suggested but not stated directly; complete and without doubt."
+    }
+  ],
+  "cautions": [
+    "⇔ explicit(明確な)。imply(ほのめかす)の形容詞",
+    "be implicit in A=Aに暗に含まれている",
+    "implicit trust / faith=絶対の信頼(「暗黙の」ではない)",
+    "副詞 implicitly=暗に・無条件に"
+  ],
+  "patterns": [
+    {
+      "form": "an implicit agreement / rule",
+      "meaning": "暗黙の合意・ルール"
+    },
+    {
+      "form": "be implicit in A",
+      "meaning": "Aに暗に含まれている"
+    },
+    {
+      "form": "implicit trust",
+      "meaning": "絶対の信頼"
+    },
+    {
+      "form": "implicitly",
+      "meaning": "暗に・無条件に"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "暗黙の",
+      "en": "There was an implicit rule that no one spoke during meals.",
+      "ja": "食事中は誰も話さないという暗黙のルールがあった。"
+    },
+    {
+      "source": "original",
+      "label": "暗に含まれている",
+      "en": "A criticism was implicit in her question.",
+      "ja": "彼女の質問には批判が暗に込められていた。"
+    },
+    {
+      "source": "original",
+      "label": "暗黙の(合意)",
+      "en": "We had an implicit agreement not to talk about money.",
+      "ja": "お金の話はしないという暗黙の了解があった。"
+    },
+    {
+      "source": "original",
+      "label": "絶対の",
+      "en": "He has implicit trust in his doctor.",
+      "ja": "彼は医者を全面的に信頼している。"
+    },
+    {
+      "source": "original",
+      "label": "無条件に(副詞)",
+      "en": "The soldiers obeyed the order implicitly.",
+      "ja": "兵士たちは命令に無条件に従った。"
+    }
+  ],
+  "check_points": [
+    "implicit の反意語を言えるか",
+    "implicit trust の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "explicit との対比と、imply との関係、implicit trust の「絶対の」が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 699
+    }
+  ]
+}

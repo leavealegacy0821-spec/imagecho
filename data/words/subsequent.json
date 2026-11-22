@@ -1,0 +1,94 @@
+{
+  "word": "subsequent",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈsʌbsɪkwənt/",
+  "core_image": {
+    "text": "すぐ後ろに、続いてやって来る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"110\" r=\"14\"/><line x1=\"68\" y1=\"110\" x2=\"100\" y2=\"110\"/><polyline points=\"93,106.2 100,110 93,113.8\"/><circle cx=\"120\" cy=\"110\" r=\"14\"/><line x1=\"138\" y1=\"110\" x2=\"170\" y2=\"110\"/><polyline points=\"163,106.2 170,110 163,113.8\"/><circle cx=\"190\" cy=\"110\" r=\"14\"/></g><text x=\"50\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">前</text><text x=\"155\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">後に続く</text></svg>"
+  },
+  "etymology": "sub(下に・すぐ後に) + sequ(続く。sequence、consequence と同じ根) → すぐ後に続く → その後の・次の → subsequent to A=Aの後に",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "happening or coming after something else."
+    }
+  ],
+  "cautions": [
+    "「その後の・次の」(=following / later)。⇔ previous / prior",
+    "subsequent to A=Aの後に(=after A)。to を取る",
+    "副詞 subsequently=その後(=afterwards)",
+    "consequent(結果として起こる)と区別する"
+  ],
+  "patterns": [
+    {
+      "form": "subsequent events / years",
+      "meaning": "その後の出来事・年"
+    },
+    {
+      "form": "subsequent to A",
+      "meaning": "Aの後に"
+    },
+    {
+      "form": "subsequently",
+      "meaning": "その後"
+    },
+    {
+      "form": "in subsequent studies",
+      "meaning": "その後の研究で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "その後の",
+      "en": "Subsequent events proved that she was right.",
+      "ja": "その後の出来事で彼女が正しかったことがわかった。"
+    },
+    {
+      "source": "original",
+      "label": "その後の(年)",
+      "en": "The town grew rapidly in subsequent years.",
+      "ja": "その町はその後の数年で急速に大きくなった。"
+    },
+    {
+      "source": "original",
+      "label": "subsequent to A",
+      "en": "Subsequent to the meeting, he sent us an email.",
+      "ja": "会議の後、彼は私たちにメールを送ってきた。"
+    },
+    {
+      "source": "original",
+      "label": "その後(副詞)",
+      "en": "He was arrested and subsequently released.",
+      "ja": "彼は逮捕され、その後釈放された。"
+    },
+    {
+      "source": "original",
+      "label": "次の",
+      "en": "The problem is discussed in subsequent chapters.",
+      "ja": "その問題は次の章以降で論じられる。"
+    },
+    {
+      "source": "original",
+      "label": "その後の研究",
+      "en": "Subsequent studies supported the theory.",
+      "ja": "その後の研究がその理論を裏づけた。"
+    }
+  ],
+  "check_points": [
+    "subsequent の反意語を言えるか",
+    "subsequent to A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「その後の」(=following)の言いかえと、subsequent to A の to が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 692
+    }
+  ]
+}

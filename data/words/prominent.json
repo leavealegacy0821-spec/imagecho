@@ -1,0 +1,88 @@
+{
+  "word": "prominent",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈprɑːmɪnənt/",
+  "core_image": {
+    "text": "まわりから前へ突き出て、目立つ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"110\" width=\"20\" height=\"30\"/><rect x=\"80\" y=\"110\" width=\"20\" height=\"30\"/><rect x=\"120\" y=\"50\" width=\"20\" height=\"90\"/><rect x=\"160\" y=\"110\" width=\"20\" height=\"30\"/><rect x=\"200\" y=\"110\" width=\"20\" height=\"30\"/></g><text x=\"188\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">突き出る</text></svg>"
+  },
+  "etymology": "pro(前へ) + min(突き出る。eminent と同じ根) → 前へ突き出た → (物が)目立つ・突き出た → (人が)有名な・重要な",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "important or well known; easy to see because it sticks out."
+    }
+  ],
+  "cautions": [
+    "人について「有名な・重要な」(=famous / eminent)。a prominent scientist",
+    "物について「目立つ・突き出た」(a prominent nose / position)",
+    "名詞 prominence=目立つこと・有名。come to prominence=有名になる",
+    "dominant(支配的な)・permanent(永久の)と形がまぎらわしい"
+  ],
+  "patterns": [
+    {
+      "form": "a prominent figure",
+      "meaning": "有名な人物"
+    },
+    {
+      "form": "play a prominent role in A",
+      "meaning": "Aで重要な役割を果たす"
+    },
+    {
+      "form": "in a prominent position",
+      "meaning": "目立つ位置に"
+    },
+    {
+      "form": "come to prominence",
+      "meaning": "有名になる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "有名な",
+      "en": "She is a prominent figure in the world of fashion.",
+      "ja": "彼女はファッション界の有名人だ。"
+    },
+    {
+      "source": "original",
+      "label": "重要な役割",
+      "en": "He played a prominent role in the peace talks.",
+      "ja": "彼は和平交渉で重要な役割を果たした。"
+    },
+    {
+      "source": "original",
+      "label": "目立つ位置",
+      "en": "The poster was put in a prominent position near the entrance.",
+      "ja": "ポスターは入り口近くの目立つ場所に貼られた。"
+    },
+    {
+      "source": "original",
+      "label": "突き出た",
+      "en": "The statue has a prominent nose.",
+      "ja": "その像は鼻が突き出ている。"
+    },
+    {
+      "source": "original",
+      "label": "有名になる(名詞)",
+      "en": "The writer came to prominence with her first novel.",
+      "ja": "その作家は最初の小説で有名になった。"
+    }
+  ],
+  "check_points": [
+    "人について使う prominent の意味を言えるか",
+    "come to prominence の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「有名な・重要な」(=eminent)の言いかえが語彙問題・長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 694
+    }
+  ]
+}

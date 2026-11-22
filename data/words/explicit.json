@@ -1,0 +1,88 @@
+{
+  "word": "explicit",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ɪkˈsplɪsɪt/",
+  "core_image": {
+    "text": "たたんだものを、外へ広げて見せる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"40,110 56,96 72,110 88,96\"/><line x1=\"40\" y1=\"110\" x2=\"40\" y2=\"140\"/><line x1=\"88\" y1=\"96\" x2=\"88\" y2=\"126\"/><line x1=\"100\" y1=\"110\" x2=\"128\" y2=\"110\"/><polyline points=\"121,106.2 128,110 121,113.8\"/><rect x=\"140\" y=\"70\" width=\"80\" height=\"60\"/><line x1=\"152\" y1=\"88\" x2=\"208\" y2=\"88\"/><line x1=\"152\" y1=\"104\" x2=\"208\" y2=\"104\"/></g><text x=\"180\" y=\"54\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">広げて見せる</text></svg>"
+  },
+  "etymology": "ex(外へ) + plic(たたむ。implicit、complicated と同じ根) → たたんだものを外に広げた → はっきり示された・明白な・明確な(⇔ implicit)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "clear and exact, stated directly so that there is no doubt about the meaning."
+    }
+  ],
+  "cautions": [
+    "⇔ implicit(暗黙の)。対で問われる",
+    "be explicit about A=Aについてはっきり言う",
+    "explicit instructions=明確な指示(=clear / definite)",
+    "副詞 explicitly=はっきりと。「(性的・暴力的描写が)露骨な」の意味もある"
+  ],
+  "patterns": [
+    {
+      "form": "explicit instructions",
+      "meaning": "明確な指示"
+    },
+    {
+      "form": "be explicit about A",
+      "meaning": "Aについてはっきり言う"
+    },
+    {
+      "form": "make A explicit",
+      "meaning": "Aをはっきりさせる"
+    },
+    {
+      "form": "explicitly",
+      "meaning": "はっきりと"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "明確な",
+      "en": "The teacher gave us explicit instructions.",
+      "ja": "先生は私たちに明確な指示を出した。"
+    },
+    {
+      "source": "original",
+      "label": "はっきり言う",
+      "en": "Please be explicit about what you want.",
+      "ja": "何が欲しいのかはっきり言ってください。"
+    },
+    {
+      "source": "original",
+      "label": "はっきりさせる",
+      "en": "The new rule makes our responsibilities explicit.",
+      "ja": "新しい規則で私たちの責任がはっきりした。"
+    },
+    {
+      "source": "original",
+      "label": "はっきりと(副詞)",
+      "en": "The law explicitly forbids smoking in public places.",
+      "ja": "その法律は公共の場での喫煙をはっきり禁じている。"
+    },
+    {
+      "source": "original",
+      "label": "明白な",
+      "en": "There was no explicit agreement between the two countries.",
+      "ja": "2国の間に明文化された合意はなかった。"
+    }
+  ],
+  "check_points": [
+    "explicit の反意語を言えるか",
+    "be explicit about A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "implicit との対比と、「明確な」(=clear)の言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 698
+    }
+  ]
+}
