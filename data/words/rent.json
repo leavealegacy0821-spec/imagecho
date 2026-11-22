@@ -1,0 +1,103 @@
+{
+  "word": "rent",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/rent/",
+  "core_image": {
+    "text": "お金を払って、決まった間だけ使う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"80\" width=\"60\" height=\"60\"/><polygon points=\"25,80 60,55 95,80\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"150\" y2=\"96\"/><line x1=\"170\" y1=\"74\" x2=\"180\" y2=\"96\"/><line x1=\"146\" y1=\"104\" x2=\"98\" y2=\"112\" stroke-dasharray=\"5 5\"/><polyline points=\"105.6,114.6 98,112 104.3,107.1\"/></g><text x=\"60\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">一定期間</text><text x=\"126\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">お金を払う</text></svg>"
+  },
+  "etymology": "古フランス語 rente(定期的な収入。render=返す・与える と同じ仲間) → (定期的に払う)賃貸料・家賃 → お金を払って借りる・お金を取って貸す",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to pay money to use something that belongs to someone else for a period of time; to let someone use something in return for money."
+    },
+    {
+      "pos": "名詞",
+      "text": "the money you pay regularly to use a house, room, etc."
+    }
+  ],
+  "cautions": [
+    "rent は「お金を払って借りる」と「お金を取って貸す」の両方に使う(どちらかは文脈で決まる)",
+    "rent A from B=BからAを借りる / rent A to B=AをBに貸す(rent out A とも言う)",
+    "borrow はふつう無料で借りる、lend は無料で貸す。動かせない物(トイレなど)を借りるのは use",
+    "名詞 rent=家賃・賃貸料。for rent=貸し出し中"
+  ],
+  "patterns": [
+    {
+      "form": "rent A from B",
+      "meaning": "BからAを(お金を払って)借りる"
+    },
+    {
+      "form": "rent A to B",
+      "meaning": "AをBに(お金を取って)貸す"
+    },
+    {
+      "form": "rent out A",
+      "meaning": "Aを賃貸する"
+    },
+    {
+      "form": "pay the rent",
+      "meaning": "家賃を払う"
+    },
+    {
+      "form": "for rent",
+      "meaning": "貸し出し中の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "借りる",
+      "en": "We rented a car at the airport.",
+      "ja": "私たちは空港で車を借りた。"
+    },
+    {
+      "source": "original",
+      "label": "rent A from B",
+      "en": "She rents a small room from an old couple.",
+      "ja": "彼女は老夫婦から小さな部屋を借りている。"
+    },
+    {
+      "source": "original",
+      "label": "rent A to B",
+      "en": "He rents his apartment to students.",
+      "ja": "彼は自分のアパートを学生に貸している。"
+    },
+    {
+      "source": "original",
+      "label": "家賃(名詞)",
+      "en": "The rent is due at the end of the month.",
+      "ja": "家賃は月末に払うことになっている。"
+    },
+    {
+      "source": "original",
+      "label": "for rent",
+      "en": "There is a house for rent near the station.",
+      "ja": "駅の近くに貸家がある。"
+    },
+    {
+      "source": "original",
+      "label": "borrow との違い",
+      "en": "I borrowed a pen from my friend, but rented a bike from the shop.",
+      "ja": "ペンは友だちに借り、自転車は店で(お金を払って)借りた。"
+    }
+  ],
+  "check_points": [
+    "rent が「借りる」「貸す」の両方になることを言えるか",
+    "rent と borrow / lend の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "borrow / lend / rent / use の使い分けが語彙問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 767
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "hire",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/haɪər/",
+  "core_image": {
+    "text": "お金を払って、人の力を借りる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"82\" y2=\"80\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><line x1=\"90\" y1=\"84\" x2=\"146\" y2=\"84\"/><polyline points=\"139,80.2 146,84 139,87.8\"/><circle cx=\"175\" cy=\"52\" r=\"10\"/><line x1=\"175\" y1=\"62\" x2=\"175\" y2=\"106\"/><line x1=\"175\" y1=\"106\" x2=\"165\" y2=\"140\"/><line x1=\"175\" y1=\"106\" x2=\"185\" y2=\"140\"/><line x1=\"175\" y1=\"74\" x2=\"195\" y2=\"62\"/><line x1=\"175\" y1=\"74\" x2=\"165\" y2=\"96\"/><line x1=\"195\" y1=\"62\" x2=\"205\" y2=\"40\"/></g><text x=\"118\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">お金で雇う</text></svg>"
+  },
+  "etymology": "古英語 hyr(賃金) → 賃金を払って人を使う=雇う → (主に英国で)お金を払って物を借りる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to employ someone or pay them to do a particular job; (British) to pay to use something for a short time."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of paying to use something for a short time."
+    }
+  ],
+  "cautions": [
+    "hire=(人を)雇う。employ とほぼ同じだが、hire は「その仕事のために新しく雇い入れる」感じ",
+    "反対は fire / dismiss(解雇する)",
+    "英国では「(短期間)物を借りる」にも使う(hire a car)。米国では rent がふつう",
+    "名詞 for hire=貸し出し用の・雇われる"
+  ],
+  "patterns": [
+    {
+      "form": "hire A",
+      "meaning": "Aを雇う"
+    },
+    {
+      "form": "hire A as B",
+      "meaning": "AをBとして雇う"
+    },
+    {
+      "form": "hire A to do",
+      "meaning": "Aを雇って〜させる"
+    },
+    {
+      "form": "for hire",
+      "meaning": "貸し出し用の"
+    },
+    {
+      "form": "fire A",
+      "meaning": "Aを解雇する(反対)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "雇う",
+      "en": "The company plans to hire twenty new workers.",
+      "ja": "その会社は新しく20人を雇う予定だ。"
+    },
+    {
+      "source": "original",
+      "label": "hire A as B",
+      "en": "They hired her as a designer.",
+      "ja": "彼らは彼女をデザイナーとして雇った。"
+    },
+    {
+      "source": "original",
+      "label": "hire A to do",
+      "en": "We hired a professional to paint the house.",
+      "ja": "家のペンキ塗りに専門の業者を雇った。"
+    },
+    {
+      "source": "original",
+      "label": "借りる(英)",
+      "en": "We hired a boat for the afternoon.",
+      "ja": "午後のあいだボートを借りた。"
+    },
+    {
+      "source": "original",
+      "label": "for hire",
+      "en": "There are bicycles for hire at the park.",
+      "ja": "公園には貸し自転車がある。"
+    },
+    {
+      "source": "original",
+      "label": "fire との対比",
+      "en": "He was hired in April and fired in June.",
+      "ja": "彼は4月に雇われ、6月に解雇された。"
+    }
+  ],
+  "check_points": [
+    "hire の反対語を言えるか",
+    "hire と rent の違い(人か物か、米か英か)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "hire=employ の言い換えと、fire との対比が長文・語彙で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 768
+    }
+  ]
+}

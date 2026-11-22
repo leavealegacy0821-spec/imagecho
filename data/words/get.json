@@ -1,0 +1,102 @@
+{
+  "word": "get",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɡet/",
+  "core_image": {
+    "text": "ない所から、ある所へ移ってくる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"50\" width=\"30\" height=\"30\"/><line x1=\"76\" y1=\"70\" x2=\"128\" y2=\"80\" stroke-dasharray=\"5 5\"/><polyline points=\"121.8,74.9 128,80 120.4,82.4\"/><circle cx=\"160\" cy=\"52\" r=\"10\"/><line x1=\"160\" y1=\"62\" x2=\"160\" y2=\"106\"/><line x1=\"160\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"106\" x2=\"170\" y2=\"140\"/><polyline points=\"160,74 142,80 134,82\"/><line x1=\"160\" y1=\"74\" x2=\"172\" y2=\"96\"/></g><text x=\"55\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もの</text><text x=\"205\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手に入る</text></svg>"
+  },
+  "etymology": "古ノルド語 geta(手に入れる) → (ない状態から)手に入れる → (ある場所に)たどり着く(get to A) → (ある状態に)なる(get C) → (人・物をある状態に)させる(get O to do / get O done)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to obtain or receive something; to arrive somewhere; to become; to make someone do something or make something happen."
+    }
+  ],
+  "cautions": [
+    "get O to do=Oに(説得して)〜してもらう。to を付ける(make O do・have O do と違う)",
+    "get O done=Oを〜してもらう・〜される(have O done と同じ)",
+    "get C=Cになる(get angry / get dark)/ get to do=〜するようになる・〜する機会を得る",
+    "get to A=Aに着く(reach A と同じ。reach には to が要らない)"
+  ],
+  "patterns": [
+    {
+      "form": "get O to do",
+      "meaning": "Oに〜してもらう"
+    },
+    {
+      "form": "get O done",
+      "meaning": "Oを〜してもらう・〜される"
+    },
+    {
+      "form": "get C",
+      "meaning": "Cになる"
+    },
+    {
+      "form": "get to A",
+      "meaning": "Aに着く"
+    },
+    {
+      "form": "get to do",
+      "meaning": "〜するようになる"
+    },
+    {
+      "form": "get over A",
+      "meaning": "Aを乗り越える・(病気から)回復する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "手に入れる",
+      "en": "I got a letter from my old friend.",
+      "ja": "昔の友だちから手紙が来た。"
+    },
+    {
+      "source": "original",
+      "label": "get to A",
+      "en": "What time did you get to the station?",
+      "ja": "何時に駅に着いたの?"
+    },
+    {
+      "source": "original",
+      "label": "get C",
+      "en": "It gets dark early in winter.",
+      "ja": "冬は早く暗くなる。"
+    },
+    {
+      "source": "original",
+      "label": "get O to do",
+      "en": "I finally got my brother to help me.",
+      "ja": "やっと弟に手伝ってもらった。"
+    },
+    {
+      "source": "original",
+      "label": "get O done",
+      "en": "I need to get my hair cut.",
+      "ja": "髪を切ってもらわないといけない。"
+    },
+    {
+      "source": "original",
+      "label": "get over",
+      "en": "It took her a long time to get over the shock.",
+      "ja": "彼女がそのショックから立ち直るのに長い時間がかかった。"
+    }
+  ],
+  "check_points": [
+    "get O to do と make O do / have O do の違い(to の有無)を言えるか",
+    "get O done の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "使役の get O to do(to が要る)と get O done が文法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 763
+    }
+  ]
+}

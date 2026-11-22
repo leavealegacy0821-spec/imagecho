@@ -1,0 +1,103 @@
+{
+  "word": "take",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/teɪk/",
+  "core_image": {
+    "text": "手に取って、向こうへ持っていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"80\" y2=\"82\"/><line x1=\"60\" y1=\"74\" x2=\"80\" y2=\"90\"/><rect x=\"82\" y=\"72\" width=\"22\" height=\"20\"/><line x1=\"112\" y1=\"82\" x2=\"210\" y2=\"82\"/><polyline points=\"203,78.2 210,82 203,85.8\"/><rect x=\"196\" y=\"110\" width=\"24\" height=\"30\"/></g><text x=\"160\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">向こうへ</text></svg>"
+  },
+  "etymology": "古ノルド語 taka(手に取る) → 取る・(手に取って)持っていく・連れていく → (時間・労力を)とる=かかる → (取り入れて)受け取る・とらえる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to carry or lead someone or something to another place; to need time or effort; to accept or understand something in a particular way."
+    }
+  ],
+  "cautions": [
+    "take は「あちらへ持っていく」、bring は「こちらへ持ってくる」",
+    "It takes (A) 時間 to do=(Aが)〜するのに時間がかかる(最頻出)",
+    "take A for B=AをBだと思う(まちがえる)/ take A for granted=Aを当然と思う",
+    "take after A=Aに似ている / take over A=Aを引き継ぐ / take off=離陸する・脱ぐ"
+  ],
+  "patterns": [
+    {
+      "form": "take A to B",
+      "meaning": "AをBへ持っていく・連れていく"
+    },
+    {
+      "form": "It takes A 時間 to do",
+      "meaning": "Aが〜するのに時間がかかる"
+    },
+    {
+      "form": "take A for B",
+      "meaning": "AをBだと思う"
+    },
+    {
+      "form": "take A for granted",
+      "meaning": "Aを当然と思う"
+    },
+    {
+      "form": "take after A",
+      "meaning": "Aに似ている"
+    },
+    {
+      "form": "take part in A",
+      "meaning": "Aに参加する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "持っていく",
+      "en": "Don't forget to take an umbrella with you.",
+      "ja": "かさを持っていくのを忘れないで。"
+    },
+    {
+      "source": "original",
+      "label": "連れていく",
+      "en": "My father took me to the zoo last Sunday.",
+      "ja": "父はこの前の日曜日、動物園に連れていってくれた。"
+    },
+    {
+      "source": "original",
+      "label": "It takes 時間 to do",
+      "en": "It took me three hours to finish the report.",
+      "ja": "報告書を仕上げるのに3時間かかった。"
+    },
+    {
+      "source": "original",
+      "label": "take A for B",
+      "en": "People often take him for his brother.",
+      "ja": "人はよく彼を兄とまちがえる。"
+    },
+    {
+      "source": "original",
+      "label": "take A for granted",
+      "en": "We tend to take clean water for granted.",
+      "ja": "私たちはきれいな水を当然のものと思いがちだ。"
+    },
+    {
+      "source": "original",
+      "label": "take after",
+      "en": "She takes after her mother in many ways.",
+      "ja": "彼女はいろいろな点で母親に似ている。"
+    }
+  ],
+  "check_points": [
+    "It takes A 時間 to do の型を言えるか",
+    "take A for granted の意味を言えるか",
+    "take と bring の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "It takes 時間 to do、take A for B、take after、take A for granted が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 761
+    }
+  ]
+}

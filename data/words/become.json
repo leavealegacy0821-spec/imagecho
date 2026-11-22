@@ -1,0 +1,98 @@
+{
+  "word": "become",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/bɪˈkʌm/",
+  "core_image": {
+    "text": "時がたって、別の姿になる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><ellipse cx=\"50\" cy=\"134\" rx=\"8\" ry=\"5\"/><line x1=\"70\" y1=\"128\" x2=\"148\" y2=\"112\"/><polyline points=\"140.4,109.7 148,112 141.9,117.2\"/><line x1=\"180\" y1=\"140\" x2=\"180\" y2=\"94\"/><circle cx=\"180\" cy=\"72\" r=\"22\"/></g><text x=\"50\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いま</text><text x=\"180\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">〜になる</text></svg>"
+  },
+  "etymology": "be(そばに) + come(来る) → (ある所に)やって来る → (ある状態に)なる → (その人のそばにぴったり来る)似合う(becoming=似合う)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to begin to be something; to look good on someone or be suitable for them."
+    }
+  ],
+  "cautions": [
+    "become の後ろは名詞・形容詞(C)。「〜するようになる」は ×become to do ではなく come to do / learn to do",
+    "A become(s) B=AはBに似合う(suit と同じ)。この意味では受け身にしない",
+    "What has become of A?=Aはどうなったのか(最頻出の型)",
+    "過去形は became、過去分詞は become(become-became-become)"
+  ],
+  "patterns": [
+    {
+      "form": "become C",
+      "meaning": "Cになる"
+    },
+    {
+      "form": "come to do",
+      "meaning": "〜するようになる(become to do は不可)"
+    },
+    {
+      "form": "What has become of A?",
+      "meaning": "Aはどうなったのか"
+    },
+    {
+      "form": "A become B",
+      "meaning": "AはBに似合う"
+    },
+    {
+      "form": "becoming",
+      "meaning": "似合う・ふさわしい"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "なる(名詞)",
+      "en": "She became a doctor at the age of thirty.",
+      "ja": "彼女は30歳で医者になった。"
+    },
+    {
+      "source": "original",
+      "label": "なる(形容詞)",
+      "en": "The streets became crowded in the evening.",
+      "ja": "夕方になると通りは混雑した。"
+    },
+    {
+      "source": "original",
+      "label": "come to do との区別",
+      "en": "Over time she became more confident and came to enjoy speaking in public.",
+      "ja": "時がたつにつれて彼女は自信がつき、人前で話すのを楽しむようになった。"
+    },
+    {
+      "source": "original",
+      "label": "What has become of",
+      "en": "What has become of the old school building?",
+      "ja": "あの古い校舎はどうなったのだろう。"
+    },
+    {
+      "source": "original",
+      "label": "似合う",
+      "en": "That red dress really becomes you.",
+      "ja": "その赤いドレスは本当によく似合う。"
+    },
+    {
+      "source": "original",
+      "label": "becoming",
+      "en": "Her new hairstyle is very becoming.",
+      "ja": "彼女の新しい髪型はとても似合っている。"
+    }
+  ],
+  "check_points": [
+    "「〜するようになる」を become to do と言わない理由を言えるか",
+    "What has become of A? の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "×become to do(→ come to do)、What has become of A?、「似合う」の意味が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 765
+    }
+  ]
+}

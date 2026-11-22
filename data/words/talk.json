@@ -1,0 +1,103 @@
+{
+  "word": "talk",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/tɔːk/",
+  "core_image": {
+    "text": "言葉を行き来させて、話し合う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"82\" y2=\"86\"/><ellipse cx=\"100\" cy=\"28\" rx=\"20\" ry=\"11\"/><line x1=\"88\" y1=\"37\" x2=\"80\" y2=\"46\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"180\" y2=\"96\"/><line x1=\"170\" y1=\"74\" x2=\"158\" y2=\"86\"/><ellipse cx=\"140\" cy=\"30\" rx=\"18\" ry=\"10\"/><line x1=\"152\" y1=\"38\" x2=\"160\" y2=\"44\"/></g><text x=\"120\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">言葉のやりとり</text></svg>"
+  },
+  "etymology": "tale(話)、tell と同じ仲間 → (相手と)話す・話し合う → (話して人を動かす)説得して〜させる(talk A into doing)/ やめさせる(talk A out of doing)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to speak with someone; to persuade someone to do or not to do something by talking."
+    },
+    {
+      "pos": "名詞",
+      "text": "a conversation or discussion; a speech given to a group of people."
+    }
+  ],
+  "cautions": [
+    "talk は自動詞が中心: talk to / with A(Aと話す)、talk about A(Aについて話す)。×talk A(人)",
+    "talk A into doing=Aを説得して〜させる / talk A out of doing=Aを説得して〜をやめさせる",
+    "speak は「声に出して言う」(speak English)、tell は「内容を伝える」(tell A B)、say は「言葉そのもの」",
+    "名詞 talk=話し合い・講演(give a talk)"
+  ],
+  "patterns": [
+    {
+      "form": "talk to / with A",
+      "meaning": "Aと話す"
+    },
+    {
+      "form": "talk about A",
+      "meaning": "Aについて話す"
+    },
+    {
+      "form": "talk A into doing",
+      "meaning": "Aを説得して〜させる"
+    },
+    {
+      "form": "talk A out of doing",
+      "meaning": "Aを説得して〜をやめさせる"
+    },
+    {
+      "form": "give a talk",
+      "meaning": "講演をする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "talk to",
+      "en": "Can I talk to you for a minute?",
+      "ja": "少し話してもいい?"
+    },
+    {
+      "source": "original",
+      "label": "talk about",
+      "en": "We talked about our plans for the summer.",
+      "ja": "私たちは夏の計画について話した。"
+    },
+    {
+      "source": "original",
+      "label": "talk A into doing",
+      "en": "She talked her father into buying a new car.",
+      "ja": "彼女は父親を説き伏せて新車を買わせた。"
+    },
+    {
+      "source": "original",
+      "label": "talk A out of doing",
+      "en": "My friends talked me out of quitting the club.",
+      "ja": "友だちに説得されて部活をやめるのを思いとどまった。"
+    },
+    {
+      "source": "original",
+      "label": "講演(名詞)",
+      "en": "The scientist gave a talk on climate change.",
+      "ja": "その科学者は気候変動について講演した。"
+    },
+    {
+      "source": "original",
+      "label": "話し合い(名詞)",
+      "en": "The two countries held peace talks.",
+      "ja": "両国は和平の話し合いを行った。"
+    }
+  ],
+  "check_points": [
+    "talk A into doing と talk A out of doing の違いを言えるか",
+    "talk / speak / tell / say の使い分けを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "talk A into / out of doing と、say / tell / speak / talk の使い分けが定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 766
+    }
+  ]
+}

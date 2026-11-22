@@ -1,0 +1,103 @@
+{
+  "word": "seat",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/siːt/",
+  "core_image": {
+    "text": "人を、座席に着かせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"140\" y1=\"110\" x2=\"182\" y2=\"110\"/><line x1=\"145\" y1=\"110\" x2=\"145\" y2=\"140\"/><line x1=\"180\" y1=\"110\" x2=\"180\" y2=\"140\"/><line x1=\"182\" y1=\"110\" x2=\"182\" y2=\"70\"/><circle cx=\"165\" cy=\"62\" r=\"10\"/><line x1=\"165\" y1=\"72\" x2=\"165\" y2=\"108\"/><line x1=\"165\" y1=\"106\" x2=\"135\" y2=\"108\"/><line x1=\"135\" y1=\"108\" x2=\"132\" y2=\"140\"/><line x1=\"165\" y1=\"82\" x2=\"150\" y2=\"100\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 90,84 110,88\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/></g><text x=\"110\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">席に着かせる</text></svg>"
+  },
+  "etymology": "sit(座る)と同じ仲間 → 座る所=座席(名詞) → (人を)座らせる・席に着かせる(他動詞) → (建物が)〜人分の席がある=収容する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give someone a seat or make them sit down; to have enough seats for a particular number of people."
+    },
+    {
+      "pos": "名詞",
+      "text": "a place where you can sit."
+    }
+  ],
+  "cautions": [
+    "seat は他動詞で「(人を)座らせる」。自分が座るときは be seated / seat oneself(×seat だけで「座る」)",
+    "Please be seated.=お座りください(ていねいな言い方。sit down より改まった表現)",
+    "The hall seats 500 people.=そのホールは500人収容できる",
+    "名詞:take a seat=座る / Is this seat taken?=この席はふさがっていますか"
+  ],
+  "patterns": [
+    {
+      "form": "be seated",
+      "meaning": "座っている・着席する"
+    },
+    {
+      "form": "seat oneself",
+      "meaning": "座る"
+    },
+    {
+      "form": "Please be seated.",
+      "meaning": "お座りください"
+    },
+    {
+      "form": "A seat 数",
+      "meaning": "Aは〜人分の席がある"
+    },
+    {
+      "form": "take a seat",
+      "meaning": "座る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "be seated",
+      "en": "Please remain seated until the plane stops.",
+      "ja": "飛行機が止まるまでお座りのままお待ちください。"
+    },
+    {
+      "source": "original",
+      "label": "Please be seated",
+      "en": "Ladies and gentlemen, please be seated.",
+      "ja": "皆さま、ご着席ください。"
+    },
+    {
+      "source": "original",
+      "label": "seat oneself",
+      "en": "He seated himself next to the window.",
+      "ja": "彼は窓のそばの席に座った。"
+    },
+    {
+      "source": "original",
+      "label": "座らせる",
+      "en": "The waiter seated us at a table by the door.",
+      "ja": "ウェイターは私たちをドアのそばのテーブルに案内した。"
+    },
+    {
+      "source": "original",
+      "label": "収容する",
+      "en": "This stadium seats 40,000 people.",
+      "ja": "この競技場には4万人分の席がある。"
+    },
+    {
+      "source": "original",
+      "label": "take a seat(名詞)",
+      "en": "Please take a seat and wait for a moment.",
+      "ja": "どうぞおかけになって、少しお待ちください。"
+    }
+  ],
+  "check_points": [
+    "「座る」を seat で言うときの形(be seated / seat oneself)を言えるか",
+    "A seat 数 の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "seat が他動詞であること(be seated / seat oneself)が文法問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 770
+    }
+  ]
+}

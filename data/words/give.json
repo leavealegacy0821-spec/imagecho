@@ -1,0 +1,102 @@
+{
+  "word": "give",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɡɪv/",
+  "core_image": {
+    "text": "自分の手から、相手の手へ渡す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"90\" y2=\"80\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><rect x=\"92\" y=\"72\" width=\"20\" height=\"16\"/><line x1=\"118\" y1=\"80\" x2=\"150\" y2=\"80\"/><polyline points=\"143,76.2 150,80 143,83.8\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"160\" y2=\"80\"/><line x1=\"180\" y1=\"74\" x2=\"190\" y2=\"96\"/></g><text x=\"120\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">相手へ</text></svg>"
+  },
+  "etymology": "自分の物を相手に渡す → 与える → (手放して)やめる(give up)・(こらえきれず)折れる(give in / give way) → (中から外へ)出す(give off)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to hand something to someone or let them have it; to produce or cause something."
+    }
+  ],
+  "cautions": [
+    "give A B=give B to A(AにBを与える)。B が代名詞なら give it to A の形にする(×give A it)",
+    "give up doing=〜するのをやめる(to do は不可)",
+    "give way to A=Aに道をゆずる・Aに取って代わられる / give in (to A)=(Aに)屈する",
+    "give off A=A(におい・熱・光など)を出す"
+  ],
+  "patterns": [
+    {
+      "form": "give A B / give B to A",
+      "meaning": "AにBを与える"
+    },
+    {
+      "form": "give up doing",
+      "meaning": "〜するのをやめる"
+    },
+    {
+      "form": "give in (to A)",
+      "meaning": "(Aに)屈する"
+    },
+    {
+      "form": "give way to A",
+      "meaning": "Aに取って代わられる"
+    },
+    {
+      "form": "give off A",
+      "meaning": "Aを発する"
+    },
+    {
+      "form": "give A a hand",
+      "meaning": "Aに手を貸す"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "与える",
+      "en": "My uncle gave me a watch for my birthday.",
+      "ja": "おじが誕生日に時計をくれた。"
+    },
+    {
+      "source": "original",
+      "label": "give B to A",
+      "en": "I gave it to my sister.",
+      "ja": "私はそれを妹にあげた。"
+    },
+    {
+      "source": "original",
+      "label": "give up doing",
+      "en": "He finally gave up smoking.",
+      "ja": "彼はついにたばこをやめた。"
+    },
+    {
+      "source": "original",
+      "label": "give in",
+      "en": "She refused to give in to their demands.",
+      "ja": "彼女は彼らの要求に屈しなかった。"
+    },
+    {
+      "source": "original",
+      "label": "give way to",
+      "en": "Old customs gradually gave way to new ones.",
+      "ja": "古い習慣はしだいに新しい習慣に取って代わられた。"
+    },
+    {
+      "source": "original",
+      "label": "give off",
+      "en": "These flowers give off a sweet smell.",
+      "ja": "この花は甘い香りを放つ。"
+    }
+  ],
+  "check_points": [
+    "give up の後ろが doing になることを言えるか",
+    "give way to A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "give up doing、give in、give way to、give off の句動詞が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 764
+    }
+  ]
+}
