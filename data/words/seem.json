@@ -1,0 +1,98 @@
+{
+  "word": "seem",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/siːm/",
+  "core_image": {
+    "text": "外から見ると、そう見える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"60\" y2=\"96\"/><line x1=\"64\" y1=\"52\" x2=\"150\" y2=\"80\" stroke-dasharray=\"5 5\"/><polyline points=\"144.5,74.2 150,80 142.1,81.5\"/><circle cx=\"182\" cy=\"110\" r=\"28\"/><path d=\"M174 102 Q182 92 190 102 Q190 110 182 112 L182 118\"/><circle cx=\"182\" cy=\"124\" r=\"1\"/></g><text x=\"176\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そう見える</text></svg>"
+  },
+  "etymology": "古ノルド語 sœma(ふさわしい) → (見た目に)ぴったり合う → 〜のように見える・〜らしい(本当かどうかは言わない)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to appear to be or to do something; to give the impression of being true."
+    }
+  ],
+  "cautions": [
+    "S seem to do=It seems that S V。主語を入れかえる書きかえが最頻出",
+    "seem to have done=(今から見て)以前〜したらしい。時のずれを to have done で表す",
+    "There seems to be A=Aがあるらしい / It seems to A that=Aには〜と思える",
+    "進行形にしない(×is seeming)。seem (to be) C で C は形容詞・名詞"
+  ],
+  "patterns": [
+    {
+      "form": "seem (to be) C",
+      "meaning": "Cに見える・Cらしい"
+    },
+    {
+      "form": "seem to do",
+      "meaning": "〜するらしい"
+    },
+    {
+      "form": "seem to have done",
+      "meaning": "〜したらしい"
+    },
+    {
+      "form": "It seems that S V",
+      "meaning": "〜らしい"
+    },
+    {
+      "form": "There seems to be A",
+      "meaning": "Aがあるらしい"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "seem C",
+      "en": "The new teacher seems kind.",
+      "ja": "新しい先生はやさしそうだ。"
+    },
+    {
+      "source": "original",
+      "label": "seem to do",
+      "en": "He seems to know the answer.",
+      "ja": "彼は答えを知っているようだ。"
+    },
+    {
+      "source": "original",
+      "label": "It seems that",
+      "en": "It seems that he knows the answer.",
+      "ja": "彼は答えを知っているようだ。"
+    },
+    {
+      "source": "original",
+      "label": "seem to have done",
+      "en": "She seems to have lost her way.",
+      "ja": "彼女は道に迷ったらしい。"
+    },
+    {
+      "source": "original",
+      "label": "There seems to be",
+      "en": "There seems to be a problem with the printer.",
+      "ja": "プリンターに不具合があるようだ。"
+    },
+    {
+      "source": "original",
+      "label": "It seems to A",
+      "en": "It seems to me that the plan is too risky.",
+      "ja": "私にはその計画は危険すぎるように思える。"
+    }
+  ],
+  "check_points": [
+    "He seems to know. を It seems that … に書きかえられるか",
+    "seem to have done の意味(時のずれ)を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "seem to do ⇔ It seems that の書きかえ、seem to have done が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 777
+    }
+  ]
+}

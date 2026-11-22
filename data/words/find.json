@@ -1,0 +1,98 @@
+{
+  "word": "find",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/faɪnd/",
+  "core_image": {
+    "text": "探り当てて、「そうだ」とわかる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"80\" y2=\"86\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><circle cx=\"90\" cy=\"88\" r=\"9\"/><line x1=\"102\" y1=\"96\" x2=\"168\" y2=\"122\" stroke-dasharray=\"5 5\"/><polyline points=\"162.9,115.9 168,122 160.1,123\"/><rect x=\"172\" y=\"120\" width=\"20\" height=\"20\"/></g><text x=\"186\" y=\"96\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見つける</text></svg>"
+  },
+  "etymology": "古英語 findan(見つける) → (探して・偶然)見つける → (やってみて)わかる(find O C) → (調べて)明らかにする(find out)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to discover something by searching or by chance; to learn or realize something through experience."
+    }
+  ],
+  "cautions": [
+    "find O C=OがCだとわかる(感じる)。C は形容詞(I found the book easy.)",
+    "find it C to do=〜するのはCだとわかる(it は形式目的語)",
+    "find out A=(調べて)Aを知る。答え・事実など情報に使う",
+    "find oneself 〜=気がつくと〜にいる(〜している)/ 過去形・過去分詞は found(found=設立する とは別語)"
+  ],
+  "patterns": [
+    {
+      "form": "find O C",
+      "meaning": "OがCだとわかる"
+    },
+    {
+      "form": "find it C to do",
+      "meaning": "〜するのはCだとわかる"
+    },
+    {
+      "form": "find out A",
+      "meaning": "(調べて)Aを知る"
+    },
+    {
+      "form": "find oneself 〜",
+      "meaning": "気がつくと〜にいる"
+    },
+    {
+      "form": "find A B",
+      "meaning": "AにBを見つけてやる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "見つける",
+      "en": "I found my lost wallet under the sofa.",
+      "ja": "なくした財布をソファの下で見つけた。"
+    },
+    {
+      "source": "original",
+      "label": "find O C",
+      "en": "I found the test easier than I expected.",
+      "ja": "テストは思ったより簡単だった。"
+    },
+    {
+      "source": "original",
+      "label": "find it C to do",
+      "en": "She found it hard to get up early.",
+      "ja": "彼女は早起きがつらいと感じた。"
+    },
+    {
+      "source": "original",
+      "label": "find out",
+      "en": "Let's find out what time the store opens.",
+      "ja": "店が何時に開くか調べよう。"
+    },
+    {
+      "source": "original",
+      "label": "find oneself",
+      "en": "When I woke up, I found myself in a hospital.",
+      "ja": "目が覚めると病院にいた。"
+    },
+    {
+      "source": "original",
+      "label": "find A B",
+      "en": "Could you find me a seat near the window?",
+      "ja": "窓ぎわの席を見つけてもらえますか。"
+    }
+  ],
+  "check_points": [
+    "find O C と find it C to do の型を言えるか",
+    "find out が何を知るときに使うか言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "find O C、形式目的語の find it C to do、find oneself が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 776
+    }
+  ]
+}

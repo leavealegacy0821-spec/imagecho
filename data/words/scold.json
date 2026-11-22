@@ -1,0 +1,93 @@
+{
+  "word": "scold",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/skəʊld/",
+  "core_image": {
+    "text": "悪いことをした相手に、強い声をぶつける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"96\" y2=\"66\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><polyline points=\"80,40 92,34 86,44 100,40\"/><circle cx=\"176\" cy=\"52\" r=\"10\"/><line x1=\"176\" y1=\"62\" x2=\"176\" y2=\"106\"/><line x1=\"176\" y1=\"106\" x2=\"166\" y2=\"140\"/><line x1=\"176\" y1=\"106\" x2=\"186\" y2=\"140\"/><line x1=\"176\" y1=\"74\" x2=\"166\" y2=\"96\"/><line x1=\"176\" y1=\"74\" x2=\"186\" y2=\"96\"/><line x1=\"160\" y1=\"44\" x2=\"166\" y2=\"48\"/></g><text x=\"122\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こら!</text></svg>"
+  },
+  "etymology": "強い声で相手をとがめる → (悪いことをした人を)しかる・小言を言う(理由は for で示す)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to speak angrily to someone, especially a child, because they have done something wrong."
+    }
+  ],
+  "cautions": [
+    "scold A for B / for doing=BのことでAをしかる。理由は for(blame / punish / praise / thank と同じ型)",
+    "受け身 be scolded for doing=〜してしかられる(最頻出)",
+    "scold は上の立場から叱る。対等な相手に強く文句を言うのは complain / criticize"
+  ],
+  "patterns": [
+    {
+      "form": "scold A for B",
+      "meaning": "BのことでAをしかる"
+    },
+    {
+      "form": "scold A for doing",
+      "meaning": "〜したことでAをしかる"
+    },
+    {
+      "form": "be scolded for doing",
+      "meaning": "〜してしかられる"
+    },
+    {
+      "form": "scold A",
+      "meaning": "Aをしかる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "しかる",
+      "en": "My mother often scolds my little brother.",
+      "ja": "母はよく弟をしかる。"
+    },
+    {
+      "source": "original",
+      "label": "scold A for B",
+      "en": "The coach scolded us for our careless mistakes.",
+      "ja": "コーチは不注意なミスのことで私たちをしかった。"
+    },
+    {
+      "source": "original",
+      "label": "scold A for doing",
+      "en": "She scolded her son for staying up late.",
+      "ja": "彼女は夜ふかししたことで息子をしかった。"
+    },
+    {
+      "source": "original",
+      "label": "be scolded for doing",
+      "en": "I was scolded for being late for school.",
+      "ja": "学校に遅刻してしかられた。"
+    },
+    {
+      "source": "original",
+      "label": "be scolded by",
+      "en": "He was scolded by his teacher for not doing his homework.",
+      "ja": "彼は宿題をしなかったことで先生にしかられた。"
+    },
+    {
+      "source": "original",
+      "label": "for の型の仲間",
+      "en": "Instead of scolding him for failing, she praised him for trying.",
+      "ja": "彼女は失敗をしかる代わりに、挑戦したことをほめた。"
+    }
+  ],
+  "check_points": [
+    "scold A for doing の型を言えるか",
+    "理由を for で示す動詞の仲間(blame / praise / thank など)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be scolded for doing の受け身と、for で理由を示す型が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 780
+    }
+  ]
+}

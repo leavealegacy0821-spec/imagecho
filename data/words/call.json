@@ -1,0 +1,98 @@
+{
+  "word": "call",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kɔːl/",
+  "core_image": {
+    "text": "声を上げて、相手を呼び寄せる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"72\" y2=\"62\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><path d=\"M80 44 Q90 52 80 60\"/><path d=\"M88 38 Q102 52 88 66\"/><line x1=\"170\" y1=\"110\" x2=\"112\" y2=\"110\" stroke-dasharray=\"5 5\"/><polyline points=\"119,113.8 112,110 119,106.2\"/><circle cx=\"196\" cy=\"52\" r=\"10\"/><line x1=\"196\" y1=\"62\" x2=\"196\" y2=\"106\"/><line x1=\"196\" y1=\"106\" x2=\"186\" y2=\"140\"/><line x1=\"196\" y1=\"106\" x2=\"206\" y2=\"140\"/><line x1=\"196\" y1=\"74\" x2=\"186\" y2=\"96\"/><line x1=\"196\" y1=\"74\" x2=\"206\" y2=\"96\"/></g><text x=\"140\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">おーい</text></svg>"
+  },
+  "etymology": "古ノルド語 kalla(大声で呼ぶ) → 呼ぶ・呼び寄せる → (電話で)呼ぶ=電話する → (名前で)呼ぶ=AをBと呼ぶ → (声を上げて)求める(call for)・(呼ばれて)立ち寄る(call on / at)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to shout to someone or ask them to come; to telephone someone; to give someone or something a name; to ask for or demand something."
+    }
+  ],
+  "cautions": [
+    "call A B=AをBと呼ぶ。受け身は A is called B",
+    "call on 人 / call at 場所=(人を)訪ねる/(場所に)立ち寄る。前置詞の使い分けが狙われる",
+    "call for A=Aを求める・必要とする(require と同じ)",
+    "call off A=Aを中止する(cancel と同じ)/ call up A=Aに電話する"
+  ],
+  "patterns": [
+    {
+      "form": "call A B",
+      "meaning": "AをBと呼ぶ"
+    },
+    {
+      "form": "call on 人 / call at 場所",
+      "meaning": "〜を訪ねる・〜に立ち寄る"
+    },
+    {
+      "form": "call for A",
+      "meaning": "Aを求める・必要とする"
+    },
+    {
+      "form": "call off A",
+      "meaning": "Aを中止する"
+    },
+    {
+      "form": "call A up",
+      "meaning": "Aに電話する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "呼ぶ",
+      "en": "I heard someone calling my name.",
+      "ja": "だれかが私の名前を呼んでいるのが聞こえた。"
+    },
+    {
+      "source": "original",
+      "label": "電話する",
+      "en": "Please call me when you get home.",
+      "ja": "家に着いたら電話してね。"
+    },
+    {
+      "source": "original",
+      "label": "call A B",
+      "en": "His friends call him Ken.",
+      "ja": "友だちは彼をケンと呼ぶ。"
+    },
+    {
+      "source": "original",
+      "label": "call on / call at",
+      "en": "I called on my aunt and then called at the post office.",
+      "ja": "おばを訪ね、それから郵便局に立ち寄った。"
+    },
+    {
+      "source": "original",
+      "label": "call for",
+      "en": "The situation calls for quick action.",
+      "ja": "この状況ではすばやい行動が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "call off",
+      "en": "The game was called off because of the rain.",
+      "ja": "雨のため試合は中止になった。"
+    }
+  ],
+  "check_points": [
+    "call on と call at の使い分けを言えるか",
+    "call for A と call off A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "call on / call at の区別、call for=require、call off=cancel の言い換えが定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 771
+    }
+  ]
+}

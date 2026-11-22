@@ -1,0 +1,98 @@
+{
+  "word": "feel",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/fiːl/",
+  "core_image": {
+    "text": "手や心でふれて、感じとる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"112\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><rect x=\"114\" y=\"86\" width=\"40\" height=\"54\"/><path d=\"M164 96 Q170 102 164 108\"/><path d=\"M172 92 Q182 102 172 112\"/></g><text x=\"180\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">感じる</text></svg>"
+  },
+  "etymology": "古英語 fēlan(さわって感じる) → (手で)さわる・さわってみる → (体・心で)感じる(feel C) → (心が向いて)〜したい気がする(feel like doing) → (心を寄せて)同情する(feel for A)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to touch something to find out what it is like; to experience an emotion or physical sensation; to think or believe something."
+    }
+  ],
+  "cautions": [
+    "feel C=Cと感じる(後ろは形容詞)。物が主語なら「さわると〜だ」(This cloth feels soft.)",
+    "feel like doing=〜したい気がする。like は前置詞なので doing",
+    "feel O do / doing=Oが〜する(している)のを感じる(知覚動詞)",
+    "過去形・過去分詞は felt"
+  ],
+  "patterns": [
+    {
+      "form": "feel C",
+      "meaning": "Cと感じる・さわると〜だ"
+    },
+    {
+      "form": "feel like doing",
+      "meaning": "〜したい気がする"
+    },
+    {
+      "form": "feel O do / doing",
+      "meaning": "Oが〜するのを感じる"
+    },
+    {
+      "form": "feel for A",
+      "meaning": "Aに同情する"
+    },
+    {
+      "form": "feel that S V",
+      "meaning": "〜だと思う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "さわる",
+      "en": "Feel this sweater. It's really soft.",
+      "ja": "このセーターをさわってみて。すごくやわらかいよ。"
+    },
+    {
+      "source": "original",
+      "label": "feel C",
+      "en": "I felt sleepy during the long meeting.",
+      "ja": "長い会議の間、眠くなった。"
+    },
+    {
+      "source": "original",
+      "label": "物が主語",
+      "en": "The water felt cold.",
+      "ja": "水は冷たかった。"
+    },
+    {
+      "source": "original",
+      "label": "feel like doing",
+      "en": "I don't feel like going out tonight.",
+      "ja": "今夜は出かける気がしない。"
+    },
+    {
+      "source": "original",
+      "label": "feel O do",
+      "en": "I felt the ground shake.",
+      "ja": "地面がゆれるのを感じた。"
+    },
+    {
+      "source": "original",
+      "label": "feel that",
+      "en": "I feel that we should wait a little longer.",
+      "ja": "もう少し待つべきだと思う。"
+    }
+  ],
+  "check_points": [
+    "feel like の後ろが doing になることを言えるか",
+    "This cloth feels soft. の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "feel like doing、feel C(物主語)、知覚動詞 feel O do が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 775
+    }
+  ]
+}

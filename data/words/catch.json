@@ -1,0 +1,98 @@
+{
+  "word": "catch",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kætʃ/",
+  "core_image": {
+    "text": "動いているものを、さっとつかまえる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"26\" y1=\"96\" x2=\"120\" y2=\"64\"/><polyline points=\"112.1,62.6 120,64 114.6,69.9\"/><circle cx=\"134\" cy=\"60\" r=\"7\"/><circle cx=\"176\" cy=\"52\" r=\"10\"/><line x1=\"176\" y1=\"62\" x2=\"176\" y2=\"106\"/><line x1=\"176\" y1=\"106\" x2=\"166\" y2=\"140\"/><line x1=\"176\" y1=\"106\" x2=\"186\" y2=\"140\"/><line x1=\"176\" y1=\"74\" x2=\"144\" y2=\"62\"/><line x1=\"176\" y1=\"74\" x2=\"186\" y2=\"96\"/></g><text x=\"62\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さっと</text></svg>"
+  },
+  "etymology": "ラテン語 captare(つかもうとする)が古フランス語を経て → (動くものを)つかまえる → (乗り物に)間に合う → (言葉を)聞き取る・理解する → (病気を)もらう・(悪いことの最中を)見つける",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to take hold of something that is moving; to be in time for a train or bus; to get an illness; to hear or understand something; to find someone doing something wrong."
+    }
+  ],
+  "cautions": [
+    "catch A doing=Aが〜しているところを見つける(悪いことの現場をおさえる)",
+    "be caught in A=A(雨・渋滞など)にあう。主語は人",
+    "catch a cold=かぜをひく / catch the train=電車に間に合う(miss の反対)",
+    "catch up with A=Aに追いつく / 過去形・過去分詞は caught"
+  ],
+  "patterns": [
+    {
+      "form": "catch A doing",
+      "meaning": "Aが〜しているところを見つける"
+    },
+    {
+      "form": "be caught in A",
+      "meaning": "Aにあう"
+    },
+    {
+      "form": "catch a cold",
+      "meaning": "かぜをひく"
+    },
+    {
+      "form": "catch the train / bus",
+      "meaning": "電車・バスに間に合う"
+    },
+    {
+      "form": "catch up with A",
+      "meaning": "Aに追いつく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "つかまえる",
+      "en": "The goalkeeper caught the ball with both hands.",
+      "ja": "キーパーは両手でボールをとった。"
+    },
+    {
+      "source": "original",
+      "label": "間に合う",
+      "en": "I ran to catch the last train.",
+      "ja": "終電に間に合うよう走った。"
+    },
+    {
+      "source": "original",
+      "label": "catch a cold",
+      "en": "Wear a coat, or you'll catch a cold.",
+      "ja": "コートを着ないとかぜをひくよ。"
+    },
+    {
+      "source": "original",
+      "label": "聞き取る",
+      "en": "Sorry, I didn't catch your name.",
+      "ja": "すみません、お名前が聞き取れませんでした。"
+    },
+    {
+      "source": "original",
+      "label": "catch A doing",
+      "en": "The teacher caught him sleeping in class.",
+      "ja": "先生は彼が授業中に寝ているのを見つけた。"
+    },
+    {
+      "source": "original",
+      "label": "be caught in",
+      "en": "We were caught in a shower on the way home.",
+      "ja": "帰り道でにわか雨にあった。"
+    }
+  ],
+  "check_points": [
+    "catch A doing の意味を言えるか",
+    "be caught in A の主語が人になることを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "catch A doing、be caught in a shower、catch up with が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 779
+    }
+  ]
+}

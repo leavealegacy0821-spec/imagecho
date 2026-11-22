@@ -1,0 +1,102 @@
+{
+  "word": "look",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/lʊk/",
+  "core_image": {
+    "text": "自分から、目をそちらへ向ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"72\" y2=\"96\"/><line x1=\"74\" y1=\"52\" x2=\"172\" y2=\"90\" stroke-dasharray=\"5 5\"/><polyline points=\"166.8,83.9 172,90 164.1,91\"/><rect x=\"176\" y=\"90\" width=\"34\" height=\"50\"/></g><text x=\"124\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">目を向ける</text></svg>"
+  },
+  "etymology": "古英語 lōcian(目を向ける) → 見る(look at) → (目を向けて)探す(look for)・世話をする(look after) → (見た目が)〜に見える(look C / look like N)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to turn your eyes toward someone or something; to seem or appear to be; to search for something."
+    }
+  ],
+  "cautions": [
+    "look は自分から目を向ける。目に入ってくるのは see",
+    "look C=Cに見える(後ろは形容詞)/ look like 名詞=〜のように見える",
+    "look forward to doing=〜するのを楽しみにする。to は前置詞なので doing(最頻出)",
+    "look up to A=Aを尊敬する(respect)/ look down on A=Aを見下す / look into A=Aを調べる"
+  ],
+  "patterns": [
+    {
+      "form": "look at A",
+      "meaning": "Aを見る"
+    },
+    {
+      "form": "look C / look like N",
+      "meaning": "Cに見える / Nのように見える"
+    },
+    {
+      "form": "look for A",
+      "meaning": "Aを探す"
+    },
+    {
+      "form": "look after A",
+      "meaning": "Aの世話をする"
+    },
+    {
+      "form": "look forward to doing",
+      "meaning": "〜するのを楽しみにする"
+    },
+    {
+      "form": "look up to A",
+      "meaning": "Aを尊敬する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "目を向ける",
+      "en": "Look at the blackboard, everyone.",
+      "ja": "みんな、黒板を見て。"
+    },
+    {
+      "source": "original",
+      "label": "look C",
+      "en": "You look tired. Did you sleep well?",
+      "ja": "疲れているように見えるね。よく眠れた?"
+    },
+    {
+      "source": "original",
+      "label": "look like",
+      "en": "That cloud looks like a rabbit.",
+      "ja": "あの雲はうさぎみたいに見える。"
+    },
+    {
+      "source": "original",
+      "label": "look for",
+      "en": "I'm looking for my bike key.",
+      "ja": "自転車のかぎを探している。"
+    },
+    {
+      "source": "original",
+      "label": "look after",
+      "en": "Could you look after my dog while I'm away?",
+      "ja": "留守の間、犬の世話をしてもらえますか。"
+    },
+    {
+      "source": "original",
+      "label": "look forward to doing",
+      "en": "I'm looking forward to seeing you again.",
+      "ja": "またあなたに会えるのを楽しみにしています。"
+    }
+  ],
+  "check_points": [
+    "look と see の違いを言えるか",
+    "look forward to の後ろが doing になる理由を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "look forward to doing、look up to=respect、look into=investigate の言い換えが定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 773
+    }
+  ]
+}

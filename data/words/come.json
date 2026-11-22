@@ -1,0 +1,102 @@
+{
+  "word": "come",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kʌm/",
+  "core_image": {
+    "text": "話の中心(こちら)へ近づいてくる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"62\" y2=\"94\"/><line x1=\"74\" y1=\"96\" x2=\"150\" y2=\"96\"/><polyline points=\"143,92.2 150,96 143,99.8\"/><circle cx=\"186\" cy=\"52\" r=\"10\"/><line x1=\"186\" y1=\"62\" x2=\"186\" y2=\"106\"/><line x1=\"186\" y1=\"106\" x2=\"176\" y2=\"140\"/><line x1=\"186\" y1=\"106\" x2=\"196\" y2=\"140\"/><line x1=\"186\" y1=\"74\" x2=\"176\" y2=\"96\"/><line x1=\"186\" y1=\"74\" x2=\"198\" y2=\"96\"/></g><text x=\"186\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こちら</text><text x=\"112\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">近づく</text></svg>"
+  },
+  "etymology": "古英語 cuman(来る) → (話し手・相手の所へ)来る → (ある状態に)やって来る=なる(come true) → (時がたって)〜するようになる(come to do) → (頭に)浮かぶ・(偶然)出会う",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move toward the speaker or a particular place; to happen or arrive; to reach a particular state."
+    }
+  ],
+  "cautions": [
+    "相手の所へ「行く」ときも come を使う(I'm coming.=今行きます)。go は話の中心から離れる",
+    "come to do=〜するようになる(×become to do)",
+    "come true=実現する / come about=起こる(happen と同じ)",
+    "come across A=Aに偶然出会う / come up with A=A(考え)を思いつく"
+  ],
+  "patterns": [
+    {
+      "form": "come to do",
+      "meaning": "〜するようになる"
+    },
+    {
+      "form": "come true",
+      "meaning": "実現する"
+    },
+    {
+      "form": "come about",
+      "meaning": "起こる"
+    },
+    {
+      "form": "come across A",
+      "meaning": "Aに偶然出会う・見つける"
+    },
+    {
+      "form": "come up with A",
+      "meaning": "Aを思いつく"
+    },
+    {
+      "form": "come from A",
+      "meaning": "Aの出身である・Aから生じる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "来る",
+      "en": "Can you come to my house this weekend?",
+      "ja": "今週末、うちに来られる?"
+    },
+    {
+      "source": "original",
+      "label": "(相手の所へ)行く",
+      "en": "\"Dinner is ready!\" \"I'm coming!\"",
+      "ja": "「ごはんできたよ!」「今行く!」"
+    },
+    {
+      "source": "original",
+      "label": "come to do",
+      "en": "I came to like living in the countryside.",
+      "ja": "いなかの暮らしが好きになった。"
+    },
+    {
+      "source": "original",
+      "label": "come true",
+      "en": "Her dream of becoming a pilot came true.",
+      "ja": "パイロットになるという彼女の夢はかなった。"
+    },
+    {
+      "source": "original",
+      "label": "come across",
+      "en": "I came across an old photo while cleaning my room.",
+      "ja": "部屋をそうじしていて古い写真を見つけた。"
+    },
+    {
+      "source": "original",
+      "label": "come up with",
+      "en": "He came up with a good idea for the festival.",
+      "ja": "彼は文化祭のいい案を思いついた。"
+    }
+  ],
+  "check_points": [
+    "相手の所へ行くとき go ではなく come を使う理由を言えるか",
+    "come across と come up with の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "come to do、come true、come about、come across、come up with が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 772
+    }
+  ]
+}

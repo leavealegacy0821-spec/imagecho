@@ -1,0 +1,98 @@
+{
+  "word": "see",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/siː/",
+  "core_image": {
+    "text": "目や頭に、自然と入ってくる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"46\" cy=\"46\" r=\"14\"/><line x1=\"46\" y1=\"22\" x2=\"46\" y2=\"16\"/><line x1=\"22\" y1=\"46\" x2=\"16\" y2=\"46\"/><line x1=\"29\" y1=\"29\" x2=\"25\" y2=\"25\"/><line x1=\"64\" y1=\"52\" x2=\"166\" y2=\"52\" stroke-dasharray=\"5 5\"/><polyline points=\"159,48.2 166,52 159,55.8\"/><circle cx=\"186\" cy=\"52\" r=\"10\"/><line x1=\"186\" y1=\"62\" x2=\"186\" y2=\"106\"/><line x1=\"186\" y1=\"106\" x2=\"176\" y2=\"140\"/><line x1=\"186\" y1=\"106\" x2=\"196\" y2=\"140\"/><line x1=\"186\" y1=\"74\" x2=\"176\" y2=\"96\"/><line x1=\"186\" y1=\"74\" x2=\"196\" y2=\"96\"/></g><text x=\"114\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">目に入る</text></svg>"
+  },
+  "etymology": "古英語 sēon(見える) → (目に入って)見える → (頭に入って)わかる(I see.) → (人に)会う → (最後まで見届けて)見送る(see A off)・取り計らう(see to it that)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to notice something with your eyes; to understand; to meet or visit someone; to make sure that something happens."
+    }
+  ],
+  "cautions": [
+    "see は自然に目に入る(I saw a bird.)。意識して目を向けるのは look / watch",
+    "see O do / doing=Oが〜する(している)のが見える。受け身は be seen to do(to が出る)",
+    "I see.=わかりました / see A off=Aを見送る",
+    "see to it that S V=〜するよう取り計らう(it を落とさない)"
+  ],
+  "patterns": [
+    {
+      "form": "see O do / doing",
+      "meaning": "Oが〜する(している)のが見える"
+    },
+    {
+      "form": "be seen to do",
+      "meaning": "〜するのを見られる"
+    },
+    {
+      "form": "see A off",
+      "meaning": "Aを見送る"
+    },
+    {
+      "form": "see to it that S V",
+      "meaning": "〜するよう取り計らう"
+    },
+    {
+      "form": "see A as B",
+      "meaning": "AをBとみなす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "見える",
+      "en": "I saw a shooting star last night.",
+      "ja": "昨夜、流れ星を見た。"
+    },
+    {
+      "source": "original",
+      "label": "see O do",
+      "en": "I saw him cross the street.",
+      "ja": "彼が通りを渡るのが見えた。"
+    },
+    {
+      "source": "original",
+      "label": "be seen to do",
+      "en": "He was seen to enter the building.",
+      "ja": "彼はその建物に入るところを見られた。"
+    },
+    {
+      "source": "original",
+      "label": "わかる",
+      "en": "I see what you mean.",
+      "ja": "言いたいことはわかるよ。"
+    },
+    {
+      "source": "original",
+      "label": "see A off",
+      "en": "We went to the airport to see her off.",
+      "ja": "私たちは彼女を見送りに空港へ行った。"
+    },
+    {
+      "source": "original",
+      "label": "see to it that",
+      "en": "Please see to it that the door is locked.",
+      "ja": "ドアにかぎがかかっているよう気をつけてください。"
+    }
+  ],
+  "check_points": [
+    "see O do を受け身にすると to が出ることを言えるか",
+    "see to it that の it を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "知覚動詞 see O do と受け身 be seen to do、see to it that、see A off が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 774
+    }
+  ]
+}
