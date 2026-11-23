@@ -1,0 +1,94 @@
+{
+  "word": "distinct",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/dɪˈstɪŋkt/",
+  "core_image": {
+    "text": "線を引いて、はっきり分けられている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"70\" cy=\"80\" r=\"32\"/><rect x=\"146\" y=\"48\" width=\"64\" height=\"64\"/><line x1=\"120\" y1=\"30\" x2=\"120\" y2=\"130\"/></g><text x=\"120\" y=\"150\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">はっきり別</text></svg>"
+  },
+  "etymology": "dis(離して) + stinguere(突いて印をつける。distinguish と同じ) → 印をつけて分けられた → ほかとは別の・異なる(be distinct from A) → (輪郭が)はっきりした・明確な → 名詞 distinction=区別・優秀さ、distinctive=独特の",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "clearly different or separate; easy to see, hear or notice."
+    }
+  ],
+  "cautions": [
+    "be distinct from A=Aとははっきり異なる(different from と同じ型)",
+    "「はっきりした」:a distinct possibility=十分ありうること",
+    "distinctive=(ほかにない)独特の と区別する",
+    "distinguish A from B=AとBを区別する(動詞)"
+  ],
+  "patterns": [
+    {
+      "form": "be distinct from A",
+      "meaning": "Aとは異なる"
+    },
+    {
+      "form": "quite distinct",
+      "meaning": "まったく別の"
+    },
+    {
+      "form": "a distinct difference",
+      "meaning": "はっきりした違い"
+    },
+    {
+      "form": "a distinct possibility",
+      "meaning": "十分ありうること"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "be distinct from A",
+      "en": "Weather is distinct from climate.",
+      "ja": "天気は気候とは別のものだ。"
+    },
+    {
+      "source": "original",
+      "label": "別の",
+      "en": "The book is divided into three distinct parts.",
+      "ja": "その本ははっきり分かれた3つの部分からなる。"
+    },
+    {
+      "source": "original",
+      "label": "はっきりした",
+      "en": "There is a distinct smell of gas in the kitchen.",
+      "ja": "台所ではっきりとガスのにおいがする。"
+    },
+    {
+      "source": "original",
+      "label": "明確な",
+      "en": "I had the distinct impression that he was lying.",
+      "ja": "彼はうそをついているという印象をはっきり持った。"
+    },
+    {
+      "source": "original",
+      "label": "a distinct possibility",
+      "en": "Rain tomorrow is a distinct possibility.",
+      "ja": "明日雨が降ることは十分ありうる。"
+    },
+    {
+      "source": "original",
+      "label": "distinctive と比べる",
+      "en": "The singer has a distinctive voice.",
+      "ja": "その歌手は独特な声をしている。"
+    }
+  ],
+  "check_points": [
+    "be distinct from A の意味を言えるか",
+    "distinct と distinctive の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "distinct(はっきり別の・明確な)と distinctive(独特の)の区別、be distinct from A が語彙問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 842
+    }
+  ]
+}

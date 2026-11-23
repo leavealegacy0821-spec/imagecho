@@ -1,0 +1,103 @@
+{
+  "word": "shape",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ʃeɪp/",
+  "core_image": {
+    "text": "外側の線がつくる、ものの形",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"50\" width=\"56\" height=\"56\"/><circle cx=\"182\" cy=\"78\" r=\"30\"/><line x1=\"98\" y1=\"78\" x2=\"142\" y2=\"78\"/><polyline points=\"135,74.2 142,78 135,81.8\"/></g><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">形づくる</text></svg>"
+  },
+  "etymology": "古英語 sceap(形・つくられたもの) → 形・姿 → (形が整っているか)→ 体の調子・状態(in shape / out of shape) → 形をつくる・(考え・将来を)形づくる(動詞) → 形になる(take shape)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the outer form of something; the physical condition of someone or something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to give a particular form to something; to influence how something develops."
+    }
+  ],
+  "cautions": [
+    "in (good) shape=体調がよい / out of shape=体調が悪い・なまっている",
+    "take shape=形になる・具体化する",
+    "動詞 shape=(人格・将来を)形づくる(influence に近い)",
+    "in the shape of A=Aの形をした"
+  ],
+  "patterns": [
+    {
+      "form": "in (good) shape",
+      "meaning": "体調がよい"
+    },
+    {
+      "form": "out of shape",
+      "meaning": "体がなまって"
+    },
+    {
+      "form": "take shape",
+      "meaning": "形になる"
+    },
+    {
+      "form": "in the shape of A",
+      "meaning": "Aの形をした"
+    },
+    {
+      "form": "shape A",
+      "meaning": "Aを形づくる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "形",
+      "en": "The cookies were made in the shape of stars.",
+      "ja": "クッキーは星の形に作られていた。"
+    },
+    {
+      "source": "original",
+      "label": "in shape",
+      "en": "I go running every morning to keep in shape.",
+      "ja": "体調を保つために毎朝走っている。"
+    },
+    {
+      "source": "original",
+      "label": "out of shape",
+      "en": "I'm out of shape because I haven't exercised lately.",
+      "ja": "最近運動していないので体がなまっている。"
+    },
+    {
+      "source": "original",
+      "label": "take shape",
+      "en": "Our plan for the school festival is beginning to take shape.",
+      "ja": "文化祭の計画が形になり始めている。"
+    },
+    {
+      "source": "original",
+      "label": "形づくる",
+      "en": "Childhood experiences shape our personality.",
+      "ja": "子どものころの経験が私たちの人格を形づくる。"
+    },
+    {
+      "source": "original",
+      "label": "状態",
+      "en": "The old house was in bad shape.",
+      "ja": "その古い家はひどい状態だった。"
+    }
+  ],
+  "check_points": [
+    "in shape / out of shape の意味を言えるか",
+    "take shape の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "in shape / out of shape(体調)、take shape(具体化する)が会話・熟語で、動詞 shape(形づくる)が長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 846
+    }
+  ]
+}

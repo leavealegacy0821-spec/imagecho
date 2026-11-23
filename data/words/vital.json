@@ -1,0 +1,94 @@
+{
+  "word": "vital",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈvaɪtl/",
+  "core_image": {
+    "text": "命にかかわるほど、なくてはならない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M120 130 C60 90 50 50 85 42 C105 38 118 52 120 62 C122 52 135 38 155 42 C190 50 180 90 120 130 Z\"/><polyline points=\"70,86 98,86 108,70 120,104 132,76 142,86 170,86\"/></g><text x=\"196\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">命</text></svg>"
+  },
+  "etymology": "ラテン語 vita(命。vitamin と同じ) → 命の・生命にかかわる → 命にかかわるほど重要な=不可欠な(be vital to [for] A) → 生き生きした・活力のある → 名詞 vitality=活力",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "extremely important and necessary; full of energy; connected with staying alive."
+    }
+  ],
+  "cautions": [
+    "be vital to [for] A=Aにとって不可欠だ(essential と同じ)",
+    "It is vital that S (should) 原形 / It is vital to do",
+    "vital signs=生命の兆候(脈・呼吸など)",
+    "名詞 vitality=活力・生命力"
+  ],
+  "patterns": [
+    {
+      "form": "be vital to [for] A",
+      "meaning": "Aにとって不可欠だ"
+    },
+    {
+      "form": "It is vital to do",
+      "meaning": "〜することがきわめて重要だ"
+    },
+    {
+      "form": "It is vital that S (should) 原形",
+      "meaning": "Sが〜することが不可欠だ"
+    },
+    {
+      "form": "play a vital role in A",
+      "meaning": "Aで重要な役割を果たす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "be vital to A",
+      "en": "Water is vital to all living things.",
+      "ja": "水はすべての生き物にとって不可欠だ。"
+    },
+    {
+      "source": "original",
+      "label": "It is vital to do",
+      "en": "It is vital to get enough sleep before the exam.",
+      "ja": "試験の前に十分眠ることがきわめて大切だ。"
+    },
+    {
+      "source": "original",
+      "label": "It is vital that",
+      "en": "It is vital that everyone follow the safety rules.",
+      "ja": "全員が安全規則を守ることが不可欠だ。"
+    },
+    {
+      "source": "original",
+      "label": "play a vital role",
+      "en": "Bees play a vital role in growing fruit.",
+      "ja": "ハチは果物を育てるうえで重要な役割を果たしている。"
+    },
+    {
+      "source": "original",
+      "label": "命にかかわる",
+      "en": "The nurse checked the patient's vital signs.",
+      "ja": "看護師は患者の生命の兆候を確かめた。"
+    },
+    {
+      "source": "original",
+      "label": "生き生きした",
+      "en": "She is a vital and cheerful woman.",
+      "ja": "彼女は生き生きとした明るい女性だ。"
+    }
+  ],
+  "check_points": [
+    "be vital to A を別の形容詞で言いかえられるか",
+    "It is vital that のあとの動詞の形を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "essential / indispensable との言いかえ、It is vital that S (should) 原形 の語法が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 843
+    }
+  ]
+}

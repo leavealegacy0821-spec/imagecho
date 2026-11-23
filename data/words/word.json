@@ -1,0 +1,107 @@
+{
+  "word": "word",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/wɜːrd/",
+  "core_image": {
+    "text": "口から出た、ひとまとまりの言葉",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"98\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"98\"/><path d=\"M110 30 L200 30 Q212 30 212 42 L212 66 Q212 78 200 78 L130 78 L112 92 L118 78 Q110 78 110 66 Z\"/></g><text x=\"161\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">言葉</text></svg>"
+  },
+  "etymology": "古英語 word(言葉) → 単語・言葉 → (相手に言った)約束の言葉(keep one's word) → 短い話(have a word with A) → 伝わってきた言葉=知らせ・うわさ(word=news、無冠詞) → 言葉で表す(動詞 word)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a single unit of language; a short conversation; a promise; news or information."
+    },
+    {
+      "pos": "動詞",
+      "text": "to choose the words to express something."
+    }
+  ],
+  "cautions": [
+    "keep [break] one's word=約束を守る[破る]",
+    "have a word with A=Aとちょっと話す",
+    "in other words=言いかえれば / in a word=要するに",
+    "「知らせ」の word は無冠詞・不可算(Word came that 〜=〜という知らせが来た)"
+  ],
+  "patterns": [
+    {
+      "form": "in other words",
+      "meaning": "言いかえれば"
+    },
+    {
+      "form": "keep one's word",
+      "meaning": "約束を守る"
+    },
+    {
+      "form": "have a word with A",
+      "meaning": "Aとちょっと話す"
+    },
+    {
+      "form": "in a word",
+      "meaning": "一言でいえば"
+    },
+    {
+      "form": "word for word",
+      "meaning": "一語一語"
+    },
+    {
+      "form": "Word came that 〜",
+      "meaning": "〜という知らせが来た"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "in other words",
+      "en": "He is my mother's brother; in other words, he is my uncle.",
+      "ja": "彼は母の兄弟、つまり私のおじだ。"
+    },
+    {
+      "source": "original",
+      "label": "keep one's word",
+      "en": "She always keeps her word.",
+      "ja": "彼女はいつも約束を守る。"
+    },
+    {
+      "source": "original",
+      "label": "have a word with",
+      "en": "Can I have a word with you after class?",
+      "ja": "授業のあとでちょっと話せますか。"
+    },
+    {
+      "source": "original",
+      "label": "in a word",
+      "en": "In a word, the trip was a disaster.",
+      "ja": "一言でいえば、その旅行はさんざんだった。"
+    },
+    {
+      "source": "original",
+      "label": "知らせ",
+      "en": "Word came that the game had been canceled.",
+      "ja": "試合が中止になったという知らせが来た。"
+    },
+    {
+      "source": "original",
+      "label": "言葉で表す(動詞)",
+      "en": "The letter was carefully worded.",
+      "ja": "その手紙は言葉が慎重に選ばれていた。"
+    }
+  ],
+  "check_points": [
+    "keep one's word の意味を言えるか",
+    "in other words / in a word の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "in other words、keep one's word、have a word with A は熟語問題の定番。無冠詞の word=知らせ も長文で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 847
+    }
+  ]
+}

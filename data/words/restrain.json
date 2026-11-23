@@ -1,0 +1,94 @@
+{
+  "word": "restrain",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈstreɪn/",
+  "core_image": {
+    "text": "ぐっと引きもどして、出ないようにおさえる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"100\" y2=\"80\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"98\"/><line x1=\"100\" y1=\"80\" x2=\"150\" y2=\"80\"/><ellipse cx=\"172\" cy=\"114\" rx=\"26\" ry=\"14\"/><circle cx=\"196\" cy=\"94\" r=\"9\"/><line x1=\"160\" y1=\"128\" x2=\"158\" y2=\"140\"/><line x1=\"184\" y1=\"128\" x2=\"186\" y2=\"140\"/><line x1=\"150\" y1=\"80\" x2=\"190\" y2=\"96\"/><line x1=\"140\" y1=\"50\" x2=\"96\" y2=\"50\"/><polyline points=\"103,53.8 96,50 103,46.2\"/></g><text x=\"150\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">おさえる</text></svg>"
+  },
+  "etymology": "re(後ろへ) + strain(引きしぼる。strain、strict と同じ) → 後ろへ引きしぼる → (人・動物を)引きとめる → (感情・行動を)おさえる(restrain oneself) → (物価・支出を)おさえる → 名詞 restraint=抑制・自制",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stop someone or something from doing something, often by using force; to control a feeling or action."
+    }
+  ],
+  "cautions": [
+    "restrain A from doing=Aが〜しないようにおさえる(prevent A from doing と同じ型)",
+    "restrain oneself=自制する(感情をおさえる)",
+    "名詞 restraint=抑制・自制(with restraint=控えめに)",
+    "refrain from doing(自分が〜を控える)と取り違えない"
+  ],
+  "patterns": [
+    {
+      "form": "restrain A from doing",
+      "meaning": "Aが〜しないようにおさえる"
+    },
+    {
+      "form": "restrain oneself",
+      "meaning": "自制する"
+    },
+    {
+      "form": "restrain A",
+      "meaning": "Aをおさえる・引きとめる"
+    },
+    {
+      "form": "with restraint",
+      "meaning": "控えめに"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "引きとめる",
+      "en": "Two men restrained him when he tried to fight.",
+      "ja": "彼がけんかしようとしたとき、2人の男が彼を引きとめた。"
+    },
+    {
+      "source": "original",
+      "label": "restrain A from doing",
+      "en": "She restrained her son from running into the street.",
+      "ja": "彼女は息子が道路に飛び出さないように引きとめた。"
+    },
+    {
+      "source": "original",
+      "label": "restrain oneself",
+      "en": "I couldn't restrain myself and laughed out loud.",
+      "ja": "私はこらえきれずに声を出して笑ってしまった。"
+    },
+    {
+      "source": "original",
+      "label": "おさえる(感情)",
+      "en": "He tried hard to restrain his anger.",
+      "ja": "彼は怒りをおさえようと懸命だった。"
+    },
+    {
+      "source": "original",
+      "label": "おさえる(支出)",
+      "en": "The government took steps to restrain rising prices.",
+      "ja": "政府は物価の上昇をおさえる手を打った。"
+    },
+    {
+      "source": "original",
+      "label": "with restraint",
+      "en": "The police acted with restraint during the protest.",
+      "ja": "警察はデモの間、自制して行動した。"
+    }
+  ],
+  "check_points": [
+    "restrain A from doing の意味を言えるか",
+    "refrain from doing との違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "restrain A from doing(A from doing の型)が語法で、restraint(自制)が長文で問われる。refrain との区別も注意。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 841
+    }
+  ]
+}

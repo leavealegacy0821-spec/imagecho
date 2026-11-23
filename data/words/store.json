@@ -1,0 +1,99 @@
+{
+  "word": "store",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/stɔːr/",
+  "core_image": {
+    "text": "あとのために、ためておく所",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"60\" width=\"90\" height=\"80\"/><line x1=\"40\" y1=\"88\" x2=\"130\" y2=\"88\"/><line x1=\"40\" y1=\"114\" x2=\"130\" y2=\"114\"/><rect x=\"54\" y=\"68\" width=\"16\" height=\"20\"/><rect x=\"80\" y=\"94\" width=\"18\" height=\"20\"/><rect x=\"104\" y=\"120\" width=\"16\" height=\"20\"/><line x1=\"196\" y1=\"70\" x2=\"140\" y2=\"100\"/><polyline points=\"148,100.1 140,100 144.4,93.3\"/></g><text x=\"190\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ためる</text></svg>"
+  },
+  "etymology": "ラテン語 instaurare(用意する・備える) → 備え・たくわえ → たくわえる・保存する(動詞) → 品物をたくわえた所=店 → (たくわえが)待ちかまえている(be in store for A) → 名詞 storage=保管",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a shop; a supply of something kept for future use."
+    },
+    {
+      "pos": "動詞",
+      "text": "to keep something somewhere so that you can use it later."
+    }
+  ],
+  "cautions": [
+    "store A=Aをたくわえる・保存する(コンピューターのデータにも使う)",
+    "be in store for A=(出来事が)Aを待ち受けている",
+    "set [put] great store by A=Aを重んじる",
+    "名詞 storage=保管・倉庫"
+  ],
+  "patterns": [
+    {
+      "form": "store A",
+      "meaning": "Aをたくわえる"
+    },
+    {
+      "form": "be in store for A",
+      "meaning": "Aを待ち受けている"
+    },
+    {
+      "form": "a store of A",
+      "meaning": "Aのたくわえ"
+    },
+    {
+      "form": "set great store by A",
+      "meaning": "Aを重んじる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "店",
+      "en": "I bought this jacket at a department store.",
+      "ja": "このジャケットはデパートで買った。"
+    },
+    {
+      "source": "original",
+      "label": "たくわえる",
+      "en": "Squirrels store nuts for the winter.",
+      "ja": "リスは冬に備えて木の実をたくわえる。"
+    },
+    {
+      "source": "original",
+      "label": "保存する",
+      "en": "The data is stored on a server.",
+      "ja": "データはサーバーに保存されている。"
+    },
+    {
+      "source": "original",
+      "label": "be in store for",
+      "en": "Who knows what is in store for us in the future?",
+      "ja": "将来私たちに何が待ち受けているかだれにわかるだろう。"
+    },
+    {
+      "source": "original",
+      "label": "a store of",
+      "en": "She has a store of interesting stories.",
+      "ja": "彼女はおもしろい話をたくさん持っている。"
+    },
+    {
+      "source": "original",
+      "label": "set great store by",
+      "en": "My grandfather sets great store by good manners.",
+      "ja": "祖父は礼儀作法をとても重んじている。"
+    }
+  ],
+  "check_points": [
+    "be in store for A の意味を言えるか",
+    "動詞 store の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "動詞「たくわえる・保存する」が長文で、be in store for A(待ち受けている)が熟語で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 850
+    }
+  ]
+}

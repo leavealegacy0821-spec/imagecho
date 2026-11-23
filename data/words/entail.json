@@ -1,0 +1,90 @@
+{
+  "word": "entail",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈteɪl/",
+  "core_image": {
+    "text": "あることに、必ずくっついてくる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"60\" width=\"60\" height=\"40\"/><rect x=\"160\" y=\"60\" width=\"60\" height=\"40\"/><line x1=\"90\" y1=\"80\" x2=\"160\" y2=\"80\"/><circle cx=\"110\" cy=\"80\" r=\"5\"/><circle cx=\"140\" cy=\"80\" r=\"5\"/></g><text x=\"125\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">必ず伴う</text></svg>"
+  },
+  "etymology": "en(中に) + taille(切り分け・税) → (財産に条件を)つけて渡す → (あることが)必然的に伴う・必要とする(entail A / entail doing) → involve とほぼ同じ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to involve something as a necessary part or result."
+    }
+  ],
+  "cautions": [
+    "entail A=(必然的に)Aを伴う・必要とする(主語は物事)",
+    "entail doing=〜することを伴う(to do ではない)",
+    "involve / require とほぼ同じ意味で言いかえられる",
+    "進行形にしない"
+  ],
+  "patterns": [
+    {
+      "form": "A entails B",
+      "meaning": "AはBを伴う"
+    },
+    {
+      "form": "entail doing",
+      "meaning": "〜することを伴う"
+    },
+    {
+      "form": "what A entails",
+      "meaning": "Aに何が必要か"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "伴う",
+      "en": "The job entails a lot of hard work.",
+      "ja": "その仕事には多くの苦労が伴う。"
+    },
+    {
+      "source": "original",
+      "label": "必要とする",
+      "en": "Starting a business entails great risk.",
+      "ja": "起業には大きなリスクが伴う。"
+    },
+    {
+      "source": "original",
+      "label": "entail doing",
+      "en": "The plan would entail moving to another city.",
+      "ja": "その計画を実行すると別の都市に引っ越すことになる。"
+    },
+    {
+      "source": "original",
+      "label": "what A entails",
+      "en": "Do you know what the job entails?",
+      "ja": "その仕事に何が必要か知っていますか。"
+    },
+    {
+      "source": "original",
+      "label": "involve と比べる",
+      "en": "Learning a language entails making many mistakes.",
+      "ja": "言語を学ぶにはたくさんの失敗がつきものだ。"
+    },
+    {
+      "source": "original",
+      "label": "結果として伴う",
+      "en": "Every choice entails some kind of cost.",
+      "ja": "どんな選択にも何らかの代償が伴う。"
+    }
+  ],
+  "check_points": [
+    "entail を別の動詞で言いかえられるか",
+    "entail のあとの動詞の形を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "involve / require の言いかえとして長文・同意語問題で出る。entail doing の形に注意。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 849
+    }
+  ]
+}

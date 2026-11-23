@@ -1,0 +1,103 @@
+{
+  "word": "sink",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/sɪŋk/",
+  "core_image": {
+    "text": "重みで、下へ下へと沈んでいく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M15 70 Q35 62 55 70 T95 70 T135 70 T175 70 T215 70\"/><polygon points=\"90,96 150,96 140,114 100,114\"/><line x1=\"120\" y1=\"96\" x2=\"120\" y2=\"80\"/><line x1=\"180\" y1=\"92\" x2=\"180\" y2=\"140\"/><polyline points=\"183.8,133 180,140 176.2,133\"/></g><text x=\"36\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">沈む</text></svg>"
+  },
+  "etymology": "古英語 sincan(沈む) → (水の中へ)沈む・沈める → (太陽が)沈む → (値・気分・体が)下がる・落ちこむ(sink into a chair / One's heart sank) → (言葉が心に)しみこむ(sink in) → 水が流れこむ所=流し台(名詞)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to go down below the surface of water; to fall to a lower level; (of words) to be fully understood."
+    },
+    {
+      "pos": "名詞",
+      "text": "a large bowl in a kitchen for washing dishes."
+    }
+  ],
+  "cautions": [
+    "活用は sink - sank - sunk",
+    "自動詞「沈む」と他動詞「沈める」の両方がある",
+    "My heart sank.=がっかりした・気がめいった",
+    "sink in=(意味・事実が)じわじわわかってくる"
+  ],
+  "patterns": [
+    {
+      "form": "A sinks",
+      "meaning": "Aが沈む"
+    },
+    {
+      "form": "sink A",
+      "meaning": "Aを沈める"
+    },
+    {
+      "form": "sink into A",
+      "meaning": "Aに沈みこむ"
+    },
+    {
+      "form": "sink in",
+      "meaning": "(意味が)しみこむ"
+    },
+    {
+      "form": "one's heart sinks",
+      "meaning": "がっかりする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "沈む",
+      "en": "The ship sank after hitting a rock.",
+      "ja": "その船は岩にぶつかって沈んだ。"
+    },
+    {
+      "source": "original",
+      "label": "沈む(太陽)",
+      "en": "The sun sank below the horizon.",
+      "ja": "太陽が地平線の下に沈んだ。"
+    },
+    {
+      "source": "original",
+      "label": "sink into",
+      "en": "He sank into the sofa and closed his eyes.",
+      "ja": "彼はソファに深く座りこんで目を閉じた。"
+    },
+    {
+      "source": "original",
+      "label": "下がる",
+      "en": "Prices sank to their lowest level in ten years.",
+      "ja": "価格は10年ぶりの低い水準まで下がった。"
+    },
+    {
+      "source": "original",
+      "label": "sink in",
+      "en": "It took a while for the news to sink in.",
+      "ja": "その知らせが実感としてわかるまで少し時間がかかった。"
+    },
+    {
+      "source": "original",
+      "label": "heart sank",
+      "en": "My heart sank when I saw my test score.",
+      "ja": "テストの点数を見て、私はがっかりした。"
+    }
+  ],
+  "check_points": [
+    "sink の過去形・過去分詞を言えるか",
+    "sink in の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "活用 sank / sunk が語形で、sink in(実感としてわかる)と My heart sank が長文・会話で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 845
+    }
+  ]
+}
