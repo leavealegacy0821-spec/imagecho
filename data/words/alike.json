@@ -1,0 +1,99 @@
+{
+  "word": "alike",
+  "pos": [
+    "形容詞",
+    "副詞"
+  ],
+  "ipa": "/əˈlaɪk/",
+  "core_image": {
+    "text": "2つ並べると、そっくり同じ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"80\" y1=\"74\" x2=\"68\" y2=\"96\"/><line x1=\"80\" y1=\"74\" x2=\"92\" y2=\"96\"/><circle cx=\"160\" cy=\"52\" r=\"10\"/><line x1=\"160\" y1=\"62\" x2=\"160\" y2=\"106\"/><line x1=\"160\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"160\" y1=\"74\" x2=\"148\" y2=\"96\"/><line x1=\"160\" y1=\"74\" x2=\"172\" y2=\"96\"/><line x1=\"112\" y1=\"80\" x2=\"128\" y2=\"80\"/><line x1=\"112\" y1=\"88\" x2=\"128\" y2=\"88\"/></g><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そっくり</text></svg>"
+  },
+  "etymology": "古英語 gelīc・onlīc(同じ形の。like と同じ根) → 似た状態にある → (形容詞)よく似ている → (副詞)同じように(A and B alike=AもBも同様に)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "very similar."
+    },
+    {
+      "pos": "副詞",
+      "text": "in the same way; equally."
+    }
+  ],
+  "cautions": [
+    "形容詞 alike は補語でしか使わない(叙述用法)。The twins look alike. ×alike twins(→ similar twins)",
+    "主語は2つ以上(複数)。A and B are alike / A is like B",
+    "副詞 A and B alike=AもBも同じように(young and old alike=老いも若きも)",
+    "asleep、alive、afraid、alone と同じ「a- で始まる叙述形容詞」の仲間"
+  ],
+  "patterns": [
+    {
+      "form": "A and B are alike",
+      "meaning": "AとBは似ている"
+    },
+    {
+      "form": "look alike",
+      "meaning": "そっくりに見える"
+    },
+    {
+      "form": "A and B alike",
+      "meaning": "AもBも同じように"
+    },
+    {
+      "form": "treat A alike",
+      "meaning": "Aを同じように扱う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "似ている",
+      "en": "My sister and I are alike in many ways.",
+      "ja": "姉と私は多くの点で似ている。"
+    },
+    {
+      "source": "original",
+      "label": "look alike",
+      "en": "The two brothers look so alike that I can't tell them apart.",
+      "ja": "その兄弟はそっくりで見分けがつかない。"
+    },
+    {
+      "source": "original",
+      "label": "×名詞の前",
+      "en": "They are similar houses. / The houses are alike.",
+      "ja": "それらは似た家だ。/ その家々は似ている。"
+    },
+    {
+      "source": "original",
+      "label": "A and B alike",
+      "en": "The movie is popular with children and adults alike.",
+      "ja": "その映画は子どもにも大人にも同じように人気がある。"
+    },
+    {
+      "source": "original",
+      "label": "同じように扱う",
+      "en": "The teacher treats all her students alike.",
+      "ja": "その先生は生徒全員を同じように扱う。"
+    },
+    {
+      "source": "original",
+      "label": "think alike",
+      "en": "Great minds think alike.",
+      "ja": "賢い人は同じことを考える(考えが一致したときの言い方)。"
+    }
+  ],
+  "check_points": [
+    "alike を名詞の前に置けないことを言えるか",
+    "A and B alike を訳せるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "叙述用法(×alike twins → similar)と副詞 A and B alike が正誤・語法問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 800
+    }
+  ]
+}

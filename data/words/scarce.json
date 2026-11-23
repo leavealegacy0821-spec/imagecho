@@ -1,0 +1,98 @@
+{
+  "word": "scarce",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/skers/",
+  "core_image": {
+    "text": "必要な量に、とても足りない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"50\" y1=\"100\" x2=\"190\" y2=\"100\"/><path d=\"M50 100 Q120 180 190 100\"/><circle cx=\"112\" cy=\"128\" r=\"4\"/><circle cx=\"128\" cy=\"128\" r=\"4\"/></g><text x=\"120\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">少ししかない</text></svg>"
+  },
+  "etymology": "古フランス語 escars(乏しい・わずかな) → 必要な量にくらべて少ない → 不足している・乏しい → 副詞 scarcely=ほとんど〜ない",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not easy to find or get because there is not enough."
+    }
+  ],
+  "cautions": [
+    "名詞のあとや補語で使うことが多い(Food was scarce. / Water is becoming scarce.)",
+    "scarcely=ほとんど〜ない(それだけで否定)。×not scarcely",
+    "Scarcely had S done ... when [before] 〜=〜するとすぐに(倒置。Hardly と同じ)",
+    "名詞 scarcity=不足・欠乏"
+  ],
+  "patterns": [
+    {
+      "form": "A is scarce",
+      "meaning": "Aが不足している"
+    },
+    {
+      "form": "scarce resources",
+      "meaning": "乏しい資源"
+    },
+    {
+      "form": "scarcely",
+      "meaning": "ほとんど〜ない"
+    },
+    {
+      "form": "Scarcely had S done when 〜",
+      "meaning": "〜するとすぐに"
+    },
+    {
+      "form": "scarcity",
+      "meaning": "不足"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "不足している",
+      "en": "Fresh water is scarce in this area.",
+      "ja": "この地域では真水が不足している。"
+    },
+    {
+      "source": "original",
+      "label": "乏しくなる",
+      "en": "Jobs became scarce after the factory closed.",
+      "ja": "工場が閉鎖されてから仕事が少なくなった。"
+    },
+    {
+      "source": "original",
+      "label": "乏しい資源",
+      "en": "We must use scarce resources carefully.",
+      "ja": "乏しい資源は大切に使わなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "scarcely(ほとんど〜ない)",
+      "en": "I could scarcely believe my eyes.",
+      "ja": "自分の目がほとんど信じられなかった。"
+    },
+    {
+      "source": "original",
+      "label": "Scarcely had S done when",
+      "en": "Scarcely had I left home when it began to rain.",
+      "ja": "家を出たとたんに雨が降り出した。"
+    },
+    {
+      "source": "original",
+      "label": "scarcity(名詞)",
+      "en": "The scarcity of food caused prices to rise.",
+      "ja": "食料不足で価格が上がった。"
+    }
+  ],
+  "check_points": [
+    "scarcely が否定の意味をもつことを言えるか",
+    "Scarcely had S done when 〜 を訳せるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "副詞 scarcely(ほとんど〜ない)と倒置 Scarcely had S done when 〜 が文法問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 799
+    }
+  ]
+}

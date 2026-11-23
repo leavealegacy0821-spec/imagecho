@@ -1,0 +1,94 @@
+{
+  "word": "mere",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/mɪr/",
+  "core_image": {
+    "text": "ほんの〜だけ、それ以上ではない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"96\" y2=\"90\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><circle cx=\"150\" cy=\"134\" r=\"5\"/><line x1=\"100\" y1=\"92\" x2=\"142\" y2=\"128\" stroke-dasharray=\"5 5\"/><polyline points=\"139.2,120.5 142,128 134.2,126.3\"/></g><text x=\"170\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ほんのこれだけ</text></svg>"
+  },
+  "etymology": "ラテン語 merus(まじりけのない・それだけの) → ほかに何もまじらない → ほんの〜にすぎない(a mere child) → 副詞 merely=単に",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "used to emphasize how small or unimportant something is; nothing more than."
+    }
+  ],
+  "cautions": [
+    "名詞の前でしか使わない(限定用法)。×The cost is mere.",
+    "a mere A=ほんのAにすぎない。only より「小ささ・たいしたことのなさ」を強める",
+    "the mere A=Aだけで(the mere thought of A=Aを考えただけで)",
+    "merely=単に。not merely A but (also) B=not only A but also B"
+  ],
+  "patterns": [
+    {
+      "form": "a mere A",
+      "meaning": "ほんのAにすぎない"
+    },
+    {
+      "form": "the mere thought of A",
+      "meaning": "Aを考えただけで"
+    },
+    {
+      "form": "merely",
+      "meaning": "単に"
+    },
+    {
+      "form": "not merely A but (also) B",
+      "meaning": "AだけでなくBも"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "a mere A(数)",
+      "en": "The repair took a mere ten minutes.",
+      "ja": "修理はほんの10分ですんだ。"
+    },
+    {
+      "source": "original",
+      "label": "a mere A(人)",
+      "en": "She was a mere child when the war ended.",
+      "ja": "戦争が終わったとき、彼女はほんの子どもだった。"
+    },
+    {
+      "source": "original",
+      "label": "the mere A",
+      "en": "The mere thought of the exam makes me nervous.",
+      "ja": "試験のことを考えただけで緊張する。"
+    },
+    {
+      "source": "original",
+      "label": "たかが〜",
+      "en": "It was a mere mistake, so don't worry about it.",
+      "ja": "ただのミスだから気にしないで。"
+    },
+    {
+      "source": "original",
+      "label": "merely(副詞)",
+      "en": "I merely asked a question; I didn't mean to criticize you.",
+      "ja": "私は質問しただけで、あなたを批判するつもりはなかった。"
+    },
+    {
+      "source": "original",
+      "label": "not merely A but B",
+      "en": "Exercise is not merely good for the body but also for the mind.",
+      "ja": "運動は体だけでなく心にもよい。"
+    }
+  ],
+  "check_points": [
+    "mere が名詞の前でしか使えないことを言えるか",
+    "the mere thought of A を訳せるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a mere A(ほんの〜)と the mere thought of A、merely の言い換えが長文・整序で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 794
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "brief",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/briːf/",
+  "core_image": {
+    "text": "ぎゅっと、短くまとめた",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"30\" y1=\"50\" x2=\"210\" y2=\"50\" stroke-dasharray=\"6 6\"/><line x1=\"30\" y1=\"44\" x2=\"30\" y2=\"56\"/><line x1=\"210\" y1=\"44\" x2=\"210\" y2=\"56\"/><line x1=\"120\" y1=\"60\" x2=\"120\" y2=\"96\" stroke-dasharray=\"5 5\"/><polyline points=\"123.8,89 120,96 116.2,89\"/><line x1=\"90\" y1=\"110\" x2=\"150\" y2=\"110\"/><line x1=\"90\" y1=\"104\" x2=\"90\" y2=\"116\"/><line x1=\"150\" y1=\"104\" x2=\"150\" y2=\"116\"/></g><text x=\"120\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">長い話</text><text x=\"120\" y=\"134\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">短くまとめる</text></svg>"
+  },
+  "etymology": "ラテン語 brevis(短い。abbreviate=短縮する と同じ根) → (時間が)短い → (話・文が)簡潔な → (短くまとめて)要点を伝える(動詞 brief A on B)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "lasting only a short time; using few words."
+    },
+    {
+      "pos": "動詞",
+      "text": "to give someone the basic information they need about something."
+    }
+  ],
+  "cautions": [
+    "brief は時間・話の短さ。物の長さには short を使う(×a brief rope)",
+    "in brief=手短に言えば(=in short)",
+    "動詞 brief A on B=AにBの要点を説明する",
+    "副詞 briefly=手短に・少しの間"
+  ],
+  "patterns": [
+    {
+      "form": "a brief visit / stay",
+      "meaning": "短い訪問 / 滞在"
+    },
+    {
+      "form": "a brief explanation",
+      "meaning": "簡潔な説明"
+    },
+    {
+      "form": "in brief",
+      "meaning": "手短に言えば"
+    },
+    {
+      "form": "brief A on B",
+      "meaning": "AにBの要点を説明する"
+    },
+    {
+      "form": "briefly",
+      "meaning": "手短に・少しの間"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "短い(時間)",
+      "en": "We made a brief stop in Kyoto on our way home.",
+      "ja": "帰る途中、京都に少しだけ立ち寄った。"
+    },
+    {
+      "source": "original",
+      "label": "簡潔な",
+      "en": "Please keep your answer brief.",
+      "ja": "答えは簡潔にしてください。"
+    },
+    {
+      "source": "original",
+      "label": "in brief",
+      "en": "In brief, the plan was a success.",
+      "ja": "手短に言えば、その計画は成功だった。"
+    },
+    {
+      "source": "original",
+      "label": "動詞 brief",
+      "en": "The captain briefed the crew on the weather.",
+      "ja": "機長は乗員に天候の要点を説明した。"
+    },
+    {
+      "source": "original",
+      "label": "briefly(手短に)",
+      "en": "Let me briefly explain how this machine works.",
+      "ja": "この機械の仕組みを手短に説明させてください。"
+    },
+    {
+      "source": "original",
+      "label": "briefly(少しの間)",
+      "en": "She paused briefly before answering.",
+      "ja": "彼女は答える前に少しだけ間をおいた。"
+    }
+  ],
+  "check_points": [
+    "brief と short の使い分けを言えるか",
+    "in brief の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "in brief(=in short)と briefly、動詞 brief A on B が出る。abbreviate と同じ根。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 797
+    }
+  ]
+}

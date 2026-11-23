@@ -1,0 +1,98 @@
+{
+  "word": "vague",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/veɪɡ/",
+  "core_image": {
+    "text": "輪郭がぼやけて、はっきりしない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"30\" y2=\"96\"/><line x1=\"40\" y1=\"74\" x2=\"50\" y2=\"96\"/><circle cx=\"120\" cy=\"85\" r=\"40\" stroke-dasharray=\"3 6\"/><line x1=\"58\" y1=\"76\" x2=\"76\" y2=\"82\" stroke-dasharray=\"5 5\"/><polyline points=\"70.6,76.1 76,82 68.1,83.4\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぼんやり</text></svg>"
+  },
+  "etymology": "ラテン語 vagus(さまよう。vagabond=放浪者 と同じ根) → (考えが)ふらふらさまよう → 輪郭がはっきりしない・あいまいな → (記憶・形が)ぼんやりした",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not clear in shape, meaning or detail; not clearly expressed or remembered."
+    }
+  ],
+  "cautions": [
+    "vague=ぼんやりしてはっきりしない。ambiguous=2通り以上に取れる、と区別する",
+    "have a vague idea of A=Aがぼんやりわかる / not have the vaguest idea=まったくわからない",
+    "be vague about A=Aについてあいまいだ",
+    "副詞 vaguely=ぼんやりと(vaguely remember)"
+  ],
+  "patterns": [
+    {
+      "form": "a vague answer",
+      "meaning": "あいまいな答え"
+    },
+    {
+      "form": "be vague about A",
+      "meaning": "Aについてあいまいだ"
+    },
+    {
+      "form": "have a vague idea of A",
+      "meaning": "Aがぼんやりわかる"
+    },
+    {
+      "form": "not have the vaguest idea",
+      "meaning": "まったくわからない"
+    },
+    {
+      "form": "vaguely",
+      "meaning": "ぼんやりと"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "あいまいな",
+      "en": "He gave a vague answer to my question.",
+      "ja": "彼は私の質問にあいまいな答えをした。"
+    },
+    {
+      "source": "original",
+      "label": "be vague about",
+      "en": "The politician was vague about his plans.",
+      "ja": "その政治家は自分の計画についてはっきり言わなかった。"
+    },
+    {
+      "source": "original",
+      "label": "ぼんやりした(記憶)",
+      "en": "I have only a vague memory of my first school.",
+      "ja": "最初の学校のことはぼんやりとしか覚えていない。"
+    },
+    {
+      "source": "original",
+      "label": "ぼんやりした(形)",
+      "en": "We saw the vague shape of a ship in the fog.",
+      "ja": "霧の中に船のぼんやりした形が見えた。"
+    },
+    {
+      "source": "original",
+      "label": "not the vaguest idea",
+      "en": "I don't have the vaguest idea where she went.",
+      "ja": "彼女がどこへ行ったのかまったくわからない。"
+    },
+    {
+      "source": "original",
+      "label": "vaguely(副詞)",
+      "en": "I vaguely remember meeting him before.",
+      "ja": "以前に彼に会ったことをぼんやり覚えている。"
+    }
+  ],
+  "check_points": [
+    "vague と ambiguous の違いを言えるか",
+    "not have the vaguest idea を訳せるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "vague(ぼんやり)と ambiguous(2通りに取れる)の区別、vaguely remember が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 798
+    }
+  ]
+}
