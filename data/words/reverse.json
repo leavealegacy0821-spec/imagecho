@@ -1,0 +1,108 @@
+{
+  "word": "reverse",
+  "pos": [
+    "動詞",
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/rɪˈvɜːrs/",
+  "core_image": {
+    "text": "くるりと回して、向きを逆にする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"40\" y1=\"50\" x2=\"180\" y2=\"50\"/><polyline points=\"173,46.2 180,50 173,53.8\"/><path d=\"M180 50 C220 50 220 110 180 110\"/><line x1=\"180\" y1=\"110\" x2=\"50\" y2=\"110\"/><polyline points=\"57,113.8 50,110 57,106.2\"/></g><text x=\"115\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">逆へ</text></svg>"
+  },
+  "etymology": "re(後ろへ) + vers(回す・向ける。convert、versus と同じ) → 後ろへ向きを回す → 逆にする・(順序や立場を)入れかえる → (決定・判決を)くつがえす → 逆の・裏の(形容詞) → 逆・反対(名詞 the reverse)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to change something to its opposite; to change a decision; to turn something the other way."
+    },
+    {
+      "pos": "形容詞",
+      "text": "opposite to what is usual or expected."
+    },
+    {
+      "pos": "名詞",
+      "text": "the opposite; the back side of something."
+    }
+  ],
+  "cautions": [
+    "reverse a decision=決定をくつがえす(change よりも「まるごと逆に」)",
+    "in reverse order=逆の順序で",
+    "the reverse=正反対(the opposite)。quite the reverse=まったく逆",
+    "形容詞の reverse は名詞の前で使う(the reverse side=裏側)。irreversible=元に戻せない"
+  ],
+  "patterns": [
+    {
+      "form": "reverse A",
+      "meaning": "Aを逆にする・くつがえす"
+    },
+    {
+      "form": "in reverse order",
+      "meaning": "逆の順序で"
+    },
+    {
+      "form": "the reverse",
+      "meaning": "正反対"
+    },
+    {
+      "form": "the reverse side",
+      "meaning": "裏側"
+    },
+    {
+      "form": "reverse roles",
+      "meaning": "立場を入れかえる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "くつがえす",
+      "en": "The court reversed its earlier decision.",
+      "ja": "裁判所は以前の判決をくつがえした。"
+    },
+    {
+      "source": "original",
+      "label": "逆にする",
+      "en": "The new policy reversed the trend of falling sales.",
+      "ja": "新しい方針で、売り上げが落ちる流れが逆転した。"
+    },
+    {
+      "source": "original",
+      "label": "in reverse order",
+      "en": "Please read the names in reverse order.",
+      "ja": "名前を逆の順番で読み上げてください。"
+    },
+    {
+      "source": "original",
+      "label": "the reverse",
+      "en": "I expected him to be angry, but the reverse was true.",
+      "ja": "彼は怒ると思っていたが、実際は正反対だった。"
+    },
+    {
+      "source": "original",
+      "label": "裏側(形容詞)",
+      "en": "Write your name on the reverse side of the card.",
+      "ja": "カードの裏側に名前を書いてください。"
+    },
+    {
+      "source": "original",
+      "label": "立場を入れかえる",
+      "en": "Let's reverse roles: you be the teacher this time.",
+      "ja": "役を入れかえよう。今回はきみが先生だ。"
+    }
+  ],
+  "check_points": [
+    "reverse a decision の意味を言えるか",
+    "the reverse を別の語で言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "reverse a decision(くつがえす)、the reverse(正反対)、irreversible(元に戻せない)が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 834
+    }
+  ]
+}

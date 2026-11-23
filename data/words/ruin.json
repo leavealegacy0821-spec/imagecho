@@ -1,0 +1,103 @@
+{
+  "word": "ruin",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈruːɪn/",
+  "core_image": {
+    "text": "がらがらと崩れ落ちて、だめになる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"50,140 50,60 74,60 84,80 96,66 106,90 110,140\"/><rect x=\"128\" y=\"126\" width=\"22\" height=\"14\"/><rect x=\"156\" y=\"130\" width=\"16\" height=\"10\"/><polygon points=\"180,140 196,124 206,140\"/><line x1=\"112\" y1=\"78\" x2=\"140\" y2=\"116\" stroke-dasharray=\"5 5\"/><polyline points=\"138.9,108.1 140,116 132.7,112.6\"/></g><text x=\"180\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">崩れる</text></svg>"
+  },
+  "etymology": "ラテン語 ruina(崩れ落ちること) → 崩れ落ちる → (楽しみ・計画を)だめにする・台なしにする → (財産・評判を失わせて)破滅させる → 破滅(名詞)・崩れ落ちた建物=廃墟・遺跡(ruins)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to damage something so badly that it loses all its value or pleasure; to make someone lose all their money."
+    },
+    {
+      "pos": "名詞",
+      "text": "the parts of a building that remain after it has been destroyed; the state of being destroyed."
+    }
+  ],
+  "cautions": [
+    "ruin A=Aを台なしにする(spoil と近いが、ruin のほうが「根こそぎだめにする」感じ)",
+    "「遺跡・廃墟」はふつう複数 ruins(the ruins of an old castle)",
+    "be in ruins=荒れ果てている・(計画が)だめになっている",
+    "形容詞 ruined=荒れ果てた / ruinous=破滅的な"
+  ],
+  "patterns": [
+    {
+      "form": "ruin A",
+      "meaning": "Aを台なしにする"
+    },
+    {
+      "form": "ruin oneself",
+      "meaning": "破産する・身をほろぼす"
+    },
+    {
+      "form": "the ruins of A",
+      "meaning": "Aの遺跡"
+    },
+    {
+      "form": "be in ruins",
+      "meaning": "荒れ果てている"
+    },
+    {
+      "form": "go to ruin",
+      "meaning": "荒れ果てる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "台なしにする",
+      "en": "The heavy rain ruined our picnic.",
+      "ja": "大雨でピクニックが台なしになった。"
+    },
+    {
+      "source": "original",
+      "label": "だめにする(評判)",
+      "en": "One mistake can ruin your reputation.",
+      "ja": "たったひとつの失敗で評判がだめになることがある。"
+    },
+    {
+      "source": "original",
+      "label": "破滅させる",
+      "en": "The war ruined many families.",
+      "ja": "その戦争は多くの家族を破滅させた。"
+    },
+    {
+      "source": "original",
+      "label": "遺跡(名詞)",
+      "en": "We visited the ruins of an ancient temple.",
+      "ja": "私たちは古代の神殿の遺跡を訪れた。"
+    },
+    {
+      "source": "original",
+      "label": "be in ruins",
+      "en": "After the earthquake, the town was in ruins.",
+      "ja": "地震のあと、その町は廃墟となっていた。"
+    },
+    {
+      "source": "original",
+      "label": "spoil との比較",
+      "en": "Too much sugar will ruin the cake, and too many gifts may spoil a child.",
+      "ja": "砂糖が多すぎるとケーキが台なしになり、贈り物が多すぎると子どもが甘やかされるかもしれない。"
+    }
+  ],
+  "check_points": [
+    "「遺跡」の意味のときの形を言えるか",
+    "be in ruins の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "ruin=spoil(台なしにする)の言い換え、ruins(遺跡)の複数形が語彙・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 840
+    }
+  ]
+}

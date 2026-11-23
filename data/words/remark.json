@@ -1,0 +1,99 @@
+{
+  "word": "remark",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/rɪˈmɑːrk/",
+  "core_image": {
+    "text": "目にとめたことを、ひと言口にする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"98\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"98\"/><ellipse cx=\"160\" cy=\"54\" rx=\"50\" ry=\"26\"/><line x1=\"122\" y1=\"70\" x2=\"78\" y2=\"52\"/></g><text x=\"160\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひと言</text></svg>"
+  },
+  "etymology": "re(強め) + mark(しるしをつける) → (心に)しるしをつける=気づく → 気づいたことを口にする → 述べる・ひと言いう(remark that 〜 / remark on A) → 発言・意見(名詞) → (しるしをつけるほどの)→ remarkable=注目すべき・目立った",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say what you think or have noticed about something."
+    },
+    {
+      "pos": "名詞",
+      "text": "something that you say to give your opinion or about something you have noticed."
+    }
+  ],
+  "cautions": [
+    "remark on [upon] A=Aについて意見を述べる(前置詞は on)",
+    "remark that 〜=〜と(ひと言)述べる",
+    "make a remark=発言する(do ではなく make)",
+    "形容詞 remarkable=注目すべき・すばらしい(「目にとめる」から)"
+  ],
+  "patterns": [
+    {
+      "form": "remark that 〜",
+      "meaning": "〜と述べる"
+    },
+    {
+      "form": "remark on A",
+      "meaning": "Aについて意見を言う"
+    },
+    {
+      "form": "make a remark",
+      "meaning": "発言する"
+    },
+    {
+      "form": "remarkable",
+      "meaning": "注目すべき"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "remark that",
+      "en": "She remarked that the room was too cold.",
+      "ja": "彼女は部屋が寒すぎると言った。"
+    },
+    {
+      "source": "original",
+      "label": "remark on",
+      "en": "Everyone remarked on his new haircut.",
+      "ja": "みんなが彼の新しい髪型について何か言った。"
+    },
+    {
+      "source": "original",
+      "label": "発言(名詞)",
+      "en": "His rude remark hurt her feelings.",
+      "ja": "彼の失礼なひと言が彼女を傷つけた。"
+    },
+    {
+      "source": "original",
+      "label": "make a remark",
+      "en": "The teacher made a few remarks about our essays.",
+      "ja": "先生は私たちの作文について少し意見を述べた。"
+    },
+    {
+      "source": "original",
+      "label": "remarkable",
+      "en": "She made remarkable progress in English.",
+      "ja": "彼女は英語でめざましい進歩を見せた。"
+    },
+    {
+      "source": "original",
+      "label": "意見(名詞)",
+      "en": "The mayor's remarks were reported in the newspaper.",
+      "ja": "市長の発言は新聞で報じられた。"
+    }
+  ],
+  "check_points": [
+    "remark のあとの前置詞を言えるか",
+    "remarkable の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "remark on A の前置詞、make a remark、remarkable(注目すべき)が語彙・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 837
+    }
+  ]
+}
