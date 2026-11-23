@@ -1,0 +1,98 @@
+{
+  "word": "stare",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ster/",
+  "core_image": {
+    "text": "目を見開いて、じっと見つめ続ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"36\" y2=\"98\"/><line x1=\"50\" y1=\"74\" x2=\"64\" y2=\"98\"/><ellipse cx=\"174\" cy=\"70\" rx=\"34\" ry=\"18\"/><circle cx=\"174\" cy=\"70\" r=\"8\"/><line x1=\"66\" y1=\"54\" x2=\"128\" y2=\"66\"/><polyline points=\"121.8,60.9 128,66 120.4,68.4\"/></g><text x=\"118\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">じっと</text></svg>"
+  },
+  "etymology": "古英語 starian(目をこらす) → 目を見開いてじっと見る → (驚き・失礼な態度で)じろじろ見る(stare at A) → じっと見ること(名詞)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to look at someone or something for a long time with your eyes wide open."
+    },
+    {
+      "pos": "名詞",
+      "text": "a long, fixed look."
+    }
+  ],
+  "cautions": [
+    "stare at A=Aをじっと見る(at が必要)",
+    "gaze at A=(うっとり・感心して)見つめる / glance at A=ちらっと見る と区別",
+    "stare A in the face=(事実が)目の前にある",
+    "じろじろ見る=失礼、の感じが出やすい"
+  ],
+  "patterns": [
+    {
+      "form": "stare at A",
+      "meaning": "Aをじっと見る"
+    },
+    {
+      "form": "stare into A",
+      "meaning": "Aの中をのぞきこむ"
+    },
+    {
+      "form": "stare A in the face",
+      "meaning": "(事実が)目の前にある"
+    },
+    {
+      "form": "give A a stare",
+      "meaning": "Aをじっと見る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "stare at A",
+      "en": "Don't stare at people on the train.",
+      "ja": "電車の中で人をじろじろ見てはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "じっと見る",
+      "en": "She stared at the screen for hours.",
+      "ja": "彼女は何時間も画面を見つめていた。"
+    },
+    {
+      "source": "original",
+      "label": "stare into",
+      "en": "He stared into the dark forest.",
+      "ja": "彼は暗い森の中をのぞきこんだ。"
+    },
+    {
+      "source": "original",
+      "label": "驚いて見る",
+      "en": "Everyone stared in surprise when he walked in.",
+      "ja": "彼が入ってくると、みんな驚いて見つめた。"
+    },
+    {
+      "source": "original",
+      "label": "stare A in the face",
+      "en": "The answer was staring me in the face.",
+      "ja": "答えは目の前にあった(のに気づかなかった)。"
+    },
+    {
+      "source": "original",
+      "label": "じっと見ること(名詞)",
+      "en": "She gave him a cold stare.",
+      "ja": "彼女は彼を冷たい目でじっと見た。"
+    }
+  ],
+  "check_points": [
+    "stare at / gaze at / glance at の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "look 系の動詞 stare / gaze / glance の区別と、stare at A の at が語法で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 860
+    }
+  ]
+}

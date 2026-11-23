@@ -1,0 +1,107 @@
+{
+  "word": "date",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/deɪt/",
+  "core_image": {
+    "text": "カレンダーの、ある一日に印をつける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"70\" y=\"30\" width=\"100\" height=\"100\"/><line x1=\"70\" y1=\"50\" x2=\"170\" y2=\"50\"/><line x1=\"70\" y1=\"75\" x2=\"170\" y2=\"75\"/><line x1=\"70\" y1=\"100\" x2=\"170\" y2=\"100\"/><line x1=\"103\" y1=\"50\" x2=\"103\" y2=\"130\"/><line x1=\"137\" y1=\"50\" x2=\"137\" y2=\"130\"/><line x1=\"90\" y1=\"22\" x2=\"90\" y2=\"38\"/><line x1=\"150\" y1=\"22\" x2=\"150\" y2=\"38\"/><circle cx=\"120\" cy=\"87\" r=\"11\"/></g><text x=\"205\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">日付</text></svg>"
+  },
+  "etymology": "ラテン語 data(与えられた=手紙に「〇日に書かれた」と記したことば) → 日付 → (ある日に会う約束)→ デート・会う約束 → 日付をつける・年代を定める(動詞) → (その日付から)さかのぼる(date back to / date from) → 日付が古い=時代遅れの(out of date)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a particular day of the month or year; an arranged meeting, especially a romantic one."
+    },
+    {
+      "pos": "動詞",
+      "text": "to write the date on something; to have existed since a particular time in the past."
+    }
+  ],
+  "cautions": [
+    "date back to A / date from A=Aにさかのぼる(進行形・受け身にしない)",
+    "out of date=時代遅れの / up to date=最新の(up-to-date information)",
+    "to date=今までのところ(so far と同じ)",
+    "「デートする」は go on a date with A / date A"
+  ],
+  "patterns": [
+    {
+      "form": "date back to A",
+      "meaning": "Aにさかのぼる"
+    },
+    {
+      "form": "date from A",
+      "meaning": "Aにさかのぼる"
+    },
+    {
+      "form": "out of date",
+      "meaning": "時代遅れの"
+    },
+    {
+      "form": "up to date",
+      "meaning": "最新の"
+    },
+    {
+      "form": "to date",
+      "meaning": "今までのところ"
+    },
+    {
+      "form": "go on a date with A",
+      "meaning": "Aとデートする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "日付",
+      "en": "What's the date today?",
+      "ja": "今日は何日ですか。"
+    },
+    {
+      "source": "original",
+      "label": "date back to A",
+      "en": "This temple dates back to the eighth century.",
+      "ja": "この寺は8世紀にさかのぼる。"
+    },
+    {
+      "source": "original",
+      "label": "out of date",
+      "en": "This map is out of date; the new station isn't on it.",
+      "ja": "この地図は古い。新しい駅がのっていない。"
+    },
+    {
+      "source": "original",
+      "label": "up to date",
+      "en": "The website keeps its news up to date.",
+      "ja": "そのウェブサイトはニュースを最新の状態に保っている。"
+    },
+    {
+      "source": "original",
+      "label": "to date",
+      "en": "To date, no one has solved the problem.",
+      "ja": "今までのところ、その問題を解いた人はいない。"
+    },
+    {
+      "source": "original",
+      "label": "デート",
+      "en": "She went on a date with him last Saturday.",
+      "ja": "彼女は先週の土曜日に彼とデートした。"
+    }
+  ],
+  "check_points": [
+    "date back to A の意味を言えるか",
+    "out of date / up to date / to date の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "date back to [from] A(さかのぼる)と out of date / up to date が熟語・長文で頻出。to date(今まで)も狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 853
+    }
+  ]
+}

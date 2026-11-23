@@ -1,0 +1,90 @@
+{
+  "word": "discard",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈskɑːrd/",
+  "core_image": {
+    "text": "いらない手札を、ぽいと捨てる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"96\" y2=\"80\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"98\"/><rect x=\"112\" y=\"66\" width=\"18\" height=\"26\"/><line x1=\"140\" y1=\"84\" x2=\"172\" y2=\"96\"/><polyline points=\"166.8,89.9 172,96 164.1,97.1\"/><path d=\"M170 104 L176 140 L214 140 L220 104 Z\"/><line x1=\"164\" y1=\"104\" x2=\"226\" y2=\"104\"/></g><text x=\"200\" y=\"74\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">捨てる</text></svg>"
+  },
+  "etymology": "dis(離して) + card(カード) → (トランプで)いらない札を手から離す → (不要なものを)捨てる → (考え・習慣を)捨て去る",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to throw something away or get rid of it because it is no longer useful or wanted."
+    }
+  ],
+  "cautions": [
+    "throw away / get rid of と言いかえられる",
+    "物だけでなく、考え・習慣・計画を「捨てる」にも使う",
+    "discard A as B=AをBとして捨てる",
+    "abandon(見捨てる・あきらめる)より「不要品として捨てる」感じ"
+  ],
+  "patterns": [
+    {
+      "form": "discard A",
+      "meaning": "Aを捨てる"
+    },
+    {
+      "form": "discard A as B",
+      "meaning": "AをBとして捨てる"
+    },
+    {
+      "form": "discarded A",
+      "meaning": "捨てられたA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "捨てる",
+      "en": "Please discard the box after opening it.",
+      "ja": "開けたあと箱は捨ててください。"
+    },
+    {
+      "source": "original",
+      "label": "手札を捨てる",
+      "en": "He discarded two cards and drew two new ones.",
+      "ja": "彼はカードを2枚捨てて、新しく2枚引いた。"
+    },
+    {
+      "source": "original",
+      "label": "discard A as B",
+      "en": "The old computers were discarded as useless.",
+      "ja": "古いコンピューターは役に立たないとして捨てられた。"
+    },
+    {
+      "source": "original",
+      "label": "考えを捨てる",
+      "en": "We should discard the idea that boys are better at math.",
+      "ja": "男子のほうが数学が得意だという考えは捨てるべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "discarded",
+      "en": "The beach was covered with discarded plastic bottles.",
+      "ja": "浜辺は捨てられたペットボトルでおおわれていた。"
+    },
+    {
+      "source": "original",
+      "label": "習慣を捨てる",
+      "en": "She discarded her old habits and started a new life.",
+      "ja": "彼女は古い習慣を捨てて新しい生活を始めた。"
+    }
+  ],
+  "check_points": [
+    "discard を別の語句で言いかえられるか",
+    "discard の語源(dis + card)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "throw away / get rid of との言いかえが語彙問題で、discarded(捨てられた)が環境問題の長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 859
+    }
+  ]
+}

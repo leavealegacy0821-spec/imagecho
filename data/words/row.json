@@ -1,0 +1,103 @@
+{
+  "word": "row",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/roʊ/",
+  "core_image": {
+    "text": "横にずらりと並んだ一列",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"70\" width=\"26\" height=\"26\"/><rect x=\"72\" y=\"70\" width=\"26\" height=\"26\"/><rect x=\"114\" y=\"70\" width=\"26\" height=\"26\"/><rect x=\"156\" y=\"70\" width=\"26\" height=\"26\"/><rect x=\"198\" y=\"70\" width=\"26\" height=\"26\"/><line x1=\"30\" y1=\"120\" x2=\"224\" y2=\"120\"/><polyline points=\"217,116.2 224,120 217,123.8\"/></g><text x=\"127\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">一列</text></svg>"
+  },
+  "etymology": "古英語 raw(列・並び) → (横に並んだ)列・(劇場の座席の)列 → 列が切れずに続く=連続して(in a row) → 動詞 row(舟をこぐ)は別の語(古英語 rowan) → /raʊ/ と読むと「口論」で、これも別の語",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a line of things or people next to each other; (pronounced /raʊ/) a noisy argument."
+    },
+    {
+      "pos": "動詞",
+      "text": "to move a boat through water using oars."
+    }
+  ],
+  "cautions": [
+    "in a row=①一列に ②連続して(three days in a row=3日続けて)",
+    "「舟をこぐ」の row は同じつづりの別の語",
+    "/raʊ/ と読むと「口論・けんか」(have a row with A)",
+    "front row=最前列"
+  ],
+  "patterns": [
+    {
+      "form": "in a row",
+      "meaning": "一列に・連続して"
+    },
+    {
+      "form": "a row of A",
+      "meaning": "ずらりと並んだA"
+    },
+    {
+      "form": "the front [back] row",
+      "meaning": "最前列[最後列]"
+    },
+    {
+      "form": "row a boat",
+      "meaning": "ボートをこぐ"
+    },
+    {
+      "form": "have a row with A",
+      "meaning": "Aと口論する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "列",
+      "en": "We sat in the front row of the theater.",
+      "ja": "私たちは劇場の最前列に座った。"
+    },
+    {
+      "source": "original",
+      "label": "a row of A",
+      "en": "There is a row of cherry trees along the river.",
+      "ja": "川沿いに桜の木が一列に並んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "in a row(一列に)",
+      "en": "The students stood in a row for the photo.",
+      "ja": "生徒たちは写真のために一列に並んだ。"
+    },
+    {
+      "source": "original",
+      "label": "in a row(連続して)",
+      "en": "Our team has won five games in a row.",
+      "ja": "私たちのチームは5試合連続で勝っている。"
+    },
+    {
+      "source": "original",
+      "label": "舟をこぐ",
+      "en": "They rowed the boat across the lake.",
+      "ja": "彼らはボートをこいで湖を渡った。"
+    },
+    {
+      "source": "original",
+      "label": "口論(/raʊ/)",
+      "en": "I had a row with my brother about the TV.",
+      "ja": "テレビのことで兄と口げんかした。"
+    }
+  ],
+  "check_points": [
+    "in a row の2つの意味を言えるか",
+    "row を「口論」の意味で読むときの発音を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "in a row(連続して)が熟語・会話で頻出。/roʊ/ と /raʊ/ の読み分けも発音問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 852
+    }
+  ]
+}

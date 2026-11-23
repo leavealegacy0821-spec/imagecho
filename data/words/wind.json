@@ -1,0 +1,98 @@
+{
+  "word": "wind",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/waɪnd/",
+  "core_image": {
+    "text": "くるくる巻きながら、くねって進む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M40 150 C110 150 30 110 100 104 C170 98 100 66 160 62 C210 58 190 34 220 30\"/><path d=\"M60 44 a4 4 0 1 1 8 0 a8 8 0 1 1 -16 0 a12 12 0 1 1 24 0\"/></g><text x=\"60\" y=\"82\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">巻く</text><text x=\"185\" y=\"122\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くねって進む</text></svg>"
+  },
+  "etymology": "古英語 windan(ねじる・巻く) → (糸・ひもを)巻く・巻きつける → (時計のねじを)巻く(wind up) → (道・川が)曲がりくねって進む → (話・会を)巻き上げる=終える(wind up)・結局〜になる(wind up doing)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to turn or twist something around something else; (of a road or river) to follow a curving course; to turn a key or handle to make a clock work."
+    }
+  ],
+  "cautions": [
+    "活用は wind - wound - wound(発音は /waʊnd/。名詞 wound /wuːnd/=傷 と区別)",
+    "名詞の wind(風)は /wɪnd/ で別の発音",
+    "wind up doing=結局〜することになる(end up doing と同じ)",
+    "winding=曲がりくねった(a winding road)"
+  ],
+  "patterns": [
+    {
+      "form": "wind A around B",
+      "meaning": "AをBに巻きつける"
+    },
+    {
+      "form": "wind (up) a clock",
+      "meaning": "時計のねじを巻く"
+    },
+    {
+      "form": "A winds through B",
+      "meaning": "AがBの中をくねって進む"
+    },
+    {
+      "form": "wind up doing",
+      "meaning": "結局〜することになる"
+    },
+    {
+      "form": "wind up A",
+      "meaning": "Aを終わりにする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "巻く",
+      "en": "She wound the string around her finger.",
+      "ja": "彼女はひもを指に巻きつけた。"
+    },
+    {
+      "source": "original",
+      "label": "ねじを巻く",
+      "en": "My grandfather winds his old clock every Sunday.",
+      "ja": "祖父は毎週日曜日に古い時計のねじを巻く。"
+    },
+    {
+      "source": "original",
+      "label": "くねって進む",
+      "en": "The river winds through the valley.",
+      "ja": "その川は谷の中を曲がりくねって流れている。"
+    },
+    {
+      "source": "original",
+      "label": "winding",
+      "en": "We drove along a narrow winding road.",
+      "ja": "私たちは狭く曲がりくねった道を車で走った。"
+    },
+    {
+      "source": "original",
+      "label": "wind up doing",
+      "en": "If you don't plan ahead, you'll wind up doing everything at the last minute.",
+      "ja": "前もって計画しないと、結局ぎりぎりで全部やることになるよ。"
+    },
+    {
+      "source": "original",
+      "label": "wind up A",
+      "en": "Let's wind up the meeting and go home.",
+      "ja": "会議を終わりにして帰ろう。"
+    }
+  ],
+  "check_points": [
+    "wind(巻く)の過去形と発音を言えるか",
+    "wind up doing の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "活用 wound と発音(/waɪnd/・/waʊnd/・名詞 wound /wuːnd/)の区別、wind up doing(結局〜になる)が語法で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 851
+    }
+  ]
+}

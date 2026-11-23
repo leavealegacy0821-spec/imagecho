@@ -1,0 +1,94 @@
+{
+  "word": "stake",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/steɪk/",
+  "core_image": {
+    "text": "地面に打ちこんだ杭=そこに賭けたもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polygon points=\"110,60 130,60 130,136 120,152 110,136\"/><line x1=\"120\" y1=\"16\" x2=\"120\" y2=\"50\"/><polyline points=\"123.8,43 120,50 116.2,43\"/></g><text x=\"178\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くい</text><text x=\"178\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">賭けたもの</text></svg>"
+  },
+  "etymology": "古英語 staca(杭) → 地面に打ちこんだ杭 → (もう1つの意味として)賭けたもの・賭け金 → (その結果に)かかっているもの=利害関係(have a stake in A) → 賭けられて危うい=危機にひんして(at stake)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a pointed piece of wood pushed into the ground; money risked on a result; an interest or share in a business or situation."
+    }
+  ],
+  "cautions": [
+    "at stake=(失われるかどうか)かかっていて・危うくなって(be at stake)",
+    "have a stake in A=Aに利害関係がある",
+    "stakeholder=利害関係者",
+    "steak(ステーキ)と発音は同じでつづりが違う"
+  ],
+  "patterns": [
+    {
+      "form": "be at stake",
+      "meaning": "かかっている・危うくなっている"
+    },
+    {
+      "form": "have a stake in A",
+      "meaning": "Aに利害関係がある"
+    },
+    {
+      "form": "the stakes are high",
+      "meaning": "失うものが大きい"
+    },
+    {
+      "form": "a wooden stake",
+      "meaning": "木の杭"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "杭",
+      "en": "He drove a wooden stake into the ground.",
+      "ja": "彼は木の杭を地面に打ちこんだ。"
+    },
+    {
+      "source": "original",
+      "label": "be at stake",
+      "en": "Thousands of jobs are at stake.",
+      "ja": "何千もの仕事が危うくなっている。"
+    },
+    {
+      "source": "original",
+      "label": "at stake(かかっている)",
+      "en": "Our team's future is at stake in this game.",
+      "ja": "この試合にはチームの将来がかかっている。"
+    },
+    {
+      "source": "original",
+      "label": "have a stake in A",
+      "en": "Everyone has a stake in protecting the environment.",
+      "ja": "環境を守ることはすべての人に関わりがある。"
+    },
+    {
+      "source": "original",
+      "label": "the stakes are high",
+      "en": "The stakes are high, so we have to be careful.",
+      "ja": "失うものが大きいので、慎重にならなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "賭け金",
+      "en": "He doubled his stake and lost everything.",
+      "ja": "彼は賭け金を倍にして、すべてを失った。"
+    }
+  ],
+  "check_points": [
+    "at stake の意味を言えるか",
+    "have a stake in A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "at stake(危うくなって・かかって)が長文・熟語で頻出。have a stake in A(利害関係がある)も問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 854
+    }
+  ]
+}

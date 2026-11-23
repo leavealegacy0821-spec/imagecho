@@ -1,0 +1,94 @@
+{
+  "word": "regulate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈreɡjuleɪt/",
+  "core_image": {
+    "text": "ものさしに合わせて、ちょうどよく整える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M60 120 A60 60 0 0 1 180 120\"/><line x1=\"60\" y1=\"120\" x2=\"180\" y2=\"120\"/><line x1=\"120\" y1=\"120\" x2=\"150\" y2=\"80\"/><line x1=\"68\" y1=\"90\" x2=\"78\" y2=\"95\"/><line x1=\"120\" y1=\"60\" x2=\"120\" y2=\"72\"/><line x1=\"172\" y1=\"90\" x2=\"162\" y2=\"95\"/><circle cx=\"120\" cy=\"120\" r=\"4\"/></g><text x=\"120\" y=\"145\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ちょうどよく</text></svg>"
+  },
+  "etymology": "ラテン語 regula(ものさし・規則。rule、regular と同じ) → ものさしに合わせる → (規則で)規制する・取りしまる → (温度・速さなどを)調整する・調節する → 名詞 regulation=規則・規制",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to control an activity or process, especially by rules; to control the speed, temperature, etc. of something."
+    }
+  ],
+  "cautions": [
+    "「規制する」(規則で)と「調整する」(量・温度を)の2つの意味",
+    "名詞 regulation=規則・規制(traffic regulations)",
+    "regular(規則正しい)・rule と同じ根",
+    "be strictly regulated=厳しく規制されている"
+  ],
+  "patterns": [
+    {
+      "form": "regulate A",
+      "meaning": "Aを規制する・調整する"
+    },
+    {
+      "form": "be strictly regulated",
+      "meaning": "厳しく規制されている"
+    },
+    {
+      "form": "regulate the temperature",
+      "meaning": "温度を調節する"
+    },
+    {
+      "form": "rules and regulations",
+      "meaning": "規則"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "規制する",
+      "en": "The government regulates the use of drones.",
+      "ja": "政府はドローンの使用を規制している。"
+    },
+    {
+      "source": "original",
+      "label": "be regulated",
+      "en": "Hunting is strictly regulated in this area.",
+      "ja": "この地域では狩りが厳しく規制されている。"
+    },
+    {
+      "source": "original",
+      "label": "調整する",
+      "en": "Sweating helps regulate body temperature.",
+      "ja": "汗をかくことは体温の調節に役立つ。"
+    },
+    {
+      "source": "original",
+      "label": "調整する(速さ)",
+      "en": "This valve regulates the flow of water.",
+      "ja": "この弁が水の流れを調整する。"
+    },
+    {
+      "source": "original",
+      "label": "regulation",
+      "en": "You must follow the safety regulations.",
+      "ja": "安全規則に従わなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "規制する(仕組み)",
+      "en": "Laws that regulate working hours protect workers.",
+      "ja": "労働時間を規制する法律は労働者を守る。"
+    }
+  ],
+  "check_points": [
+    "regulate の2つの意味を言えるか",
+    "名詞 regulation の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "regulate(規制する・調整する)と regulation(規則)が長文で頻出。control との言いかえも出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 858
+    }
+  ]
+}
