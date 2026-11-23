@@ -1,0 +1,94 @@
+{
+  "word": "suppress",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/səˈpres/",
+  "core_image": {
+    "text": "下へ押さえつけて、表に出さない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"80\" y=\"100\" width=\"80\" height=\"40\"/><line x1=\"70\" y1=\"96\" x2=\"170\" y2=\"96\"/><line x1=\"120\" y1=\"24\" x2=\"120\" y2=\"88\"/><polyline points=\"123.8,81 120,88 116.2,81\"/><path d=\"M100 120 Q110 108 120 120 Q130 132 140 120\" stroke-dasharray=\"4 4\"/></g><text x=\"184\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">押さえる</text></svg>"
+  },
+  "etymology": "sub(下へ) + press(押す) → 下へ押さえつける → (反乱・暴動を)鎮圧する → (感情・あくび・笑いを)こらえる → (情報・報道を)もみ消す",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stop something by force; to stop yourself from showing a feeling; to prevent information from being known."
+    }
+  ],
+  "cautions": [
+    "(反乱・暴動を)鎮圧する、(感情を)こらえる、(情報を)もみ消す、の3つ",
+    "suppress one's anger [tears / a yawn]=怒り[涙・あくび]をこらえる",
+    "oppress=(人を)しいたげる、depress=気を落とさせる、と区別",
+    "名詞 suppression=抑圧・鎮圧"
+  ],
+  "patterns": [
+    {
+      "form": "suppress a revolt",
+      "meaning": "反乱を鎮圧する"
+    },
+    {
+      "form": "suppress one's anger",
+      "meaning": "怒りをこらえる"
+    },
+    {
+      "form": "suppress a yawn",
+      "meaning": "あくびをかみ殺す"
+    },
+    {
+      "form": "suppress information",
+      "meaning": "情報をもみ消す"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "鎮圧する",
+      "en": "The army suppressed the revolt within a week.",
+      "ja": "軍は1週間で反乱を鎮圧した。"
+    },
+    {
+      "source": "original",
+      "label": "こらえる(感情)",
+      "en": "She tried hard to suppress her anger.",
+      "ja": "彼女は怒りを必死にこらえようとした。"
+    },
+    {
+      "source": "original",
+      "label": "こらえる(あくび)",
+      "en": "I couldn't suppress a yawn during the long speech.",
+      "ja": "長い演説のあいだ、あくびをかみ殺せなかった。"
+    },
+    {
+      "source": "original",
+      "label": "もみ消す",
+      "en": "The company was accused of suppressing the report.",
+      "ja": "その会社は報告書をもみ消したと非難された。"
+    },
+    {
+      "source": "original",
+      "label": "抑える(体の働き)",
+      "en": "This medicine suppresses coughing.",
+      "ja": "この薬はせきを抑える。"
+    },
+    {
+      "source": "original",
+      "label": "suppression(名詞)",
+      "en": "The suppression of free speech is a serious problem.",
+      "ja": "言論の自由の抑圧は深刻な問題だ。"
+    }
+  ],
+  "check_points": [
+    "suppress の意味を3つ言えるか",
+    "oppress との違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「鎮圧する」「(感情を)抑える」の2つの意味が長文で問われる。suppress = hold back の言い換えも。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 839
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "prone",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/proʊn/",
+  "core_image": {
+    "text": "前のめりに、そちらへ傾いている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"150\" cy=\"64\" r=\"10\"/><line x1=\"144\" y1=\"72\" x2=\"112\" y2=\"112\"/><line x1=\"112\" y1=\"112\" x2=\"98\" y2=\"140\"/><line x1=\"112\" y1=\"112\" x2=\"120\" y2=\"140\"/><line x1=\"134\" y1=\"84\" x2=\"160\" y2=\"98\"/><line x1=\"168\" y1=\"74\" x2=\"204\" y2=\"116\" stroke-dasharray=\"5 5\"/><polyline points=\"202.3,108.2 204,116 196.5,113.2\"/></g><text x=\"60\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">〜しがち</text></svg>"
+  },
+  "etymology": "ラテン語 pronus(前に傾いた) → 前のめりの・うつぶせの → (性質・体が)ある方向へ傾いている → 〜しがちな・〜にかかりやすい(be prone to A / to do)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "likely to suffer from something or to do something bad; lying flat with the face down."
+    }
+  ],
+  "cautions": [
+    "be prone to A(名詞)/ be prone to do=Aになりがちだ・〜しがちだ。to のあとは両方ある",
+    "ふつう悪いこと(病気・事故・失敗)に使う",
+    "複合語:accident-prone=事故を起こしやすい、earthquake-prone=地震の多い",
+    "be liable to do / be apt to do / tend to do と近い"
+  ],
+  "patterns": [
+    {
+      "form": "be prone to A",
+      "meaning": "Aになりがちだ"
+    },
+    {
+      "form": "be prone to do",
+      "meaning": "〜しがちだ"
+    },
+    {
+      "form": "〜-prone",
+      "meaning": "〜しやすい・〜の多い"
+    },
+    {
+      "form": "be less prone to A",
+      "meaning": "Aになりにくい"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "be prone to A",
+      "en": "Older people are more prone to illness.",
+      "ja": "お年寄りは病気にかかりやすい。"
+    },
+    {
+      "source": "original",
+      "label": "be prone to do",
+      "en": "He is prone to make careless mistakes when he is tired.",
+      "ja": "彼は疲れていると不注意なミスをしがちだ。"
+    },
+    {
+      "source": "original",
+      "label": "〜-prone",
+      "en": "Japan is an earthquake-prone country.",
+      "ja": "日本は地震の多い国だ。"
+    },
+    {
+      "source": "original",
+      "label": "事故を起こしやすい",
+      "en": "My brother is so accident-prone that he often gets hurt.",
+      "ja": "弟はとてもけがをしやすく、しょっちゅうけがをする。"
+    },
+    {
+      "source": "original",
+      "label": "less prone",
+      "en": "Children who sleep well are less prone to colds.",
+      "ja": "よく眠る子どもは風邪をひきにくい。"
+    },
+    {
+      "source": "original",
+      "label": "うつぶせの",
+      "en": "The patient was lying in a prone position.",
+      "ja": "患者はうつぶせの姿勢で横になっていた。"
+    }
+  ],
+  "check_points": [
+    "be prone to のあとに来る形を2つ言えるか",
+    "prone と同じ意味の型を1つ言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be prone to A / to do が語彙・言い換え問題で頻出(= be liable to / be apt to)。-prone の複合語も長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 836
+    }
+  ]
+}

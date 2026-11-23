@@ -1,0 +1,103 @@
+{
+  "word": "feed",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/fiːd/",
+  "core_image": {
+    "text": "口に入れてやって、中を満たす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"98\"/><polyline points=\"60,74 82,82 100,84\"/><ellipse cx=\"168\" cy=\"120\" rx=\"30\" ry=\"14\"/><circle cx=\"134\" cy=\"108\" r=\"10\"/><line x1=\"152\" y1=\"132\" x2=\"150\" y2=\"140\"/><line x1=\"184\" y1=\"132\" x2=\"186\" y2=\"140\"/><line x1=\"102\" y1=\"88\" x2=\"122\" y2=\"102\" stroke-dasharray=\"5 5\"/><polyline points=\"118.4,94.8 122,102 114,101.1\"/></g><text x=\"180\" y=\"86\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">食べさせる</text></svg>"
+  },
+  "etymology": "古英語 fēdan(食べ物を与える。food と同じ根) → 食べ物を与える・(家族を)養う → (動物が)えさを食べる(feed on A=Aをえさにする) → (機械に)入れる・送りこむ(feed data into A) → (もう十分すぎるほど与えられた)→ be fed up with A=Aにうんざりしている",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give food to a person or an animal; (of an animal) to eat; to supply something to a machine."
+    },
+    {
+      "pos": "名詞",
+      "text": "food for animals."
+    }
+  ],
+  "cautions": [
+    "活用は feed - fed - fed",
+    "feed on A=(動物が)Aをえさにする(主語は動物)",
+    "be fed up with A=Aにうんざりしている(会話で頻出)",
+    "feed A to B=AをBに与える / feed B (on) A=BにAを与える"
+  ],
+  "patterns": [
+    {
+      "form": "feed A",
+      "meaning": "Aに食べ物を与える"
+    },
+    {
+      "form": "feed on A",
+      "meaning": "Aをえさにする"
+    },
+    {
+      "form": "be fed up with A",
+      "meaning": "Aにうんざりする"
+    },
+    {
+      "form": "feed A to B",
+      "meaning": "AをBに与える"
+    },
+    {
+      "form": "feed A into B",
+      "meaning": "AをBに入れる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "食べさせる",
+      "en": "Don't forget to feed the cat before you leave.",
+      "ja": "出かける前にネコにえさをやるのを忘れないで。"
+    },
+    {
+      "source": "original",
+      "label": "養う",
+      "en": "He works two jobs to feed his family.",
+      "ja": "彼は家族を養うために仕事を2つしている。"
+    },
+    {
+      "source": "original",
+      "label": "feed on",
+      "en": "Koalas feed on eucalyptus leaves.",
+      "ja": "コアラはユーカリの葉をえさにしている。"
+    },
+    {
+      "source": "original",
+      "label": "be fed up with",
+      "en": "I'm fed up with his excuses.",
+      "ja": "彼の言い訳にはもううんざりだ。"
+    },
+    {
+      "source": "original",
+      "label": "feed A to B",
+      "en": "The children fed bread to the ducks.",
+      "ja": "子どもたちはアヒルにパンを与えた。"
+    },
+    {
+      "source": "original",
+      "label": "入れる",
+      "en": "The data is fed into the computer every hour.",
+      "ja": "そのデータは1時間ごとにコンピューターに入力される。"
+    }
+  ],
+  "check_points": [
+    "feed の過去形・過去分詞を言えるか",
+    "be fed up with の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be fed up with(うんざり)が会話・語彙で頻出。feed on A(えさにする)は長文で、過去形 fed は語形で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 833
+    }
+  ]
+}

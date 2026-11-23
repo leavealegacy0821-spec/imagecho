@@ -1,0 +1,98 @@
+{
+  "word": "quarter",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈkwɔːrtər/",
+  "core_image": {
+    "text": "丸ごとを4つに分けた、その1つ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"80\" cy=\"85\" r=\"45\"/><line x1=\"35\" y1=\"85\" x2=\"125\" y2=\"85\"/><line x1=\"80\" y1=\"40\" x2=\"80\" y2=\"130\"/><path d=\"M160 100 L160 55 A45 45 0 0 1 205 100 Z\"/><line x1=\"112\" y1=\"64\" x2=\"150\" y2=\"72\" stroke-dasharray=\"5 5\"/><polyline points=\"143.9,66.8 150,72 142.3,74.3\"/></g><text x=\"182\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">4分の1</text></svg>"
+  },
+  "etymology": "ラテン語 quartus(4番目の) → 4分の1 → 1時間の4分の1=15分(a quarter past five) → 1年の4分の1=四半期 → 1ドルの4分の1=25セント硬貨 → (町を区切った)一区画=地区(the old quarter) → 方面・筋(from all quarters) → 住む区域=宿舎(quarters)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "one of four equal parts; fifteen minutes; a part of a town; a person or group from which something comes."
+    }
+  ],
+  "cautions": [
+    "a quarter past [to] five=5時15分[5時15分前]",
+    "three quarters=4分の3(a quarter の複数で数える)",
+    "「地区」の意味:the Chinese quarter=中華街のある地区",
+    "from all quarters=あらゆる方面から / quarters(複数)=宿舎・住まい"
+  ],
+  "patterns": [
+    {
+      "form": "a quarter of A",
+      "meaning": "Aの4分の1"
+    },
+    {
+      "form": "a quarter past [to] 〜",
+      "meaning": "〜時15分[15分前]"
+    },
+    {
+      "form": "three quarters",
+      "meaning": "4分の3"
+    },
+    {
+      "form": "from all quarters",
+      "meaning": "あらゆる方面から"
+    },
+    {
+      "form": "the 〜 quarter",
+      "meaning": "〜地区"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "4分の1",
+      "en": "A quarter of the students walk to school.",
+      "ja": "生徒の4分の1が歩いて通学している。"
+    },
+    {
+      "source": "original",
+      "label": "15分",
+      "en": "The train leaves at a quarter past seven.",
+      "ja": "電車は7時15分に出る。"
+    },
+    {
+      "source": "original",
+      "label": "15分前",
+      "en": "It's a quarter to ten, so we should hurry.",
+      "ja": "10時15分前だから、急いだほうがいい。"
+    },
+    {
+      "source": "original",
+      "label": "4分の3",
+      "en": "Three quarters of the earth's surface is covered with water.",
+      "ja": "地球の表面の4分の3は水におおわれている。"
+    },
+    {
+      "source": "original",
+      "label": "地区",
+      "en": "We walked through the old quarter of the city.",
+      "ja": "私たちはその都市の旧市街地区を歩いた。"
+    },
+    {
+      "source": "original",
+      "label": "方面",
+      "en": "The plan was criticized from all quarters.",
+      "ja": "その計画はあらゆる方面から批判された。"
+    }
+  ],
+  "check_points": [
+    "a quarter to ten は何時か言えるか",
+    "from all quarters の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "時刻の a quarter past / to、three quarters(4分の3)が基本。「地区」「方面」の意味は長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 832
+    }
+  ]
+}

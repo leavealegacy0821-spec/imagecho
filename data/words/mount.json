@@ -1,0 +1,103 @@
+{
+  "word": "mount",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/maʊnt/",
+  "core_image": {
+    "text": "下から上へ、だんだんのぼっていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polygon points=\"40,140 120,40 200,140\"/><line x1=\"34\" y1=\"112\" x2=\"78\" y2=\"56\"/><polyline points=\"70.6,59.2 78,56 76.7,63.9\"/></g><text x=\"182\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">のぼる</text></svg>"
+  },
+  "etymology": "ラテン語 mons(山。mountain と同じ) → 山にのぼる → (馬・自転車・壇に)上がる・乗る → (量・費用・緊張が)上がる=増える(mounting costs) → (上に)取りつける・すえつける → (計画を立ち上げて)行う(mount a campaign) → 総計して〜に上る=amount(同じ根)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to go up something; to increase gradually; to fix something on a wall or stand; to organize and begin an activity."
+    },
+    {
+      "pos": "名詞",
+      "text": "(Mount) used in the names of mountains."
+    }
+  ],
+  "cautions": [
+    "自動詞 mount=(費用・不安・圧力が)だんだん増す(mounting pressure)",
+    "mount a campaign [an attack]=運動[攻撃]を開始する・行う",
+    "山の名前 Mount Fuji=Mt. Fuji(名詞)",
+    "同じ根の amount:amount to A=(合計が)Aに達する"
+  ],
+  "patterns": [
+    {
+      "form": "mount A",
+      "meaning": "Aにのぼる・乗る"
+    },
+    {
+      "form": "A mounts",
+      "meaning": "Aがだんだん増す"
+    },
+    {
+      "form": "mounting A",
+      "meaning": "増えていくA"
+    },
+    {
+      "form": "mount a campaign",
+      "meaning": "運動を始める"
+    },
+    {
+      "form": "mount A on B",
+      "meaning": "AをBに取りつける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "のぼる",
+      "en": "The speaker slowly mounted the stairs to the stage.",
+      "ja": "講演者はゆっくりとステージへの階段をのぼった。"
+    },
+    {
+      "source": "original",
+      "label": "乗る",
+      "en": "He mounted his bike and rode away.",
+      "ja": "彼は自転車に乗って走り去った。"
+    },
+    {
+      "source": "original",
+      "label": "増す",
+      "en": "Tension mounted as the deadline approached.",
+      "ja": "締め切りが近づくにつれて緊張が高まった。"
+    },
+    {
+      "source": "original",
+      "label": "mounting",
+      "en": "The company is facing mounting costs.",
+      "ja": "その会社は増え続ける費用に直面している。"
+    },
+    {
+      "source": "original",
+      "label": "行う",
+      "en": "The group mounted a campaign to protect the forest.",
+      "ja": "その団体は森を守る運動を始めた。"
+    },
+    {
+      "source": "original",
+      "label": "取りつける",
+      "en": "A camera was mounted on the wall.",
+      "ja": "壁にカメラが取りつけられていた。"
+    }
+  ],
+  "check_points": [
+    "Tension mounted. の意味を言えるか",
+    "mount a campaign の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「増す」の自動詞(mounting costs / pressure)と mount a campaign(開始する)が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 835
+    }
+  ]
+}
