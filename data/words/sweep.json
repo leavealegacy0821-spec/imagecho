@@ -1,0 +1,103 @@
+{
+  "word": "sweep",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/swiːp/",
+  "core_image": {
+    "text": "ほうきで、さっと広く払いのける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"100\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"96\" y2=\"84\"/><line x1=\"92\" y1=\"72\" x2=\"120\" y2=\"128\"/><polygon points=\"112,128 130,128 140,140 104,140\"/><circle cx=\"162\" cy=\"136\" r=\"2\"/><circle cx=\"172\" cy=\"133\" r=\"2\"/><circle cx=\"182\" cy=\"136\" r=\"2\"/><line x1=\"146\" y1=\"116\" x2=\"206\" y2=\"116\"/><polyline points=\"199,112.2 206,116 199,119.8\"/></g><text x=\"176\" y=\"88\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さっと払う</text></svg>"
+  },
+  "etymology": "古英語 swāpan(さっと払う) → (ほうきで)掃く・掃除する → (さっと払うように)一気に運び去る・押し流す(sweep away) → (風・火・流行が)一気に広がる(sweep through [across] A) → (試合で)全部勝つ・圧勝する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to clean a floor with a brush; to move or spread quickly over a large area; to push or carry something away with force."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of sweeping; a long curved movement."
+    }
+  ],
+  "cautions": [
+    "活用は sweep - swept - swept",
+    "sweep through [across] A=(火・流行などが)Aに一気に広がる",
+    "sweep away=押し流す・一掃する(The bridge was swept away.)",
+    "sweeping=全面的な・大まかな(sweeping changes)"
+  ],
+  "patterns": [
+    {
+      "form": "sweep A",
+      "meaning": "Aを掃く"
+    },
+    {
+      "form": "sweep A away",
+      "meaning": "Aを押し流す・一掃する"
+    },
+    {
+      "form": "sweep through [across] A",
+      "meaning": "Aに一気に広がる"
+    },
+    {
+      "form": "be swept away by A",
+      "meaning": "Aに押し流される"
+    },
+    {
+      "form": "sweeping changes",
+      "meaning": "全面的な変化"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "掃く",
+      "en": "I swept the floor after dinner.",
+      "ja": "夕食のあと床を掃いた。"
+    },
+    {
+      "source": "original",
+      "label": "押し流す",
+      "en": "Many houses were swept away by the flood.",
+      "ja": "多くの家が洪水で押し流された。"
+    },
+    {
+      "source": "original",
+      "label": "一気に広がる(火)",
+      "en": "The fire swept through the old town.",
+      "ja": "火は古い町に一気に広がった。"
+    },
+    {
+      "source": "original",
+      "label": "一気に広がる(流行)",
+      "en": "A new dance craze swept across the country.",
+      "ja": "新しいダンスの大流行が国じゅうに広がった。"
+    },
+    {
+      "source": "original",
+      "label": "sweeping",
+      "en": "The new president promised sweeping changes.",
+      "ja": "新大統領は全面的な改革を約束した。"
+    },
+    {
+      "source": "original",
+      "label": "圧勝する",
+      "en": "Our school swept the top three places in the race.",
+      "ja": "私たちの学校はそのレースで上位3位を独占した。"
+    }
+  ],
+  "check_points": [
+    "sweep の過去形・過去分詞を言えるか",
+    "be swept away の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "活用 swept と、sweep away(押し流す)・sweep through A(一気に広がる)が長文で問われる。sweeping(全面的な)も出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 864
+    }
+  ]
+}

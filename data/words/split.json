@@ -1,0 +1,103 @@
+{
+  "word": "split",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/splɪt/",
+  "core_image": {
+    "text": "まん中からパカッと2つに割る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon points=\"40,62 108,62 102,82 110,102 40,102\"/><polygon points=\"130,62 200,62 200,102 132,102 124,82\"/><line x1=\"72\" y1=\"124\" x2=\"32\" y2=\"124\"/><polyline points=\"39,127.8 32,124 39,120.2\"/><line x1=\"168\" y1=\"124\" x2=\"208\" y2=\"124\"/><polyline points=\"201,120.2 208,124 201,127.8\"/></g><text x=\"120\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">パカッと割る</text></svg>"
+  },
+  "etymology": "中期オランダ語 splitten(縦に裂く) → (木などを)縦に割る・裂く → (グループを)分ける・分裂する(split into A) → (費用・利益を)分け合う(split the bill) → (恋人が)別れる(split up) → 分裂・割れ目(名詞)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to divide or break something into two or more parts; to share something; (of a couple) to end a relationship."
+    },
+    {
+      "pos": "名詞",
+      "text": "a division between people in a group; a long crack."
+    }
+  ],
+  "cautions": [
+    "活用は split - split - split(過去形も同じ形)",
+    "split A into B=AをBに分ける(into が来る)",
+    "split up (with A)=(Aと)別れる・解散する",
+    "split the bill [cost]=割り勘にする"
+  ],
+  "patterns": [
+    {
+      "form": "split A into B",
+      "meaning": "AをBに分ける"
+    },
+    {
+      "form": "split A with B",
+      "meaning": "AをBと分け合う"
+    },
+    {
+      "form": "split the bill",
+      "meaning": "割り勘にする"
+    },
+    {
+      "form": "split up (with A)",
+      "meaning": "(Aと)別れる"
+    },
+    {
+      "form": "a split in A",
+      "meaning": "Aの中の分裂"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "割る",
+      "en": "He split the log with an axe.",
+      "ja": "彼はおので丸太を割った。"
+    },
+    {
+      "source": "original",
+      "label": "split A into B",
+      "en": "The teacher split the class into four groups.",
+      "ja": "先生はクラスを4つのグループに分けた。"
+    },
+    {
+      "source": "original",
+      "label": "split the bill",
+      "en": "Let's split the bill.",
+      "ja": "割り勘にしよう。"
+    },
+    {
+      "source": "original",
+      "label": "split A with B",
+      "en": "I split the pizza with my sister.",
+      "ja": "私は妹とピザを分け合った。"
+    },
+    {
+      "source": "original",
+      "label": "split up",
+      "en": "The band split up after ten years.",
+      "ja": "そのバンドは10年後に解散した。"
+    },
+    {
+      "source": "original",
+      "label": "分裂(名詞)",
+      "en": "The issue caused a split in the party.",
+      "ja": "その問題は党内に分裂を引き起こした。"
+    }
+  ],
+  "check_points": [
+    "split の過去形・過去分詞を言えるか",
+    "split up と split the bill の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "活用(split - split - split)と split A into B、split up(別れる)、split the bill(割り勘)が会話・熟語で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 863
+    }
+  ]
+}

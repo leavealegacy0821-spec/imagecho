@@ -1,0 +1,94 @@
+{
+  "word": "dictate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈdɪkteɪt/",
+  "core_image": {
+    "text": "上から言いつけて、そのとおりにさせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"98\"/><line x1=\"50\" y1=\"74\" x2=\"62\" y2=\"98\"/><line x1=\"68\" y1=\"52\" x2=\"152\" y2=\"52\"/><polyline points=\"145,48.2 152,52 145,55.8\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"204\" y2=\"92\"/><rect x=\"198\" y=\"94\" width=\"28\" height=\"6\"/></g><text x=\"110\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">言ったとおりに</text></svg>"
+  },
+  "etymology": "ラテン語 dictare(くり返し言う。dicere=言う。dictionary、predict と同じ) → 言ったことを書き取らせる・口述する → (言ったとおりに)命令する・指図する(dictate to A) → (状況・規則が)決める・左右する → 名詞 dictator=独裁者・dictation=書き取り",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say words for someone else to write down; to tell someone what to do in an unpleasant way; to control or influence how something happens."
+    }
+  ],
+  "cautions": [
+    "dictate to A=Aに指図する(to が必要)",
+    "「(状況・事情が)決める・左右する」の意味が長文に多い(Circumstances dictate …)",
+    "dictation=書き取り(ディクテーション)/ dictator=独裁者",
+    "predict(pre 前に + dict 言う)と同じ dict=言う"
+  ],
+  "patterns": [
+    {
+      "form": "dictate A to B",
+      "meaning": "AをBに書き取らせる"
+    },
+    {
+      "form": "dictate to A",
+      "meaning": "Aに指図する"
+    },
+    {
+      "form": "dictate A",
+      "meaning": "(状況などが)Aを決める"
+    },
+    {
+      "form": "dictate that S V",
+      "meaning": "〜と命じる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "口述する",
+      "en": "The manager dictated a letter to his secretary.",
+      "ja": "部長は秘書に手紙を書き取らせた。"
+    },
+    {
+      "source": "original",
+      "label": "dictate to A",
+      "en": "Don't let other people dictate to you.",
+      "ja": "他人に指図されるままになってはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "決める・左右する",
+      "en": "The weather will dictate whether the game is held.",
+      "ja": "試合が行われるかどうかは天気次第だ。"
+    },
+    {
+      "source": "original",
+      "label": "dictate A",
+      "en": "Fashion often dictates what young people buy.",
+      "ja": "流行が若者の買うものを左右することが多い。"
+    },
+    {
+      "source": "original",
+      "label": "dictate that S V",
+      "en": "The rules dictate that all players wear helmets.",
+      "ja": "規則では選手は全員ヘルメットをかぶることになっている。"
+    },
+    {
+      "source": "original",
+      "label": "dictation",
+      "en": "We have an English dictation test every Friday.",
+      "ja": "毎週金曜日に英語の書き取りテストがある。"
+    }
+  ],
+  "check_points": [
+    "dictate の「決める・左右する」の意味を言えるか",
+    "dictate to A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「(状況が)決める・左右する」の意味が長文で、dictate to A(指図する)が語法で問われる。dictator / dictation もセットで。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 862
+    }
+  ]
+}

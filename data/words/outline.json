@@ -1,0 +1,99 @@
+{
+  "word": "outline",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈaʊtlaɪn/",
+  "core_image": {
+    "text": "中身より先に、外側のふちどり線",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"30,130 30,80 70,50 110,80 110,130 30,130\"/><circle cx=\"146\" cy=\"64\" r=\"2\"/><line x1=\"154\" y1=\"64\" x2=\"214\" y2=\"64\"/><circle cx=\"146\" cy=\"90\" r=\"2\"/><line x1=\"154\" y1=\"90\" x2=\"204\" y2=\"90\"/><circle cx=\"146\" cy=\"116\" r=\"2\"/><line x1=\"154\" y1=\"116\" x2=\"214\" y2=\"116\"/></g><text x=\"70\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">輪郭</text><text x=\"184\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あらまし</text></svg>"
+  },
+  "etymology": "out(外側の) + line(線) → 外側のふちどりの線=輪郭 → (中身の前の)大まかな形=概要・あらまし → 概要を述べる・輪郭を描く(動詞)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a line showing the shape of something; the main facts or ideas of something without the details."
+    },
+    {
+      "pos": "動詞",
+      "text": "to describe the main facts about something; to show the edge of something."
+    }
+  ],
+  "cautions": [
+    "名詞「輪郭」「概要」と動詞「概要を述べる」の両方",
+    "in outline=概略で",
+    "outline A=Aの概要を説明する(summarize と近い)",
+    "a rough outline=大まかな概要"
+  ],
+  "patterns": [
+    {
+      "form": "an outline of A",
+      "meaning": "Aの概要・輪郭"
+    },
+    {
+      "form": "in outline",
+      "meaning": "概略で"
+    },
+    {
+      "form": "outline A",
+      "meaning": "Aの概要を述べる"
+    },
+    {
+      "form": "be outlined against A",
+      "meaning": "Aを背景に輪郭が浮かぶ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "輪郭",
+      "en": "I could see the outline of a mountain in the fog.",
+      "ja": "霧の中に山の輪郭が見えた。"
+    },
+    {
+      "source": "original",
+      "label": "概要",
+      "en": "Write an outline of your essay first.",
+      "ja": "まず作文の概要を書きなさい。"
+    },
+    {
+      "source": "original",
+      "label": "outline A",
+      "en": "The principal outlined the plans for the new school year.",
+      "ja": "校長は新年度の計画の概要を説明した。"
+    },
+    {
+      "source": "original",
+      "label": "in outline",
+      "en": "He explained the project in outline.",
+      "ja": "彼は計画を大まかに説明した。"
+    },
+    {
+      "source": "original",
+      "label": "a rough outline",
+      "en": "She gave us a rough outline of the story.",
+      "ja": "彼女は物語の大まかなあらすじを話してくれた。"
+    },
+    {
+      "source": "original",
+      "label": "be outlined against",
+      "en": "The tower was outlined against the evening sky.",
+      "ja": "その塔は夕空を背景にくっきり浮かんでいた。"
+    }
+  ],
+  "check_points": [
+    "outline の「輪郭」と「概要」の意味を言えるか",
+    "動詞 outline A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「概要(を述べる)」の意味が長文・設問文(outline the main points)で頻出。summarize との近さも押さえる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 867
+    }
+  ]
+}

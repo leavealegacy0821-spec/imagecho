@@ -1,0 +1,99 @@
+{
+  "word": "trigger",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈtrɪɡər/",
+  "core_image": {
+    "text": "最初のひと押しで、次々に起こさせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"86\" y2=\"104\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"98\"/><rect x=\"90\" y=\"100\" width=\"8\" height=\"40\"/><rect x=\"115\" y=\"100\" width=\"8\" height=\"40\"/><rect x=\"140\" y=\"100\" width=\"8\" height=\"40\"/><rect x=\"165\" y=\"100\" width=\"8\" height=\"40\"/><rect x=\"190\" y=\"100\" width=\"8\" height=\"40\"/><line x1=\"100\" y1=\"84\" x2=\"200\" y2=\"84\"/><polyline points=\"193,80.2 200,84 193,87.8\"/></g><text x=\"150\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">引き起こす</text></svg>"
+  },
+  "etymology": "オランダ語 trekker(引くもの。trekken=引く) → (銃の)引き金 → 引き金を引くように、きっかけを与えて一気に起こさせる=引き起こす(動詞) → 引き金・きっかけ(名詞)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make something happen suddenly, especially a series of events or a reaction."
+    },
+    {
+      "pos": "名詞",
+      "text": "the part of a gun you pull to fire it; something that causes something else to happen."
+    }
+  ],
+  "cautions": [
+    "trigger A=Aを引き起こす(cause / set off / bring about と言いかえ)",
+    "「きっかけ」の名詞は a trigger for A(Aのきっかけ)",
+    "pull the trigger=引き金を引く",
+    "病気・アレルギーの発作の「引き金」として長文に多い"
+  ],
+  "patterns": [
+    {
+      "form": "trigger A",
+      "meaning": "Aを引き起こす"
+    },
+    {
+      "form": "be triggered by A",
+      "meaning": "Aがきっかけで起こる"
+    },
+    {
+      "form": "a trigger for A",
+      "meaning": "Aのきっかけ"
+    },
+    {
+      "form": "pull the trigger",
+      "meaning": "引き金を引く"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "引き起こす",
+      "en": "The earthquake triggered a huge tsunami.",
+      "ja": "その地震は巨大な津波を引き起こした。"
+    },
+    {
+      "source": "original",
+      "label": "be triggered by A",
+      "en": "His asthma attack was triggered by dust.",
+      "ja": "彼のぜんそくの発作はほこりがきっかけだった。"
+    },
+    {
+      "source": "original",
+      "label": "引き起こす(反応)",
+      "en": "The comment triggered a heated debate online.",
+      "ja": "その発言はネット上で激しい議論を引き起こした。"
+    },
+    {
+      "source": "original",
+      "label": "a trigger for A",
+      "en": "Stress can be a trigger for headaches.",
+      "ja": "ストレスは頭痛のきっかけになりうる。"
+    },
+    {
+      "source": "original",
+      "label": "作動させる",
+      "en": "Smoke from the kitchen triggered the fire alarm.",
+      "ja": "台所の煙で火災報知器が鳴った。"
+    },
+    {
+      "source": "original",
+      "label": "引き金",
+      "en": "The hunter slowly pulled the trigger.",
+      "ja": "猟師はゆっくりと引き金を引いた。"
+    }
+  ],
+  "check_points": [
+    "trigger を別の語で言いかえられるか",
+    "a trigger for A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "trigger A(引き起こす)が長文で頻出。cause / set off / bring about との言いかえが語彙問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 866
+    }
+  ]
+}

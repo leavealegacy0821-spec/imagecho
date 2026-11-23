@@ -1,0 +1,94 @@
+{
+  "word": "shrink",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ʃrɪŋk/",
+  "core_image": {
+    "text": "きゅっと縮んで、小さくなる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"50\" width=\"70\" height=\"70\"/><line x1=\"110\" y1=\"85\" x2=\"152\" y2=\"95\"/><polyline points=\"146.1,89.6 152,95 144.3,97.1\"/><rect x=\"164\" y=\"82\" width=\"30\" height=\"30\"/><line x1=\"24\" y1=\"44\" x2=\"38\" y2=\"58\"/><line x1=\"106\" y1=\"44\" x2=\"92\" y2=\"58\"/></g><text x=\"130\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">縮む</text></svg>"
+  },
+  "etymology": "古英語 scrincan(縮む・しおれる) → (布などが)縮む → (数・量・規模が)減る・小さくなる → (怖くて身を縮める)ひるむ・しりごみする(shrink from A) → 名詞 shrinkage=縮み・減少",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to become smaller; to make something smaller; to move back because you are afraid or do not want to do something."
+    }
+  ],
+  "cautions": [
+    "活用は shrink - shrank - shrunk(shrunk を過去形に使うこともある)",
+    "自動詞「縮む・減る」と他動詞「縮める」の両方",
+    "shrink from A [doing]=Aにしりごみする・Aを避ける",
+    "数・人口・市場が「減る」にも使う(decrease と言いかえ)"
+  ],
+  "patterns": [
+    {
+      "form": "A shrinks",
+      "meaning": "Aが縮む・減る"
+    },
+    {
+      "form": "shrink A",
+      "meaning": "Aを縮める"
+    },
+    {
+      "form": "shrink from A [doing]",
+      "meaning": "Aにしりごみする"
+    },
+    {
+      "form": "shrink by A",
+      "meaning": "Aだけ減る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "縮む",
+      "en": "My sweater shrank in the wash.",
+      "ja": "セーターが洗濯で縮んだ。"
+    },
+    {
+      "source": "original",
+      "label": "減る",
+      "en": "The town's population has shrunk by half.",
+      "ja": "町の人口は半分に減った。"
+    },
+    {
+      "source": "original",
+      "label": "減る(規模)",
+      "en": "The market for CDs is shrinking.",
+      "ja": "CDの市場は縮小している。"
+    },
+    {
+      "source": "original",
+      "label": "縮める",
+      "en": "Hot water will shrink this shirt.",
+      "ja": "お湯で洗うとこのシャツは縮む。"
+    },
+    {
+      "source": "original",
+      "label": "shrink from doing",
+      "en": "He never shrank from telling the truth.",
+      "ja": "彼は決して本当のことを言うのをためらわなかった。"
+    },
+    {
+      "source": "original",
+      "label": "しりごみする",
+      "en": "She shrank back in fear when the dog barked.",
+      "ja": "犬がほえると彼女はこわがって後ずさりした。"
+    }
+  ],
+  "check_points": [
+    "shrink の過去形・過去分詞を言えるか",
+    "shrink from A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "活用 shrank / shrunk と、「(数・規模が)減る」の意味が長文で問われる。shrink from A(しりごみする)も出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 865
+    }
+  ]
+}

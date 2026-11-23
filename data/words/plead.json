@@ -1,0 +1,94 @@
+{
+  "word": "plead",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/pliːd/",
+  "core_image": {
+    "text": "両手を合わせて、必死に訴える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"92\" y2=\"70\"/><line x1=\"60\" y1=\"78\" x2=\"92\" y2=\"72\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"168\" y2=\"98\"/><line x1=\"180\" y1=\"74\" x2=\"192\" y2=\"98\"/><line x1=\"100\" y1=\"62\" x2=\"158\" y2=\"62\" stroke-dasharray=\"5 5\"/><polyline points=\"151,58.2 158,62 151,65.8\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">必死に訴える</text></svg>"
+  },
+  "etymology": "古フランス語 plaidier(裁判で申し立てる) → (法廷で)弁論する・(罪を)認める[認めない](plead guilty / not guilty) → 必死に頼む・嘆願する(plead with A to do) → (理由として)申し立てる・言い訳にする(plead ignorance) → 名詞 plea=嘆願・申し立て",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to ask for something in an emotional way; to say in a court of law whether you are guilty; to give something as an excuse."
+    }
+  ],
+  "cautions": [
+    "plead with A to do=Aに〜してくれと必死に頼む(with が必要。ask A to do との違い)",
+    "plead for A=Aを求めて嘆願する",
+    "plead guilty [not guilty]=罪を認める[認めない]",
+    "過去形は pleaded(米では pled も)"
+  ],
+  "patterns": [
+    {
+      "form": "plead with A to do",
+      "meaning": "Aに〜してと嘆願する"
+    },
+    {
+      "form": "plead for A",
+      "meaning": "Aを嘆願する"
+    },
+    {
+      "form": "plead guilty [not guilty]",
+      "meaning": "罪を認める[否認する]"
+    },
+    {
+      "form": "plead ignorance",
+      "meaning": "知らなかったと言い訳する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "plead with A to do",
+      "en": "She pleaded with her parents to let her go to the concert.",
+      "ja": "彼女はコンサートに行かせてと両親に必死に頼んだ。"
+    },
+    {
+      "source": "original",
+      "label": "plead for A",
+      "en": "The villagers pleaded for help after the storm.",
+      "ja": "嵐のあと村人たちは助けを求めて訴えた。"
+    },
+    {
+      "source": "original",
+      "label": "plead guilty",
+      "en": "The man pleaded guilty to stealing the car.",
+      "ja": "その男は車を盗んだ罪を認めた。"
+    },
+    {
+      "source": "original",
+      "label": "plead not guilty",
+      "en": "The actor pleaded not guilty in court.",
+      "ja": "その俳優は法廷で無罪を主張した。"
+    },
+    {
+      "source": "original",
+      "label": "言い訳にする",
+      "en": "He pleaded ignorance of the rules.",
+      "ja": "彼は規則を知らなかったと言い訳した。"
+    },
+    {
+      "source": "original",
+      "label": "plea(名詞)",
+      "en": "Nobody listened to his plea for mercy.",
+      "ja": "彼の慈悲を求める嘆願にだれも耳を貸さなかった。"
+    }
+  ],
+  "check_points": [
+    "plead with A to do の with を言えるか",
+    "plead guilty の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "plead with A to do(〜してくれと嘆願する)の with が語法で、plead guilty(罪を認める)が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 869
+    }
+  ]
+}

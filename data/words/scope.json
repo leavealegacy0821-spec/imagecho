@@ -1,0 +1,97 @@
+{
+  "word": "scope",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/skoʊp/",
+  "core_image": {
+    "text": "見わたせる、目が届く広さ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"56\" y2=\"56\"/><line x1=\"40\" y1=\"74\" x2=\"30\" y2=\"98\"/><line x1=\"54\" y1=\"50\" x2=\"200\" y2=\"30\"/><line x1=\"54\" y1=\"50\" x2=\"200\" y2=\"110\"/><ellipse cx=\"200\" cy=\"70\" rx=\"14\" ry=\"40\"/></g><text x=\"134\" y=\"132\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見わたせる範囲</text></svg>"
+  },
+  "etymology": "ギリシャ語 skopos(見張る人・ねらう的。telescope=遠くを見るもの と同じ scope) → 目の届くところ → (扱う・及ぶ)範囲・領域(the scope of A) → (力を出せる)余地・機会(scope for A)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the range of things that a subject or activity deals with; the opportunity to do or develop something."
+    }
+  ],
+  "cautions": [
+    "the scope of A=Aの範囲(of A は扱う対象)",
+    "scope for A=Aの余地・機会(room for A と同じ)",
+    "beyond [outside] the scope of A=Aの範囲外で",
+    "telescope / microscope と同じ scope=見る"
+  ],
+  "patterns": [
+    {
+      "form": "the scope of A",
+      "meaning": "Aの範囲"
+    },
+    {
+      "form": "beyond the scope of A",
+      "meaning": "Aの範囲外で"
+    },
+    {
+      "form": "within the scope of A",
+      "meaning": "Aの範囲内で"
+    },
+    {
+      "form": "scope for A",
+      "meaning": "Aの余地"
+    },
+    {
+      "form": "broaden the scope",
+      "meaning": "範囲を広げる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "範囲",
+      "en": "The scope of the survey was limited to high school students.",
+      "ja": "その調査の範囲は高校生に限られていた。"
+    },
+    {
+      "source": "original",
+      "label": "beyond the scope of A",
+      "en": "That question is beyond the scope of this book.",
+      "ja": "その問題はこの本の扱う範囲を超えている。"
+    },
+    {
+      "source": "original",
+      "label": "within the scope of A",
+      "en": "The repair is within the scope of the warranty.",
+      "ja": "その修理は保証の範囲内だ。"
+    },
+    {
+      "source": "original",
+      "label": "scope for A",
+      "en": "There is still scope for improvement in your essay.",
+      "ja": "あなたの作文にはまだ改善の余地がある。"
+    },
+    {
+      "source": "original",
+      "label": "broaden the scope",
+      "en": "The team decided to broaden the scope of the research.",
+      "ja": "チームは研究の範囲を広げることにした。"
+    },
+    {
+      "source": "original",
+      "label": "余地・機会",
+      "en": "This job offers little scope for creativity.",
+      "ja": "この仕事には創造力を発揮する機会がほとんどない。"
+    }
+  ],
+  "check_points": [
+    "the scope of A と scope for A の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "the scope of A(範囲)と scope for A(余地=room for A)が長文で問われる。beyond the scope of A も頻出の型。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 868
+    }
+  ]
+}
