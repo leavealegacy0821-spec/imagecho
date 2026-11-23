@@ -1,0 +1,94 @@
+{
+  "word": "speculate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈspekjəleɪt/",
+  "core_image": {
+    "text": "見えない先を、あれこれ見当をつける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 78,74 68,62\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><circle cx=\"84\" cy=\"40\" r=\"3\"/><circle cx=\"96\" cy=\"30\" r=\"5\"/><ellipse cx=\"160\" cy=\"50\" rx=\"56\" ry=\"34\"/></g><text x=\"160\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">たぶん…</text><text x=\"160\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">?</text></svg>"
+  },
+  "etymology": "ラテン語 speculari(見張る。specere=見る。spect と同じ根) → じっと見て考える → (確かな証拠なしに)あれこれ推測する(speculate about [on] A / that S V) → (値動きの先を推測して)投機する(speculate in A) → 名詞 speculation=推測・投機",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to guess about something without knowing all the facts; to buy things such as shares hoping to sell them later at a higher price."
+    }
+  ],
+  "cautions": [
+    "speculate about [on] A=Aについてあれこれ推測する(自動詞なので前置詞が要る)",
+    "speculate that S V=〜だと推測する",
+    "「投機する」は speculate in A(株・土地など)",
+    "speculation=推測・投機(It is pure speculation.=単なる憶測だ)"
+  ],
+  "patterns": [
+    {
+      "form": "speculate about [on] A",
+      "meaning": "Aについて推測する"
+    },
+    {
+      "form": "speculate that S V",
+      "meaning": "〜だと推測する"
+    },
+    {
+      "form": "speculate in A",
+      "meaning": "Aに投機する"
+    },
+    {
+      "form": "It is widely speculated that S V",
+      "meaning": "〜だと広く推測されている"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "推測する",
+      "en": "Scientists speculate about life on other planets.",
+      "ja": "科学者たちは他の惑星の生命についてあれこれ推測している。"
+    },
+    {
+      "source": "original",
+      "label": "speculate on A",
+      "en": "It's too early to speculate on the result.",
+      "ja": "結果を推測するのはまだ早すぎる。"
+    },
+    {
+      "source": "original",
+      "label": "speculate that S V",
+      "en": "Some experts speculate that prices will rise.",
+      "ja": "物価が上がるだろうと推測する専門家もいる。"
+    },
+    {
+      "source": "original",
+      "label": "It is speculated that",
+      "en": "It is widely speculated that the singer will retire.",
+      "ja": "その歌手は引退するだろうと広く推測されている。"
+    },
+    {
+      "source": "original",
+      "label": "投機する",
+      "en": "He lost a lot of money speculating in land.",
+      "ja": "彼は土地に投機して大金を失った。"
+    },
+    {
+      "source": "original",
+      "label": "speculation",
+      "en": "The news report was based on pure speculation.",
+      "ja": "そのニュースは単なる憶測にもとづいていた。"
+    }
+  ],
+  "check_points": [
+    "speculate の「推測する」と「投機する」の意味を言えるか",
+    "speculate の後ろの前置詞(about / on, in)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "speculate about [on] A / that S V(推測する)が長文で、speculation(憶測)が語彙問題で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 879
+    }
+  ]
+}

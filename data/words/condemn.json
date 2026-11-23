@@ -1,0 +1,98 @@
+{
+  "word": "condemn",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈdem/",
+  "core_image": {
+    "text": "上から「ダメだ」と強く言い渡す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"36\" y=\"122\" width=\"48\" height=\"18\"/><circle cx=\"60\" cy=\"34\" r=\"10\"/><line x1=\"60\" y1=\"44\" x2=\"60\" y2=\"88\"/><line x1=\"60\" y1=\"88\" x2=\"50\" y2=\"122\"/><line x1=\"60\" y1=\"88\" x2=\"70\" y2=\"122\"/><line x1=\"60\" y1=\"56\" x2=\"100\" y2=\"68\"/><line x1=\"60\" y1=\"56\" x2=\"48\" y2=\"80\"/><line x1=\"106\" y1=\"72\" x2=\"148\" y2=\"90\"/><polyline points=\"143.1,83.7 148,90 140,90.8\"/><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"168\" y2=\"96\"/><line x1=\"180\" y1=\"74\" x2=\"192\" y2=\"96\"/></g><text x=\"180\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ダメだ!</text></svg>"
+  },
+  "etymology": "con(強く) + damnare(罰する・有罪とする。damn と同じ根) → 強く「ダメだ」と言い渡す → (人・行いを)激しく非難する(condemn A for B) → (裁判で)有罪を宣告する・刑を言い渡す(condemn A to death) → (逃れられない不幸な状態に)追いやる・運命づける(be condemned to do) → (建物を)使用不適と宣告する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say very strongly that someone or something is bad or wrong; to give a punishment to someone in a court; to force someone to live in an unpleasant situation."
+    }
+  ],
+  "cautions": [
+    "condemn A for B=BのことでAを非難する(blame A for B / criticize A for B と同じ型)",
+    "condemn A to B=AにB(刑)を言い渡す(to の後は名詞:condemn him to death)",
+    "be condemned to do=〜する運命にある(つらい状態から逃れられない)",
+    "n は発音しない(/kənˈdem/)。名詞は condemnation(非難)"
+  ],
+  "patterns": [
+    {
+      "form": "condemn A for B",
+      "meaning": "BのことでAを非難する"
+    },
+    {
+      "form": "condemn A as B",
+      "meaning": "AをBだと非難する"
+    },
+    {
+      "form": "condemn A to B",
+      "meaning": "AにB(刑)を言い渡す"
+    },
+    {
+      "form": "be condemned to do",
+      "meaning": "〜する運命にある"
+    },
+    {
+      "form": "be widely condemned",
+      "meaning": "広く非難される"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "非難する",
+      "en": "Many countries condemned the attack.",
+      "ja": "多くの国がその攻撃を非難した。"
+    },
+    {
+      "source": "original",
+      "label": "condemn A for B",
+      "en": "The coach was condemned for his violent words.",
+      "ja": "そのコーチは暴力的な言葉づかいで非難された。"
+    },
+    {
+      "source": "original",
+      "label": "condemn A as B",
+      "en": "Critics condemned the plan as a waste of money.",
+      "ja": "批評家たちはその計画をお金の無駄だと非難した。"
+    },
+    {
+      "source": "original",
+      "label": "刑を言い渡す",
+      "en": "The court condemned the man to ten years in prison.",
+      "ja": "裁判所はその男に懲役10年を言い渡した。"
+    },
+    {
+      "source": "original",
+      "label": "be condemned to do",
+      "en": "Without education, they were condemned to live in poverty.",
+      "ja": "教育を受けられず、彼らは貧困の中で暮らすしかなかった。"
+    },
+    {
+      "source": "original",
+      "label": "使用不適と宣告する",
+      "en": "The old school building was condemned after the earthquake.",
+      "ja": "地震のあと、古い校舎は使用禁止とされた。"
+    }
+  ],
+  "check_points": [
+    "condemn A for B の意味と、同じ型の動詞(blame / criticize)を言えるか",
+    "be condemned to do の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "condemn A for B(非難する)が語法で、be condemned to do(〜する運命にある)が長文で問われる。発音(n を読まない)も注意。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 871
+    }
+  ]
+}

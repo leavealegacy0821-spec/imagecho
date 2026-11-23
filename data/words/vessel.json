@@ -1,0 +1,94 @@
+{
+  "word": "vessel",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈvesl/",
+  "core_image": {
+    "text": "中に入れて運ぶ器",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M48,70 L44,128 Q44,136 52,136 L76,136 Q84,136 84,128 L80,70\"/><line x1=\"42\" y1=\"70\" x2=\"86\" y2=\"70\"/><polygon points=\"120,108 220,108 206,128 134,128\"/><line x1=\"170\" y1=\"108\" x2=\"170\" y2=\"62\"/><polygon points=\"174,64 174,104 206,104\"/><path d=\"M110,140 q10,-6 20,0 t20,0 t20,0 t20,0 t20,0 t20,0\"/></g><text x=\"64\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">器</text><text x=\"196\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">船</text></svg>"
+  },
+  "etymology": "ラテン語 vascellum(小さな器。vase と同じ根) → (液体を入れる)器・容器 → (人や荷物を入れて運ぶ大きな器)船(ship より硬い語) → (体の中で血を入れて運ぶ管)血管(blood vessel)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a large ship or boat; a container for liquids; a tube that carries blood through the body."
+    }
+  ],
+  "cautions": [
+    "長文では「船」の意味が多い(ship / boat の言いかえとして出る)",
+    "blood vessel=血管(体の中の「器」)",
+    "「容器」は container と言いかえられる",
+    "fishing vessel=漁船、cargo vessel=貨物船"
+  ],
+  "patterns": [
+    {
+      "form": "a fishing [cargo] vessel",
+      "meaning": "漁船[貨物船]"
+    },
+    {
+      "form": "blood vessels",
+      "meaning": "血管"
+    },
+    {
+      "form": "a vessel for A",
+      "meaning": "Aを入れる器"
+    },
+    {
+      "form": "on board the vessel",
+      "meaning": "船上で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "船",
+      "en": "The vessel sailed across the Pacific Ocean.",
+      "ja": "その船は太平洋を渡った。"
+    },
+    {
+      "source": "original",
+      "label": "漁船",
+      "en": "A fishing vessel rescued the swimmers.",
+      "ja": "1隻の漁船が泳いでいた人たちを救助した。"
+    },
+    {
+      "source": "original",
+      "label": "器",
+      "en": "The museum displays ancient vessels made of clay.",
+      "ja": "その博物館は粘土で作った古代の器を展示している。"
+    },
+    {
+      "source": "original",
+      "label": "a vessel for A",
+      "en": "People used this vessel for storing water.",
+      "ja": "人々はこの器を水を蓄えるのに使っていた。"
+    },
+    {
+      "source": "original",
+      "label": "血管",
+      "en": "Smoking can damage your blood vessels.",
+      "ja": "喫煙は血管を傷めることがある。"
+    },
+    {
+      "source": "original",
+      "label": "on board",
+      "en": "All the passengers on board the vessel were safe.",
+      "ja": "その船に乗っていた乗客は全員無事だった。"
+    }
+  ],
+  "check_points": [
+    "vessel の3つの意味(船・器・血管)を言えるか",
+    "blood vessel の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で「船」の意味(ship の言いかえ)が、理科系の文で blood vessel(血管)が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 873
+    }
+  ]
+}

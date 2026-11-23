@@ -1,0 +1,98 @@
+{
+  "word": "cell",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/sel/",
+  "core_image": {
+    "text": "小さく区切られた一部屋",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"40\" width=\"160\" height=\"90\"/><line x1=\"80\" y1=\"40\" x2=\"80\" y2=\"130\"/><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"130\"/><line x1=\"160\" y1=\"40\" x2=\"160\" y2=\"130\"/><line x1=\"40\" y1=\"85\" x2=\"200\" y2=\"85\"/><circle cx=\"60\" cy=\"62\" r=\"6\"/><circle cx=\"100\" cy=\"62\" r=\"6\"/><circle cx=\"140\" cy=\"62\" r=\"6\"/><circle cx=\"180\" cy=\"62\" r=\"6\"/><circle cx=\"60\" cy=\"108\" r=\"6\"/><circle cx=\"100\" cy=\"108\" r=\"6\"/><circle cx=\"140\" cy=\"108\" r=\"6\"/><circle cx=\"180\" cy=\"108\" r=\"6\"/></g><text x=\"120\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">小さな部屋</text><text x=\"120\" y=\"150\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">細胞</text></svg>"
+  },
+  "etymology": "ラテン語 cella(小部屋・物置) → (修道院・刑務所の)小部屋・独房 → (生物の体をつくる小さな部屋)細胞 → (電気をためる小さな区画)電池(solar cell) → (小さな区画に分けた通信網)携帯電話(cell phone、米)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the smallest unit of a living thing; a small room in a prison; a device that produces electricity; (US) a mobile phone."
+    }
+  ],
+  "cautions": [
+    "理科系の長文では「細胞」(cell division=細胞分裂、brain cells=脳細胞)",
+    "「独房・小部屋」の意味もある(a prison cell)",
+    "solar cell=太陽電池、cell phone=携帯電話(米。英は mobile phone)",
+    "形容詞 cellular=細胞の・携帯電話の"
+  ],
+  "patterns": [
+    {
+      "form": "brain [blood] cells",
+      "meaning": "脳細胞[血球]"
+    },
+    {
+      "form": "cell division",
+      "meaning": "細胞分裂"
+    },
+    {
+      "form": "a prison cell",
+      "meaning": "独房"
+    },
+    {
+      "form": "a solar cell",
+      "meaning": "太陽電池"
+    },
+    {
+      "form": "a cell phone",
+      "meaning": "携帯電話"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "細胞",
+      "en": "The human body is made up of trillions of cells.",
+      "ja": "人間の体は何兆もの細胞からできている。"
+    },
+    {
+      "source": "original",
+      "label": "細胞が〜する",
+      "en": "Cells divide and grow in number.",
+      "ja": "細胞は分裂して数を増やす。"
+    },
+    {
+      "source": "original",
+      "label": "脳細胞",
+      "en": "Lack of sleep may harm brain cells.",
+      "ja": "睡眠不足は脳細胞を傷めるかもしれない。"
+    },
+    {
+      "source": "original",
+      "label": "独房",
+      "en": "The prisoner spent the night alone in his cell.",
+      "ja": "その囚人は独房で一人で夜を過ごした。"
+    },
+    {
+      "source": "original",
+      "label": "電池",
+      "en": "Solar cells turn sunlight into electricity.",
+      "ja": "太陽電池は日光を電気に変える。"
+    },
+    {
+      "source": "original",
+      "label": "携帯電話",
+      "en": "Please turn off your cell phone during the test.",
+      "ja": "試験中は携帯電話の電源を切ってください。"
+    }
+  ],
+  "check_points": [
+    "cell の意味(細胞・独房・電池・携帯電話)を言えるか",
+    "cell division / solar cell の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "理科系の長文で「細胞」の意味が頻出。prison cell(独房)、solar cell(太陽電池)など意味の広がりも問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 874
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "steep",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/stiːp/",
+  "core_image": {
+    "text": "ぐっと急に立ち上がる傾き",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polygon points=\"40,140 140,30 160,30 200,140\"/><line x1=\"76\" y1=\"118\" x2=\"128\" y2=\"60\"/><polyline points=\"120.5,62.7 128,60 126.2,67.8\"/></g><text x=\"70\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">急な坂</text></svg>"
+  },
+  "etymology": "古英語 stēap(高くそびえる) → (坂・山が)けわしい・急な → (グラフのように)増減が急激な(a steep rise [fall]) → (値段が急に高い)法外な・高すぎる(口語)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "(of a slope) rising or falling sharply; (of a rise or fall) sudden and large; (of a price) too high."
+    }
+  ],
+  "cautions": [
+    "「急な坂」だけでなく、a steep rise [decline]=急増[急減](グラフ・統計の文で頻出)",
+    "「(値段が)高すぎる」の意味もある(The price is a bit steep.)",
+    "副詞 steeply=急に・急激に(Prices rose steeply.)",
+    "sharp / sudden と言いかえられる(a sharp rise)"
+  ],
+  "patterns": [
+    {
+      "form": "a steep hill [slope]",
+      "meaning": "急な坂"
+    },
+    {
+      "form": "a steep rise [increase]",
+      "meaning": "急増"
+    },
+    {
+      "form": "a steep fall [decline]",
+      "meaning": "急減"
+    },
+    {
+      "form": "rise [fall] steeply",
+      "meaning": "急に上がる[下がる]"
+    },
+    {
+      "form": "a steep price",
+      "meaning": "法外な値段"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "急な坂",
+      "en": "We climbed a steep hill to the shrine.",
+      "ja": "私たちは神社まで急な坂を登った。"
+    },
+    {
+      "source": "original",
+      "label": "けわしい",
+      "en": "The path became steeper near the top of the mountain.",
+      "ja": "山頂近くで道はさらにけわしくなった。"
+    },
+    {
+      "source": "original",
+      "label": "急増",
+      "en": "There has been a steep rise in the number of tourists.",
+      "ja": "観光客の数が急増している。"
+    },
+    {
+      "source": "original",
+      "label": "急減",
+      "en": "The graph shows a steep decline in sales.",
+      "ja": "そのグラフは売り上げの急減を示している。"
+    },
+    {
+      "source": "original",
+      "label": "steeply",
+      "en": "Food prices rose steeply last year.",
+      "ja": "昨年、食料品の値段が急に上がった。"
+    },
+    {
+      "source": "original",
+      "label": "法外な",
+      "en": "Ten thousand yen for lunch? That's a bit steep.",
+      "ja": "ランチに1万円?それはちょっと高すぎるよ。"
+    }
+  ],
+  "check_points": [
+    "a steep rise / decline の意味を言えるか",
+    "steep の「値段が高すぎる」の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "グラフ問題・長文で a steep rise [decline](急増・急減)が頻出。steeply、sharp との言いかえも問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 880
+    }
+  ]
+}

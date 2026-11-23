@@ -1,0 +1,107 @@
+{
+  "word": "drain",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/dreɪn/",
+  "core_image": {
+    "text": "中の水を外へ流し出して空にする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M40,40 L40,110 L200,110 L200,40\"/><path d=\"M40,70 q20,-6 40,0 t40,0 t40,0 t40,0\"/><line x1=\"112\" y1=\"110\" x2=\"112\" y2=\"134\"/><line x1=\"128\" y1=\"110\" x2=\"128\" y2=\"134\"/><line x1=\"80\" y1=\"80\" x2=\"106\" y2=\"100\"/><polyline points=\"102.8,92.7 106,100 98.1,98.8\"/><line x1=\"160\" y1=\"80\" x2=\"134\" y2=\"100\"/><polyline points=\"141.9,98.8 134,100 137.2,92.7\"/><line x1=\"120\" y1=\"116\" x2=\"120\" y2=\"152\"/><polyline points=\"123.8,145 120,152 116.2,145\"/></g><text x=\"120\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">水を抜く</text></svg>"
+  },
+  "etymology": "古英語 drēahnian(水を抜いて乾かす) → (水を)抜く・排水する・(水が)はける → (水を抜くように)力・お金を少しずつ奪う・消耗させる(be drained=くたくたになる) → 名詞:排水管・(資源などが)流れ出ること(a drain on A=Aの負担、brain drain=頭脳流出)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make liquid flow away from something; to make someone very tired; to use up money or energy."
+    },
+    {
+      "pos": "名詞",
+      "text": "a pipe that carries away water; something that uses up money or energy."
+    }
+  ],
+  "cautions": [
+    "drain A=Aの水を抜く/drain A from B=BからAを抜く(目的語に入れ物も中身も来る)",
+    "be drained / feel drained=くたくたに疲れている(exhausted の言いかえ)",
+    "a drain on A=A(お金・力)を食うもの、brain drain=頭脳流出",
+    "go down the drain=むだになる(排水口に流れていく)"
+  ],
+  "patterns": [
+    {
+      "form": "drain A",
+      "meaning": "Aの水を抜く"
+    },
+    {
+      "form": "drain A from B",
+      "meaning": "BからAを抜く"
+    },
+    {
+      "form": "feel drained",
+      "meaning": "くたくたに疲れる"
+    },
+    {
+      "form": "a drain on A",
+      "meaning": "Aの負担"
+    },
+    {
+      "form": "brain drain",
+      "meaning": "頭脳流出"
+    },
+    {
+      "form": "go down the drain",
+      "meaning": "むだになる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "水を抜く",
+      "en": "Drain the pasta and add the sauce.",
+      "ja": "パスタの湯を切ってソースを加えなさい。"
+    },
+    {
+      "source": "original",
+      "label": "水がはける",
+      "en": "The water slowly drained away after the storm.",
+      "ja": "嵐のあと水はゆっくりと引いていった。"
+    },
+    {
+      "source": "original",
+      "label": "くたくたにする",
+      "en": "I felt completely drained after the exam.",
+      "ja": "試験のあと私はすっかりくたくたになった。"
+    },
+    {
+      "source": "original",
+      "label": "a drain on A",
+      "en": "The old car was a drain on our budget.",
+      "ja": "その古い車は家計の負担だった。"
+    },
+    {
+      "source": "original",
+      "label": "頭脳流出",
+      "en": "The country is suffering from a brain drain.",
+      "ja": "その国は頭脳流出に苦しんでいる。"
+    },
+    {
+      "source": "original",
+      "label": "go down the drain",
+      "en": "All our hard work went down the drain.",
+      "ja": "私たちの苦労はすべてむだになった。"
+    }
+  ],
+  "check_points": [
+    "drain の「水を抜く」と「消耗させる」の意味を言えるか",
+    "brain drain / feel drained の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "feel drained(くたくた)が会話で、brain drain(頭脳流出)・a drain on A が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 878
+    }
+  ]
+}

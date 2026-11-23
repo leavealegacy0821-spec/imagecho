@@ -1,0 +1,103 @@
+{
+  "word": "craft",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/kræft/",
+  "core_image": {
+    "text": "手で巧みにこしらえる力",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"104\" y2=\"94\"/><line x1=\"60\" y1=\"74\" x2=\"100\" y2=\"80\"/><line x1=\"92\" y1=\"100\" x2=\"180\" y2=\"100\"/><line x1=\"100\" y1=\"100\" x2=\"100\" y2=\"140\"/><line x1=\"172\" y1=\"100\" x2=\"172\" y2=\"140\"/><polygon points=\"112,84 168,84 160,98 120,98\"/><line x1=\"140\" y1=\"84\" x2=\"140\" y2=\"60\"/><polygon points=\"143,62 143,82 160,82\"/></g><text x=\"196\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手わざ</text></svg>"
+  },
+  "etymology": "古英語 cræft(力・技) → 手わざ・技術(the craft of writing) → 手で作る工芸品・工芸(arts and crafts) → (技術でこしらえた乗り物)船・飛行機(aircraft、spacecraft) → (悪い方向へ使う技)悪だくみ(crafty=ずる賢い) → 動詞:手間をかけて作る(a well-crafted story)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a skill, especially one using the hands; things made by hand; a boat, aircraft or spacecraft."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make something skillfully."
+    }
+  ],
+  "cautions": [
+    "「乗り物」の意味では複数形も craft(two craft / aircraft も同じ)",
+    "craftsman=職人、craftsmanship=職人の技",
+    "crafty=ずる賢い(「技のある」がずるさに傾いた)",
+    "well-crafted=よく作り込まれた"
+  ],
+  "patterns": [
+    {
+      "form": "arts and crafts",
+      "meaning": "美術工芸"
+    },
+    {
+      "form": "traditional crafts",
+      "meaning": "伝統工芸"
+    },
+    {
+      "form": "the craft of A",
+      "meaning": "Aの技術"
+    },
+    {
+      "form": "aircraft / spacecraft",
+      "meaning": "航空機/宇宙船"
+    },
+    {
+      "form": "be (well-)crafted",
+      "meaning": "(よく)作り込まれている"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "工芸",
+      "en": "Kyoto is famous for its traditional crafts.",
+      "ja": "京都は伝統工芸で有名だ。"
+    },
+    {
+      "source": "original",
+      "label": "手作りの品",
+      "en": "She sells her crafts at the weekend market.",
+      "ja": "彼女は週末の市で手作りの品を売っている。"
+    },
+    {
+      "source": "original",
+      "label": "技術",
+      "en": "He spent years learning the craft of writing.",
+      "ja": "彼は何年もかけて文章を書く技術を学んだ。"
+    },
+    {
+      "source": "original",
+      "label": "乗り物(複数も craft)",
+      "en": "Several small craft were waiting in the harbor.",
+      "ja": "何隻かの小舟が港で待っていた。"
+    },
+    {
+      "source": "original",
+      "label": "craftsman",
+      "en": "My grandfather was a skilled craftsman.",
+      "ja": "祖父は腕のいい職人だった。"
+    },
+    {
+      "source": "original",
+      "label": "作り込む(動詞)",
+      "en": "The story is carefully crafted from start to finish.",
+      "ja": "その物語は始めから終わりまで丁寧に作り込まれている。"
+    }
+  ],
+  "check_points": [
+    "craft の「技術・工芸」と「乗り物」の意味を言えるか",
+    "crafty の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「技術・工芸」の意味が長文で、aircraft / spacecraft や crafty(ずる賢い)が語彙問題で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 875
+    }
+  ]
+}

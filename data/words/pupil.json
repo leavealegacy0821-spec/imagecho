@@ -1,0 +1,94 @@
+{
+  "word": "pupil",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈpjuːpl/",
+  "core_image": {
+    "text": "瞳に映る小さな人形",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M30,80 Q120,20 210,80 Q120,140 30,80 Z\"/><circle cx=\"120\" cy=\"80\" r=\"28\"/><circle cx=\"120\" cy=\"80\" r=\"13\"/><circle cx=\"120\" cy=\"74\" r=\"2.5\"/><line x1=\"120\" y1=\"77\" x2=\"120\" y2=\"84\"/><line x1=\"116\" y1=\"79\" x2=\"124\" y2=\"79\"/><line x1=\"120\" y1=\"84\" x2=\"117\" y2=\"89\"/><line x1=\"120\" y1=\"84\" x2=\"123\" y2=\"89\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">小さな人形</text><text x=\"120\" y=\"128\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひとみ</text></svg>"
+  },
+  "etymology": "ラテン語 pupilla / pupillus(小さな女の子・男の子・人形) → (先生に教わる)小さな子・生徒・弟子 → (人のひとみをのぞくと小さな人形のような自分の姿が映る)ひとみ・瞳孔",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a student, especially a young one at school; a person who is taught by a famous artist or musician; the round black hole in the middle of the eye."
+    }
+  ],
+  "cautions": [
+    "「生徒」は主に小・中学生(英)。大学生は student",
+    "有名な師匠の「弟子」の意味もある(a pupil of Mozart)",
+    "「ひとみ・瞳孔」の意味が理科系の文で出る(pupils get larger in the dark)",
+    "student と同じ「生徒」でも、pupil は「教わる側」の感じが強い"
+  ],
+  "patterns": [
+    {
+      "form": "a pupil at A school",
+      "meaning": "A校の生徒"
+    },
+    {
+      "form": "a pupil of A",
+      "meaning": "A(師匠)の弟子"
+    },
+    {
+      "form": "teachers and pupils",
+      "meaning": "先生と生徒"
+    },
+    {
+      "form": "the pupils of one's eyes",
+      "meaning": "目のひとみ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "生徒",
+      "en": "There are thirty pupils in my class.",
+      "ja": "私のクラスには生徒が30人いる。"
+    },
+    {
+      "source": "original",
+      "label": "teachers and pupils",
+      "en": "The teachers and pupils planted trees together.",
+      "ja": "先生と生徒たちがいっしょに木を植えた。"
+    },
+    {
+      "source": "original",
+      "label": "弟子",
+      "en": "He was a pupil of a famous painter.",
+      "ja": "彼はある有名な画家の弟子だった。"
+    },
+    {
+      "source": "original",
+      "label": "ひとみ",
+      "en": "Your pupils get bigger in the dark.",
+      "ja": "暗い所ではひとみが大きくなる。"
+    },
+    {
+      "source": "original",
+      "label": "瞳孔",
+      "en": "The doctor checked the pupils of my eyes with a small light.",
+      "ja": "医者は小さなライトで私の瞳孔を調べた。"
+    },
+    {
+      "source": "original",
+      "label": "生徒(英)",
+      "en": "Pupils must wear uniforms at that school.",
+      "ja": "その学校では生徒は制服を着なければならない。"
+    }
+  ],
+  "check_points": [
+    "pupil の「生徒・弟子」と「ひとみ」の2つの意味を言えるか",
+    "pupil と student の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「生徒」の意味に加えて、「ひとみ・瞳孔」の意味が長文や語彙問題で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 876
+    }
+  ]
+}
