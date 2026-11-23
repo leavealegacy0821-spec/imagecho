@@ -1,0 +1,98 @@
+{
+  "word": "decide",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈsaɪd/",
+  "core_image": {
+    "text": "迷いを切り落として、一つに決める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"72\" y2=\"96\"/><line x1=\"80\" y1=\"90\" x2=\"120\" y2=\"90\"/><polyline points=\"113,86.2 120,90 113,93.8\"/><line x1=\"120\" y1=\"90\" x2=\"200\" y2=\"50\"/><line x1=\"120\" y1=\"90\" x2=\"200\" y2=\"130\" stroke-dasharray=\"5 5\"/><line x1=\"160\" y1=\"102\" x2=\"170\" y2=\"118\"/></g><text x=\"188\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">これに決める</text></svg>"
+  },
+  "etymology": "de(離して) + cide(切る。scissors と同じ根) → 迷いを切り離す → 一つに決める(decide to do / that 〜) → (どちらかに)決める(decide on A) → (人に)決心させる(decide A to do)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to choose something after thinking about the possibilities; to make something certain."
+    }
+  ],
+  "cautions": [
+    "decide to do=〜しようと決める(to do を取る。×decide doing)",
+    "decide on A=A(複数の中の1つ)に決める / decide against doing=〜しないことに決める",
+    "decide wh- / whether to do=何を・〜かどうか決める",
+    "名詞 decision(make a decision=決定する)、形容詞 decisive=決定的な"
+  ],
+  "patterns": [
+    {
+      "form": "decide to do",
+      "meaning": "〜しようと決める"
+    },
+    {
+      "form": "decide that 〜",
+      "meaning": "〜と決める"
+    },
+    {
+      "form": "decide on A",
+      "meaning": "Aに決める"
+    },
+    {
+      "form": "decide wh- / whether 〜",
+      "meaning": "何を・〜かどうか決める"
+    },
+    {
+      "form": "make a decision",
+      "meaning": "決定する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "to do",
+      "en": "I decided to study abroad after high school.",
+      "ja": "私は高校を卒業したら留学しようと決めた。"
+    },
+    {
+      "source": "original",
+      "label": "that 〜",
+      "en": "They decided that the meeting would be held online.",
+      "ja": "彼らは会議をオンラインで開くことに決めた。"
+    },
+    {
+      "source": "original",
+      "label": "decide on",
+      "en": "We finally decided on a name for the dog.",
+      "ja": "私たちはやっと犬の名前を決めた。"
+    },
+    {
+      "source": "original",
+      "label": "wh-",
+      "en": "I can't decide what to wear to the party.",
+      "ja": "パーティーに何を着ていくか決められない。"
+    },
+    {
+      "source": "original",
+      "label": "決定づける",
+      "en": "One goal decided the game.",
+      "ja": "1点のゴールが試合を決めた。"
+    },
+    {
+      "source": "original",
+      "label": "decision(名詞)",
+      "en": "You have to make a decision by Friday.",
+      "ja": "金曜日までに決めなければならない。"
+    }
+  ],
+  "check_points": [
+    "decide の後ろに来る準動詞の形を言えるか",
+    "decide on A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "decide to do(×doing)、decide on A、名詞 decision(make a decision)が語法問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 818
+    }
+  ]
+}

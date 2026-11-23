@@ -1,0 +1,98 @@
+{
+  "word": "course",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/kɔːrs/",
+  "core_image": {
+    "text": "決まった道すじを、たどって進む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"30\" y2=\"96\"/><line x1=\"40\" y1=\"74\" x2=\"50\" y2=\"96\"/><path d=\"M60 136 C120 136 120 70 196 70\" stroke-dasharray=\"5 5\"/><line x1=\"196\" y1=\"70\" x2=\"220\" y2=\"70\"/><polyline points=\"213,66.2 220,70 213,73.8\"/></g><text x=\"150\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">道すじ</text></svg>"
+  },
+  "etymology": "ラテン語 cursus(走ること。current と同じ根) → 走って進む道すじ → 進路・コース → (時の)流れ・成り行き(in the course of) → (決まった順に進む)講座・課程 → (順に出る)料理の一品 → (当然の成り行きで)もちろん(of course)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a series of lessons in a subject; the direction or way something moves or develops; one part of a meal."
+    }
+  ],
+  "cautions": [
+    "in the course of A=Aのうちに・Aの間に(during と同じ)",
+    "in (the) course of time=やがて・そのうちに",
+    "take a course in A=Aの講座を受ける",
+    "of course は「当然の成り行き」。as a matter of course=当然のこととして"
+  ],
+  "patterns": [
+    {
+      "form": "a course in A",
+      "meaning": "Aの講座"
+    },
+    {
+      "form": "in the course of A",
+      "meaning": "Aの間に"
+    },
+    {
+      "form": "in (the) course of time",
+      "meaning": "やがて"
+    },
+    {
+      "form": "change course",
+      "meaning": "進路を変える"
+    },
+    {
+      "form": "a main course",
+      "meaning": "メインの料理"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "講座",
+      "en": "She is taking a course in Chinese at the university.",
+      "ja": "彼女は大学で中国語の講座を受けている。"
+    },
+    {
+      "source": "original",
+      "label": "〜の間に",
+      "en": "In the course of the meeting, several new ideas came up.",
+      "ja": "会議の間にいくつか新しい案が出た。"
+    },
+    {
+      "source": "original",
+      "label": "進路",
+      "en": "The ship changed course because of the storm.",
+      "ja": "あらしのために船は進路を変えた。"
+    },
+    {
+      "source": "original",
+      "label": "成り行き",
+      "en": "The discovery changed the course of history.",
+      "ja": "その発見は歴史の流れを変えた。"
+    },
+    {
+      "source": "original",
+      "label": "やがて",
+      "en": "In course of time, they became good friends.",
+      "ja": "やがて彼らは仲のよい友だちになった。"
+    },
+    {
+      "source": "original",
+      "label": "料理",
+      "en": "We had fish for the main course.",
+      "ja": "メインの料理には魚を食べた。"
+    }
+  ],
+  "check_points": [
+    "in the course of A の意味を言えるか",
+    "course の「講座」以外の意味を2つ言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "in the course of(〜の間に)、the course of history(歴史の流れ)、講座の意味が長文で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 813
+    }
+  ]
+}

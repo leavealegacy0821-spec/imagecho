@@ -1,0 +1,108 @@
+{
+  "word": "light",
+  "pos": [
+    "名詞",
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/laɪt/",
+  "core_image": {
+    "text": "ぱっと明るく、ふわっと軽い",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"50\" r=\"16\"/><line x1=\"70\" y1=\"20\" x2=\"70\" y2=\"28\"/><line x1=\"40\" y1=\"50\" x2=\"48\" y2=\"50\"/><line x1=\"92\" y1=\"50\" x2=\"100\" y2=\"50\"/><line x1=\"50\" y1=\"30\" x2=\"56\" y2=\"36\"/><line x1=\"90\" y1=\"30\" x2=\"84\" y2=\"36\"/><path d=\"M170 60 C160 60 156 50 166 46 C168 36 184 36 186 46 C198 46 198 60 186 60 Z\"/><line x1=\"176\" y1=\"96\" x2=\"176\" y2=\"68\" stroke-dasharray=\"5 5\"/><polyline points=\"172.2,75 176,68 179.8,75\"/></g><text x=\"70\" y=\"116\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">明るい</text><text x=\"176\" y=\"116\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">軽い</text></svg>"
+  },
+  "etymology": "古い英語 leoht(光) → 明るい・光(名詞) → 明かりをつける・火をつける(動詞) → (光が当たって)明らかになる(come to light)。「軽い」は別の古い英語 leoht(重さがない)から → 軽い → (量が)少ない → 気楽な",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the energy from the sun or a lamp that makes things visible; a lamp."
+    },
+    {
+      "pos": "形容詞",
+      "text": "not heavy; small in amount; bright."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make something start to burn; to give light to a place."
+    }
+  ],
+  "cautions": [
+    "「光」と「軽い」は別の語が同じ形になったもの。light traffic=交通量が少ない、a light meal=軽い食事",
+    "動詞の活用は light - lit [lighted] - lit [lighted]",
+    "in (the) light of A=Aを考慮して・Aに照らして",
+    "come to light=(事実が)明らかになる / bring A to light=Aを明るみに出す"
+  ],
+  "patterns": [
+    {
+      "form": "turn on the light",
+      "meaning": "明かりをつける"
+    },
+    {
+      "form": "in (the) light of A",
+      "meaning": "Aを考慮して"
+    },
+    {
+      "form": "come to light",
+      "meaning": "明らかになる"
+    },
+    {
+      "form": "light A",
+      "meaning": "Aに火をつける"
+    },
+    {
+      "form": "light traffic / rain",
+      "meaning": "少ない交通量 / 小雨"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "光",
+      "en": "Plants need light to grow.",
+      "ja": "植物は育つのに光を必要とする。"
+    },
+    {
+      "source": "original",
+      "label": "明かり",
+      "en": "Don't forget to turn off the light.",
+      "ja": "明かりを消すのを忘れないで。"
+    },
+    {
+      "source": "original",
+      "label": "考慮して",
+      "en": "In light of the weather, the game was put off.",
+      "ja": "天候を考慮して、試合は延期された。"
+    },
+    {
+      "source": "original",
+      "label": "明らかになる",
+      "en": "New facts about the case came to light.",
+      "ja": "その事件について新しい事実が明らかになった。"
+    },
+    {
+      "source": "original",
+      "label": "軽い",
+      "en": "This bag is light enough for a child to carry.",
+      "ja": "このかばんは子どもが運べるほど軽い。"
+    },
+    {
+      "source": "original",
+      "label": "火をつける(動詞)",
+      "en": "He lit a candle when the power went out.",
+      "ja": "停電したとき、彼はろうそくに火をつけた。"
+    }
+  ],
+  "check_points": [
+    "light traffic を訳せるか",
+    "in light of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "in (the) light of(〜を考慮して)、come to light(明らかになる)、light traffic(交通量が少ない)が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 814
+    }
+  ]
+}

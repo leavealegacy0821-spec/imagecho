@@ -1,0 +1,103 @@
+{
+  "word": "watch",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/wɑːtʃ/",
+  "core_image": {
+    "text": "目を離さず、動きをじっと追う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"72\" y2=\"96\"/><circle cx=\"170\" cy=\"70\" r=\"8\"/><line x1=\"182\" y1=\"70\" x2=\"216\" y2=\"70\" stroke-dasharray=\"5 5\"/><polyline points=\"209,66.2 216,70 209,73.8\"/><line x1=\"78\" y1=\"48\" x2=\"156\" y2=\"64\"/><polyline points=\"149.9,58.8 156,64 148.4,66.3\"/></g><text x=\"170\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">じっと追う</text></svg>"
+  },
+  "etymology": "古い英語 wæccan(起きている・見張る。wake と同じ根) → 目をさまして見張る → (動くものを)じっと見る → 気をつける(watch out) → (見張る道具→)腕時計(名詞)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to look at something for a period of time, especially something that is moving or changing; to be careful about something."
+    },
+    {
+      "pos": "名詞",
+      "text": "a small clock worn on the wrist; the act of watching."
+    }
+  ],
+  "cautions": [
+    "watch は「動きを追って見る」(watch TV / a game)。see は「目に入る」、look at は「目を向ける」",
+    "知覚動詞:watch A do(Aが〜するのを最後まで見る)/ watch A doing(Aが〜しているところを見る)。×watch A to do",
+    "watch out (for A)=(Aに)気をつける / watch one's step=足もとに気をつける",
+    "keep (a) watch on A=Aを見張る"
+  ],
+  "patterns": [
+    {
+      "form": "watch A do",
+      "meaning": "Aが〜するのを見る"
+    },
+    {
+      "form": "watch A doing",
+      "meaning": "Aが〜しているのを見る"
+    },
+    {
+      "form": "watch out for A",
+      "meaning": "Aに気をつける"
+    },
+    {
+      "form": "watch one's step",
+      "meaning": "足もとに気をつける"
+    },
+    {
+      "form": "keep watch on A",
+      "meaning": "Aを見張る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "じっと見る",
+      "en": "We watched the sun go down over the sea.",
+      "ja": "私たちは太陽が海に沈むのを見ていた。"
+    },
+    {
+      "source": "original",
+      "label": "doing",
+      "en": "I watched the children playing in the park.",
+      "ja": "私は子どもたちが公園で遊んでいるのを見ていた。"
+    },
+    {
+      "source": "original",
+      "label": "気をつける",
+      "en": "Watch out for cars when you cross the street.",
+      "ja": "通りを渡るときは車に気をつけて。"
+    },
+    {
+      "source": "original",
+      "label": "注意する",
+      "en": "You should watch what you eat.",
+      "ja": "食べるものに気をつけたほうがいい。"
+    },
+    {
+      "source": "original",
+      "label": "見張る",
+      "en": "Could you watch my bag for a minute?",
+      "ja": "少しの間、私のかばんを見ていてもらえますか。"
+    },
+    {
+      "source": "original",
+      "label": "腕時計(名詞)",
+      "en": "My watch is five minutes fast.",
+      "ja": "私の腕時計は5分進んでいる。"
+    }
+  ],
+  "check_points": [
+    "watch A do と watch A doing の違いを言えるか",
+    "watch out for A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "知覚動詞 watch A do / doing(to は入らない)と watch out for(気をつける)が語法問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 815
+    }
+  ]
+}

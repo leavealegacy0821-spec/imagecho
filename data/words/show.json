@@ -1,0 +1,103 @@
+{
+  "word": "show",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ʃoʊ/",
+  "core_image": {
+    "text": "相手の目の前に、見えるように出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><polyline points=\"60,74 90,70 106,70\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"98\"/><rect x=\"108\" y=\"58\" width=\"22\" height=\"24\"/><line x1=\"180\" y1=\"74\" x2=\"170\" y2=\"98\"/><line x1=\"180\" y1=\"74\" x2=\"190\" y2=\"98\"/><line x1=\"166\" y1=\"46\" x2=\"136\" y2=\"60\" stroke-dasharray=\"5 5\"/><polyline points=\"144,60.5 136,60 140.7,53.6\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見せる</text></svg>"
+  },
+  "etymology": "古い英語 sceawian(見る・見せる) → 相手の目の前に出す → 見せる(show A B) → (証拠を出して)示す・証明する(show that 〜) → (道を)案内する(show A around) → (人前に)姿を見せる(show up) → ショー・番組(名詞)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to let someone see something; to prove or make clear; to guide someone to a place."
+    },
+    {
+      "pos": "名詞",
+      "text": "a performance or programme for entertainment."
+    }
+  ],
+  "cautions": [
+    "活用は show - showed - shown [showed]",
+    "show A B=AにBを見せる / show A around B=AにBを案内する",
+    "show up=(人が)現れる(turn up と同じ) / show off (A)=(Aを)見せびらかす",
+    "show that 〜=〜ということを示す(研究・データが主語になることが多い)"
+  ],
+  "patterns": [
+    {
+      "form": "show A B / show B to A",
+      "meaning": "AにBを見せる"
+    },
+    {
+      "form": "show that 〜",
+      "meaning": "〜ということを示す"
+    },
+    {
+      "form": "show A around B",
+      "meaning": "AにBを案内する"
+    },
+    {
+      "form": "show up",
+      "meaning": "現れる"
+    },
+    {
+      "form": "show off (A)",
+      "meaning": "(Aを)見せびらかす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "見せる",
+      "en": "Could you show me your ticket, please?",
+      "ja": "切符を見せていただけますか。"
+    },
+    {
+      "source": "original",
+      "label": "示す",
+      "en": "The study shows that sleep helps memory.",
+      "ja": "その研究は睡眠が記憶を助けることを示している。"
+    },
+    {
+      "source": "original",
+      "label": "案内する",
+      "en": "I'll show you around the school.",
+      "ja": "学校を案内しましょう。"
+    },
+    {
+      "source": "original",
+      "label": "現れる",
+      "en": "He didn't show up at the meeting.",
+      "ja": "彼は会議に現れなかった。"
+    },
+    {
+      "source": "original",
+      "label": "見せびらかす",
+      "en": "She likes to show off her new phone.",
+      "ja": "彼女は新しい携帯電話を見せびらかしたがる。"
+    },
+    {
+      "source": "original",
+      "label": "番組(名詞)",
+      "en": "That TV show is popular among teenagers.",
+      "ja": "そのテレビ番組は10代に人気がある。"
+    }
+  ],
+  "check_points": [
+    "show up の意味と言い換えを言えるか",
+    "show の過去分詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "show up(=turn up)、show off、show A around が熟語・会話文で、show that 〜が長文で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 820
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "part",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/pɑːrt/",
+  "core_image": {
+    "text": "全体から切り分けた、ひとかけら",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"100\" cy=\"80\" r=\"40\"/><line x1=\"100\" y1=\"80\" x2=\"140\" y2=\"80\"/><line x1=\"100\" y1=\"80\" x2=\"100\" y2=\"40\"/><path d=\"M162 72 L198 72 A36 36 0 0 0 162 36 Z\"/><line x1=\"143\" y1=\"58\" x2=\"158\" y2=\"52\"/><polyline points=\"150.1,51 158,52 152.9,58.2\"/></g><text x=\"186\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひとかけら</text></svg>"
+  },
+  "etymology": "ラテン語 pars(分け前。particular、participate と同じ根) → 全体から分けたひとかけら → 部分 → (全体の中での)役割・役(play a part) → (二つに)分かれる・別れる(動詞)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a piece or section of something; a person's share in an activity; a role in a play or film."
+    },
+    {
+      "pos": "動詞",
+      "text": "to separate; to leave someone."
+    }
+  ],
+  "cautions": [
+    "play a part [role] in A=Aで役割を果たす(part に形容詞がつく:play an important part in A)",
+    "take part in A=Aに参加する(participate in と同じ)",
+    "for my part=私としては / in part=一部は・ある程度は(partly)",
+    "part with A=A(物)を手放す / part from 人=人と別れる"
+  ],
+  "patterns": [
+    {
+      "form": "(a) part of A",
+      "meaning": "Aの一部"
+    },
+    {
+      "form": "play a part in A",
+      "meaning": "Aで役割を果たす"
+    },
+    {
+      "form": "take part in A",
+      "meaning": "Aに参加する"
+    },
+    {
+      "form": "for one's part",
+      "meaning": "〜としては"
+    },
+    {
+      "form": "part with A",
+      "meaning": "Aを手放す"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "一部",
+      "en": "Part of the money was used to build a new library.",
+      "ja": "そのお金の一部は新しい図書館を建てるのに使われた。"
+    },
+    {
+      "source": "original",
+      "label": "役割",
+      "en": "Exercise plays an important part in staying healthy.",
+      "ja": "運動は健康でいるのに大切な役割を果たす。"
+    },
+    {
+      "source": "original",
+      "label": "参加する",
+      "en": "More than fifty students took part in the contest.",
+      "ja": "50人以上の生徒がそのコンテストに参加した。"
+    },
+    {
+      "source": "original",
+      "label": "役(劇)",
+      "en": "She got the main part in the school play.",
+      "ja": "彼女は学校劇の主役をもらった。"
+    },
+    {
+      "source": "original",
+      "label": "私としては",
+      "en": "For my part, I have no objection to the plan.",
+      "ja": "私としては、その計画に反対はない。"
+    },
+    {
+      "source": "original",
+      "label": "手放す(動詞)",
+      "en": "He didn't want to part with his old guitar.",
+      "ja": "彼は古いギターを手放したくなかった。"
+    }
+  ],
+  "check_points": [
+    "take part in の意味を言えるか",
+    "play a part in の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "take part in(参加する)と play a part [role] in(役割を果たす)は熟語問題の定番。part with も狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 812
+    }
+  ]
+}

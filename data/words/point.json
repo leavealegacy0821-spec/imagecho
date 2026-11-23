@@ -1,0 +1,107 @@
+{
+  "word": "point",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/pɔɪnt/",
+  "core_image": {
+    "text": "とがった先の、ある一点",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 90,64 112,58\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"98\"/><line x1=\"118\" y1=\"56\" x2=\"172\" y2=\"44\" stroke-dasharray=\"5 5\"/><polyline points=\"164.3,41.8 172,44 166,49.3\"/><circle cx=\"182\" cy=\"42\" r=\"4\"/><circle cx=\"182\" cy=\"42\" r=\"14\"/></g><text x=\"182\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">この一点</text></svg>"
+  },
+  "etymology": "ラテン語 punctum(突き刺した点。punctual と同じ根) → とがった先・一点 → (話の)要点・ねらい(the point) → (時間・場所の)一点(at this point) → (得点の)点 → 指先を一点に向ける(point at / to)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the main idea or purpose; a particular time, place or stage; a sharp end; a unit for counting a score."
+    },
+    {
+      "pos": "動詞",
+      "text": "to show where something is by holding out your finger towards it."
+    }
+  ],
+  "cautions": [
+    "the point=要点・ねらい。get the point=話がわかる / miss the point=要点をはずす",
+    "There is no point (in) doing=〜しても無駄だ(It is no use doing と同じ意味)",
+    "point out A / point out that 〜=Aを指摘する。point at / to A=Aを指さす",
+    "at this point=この時点で / be on the point of doing=今にも〜しようとしている"
+  ],
+  "patterns": [
+    {
+      "form": "the point",
+      "meaning": "要点・ねらい"
+    },
+    {
+      "form": "There is no point (in) doing",
+      "meaning": "〜しても無駄だ"
+    },
+    {
+      "form": "point out A / that 〜",
+      "meaning": "Aを・〜と指摘する"
+    },
+    {
+      "form": "point at / to A",
+      "meaning": "Aを指さす"
+    },
+    {
+      "form": "be on the point of doing",
+      "meaning": "今にも〜しようとする"
+    },
+    {
+      "form": "at this point",
+      "meaning": "この時点で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "要点",
+      "en": "I didn't get the point of his speech.",
+      "ja": "彼のスピーチの要点がわからなかった。"
+    },
+    {
+      "source": "original",
+      "label": "無駄だ",
+      "en": "There is no point in worrying about the past.",
+      "ja": "過去のことを心配してもしかたがない。"
+    },
+    {
+      "source": "original",
+      "label": "指摘する",
+      "en": "The teacher pointed out some mistakes in my essay.",
+      "ja": "先生は私の作文のいくつかの誤りを指摘した。"
+    },
+    {
+      "source": "original",
+      "label": "指さす",
+      "en": "The boy pointed at the bird in the tree.",
+      "ja": "男の子は木にとまった鳥を指さした。"
+    },
+    {
+      "source": "original",
+      "label": "時点",
+      "en": "At this point, we cannot say who will win.",
+      "ja": "この時点では、だれが勝つかは言えない。"
+    },
+    {
+      "source": "original",
+      "label": "点(得点)",
+      "en": "Our team won by three points.",
+      "ja": "私たちのチームは3点差で勝った。"
+    }
+  ],
+  "check_points": [
+    "There is no point in doing の意味を言えるか",
+    "point out と point at の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "There is no point (in) doing(〜しても無駄だ)、point out(指摘する)、the point(要点)が語法・長文で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 811
+    }
+  ]
+}

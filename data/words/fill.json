@@ -1,0 +1,98 @@
+{
+  "word": "fill",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/fɪl/",
+  "core_image": {
+    "text": "空いたところに、いっぱいまで入れる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"90,60 90,140 150,140 150,60\"/><line x1=\"90\" y1=\"96\" x2=\"150\" y2=\"96\"/><line x1=\"90\" y1=\"118\" x2=\"150\" y2=\"118\"/><line x1=\"120\" y1=\"20\" x2=\"120\" y2=\"52\"/><polyline points=\"123.8,45 120,52 116.2,45\"/></g><text x=\"194\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いっぱいに</text></svg>"
+  },
+  "etymology": "古い英語 fyllan(満たす。full と同じ根) → 空いたところをいっぱいにする → 満たす(fill A with B) → (気持ちで)胸がいっぱいになる(be filled with) → (用紙の空欄を)埋める(fill in / out) → (空いた地位・時間を)埋める",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make something full; to become full; to write information in the spaces on a form."
+    }
+  ],
+  "cautions": [
+    "fill A with B=AをBで満たす / be filled with A=Aでいっぱいだ(be full of A と同じ)",
+    "fill in [out] A=A(用紙)に記入する / fill in the blanks=空所を埋める",
+    "fill in for 人=人の代わりを務める",
+    "fill up A=Aを満タンにする"
+  ],
+  "patterns": [
+    {
+      "form": "fill A with B",
+      "meaning": "AをBで満たす"
+    },
+    {
+      "form": "be filled with A",
+      "meaning": "Aでいっぱいだ"
+    },
+    {
+      "form": "fill in / out A",
+      "meaning": "A(用紙)に記入する"
+    },
+    {
+      "form": "fill in for 人",
+      "meaning": "人の代わりを務める"
+    },
+    {
+      "form": "fill up A",
+      "meaning": "Aを満タンにする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "満たす",
+      "en": "She filled the glass with cold water.",
+      "ja": "彼女はグラスを冷たい水で満たした。"
+    },
+    {
+      "source": "original",
+      "label": "いっぱいだ",
+      "en": "The hall was filled with people.",
+      "ja": "ホールは人でいっぱいだった。"
+    },
+    {
+      "source": "original",
+      "label": "気持ち",
+      "en": "His heart was filled with joy.",
+      "ja": "彼の胸は喜びでいっぱいだった。"
+    },
+    {
+      "source": "original",
+      "label": "記入する",
+      "en": "Please fill out this form and hand it in.",
+      "ja": "この用紙に記入して提出してください。"
+    },
+    {
+      "source": "original",
+      "label": "空所を埋める",
+      "en": "Fill in the blanks with the correct words.",
+      "ja": "正しい語で空所を埋めなさい。"
+    },
+    {
+      "source": "original",
+      "label": "代わりを務める",
+      "en": "Ms. Sato filled in for our teacher while he was sick.",
+      "ja": "先生が病気の間、佐藤先生が代わりを務めた。"
+    }
+  ],
+  "check_points": [
+    "be filled with と同じ意味の型を言えるか",
+    "fill out A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be filled with(=be full of)と fill in / out(記入する)が熟語・言い換え問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 819
+    }
+  ]
+}
