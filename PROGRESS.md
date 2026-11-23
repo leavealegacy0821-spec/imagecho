@@ -105,3 +105,4 @@
 - 公開前の片付け:デザイン見比べ用の仮のもの(`css/themes/a,c,d,e.css`、`design/`、使わないフォント、`sw.js` の仮の分岐)を削除。`sw.js` は v44
 - `scripts/pages-build.sh`:アプリに要るファイルだけを `public/` に集める(gen/ scripts/ *.md は出さない。検索よけの `_headers` 付き)。Cloudflare の設定は「ビルドコマンド `sh scripts/pages-build.sh`/出力ディレクトリ `public`/フレームワークなし」
 - public/ をスマホ幅で開いて確認:表示・オフライン表示ともエラー0件
+- 方針変更:本人が「リポジトリは秘密でなくてよい」と判断 → **GitHub Pages** で公開する(Cloudflare はやめ)。`.github/workflows/pages.yml` が main への push ごとに `scripts/pages-build.sh` で public/ を作って公開する。本人がリポジトリを Public にし、Settings → Pages の Source を「GitHub Actions」にする
