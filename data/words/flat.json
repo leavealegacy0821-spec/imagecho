@@ -1,0 +1,112 @@
+{
+  "word": "flat",
+  "pos": [
+    "形容詞",
+    "名詞",
+    "副詞"
+  ],
+  "ipa": "/flæt/",
+  "core_image": {
+    "text": "でこぼこがなく、ぺたんと平ら",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M20 70 Q35 40 50 70 Q65 40 80 70 Q95 40 110 70\"/><line x1=\"130\" y1=\"70\" x2=\"220\" y2=\"70\"/><ellipse cx=\"175\" cy=\"130\" rx=\"28\" ry=\"10\"/><circle cx=\"175\" cy=\"130\" r=\"4\"/></g><text x=\"175\" y=\"54\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">平ら</text><text x=\"65\" y=\"96\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">でこぼこ</text></svg>"
+  },
+  "etymology": "古ノルド語 flatr(平らな) → 平らな → (起伏がない)単調な・(料金が)一律の → (空気が抜けて)ぺちゃんこの=パンクした → (平らな1層ぶん)=《英》アパートの一戸 → 副詞 きっぱり・(時間が)ちょうど",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "level and smooth, with no high or low parts; (of a tire) without enough air; not changing or exciting."
+    },
+    {
+      "pos": "名詞",
+      "text": "(British) a set of rooms for living in, on one floor of a building."
+    },
+    {
+      "pos": "副詞",
+      "text": "in a flat position; (after a time) exactly."
+    }
+  ],
+  "cautions": [
+    "《英》a flat=《米》an apartment(アパートの一戸)",
+    "a flat tire=パンクしたタイヤ(「パンク」は和製英語に近い。a puncture とも)",
+    "refuse flatly [a flat refusal]=きっぱり断る[きっぱりした拒絶]",
+    "時間+flat=ちょうど(in ten seconds flat=ちょうど10秒で)、fall flat=(冗談・計画が)うけない・失敗する"
+  ],
+  "patterns": [
+    {
+      "form": "a flat surface",
+      "meaning": "平らな面"
+    },
+    {
+      "form": "a flat tire",
+      "meaning": "パンクしたタイヤ"
+    },
+    {
+      "form": "a flat rate",
+      "meaning": "一律料金"
+    },
+    {
+      "form": "flatly refuse",
+      "meaning": "きっぱり断る"
+    },
+    {
+      "form": "fall flat",
+      "meaning": "うけない・失敗する"
+    },
+    {
+      "form": "in ten seconds flat",
+      "meaning": "ちょうど10秒で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "平らな",
+      "en": "People once believed that the earth was flat.",
+      "ja": "人々はかつて地球は平らだと信じていた。"
+    },
+    {
+      "source": "original",
+      "label": "パンクした",
+      "en": "We had a flat tire on the way to the airport.",
+      "ja": "空港へ向かう途中でタイヤがパンクした。"
+    },
+    {
+      "source": "original",
+      "label": "アパート(名詞・英)",
+      "en": "She lives in a small flat in London.",
+      "ja": "彼女はロンドンの小さなアパートに住んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "一律の",
+      "en": "The taxi charges a flat rate to the station.",
+      "ja": "そのタクシーは駅まで一律料金だ。"
+    },
+    {
+      "source": "original",
+      "label": "きっぱり(副詞)",
+      "en": "He flatly refused to answer the question.",
+      "ja": "彼はその質問に答えるのをきっぱり断った。"
+    },
+    {
+      "source": "original",
+      "label": "fall flat",
+      "en": "His joke fell flat, and nobody laughed.",
+      "ja": "彼の冗談はうけず、だれも笑わなかった。"
+    }
+  ],
+  "check_points": [
+    "a flat tire の意味を言えるか",
+    "《英》flat=《米》何 かを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a flat tire、《英》flat=apartment、fall flat が会話文・語彙で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 902
+    }
+  ]
+}

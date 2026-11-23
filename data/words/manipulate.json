@@ -1,0 +1,98 @@
+{
+  "word": "manipulate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/məˈnɪpjuleɪt/",
+  "core_image": {
+    "text": "手の中で、思うようにあやつる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"90\" y1=\"30\" x2=\"150\" y2=\"30\"/><line x1=\"120\" y1=\"30\" x2=\"120\" y2=\"14\"/><line x1=\"100\" y1=\"30\" x2=\"100\" y2=\"80\"/><line x1=\"140\" y1=\"30\" x2=\"140\" y2=\"80\"/><line x1=\"120\" y1=\"30\" x2=\"120\" y2=\"68\"/><circle cx=\"120\" cy=\"76\" r=\"8\"/><line x1=\"120\" y1=\"84\" x2=\"120\" y2=\"110\"/><line x1=\"120\" y1=\"92\" x2=\"100\" y2=\"80\"/><line x1=\"120\" y1=\"92\" x2=\"140\" y2=\"80\"/><line x1=\"120\" y1=\"110\" x2=\"110\" y2=\"138\"/><line x1=\"120\" y1=\"110\" x2=\"130\" y2=\"138\"/></g><text x=\"192\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あやつる</text></svg>"
+  },
+  "etymology": "ラテン語 manipulus(ひとつかみ。manus=手 から。manual、manufacture と同じ根) → 手で扱う → (機械・道具を)器用に操作する → (人・情報・数字を)自分の思うようにあやつる・ごまかす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to control or influence someone or something in a clever or dishonest way; to handle or control something skillfully with your hands."
+    }
+  ],
+  "cautions": [
+    "(機械・道具を)上手に扱う、のよい意味と、(人・世論・数字を)陰であやつる・改ざんする、の悪い意味がある(長文はほぼ悪い意味)",
+    "manipulate A into doing=Aをうまくあやつって〜させる",
+    "名詞 manipulation=操作・ごまかし、形容詞 manipulative=人をあやつろうとする",
+    "control より「ずるく・こっそり」の感じが強い"
+  ],
+  "patterns": [
+    {
+      "form": "manipulate A",
+      "meaning": "Aをあやつる"
+    },
+    {
+      "form": "manipulate A into doing",
+      "meaning": "Aをあやつって〜させる"
+    },
+    {
+      "form": "manipulate data",
+      "meaning": "データを改ざんする"
+    },
+    {
+      "form": "manipulation",
+      "meaning": "操作・ごまかし"
+    },
+    {
+      "form": "manipulative",
+      "meaning": "人をあやつろうとする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "あやつる",
+      "en": "Advertising can manipulate what people want to buy.",
+      "ja": "広告は人々が買いたいと思うものをあやつることがある。"
+    },
+    {
+      "source": "original",
+      "label": "manipulate A into doing",
+      "en": "He manipulated his friends into lending him money.",
+      "ja": "彼は友人たちをうまく丸めこんでお金を貸させた。"
+    },
+    {
+      "source": "original",
+      "label": "改ざんする",
+      "en": "The company was accused of manipulating the data.",
+      "ja": "その会社はデータを改ざんしたとして非難された。"
+    },
+    {
+      "source": "original",
+      "label": "操作する(よい意味)",
+      "en": "The robot can manipulate very small objects.",
+      "ja": "そのロボットはとても小さな物を器用に扱える。"
+    },
+    {
+      "source": "original",
+      "label": "manipulation",
+      "en": "Some news stories are a form of manipulation.",
+      "ja": "ニュース記事の中には一種の世論操作であるものもある。"
+    },
+    {
+      "source": "original",
+      "label": "manipulative",
+      "en": "Be careful of manipulative people.",
+      "ja": "人をあやつろうとする人には気をつけなさい。"
+    }
+  ],
+  "check_points": [
+    "manipulate のよい意味と悪い意味を言えるか",
+    "manipulate A into doing の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で「(人・情報を)あやつる」の意味が問われる。manipulation・manipulative も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 909
+    }
+  ]
+}

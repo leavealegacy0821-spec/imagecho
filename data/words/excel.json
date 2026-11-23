@@ -1,0 +1,98 @@
+{
+  "word": "excel",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪkˈsel/",
+  "core_image": {
+    "text": "ほかより一段高く抜け出る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"110\" width=\"40\" height=\"30\"/><rect x=\"100\" y=\"70\" width=\"40\" height=\"70\"/><rect x=\"160\" y=\"100\" width=\"40\" height=\"40\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"20\"/><polyline points=\"116.2,27 120,20 123.8,27\"/></g><text x=\"178\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">抜きん出る</text></svg>"
+  },
+  "etymology": "ex(外へ・上へ) + cellere(高くそびえる) → ほかより上へ抜け出る → 優れている・秀でる → 形容詞 excellent=非常に優れた、名詞 excellence=優秀さ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be extremely good at something; to be better than others."
+    }
+  ],
+  "cautions": [
+    "excel in [at] A=Aに秀でている(自動詞なので前置詞が要る。×excel A)",
+    "excel A=Aにまさる(他動詞は堅い。surpass と同じ)",
+    "excellent は「最高に良い」意味を含むので、ふつう very を付けない",
+    "状態を表すので進行形にしにくい"
+  ],
+  "patterns": [
+    {
+      "form": "excel in A",
+      "meaning": "Aに秀でている"
+    },
+    {
+      "form": "excel at A",
+      "meaning": "Aが得意だ"
+    },
+    {
+      "form": "excel as A",
+      "meaning": "Aとして優れている"
+    },
+    {
+      "form": "excellent",
+      "meaning": "非常に優れた"
+    },
+    {
+      "form": "excellence",
+      "meaning": "優秀さ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "excel in",
+      "en": "She excels in mathematics and science.",
+      "ja": "彼女は数学と理科に秀でている。"
+    },
+    {
+      "source": "original",
+      "label": "excel at",
+      "en": "My brother excels at playing the piano.",
+      "ja": "兄はピアノを弾くのがとても上手だ。"
+    },
+    {
+      "source": "original",
+      "label": "excel as",
+      "en": "He excelled as a leader of the team.",
+      "ja": "彼はチームのリーダーとして優れていた。"
+    },
+    {
+      "source": "original",
+      "label": "抜きん出る",
+      "en": "Few students excel in every subject.",
+      "ja": "すべての教科で抜きん出ている生徒はほとんどいない。"
+    },
+    {
+      "source": "original",
+      "label": "excellent",
+      "en": "You did an excellent job on the report.",
+      "ja": "君のレポートはとてもよくできていた。"
+    },
+    {
+      "source": "original",
+      "label": "excellence",
+      "en": "The school is known for its excellence in sports.",
+      "ja": "その学校はスポーツで優れていることで知られている。"
+    }
+  ],
+  "check_points": [
+    "excel の後ろに付く前置詞を2つ言えるか",
+    "excel・excellent・excellence の品詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "excel in [at] A(自動詞+前置詞)が語法・言いかえ(be good at)で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 904
+    }
+  ]
+}

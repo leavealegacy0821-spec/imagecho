@@ -1,0 +1,98 @@
+{
+  "word": "allege",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈledʒ/",
+  "core_image": {
+    "text": "証拠はまだないが「〜だ」と言い立てる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"100\" y2=\"66\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"170\" y2=\"96\"/><line x1=\"180\" y1=\"74\" x2=\"190\" y2=\"96\"/><line x1=\"106\" y1=\"70\" x2=\"160\" y2=\"70\" stroke-dasharray=\"5 5\"/><polyline points=\"153,66.2 160,70 153,73.8\"/><path d=\"M204 16 Q213 6 222 16 Q222 26 213 28 L213 32\"/><circle cx=\"213\" cy=\"38\" r=\"1.5\"/></g><text x=\"112\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">言い立てる</text></svg>"
+  },
+  "etymology": "ラテン語 allegare(ad=〜へ + legare=使者を送る) → 証人を立てて申し立てる → (まだ証明されていないことを)〜だと主張する → allegedly=(本当かどうかはわからないが)伝えられるところでは",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say that something is true or that someone has done something wrong, without giving proof."
+    }
+  ],
+  "cautions": [
+    "allege that S V=(証拠なしに)〜だと主張する",
+    "A is alleged to do [have done]=Aは〜する[した]とされている(It is alleged that S V)",
+    "claim よりも「まだ証明されていない・疑わしい」感じが強い",
+    "副詞 allegedly=伝えられるところでは、名詞 allegation=(証拠のない)申し立て"
+  ],
+  "patterns": [
+    {
+      "form": "allege that S V",
+      "meaning": "〜だと主張する"
+    },
+    {
+      "form": "A is alleged to do",
+      "meaning": "Aは〜するとされている"
+    },
+    {
+      "form": "It is alleged that S V",
+      "meaning": "〜だと言われている"
+    },
+    {
+      "form": "allegedly",
+      "meaning": "伝えられるところでは"
+    },
+    {
+      "form": "allegation",
+      "meaning": "申し立て"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "allege that",
+      "en": "The newspaper alleged that the mayor had lied.",
+      "ja": "その新聞は市長がうそをついたと主張した。"
+    },
+    {
+      "source": "original",
+      "label": "be alleged to have done",
+      "en": "The man is alleged to have stolen the car.",
+      "ja": "その男はその車を盗んだとされている。"
+    },
+    {
+      "source": "original",
+      "label": "It is alleged that",
+      "en": "It is alleged that the company broke the law.",
+      "ja": "その会社は法律を破ったと言われている。"
+    },
+    {
+      "source": "original",
+      "label": "allegedly",
+      "en": "The singer was allegedly seen at the airport.",
+      "ja": "その歌手は空港で目撃されたと伝えられている。"
+    },
+    {
+      "source": "original",
+      "label": "allegation",
+      "en": "He strongly denied the allegations.",
+      "ja": "彼はその申し立てを強く否定した。"
+    },
+    {
+      "source": "original",
+      "label": "claim との比較",
+      "en": "She claims she is innocent, but they allege she is guilty.",
+      "ja": "彼女は無実だと言うが、彼らは彼女が有罪だと申し立てている。"
+    }
+  ],
+  "check_points": [
+    "A is alleged to have done の意味を言えるか",
+    "allegedly の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be alleged to do と allegedly がニュース系の長文・和訳で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 910
+    }
+  ]
+}

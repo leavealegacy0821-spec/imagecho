@@ -1,0 +1,98 @@
+{
+  "word": "testify",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈtestɪfaɪ/",
+  "core_image": {
+    "text": "見たことを、証人として口に出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"80\" y1=\"74\" x2=\"96\" y2=\"86\"/><line x1=\"80\" y1=\"74\" x2=\"64\" y2=\"86\"/><rect x=\"56\" y=\"96\" width=\"48\" height=\"44\"/><path d=\"M100 36 Q108 44 100 52\"/><path d=\"M108 30 Q120 44 108 58\"/></g><text x=\"176\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">証言する</text></svg>"
+  },
+  "etymology": "ラテン語 testis(証人。protest、contest、testimony と同じ根) + facere(する) → 証人になる → (法廷で)証言する → (物事が)〜の証拠となる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make a statement in court about what you know or saw; to show or be evidence that something is true."
+    }
+  ],
+  "cautions": [
+    "testify to A=Aを証言する・(物が主語で)Aの証拠となる(to が狙われる)",
+    "testify that S V=〜だと証言する",
+    "testify against [for] A=Aに不利[有利]な証言をする",
+    "名詞 testimony=証言・証拠"
+  ],
+  "patterns": [
+    {
+      "form": "testify that S V",
+      "meaning": "〜だと証言する"
+    },
+    {
+      "form": "testify to A",
+      "meaning": "Aを証言する・Aの証拠となる"
+    },
+    {
+      "form": "testify against A",
+      "meaning": "Aに不利な証言をする"
+    },
+    {
+      "form": "testify in court",
+      "meaning": "法廷で証言する"
+    },
+    {
+      "form": "testimony",
+      "meaning": "証言・証拠"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "証言する",
+      "en": "The witness testified in court yesterday.",
+      "ja": "その証人はきのう法廷で証言した。"
+    },
+    {
+      "source": "original",
+      "label": "testify that",
+      "en": "She testified that she had seen the man at the station.",
+      "ja": "彼女はその男を駅で見たと証言した。"
+    },
+    {
+      "source": "original",
+      "label": "testify against",
+      "en": "He refused to testify against his friend.",
+      "ja": "彼は友人に不利な証言をすることを拒んだ。"
+    },
+    {
+      "source": "original",
+      "label": "testify to(人)",
+      "en": "Many people testified to his honesty.",
+      "ja": "多くの人が彼の誠実さを証言した。"
+    },
+    {
+      "source": "original",
+      "label": "testify to(物)",
+      "en": "The old walls testify to the long history of the town.",
+      "ja": "古い城壁はその町の長い歴史を物語っている。"
+    },
+    {
+      "source": "original",
+      "label": "testimony(名詞)",
+      "en": "Her testimony helped the police solve the case.",
+      "ja": "彼女の証言が警察の事件解決を助けた。"
+    }
+  ],
+  "check_points": [
+    "testify to A の2つの意味を言えるか",
+    "名詞 testimony の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "testify to A(〜の証拠となる)が物主語の長文・和訳で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 906
+    }
+  ]
+}

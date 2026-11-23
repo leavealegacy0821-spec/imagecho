@@ -1,0 +1,98 @@
+{
+  "word": "confide",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈfaɪd/",
+  "core_image": {
+    "text": "すっかり信じて、秘密を打ち明ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"92\" y2=\"64\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><circle cx=\"160\" cy=\"52\" r=\"10\"/><line x1=\"160\" y1=\"62\" x2=\"160\" y2=\"106\"/><line x1=\"160\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"160\" y1=\"74\" x2=\"150\" y2=\"96\"/><line x1=\"160\" y1=\"74\" x2=\"170\" y2=\"96\"/><path d=\"M106 36 Q112 42 106 48\"/><path d=\"M114 32 Q122 42 114 52\"/></g><text x=\"115\" y=\"18\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">打ち明ける</text></svg>"
+  },
+  "etymology": "con(すっかり) + fidere(信じる。confident、confidence と同じ根) → すっかり信じる → 信じて任せる → 信頼して(秘密を)打ち明ける",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to tell someone a secret or something private because you trust them."
+    }
+  ],
+  "cautions": [
+    "confide in A=Aを信頼して打ち明ける(in が狙われる)",
+    "confide A to B=A(秘密など)をBに打ち明ける、confide to B that S V",
+    "confident=自信がある、confidential=秘密の・内密の、confidence=信頼・自信 の取り違えに注意",
+    "「信じる」が根なので、信頼できる相手にだけ話すイメージ"
+  ],
+  "patterns": [
+    {
+      "form": "confide in A",
+      "meaning": "Aに打ち明ける"
+    },
+    {
+      "form": "confide A to B",
+      "meaning": "AをBに打ち明ける"
+    },
+    {
+      "form": "confide to B that S V",
+      "meaning": "Bに〜だと打ち明ける"
+    },
+    {
+      "form": "confidential",
+      "meaning": "秘密の"
+    },
+    {
+      "form": "confidence",
+      "meaning": "信頼・自信"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "confide in",
+      "en": "She has no one to confide in at her new school.",
+      "ja": "彼女は新しい学校で心を打ち明けられる相手がいない。"
+    },
+    {
+      "source": "original",
+      "label": "confide A to B",
+      "en": "He confided his worries to his older sister.",
+      "ja": "彼は悩みを姉に打ち明けた。"
+    },
+    {
+      "source": "original",
+      "label": "confide that",
+      "en": "My friend confided to me that he was going to move.",
+      "ja": "友人は引っ越すつもりだと私に打ち明けた。"
+    },
+    {
+      "source": "original",
+      "label": "信頼して話す",
+      "en": "Children confide in adults who listen carefully.",
+      "ja": "子どもはよく聞いてくれる大人に心を開く。"
+    },
+    {
+      "source": "original",
+      "label": "confidential",
+      "en": "Please keep this information confidential.",
+      "ja": "この情報は内密にしておいてください。"
+    },
+    {
+      "source": "original",
+      "label": "confidence",
+      "en": "I have complete confidence in her.",
+      "ja": "私は彼女を全面的に信頼している。"
+    }
+  ],
+  "check_points": [
+    "confide in A の意味を言えるか",
+    "confident と confidential の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "confide in A と、派生語 confident / confidential / confidence の区別が語彙問題で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 908
+    }
+  ]
+}

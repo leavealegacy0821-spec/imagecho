@@ -1,0 +1,103 @@
+{
+  "word": "merit",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈmerɪt/",
+  "core_image": {
+    "text": "ちゃんと値打ちがある、良い点",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"140\"/><line x1=\"60\" y1=\"70\" x2=\"180\" y2=\"50\"/><line x1=\"60\" y1=\"70\" x2=\"48\" y2=\"96\"/><line x1=\"60\" y1=\"70\" x2=\"72\" y2=\"96\"/><line x1=\"42\" y1=\"96\" x2=\"78\" y2=\"96\"/><rect x=\"50\" y=\"84\" width=\"20\" height=\"12\"/><line x1=\"180\" y1=\"50\" x2=\"168\" y2=\"76\"/><line x1=\"180\" y1=\"50\" x2=\"192\" y2=\"76\"/><line x1=\"162\" y1=\"76\" x2=\"198\" y2=\"76\"/></g><text x=\"60\" y=\"118\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">長所</text><text x=\"180\" y=\"98\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">短所</text></svg>"
+  },
+  "etymology": "ラテン語 meritum(得たもの・報い。mereri=得る・値する から) → 報いを受けるに値するもの → 長所・取り柄・功績 → 動詞 〜に値する(deserve の堅い語)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a good quality or feature that deserves praise; the quality of being good or useful."
+    },
+    {
+      "pos": "動詞",
+      "text": "to deserve something, such as attention or praise."
+    }
+  ],
+  "cautions": [
+    "日本語の「メリット(得)」より「値打ち・長所」の意味が中心。the merits and demerits of A=Aの長所と短所",
+    "merit A=Aに値する(deserve と同じく他動詞。×merit for A)",
+    "judge A on its (own) merits=Aをそれ自体の良し悪しで判断する",
+    "形容詞 meritorious=称賛に値する、merit system=能力主義"
+  ],
+  "patterns": [
+    {
+      "form": "the merits and demerits of A",
+      "meaning": "Aの長所と短所"
+    },
+    {
+      "form": "merit A",
+      "meaning": "Aに値する"
+    },
+    {
+      "form": "merit attention",
+      "meaning": "注目に値する"
+    },
+    {
+      "form": "on its own merits",
+      "meaning": "それ自体の良し悪しで"
+    },
+    {
+      "form": "of great merit",
+      "meaning": "とても価値のある"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "長所(名詞)",
+      "en": "The plan has the merit of being cheap.",
+      "ja": "その計画には安上がりだという長所がある。"
+    },
+    {
+      "source": "original",
+      "label": "merits and demerits",
+      "en": "We discussed the merits and demerits of online classes.",
+      "ja": "私たちはオンライン授業の長所と短所を話し合った。"
+    },
+    {
+      "source": "original",
+      "label": "価値",
+      "en": "This is a novel of great merit.",
+      "ja": "これはとても価値のある小説だ。"
+    },
+    {
+      "source": "original",
+      "label": "merit A(動詞)",
+      "en": "His idea merits serious attention.",
+      "ja": "彼の考えは真剣に検討する価値がある。"
+    },
+    {
+      "source": "original",
+      "label": "on its own merits",
+      "en": "Each proposal should be judged on its own merits.",
+      "ja": "どの提案もそれ自体の良し悪しで判断されるべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "deserve との言いかえ",
+      "en": "Her hard work merits praise.",
+      "ja": "彼女の努力は称賛に値する。"
+    }
+  ],
+  "check_points": [
+    "the merits and demerits of A の意味を言えるか",
+    "動詞 merit を deserve で言いかえられるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "merits and demerits(長所と短所)、動詞 merit=deserve が語彙・長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 905
+    }
+  ]
+}

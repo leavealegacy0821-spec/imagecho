@@ -1,0 +1,103 @@
+{
+  "word": "screen",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/skriːn/",
+  "core_image": {
+    "text": "間に立てて、さえぎる仕切り",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"70\" y2=\"88\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><polyline points=\"100,136 100,60 120,54 120,130 140,136 140,60 160,54 160,130\"/><line x1=\"225\" y1=\"80\" x2=\"172\" y2=\"80\"/><polyline points=\"179,83.8 172,80 179,76.2\"/><line x1=\"225\" y1=\"110\" x2=\"172\" y2=\"110\"/><polyline points=\"179,113.8 172,110 179,106.2\"/></g><text x=\"130\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">仕切り</text><text x=\"204\" y=\"66\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">光</text></svg>"
+  },
+  "etymology": "古フランス語 escren(ついたて・仕切り) → 間に立ててさえぎる仕切り → (映像を映す)幕・画面 → (さえぎって)守る・隠す → (ふるいの目のように通すものを選ぶ)選別する・検査する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a flat surface on which pictures or information appear; an upright frame used to divide a room or hide something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to hide or protect something with a screen; to check people or things to find any problems or diseases."
+    }
+  ],
+  "cautions": [
+    "「画面」だけで覚えると、長文の screen=選別する・審査する(screen applicants)が取れない",
+    "screen A for B=AにB(病気など)がないか検査する",
+    "screen A from B=AをBからさえぎる・守る",
+    "名詞 screening=審査・検診・(映画の)上映"
+  ],
+  "patterns": [
+    {
+      "form": "screen A from B",
+      "meaning": "AをBからさえぎる"
+    },
+    {
+      "form": "screen A for B",
+      "meaning": "AのBの有無を検査する"
+    },
+    {
+      "form": "screen applicants",
+      "meaning": "応募者を選考する"
+    },
+    {
+      "form": "screening",
+      "meaning": "審査・検診・上映"
+    },
+    {
+      "form": "on the screen",
+      "meaning": "画面上で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "画面(名詞)",
+      "en": "Don't look at the screen for too long before bed.",
+      "ja": "寝る前に長時間画面を見ないように。"
+    },
+    {
+      "source": "original",
+      "label": "仕切り(名詞)",
+      "en": "A paper screen divided the room into two parts.",
+      "ja": "紙のついたてが部屋を2つに仕切っていた。"
+    },
+    {
+      "source": "original",
+      "label": "screen A from B",
+      "en": "The trees screen the house from the road.",
+      "ja": "木々が家を道路から見えないようにさえぎっている。"
+    },
+    {
+      "source": "original",
+      "label": "screen A for B",
+      "en": "All visitors are screened for fever at the entrance.",
+      "ja": "訪問者は全員入り口で発熱がないか検査される。"
+    },
+    {
+      "source": "original",
+      "label": "選考する",
+      "en": "The company screened more than 500 applicants.",
+      "ja": "その会社は500人を超える応募者を選考した。"
+    },
+    {
+      "source": "original",
+      "label": "screening",
+      "en": "The film's first screening was held in Tokyo.",
+      "ja": "その映画の最初の上映会は東京で行われた。"
+    }
+  ],
+  "check_points": [
+    "screen の「選別する・検査する」の意味を言えるか",
+    "screen A from B の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で screen=選別する・審査する が問われる。screening(検診・上映)も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 903
+    }
+  ]
+}
