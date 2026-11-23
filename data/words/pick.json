@@ -1,0 +1,94 @@
+{
+  "word": "pick",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/pɪk/",
+  "core_image": {
+    "text": "たくさんの中から、指でつまみ取る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 96,60 118,46\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"96\"/><circle cx=\"150\" cy=\"40\" r=\"6\"/><circle cx=\"180\" cy=\"40\" r=\"6\"/><circle cx=\"165\" cy=\"70\" r=\"6\"/><circle cx=\"195\" cy=\"70\" r=\"6\"/><line x1=\"142\" y1=\"42\" x2=\"124\" y2=\"46\"/><polyline points=\"131.7,48.2 124,46 130,40.7\"/></g><text x=\"175\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">つまみ取る</text></svg>"
+  },
+  "etymology": "古い英語 pician(先のとがったもので突く。pick=つるはし) → 指先でつまむ → (花・果物を)摘む → (たくさんの中から)選び取る(pick out) → 拾い上げる(pick up)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to choose someone or something from a group; to take a flower or fruit from a plant; to lift something up."
+    }
+  ],
+  "cautions": [
+    "pick=「選ぶ」(choose と同じ)。pick A out=Aを選び出す",
+    "pick up は意味が多い:拾う / (車で)迎えに行く / (言葉などを自然に)身につける / (景気が)持ち直す",
+    "pick on 人=人をいじめる・(しつこく)からかう",
+    "pick one's pocket=すりをする(pickpocket=すり)"
+  ],
+  "patterns": [
+    {
+      "form": "pick A",
+      "meaning": "Aを選ぶ・摘む"
+    },
+    {
+      "form": "pick A out",
+      "meaning": "Aを選び出す"
+    },
+    {
+      "form": "pick A up / pick up A",
+      "meaning": "Aを拾う・迎えに行く・身につける"
+    },
+    {
+      "form": "pick on 人",
+      "meaning": "人をいじめる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "選ぶ",
+      "en": "Pick any card you like.",
+      "ja": "好きなカードをどれでも1枚選んで。"
+    },
+    {
+      "source": "original",
+      "label": "摘む",
+      "en": "We picked strawberries at the farm.",
+      "ja": "私たちは農園でいちごを摘んだ。"
+    },
+    {
+      "source": "original",
+      "label": "拾う",
+      "en": "He picked up the empty can and threw it away.",
+      "ja": "彼は空き缶を拾って捨てた。"
+    },
+    {
+      "source": "original",
+      "label": "迎えに行く",
+      "en": "I'll pick you up at the station at six.",
+      "ja": "6時に駅まで車で迎えに行くよ。"
+    },
+    {
+      "source": "original",
+      "label": "身につける",
+      "en": "She picked up some Spanish while she was in Mexico.",
+      "ja": "彼女はメキシコにいる間にスペイン語を少し覚えた。"
+    },
+    {
+      "source": "original",
+      "label": "pick on",
+      "en": "Stop picking on your little brother.",
+      "ja": "弟をいじめるのはやめなさい。"
+    }
+  ],
+  "check_points": [
+    "pick up の意味を3つ言えるか",
+    "pick on 人 の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "pick up(迎えに行く・身につける)と pick on(いじめる)が会話文・熟語問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 802
+    }
+  ]
+}

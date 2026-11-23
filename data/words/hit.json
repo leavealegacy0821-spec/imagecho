@@ -1,0 +1,103 @@
+{
+  "word": "hit",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/hɪt/",
+  "core_image": {
+    "text": "勢いよく、ばしっと当たる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"170\" y=\"40\" width=\"20\" height=\"100\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 84,66 100,60\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><line x1=\"110\" y1=\"62\" x2=\"164\" y2=\"80\"/><polyline points=\"158.6,74.1 164,80 156.1,81.4\"/><line x1=\"152\" y1=\"58\" x2=\"158\" y2=\"66\"/><line x1=\"150\" y1=\"100\" x2=\"158\" y2=\"92\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ばしっ</text></svg>"
+  },
+  "etymology": "古いノルド語 hitta(出くわす・当たる) → 勢いよく当たる → 打つ・ぶつかる → (災害・不況が)襲う → (考えが頭に)ぱっと当たる(It hit me that 〜) → (数値に)達する → 大当たり(名詞)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to touch something quickly and with force; to have a bad effect on a place or people; to reach a level."
+    },
+    {
+      "pos": "名詞",
+      "text": "a song, film, etc. that is very popular."
+    }
+  ],
+  "cautions": [
+    "活用は hit - hit - hit(形が変わらないので時制に注意)",
+    "hit 人 on the head=人の頭をたたく(人を目的語にして体の部分は on the)",
+    "hit on [upon] A=A(考え)をふと思いつく / It hit me that 〜=〜とふと気づいた",
+    "be hit by A=(地震・台風など)Aに襲われる / a hit=大ヒット作"
+  ],
+  "patterns": [
+    {
+      "form": "hit A",
+      "meaning": "Aを打つ・Aにぶつかる"
+    },
+    {
+      "form": "hit 人 on the 体の部分",
+      "meaning": "人の〜をたたく"
+    },
+    {
+      "form": "hit on [upon] A",
+      "meaning": "Aを思いつく"
+    },
+    {
+      "form": "be hit by A",
+      "meaning": "Aに襲われる"
+    },
+    {
+      "form": "a big hit",
+      "meaning": "大ヒット"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "打つ",
+      "en": "He hit the ball over the fence.",
+      "ja": "彼はボールをフェンスの向こうまで打った。"
+    },
+    {
+      "source": "original",
+      "label": "ぶつかる",
+      "en": "The car hit a tree.",
+      "ja": "車が木にぶつかった。"
+    },
+    {
+      "source": "original",
+      "label": "hit 人 on the",
+      "en": "Something hit me on the shoulder.",
+      "ja": "何かが私の肩に当たった。"
+    },
+    {
+      "source": "original",
+      "label": "襲う",
+      "en": "The town was hit by a big earthquake.",
+      "ja": "その町は大地震に襲われた。"
+    },
+    {
+      "source": "original",
+      "label": "思いつく",
+      "en": "She hit on a great idea for the school festival.",
+      "ja": "彼女は文化祭のすばらしい案を思いついた。"
+    },
+    {
+      "source": "original",
+      "label": "大ヒット(名詞)",
+      "en": "The song became a big hit all over the world.",
+      "ja": "その歌は世界中で大ヒットした。"
+    }
+  ],
+  "check_points": [
+    "hit 人 on the head の型を言えるか",
+    "hit on A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "hit 人 on the 体の部分(定冠詞 the)、hit on(思いつく)、be hit by(襲われる)が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 804
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "cross",
+  "pos": [
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/krɔːs/",
+  "core_image": {
+    "text": "線の上を、横切って向こうへ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"100\" y1=\"60\" x2=\"100\" y2=\"140\"/><line x1=\"140\" y1=\"60\" x2=\"140\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"72\" y2=\"96\"/><line x1=\"80\" y1=\"100\" x2=\"190\" y2=\"100\"/><polyline points=\"183,96.2 190,100 183,103.8\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">横切る</text></svg>"
+  },
+  "etymology": "ラテン語 crux(十字架) → 十字に交わる線 → (道・川を)横切る・渡る → (腕・脚を)交差させる → (考えが心を)よぎる(cross one's mind) → (気持ちが交わらず)不機嫌な(形容詞)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to go across from one side of something to the other; to put one thing across another."
+    },
+    {
+      "pos": "形容詞",
+      "text": "annoyed or angry."
+    }
+  ],
+  "cautions": [
+    "cross the street=通りを渡る(他動詞。×cross across the street)",
+    "A cross one's mind=Aが(人の)心にふと浮かぶ(主語は考えのほう)",
+    "cross A out=Aを線で消す / keep one's fingers crossed=幸運を祈る",
+    "形容詞 be cross with 人=人に腹を立てている(angry と同じ)"
+  ],
+  "patterns": [
+    {
+      "form": "cross A",
+      "meaning": "Aを渡る・横切る"
+    },
+    {
+      "form": "A cross one's mind",
+      "meaning": "Aがふと心に浮かぶ"
+    },
+    {
+      "form": "cross one's arms / legs",
+      "meaning": "腕 / 脚を組む"
+    },
+    {
+      "form": "cross A out",
+      "meaning": "Aを線で消す"
+    },
+    {
+      "form": "be cross with 人",
+      "meaning": "人に腹を立てている"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "渡る",
+      "en": "Look both ways before you cross the road.",
+      "ja": "道路を渡る前に左右を確かめなさい。"
+    },
+    {
+      "source": "original",
+      "label": "横切る",
+      "en": "A cat crossed in front of my bike.",
+      "ja": "猫が自転車の前を横切った。"
+    },
+    {
+      "source": "original",
+      "label": "心に浮かぶ",
+      "en": "It never crossed my mind that he might be lying.",
+      "ja": "彼がうそをついているかもしれないとは思いもしなかった。"
+    },
+    {
+      "source": "original",
+      "label": "組む",
+      "en": "She sat with her legs crossed.",
+      "ja": "彼女は脚を組んで座っていた。"
+    },
+    {
+      "source": "original",
+      "label": "cross A out",
+      "en": "Cross out the wrong answers.",
+      "ja": "まちがった答えを線で消しなさい。"
+    },
+    {
+      "source": "original",
+      "label": "不機嫌な(形容詞)",
+      "en": "Mom was cross with me for coming home late.",
+      "ja": "帰りが遅かったので母は私に腹を立てていた。"
+    }
+  ],
+  "check_points": [
+    "cross one's mind の主語は何か言えるか",
+    "形容詞 cross の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "It never crossed my mind that 〜(思いもしなかった)と、cross A out、形容詞 cross(不機嫌な)が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 801
+    }
+  ]
+}

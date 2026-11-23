@@ -1,0 +1,94 @@
+{
+  "word": "ignorant",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈɪɡnərənt/",
+  "core_image": {
+    "text": "知らないまま、目がふさがれている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"138\" y1=\"50\" x2=\"162\" y2=\"50\"/><line x1=\"150\" y1=\"74\" x2=\"138\" y2=\"96\"/><line x1=\"150\" y1=\"74\" x2=\"162\" y2=\"96\"/><rect x=\"40\" y=\"70\" width=\"50\" height=\"40\"/><line x1=\"65\" y1=\"70\" x2=\"65\" y2=\"110\"/></g><text x=\"65\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">知らない</text></svg>"
+  },
+  "etymology": "ラテン語 ignorare(知らない。i(g)n=〜ない + gno=知る。know と同じ根) → 知らない → (知るべきことを)知らない・無知な。動詞 ignore(無視する)も同じ根",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not knowing facts or information that you should know; having little education."
+    }
+  ],
+  "cautions": [
+    "be ignorant of A=Aを知らない(前置詞 of)",
+    "ignore=(知っているのに)無視する、ignorant=(そもそも)知らない、と区別",
+    "名詞 ignorance=無知(Ignorance is bliss.=知らぬが仏)",
+    "unaware of A と言い換えられる"
+  ],
+  "patterns": [
+    {
+      "form": "be ignorant of A",
+      "meaning": "Aを知らない"
+    },
+    {
+      "form": "ignorance",
+      "meaning": "無知"
+    },
+    {
+      "form": "ignore A",
+      "meaning": "Aを無視する"
+    },
+    {
+      "form": "be unaware of A",
+      "meaning": "Aに気づいていない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "知らない",
+      "en": "He was ignorant of the danger.",
+      "ja": "彼はその危険を知らなかった。"
+    },
+    {
+      "source": "original",
+      "label": "無知な",
+      "en": "I felt ignorant when they talked about economics.",
+      "ja": "彼らが経済の話をしたとき、自分が無知だと感じた。"
+    },
+    {
+      "source": "original",
+      "label": "ignorance(名詞)",
+      "en": "His mistake came from ignorance, not from carelessness.",
+      "ja": "彼のまちがいは不注意からではなく無知から来ていた。"
+    },
+    {
+      "source": "original",
+      "label": "ignore との比較",
+      "en": "She didn't ignore the rule; she was simply ignorant of it.",
+      "ja": "彼女は規則を無視したのではなく、ただ知らなかったのだ。"
+    },
+    {
+      "source": "original",
+      "label": "unaware との言い換え",
+      "en": "Many people are ignorant, or unaware, of the new law.",
+      "ja": "多くの人がその新しい法律を知らない。"
+    },
+    {
+      "source": "original",
+      "label": "ことわざ",
+      "en": "They say ignorance is bliss.",
+      "ja": "知らぬが仏と言う。"
+    }
+  ],
+  "check_points": [
+    "ignore と ignorant の違いを言えるか",
+    "be ignorant of を訳せるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be ignorant of(知らない)と ignore(無視する)の区別が語彙問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 810
+    }
+  ]
+}

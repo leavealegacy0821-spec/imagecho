@@ -1,0 +1,103 @@
+{
+  "word": "drop",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/drɑːp/",
+  "core_image": {
+    "text": "手から離れて、ぽとりと下へ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><polyline points=\"80,74 110,70 130,70\"/><line x1=\"80\" y1=\"74\" x2=\"68\" y2=\"96\"/><circle cx=\"140\" cy=\"84\" r=\"6\"/><line x1=\"140\" y1=\"94\" x2=\"140\" y2=\"132\" stroke-dasharray=\"5 5\"/><polyline points=\"143.8,125 140,132 136.2,125\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぽとり</text></svg>"
+  },
+  "etymology": "古い英語 dropa(しずく) → しずくがぽとりと落ちる → 落とす・落ちる → (数・量が)下がる → (手から離す)やめる・はずす → (車から)降ろす・(ちょっと)立ち寄る",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to fall or let something fall; to become lower or less; to stop doing or including something."
+    },
+    {
+      "pos": "名詞",
+      "text": "a very small amount of liquid; a fall in amount or level."
+    }
+  ],
+  "cautions": [
+    "drop by / in=ちょっと立ち寄る(drop in on 人 / drop in at 場所)",
+    "drop out (of A)=(Aを)途中でやめる・中退する(dropout=中退者)",
+    "drop A off=Aを(車から)降ろす(pick A up の反対)",
+    "名詞 a drop in A=Aの低下(a drop in temperature)"
+  ],
+  "patterns": [
+    {
+      "form": "drop A",
+      "meaning": "Aを落とす・やめる"
+    },
+    {
+      "form": "drop by / in",
+      "meaning": "ちょっと立ち寄る"
+    },
+    {
+      "form": "drop out of A",
+      "meaning": "Aを中退する"
+    },
+    {
+      "form": "drop A off",
+      "meaning": "Aを降ろす"
+    },
+    {
+      "form": "a drop in A",
+      "meaning": "Aの低下"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "落とす",
+      "en": "Be careful not to drop the glass.",
+      "ja": "グラスを落とさないように気をつけて。"
+    },
+    {
+      "source": "original",
+      "label": "下がる",
+      "en": "The temperature dropped sharply at night.",
+      "ja": "夜になって気温が急に下がった。"
+    },
+    {
+      "source": "original",
+      "label": "立ち寄る",
+      "en": "Please drop by my office when you have time.",
+      "ja": "時間があるときに事務所に寄ってください。"
+    },
+    {
+      "source": "original",
+      "label": "中退する",
+      "en": "He dropped out of college to start his own company.",
+      "ja": "彼は自分の会社を始めるために大学を中退した。"
+    },
+    {
+      "source": "original",
+      "label": "降ろす",
+      "en": "Could you drop me off at the next corner?",
+      "ja": "次の角で降ろしてもらえますか。"
+    },
+    {
+      "source": "original",
+      "label": "低下(名詞)",
+      "en": "There has been a sharp drop in the number of visitors.",
+      "ja": "訪問者の数が急に減った。"
+    }
+  ],
+  "check_points": [
+    "drop by と drop out の意味を言えるか",
+    "drop A off と pick A up の関係を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "drop by / in(立ち寄る)、drop out of(中退する)、a drop in(低下)が会話文・長文で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 803
+    }
+  ]
+}
