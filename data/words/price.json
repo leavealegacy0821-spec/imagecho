@@ -1,0 +1,98 @@
+{
+  "word": "price",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/praɪs/",
+  "core_image": {
+    "text": "物と引きかえに払う、値打ちの高さ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polygon points=\"80,50 150,50 170,75 150,100 80,100\"/><circle cx=\"152\" cy=\"75\" r=\"5\"/><line x1=\"205\" y1=\"120\" x2=\"205\" y2=\"42\"/><polyline points=\"201.2,49 205,42 208.8,49\"/></g><text x=\"112\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">値段</text><text x=\"205\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">高い</text></svg>"
+  },
+  "etymology": "ラテン語 pretium(値打ち。precious、praise、prize と同じ根) → 値打ち → 値段 → 物価(prices) → (何かを得るために払う)代償・犠牲",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the amount of money you have to pay for something; what you lose in order to get something."
+    }
+  ],
+  "cautions": [
+    "値段が「高い・安い」は high / low(×expensive / cheap)。物が主語なら expensive / cheap",
+    "prices=物価(Prices are rising.)",
+    "at any price=どんな犠牲を払っても / at the price of A=Aを犠牲にして",
+    "prize(賞)とつづりをまちがえない。praise(ほめる)も同じ仲間"
+  ],
+  "patterns": [
+    {
+      "form": "a high / low price",
+      "meaning": "高い・安い値段"
+    },
+    {
+      "form": "at a price of A",
+      "meaning": "Aの値段で"
+    },
+    {
+      "form": "prices",
+      "meaning": "物価"
+    },
+    {
+      "form": "at any price",
+      "meaning": "どんな犠牲を払っても"
+    },
+    {
+      "form": "pay the price",
+      "meaning": "代償を払う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "値段",
+      "en": "The price of this bag is too high.",
+      "ja": "このかばんの値段は高すぎる。"
+    },
+    {
+      "source": "original",
+      "label": "low",
+      "en": "They sell vegetables at low prices.",
+      "ja": "その店は野菜を安い値段で売っている。"
+    },
+    {
+      "source": "original",
+      "label": "物価",
+      "en": "Prices have gone up a lot this year.",
+      "ja": "今年は物価がずいぶん上がった。"
+    },
+    {
+      "source": "original",
+      "label": "代償",
+      "en": "He became famous, but at the price of his health.",
+      "ja": "彼は有名になったが、健康を犠牲にした。"
+    },
+    {
+      "source": "original",
+      "label": "at any price",
+      "en": "She wanted to win at any price.",
+      "ja": "彼女はどんな犠牲を払っても勝ちたかった。"
+    },
+    {
+      "source": "original",
+      "label": "expensive との比較",
+      "en": "The price is high, so the watch is expensive.",
+      "ja": "値段が高いので、その時計は高価だ。"
+    }
+  ],
+  "check_points": [
+    "「値段が高い」を price で言えるか",
+    "at the price of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "The price is high(×expensive)が正誤問題の定番。at the price of A(〜を犠牲にして)も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 830
+    }
+  ]
+}

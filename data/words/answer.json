@@ -1,0 +1,103 @@
+{
+  "word": "answer",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈænsər/",
+  "core_image": {
+    "text": "相手に向かって、言葉を返す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"98\"/><line x1=\"60\" y1=\"74\" x2=\"70\" y2=\"98\"/><line x1=\"180\" y1=\"74\" x2=\"170\" y2=\"98\"/><line x1=\"180\" y1=\"74\" x2=\"190\" y2=\"98\"/><line x1=\"80\" y1=\"44\" x2=\"160\" y2=\"44\" stroke-dasharray=\"5 5\"/><polyline points=\"153,40.2 160,44 153,47.8\"/><line x1=\"160\" y1=\"64\" x2=\"80\" y2=\"64\"/><polyline points=\"87,67.8 80,64 87,60.2\"/></g><text x=\"120\" y=\"32\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">問い</text><text x=\"120\" y=\"88\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">答える</text></svg>"
+  },
+  "etymology": "古英語 andswaru(and=〜に対して + swaru=誓う。swear と同じ) → 相手に向かって言い返す → 答える → (呼びかけに)応じる(answer the phone / door) → (責めに)応じる=責任を負う(answer for)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say or write something back to someone who has asked you something; to pick up the phone or open the door."
+    },
+    {
+      "pos": "名詞",
+      "text": "something you say or write when you reply; a solution to a problem."
+    }
+  ],
+  "cautions": [
+    "動詞 answer A=Aに答える(他動詞。×answer to the question)",
+    "名詞では the answer to A=Aへの答え(前置詞 to を使う)",
+    "answer the phone / the door=電話に出る・玄関に出る",
+    "answer for A=Aの責任を負う"
+  ],
+  "patterns": [
+    {
+      "form": "answer A",
+      "meaning": "Aに答える"
+    },
+    {
+      "form": "the answer to A",
+      "meaning": "Aへの答え"
+    },
+    {
+      "form": "answer the phone",
+      "meaning": "電話に出る"
+    },
+    {
+      "form": "answer the door",
+      "meaning": "玄関に出る"
+    },
+    {
+      "form": "answer for A",
+      "meaning": "Aの責任を負う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "答える",
+      "en": "Please answer the question in English.",
+      "ja": "英語で質問に答えてください。"
+    },
+    {
+      "source": "original",
+      "label": "the answer to(名詞)",
+      "en": "Nobody knew the answer to the problem.",
+      "ja": "だれもその問題の答えを知らなかった。"
+    },
+    {
+      "source": "original",
+      "label": "電話に出る",
+      "en": "Could you answer the phone? I'm cooking.",
+      "ja": "電話に出てくれる？料理中なんだ。"
+    },
+    {
+      "source": "original",
+      "label": "玄関に出る",
+      "en": "I rang the bell, but no one answered the door.",
+      "ja": "ベルを鳴らしたが、だれも出てこなかった。"
+    },
+    {
+      "source": "original",
+      "label": "責任を負う",
+      "en": "You will have to answer for your actions.",
+      "ja": "きみは自分の行動の責任を負わなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "返事",
+      "en": "I wrote to her, but she never answered.",
+      "ja": "彼女に手紙を書いたが、返事は来なかった。"
+    }
+  ],
+  "check_points": [
+    "動詞 answer と名詞 answer の前置詞の違いを言えるか",
+    "answer the door の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "動詞は他動詞(×answer to)、名詞は the answer to A。この対比が正誤問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 827
+    }
+  ]
+}

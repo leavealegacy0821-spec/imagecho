@@ -1,0 +1,94 @@
+{
+  "word": "instance",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈɪnstəns/",
+  "core_image": {
+    "text": "目の前に差し出された、具体的な1つ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"128\" r=\"10\"/><circle cx=\"70\" cy=\"128\" r=\"10\"/><circle cx=\"100\" cy=\"128\" r=\"10\"/><circle cx=\"130\" cy=\"128\" r=\"10\"/><circle cx=\"180\" cy=\"62\" r=\"10\"/><circle cx=\"180\" cy=\"62\" r=\"16\" stroke-dasharray=\"4 4\"/><line x1=\"140\" y1=\"112\" x2=\"168\" y2=\"78\"/><polyline points=\"160.6,81 168,78 166.5,85.9\"/></g><text x=\"182\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">たとえば</text></svg>"
+  },
+  "etymology": "in(すぐそばに) + sta(立つ。instant と同じ) → 目の前に立っている → 目の前に差し出された具体例 → (具体的な)場合",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a particular example or case of something."
+    }
+  ],
+  "cautions": [
+    "for instance=たとえば(for example と同じ。文頭・文中どちらも)",
+    "in this instance=この場合は(in this case と同じ)",
+    "in the first instance=まず最初に",
+    "instant(すぐの)と同じ根だが、instance は「例・場合」"
+  ],
+  "patterns": [
+    {
+      "form": "for instance",
+      "meaning": "たとえば"
+    },
+    {
+      "form": "an instance of A",
+      "meaning": "Aの一例"
+    },
+    {
+      "form": "in this instance",
+      "meaning": "この場合は"
+    },
+    {
+      "form": "in the first instance",
+      "meaning": "まず最初に"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "for instance",
+      "en": "Some animals, for instance bats, can see in the dark.",
+      "ja": "いくつかの動物、たとえばコウモリは暗やみでも物がわかる。"
+    },
+    {
+      "source": "original",
+      "label": "例",
+      "en": "This is a clear instance of bullying.",
+      "ja": "これはいじめのはっきりした一例だ。"
+    },
+    {
+      "source": "original",
+      "label": "文頭の for instance",
+      "en": "Japan has many festivals. For instance, the Gion Festival is held in Kyoto.",
+      "ja": "日本には多くの祭りがある。たとえば、京都では祇園祭が行われる。"
+    },
+    {
+      "source": "original",
+      "label": "場合",
+      "en": "In this instance, the teacher decided to forgive him.",
+      "ja": "この場合は、先生は彼を許すことにした。"
+    },
+    {
+      "source": "original",
+      "label": "in the first instance",
+      "en": "In the first instance, please contact your class teacher.",
+      "ja": "まず最初に、担任の先生に連絡してください。"
+    },
+    {
+      "source": "original",
+      "label": "for example との言い換え",
+      "en": "Give me an instance, or an example, of good manners.",
+      "ja": "よいマナーの例をひとつ挙げてください。"
+    }
+  ],
+  "check_points": [
+    "for instance を別の言い方で言えるか",
+    "in this instance の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "for instance(たとえば)は長文で必ず見る。in this instance=in this case も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 823
+    }
+  ]
+}

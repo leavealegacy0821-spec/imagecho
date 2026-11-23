@@ -1,0 +1,94 @@
+{
+  "word": "audience",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈɔːdiəns/",
+  "core_image": {
+    "text": "耳を傾けて聞いている人たちのかたまり",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"20\" y=\"106\" width=\"70\" height=\"34\"/><circle cx=\"55\" cy=\"18\" r=\"10\"/><line x1=\"55\" y1=\"28\" x2=\"55\" y2=\"72\"/><line x1=\"55\" y1=\"72\" x2=\"45\" y2=\"106\"/><line x1=\"55\" y1=\"72\" x2=\"65\" y2=\"106\"/><line x1=\"55\" y1=\"40\" x2=\"44\" y2=\"62\"/><polyline points=\"55,40 72,46 80,40\"/><path d=\"M84 26 Q92 34 84 42\"/><circle cx=\"130\" cy=\"112\" r=\"8\"/><path d=\"M118 140 Q130 118 142 140\"/><circle cx=\"165\" cy=\"112\" r=\"8\"/><path d=\"M153 140 Q165 118 177 140\"/><circle cx=\"200\" cy=\"112\" r=\"8\"/><path d=\"M188 140 Q200 118 212 140\"/><circle cx=\"148\" cy=\"84\" r=\"8\"/><circle cx=\"183\" cy=\"84\" r=\"8\"/></g><text x=\"166\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">聞く人たち</text></svg>"
+  },
+  "etymology": "audi(聞く。audio、audition と同じ) + ence(こと) → 聞くこと → 聞いている人たち → 聴衆・観客 → (テレビの)視聴者・(本の)読者",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the group of people who watch or listen to a performance, speech, film or TV programme."
+    }
+  ],
+  "cautions": [
+    "人数の「多い・少ない」は large / small(×many / few)",
+    "集合名詞:ひとかたまりなら単数扱い(The audience was large.)、一人一人に目を向けるなら複数扱いも",
+    "an audience of A=Aの聴衆(an audience of 500 people)",
+    "(スポーツの)観客は spectators、(店の)客は customers と区別"
+  ],
+  "patterns": [
+    {
+      "form": "a large audience",
+      "meaning": "大勢の聴衆"
+    },
+    {
+      "form": "a small audience",
+      "meaning": "少ない聴衆"
+    },
+    {
+      "form": "an audience of A",
+      "meaning": "A人の聴衆"
+    },
+    {
+      "form": "TV audience",
+      "meaning": "テレビの視聴者"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "聴衆",
+      "en": "The speaker made the audience laugh.",
+      "ja": "講演者は聴衆を笑わせた。"
+    },
+    {
+      "source": "original",
+      "label": "large",
+      "en": "The concert attracted a large audience.",
+      "ja": "そのコンサートには大勢の観客が集まった。"
+    },
+    {
+      "source": "original",
+      "label": "small",
+      "en": "The audience was small because of the rain.",
+      "ja": "雨のせいで観客は少なかった。"
+    },
+    {
+      "source": "original",
+      "label": "an audience of A",
+      "en": "She sang before an audience of 2,000 people.",
+      "ja": "彼女は2000人の聴衆の前で歌った。"
+    },
+    {
+      "source": "original",
+      "label": "視聴者",
+      "en": "The program has a large TV audience.",
+      "ja": "その番組はテレビの視聴者が多い。"
+    },
+    {
+      "source": "original",
+      "label": "読者",
+      "en": "The book is written for a young audience.",
+      "ja": "その本は若い読者向けに書かれている。"
+    }
+  ],
+  "check_points": [
+    "「聴衆が多い」を英語で言えるか",
+    "spectator との違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "large / small audience(×many / few)が語法問題の定番。customer / guest / spectator との区別も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 829
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "consequence",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈkɑːnsəkwens/",
+  "core_image": {
+    "text": "出来事のあとに、続いて起こるもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"100\" r=\"18\"/><line x1=\"84\" y1=\"100\" x2=\"140\" y2=\"100\"/><polyline points=\"133,96.2 140,100 133,103.8\"/><rect x=\"150\" y=\"80\" width=\"44\" height=\"40\"/><line x1=\"198\" y1=\"100\" x2=\"222\" y2=\"100\" stroke-dasharray=\"5 5\"/><polyline points=\"215,96.2 222,100 215,103.8\"/></g><text x=\"60\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">出来事</text><text x=\"172\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">結果</text></svg>"
+  },
+  "etymology": "con(いっしょに) + sequ(続く。sequence、subsequent と同じ) → (出来事に)続いて起こること → 結果・成り行き → (結果を生むほどの)重大さ(of consequence)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a result of something that has happened, often a bad one; importance."
+    }
+  ],
+  "cautions": [
+    "as a consequence (of A) / in consequence (of A)=(Aの)結果として",
+    "副詞 consequently=その結果(therefore に近いつなぎの語)",
+    "of consequence=重要な(= of importance)。of no consequence=取るに足らない",
+    "たいてい悪い結果に使う。face [accept] the consequences=(自分の行動の)結果を受け入れる"
+  ],
+  "patterns": [
+    {
+      "form": "as a consequence (of A)",
+      "meaning": "(Aの)結果として"
+    },
+    {
+      "form": "in consequence (of A)",
+      "meaning": "(Aの)結果として"
+    },
+    {
+      "form": "consequently",
+      "meaning": "その結果"
+    },
+    {
+      "form": "of consequence",
+      "meaning": "重要な"
+    },
+    {
+      "form": "face the consequences",
+      "meaning": "結果を引き受ける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "結果",
+      "en": "The accident was a consequence of careless driving.",
+      "ja": "その事故は不注意な運転の結果だった。"
+    },
+    {
+      "source": "original",
+      "label": "as a consequence of",
+      "en": "As a consequence of the storm, all flights were canceled.",
+      "ja": "嵐の結果、すべての便が欠航になった。"
+    },
+    {
+      "source": "original",
+      "label": "悪い結果",
+      "en": "You must think about the consequences before you act.",
+      "ja": "行動する前に、その結果をよく考えなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "face the consequences",
+      "en": "If you break the rules, you will have to face the consequences.",
+      "ja": "規則を破れば、その結果を引き受けなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "consequently(副詞)",
+      "en": "He didn't study at all. Consequently, he failed the test.",
+      "ja": "彼はまったく勉強しなかった。その結果、試験に落ちた。"
+    },
+    {
+      "source": "original",
+      "label": "of no consequence",
+      "en": "The small mistake is of no consequence.",
+      "ja": "その小さな誤りは取るに足らない。"
+    }
+  ],
+  "check_points": [
+    "as a consequence of の意味を言えるか",
+    "of consequence の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "as a consequence / consequently(その結果)が長文のつなぎで頻出。of consequence=important も狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 821
+    }
+  ]
+}

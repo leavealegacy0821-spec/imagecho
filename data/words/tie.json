@@ -1,0 +1,103 @@
+{
+  "word": "tie",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/taɪ/",
+  "core_image": {
+    "text": "ひもで結んで、つなぎとめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"50\" y1=\"140\" x2=\"50\" y2=\"60\"/><line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"60\"/><path d=\"M50 80 Q120 110 190 80\"/><circle cx=\"120\" cy=\"95\" r=\"6\"/><line x1=\"115\" y1=\"99\" x2=\"104\" y2=\"118\"/><line x1=\"125\" y1=\"99\" x2=\"136\" y2=\"118\"/></g><text x=\"120\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">結ぶ</text></svg>"
+  },
+  "etymology": "古英語 tīgan(ひもで結ぶ) → 結ぶ・しばる → (人を)縛りつける(be tied to A) → 結びつき・きずな(ties) → (点数が)結ばれる=同点 → (首に結ぶ)ネクタイ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to fasten something with string or rope; to connect closely; to have the same score."
+    },
+    {
+      "pos": "名詞",
+      "text": "a strong connection between people or groups; an equal score; a necktie."
+    }
+  ],
+  "cautions": [
+    "tie A to B=AをBに結びつける / be tied to A=Aに縛られる・結びついている",
+    "be tied up=(仕事などで)手がふさがっている",
+    "名詞 ties=(人・国の)つながり・きずな(close ties with A)",
+    "同点:The game ended in a tie.(=draw)"
+  ],
+  "patterns": [
+    {
+      "form": "tie A to B",
+      "meaning": "AをBに結ぶ"
+    },
+    {
+      "form": "be tied to A",
+      "meaning": "Aに縛られる・結びつく"
+    },
+    {
+      "form": "be tied up",
+      "meaning": "手がふさがっている"
+    },
+    {
+      "form": "ties with A",
+      "meaning": "Aとのつながり"
+    },
+    {
+      "form": "end in a tie",
+      "meaning": "引き分けに終わる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "結ぶ",
+      "en": "He tied his dog to the tree.",
+      "ja": "彼は犬を木につないだ。"
+    },
+    {
+      "source": "original",
+      "label": "縛られる",
+      "en": "I don't want to be tied to one job all my life.",
+      "ja": "一生ひとつの仕事に縛られたくはない。"
+    },
+    {
+      "source": "original",
+      "label": "結びついている",
+      "en": "Her success is closely tied to her hard work.",
+      "ja": "彼女の成功は努力と深く結びついている。"
+    },
+    {
+      "source": "original",
+      "label": "手がふさがっている",
+      "en": "Sorry, I'm tied up with work this afternoon.",
+      "ja": "ごめん、今日の午後は仕事で手がふさがっているんだ。"
+    },
+    {
+      "source": "original",
+      "label": "きずな(名詞)",
+      "en": "Japan has strong ties with its neighbors.",
+      "ja": "日本は近隣の国々と強いつながりがある。"
+    },
+    {
+      "source": "original",
+      "label": "同点(名詞)",
+      "en": "The final game ended in a tie.",
+      "ja": "決勝戦は引き分けに終わった。"
+    }
+  ],
+  "check_points": [
+    "be tied up の意味を言えるか",
+    "名詞 ties の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be tied up(手がふさがっている)、close ties(きずな)が会話・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 824
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "word": "ban",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/bæn/",
+  "core_image": {
+    "text": "「だめ」と公に言い渡して、締め出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"44\" y2=\"96\"/><polyline points=\"60,74 84,66 98,60\"/><circle cx=\"160\" cy=\"70\" r=\"30\"/><line x1=\"139\" y1=\"49\" x2=\"181\" y2=\"91\"/></g><text x=\"160\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">禁止</text></svg>"
+  },
+  "etymology": "古英語 bannan(呼び出す・おおやけに告げる) → (おおやけに告げて)禁止する → 禁止(令)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to officially say that something must not be done or used."
+    },
+    {
+      "pos": "名詞",
+      "text": "an official rule that says something is not allowed."
+    }
+  ],
+  "cautions": [
+    "ban A from doing=Aが〜するのを禁じる(prohibit と同じ型。受け身 be banned from doing が多い)",
+    "名詞 a ban on A=Aの禁止(前置詞は on)",
+    "法律・規則によるおおやけの禁止に使う(forbid は個人的な禁止にも)",
+    "活用は banned / banning(n を重ねる)"
+  ],
+  "patterns": [
+    {
+      "form": "ban A",
+      "meaning": "Aを禁止する"
+    },
+    {
+      "form": "ban A from doing",
+      "meaning": "Aが〜するのを禁じる"
+    },
+    {
+      "form": "be banned from doing",
+      "meaning": "〜するのを禁じられる"
+    },
+    {
+      "form": "a ban on A",
+      "meaning": "Aの禁止"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "禁止する",
+      "en": "The city banned smoking in all public places.",
+      "ja": "市はすべての公共の場所での喫煙を禁止した。"
+    },
+    {
+      "source": "original",
+      "label": "ban A from doing",
+      "en": "The new rule bans students from using phones in class.",
+      "ja": "新しい規則は生徒が授業中に電話を使うのを禁じている。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "He was banned from driving for a year.",
+      "ja": "彼は1年間運転を禁止された。"
+    },
+    {
+      "source": "original",
+      "label": "a ban on(名詞)",
+      "en": "Many people support a ban on plastic bags.",
+      "ja": "多くの人がレジ袋の禁止を支持している。"
+    },
+    {
+      "source": "original",
+      "label": "解除",
+      "en": "The government finally lifted the ban.",
+      "ja": "政府はついにその禁止を解いた。"
+    },
+    {
+      "source": "original",
+      "label": "prohibit との言い換え",
+      "en": "The law bans, or prohibits, the sale of guns.",
+      "ja": "その法律は銃の販売を禁じている。"
+    }
+  ],
+  "check_points": [
+    "ban A from doing の型を言えるか",
+    "名詞 ban のあとの前置詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "ban A from doing(prohibit と同じ型)と a ban on A が語法問題・長文で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 825
+    }
+  ]
+}

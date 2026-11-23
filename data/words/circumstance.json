@@ -1,0 +1,94 @@
+{
+  "word": "circumstance",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈsɜːrkəmstæns/",
+  "core_image": {
+    "text": "自分を取り巻いて立つ、まわりの事情",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"108\" y2=\"96\"/><line x1=\"120\" y1=\"74\" x2=\"132\" y2=\"96\"/><path d=\"M50 140 C40 -20 200 -20 190 140\" stroke-dasharray=\"5 5\"/></g><text x=\"40\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">取り巻く事情</text></svg>"
+  },
+  "etymology": "circum(まわりに。circle と同じ) + stance(立つ。stand、distance と同じ) → まわりに立っているもの → 取り巻く事情・状況 → (人の)境遇",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the facts or conditions that affect a situation, an action or a person."
+    }
+  ],
+  "cautions": [
+    "「事情・状況」の意味ではふつう複数形 circumstances",
+    "under [in] the circumstances=こういう事情なので(前置詞は under が定番)",
+    "under no circumstances=どんなことがあっても〜ない。文頭では倒置(Under no circumstances should you 〜)",
+    "condition は「(物・人の)状態・条件」、circumstances は「まわりの事情」"
+  ],
+  "patterns": [
+    {
+      "form": "circumstances",
+      "meaning": "事情・状況"
+    },
+    {
+      "form": "under [in] the circumstances",
+      "meaning": "こういう事情なので"
+    },
+    {
+      "form": "under no circumstances",
+      "meaning": "決して〜ない"
+    },
+    {
+      "form": "economic circumstances",
+      "meaning": "経済状態・暮らし向き"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "状況",
+      "en": "We had to change our plans because of the circumstances.",
+      "ja": "状況のせいで、計画を変えなければならなかった。"
+    },
+    {
+      "source": "original",
+      "label": "under the circumstances",
+      "en": "Under the circumstances, you did the best you could.",
+      "ja": "こういう事情なら、きみはできるだけのことをしたよ。"
+    },
+    {
+      "source": "original",
+      "label": "under no circumstances",
+      "en": "Under no circumstances should you open this door.",
+      "ja": "どんなことがあっても、このドアを開けてはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "事情",
+      "en": "I can't explain the circumstances of his sudden departure.",
+      "ja": "彼が急に去った事情は説明できない。"
+    },
+    {
+      "source": "original",
+      "label": "境遇",
+      "en": "She grew up in difficult circumstances.",
+      "ja": "彼女は苦しい境遇で育った。"
+    },
+    {
+      "source": "original",
+      "label": "condition との比較",
+      "en": "Circumstances can change, but your health condition matters most.",
+      "ja": "状況は変わりうるが、いちばん大切なのは体の状態だ。"
+    }
+  ],
+  "check_points": [
+    "Under no circumstances のあとの語順を言えるか",
+    "under the circumstances の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "Under no circumstances + 倒置 が整序・正誤問題で頻出。under the circumstances の前置詞も狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 822
+    }
+  ]
+}

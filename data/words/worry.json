@@ -1,0 +1,103 @@
+{
+  "word": "worry",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈwɜːri/",
+  "core_image": {
+    "text": "心の中で、同じことにくり返しかみつく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><polyline points=\"120,74 104,66 108,46\"/><line x1=\"120\" y1=\"74\" x2=\"132\" y2=\"96\"/><path d=\"M150 30 C170 10 190 40 170 46 C156 50 156 30 170 30\"/></g><text x=\"58\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くよくよ</text></svg>"
+  },
+  "etymology": "古英語 wyrgan(のどをしめる・かみつく) → (犬が獲物に)かみついて揺さぶる → (心を)苦しめる・心配させる → 心配する → 心配(事)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to keep thinking about problems or bad things that might happen; to make someone feel anxious."
+    },
+    {
+      "pos": "名詞",
+      "text": "the feeling of being anxious; a problem that makes you anxious."
+    }
+  ],
+  "cautions": [
+    "worry about A=Aを心配する(自動詞。動作・習慣)",
+    "be worried about A=Aを心配している(他動詞 worry=心配させる の受け身。状態)",
+    "It worries me that 〜=〜が気がかりだ(主語が物なら「心配させる」)",
+    "名詞 worry=心配。数えると心配事(worries)"
+  ],
+  "patterns": [
+    {
+      "form": "worry about A",
+      "meaning": "Aを心配する"
+    },
+    {
+      "form": "be worried about A",
+      "meaning": "Aを心配している"
+    },
+    {
+      "form": "Don't worry.",
+      "meaning": "心配しないで"
+    },
+    {
+      "form": "A worries 人",
+      "meaning": "Aが人を心配させる"
+    },
+    {
+      "form": "worries",
+      "meaning": "心配事"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "worry about",
+      "en": "Don't worry about the result. Just do your best.",
+      "ja": "結果は気にしないで。ただ全力を尽くして。"
+    },
+    {
+      "source": "original",
+      "label": "be worried about",
+      "en": "My mother is worried about my health.",
+      "ja": "母は私の健康を心配している。"
+    },
+    {
+      "source": "original",
+      "label": "心配させる",
+      "en": "What worries me most is the cost.",
+      "ja": "私がいちばん気がかりなのは費用だ。"
+    },
+    {
+      "source": "original",
+      "label": "It worries 人 that",
+      "en": "It worries me that he hasn't called yet.",
+      "ja": "彼がまだ電話してこないのが気がかりだ。"
+    },
+    {
+      "source": "original",
+      "label": "心配事(名詞)",
+      "en": "She told me all her worries.",
+      "ja": "彼女は心配事をすべて私に話した。"
+    },
+    {
+      "source": "original",
+      "label": "不安(名詞)",
+      "en": "Worry about the future kept him awake.",
+      "ja": "将来への不安で彼は眠れなかった。"
+    }
+  ],
+  "check_points": [
+    "worry about と be worried about の違いを言えるか",
+    "物が主語のとき worry の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be worried about(受け身で「心配している」)と worry about の区別、物主語の worry が語法で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 828
+    }
+  ]
+}

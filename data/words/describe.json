@@ -1,0 +1,94 @@
+{
+  "word": "describe",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈskraɪb/",
+  "core_image": {
+    "text": "見たものを、言葉で絵のように書き写す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><polyline points=\"50,74 70,70 80,64\"/><path d=\"M66 38 Q78 28 90 38\"/><rect x=\"120\" y=\"40\" width=\"90\" height=\"70\"/><polygon points=\"145,95 145,75 165,62 185,75 185,95\"/></g><text x=\"165\" y=\"128\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">言葉で描く</text></svg>"
+  },
+  "etymology": "de(すっかり) + scribe(書く。prescribe、subscribe と同じ) → (見たとおりに)書き写す → (言葉で)描く・説明する → (AをBだと)評する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say or write what someone or something is like."
+    }
+  ],
+  "cautions": [
+    "describe A=Aを説明する(他動詞。×describe about A)",
+    "describe A as B=AをBだと言う・評する",
+    "describe (to 人) 疑問詞節=どんな〜か(人に)説明する(×describe 人 A。explain と同じ)",
+    "名詞 description=描写・説明。beyond description=言葉にできないほど"
+  ],
+  "patterns": [
+    {
+      "form": "describe A",
+      "meaning": "Aを描写する・説明する"
+    },
+    {
+      "form": "describe A as B",
+      "meaning": "AをBだと言う"
+    },
+    {
+      "form": "describe (to 人) what 〜",
+      "meaning": "何が〜か(人に)説明する"
+    },
+    {
+      "form": "description",
+      "meaning": "描写・説明"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "描写する",
+      "en": "Can you describe the man you saw last night?",
+      "ja": "昨夜見た男の様子を説明できますか。"
+    },
+    {
+      "source": "original",
+      "label": "describe A as B",
+      "en": "Her friends describe her as kind and honest.",
+      "ja": "友人たちは彼女を親切で正直だと言う。"
+    },
+    {
+      "source": "original",
+      "label": "to 人 + 疑問詞節",
+      "en": "Please describe to me what happened.",
+      "ja": "何が起きたのか私に説明してください。"
+    },
+    {
+      "source": "original",
+      "label": "書き表す",
+      "en": "The book describes life in Tokyo in the 1960s.",
+      "ja": "その本は1960年代の東京の暮らしを描いている。"
+    },
+    {
+      "source": "original",
+      "label": "description(名詞)",
+      "en": "The police gave a description of the stolen car.",
+      "ja": "警察は盗まれた車の特徴を発表した。"
+    },
+    {
+      "source": "original",
+      "label": "beyond description",
+      "en": "The view from the top was beautiful beyond description.",
+      "ja": "頂上からの景色は言葉にできないほど美しかった。"
+    }
+  ],
+  "check_points": [
+    "describe about がなぜ誤りか言えるか",
+    "describe A as B の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "×describe about(他動詞)、describe A as B、×describe 人 A の誤文訂正が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 826
+    }
+  ]
+}
