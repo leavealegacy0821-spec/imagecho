@@ -1,0 +1,94 @@
+{
+  "word": "retrieve",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈtriːv/",
+  "core_image": {
+    "text": "なくした物をもう一度見つけて取り戻す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"72\" y2=\"90\"/><rect x=\"180\" y=\"124\" width=\"24\" height=\"16\"/><line x1=\"182\" y1=\"112\" x2=\"84\" y2=\"88\" stroke-dasharray=\"5 5\"/><polyline points=\"89.9,93.4 84,88 91.7,85.9\"/></g><text x=\"150\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">取り戻す</text></svg>"
+  },
+  "etymology": "re(再び) + trouver(見つける。古フランス語) → もう一度見つける → (失った物・置いてきた物を)取り戻す・回収する → (記憶・データを)呼び出す・検索する(retrieve information) → (状況を)回復する(retriever=獲物を取ってくる犬)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to find something and bring it back; to get back information stored in a computer or in your memory."
+    }
+  ],
+  "cautions": [
+    "retrieve A from B=BからAを取り戻す・回収する(from を取る)",
+    "コンピューターや記憶から情報を「呼び出す」意味が長文で多い",
+    "名詞 retrieval=回収・(情報の)検索",
+    "recover(回復する・取り戻す)と近いが、retrieve は「取りに行って持ち帰る」感じ"
+  ],
+  "patterns": [
+    {
+      "form": "retrieve A from B",
+      "meaning": "BからAを取り戻す"
+    },
+    {
+      "form": "retrieve information [data]",
+      "meaning": "情報[データ]を呼び出す"
+    },
+    {
+      "form": "retrieve a memory",
+      "meaning": "記憶を呼び起こす"
+    },
+    {
+      "form": "information retrieval",
+      "meaning": "情報検索"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "取り戻す",
+      "en": "I went back to the classroom to retrieve my bag.",
+      "ja": "かばんを取りに教室へ戻った。"
+    },
+    {
+      "source": "original",
+      "label": "retrieve A from B",
+      "en": "Divers retrieved the black box from the sea.",
+      "ja": "潜水士たちが海からブラックボックスを回収した。"
+    },
+    {
+      "source": "original",
+      "label": "データを呼び出す",
+      "en": "You can retrieve the data from the cloud at any time.",
+      "ja": "そのデータはいつでもクラウドから呼び出せる。"
+    },
+    {
+      "source": "original",
+      "label": "記憶を呼び起こす",
+      "en": "Smells can help us retrieve old memories.",
+      "ja": "においは昔の記憶を呼び起こす手助けになる。"
+    },
+    {
+      "source": "original",
+      "label": "回復する",
+      "en": "The team tried hard to retrieve the situation.",
+      "ja": "チームは状況を立て直そうと懸命だった。"
+    },
+    {
+      "source": "original",
+      "label": "retrieval",
+      "en": "Sleep plays a role in memory retrieval.",
+      "ja": "睡眠は記憶を思い出すことに関わっている。"
+    }
+  ],
+  "check_points": [
+    "retrieve A from B の意味を言えるか",
+    "retrieve information の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「取り戻す・回収する」と、記憶・データを「呼び出す」の意味が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 887
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "word": "perish",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈperɪʃ/",
+  "core_image": {
+    "text": "すっかり行ってしまって無くなる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M70,130 L70,70 Q70,40 90,40 Q110,40 110,70 L110,130\"/><line x1=\"70\" y1=\"130\" x2=\"110\" y2=\"130\"/><path d=\"M150,130 q10,-10 0,-20 q-10,-10 0,-20\"/><path d=\"M175,130 q10,-10 0,-20 q-10,-10 0,-20\"/><path d=\"M200,130 q10,-10 0,-20 q-10,-10 0,-20\"/></g><text x=\"90\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あった</text><text x=\"180\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">消えていく</text></svg>"
+  },
+  "etymology": "per(すっかり・通り抜けて) + ire(行く。exit と同じ根) → すっかり行ってしまう → (事故・災害で)死ぬ・命を落とす(die より硬い) → (文明・思想が)滅びる → (食べ物が)腐る(perishable=腐りやすい)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to die, especially in an accident or disaster; to be destroyed or stop existing; (of food) to go bad."
+    }
+  ],
+  "cautions": [
+    "自動詞:「死ぬ」は受け身にしない(×be perished)。die / be killed の硬い言いかえ",
+    "事故・災害・戦争で「命を落とす」ときに使う(perish in a fire)",
+    "形容詞 perishable=腐りやすい(perishable food=生鮮食品)",
+    "Publish or perish.=論文を出さねば消える(ことわざ的な言い方)"
+  ],
+  "patterns": [
+    {
+      "form": "perish in A",
+      "meaning": "A(災害など)で死ぬ"
+    },
+    {
+      "form": "perish from A",
+      "meaning": "Aが原因で死ぬ・滅びる"
+    },
+    {
+      "form": "perishable goods [food]",
+      "meaning": "腐りやすい品物[食品]"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "死ぬ",
+      "en": "Hundreds of people perished in the earthquake.",
+      "ja": "その地震で数百人が亡くなった。"
+    },
+    {
+      "source": "original",
+      "label": "perish in A",
+      "en": "Many soldiers perished in the war.",
+      "ja": "多くの兵士が戦争で命を落とした。"
+    },
+    {
+      "source": "original",
+      "label": "滅びる",
+      "en": "Many ancient languages have perished over time.",
+      "ja": "多くの古代の言語が時とともに消え去った。"
+    },
+    {
+      "source": "original",
+      "label": "perish from A",
+      "en": "Plants perish from lack of water.",
+      "ja": "植物は水が足りないと枯れてしまう。"
+    },
+    {
+      "source": "original",
+      "label": "腐る",
+      "en": "Fresh fruit perishes quickly in hot weather.",
+      "ja": "新鮮な果物は暑いとすぐ傷む。"
+    },
+    {
+      "source": "original",
+      "label": "perishable",
+      "en": "Keep perishable food in the refrigerator.",
+      "ja": "腐りやすい食べ物は冷蔵庫に入れておきなさい。"
+    }
+  ],
+  "check_points": [
+    "perish の意味(死ぬ・滅びる・腐る)を言えるか",
+    "perishable の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "災害・歴史の長文で die の言いかえとして出る。perishable(腐りやすい)も問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 886
+    }
+  ]
+}

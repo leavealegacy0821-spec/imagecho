@@ -1,0 +1,98 @@
+{
+  "word": "constrain",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈstreɪn/",
+  "core_image": {
+    "text": "周りからぎゅっと締めつけて縛る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"108\" y2=\"100\"/><line x1=\"120\" y1=\"74\" x2=\"132\" y2=\"100\"/><ellipse cx=\"120\" cy=\"88\" rx=\"26\" ry=\"10\"/><ellipse cx=\"120\" cy=\"112\" rx=\"24\" ry=\"8\"/><line x1=\"40\" y1=\"92\" x2=\"88\" y2=\"92\"/><polyline points=\"81,88.2 88,92 81,95.8\"/><line x1=\"200\" y1=\"92\" x2=\"152\" y2=\"92\"/><polyline points=\"159,95.8 152,92 159,88.2\"/></g><text x=\"52\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">締めつけ</text></svg>"
+  },
+  "etymology": "con(共に・しっかり) + stringere(固く締める。strict / restrict と同じ根) → 周りからぎゅっと締めつける → (行動・自由を)制約する・抑える → (人を締めつけて)無理に〜させる(be constrained to do) → 名詞 constraint=制約・束縛",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to limit someone's freedom or actions; to force someone to do something."
+    }
+  ],
+  "cautions": [
+    "be constrained to do=やむなく〜する(oblige / compel と同じ「強いられる」型)",
+    "constrain A from doing=Aが〜するのを制約する(from を取る)",
+    "名詞 constraint=制約。budget [time] constraints=予算[時間]の制約 が長文で多い",
+    "restrict(枠の中に限る)とほぼ同じ根。constrain は「締めつけて縛る」感じが強い"
+  ],
+  "patterns": [
+    {
+      "form": "be constrained to do",
+      "meaning": "やむなく〜する"
+    },
+    {
+      "form": "be constrained by A",
+      "meaning": "Aによって制約される"
+    },
+    {
+      "form": "constrain A from doing",
+      "meaning": "Aが〜するのを制約する"
+    },
+    {
+      "form": "constraints on A",
+      "meaning": "Aへの制約"
+    },
+    {
+      "form": "time [budget] constraints",
+      "meaning": "時間[予算]の制約"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "制約する",
+      "en": "Lack of money constrained our research.",
+      "ja": "資金不足が私たちの研究を制約した。"
+    },
+    {
+      "source": "original",
+      "label": "be constrained by A",
+      "en": "Small towns are often constrained by limited budgets.",
+      "ja": "小さな町はしばしば限られた予算に縛られる。"
+    },
+    {
+      "source": "original",
+      "label": "be constrained to do",
+      "en": "I felt constrained to tell the truth.",
+      "ja": "私は本当のことを言わざるをえないと感じた。"
+    },
+    {
+      "source": "original",
+      "label": "constrain A from doing",
+      "en": "Fear constrained him from speaking up.",
+      "ja": "恐怖のせいで彼は声を上げられなかった。"
+    },
+    {
+      "source": "original",
+      "label": "constraint",
+      "en": "Because of time constraints, we skipped the last topic.",
+      "ja": "時間の制約のため、最後の話題は飛ばした。"
+    },
+    {
+      "source": "original",
+      "label": "constraints on A",
+      "en": "The new law places constraints on free speech.",
+      "ja": "その新しい法律は言論の自由に制約を加える。"
+    }
+  ],
+  "check_points": [
+    "be constrained to do の意味を言えるか",
+    "名詞 constraint の意味と使い方(time constraints)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be constrained to do(やむなく〜する)が語法で、名詞 constraint(制約)が長文で問われる。restrict / oblige との言いかえも。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 882
+    }
+  ]
+}

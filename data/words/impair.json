@@ -1,0 +1,94 @@
+{
+  "word": "impair",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪmˈper/",
+  "core_image": {
+    "text": "働きを前より悪くする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"70\" cy=\"80\" r=\"40\"/><line x1=\"70\" y1=\"80\" x2=\"70\" y2=\"46\"/><line x1=\"70\" y1=\"80\" x2=\"94\" y2=\"66\"/><line x1=\"120\" y1=\"80\" x2=\"150\" y2=\"80\"/><polyline points=\"143,76.2 150,80 143,83.8\"/><circle cx=\"190\" cy=\"80\" r=\"40\"/><line x1=\"190\" y1=\"80\" x2=\"190\" y2=\"46\"/><polyline points=\"166,58 180,74 172,90 188,104 182,118\"/></g><text x=\"70\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">前</text><text x=\"190\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">弱まる</text></svg>"
+  },
+  "etymology": "im(〜へ) + pejorare(悪くする。pejorative=軽蔑的な と同じ根) → (働き・質を)前より悪くする → (健康・視力・判断力を)損なう・弱める → (be impaired)障がいがある(hearing-impaired=耳の不自由な)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to damage something or make it weaker or less effective."
+    }
+  ],
+  "cautions": [
+    "「壊す(destroy)」ではなく「働きを弱める・損なう」。damage / weaken の言いかえ",
+    "目的語は health / vision / judgment / memory など「働き」が多い",
+    "visually [hearing] impaired=目[耳]の不自由な(blind / deaf をやわらかく言う)",
+    "名詞 impairment=障がい・(機能の)低下"
+  ],
+  "patterns": [
+    {
+      "form": "impair A's health [judgment]",
+      "meaning": "Aの健康[判断力]を損なう"
+    },
+    {
+      "form": "seriously impair A",
+      "meaning": "Aをひどく損なう"
+    },
+    {
+      "form": "visually [hearing] impaired",
+      "meaning": "目[耳]の不自由な"
+    },
+    {
+      "form": "impaired memory",
+      "meaning": "衰えた記憶力"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "損なう",
+      "en": "Lack of sleep can impair your judgment.",
+      "ja": "睡眠不足は判断力を損なうことがある。"
+    },
+    {
+      "source": "original",
+      "label": "健康を損なう",
+      "en": "Heavy drinking seriously impaired his health.",
+      "ja": "大量の飲酒が彼の健康をひどく損なった。"
+    },
+    {
+      "source": "original",
+      "label": "弱める",
+      "en": "Loud noise may impair children's ability to learn.",
+      "ja": "大きな騒音は子どもの学ぶ力を弱めるかもしれない。"
+    },
+    {
+      "source": "original",
+      "label": "visually impaired",
+      "en": "The library has special books for visually impaired people.",
+      "ja": "その図書館には目の不自由な人のための特別な本がある。"
+    },
+    {
+      "source": "original",
+      "label": "be impaired",
+      "en": "Her hearing was impaired after the accident.",
+      "ja": "その事故のあと、彼女の聴力は弱くなった。"
+    },
+    {
+      "source": "original",
+      "label": "impairment",
+      "en": "Some patients show memory impairment.",
+      "ja": "記憶力の低下が見られる患者もいる。"
+    }
+  ],
+  "check_points": [
+    "impair の意味と言いかえ(damage / weaken)を言えるか",
+    "visually impaired の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "健康・医療系の長文で「損なう・弱める」の意味が問われる。visually / hearing impaired もよく出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 885
+    }
+  ]
+}

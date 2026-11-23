@@ -1,0 +1,94 @@
+{
+  "word": "linger",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈlɪŋɡər/",
+  "core_image": {
+    "text": "去るはずのものが長くその場に残る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"150\" y=\"40\" width=\"50\" height=\"100\"/><circle cx=\"160\" cy=\"92\" r=\"2.5\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"82\" y2=\"96\"/><line x1=\"96\" y1=\"80\" x2=\"140\" y2=\"80\" stroke-dasharray=\"5 5\"/><polyline points=\"133,76.2 140,80 133,83.8\"/></g><text x=\"70\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まだいる</text><text x=\"175\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">出口</text></svg>"
+  },
+  "etymology": "古英語 lengan(長くする。long / length と同じ根) → 長くその場にとどまる → (人が立ち去らずに)ぐずぐず居残る・なかなか帰らない → (におい・記憶・痛み・疑いが)消えずに残る → (病人が)長らえる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stay somewhere longer than usual or than expected; to continue to exist for longer than expected."
+    }
+  ],
+  "cautions": [
+    "自動詞:linger on [over] A=Aにぐずぐずする・いつまでも残る(目的語を直接取らない)",
+    "人だけでなく、においや記憶・不安が「消えずに残る」意味が長文で多い",
+    "形容詞 lingering=なかなか消えない(a lingering smell / lingering doubts)",
+    "long(長い)と同じ根と覚えると意味がつかみやすい"
+  ],
+  "patterns": [
+    {
+      "form": "linger in A",
+      "meaning": "Aに(消えずに)残る"
+    },
+    {
+      "form": "linger over A",
+      "meaning": "Aにぐずぐず時間をかける"
+    },
+    {
+      "form": "linger on",
+      "meaning": "長く続く・残る"
+    },
+    {
+      "form": "a lingering smell [doubt]",
+      "meaning": "なかなか消えないにおい[疑い]"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "居残る",
+      "en": "A few fans lingered outside the stadium after the game.",
+      "ja": "試合のあと、数人のファンがスタジアムの外に残っていた。"
+    },
+    {
+      "source": "original",
+      "label": "消えずに残る",
+      "en": "The smell of smoke lingered in the room for days.",
+      "ja": "煙のにおいが何日も部屋に残った。"
+    },
+    {
+      "source": "original",
+      "label": "記憶が残る",
+      "en": "The memory of that trip still lingers in my mind.",
+      "ja": "その旅の思い出は今も心に残っている。"
+    },
+    {
+      "source": "original",
+      "label": "linger over A",
+      "en": "We lingered over coffee and talked for hours.",
+      "ja": "私たちはコーヒーを飲みながら何時間も話し込んだ。"
+    },
+    {
+      "source": "original",
+      "label": "linger on",
+      "en": "The effects of the war lingered on for decades.",
+      "ja": "戦争の影響は何十年も続いた。"
+    },
+    {
+      "source": "original",
+      "label": "lingering",
+      "en": "There were still lingering doubts about his honesty.",
+      "ja": "彼の正直さにはまだ疑いが残っていた。"
+    }
+  ],
+  "check_points": [
+    "linger の「(人が)居残る」と「(においなどが)消えずに残る」を言えるか",
+    "lingering doubts の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で「(記憶・においが)消えずに残る」の意味が問われる。lingering(なかなか消えない)の形でもよく出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 884
+    }
+  ]
+}

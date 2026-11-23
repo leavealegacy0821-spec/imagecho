@@ -1,0 +1,94 @@
+{
+  "word": "foresee",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/fɔːrˈsiː/",
+  "core_image": {
+    "text": "まだ来ていない先のことを前もって見る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"74\" y2=\"62\"/><line x1=\"76\" y1=\"52\" x2=\"170\" y2=\"52\" stroke-dasharray=\"5 5\"/><polyline points=\"163,48.2 170,52 163,55.8\"/><rect x=\"180\" y=\"34\" width=\"44\" height=\"36\"/></g><text x=\"200\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">この先</text><text x=\"120\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">前もって</text></svg>"
+  },
+  "etymology": "fore(前に・先に。before / forecast と同じ) + see(見る) → 先のことを前もって見る → (起こることを)予見する・見越す(foresee that 〜) → foresee-foresaw-foreseen と不規則に変化する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to know or guess that something will happen in the future."
+    }
+  ],
+  "cautions": [
+    "活用:foresee - foresaw - foreseen(see と同じ不規則変化)",
+    "foresee that S V / foresee doing(〜することを予見する)の型",
+    "predict / anticipate / forecast の言いかえとして出る",
+    "形容詞 foreseeable=予見できる(in the foreseeable future=近い将来に)、unforeseen=予期しない"
+  ],
+  "patterns": [
+    {
+      "form": "foresee A",
+      "meaning": "Aを予見する"
+    },
+    {
+      "form": "foresee that S V",
+      "meaning": "SがVすると予見する"
+    },
+    {
+      "form": "in the foreseeable future",
+      "meaning": "近い将来に"
+    },
+    {
+      "form": "unforeseen circumstances",
+      "meaning": "予期しない事情"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "予見する",
+      "en": "Nobody could foresee the result of the election.",
+      "ja": "だれも選挙の結果を予見できなかった。"
+    },
+    {
+      "source": "original",
+      "label": "foresee that S V",
+      "en": "Experts foresee that prices will rise next year.",
+      "ja": "専門家は来年物価が上がると見込んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "過去形 foresaw",
+      "en": "She foresaw the problem and prepared for it.",
+      "ja": "彼女はその問題を予見し、備えていた。"
+    },
+    {
+      "source": "original",
+      "label": "過去分詞 foreseen",
+      "en": "The accident could not have been foreseen.",
+      "ja": "その事故は予見できなかったはずだ。"
+    },
+    {
+      "source": "original",
+      "label": "foreseeable future",
+      "en": "The shop will stay closed for the foreseeable future.",
+      "ja": "その店は当分の間閉まったままだろう。"
+    },
+    {
+      "source": "original",
+      "label": "unforeseen",
+      "en": "The game was canceled due to unforeseen circumstances.",
+      "ja": "その試合は予期しない事情で中止された。"
+    }
+  ],
+  "check_points": [
+    "foresee の活用(foresaw / foreseen)を言えるか",
+    "in the foreseeable future の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "predict / anticipate との言いかえ、活用 foresaw / foreseen、in the foreseeable future(近い将来)が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 888
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "accomplish",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈkɑːmplɪʃ/",
+  "core_image": {
+    "text": "最後まで満たしてやりとげる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"20,140 60,140 60,128 100,128 100,116 140,116 140,104 222,104 222,140\"/><circle cx=\"196\" cy=\"16\" r=\"10\"/><line x1=\"196\" y1=\"26\" x2=\"196\" y2=\"70\"/><line x1=\"196\" y1=\"70\" x2=\"186\" y2=\"104\"/><line x1=\"196\" y1=\"70\" x2=\"206\" y2=\"104\"/><line x1=\"196\" y1=\"38\" x2=\"180\" y2=\"20\"/><line x1=\"196\" y1=\"38\" x2=\"212\" y2=\"20\"/></g><text x=\"90\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やりとげた</text></svg>"
+  },
+  "etymology": "ac(〜へ) + complere(満たす。complete と同じ根) → 最後まで満たす → (目的・仕事を)成し遂げる・達成する → (人が多くのことを成し遂げて)熟達した(accomplished=熟達した・すぐれた) → 名詞 accomplishment=達成・業績",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to succeed in doing something, especially after a lot of effort."
+    }
+  ],
+  "cautions": [
+    "accomplish の目的語は仕事・目標・任務(a task / a goal / a mission)。achieve とほぼ同じ",
+    "形容詞 accomplished=熟達した・すぐれた(an accomplished pianist)。「達成された」だけではない",
+    "名詞 accomplishment=達成・業績・(身につけた)たしなみ",
+    "×accomplish to do とは言わない(succeed in doing などと区別)"
+  ],
+  "patterns": [
+    {
+      "form": "accomplish a task [goal]",
+      "meaning": "仕事[目標]を成し遂げる"
+    },
+    {
+      "form": "accomplish a lot",
+      "meaning": "多くのことを成し遂げる"
+    },
+    {
+      "form": "an accomplished A",
+      "meaning": "熟達したA"
+    },
+    {
+      "form": "a great accomplishment",
+      "meaning": "大きな業績"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "成し遂げる",
+      "en": "We accomplished the task in just two days.",
+      "ja": "私たちはたった2日でその仕事を成し遂げた。"
+    },
+    {
+      "source": "original",
+      "label": "目標を達成する",
+      "en": "Hard work helped her accomplish her goal.",
+      "ja": "努力のおかげで彼女は目標を達成できた。"
+    },
+    {
+      "source": "original",
+      "label": "accomplish a lot",
+      "en": "You can accomplish a lot if you start early.",
+      "ja": "早く始めればたくさんのことを成し遂げられる。"
+    },
+    {
+      "source": "original",
+      "label": "accomplished",
+      "en": "He is an accomplished violinist.",
+      "ja": "彼は熟達したバイオリン奏者だ。"
+    },
+    {
+      "source": "original",
+      "label": "accomplishment",
+      "en": "Winning the prize was a great accomplishment.",
+      "ja": "その賞を取ったのは大きな業績だった。"
+    },
+    {
+      "source": "original",
+      "label": "nothing",
+      "en": "Arguing for hours accomplished nothing.",
+      "ja": "何時間も言い争っても何にもならなかった。"
+    }
+  ],
+  "check_points": [
+    "accomplish と achieve が近い意味だと言えるか",
+    "accomplished(熟達した)の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "achieve / complete との言いかえが同意語選択で頻出。accomplished(熟達した)の意味も問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 889
+    }
+  ]
+}

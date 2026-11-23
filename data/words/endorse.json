@@ -1,0 +1,94 @@
+{
+  "word": "endorse",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈdɔːrs/",
+  "core_image": {
+    "text": "書類の裏に名前を書いて後ろ盾になる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"70\" y=\"30\" width=\"100\" height=\"70\"/><path d=\"M84,80 q10,-14 20,0 t20,0 t20,-6\"/><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"180\" y2=\"60\"/><line x1=\"200\" y1=\"74\" x2=\"214\" y2=\"96\"/></g><text x=\"120\" y=\"118\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">裏にサイン</text><text x=\"44\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">支持</text></svg>"
+  },
+  "etymology": "en(上に) + dorsum(背中・裏。dorsal fin=背びれ と同じ根) → (書類・小切手の)裏に署名する → (署名して)後ろ盾になる → (案・人を)公に支持する・承認する → (有名人が名前を貸して)商品を推薦する・宣伝する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say publicly that you support a person, plan or idea; to sign the back of a cheque; (of a famous person) to say in an advertisement that you use a product."
+    }
+  ],
+  "cautions": [
+    "「支持する」が中心:support / approve の言いかえとして出る",
+    "有名人が商品を宣伝する意味でも使う(endorse a product)",
+    "名詞 endorsement=支持・推薦・(商品の)宣伝契約",
+    "「裏書きする」は小切手などの裏に署名すること"
+  ],
+  "patterns": [
+    {
+      "form": "endorse a plan [candidate]",
+      "meaning": "計画[候補者]を支持する"
+    },
+    {
+      "form": "be endorsed by A",
+      "meaning": "Aに支持[承認]される"
+    },
+    {
+      "form": "endorse a product",
+      "meaning": "商品を推薦する"
+    },
+    {
+      "form": "endorse a check",
+      "meaning": "小切手に裏書きする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "支持する",
+      "en": "The teachers endorsed the students' proposal.",
+      "ja": "先生たちは生徒の提案を支持した。"
+    },
+    {
+      "source": "original",
+      "label": "候補者を支持する",
+      "en": "The newspaper endorsed her as the next mayor.",
+      "ja": "その新聞は彼女を次の市長に推した。"
+    },
+    {
+      "source": "original",
+      "label": "be endorsed by A",
+      "en": "The new rule was endorsed by the committee.",
+      "ja": "新しい規則は委員会に承認された。"
+    },
+    {
+      "source": "original",
+      "label": "商品を推薦する",
+      "en": "A famous athlete endorses these shoes.",
+      "ja": "有名な運動選手がこの靴を宣伝している。"
+    },
+    {
+      "source": "original",
+      "label": "endorsement",
+      "en": "The project gained the endorsement of local leaders.",
+      "ja": "その計画は地元の指導者たちの支持を得た。"
+    },
+    {
+      "source": "original",
+      "label": "裏書きする",
+      "en": "Please endorse the check before you deposit it.",
+      "ja": "預け入れる前に小切手に裏書きしてください。"
+    }
+  ],
+  "check_points": [
+    "endorse の「支持する」の意味と言いかえ(support / approve)を言えるか",
+    "en + dorsum(背中)から意味をたどれるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「支持する・承認する」の意味が長文・同意語選択で問われる。有名人の商品宣伝(endorsement)も時事的な文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 883
+    }
+  ]
+}
