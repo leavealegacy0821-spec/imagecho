@@ -1,0 +1,103 @@
+{
+  "word": "challenge",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈtʃælɪndʒ/",
+  "core_image": {
+    "text": "「本当か?」と正面から突きつける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"96\" y2=\"70\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"98\"/><rect x=\"150\" y=\"50\" width=\"56\" height=\"90\"/><line x1=\"104\" y1=\"70\" x2=\"144\" y2=\"70\"/><polyline points=\"137,66.2 144,70 137,73.8\"/></g><text x=\"178\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いどむ</text></svg>"
+  },
+  "etymology": "古フランス語 chalenge(言いがかり・異議。ラテン語 calumnia=中傷 から) → 相手に「おかしい」と突きつける → (考え・決定に)異議を唱える → (人に勝負を)挑む → (人の力を試す)難題・やりがいのある課題",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to question whether something is true or right; to invite someone to compete or fight."
+    },
+    {
+      "pos": "名詞",
+      "text": "something new and difficult that tests your ability; a statement questioning whether something is right."
+    }
+  ],
+  "cautions": [
+    "日本語の「チャレンジする(挑戦する)」の意味で try の代わりに使わない(新しいことに挑戦する=try something new)",
+    "challenge A=A(考え・決定・人)に異議を唱える、が入試で最も狙われる",
+    "challenge A to B [to do]=AにBを[〜しようと]挑む",
+    "名詞 a challenge=やりがいのある難題、形容詞 challenging=骨が折れるがやりがいのある"
+  ],
+  "patterns": [
+    {
+      "form": "challenge A",
+      "meaning": "Aに異議を唱える"
+    },
+    {
+      "form": "challenge A to B",
+      "meaning": "AにBを挑む"
+    },
+    {
+      "form": "challenge A to do",
+      "meaning": "Aに〜してみろと挑む"
+    },
+    {
+      "form": "face a challenge",
+      "meaning": "難題に直面する"
+    },
+    {
+      "form": "challenging",
+      "meaning": "やりがいのある・難しい"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "異議を唱える",
+      "en": "The scientist challenged the old theory.",
+      "ja": "その科学者は古い理論に異議を唱えた。"
+    },
+    {
+      "source": "original",
+      "label": "疑う",
+      "en": "No one dared to challenge the coach's decision.",
+      "ja": "だれもあえてコーチの決定に異を唱えなかった。"
+    },
+    {
+      "source": "original",
+      "label": "challenge A to B",
+      "en": "He challenged me to a game of chess.",
+      "ja": "彼は私にチェスの勝負を挑んできた。"
+    },
+    {
+      "source": "original",
+      "label": "challenge A to do",
+      "en": "She challenged her friends to finish the race.",
+      "ja": "彼女は友人たちにレースを完走してみろと言った。"
+    },
+    {
+      "source": "original",
+      "label": "難題(名詞)",
+      "en": "Climate change is a major challenge for every country.",
+      "ja": "気候変動はどの国にとっても大きな難題だ。"
+    },
+    {
+      "source": "original",
+      "label": "challenging",
+      "en": "Learning a new language is challenging but fun.",
+      "ja": "新しい言語を学ぶのは大変だが楽しい。"
+    }
+  ],
+  "check_points": [
+    "「新しいことに挑戦する」を challenge を使わずに言えるか",
+    "challenge A(異議を唱える)の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "和製英語の「チャレンジ」とのずれ(異議を唱える・難題)が長文と和訳で問われる。challenging も頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 891
+    }
+  ]
+}

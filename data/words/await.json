@@ -1,0 +1,94 @@
+{
+  "word": "await",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈweɪt/",
+  "core_image": {
+    "text": "これから来るものを、じっと待ち受ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"98\"/><line x1=\"70\" y1=\"74\" x2=\"80\" y2=\"98\"/><rect x=\"178\" y=\"110\" width=\"30\" height=\"30\"/><line x1=\"193\" y1=\"110\" x2=\"193\" y2=\"140\"/><line x1=\"178\" y1=\"124\" x2=\"208\" y2=\"124\"/><line x1=\"168\" y1=\"120\" x2=\"96\" y2=\"120\" stroke-dasharray=\"5 5\"/><polyline points=\"103,123.8 96,120 103,116.2\"/></g><text x=\"140\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">待ち受ける</text></svg>"
+  },
+  "etymology": "a(〜へ・〜の方に) + wait(見張る・待つ) → (来るものの方を)見張って待つ → 待ち受ける → (物・運命が人を)待ち受けている",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to wait for something; (of a thing) to be going to happen to someone."
+    }
+  ],
+  "cautions": [
+    "他動詞:await A=wait for A(×await for A)",
+    "物・出来事も主語になる:A surprise awaits you.(あなたを驚きが待っている)",
+    "wait より堅い語。eagerly [anxiously] await=心待ちにする・不安な思いで待つ",
+    "long-awaited=待ちに待った"
+  ],
+  "patterns": [
+    {
+      "form": "await A",
+      "meaning": "Aを待つ(=wait for A)"
+    },
+    {
+      "form": "A awaits B",
+      "meaning": "A(物事)がBを待ち受けている"
+    },
+    {
+      "form": "eagerly await A",
+      "meaning": "Aを心待ちにする"
+    },
+    {
+      "form": "long-awaited",
+      "meaning": "待ちに待った"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "await A",
+      "en": "We are awaiting your reply.",
+      "ja": "お返事をお待ちしております。"
+    },
+    {
+      "source": "original",
+      "label": "wait for との言いかえ",
+      "en": "The students awaited the results of the exam.",
+      "ja": "生徒たちは試験の結果を待った。"
+    },
+    {
+      "source": "original",
+      "label": "物が主語",
+      "en": "A difficult task awaits us tomorrow.",
+      "ja": "明日は難しい仕事が私たちを待っている。"
+    },
+    {
+      "source": "original",
+      "label": "eagerly await",
+      "en": "Fans are eagerly awaiting the new movie.",
+      "ja": "ファンは新作映画を心待ちにしている。"
+    },
+    {
+      "source": "original",
+      "label": "long-awaited",
+      "en": "The long-awaited rain finally came.",
+      "ja": "待ちに待った雨がついに降った。"
+    },
+    {
+      "source": "original",
+      "label": "運命",
+      "en": "Nobody knows what fate awaits them.",
+      "ja": "どんな運命が彼らを待ち受けているのかだれにもわからない。"
+    }
+  ],
+  "check_points": [
+    "await のあとに for を付けないことを言えるか",
+    "物が主語の A surprise awaits you. を訳せるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "await A = wait for A の書きかえ・誤文訂正(×await for)が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 900
+    }
+  ]
+}

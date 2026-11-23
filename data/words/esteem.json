@@ -1,0 +1,103 @@
+{
+  "word": "esteem",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɪˈstiːm/",
+  "core_image": {
+    "text": "値打ちを見積もって、高いところに置く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"82\" y2=\"62\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"98\"/><rect x=\"155\" y=\"110\" width=\"40\" height=\"30\"/><circle cx=\"175\" cy=\"22\" r=\"10\"/><line x1=\"175\" y1=\"32\" x2=\"175\" y2=\"76\"/><line x1=\"175\" y1=\"76\" x2=\"165\" y2=\"110\"/><line x1=\"175\" y1=\"76\" x2=\"185\" y2=\"110\"/><line x1=\"92\" y1=\"100\" x2=\"146\" y2=\"70\"/><polyline points=\"138,70.1 146,70 141.7,76.8\"/></g><text x=\"100\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">高く評価</text></svg>"
+  },
+  "etymology": "ラテン語 aestimare(値打ちを見積もる。estimate と同じ語) → 値打ちを見積もる → 高く評価する・尊敬する → (AをBと)みなす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to respect and admire someone or something; to consider something to be."
+    },
+    {
+      "pos": "名詞",
+      "text": "respect and admiration for someone."
+    }
+  ],
+  "cautions": [
+    "hold A in high esteem=Aを高く評価[尊敬]している(名詞の型が頻出)",
+    "self-esteem=自尊心(長文で頻出)",
+    "esteem A (as) B=AをBとみなす(regard A as B の型)",
+    "状態を表すので進行形にしない。respect より堅い語"
+  ],
+  "patterns": [
+    {
+      "form": "esteem A",
+      "meaning": "Aを尊敬する"
+    },
+    {
+      "form": "be highly esteemed",
+      "meaning": "高く評価されている"
+    },
+    {
+      "form": "hold A in high esteem",
+      "meaning": "Aを高く評価している"
+    },
+    {
+      "form": "self-esteem",
+      "meaning": "自尊心"
+    },
+    {
+      "form": "esteem A (as) B",
+      "meaning": "AをBとみなす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "尊敬する",
+      "en": "Her students esteem her for her honesty.",
+      "ja": "生徒たちは彼女の誠実さを尊敬している。"
+    },
+    {
+      "source": "original",
+      "label": "be highly esteemed",
+      "en": "He is highly esteemed as a doctor.",
+      "ja": "彼は医師として高く評価されている。"
+    },
+    {
+      "source": "original",
+      "label": "hold A in high esteem",
+      "en": "The villagers hold the old teacher in high esteem.",
+      "ja": "村人たちはその老教師をとても尊敬している。"
+    },
+    {
+      "source": "original",
+      "label": "self-esteem",
+      "en": "Praise can help children build self-esteem.",
+      "ja": "ほめることは子どもが自尊心を育てる助けになる。"
+    },
+    {
+      "source": "original",
+      "label": "esteem A (as) B",
+      "en": "I would esteem it an honor to speak at your school.",
+      "ja": "あなたの学校でお話しできれば光栄に存じます。"
+    },
+    {
+      "source": "original",
+      "label": "estimate との関係",
+      "en": "People esteem a product more when it seems rare.",
+      "ja": "人は品物がめったにないものに思えるとより高く評価する。"
+    }
+  ],
+  "check_points": [
+    "hold A in high esteem の意味を言えるか",
+    "self-esteem の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "self-esteem(自尊心)が長文で、hold A in high esteem が熟語で問われる。estimate と同じ語源。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 895
+    }
+  ]
+}

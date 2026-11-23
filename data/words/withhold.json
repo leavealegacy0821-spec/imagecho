@@ -1,0 +1,94 @@
+{
+  "word": "withhold",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/wɪðˈhoʊld/",
+  "core_image": {
+    "text": "出さずに、手元にぐっと引きとめておく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"84\" y2=\"80\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"98\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"170\" y2=\"88\"/><line x1=\"150\" y1=\"74\" x2=\"140\" y2=\"98\"/><rect x=\"168\" y=\"80\" width=\"20\" height=\"20\"/><line x1=\"92\" y1=\"82\" x2=\"132\" y2=\"82\" stroke-dasharray=\"5 5\"/><polyline points=\"125,78.2 132,82 125,85.8\"/></g><text x=\"190\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">渡さない</text></svg>"
+  },
+  "etymology": "with(後ろへ・逆らって。withdraw、withstand と同じ with) + hold(持つ) → 出さずに手元に持っておく → (情報・支払い・同意などを)差し控える・与えずにおく",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to refuse to give something, such as information or money, to someone."
+    }
+  ],
+  "cautions": [
+    "withhold A from B=AをBに与えずにおく・知らせずにおく(from を取る)",
+    "withhold information [judgment / payment]=情報を伏せる[判断を保留する/支払いを差し止める]",
+    "過去・過去分詞は withheld(hold → held と同じ)",
+    "hold back と言いかえられる。「拒否」より「出さずにとめておく」感じ"
+  ],
+  "patterns": [
+    {
+      "form": "withhold A from B",
+      "meaning": "AをBに与えない・知らせない"
+    },
+    {
+      "form": "withhold information",
+      "meaning": "情報を伏せる"
+    },
+    {
+      "form": "withhold judgment",
+      "meaning": "判断を保留する"
+    },
+    {
+      "form": "withhold payment",
+      "meaning": "支払いを差し止める"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "withhold information",
+      "en": "The police withheld the name of the victim.",
+      "ja": "警察は被害者の名前を公表しなかった。"
+    },
+    {
+      "source": "original",
+      "label": "withhold A from B",
+      "en": "The doctor withheld the bad news from the patient.",
+      "ja": "医師は悪い知らせを患者に伏せておいた。"
+    },
+    {
+      "source": "original",
+      "label": "withhold judgment",
+      "en": "Let's withhold judgment until we know all the facts.",
+      "ja": "事実がすべてわかるまで判断は保留しよう。"
+    },
+    {
+      "source": "original",
+      "label": "withhold payment",
+      "en": "The company withheld payment because of the delay.",
+      "ja": "遅れを理由に会社は支払いを差し止めた。"
+    },
+    {
+      "source": "original",
+      "label": "withheld(過去形)",
+      "en": "He withheld his support for the plan.",
+      "ja": "彼はその計画への支持を控えた。"
+    },
+    {
+      "source": "original",
+      "label": "hold back との言いかえ",
+      "en": "She could not withhold her tears.",
+      "ja": "彼女は涙をこらえきれなかった。"
+    }
+  ],
+  "check_points": [
+    "withhold A from B の意味を言えるか",
+    "過去形 withheld を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "withhold information / judgment が長文で出る。with=後ろへ・逆らって(withdraw / withstand)で覚える。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 898
+    }
+  ]
+}

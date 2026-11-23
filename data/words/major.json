@@ -1,0 +1,104 @@
+{
+  "word": "major",
+  "pos": [
+    "形容詞",
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈmeɪdʒər/",
+  "core_image": {
+    "text": "比べて大きいほう・主なほう",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"96\" r=\"44\"/><circle cx=\"180\" cy=\"120\" r=\"20\"/></g><text x=\"80\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">大きいほう</text><text x=\"180\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">小さいほう</text></svg>"
+  },
+  "etymology": "ラテン語 major(より大きい。magnus=大きい の比較級。majority、mayor と同じ根) → 比べて大きいほう → 主要な・重大な → (大学で)主に学ぶ科目=専攻(する) → 名詞 majority=大多数",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "very large or important, especially compared to other things."
+    },
+    {
+      "pos": "動詞",
+      "text": "to study something as your main subject at college or university (major in)."
+    },
+    {
+      "pos": "名詞",
+      "text": "the main subject that a student studies at university."
+    }
+  ],
+  "cautions": [
+    "major in A=Aを専攻する(in を取る。specialize in と同じ形)",
+    "もとが比較級なので than を付けない(×major than)。反対は minor=小さいほうの・未成年(者)",
+    "名詞 majority=大多数。the majority of+複数名詞 は動詞も複数で受ける",
+    "a major problem=重大な問題 のように「重大な」の意味で長文に多い"
+  ],
+  "patterns": [
+    {
+      "form": "a major problem [role]",
+      "meaning": "重大な問題[主要な役割]"
+    },
+    {
+      "form": "major in A",
+      "meaning": "Aを専攻する"
+    },
+    {
+      "form": "the majority of A",
+      "meaning": "Aの大多数"
+    },
+    {
+      "form": "minor",
+      "meaning": "小さいほうの・未成年"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "主要な",
+      "en": "Tokyo is one of the major cities in Asia.",
+      "ja": "東京はアジアの主要都市の一つだ。"
+    },
+    {
+      "source": "original",
+      "label": "重大な",
+      "en": "Smoking is a major cause of disease.",
+      "ja": "喫煙は病気の大きな原因だ。"
+    },
+    {
+      "source": "original",
+      "label": "major in",
+      "en": "My sister majors in economics at college.",
+      "ja": "姉は大学で経済学を専攻している。"
+    },
+    {
+      "source": "original",
+      "label": "専攻(名詞)",
+      "en": "What is your major?",
+      "ja": "あなたの専攻は何ですか。"
+    },
+    {
+      "source": "original",
+      "label": "majority",
+      "en": "The majority of students agree with the plan.",
+      "ja": "学生の大多数がその計画に賛成している。"
+    },
+    {
+      "source": "original",
+      "label": "minor との対比",
+      "en": "It was only a minor mistake, not a major one.",
+      "ja": "それは小さなミスで、重大なものではなかった。"
+    }
+  ],
+  "check_points": [
+    "major in A の意味を言えるか",
+    "the majority of A の意味と動詞の数を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "major in(専攻する)と majority(大多数)が語法・語彙で問われる。minor との対比も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 893
+    }
+  ]
+}

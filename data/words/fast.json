@@ -1,0 +1,108 @@
+{
+  "word": "fast",
+  "pos": [
+    "形容詞",
+    "副詞",
+    "動詞"
+  ],
+  "ipa": "/fæst/",
+  "core_image": {
+    "text": "しっかり固定されて、びくともしない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"90\" y1=\"74\" x2=\"160\" y2=\"80\"/><line x1=\"90\" y1=\"74\" x2=\"160\" y2=\"94\"/><rect x=\"160\" y=\"60\" width=\"12\" height=\"80\"/></g><text x=\"110\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しっかり固定</text></svg>"
+  },
+  "etymology": "古英語 fæst(しっかりした・固定された) → しっかり・固く(hold fast / fast asleep) → (しっかり→勢いよく→)速い → 断食する(戒律をしっかり守る、から)。どれも「しっかり」が根",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "moving or happening quickly; firmly fixed; (of a clock) showing a time later than the true time."
+    },
+    {
+      "pos": "副詞",
+      "text": "quickly; firmly or tightly; completely (fast asleep)."
+    },
+    {
+      "pos": "動詞",
+      "text": "to eat no food for a period of time."
+    }
+  ],
+  "cautions": [
+    "fast asleep=ぐっすり眠って(「速く眠る」ではない)",
+    "hold fast (to A)=(Aに)しっかりしがみつく・固く守る",
+    "時計が進んでいる:My watch is five minutes fast.(⇔ slow)",
+    "fast は動きの速さ、early は時刻の早さ。副詞も fast(×fastly)"
+  ],
+  "patterns": [
+    {
+      "form": "fast asleep",
+      "meaning": "ぐっすり眠って"
+    },
+    {
+      "form": "hold fast to A",
+      "meaning": "Aにしっかりつかまる・Aを固く守る"
+    },
+    {
+      "form": "A is ... minutes fast",
+      "meaning": "(時計が)…分進んでいる"
+    },
+    {
+      "form": "stand fast",
+      "meaning": "一歩も引かない"
+    },
+    {
+      "form": "fast",
+      "meaning": "断食(する)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "速い",
+      "en": "He is the fastest runner in our class.",
+      "ja": "彼はクラスでいちばん足が速い。"
+    },
+    {
+      "source": "original",
+      "label": "fast asleep",
+      "en": "The baby was fast asleep in her bed.",
+      "ja": "赤ちゃんはベッドでぐっすり眠っていた。"
+    },
+    {
+      "source": "original",
+      "label": "hold fast to",
+      "en": "Hold fast to the rope and don't let go.",
+      "ja": "ロープにしっかりつかまって、放さないで。"
+    },
+    {
+      "source": "original",
+      "label": "時計が進んで",
+      "en": "My watch is five minutes fast.",
+      "ja": "私の時計は5分進んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "stand fast",
+      "en": "The villagers stood fast against the plan.",
+      "ja": "村人たちはその計画に一歩も引かなかった。"
+    },
+    {
+      "source": "original",
+      "label": "断食する",
+      "en": "Many people fast during the day in this month.",
+      "ja": "この月には多くの人が日中断食をする。"
+    }
+  ],
+  "check_points": [
+    "fast asleep の意味を言えるか",
+    "「時計が5分進んでいる」を英語で言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "fast asleep(ぐっすり)・hold fast・時計が進んでいる が多義の問題で定番。fast と early の区別も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 899
+    }
+  ]
+}

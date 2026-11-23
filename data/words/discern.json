@@ -1,0 +1,94 @@
+{
+  "word": "discern",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈsɜːrn/",
+  "core_image": {
+    "text": "ふるいにかけて、違いを見分ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><ellipse cx=\"120\" cy=\"62\" rx=\"60\" ry=\"12\"/><path d=\"M60 62 Q120 124 180 62\"/><circle cx=\"100\" cy=\"58\" r=\"5\"/><circle cx=\"136\" cy=\"58\" r=\"5\"/><circle cx=\"114\" cy=\"112\" r=\"2\"/><circle cx=\"126\" cy=\"124\" r=\"2\"/><circle cx=\"118\" cy=\"134\" r=\"2\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見分ける</text></svg>"
+  },
+  "etymology": "dis(離して) + cernere(ふるい分ける。concern、certain と同じ根) → ふるいにかけて分ける → 見分ける・識別する → (はっきりしないものを)なんとか見てとる・わかる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to see, notice or understand something, especially when it is not clear; to recognize a difference."
+    }
+  ],
+  "cautions": [
+    "discern A from B=AをBと見分ける(distinguish A from B と同じ型)",
+    "discern that S V / wh-節=〜だと見てとる・わかる",
+    "「かすかなもの・わかりにくいものをやっと見分ける」感じ(see より堅い)",
+    "形容詞 discerning=目の肥えた・見る目がある"
+  ],
+  "patterns": [
+    {
+      "form": "discern A from B",
+      "meaning": "AをBと見分ける"
+    },
+    {
+      "form": "discern that S V",
+      "meaning": "〜だと見てとる"
+    },
+    {
+      "form": "discern A",
+      "meaning": "A(かすかなもの)を見分ける"
+    },
+    {
+      "form": "discerning",
+      "meaning": "目の肥えた"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "見分ける",
+      "en": "I could barely discern the shape of a ship in the fog.",
+      "ja": "霧の中で船の形がかろうじて見えた。"
+    },
+    {
+      "source": "original",
+      "label": "discern A from B",
+      "en": "Young children cannot always discern fact from fiction.",
+      "ja": "幼い子どもはいつも事実と作り話を見分けられるとは限らない。"
+    },
+    {
+      "source": "original",
+      "label": "discern that",
+      "en": "She discerned that something was wrong.",
+      "ja": "彼女は何かがおかしいと見てとった。"
+    },
+    {
+      "source": "original",
+      "label": "wh-節",
+      "en": "It is hard to discern what he really wants.",
+      "ja": "彼が本当に何を望んでいるのか見抜くのは難しい。"
+    },
+    {
+      "source": "original",
+      "label": "discerning",
+      "en": "Discerning customers choose quality over price.",
+      "ja": "目の肥えた客は値段より質を選ぶ。"
+    },
+    {
+      "source": "original",
+      "label": "distinguish との言いかえ",
+      "en": "Can you discern the difference between these two colors?",
+      "ja": "この2つの色の違いがわかりますか。"
+    }
+  ],
+  "check_points": [
+    "discern A from B の意味を言えるか",
+    "distinguish との言いかえができるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "discern A from B(見分ける)が distinguish の言いかえで問われる。長文では「かすかに見てとる」。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 894
+    }
+  ]
+}

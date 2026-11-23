@@ -1,0 +1,103 @@
+{
+  "word": "prejudice",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈpredʒədɪs/",
+  "core_image": {
+    "text": "会う前から、もう判決を下している",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><ellipse cx=\"104\" cy=\"28\" rx=\"24\" ry=\"14\"/><circle cx=\"80\" cy=\"44\" r=\"3\"/><line x1=\"96\" y1=\"20\" x2=\"112\" y2=\"36\"/><line x1=\"112\" y1=\"20\" x2=\"96\" y2=\"36\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"80\" y1=\"90\" x2=\"168\" y2=\"90\" stroke-dasharray=\"5 5\"/><polyline points=\"161,86.2 168,90 161,93.8\"/></g><text x=\"190\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">会う前から</text></svg>"
+  },
+  "etymology": "pre(前に) + judicium(判断。judge と同じ根) → 前もって下した判断 → 偏見・先入観 → (先入観で)偏見を持たせる → (判断・利益を)損なう",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an unfair feeling of dislike for a person or group, formed without good reason or knowledge."
+    },
+    {
+      "pos": "動詞",
+      "text": "to influence someone so that they have an unfair opinion; to harm something."
+    }
+  ],
+  "cautions": [
+    "prejudice against A=Aに対する偏見(against を取る)",
+    "be prejudiced against A=Aに偏見を持っている(過去分詞の形容詞)",
+    "好意的なかたよりは prejudice in favor of A",
+    "動詞で「(結果・機会を)損なう」の意味もある(prejudice one's chances)"
+  ],
+  "patterns": [
+    {
+      "form": "prejudice against A",
+      "meaning": "Aに対する偏見"
+    },
+    {
+      "form": "be prejudiced against A",
+      "meaning": "Aに偏見を持つ"
+    },
+    {
+      "form": "racial prejudice",
+      "meaning": "人種的偏見"
+    },
+    {
+      "form": "overcome prejudice",
+      "meaning": "偏見を克服する"
+    },
+    {
+      "form": "prejudice A's chances",
+      "meaning": "Aの可能性を損なう"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "偏見",
+      "en": "There is still prejudice against people with disabilities.",
+      "ja": "障がいのある人への偏見はまだある。"
+    },
+    {
+      "source": "original",
+      "label": "racial prejudice",
+      "en": "The movie deals with racial prejudice in America.",
+      "ja": "その映画はアメリカの人種的偏見を扱っている。"
+    },
+    {
+      "source": "original",
+      "label": "be prejudiced against",
+      "en": "Some people are prejudiced against new ideas.",
+      "ja": "新しい考えに偏見を持つ人もいる。"
+    },
+    {
+      "source": "original",
+      "label": "偏見を持たせる",
+      "en": "Don't let one bad experience prejudice you.",
+      "ja": "一度の嫌な経験で偏見を持ってはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "損なう",
+      "en": "His rude reply prejudiced his chances of getting the job.",
+      "ja": "失礼な返事のせいで彼がその仕事に就ける見込みは損なわれた。"
+    },
+    {
+      "source": "original",
+      "label": "overcome prejudice",
+      "en": "Education can help us overcome prejudice.",
+      "ja": "教育は偏見を乗り越える助けになりうる。"
+    }
+  ],
+  "check_points": [
+    "prejudice の語源(pre + judge)を言えるか",
+    "prejudice against A の前置詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "prejudice against A(偏見)が長文で頻出。pre + judge の語源で覚える。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 896
+    }
+  ]
+}
