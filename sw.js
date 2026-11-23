@@ -3,7 +3,7 @@
 // ★アプリの部品(html / css / js / アイコン / manifest)を書き換えたら、
 //   下の APP_VERSION の数字を必ず1つ上げること。
 //   上げると新しい部品を取り直し、古い部品のキャッシュは消える。
-const APP_VERSION = 'v43';
+const APP_VERSION = 'v44';
 
 const APP_CACHE = 'imagecho-app-' + APP_VERSION; // アプリの部品
 const INDEX_CACHE = 'imagecho-index';            // data/index.json の控え
@@ -74,29 +74,8 @@ self.addEventListener('fetch', (event) => {
     return;
   }
   if (rel.startsWith('data/')) return; // そのほかのデータはそのまま通信
-  // ▼デザイン選び用の仮の仕組み。決まったら消す(選んだ案の部品は SHELL に入れる)
-  if (rel.startsWith('design/')) return; // 見比べ用の仮ページはそのまま通信
-  if (rel.startsWith('css/themes/') || rel.startsWith('fonts/')) {
-    event.respondWith(themeNetworkFirst(req)); // 案のCSSとフォント:通信優先(直したらすぐ反映)。だめなら控え
-    return;
-  }
-  // ▲ここまで
   event.respondWith(shellCacheFirst(req));
 });
-
-// デザイン選び用の仮の仕組み。決まったら消す
-async function themeNetworkFirst(req) {
-  const cache = await caches.open(APP_CACHE);
-  try {
-    const res = await fetch(req);
-    if (res.ok) await cache.put(req.url, res.clone());
-    return res;
-  } catch (e) {
-    const hit = await cache.match(req.url);
-    if (hit) return hit;
-    throw e;
-  }
-}
 
 // アプリの部品:キャッシュ優先
 async function shellCacheFirst(req) {

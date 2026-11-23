@@ -98,3 +98,10 @@
 - **めくって覚える**:ホームから開始。1語ずつ指で左右に払ってめくる(PC は ← →)。並びは `data/groups.json` のまとまり(語根・語法・多義語など30)順。同じ語が別のまとまりに再登場することがある。build-index.js が index.json の groups に入れる。まとまりに無い語は「そのほか」に自動で入る
 - 最後にめくった位置は localStorage `imagecho:flowPos`。ホームに「続きから」
 - 単語の自動作成は予約ジョブで続行中(新しい語は groups.json にも足す)
+
+## 2026-11-23 アプリ化(公開の準備)
+
+- 本人が公開先に **Cloudflare Pages** を選んだ(リポジトリは非公開のまま)。アカウント作成と GitHub 連携は本人が行う
+- 公開前の片付け:デザイン見比べ用の仮のもの(`css/themes/a,c,d,e.css`、`design/`、使わないフォント、`sw.js` の仮の分岐)を削除。`sw.js` は v44
+- `scripts/pages-build.sh`:アプリに要るファイルだけを `public/` に集める(gen/ scripts/ *.md は出さない。検索よけの `_headers` 付き)。Cloudflare の設定は「ビルドコマンド `sh scripts/pages-build.sh`/出力ディレクトリ `public`/フレームワークなし」
+- public/ をスマホ幅で開いて確認:表示・オフライン表示ともエラー0件
