@@ -1,0 +1,99 @@
+{
+  "word": "discharge",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/dɪsˈtʃɑːrdʒ/",
+  "core_image": {
+    "text": "積んだ荷を下ろして、外へ出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"70\" width=\"90\" height=\"50\"/><circle cx=\"62\" cy=\"130\" r=\"10\"/><circle cx=\"108\" cy=\"130\" r=\"10\"/><rect x=\"180\" y=\"118\" width=\"22\" height=\"22\"/><line x1=\"136\" y1=\"90\" x2=\"178\" y2=\"114\"/><polyline points=\"173.8,107.2 178,114 170,113.8\"/></g><text x=\"192\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">下ろす・出す</text></svg>"
+  },
+  "etymology": "dis(取り去る)+charge(荷を積む。charge と同じ語) → 積み荷を下ろす → (中のものを)放出する・排出する → (病院・軍・職場から人を)出す=退院させる・除隊させる・解雇する → (重荷を下ろすように)義務を果たす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to allow someone to leave a hospital, the army or a job; to let out a liquid or gas; to do a duty."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of letting someone leave a hospital or job; a substance that comes out of something."
+    }
+  ],
+  "cautions": [
+    "be discharged from (the) hospital=退院する(「放電」「放出」だけで覚えると長文で読めない)",
+    "discharge A from B=AをBから解放する・解雇する(dismiss とほぼ同じ)",
+    "discharge one's duty [responsibility]=義務・責任を果たす(=fulfill)",
+    "discharge waste into the river=廃棄物を川に排出する(環境の長文で頻出)"
+  ],
+  "patterns": [
+    {
+      "form": "be discharged from hospital",
+      "meaning": "退院する"
+    },
+    {
+      "form": "discharge A from B",
+      "meaning": "AをBから解放・解雇する"
+    },
+    {
+      "form": "discharge A into B",
+      "meaning": "AをBに排出する"
+    },
+    {
+      "form": "discharge one's duty",
+      "meaning": "義務を果たす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "退院する",
+      "en": "My grandfather was discharged from the hospital yesterday.",
+      "ja": "祖父は昨日退院した。"
+    },
+    {
+      "source": "original",
+      "label": "排出する",
+      "en": "The factory discharged chemicals into the river.",
+      "ja": "その工場は化学物質を川に排出した。"
+    },
+    {
+      "source": "original",
+      "label": "解雇する",
+      "en": "He was discharged for being late too often.",
+      "ja": "彼は遅刻が多すぎて解雇された。"
+    },
+    {
+      "source": "original",
+      "label": "果たす",
+      "en": "She discharged her duties as captain very well.",
+      "ja": "彼女はキャプテンとしての務めを立派に果たした。"
+    },
+    {
+      "source": "original",
+      "label": "退院",
+      "en": "The doctor will decide the date of your discharge.",
+      "ja": "退院の日は医師が決める。"
+    },
+    {
+      "source": "original",
+      "label": "排出",
+      "en": "The discharge of waste water is strictly controlled.",
+      "ja": "排水の放出は厳しく規制されている。"
+    }
+  ],
+  "check_points": [
+    "be discharged from hospital の意味を言えるか",
+    "discharge one's duty の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「退院させる」「排出する」「(義務を)果たす」の意味が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1012
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "word": "rush",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/rʌʃ/",
+  "core_image": {
+    "text": "勢いよく、一気に押し寄せる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"140\" cy=\"52\" r=\"10\"/><line x1=\"140\" y1=\"62\" x2=\"140\" y2=\"106\"/><line x1=\"140\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"140\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"140\" y1=\"74\" x2=\"162\" y2=\"60\"/><line x1=\"140\" y1=\"74\" x2=\"118\" y2=\"88\"/><line x1=\"40\" y1=\"70\" x2=\"105\" y2=\"70\"/><line x1=\"30\" y1=\"88\" x2=\"100\" y2=\"88\"/><line x1=\"40\" y1=\"106\" x2=\"110\" y2=\"106\"/><line x1=\"165\" y1=\"120\" x2=\"220\" y2=\"120\"/><polyline points=\"213,116.2 220,120 213,123.8\"/></g><text x=\"66\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">一気に</text></svg>"
+  },
+  "etymology": "古いフランス語 ruser(押しのける) → 勢いよく突き進む → 急いで行く・急いで〜する → 人や物を急いで運ぶ・せかす → 人が一度にどっと押し寄せること=殺到・混雑 rush hour → 急ぎ in a rush",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move or do something very quickly; to take someone somewhere quickly; to make someone hurry."
+    },
+    {
+      "pos": "名詞",
+      "text": "a sudden quick movement; a time when many people go somewhere or want something at the same time; a hurry."
+    }
+  ],
+  "cautions": [
+    "rush to do=急いで〜する/rush A to the hospital=Aを病院へ急いで運ぶ",
+    "Don't rush me.=せかさないで(人を目的語にとると「急がせる」)",
+    "rush into A=Aを早まってする(rush into marriage=早まって結婚する)",
+    "名詞:a rush for A=Aへの殺到(the gold rush)/in a rush=急いで(=in a hurry)"
+  ],
+  "patterns": [
+    {
+      "form": "rush to A",
+      "meaning": "Aへ急いで行く"
+    },
+    {
+      "form": "rush to do",
+      "meaning": "急いで〜する"
+    },
+    {
+      "form": "rush A to B",
+      "meaning": "AをBへ急いで運ぶ"
+    },
+    {
+      "form": "rush into A",
+      "meaning": "早まってAをする"
+    },
+    {
+      "form": "in a rush",
+      "meaning": "急いで"
+    },
+    {
+      "form": "a rush for A",
+      "meaning": "Aへの殺到"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "急いで行く",
+      "en": "He rushed to the station to catch the last train.",
+      "ja": "彼は終電に間に合うよう駅へ急いだ。"
+    },
+    {
+      "source": "original",
+      "label": "急いで運ぶ",
+      "en": "The injured man was rushed to the hospital.",
+      "ja": "けが人は急いで病院へ運ばれた。"
+    },
+    {
+      "source": "original",
+      "label": "せかす",
+      "en": "Take your time. I don't want to rush you.",
+      "ja": "ゆっくりでいいよ。せかしたくないから。"
+    },
+    {
+      "source": "original",
+      "label": "早まって",
+      "en": "You shouldn't rush into such an important decision.",
+      "ja": "そんな重要な決断を早まってするべきではない。"
+    },
+    {
+      "source": "original",
+      "label": "急いで",
+      "en": "I was in a rush this morning and forgot my lunch.",
+      "ja": "今朝は急いでいて弁当を忘れた。"
+    },
+    {
+      "source": "original",
+      "label": "殺到",
+      "en": "There was a rush for tickets when the concert was announced.",
+      "ja": "コンサートが発表されるとチケットに人が殺到した。"
+    }
+  ],
+  "check_points": [
+    "rush A to the hospital の意味を言えるか",
+    "rush into A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "rush into A(早まって〜する)、be rushed to the hospital が長文・会話で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1017
+    }
+  ]
+}

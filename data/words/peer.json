@@ -1,0 +1,99 @@
+{
+  "word": "peer",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/pɪər/",
+  "core_image": {
+    "text": "横に並ぶ、同じ立場の仲間",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"70\" y2=\"96\"/><line x1=\"120\" y1=\"74\" x2=\"110\" y2=\"96\"/><line x1=\"120\" y1=\"74\" x2=\"130\" y2=\"96\"/><line x1=\"180\" y1=\"74\" x2=\"170\" y2=\"96\"/><line x1=\"180\" y1=\"74\" x2=\"190\" y2=\"96\"/><line x1=\"30\" y1=\"32\" x2=\"210\" y2=\"32\"/></g><text x=\"120\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">同じ立場</text></svg>"
+  },
+  "etymology": "ラテン語 par(等しい。pair・compare と同じ根) → 等しい者 → 年齢・地位・能力が同じ人=仲間・同輩 → peer pressure=仲間からの圧力。動詞 peer(目をこらして見る)は別の語",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a person who is the same age or has the same position or abilities as other people in a group."
+    },
+    {
+      "pos": "動詞",
+      "text": "to look very carefully at something, especially because it is hard to see."
+    }
+  ],
+  "cautions": [
+    "peer pressure=仲間からの圧力・同調圧力(長文で頻出の熟語)",
+    "名詞の peer は「同じ立場の人」。「のぞく人」ではない",
+    "動詞 peer at [into] A=Aをじっと見つめる・目をこらして見る(at / into を取る)",
+    "one's peers=同年代の人たち/without peer=並ぶ者がない"
+  ],
+  "patterns": [
+    {
+      "form": "peer pressure",
+      "meaning": "仲間からの圧力"
+    },
+    {
+      "form": "one's peers",
+      "meaning": "同年代・同じ立場の人たち"
+    },
+    {
+      "form": "peer at A",
+      "meaning": "Aをじっと見る"
+    },
+    {
+      "form": "peer into A",
+      "meaning": "Aの中をのぞきこむ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "同年代の人",
+      "en": "Teenagers often care about what their peers think of them.",
+      "ja": "十代の若者はしばしば仲間にどう思われるかを気にする。"
+    },
+    {
+      "source": "original",
+      "label": "同調圧力",
+      "en": "He started smoking because of peer pressure.",
+      "ja": "彼は仲間からの圧力でたばこを吸い始めた。"
+    },
+    {
+      "source": "original",
+      "label": "同じ立場",
+      "en": "She was respected by her peers at the hospital.",
+      "ja": "彼女は病院の同僚から尊敬されていた。"
+    },
+    {
+      "source": "original",
+      "label": "同年代",
+      "en": "Children learn a lot from playing with their peers.",
+      "ja": "子どもは同年代の子と遊ぶことで多くを学ぶ。"
+    },
+    {
+      "source": "original",
+      "label": "じっと見る",
+      "en": "The old man peered at me over his glasses.",
+      "ja": "その老人は眼鏡ごしに私をじっと見た。"
+    },
+    {
+      "source": "original",
+      "label": "のぞきこむ",
+      "en": "She peered into the dark room.",
+      "ja": "彼女は暗い部屋の中をのぞきこんだ。"
+    }
+  ],
+  "check_points": [
+    "peer pressure の意味を言えるか",
+    "動詞 peer at A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "peer pressure、one's peers が教育・若者の長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1016
+    }
+  ]
+}

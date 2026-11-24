@@ -1,0 +1,103 @@
+{
+  "word": "service",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈsɜːrvɪs/",
+  "core_image": {
+    "text": "相手のために、役に立って仕えること",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"80\" y1=\"74\" x2=\"118\" y2=\"66\"/><line x1=\"80\" y1=\"74\" x2=\"68\" y2=\"98\"/><line x1=\"104\" y1=\"64\" x2=\"140\" y2=\"64\"/><path d=\"M108 64 Q122 44 136 64\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"178\" y2=\"96\"/><line x1=\"190\" y1=\"74\" x2=\"202\" y2=\"96\"/></g><text x=\"130\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">仕える</text></svg>"
+  },
+  "etymology": "ラテン語 servus(召使い。serve・servant と同じ根) → 仕えること → 奉仕・接客・サービス → (国や会社に仕える)勤務・兵役 → (人々に仕える)公共の事業・(交通の)便 → (神に仕える)礼拝 → (機械に手をかける)点検・修理する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "help or work done for other people; a system that provides something the public needs, such as transport; a religious ceremony; time spent working for a company or the army."
+    },
+    {
+      "pos": "動詞",
+      "text": "to examine and repair a machine or vehicle."
+    }
+  ],
+  "cautions": [
+    "日本語の「サービス(=無料のおまけ)」の意味はない。「無料で」は free (of charge)",
+    "bus [train] service=バスの便・運行/public services=公共事業",
+    "be at A's service=Aの役に立つ用意ができている/be of service to A=Aの役に立つ",
+    "動詞 service A=A(車・機械)を点検・修理する"
+  ],
+  "patterns": [
+    {
+      "form": "the service at A",
+      "meaning": "Aの接客・サービス"
+    },
+    {
+      "form": "a bus / train service",
+      "meaning": "バス/列車の便"
+    },
+    {
+      "form": "be of service to A",
+      "meaning": "Aの役に立つ"
+    },
+    {
+      "form": "public services",
+      "meaning": "公共サービス"
+    },
+    {
+      "form": "service A",
+      "meaning": "A(車など)を点検する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "接客",
+      "en": "The food was good, but the service was slow.",
+      "ja": "料理はおいしかったが、接客が遅かった。"
+    },
+    {
+      "source": "original",
+      "label": "便",
+      "en": "There is a bus service every twenty minutes.",
+      "ja": "バスが20分ごとに運行されている。"
+    },
+    {
+      "source": "original",
+      "label": "役に立つ",
+      "en": "I'm glad to be of service to you.",
+      "ja": "お役に立ててうれしいです。"
+    },
+    {
+      "source": "original",
+      "label": "勤務",
+      "en": "He retired after 30 years of service with the company.",
+      "ja": "彼はその会社に30年勤めて退職した。"
+    },
+    {
+      "source": "original",
+      "label": "礼拝",
+      "en": "The church holds a service every Sunday morning.",
+      "ja": "その教会は毎週日曜の朝に礼拝を行う。"
+    },
+    {
+      "source": "original",
+      "label": "点検する",
+      "en": "I had my car serviced before the long drive.",
+      "ja": "長距離ドライブの前に車を点検してもらった。"
+    }
+  ],
+  "check_points": [
+    "bus service の意味を言えるか",
+    "be of service to A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「便・運行」「接客」「勤務」など文脈で訳し分ける。be of service to A も語法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1020
+    }
+  ]
+}

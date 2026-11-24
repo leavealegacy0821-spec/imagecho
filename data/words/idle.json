@@ -1,0 +1,99 @@
+{
+  "word": "idle",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/ˈaɪdəl/",
+  "core_image": {
+    "text": "何もせず、空っぽで止まっている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"100\"/><line x1=\"70\" y1=\"74\" x2=\"82\" y2=\"100\"/><rect x=\"130\" y=\"80\" width=\"70\" height=\"60\"/><circle cx=\"165\" cy=\"110\" r=\"16\"/></g><text x=\"165\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">止まっている</text></svg>"
+  },
+  "etymology": "古い英語 idel(空っぽの・むだな) → 何もしていない・働いていない → (機械・工場が)動いていない → 怠けている → (中身が空っぽの)根拠のない・むだな idle talk → ぶらぶら過ごす idle away",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not working or being used; lazy; having no real purpose or value."
+    },
+    {
+      "pos": "動詞",
+      "text": "to spend time doing nothing; (of an engine) to run slowly while not moving."
+    }
+  ],
+  "cautions": [
+    "「怠けた」だけで覚えない。機械・工場・お金が使われていない状態にも使う(idle machines)",
+    "idle talk / idle rumor=根拠のない・くだらない話(中身が空っぽ)",
+    "idle away A=A(時間)をぶらぶら過ごす",
+    "同じ発音の idol(偶像・アイドル)とつづりを混同しない"
+  ],
+  "patterns": [
+    {
+      "form": "be idle",
+      "meaning": "何もしていない・使われていない"
+    },
+    {
+      "form": "stand idle",
+      "meaning": "(機械などが)止まったままだ"
+    },
+    {
+      "form": "idle talk / rumor",
+      "meaning": "根拠のない話・うわさ"
+    },
+    {
+      "form": "idle away A",
+      "meaning": "A(時間)をぶらぶら過ごす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "何もしていない",
+      "en": "He was idle all summer and did no homework.",
+      "ja": "彼は夏じゅう何もせず宿題もしなかった。"
+    },
+    {
+      "source": "original",
+      "label": "使われていない",
+      "en": "The machines have been idle since the factory closed.",
+      "ja": "工場が閉鎖されて以来、機械は動いていない。"
+    },
+    {
+      "source": "original",
+      "label": "止まったまま",
+      "en": "Many fields stand idle because there are no farmers.",
+      "ja": "農家がいないので多くの畑が使われないままだ。"
+    },
+    {
+      "source": "original",
+      "label": "根拠のない",
+      "en": "Don't believe such idle rumors.",
+      "ja": "そんな根拠のないうわさを信じてはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "ぶらぶら過ごす",
+      "en": "They idled away the afternoon at the beach.",
+      "ja": "彼らは浜辺で午後をぶらぶら過ごした。"
+    },
+    {
+      "source": "original",
+      "label": "怠けた",
+      "en": "The idle student was scolded by the teacher.",
+      "ja": "その怠けた生徒は先生にしかられた。"
+    }
+  ],
+  "check_points": [
+    "idle が機械や時間にも使えることがわかるか",
+    "idle rumor の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「使われていない・動いていない」「根拠のない」の意味が長文で問われる。idol との区別も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1018
+    }
+  ]
+}

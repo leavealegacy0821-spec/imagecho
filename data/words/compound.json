@@ -1,0 +1,108 @@
+{
+  "word": "compound",
+  "pos": [
+    "名詞",
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/ˈkɑːmpaʊnd/",
+  "core_image": {
+    "text": "いくつかを重ねて、1つにまとめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"40\" cy=\"40\" r=\"12\"/><rect x=\"28\" y=\"70\" width=\"24\" height=\"24\"/><polygon points=\"40,110 54,134 26,134\"/><line x1=\"66\" y1=\"82\" x2=\"122\" y2=\"82\"/><polyline points=\"115,78.2 122,82 115,85.8\"/><ellipse cx=\"175\" cy=\"82\" rx=\"45\" ry=\"40\"/><circle cx=\"160\" cy=\"70\" r=\"10\"/><rect x=\"172\" y=\"62\" width=\"18\" height=\"18\"/><polygon points=\"168,88 180,108 156,108\"/></g><text x=\"94\" y=\"66\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">合わせる</text></svg>"
+  },
+  "etymology": "com(共に)+pound(置く。pose・component と同じ根) → いくつかを一緒に置く → 合わさった・複合の → 化合物・合成語 → (悪いことを重ね合わせて)さらに悪化させる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a substance or word made of two or more parts."
+    },
+    {
+      "pos": "形容詞",
+      "text": "made of two or more parts."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make a bad situation worse; to mix things together."
+    }
+  ],
+  "cautions": [
+    "動詞 compound A=A(問題・困難)をさらに悪化させる(「混ぜる」で訳すと長文の意味がとれない)。be compounded by A=Aによっていっそう悪化する",
+    "化合物=compound/混合物=mixture。化学の文脈で区別される",
+    "アクセント:名詞・形容詞 COM-pound/動詞 com-POUND",
+    "compound interest=複利/a compound word=複合語(blackboard など)"
+  ],
+  "patterns": [
+    {
+      "form": "a chemical compound",
+      "meaning": "化合物"
+    },
+    {
+      "form": "a compound word",
+      "meaning": "複合語"
+    },
+    {
+      "form": "compound A",
+      "meaning": "A(問題)をさらに悪化させる"
+    },
+    {
+      "form": "be compounded by A",
+      "meaning": "Aによっていっそう悪化する"
+    },
+    {
+      "form": "compound interest",
+      "meaning": "複利"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "化合物",
+      "en": "Water is a compound of hydrogen and oxygen.",
+      "ja": "水は水素と酸素の化合物だ。"
+    },
+    {
+      "source": "original",
+      "label": "複合語",
+      "en": "\"Sunflower\" is a compound word.",
+      "ja": "sunflower は複合語だ。"
+    },
+    {
+      "source": "original",
+      "label": "悪化させる",
+      "en": "His lies only compounded the problem.",
+      "ja": "彼のうそは問題をさらに悪化させただけだった。"
+    },
+    {
+      "source": "original",
+      "label": "いっそう悪化",
+      "en": "The damage was compounded by heavy rain.",
+      "ja": "被害は大雨によっていっそう大きくなった。"
+    },
+    {
+      "source": "original",
+      "label": "複利",
+      "en": "Compound interest makes your savings grow faster.",
+      "ja": "複利だと貯金はより速く増える。"
+    },
+    {
+      "source": "original",
+      "label": "合わさった",
+      "en": "This plant has compound leaves.",
+      "ja": "この植物は複葉を持っている。"
+    }
+  ],
+  "check_points": [
+    "動詞 compound(悪化させる)の意味を言えるか",
+    "compound と mixture の違いがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "動詞 compound(さらに悪化させる)が長文の言い換えで出る。化学の文脈では「化合物」。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1014
+    }
+  ]
+}

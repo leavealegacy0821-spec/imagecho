@@ -1,0 +1,98 @@
+{
+  "word": "extent",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ɪkˈstent/",
+  "core_image": {
+    "text": "どこまで伸びているか、その広がり",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"30\" y1=\"60\" x2=\"30\" y2=\"120\"/><rect x=\"30\" y=\"80\" width=\"130\" height=\"20\"/><line x1=\"165\" y1=\"90\" x2=\"212\" y2=\"90\" stroke-dasharray=\"5 5\"/><polyline points=\"205,86.2 212,90 205,93.8\"/><line x1=\"215\" y1=\"72\" x2=\"215\" y2=\"108\"/></g><text x=\"190\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どこまで</text></svg>"
+  },
+  "etymology": "ex(外へ)+tent(伸ばす。extend・tend と同じ根) → 外へ伸ばした広がり → 範囲・大きさ → どこまでか=程度・限度 → to some extent=ある程度まで",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the size or area of something; how much or how far something is true or happens."
+    }
+  ],
+  "cautions": [
+    "to some [a certain] extent=ある程度まで(前置詞は to。「in some extent」は誤り)",
+    "to a large [great] extent=大部分は・大いに",
+    "to what extent ...?=どの程度まで〜か(間接疑問でも頻出)",
+    "to the extent that SV=〜という程度まで・〜する限りでは/the extent of A=Aの範囲・程度"
+  ],
+  "patterns": [
+    {
+      "form": "to some extent",
+      "meaning": "ある程度まで"
+    },
+    {
+      "form": "to a large extent",
+      "meaning": "大部分は"
+    },
+    {
+      "form": "to what extent",
+      "meaning": "どの程度まで"
+    },
+    {
+      "form": "to the extent that SV",
+      "meaning": "〜という程度まで"
+    },
+    {
+      "form": "the extent of A",
+      "meaning": "Aの範囲・程度"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ある程度",
+      "en": "I agree with you to some extent.",
+      "ja": "ある程度まではあなたに賛成だ。"
+    },
+    {
+      "source": "original",
+      "label": "大部分は",
+      "en": "Our health depends to a large extent on what we eat.",
+      "ja": "私たちの健康は大部分は食べるものによって決まる。"
+    },
+    {
+      "source": "original",
+      "label": "どの程度",
+      "en": "To what extent can we trust these data?",
+      "ja": "これらのデータはどの程度まで信頼できるだろうか。"
+    },
+    {
+      "source": "original",
+      "label": "程度",
+      "en": "It is hard to know the extent of the damage.",
+      "ja": "被害の程度を知るのは難しい。"
+    },
+    {
+      "source": "original",
+      "label": "〜という程度まで",
+      "en": "He was tired to the extent that he could not walk.",
+      "ja": "彼は歩けないほど疲れていた。"
+    },
+    {
+      "source": "original",
+      "label": "広がり",
+      "en": "The map shows the full extent of the forest.",
+      "ja": "その地図は森林の広がり全体を示している。"
+    }
+  ],
+  "check_points": [
+    "to some extent の前置詞を言えるか",
+    "to what extent の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "to some extent / to what extent / to the extent that が長文・英作文・語法問題で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1019
+    }
+  ]
+}

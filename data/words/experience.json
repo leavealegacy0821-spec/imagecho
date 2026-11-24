@@ -1,0 +1,103 @@
+{
+  "word": "experience",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ɪkˈspɪəriəns/",
+  "core_image": {
+    "text": "実際にやって、身をもって通り抜ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"58\" y2=\"90\"/><line x1=\"40\" y1=\"74\" x2=\"24\" y2=\"92\"/><rect x=\"90\" y=\"118\" width=\"22\" height=\"22\"/><polygon points=\"140,140 155,112 170,140\"/><circle cx=\"198\" cy=\"128\" r=\"12\"/><line x1=\"62\" y1=\"70\" x2=\"210\" y2=\"100\" stroke-dasharray=\"5 5\"/><polyline points=\"203.9,94.8 210,100 202.4,102.4\"/></g><text x=\"128\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">身をもって</text></svg>"
+  },
+  "etymology": "ex(外へ・通り抜けて)+peri(試す。expert・experiment と同じ根) → 試しながら通り抜ける → 実際にやってみること → 経験・体験(する) → (身をもって)感じる・味わう",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "knowledge or skill that you get from doing something; something that happens to you and affects how you feel."
+    },
+    {
+      "pos": "動詞",
+      "text": "to have something happen to you; to feel an emotion or a physical feeling."
+    }
+  ],
+  "cautions": [
+    "「経験(知識・技能)」の意味では数えない(have much experience in A)。「1つ1つの体験」は数える(a wonderful experience)",
+    "動詞 experience A=Aを経験する・味わう。前置詞は不要(experience difficulties。× experience in difficulties)",
+    "from experience=経験から/experienced=経験を積んだ・熟練した(人に使う)",
+    "experiment(実験)・expert(専門家)と同じ根で、つづりが似ているので注意"
+  ],
+  "patterns": [
+    {
+      "form": "experience in A",
+      "meaning": "Aの経験"
+    },
+    {
+      "form": "from experience",
+      "meaning": "経験から"
+    },
+    {
+      "form": "a ... experience",
+      "meaning": "〜な体験"
+    },
+    {
+      "form": "experience A",
+      "meaning": "Aを経験する・味わう"
+    },
+    {
+      "form": "be experienced in A",
+      "meaning": "Aに熟練している"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "経験",
+      "en": "She has a lot of experience in teaching children.",
+      "ja": "彼女は子どもに教える経験が豊富だ。"
+    },
+    {
+      "source": "original",
+      "label": "経験から",
+      "en": "I know from experience that it is hard to get up early.",
+      "ja": "早起きがつらいことは経験からわかっている。"
+    },
+    {
+      "source": "original",
+      "label": "体験",
+      "en": "Studying abroad was a valuable experience for me.",
+      "ja": "留学は私にとって貴重な体験だった。"
+    },
+    {
+      "source": "original",
+      "label": "経験する",
+      "en": "The country experienced rapid economic growth in the 1960s.",
+      "ja": "その国は1960年代に急速な経済成長を経験した。"
+    },
+    {
+      "source": "original",
+      "label": "味わう",
+      "en": "Many students experience stress before exams.",
+      "ja": "多くの生徒が試験前にストレスを感じる。"
+    },
+    {
+      "source": "original",
+      "label": "熟練した",
+      "en": "We need an experienced doctor for this operation.",
+      "ja": "この手術には熟練した医師が必要だ。"
+    }
+  ],
+  "check_points": [
+    "experience が数えられる場合と数えられない場合を言えるか",
+    "動詞 experience の後ろに前置詞が要らないことを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "可算・不可算の区別(much experience / an experience)と動詞用法が文法・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1011
+    }
+  ]
+}

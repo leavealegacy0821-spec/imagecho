@@ -1,0 +1,103 @@
+{
+  "word": "bond",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/bɑːnd/",
+  "core_image": {
+    "text": "2つを結びつけて、離さないもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"112\" y2=\"88\"/><line x1=\"170\" y1=\"74\" x2=\"128\" y2=\"88\"/><ellipse cx=\"120\" cy=\"88\" rx=\"10\" ry=\"6\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"96\"/><line x1=\"170\" y1=\"74\" x2=\"182\" y2=\"96\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">結びつき</text></svg>"
+  },
+  "etymology": "古い英語 band(縛るもの。bind・band と同じ根) → 縛るもの・つなぐもの → 人と人の絆・結びつき → くっつける力・接着 → (約束で縛る)証書 → 債券 → 絆を深める・くっつく(動詞)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a close connection or feeling between people; something that joins things together; an official document promising to pay back money."
+    },
+    {
+      "pos": "動詞",
+      "text": "to develop a close relationship with someone; to stick two things together."
+    }
+  ],
+  "cautions": [
+    "a bond between A and B=AとBの絆(between を使う)",
+    "動詞 bond with A=Aと絆を深める(with を落とさない)",
+    "経済の長文では債券(government bonds=国債)",
+    "bind(縛る)・bound(縛られた)と同じ根。be bound to do=きっと〜する とセットで"
+  ],
+  "patterns": [
+    {
+      "form": "a bond between A and B",
+      "meaning": "AとBの絆"
+    },
+    {
+      "form": "a strong bond",
+      "meaning": "強い絆"
+    },
+    {
+      "form": "bond with A",
+      "meaning": "Aと絆を深める"
+    },
+    {
+      "form": "bond A to B",
+      "meaning": "AをBに接着する"
+    },
+    {
+      "form": "government bonds",
+      "meaning": "国債"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "絆",
+      "en": "There is a strong bond between the two sisters.",
+      "ja": "その2人の姉妹には強い絆がある。"
+    },
+    {
+      "source": "original",
+      "label": "絆",
+      "en": "Sharing meals helps to build family bonds.",
+      "ja": "食事を共にすることは家族の絆を築くのに役立つ。"
+    },
+    {
+      "source": "original",
+      "label": "絆を深める",
+      "en": "The new students bonded with each other at the camp.",
+      "ja": "新入生たちは合宿でお互いに打ち解けた。"
+    },
+    {
+      "source": "original",
+      "label": "絆を深める",
+      "en": "Mothers bond with their babies through touch.",
+      "ja": "母親は触れ合いを通して赤ちゃんと絆を深める。"
+    },
+    {
+      "source": "original",
+      "label": "接着する",
+      "en": "This glue bonds plastic to metal.",
+      "ja": "この接着剤はプラスチックを金属にくっつける。"
+    },
+    {
+      "source": "original",
+      "label": "債券",
+      "en": "He invested his money in government bonds.",
+      "ja": "彼はお金を国債に投資した。"
+    }
+  ],
+  "check_points": [
+    "a bond between A and B / bond with A の前置詞を言えるか",
+    "「債券」の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「絆」(bond between, bond with)が人間関係・家族の長文で頻出。経済では「債券」。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1015
+    }
+  ]
+}
