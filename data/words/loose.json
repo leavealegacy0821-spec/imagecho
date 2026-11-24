@@ -1,0 +1,103 @@
+{
+  "word": "loose",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/luːs/",
+  "core_image": {
+    "text": "しめつけがなく、ゆるんでいる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"20\" y1=\"60\" x2=\"20\" y2=\"140\"/><line x1=\"90\" y1=\"60\" x2=\"90\" y2=\"140\"/><line x1=\"20\" y1=\"60\" x2=\"90\" y2=\"60\"/><line x1=\"130\" y1=\"60\" x2=\"130\" y2=\"140\"/><line x1=\"220\" y1=\"60\" x2=\"220\" y2=\"140\"/><path d=\"M130 60 Q155 120 175 100 Q195 80 220 60\"/></g><text x=\"55\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぴんと</text><text x=\"175\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ゆるい</text></svg>"
+  },
+  "etymology": "古ノルド語 lauss(ほどけた・自由な) → しめつけのない=ゆるい・だぶだぶの → (つながれていない)放たれた・自由な=break loose → (きっちりしていない)おおざっぱな・大まかな(a loose translation) → 動詞 loosen=ゆるめる",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not firmly fixed or tied; (of clothes) not tight; free from control; not exact."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make something free or less tight."
+    }
+  ],
+  "cautions": [
+    "lose /luːz/(失う)とつづり・発音がまぎらわしい:loose は /luːs/ で形容詞",
+    "come loose=ゆるむ・外れる、break [get] loose=逃げ出す",
+    "on the loose=(犯人・動物が)逃げて野放しで、let A loose=Aを放す",
+    "ゆるめる は loosen、反意語 tight(きつい)、a loose translation=意訳"
+  ],
+  "patterns": [
+    {
+      "form": "come loose",
+      "meaning": "ゆるむ・外れる"
+    },
+    {
+      "form": "break loose",
+      "meaning": "逃げ出す"
+    },
+    {
+      "form": "on the loose",
+      "meaning": "逃げて野放しで"
+    },
+    {
+      "form": "loose clothes",
+      "meaning": "ゆったりした服"
+    },
+    {
+      "form": "a loose translation",
+      "meaning": "意訳"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ゆるい",
+      "en": "One of the screws has come loose.",
+      "ja": "ねじの1本がゆるんでしまった。"
+    },
+    {
+      "source": "original",
+      "label": "だぶだぶの",
+      "en": "Wear loose clothes when you exercise.",
+      "ja": "運動するときはゆったりした服を着なさい。"
+    },
+    {
+      "source": "original",
+      "label": "break loose",
+      "en": "The dog broke loose and ran into the street.",
+      "ja": "犬は鎖をふりほどいて通りへ走り出た。"
+    },
+    {
+      "source": "original",
+      "label": "on the loose",
+      "en": "A dangerous criminal is still on the loose.",
+      "ja": "危険な犯人がまだ逃走中だ。"
+    },
+    {
+      "source": "original",
+      "label": "大まかな",
+      "en": "This is only a loose translation of the poem.",
+      "ja": "これはその詩の大まかな訳にすぎない。"
+    },
+    {
+      "source": "original",
+      "label": "lose との区別",
+      "en": "Don't lose your keys; your key ring is loose.",
+      "ja": "かぎをなくさないでね。キーホルダーがゆるんでいるよ。"
+    }
+  ],
+  "check_points": [
+    "loose と lose の意味・発音のちがいを言えるか",
+    "on the loose の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "lose とのつづり・発音の区別が問われる。come loose / break loose / on the loose が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 930
+    }
+  ]
+}

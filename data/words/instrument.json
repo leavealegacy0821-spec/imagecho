@@ -1,0 +1,98 @@
+{
+  "word": "instrument",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈɪnstrəmənt/",
+  "core_image": {
+    "text": "目的のために使う「道具」",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"50\" width=\"70\" height=\"70\"/><line x1=\"40\" y1=\"50\" x2=\"40\" y2=\"120\"/><line x1=\"52\" y1=\"50\" x2=\"52\" y2=\"120\"/><line x1=\"64\" y1=\"50\" x2=\"64\" y2=\"120\"/><line x1=\"76\" y1=\"50\" x2=\"76\" y2=\"120\"/><line x1=\"88\" y1=\"50\" x2=\"88\" y2=\"120\"/><circle cx=\"170\" cy=\"70\" r=\"24\"/><line x1=\"170\" y1=\"70\" x2=\"182\" y2=\"56\"/><line x1=\"170\" y1=\"94\" x2=\"170\" y2=\"120\"/><line x1=\"150\" y1=\"120\" x2=\"190\" y2=\"120\"/></g><text x=\"65\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">楽器</text><text x=\"170\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">計器</text></svg>"
+  },
+  "etymology": "in(上に) + struere(積み上げる・組み立てる) → instrumentum(組み立てた道具) → 道具・器具・計器 → (音を出す道具)楽器 → (目的を果たす)手段=an instrument of A → 形容詞 instrumental=役立つ・楽器の",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a tool used for a particular job, especially for scientific or medical work; an object used to make music; something used to achieve an aim."
+    }
+  ],
+  "cautions": [
+    "a (musical) instrument=楽器(play an instrument)",
+    "精密な道具・計器(medical instruments / scientific instruments)、tool より専門的",
+    "an instrument of [for] A=Aの手段(an instrument of change)",
+    "be instrumental in doing=〜するのに役立つ・大きな役割を果たす(長文頻出)"
+  ],
+  "patterns": [
+    {
+      "form": "a musical instrument",
+      "meaning": "楽器"
+    },
+    {
+      "form": "play an instrument",
+      "meaning": "楽器を演奏する"
+    },
+    {
+      "form": "medical instruments",
+      "meaning": "医療器具"
+    },
+    {
+      "form": "an instrument of A",
+      "meaning": "Aの手段"
+    },
+    {
+      "form": "be instrumental in A",
+      "meaning": "Aに大いに役立つ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "楽器",
+      "en": "Can you play any musical instruments?",
+      "ja": "何か楽器を演奏できますか。"
+    },
+    {
+      "source": "original",
+      "label": "器具",
+      "en": "The doctor cleaned his instruments carefully.",
+      "ja": "医師は器具を注意深く洗った。"
+    },
+    {
+      "source": "original",
+      "label": "計器",
+      "en": "The pilot checked the instruments before takeoff.",
+      "ja": "パイロットは離陸前に計器を確認した。"
+    },
+    {
+      "source": "original",
+      "label": "手段",
+      "en": "Language is an instrument of thought.",
+      "ja": "言語は思考の道具である。"
+    },
+    {
+      "source": "original",
+      "label": "instrumental",
+      "en": "She was instrumental in starting the new club.",
+      "ja": "彼女は新しい部を立ち上げるのに大きな役割を果たした。"
+    },
+    {
+      "source": "original",
+      "label": "手段",
+      "en": "Education can be a powerful instrument for change.",
+      "ja": "教育は変化をもたらす強力な手段になりうる。"
+    }
+  ],
+  "check_points": [
+    "instrument の「楽器」以外の意味を言えるか",
+    "be instrumental in doing の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "instrument(手段・器具)と be instrumental in doing が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 928
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "vehicle",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈviːəkəl/",
+  "core_image": {
+    "text": "何かを乗せて、運んでいくもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"50\" y=\"80\" width=\"140\" height=\"40\"/><polyline points=\"80,80 96,56 160,56 176,80\"/><circle cx=\"86\" cy=\"126\" r=\"12\"/><circle cx=\"160\" cy=\"126\" r=\"12\"/><line x1=\"196\" y1=\"100\" x2=\"226\" y2=\"100\"/><polyline points=\"219,96.2 226,100 219,103.8\"/></g><text x=\"120\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">運ぶもの</text></svg>"
+  },
+  "etymology": "ラテン語 vehere(運ぶ) → vehiculum(運ぶもの) → 乗り物・車両 → (考え・感情・情報を運ぶもの)伝達手段・表現の手段=a vehicle for A",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a machine such as a car, bus or truck that carries people or things; a way of expressing ideas or feelings."
+    }
+  ],
+  "cautions": [
+    "vehicle=車・バス・トラックなどをまとめた「車両」(car より広い堅い語)",
+    "a vehicle for A=Aを伝える手段・媒体(Art is a vehicle for expressing feelings.)",
+    "electric vehicles=電気自動車(EV)、motor vehicles=自動車",
+    "発音 /ˈviːəkəl/(h は読まない)"
+  ],
+  "patterns": [
+    {
+      "form": "a motor vehicle",
+      "meaning": "自動車"
+    },
+    {
+      "form": "an electric vehicle",
+      "meaning": "電気自動車"
+    },
+    {
+      "form": "a vehicle for A",
+      "meaning": "Aの伝達手段"
+    },
+    {
+      "form": "emergency vehicles",
+      "meaning": "緊急車両"
+    },
+    {
+      "form": "vehicle traffic",
+      "meaning": "車両の通行"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "車両",
+      "en": "No vehicles are allowed in this area.",
+      "ja": "この区域にはいかなる車両も入れない。"
+    },
+    {
+      "source": "original",
+      "label": "electric vehicle",
+      "en": "More people are buying electric vehicles these days.",
+      "ja": "最近は電気自動車を買う人が増えている。"
+    },
+    {
+      "source": "original",
+      "label": "emergency vehicles",
+      "en": "Emergency vehicles rushed to the scene.",
+      "ja": "緊急車両が現場に急行した。"
+    },
+    {
+      "source": "original",
+      "label": "a vehicle for",
+      "en": "Music can be a vehicle for expressing feelings.",
+      "ja": "音楽は気持ちを表す手段になりうる。"
+    },
+    {
+      "source": "original",
+      "label": "媒体",
+      "en": "Television was once the main vehicle for advertising.",
+      "ja": "テレビはかつて広告の主な媒体だった。"
+    },
+    {
+      "source": "original",
+      "label": "乗り物",
+      "en": "The man was arrested for stealing a vehicle.",
+      "ja": "その男は車を盗んだ罪で逮捕された。"
+    }
+  ],
+  "check_points": [
+    "a vehicle for A の意味を言えるか",
+    "vehicle と car のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で vehicle(車両)が出る。a vehicle for A(伝達手段)の意味も問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 929
+    }
+  ]
+}

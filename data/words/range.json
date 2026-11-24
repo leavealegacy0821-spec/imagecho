@@ -1,0 +1,103 @@
+{
+  "word": "range",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/reɪndʒ/",
+  "core_image": {
+    "text": "端から端まで、ずらりと並んで広がる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"20,140 50,80 70,110 100,56 130,104 160,70 190,112 220,140\"/><line x1=\"20\" y1=\"30\" x2=\"220\" y2=\"30\"/><line x1=\"20\" y1=\"22\" x2=\"20\" y2=\"38\"/><line x1=\"220\" y1=\"22\" x2=\"220\" y2=\"38\"/></g><text x=\"120\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">端から端まで</text></svg>"
+  },
+  "etymology": "古フランス語 ranger(列に並べる。rank と同じ根) → ずらりと並んだもの=山脈・品ぞろえ → (並びが届く)範囲・幅 → 動詞 range from A to B=AからBにわたる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the limits within which amounts or levels can vary; a set of different things of the same type; a line of mountains."
+    },
+    {
+      "pos": "動詞",
+      "text": "to vary between two limits; to include different things."
+    }
+  ],
+  "cautions": [
+    "range from A to B=AからBにわたる(長文・グラフ問題で最頻出)",
+    "a wide range of A=幅広いA(a wide variety of A に近い)",
+    "within [out of] range=範囲内[外]で、a mountain range=山脈",
+    "動詞は自動詞:Prices range from 10 to 50 dollars.(受け身にしない)"
+  ],
+  "patterns": [
+    {
+      "form": "range from A to B",
+      "meaning": "AからBにわたる"
+    },
+    {
+      "form": "a wide range of A",
+      "meaning": "幅広いA"
+    },
+    {
+      "form": "within range",
+      "meaning": "範囲内で"
+    },
+    {
+      "form": "a mountain range",
+      "meaning": "山脈"
+    },
+    {
+      "form": "the age range",
+      "meaning": "年齢の幅"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "range from A to B",
+      "en": "The students' ages range from 15 to 18.",
+      "ja": "生徒の年齢は15歳から18歳にわたる。"
+    },
+    {
+      "source": "original",
+      "label": "a wide range of",
+      "en": "The store sells a wide range of books.",
+      "ja": "その店は幅広い種類の本を売っている。"
+    },
+    {
+      "source": "original",
+      "label": "範囲",
+      "en": "This topic is beyond the range of our study.",
+      "ja": "この話題は私たちの研究の範囲外だ。"
+    },
+    {
+      "source": "original",
+      "label": "品ぞろえ",
+      "en": "The company has launched a new range of products.",
+      "ja": "その会社は新しい製品群を売り出した。"
+    },
+    {
+      "source": "original",
+      "label": "山脈",
+      "en": "We could see a mountain range in the distance.",
+      "ja": "遠くに山脈が見えた。"
+    },
+    {
+      "source": "original",
+      "label": "within range",
+      "en": "The ship came within range of the radar.",
+      "ja": "その船はレーダーの届く範囲に入った。"
+    }
+  ],
+  "check_points": [
+    "range from A to B の意味を言えるか",
+    "a wide range of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "range from A to B と a wide range of A が長文・グラフ問題・英作文で最頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 923
+    }
+  ]
+}

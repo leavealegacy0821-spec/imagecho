@@ -1,0 +1,103 @@
+{
+  "word": "branch",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/bræntʃ/",
+  "core_image": {
+    "text": "太い幹から、わかれて伸びた先",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"120\" y1=\"140\" x2=\"120\" y2=\"40\"/><line x1=\"120\" y1=\"100\" x2=\"60\" y2=\"60\"/><line x1=\"120\" y1=\"80\" x2=\"180\" y2=\"44\"/><line x1=\"90\" y1=\"80\" x2=\"72\" y2=\"90\"/><line x1=\"150\" y1=\"62\" x2=\"164\" y2=\"74\"/></g><text x=\"56\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">枝</text><text x=\"200\" y=\"96\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">わかれる</text></svg>"
+  },
+  "etymology": "後期ラテン語 branca(足・枝) → 木の枝 → (本体からわかれたもの)支店・支部・(学問の)分野・(川・道の)支流 → 動詞 枝分かれする=branch off / branch out",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a part of a tree that grows out from the main stem; an office or shop that is part of a larger organization; a part of a subject of study."
+    },
+    {
+      "pos": "動詞",
+      "text": "to divide into two or more parts; to start doing something new."
+    }
+  ],
+  "cautions": [
+    "a branch (office)=支店・支社(⇔ the head office=本社)",
+    "a branch of A=A(学問など)の一分野(a branch of science)",
+    "branch off=(道が)枝分かれする、branch out (into A)=(Aへ)手を広げる",
+    "「枝」だけで覚えると長文の「支店・分野」が取れない"
+  ],
+  "patterns": [
+    {
+      "form": "a branch office",
+      "meaning": "支店"
+    },
+    {
+      "form": "a branch of science",
+      "meaning": "科学の一分野"
+    },
+    {
+      "form": "branch off",
+      "meaning": "枝分かれする"
+    },
+    {
+      "form": "branch out into A",
+      "meaning": "Aへ手を広げる"
+    },
+    {
+      "form": "the branches of a tree",
+      "meaning": "木の枝"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "枝",
+      "en": "A bird was sitting on a branch of the tree.",
+      "ja": "1羽の鳥が木の枝にとまっていた。"
+    },
+    {
+      "source": "original",
+      "label": "支店",
+      "en": "The bank has branches all over the country.",
+      "ja": "その銀行は全国に支店がある。"
+    },
+    {
+      "source": "original",
+      "label": "分野",
+      "en": "Biology is a branch of science.",
+      "ja": "生物学は科学の一分野だ。"
+    },
+    {
+      "source": "original",
+      "label": "branch off",
+      "en": "The road branches off to the left here.",
+      "ja": "道はここで左に分かれている。"
+    },
+    {
+      "source": "original",
+      "label": "branch out",
+      "en": "The company branched out into online sales.",
+      "ja": "その会社はネット販売に手を広げた。"
+    },
+    {
+      "source": "original",
+      "label": "支部",
+      "en": "She works at the Osaka branch of the company.",
+      "ja": "彼女はその会社の大阪支社で働いている。"
+    }
+  ],
+  "check_points": [
+    "branch の「枝」以外の意味を2つ言えるか",
+    "branch out の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a branch of A(一分野)と branch(支店)が長文で、branch out が語彙で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 927
+    }
+  ]
+}

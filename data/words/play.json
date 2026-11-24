@@ -1,0 +1,107 @@
+{
+  "word": "play",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/pleɪ/",
+  "core_image": {
+    "text": "決まった場の中で、自由に動く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"24\" y1=\"104\" x2=\"24\" y2=\"140\"/><line x1=\"216\" y1=\"104\" x2=\"216\" y2=\"140\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"90\" y1=\"74\" x2=\"72\" y2=\"92\"/><line x1=\"90\" y1=\"74\" x2=\"110\" y2=\"64\"/><circle cx=\"160\" cy=\"52\" r=\"10\"/><line x1=\"160\" y1=\"62\" x2=\"160\" y2=\"106\"/><line x1=\"160\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"160\" y1=\"74\" x2=\"146\" y2=\"94\"/><line x1=\"160\" y1=\"74\" x2=\"176\" y2=\"94\"/><circle cx=\"126\" cy=\"50\" r=\"6\"/></g><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">場の中で動く</text></svg>"
+  },
+  "etymology": "古英語 plegan(すばやく動く・遊ぶ) → (決まった場で)自由に動く=遊ぶ・競技をする → (舞台で)演じる → (楽器を)奏でる → (場の中で)役割を果たす=play a role → (光・笑みが)ちらつく・動く",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to take part in a game or sport; to perform a part in a play or film; to make music with an instrument; to have an effect or a role."
+    },
+    {
+      "pos": "名詞",
+      "text": "a story written to be performed on a stage; activity for fun."
+    }
+  ],
+  "cautions": [
+    "play a role [part] in A=Aで役割を果たす(長文の最頻出表現)",
+    "スポーツは無冠詞 play tennis、楽器は the をつける play the piano",
+    "名詞 a play=劇・戯曲(「遊び」だけで覚えない)、play fair=正々堂々とやる",
+    "play down A=Aを軽く扱う、play a trick on A=Aにいたずらをする"
+  ],
+  "patterns": [
+    {
+      "form": "play a role in A",
+      "meaning": "Aで役割を果たす"
+    },
+    {
+      "form": "play tennis",
+      "meaning": "テニスをする(無冠詞)"
+    },
+    {
+      "form": "play the piano",
+      "meaning": "ピアノを弾く"
+    },
+    {
+      "form": "play the part of A",
+      "meaning": "Aの役を演じる"
+    },
+    {
+      "form": "play down A",
+      "meaning": "Aを軽く扱う"
+    },
+    {
+      "form": "play a trick on A",
+      "meaning": "Aにいたずらをする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "play a role",
+      "en": "Parents play an important role in their children's education.",
+      "ja": "親は子どもの教育で重要な役割を果たす。"
+    },
+    {
+      "source": "original",
+      "label": "競技をする",
+      "en": "We played soccer in the park after school.",
+      "ja": "私たちは放課後に公園でサッカーをした。"
+    },
+    {
+      "source": "original",
+      "label": "演奏する",
+      "en": "She has played the violin since she was five.",
+      "ja": "彼女は5歳のときからバイオリンを弾いている。"
+    },
+    {
+      "source": "original",
+      "label": "演じる",
+      "en": "He played the part of the king in the school play.",
+      "ja": "彼は学校の劇で王の役を演じた。"
+    },
+    {
+      "source": "original",
+      "label": "play down",
+      "en": "The government tried to play down the problem.",
+      "ja": "政府はその問題を小さく見せようとした。"
+    },
+    {
+      "source": "original",
+      "label": "play a trick on",
+      "en": "The children played a trick on their teacher.",
+      "ja": "子どもたちは先生にいたずらをした。"
+    }
+  ],
+  "check_points": [
+    "play a role in A の意味を言えるか",
+    "スポーツと楽器の冠詞のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "play a role [part] in A が長文・英作文で最頻出。名詞 play(劇)も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 921
+    }
+  ]
+}

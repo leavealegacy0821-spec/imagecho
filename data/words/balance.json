@@ -1,0 +1,107 @@
+{
+  "word": "balance",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈbæləns/",
+  "core_image": {
+    "text": "てんびんの両側が、つり合っている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"120\" y1=\"140\" x2=\"120\" y2=\"50\"/><polygon points=\"108,140 132,140 120,126\"/><line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"50\"/><line x1=\"50\" y1=\"50\" x2=\"40\" y2=\"84\"/><line x1=\"50\" y1=\"50\" x2=\"60\" y2=\"84\"/><line x1=\"36\" y1=\"84\" x2=\"64\" y2=\"84\"/><line x1=\"190\" y1=\"50\" x2=\"180\" y2=\"84\"/><line x1=\"190\" y1=\"50\" x2=\"200\" y2=\"84\"/><line x1=\"176\" y1=\"84\" x2=\"204\" y2=\"84\"/></g><text x=\"120\" y=\"32\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">つり合い</text></svg>"
+  },
+  "etymology": "bi(2つの) + lanx(皿) → 2枚皿のてんびん → つり合い・均衡・バランス → (帳簿の差し引き)残高・残り → (つり合いを保つ)動詞 バランスをとる・両立させる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a state in which things are equal or in the correct amounts; the ability to stand steadily; the amount of money in a bank account."
+    },
+    {
+      "pos": "動詞",
+      "text": "to keep something steady; to give equal importance to two things."
+    }
+  ],
+  "cautions": [
+    "lose one's balance=バランスを失う(よろける)、keep one's balance=バランスを保つ",
+    "balance A with [and] B=AとBを両立させる(balance work and family)",
+    "名詞 balance=残高(the balance of my account)、残り(the balance=残りの金額)",
+    "strike a balance between A and B=AとBのつり合いをとる、in the balance=どちらとも決まらずに"
+  ],
+  "patterns": [
+    {
+      "form": "lose one's balance",
+      "meaning": "バランスを失う"
+    },
+    {
+      "form": "balance A with B",
+      "meaning": "AとBを両立させる"
+    },
+    {
+      "form": "the balance between A and B",
+      "meaning": "AとBのつり合い"
+    },
+    {
+      "form": "strike a balance",
+      "meaning": "つり合いをとる"
+    },
+    {
+      "form": "a bank balance",
+      "meaning": "銀行の残高"
+    },
+    {
+      "form": "hang in the balance",
+      "meaning": "どちらとも決まらない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "lose one's balance",
+      "en": "I lost my balance and fell off the bike.",
+      "ja": "私はバランスを崩して自転車から落ちた。"
+    },
+    {
+      "source": "original",
+      "label": "つり合い",
+      "en": "It is important to keep a balance between work and rest.",
+      "ja": "仕事と休息のバランスを保つことが大切だ。"
+    },
+    {
+      "source": "original",
+      "label": "両立させる",
+      "en": "It is hard to balance club activities with schoolwork.",
+      "ja": "部活と勉強を両立させるのは難しい。"
+    },
+    {
+      "source": "original",
+      "label": "strike a balance",
+      "en": "We must strike a balance between growth and the environment.",
+      "ja": "成長と環境のつり合いをとらなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "残高",
+      "en": "I checked the balance of my bank account.",
+      "ja": "私は銀行口座の残高を確認した。"
+    },
+    {
+      "source": "original",
+      "label": "hang in the balance",
+      "en": "The future of the team hangs in the balance.",
+      "ja": "チームの将来はどちらに転ぶかわからない状態だ。"
+    }
+  ],
+  "check_points": [
+    "balance A with B の意味を言えるか",
+    "名詞 balance の「つり合い」以外の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "balance A with B(両立させる)と a balance between A and B が長文・英作文で頻出。「残高」も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 922
+    }
+  ]
+}

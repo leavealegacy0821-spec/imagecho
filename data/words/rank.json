@@ -1,0 +1,103 @@
+{
+  "word": "rank",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ræŋk/",
+  "core_image": {
+    "text": "上から下へ、順に並べた列",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"110\" width=\"40\" height=\"30\"/><rect x=\"100\" y=\"70\" width=\"40\" height=\"70\"/><rect x=\"160\" y=\"90\" width=\"40\" height=\"50\"/><line x1=\"120\" y1=\"56\" x2=\"120\" y2=\"40\"/><polyline points=\"112,48 120,40 128,48\"/></g><text x=\"60\" y=\"98\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">3位</text><text x=\"180\" y=\"78\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">2位</text></svg>"
+  },
+  "etymology": "古フランス語 renc(列。range と同じ根) → 横に並んだ列 → (上下に並べた列)地位・階級・順位 → 動詞 順位をつける・位置する → the ranks=一般の兵・一般の人々",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a position in an organization or a society; a position in a list that shows how good someone or something is."
+    },
+    {
+      "pos": "動詞",
+      "text": "to have a particular position in a list; to put people or things in order."
+    }
+  ],
+  "cautions": [
+    "rank+順位 / rank as A=〜位を占める・Aとして位置づけられる(Japan ranks third in the world.)",
+    "rank A as B=AをBと評価する、rank among A=Aの一つに数えられる",
+    "be ranked+順位(受け身でも同じ意味)、ranking=順位表",
+    "名詞 rank=地位・階級(people of high rank)、the rank and file=一般の人々"
+  ],
+  "patterns": [
+    {
+      "form": "rank first",
+      "meaning": "1位になる"
+    },
+    {
+      "form": "rank among A",
+      "meaning": "Aの一つに数えられる"
+    },
+    {
+      "form": "rank A as B",
+      "meaning": "AをBと評価する"
+    },
+    {
+      "form": "be ranked+順位",
+      "meaning": "〜位にランクされる"
+    },
+    {
+      "form": "of high rank",
+      "meaning": "高い地位の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "順位を占める",
+      "en": "Japan ranks third in the world in car production.",
+      "ja": "日本は自動車生産で世界3位だ。"
+    },
+    {
+      "source": "original",
+      "label": "rank among",
+      "en": "This book ranks among the best novels of the century.",
+      "ja": "この本は今世紀最高の小説の一つに数えられる。"
+    },
+    {
+      "source": "original",
+      "label": "be ranked",
+      "en": "Our school was ranked first in the city.",
+      "ja": "私たちの学校は市で1位にランクされた。"
+    },
+    {
+      "source": "original",
+      "label": "rank A as B",
+      "en": "Many people rank health as the most important thing in life.",
+      "ja": "多くの人が健康を人生で最も大切なものとみなしている。"
+    },
+    {
+      "source": "original",
+      "label": "地位",
+      "en": "He rose to the rank of general.",
+      "ja": "彼は将軍の地位まで昇った。"
+    },
+    {
+      "source": "original",
+      "label": "階級",
+      "en": "People of all ranks came to the festival.",
+      "ja": "あらゆる階層の人がその祭りに来た。"
+    }
+  ],
+  "check_points": [
+    "rank+順位 の意味を言えるか",
+    "rank among A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "rank+順位 / rank among A がグラフ問題・長文で頻出。名詞 rank(地位)も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 924
+    }
+  ]
+}
