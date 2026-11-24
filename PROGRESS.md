@@ -106,3 +106,10 @@
 - `scripts/pages-build.sh`:アプリに要るファイルだけを `public/` に集める(gen/ scripts/ *.md は出さない。検索よけの `_headers` 付き)。Cloudflare の設定は「ビルドコマンド `sh scripts/pages-build.sh`/出力ディレクトリ `public`/フレームワークなし」
 - public/ をスマホ幅で開いて確認:表示・オフライン表示ともエラー0件
 - 方針変更:本人が「リポジトリは秘密でなくてよい」と判断 → **GitHub Pages** で公開する(Cloudflare はやめ)。`.github/workflows/pages.yml` が main への push ごとに `scripts/pages-build.sh` で public/ を作って公開する。本人がリポジトリを Public にし、Settings → Pages の Source を「GitHub Actions」にする
+
+## 2026-11-24 公開した
+
+- リポジトリを Public にし、Pages(GitHub Actions)を有効化。**公開URL:https://leavealegacy0821-spec.github.io/imagecho/**
+- 980語が公開側に出ていることを確認(index.json 980語・各ページ 200)。main に push すると自動で反映
+- 1回目のデプロイは「artifact が見つからない」で失敗、再実行で成功(一時的なものと判断)。また落ちたら Actions で再実行
+- 未確認:iPhone 実機でのホーム画面追加・オフライン・読み上げ
