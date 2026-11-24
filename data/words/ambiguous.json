@@ -1,0 +1,98 @@
+{
+  "word": "ambiguous",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/æmˈbɪɡjuəs/",
+  "core_image": {
+    "text": "2つの方向へ、どちらにも取れる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"70\" y2=\"86\"/><line x1=\"85\" y1=\"90\" x2=\"165\" y2=\"50\"/><polyline points=\"157,49.7 165,50 160.4,56.6\"/><line x1=\"85\" y1=\"90\" x2=\"165\" y2=\"125\"/><polyline points=\"160.1,118.7 165,125 157,125.7\"/></g><text x=\"200\" y=\"92\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どっち?</text></svg>"
+  },
+  "etymology": "ambi(両方に。ambivalent と同じ) + ig(=ag 進む・動かす) → 両方へ進む → 2通り以上に取れる → あいまいな",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "having more than one possible meaning, so that it is not clear which is intended."
+    }
+  ],
+  "cautions": [
+    "ambiguous=2通り以上の意味に取れて、どれか決まらない",
+    "vague=全体がぼんやりしてはっきりしない(ambiguous とは別)",
+    "名詞 ambiguity=あいまいさ",
+    "ambiguous about A=Aについてあいまいな態度だ"
+  ],
+  "patterns": [
+    {
+      "form": "an ambiguous answer",
+      "meaning": "あいまいな答え"
+    },
+    {
+      "form": "an ambiguous sentence",
+      "meaning": "2通りに取れる文"
+    },
+    {
+      "form": "be ambiguous about A",
+      "meaning": "Aについてあいまいだ"
+    },
+    {
+      "form": "ambiguity",
+      "meaning": "あいまいさ"
+    },
+    {
+      "form": "unambiguous",
+      "meaning": "明確な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "あいまいな",
+      "en": "He gave an ambiguous answer to my question.",
+      "ja": "彼は私の質問にあいまいな答えをした。"
+    },
+    {
+      "source": "original",
+      "label": "2通りに取れる",
+      "en": "This sentence is ambiguous; it can be read in two ways.",
+      "ja": "この文はあいまいで、2通りに読める。"
+    },
+    {
+      "source": "original",
+      "label": "about A",
+      "en": "The minister was ambiguous about his plans.",
+      "ja": "大臣は自分の計画についてあいまいな態度をとった。"
+    },
+    {
+      "source": "original",
+      "label": "ambiguity",
+      "en": "Legal documents should avoid ambiguity.",
+      "ja": "法律文書はあいまいさを避けるべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "vague との違い",
+      "en": "His memory of the night was vague, but her words were simply ambiguous.",
+      "ja": "その夜の彼の記憶はぼんやりしていたが、彼女の言葉はただ2通りに取れるものだった。"
+    },
+    {
+      "source": "original",
+      "label": "unambiguous",
+      "en": "The rules must be clear and unambiguous.",
+      "ja": "規則は明確で、誤解の余地がないものでなければならない。"
+    }
+  ],
+  "check_points": [
+    "ambiguous と vague の違いを言えるか",
+    "名詞 ambiguity の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "評論文で「あいまいな」の意味と、vague との区別が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 969
+    }
+  ]
+}

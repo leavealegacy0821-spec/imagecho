@@ -1,0 +1,107 @@
+{
+  "word": "contact",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈkɑːntækt/",
+  "core_image": {
+    "text": "触れ合って、つながる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"120\" y2=\"84\"/><line x1=\"180\" y1=\"74\" x2=\"120\" y2=\"84\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><line x1=\"180\" y1=\"74\" x2=\"192\" y2=\"96\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">触れる</text></svg>"
+  },
+  "etymology": "con(共に) + tact(触れる。tactile と同じ) → 触れ合うこと → 接触 → 連絡・つきあい → (動詞)連絡をとる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the state of touching or communicating with someone or something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to communicate with someone by phone, email, letter, etc."
+    }
+  ],
+  "cautions": [
+    "動詞 contact は他動詞:contact A(×contact with A)。前置詞を入れるひっかけが頻出",
+    "名詞は with をとる:come into contact with A=Aと接触する、keep in contact with A=Aと連絡を保つ",
+    "lose contact with A=Aと連絡がとれなくなる",
+    "eye contact=視線を合わせること、contact lenses=コンタクトレンズ"
+  ],
+  "patterns": [
+    {
+      "form": "contact A",
+      "meaning": "Aに連絡する"
+    },
+    {
+      "form": "come into contact with A",
+      "meaning": "Aと接触する"
+    },
+    {
+      "form": "keep in contact with A",
+      "meaning": "Aと連絡を保つ"
+    },
+    {
+      "form": "lose contact with A",
+      "meaning": "Aと連絡が途絶える"
+    },
+    {
+      "form": "make contact with A",
+      "meaning": "Aと連絡をとる"
+    },
+    {
+      "form": "eye contact",
+      "meaning": "視線を合わせること"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "連絡する",
+      "en": "Please contact me if you have any questions.",
+      "ja": "質問があれば私に連絡してください。"
+    },
+    {
+      "source": "original",
+      "label": "come into contact",
+      "en": "The disease spreads when people come into contact with each other.",
+      "ja": "その病気は人どうしが接触すると広がる。"
+    },
+    {
+      "source": "original",
+      "label": "keep in contact",
+      "en": "We have kept in contact since we graduated.",
+      "ja": "卒業してから私たちは連絡を取り合っている。"
+    },
+    {
+      "source": "original",
+      "label": "lose contact",
+      "en": "I lost contact with him after he moved abroad.",
+      "ja": "彼が海外に引っ越してから連絡が途絶えた。"
+    },
+    {
+      "source": "original",
+      "label": "eye contact",
+      "en": "In some cultures, eye contact is considered rude.",
+      "ja": "文化によっては、目を合わせることは失礼だと考えられている。"
+    },
+    {
+      "source": "original",
+      "label": "接触",
+      "en": "Avoid direct contact with the chemical.",
+      "ja": "その薬品に直接触れないようにしなさい。"
+    }
+  ],
+  "check_points": [
+    "動詞 contact の後ろに with が要るかどうか言えるか",
+    "「Aと連絡を保つ」を英語で言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "動詞 contact に with を付けない語法が正誤問題で頻出。名詞の come into contact with も出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 961
+    }
+  ]
+}

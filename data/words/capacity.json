@@ -1,0 +1,98 @@
+{
+  "word": "capacity",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/kəˈpæsəti/",
+  "core_image": {
+    "text": "中に受け入れられる量",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"80\" y=\"60\" width=\"70\" height=\"80\"/><line x1=\"80\" y1=\"84\" x2=\"150\" y2=\"84\" stroke-dasharray=\"5 4\"/><line x1=\"115\" y1=\"10\" x2=\"115\" y2=\"50\"/><polyline points=\"118.8,43 115,50 111.2,43\"/><line x1=\"70\" y1=\"140\" x2=\"160\" y2=\"140\"/></g><text x=\"196\" y=\"88\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">入る量</text></svg>"
+  },
+  "etymology": "ラテン語 capere(取る・入れる。capable・capture と同じ) → 受け入れられる力 → 容量・収容力 → (能力を受け入れる力)能力 → (受け持つ)立場・資格",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the amount that something can contain or produce; the ability to do something; an official position."
+    }
+  ],
+  "cautions": [
+    "容量・収容力:The stadium has a capacity of 50,000.(capacity の数字は of で)",
+    "能力:capacity for A / capacity to do(ability に近い)",
+    "in one's capacity as A=Aの立場で・資格で",
+    "be filled to capacity / at full capacity=満員で・フル稼働で"
+  ],
+  "patterns": [
+    {
+      "form": "a capacity of 数",
+      "meaning": "〜の収容力"
+    },
+    {
+      "form": "capacity for A",
+      "meaning": "Aの能力"
+    },
+    {
+      "form": "capacity to do",
+      "meaning": "〜する能力"
+    },
+    {
+      "form": "in one's capacity as A",
+      "meaning": "Aの立場で"
+    },
+    {
+      "form": "be filled to capacity",
+      "meaning": "満員である"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "収容力",
+      "en": "The hall has a seating capacity of 2,000.",
+      "ja": "そのホールの座席数は2000だ。"
+    },
+    {
+      "source": "original",
+      "label": "満員",
+      "en": "The train was filled to capacity.",
+      "ja": "電車は満員だった。"
+    },
+    {
+      "source": "original",
+      "label": "能力 for",
+      "en": "Children have a great capacity for learning languages.",
+      "ja": "子どもは言語を学ぶすぐれた能力を持っている。"
+    },
+    {
+      "source": "original",
+      "label": "能力 to do",
+      "en": "Humans have the capacity to change their environment.",
+      "ja": "人間は環境を変える力を持っている。"
+    },
+    {
+      "source": "original",
+      "label": "立場",
+      "en": "He spoke in his capacity as chairman.",
+      "ja": "彼は議長の立場として話した。"
+    },
+    {
+      "source": "original",
+      "label": "フル稼働",
+      "en": "The factory is working at full capacity.",
+      "ja": "その工場はフル稼働している。"
+    }
+  ],
+  "check_points": [
+    "capacity の3つの意味(容量・能力・立場)を言えるか",
+    "in one's capacity as A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「収容力・能力・立場」の多義が長文で問われ、filled to capacity などの熟語も出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 962
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "fade",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/feɪd/",
+  "core_image": {
+    "text": "だんだん薄れて、消えていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"40\" cy=\"80\" r=\"22\"/><circle cx=\"100\" cy=\"80\" r=\"15\" stroke-dasharray=\"6 3\"/><circle cx=\"150\" cy=\"80\" r=\"9\" stroke-dasharray=\"3 4\"/><circle cx=\"190\" cy=\"80\" r=\"3\" stroke-dasharray=\"1 4\"/><line x1=\"30\" y1=\"125\" x2=\"205\" y2=\"125\"/><polyline points=\"198,121.2 205,125 198,128.8\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">薄れる</text></svg>"
+  },
+  "etymology": "古フランス語 fade(色のあせた・味気ない) → 色があせる → (光・音・記憶が)弱まる → 消えていく",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to slowly become less bright, strong, or clear, and then disappear."
+    }
+  ],
+  "cautions": [
+    "ふつう自動詞:The color faded.(色があせた)。主語が色・光・音・記憶・希望など",
+    "fade away / fade out=しだいに消えていく",
+    "fade from memory=記憶から薄れる",
+    "形容詞 faded=色あせた(faded jeans)"
+  ],
+  "patterns": [
+    {
+      "form": "fade away",
+      "meaning": "しだいに消える"
+    },
+    {
+      "form": "fade out",
+      "meaning": "(音・映像が)消えていく"
+    },
+    {
+      "form": "fade from A",
+      "meaning": "Aから薄れて消える"
+    },
+    {
+      "form": "faded",
+      "meaning": "色あせた"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "色があせる",
+      "en": "The colors of the poster have faded in the sun.",
+      "ja": "ポスターの色が日に当たってあせた。"
+    },
+    {
+      "source": "original",
+      "label": "音が消える",
+      "en": "The sound of the music slowly faded away.",
+      "ja": "音楽の音がゆっくりと消えていった。"
+    },
+    {
+      "source": "original",
+      "label": "記憶が薄れる",
+      "en": "My memories of that summer have begun to fade.",
+      "ja": "あの夏の記憶は薄れはじめた。"
+    },
+    {
+      "source": "original",
+      "label": "fade from",
+      "en": "The event soon faded from people's minds.",
+      "ja": "その出来事はすぐに人々の記憶から薄れた。"
+    },
+    {
+      "source": "original",
+      "label": "希望が消える",
+      "en": "Our hopes of winning faded in the second half.",
+      "ja": "後半で私たちの勝つ望みは消えていった。"
+    },
+    {
+      "source": "original",
+      "label": "faded",
+      "en": "He was wearing faded blue jeans.",
+      "ja": "彼は色あせたジーンズをはいていた。"
+    }
+  ],
+  "check_points": [
+    "fade の主語になるもの(色・音・記憶など)を言えるか",
+    "fade away の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で「(記憶・希望などが)薄れる」の意味が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 967
+    }
+  ]
+}

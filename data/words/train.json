@@ -1,0 +1,103 @@
+{
+  "word": "train",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/treɪn/",
+  "core_image": {
+    "text": "引っぱられて、後ろに長く続くもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"70\" y2=\"100\"/><line x1=\"40\" y1=\"74\" x2=\"28\" y2=\"96\"/><line x1=\"70\" y1=\"100\" x2=\"100\" y2=\"112\"/><rect x=\"100\" y=\"95\" width=\"45\" height=\"35\"/><rect x=\"155\" y=\"95\" width=\"45\" height=\"35\"/><line x1=\"145\" y1=\"112\" x2=\"155\" y2=\"112\"/><circle cx=\"112\" cy=\"135\" r=\"5\"/><circle cx=\"133\" cy=\"135\" r=\"5\"/><circle cx=\"167\" cy=\"135\" r=\"5\"/><circle cx=\"188\" cy=\"135\" r=\"5\"/></g><text x=\"150\" y=\"72\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">引っぱる</text></svg>"
+  },
+  "etymology": "ラテン語 trahere(引く。tractor・attract と同じ) → 古フランス語 trainer(引きずる) → 引っぱられて続くもの → 列車・(考えや出来事の)連続 → 引っぱって育てる → 訓練する・鍛える",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a line of connected railway cars; a series of connected events or thoughts."
+    },
+    {
+      "pos": "動詞",
+      "text": "to teach a person or animal the skills for a job or activity; to practise to prepare for something."
+    }
+  ],
+  "cautions": [
+    "train A to do=Aを〜するよう訓練する/train A in B=AにBを仕込む",
+    "自動詞 train for A=Aに向けてトレーニングする",
+    "a train of thought=一連の考え(列車ではない)",
+    "trainer=訓練する人、trainee=訓練を受ける人(-ee=〜される人)"
+  ],
+  "patterns": [
+    {
+      "form": "train A to do",
+      "meaning": "Aを〜するよう訓練する"
+    },
+    {
+      "form": "train A in B",
+      "meaning": "AにBを訓練する"
+    },
+    {
+      "form": "train for A",
+      "meaning": "Aに向けて練習する"
+    },
+    {
+      "form": "be trained as A",
+      "meaning": "Aとして訓練を受ける"
+    },
+    {
+      "form": "a train of thought",
+      "meaning": "一連の考え"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "列車",
+      "en": "I missed the last train last night.",
+      "ja": "昨夜は終電に乗り遅れた。"
+    },
+    {
+      "source": "original",
+      "label": "train A to do",
+      "en": "The dog was trained to find missing people.",
+      "ja": "その犬は行方不明の人を見つけるよう訓練された。"
+    },
+    {
+      "source": "original",
+      "label": "train A in B",
+      "en": "The staff are trained in first aid.",
+      "ja": "職員は応急手当の訓練を受けている。"
+    },
+    {
+      "source": "original",
+      "label": "train for",
+      "en": "She is training hard for the marathon.",
+      "ja": "彼女はマラソンに向けて懸命に練習している。"
+    },
+    {
+      "source": "original",
+      "label": "be trained as",
+      "en": "He was trained as a doctor in Germany.",
+      "ja": "彼はドイツで医師としての訓練を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "考えの連続",
+      "en": "The phone call interrupted my train of thought.",
+      "ja": "電話で考えの流れがとぎれた。"
+    }
+  ],
+  "check_points": [
+    "a train of thought の意味を言えるか",
+    "trainee と trainer の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "動詞「訓練する」の語法 train A to do と、a train of thought(一連の考え)が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 964
+    }
+  ]
+}

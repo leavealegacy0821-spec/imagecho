@@ -1,0 +1,103 @@
+{
+  "word": "minor",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/ˈmaɪnər/",
+  "core_image": {
+    "text": "2つ並べたうちの、小さいほう",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"50\" width=\"60\" height=\"90\"/><rect x=\"150\" y=\"110\" width=\"30\" height=\"30\"/><line x1=\"120\" y1=\"100\" x2=\"142\" y2=\"118\"/><polyline points=\"139,110.6 142,118 134.1,116.5\"/></g><text x=\"70\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">大きいほう</text><text x=\"165\" y=\"96\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">小さいほう</text></svg>"
+  },
+  "etymology": "ラテン語 minor(より小さい。minus・minimum と同じ) → 小さいほうの → 重要でない・軽い → (大人より小さい)未成年者 → major(大きいほうの)の反対",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "small and not very important or serious."
+    },
+    {
+      "pos": "名詞",
+      "text": "a person who is too young to be legally an adult."
+    }
+  ],
+  "cautions": [
+    "もとは比較級だが than はとらない(×minor than)。major も同じ",
+    "a minor problem / minor injury=ちょっとした問題/軽いけが",
+    "名詞 a minor=未成年者",
+    "名詞 minority=少数派(⇔ majority=大多数)"
+  ],
+  "patterns": [
+    {
+      "form": "a minor problem",
+      "meaning": "小さな問題"
+    },
+    {
+      "form": "a minor injury",
+      "meaning": "軽いけが"
+    },
+    {
+      "form": "a minor",
+      "meaning": "未成年者"
+    },
+    {
+      "form": "minority",
+      "meaning": "少数派"
+    },
+    {
+      "form": "major and minor",
+      "meaning": "重要なものとそうでないもの"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "軽い",
+      "en": "He suffered only minor injuries in the accident.",
+      "ja": "彼はその事故で軽いけがをしただけだった。"
+    },
+    {
+      "source": "original",
+      "label": "小さな",
+      "en": "We need to make a few minor changes to the plan.",
+      "ja": "計画に少し手直しが必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "重要でない",
+      "en": "The actor played a minor role in the film.",
+      "ja": "その俳優は映画で端役を演じた。"
+    },
+    {
+      "source": "original",
+      "label": "未成年者",
+      "en": "Selling alcohol to minors is against the law.",
+      "ja": "未成年者に酒を売ることは法律違反だ。"
+    },
+    {
+      "source": "original",
+      "label": "minority",
+      "en": "Only a minority of students agreed with the idea.",
+      "ja": "その考えに賛成した生徒は少数だった。"
+    },
+    {
+      "source": "original",
+      "label": "major と対",
+      "en": "Some changes are major, and others are minor.",
+      "ja": "大きな変化もあれば、小さな変化もある。"
+    }
+  ],
+  "check_points": [
+    "名詞 a minor の意味を言えるか",
+    "minority の反対語を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "minor injury などの「軽い・小さい」と、名詞「未成年者」、minority が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 963
+    }
+  ]
+}
