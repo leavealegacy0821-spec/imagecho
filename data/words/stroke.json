@@ -1,0 +1,104 @@
+{
+  "word": "stroke",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/stroʊk/",
+  "core_image": {
+    "text": "腕をひと振り、さっと動かすひと打ち",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"100\" y2=\"56\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><path d=\"M110 40 Q160 30 210 60\"/><path d=\"M110 70 Q160 60 210 90\"/></g><text x=\"160\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さっとひと振り</text></svg>"
+  },
+  "etymology": "strike(打つ)と同じ根 → 腕をさっと動かすひと打ち → (ペン・筆の)一筆・画数/(水泳の)ひとかき/(時計の)打つ音 → 突然打たれる=脳卒中 → a stroke of luck=思いがけない幸運 → (手をさっと動かして)なでる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a sudden illness in the brain; one movement of the arm or a pen; a hit; a sudden piece of luck."
+    },
+    {
+      "pos": "動詞",
+      "text": "to move your hand gently over something, again and again."
+    }
+  ],
+  "cautions": [
+    "have [suffer] a stroke=脳卒中を起こす(医療の長文で頻出。「打撃」と訳さない)",
+    "a stroke of luck [genius]=思いがけない幸運[天才的なひらめき]",
+    "at a [one] stroke=一挙に/on the stroke of ten=10時きっかりに",
+    "動詞 stroke=なでる(strike=打つとの違いに注意)"
+  ],
+  "patterns": [
+    {
+      "form": "have a stroke",
+      "meaning": "脳卒中を起こす"
+    },
+    {
+      "form": "a stroke of luck",
+      "meaning": "思いがけない幸運"
+    },
+    {
+      "form": "at a stroke",
+      "meaning": "一挙に"
+    },
+    {
+      "form": "on the stroke of A",
+      "meaning": "A時きっかりに"
+    },
+    {
+      "form": "stroke A",
+      "meaning": "Aをなでる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "脳卒中",
+      "en": "My grandfather had a stroke last year and is still in the hospital.",
+      "ja": "祖父は昨年脳卒中で倒れ、まだ入院している。"
+    },
+    {
+      "source": "original",
+      "label": "幸運",
+      "en": "Finding the lost ring was a real stroke of luck.",
+      "ja": "なくした指輪が見つかったのは本当に幸運だった。"
+    },
+    {
+      "source": "original",
+      "label": "一挙に",
+      "en": "The new law solved several problems at a stroke.",
+      "ja": "その新しい法律は一挙にいくつもの問題を解決した。"
+    },
+    {
+      "source": "original",
+      "label": "画",
+      "en": "This kanji has fifteen strokes.",
+      "ja": "この漢字は15画だ。"
+    },
+    {
+      "source": "original",
+      "label": "ひとかき",
+      "en": "She swam across the pool with long, smooth strokes.",
+      "ja": "彼女は長くなめらかなひとかきでプールを泳ぎ切った。"
+    },
+    {
+      "source": "original",
+      "label": "なでる",
+      "en": "The girl gently stroked the cat's back.",
+      "ja": "少女はそっと猫の背中をなでた。"
+    }
+  ],
+  "check_points": [
+    "have a stroke の意味を言えるか",
+    "a stroke of luck の意味を言えるか",
+    "動詞 stroke の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "脳卒中(have a stroke)、a stroke of luck、なでる、が長文・語彙で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1029
+    }
+  ]
+}

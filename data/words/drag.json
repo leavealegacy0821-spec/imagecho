@@ -1,0 +1,103 @@
+{
+  "word": "drag",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/dræɡ/",
+  "core_image": {
+    "text": "重いものを、地面にこすって引きずる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"130\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"52\" y2=\"90\"/><rect x=\"134\" y=\"104\" width=\"60\" height=\"36\"/><line x1=\"200\" y1=\"132\" x2=\"224\" y2=\"132\"/><line x1=\"200\" y1=\"122\" x2=\"218\" y2=\"122\"/></g><text x=\"164\" y=\"82\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">引きずる</text></svg>"
+  },
+  "etymology": "古い英語 dragan(引く。draw と同じ根) → 重いものを地面にこすって引く → 引きずる・(人を)無理やり連れて行く → (時間が)だらだら長引く → (マウスで)ドラッグする → (名詞)足を引っ張るもの・退屈なもの",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to pull something heavy along the ground; to make someone go somewhere they do not want to go; (of time or an event) to seem to go very slowly."
+    },
+    {
+      "pos": "名詞",
+      "text": "something that makes progress slower; something boring."
+    }
+  ],
+  "cautions": [
+    "drag A into B=AをB(争い・問題)に巻き込む",
+    "自動詞 drag (on)=(会議・時間が)だらだら長引く(The meeting dragged on.)",
+    "drag oneself=重い体を引きずるように行く(drag oneself out of bed)",
+    "名詞 a drag=退屈なこと・面倒なこと/a drag on A=Aの足を引っ張るもの"
+  ],
+  "patterns": [
+    {
+      "form": "drag A",
+      "meaning": "Aを引きずる"
+    },
+    {
+      "form": "drag A into B",
+      "meaning": "AをBに巻き込む"
+    },
+    {
+      "form": "drag on",
+      "meaning": "だらだら長引く"
+    },
+    {
+      "form": "drag oneself to A",
+      "meaning": "重い足どりでAへ行く"
+    },
+    {
+      "form": "a drag on A",
+      "meaning": "Aの足かせ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "引きずる",
+      "en": "He dragged the heavy box across the floor.",
+      "ja": "彼は重い箱を床の上で引きずった。"
+    },
+    {
+      "source": "original",
+      "label": "無理やり連れて行く",
+      "en": "My mother dragged me to the dentist.",
+      "ja": "母は私を無理やり歯医者へ連れて行った。"
+    },
+    {
+      "source": "original",
+      "label": "巻き込む",
+      "en": "I don't want to be dragged into their argument.",
+      "ja": "彼らの口論に巻き込まれたくない。"
+    },
+    {
+      "source": "original",
+      "label": "長引く",
+      "en": "The meeting dragged on for four hours.",
+      "ja": "会議はだらだらと4時間も続いた。"
+    },
+    {
+      "source": "original",
+      "label": "重い足どりで",
+      "en": "She dragged herself out of bed on Monday morning.",
+      "ja": "月曜の朝、彼女はやっとの思いでベッドから出た。"
+    },
+    {
+      "source": "original",
+      "label": "足かせ",
+      "en": "High taxes are a drag on the economy.",
+      "ja": "高い税金は経済の足かせになっている。"
+    }
+  ],
+  "check_points": [
+    "drag on の意味を言えるか",
+    "drag A into B の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "drag on(長引く)、drag A into B(巻き込む)が長文・会話で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1025
+    }
+  ]
+}

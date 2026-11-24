@@ -1,0 +1,103 @@
+{
+  "word": "trail",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/treɪl/",
+  "core_image": {
+    "text": "通ったあとに、跡が後ろへ長く引く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"178\" y2=\"96\"/><line x1=\"190\" y1=\"74\" x2=\"202\" y2=\"96\"/><ellipse cx=\"150\" cy=\"134\" rx=\"6\" ry=\"3\"/><ellipse cx=\"120\" cy=\"134\" rx=\"6\" ry=\"3\"/><ellipse cx=\"90\" cy=\"134\" rx=\"6\" ry=\"3\"/><ellipse cx=\"60\" cy=\"134\" rx=\"6\" ry=\"3\"/><ellipse cx=\"30\" cy=\"134\" rx=\"6\" ry=\"3\"/></g><text x=\"90\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あとに残る跡</text></svg>"
+  },
+  "etymology": "古いフランス語 trailler(引きずる) → 後ろに長く引きずる → 通ったあとの跡・足跡 → 跡がついてできた小道 → 跡をたどる・追跡する → (後ろに引きずられて)遅れをとる・負けている",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a series of marks or signs left by someone or something; a path through the countryside."
+    },
+    {
+      "pos": "動詞",
+      "text": "to follow someone by looking at the marks they left; to be behind someone in a game or competition; to pull something behind you."
+    }
+  ],
+  "cautions": [
+    "trail (behind) A=Aに負けている・遅れをとる(We trailed 2-0.=2対0で負けていた)",
+    "be on the trail of A=Aを追跡中だ/leave a trail of A=Aの跡を残す",
+    "名詞 trail=(山の)小道(hiking trail)",
+    "trailer=後ろに引くもの → トレーラー・(映画の)予告編"
+  ],
+  "patterns": [
+    {
+      "form": "a trail of A",
+      "meaning": "Aの跡"
+    },
+    {
+      "form": "be on the trail of A",
+      "meaning": "Aを追跡中だ"
+    },
+    {
+      "form": "trail A",
+      "meaning": "Aの跡をたどる"
+    },
+    {
+      "form": "trail (behind) A",
+      "meaning": "Aに負けている"
+    },
+    {
+      "form": "a hiking trail",
+      "meaning": "ハイキングの小道"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "跡",
+      "en": "The injured deer left a trail of blood in the snow.",
+      "ja": "けがをしたシカは雪の上に血の跡を残した。"
+    },
+    {
+      "source": "original",
+      "label": "追跡中",
+      "en": "The police are on the trail of the missing man.",
+      "ja": "警察は行方不明の男を追跡している。"
+    },
+    {
+      "source": "original",
+      "label": "小道",
+      "en": "We walked along a narrow trail through the forest.",
+      "ja": "私たちは森を抜ける細い小道を歩いた。"
+    },
+    {
+      "source": "original",
+      "label": "負けている",
+      "en": "Our team was trailing by two goals at half time.",
+      "ja": "前半を終えて私たちのチームは2点負けていた。"
+    },
+    {
+      "source": "original",
+      "label": "引きずる",
+      "en": "Her long dress trailed on the floor.",
+      "ja": "彼女の長いドレスが床に引きずられていた。"
+    },
+    {
+      "source": "original",
+      "label": "予告編",
+      "en": "I watched the trailer for the new movie.",
+      "ja": "新作映画の予告編を見た。"
+    }
+  ],
+  "check_points": [
+    "trail が「負けている」の意味になることがわかるか",
+    "be on the trail of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「跡」「小道」「(試合で)負けている」の訳し分けが長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1030
+    }
+  ]
+}

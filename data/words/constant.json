@@ -1,0 +1,103 @@
+{
+  "word": "constant",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/ˈkɑːnstənt/",
+  "core_image": {
+    "text": "しっかり立ったまま、ずっと変わらない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"20\" y1=\"80\" x2=\"220\" y2=\"80\"/><line x1=\"40\" y1=\"74\" x2=\"40\" y2=\"86\"/><line x1=\"80\" y1=\"74\" x2=\"80\" y2=\"86\"/><line x1=\"120\" y1=\"74\" x2=\"120\" y2=\"86\"/><line x1=\"160\" y1=\"74\" x2=\"160\" y2=\"86\"/><line x1=\"200\" y1=\"74\" x2=\"200\" y2=\"86\"/></g><text x=\"120\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ずっと同じ</text></svg>"
+  },
+  "etymology": "con(すっかり)+stant(立っている。stand・stable と同じ根) → しっかり立ったまま動かない → 一定の・変わらない → (途切れずに)絶え間ない・しょっちゅうの → (心が変わらない)誠実な",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "happening all the time or again and again; staying the same; (old use) loyal."
+    },
+    {
+      "pos": "名詞",
+      "text": "a number or amount that never changes."
+    }
+  ],
+  "cautions": [
+    "2つの意味:「一定の(変わらない)」a constant speed と「絶え間ない」constant noise。文脈で訳し分ける",
+    "constantly=絶えず・しょっちゅう(always とほぼ同じ。進行形と使うと不満の響き)",
+    "反対は variable(変わりやすい)。名詞 constant は数学・理科の「定数」",
+    "be in constant contact with A=Aと絶えず連絡をとっている"
+  ],
+  "patterns": [
+    {
+      "form": "a constant speed",
+      "meaning": "一定の速さ"
+    },
+    {
+      "form": "constant noise",
+      "meaning": "絶え間ない騒音"
+    },
+    {
+      "form": "be in constant contact with A",
+      "meaning": "Aと絶えず連絡をとる"
+    },
+    {
+      "form": "constantly",
+      "meaning": "絶えず・しょっちゅう"
+    },
+    {
+      "form": "remain constant",
+      "meaning": "一定のままだ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "一定の",
+      "en": "The car moved at a constant speed of 60 kilometers per hour.",
+      "ja": "車は時速60キロの一定の速さで走った。"
+    },
+    {
+      "source": "original",
+      "label": "一定のまま",
+      "en": "The temperature in the room remained constant.",
+      "ja": "部屋の温度は一定のままだった。"
+    },
+    {
+      "source": "original",
+      "label": "絶え間ない",
+      "en": "I couldn't sleep because of the constant noise from the road.",
+      "ja": "道路からの絶え間ない騒音で眠れなかった。"
+    },
+    {
+      "source": "original",
+      "label": "絶えず",
+      "en": "We are in constant contact with our staff abroad.",
+      "ja": "私たちは海外のスタッフと絶えず連絡をとっている。"
+    },
+    {
+      "source": "original",
+      "label": "しょっちゅう",
+      "en": "He is constantly complaining about his job.",
+      "ja": "彼はしょっちゅう仕事の文句を言っている。"
+    },
+    {
+      "source": "original",
+      "label": "定数",
+      "en": "The speed of light is a constant.",
+      "ja": "光の速さは定数である。"
+    }
+  ],
+  "check_points": [
+    "constant の2つの意味(一定の/絶え間ない)を言えるか",
+    "constantly の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「一定の」と「絶え間ない」の訳し分け、constantly が長文・言い換えで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1023
+    }
+  ]
+}

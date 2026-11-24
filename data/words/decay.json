@@ -1,0 +1,103 @@
+{
+  "word": "decay",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/dɪˈkeɪ/",
+  "core_image": {
+    "text": "形あるものが、少しずつ崩れて落ちていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"60\" width=\"40\" height=\"80\"/><polyline points=\"110,140 110,78 124,70 136,84 150,76 150,140\"/><polyline points=\"190,140 190,110 200,118 214,106 214,140\"/><line x1=\"220\" y1=\"140\" x2=\"224\" y2=\"132\"/><line x1=\"80\" y1=\"44\" x2=\"200\" y2=\"80\"/><polyline points=\"194.4,74.3 200,80 192.2,81.7\"/></g><text x=\"120\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">少しずつ崩れる</text></svg>"
+  },
+  "etymology": "de(下へ)+cay(落ちる。case・accident の cid/cas と同じ根) → 下へ落ちていく → 腐る・朽ちる・虫歯になる → (力・質・建物・社会が)衰える・衰退する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be slowly destroyed by natural processes; to become gradually weaker or worse."
+    },
+    {
+      "pos": "名詞",
+      "text": "the process of decaying; the gradual loss of strength or quality."
+    }
+  ],
+  "cautions": [
+    "自動詞が基本(The fruit decayed.)。「腐らせる」と他動詞で使うことは少ない",
+    "tooth decay=虫歯(不可算)/fall into decay=荒れ果てる・衰える",
+    "食べ物だけでなく、建物・町・社会・道徳が「衰える」意味でも使う(urban decay=都市の荒廃)",
+    "rot は「腐る」の日常語。decay は少しずつ進む自然の過程を強調する"
+  ],
+  "patterns": [
+    {
+      "form": "A decays",
+      "meaning": "Aが腐る・朽ちる"
+    },
+    {
+      "form": "tooth decay",
+      "meaning": "虫歯"
+    },
+    {
+      "form": "fall into decay",
+      "meaning": "荒れ果てる・衰える"
+    },
+    {
+      "form": "the decay of A",
+      "meaning": "Aの衰退"
+    },
+    {
+      "form": "decayed teeth",
+      "meaning": "虫歯"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "腐る",
+      "en": "Fallen leaves decay and make the soil rich.",
+      "ja": "落ち葉は朽ちて土を豊かにする。"
+    },
+    {
+      "source": "original",
+      "label": "虫歯",
+      "en": "Eating too much sugar can cause tooth decay.",
+      "ja": "砂糖をとりすぎると虫歯になることがある。"
+    },
+    {
+      "source": "original",
+      "label": "荒れ果てる",
+      "en": "The old castle has fallen into decay.",
+      "ja": "その古い城は荒れ果ててしまった。"
+    },
+    {
+      "source": "original",
+      "label": "衰える",
+      "en": "His memory began to decay as he grew old.",
+      "ja": "年をとるにつれて彼の記憶は衰え始めた。"
+    },
+    {
+      "source": "original",
+      "label": "衰退",
+      "en": "Some historians blame the decay of the empire on its leaders.",
+      "ja": "その帝国の衰退を指導者のせいにする歴史家もいる。"
+    },
+    {
+      "source": "original",
+      "label": "朽ちる",
+      "en": "The wooden bridge had decayed and was not safe.",
+      "ja": "木の橋は朽ちていて危なかった。"
+    }
+  ],
+  "check_points": [
+    "tooth decay の意味を言えるか",
+    "decay が社会や建物にも使えることがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "tooth decay、fall into decay、社会の衰退が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1024
+    }
+  ]
+}

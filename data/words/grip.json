@@ -1,0 +1,107 @@
+{
+  "word": "grip",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ɡrɪp/",
+  "core_image": {
+    "text": "手でぎゅっと握って、離さない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"80\" y1=\"74\" x2=\"130\" y2=\"64\"/><line x1=\"80\" y1=\"74\" x2=\"68\" y2=\"96\"/><circle cx=\"134\" cy=\"64\" r=\"7\"/><line x1=\"141\" y1=\"64\" x2=\"210\" y2=\"64\"/><line x1=\"210\" y1=\"64\" x2=\"210\" y2=\"140\"/></g><text x=\"176\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぎゅっと握る</text></svg>"
+  },
+  "etymology": "古い英語 gripe(つかむこと。grasp・grab と近い) → ぎゅっと握ること → 握力・つかむ力 → (状況・感情を)しっかり把握する力・支配 → (恐怖・関心が人を)とらえて離さない",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a tight hold on something; control or power over something; an understanding of something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to hold something tightly; to have a strong effect on someone or keep their attention."
+    }
+  ],
+  "cautions": [
+    "get [keep] a grip on A=Aをしっかりつかむ/Aを把握する・自分を抑える(Get a grip!=しっかりしろ)",
+    "be in the grip of A=A(不況・恐怖など)に支配されている",
+    "come to grips with A=A(問題)に本気で取り組む(get to grips with A も同じ)",
+    "動詞 grip=(話・恐怖が)人の心をとらえる(a gripping story=引き込まれる話)"
+  ],
+  "patterns": [
+    {
+      "form": "grip A",
+      "meaning": "Aをぎゅっと握る"
+    },
+    {
+      "form": "get a grip on A",
+      "meaning": "Aを把握する・抑える"
+    },
+    {
+      "form": "lose one's grip on A",
+      "meaning": "Aを制御できなくなる"
+    },
+    {
+      "form": "be in the grip of A",
+      "meaning": "Aに支配されている"
+    },
+    {
+      "form": "come to grips with A",
+      "meaning": "Aに取り組む"
+    },
+    {
+      "form": "gripping",
+      "meaning": "引き込まれる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ぎゅっと握る",
+      "en": "The child gripped her mother's hand tightly.",
+      "ja": "その子は母親の手をぎゅっと握った。"
+    },
+    {
+      "source": "original",
+      "label": "握り",
+      "en": "Keep a firm grip on the rope.",
+      "ja": "ロープをしっかり握っていなさい。"
+    },
+    {
+      "source": "original",
+      "label": "把握する",
+      "en": "I finally got a grip on how the system works.",
+      "ja": "ようやくその仕組みが把握できた。"
+    },
+    {
+      "source": "original",
+      "label": "支配されて",
+      "en": "The country was in the grip of a severe recession.",
+      "ja": "その国は深刻な不況に見舞われていた。"
+    },
+    {
+      "source": "original",
+      "label": "取り組む",
+      "en": "We must come to grips with the problem of an aging society.",
+      "ja": "私たちは高齢化社会の問題に本気で取り組まなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "とらえる",
+      "en": "Fear gripped the people in the dark streets.",
+      "ja": "暗い通りで人々は恐怖にとらわれた。"
+    }
+  ],
+  "check_points": [
+    "come to grips with A の意味を言えるか",
+    "be in the grip of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "get a grip on、come to grips with、be in the grip of が長文・熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1027
+    }
+  ]
+}

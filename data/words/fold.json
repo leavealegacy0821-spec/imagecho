@@ -1,0 +1,103 @@
+{
+  "word": "fold",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/foʊld/",
+  "core_image": {
+    "text": "広がったものを、重ねて内側へたたむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"50\" width=\"70\" height=\"60\"/><line x1=\"65\" y1=\"50\" x2=\"65\" y2=\"110\"/><line x1=\"108\" y1=\"80\" x2=\"146\" y2=\"80\"/><polyline points=\"139,76.2 146,80 139,83.8\"/><rect x=\"160\" y=\"50\" width=\"35\" height=\"60\"/><line x1=\"166\" y1=\"56\" x2=\"189\" y2=\"56\"/></g><text x=\"128\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">重ねてたたむ</text></svg>"
+  },
+  "etymology": "古い英語 fealdan(たたむ。-fold=〜倍 も同じ根) → 布や紙を重ねてたたむ → (腕を)組む・(手を)合わせる → (たたんで)包む → (店・事業を)たたむ=つぶれる → -fold=〜重・〜倍(twofold)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to bend something so that one part covers another; to cross your arms; (of a business) to close because it is not successful."
+    },
+    {
+      "pos": "名詞",
+      "text": "a line or part made by folding something."
+    }
+  ],
+  "cautions": [
+    "fold one's arms=腕を組む(cross one's arms とも)/fold one's hands=手を組む",
+    "自動詞 fold=(事業・店が)つぶれる(=go out of business)。長文でよく出る",
+    "-fold=〜倍・〜重(a threefold increase=3倍の増加)",
+    "unfold=広げる・(話・出来事が)展開する"
+  ],
+  "patterns": [
+    {
+      "form": "fold A (in half)",
+      "meaning": "Aを(半分に)折る"
+    },
+    {
+      "form": "fold one's arms",
+      "meaning": "腕を組む"
+    },
+    {
+      "form": "fold A in B",
+      "meaning": "AをBで包む"
+    },
+    {
+      "form": "A folds",
+      "meaning": "A(事業)がつぶれる"
+    },
+    {
+      "form": "-fold",
+      "meaning": "〜倍・〜重"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "折る",
+      "en": "Fold the paper in half and cut along the line.",
+      "ja": "紙を半分に折って線に沿って切りなさい。"
+    },
+    {
+      "source": "original",
+      "label": "たたむ",
+      "en": "She folded the clothes and put them in the drawer.",
+      "ja": "彼女は服をたたんで引き出しにしまった。"
+    },
+    {
+      "source": "original",
+      "label": "腕を組む",
+      "en": "He stood with his arms folded and said nothing.",
+      "ja": "彼は腕を組んで立ったまま何も言わなかった。"
+    },
+    {
+      "source": "original",
+      "label": "つぶれる",
+      "en": "The small company folded after only two years.",
+      "ja": "その小さな会社はわずか2年でつぶれた。"
+    },
+    {
+      "source": "original",
+      "label": "〜倍",
+      "en": "There has been a threefold increase in the number of tourists.",
+      "ja": "観光客の数が3倍に増えた。"
+    },
+    {
+      "source": "original",
+      "label": "展開する",
+      "en": "We watched the story unfold on TV.",
+      "ja": "私たちはその出来事が展開していくのをテレビで見ていた。"
+    }
+  ],
+  "check_points": [
+    "自動詞 fold(つぶれる)の意味を言えるか",
+    "-fold(〜倍)の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "fold one's arms、事業が fold する、-fold(〜倍)、unfold が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1026
+    }
+  ]
+}

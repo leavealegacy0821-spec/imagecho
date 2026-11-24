@@ -1,0 +1,94 @@
+{
+  "word": "cite",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/saɪt/",
+  "core_image": {
+    "text": "証拠として、名前を呼び出して示す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"100\" y2=\"62\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><rect x=\"150\" y=\"40\" width=\"60\" height=\"76\"/><line x1=\"160\" y1=\"58\" x2=\"200\" y2=\"58\"/><line x1=\"160\" y1=\"74\" x2=\"200\" y2=\"74\"/><line x1=\"160\" y1=\"90\" x2=\"190\" y2=\"90\"/><line x1=\"104\" y1=\"62\" x2=\"144\" y2=\"62\"/><polyline points=\"137,58.2 144,62 137,65.8\"/></g><text x=\"120\" y=\"132\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">引き合いに出す</text></svg>"
+  },
+  "etymology": "ラテン語 citare(呼び出す・動かす。excite・recite と同じ根) → 呼び出して前に出す → (言葉・文献を)引用する → (例・理由を)挙げる → (法廷に)呼び出す・(功績で)表彰する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to mention something as an example or proof; to repeat the words of a book or writer; to officially mention someone because of something they did."
+    }
+  ],
+  "cautions": [
+    "cite A as B=AをBとして挙げる(cite A as an example / a reason)",
+    "「引用する」だけで覚えない。理由・例を挙げる意味が長文・言い換えで多い(=mention, give)",
+    "site(場所)・sight(光景)と発音が同じ。つづりで区別",
+    "名詞 citation=引用・表彰"
+  ],
+  "patterns": [
+    {
+      "form": "cite A",
+      "meaning": "A(文献・言葉)を引用する"
+    },
+    {
+      "form": "cite A as B",
+      "meaning": "AをBとして挙げる"
+    },
+    {
+      "form": "cite A as an example",
+      "meaning": "Aを例に挙げる"
+    },
+    {
+      "form": "cite A for B",
+      "meaning": "BでAを表彰する・召喚する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "引用する",
+      "en": "The writer cited a famous poem at the beginning of the essay.",
+      "ja": "筆者は随筆の冒頭で有名な詩を引用した。"
+    },
+    {
+      "source": "original",
+      "label": "挙げる",
+      "en": "He cited lack of money as the reason for quitting.",
+      "ja": "彼はやめた理由としてお金がないことを挙げた。"
+    },
+    {
+      "source": "original",
+      "label": "例に挙げる",
+      "en": "Japan is often cited as an example of a safe country.",
+      "ja": "日本は安全な国の例としてよく挙げられる。"
+    },
+    {
+      "source": "original",
+      "label": "挙げる",
+      "en": "The report cites three causes of the accident.",
+      "ja": "その報告書は事故の原因を3つ挙げている。"
+    },
+    {
+      "source": "original",
+      "label": "表彰する",
+      "en": "The firefighter was cited for bravery.",
+      "ja": "その消防士は勇敢さをたたえられて表彰された。"
+    },
+    {
+      "source": "original",
+      "label": "引用",
+      "en": "Please list all the books you cite at the end of your paper.",
+      "ja": "論文の最後に引用した本をすべて挙げてください。"
+    }
+  ],
+  "check_points": [
+    "cite A as B の意味を言えるか",
+    "cite と site・sight の区別がつくか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "cite A as B(Aを〜として挙げる)が長文・言い換え問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1022
+    }
+  ]
+}
