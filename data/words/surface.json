@@ -1,0 +1,103 @@
+{
+  "word": "surface",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈsɜːrfəs/",
+  "core_image": {
+    "text": "外から見える、いちばん上の面",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M15 70 Q40 62 65 70 Q90 78 115 70 Q140 62 165 70 Q190 78 225 70\"/><circle cx=\"120\" cy=\"125\" r=\"12\"/><line x1=\"120\" y1=\"110\" x2=\"120\" y2=\"80\"/><polyline points=\"116.2,87 120,80 123.8,87\"/><line x1=\"15\" y1=\"150\" x2=\"225\" y2=\"150\"/></g><text x=\"190\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">表面</text><text x=\"190\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">中・下</text></svg>"
+  },
+  "etymology": "sur(上に。super と同じ) + face(顔・面) → 上の面 → 表面 → うわべ・見かけ → (動詞)表面に出てくる → 浮上する・(問題が)表面化する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the outside or top layer of something; the way something seems on the outside."
+    },
+    {
+      "pos": "動詞",
+      "text": "to come up to the surface of water; to become known or noticeable."
+    }
+  ],
+  "cautions": [
+    "on the surface=表面上は・見かけは(あとに「実は〜」が続く)",
+    "beneath the surface=うわべの下では・内心は",
+    "動詞 surface=浮上する・(問題や事実が)表面化する",
+    "surface は「うわべ」の意味で、深さ・本質と対比されやすい"
+  ],
+  "patterns": [
+    {
+      "form": "the surface of A",
+      "meaning": "Aの表面"
+    },
+    {
+      "form": "on the surface",
+      "meaning": "表面上は"
+    },
+    {
+      "form": "beneath the surface",
+      "meaning": "内面では"
+    },
+    {
+      "form": "come to the surface",
+      "meaning": "表面に出る"
+    },
+    {
+      "form": "A surfaces",
+      "meaning": "Aが表面化する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "表面",
+      "en": "The surface of the lake was as smooth as glass.",
+      "ja": "湖の表面はガラスのようになめらかだった。"
+    },
+    {
+      "source": "original",
+      "label": "on the surface",
+      "en": "On the surface, he seemed calm, but he was very nervous.",
+      "ja": "表面上は落ち着いて見えたが、彼はとても緊張していた。"
+    },
+    {
+      "source": "original",
+      "label": "beneath",
+      "en": "Beneath the surface, there was a lot of anger.",
+      "ja": "うわべの下には大きな怒りがあった。"
+    },
+    {
+      "source": "original",
+      "label": "浮上する",
+      "en": "The whale surfaced to breathe.",
+      "ja": "クジラは息をするために浮上した。"
+    },
+    {
+      "source": "original",
+      "label": "表面化する",
+      "en": "New problems began to surface after the merger.",
+      "ja": "合併後に新たな問題が表面化しはじめた。"
+    },
+    {
+      "source": "original",
+      "label": "come to",
+      "en": "His true feelings came to the surface at last.",
+      "ja": "ついに彼の本音が表に出た。"
+    }
+  ],
+  "check_points": [
+    "on the surface の後ろにどんな内容が続きやすいか言えるか",
+    "動詞 surface の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "on the surface(表面上は)の対比と、動詞「表面化する」が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 975
+    }
+  ]
+}

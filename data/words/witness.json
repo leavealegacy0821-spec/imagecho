@@ -1,0 +1,103 @@
+{
+  "word": "witness",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈwɪtnəs/",
+  "core_image": {
+    "text": "その場にいて、自分の目で見る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"62\" y2=\"96\"/><line x1=\"64\" y1=\"52\" x2=\"150\" y2=\"98\" stroke-dasharray=\"5 5\"/><polyline points=\"145.6,91.3 150,98 142,98.1\"/><polygon points=\"185,80 192,100 212,102 196,114 202,134 185,122 168,134 174,114 158,102 178,100\"/></g><text x=\"110\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見た</text></svg>"
+  },
+  "etymology": "wit(知る・知恵) + ness(こと) → 知っていること → 証言 → 証言する人・目撃者 → (動詞)目撃する → (時代や場所がその場にいて)〜を経験する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a person who sees an event, especially a crime or accident; a person who gives evidence in a court."
+    },
+    {
+      "pos": "動詞",
+      "text": "to see something happen; (of a time or place) to be where something happens."
+    }
+  ],
+  "cautions": [
+    "動詞 witness は他動詞:witness the accident(×witness to the accident)",
+    "無生物主語:The 20th century witnessed two world wars.=20世紀に2度の世界大戦が起きた(入試頻出の訳し方)",
+    "名詞 a witness to A=Aの目撃者、eyewitness=目撃者",
+    "bear witness to A=Aの証拠となる・Aを証言する"
+  ],
+  "patterns": [
+    {
+      "form": "witness A",
+      "meaning": "Aを目撃する"
+    },
+    {
+      "form": "a witness to A",
+      "meaning": "Aの目撃者"
+    },
+    {
+      "form": "時代 + witness A",
+      "meaning": "その時代にAが起こる"
+    },
+    {
+      "form": "bear witness to A",
+      "meaning": "Aの証拠となる"
+    },
+    {
+      "form": "an eyewitness",
+      "meaning": "目撃者"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "目撃する",
+      "en": "Several people witnessed the accident.",
+      "ja": "数人がその事故を目撃した。"
+    },
+    {
+      "source": "original",
+      "label": "目撃者",
+      "en": "Were there any witnesses to the crime?",
+      "ja": "その犯罪の目撃者はいたか。"
+    },
+    {
+      "source": "original",
+      "label": "無生物主語",
+      "en": "The 1960s witnessed great social change.",
+      "ja": "1960年代には大きな社会の変化が起こった。"
+    },
+    {
+      "source": "original",
+      "label": "場所が主語",
+      "en": "This town has witnessed many battles.",
+      "ja": "この町では多くの戦いが行われてきた。"
+    },
+    {
+      "source": "original",
+      "label": "証人",
+      "en": "She was called as a witness in court.",
+      "ja": "彼女は法廷に証人として呼ばれた。"
+    },
+    {
+      "source": "original",
+      "label": "bear witness",
+      "en": "These ruins bear witness to an ancient culture.",
+      "ja": "これらの遺跡は古代文化があったことを物語っている。"
+    }
+  ],
+  "check_points": [
+    "The century witnessed A. を自然な日本語に訳せるか",
+    "a witness の後ろの前置詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "時代・場所が主語の witness(〜が起こった)の訳し方が和訳・長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 976
+    }
+  ]
+}

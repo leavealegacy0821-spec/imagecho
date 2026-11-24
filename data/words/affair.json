@@ -1,0 +1,98 @@
+{
+  "word": "affair",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/əˈfer/",
+  "core_image": {
+    "text": "すること・起きること、あれこれ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"72\" y2=\"62\"/><line x1=\"120\" y1=\"74\" x2=\"168\" y2=\"62\"/><rect x=\"30\" y=\"44\" width=\"40\" height=\"28\"/><rect x=\"170\" y=\"44\" width=\"40\" height=\"28\"/><rect x=\"30\" y=\"96\" width=\"40\" height=\"28\"/><line x1=\"120\" y1=\"74\" x2=\"72\" y2=\"104\" stroke-dasharray=\"4 4\"/></g><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すること</text></svg>"
+  },
+  "etymology": "古フランス語 a faire(すること。faire=do) → なすべきこと → 事がら・問題 → (起きたこと)出来事・事件 → (複数で)業務・情勢",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an event or situation; (plural) matters connected with public life or business; a secret romantic relationship."
+    }
+  ],
+  "cautions": [
+    "複数 affairs で「業務・情勢」:foreign affairs=外交問題、current affairs=時事問題",
+    "That's my affair.=それは私の問題だ(口を出すな)",
+    "単数で「出来事・事件」:The party was a quiet affair.",
+    "a love affair=恋愛関係(とくに不倫)。訳語「事件」1つで覚えると誤訳する"
+  ],
+  "patterns": [
+    {
+      "form": "foreign affairs",
+      "meaning": "外交問題"
+    },
+    {
+      "form": "current affairs",
+      "meaning": "時事問題"
+    },
+    {
+      "form": "one's own affair",
+      "meaning": "自分の問題"
+    },
+    {
+      "form": "state of affairs",
+      "meaning": "事態・情勢"
+    },
+    {
+      "form": "a love affair",
+      "meaning": "恋愛関係"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "事がら",
+      "en": "How I spend my money is my own affair.",
+      "ja": "お金をどう使うかは私自身の問題だ。"
+    },
+    {
+      "source": "original",
+      "label": "外交",
+      "en": "He is an expert on foreign affairs.",
+      "ja": "彼は外交問題の専門家だ。"
+    },
+    {
+      "source": "original",
+      "label": "時事",
+      "en": "She reads the newspaper to keep up with current affairs.",
+      "ja": "彼女は時事問題に遅れないよう新聞を読む。"
+    },
+    {
+      "source": "original",
+      "label": "事態",
+      "en": "This state of affairs cannot continue.",
+      "ja": "このような事態を続けるわけにはいかない。"
+    },
+    {
+      "source": "original",
+      "label": "出来事",
+      "en": "The wedding was a simple family affair.",
+      "ja": "結婚式は家族だけの簡素なものだった。"
+    },
+    {
+      "source": "original",
+      "label": "恋愛関係",
+      "en": "The novel is about a secret love affair.",
+      "ja": "その小説はひそかな恋愛を描いている。"
+    }
+  ],
+  "check_points": [
+    "current affairs の意味を言えるか",
+    "state of affairs の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "複数形 affairs(業務・情勢)と state of affairs(事態)が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 971
+    }
+  ]
+}

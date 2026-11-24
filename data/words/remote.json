@@ -1,0 +1,98 @@
+{
+  "word": "remote",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/rɪˈmoʊt/",
+  "core_image": {
+    "text": "中心からずっと遠く離れている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"28\" y2=\"96\"/><line x1=\"40\" y1=\"74\" x2=\"58\" y2=\"70\"/><rect x=\"190\" y=\"118\" width=\"22\" height=\"22\"/><polyline points=\"186,118 201,104 216,118\"/><line x1=\"62\" y1=\"110\" x2=\"180\" y2=\"110\" stroke-dasharray=\"5 5\"/><polyline points=\"173,106.2 180,110 173,113.8\"/></g><text x=\"120\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">遠い</text></svg>"
+  },
+  "etymology": "re(後ろへ・離れて) + mot(動かす。motion・move と同じ) → 遠くへ動かされた → 遠く離れた・へんぴな → (時間が)遠い → (関係・可能性が)薄い・かすかな → (人が)よそよそしい",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "far away from places where most people live; distant in time; very small (of a chance); not friendly or interested."
+    }
+  ],
+  "cautions": [
+    "a remote village=へんぴな村(場所が遠い)",
+    "a remote possibility / chance=わずかな可能性(「遠い可能性」ではない)",
+    "not have the remotest idea=まったく見当がつかない(最上級+否定)",
+    "remote from A=Aからかけ離れた。remote control=遠隔操作、remote work=在宅勤務"
+  ],
+  "patterns": [
+    {
+      "form": "a remote area",
+      "meaning": "へんぴな地域"
+    },
+    {
+      "form": "remote from A",
+      "meaning": "Aからかけ離れた"
+    },
+    {
+      "form": "a remote possibility",
+      "meaning": "わずかな可能性"
+    },
+    {
+      "form": "not have the remotest idea",
+      "meaning": "まったくわからない"
+    },
+    {
+      "form": "the remote past",
+      "meaning": "遠い昔"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "へんぴな",
+      "en": "He grew up in a remote village in the mountains.",
+      "ja": "彼は山奥のへんぴな村で育った。"
+    },
+    {
+      "source": "original",
+      "label": "かけ離れた",
+      "en": "His ideas are remote from reality.",
+      "ja": "彼の考えは現実からかけ離れている。"
+    },
+    {
+      "source": "original",
+      "label": "わずかな",
+      "en": "There is only a remote chance of rain today.",
+      "ja": "今日雨が降る可能性はほとんどない。"
+    },
+    {
+      "source": "original",
+      "label": "最上級否定",
+      "en": "I don't have the remotest idea where she went.",
+      "ja": "彼女がどこへ行ったのかまったく見当もつかない。"
+    },
+    {
+      "source": "original",
+      "label": "遠い昔",
+      "en": "These customs date back to the remote past.",
+      "ja": "これらの風習は遠い昔にさかのぼる。"
+    },
+    {
+      "source": "original",
+      "label": "遠隔",
+      "en": "More people now work remotely from home.",
+      "ja": "今では自宅で遠隔勤務をする人が増えている。"
+    }
+  ],
+  "check_points": [
+    "a remote possibility の意味を言えるか",
+    "not have the remotest idea の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「へんぴな」と、a remote chance(わずかな可能性)が長文・語彙で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 978
+    }
+  ]
+}

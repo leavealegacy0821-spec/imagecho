@@ -1,0 +1,103 @@
+{
+  "word": "edge",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/edʒ/",
+  "core_image": {
+    "text": "ものの端、そこから先は落ちるふち",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"15,110 140,110 140,158\"/><line x1=\"140\" y1=\"150\" x2=\"225\" y2=\"150\"/><circle cx=\"115\" cy=\"22\" r=\"10\"/><line x1=\"115\" y1=\"32\" x2=\"115\" y2=\"76\"/><line x1=\"115\" y1=\"76\" x2=\"105\" y2=\"110\"/><line x1=\"115\" y1=\"76\" x2=\"125\" y2=\"110\"/><line x1=\"115\" y1=\"44\" x2=\"103\" y2=\"66\"/><line x1=\"115\" y1=\"44\" x2=\"130\" y2=\"62\"/><line x1=\"190\" y1=\"80\" x2=\"145\" y2=\"106\"/><polyline points=\"153,105.8 145,106 149.2,99.2\"/></g><text x=\"196\" y=\"66\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふち</text></svg>"
+  },
+  "etymology": "古英語 ecg(刃・ふち) → 刃 → 端・ふち・へり → (刃の)鋭さ → 相手を切りくずす強み → 優位 → (ふちに立つ)〜の寸前",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the outer part or line of something; the sharp cutting side of a blade; a small advantage over others."
+    },
+    {
+      "pos": "動詞",
+      "text": "to move slowly and carefully in a particular direction."
+    }
+  ],
+  "cautions": [
+    "have an edge over A=Aより少し有利だ(「端」ではない)",
+    "on the edge of A=Aの寸前で(on the edge of extinction=絶滅寸前)",
+    "on edge=いらいらして・神経がぴりぴりして",
+    "動詞 edge:edge closer=じりじり近づく"
+  ],
+  "patterns": [
+    {
+      "form": "the edge of A",
+      "meaning": "Aの端・ふち"
+    },
+    {
+      "form": "have an edge over A",
+      "meaning": "Aより有利だ"
+    },
+    {
+      "form": "on the edge of A",
+      "meaning": "Aの寸前で"
+    },
+    {
+      "form": "on edge",
+      "meaning": "いらいらして"
+    },
+    {
+      "form": "edge toward A",
+      "meaning": "Aへじりじり進む"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ふち",
+      "en": "He stood at the edge of the cliff.",
+      "ja": "彼はがけのふちに立った。"
+    },
+    {
+      "source": "original",
+      "label": "端",
+      "en": "She sat on the edge of the bed.",
+      "ja": "彼女はベッドの端に腰かけた。"
+    },
+    {
+      "source": "original",
+      "label": "優位",
+      "en": "Our team has an edge over the others in speed.",
+      "ja": "私たちのチームはスピードで他より有利だ。"
+    },
+    {
+      "source": "original",
+      "label": "寸前",
+      "en": "The species is on the edge of extinction.",
+      "ja": "その種は絶滅の寸前にある。"
+    },
+    {
+      "source": "original",
+      "label": "いらいら",
+      "en": "Everyone was on edge before the exam results came out.",
+      "ja": "試験結果が出る前、皆ぴりぴりしていた。"
+    },
+    {
+      "source": "original",
+      "label": "じりじり進む",
+      "en": "The car edged forward through the crowd.",
+      "ja": "車は人ごみの中をじりじりと進んだ。"
+    }
+  ],
+  "check_points": [
+    "have an edge over A の意味を言えるか",
+    "on edge の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "have an edge over A(優位)と on the edge of A(寸前)が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 973
+    }
+  ]
+}

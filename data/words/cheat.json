@@ -1,0 +1,103 @@
+{
+  "word": "cheat",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/tʃiːt/",
+  "core_image": {
+    "text": "ずるをして、こっそりかすめ取る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"128\" y2=\"104\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"96\"/><line x1=\"190\" y1=\"74\" x2=\"178\" y2=\"96\"/><line x1=\"190\" y1=\"74\" x2=\"202\" y2=\"96\"/><rect x=\"128\" y=\"100\" width=\"26\" height=\"26\"/><line x1=\"124\" y1=\"130\" x2=\"74\" y2=\"130\" stroke-dasharray=\"5 5\"/><polyline points=\"81,133.8 74,130 81,126.2\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ずる</text></svg>"
+  },
+  "etymology": "古フランス語 escheat(持ち主のいない財産が領主のものになること) → 財産を取り上げる → だまし取る → だます・ずるをする・不正をする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to behave dishonestly in order to win or gain something; to trick someone and take something from them."
+    },
+    {
+      "pos": "名詞",
+      "text": "a person who behaves dishonestly; a dishonest action."
+    }
+  ],
+  "cautions": [
+    "cheat A out of B=AをだましてBを奪う(out of の型。rob A of B と区別)",
+    "cheat on a test / in an exam=カンニングする(cunning は「ずる賢い」で×)",
+    "cheat on A=(恋人・配偶者)Aを裏切る・浮気する",
+    "名詞 a cheat=ずるい人・いかさま師"
+  ],
+  "patterns": [
+    {
+      "form": "cheat A out of B",
+      "meaning": "AをだましてBを奪う"
+    },
+    {
+      "form": "cheat on a test",
+      "meaning": "テストでカンニングする"
+    },
+    {
+      "form": "cheat at A",
+      "meaning": "A(ゲームなど)でずるをする"
+    },
+    {
+      "form": "cheat on A",
+      "meaning": "Aを裏切る"
+    },
+    {
+      "form": "feel cheated",
+      "meaning": "だまされた気分だ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "だまし取る",
+      "en": "The man cheated the old woman out of her savings.",
+      "ja": "その男は老婦人をだまして貯金を奪った。"
+    },
+    {
+      "source": "original",
+      "label": "カンニング",
+      "en": "He was caught cheating on the exam.",
+      "ja": "彼は試験でカンニングしているところを見つかった。"
+    },
+    {
+      "source": "original",
+      "label": "cheat at",
+      "en": "My brother always cheats at cards.",
+      "ja": "兄はトランプでいつもずるをする。"
+    },
+    {
+      "source": "original",
+      "label": "裏切る",
+      "en": "She found out that her boyfriend had cheated on her.",
+      "ja": "彼女は恋人が浮気していたことを知った。"
+    },
+    {
+      "source": "original",
+      "label": "feel cheated",
+      "en": "Fans felt cheated when the concert was canceled.",
+      "ja": "コンサートが中止になり、ファンはだまされた気分だった。"
+    },
+    {
+      "source": "original",
+      "label": "ずるい人",
+      "en": "Nobody wants to play with a cheat.",
+      "ja": "ずるをする人とはだれも遊びたがらない。"
+    }
+  ],
+  "check_points": [
+    "「AをだましてBを奪う」の型を言えるか",
+    "「カンニングする」を英語で言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "cheat A out of B の語法と、cheat on a test(カンニング)が語法・和製英語の問題で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 980
+    }
+  ]
+}
