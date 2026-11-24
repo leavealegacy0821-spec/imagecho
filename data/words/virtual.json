@@ -1,0 +1,98 @@
+{
+  "word": "virtual",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈvɜːrtʃuəl/",
+  "core_image": {
+    "text": "形はちがっても、中身はほぼそのもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"60\" width=\"64\" height=\"64\"/><rect x=\"146\" y=\"60\" width=\"64\" height=\"64\" stroke-dasharray=\"6 5\"/><path d=\"M106 88 Q113 82 120 88 Q127 94 134 88\"/><path d=\"M106 98 Q113 92 120 98 Q127 104 134 98\"/></g><text x=\"62\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">本物</text><text x=\"178\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ほぼ同じ</text></svg>"
+  },
+  "etymology": "ラテン語 virtus(力・効き目。virtue と同じ) → 実際の効き目を持つ → 名目はちがっても実質そうである → 事実上の → (実物はないが同じ働きをする)仮想の",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "almost or nearly the thing described, so that any slight difference is not important; made to appear real by a computer."
+    }
+  ],
+  "cautions": [
+    "a virtual + 名詞=事実上の〜(「仮想の」以外の意味が長文で大事)",
+    "副詞 virtually=ほとんど・事実上(almost とほぼ同じ):virtually impossible=ほとんど不可能",
+    "virtual reality=仮想現実",
+    "virtue(美徳)とは語源は同じだが意味は別"
+  ],
+  "patterns": [
+    {
+      "form": "a virtual + 名詞",
+      "meaning": "事実上の〜"
+    },
+    {
+      "form": "virtually",
+      "meaning": "ほとんど・事実上"
+    },
+    {
+      "form": "virtually impossible",
+      "meaning": "ほとんど不可能"
+    },
+    {
+      "form": "virtual reality",
+      "meaning": "仮想現実"
+    },
+    {
+      "form": "a virtual tour",
+      "meaning": "オンライン見学"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "事実上の",
+      "en": "The company has a virtual monopoly on the market.",
+      "ja": "その会社は市場を事実上独占している。"
+    },
+    {
+      "source": "original",
+      "label": "事実上の",
+      "en": "The man was a virtual stranger to me.",
+      "ja": "その男は私にとってほとんど見知らぬ人だった。"
+    },
+    {
+      "source": "original",
+      "label": "ほとんど",
+      "en": "It is virtually impossible to finish this in a day.",
+      "ja": "これを1日で終えるのはほとんど不可能だ。"
+    },
+    {
+      "source": "original",
+      "label": "ほとんど",
+      "en": "Virtually all the students passed the test.",
+      "ja": "ほぼ全員の生徒が試験に受かった。"
+    },
+    {
+      "source": "original",
+      "label": "仮想の",
+      "en": "Virtual reality is used in medical training.",
+      "ja": "仮想現実は医療の訓練に使われている。"
+    },
+    {
+      "source": "original",
+      "label": "オンライン",
+      "en": "We took a virtual tour of the museum.",
+      "ja": "私たちはその博物館をオンラインで見学した。"
+    }
+  ],
+  "check_points": [
+    "virtually の意味を言えるか",
+    "a virtual monopoly の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "副詞 virtually(=almost)が語彙・長文で頻出。「仮想の」だけで覚えると誤訳する。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 988
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "amount",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/əˈmaʊnt/",
+  "core_image": {
+    "text": "積み上げた全部の量、合わせると〜になる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"80\" y=\"110\" width=\"70\" height=\"30\"/><rect x=\"80\" y=\"80\" width=\"70\" height=\"30\"/><rect x=\"80\" y=\"50\" width=\"70\" height=\"30\"/><line x1=\"178\" y1=\"138\" x2=\"178\" y2=\"52\"/><polyline points=\"174.2,59 178,52 181.8,59\"/></g><text x=\"208\" y=\"98\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">合計</text></svg>"
+  },
+  "etymology": "a(〜へ) + mount(山・上へ。mountain と同じ) → 山のように上へ積み上がる → (動詞)合計〜に達する・結局〜に等しい → (名詞)総計・量・額",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a quantity of something, especially of something that cannot be counted; a sum of money."
+    },
+    {
+      "pos": "動詞",
+      "text": "(amount to) to add up to a total; to be the same as something."
+    }
+  ],
+  "cautions": [
+    "a large amount of A は数えられない名詞(money, time, water など)。数えられる名詞は a large number of A",
+    "amount を形容するのは large / small(×many / much)",
+    "動詞は amount to A の形:合計Aに達する・結局Aに等しい",
+    "amount to nothing=何にもならない・たいしたものにならない"
+  ],
+  "patterns": [
+    {
+      "form": "a large amount of A",
+      "meaning": "大量のA(不可算)"
+    },
+    {
+      "form": "the amount of A",
+      "meaning": "Aの量・額"
+    },
+    {
+      "form": "amount to A",
+      "meaning": "合計Aになる"
+    },
+    {
+      "form": "amount to A",
+      "meaning": "結局Aと同じことだ"
+    },
+    {
+      "form": "amount to nothing",
+      "meaning": "何にもならない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "量",
+      "en": "He spends a large amount of time on his phone.",
+      "ja": "彼はスマホに多くの時間を使う。"
+    },
+    {
+      "source": "original",
+      "label": "額",
+      "en": "The amount of money we need is not small.",
+      "ja": "私たちに必要な金額は少なくない。"
+    },
+    {
+      "source": "original",
+      "label": "合計",
+      "en": "The total cost amounted to 50,000 yen.",
+      "ja": "費用は合計で5万円になった。"
+    },
+    {
+      "source": "original",
+      "label": "等しい",
+      "en": "His answer amounted to a refusal.",
+      "ja": "彼の返事は断ったも同然だった。"
+    },
+    {
+      "source": "original",
+      "label": "何にもならない",
+      "en": "All their efforts amounted to nothing.",
+      "ja": "彼らの努力はすべて何にもならなかった。"
+    },
+    {
+      "source": "original",
+      "label": "不可算",
+      "en": "A small amount of salt makes the soup taste better.",
+      "ja": "少しの塩でスープがおいしくなる。"
+    }
+  ],
+  "check_points": [
+    "amount of と number of の使い分けを言えるか",
+    "amount to A の2つの意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "an amount of(不可算)/a number of(可算)の区別と amount to A が正誤・語法で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 985
+    }
+  ]
+}

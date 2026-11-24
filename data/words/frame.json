@@ -1,0 +1,103 @@
+{
+  "word": "frame",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/freɪm/",
+  "core_image": {
+    "text": "中身をぐるりと囲んで支える枠",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"50\" y=\"25\" width=\"120\" height=\"110\"/><rect x=\"66\" y=\"41\" width=\"88\" height=\"78\"/><polyline points=\"70,112 95,80 115,98 130,84 150,112\"/><circle cx=\"135\" cy=\"60\" r=\"7\"/><line x1=\"210\" y1=\"92\" x2=\"174\" y2=\"92\"/><polyline points=\"181,95.8 174,92 181,88.2\"/></g><text x=\"210\" y=\"78\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">枠</text></svg>"
+  },
+  "etymology": "古英語 framian(役に立つ・作る) → 組み立てたもの → 骨組み・枠 → (人の骨組み)体格 → (心の枠)気分 frame of mind → (動詞)枠にはめる → (言葉の枠に)表現する → (わなの枠に)ぬれぎぬを着せる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a border that surrounds a picture or window; the main structure of something; the shape of a person's body."
+    },
+    {
+      "pos": "動詞",
+      "text": "to put a border around something; to express something in a particular way; to make someone seem guilty of a crime they did not do."
+    }
+  ],
+  "cautions": [
+    "a frame of mind=(一時的な)気分・心の状態",
+    "frame of reference=判断の基準となる枠組み",
+    "動詞 frame=(言葉を選んで)表現する:frame a question=質問を組み立てる",
+    "be framed=ぬれぎぬを着せられる(「額に入れられる」以外の意味)"
+  ],
+  "patterns": [
+    {
+      "form": "a picture frame",
+      "meaning": "額縁"
+    },
+    {
+      "form": "the frame of A",
+      "meaning": "Aの骨組み・枠"
+    },
+    {
+      "form": "a frame of mind",
+      "meaning": "気分・心の状態"
+    },
+    {
+      "form": "frame A",
+      "meaning": "Aを表現する・組み立てる"
+    },
+    {
+      "form": "be framed",
+      "meaning": "ぬれぎぬを着せられる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "額縁",
+      "en": "She put the photo in a wooden frame.",
+      "ja": "彼女はその写真を木の額縁に入れた。"
+    },
+    {
+      "source": "original",
+      "label": "骨組み",
+      "en": "The frame of the house is made of steel.",
+      "ja": "その家の骨組みは鋼鉄でできている。"
+    },
+    {
+      "source": "original",
+      "label": "体格",
+      "en": "He has a large frame for his age.",
+      "ja": "彼は年のわりに体格が大きい。"
+    },
+    {
+      "source": "original",
+      "label": "気分",
+      "en": "I'm not in the right frame of mind to study now.",
+      "ja": "今は勉強する気分ではない。"
+    },
+    {
+      "source": "original",
+      "label": "表現する",
+      "en": "You should frame your question more clearly.",
+      "ja": "質問をもっとはっきりした形で言うべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "ぬれぎぬ",
+      "en": "He claimed he had been framed by the police.",
+      "ja": "彼は警察にぬれぎぬを着せられたと主張した。"
+    }
+  ],
+  "check_points": [
+    "a frame of mind の意味を言えるか",
+    "be framed の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a frame of mind(気分)と、動詞 frame(表現する)が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 984
+    }
+  ]
+}

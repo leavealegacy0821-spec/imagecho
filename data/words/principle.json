@@ -1,0 +1,98 @@
+{
+  "word": "principle",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈprɪnsəpəl/",
+  "core_image": {
+    "text": "すべての土台にある、おおもとの決まり",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"80\" y=\"56\" width=\"80\" height=\"54\"/><polyline points=\"72,58 120,26 168,58\"/><rect x=\"50\" y=\"110\" width=\"140\" height=\"30\"/><rect x=\"108\" y=\"80\" width=\"24\" height=\"30\"/><line x1=\"210\" y1=\"90\" x2=\"192\" y2=\"116\"/><polyline points=\"199.1,112.4 192,116 192.8,108\"/></g><text x=\"212\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">土台</text></svg>"
+  },
+  "etymology": "prin(=prim 第一の) + cip(取る) → いちばん初めにあるもの → 始まり・おおもと → 原理・原則 → (人の行動のおおもと)主義・信念",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a basic truth or rule that explains how something works; a moral rule or belief that guides behavior."
+    }
+  ],
+  "cautions": [
+    "in principle=原則として・理論上は(実際は違うかも、という含み)",
+    "on principle=主義として・信念から(in と on で意味が違う)",
+    "a person of principle=信念のある人。principles(複数)で「道徳的な信条」",
+    "principal(主な・校長)と同じ発音なので文脈で区別する"
+  ],
+  "patterns": [
+    {
+      "form": "the principle of A",
+      "meaning": "Aの原理"
+    },
+    {
+      "form": "in principle",
+      "meaning": "原則として・理論上は"
+    },
+    {
+      "form": "on principle",
+      "meaning": "主義として"
+    },
+    {
+      "form": "a matter of principle",
+      "meaning": "主義の問題"
+    },
+    {
+      "form": "against one's principles",
+      "meaning": "自分の信条に反する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "原理",
+      "en": "This machine works on a simple principle.",
+      "ja": "この機械は単純な原理で動く。"
+    },
+    {
+      "source": "original",
+      "label": "原則",
+      "en": "Equality is a basic principle of democracy.",
+      "ja": "平等は民主主義の基本原則だ。"
+    },
+    {
+      "source": "original",
+      "label": "in principle",
+      "en": "In principle, I agree with your plan, but there are some problems.",
+      "ja": "原則としては君の計画に賛成だが、いくつか問題がある。"
+    },
+    {
+      "source": "original",
+      "label": "on principle",
+      "en": "She refuses to eat meat on principle.",
+      "ja": "彼女は主義として肉を食べない。"
+    },
+    {
+      "source": "original",
+      "label": "信条",
+      "en": "Lying is against my principles.",
+      "ja": "うそをつくのは私の信条に反する。"
+    },
+    {
+      "source": "original",
+      "label": "主義の問題",
+      "en": "It's not about money; it's a matter of principle.",
+      "ja": "お金の問題ではなく、主義の問題だ。"
+    }
+  ],
+  "check_points": [
+    "in principle と on principle の違いを言えるか",
+    "principle と principal を区別できるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "in principle(原則として)/on principle(主義として)の区別と、principal とのつづり違いが頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 983
+    }
+  ]
+}

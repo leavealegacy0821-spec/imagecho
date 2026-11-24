@@ -1,0 +1,99 @@
+{
+  "word": "principal",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/ˈprɪnsəpəl/",
+  "core_image": {
+    "text": "いちばん先頭に立つ、主な",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"62\" y2=\"96\"/><line x1=\"120\" y1=\"74\" x2=\"108\" y2=\"96\"/><line x1=\"120\" y1=\"74\" x2=\"132\" y2=\"96\"/><line x1=\"180\" y1=\"74\" x2=\"168\" y2=\"96\"/><line x1=\"180\" y1=\"74\" x2=\"192\" y2=\"96\"/><line x1=\"50\" y1=\"8\" x2=\"50\" y2=\"34\"/><polyline points=\"53.8,27 50,34 46.2,27\"/></g><text x=\"115\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いちばん前</text></svg>"
+  },
+  "etymology": "prin(=prim 第一の。prime・primary と同じ) + cip(取る) → 第一の位置を取る → いちばんの・主な → (名詞)いちばん上の人 → 校長・社長 → (お金の)元金",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "most important; main."
+    },
+    {
+      "pos": "名詞",
+      "text": "the head of a school or college; an amount of money lent or invested, not including interest."
+    }
+  ],
+  "cautions": [
+    "形容詞 principal=主な(main とほぼ同じ)。名詞の前に置いて使う",
+    "名詞 principal=校長(アメリカ英語)、(利息に対する)元金",
+    "principle(原理・主義)とつづりも発音も同じなので文脈で区別する",
+    "副詞 principally=主に(mainly)"
+  ],
+  "patterns": [
+    {
+      "form": "the principal reason",
+      "meaning": "主な理由"
+    },
+    {
+      "form": "the principal of A",
+      "meaning": "A(学校)の校長"
+    },
+    {
+      "form": "principal and interest",
+      "meaning": "元金と利息"
+    },
+    {
+      "form": "principally",
+      "meaning": "主に"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "主な",
+      "en": "The principal reason for his failure was a lack of practice.",
+      "ja": "彼が失敗した主な理由は練習不足だった。"
+    },
+    {
+      "source": "original",
+      "label": "主な",
+      "en": "Rice is the principal food in many Asian countries.",
+      "ja": "米は多くのアジアの国で主食だ。"
+    },
+    {
+      "source": "original",
+      "label": "校長",
+      "en": "The principal gave a speech at the graduation ceremony.",
+      "ja": "校長が卒業式で式辞を述べた。"
+    },
+    {
+      "source": "original",
+      "label": "主役",
+      "en": "She played the principal role in the school play.",
+      "ja": "彼女は学校の劇で主役を演じた。"
+    },
+    {
+      "source": "original",
+      "label": "元金",
+      "en": "He paid back the principal and the interest.",
+      "ja": "彼は元金と利息を返した。"
+    },
+    {
+      "source": "original",
+      "label": "principally",
+      "en": "The book is principally about family life.",
+      "ja": "その本は主に家族の暮らしについて書かれている。"
+    }
+  ],
+  "check_points": [
+    "principal と principle の意味の違いを言えるか",
+    "名詞 principal の意味を2つ言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "principle との区別(主な/原理)が語彙・発音問題で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 982
+    }
+  ]
+}

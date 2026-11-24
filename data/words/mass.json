@@ -1,0 +1,103 @@
+{
+  "word": "mass",
+  "pos": [
+    "名詞",
+    "形容詞"
+  ],
+  "ipa": "/mæs/",
+  "core_image": {
+    "text": "たくさん集まって、ひとかたまりになったもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"120\" cy=\"95\" rx=\"78\" ry=\"42\"/><circle cx=\"80\" cy=\"90\" r=\"7\"/><circle cx=\"100\" cy=\"78\" r=\"7\"/><circle cx=\"100\" cy=\"104\" r=\"7\"/><circle cx=\"120\" cy=\"90\" r=\"7\"/><circle cx=\"140\" cy=\"76\" r=\"7\"/><circle cx=\"140\" cy=\"104\" r=\"7\"/><circle cx=\"160\" cy=\"90\" r=\"7\"/><circle cx=\"120\" cy=\"116\" r=\"7\"/><circle cx=\"120\" cy=\"66\" r=\"7\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひとかたまり</text></svg>"
+  },
+  "etymology": "ラテン語 massa(こねた生地のかたまり) → かたまり → 多数・大量 → (かたまりとしての人々)the masses 一般大衆 → (形容詞)大量の・大衆の → (物理)質量",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a large amount of something without a clear shape; a large number of people or things; (the masses) ordinary people."
+    },
+    {
+      "pos": "形容詞",
+      "text": "involving a large number of people or things."
+    }
+  ],
+  "cautions": [
+    "a mass of A / masses of A=たくさんのA",
+    "the masses=一般大衆(複数形で「大衆」)",
+    "形容詞 mass=大量の・大衆の:mass production=大量生産、mass media=マスメディア",
+    "形容詞 massive=巨大な・大規模な"
+  ],
+  "patterns": [
+    {
+      "form": "a mass of A",
+      "meaning": "Aのかたまり・多数のA"
+    },
+    {
+      "form": "the masses",
+      "meaning": "一般大衆"
+    },
+    {
+      "form": "mass production",
+      "meaning": "大量生産"
+    },
+    {
+      "form": "mass media",
+      "meaning": "マスメディア"
+    },
+    {
+      "form": "mass + 名詞",
+      "meaning": "大量の・大規模な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "かたまり",
+      "en": "A huge mass of rock fell onto the road.",
+      "ja": "巨大な岩のかたまりが道路に落ちてきた。"
+    },
+    {
+      "source": "original",
+      "label": "多数",
+      "en": "There was a mass of people in front of the station.",
+      "ja": "駅前には大勢の人がいた。"
+    },
+    {
+      "source": "original",
+      "label": "大衆",
+      "en": "The singer was popular with the masses.",
+      "ja": "その歌手は一般大衆に人気があった。"
+    },
+    {
+      "source": "original",
+      "label": "大量生産",
+      "en": "Mass production made cars cheaper.",
+      "ja": "大量生産によって車は安くなった。"
+    },
+    {
+      "source": "original",
+      "label": "大規模な",
+      "en": "The new law led to mass protests.",
+      "ja": "新しい法律は大規模な抗議運動を招いた。"
+    },
+    {
+      "source": "original",
+      "label": "質量",
+      "en": "Mass and weight are not the same thing.",
+      "ja": "質量と重さは同じものではない。"
+    }
+  ],
+  "check_points": [
+    "the masses の意味を言えるか",
+    "mass production の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "the masses(大衆)と形容詞 mass(大量の)が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 986
+    }
+  ]
+}
