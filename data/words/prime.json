@@ -1,0 +1,112 @@
+{
+  "word": "prime",
+  "pos": [
+    "形容詞",
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/praɪm/",
+  "core_image": {
+    "text": "いちばん先に来る、いちばん良いもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"95\" y=\"100\" width=\"50\" height=\"40\"/><rect x=\"45\" y=\"115\" width=\"50\" height=\"25\"/><rect x=\"145\" y=\"122\" width=\"50\" height=\"18\"/><circle cx=\"120\" cy=\"12\" r=\"10\"/><line x1=\"120\" y1=\"22\" x2=\"120\" y2=\"66\"/><line x1=\"120\" y1=\"66\" x2=\"110\" y2=\"100\"/><line x1=\"120\" y1=\"66\" x2=\"130\" y2=\"100\"/><line x1=\"120\" y1=\"36\" x2=\"104\" y2=\"14\"/><line x1=\"120\" y1=\"36\" x2=\"136\" y2=\"14\"/></g><text x=\"62\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いちばん</text></svg>"
+  },
+  "etymology": "ラテン語 primus(第一の。primary・primitive と同じ) → 順番がいちばん → 主要な prime minister → 質がいちばん → 最良の・全盛期 the prime of life → (いちばん先に)前もって準備させる be primed → (1と自分でしか割れない)素数",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "most important; of the best quality; most likely to be chosen."
+    },
+    {
+      "pos": "名詞",
+      "text": "the time in your life when you are strongest or most successful."
+    },
+    {
+      "pos": "動詞",
+      "text": "to prepare someone or something for a particular situation."
+    }
+  ],
+  "cautions": [
+    "prime minister=首相/prime concern=最大の関心事(主要な=main・chief)",
+    "in the prime of life=人生の全盛期に/past one's prime=盛りを過ぎた",
+    "a prime example of A=Aの典型的な例/a prime suspect=第一容疑者",
+    "動詞 prime A for B=AにBへの準備をさせる。primary(第一の・初等の)と区別"
+  ],
+  "patterns": [
+    {
+      "form": "the prime minister",
+      "meaning": "首相"
+    },
+    {
+      "form": "of prime importance",
+      "meaning": "最も重要な"
+    },
+    {
+      "form": "a prime example of A",
+      "meaning": "Aの代表例"
+    },
+    {
+      "form": "in the prime of life",
+      "meaning": "人生の盛りに"
+    },
+    {
+      "form": "be primed for A",
+      "meaning": "Aへの準備ができている"
+    },
+    {
+      "form": "a prime number",
+      "meaning": "素数"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "首相",
+      "en": "The Prime Minister made a speech on TV.",
+      "ja": "首相がテレビで演説した。"
+    },
+    {
+      "source": "original",
+      "label": "主要な",
+      "en": "Safety is our prime concern.",
+      "ja": "安全が私たちの最大の関心事だ。"
+    },
+    {
+      "source": "original",
+      "label": "最も重要な",
+      "en": "Education is of prime importance to the country.",
+      "ja": "教育はその国にとって最も重要だ。"
+    },
+    {
+      "source": "original",
+      "label": "典型",
+      "en": "This temple is a prime example of Japanese architecture.",
+      "ja": "この寺は日本建築の代表的な例だ。"
+    },
+    {
+      "source": "original",
+      "label": "全盛期",
+      "en": "He was in the prime of life when he started the company.",
+      "ja": "彼が会社を始めたのは人生の盛りのころだった。"
+    },
+    {
+      "source": "original",
+      "label": "準備させる",
+      "en": "The players were primed for the big game.",
+      "ja": "選手たちは大一番への準備ができていた。"
+    }
+  ],
+  "check_points": [
+    "a prime example of A の意味を言えるか",
+    "in the prime of life の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "prime minister のほか、a prime example / of prime importance(最も重要な)が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 995
+    }
+  ]
+}

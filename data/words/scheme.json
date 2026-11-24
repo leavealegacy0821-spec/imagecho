@@ -1,0 +1,103 @@
+{
+  "word": "scheme",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/skiːm/",
+  "core_image": {
+    "text": "裏で組み立てた、筋書き・しくみ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"28\" y=\"28\" width=\"54\" height=\"30\"/><rect x=\"158\" y=\"28\" width=\"54\" height=\"30\"/><rect x=\"92\" y=\"100\" width=\"56\" height=\"30\"/><line x1=\"55\" y1=\"60\" x2=\"98\" y2=\"98\"/><polyline points=\"95.3,90.5 98,98 90.2,96.2\"/><line x1=\"142\" y1=\"98\" x2=\"185\" y2=\"60\"/><polyline points=\"177.2,61.8 185,60 182.3,67.5\"/><line x1=\"84\" y1=\"43\" x2=\"156\" y2=\"43\" stroke-dasharray=\"5 5\"/><polyline points=\"149,39.2 156,43 149,46.8\"/></g><text x=\"120\" y=\"152\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くみたて</text></svg>"
+  },
+  "etymology": "ギリシャ語 skhēma(形・姿。schema と同じ) → 頭の中で形にしたもの → 計画・しくみ・制度 → (こっそり組み立てた)たくらみ・陰謀 → (動詞)たくらむ → (全体の形)体系・配色 color scheme",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an official plan or system for doing something; a secret and often dishonest plan; an arrangement of parts (a color scheme)."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make secret plans to do something, usually something bad."
+    }
+  ],
+  "cautions": [
+    "イギリス英語では「公的な計画・制度」(a pension scheme=年金制度)の中立的な意味が多い",
+    "アメリカ英語では「たくらみ・陰謀」の悪い意味が強い。動詞 scheme は「たくらむ」",
+    "in the (grand) scheme of things=(大きな)全体の中で見れば",
+    "発音は /skiːm/(スキーム)。sch を「シュ」と読まない"
+  ],
+  "patterns": [
+    {
+      "form": "a scheme to do",
+      "meaning": "〜する計画・たくらみ"
+    },
+    {
+      "form": "a scheme for A",
+      "meaning": "Aの計画・制度"
+    },
+    {
+      "form": "a color scheme",
+      "meaning": "配色"
+    },
+    {
+      "form": "in the scheme of things",
+      "meaning": "全体から見れば"
+    },
+    {
+      "form": "scheme to do",
+      "meaning": "〜しようとたくらむ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "計画",
+      "en": "The city started a new scheme to reduce traffic.",
+      "ja": "市は交通量を減らす新しい計画を始めた。"
+    },
+    {
+      "source": "original",
+      "label": "制度",
+      "en": "All workers join the company pension scheme.",
+      "ja": "従業員は全員会社の年金制度に加入する。"
+    },
+    {
+      "source": "original",
+      "label": "たくらみ",
+      "en": "He was arrested for a scheme to cheat old people.",
+      "ja": "彼は高齢者をだますたくらみで逮捕された。"
+    },
+    {
+      "source": "original",
+      "label": "たくらむ",
+      "en": "They were scheming to take control of the company.",
+      "ja": "彼らは会社を乗っ取ろうとたくらんでいた。"
+    },
+    {
+      "source": "original",
+      "label": "配色",
+      "en": "I like the color scheme of this room.",
+      "ja": "私はこの部屋の配色が気に入っている。"
+    },
+    {
+      "source": "original",
+      "label": "全体",
+      "en": "In the grand scheme of things, this mistake is not important.",
+      "ja": "大きな目で見れば、この失敗は大したことではない。"
+    }
+  ],
+  "check_points": [
+    "scheme の良い意味と悪い意味を言えるか",
+    "scheme の発音(スキーム)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "plan とほぼ同じ「計画」と、「たくらみ」の両方が長文に出る。発音問題でも狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 997
+    }
+  ]
+}

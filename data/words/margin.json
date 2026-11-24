@@ -1,0 +1,98 @@
+{
+  "word": "margin",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈmɑːrdʒɪn/",
+  "core_image": {
+    "text": "中身のまわりに残った、へりの幅",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"50\" y=\"18\" width=\"140\" height=\"128\"/><line x1=\"82\" y1=\"38\" x2=\"176\" y2=\"38\"/><line x1=\"82\" y1=\"54\" x2=\"176\" y2=\"54\"/><line x1=\"82\" y1=\"70\" x2=\"176\" y2=\"70\"/><line x1=\"82\" y1=\"86\" x2=\"176\" y2=\"86\"/><line x1=\"82\" y1=\"102\" x2=\"150\" y2=\"102\"/><line x1=\"66\" y1=\"124\" x2=\"79\" y2=\"124\"/><polyline points=\"72,120.2 79,124 72,127.8\"/><line x1=\"66\" y1=\"124\" x2=\"53\" y2=\"124\"/><polyline points=\"60,127.8 53,124 60,120.2\"/></g><text x=\"25\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">余白</text></svg>"
+  },
+  "etymology": "ラテン語 margo(へり・境目) → 紙のへりの余白 → (端と端の)幅・差 by a narrow margin → (売値と原価の差)利ざや → (ぎりぎりの外の)ゆとり margin for error → (社会の)周辺・はずれ on the margins",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the empty space at the side of a page; the amount by which one thing is greater than another in a vote or contest; the difference between cost and selling price; an extra amount allowed for safety."
+    }
+  ],
+  "cautions": [
+    "by a narrow / wide margin=僅差で/大差で(差を表す by を落とさない)",
+    "profit margin=利益の幅・利ざや",
+    "margin for error=誤差の余地・失敗が許される幅",
+    "形容詞 marginal=わずかな・重要でない・周辺の(marginal improvement=わずかな改善)"
+  ],
+  "patterns": [
+    {
+      "form": "in the margin",
+      "meaning": "余白に"
+    },
+    {
+      "form": "by a narrow / wide margin",
+      "meaning": "僅差で/大差で"
+    },
+    {
+      "form": "a profit margin",
+      "meaning": "利ざや"
+    },
+    {
+      "form": "a margin of error",
+      "meaning": "誤差"
+    },
+    {
+      "form": "on the margins of A",
+      "meaning": "Aの周辺・はずれに"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "余白",
+      "en": "The teacher wrote comments in the margin.",
+      "ja": "先生は余白にコメントを書いた。"
+    },
+    {
+      "source": "original",
+      "label": "僅差",
+      "en": "Our team won the game by a narrow margin.",
+      "ja": "私たちのチームは僅差で試合に勝った。"
+    },
+    {
+      "source": "original",
+      "label": "大差",
+      "en": "The bill was passed by a wide margin.",
+      "ja": "その法案は大差で可決された。"
+    },
+    {
+      "source": "original",
+      "label": "利ざや",
+      "en": "Small shops have low profit margins.",
+      "ja": "小さな店は利ざやが小さい。"
+    },
+    {
+      "source": "original",
+      "label": "ゆとり",
+      "en": "There is no margin for error in this job.",
+      "ja": "この仕事では失敗は許されない。"
+    },
+    {
+      "source": "original",
+      "label": "周辺",
+      "en": "Many people live on the margins of society.",
+      "ja": "社会の周辺に追いやられて暮らす人が多い。"
+    }
+  ],
+  "check_points": [
+    "by a narrow margin の意味を言えるか",
+    "margin for error の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "by a narrow margin(僅差で)、marginal(わずかな)が長文・語彙で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 993
+    }
+  ]
+}

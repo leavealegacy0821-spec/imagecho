@@ -1,0 +1,103 @@
+{
+  "word": "intimate",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/ˈɪntɪmət/",
+  "core_image": {
+    "text": "いちばん内側まで入りこんだ近さ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"120\" cy=\"88\" rx=\"56\" ry=\"62\"/><circle cx=\"106\" cy=\"52\" r=\"10\"/><line x1=\"106\" y1=\"62\" x2=\"106\" y2=\"106\"/><line x1=\"106\" y1=\"106\" x2=\"96\" y2=\"140\"/><line x1=\"106\" y1=\"106\" x2=\"116\" y2=\"140\"/><circle cx=\"134\" cy=\"52\" r=\"10\"/><line x1=\"134\" y1=\"62\" x2=\"134\" y2=\"106\"/><line x1=\"134\" y1=\"106\" x2=\"124\" y2=\"140\"/><line x1=\"134\" y1=\"106\" x2=\"144\" y2=\"140\"/><line x1=\"106\" y1=\"74\" x2=\"120\" y2=\"88\"/><line x1=\"134\" y1=\"74\" x2=\"120\" y2=\"88\"/><line x1=\"106\" y1=\"74\" x2=\"94\" y2=\"96\"/><line x1=\"134\" y1=\"74\" x2=\"146\" y2=\"96\"/></g><text x=\"208\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ごく近い</text></svg>"
+  },
+  "etymology": "ラテン語 intimus(いちばん内側の。intus=内 の最上級) → 心のいちばん内側まで入る → 親密な・個人的な → (内側までくわしく)詳しい intimate knowledge → (動詞・内側に知らせる)ほのめかす",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "having a very close personal relationship; private and personal; detailed and thorough (intimate knowledge)."
+    },
+    {
+      "pos": "動詞",
+      "text": "to suggest something indirectly; to hint."
+    }
+  ],
+  "cautions": [
+    "an intimate friend=ごく親しい友人。異性間では性的な関係をにおわせることがあるので、ふつうは a close friend が無難",
+    "intimate knowledge of A=Aについての詳しい知識",
+    "動詞は発音が変わる:/ˈɪntɪmeɪt/(〜メイト)=ほのめかす(hint・imply と同じ)",
+    "名詞 intimacy=親密さ"
+  ],
+  "patterns": [
+    {
+      "form": "an intimate friend",
+      "meaning": "ごく親しい友人"
+    },
+    {
+      "form": "be intimate with A",
+      "meaning": "Aと親密である"
+    },
+    {
+      "form": "intimate knowledge of A",
+      "meaning": "Aについての詳しい知識"
+    },
+    {
+      "form": "an intimate atmosphere",
+      "meaning": "くつろいだ雰囲気"
+    },
+    {
+      "form": "intimate that S V",
+      "meaning": "〜とほのめかす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "親密",
+      "en": "They have been intimate friends since childhood.",
+      "ja": "2人は子どものころからごく親しい友人だ。"
+    },
+    {
+      "source": "original",
+      "label": "個人的",
+      "en": "He never talks about the intimate details of his life.",
+      "ja": "彼は自分の生活の個人的なことを決して話さない。"
+    },
+    {
+      "source": "original",
+      "label": "詳しい",
+      "en": "The guide has an intimate knowledge of the city's history.",
+      "ja": "そのガイドは町の歴史を詳しく知っている。"
+    },
+    {
+      "source": "original",
+      "label": "くつろいだ",
+      "en": "The small restaurant has an intimate atmosphere.",
+      "ja": "その小さなレストランはくつろいだ雰囲気だ。"
+    },
+    {
+      "source": "original",
+      "label": "ほのめかす",
+      "en": "She intimated that she might leave the company.",
+      "ja": "彼女は会社を辞めるかもしれないとほのめかした。"
+    },
+    {
+      "source": "original",
+      "label": "親密である",
+      "en": "The writer was intimate with many famous artists.",
+      "ja": "その作家は多くの有名な画家と親しかった。"
+    }
+  ],
+  "check_points": [
+    "intimate knowledge of A の意味を言えるか",
+    "動詞 intimate の意味と発音を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "intimate(親密な・詳しい)が長文で出る。動詞(ほのめかす)は発音・意味ともに上位校で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1000
+    }
+  ]
+}

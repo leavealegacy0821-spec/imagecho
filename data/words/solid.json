@@ -1,0 +1,103 @@
+{
+  "word": "solid",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/ˈsɑːlɪd/",
+  "core_image": {
+    "text": "中までぎっしり詰まって、びくともしない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"76\" y=\"60\" width=\"74\" height=\"74\"/><polygon points=\"76,60 98,38 172,38 150,60\"/><polygon points=\"150,60 172,38 172,112 150,134\"/><line x1=\"76\" y1=\"84\" x2=\"100\" y2=\"60\"/><line x1=\"76\" y1=\"110\" x2=\"126\" y2=\"60\"/><line x1=\"76\" y1=\"134\" x2=\"150\" y2=\"60\"/><line x1=\"102\" y1=\"134\" x2=\"150\" y2=\"86\"/><line x1=\"128\" y1=\"134\" x2=\"150\" y2=\"112\"/></g><text x=\"120\" y=\"154\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">中までぎっしり</text></svg>"
+  },
+  "etymology": "ラテン語 solidus(まるごと・しっかりした) → 中まで詰まった・固い → 固体 → (揺らがない)頑丈な・確かな solid evidence → (まじりけなし)純〜 solid gold → (切れ目がない)連続した for three solid hours",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "hard and firm, not liquid or gas; not hollow; strong and reliable; made of one material only; continuous, without a break."
+    },
+    {
+      "pos": "名詞",
+      "text": "a substance that is hard and firm, not a liquid or gas."
+    }
+  ],
+  "cautions": [
+    "solid evidence / reasons=確かな証拠・しっかりした理由(「固い」以外の意味が長文で出る)",
+    "solid gold=純金(中まで全部金)。hollow(中が空洞の)と対",
+    "時間+solid:for three solid hours / three hours solid=まる3時間ぶっ通しで",
+    "solid food=(液体でない)固形食。solidarity=団結(派生語)"
+  ],
+  "patterns": [
+    {
+      "form": "solid food / ground",
+      "meaning": "固形食・固い地面"
+    },
+    {
+      "form": "solid evidence",
+      "meaning": "確かな証拠"
+    },
+    {
+      "form": "solid gold / wood",
+      "meaning": "純金・無垢材"
+    },
+    {
+      "form": "for three solid hours",
+      "meaning": "まる3時間ぶっ通しで"
+    },
+    {
+      "form": "a solid",
+      "meaning": "固体"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "固体",
+      "en": "Water turns into a solid when it freezes.",
+      "ja": "水は凍ると固体になる。"
+    },
+    {
+      "source": "original",
+      "label": "固形",
+      "en": "The baby is too young to eat solid food.",
+      "ja": "その赤ちゃんはまだ固形食を食べられない。"
+    },
+    {
+      "source": "original",
+      "label": "確かな",
+      "en": "The police have no solid evidence against him.",
+      "ja": "警察には彼に不利な確かな証拠がない。"
+    },
+    {
+      "source": "original",
+      "label": "しっかりした",
+      "en": "She has a solid understanding of grammar.",
+      "ja": "彼女は文法をしっかり理解している。"
+    },
+    {
+      "source": "original",
+      "label": "純〜",
+      "en": "The ring is made of solid gold.",
+      "ja": "その指輪は純金でできている。"
+    },
+    {
+      "source": "original",
+      "label": "ぶっ通し",
+      "en": "It rained for three solid days.",
+      "ja": "まる3日間雨が降り続いた。"
+    }
+  ],
+  "check_points": [
+    "solid evidence の意味を言えるか",
+    "for three solid hours の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "solid evidence(確かな証拠)、solid(固体)と liquid / gas の対比が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 994
+    }
+  ]
+}

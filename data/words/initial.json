@@ -1,0 +1,108 @@
+{
+  "word": "initial",
+  "pos": [
+    "形容詞",
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ɪˈnɪʃəl/",
+  "core_image": {
+    "text": "いちばん最初の、はじまりの一歩",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"72\" width=\"50\" height=\"40\"/><rect x=\"36\" y=\"78\" width=\"38\" height=\"28\"/><rect x=\"95\" y=\"72\" width=\"50\" height=\"40\"/><rect x=\"160\" y=\"72\" width=\"50\" height=\"40\"/><line x1=\"80\" y1=\"92\" x2=\"95\" y2=\"92\"/><line x1=\"145\" y1=\"92\" x2=\"160\" y2=\"92\"/><line x1=\"55\" y1=\"28\" x2=\"55\" y2=\"66\"/><polyline points=\"58.8,59 55,66 51.2,59\"/></g><text x=\"94\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">最初</text></svg>"
+  },
+  "etymology": "in(中へ) + it(行く) → 中へ入っていく → (物事の)入り口・始まり(initiate と同じ) → 最初の・初期の → (名前の入り口の文字)頭文字 → (動詞)頭文字で署名する",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "happening at the beginning; first."
+    },
+    {
+      "pos": "名詞",
+      "text": "the first letter of a name."
+    },
+    {
+      "pos": "動詞",
+      "text": "to write your initials on a document to show that you agree with it."
+    }
+  ],
+  "cautions": [
+    "initial は名詞の前に置いて使う(The stage is initial. とはふつう言わない)",
+    "副詞 initially=最初は(あとで変わったことを含む:Initially I disliked him, but…)",
+    "名詞 initials(複数)=(姓名の)頭文字:J. K. R.",
+    "動詞 initiate=始める・(人を)入会させる/initiative=主導権・自発性(take the initiative)"
+  ],
+  "patterns": [
+    {
+      "form": "the initial stage",
+      "meaning": "初期段階"
+    },
+    {
+      "form": "one's initial reaction",
+      "meaning": "最初の反応"
+    },
+    {
+      "form": "initially",
+      "meaning": "最初は(のちに変わる)"
+    },
+    {
+      "form": "one's initials",
+      "meaning": "頭文字"
+    },
+    {
+      "form": "initial A",
+      "meaning": "Aに頭文字で署名する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "初期",
+      "en": "The project is still in its initial stage.",
+      "ja": "その計画はまだ初期段階にある。"
+    },
+    {
+      "source": "original",
+      "label": "最初の",
+      "en": "My initial reaction was surprise.",
+      "ja": "私の最初の反応は驚きだった。"
+    },
+    {
+      "source": "original",
+      "label": "最初は",
+      "en": "Initially, I didn't like him, but now we are good friends.",
+      "ja": "最初は彼が好きではなかったが、今では仲のいい友達だ。"
+    },
+    {
+      "source": "original",
+      "label": "最初は",
+      "en": "The test was initially planned for June.",
+      "ja": "その試験は当初6月に予定されていた。"
+    },
+    {
+      "source": "original",
+      "label": "頭文字",
+      "en": "She wrote her initials on the back of the photo.",
+      "ja": "彼女は写真の裏に自分の頭文字を書いた。"
+    },
+    {
+      "source": "original",
+      "label": "署名",
+      "en": "Please initial each page of the contract.",
+      "ja": "契約書の各ページに頭文字で署名してください。"
+    }
+  ],
+  "check_points": [
+    "initially の意味とニュアンスを言えるか",
+    "名詞 initials の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "initial / initially(最初は)が長文で頻出。initiative(主導権)との区別も問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 999
+    }
+  ]
+}
