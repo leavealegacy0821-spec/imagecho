@@ -1,0 +1,98 @@
+{
+  "word": "fee",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/fiː/",
+  "core_image": {
+    "text": "専門の人や場所に払う、決まった料金",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"90\" y2=\"80\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"98\"/><circle cx=\"102\" cy=\"80\" r=\"8\"/><line x1=\"114\" y1=\"80\" x2=\"150\" y2=\"80\"/><polyline points=\"143,76.2 150,80 143,83.8\"/><rect x=\"160\" y=\"60\" width=\"60\" height=\"80\"/><line x1=\"160\" y1=\"80\" x2=\"220\" y2=\"80\"/></g><text x=\"190\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">窓口</text><text x=\"102\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">料金</text></svg>"
+  },
+  "etymology": "古フランス語 fé(封土・報酬) → (仕えた人への)報酬 → (専門家・学校・入場への)料金・謝礼",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an amount of money that you pay for professional advice or services, or to enter or join something."
+    }
+  ],
+  "cautions": [
+    "fee=(医者・弁護士への)謝礼、授業料、入場料・会費",
+    "料金の使い分け:fare=運賃、charge=サービス料、fine=罰金、price=値段、fee=謝礼・手数料・入会金",
+    "school fees / tuition fee=授業料、entrance fee=入場料・入学金",
+    "高い・安いは high / low(×expensive fee)"
+  ],
+  "patterns": [
+    {
+      "form": "an entrance fee",
+      "meaning": "入場料・入学金"
+    },
+    {
+      "form": "a tuition fee",
+      "meaning": "授業料"
+    },
+    {
+      "form": "pay a fee",
+      "meaning": "料金を払う"
+    },
+    {
+      "form": "a membership fee",
+      "meaning": "会費"
+    },
+    {
+      "form": "fare / charge / fine",
+      "meaning": "運賃/料金/罰金"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "入場料",
+      "en": "The museum charges an entrance fee of 500 yen.",
+      "ja": "その博物館は500円の入場料を取る。"
+    },
+    {
+      "source": "original",
+      "label": "授業料",
+      "en": "University tuition fees have gone up.",
+      "ja": "大学の授業料が上がった。"
+    },
+    {
+      "source": "original",
+      "label": "謝礼",
+      "en": "The lawyer's fee was very high.",
+      "ja": "弁護士への謝礼はとても高かった。"
+    },
+    {
+      "source": "original",
+      "label": "会費",
+      "en": "You have to pay a membership fee to join the club.",
+      "ja": "クラブに入るには会費を払う必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "fare との区別",
+      "en": "The bus fare is cheap, but the parking fee is not.",
+      "ja": "バスの運賃は安いが、駐車料金は安くない。"
+    },
+    {
+      "source": "original",
+      "label": "high / low",
+      "en": "They offer the service for a low fee.",
+      "ja": "彼らはそのサービスを安い料金で提供している。"
+    }
+  ],
+  "check_points": [
+    "fee と fare の違いを言えるか",
+    "「高い料金」を fee で言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "料金を表す名詞(fee / fare / charge / fine / price)の使い分けで狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 940
+    }
+  ]
+}

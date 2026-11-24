@@ -1,0 +1,103 @@
+{
+  "word": "graduate",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈɡrædʒueɪt/",
+  "core_image": {
+    "text": "段を1つずつ上って、学校を出る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"20,140 20,120 60,120 60,100 100,100 100,80 140,80\"/><line x1=\"140\" y1=\"80\" x2=\"140\" y2=\"140\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"210\" y2=\"60\"/><line x1=\"190\" y1=\"74\" x2=\"178\" y2=\"96\"/><rect x=\"206\" y=\"50\" width=\"14\" height=\"10\"/><line x1=\"146\" y1=\"70\" x2=\"172\" y2=\"62\"/><polyline points=\"164.2,60.4 172,62 166.4,67.7\"/></g><text x=\"80\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">1段ずつ</text><text x=\"200\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">卒業</text></svg>"
+  },
+  "etymology": "grade(段・段階。gradual、degree と同じ根) + ate → 段階を上りきる → 卒業する。名詞 graduate=卒業生(発音 /ˈɡrædʒuət/)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to finish your studies at a school or university and receive a diploma or degree."
+    },
+    {
+      "pos": "名詞",
+      "text": "a person who has finished a course of study, especially at a university."
+    }
+  ],
+  "cautions": [
+    "graduate from A=Aを卒業する(from が必要。×graduate the school)",
+    "名詞 graduate=卒業生(a graduate of Tokyo University)。動詞と発音が少しちがう",
+    "名詞 graduation=卒業(graduation ceremony=卒業式)",
+    "graduate school=大学院、graduate in A=Aを専攻して卒業する"
+  ],
+  "patterns": [
+    {
+      "form": "graduate from A",
+      "meaning": "Aを卒業する"
+    },
+    {
+      "form": "a graduate of A",
+      "meaning": "Aの卒業生"
+    },
+    {
+      "form": "graduation",
+      "meaning": "卒業"
+    },
+    {
+      "form": "graduate school",
+      "meaning": "大学院"
+    },
+    {
+      "form": "graduate in A",
+      "meaning": "Aを専攻して卒業する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "graduate from",
+      "en": "My brother graduated from high school last year.",
+      "ja": "兄は去年高校を卒業した。"
+    },
+    {
+      "source": "original",
+      "label": "from が必要",
+      "en": "After she graduates from college, she wants to work abroad.",
+      "ja": "大学を卒業したら、彼女は海外で働きたいと思っている。"
+    },
+    {
+      "source": "original",
+      "label": "graduate in",
+      "en": "He graduated in economics.",
+      "ja": "彼は経済学を専攻して卒業した。"
+    },
+    {
+      "source": "original",
+      "label": "卒業生",
+      "en": "She is a graduate of this school.",
+      "ja": "彼女はこの学校の卒業生だ。"
+    },
+    {
+      "source": "original",
+      "label": "graduation(名詞)",
+      "en": "My parents came to my graduation ceremony.",
+      "ja": "両親が卒業式に来てくれた。"
+    },
+    {
+      "source": "original",
+      "label": "graduate school",
+      "en": "He went on to graduate school to study physics.",
+      "ja": "彼は物理学を学ぶため大学院に進んだ。"
+    }
+  ],
+  "check_points": [
+    "「Aを卒業する」を graduate を使って言えるか",
+    "名詞 graduate の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "graduate from A の from の有無が正誤問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 937
+    }
+  ]
+}

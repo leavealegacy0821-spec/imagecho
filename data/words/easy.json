@@ -1,0 +1,98 @@
+{
+  "word": "easy",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈiːzi/",
+  "core_image": {
+    "text": "力を入れなくても、すっと進む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"20\" y1=\"90\" x2=\"220\" y2=\"140\"/><circle cx=\"60\" cy=\"12\" r=\"10\"/><line x1=\"60\" y1=\"22\" x2=\"60\" y2=\"66\"/><line x1=\"60\" y1=\"66\" x2=\"50\" y2=\"100\"/><line x1=\"60\" y1=\"66\" x2=\"70\" y2=\"100\"/><line x1=\"60\" y1=\"34\" x2=\"40\" y2=\"44\"/><line x1=\"60\" y1=\"34\" x2=\"80\" y2=\"44\"/><line x1=\"104\" y1=\"96\" x2=\"150\" y2=\"108\"/><polyline points=\"144.2,102.5 150,108 142.2,109.9\"/></g><text x=\"180\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すいすい</text></svg>"
+  },
+  "etymology": "古フランス語 aisie(くつろいだ。ease と同じ) → 楽な・気楽な → たやすい → (動作が)ゆったりした=take it easy",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not difficult; comfortable and without worry."
+    }
+  ],
+  "cautions": [
+    "A is easy to do(タフ構文):This book is easy to read=この本は読みやすい。to do の目的語が主語になり、最後に it は置かない(×easy to read it)",
+    "人を主語にしない:×I am easy to do → ○It is easy for me to do",
+    "take it easy=気楽にやる・無理しない、be easy on A=Aに優しくする",
+    "副詞 easily=容易に、名詞 ease=気楽さ(with ease=楽々と)"
+  ],
+  "patterns": [
+    {
+      "form": "A is easy to do",
+      "meaning": "Aは〜しやすい"
+    },
+    {
+      "form": "It is easy for A to do",
+      "meaning": "Aが〜するのはたやすい"
+    },
+    {
+      "form": "take it easy",
+      "meaning": "気楽にやる"
+    },
+    {
+      "form": "with ease",
+      "meaning": "楽々と"
+    },
+    {
+      "form": "easily",
+      "meaning": "容易に"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "A is easy to do",
+      "en": "This question is easy to answer.",
+      "ja": "この問題は答えやすい。"
+    },
+    {
+      "source": "original",
+      "label": "It is easy for A to do",
+      "en": "It is easy for him to make friends.",
+      "ja": "彼は友だちを作るのが得意だ。"
+    },
+    {
+      "source": "original",
+      "label": "to do の後ろに it を置かない",
+      "en": "His handwriting is not easy to read.",
+      "ja": "彼の字は読みにくい。"
+    },
+    {
+      "source": "original",
+      "label": "take it easy",
+      "en": "You worked hard today, so take it easy tonight.",
+      "ja": "今日はよく働いたから、今夜はゆっくりして。"
+    },
+    {
+      "source": "original",
+      "label": "with ease",
+      "en": "She solved the puzzle with ease.",
+      "ja": "彼女はそのパズルを楽々と解いた。"
+    },
+    {
+      "source": "original",
+      "label": "気楽な",
+      "en": "He lives an easy life in the country.",
+      "ja": "彼はいなかで気楽な暮らしをしている。"
+    }
+  ],
+  "check_points": [
+    "This book is easy to read it. の誤りを言えるか",
+    "with ease を1語の副詞で言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "タフ構文(A is easy to do)と人を主語にしない形の正誤問題が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 934
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "necessary",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈnesəseri/",
+  "core_image": {
+    "text": "それなしでは、先へ進めない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"80\" y2=\"80\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"98\"/><rect x=\"88\" y=\"70\" width=\"20\" height=\"16\"/><line x1=\"140\" y1=\"140\" x2=\"140\" y2=\"60\"/><line x1=\"140\" y1=\"60\" x2=\"200\" y2=\"60\"/><line x1=\"200\" y1=\"60\" x2=\"200\" y2=\"140\"/><rect x=\"164\" y=\"96\" width=\"16\" height=\"10\"/></g><text x=\"170\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">これがないと</text></svg>"
+  },
+  "etymology": "ne(〜でない) + cess(退く・ゆずる。cease と同じ根) → ゆずれない・避けられない → 必要な。名詞 necessity=必要・必需品",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "needed in order to achieve something; that must be done."
+    }
+  ],
+  "cautions": [
+    "人を主語にしない:×You are necessary to go → ○It is necessary for you to go",
+    "It is necessary that S (should) 原形=〜することが必要だ(that 節の動詞は原形)",
+    "if necessary=必要なら、not necessarily=必ずしも〜ない(部分否定)",
+    "名詞 necessity=必要(性)・必需品、動詞 need"
+  ],
+  "patterns": [
+    {
+      "form": "It is necessary for A to do",
+      "meaning": "Aが〜する必要がある"
+    },
+    {
+      "form": "It is necessary that S (should) 原形",
+      "meaning": "〜する必要がある"
+    },
+    {
+      "form": "if necessary",
+      "meaning": "必要なら"
+    },
+    {
+      "form": "not necessarily",
+      "meaning": "必ずしも〜ない"
+    },
+    {
+      "form": "necessity",
+      "meaning": "必要・必需品"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "It is necessary for A to do",
+      "en": "It is necessary for you to bring your passport.",
+      "ja": "パスポートを持ってくる必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "that S 原形",
+      "en": "It is necessary that everyone be on time.",
+      "ja": "全員が時間を守ることが必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "必要な",
+      "en": "Water is necessary for all living things.",
+      "ja": "水はすべての生き物に必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "if necessary",
+      "en": "I will stay late if necessary.",
+      "ja": "必要なら遅くまで残ります。"
+    },
+    {
+      "source": "original",
+      "label": "not necessarily",
+      "en": "Expensive things are not necessarily good.",
+      "ja": "高いものが必ずしも良いとは限らない。"
+    },
+    {
+      "source": "original",
+      "label": "necessity(名詞)",
+      "en": "A car is a necessity in this area.",
+      "ja": "この地域では車は必需品だ。"
+    }
+  ],
+  "check_points": [
+    "You are necessary to go が誤りである理由を言えるか",
+    "not necessarily の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "人を主語にしない形と that S (should) 原形、not necessarily(部分否定)が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 933
+    }
+  ]
+}

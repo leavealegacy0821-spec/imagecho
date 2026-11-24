@@ -1,0 +1,103 @@
+{
+  "word": "reply",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/rɪˈplaɪ/",
+  "core_image": {
+    "text": "来たものを、折り返して相手へ返す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"60\" y2=\"70\"/><line x1=\"40\" y1=\"74\" x2=\"30\" y2=\"98\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"180\" y2=\"70\"/><line x1=\"200\" y1=\"74\" x2=\"210\" y2=\"98\"/><line x1=\"70\" y1=\"50\" x2=\"170\" y2=\"50\"/><polyline points=\"163,46.2 170,50 163,53.8\"/><line x1=\"170\" y1=\"80\" x2=\"70\" y2=\"80\"/><polyline points=\"77,83.8 70,80 77,76.2\"/><rect x=\"110\" y=\"96\" width=\"20\" height=\"14\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">来た</text><text x=\"120\" y=\"126\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">折り返す</text></svg>"
+  },
+  "etymology": "re(元へ) + ply(折る。apply、imply と同じ根) → 折り返す → 返事をする・答える",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to answer someone by saying or writing something."
+    },
+    {
+      "pos": "名詞",
+      "text": "an answer to a question, letter or message."
+    }
+  ],
+  "cautions": [
+    "reply to A=Aに返事をする(to が必要。×reply the letter → ○reply to the letter)",
+    "answer は他動詞(answer the letter)。reply to と answer の区別が狙われる",
+    "in reply (to A)=(Aへの)返事として",
+    "reply that S V=〜と答える"
+  ],
+  "patterns": [
+    {
+      "form": "reply to A",
+      "meaning": "Aに返事をする"
+    },
+    {
+      "form": "reply that S V",
+      "meaning": "〜と答える"
+    },
+    {
+      "form": "in reply to A",
+      "meaning": "Aへの返事として"
+    },
+    {
+      "form": "answer A",
+      "meaning": "Aに答える(前置詞なし)"
+    },
+    {
+      "form": "make no reply",
+      "meaning": "返事をしない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "reply to",
+      "en": "Please reply to this email by tomorrow.",
+      "ja": "明日までにこのメールに返信してください。"
+    },
+    {
+      "source": "original",
+      "label": "answer との区別",
+      "en": "He didn't reply to my question, so I answered it myself.",
+      "ja": "彼が私の質問に答えなかったので、自分で答えた。"
+    },
+    {
+      "source": "original",
+      "label": "reply that",
+      "en": "She replied that she was too busy.",
+      "ja": "彼女は忙しすぎると答えた。"
+    },
+    {
+      "source": "original",
+      "label": "in reply to",
+      "en": "In reply to your letter, I am sending the catalog.",
+      "ja": "お手紙への返事として、カタログをお送りします。"
+    },
+    {
+      "source": "original",
+      "label": "返事",
+      "en": "I am still waiting for a reply from the company.",
+      "ja": "私はまだその会社からの返事を待っている。"
+    },
+    {
+      "source": "original",
+      "label": "make no reply",
+      "en": "He made no reply and left the room.",
+      "ja": "彼は返事をせずに部屋を出た。"
+    }
+  ],
+  "check_points": [
+    "reply to A と answer A の違いを言えるか",
+    "in reply to A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "reply to A(to が必要)と answer A(前置詞不要)の区別が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 938
+    }
+  ]
+}

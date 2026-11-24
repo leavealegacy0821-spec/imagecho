@@ -1,0 +1,103 @@
+{
+  "word": "damage",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈdæmɪdʒ/",
+  "core_image": {
+    "text": "物の価値を、ひびを入れて損なう",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"60\" y=\"60\" width=\"120\" height=\"80\"/><polyline points=\"110,60 120,80 108,96 122,114 114,140\"/><line x1=\"150\" y1=\"20\" x2=\"170\" y2=\"44\"/><line x1=\"170\" y1=\"20\" x2=\"150\" y2=\"44\"/></g><text x=\"40\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひび</text></svg>"
+  },
+  "etymology": "ラテン語 damnum(損失。condemn の damn と同じ根) → 損害・被害 → 損なう。複数形 damages は「損害賠償金」",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "physical harm that makes something less valuable or useful."
+    },
+    {
+      "pos": "動詞",
+      "text": "to harm or spoil something."
+    }
+  ],
+  "cautions": [
+    "名詞 damage は不可算:×a damage / ×many damages → ○much damage / a lot of damage",
+    "do [cause] damage to A=Aに損害を与える(to を使う)",
+    "damages(複数形)=損害賠償金",
+    "動詞 damage は物に使う。人のけがは injure / hurt"
+  ],
+  "patterns": [
+    {
+      "form": "do damage to A",
+      "meaning": "Aに損害を与える"
+    },
+    {
+      "form": "cause damage to A",
+      "meaning": "Aに被害をもたらす"
+    },
+    {
+      "form": "much damage",
+      "meaning": "大きな被害(不可算)"
+    },
+    {
+      "form": "damages",
+      "meaning": "損害賠償金"
+    },
+    {
+      "form": "damage A",
+      "meaning": "Aを損なう"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "do damage to",
+      "en": "The typhoon did a lot of damage to the crops.",
+      "ja": "台風は作物に大きな被害を与えた。"
+    },
+    {
+      "source": "original",
+      "label": "不可算",
+      "en": "The fire caused serious damage to the building.",
+      "ja": "火事は建物に深刻な損害をもたらした。"
+    },
+    {
+      "source": "original",
+      "label": "損なう(動詞)",
+      "en": "Too much sun can damage your skin.",
+      "ja": "日光を浴びすぎると肌がいたむことがある。"
+    },
+    {
+      "source": "original",
+      "label": "評判を損なう",
+      "en": "The scandal damaged the company's reputation.",
+      "ja": "その不祥事は会社の評判を傷つけた。"
+    },
+    {
+      "source": "original",
+      "label": "damages",
+      "en": "The court ordered him to pay damages.",
+      "ja": "裁判所は彼に損害賠償金の支払いを命じた。"
+    },
+    {
+      "source": "original",
+      "label": "injure との区別",
+      "en": "The car was damaged, but the driver was not injured.",
+      "ja": "車は壊れたが、運転手にけがはなかった。"
+    }
+  ],
+  "check_points": [
+    "a damage が誤りである理由を言えるか",
+    "damages(複数形)の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "不可算名詞(damage / advice / information)と do damage to A が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 939
+    }
+  ]
+}

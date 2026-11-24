@@ -1,0 +1,107 @@
+{
+  "word": "win",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/wɪn/",
+  "core_image": {
+    "text": "競って、ほしいものを手に入れる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"100\" y=\"110\" width=\"40\" height=\"30\"/><circle cx=\"120\" cy=\"22\" r=\"10\"/><line x1=\"120\" y1=\"32\" x2=\"120\" y2=\"76\"/><line x1=\"120\" y1=\"76\" x2=\"110\" y2=\"110\"/><line x1=\"120\" y1=\"76\" x2=\"130\" y2=\"110\"/><line x1=\"120\" y1=\"44\" x2=\"102\" y2=\"26\"/><line x1=\"120\" y1=\"44\" x2=\"138\" y2=\"26\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"42\" y2=\"98\"/><line x1=\"50\" y1=\"74\" x2=\"58\" y2=\"98\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"182\" y2=\"98\"/><line x1=\"190\" y1=\"74\" x2=\"198\" y2=\"98\"/></g><text x=\"50\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">相手</text><text x=\"190\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">相手</text></svg>"
+  },
+  "etymology": "古英語 winnan(苦労する・戦う) → 戦って勝つ → (勝って)手に入れる=賞・試合・支持を得る → win A over=Aを味方につける",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be the best in a game, race or competition; to get something such as a prize or support because of your effort."
+    },
+    {
+      "pos": "名詞",
+      "text": "a victory in a game or competition."
+    }
+  ],
+  "cautions": [
+    "win の目的語は「試合・賞・勝利」(win the game / win a prize)。相手の人・チームには beat を使う(×win him → ○beat him)",
+    "win A=(努力して)Aを得る(win support / win the respect of A)",
+    "活用 win - won - won(発音 /wʌn/=one と同じ)",
+    "win A over / win over A=Aを説得して味方にする"
+  ],
+  "patterns": [
+    {
+      "form": "win the game",
+      "meaning": "試合に勝つ"
+    },
+    {
+      "form": "win a prize",
+      "meaning": "賞を取る"
+    },
+    {
+      "form": "beat A",
+      "meaning": "A(相手)を負かす"
+    },
+    {
+      "form": "win A's respect",
+      "meaning": "Aの尊敬を得る"
+    },
+    {
+      "form": "win A over",
+      "meaning": "Aを味方にする"
+    },
+    {
+      "form": "win or lose",
+      "meaning": "勝っても負けても"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "試合に勝つ",
+      "en": "Our team won the final by two goals.",
+      "ja": "私たちのチームは2点差で決勝に勝った。"
+    },
+    {
+      "source": "original",
+      "label": "beat との区別",
+      "en": "We beat the champions and won the tournament.",
+      "ja": "私たちは前回の優勝チームを破って大会に優勝した。"
+    },
+    {
+      "source": "original",
+      "label": "賞を取る",
+      "en": "She won first prize in the speech contest.",
+      "ja": "彼女はスピーチコンテストで1位になった。"
+    },
+    {
+      "source": "original",
+      "label": "得る",
+      "en": "The new leader soon won the trust of the people.",
+      "ja": "新しい指導者はすぐに人々の信頼を得た。"
+    },
+    {
+      "source": "original",
+      "label": "win over",
+      "en": "He finally won his parents over to his plan.",
+      "ja": "彼はついに両親を説得して計画に賛成してもらった。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The team has had three wins in a row.",
+      "ja": "そのチームは3連勝している。"
+    }
+  ],
+  "check_points": [
+    "win と beat の目的語のちがいを言えるか",
+    "win の過去形・過去分詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「相手に勝つ」は beat、「試合・賞に勝つ」は win の区別が正誤問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 931
+    }
+  ]
+}

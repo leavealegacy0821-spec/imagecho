@@ -1,0 +1,102 @@
+{
+  "word": "possible",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈpɑːsəbəl/",
+  "core_image": {
+    "text": "起こりうる、できる道がある",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"30\" y2=\"98\"/><line x1=\"40\" y1=\"74\" x2=\"50\" y2=\"98\"/><path d=\"M60 140 Q120 60 200 100\"/><path d=\"M60 140 Q120 110 200 130\" stroke-dasharray=\"4 4\"/><line x1=\"186\" y1=\"92\" x2=\"204\" y2=\"102\"/><polyline points=\"199.7,95.2 204,102 196,101.9\"/></g><text x=\"150\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">できる道</text></svg>"
+  },
+  "etymology": "posse(〜できる。power、potential と同じ根) + ible(〜されうる) → できる・ありうる → as 〜 as possible=できるだけ〜",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "able to be done or achieved; able to happen or exist."
+    }
+  ],
+  "cautions": [
+    "人を主語にしない:×I am possible to come → ○It is possible for me to come",
+    "as 〜 as possible=できるだけ〜(= as 〜 as one can)",
+    "if possible=できれば、whenever possible=できるときはいつでも",
+    "反対 impossible。名詞 possibility=可能性。possibly=(can と)どうしても・ひょっとすると"
+  ],
+  "patterns": [
+    {
+      "form": "It is possible for A to do",
+      "meaning": "Aが〜することは可能だ"
+    },
+    {
+      "form": "It is possible that S V",
+      "meaning": "〜ということはありうる"
+    },
+    {
+      "form": "as soon as possible",
+      "meaning": "できるだけ早く"
+    },
+    {
+      "form": "if possible",
+      "meaning": "できれば"
+    },
+    {
+      "form": "possibility",
+      "meaning": "可能性"
+    },
+    {
+      "form": "possibly",
+      "meaning": "ひょっとすると"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "It is possible for A to do",
+      "en": "Is it possible for you to finish the report by Friday?",
+      "ja": "金曜までに報告書を仕上げることはできますか。"
+    },
+    {
+      "source": "original",
+      "label": "ありうる",
+      "en": "It is possible that he missed the train.",
+      "ja": "彼が電車に乗り遅れたということはありうる。"
+    },
+    {
+      "source": "original",
+      "label": "as 〜 as possible",
+      "en": "Please reply as soon as possible.",
+      "ja": "できるだけ早く返事をください。"
+    },
+    {
+      "source": "original",
+      "label": "if possible",
+      "en": "I would like to sit by the window, if possible.",
+      "ja": "できれば窓側の席に座りたいのですが。"
+    },
+    {
+      "source": "original",
+      "label": "人は主語にしない",
+      "en": "It was not possible for us to attend the meeting.",
+      "ja": "私たちはその会議に出席できなかった。"
+    },
+    {
+      "source": "original",
+      "label": "possibility(名詞)",
+      "en": "There is a possibility of rain this afternoon.",
+      "ja": "午後は雨の可能性がある。"
+    }
+  ],
+  "check_points": [
+    "I am possible to do が誤りである理由を言えるか",
+    "as 〜 as possible の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "人を主語にできない形容詞(possible / necessary / convenient)の正誤問題が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 932
+    }
+  ]
+}
