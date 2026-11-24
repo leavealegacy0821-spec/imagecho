@@ -1,0 +1,103 @@
+{
+  "word": "stress",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/stres/",
+  "core_image": {
+    "text": "上からぎゅっと押しつける力",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"120,140 100,132 140,124 100,116 140,108 100,100 140,92 120,88\"/><rect x=\"85\" y=\"68\" width=\"70\" height=\"20\"/><line x1=\"120\" y1=\"18\" x2=\"120\" y2=\"62\"/><polyline points=\"123.8,55 120,62 116.2,55\"/></g><text x=\"192\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">押しつける</text></svg>"
+  },
+  "etymology": "distress(苦しめる)の短縮・ラテン語 strictus(きつく締めた。strict と同じ根) → ぎゅっと押しつける力 → (心にかかる)圧迫・ストレス → (言葉に)力をこめる → 強調(する)・強勢",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "worry caused by a difficult situation; physical pressure on an object; special importance given to something; extra force on part of a word."
+    },
+    {
+      "pos": "動詞",
+      "text": "to emphasize something; to make someone feel worried."
+    }
+  ],
+  "cautions": [
+    "「ストレス」だけで覚えない。stress the importance of A=Aの重要性を強調する(=emphasize)",
+    "lay [put / place] stress on A=Aを強調する・重視する(on を落とさない)",
+    "be stressed (out)=ストレスがたまっている/stressful=ストレスの多い(人ではなく状況)",
+    "単語の強勢(アクセント)も stress。the stress falls on the first syllable"
+  ],
+  "patterns": [
+    {
+      "form": "be under stress",
+      "meaning": "ストレスを受けている"
+    },
+    {
+      "form": "stress that SV",
+      "meaning": "〜ということを強調する"
+    },
+    {
+      "form": "stress the importance of A",
+      "meaning": "Aの重要性を強調する"
+    },
+    {
+      "form": "lay stress on A",
+      "meaning": "Aを強調・重視する"
+    },
+    {
+      "form": "be stressed (out)",
+      "meaning": "ストレスがたまっている"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ストレス",
+      "en": "Many students are under a lot of stress before exams.",
+      "ja": "多くの生徒は試験前に大きなストレスを受けている。"
+    },
+    {
+      "source": "original",
+      "label": "強調する",
+      "en": "The teacher stressed that we should read the questions carefully.",
+      "ja": "先生は問題をよく読むべきだと強調した。"
+    },
+    {
+      "source": "original",
+      "label": "強調する",
+      "en": "The report stresses the importance of sleep.",
+      "ja": "その報告書は睡眠の重要性を強調している。"
+    },
+    {
+      "source": "original",
+      "label": "重視",
+      "en": "Our school lays great stress on reading.",
+      "ja": "私たちの学校は読書をとても重視している。"
+    },
+    {
+      "source": "original",
+      "label": "ストレスがたまる",
+      "en": "I'm so stressed out about my homework.",
+      "ja": "宿題のことで本当にストレスがたまっている。"
+    },
+    {
+      "source": "original",
+      "label": "強勢",
+      "en": "In \"hotel,\" the stress is on the second syllable.",
+      "ja": "hotel では強勢が2つ目の音節にある。"
+    }
+  ],
+  "check_points": [
+    "stress that SV / lay stress on A の意味を言えるか",
+    "stressful と stressed の使い分けがわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「強調する」の意味(=emphasize)が長文・言い換えで頻出。lay stress on の on も狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1001
+    }
+  ]
+}

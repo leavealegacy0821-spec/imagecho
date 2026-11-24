@@ -1,0 +1,103 @@
+{
+  "word": "lift",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/lɪft/",
+  "core_image": {
+    "text": "下にあるものを、ぐっと上へ持ち上げる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><polyline points=\"120,72 98,60 100,32\"/><polyline points=\"120,72 142,60 140,32\"/><rect x=\"96\" y=\"8\" width=\"48\" height=\"24\"/><line x1=\"185\" y1=\"120\" x2=\"185\" y2=\"30\"/><polyline points=\"181.2,37 185,30 188.8,37\"/></g><text x=\"58\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">持ち上げる</text></svg>"
+  },
+  "etymology": "古ノルド語 lypta(空中へ上げる。loft と同じ根) → 持ち上げる → (気分を)高める lift one's spirits → (押さえつけていたものを)取り除く・解除する lift a ban → (人を持ち上げて運ぶ)車に乗せること give a lift → (英)エレベーター",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move something to a higher position; to make someone feel happier; to remove a rule or law that stops something."
+    },
+    {
+      "pos": "名詞",
+      "text": "a free ride in a car; (British) an elevator; a feeling of being happier."
+    }
+  ],
+  "cautions": [
+    "lift a ban [restriction]=禁止・制限を解除する(「持ち上げる」では読めない、長文頻出)",
+    "give A a lift=Aを車に乗せてあげる(=give A a ride)",
+    "lift one's spirits=元気づける/lift (英)=エレベーター(米 elevator)",
+    "霧などが晴れる=The fog lifted.(自動詞)"
+  ],
+  "patterns": [
+    {
+      "form": "lift A (up)",
+      "meaning": "Aを持ち上げる"
+    },
+    {
+      "form": "lift a ban on A",
+      "meaning": "Aの禁止を解除する"
+    },
+    {
+      "form": "give A a lift",
+      "meaning": "Aを車に乗せる"
+    },
+    {
+      "form": "lift one's spirits",
+      "meaning": "元気づける"
+    },
+    {
+      "form": "take the lift",
+      "meaning": "エレベーターに乗る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "持ち上げる",
+      "en": "This box is too heavy for me to lift.",
+      "ja": "この箱は重すぎて私には持ち上げられない。"
+    },
+    {
+      "source": "original",
+      "label": "持ち上げる",
+      "en": "She lifted the baby out of the bed.",
+      "ja": "彼女は赤ちゃんをベッドから抱き上げた。"
+    },
+    {
+      "source": "original",
+      "label": "解除する",
+      "en": "The government lifted the ban on the import of beef.",
+      "ja": "政府は牛肉の輸入禁止を解除した。"
+    },
+    {
+      "source": "original",
+      "label": "車に乗せる",
+      "en": "Can you give me a lift to the station?",
+      "ja": "駅まで車に乗せてくれる?"
+    },
+    {
+      "source": "original",
+      "label": "元気づける",
+      "en": "The good news lifted everyone's spirits.",
+      "ja": "その良い知らせはみんなを元気づけた。"
+    },
+    {
+      "source": "original",
+      "label": "晴れる",
+      "en": "The fog lifted, and we could see the mountain.",
+      "ja": "霧が晴れて山が見えた。"
+    }
+  ],
+  "check_points": [
+    "lift a ban の意味を言えるか",
+    "give A a lift の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "lift a ban(禁止を解除する)、give A a lift(車に乗せる)が長文・会話で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1002
+    }
+  ]
+}

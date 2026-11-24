@@ -1,0 +1,103 @@
+{
+  "word": "fuel",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈfjuːəl/",
+  "core_image": {
+    "text": "火に注ぎこんで、勢いを強めるもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"80\" y1=\"138\" x2=\"160\" y2=\"124\"/><line x1=\"80\" y1=\"124\" x2=\"160\" y2=\"138\"/><path d=\"M90 120 Q95 90 110 100 Q115 70 125 95 Q140 80 150 120 Z\"/><rect x=\"185\" y=\"20\" width=\"30\" height=\"30\"/><line x1=\"185\" y1=\"50\" x2=\"150\" y2=\"84\"/><polyline points=\"157.7,81.9 150,84 152.4,76.4\"/></g><text x=\"206\" y=\"72\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">燃料</text><text x=\"52\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">勢いを強める</text></svg>"
+  },
+  "etymology": "ラテン語 focus(炉。focus と同じ語) → 炉にくべるもの → 燃料 → 燃料を補給する → (火に油を注ぐように)感情・争い・物価などをあおる・勢いづける",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a substance such as coal, gas or oil that is burned to produce heat or power."
+    },
+    {
+      "pos": "動詞",
+      "text": "to supply something with fuel; to make a feeling, situation or activity stronger or worse."
+    }
+  ],
+  "cautions": [
+    "動詞 fuel A=Aをあおる・勢いづける(fuel anger / fuel inflation)。長文では「燃料」より動詞が狙われる",
+    "add fuel to the fire=火に油を注ぐ(事態を悪化させる)",
+    "fossil fuels=化石燃料(coal, oil, gas)。環境の長文で頻出",
+    "be fueled by A=Aによって勢いづく"
+  ],
+  "patterns": [
+    {
+      "form": "fossil fuels",
+      "meaning": "化石燃料"
+    },
+    {
+      "form": "fuel A",
+      "meaning": "Aをあおる・勢いづける"
+    },
+    {
+      "form": "be fueled by A",
+      "meaning": "Aによって勢いづく"
+    },
+    {
+      "form": "add fuel to the fire",
+      "meaning": "火に油を注ぐ"
+    },
+    {
+      "form": "run out of fuel",
+      "meaning": "燃料が切れる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "燃料",
+      "en": "We must reduce our use of fossil fuels.",
+      "ja": "私たちは化石燃料の使用を減らさなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "燃料",
+      "en": "The car ran out of fuel on the highway.",
+      "ja": "その車は高速道路で燃料切れになった。"
+    },
+    {
+      "source": "original",
+      "label": "あおる",
+      "en": "His remarks fueled public anger.",
+      "ja": "彼の発言は世間の怒りをあおった。"
+    },
+    {
+      "source": "original",
+      "label": "勢いづく",
+      "en": "Economic growth was fueled by exports.",
+      "ja": "経済成長は輸出によって勢いづいた。"
+    },
+    {
+      "source": "original",
+      "label": "火に油",
+      "en": "Arguing with him will only add fuel to the fire.",
+      "ja": "彼と言い争っても火に油を注ぐだけだ。"
+    },
+    {
+      "source": "original",
+      "label": "あおる",
+      "en": "Rumors on social media fueled fears about the virus.",
+      "ja": "SNS上のうわさがウイルスへの不安をあおった。"
+    }
+  ],
+  "check_points": [
+    "動詞 fuel(あおる)の意味を言えるか",
+    "add fuel to the fire の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "fossil fuels(化石燃料)と動詞 fuel(あおる)が環境・社会の長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1009
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "tone",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/toʊn/",
+  "core_image": {
+    "text": "全体に流れている、音や色の調子",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"72\" y2=\"96\"/><path d=\"M78 40 Q86 52 78 64\"/><path d=\"M90 32 Q102 52 90 72\"/><path d=\"M102 24 Q118 52 102 80\"/></g><text x=\"172\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">声の調子</text></svg>"
+  },
+  "etymology": "ギリシャ語 tonos(張ること) → 張った弦が出す音の高さ → 音・声の調子 → (話や文章の)口調・論調 → 色の濃淡・色調 → (張り具合)筋肉の張り → tone down=調子を落とす・和らげる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the quality of a sound or voice that shows a feeling; the general feeling or style of a piece of writing or an event; a shade of a color."
+    },
+    {
+      "pos": "動詞",
+      "text": "tone down: to make something less strong or extreme."
+    }
+  ],
+  "cautions": [
+    "in a ... tone (of voice)=〜な口調で(in を使う。in an angry tone)",
+    "文章の tone=論調・筆者の態度(長文の設問「筆者の論調は?」で頻出)",
+    "tone down A=Aを和らげる・控えめにする",
+    "色の tone=色調/set the tone for A=Aの雰囲気を決める"
+  ],
+  "patterns": [
+    {
+      "form": "in a ... tone",
+      "meaning": "〜な口調で"
+    },
+    {
+      "form": "the tone of A",
+      "meaning": "Aの論調・雰囲気"
+    },
+    {
+      "form": "set the tone for A",
+      "meaning": "Aの雰囲気を決める"
+    },
+    {
+      "form": "tone down A",
+      "meaning": "Aを和らげる"
+    },
+    {
+      "form": "a tone of color",
+      "meaning": "色調"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "口調",
+      "en": "She spoke in a gentle tone.",
+      "ja": "彼女は穏やかな口調で話した。"
+    },
+    {
+      "source": "original",
+      "label": "口調",
+      "en": "Don't talk to me in that tone of voice.",
+      "ja": "そんな口調で私に話さないで。"
+    },
+    {
+      "source": "original",
+      "label": "論調",
+      "en": "The tone of the article is rather critical.",
+      "ja": "その記事の論調はかなり批判的だ。"
+    },
+    {
+      "source": "original",
+      "label": "雰囲気",
+      "en": "His speech set the tone for the meeting.",
+      "ja": "彼のスピーチが会議の雰囲気を決めた。"
+    },
+    {
+      "source": "original",
+      "label": "和らげる",
+      "en": "The writer was asked to tone down his comments.",
+      "ja": "その作家は発言を和らげるよう求められた。"
+    },
+    {
+      "source": "original",
+      "label": "色調",
+      "en": "The room was painted in warm tones.",
+      "ja": "その部屋は暖かい色調で塗られていた。"
+    }
+  ],
+  "check_points": [
+    "in an angry tone の意味と前置詞を言えるか",
+    "tone down A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "in a ... tone、文章の論調(tone)を問う設問が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1004
+    }
+  ]
+}

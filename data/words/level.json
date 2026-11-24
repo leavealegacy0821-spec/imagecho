@@ -1,0 +1,112 @@
+{
+  "word": "level",
+  "pos": [
+    "名詞",
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/ˈlevəl/",
+  "core_image": {
+    "text": "横一線にそろった、その高さ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"20,140 20,115 70,115 70,90 120,90 120,65 170,65 170,40 220,40\"/><line x1=\"125\" y1=\"90\" x2=\"215\" y2=\"90\" stroke-dasharray=\"5 5\"/><polyline points=\"208,86.2 215,90 208,93.8\"/></g><text x=\"176\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">高さ・段階</text></svg>"
+  },
+  "etymology": "ラテン語 libella(水平をはかる道具。libra=天秤) → 水平・平らな → (水平線で見た)高さ → 段階・水準 high level → 平らにする・(建物を)なぎ倒す → (水平に構えて)向ける level criticism at A",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the height of something; the amount or degree of something; a stage or standard of ability."
+    },
+    {
+      "pos": "形容詞",
+      "text": "flat and even; at the same height or position as something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make something flat; to destroy a building completely; to aim criticism at someone."
+    }
+  ],
+  "cautions": [
+    "a high level of A=高い水準のA(at a ... level と前置詞 at)",
+    "sea level=海面/be level with A=Aと同じ高さ・同点だ",
+    "level A=Aを平らにする・(建物を)倒壊させる(長文で「レベル」と読むと誤る)",
+    "level criticism [an accusation] at A=Aに批判・非難を向ける"
+  ],
+  "patterns": [
+    {
+      "form": "a high / low level of A",
+      "meaning": "高い/低い水準のA"
+    },
+    {
+      "form": "at a ... level",
+      "meaning": "〜の段階・水準で"
+    },
+    {
+      "form": "above sea level",
+      "meaning": "海抜"
+    },
+    {
+      "form": "be level with A",
+      "meaning": "Aと同じ高さだ"
+    },
+    {
+      "form": "level A",
+      "meaning": "Aを平らにする・倒壊させる"
+    },
+    {
+      "form": "level criticism at A",
+      "meaning": "Aに批判を向ける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "水準",
+      "en": "The city has a high level of air pollution.",
+      "ja": "その市は大気汚染の水準が高い。"
+    },
+    {
+      "source": "original",
+      "label": "段階",
+      "en": "This book is written for students at an advanced level.",
+      "ja": "この本は上級段階の生徒向けに書かれている。"
+    },
+    {
+      "source": "original",
+      "label": "高さ",
+      "en": "The mountain is 2,000 meters above sea level.",
+      "ja": "その山は海抜2,000メートルだ。"
+    },
+    {
+      "source": "original",
+      "label": "同じ高さ",
+      "en": "Hold the picture level with your eyes.",
+      "ja": "絵を目と同じ高さに持ちなさい。"
+    },
+    {
+      "source": "original",
+      "label": "倒壊させる",
+      "en": "The earthquake leveled many old buildings.",
+      "ja": "その地震で多くの古い建物が倒壊した。"
+    },
+    {
+      "source": "original",
+      "label": "向ける",
+      "en": "Criticism was leveled at the government.",
+      "ja": "政府に批判が向けられた。"
+    }
+  ],
+  "check_points": [
+    "a high level of A の意味を言えるか",
+    "動詞 level(倒壊させる・向ける)の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "名詞「水準」が長文で頻出。動詞 level(倒壊させる・批判を向ける)も上位校で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1005
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "pitch",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/pɪtʃ/",
+  "core_image": {
+    "text": "ねらった所へ、ぐっと投げ入れて据える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"72\" y2=\"52\"/><line x1=\"50\" y1=\"74\" x2=\"36\" y2=\"96\"/><circle cx=\"80\" cy=\"44\" r=\"5\"/><line x1=\"90\" y1=\"46\" x2=\"205\" y2=\"82\" stroke-dasharray=\"5 5\"/><polyline points=\"199.4,76.2 205,82 197.2,83.6\"/></g><text x=\"150\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">投げる</text></svg>"
+  },
+  "etymology": "古い英語 picchen(突き立てる・据えつける・投げる) → 投げる・投球 → (地面に杭を突き立てて)テントを張る pitch a tent → (据えた)高さ → 音の高さ・程度 → (投げこむように)売り込む sales pitch → (英)競技場",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "how high or low a sound is; the level or degree of something; a talk to persuade people to buy something; (British) a sports field."
+    },
+    {
+      "pos": "動詞",
+      "text": "to throw a ball; to set up a tent; to try to sell or persuade."
+    }
+  ],
+  "cautions": [
+    "pitch a tent=テントを張る(「投げる」と結びつけにくいので狙われる)",
+    "音の高さ=pitch(声が高い=a high pitch)。音の大きさは volume",
+    "reach a high pitch=最高潮に達する(程度・高まり)",
+    "sales pitch=売り込み口上/(英)a football pitch=サッカー場"
+  ],
+  "patterns": [
+    {
+      "form": "pitch a ball",
+      "meaning": "ボールを投げる"
+    },
+    {
+      "form": "pitch a tent",
+      "meaning": "テントを張る"
+    },
+    {
+      "form": "the pitch of a sound",
+      "meaning": "音の高さ"
+    },
+    {
+      "form": "reach a high pitch",
+      "meaning": "最高潮に達する"
+    },
+    {
+      "form": "a sales pitch",
+      "meaning": "売り込み口上"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "投げる",
+      "en": "He pitched the ball as fast as he could.",
+      "ja": "彼は全力でボールを投げた。"
+    },
+    {
+      "source": "original",
+      "label": "テントを張る",
+      "en": "We pitched our tent by the river.",
+      "ja": "私たちは川のそばにテントを張った。"
+    },
+    {
+      "source": "original",
+      "label": "音の高さ",
+      "en": "Her voice has a very high pitch.",
+      "ja": "彼女の声はとても高い。"
+    },
+    {
+      "source": "original",
+      "label": "最高潮",
+      "en": "The excitement reached a high pitch at the end of the game.",
+      "ja": "試合の終盤に興奮は最高潮に達した。"
+    },
+    {
+      "source": "original",
+      "label": "売り込み",
+      "en": "The salesman gave us a long sales pitch.",
+      "ja": "その販売員は長々と売り込みをした。"
+    },
+    {
+      "source": "original",
+      "label": "競技場",
+      "en": "The players ran onto the pitch.",
+      "ja": "選手たちがグラウンドに駆け出した。"
+    }
+  ],
+  "check_points": [
+    "pitch a tent の意味を言えるか",
+    "pitch(音の高さ)と volume の違いがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "pitch a tent、音の高さの pitch が長文・リスニング関連で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1003
+    }
+  ]
+}

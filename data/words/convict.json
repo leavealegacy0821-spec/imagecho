@@ -1,0 +1,99 @@
+{
+  "word": "convict",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/kənˈvɪkt/",
+  "core_image": {
+    "text": "完全に打ち負かして、罪を認めさせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"50\" y=\"118\" width=\"60\" height=\"22\"/><polygon points=\"60,90 96,74 104,92 68,108\"/><line x1=\"100\" y1=\"83\" x2=\"170\" y2=\"40\"/><line x1=\"44\" y1=\"112\" x2=\"34\" y2=\"104\"/><line x1=\"116\" y1=\"112\" x2=\"126\" y2=\"104\"/></g><text x=\"182\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">有罪!</text></svg>"
+  },
+  "etymology": "con(完全に)+vict(打ち負かす。convince・victory と同じ根) → 完全に打ち負かす → 罪を証明する・有罪と判決する → 有罪になった人・囚人 → conviction=(打ち負かされて)有罪判決/(心が打ち負かされて)確信",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to officially decide in a court of law that someone is guilty of a crime."
+    },
+    {
+      "pos": "名詞",
+      "text": "a person who has been found guilty of a crime and sent to prison."
+    }
+  ],
+  "cautions": [
+    "convict A of B=AをBの罪で有罪とする(of を取る。accuse A of B と同じ型)",
+    "be convicted of murder=殺人で有罪判決を受ける(受け身で多い)",
+    "アクセント:動詞 con-VICT/名詞 CON-vict(囚人)",
+    "conviction=①有罪判決 ②確信・信念(a strong conviction that SV=〜という強い信念)"
+  ],
+  "patterns": [
+    {
+      "form": "convict A of B",
+      "meaning": "AをBの罪で有罪とする"
+    },
+    {
+      "form": "be convicted of B",
+      "meaning": "Bの罪で有罪になる"
+    },
+    {
+      "form": "a convicted criminal",
+      "meaning": "有罪判決を受けた犯罪者"
+    },
+    {
+      "form": "a conviction that SV",
+      "meaning": "〜という確信・信念"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "有罪とする",
+      "en": "The jury convicted him of robbery.",
+      "ja": "陪審は彼を強盗罪で有罪とした。"
+    },
+    {
+      "source": "original",
+      "label": "有罪になる",
+      "en": "She was convicted of stealing money from the company.",
+      "ja": "彼女は会社の金を盗んだ罪で有罪判決を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "有罪判決",
+      "en": "He has no previous convictions.",
+      "ja": "彼には前科がない。"
+    },
+    {
+      "source": "original",
+      "label": "確信",
+      "en": "She spoke with great conviction.",
+      "ja": "彼女は強い確信をもって話した。"
+    },
+    {
+      "source": "original",
+      "label": "信念",
+      "en": "He has a firm conviction that hard work pays off.",
+      "ja": "彼は努力は報われるという固い信念を持っている。"
+    },
+    {
+      "source": "original",
+      "label": "囚人",
+      "en": "The convict escaped from prison last night.",
+      "ja": "その囚人は昨夜刑務所から脱走した。"
+    }
+  ],
+  "check_points": [
+    "convict A of B の前置詞を言えるか",
+    "conviction の2つの意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "convict A of B(of の型)と conviction(確信)が語法・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1008
+    }
+  ]
+}

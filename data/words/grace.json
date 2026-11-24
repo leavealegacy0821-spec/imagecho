@@ -1,0 +1,103 @@
+{
+  "word": "grace",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ɡreɪs/",
+  "core_image": {
+    "text": "ふわりと与えられる、やわらかな恵み",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><path d=\"M120 72 Q92 66 88 32\"/><path d=\"M120 72 Q148 66 152 32\"/><path d=\"M84 26 Q120 4 156 26\"/></g><text x=\"46\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">恵み</text><text x=\"194\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">優雅</text></svg>"
+  },
+  "etymology": "ラテン語 gratia(好意・感謝。grateful・gratitude と同じ根) → 好意・恵み → 神の恵み → (恵まれた)上品さ・優雅さ → 好意で与える猶予 a grace period → 恵みへの感謝の祈り say grace",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a smooth and attractive way of moving; polite and kind behavior; extra time allowed to do something; a short prayer before a meal."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make something more attractive; to honor a place or event by being there."
+    }
+  ],
+  "cautions": [
+    "with good grace=快く・いさぎよく/with bad grace=しぶしぶ",
+    "grace period=猶予期間/say grace=食前のお祈りをする",
+    "graceful=優雅な(動き)/gracious=親切で礼儀正しい(態度)。形容詞の区別が狙われる",
+    "fall from grace=(地位や信用を)失う・失脚する"
+  ],
+  "patterns": [
+    {
+      "form": "with grace",
+      "meaning": "優雅に"
+    },
+    {
+      "form": "with good / bad grace",
+      "meaning": "快く/しぶしぶ"
+    },
+    {
+      "form": "a grace period",
+      "meaning": "猶予期間"
+    },
+    {
+      "form": "say grace",
+      "meaning": "食前の祈りをする"
+    },
+    {
+      "form": "grace A with one's presence",
+      "meaning": "Aに出席して花を添える"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "優雅さ",
+      "en": "The dancer moved with great grace.",
+      "ja": "そのダンサーはとても優雅に動いた。"
+    },
+    {
+      "source": "original",
+      "label": "快く",
+      "en": "He accepted the defeat with good grace.",
+      "ja": "彼はいさぎよく負けを認めた。"
+    },
+    {
+      "source": "original",
+      "label": "猶予",
+      "en": "You have a grace period of ten days to pay the fee.",
+      "ja": "料金の支払いには10日間の猶予がある。"
+    },
+    {
+      "source": "original",
+      "label": "祈り",
+      "en": "The family always says grace before dinner.",
+      "ja": "その家族は夕食の前にいつもお祈りをする。"
+    },
+    {
+      "source": "original",
+      "label": "花を添える",
+      "en": "The singer graced the party with her presence.",
+      "ja": "その歌手が出席してパーティーに花を添えた。"
+    },
+    {
+      "source": "original",
+      "label": "優雅な",
+      "en": "She is a graceful swimmer, and a gracious host.",
+      "ja": "彼女は優雅に泳ぎ、しかも親切なもてなし役でもある。"
+    }
+  ],
+  "check_points": [
+    "with good grace の意味を言えるか",
+    "graceful と gracious の違いがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "graceful / gracious の区別、with good grace が語彙問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1010
+    }
+  ]
+}

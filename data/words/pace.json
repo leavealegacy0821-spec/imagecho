@@ -1,0 +1,103 @@
+{
+  "word": "pace",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/peɪs/",
+  "core_image": {
+    "text": "一歩一歩きざんで進む、その速さ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"36\" y2=\"94\"/><line x1=\"50\" y1=\"74\" x2=\"66\" y2=\"92\"/><ellipse cx=\"100\" cy=\"134\" rx=\"7\" ry=\"3\"/><ellipse cx=\"130\" cy=\"134\" rx=\"7\" ry=\"3\"/><ellipse cx=\"160\" cy=\"134\" rx=\"7\" ry=\"3\"/><ellipse cx=\"190\" cy=\"134\" rx=\"7\" ry=\"3\"/><line x1=\"90\" y1=\"110\" x2=\"215\" y2=\"110\"/><polyline points=\"208,106.2 215,110 208,113.8\"/></g><text x=\"150\" y=\"96\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">進む速さ</text></svg>"
+  },
+  "etymology": "ラテン語 passus(一歩・歩幅。pass と同じ根) → 一歩・歩幅 → 歩く速さ・歩調 → (物事の)進み方・ペース → (一歩ずつ)行ったり来たりする pace up and down",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the speed at which someone walks or runs, or at which something happens; a single step."
+    },
+    {
+      "pos": "動詞",
+      "text": "to walk backward and forward in a small area, often because you are worried."
+    }
+  ],
+  "cautions": [
+    "at a ... pace=〜な速さで(前置詞 at。at a rapid pace)",
+    "keep pace with A=Aに遅れずについていく(=keep up with A)",
+    "set the pace=先頭に立って速さを決める・手本を示す",
+    "動詞 pace up and down=(不安で)行ったり来たりする"
+  ],
+  "patterns": [
+    {
+      "form": "at a ... pace",
+      "meaning": "〜な速さで"
+    },
+    {
+      "form": "keep pace with A",
+      "meaning": "Aに遅れずについていく"
+    },
+    {
+      "form": "at one's own pace",
+      "meaning": "自分のペースで"
+    },
+    {
+      "form": "set the pace",
+      "meaning": "先頭に立つ・手本となる"
+    },
+    {
+      "form": "pace up and down",
+      "meaning": "行ったり来たりする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "速さ",
+      "en": "Technology is changing at a rapid pace.",
+      "ja": "科学技術は急速に変化している。"
+    },
+    {
+      "source": "original",
+      "label": "ついていく",
+      "en": "Wages have not kept pace with rising prices.",
+      "ja": "賃金は物価の上昇に追いついていない。"
+    },
+    {
+      "source": "original",
+      "label": "自分のペース",
+      "en": "You can study at your own pace with this app.",
+      "ja": "このアプリでは自分のペースで勉強できる。"
+    },
+    {
+      "source": "original",
+      "label": "手本となる",
+      "en": "Our company set the pace for the whole industry.",
+      "ja": "わが社は業界全体の先頭に立った。"
+    },
+    {
+      "source": "original",
+      "label": "行ったり来たり",
+      "en": "He paced up and down the room, waiting for the call.",
+      "ja": "彼は電話を待ちながら部屋を行ったり来たりした。"
+    },
+    {
+      "source": "original",
+      "label": "歩",
+      "en": "She walked a few paces and stopped.",
+      "ja": "彼女は数歩歩いて立ち止まった。"
+    }
+  ],
+  "check_points": [
+    "keep pace with A の意味を言えるか",
+    "at a rapid pace の前置詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "at a rapid pace、keep pace with A(=keep up with)が長文・熟語で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1006
+    }
+  ]
+}
