@@ -1,0 +1,98 @@
+{
+  "word": "sake",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/seɪk/",
+  "core_image": {
+    "text": "だれか(何か)のためという、行いの理由",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"92\" y2=\"86\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"96\"/><line x1=\"98\" y1=\"82\" x2=\"146\" y2=\"100\" stroke-dasharray=\"5 5\"/><polyline points=\"140.8,93.9 146,100 138.1,101.1\"/><circle cx=\"164\" cy=\"98\" r=\"8\"/><line x1=\"164\" y1=\"106\" x2=\"164\" y2=\"124\"/><line x1=\"164\" y1=\"124\" x2=\"156\" y2=\"140\"/><line x1=\"164\" y1=\"124\" x2=\"172\" y2=\"140\"/></g><text x=\"170\" y=\"66\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">〜のために</text></svg>"
+  },
+  "etymology": "古英語 sacu(争い・訴え。のちに「〜の件・理由」) → だれかのための理由 → for the sake of A=Aのために",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "(for the sake of) in order to help, improve, or please someone or something."
+    }
+  ],
+  "cautions": [
+    "for the sake of A / for A's sake=Aのために(利益・目的)。単独ではまず使わない",
+    "for its own sake=それ自体のために(目的として)",
+    "for the sake of argument=議論のために(仮に)",
+    "発音 /seɪk/(日本酒の sake とは別語)"
+  ],
+  "patterns": [
+    {
+      "form": "for the sake of A",
+      "meaning": "Aのために"
+    },
+    {
+      "form": "for A's sake",
+      "meaning": "Aのために"
+    },
+    {
+      "form": "for its own sake",
+      "meaning": "それ自体のために"
+    },
+    {
+      "form": "for the sake of argument",
+      "meaning": "仮に・議論のために"
+    },
+    {
+      "form": "for goodness' sake",
+      "meaning": "お願いだから"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "for the sake of",
+      "en": "He moved to the country for the sake of his health.",
+      "ja": "彼は健康のために田舎へ引っ越した。"
+    },
+    {
+      "source": "original",
+      "label": "for A's sake",
+      "en": "Please be careful, for your mother's sake.",
+      "ja": "お母さんのためにも気をつけてね。"
+    },
+    {
+      "source": "original",
+      "label": "for its own sake",
+      "en": "She studies art for its own sake.",
+      "ja": "彼女は芸術そのものが好きで学んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "仮に",
+      "en": "Let's say, for the sake of argument, that he is right.",
+      "ja": "仮に彼が正しいとしよう。"
+    },
+    {
+      "source": "original",
+      "label": "お願いだから",
+      "en": "For goodness' sake, stop shouting!",
+      "ja": "お願いだから、どなるのはやめて。"
+    },
+    {
+      "source": "original",
+      "label": "目的",
+      "en": "They gave up the plan for the sake of safety.",
+      "ja": "彼らは安全のためにその計画をあきらめた。"
+    }
+  ],
+  "check_points": [
+    "for the sake of A を別の語順で言えるか",
+    "for its own sake の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "for the sake of A(=for A's sake)が熟語・整序問題で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 958
+    }
+  ]
+}

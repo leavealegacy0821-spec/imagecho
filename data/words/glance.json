@@ -1,0 +1,103 @@
+{
+  "word": "glance",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɡlæns/",
+  "core_image": {
+    "text": "さっと目をすべらせて、ちらっと見る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"72\" y2=\"96\"/><line x1=\"74\" y1=\"52\" x2=\"152\" y2=\"70\" stroke-dasharray=\"5 5\"/><polyline points=\"146,64.7 152,70 144.3,72.2\"/><rect x=\"160\" y=\"60\" width=\"50\" height=\"40\"/></g><text x=\"110\" y=\"32\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ちらっ</text></svg>"
+  },
+  "etymology": "古フランス語 glacier(すべる)と結びついたとされる → 目がすべるように動く → ちらっと見る・ひと目",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to look at someone or something quickly."
+    },
+    {
+      "pos": "名詞",
+      "text": "a quick look."
+    }
+  ],
+  "cautions": [
+    "glance at A=Aをちらっと見る(at が必要。×glance A)",
+    "at a glance=ひと目で、at first glance=一見したところ(では)",
+    "take / have a glance at A=Aをちらっと見る",
+    "stare / gaze=じっと見る、glance=ちらっと見る。見る時間の長さで区別"
+  ],
+  "patterns": [
+    {
+      "form": "glance at A",
+      "meaning": "Aをちらっと見る"
+    },
+    {
+      "form": "at a glance",
+      "meaning": "ひと目で"
+    },
+    {
+      "form": "at first glance",
+      "meaning": "一見したところ"
+    },
+    {
+      "form": "take a glance at A",
+      "meaning": "Aをちらっと見る"
+    },
+    {
+      "form": "glance through A",
+      "meaning": "Aにざっと目を通す"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "glance at",
+      "en": "She glanced at her watch.",
+      "ja": "彼女は腕時計をちらっと見た。"
+    },
+    {
+      "source": "original",
+      "label": "at a glance",
+      "en": "I could tell at a glance that he was sick.",
+      "ja": "ひと目で彼が具合が悪いとわかった。"
+    },
+    {
+      "source": "original",
+      "label": "at first glance",
+      "en": "At first glance, the question looked easy.",
+      "ja": "一見したところ、その問題は簡単そうだった。"
+    },
+    {
+      "source": "original",
+      "label": "take a glance",
+      "en": "He took a quick glance at the menu.",
+      "ja": "彼はメニューをさっと見た。"
+    },
+    {
+      "source": "original",
+      "label": "glance through",
+      "en": "I glanced through the newspaper during breakfast.",
+      "ja": "朝食中に新聞にざっと目を通した。"
+    },
+    {
+      "source": "original",
+      "label": "stare との対比",
+      "en": "He didn't stare at her; he only glanced at her.",
+      "ja": "彼は彼女をじっと見たのではなく、ちらっと見ただけだ。"
+    }
+  ],
+  "check_points": [
+    "glance の後ろに必要な前置詞を言えるか",
+    "at first glance の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "glance at の前置詞と at a glance / at first glance が熟語問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 959
+    }
+  ]
+}

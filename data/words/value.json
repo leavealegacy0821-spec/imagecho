@@ -1,0 +1,103 @@
+{
+  "word": "value",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈvæljuː/",
+  "core_image": {
+    "text": "そのものが持つ重みを、はかりにのせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"74\" y2=\"84\"/><line x1=\"150\" y1=\"60\" x2=\"150\" y2=\"140\"/><line x1=\"110\" y1=\"60\" x2=\"190\" y2=\"60\"/><line x1=\"110\" y1=\"60\" x2=\"110\" y2=\"90\"/><line x1=\"190\" y1=\"60\" x2=\"190\" y2=\"80\"/><line x1=\"96\" y1=\"90\" x2=\"124\" y2=\"90\"/><line x1=\"176\" y1=\"80\" x2=\"204\" y2=\"80\"/><polygon points=\"110,74 102,82 110,90 118,82\"/></g><text x=\"150\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">重み</text></svg>"
+  },
+  "etymology": "ラテン語 valere(強い・値打ちがある。valid・available と同じ根) → 持っている強さ・重み → 価値・値打ち → (動詞)価値を見積もる・大切にする",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "how much something is worth in money, or how important or useful it is; (values) beliefs about what is right."
+    },
+    {
+      "pos": "動詞",
+      "text": "to think that someone or something is important, or to decide how much something is worth."
+    }
+  ],
+  "cautions": [
+    "invaluable=計り知れないほど貴重な(「価値がない」ではない)。価値がない は valueless / worthless",
+    "be of value=価値がある(=valuable)。be of great value のように形容詞を入れる",
+    "動詞 value=大切にする(value A highly)/値踏みする(value A at 金額)",
+    "複数 values=価値観(family values など)"
+  ],
+  "patterns": [
+    {
+      "form": "be of value",
+      "meaning": "価値がある"
+    },
+    {
+      "form": "value A highly",
+      "meaning": "Aを高く評価する"
+    },
+    {
+      "form": "value A at 金額",
+      "meaning": "Aを〜と評価する"
+    },
+    {
+      "form": "invaluable",
+      "meaning": "計り知れないほど貴重な"
+    },
+    {
+      "form": "values",
+      "meaning": "価値観"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "価値",
+      "en": "The value of the old coin has doubled.",
+      "ja": "その古い硬貨の価値は2倍になった。"
+    },
+    {
+      "source": "original",
+      "label": "be of value",
+      "en": "This book will be of great value to students.",
+      "ja": "この本は学生にとって大いに役立つだろう。"
+    },
+    {
+      "source": "original",
+      "label": "大切にする",
+      "en": "I value our friendship more than anything.",
+      "ja": "私は何よりも私たちの友情を大切にしている。"
+    },
+    {
+      "source": "original",
+      "label": "値踏みする",
+      "en": "The painting was valued at one million yen.",
+      "ja": "その絵は100万円と評価された。"
+    },
+    {
+      "source": "original",
+      "label": "invaluable",
+      "en": "Her advice was invaluable to me.",
+      "ja": "彼女の助言は私にとってこの上なく貴重だった。"
+    },
+    {
+      "source": "original",
+      "label": "価値観",
+      "en": "Young people today have different values from their parents.",
+      "ja": "今の若者は親とはちがう価値観を持っている。"
+    }
+  ],
+  "check_points": [
+    "invaluable の意味を言えるか",
+    "be of value を1語の形容詞で言いかえられるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "invaluable(=非常に貴重な)のひっかけと be of value(=valuable)が語彙問題で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 951
+    }
+  ]
+}

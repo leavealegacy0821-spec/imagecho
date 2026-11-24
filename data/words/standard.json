@@ -1,0 +1,103 @@
+{
+  "word": "standard",
+  "pos": [
+    "名詞",
+    "形容詞"
+  ],
+  "ipa": "/ˈstændərd/",
+  "core_image": {
+    "text": "高く立てた旗=みんながそろえる目印",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"72\" y2=\"96\"/><line x1=\"160\" y1=\"140\" x2=\"160\" y2=\"30\"/><polygon points=\"160,30 200,40 160,50\"/><line x1=\"90\" y1=\"90\" x2=\"155\" y2=\"90\" stroke-dasharray=\"4 4\"/></g><text x=\"120\" y=\"78\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">基準</text></svg>"
+  },
+  "etymology": "古フランス語 estandart(軍旗。兵が集まる目印として立てた旗) → 目印 → 基準・水準 → (形容詞)基準どおりの・標準の",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a level of quality that is expected or used to judge things."
+    },
+    {
+      "pos": "形容詞",
+      "text": "normal or usual; accepted as correct."
+    }
+  ],
+  "cautions": [
+    "standard of living / living standards=生活水準(×level of life としない)",
+    "meet / reach the standard=基準を満たす、be up to standard=基準に達している",
+    "by A's standards=Aの基準からすると",
+    "形容詞:standard English=標準英語、standard size=標準サイズ"
+  ],
+  "patterns": [
+    {
+      "form": "standard of living",
+      "meaning": "生活水準"
+    },
+    {
+      "form": "meet the standard",
+      "meaning": "基準を満たす"
+    },
+    {
+      "form": "be up to standard",
+      "meaning": "基準に達している"
+    },
+    {
+      "form": "by A's standards",
+      "meaning": "Aの基準からすると"
+    },
+    {
+      "form": "set a standard",
+      "meaning": "基準を定める"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "生活水準",
+      "en": "The standard of living in the country has risen.",
+      "ja": "その国の生活水準は上がった。"
+    },
+    {
+      "source": "original",
+      "label": "基準を満たす",
+      "en": "The new car does not meet the safety standards.",
+      "ja": "その新車は安全基準を満たしていない。"
+    },
+    {
+      "source": "original",
+      "label": "up to standard",
+      "en": "His work was not up to standard.",
+      "ja": "彼の仕事は水準に達していなかった。"
+    },
+    {
+      "source": "original",
+      "label": "by ... standards",
+      "en": "By Japanese standards, the house is very large.",
+      "ja": "日本の基準からすると、その家はとても大きい。"
+    },
+    {
+      "source": "original",
+      "label": "set a standard",
+      "en": "The school set high standards for its students.",
+      "ja": "その学校は生徒に高い基準を定めた。"
+    },
+    {
+      "source": "original",
+      "label": "形容詞",
+      "en": "This is the standard way to use the machine.",
+      "ja": "これがその機械の標準的な使い方だ。"
+    }
+  ],
+  "check_points": [
+    "「生活水準」を英語で言えるか",
+    "by A's standards の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "standard of living と、基準を「満たす」meet の組み合わせが長文・英作文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 952
+    }
+  ]
+}

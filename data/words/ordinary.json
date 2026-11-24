@@ -1,0 +1,94 @@
+{
+  "word": "ordinary",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈɔːrdəneri/",
+  "core_image": {
+    "text": "いつもの並び(順序)どおりで、目立たない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"20\" y=\"100\" width=\"28\" height=\"40\"/><rect x=\"60\" y=\"100\" width=\"28\" height=\"40\"/><rect x=\"100\" y=\"100\" width=\"28\" height=\"40\"/><rect x=\"140\" y=\"100\" width=\"28\" height=\"40\"/><rect x=\"185\" y=\"50\" width=\"30\" height=\"90\"/></g><text x=\"94\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふつう</text><text x=\"200\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">並外れ</text></svg>"
+  },
+  "etymology": "ラテン語 ordo(列・順序。order と同じ) → いつもの順序に従った → 普通の・平凡な → extra(〜の外)+ordinary → 並外れた",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "normal or usual, not special or different in any way."
+    }
+  ],
+  "cautions": [
+    "extraordinary=並外れた・異常な(ordinary の反対)",
+    "out of the ordinary=普通でない・変わった",
+    "ordinary people=一般の人々(特別な地位のない人)",
+    "ordinarily=ふつうは(usually に近い)"
+  ],
+  "patterns": [
+    {
+      "form": "ordinary people",
+      "meaning": "一般の人々"
+    },
+    {
+      "form": "out of the ordinary",
+      "meaning": "普通でない"
+    },
+    {
+      "form": "extraordinary",
+      "meaning": "並外れた"
+    },
+    {
+      "form": "ordinarily",
+      "meaning": "ふつうは"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "普通の",
+      "en": "It was just an ordinary day at school.",
+      "ja": "学校ではいつもと変わらない一日だった。"
+    },
+    {
+      "source": "original",
+      "label": "一般の人",
+      "en": "The new tax will hurt ordinary people.",
+      "ja": "新しい税は一般の人々を苦しめるだろう。"
+    },
+    {
+      "source": "original",
+      "label": "平凡な",
+      "en": "The food was very ordinary.",
+      "ja": "料理はごく平凡だった。"
+    },
+    {
+      "source": "original",
+      "label": "out of the ordinary",
+      "en": "Did you notice anything out of the ordinary?",
+      "ja": "何か変わったことに気づきましたか。"
+    },
+    {
+      "source": "original",
+      "label": "extraordinary",
+      "en": "She has an extraordinary memory.",
+      "ja": "彼女は並外れた記憶力を持っている。"
+    },
+    {
+      "source": "original",
+      "label": "ordinarily",
+      "en": "Ordinarily, he walks to school.",
+      "ja": "ふだん彼は歩いて学校に行く。"
+    }
+  ],
+  "check_points": [
+    "extraordinary の意味を言えるか",
+    "out of the ordinary の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "extraordinary との対と out of the ordinary が長文の語彙で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 953
+    }
+  ]
+}

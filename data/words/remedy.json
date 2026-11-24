@@ -1,0 +1,99 @@
+{
+  "word": "remedy",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈremədi/",
+  "core_image": {
+    "text": "悪いところを治して、もとに戻す手だて",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"80\" y2=\"84\"/><rect x=\"150\" y=\"80\" width=\"30\" height=\"60\"/><rect x=\"158\" y=\"68\" width=\"14\" height=\"12\"/><line x1=\"165\" y1=\"100\" x2=\"165\" y2=\"120\"/><line x1=\"155\" y1=\"110\" x2=\"175\" y2=\"110\"/><line x1=\"144\" y1=\"96\" x2=\"92\" y2=\"88\"/><polyline points=\"98.4,92.9 92,88 99.5,85.3\"/></g><text x=\"165\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">治す</text></svg>"
+  },
+  "etymology": "re(すっかり・もとへ) + med(治す。medicine・medical と同じ) → すっかり治すもの → 治療法・薬 → (問題の)解決策・救済策 → (動詞)改善する・正す",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a way of curing an illness or of solving a problem."
+    },
+    {
+      "pos": "動詞",
+      "text": "to correct or improve something bad."
+    }
+  ],
+  "cautions": [
+    "a remedy for A=Aの治療法・解決策(前置詞は for)",
+    "動詞 remedy=(悪い状況を)改善する・正す(remedy the situation)",
+    "病気だけでなく社会問題の「解決策」にも使う(a remedy for unemployment)",
+    "cure は「治す・治療(法)」、remedy は「手当て・対策」の幅が広い"
+  ],
+  "patterns": [
+    {
+      "form": "a remedy for A",
+      "meaning": "Aの治療法・解決策"
+    },
+    {
+      "form": "a home remedy",
+      "meaning": "家庭の治療法"
+    },
+    {
+      "form": "remedy the situation",
+      "meaning": "状況を改善する"
+    },
+    {
+      "form": "beyond remedy",
+      "meaning": "手の施しようがない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "治療法",
+      "en": "Honey is a good remedy for a sore throat.",
+      "ja": "はちみつはのどの痛みによく効く。"
+    },
+    {
+      "source": "original",
+      "label": "家庭の治療法",
+      "en": "My grandmother knows many home remedies.",
+      "ja": "祖母は家でできる治療法をたくさん知っている。"
+    },
+    {
+      "source": "original",
+      "label": "解決策",
+      "en": "There is no easy remedy for poverty.",
+      "ja": "貧困に簡単な解決策はない。"
+    },
+    {
+      "source": "original",
+      "label": "動詞",
+      "en": "The government must act quickly to remedy the situation.",
+      "ja": "政府は状況を改善するため早急に動かなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "正す",
+      "en": "The company promised to remedy the mistake.",
+      "ja": "会社はその誤りを正すと約束した。"
+    },
+    {
+      "source": "original",
+      "label": "beyond remedy",
+      "en": "The damage to the building was beyond remedy.",
+      "ja": "建物の損傷は手の施しようがなかった。"
+    }
+  ],
+  "check_points": [
+    "a remedy の後ろの前置詞を言えるか",
+    "動詞 remedy の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a remedy for A と、長文で「対策・解決策」の意味が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 960
+    }
+  ]
+}
