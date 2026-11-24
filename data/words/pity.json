@@ -1,0 +1,103 @@
+{
+  "word": "pity",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈpɪti/",
+  "core_image": {
+    "text": "弱った人を見て、心が痛む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"104\" y2=\"92\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><circle cx=\"170\" cy=\"104\" r=\"10\"/><line x1=\"170\" y1=\"114\" x2=\"170\" y2=\"134\"/><line x1=\"170\" y1=\"134\" x2=\"196\" y2=\"134\"/><line x1=\"196\" y1=\"134\" x2=\"196\" y2=\"140\"/><line x1=\"170\" y1=\"120\" x2=\"184\" y2=\"124\"/></g><text x=\"170\" y=\"72\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かわいそう</text></svg>"
+  },
+  "etymology": "ラテン語 pietas(敬う心。piety と同じ根) → いたわる心 → あわれみ・同情 → (あわれむべきこと)残念なこと → It is a pity that=残念だ",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a feeling of sadness for someone who is suffering; a fact that makes you feel sorry."
+    },
+    {
+      "pos": "動詞",
+      "text": "to feel sorry for someone who is in a bad situation."
+    }
+  ],
+  "cautions": [
+    "It is a pity that S V=〜とは残念だ(a を付ける)。What a pity!=なんて残念な",
+    "take pity on A / feel pity for A=Aをあわれむ",
+    "out of pity=同情から",
+    "pity は上から見る感じが出ることがある。対等な共感は sympathy"
+  ],
+  "patterns": [
+    {
+      "form": "It is a pity that S V",
+      "meaning": "〜とは残念だ"
+    },
+    {
+      "form": "What a pity!",
+      "meaning": "なんて残念な"
+    },
+    {
+      "form": "take pity on A",
+      "meaning": "Aをあわれむ"
+    },
+    {
+      "form": "out of pity",
+      "meaning": "同情から"
+    },
+    {
+      "form": "pity A",
+      "meaning": "Aをかわいそうに思う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "It is a pity that",
+      "en": "It is a pity that you can't come to the party.",
+      "ja": "君がパーティーに来られないのは残念だ。"
+    },
+    {
+      "source": "original",
+      "label": "What a pity",
+      "en": "\"The game was canceled.\" \"What a pity!\"",
+      "ja": "「試合が中止になった」「それは残念」"
+    },
+    {
+      "source": "original",
+      "label": "take pity on",
+      "en": "The farmer took pity on the lost dog and fed it.",
+      "ja": "農夫は迷い犬をかわいそうに思い、えさをやった。"
+    },
+    {
+      "source": "original",
+      "label": "out of pity",
+      "en": "She helped him out of pity.",
+      "ja": "彼女は同情から彼を助けた。"
+    },
+    {
+      "source": "original",
+      "label": "動詞",
+      "en": "I pity anyone who has to work in this heat.",
+      "ja": "この暑さの中で働かなければならない人は気の毒だ。"
+    },
+    {
+      "source": "original",
+      "label": "sympathy との比較",
+      "en": "He didn't want pity; he wanted understanding.",
+      "ja": "彼が求めていたのは同情ではなく理解だった。"
+    }
+  ],
+  "check_points": [
+    "It is a pity that の意味を言えるか",
+    "take pity on A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "It is a pity that と take pity on が会話・熟語問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 948
+    }
+  ]
+}

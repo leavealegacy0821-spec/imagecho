@@ -1,0 +1,98 @@
+{
+  "word": "duty",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈduːti/",
+  "core_image": {
+    "text": "負っていて、果たすべきつとめ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"100\" cy=\"52\" r=\"10\"/><line x1=\"100\" y1=\"62\" x2=\"100\" y2=\"106\"/><line x1=\"100\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"100\" y1=\"106\" x2=\"110\" y2=\"140\"/><rect x=\"56\" y=\"44\" width=\"30\" height=\"30\"/><line x1=\"100\" y1=\"74\" x2=\"88\" y2=\"62\"/><line x1=\"100\" y1=\"74\" x2=\"116\" y2=\"92\"/><line x1=\"140\" y1=\"120\" x2=\"200\" y2=\"120\"/><polyline points=\"193,116.2 200,120 193,123.8\"/></g><text x=\"180\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">つとめ</text></svg>"
+  },
+  "etymology": "due(負っている。due と同じ根) + ty(こと) → 負っているもの → 義務・職務 → (国に払うべきもの)関税・税 → duty-free=免税の",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "something you must do because it is morally right or part of your job; a tax on goods."
+    }
+  ],
+  "cautions": [
+    "on duty=勤務中で、off duty=非番で(無冠詞)",
+    "It is A's duty to do=〜するのはAの義務だ",
+    "(複数で)職務、また duty=関税:duty-free shop=免税店",
+    "obligation は「法・約束でしばられる義務」、duty は「道徳・職務上のつとめ」"
+  ],
+  "patterns": [
+    {
+      "form": "on duty",
+      "meaning": "勤務中で"
+    },
+    {
+      "form": "off duty",
+      "meaning": "非番で"
+    },
+    {
+      "form": "It is A's duty to do",
+      "meaning": "〜するのはAの義務だ"
+    },
+    {
+      "form": "do one's duty",
+      "meaning": "義務を果たす"
+    },
+    {
+      "form": "duty-free",
+      "meaning": "免税の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "義務",
+      "en": "It is our duty to protect the environment.",
+      "ja": "環境を守るのは私たちの義務だ。"
+    },
+    {
+      "source": "original",
+      "label": "do one's duty",
+      "en": "He did his duty as a captain.",
+      "ja": "彼は主将としての務めを果たした。"
+    },
+    {
+      "source": "original",
+      "label": "on duty",
+      "en": "Two nurses are on duty tonight.",
+      "ja": "今夜は看護師が2人勤務している。"
+    },
+    {
+      "source": "original",
+      "label": "off duty",
+      "en": "The police officer was off duty when he saw the accident.",
+      "ja": "その警官は非番のときに事故を目撃した。"
+    },
+    {
+      "source": "original",
+      "label": "職務(複数)",
+      "en": "Her duties include answering the phone.",
+      "ja": "彼女の仕事には電話の応対も含まれる。"
+    },
+    {
+      "source": "original",
+      "label": "関税",
+      "en": "I bought perfume at a duty-free shop.",
+      "ja": "免税店で香水を買った。"
+    }
+  ],
+  "check_points": [
+    "on duty と off duty の意味を言えるか",
+    "duty-free の duty の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "on / off duty と It is A's duty to do、関税の意味が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 945
+    }
+  ]
+}

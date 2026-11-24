@@ -1,0 +1,98 @@
+{
+  "word": "pain",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/peɪn/",
+  "core_image": {
+    "text": "体や心に刺さる、つらさ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"130\" cy=\"52\" r=\"10\"/><line x1=\"130\" y1=\"62\" x2=\"130\" y2=\"106\"/><line x1=\"130\" y1=\"106\" x2=\"120\" y2=\"140\"/><line x1=\"130\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"130\" y1=\"74\" x2=\"116\" y2=\"96\"/><line x1=\"130\" y1=\"74\" x2=\"144\" y2=\"96\"/><line x1=\"40\" y1=\"70\" x2=\"110\" y2=\"84\"/><polyline points=\"103.9,78.9 110,84 102.4,86.4\"/><polyline points=\"160,60 170,66 162,72 172,78\"/><polyline points=\"164,90 174,96 166,102 176,108\"/></g><text x=\"50\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ずきっ</text></svg>"
+  },
+  "etymology": "ラテン語 poena(罰。punish・penalty と同じ根) → 罰としての苦しみ → 痛み・苦痛 → (複数 pains)骨折り・苦労 → take pains=苦労する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the feeling you have when part of your body hurts, or a feeling of great sadness; (pains) great effort."
+    }
+  ],
+  "cautions": [
+    "複数 pains=骨折り・苦労:take pains to do=〜しようと骨を折る、take pains with A=Aに苦心する",
+    "be a pain (in the neck)=うんざりさせる人・物",
+    "have a pain in A=Aが痛い(体の部位)",
+    "形容詞 painful=痛い・つらい。人が主語で「痛みを感じる」は ×I am painful → ○It hurts / I feel pain"
+  ],
+  "patterns": [
+    {
+      "form": "take pains to do",
+      "meaning": "〜しようと骨を折る"
+    },
+    {
+      "form": "take pains with A",
+      "meaning": "Aに苦心する"
+    },
+    {
+      "form": "have a pain in A",
+      "meaning": "Aが痛い"
+    },
+    {
+      "form": "be in pain",
+      "meaning": "痛みを感じている"
+    },
+    {
+      "form": "painful",
+      "meaning": "痛い・つらい"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "痛み",
+      "en": "I have a sharp pain in my back.",
+      "ja": "背中に鋭い痛みがある。"
+    },
+    {
+      "source": "original",
+      "label": "be in pain",
+      "en": "The injured player was clearly in pain.",
+      "ja": "けがをした選手は明らかに痛がっていた。"
+    },
+    {
+      "source": "original",
+      "label": "心のつらさ",
+      "en": "She could not hide the pain of losing her friend.",
+      "ja": "彼女は友を失ったつらさを隠せなかった。"
+    },
+    {
+      "source": "original",
+      "label": "take pains to do",
+      "en": "He took great pains to finish the model ship.",
+      "ja": "彼は模型の船を仕上げるのにたいへん骨を折った。"
+    },
+    {
+      "source": "original",
+      "label": "take pains with",
+      "en": "The teacher takes pains with every lesson.",
+      "ja": "その先生はどの授業にも苦心して準備している。"
+    },
+    {
+      "source": "original",
+      "label": "painful",
+      "en": "It was a painful decision for the family.",
+      "ja": "それは家族にとってつらい決断だった。"
+    }
+  ],
+  "check_points": [
+    "take pains to do の意味を言えるか",
+    "I am painful が誤りである理由を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "複数形 pains(骨折り)の take pains が熟語問題の定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 944
+    }
+  ]
+}

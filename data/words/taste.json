@@ -1,0 +1,103 @@
+{
+  "word": "taste",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/teɪst/",
+  "core_image": {
+    "text": "舌でふれて、確かめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 92,72 86,62\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><line x1=\"140\" y1=\"104\" x2=\"210\" y2=\"104\"/><line x1=\"148\" y1=\"104\" x2=\"148\" y2=\"140\"/><line x1=\"202\" y1=\"104\" x2=\"202\" y2=\"140\"/><path d=\"M155 104 Q175 84 195 104\"/></g><text x=\"175\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">味</text><text x=\"40\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">確かめる</text></svg>"
+  },
+  "etymology": "古フランス語 taster(さわる・試す) → 舌でふれて試す → 味見する・味(がする) → 何がよいかを見分ける力=好み・センス",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the flavor of food, the sense that lets you know it, or the ability to judge what is good or attractive."
+    },
+    {
+      "pos": "動詞",
+      "text": "to have a particular flavor, or to try a little food to see what it is like."
+    }
+  ],
+  "cautions": [
+    "taste+形容詞=〜な味がする(第2文型):This tastes good.(×tastes well)。進行形にしない",
+    "taste of A / taste like A=Aの味がする",
+    "have good taste in A=Aの趣味がよい、a taste for A=Aの好み",
+    "To each his own taste / There is no accounting for taste(s)=たで食う虫も好きずき"
+  ],
+  "patterns": [
+    {
+      "form": "taste+形容詞",
+      "meaning": "〜な味がする"
+    },
+    {
+      "form": "taste of A",
+      "meaning": "Aの味がする"
+    },
+    {
+      "form": "have good taste in A",
+      "meaning": "Aの趣味がよい"
+    },
+    {
+      "form": "a taste for A",
+      "meaning": "Aの好み"
+    },
+    {
+      "form": "in good taste",
+      "meaning": "品のよい"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "味がする",
+      "en": "This soup tastes too salty.",
+      "ja": "このスープはしょっぱすぎる。"
+    },
+    {
+      "source": "original",
+      "label": "taste of",
+      "en": "The cake tasted of lemon.",
+      "ja": "そのケーキはレモンの味がした。"
+    },
+    {
+      "source": "original",
+      "label": "味見する",
+      "en": "Could you taste the sauce and tell me what you think?",
+      "ja": "ソースを味見して感想を聞かせてくれる?"
+    },
+    {
+      "source": "original",
+      "label": "味(名詞)",
+      "en": "I like the taste of fresh tomatoes.",
+      "ja": "私はとれたてのトマトの味が好きだ。"
+    },
+    {
+      "source": "original",
+      "label": "趣味がよい",
+      "en": "She has good taste in music.",
+      "ja": "彼女は音楽の趣味がよい。"
+    },
+    {
+      "source": "original",
+      "label": "a taste for",
+      "en": "He developed a taste for classical music in college.",
+      "ja": "彼は大学でクラシック音楽が好きになった。"
+    }
+  ],
+  "check_points": [
+    "This tastes well. の誤りを言えるか",
+    "have good taste in A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "知覚動詞+形容詞(taste good)の正誤問題と、taste=趣味・好みの意味が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 946
+    }
+  ]
+}

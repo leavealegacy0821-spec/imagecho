@@ -1,0 +1,98 @@
+{
+  "word": "advantage",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ədˈvæntɪdʒ/",
+  "core_image": {
+    "text": "一歩前に出て、有利な位置に立つ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"130\" y=\"120\" width=\"60\" height=\"20\"/><circle cx=\"160\" cy=\"32\" r=\"10\"/><line x1=\"160\" y1=\"42\" x2=\"160\" y2=\"86\"/><line x1=\"160\" y1=\"86\" x2=\"150\" y2=\"120\"/><line x1=\"160\" y1=\"86\" x2=\"170\" y2=\"120\"/><line x1=\"160\" y1=\"54\" x2=\"146\" y2=\"70\"/><line x1=\"160\" y1=\"54\" x2=\"174\" y2=\"70\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"80\" y2=\"96\"/><line x1=\"92\" y1=\"60\" x2=\"126\" y2=\"48\"/><polyline points=\"118.1,46.7 126,48 120.7,54\"/></g><text x=\"210\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">有利</text><text x=\"70\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">後ろ</text></svg>"
+  },
+  "etymology": "古フランス語 avant(前に。advance と同じ) + age(状態) → 前にいること → 有利・強み・長所 → take advantage of A=Aを利用する・つけこむ",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "something that puts you in a better position than other people; a good or useful feature."
+    }
+  ],
+  "cautions": [
+    "take advantage of A=Aを利用する(機会を生かす)/(人の弱みに)つけこむ。両方の意味がある",
+    "have an advantage over A=Aより有利だ(over を使う)",
+    "to A's advantage=Aに有利に、advantages and disadvantages=長所と短所",
+    "形容詞 advantageous=有利な"
+  ],
+  "patterns": [
+    {
+      "form": "take advantage of A",
+      "meaning": "Aを利用する・つけこむ"
+    },
+    {
+      "form": "have an advantage over A",
+      "meaning": "Aより有利だ"
+    },
+    {
+      "form": "to A's advantage",
+      "meaning": "Aに有利に"
+    },
+    {
+      "form": "advantages and disadvantages",
+      "meaning": "長所と短所"
+    },
+    {
+      "form": "advantageous",
+      "meaning": "有利な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "有利な点",
+      "en": "Speaking English is a great advantage in this job.",
+      "ja": "この仕事では英語が話せることが大きな強みだ。"
+    },
+    {
+      "source": "original",
+      "label": "take advantage of(生かす)",
+      "en": "You should take advantage of this chance to study abroad.",
+      "ja": "この留学の機会を生かすべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "take advantage of(つけこむ)",
+      "en": "He took advantage of her kindness.",
+      "ja": "彼は彼女の親切につけこんだ。"
+    },
+    {
+      "source": "original",
+      "label": "have an advantage over",
+      "en": "Tall players have an advantage over short ones in basketball.",
+      "ja": "バスケットボールでは背の高い選手が低い選手より有利だ。"
+    },
+    {
+      "source": "original",
+      "label": "長所と短所",
+      "en": "There are advantages and disadvantages to living in a big city.",
+      "ja": "大都市に住むことには長所と短所がある。"
+    },
+    {
+      "source": "original",
+      "label": "to A's advantage",
+      "en": "The new rule worked to our advantage.",
+      "ja": "新しい規則は私たちに有利に働いた。"
+    }
+  ],
+  "check_points": [
+    "take advantage of の2つの意味を言えるか",
+    "「Aより有利だ」の前置詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "take advantage of の2つの意味と、長所・短所を述べる英作文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 941
+    }
+  ]
+}

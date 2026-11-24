@@ -1,0 +1,98 @@
+{
+  "word": "attention",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/əˈtenʃən/",
+  "core_image": {
+    "text": "心をある一点へ、伸ばして向ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"60\" y2=\"96\"/><line x1=\"66\" y1=\"52\" x2=\"164\" y2=\"84\" stroke-dasharray=\"5 5\"/><polyline points=\"158.5,78.2 164,84 156.1,85.5\"/><circle cx=\"190\" cy=\"92\" r=\"22\"/><circle cx=\"190\" cy=\"92\" r=\"8\"/></g><text x=\"120\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">注意</text></svg>"
+  },
+  "etymology": "at(〜へ) + tent(伸ばす。tend・attend と同じ根) → 心を〜へ伸ばすこと → 注意・注目 → (人に心を向ける)世話・手当て",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the act of watching, listening to or thinking carefully about something; special care or treatment."
+    }
+  ],
+  "cautions": [
+    "pay attention to A=Aに注意を払う(to は前置詞)。受け身は attention is paid to A / A is paid attention to",
+    "attract / draw A's attention=Aの注意を引く、call A's attention to B=AにBへの注意を促す",
+    "(呼びかけ)Attention, please.=お知らせいたします",
+    "形容詞 attentive=注意深い・気配りのある、動詞 attend(attend to A=Aに注意する・世話をする)"
+  ],
+  "patterns": [
+    {
+      "form": "pay attention to A",
+      "meaning": "Aに注意を払う"
+    },
+    {
+      "form": "attract A's attention",
+      "meaning": "Aの注意を引く"
+    },
+    {
+      "form": "call A's attention to B",
+      "meaning": "AにBへの注意を促す"
+    },
+    {
+      "form": "medical attention",
+      "meaning": "手当て"
+    },
+    {
+      "form": "attentive",
+      "meaning": "注意深い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "pay attention to",
+      "en": "Please pay attention to what the teacher says.",
+      "ja": "先生の言うことに注意して聞いてください。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "Little attention was paid to his warning.",
+      "ja": "彼の警告はほとんど注意されなかった。"
+    },
+    {
+      "source": "original",
+      "label": "注意を引く",
+      "en": "The bright poster attracted everyone's attention.",
+      "ja": "その明るいポスターはみんなの注意を引いた。"
+    },
+    {
+      "source": "original",
+      "label": "call A's attention to",
+      "en": "She called our attention to the mistake.",
+      "ja": "彼女は私たちにその誤りに気づかせた。"
+    },
+    {
+      "source": "original",
+      "label": "手当て",
+      "en": "The injured man needed medical attention.",
+      "ja": "そのけが人は手当てが必要だった。"
+    },
+    {
+      "source": "original",
+      "label": "注目",
+      "en": "The new smartphone is getting a lot of attention.",
+      "ja": "その新しいスマートフォンは大いに注目されている。"
+    }
+  ],
+  "check_points": [
+    "pay attention to の受け身を言えるか",
+    "attention と attend の共通部分の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "pay attention to(受け身の形を含む)と attract attention が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 947
+    }
+  ]
+}

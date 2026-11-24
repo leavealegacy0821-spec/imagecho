@@ -1,0 +1,103 @@
+{
+  "word": "benefit",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈbenɪfɪt/",
+  "core_image": {
+    "text": "よいものが、人のもとへ届く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"50\" r=\"14\"/><line x1=\"60\" y1=\"26\" x2=\"60\" y2=\"18\"/><line x1=\"36\" y1=\"50\" x2=\"28\" y2=\"50\"/><line x1=\"43\" y1=\"33\" x2=\"37\" y2=\"27\"/><line x1=\"43\" y1=\"67\" x2=\"37\" y2=\"73\"/><line x1=\"77\" y1=\"33\" x2=\"83\" y2=\"27\"/><line x1=\"80\" y1=\"56\" x2=\"148\" y2=\"76\" stroke-dasharray=\"5 5\"/><polyline points=\"142.3,70.3 148,76 140.2,77.7\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"150\" y2=\"62\"/><line x1=\"170\" y1=\"74\" x2=\"190\" y2=\"62\"/></g><text x=\"110\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">恵み</text></svg>"
+  },
+  "etymology": "bene(よい。benevolent と同じ) + fit(行う。fact と同じ根) → よい行い → 恩恵・利益 → (動詞)ためになる・benefit from A=Aから利益を得る",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an advantage or a helpful effect that something gives you."
+    },
+    {
+      "pos": "動詞",
+      "text": "to be useful to someone, or to get help or an advantage from something."
+    }
+  ],
+  "cautions": [
+    "benefit from A=Aから利益を得る(人が主語)/ A benefit B=AがBのためになる(物が主語)。向きに注意",
+    "for the benefit of A=Aのために",
+    "形容詞 beneficial=有益な(be beneficial to A)",
+    "profit は「金銭的なもうけ」、benefit は「ためになること」全般"
+  ],
+  "patterns": [
+    {
+      "form": "benefit from A",
+      "meaning": "Aから利益を得る"
+    },
+    {
+      "form": "A benefit B",
+      "meaning": "AがBのためになる"
+    },
+    {
+      "form": "for the benefit of A",
+      "meaning": "Aのために"
+    },
+    {
+      "form": "be beneficial to A",
+      "meaning": "Aに有益だ"
+    },
+    {
+      "form": "the benefits of A",
+      "meaning": "Aの利点"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "利点",
+      "en": "One of the benefits of exercise is better sleep.",
+      "ja": "運動の利点の1つは、よく眠れることだ。"
+    },
+    {
+      "source": "original",
+      "label": "benefit from",
+      "en": "Students can benefit from reading newspapers.",
+      "ja": "生徒は新聞を読むことで得るものがある。"
+    },
+    {
+      "source": "original",
+      "label": "物が主語",
+      "en": "The new library will benefit the whole town.",
+      "ja": "新しい図書館は町全体のためになるだろう。"
+    },
+    {
+      "source": "original",
+      "label": "for the benefit of",
+      "en": "The concert was held for the benefit of the children.",
+      "ja": "そのコンサートは子どもたちのために開かれた。"
+    },
+    {
+      "source": "original",
+      "label": "beneficial",
+      "en": "Fresh vegetables are beneficial to your health.",
+      "ja": "新鮮な野菜は健康によい。"
+    },
+    {
+      "source": "original",
+      "label": "恩恵",
+      "en": "We all enjoy the benefits of modern science.",
+      "ja": "私たちはみな現代科学の恩恵を受けている。"
+    }
+  ],
+  "check_points": [
+    "benefit from A と A benefit B の主語のちがいを言えるか",
+    "benefit の形容詞形を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "benefit from と物主語の benefit、形容詞 beneficial が語法・英作文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 942
+    }
+  ]
+}
