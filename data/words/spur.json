@@ -1,0 +1,103 @@
+{
+  "word": "spur",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/spɜːr/",
+  "core_image": {
+    "text": "かかとでつつき、前へ駆り立てる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"96\" y2=\"84\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"98\"/><circle cx=\"112\" cy=\"52\" r=\"10\"/><line x1=\"112\" y1=\"62\" x2=\"112\" y2=\"106\"/><line x1=\"112\" y1=\"106\" x2=\"102\" y2=\"140\"/><line x1=\"112\" y1=\"106\" x2=\"122\" y2=\"140\"/><line x1=\"112\" y1=\"74\" x2=\"128\" y2=\"96\"/><line x1=\"112\" y1=\"74\" x2=\"96\" y2=\"96\"/><line x1=\"94\" y1=\"70\" x2=\"90\" y2=\"62\"/><line x1=\"100\" y1=\"72\" x2=\"104\" y2=\"64\"/><line x1=\"138\" y1=\"100\" x2=\"214\" y2=\"100\"/><polyline points=\"207,96.2 214,100 207,103.8\"/></g><text x=\"178\" y=\"74\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">せき立てる</text></svg>"
+  },
+  "etymology": "古い英語 spura(拍車=乗馬靴のかかとにつける突起) → 拍車で馬の腹をつついて走らせる → (人を)駆り立てる・奮い立たせる → (成長・需要・変化を)促す・刺激する → on the spur of the moment=(拍車をかけられたように)その場の勢いで",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to encourage someone to do something or to try harder; to make something happen faster."
+    },
+    {
+      "pos": "名詞",
+      "text": "something that makes you want to do something; a metal point on a rider's boot."
+    }
+  ],
+  "cautions": [
+    "spur A to do [into action]=Aを駆り立てて〜させる(spur A on=Aを励ます)",
+    "spur growth [demand]=成長[需要]を促す(=stimulate, promote の言い換え)",
+    "on the spur of the moment=その場の思いつきで・衝動的に(熟語で頻出)",
+    "名詞 a spur to A=Aへの刺激・はずみ"
+  ],
+  "patterns": [
+    {
+      "form": "spur A to do",
+      "meaning": "Aを駆り立てて〜させる"
+    },
+    {
+      "form": "spur A into action",
+      "meaning": "Aを行動に駆り立てる"
+    },
+    {
+      "form": "spur A on",
+      "meaning": "Aを励ます"
+    },
+    {
+      "form": "spur growth",
+      "meaning": "成長を促す"
+    },
+    {
+      "form": "on the spur of the moment",
+      "meaning": "その場の勢いで"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "駆り立てる",
+      "en": "His failure spurred him to study even harder.",
+      "ja": "失敗が彼をいっそう勉強に駆り立てた。"
+    },
+    {
+      "source": "original",
+      "label": "行動に駆り立てる",
+      "en": "The news of the flood spurred many people into action.",
+      "ja": "洪水の知らせに多くの人が行動を起こした。"
+    },
+    {
+      "source": "original",
+      "label": "励ます",
+      "en": "The crowd spurred the runners on.",
+      "ja": "観衆はランナーたちを励ました。"
+    },
+    {
+      "source": "original",
+      "label": "促す",
+      "en": "Low interest rates may spur economic growth.",
+      "ja": "低い金利は経済成長を促すかもしれない。"
+    },
+    {
+      "source": "original",
+      "label": "その場の勢いで",
+      "en": "We decided to go to the beach on the spur of the moment.",
+      "ja": "私たちはその場の思いつきで海へ行くことにした。"
+    },
+    {
+      "source": "original",
+      "label": "刺激",
+      "en": "The prize was a spur to young scientists.",
+      "ja": "その賞は若い科学者たちへの刺激になった。"
+    }
+  ],
+  "check_points": [
+    "on the spur of the moment の意味を言えるか",
+    "spur A to do の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "on the spur of the moment、spur A to do、spur growth(=stimulate)が熟語・言い換えで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1032
+    }
+  ]
+}

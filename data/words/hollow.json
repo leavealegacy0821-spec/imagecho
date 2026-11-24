@@ -1,0 +1,103 @@
+{
+  "word": "hollow",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/ˈhɑːloʊ/",
+  "core_image": {
+    "text": "外側だけあって、中が空っぽ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"50\" y1=\"80\" x2=\"190\" y2=\"80\"/><line x1=\"50\" y1=\"120\" x2=\"190\" y2=\"120\"/><ellipse cx=\"50\" cy=\"100\" rx=\"12\" ry=\"20\"/><ellipse cx=\"190\" cy=\"100\" rx=\"12\" ry=\"20\"/><ellipse cx=\"190\" cy=\"100\" rx=\"6\" ry=\"12\"/></g><text x=\"120\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">中が空っぽ</text></svg>"
+  },
+  "etymology": "古い英語 holh(穴。hole と同じ根) → 中に穴があいた・空洞の → (ほお・目が)くぼんだ → (言葉・約束・勝利が)中身のない・うわべだけの → (音が)うつろな → (名詞)くぼみ・くぼ地",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "having an empty space inside; (of words or feelings) not sincere or without real value; (of a sound) like one made by hitting an empty container."
+    },
+    {
+      "pos": "名詞",
+      "text": "a small area that is lower than the surface around it."
+    }
+  ],
+  "cautions": [
+    "a hollow promise [hollow words]=口先だけの約束[うわべだけの言葉](人の言葉に使うと「中身がない」)",
+    "a hollow victory=むなしい勝利(勝っても得るものがない)",
+    "ring hollow=むなしく響く・うそっぽく聞こえる",
+    "空洞の(a hollow tree)・くぼんだ(hollow cheeks)と、比ゆの「中身がない」を訳し分ける"
+  ],
+  "patterns": [
+    {
+      "form": "a hollow tree",
+      "meaning": "中が空洞の木"
+    },
+    {
+      "form": "hollow cheeks",
+      "meaning": "こけたほお"
+    },
+    {
+      "form": "a hollow promise",
+      "meaning": "口先だけの約束"
+    },
+    {
+      "form": "a hollow victory",
+      "meaning": "むなしい勝利"
+    },
+    {
+      "form": "ring hollow",
+      "meaning": "むなしく響く"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "空洞の",
+      "en": "The children hid inside a hollow tree.",
+      "ja": "子どもたちは中が空洞になった木の中に隠れた。"
+    },
+    {
+      "source": "original",
+      "label": "くぼんだ",
+      "en": "After the long illness, he had hollow cheeks.",
+      "ja": "長い病気のあと、彼のほおはこけていた。"
+    },
+    {
+      "source": "original",
+      "label": "口先だけの",
+      "en": "The politician's promises turned out to be hollow.",
+      "ja": "その政治家の約束は口先だけだとわかった。"
+    },
+    {
+      "source": "original",
+      "label": "むなしく響く",
+      "en": "His apology rang hollow to the people he had hurt.",
+      "ja": "彼の謝罪は傷つけた人たちにはむなしく響いた。"
+    },
+    {
+      "source": "original",
+      "label": "むなしい",
+      "en": "Winning by cheating is a hollow victory.",
+      "ja": "ずるをして勝っても、むなしい勝利にすぎない。"
+    },
+    {
+      "source": "original",
+      "label": "くぼ地",
+      "en": "A small village lay in the hollow between the hills.",
+      "ja": "丘の間のくぼ地に小さな村があった。"
+    }
+  ],
+  "check_points": [
+    "a hollow promise の意味を言えるか",
+    "ring hollow の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「空洞の」に加え「(言葉・勝利が)中身のない」比ゆの意味が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1037
+    }
+  ]
+}

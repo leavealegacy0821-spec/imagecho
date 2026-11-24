@@ -1,0 +1,107 @@
+{
+  "word": "tide",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/taɪd/",
+  "core_image": {
+    "text": "満ちては引く、大きな流れ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 50 Q40 40 60 50 T100 50 T140 50 T180 50 T220 50\"/><path d=\"M20 96 Q40 86 60 96 T100 96 T140 96 T180 96 T220 96\"/><line x1=\"90\" y1=\"86\" x2=\"90\" y2=\"60\"/><polyline points=\"86.2,67 90,60 93.8,67\"/><line x1=\"150\" y1=\"60\" x2=\"150\" y2=\"86\"/><polyline points=\"153.8,79 150,86 146.2,79\"/></g><text x=\"120\" y=\"126\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">満ちては引く</text></svg>"
+  },
+  "etymology": "古い英語 tīd(時。time と同じ根) → 決まった時に満ち引きする海 → 潮・潮の満ち干 → (世論・時代の)流れ・風潮 → turn the tide=流れ(形勢)を変える/tide A over=(潮に乗せるように)Aに苦しい時期を乗り切らせる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the regular rise and fall of the sea; the direction in which opinions or events are moving."
+    },
+    {
+      "pos": "動詞",
+      "text": "(tide over) to help someone through a difficult period."
+    }
+  ],
+  "cautions": [
+    "high [low] tide=満潮[干潮]",
+    "turn the tide=形勢を一変させる/the tide turns=流れが変わる",
+    "the tide of public opinion=世論の流れ/go [swim] against the tide=時流に逆らう",
+    "tide A over (B)=Aに(B)を乗り切らせる(お金を貸すときなど)。Time and tide wait for no man.=歳月人を待たず"
+  ],
+  "patterns": [
+    {
+      "form": "high tide",
+      "meaning": "満潮"
+    },
+    {
+      "form": "low tide",
+      "meaning": "干潮"
+    },
+    {
+      "form": "turn the tide",
+      "meaning": "形勢を一変させる"
+    },
+    {
+      "form": "the tide of A",
+      "meaning": "Aの流れ・風潮"
+    },
+    {
+      "form": "go against the tide",
+      "meaning": "時流に逆らう"
+    },
+    {
+      "form": "tide A over",
+      "meaning": "Aに乗り切らせる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "満潮",
+      "en": "At high tide, the rocks are under water.",
+      "ja": "満潮のときには岩は水の下に隠れる。"
+    },
+    {
+      "source": "original",
+      "label": "干潮",
+      "en": "We collected shells on the beach at low tide.",
+      "ja": "干潮のときに浜辺で貝殻を集めた。"
+    },
+    {
+      "source": "original",
+      "label": "形勢を一変させる",
+      "en": "His goal in the last minute turned the tide of the game.",
+      "ja": "最後の1分の彼のゴールが試合の流れを一変させた。"
+    },
+    {
+      "source": "original",
+      "label": "流れ",
+      "en": "The tide of public opinion is turning against the plan.",
+      "ja": "世論の流れはその計画に反対の方へ変わりつつある。"
+    },
+    {
+      "source": "original",
+      "label": "時流に逆らう",
+      "en": "It takes courage to go against the tide.",
+      "ja": "時流に逆らうには勇気がいる。"
+    },
+    {
+      "source": "original",
+      "label": "乗り切らせる",
+      "en": "Can you lend me some money to tide me over until payday?",
+      "ja": "給料日まで何とかしのげるように、少しお金を貸してくれない?"
+    }
+  ],
+  "check_points": [
+    "turn the tide の意味を言えるか",
+    "tide A over の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "turn the tide、the tide of public opinion、tide A over が熟語・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1040
+    }
+  ]
+}

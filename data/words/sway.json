@@ -1,0 +1,103 @@
+{
+  "word": "sway",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/sweɪ/",
+  "core_image": {
+    "text": "左右にゆらし、人の心までゆり動かす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"80\" y1=\"20\" x2=\"160\" y2=\"20\"/><line x1=\"120\" y1=\"20\" x2=\"120\" y2=\"100\"/><circle cx=\"120\" cy=\"108\" r=\"8\"/><line x1=\"120\" y1=\"20\" x2=\"82\" y2=\"94\"/><circle cx=\"78\" cy=\"101\" r=\"8\"/><line x1=\"120\" y1=\"20\" x2=\"158\" y2=\"94\"/><circle cx=\"162\" cy=\"101\" r=\"8\"/><path d=\"M70 122 Q120 140 170 122\"/></g><text x=\"205\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ゆれる</text></svg>"
+  },
+  "etymology": "左右にゆらゆら揺れる → (体・木・船が)揺れる・揺らす → (人の意見・決定を)揺り動かす・左右する → (名詞)人を動かす力=支配・影響力(under the sway of A / hold sway)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move slowly from side to side; to influence someone so that they change their opinion."
+    },
+    {
+      "pos": "名詞",
+      "text": "power or influence over people."
+    }
+  ],
+  "cautions": [
+    "be swayed by A=Aに(意見・判断を)左右される(受け身で頻出。「揺らされる」と訳さない)",
+    "sway A=Aの意見を動かす(=influence, persuade の言い換え)",
+    "under the sway of A=Aの支配[影響]下で/hold sway=勢力をふるう",
+    "自動詞 sway=(木・体が)揺れる(sway in the wind)"
+  ],
+  "patterns": [
+    {
+      "form": "sway in the wind",
+      "meaning": "風に揺れる"
+    },
+    {
+      "form": "sway A",
+      "meaning": "Aの意見を動かす"
+    },
+    {
+      "form": "be swayed by A",
+      "meaning": "Aに左右される"
+    },
+    {
+      "form": "under the sway of A",
+      "meaning": "Aの支配下で"
+    },
+    {
+      "form": "hold sway",
+      "meaning": "勢力をふるう"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "揺れる",
+      "en": "The tall grass swayed gently in the wind.",
+      "ja": "背の高い草が風にゆらゆらと揺れた。"
+    },
+    {
+      "source": "original",
+      "label": "揺らす",
+      "en": "The dancers swayed their bodies to the music.",
+      "ja": "踊り手たちは音楽に合わせて体を揺らした。"
+    },
+    {
+      "source": "original",
+      "label": "左右される",
+      "en": "Don't be swayed by what other people say.",
+      "ja": "他人の言うことに左右されてはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "動かす",
+      "en": "His speech swayed many voters.",
+      "ja": "彼の演説は多くの有権者の心を動かした。"
+    },
+    {
+      "source": "original",
+      "label": "支配",
+      "en": "The country was under the sway of a powerful king.",
+      "ja": "その国は強大な王の支配下にあった。"
+    },
+    {
+      "source": "original",
+      "label": "勢力をふるう",
+      "en": "Old customs still hold sway in this village.",
+      "ja": "この村ではいまだに古い慣習が力をもっている。"
+    }
+  ],
+  "check_points": [
+    "be swayed by A の意味を言えるか",
+    "sway が「影響力」の名詞になることがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be swayed by A(Aに左右される)と「揺れる」の訳し分けが長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1033
+    }
+  ]
+}

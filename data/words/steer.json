@@ -1,0 +1,98 @@
+{
+  "word": "steer",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/stɪər/",
+  "core_image": {
+    "text": "かじを取って、進む向きを導く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"90\" y2=\"70\"/><line x1=\"50\" y1=\"74\" x2=\"90\" y2=\"92\"/><circle cx=\"110\" cy=\"80\" r=\"20\"/><circle cx=\"110\" cy=\"80\" r=\"4\"/><line x1=\"110\" y1=\"60\" x2=\"110\" y2=\"76\"/><line x1=\"90\" y1=\"80\" x2=\"106\" y2=\"80\"/><line x1=\"114\" y1=\"80\" x2=\"130\" y2=\"80\"/><line x1=\"150\" y1=\"100\" x2=\"210\" y2=\"56\"/><polyline points=\"202.1,57.1 210,56 206.6,63.2\"/></g><text x=\"182\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">向きを決める</text></svg>"
+  },
+  "etymology": "古い英語 stēoran(かじを取る) → 船・車のかじを取る・ハンドルを切る → (人・話・計画を)ある方向へ導く・誘導する → steer clear of A=(ぶつからないよう)かじを切ってAを避ける",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to control the direction of a boat, car, etc.; to guide someone or something in a particular direction; to avoid something (steer clear of)."
+    }
+  ],
+  "cautions": [
+    "steer A toward [away from] B=AをBの方へ導く[Bからそらす](人・話題にも使う)",
+    "steer clear of A=Aを避ける・近寄らない(=avoid。熟語で頻出)",
+    "steer the conversation=話をうまく(自分の望む方へ)もっていく",
+    "車のハンドルは steering wheel(handle とは言わない)"
+  ],
+  "patterns": [
+    {
+      "form": "steer A",
+      "meaning": "Aのかじを取る・Aを導く"
+    },
+    {
+      "form": "steer A toward B",
+      "meaning": "AをBの方へ導く"
+    },
+    {
+      "form": "steer A away from B",
+      "meaning": "AをBからそらす"
+    },
+    {
+      "form": "steer clear of A",
+      "meaning": "Aを避ける"
+    },
+    {
+      "form": "steer the conversation",
+      "meaning": "話をうまくもっていく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "かじを取る",
+      "en": "He steered the boat carefully between the rocks.",
+      "ja": "彼は岩の間を慎重に船のかじを取って進んだ。"
+    },
+    {
+      "source": "original",
+      "label": "導く",
+      "en": "The teacher steered the students toward a better answer.",
+      "ja": "先生は生徒たちをよりよい答えへと導いた。"
+    },
+    {
+      "source": "original",
+      "label": "そらす",
+      "en": "She tried to steer the conversation away from her private life.",
+      "ja": "彼女は話を自分の私生活からそらそうとした。"
+    },
+    {
+      "source": "original",
+      "label": "避ける",
+      "en": "You should steer clear of people who always complain.",
+      "ja": "いつも文句ばかり言う人には近寄らない方がいい。"
+    },
+    {
+      "source": "original",
+      "label": "導く",
+      "en": "The new president steered the company through the crisis.",
+      "ja": "新社長はその危機の中で会社をうまく導いた。"
+    },
+    {
+      "source": "original",
+      "label": "ハンドル",
+      "en": "Keep both hands on the steering wheel while driving.",
+      "ja": "運転中はハンドルを両手で握っていなさい。"
+    }
+  ],
+  "check_points": [
+    "steer clear of A の意味を言えるか",
+    "steer A away from B の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "steer clear of(避ける)と「(人・話を)導く」の意味が長文・熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1031
+    }
+  ]
+}

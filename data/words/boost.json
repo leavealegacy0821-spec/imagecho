@@ -1,0 +1,103 @@
+{
+  "word": "boost",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/buːst/",
+  "core_image": {
+    "text": "下からぐっと押し上げて、高める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"110\" y=\"110\" width=\"20\" height=\"30\"/><rect x=\"140\" y=\"88\" width=\"20\" height=\"52\"/><rect x=\"170\" y=\"60\" width=\"20\" height=\"80\"/><line x1=\"210\" y1=\"128\" x2=\"210\" y2=\"40\"/><polyline points=\"206.2,47 210,40 213.8,47\"/><line x1=\"60\" y1=\"128\" x2=\"60\" y2=\"96\"/><polyline points=\"56.2,103 60,96 63.8,103\"/><line x1=\"40\" y1=\"132\" x2=\"80\" y2=\"132\"/></g><text x=\"66\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぐっと上げる</text></svg>"
+  },
+  "etymology": "下から押し上げる → (量・売上・数値を)増やす・高める → (自信・士気・人気を)高める・元気づける → (名詞)押し上げ・後押し → booster=押し上げるもの・(ワクチンの)追加接種",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to increase or improve something; to make someone feel more confident or happy."
+    },
+    {
+      "pos": "名詞",
+      "text": "something that helps or encourages something; an increase."
+    }
+  ],
+  "cautions": [
+    "boost A=Aを増やす・高める(=increase, raise, enhance の言い換えで頻出)",
+    "boost the economy [sales / morale]=経済を活性化する[売上を伸ばす/士気を高める]",
+    "give A a boost=Aを後押しする・元気づける(名詞の型)",
+    "booster=追加接種(a booster shot)・増幅装置"
+  ],
+  "patterns": [
+    {
+      "form": "boost A",
+      "meaning": "Aを増やす・高める"
+    },
+    {
+      "form": "boost the economy",
+      "meaning": "経済を活性化する"
+    },
+    {
+      "form": "boost A's confidence",
+      "meaning": "Aの自信を高める"
+    },
+    {
+      "form": "give A a boost",
+      "meaning": "Aを後押しする"
+    },
+    {
+      "form": "a boost to A",
+      "meaning": "Aへの追い風"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "増やす",
+      "en": "The new advertisement boosted sales by 20 percent.",
+      "ja": "新しい広告で売上が2割伸びた。"
+    },
+    {
+      "source": "original",
+      "label": "活性化する",
+      "en": "The government cut taxes to boost the economy.",
+      "ja": "政府は経済を活性化するために減税した。"
+    },
+    {
+      "source": "original",
+      "label": "高める",
+      "en": "Winning the game boosted the team's confidence.",
+      "ja": "その試合に勝ってチームは自信をつけた。"
+    },
+    {
+      "source": "original",
+      "label": "元気づける",
+      "en": "A short walk can boost your mood.",
+      "ja": "少し散歩するだけで気分が上向くことがある。"
+    },
+    {
+      "source": "original",
+      "label": "後押し",
+      "en": "The Olympics gave a big boost to tourism in the city.",
+      "ja": "オリンピックはその都市の観光を大きく後押しした。"
+    },
+    {
+      "source": "original",
+      "label": "追加接種",
+      "en": "Older people were advised to get a booster shot.",
+      "ja": "高齢者は追加接種を受けるよう勧められた。"
+    }
+  ],
+  "check_points": [
+    "boost を increase などで言い換えられるか",
+    "give A a boost の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "boost=increase, raise の言い換えが長文・語彙問題でよく出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1036
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "clash",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/klæʃ/",
+  "core_image": {
+    "text": "ガチャンとぶつかり合い、かみ合わない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"24\" y1=\"80\" x2=\"104\" y2=\"80\"/><polyline points=\"97,76.2 104,80 97,83.8\"/><line x1=\"216\" y1=\"80\" x2=\"136\" y2=\"80\"/><polyline points=\"143,83.8 136,80 143,76.2\"/><line x1=\"120\" y1=\"58\" x2=\"120\" y2=\"68\"/><line x1=\"106\" y1=\"64\" x2=\"112\" y2=\"71\"/><line x1=\"134\" y1=\"64\" x2=\"128\" y2=\"71\"/><line x1=\"120\" y1=\"92\" x2=\"120\" y2=\"102\"/><line x1=\"106\" y1=\"96\" x2=\"112\" y2=\"89\"/><line x1=\"134\" y1=\"96\" x2=\"128\" y2=\"89\"/></g><text x=\"120\" y=\"128\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぶつかり合う</text></svg>"
+  },
+  "etymology": "ぶつかる音をまねた語(crash・clang のように音から生まれた) → ガチャンとぶつかる音 → (軍・集団が)衝突する → (意見・利害が)対立する → (予定が)重なる・かち合う → (色・柄が)合わない",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to fight or argue; to be very different and not go well together; (of events) to happen at the same time."
+    },
+    {
+      "pos": "名詞",
+      "text": "a fight or argument; a loud noise of metal objects hitting each other."
+    }
+  ],
+  "cautions": [
+    "clash with A=Aと衝突する・対立する(前置詞は with)",
+    "予定が重なる:The concert clashes with my exam.=コンサートが試験とかち合う",
+    "色・柄が合わない:This tie clashes with your shirt.=このネクタイはシャツと合わない",
+    "名詞 a clash of cultures [opinions]=文化の衝突[意見の対立]"
+  ],
+  "patterns": [
+    {
+      "form": "clash with A",
+      "meaning": "Aと衝突する・対立する"
+    },
+    {
+      "form": "clash over A",
+      "meaning": "Aをめぐって対立する"
+    },
+    {
+      "form": "A clashes with B (予定)",
+      "meaning": "AとBがかち合う"
+    },
+    {
+      "form": "A clashes with B (色)",
+      "meaning": "AがBと合わない"
+    },
+    {
+      "form": "a clash of A",
+      "meaning": "Aの衝突"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "衝突する",
+      "en": "Police clashed with protesters in front of the station.",
+      "ja": "駅前で警察とデモ隊が衝突した。"
+    },
+    {
+      "source": "original",
+      "label": "対立する",
+      "en": "The two leaders clashed over the new tax.",
+      "ja": "2人の指導者は新しい税をめぐって対立した。"
+    },
+    {
+      "source": "original",
+      "label": "かち合う",
+      "en": "The meeting clashes with my dentist appointment.",
+      "ja": "その会議は歯医者の予約とかち合っている。"
+    },
+    {
+      "source": "original",
+      "label": "合わない",
+      "en": "That red shirt clashes with your orange pants.",
+      "ja": "その赤いシャツはオレンジのズボンと合わない。"
+    },
+    {
+      "source": "original",
+      "label": "衝突",
+      "en": "The novel describes a clash of cultures between two families.",
+      "ja": "その小説は2つの家族の間の文化の衝突を描いている。"
+    },
+    {
+      "source": "original",
+      "label": "ガチャンという音",
+      "en": "We heard the clash of swords in the play.",
+      "ja": "劇の中で剣がぶつかり合う音が聞こえた。"
+    }
+  ],
+  "check_points": [
+    "clash with A が予定・色にも使えることがわかるか",
+    "a clash of cultures の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「衝突・対立」に加え、予定がかち合う・色が合わない用法が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1039
+    }
+  ]
+}

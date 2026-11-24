@@ -1,0 +1,103 @@
+{
+  "word": "anchor",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈæŋkər/",
+  "core_image": {
+    "text": "重いいかりで、一か所につなぎ留める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"15\" y1=\"50\" x2=\"225\" y2=\"50\"/><polygon points=\"40,40 120,40 110,56 50,56\"/><line x1=\"80\" y1=\"56\" x2=\"160\" y2=\"110\"/><circle cx=\"160\" cy=\"113\" r=\"3\"/><line x1=\"160\" y1=\"116\" x2=\"160\" y2=\"136\"/><line x1=\"152\" y1=\"121\" x2=\"168\" y2=\"121\"/><path d=\"M146 128 Q160 142 174 128\"/></g><text x=\"190\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">つなぎ留める</text></svg>"
+  },
+  "etymology": "ラテン語 ancora(いかり。ギリシャ語 ankyra から) → 船のいかり → いかりを下ろす・停泊させる → (物・人・考えを)しっかり固定する・根づかせる → 心のよりどころ・支え/(番組をつなぎ留める)総合司会・ニュースキャスター",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a heavy object dropped from a boat to stop it moving; a person or thing that gives support; a person who presents a news program."
+    },
+    {
+      "pos": "動詞",
+      "text": "to stop a boat with an anchor; to fix something firmly in position."
+    }
+  ],
+  "cautions": [
+    "be anchored in A=Aにしっかり根ざしている(考え・伝統に使う)",
+    "drop anchor=いかりを下ろす/weigh anchor=いかりを上げる・出航する",
+    "名詞「よりどころ・支え」:She was the anchor of the family.=一家の大黒柱",
+    "ch は /k/ と読む(アンカー)。名詞 anchor=ニュースキャスター(米)"
+  ],
+  "patterns": [
+    {
+      "form": "drop anchor",
+      "meaning": "いかりを下ろす"
+    },
+    {
+      "form": "anchor A to B",
+      "meaning": "AをBに固定する"
+    },
+    {
+      "form": "be anchored in A",
+      "meaning": "Aに根ざしている"
+    },
+    {
+      "form": "the anchor of A",
+      "meaning": "Aの支え・よりどころ"
+    },
+    {
+      "form": "a news anchor",
+      "meaning": "ニュースキャスター"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "いかりを下ろす",
+      "en": "The ship dropped anchor near the island.",
+      "ja": "船は島の近くでいかりを下ろした。"
+    },
+    {
+      "source": "original",
+      "label": "停泊する",
+      "en": "Several fishing boats were anchored in the bay.",
+      "ja": "何隻かの漁船が湾に停泊していた。"
+    },
+    {
+      "source": "original",
+      "label": "固定する",
+      "en": "The tent was anchored to the ground with strong ropes.",
+      "ja": "テントは丈夫なロープで地面に固定されていた。"
+    },
+    {
+      "source": "original",
+      "label": "根ざす",
+      "en": "Her ideas are firmly anchored in her own experience.",
+      "ja": "彼女の考えは自分自身の経験にしっかり根ざしている。"
+    },
+    {
+      "source": "original",
+      "label": "支え",
+      "en": "My grandmother was the anchor of our family.",
+      "ja": "祖母は私たち一家の心の支えだった。"
+    },
+    {
+      "source": "original",
+      "label": "ニュースキャスター",
+      "en": "She works as a news anchor on national TV.",
+      "ja": "彼女は全国放送のニュースキャスターをしている。"
+    }
+  ],
+  "check_points": [
+    "be anchored in A の意味を言えるか",
+    "anchor が「支え」の意味になることがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「固定する・根ざす」「支え」の比ゆ的な意味が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1035
+    }
+  ]
+}
