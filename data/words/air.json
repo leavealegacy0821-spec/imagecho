@@ -1,0 +1,107 @@
+{
+  "word": "air",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/eər/",
+  "core_image": {
+    "text": "まわりを包む、目に見えない空気",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"36\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"64\" y2=\"96\"/><path d=\"M90 60 Q105 50 120 60 T150 60 T180 60 T210 60\"/><path d=\"M90 85 Q105 75 120 85 T150 85 T180 85 T210 85\"/><path d=\"M90 110 Q105 100 120 110 T150 110 T180 110 T210 110\"/></g><text x=\"150\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">空気</text></svg>"
+  },
+  "etymology": "ギリシャ語 aēr(空気) → 空気・空中 → (場を包む空気)雰囲気・様子 → (空気にさらす)風を通す → (電波に乗せて空へ)放送する → (意見を外の空気に出す)公にする・表明する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the mixture of gases that we breathe; the space above the ground; a feeling or quality that a person or place seems to have."
+    },
+    {
+      "pos": "動詞",
+      "text": "to let fresh air into a room; to broadcast a program; to express an opinion publicly."
+    }
+  ],
+  "cautions": [
+    "an air of A=Aの雰囲気・様子(an air of mystery)、put on airs=気取る(複数形 airs)",
+    "on the air=放送中で、動詞 air=放送する(The show is aired every Friday.)",
+    "air one's views [complaints]=意見[不満]を表明する",
+    "by air=飛行機で(無冠詞)、in the air=(うわさ・気配が)広まって"
+  ],
+  "patterns": [
+    {
+      "form": "fresh air",
+      "meaning": "新鮮な空気"
+    },
+    {
+      "form": "an air of A",
+      "meaning": "Aの雰囲気"
+    },
+    {
+      "form": "on the air",
+      "meaning": "放送中"
+    },
+    {
+      "form": "air one's views",
+      "meaning": "意見を表明する"
+    },
+    {
+      "form": "by air",
+      "meaning": "飛行機で"
+    },
+    {
+      "form": "put on airs",
+      "meaning": "気取る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "空気",
+      "en": "Let's open the window and get some fresh air.",
+      "ja": "窓を開けて新鮮な空気を入れよう。"
+    },
+    {
+      "source": "original",
+      "label": "雰囲気",
+      "en": "The old house had an air of mystery.",
+      "ja": "その古い家にはなぞめいた雰囲気があった。"
+    },
+    {
+      "source": "original",
+      "label": "放送する(動詞)",
+      "en": "The program will be aired next Sunday.",
+      "ja": "その番組は来週の日曜日に放送される。"
+    },
+    {
+      "source": "original",
+      "label": "air one's views",
+      "en": "Students were given a chance to air their views.",
+      "ja": "生徒たちは意見を述べる機会を与えられた。"
+    },
+    {
+      "source": "original",
+      "label": "by air",
+      "en": "The package was sent by air.",
+      "ja": "その小包は航空便で送られた。"
+    },
+    {
+      "source": "original",
+      "label": "put on airs",
+      "en": "She never puts on airs, even though she is famous.",
+      "ja": "彼女は有名なのに少しも気取らない。"
+    }
+  ],
+  "check_points": [
+    "動詞 air の意味を2つ言えるか",
+    "an air of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "動詞 air(放送する・表明する)と an air of A(雰囲気)が長文・語彙で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 912
+    }
+  ]
+}

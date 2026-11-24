@@ -1,0 +1,103 @@
+{
+  "word": "lodge",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/lɑːdʒ/",
+  "core_image": {
+    "text": "ある場所に入りこんで、とどまる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"60,80 110,40 160,80\"/><rect x=\"70\" y=\"80\" width=\"80\" height=\"60\"/><rect x=\"100\" y=\"104\" width=\"20\" height=\"36\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"188\" y2=\"96\"/><line x1=\"200\" y1=\"74\" x2=\"212\" y2=\"96\"/><line x1=\"184\" y1=\"124\" x2=\"158\" y2=\"124\" stroke-dasharray=\"5 5\"/><polyline points=\"165,127.8 158,124 165,120.2\"/></g><text x=\"110\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">とどまる</text></svg>"
+  },
+  "etymology": "古フランス語 loge(小屋) → 小屋・山小屋 → (小屋に)泊まる・泊める → (入りこんで)はさまる・刺さる=be lodged in A → (訴えを役所に置いてとどめる)申し立てる=lodge a complaint",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stay somewhere for a short time; to become fixed in a place; to officially make a complaint."
+    },
+    {
+      "pos": "名詞",
+      "text": "a small house in the countryside or mountains, often used by visitors."
+    }
+  ],
+  "cautions": [
+    "lodge a complaint [protest] (with A)=(Aに)苦情[抗議]を申し立てる(file a complaint と同じ)",
+    "be lodged in A=Aに刺さって[はさまって]いる(a bone lodged in his throat)",
+    "lodge at [with] A=A(場所)に[A(人)の家に]泊まる・下宿する",
+    "名詞 lodging=宿・宿泊、board and lodging=食事つきの下宿"
+  ],
+  "patterns": [
+    {
+      "form": "lodge at A",
+      "meaning": "Aに泊まる"
+    },
+    {
+      "form": "lodge with A",
+      "meaning": "Aの家に下宿する"
+    },
+    {
+      "form": "lodge a complaint",
+      "meaning": "苦情を申し立てる"
+    },
+    {
+      "form": "be lodged in A",
+      "meaning": "Aに刺さっている"
+    },
+    {
+      "form": "board and lodging",
+      "meaning": "食事つき下宿"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "泊まる",
+      "en": "We lodged at a small inn near the lake.",
+      "ja": "私たちは湖の近くの小さな宿に泊まった。"
+    },
+    {
+      "source": "original",
+      "label": "lodge with",
+      "en": "During college, he lodged with his aunt.",
+      "ja": "大学時代、彼はおばの家に下宿していた。"
+    },
+    {
+      "source": "original",
+      "label": "lodge a complaint",
+      "en": "Several customers lodged complaints about the noise.",
+      "ja": "何人かの客が騒音について苦情を申し立てた。"
+    },
+    {
+      "source": "original",
+      "label": "刺さる",
+      "en": "A small stone was lodged in the tire.",
+      "ja": "小石がタイヤにはさまっていた。"
+    },
+    {
+      "source": "original",
+      "label": "山小屋(名詞)",
+      "en": "We stayed at a ski lodge in the mountains.",
+      "ja": "私たちは山のスキーロッジに泊まった。"
+    },
+    {
+      "source": "original",
+      "label": "lodging",
+      "en": "The price includes meals and lodging.",
+      "ja": "料金には食事と宿泊が含まれている。"
+    }
+  ],
+  "check_points": [
+    "lodge a complaint の意味を言えるか",
+    "be lodged in A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "lodge a complaint(申し立てる)と be lodged in A(刺さる)が長文・語彙で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 920
+    }
+  ]
+}

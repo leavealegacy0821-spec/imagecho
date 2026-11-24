@@ -1,0 +1,103 @@
+{
+  "word": "concrete",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/ˈkɑːnkriːt/",
+  "core_image": {
+    "text": "ぎゅっと固まって、手で触れる形がある",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M40 100 Q28 82 48 76 Q52 60 72 66 Q92 58 96 78 Q112 88 94 102 Q70 112 40 100 Z\" stroke-dasharray=\"5 5\"/><line x1=\"108\" y1=\"88\" x2=\"132\" y2=\"88\"/><polyline points=\"125,84.2 132,88 125,91.8\"/><rect x=\"140\" y=\"70\" width=\"50\" height=\"50\"/><polyline points=\"140,70 160,56 210,56 210,106 190,120\"/><line x1=\"190\" y1=\"70\" x2=\"210\" y2=\"56\"/></g><text x=\"68\" y=\"128\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">抽象的</text><text x=\"172\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">具体的</text></svg>"
+  },
+  "etymology": "con(共に) + crescere(育つ) → concretus(寄り集まって固まった) → 固まったもの=コンクリート → (固まって形がある)具体的な・有形の(⇔ abstract=抽象的な)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "based on facts or real things, not on ideas; specific and clear."
+    },
+    {
+      "pos": "名詞",
+      "text": "a hard building material made from cement, sand, stones and water."
+    }
+  ],
+  "cautions": [
+    "入試の中心は形容詞「具体的な」。⇔ abstract(抽象的な)とセットで",
+    "a concrete example=具体例、concrete evidence [proof]=確かな証拠",
+    "concrete plans [proposals]=具体的な計画[提案](vague の反対)",
+    "副詞 concretely=具体的に、名詞「コンクリート」は不可算"
+  ],
+  "patterns": [
+    {
+      "form": "a concrete example",
+      "meaning": "具体例"
+    },
+    {
+      "form": "concrete evidence",
+      "meaning": "確かな証拠"
+    },
+    {
+      "form": "concrete plans",
+      "meaning": "具体的な計画"
+    },
+    {
+      "form": "concrete ⇔ abstract",
+      "meaning": "具体的な ⇔ 抽象的な"
+    },
+    {
+      "form": "in concrete terms",
+      "meaning": "具体的に言えば"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "具体的な",
+      "en": "Can you give me a concrete example?",
+      "ja": "具体例を挙げてくれますか。"
+    },
+    {
+      "source": "original",
+      "label": "確かな",
+      "en": "The police have no concrete evidence against him.",
+      "ja": "警察には彼に不利な確かな証拠がない。"
+    },
+    {
+      "source": "original",
+      "label": "concrete plans",
+      "en": "We have no concrete plans for the summer yet.",
+      "ja": "夏の具体的な予定はまだない。"
+    },
+    {
+      "source": "original",
+      "label": "abstract との対比",
+      "en": "Children understand concrete ideas more easily than abstract ones.",
+      "ja": "子どもは抽象的な考えより具体的な考えのほうが理解しやすい。"
+    },
+    {
+      "source": "original",
+      "label": "in concrete terms",
+      "en": "Explain your idea in concrete terms.",
+      "ja": "君の考えを具体的に説明しなさい。"
+    },
+    {
+      "source": "original",
+      "label": "コンクリート(名詞)",
+      "en": "The bridge is made of concrete.",
+      "ja": "その橋はコンクリートでできている。"
+    }
+  ],
+  "check_points": [
+    "concrete の反意語を言えるか",
+    "a concrete example の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "concrete ⇔ abstract の対比が長文・語彙で頻出。「コンクリート」だけで覚えない。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 916
+    }
+  ]
+}

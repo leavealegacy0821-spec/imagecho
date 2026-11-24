@@ -1,0 +1,98 @@
+{
+  "word": "toll",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/toʊl/",
+  "core_image": {
+    "text": "通るたびに取られる「代価」",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"70\" y2=\"84\"/><circle cx=\"76\" cy=\"86\" r=\"5\"/><rect x=\"150\" y=\"70\" width=\"44\" height=\"70\"/><rect x=\"160\" y=\"80\" width=\"24\" height=\"18\"/><line x1=\"92\" y1=\"104\" x2=\"150\" y2=\"104\"/></g><text x=\"172\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">通行料</text></svg>"
+  },
+  "etymology": "古英語 toll(税・料金) → 通るたびに払う料金=通行料・使用料 → (災害・病気・戦争が取り立てていく「代価」)死傷者数・犠牲・損害 → take a toll on A=Aに打撃を与える(鐘が鳴る toll は別の語)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "money you pay to use a road or bridge; the number of people killed or injured in an accident, war, etc.; the bad effect that something has."
+    }
+  ],
+  "cautions": [
+    "the death toll=死者数(災害・事故のニュースで最頻出)",
+    "take a (heavy) toll on A=Aに(大きな)打撃・害を与える(on に注意)",
+    "a toll road=有料道路、toll-free=(電話が)無料の",
+    "「通行料」だけで覚えると長文の toll(犠牲・被害)が取れない"
+  ],
+  "patterns": [
+    {
+      "form": "a toll road",
+      "meaning": "有料道路"
+    },
+    {
+      "form": "pay a toll",
+      "meaning": "通行料を払う"
+    },
+    {
+      "form": "the death toll",
+      "meaning": "死者数"
+    },
+    {
+      "form": "take a toll on A",
+      "meaning": "Aに打撃を与える"
+    },
+    {
+      "form": "toll-free",
+      "meaning": "(電話が)無料の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "通行料",
+      "en": "We had to pay a toll to cross the bridge.",
+      "ja": "その橋を渡るのに通行料を払わなければならなかった。"
+    },
+    {
+      "source": "original",
+      "label": "a toll road",
+      "en": "The new toll road saves us an hour.",
+      "ja": "新しい有料道路のおかげで1時間短縮できる。"
+    },
+    {
+      "source": "original",
+      "label": "the death toll",
+      "en": "The death toll from the earthquake rose to 300.",
+      "ja": "その地震による死者数は300人に達した。"
+    },
+    {
+      "source": "original",
+      "label": "take a toll on",
+      "en": "Working late every night took a toll on his health.",
+      "ja": "毎晩遅くまで働いたことが彼の健康をむしばんだ。"
+    },
+    {
+      "source": "original",
+      "label": "take a heavy toll",
+      "en": "The war took a heavy toll on the country's economy.",
+      "ja": "その戦争はその国の経済に大きな打撃を与えた。"
+    },
+    {
+      "source": "original",
+      "label": "toll-free",
+      "en": "Call this toll-free number for more information.",
+      "ja": "詳しくはこちらの無料番号にお電話ください。"
+    }
+  ],
+  "check_points": [
+    "the death toll の意味を言えるか",
+    "take a toll on A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "take a toll on A と the death toll が長文・和訳で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 915
+    }
+  ]
+}

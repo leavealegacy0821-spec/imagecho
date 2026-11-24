@@ -1,0 +1,98 @@
+{
+  "word": "provision",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/prəˈvɪʒən/",
+  "core_image": {
+    "text": "先を見て、前もって備えておくもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"36\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"64\" y2=\"96\"/><line x1=\"110\" y1=\"60\" x2=\"110\" y2=\"140\"/><line x1=\"220\" y1=\"60\" x2=\"220\" y2=\"140\"/><line x1=\"110\" y1=\"84\" x2=\"220\" y2=\"84\"/><line x1=\"110\" y1=\"112\" x2=\"220\" y2=\"112\"/><rect x=\"120\" y=\"66\" width=\"22\" height=\"18\"/><rect x=\"152\" y=\"70\" width=\"20\" height=\"14\"/><circle cx=\"194\" cy=\"76\" r=\"7\"/><rect x=\"122\" y=\"94\" width=\"30\" height=\"18\"/><rect x=\"164\" y=\"92\" width=\"24\" height=\"20\"/><rect x=\"128\" y=\"122\" width=\"26\" height=\"18\"/><circle cx=\"186\" cy=\"132\" r=\"7\"/></g><text x=\"165\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">備え</text></svg>"
+  },
+  "etymology": "pro(前もって) + videre(見る) → 先を見て備えること(provide と同じ) → 供給・支給 → 備え・用意(make provision for A) → (備えた)食料=provisions → (あらかじめ定めておく)条項・規定",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the act of supplying something; preparations made for the future; (provisions) supplies of food; a condition in a law or agreement."
+    }
+  ],
+  "cautions": [
+    "make provision(s) for A=Aに備える・Aの手当てをする(for に注意)",
+    "provisions(複数)=食料・蓄え",
+    "法律・契約の provision=条項・規定(長文の「規定」の訳に注意)",
+    "形容詞 provisional=暫定的な・仮の、provided [providing] that S V=〜という条件で"
+  ],
+  "patterns": [
+    {
+      "form": "the provision of A",
+      "meaning": "Aの供給"
+    },
+    {
+      "form": "make provision for A",
+      "meaning": "Aに備える"
+    },
+    {
+      "form": "provisions",
+      "meaning": "食料・蓄え"
+    },
+    {
+      "form": "a provision of the law",
+      "meaning": "法律の条項"
+    },
+    {
+      "form": "provisional",
+      "meaning": "暫定的な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "供給",
+      "en": "The provision of clean water is a basic need.",
+      "ja": "きれいな水の供給は基本的な必要事項だ。"
+    },
+    {
+      "source": "original",
+      "label": "make provision for",
+      "en": "You should make provision for your old age.",
+      "ja": "老後に備えておくべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "provisions(食料)",
+      "en": "The climbers carried enough provisions for a week.",
+      "ja": "登山者たちは1週間ぶんの食料を持っていた。"
+    },
+    {
+      "source": "original",
+      "label": "条項",
+      "en": "The contract contains a provision about working hours.",
+      "ja": "その契約には労働時間についての条項がある。"
+    },
+    {
+      "source": "original",
+      "label": "規定",
+      "en": "Under the provisions of the law, smoking is banned here.",
+      "ja": "法律の規定により、ここでは喫煙が禁止されている。"
+    },
+    {
+      "source": "original",
+      "label": "provisional",
+      "en": "This is only a provisional plan.",
+      "ja": "これはあくまで仮の計画だ。"
+    }
+  ],
+  "check_points": [
+    "make provision for A の意味を言えるか",
+    "provisions(複数)と法律の provision の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "make provision for A、provisions(食料)、条項・規定の意味が長文で問われる。provisional も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 919
+    }
+  ]
+}

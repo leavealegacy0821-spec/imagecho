@@ -1,0 +1,103 @@
+{
+  "word": "seal",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/siːl/",
+  "core_image": {
+    "text": "ぴたりと封をして、閉じこめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"70\" y=\"50\" width=\"100\" height=\"64\"/><polyline points=\"70,50 120,84 170,50\"/><circle cx=\"120\" cy=\"84\" r=\"10\"/></g><text x=\"120\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">封をする</text></svg>"
+  },
+  "etymology": "ラテン語 sigillum(小さな印) → 封じ目に押す印=封印・判 → 封をする・密閉する → (封をして閉じる)封鎖する → (封印を押して)確定させる=seal the deal・seal one's fate(アザラシの seal は別の語)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to close something tightly so that nothing can get in or out; to make something certain or final."
+    },
+    {
+      "pos": "名詞",
+      "text": "an official mark or stamp; something that closes an opening tightly."
+    }
+  ],
+  "cautions": [
+    "seal off A=A(地域・建物)を封鎖する(警察・災害の長文で頻出)",
+    "seal the deal=取引をまとめる・勝負を決める、seal one's fate=運命を決定づける(「封をする→もう変わらない」)",
+    "sealed=封をした・密閉された(a sealed envelope / a sealed container)",
+    "a seal of approval=承認のしるし・お墨付き"
+  ],
+  "patterns": [
+    {
+      "form": "seal an envelope",
+      "meaning": "封筒に封をする"
+    },
+    {
+      "form": "seal off A",
+      "meaning": "Aを封鎖する"
+    },
+    {
+      "form": "seal the deal",
+      "meaning": "取引をまとめる"
+    },
+    {
+      "form": "seal one's fate",
+      "meaning": "運命を決定づける"
+    },
+    {
+      "form": "a seal of approval",
+      "meaning": "承認のしるし"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "封をする",
+      "en": "Please seal the envelope before you mail it.",
+      "ja": "郵送する前に封筒に封をしてください。"
+    },
+    {
+      "source": "original",
+      "label": "密閉する",
+      "en": "Keep the cookies in a sealed container.",
+      "ja": "クッキーは密閉容器に入れておきなさい。"
+    },
+    {
+      "source": "original",
+      "label": "seal off",
+      "en": "The police sealed off the area after the accident.",
+      "ja": "事故のあと警察はその地域を封鎖した。"
+    },
+    {
+      "source": "original",
+      "label": "seal the deal",
+      "en": "A last-minute goal sealed the victory for our team.",
+      "ja": "終了間際のゴールがわがチームの勝利を決定づけた。"
+    },
+    {
+      "source": "original",
+      "label": "seal one's fate",
+      "en": "That single mistake sealed his fate.",
+      "ja": "そのたった1つの失敗が彼の運命を決めた。"
+    },
+    {
+      "source": "original",
+      "label": "印(名詞)",
+      "en": "The document bears the seal of the king.",
+      "ja": "その文書には王の印が押されている。"
+    }
+  ],
+  "check_points": [
+    "seal off A の意味を言えるか",
+    "seal one's fate の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "seal off A(封鎖する)が長文で、seal the deal / one's fate(決定づける)が和訳で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 911
+    }
+  ]
+}

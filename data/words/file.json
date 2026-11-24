@@ -1,0 +1,103 @@
+{
+  "word": "file",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/faɪl/",
+  "core_image": {
+    "text": "書類をとじて、順に並べておく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"20\" y=\"80\" width=\"26\" height=\"34\"/><line x1=\"25\" y1=\"90\" x2=\"41\" y2=\"90\"/><line x1=\"25\" y1=\"100\" x2=\"41\" y2=\"100\"/><line x1=\"52\" y1=\"96\" x2=\"92\" y2=\"96\"/><polyline points=\"85,92.2 92,96 85,99.8\"/><rect x=\"100\" y=\"40\" width=\"90\" height=\"96\"/><circle cx=\"110\" cy=\"60\" r=\"4\"/><circle cx=\"110\" cy=\"88\" r=\"4\"/><circle cx=\"110\" cy=\"116\" r=\"4\"/><line x1=\"122\" y1=\"58\" x2=\"180\" y2=\"58\"/><line x1=\"122\" y1=\"72\" x2=\"180\" y2=\"72\"/><line x1=\"122\" y1=\"86\" x2=\"180\" y2=\"86\"/><line x1=\"122\" y1=\"100\" x2=\"180\" y2=\"100\"/><line x1=\"122\" y1=\"114\" x2=\"180\" y2=\"114\"/></g><text x=\"60\" y=\"72\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">とじる</text></svg>"
+  },
+  "etymology": "フランス語 fil(糸) → (糸に通してとじた)書類つづり=ファイル → とじて整理・保管する → (書類を役所・裁判所に出す)提出する・申し立てる → (糸のように一列に)縦の列=in single file",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a box or folder for keeping documents; a collection of information stored on a computer; a line of people one behind another."
+    },
+    {
+      "pos": "動詞",
+      "text": "to put a document in its proper place; to officially send a document or complaint to an organization or court."
+    }
+  ],
+  "cautions": [
+    "file a complaint [lawsuit]=苦情を申し立てる[訴訟を起こす](「整理する」だけで覚えると取れない)",
+    "file for A=A(離婚・破産など)を申請する(file for divorce / bankruptcy)",
+    "in single file=一列縦隊で",
+    "keep A on file=Aを(記録として)保管しておく"
+  ],
+  "patterns": [
+    {
+      "form": "file a complaint",
+      "meaning": "苦情を申し立てる"
+    },
+    {
+      "form": "file a lawsuit against A",
+      "meaning": "Aを訴える"
+    },
+    {
+      "form": "file for A",
+      "meaning": "Aを申請する"
+    },
+    {
+      "form": "in single file",
+      "meaning": "一列縦隊で"
+    },
+    {
+      "form": "on file",
+      "meaning": "記録に保管されて"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ファイル(名詞)",
+      "en": "I saved the file on my computer.",
+      "ja": "私はそのファイルをコンピューターに保存した。"
+    },
+    {
+      "source": "original",
+      "label": "とじて保管する",
+      "en": "Please file these letters in alphabetical order.",
+      "ja": "これらの手紙をアルファベット順にとじておいてください。"
+    },
+    {
+      "source": "original",
+      "label": "file a complaint",
+      "en": "She filed a complaint with the store manager.",
+      "ja": "彼女は店長に苦情を申し立てた。"
+    },
+    {
+      "source": "original",
+      "label": "file a lawsuit",
+      "en": "The workers filed a lawsuit against the company.",
+      "ja": "労働者たちはその会社を相手に訴訟を起こした。"
+    },
+    {
+      "source": "original",
+      "label": "file for",
+      "en": "The company filed for bankruptcy last year.",
+      "ja": "その会社は昨年破産を申請した。"
+    },
+    {
+      "source": "original",
+      "label": "in single file",
+      "en": "The children walked across the bridge in single file.",
+      "ja": "子どもたちは一列になって橋を渡った。"
+    }
+  ],
+  "check_points": [
+    "file a complaint の意味を言えるか",
+    "file for A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "動詞 file(提出する・申し立てる)が長文・語彙で問われる。in single file も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 914
+    }
+  ]
+}

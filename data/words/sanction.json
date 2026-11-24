@@ -1,0 +1,103 @@
+{
+  "word": "sanction",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈsæŋkʃən/",
+  "core_image": {
+    "text": "正式な決まりで「よし」と「だめ」を定める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"96\" y=\"46\" width=\"48\" height=\"64\"/><line x1=\"120\" y1=\"46\" x2=\"120\" y2=\"110\"/><line x1=\"92\" y1=\"78\" x2=\"74\" y2=\"78\"/><polyline points=\"81,81.8 74,78 81,74.2\"/><line x1=\"148\" y1=\"78\" x2=\"166\" y2=\"78\"/><polyline points=\"159,74.2 166,78 159,81.8\"/><circle cx=\"50\" cy=\"78\" r=\"18\"/><line x1=\"176\" y1=\"64\" x2=\"204\" y2=\"92\"/><line x1=\"204\" y1=\"64\" x2=\"176\" y2=\"92\"/></g><text x=\"50\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">許可</text><text x=\"190\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">制裁</text></svg>"
+  },
+  "etymology": "ラテン語 sanctio(神聖なものとして定めた決まり。sancire=神聖なものと定める) → 正式に定めた決まり → (決まりで認める)許可・認可 / (決まりを破った者への)罰則・制裁 → 動詞 認可する・制裁を科す",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "official permission or approval; an official order to stop trade or contact with a country, as a punishment."
+    },
+    {
+      "pos": "動詞",
+      "text": "to give official permission for something; to punish someone officially."
+    }
+  ],
+  "cautions": [
+    "正反対に見える2つの意味:「許可・承認」と「制裁・罰則」(どちらも「正式な決まり」から)",
+    "「制裁」はふつう複数 sanctions:impose (economic) sanctions on A=Aに(経済)制裁を科す",
+    "lift sanctions=制裁を解除する",
+    "動詞 sanction=(正式に)認可する(堅い。approve に近い)"
+  ],
+  "patterns": [
+    {
+      "form": "impose sanctions on A",
+      "meaning": "Aに制裁を科す"
+    },
+    {
+      "form": "economic sanctions",
+      "meaning": "経済制裁"
+    },
+    {
+      "form": "lift sanctions",
+      "meaning": "制裁を解除する"
+    },
+    {
+      "form": "without the sanction of A",
+      "meaning": "Aの許可なしに"
+    },
+    {
+      "form": "sanction A",
+      "meaning": "Aを認可する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "制裁",
+      "en": "Many countries imposed economic sanctions on the nation.",
+      "ja": "多くの国がその国に経済制裁を科した。"
+    },
+    {
+      "source": "original",
+      "label": "lift sanctions",
+      "en": "The sanctions were finally lifted last year.",
+      "ja": "その制裁は昨年ようやく解除された。"
+    },
+    {
+      "source": "original",
+      "label": "許可",
+      "en": "The plan was carried out without the sanction of the city.",
+      "ja": "その計画は市の許可なしに実行された。"
+    },
+    {
+      "source": "original",
+      "label": "認可する(動詞)",
+      "en": "The government sanctioned the use of the new drug.",
+      "ja": "政府はその新薬の使用を認可した。"
+    },
+    {
+      "source": "original",
+      "label": "罰則",
+      "en": "The new law includes strict sanctions against illegal dumping.",
+      "ja": "新しい法律には不法投棄に対する厳しい罰則が含まれている。"
+    },
+    {
+      "source": "original",
+      "label": "承認",
+      "en": "The team needs the official sanction of the school.",
+      "ja": "そのチームには学校の正式な承認が必要だ。"
+    }
+  ],
+  "check_points": [
+    "sanction の正反対に見える2つの意味を言えるか",
+    "impose sanctions on A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "国際ニュース系の長文で sanctions(制裁)が出る。「許可」の意味との区別が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 917
+    }
+  ]
+}

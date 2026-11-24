@@ -1,0 +1,103 @@
+{
+  "word": "arrest",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/əˈrest/",
+  "core_image": {
+    "text": "動いているものを、ぴたりと止める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"100\" y2=\"74\"/><line x1=\"100\" y1=\"64\" x2=\"100\" y2=\"84\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"140\" y2=\"96\"/><line x1=\"150\" y1=\"74\" x2=\"160\" y2=\"96\"/><line x1=\"176\" y1=\"80\" x2=\"206\" y2=\"80\"/><line x1=\"180\" y1=\"96\" x2=\"210\" y2=\"96\"/><line x1=\"176\" y1=\"112\" x2=\"206\" y2=\"112\"/></g><text x=\"118\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">止める</text></svg>"
+  },
+  "etymology": "ad(〜に) + restare(とどまる) → (動きを)止める・とどめる → (犯人の動きを止める)逮捕する → (病気・成長の進行を)止める → (目・注意を)引きつけて止める",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "(of the police) to take someone away because they may have committed a crime; to stop something from developing; to attract someone's attention."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of taking someone away as a criminal; the stopping of something."
+    }
+  ],
+  "cautions": [
+    "arrest A for B=AをBの罪[理由]で逮捕する(for に注意)",
+    "be under arrest=逮捕されている、You're under arrest.=おまえを逮捕する",
+    "arrest the spread of A=Aの広がりを食い止める(「逮捕」以外の意味が長文で出る)",
+    "arrest one's attention=注意を引く、形容詞 arresting=人目を引く、cardiac arrest=心停止"
+  ],
+  "patterns": [
+    {
+      "form": "arrest A for B",
+      "meaning": "AをBの罪で逮捕する"
+    },
+    {
+      "form": "be under arrest",
+      "meaning": "逮捕されている"
+    },
+    {
+      "form": "arrest the spread of A",
+      "meaning": "Aの広がりを止める"
+    },
+    {
+      "form": "arrest one's attention",
+      "meaning": "注意を引く"
+    },
+    {
+      "form": "arresting",
+      "meaning": "人目を引く"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "逮捕する",
+      "en": "The man was arrested for stealing a bicycle.",
+      "ja": "その男は自転車を盗んだ疑いで逮捕された。"
+    },
+    {
+      "source": "original",
+      "label": "be under arrest",
+      "en": "The suspect is now under arrest.",
+      "ja": "その容疑者はいま逮捕されている。"
+    },
+    {
+      "source": "original",
+      "label": "進行を止める",
+      "en": "The new medicine may arrest the spread of the disease.",
+      "ja": "新しい薬がその病気の広がりを食い止めるかもしれない。"
+    },
+    {
+      "source": "original",
+      "label": "注意を引く",
+      "en": "A strange sound arrested my attention.",
+      "ja": "奇妙な音が私の注意を引いた。"
+    },
+    {
+      "source": "original",
+      "label": "arresting",
+      "en": "She has an arresting smile.",
+      "ja": "彼女の笑顔は人目を引く。"
+    },
+    {
+      "source": "original",
+      "label": "逮捕(名詞)",
+      "en": "The police made three arrests that night.",
+      "ja": "警察はその夜3人を逮捕した。"
+    }
+  ],
+  "check_points": [
+    "arrest A for B の意味を言えるか",
+    "arrest の「逮捕する」以外の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "arrest A for B と be under arrest が語法で、「止める・注意を引く」の意味が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 918
+    }
+  ]
+}
