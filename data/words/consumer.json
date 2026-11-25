@@ -1,0 +1,93 @@
+{
+  "word": "consumer",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/kənˈsuːmər/",
+  "core_image": {
+    "text": "商品を買って、使い切る人",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"80\" y1=\"74\" x2=\"110\" y2=\"86\"/><line x1=\"80\" y1=\"74\" x2=\"66\" y2=\"96\"/><path d=\"M110 86 L114 116 L146 116 L150 86 Z\"/><rect x=\"118\" y=\"74\" width=\"10\" height=\"12\"/><rect x=\"132\" y=\"72\" width=\"10\" height=\"14\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">消費者</text></svg>"
+  },
+  "etymology": "consume(使い切る。con=すっかり+sumere=取る)+er → 使い切る人 → (商品・サービスの)消費者 → consumption=消費",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a person who buys goods or services for their own use."
+    }
+  ],
+  "cautions": [
+    "customer=(店の)客/consumer=(社会全体で見た)消費者",
+    "consumer goods=消費財/consumer protection=消費者保護",
+    "consume=消費する/consumption=消費(consumption tax=消費税)",
+    "producer(生産者)⇔ consumer"
+  ],
+  "patterns": [
+    {
+      "form": "consumers",
+      "meaning": "消費者"
+    },
+    {
+      "form": "consumer goods",
+      "meaning": "消費財"
+    },
+    {
+      "form": "consumer protection",
+      "meaning": "消費者保護"
+    },
+    {
+      "form": "consumption",
+      "meaning": "消費"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "消費者",
+      "en": "Consumers want cheaper prices.",
+      "ja": "消費者はもっと安い値段を求めている。"
+    },
+    {
+      "source": "original",
+      "label": "消費者",
+      "en": "The new law protects consumers.",
+      "ja": "新しい法律は消費者を守る。"
+    },
+    {
+      "source": "original",
+      "label": "生産者と消費者",
+      "en": "Farmers sell directly to consumers at the market.",
+      "ja": "市場では農家が消費者に直接売っている。"
+    },
+    {
+      "source": "original",
+      "label": "消費",
+      "en": "Energy consumption is increasing.",
+      "ja": "エネルギー消費が増えている。"
+    },
+    {
+      "source": "original",
+      "label": "消費財",
+      "en": "Consumer goods became cheaper.",
+      "ja": "消費財が安くなった。"
+    },
+    {
+      "source": "original",
+      "label": "消費する",
+      "en": "Americans consume a lot of meat.",
+      "ja": "アメリカ人は肉をたくさん食べる。"
+    }
+  ],
+  "check_points": [
+    "customer と consumer のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "consumer、consumption が経済系の長文で多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1596
+    }
+  ]
+}

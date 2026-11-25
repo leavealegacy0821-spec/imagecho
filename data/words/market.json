@@ -1,0 +1,102 @@
+{
+  "word": "market",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈmɑːrkɪt/",
+  "core_image": {
+    "text": "売り手と買い手が集まる、取引の場",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"80\" width=\"60\" height=\"10\"/><line x1=\"34\" y1=\"90\" x2=\"34\" y2=\"140\"/><line x1=\"86\" y1=\"90\" x2=\"86\" y2=\"140\"/><polygon points=\"26,80 60,60 94,80\"/><rect x=\"150\" y=\"80\" width=\"60\" height=\"10\"/><line x1=\"154\" y1=\"90\" x2=\"154\" y2=\"140\"/><line x1=\"206\" y1=\"90\" x2=\"206\" y2=\"140\"/><polygon points=\"146,80 180,60 214,80\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/></g><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">取引の場</text></svg>"
+  },
+  "etymology": "ラテン語 mercatus(売買・市。merchant・commerce と同じ「品物」の根) → 市場・いち → (経済の)市場・需要 → (動詞)売り込む・市場に出す → marketing",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a place where people buy and sell goods; the business of buying and selling a particular product; demand for a product."
+    },
+    {
+      "pos": "動詞",
+      "text": "to advertise and sell a product."
+    }
+  ],
+  "cautions": [
+    "a market=市場(いちば)/the market=(経済の)市場・相場",
+    "on the market=売りに出されて/put A on the market=Aを売りに出す",
+    "the job [stock] market=雇用[株式]市場",
+    "market A=Aを売り込む/marketing=マーケティング"
+  ],
+  "patterns": [
+    {
+      "form": "on the market",
+      "meaning": "売りに出されて"
+    },
+    {
+      "form": "the job market",
+      "meaning": "雇用市場"
+    },
+    {
+      "form": "the stock market",
+      "meaning": "株式市場"
+    },
+    {
+      "form": "a market for A",
+      "meaning": "Aの需要"
+    },
+    {
+      "form": "market A",
+      "meaning": "Aを売り込む"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "市場",
+      "en": "We bought fresh fish at the market.",
+      "ja": "市場で新鮮な魚を買った。"
+    },
+    {
+      "source": "original",
+      "label": "売りに出されて",
+      "en": "Their house is on the market.",
+      "ja": "彼らの家は売りに出されている。"
+    },
+    {
+      "source": "original",
+      "label": "株式市場",
+      "en": "The stock market fell sharply.",
+      "ja": "株式市場が急落した。"
+    },
+    {
+      "source": "original",
+      "label": "需要",
+      "en": "There is a growing market for electric cars.",
+      "ja": "電気自動車の需要が高まっている。"
+    },
+    {
+      "source": "original",
+      "label": "売り込む",
+      "en": "The product is marketed to teenagers.",
+      "ja": "その商品は10代向けに売り込まれている。"
+    },
+    {
+      "source": "original",
+      "label": "雇用市場",
+      "en": "The job market is tough this year.",
+      "ja": "今年は就職が厳しい。"
+    }
+  ],
+  "check_points": [
+    "on the market の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "the job / stock market、market for が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1591
+    }
+  ]
+}

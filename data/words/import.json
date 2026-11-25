@@ -1,0 +1,98 @@
+{
+  "word": "import",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɪmˈpɔːrt/",
+  "core_image": {
+    "text": "品物を港から、国の中へ運び入れる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M140 90 L220 90 L220 130 L140 130 Z\"/><line x1=\"200\" y1=\"90\" x2=\"200\" y2=\"60\"/><line x1=\"200\" y1=\"60\" x2=\"170\" y2=\"60\"/><line x1=\"30\" y1=\"110\" x2=\"136\" y2=\"110\"/><polyline points=\"129,106.2 136,110 129,113.8\"/><rect x=\"80\" y=\"94\" width=\"20\" height=\"16\"/></g><text x=\"90\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">中へ運ぶ</text></svg>"
+  },
+  "etymology": "im(中へ)+port(運ぶ) → 港から国の中へ運び入れる → 輸入する → (名詞)輸入(品) → (堅い)重要性(of great import)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to bring goods into a country from another country to sell them."
+    },
+    {
+      "pos": "名詞",
+      "text": "a product brought into a country; the business of importing goods."
+    }
+  ],
+  "cautions": [
+    "import(輸入)⇔ export(輸出)",
+    "import A from B=AをBから輸入する",
+    "名詞は前、動詞は後ろに強勢",
+    "important(重要な)も「中に運びこむ価値がある」の同じ根"
+  ],
+  "patterns": [
+    {
+      "form": "import A from B",
+      "meaning": "AをBから輸入する"
+    },
+    {
+      "form": "imports of A",
+      "meaning": "Aの輸入"
+    },
+    {
+      "form": "cheap imports",
+      "meaning": "安い輸入品"
+    },
+    {
+      "form": "an importer",
+      "meaning": "輸入国・輸入業者"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "輸入する",
+      "en": "Japan imports most of its oil.",
+      "ja": "日本は石油の大部分を輸入している。"
+    },
+    {
+      "source": "original",
+      "label": "輸入する",
+      "en": "We import beef from Australia.",
+      "ja": "私たちはオーストラリアから牛肉を輸入している。"
+    },
+    {
+      "source": "original",
+      "label": "輸入品",
+      "en": "Cheap imports are hurting local farmers.",
+      "ja": "安い輸入品が地元の農家を苦しめている。"
+    },
+    {
+      "source": "original",
+      "label": "輸入",
+      "en": "Imports of rice have decreased.",
+      "ja": "米の輸入は減った。"
+    },
+    {
+      "source": "original",
+      "label": "輸入国",
+      "en": "Japan is a major importer of food.",
+      "ja": "日本は食料の主要な輸入国だ。"
+    },
+    {
+      "source": "original",
+      "label": "輸入した",
+      "en": "This cheese is imported from France.",
+      "ja": "このチーズはフランスから輸入されたものだ。"
+    }
+  ],
+  "check_points": [
+    "import A from B の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "import / export が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1595
+    }
+  ]
+}

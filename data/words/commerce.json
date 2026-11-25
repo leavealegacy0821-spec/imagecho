@@ -1,0 +1,93 @@
+{
+  "word": "commerce",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈkɑːmɜːrs/",
+  "core_image": {
+    "text": "品物をいっしょに売り買いする、商業全体",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"80\" width=\"50\" height=\"60\"/><polygon points=\"36,80 65,60 94,80\"/><rect x=\"150\" y=\"80\" width=\"50\" height=\"60\"/><polygon points=\"146,80 175,60 204,80\"/><line x1=\"96\" y1=\"100\" x2=\"144\" y2=\"100\"/><polyline points=\"137,96.2 144,100 137,103.8\"/><line x1=\"144\" y1=\"116\" x2=\"96\" y2=\"116\"/><polyline points=\"103,119.8 96,116 103,112.2\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">商業</text></svg>"
+  },
+  "etymology": "com(共に)+merx(品物。merchant・market と同じ根) → いっしょに品物をやりとりすること → 商業・通商 → commercial=商業の・コマーシャル",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the activities of buying and selling goods and services, especially on a large scale."
+    }
+  ],
+  "cautions": [
+    "trade=貿易・取引/commerce=(社会全体の)商業・通商(不可算・堅い)",
+    "e-commerce=電子商取引(ネット通販)",
+    "commercial=商業の/(名詞)コマーシャル",
+    "chamber of commerce=商工会議所"
+  ],
+  "patterns": [
+    {
+      "form": "commerce",
+      "meaning": "商業"
+    },
+    {
+      "form": "e-commerce",
+      "meaning": "電子商取引"
+    },
+    {
+      "form": "commercial",
+      "meaning": "商業の"
+    },
+    {
+      "form": "a chamber of commerce",
+      "meaning": "商工会議所"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "商業",
+      "en": "The city grew as a center of commerce.",
+      "ja": "その都市は商業の中心として発展した。"
+    },
+    {
+      "source": "original",
+      "label": "電子商取引",
+      "en": "E-commerce has changed how people shop.",
+      "ja": "電子商取引は人々の買い物のしかたを変えた。"
+    },
+    {
+      "source": "original",
+      "label": "商業の",
+      "en": "The area is used for commercial purposes.",
+      "ja": "その地域は商業目的に使われている。"
+    },
+    {
+      "source": "original",
+      "label": "コマーシャル",
+      "en": "I hate watching TV commercials.",
+      "ja": "テレビのコマーシャルを見るのは嫌いだ。"
+    },
+    {
+      "source": "original",
+      "label": "通商",
+      "en": "The treaty improved commerce between the two nations.",
+      "ja": "その条約で両国間の通商が改善された。"
+    },
+    {
+      "source": "original",
+      "label": "商業",
+      "en": "Commerce and industry developed rapidly.",
+      "ja": "商工業が急速に発展した。"
+    }
+  ],
+  "check_points": [
+    "e-commerce の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "commerce / commercial が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1590
+    }
+  ]
+}

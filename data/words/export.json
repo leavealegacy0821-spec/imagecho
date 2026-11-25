@@ -1,0 +1,98 @@
+{
+  "word": "export",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɪkˈspɔːrt/",
+  "core_image": {
+    "text": "品物を港から、外の国へ運び出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 90 L100 90 L100 130 L20 130 Z\"/><line x1=\"40\" y1=\"90\" x2=\"40\" y2=\"60\"/><line x1=\"40\" y1=\"60\" x2=\"70\" y2=\"60\"/><line x1=\"104\" y1=\"110\" x2=\"200\" y2=\"110\"/><polyline points=\"193,106.2 200,110 193,113.8\"/><rect x=\"140\" y=\"94\" width=\"20\" height=\"16\"/></g><text x=\"150\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">外へ運ぶ</text></svg>"
+  },
+  "etymology": "ex(外へ)+port(運ぶ。港=port、transport と同じ根) → 港から外へ運び出す → 輸出する(動詞・後ろ強勢) → 輸出(品)(名詞・前強勢)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to send goods to another country to sell them."
+    },
+    {
+      "pos": "名詞",
+      "text": "the business of selling goods to other countries; a product sold to another country."
+    }
+  ],
+  "cautions": [
+    "export(輸出)⇔ import(輸入)",
+    "export A to B=AをBに輸出する",
+    "名詞は前、動詞は後ろに強勢",
+    "major exports=主な輸出品"
+  ],
+  "patterns": [
+    {
+      "form": "export A to B",
+      "meaning": "AをBに輸出する"
+    },
+    {
+      "form": "major exports",
+      "meaning": "主な輸出品"
+    },
+    {
+      "form": "exports of A",
+      "meaning": "Aの輸出"
+    },
+    {
+      "form": "an exporter",
+      "meaning": "輸出国・輸出業者"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "輸出する",
+      "en": "Japan exports cars to many countries.",
+      "ja": "日本は多くの国に自動車を輸出している。"
+    },
+    {
+      "source": "original",
+      "label": "輸出品",
+      "en": "Coffee is Brazil's main export.",
+      "ja": "コーヒーはブラジルの主な輸出品だ。"
+    },
+    {
+      "source": "original",
+      "label": "輸出",
+      "en": "Exports increased by 5% last year.",
+      "ja": "昨年、輸出は5%増えた。"
+    },
+    {
+      "source": "original",
+      "label": "輸出国",
+      "en": "China is the world's largest exporter.",
+      "ja": "中国は世界最大の輸出国だ。"
+    },
+    {
+      "source": "original",
+      "label": "輸出する",
+      "en": "The country exports oil and gas.",
+      "ja": "その国は石油とガスを輸出している。"
+    },
+    {
+      "source": "original",
+      "label": "輸入(import)",
+      "en": "We import a lot of food.",
+      "ja": "私たちは多くの食料を輸入している。"
+    }
+  ],
+  "check_points": [
+    "export と import の対がわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "export / import がグラフ・経済の長文で多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1594
+    }
+  ]
+}

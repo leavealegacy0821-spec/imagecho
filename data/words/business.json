@@ -1,0 +1,98 @@
+{
+  "word": "business",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈbɪznəs/",
+  "core_image": {
+    "text": "いそがしく手がけている、商売・仕事・用事",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"96\" y2=\"84\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><rect x=\"96\" y=\"78\" width=\"34\" height=\"24\"/><rect x=\"150\" y=\"50\" width=\"60\" height=\"90\"/><line x1=\"160\" y1=\"66\" x2=\"200\" y2=\"66\"/><line x1=\"160\" y1=\"86\" x2=\"200\" y2=\"86\"/><line x1=\"160\" y1=\"106\" x2=\"200\" y2=\"106\"/></g><text x=\"110\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">商売・仕事</text></svg>"
+  },
+  "etymology": "busy(いそがしい)+ness → いそがしくしていること → 仕事・用事 → 商売・事業・会社 → (自分に関係のある)こと(none of your business)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the activity of buying and selling; a company or shop; work you do as your job; matters that concern a particular person."
+    }
+  ],
+  "cautions": [
+    "business=商売(不可算)・会社(可算:a small business)",
+    "on business=仕事で(go to A on business)",
+    "It's none of your business.=あなたには関係ない",
+    "mean business=本気だ"
+  ],
+  "patterns": [
+    {
+      "form": "on business",
+      "meaning": "仕事で"
+    },
+    {
+      "form": "start a business",
+      "meaning": "事業を始める"
+    },
+    {
+      "form": "a small business",
+      "meaning": "小さな会社"
+    },
+    {
+      "form": "none of A's business",
+      "meaning": "Aには関係ない"
+    },
+    {
+      "form": "mean business",
+      "meaning": "本気だ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "仕事で",
+      "en": "My father went to Osaka on business.",
+      "ja": "父は仕事で大阪へ行った。"
+    },
+    {
+      "source": "original",
+      "label": "事業",
+      "en": "She started her own business.",
+      "ja": "彼女は自分の事業を始めた。"
+    },
+    {
+      "source": "original",
+      "label": "関係ない",
+      "en": "It's none of your business.",
+      "ja": "君には関係ないことだ。"
+    },
+    {
+      "source": "original",
+      "label": "商売",
+      "en": "Business is good this year.",
+      "ja": "今年は商売が順調だ。"
+    },
+    {
+      "source": "original",
+      "label": "会社",
+      "en": "Many small businesses closed during the crisis.",
+      "ja": "危機の間に多くの小さな会社がつぶれた。"
+    },
+    {
+      "source": "original",
+      "label": "本気",
+      "en": "This time the police mean business.",
+      "ja": "今度ばかりは警察も本気だ。"
+    }
+  ],
+  "check_points": [
+    "on business の意味を言えるか",
+    "none of your business の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "on business、none of your business が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1592
+    }
+  ]
+}

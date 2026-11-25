@@ -1,0 +1,93 @@
+{
+  "word": "client",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈklaɪənt/",
+  "core_image": {
+    "text": "専門家に仕事を頼む、依頼人",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"160\" y2=\"80\"/><rect x=\"100\" y=\"90\" width=\"40\" height=\"8\"/><line x1=\"104\" y1=\"98\" x2=\"104\" y2=\"140\"/><line x1=\"136\" y1=\"98\" x2=\"136\" y2=\"140\"/><rect x=\"108\" y=\"80\" width=\"24\" height=\"10\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">依頼人</text></svg>"
+  },
+  "etymology": "ラテン語 cliens(保護を受ける人・頼る人) → 有力者に頼る人 → (弁護士・会社などの)依頼人・顧客",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a person who pays for the services of a professional person or organization."
+    }
+  ],
+  "cautions": [
+    "customer=(店で)物を買う客/client=(弁護士・会計士・建築家・広告会社などに)専門のサービスを頼む依頼人",
+    "a lawyer's client=弁護士の依頼人",
+    "patient=(医者の)患者",
+    "clientele=(集合的に)顧客"
+  ],
+  "patterns": [
+    {
+      "form": "a client",
+      "meaning": "依頼人"
+    },
+    {
+      "form": "meet a client",
+      "meaning": "依頼人に会う"
+    },
+    {
+      "form": "a lawyer's client",
+      "meaning": "弁護士の依頼人"
+    },
+    {
+      "form": "clients",
+      "meaning": "取引先"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "依頼人",
+      "en": "The lawyer met her client at the office.",
+      "ja": "弁護士は事務所で依頼人に会った。"
+    },
+    {
+      "source": "original",
+      "label": "顧客",
+      "en": "Our company has clients all over the world.",
+      "ja": "私たちの会社には世界中に顧客がいる。"
+    },
+    {
+      "source": "original",
+      "label": "取引先",
+      "en": "I have a meeting with a client today.",
+      "ja": "今日は取引先と打ち合わせがある。"
+    },
+    {
+      "source": "original",
+      "label": "依頼人",
+      "en": "The architect designed the house for his client.",
+      "ja": "建築家は依頼人のために家を設計した。"
+    },
+    {
+      "source": "original",
+      "label": "客",
+      "en": "The hairdresser has many regular clients.",
+      "ja": "その美容師には常連のお客が多い。"
+    },
+    {
+      "source": "original",
+      "label": "患者(patient)",
+      "en": "The doctor sees 30 patients a day.",
+      "ja": "その医者は1日に30人の患者を診る。"
+    }
+  ],
+  "check_points": [
+    "customer と client のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "客の使い分けで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1598
+    }
+  ]
+}
