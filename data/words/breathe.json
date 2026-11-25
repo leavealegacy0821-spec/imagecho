@@ -1,0 +1,93 @@
+{
+  "word": "breathe",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/briːð/",
+  "core_image": {
+    "text": "空気をすいこみ、はき出す(動詞)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"80\" cy=\"80\" r=\"26\"/><ellipse cx=\"104\" cy=\"86\" rx=\"4\" ry=\"3\"/><line x1=\"180\" y1=\"70\" x2=\"112\" y2=\"80\"/><polyline points=\"119.5,82.8 112,80 118.4,75.2\"/><line x1=\"112\" y1=\"92\" x2=\"180\" y2=\"102\"/><polyline points=\"173.6,97.2 180,102 172.5,104.8\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すー・はー</text></svg>"
+  },
+  "etymology": "breath(息)から作られた動詞 → 息をする・呼吸する → (言葉を)ささやく",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to take air into your lungs and let it out again."
+    }
+  ],
+  "cautions": [
+    "breathe /briːð/(動詞:最後に e・ブリーズ)/breath /breθ/(名詞)",
+    "breathe in=息をすう/breathe out=はく",
+    "breathe a sigh of relief=ほっと胸をなでおろす",
+    "breathing=呼吸"
+  ],
+  "patterns": [
+    {
+      "form": "breathe in [out]",
+      "meaning": "息をすう[はく]"
+    },
+    {
+      "form": "breathe deeply",
+      "meaning": "深く呼吸する"
+    },
+    {
+      "form": "breathe a sigh of relief",
+      "meaning": "ほっとする"
+    },
+    {
+      "form": "breathing",
+      "meaning": "呼吸"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "呼吸",
+      "en": "Breathe in through your nose.",
+      "ja": "鼻から息をすって。"
+    },
+    {
+      "source": "original",
+      "label": "はく",
+      "en": "Now breathe out slowly.",
+      "ja": "ではゆっくりはいて。"
+    },
+    {
+      "source": "original",
+      "label": "ほっと",
+      "en": "We breathed a sigh of relief.",
+      "ja": "私たちはほっとした。"
+    },
+    {
+      "source": "original",
+      "label": "苦しい",
+      "en": "It was hard to breathe in the smoke.",
+      "ja": "煙の中では息をするのが苦しかった。"
+    },
+    {
+      "source": "original",
+      "label": "深く",
+      "en": "Breathe deeply to calm down.",
+      "ja": "落ち着くために深く呼吸して。"
+    },
+    {
+      "source": "original",
+      "label": "魚",
+      "en": "Fish breathe through their gills.",
+      "ja": "魚はえらで呼吸する。"
+    }
+  ],
+  "check_points": [
+    "breathe と breath を正しく使い分けられるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "breath / breathe の品詞が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2064
+    }
+  ]
+}

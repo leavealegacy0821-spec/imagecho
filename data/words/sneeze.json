@@ -1,0 +1,94 @@
+{
+  "word": "sneeze",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/sniːz/",
+  "core_image": {
+    "text": "鼻がむずむずして、はくしょんと出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"80\" cy=\"80\" r=\"28\"/><line x1=\"66\" y1=\"72\" x2=\"76\" y2=\"76\"/><line x1=\"94\" y1=\"72\" x2=\"84\" y2=\"76\"/><path d=\"M76 92 Q80 88 84 92\"/><circle cx=\"130\" cy=\"70\" r=\"2\"/><circle cx=\"140\" cy=\"84\" r=\"2\"/><circle cx=\"150\" cy=\"74\" r=\"2\"/><circle cx=\"160\" cy=\"90\" r=\"2\"/><circle cx=\"136\" cy=\"96\" r=\"2\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">はくしょん</text></svg>"
+  },
+  "etymology": "中英語 snesen(くしゃみをする) → くしゃみをする → not to be sneezed at=ばかにできない",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to suddenly force air out through your nose and mouth because your nose itches."
+    },
+    {
+      "pos": "名詞",
+      "text": "an act or sound of sneezing."
+    }
+  ],
+  "cautions": [
+    "cough=せき/sneeze=くしゃみ",
+    "Bless you!=(くしゃみをした人に)お大事に",
+    "not to be sneezed at=ばかにできない(けっこうな)",
+    "hay fever=花粉症(くしゃみが出る)"
+  ],
+  "patterns": [
+    {
+      "form": "sneeze",
+      "meaning": "くしゃみをする"
+    },
+    {
+      "form": "Bless you!",
+      "meaning": "お大事に"
+    },
+    {
+      "form": "not to be sneezed at",
+      "meaning": "ばかにできない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "くしゃみ",
+      "en": "Pollen makes me sneeze.",
+      "ja": "花粉でくしゃみが出る。"
+    },
+    {
+      "source": "original",
+      "label": "お大事に",
+      "en": "\"Achoo!\" \"Bless you!\"",
+      "ja": "「はくしょん!」「お大事に!」"
+    },
+    {
+      "source": "original",
+      "label": "ばかにできない",
+      "en": "A prize of 10,000 yen is not to be sneezed at.",
+      "ja": "1万円の賞金はばかにできない。"
+    },
+    {
+      "source": "original",
+      "label": "止まらない",
+      "en": "I couldn't stop sneezing.",
+      "ja": "くしゃみが止まらなかった。"
+    },
+    {
+      "source": "original",
+      "label": "花粉症",
+      "en": "Hay fever causes sneezing.",
+      "ja": "花粉症はくしゃみを引き起こす。"
+    },
+    {
+      "source": "original",
+      "label": "手で",
+      "en": "Cover your nose when you sneeze.",
+      "ja": "くしゃみをするときは鼻をおおいなさい。"
+    }
+  ],
+  "check_points": [
+    "くしゃみをした人への決まり文句を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "会話で Bless you! が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2067
+    }
+  ]
+}

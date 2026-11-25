@@ -2137,7 +2137,7 @@
     },
     {
       "title": "使い分け:病気・症状",
-      "note": "health=体と心がまるごと無事な状態 ／ illness=調子が悪く病気でいる状態・期間 ／ disease=名前・原因のある特定の病気 ／ symptom=病気といっしょに表に出るしるし ／ fever=体が燃えるように熱い ／ ache=じわじわ続くにぶい痛み ／ pain=痛み(広い)",
+      "note": "health=体と心がまるごと無事な状態 ／ illness=調子が悪く病気でいる状態・期間 ／ disease=名前・原因のある特定の病気 ／ symptom=病気といっしょに表に出るしるし ／ fever=体が燃えるように熱い ／ ache=じわじわ続くにぶい痛み ／ pain=痛み(広い) ／ injury=事故などで体を痛めたけが(be injured)",
       "words": [
         "health",
         "illness",
@@ -2145,7 +2145,8 @@
         "symptom",
         "fever",
         "ache",
-        "pain"
+        "pain",
+        "injury"
       ]
     },
     {
@@ -3594,7 +3595,7 @@
     },
     {
       "title": "使い分け:体の部分(脚・体の中)",
-      "note": "leg=体をささえる脚・(旅の)区間(pull A’s leg=からかう) ／ foot=足首から先・いちばん下(feet・on foot=歩いて) ／ knee=脚のまん中で曲がるひざ ／ back=背中・うしろ・もとへ・うしろから支える ／ chest=あばらに守られた胸・大きな箱 ／ heart=心臓・気持ちのまん中(by heart=暗記) ／ brain=考える脳・頭のよさ ／ skin=外側をおおう皮・はだ ／ bone=ささえるかたい骨 ／ blood=めぐる血・血すじ",
+      "note": "leg=体をささえる脚・(旅の)区間(pull A’s leg=からかう) ／ foot=足首から先・いちばん下(feet・on foot=歩いて) ／ knee=脚のまん中で曲がるひざ ／ back=背中・うしろ・もとへ・うしろから支える ／ chest=あばらに守られた胸・大きな箱 ／ heart=心臓・気持ちのまん中(by heart=暗記) ／ brain=考える脳・頭のよさ ／ skin=外側をおおう皮・はだ ／ bone=ささえるかたい骨 ／ blood=めぐる血・血すじ ／ body=頭から足までのからだ・ひとかたまり(a body of) ／ muscle=のびちぢみする筋肉・力(c は読まない) ／ stomach=食べ物をためる胃・おなか ／ throat=口の奥ののど(sore throat)",
       "words": [
         "leg",
         "foot",
@@ -3605,7 +3606,22 @@
         "brain",
         "skin",
         "bone",
-        "blood"
+        "blood",
+        "body",
+        "muscle",
+        "stomach",
+        "throat"
+      ]
+    },
+    {
+      "title": "使い分け:息・汗・せき",
+      "note": "breath=(名詞)すったりはいたりする息(out of breath) ／ breathe=(動詞)空気をすいこみはき出す( ／ briːð ／ ) ／ sweat=じわっと出る汗(No sweat=楽勝) ／ cough=のどからごほっと出すせき ／ sneeze=鼻がむずむずしてはくしょん",
+      "words": [
+        "breath",
+        "breathe",
+        "sweat",
+        "cough",
+        "sneeze"
       ]
     },
     {

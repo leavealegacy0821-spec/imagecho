@@ -1,0 +1,93 @@
+{
+  "word": "breath",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/breθ/",
+  "core_image": {
+    "text": "すったりはいたりする息(名詞)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"70\" cy=\"80\" r=\"26\"/><ellipse cx=\"94\" cy=\"86\" rx=\"4\" ry=\"3\"/><path d=\"M104 86 Q130 76 150 86 Q170 96 200 86\" stroke-dasharray=\"4 4\"/></g><text x=\"160\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふーっ</text></svg>"
+  },
+  "etymology": "古い英語 brǣþ(におい・湯気) → はいた息 → 息・呼吸 → breathe=(動詞)息をする",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the air that you take into and let out of your lungs."
+    }
+  ],
+  "cautions": [
+    "breath /breθ/=(名詞)息/breathe /briːð/=(動詞)息をする(発音・つづりのちがいに注意)",
+    "take a deep breath=深呼吸する",
+    "out of breath=息を切らして",
+    "hold one's breath=息を止める・かたずをのむ"
+  ],
+  "patterns": [
+    {
+      "form": "take a deep breath",
+      "meaning": "深呼吸する"
+    },
+    {
+      "form": "out of breath",
+      "meaning": "息を切らして"
+    },
+    {
+      "form": "hold one's breath",
+      "meaning": "息を止める"
+    },
+    {
+      "form": "take A's breath away",
+      "meaning": "Aをはっとさせる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "深呼吸",
+      "en": "Take a deep breath and relax.",
+      "ja": "深呼吸して落ち着いて。"
+    },
+    {
+      "source": "original",
+      "label": "息を切らして",
+      "en": "I was out of breath after running.",
+      "ja": "走って息が切れた。"
+    },
+    {
+      "source": "original",
+      "label": "息を止める",
+      "en": "Hold your breath and dive.",
+      "ja": "息を止めてもぐって。"
+    },
+    {
+      "source": "original",
+      "label": "息をのむ",
+      "en": "The view took my breath away.",
+      "ja": "その景色に息をのんだ。"
+    },
+    {
+      "source": "original",
+      "label": "白い息",
+      "en": "I could see my breath in the cold air.",
+      "ja": "寒くて息が白く見えた。"
+    },
+    {
+      "source": "original",
+      "label": "ひと息",
+      "en": "Let me catch my breath.",
+      "ja": "ひと息つかせて。"
+    }
+  ],
+  "check_points": [
+    "breath と breathe の品詞・発音のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "breath / breathe の区別、out of breath が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2063
+    }
+  ]
+}

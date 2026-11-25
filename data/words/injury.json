@@ -1,0 +1,93 @@
+{
+  "word": "injury",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈɪndʒəri/",
+  "core_image": {
+    "text": "事故などで体を痛めた、けが",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"60\" r=\"12\"/><line x1=\"80\" y1=\"72\" x2=\"80\" y2=\"110\"/><line x1=\"80\" y1=\"110\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"110\" x2=\"96\" y2=\"140\"/><rect x=\"74\" y=\"88\" width=\"14\" height=\"10\"/><line x1=\"74\" y1=\"88\" x2=\"88\" y2=\"98\"/><line x1=\"88\" y1=\"88\" x2=\"74\" y2=\"98\"/><path d=\"M130 100 L150 90 M134 116 L156 114\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">けが</text></svg>"
+  },
+  "etymology": "ラテン語 injuria(in-=〜でない + jus=正しさ → 不当なあつかい:justice と同じ根) → 不当な害 → (体の)けが・損害",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "physical harm or damage to someone's body; damage to someone's feelings."
+    }
+  ],
+  "cautions": [
+    "injure=(動詞)けがをさせる:be injured in an accident=事故でけがをする",
+    "injury=(事故・スポーツの)けが/wound=(刃物・銃の)傷",
+    "add insult to injury=さらに追い打ちをかける",
+    "serious injuries=重傷"
+  ],
+  "patterns": [
+    {
+      "form": "serious injuries",
+      "meaning": "重傷"
+    },
+    {
+      "form": "suffer an injury",
+      "meaning": "けがをする"
+    },
+    {
+      "form": "add insult to injury",
+      "meaning": "追い打ちをかける"
+    },
+    {
+      "form": "be injured",
+      "meaning": "けがをする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "重傷",
+      "en": "He suffered serious injuries in the crash.",
+      "ja": "彼は衝突事故で重傷を負った。"
+    },
+    {
+      "source": "original",
+      "label": "けがをする",
+      "en": "Five people were injured in the accident.",
+      "ja": "その事故で5人がけがをした。"
+    },
+    {
+      "source": "original",
+      "label": "スポーツ",
+      "en": "The player is out with a knee injury.",
+      "ja": "その選手はひざのけがで欠場している。"
+    },
+    {
+      "source": "original",
+      "label": "追い打ち",
+      "en": "To add insult to injury, it started to rain.",
+      "ja": "さらに悪いことに雨が降りだした。"
+    },
+    {
+      "source": "original",
+      "label": "防ぐ",
+      "en": "Stretching helps prevent injuries.",
+      "ja": "ストレッチはけがの予防に役立つ。"
+    },
+    {
+      "source": "original",
+      "label": "回復",
+      "en": "She recovered from her injury quickly.",
+      "ja": "彼女はけがからすぐ回復した。"
+    }
+  ],
+  "check_points": [
+    "injure / injury の品詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be injured in、add insult to injury が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2068
+    }
+  ]
+}
