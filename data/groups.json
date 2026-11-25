@@ -800,7 +800,7 @@
     },
     {
       "title": "使い分け:増える・高める",
-      "note": "increase=数量が増える ／ expand=外へ広がって大きくなる ／ boost=下から押し上げる ／ accumulate=積み重なる ／ enhance=質・価値を高める ／ improve=よくする ／ swell=中からふくらむ(swollen)",
+      "note": "increase=数量が増える ／ expand=外へ広がって大きくなる ／ boost=下から押し上げる ／ accumulate=積み重なる ／ enhance=質・価値を高める ／ improve=よくする ／ swell=中からふくらむ(swollen) ／ enlarge=形はそのまま実際のサイズを大きくする ／ magnify=レンズで見た目を大きく見せる・大げさにする ／ amplify=音や力そのものを増幅する ／ intensify=激しさ・濃さを増す ／ strengthen=太く丈夫にしてくずれにくくする",
       "words": [
         "increase",
         "expand",
@@ -809,12 +809,17 @@
         "enhance",
         "improve",
         "advance",
-        "swell"
+        "swell",
+        "enlarge",
+        "magnify",
+        "amplify",
+        "intensify",
+        "strengthen"
       ]
     },
     {
       "title": "使い分け:減る・弱まる",
-      "note": "decrease=数量が減る ／ reduce=(意図して)減らす ／ decline=下向きに傾いて衰える ／ diminish=小さくなる ／ shrink=縮む ／ fade=色・音が薄れて消える ／ decay=朽ちて崩れる ／ dwindle=だんだん細って少なくなる ／ subside=(勢いが)おさまる・沈む ／ erode=少しずつ削りとられる・むしばまれる",
+      "note": "decrease=数量が減る ／ reduce=(意図して)減らす ／ decline=下向きに傾いて衰える ／ diminish=小さくなる ／ shrink=縮む ／ fade=色・音が薄れて消える ／ decay=朽ちて崩れる ／ dwindle=だんだん細って少なくなる ／ subside=(勢いが)おさまる・沈む ／ erode=少しずつ削りとられる・むしばまれる ／ weaken=支える力を抜いてもろくする ／ lessen=痛みや危険の度合いをやわらげる ／ curtail=予算・活動をばっさり切りつめる ／ lower=高い所から下へおろす・値段や声を下げる(他動詞)",
       "words": [
         "decrease",
         "reduce",
@@ -825,7 +830,11 @@
         "decay",
         "dwindle",
         "subside",
-        "erode"
+        "erode",
+        "weaken",
+        "lessen",
+        "curtail",
+        "lower"
       ]
     },
     {
@@ -841,14 +850,15 @@
     },
     {
       "title": "使い分け:広げる・伸ばす",
-      "note": "expand=中からふくらむ ／ extend=先へ伸ばす(期間・範囲) ／ spread=一面に広げる ／ stretch=引っぱって伸ばす ／ scatter=ばらまく ／ span=端から端まで渡る",
+      "note": "expand=中からふくらむ ／ extend=先へ伸ばす(期間・範囲) ／ spread=一面に広げる ／ stretch=引っぱって伸ばす ／ scatter=ばらまく ／ span=端から端まで渡る ／ widen=幅を横に広げる(差・道)",
       "words": [
         "expand",
         "extend",
         "spread",
         "stretch",
         "scatter",
-        "span"
+        "span",
+        "widen"
       ]
     },
     {
