@@ -1,0 +1,108 @@
+{
+  "word": "tense",
+  "pos": [
+    "形容詞",
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/tens/",
+  "core_image": {
+    "text": "ぴんと張りつめた",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"200\" y2=\"74\"/><line x1=\"100\" y1=\"46\" x2=\"60\" y2=\"46\"/><polyline points=\"67,49.8 60,46 67,42.2\"/><line x1=\"140\" y1=\"46\" x2=\"180\" y2=\"46\"/><polyline points=\"173,42.2 180,46 173,49.8\"/></g><text x=\"120\" y=\"108\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぴんと張る</text></svg>"
+  },
+  "etymology": "ラテン語 tensus(引き伸ばされた。tend=伸ばす と同じ根) → (ひもが)ぴんと張った → (筋肉が)こわばった → (人が)緊張した・(場面・関係が)張りつめた → 名詞 tension=緊張。※文法の「時制」の tense は別の語(ラテン語 tempus=時)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "nervous and worried and not able to relax; (of a situation) making people nervous; (of a muscle or rope) tight and stiff."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make your muscles tight."
+    },
+    {
+      "pos": "名詞",
+      "text": "(in grammar) any of the forms of a verb that show the time of an action."
+    }
+  ],
+  "cautions": [
+    "feel tense / be tense=緊張している(人が主語)、a tense situation / atmosphere=張りつめた状況・雰囲気(物事が主語)",
+    "tense up=(体が)こわばる・緊張する",
+    "名詞 tension=緊張(関係)。tensions between A and B=AとBの間の緊張",
+    "文法用語 tense=時制(the past tense)は別語源。両方の意味を見分ける"
+  ],
+  "patterns": [
+    {
+      "form": "feel tense",
+      "meaning": "緊張する"
+    },
+    {
+      "form": "a tense situation",
+      "meaning": "張りつめた状況"
+    },
+    {
+      "form": "tense up",
+      "meaning": "こわばる"
+    },
+    {
+      "form": "tension(s) between A and B",
+      "meaning": "AとBの間の緊張"
+    },
+    {
+      "form": "the past tense",
+      "meaning": "過去時制"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "緊張した",
+      "en": "I always feel tense before an exam.",
+      "ja": "試験の前はいつも緊張する。"
+    },
+    {
+      "source": "original",
+      "label": "張りつめた",
+      "en": "There was a tense atmosphere in the room.",
+      "ja": "部屋には張りつめた空気があった。"
+    },
+    {
+      "source": "original",
+      "label": "手に汗にぎる",
+      "en": "It was a tense game until the last minute.",
+      "ja": "最後の1分まで手に汗にぎる試合だった。"
+    },
+    {
+      "source": "original",
+      "label": "tense up",
+      "en": "Try not to tense up when you speak in public.",
+      "ja": "人前で話すときはこわばらないようにしなさい。"
+    },
+    {
+      "source": "original",
+      "label": "tension(名詞)",
+      "en": "Tensions between the two countries are rising.",
+      "ja": "両国の間の緊張が高まっている。"
+    },
+    {
+      "source": "original",
+      "label": "時制",
+      "en": "Put the verb into the past tense.",
+      "ja": "その動詞を過去時制にしなさい。"
+    }
+  ],
+  "check_points": [
+    "名詞 tension の意味を言えるか",
+    "時制の tense が別の語であると言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "tense / tension(緊張)が長文で、tense(時制)が文法用語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1059
+    }
+  ]
+}

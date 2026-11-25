@@ -1,0 +1,98 @@
+{
+  "word": "soak",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/soʊk/",
+  "core_image": {
+    "text": "液体にどっぷり浸して、しみこませる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M50 70 Q120 150 190 70\"/><line x1=\"64\" y1=\"84\" x2=\"176\" y2=\"84\"/><rect x=\"100\" y=\"90\" width=\"40\" height=\"12\"/><line x1=\"120\" y1=\"24\" x2=\"120\" y2=\"82\"/><polyline points=\"123.8,75 120,82 116.2,75\"/></g><text x=\"194\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どっぷり</text></svg>"
+  },
+  "etymology": "古い英語 socian(浸す。suck=吸う と同じ根) → 液体にどっぷり浸す・つける → ずぶぬれにする(get soaked) → (液体を)吸いこむ・(知識・雰囲気を)たっぷり吸収する(soak up)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to put something in liquid for a long time; to make someone or something completely wet; to take in liquid, knowledge or an atmosphere (soak up)."
+    }
+  ],
+  "cautions": [
+    "soak A in B=AをB(液体)に(しばらく)つけておく",
+    "get soaked / be soaked to the skin=ずぶぬれになる(受け身・get で使う)",
+    "soak up A=A(液体)を吸いこむ/(知識・雰囲気)をたっぷり味わう・吸収する(absorb の言い換え)",
+    "形容詞 soaking (wet)=びしょぬれの"
+  ],
+  "patterns": [
+    {
+      "form": "soak A in B",
+      "meaning": "AをBにつける"
+    },
+    {
+      "form": "get soaked",
+      "meaning": "ずぶぬれになる"
+    },
+    {
+      "form": "be soaked to the skin",
+      "meaning": "ずぶぬれになる"
+    },
+    {
+      "form": "soak up A",
+      "meaning": "Aを吸いこむ・たっぷり味わう"
+    },
+    {
+      "form": "soaking wet",
+      "meaning": "びしょぬれの"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "つける",
+      "en": "Soak the beans in water overnight.",
+      "ja": "豆を一晩水につけておきなさい。"
+    },
+    {
+      "source": "original",
+      "label": "get soaked",
+      "en": "I forgot my umbrella and got soaked.",
+      "ja": "傘を忘れてずぶぬれになった。"
+    },
+    {
+      "source": "original",
+      "label": "be soaked to the skin",
+      "en": "We were soaked to the skin by the sudden rain.",
+      "ja": "にわか雨で私たちはずぶぬれになった。"
+    },
+    {
+      "source": "original",
+      "label": "吸いこむ",
+      "en": "Use a towel to soak up the water on the floor.",
+      "ja": "タオルで床の水を吸いとりなさい。"
+    },
+    {
+      "source": "original",
+      "label": "たっぷり味わう",
+      "en": "We sat in the square, soaking up the atmosphere of the old town.",
+      "ja": "私たちは広場に座って、古い町の雰囲気をたっぷり味わった。"
+    },
+    {
+      "source": "original",
+      "label": "吸収する",
+      "en": "Children soak up new words very quickly.",
+      "ja": "子どもは新しい言葉をとても早く吸収する。"
+    }
+  ],
+  "check_points": [
+    "soak up の2つの意味を言えるか",
+    "get soaked の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "soak up=absorb の言い換えと get soaked が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1055
+    }
+  ]
+}

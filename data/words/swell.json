@@ -1,0 +1,103 @@
+{
+  "word": "swell",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/swel/",
+  "core_image": {
+    "text": "中からふくらんで、大きくなる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"55\" cy=\"84\" r=\"14\"/><line x1=\"80\" y1=\"84\" x2=\"118\" y2=\"84\"/><polyline points=\"111,80.2 118,84 111,87.8\"/><circle cx=\"172\" cy=\"84\" r=\"40\"/><line x1=\"172\" y1=\"76\" x2=\"172\" y2=\"52\" stroke-dasharray=\"5 5\"/><polyline points=\"168.2,59 172,52 175.8,59\"/><line x1=\"172\" y1=\"92\" x2=\"172\" y2=\"116\" stroke-dasharray=\"5 5\"/><polyline points=\"175.8,109 172,116 168.2,109\"/><line x1=\"180\" y1=\"84\" x2=\"204\" y2=\"84\" stroke-dasharray=\"5 5\"/><polyline points=\"197,80.2 204,84 197,87.8\"/><line x1=\"164\" y1=\"84\" x2=\"140\" y2=\"84\" stroke-dasharray=\"5 5\"/><polyline points=\"147,87.8 140,84 147,80.2\"/></g><text x=\"55\" y=\"128\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふくらむ</text></svg>"
+  },
+  "etymology": "古い英語 swellan(ふくらむ) → (体の一部が)はれる・ふくれる → (川・数が)ふくれ上がる・増える → (胸が感情で)いっぱいになる。活用 swell-swelled-swollen(swelled も可)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to become larger or rounder than normal; to increase in number or amount; to be filled with a strong feeling."
+    },
+    {
+      "pos": "名詞",
+      "text": "the slow up-and-down movement of the sea; an increase."
+    }
+  ],
+  "cautions": [
+    "過去分詞は swollen(形容詞としても使う:a swollen ankle=はれた足首)",
+    "swell up=(けがなどで)はれ上がる",
+    "swell to X=(人数などが)Xにふくれ上がる(increase の言い換え)",
+    "swell with pride=誇らしさで胸がいっぱいになる。名詞 swelling=はれ"
+  ],
+  "patterns": [
+    {
+      "form": "swell (up)",
+      "meaning": "はれる・ふくらむ"
+    },
+    {
+      "form": "a swollen A",
+      "meaning": "はれた(体の部分)"
+    },
+    {
+      "form": "swell to X",
+      "meaning": "Xにふくれ上がる"
+    },
+    {
+      "form": "swell with pride",
+      "meaning": "誇らしさで胸がいっぱいになる"
+    },
+    {
+      "form": "swelling",
+      "meaning": "はれ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "はれる",
+      "en": "My ankle began to swell up after I fell.",
+      "ja": "転んだあと足首がはれ上がってきた。"
+    },
+    {
+      "source": "original",
+      "label": "swollen(形容詞)",
+      "en": "He went to the doctor with a swollen knee.",
+      "ja": "彼はひざがはれたので医者に行った。"
+    },
+    {
+      "source": "original",
+      "label": "増水する",
+      "en": "The river was swollen with heavy rain.",
+      "ja": "大雨で川が増水していた。"
+    },
+    {
+      "source": "original",
+      "label": "ふくれ上がる",
+      "en": "The city's population has swelled to two million.",
+      "ja": "その市の人口は200万人にふくれ上がった。"
+    },
+    {
+      "source": "original",
+      "label": "胸がいっぱいになる",
+      "en": "Her heart swelled with pride when her son won.",
+      "ja": "息子が勝ったとき、彼女は誇らしさで胸がいっぱいになった。"
+    },
+    {
+      "source": "original",
+      "label": "swelling(名詞)",
+      "en": "Put some ice on it to reduce the swelling.",
+      "ja": "はれを引かせるために氷を当てなさい。"
+    }
+  ],
+  "check_points": [
+    "swell の過去分詞を言えるか",
+    "swell to X の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "swollen の形と「(数が)ふくれ上がる」が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1053
+    }
+  ]
+}

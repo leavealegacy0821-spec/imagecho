@@ -1,0 +1,103 @@
+{
+  "word": "leak",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/liːk/",
+  "core_image": {
+    "text": "すき間から、こっそり漏れ出る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon points=\"80,30 160,30 150,104 90,104\"/><line x1=\"84\" y1=\"50\" x2=\"156\" y2=\"50\"/><circle cx=\"120\" cy=\"116\" r=\"3\"/><circle cx=\"120\" cy=\"130\" r=\"3\"/><circle cx=\"120\" cy=\"144\" r=\"3\"/></g><text x=\"200\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">漏れる</text></svg>"
+  },
+  "etymology": "古いノルド語 leka(しずくが垂れる) → (液体・ガスが)すき間から漏れる・(容器が)漏る → (秘密・情報が)外に漏れる・(人が情報を)漏らす → 名詞 a leak=漏れ・漏れ口・情報漏えい",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "(of liquid or gas) to get in or out through a hole or crack; to give secret information to the public."
+    },
+    {
+      "pos": "名詞",
+      "text": "a small hole that lets liquid or gas out; the giving of secret information to the public."
+    }
+  ],
+  "cautions": [
+    "主語が「容器」でも「中身」でもよい:The roof leaks.(屋根が漏る)/ Water leaked from the pipe.(水が漏れた)",
+    "leak A to B=A(秘密)をB(報道など)に漏らす(他動詞)",
+    "leak out=(秘密が)漏れる・知れわたる",
+    "名詞 a gas leak=ガス漏れ、leakage=漏れ(量)"
+  ],
+  "patterns": [
+    {
+      "form": "A leak",
+      "meaning": "A(容器)が漏る"
+    },
+    {
+      "form": "leak from A",
+      "meaning": "Aから漏れる"
+    },
+    {
+      "form": "leak A to B",
+      "meaning": "A(情報)をBに漏らす"
+    },
+    {
+      "form": "leak out",
+      "meaning": "(秘密が)漏れる"
+    },
+    {
+      "form": "a gas leak",
+      "meaning": "ガス漏れ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "漏る",
+      "en": "The roof leaks every time it rains.",
+      "ja": "雨が降るたびに屋根が雨漏りする。"
+    },
+    {
+      "source": "original",
+      "label": "漏れる",
+      "en": "Oil was leaking from the engine.",
+      "ja": "エンジンから油が漏れていた。"
+    },
+    {
+      "source": "original",
+      "label": "漏らす",
+      "en": "Someone leaked the report to the press.",
+      "ja": "誰かがその報告書を報道機関に漏らした。"
+    },
+    {
+      "source": "original",
+      "label": "leak out",
+      "en": "The news of their marriage soon leaked out.",
+      "ja": "2人の結婚の知らせはすぐに知れわたった。"
+    },
+    {
+      "source": "original",
+      "label": "a leak(名詞)",
+      "en": "Firefighters found a gas leak in the kitchen.",
+      "ja": "消防士は台所でガス漏れを見つけた。"
+    },
+    {
+      "source": "original",
+      "label": "情報漏えい",
+      "en": "The company apologized for the data leak.",
+      "ja": "その会社は情報漏えいについて謝罪した。"
+    }
+  ],
+  "check_points": [
+    "leak A to B の意味を言えるか",
+    "The roof leaks. の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「(情報を)漏らす」の意味と leak out が長文・ニュース英文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1054
+    }
+  ]
+}

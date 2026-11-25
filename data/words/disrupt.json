@@ -1,0 +1,98 @@
+{
+  "word": "disrupt",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪsˈrʌpt/",
+  "core_image": {
+    "text": "続いている流れを、ばらばらに断ち切る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"80\" x2=\"92\" y2=\"80\"/><polyline points=\"100,52 110,72 100,90 112,108\"/><line x1=\"124\" y1=\"72\" x2=\"148\" y2=\"60\"/><line x1=\"128\" y1=\"90\" x2=\"156\" y2=\"102\"/><line x1=\"166\" y1=\"80\" x2=\"220\" y2=\"80\"/></g><text x=\"56\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">流れ</text><text x=\"178\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">断ち切る</text></svg>"
+  },
+  "etymology": "dis(ばらばらに) + rupt(破る。interrupt・erupt・bankrupt と同じ根) → 破ってばらばらにする → (交通・授業・生活などの流れを)乱す・混乱させる・中断させる → 形容詞 disruptive=混乱を引き起こす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stop something such as a system, process or event from continuing in the normal way."
+    }
+  ],
+  "cautions": [
+    "主語は「原因」、目的語は「流れ・仕組み」:The storm disrupted train services.(嵐で電車が乱れた)",
+    "interrupt は「話・作業を途中でさえぎる」、disrupt は「仕組み・流れ全体を乱す」",
+    "名詞 disruption=混乱・中断、形容詞 disruptive=混乱を起こす(disruptive behavior)",
+    "be disrupted by A=Aで混乱する(受け身で頻出)"
+  ],
+  "patterns": [
+    {
+      "form": "disrupt A",
+      "meaning": "A(流れ・仕組み)を乱す"
+    },
+    {
+      "form": "be disrupted by A",
+      "meaning": "Aで混乱する・中断する"
+    },
+    {
+      "form": "disrupt the class",
+      "meaning": "授業を妨害する"
+    },
+    {
+      "form": "disruption",
+      "meaning": "混乱・中断"
+    },
+    {
+      "form": "disruptive",
+      "meaning": "混乱を引き起こす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "乱す",
+      "en": "The heavy snow disrupted train services.",
+      "ja": "大雪で電車のダイヤが乱れた。"
+    },
+    {
+      "source": "original",
+      "label": "be disrupted by",
+      "en": "The ceremony was disrupted by protesters.",
+      "ja": "式典は抗議する人々のために中断された。"
+    },
+    {
+      "source": "original",
+      "label": "妨害する",
+      "en": "A few students kept disrupting the class.",
+      "ja": "数人の生徒が授業を妨害し続けた。"
+    },
+    {
+      "source": "original",
+      "label": "生活を乱す",
+      "en": "Using a smartphone late at night can disrupt your sleep.",
+      "ja": "夜遅くにスマホを使うと睡眠が乱れることがある。"
+    },
+    {
+      "source": "original",
+      "label": "disruption(名詞)",
+      "en": "The strike caused major disruption to air travel.",
+      "ja": "ストライキで空の便が大混乱した。"
+    },
+    {
+      "source": "original",
+      "label": "disruptive(形容詞)",
+      "en": "The teacher spoke to him about his disruptive behavior.",
+      "ja": "先生は彼の授業を乱す態度について話をした。"
+    }
+  ],
+  "check_points": [
+    "disrupt と interrupt の違いを言えるか",
+    "名詞 disruption の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be disrupted by と disruption が長文でよく出る。rupt=破る の語根で覚える。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1057
+    }
+  ]
+}

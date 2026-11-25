@@ -1,0 +1,108 @@
+{
+  "word": "plunge",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/plʌndʒ/",
+  "core_image": {
+    "text": "勢いよく、ずぶっと突っ込む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 100 Q40 94 60 100 T100 100 T140 100 T180 100 T220 100\"/><circle cx=\"110\" cy=\"30\" r=\"10\"/><line x1=\"110\" y1=\"44\" x2=\"110\" y2=\"124\"/><polyline points=\"113.8,117 110,124 106.2,117\"/><polyline points=\"96,96 88,84\"/><polyline points=\"124,96 132,84\"/></g><text x=\"180\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ずぶっと</text></svg>"
+  },
+  "etymology": "古いフランス語 plongier(水に突っ込む。おもりの鉛 plumb と同じ根) → 勢いよく(水に)飛び込む・突っ込む → (値段・気温が)急に下がる・急落する → plunge A into B=AをB(悪い状態)に突き落とす → plunge into A=Aに飛び込むように取りかかる・没頭する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to jump or fall suddenly into water or a lower place; to fall suddenly in amount or value; to push something or someone suddenly into a state."
+    },
+    {
+      "pos": "名詞",
+      "text": "a sudden fall or drop; a jump into water."
+    }
+  ],
+  "cautions": [
+    "prices plunged=値段が急落した(fall より急で大きい。drop/plummet と言い換え)",
+    "plunge A into B=AをB(戦争・混乱・暗やみなど)に陥れる(the country was plunged into war)",
+    "plunge into A=Aに飛び込む/(仕事・議論)に勢いよく取りかかる",
+    "take the plunge=思い切ってやってみる(熟語)"
+  ],
+  "patterns": [
+    {
+      "form": "plunge into A",
+      "meaning": "Aに飛び込む・勢いよく取りかかる"
+    },
+    {
+      "form": "A plunge (by X%)",
+      "meaning": "A(値段など)が(X%)急落する"
+    },
+    {
+      "form": "plunge A into B",
+      "meaning": "AをBに陥れる"
+    },
+    {
+      "form": "be plunged into darkness",
+      "meaning": "暗やみに包まれる"
+    },
+    {
+      "form": "take the plunge",
+      "meaning": "思い切ってやる"
+    },
+    {
+      "form": "a plunge in A",
+      "meaning": "Aの急落"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "飛び込む",
+      "en": "The boy plunged into the cold river.",
+      "ja": "少年は冷たい川に飛び込んだ。"
+    },
+    {
+      "source": "original",
+      "label": "急落する",
+      "en": "Stock prices plunged by 20 percent in a week.",
+      "ja": "株価は1週間で20パーセント急落した。"
+    },
+    {
+      "source": "original",
+      "label": "陥れる",
+      "en": "The sudden attack plunged the country into war.",
+      "ja": "突然の攻撃でその国は戦争に陥った。"
+    },
+    {
+      "source": "original",
+      "label": "be plunged into",
+      "en": "The whole town was plunged into darkness by the power cut.",
+      "ja": "停電で町じゅうが暗やみに包まれた。"
+    },
+    {
+      "source": "original",
+      "label": "取りかかる",
+      "en": "She plunged into her homework as soon as she got home.",
+      "ja": "彼女は帰るとすぐに宿題に取りかかった。"
+    },
+    {
+      "source": "original",
+      "label": "take the plunge",
+      "en": "After years of thinking about it, he took the plunge and moved abroad.",
+      "ja": "何年も考えたすえ、彼は思い切って海外に移った。"
+    }
+  ],
+  "check_points": [
+    "prices plunged の意味を言えるか",
+    "plunge A into B の型と意味を言えるか",
+    "take the plunge の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「急落する」と plunge A into B が長文・言い換えで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1051
+    }
+  ]
+}
