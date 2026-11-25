@@ -1,0 +1,89 @@
+{
+  "word": "desk",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/desk/",
+  "core_image": {
+    "text": "勉強や仕事をするつくえ・受付",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"80\" width=\"160\" height=\"10\"/><rect x=\"140\" y=\"90\" width=\"60\" height=\"50\"/><line x1=\"140\" y1=\"114\" x2=\"200\" y2=\"114\"/><line x1=\"44\" y1=\"90\" x2=\"44\" y2=\"140\"/><rect x=\"70\" y=\"60\" width=\"40\" height=\"20\"/></g><text x=\"90\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">つくえ</text></svg>"
+  },
+  "etymology": "ラテン語 discus(円盤・皿:disk・dish と同じ根) → (中世ラテン)書きものをする台 → つくえ",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a piece of furniture for writing or working, often with drawers; a place where you can get information or service."
+    }
+  ],
+  "cautions": [
+    "desk=勉強・仕事のつくえ/table=食卓など(広い)",
+    "at one's desk=つくえに向かって(仕事中で)",
+    "the front desk=(ホテルの)フロント",
+    "a desk job=事務仕事"
+  ],
+  "patterns": [
+    {
+      "form": "at one's desk",
+      "meaning": "つくえに向かって"
+    },
+    {
+      "form": "the front desk",
+      "meaning": "受付・フロント"
+    },
+    {
+      "form": "a desk job",
+      "meaning": "事務仕事"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "つくえ",
+      "en": "He was studying at his desk.",
+      "ja": "彼はつくえに向かって勉強していた。"
+    },
+    {
+      "source": "original",
+      "label": "受付",
+      "en": "Ask at the front desk.",
+      "ja": "フロントでたずねてください。"
+    },
+    {
+      "source": "original",
+      "label": "事務",
+      "en": "She has a desk job.",
+      "ja": "彼女は事務の仕事をしている。"
+    },
+    {
+      "source": "original",
+      "label": "片づける",
+      "en": "Clean up your desk.",
+      "ja": "つくえを片づけなさい。"
+    },
+    {
+      "source": "original",
+      "label": "引き出し",
+      "en": "The key is in the desk drawer.",
+      "ja": "かぎはつくえの引き出しにある。"
+    },
+    {
+      "source": "original",
+      "label": "対比",
+      "en": "We eat at the table and study at the desk.",
+      "ja": "食事は table、勉強は desk でする。"
+    }
+  ],
+  "check_points": [
+    "desk と table のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "front desk が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2231
+    }
+  ]
+}

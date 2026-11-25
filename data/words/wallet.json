@@ -1,0 +1,88 @@
+{
+  "word": "wallet",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈwɑːlɪt/",
+  "core_image": {
+    "text": "お札やカードを入れる、二つ折りのさいふ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"60\" width=\"120\" height=\"70\"/><line x1=\"120\" y1=\"60\" x2=\"120\" y2=\"130\"/><rect x=\"70\" y=\"74\" width=\"40\" height=\"24\"/><line x1=\"140\" y1=\"80\" x2=\"170\" y2=\"80\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さいふ</text></svg>"
+  },
+  "etymology": "中英語 walet(旅人の食料袋) → 小袋 → (お札を入れる)さいふ",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a small flat case for carrying paper money and cards."
+    }
+  ],
+  "cautions": [
+    "wallet=(お札入れ)さいふ/purse=(英)小銭入れ・(米)ハンドバッグ",
+    "lose one's wallet=さいふをなくす",
+    "a digital wallet=電子マネーの財布"
+  ],
+  "patterns": [
+    {
+      "form": "lose one's wallet",
+      "meaning": "さいふをなくす"
+    },
+    {
+      "form": "a leather wallet",
+      "meaning": "革のさいふ"
+    },
+    {
+      "form": "a digital wallet",
+      "meaning": "電子財布"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "さいふ",
+      "en": "I lost my wallet on the train.",
+      "ja": "電車でさいふをなくした。"
+    },
+    {
+      "source": "original",
+      "label": "お札",
+      "en": "There's only 1,000 yen in my wallet.",
+      "ja": "さいふには千円しかない。"
+    },
+    {
+      "source": "original",
+      "label": "革",
+      "en": "My father gave me a leather wallet.",
+      "ja": "父が革のさいふをくれた。"
+    },
+    {
+      "source": "original",
+      "label": "盗まれる",
+      "en": "Someone stole my wallet.",
+      "ja": "誰かにさいふを盗まれた。"
+    },
+    {
+      "source": "original",
+      "label": "小銭入れ",
+      "en": "She keeps coins in her purse.",
+      "ja": "彼女は小銭を小銭入れに入れている。"
+    },
+    {
+      "source": "original",
+      "label": "電子",
+      "en": "I use a digital wallet on my phone.",
+      "ja": "スマホで電子財布を使っている。"
+    }
+  ],
+  "check_points": [
+    "wallet と purse のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "描写文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2237
+    }
+  ]
+}

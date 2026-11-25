@@ -1,0 +1,103 @@
+{
+  "word": "key",
+  "pos": [
+    "名詞",
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/kiː/",
+  "core_image": {
+    "text": "錠を開けるかぎ・問題を解く手がかり",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"70\" cy=\"80\" r=\"24\"/><circle cx=\"70\" cy=\"80\" r=\"8\"/><line x1=\"94\" y1=\"80\" x2=\"190\" y2=\"80\"/><line x1=\"170\" y1=\"80\" x2=\"170\" y2=\"98\"/><line x1=\"184\" y1=\"80\" x2=\"184\" y2=\"94\"/></g><text x=\"150\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かぎ・てがかり</text></svg>"
+  },
+  "etymology": "古い英語 cǣg(かぎ) → かぎ → (問題を開く)手がかり・秘けつ → (形容詞)重要な・(ピアノ・パソコンの)キー",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a piece of metal for opening a lock; the most important thing for achieving something; a button on a keyboard."
+    },
+    {
+      "pos": "形容詞",
+      "text": "very important."
+    },
+    {
+      "pos": "動詞",
+      "text": "(key in) to type information."
+    }
+  ],
+  "cautions": [
+    "the key to A=Aのかぎ・秘けつ(to を使う:of ではない)",
+    "a key person [factor]=重要人物[要因]",
+    "key in A=Aを入力する",
+    "lock=錠/key=かぎ"
+  ],
+  "patterns": [
+    {
+      "form": "the key to A",
+      "meaning": "Aのかぎ・秘けつ"
+    },
+    {
+      "form": "a key factor",
+      "meaning": "重要な要因"
+    },
+    {
+      "form": "key in A",
+      "meaning": "Aを入力する"
+    },
+    {
+      "form": "press a key",
+      "meaning": "キーを押す"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "かぎ",
+      "en": "I lost the key to my house.",
+      "ja": "家のかぎをなくした。"
+    },
+    {
+      "source": "original",
+      "label": "秘けつ",
+      "en": "Hard work is the key to success.",
+      "ja": "努力が成功のかぎだ。"
+    },
+    {
+      "source": "original",
+      "label": "重要な",
+      "en": "She played a key role in the project.",
+      "ja": "彼女はその計画で重要な役割を果たした。"
+    },
+    {
+      "source": "original",
+      "label": "入力",
+      "en": "Key in your password.",
+      "ja": "パスワードを入力して。"
+    },
+    {
+      "source": "original",
+      "label": "キー",
+      "en": "Press any key to continue.",
+      "ja": "続けるにはどれかキーを押して。"
+    },
+    {
+      "source": "original",
+      "label": "手がかり",
+      "en": "This letter is the key to the mystery.",
+      "ja": "この手紙がなぞを解く手がかりだ。"
+    }
+  ],
+  "check_points": [
+    "the key to A の前置詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "the key to success(to)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2234
+    }
+  ]
+}
