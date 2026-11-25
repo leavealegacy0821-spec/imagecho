@@ -1,0 +1,103 @@
+{
+  "word": "weather",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈweðər/",
+  "core_image": {
+    "text": "その日その時の、空のようす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"60\" cy=\"60\" r=\"16\"/><line x1=\"60\" y1=\"34\" x2=\"60\" y2=\"40\"/><line x1=\"60\" y1=\"80\" x2=\"60\" y2=\"86\"/><line x1=\"34\" y1=\"60\" x2=\"40\" y2=\"60\"/><line x1=\"80\" y1=\"60\" x2=\"86\" y2=\"60\"/><path d=\"M130 70 Q140 50 160 56 Q176 44 190 60 Q200 70 190 76 L136 76 Q126 76 130 70\"/><line x1=\"146\" y1=\"86\" x2=\"142\" y2=\"96\"/><line x1=\"166\" y1=\"86\" x2=\"162\" y2=\"96\"/></g><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">今日の空</text></svg>"
+  },
+  "etymology": "古い英語 weder(空気・風・天気) → その日の天気・天候 → (動詞)風雨にさらす → (困難を)乗り切る(weather the storm)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the conditions in the air at a particular time, such as rain, wind or temperature."
+    },
+    {
+      "pos": "動詞",
+      "text": "to come safely through a difficult period; to change because of the effects of sun, wind, rain, etc."
+    }
+  ],
+  "cautions": [
+    "weather は不可算(× a good weather)。good [bad] weather / What's the weather like?",
+    "climate=長期的な気候/weather=その日の天気",
+    "weather permitting=天気がよければ",
+    "動詞 weather the storm=困難を乗り切る"
+  ],
+  "patterns": [
+    {
+      "form": "good [bad] weather",
+      "meaning": "よい[悪い]天気"
+    },
+    {
+      "form": "the weather forecast",
+      "meaning": "天気予報"
+    },
+    {
+      "form": "What's the weather like?",
+      "meaning": "天気はどう?"
+    },
+    {
+      "form": "weather permitting",
+      "meaning": "天気がよければ"
+    },
+    {
+      "form": "weather the storm",
+      "meaning": "困難を乗り切る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "天気",
+      "en": "We had good weather during our trip.",
+      "ja": "旅行中は天気に恵まれた。"
+    },
+    {
+      "source": "original",
+      "label": "天気予報",
+      "en": "The weather forecast says it will rain tomorrow.",
+      "ja": "天気予報では明日は雨だ。"
+    },
+    {
+      "source": "original",
+      "label": "天気はどう",
+      "en": "What's the weather like in London?",
+      "ja": "ロンドンの天気はどう?"
+    },
+    {
+      "source": "original",
+      "label": "天気がよければ",
+      "en": "Weather permitting, we will have the barbecue outside.",
+      "ja": "天気がよければバーベキューは外でやります。"
+    },
+    {
+      "source": "original",
+      "label": "乗り切る",
+      "en": "The company weathered the economic crisis.",
+      "ja": "その会社は経済危機を乗り切った。"
+    },
+    {
+      "source": "original",
+      "label": "天気",
+      "en": "The game was canceled because of bad weather.",
+      "ja": "悪天候のため試合は中止になった。"
+    }
+  ],
+  "check_points": [
+    "weather が不可算であることがわかるか",
+    "weather permitting の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "不可算(× a good weather)、weather permitting が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1225
+    }
+  ]
+}

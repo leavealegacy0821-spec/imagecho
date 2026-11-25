@@ -1,0 +1,94 @@
+{
+  "word": "species",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈspiːʃiːz/",
+  "core_image": {
+    "text": "見た目で見分けられる、生き物の種類",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"60\" cy=\"70\" rx=\"24\" ry=\"14\"/><polygon points=\"36,70 22,60 22,80\"/><circle cx=\"160\" cy=\"70\" r=\"16\"/><polygon points=\"150,58 156,44 162,58\"/><polygon points=\"160,58 166,44 172,58\"/><line x1=\"40\" y1=\"120\" x2=\"200\" y2=\"120\" stroke-dasharray=\"4 4\"/><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"140\"/></g><text x=\"120\" y=\"150\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">生き物の種類</text></svg>"
+  },
+  "etymology": "ラテン語 species(見た目・姿・種類。special・specific・spectacle と同じ「見る」根) → 見た目で分けた種類 → (生物の)種 → 単数も複数も species",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a group of animals or plants whose members are similar and can breed together."
+    }
+  ],
+  "cautions": [
+    "単数も複数も species(a species / two species)。× specie",
+    "endangered species=絶滅危惧種/extinct species=絶滅種",
+    "the human species=人類",
+    "kind・type=種類(一般)/species=生物学上の種"
+  ],
+  "patterns": [
+    {
+      "form": "a species of A",
+      "meaning": "Aの一種"
+    },
+    {
+      "form": "endangered species",
+      "meaning": "絶滅危惧種"
+    },
+    {
+      "form": "many species of A",
+      "meaning": "多くの種類のA"
+    },
+    {
+      "form": "the human species",
+      "meaning": "人類"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "種",
+      "en": "There are thousands of species of birds in the world.",
+      "ja": "世界には何千種もの鳥がいる。"
+    },
+    {
+      "source": "original",
+      "label": "絶滅危惧種",
+      "en": "The tiger is an endangered species.",
+      "ja": "トラは絶滅危惧種だ。"
+    },
+    {
+      "source": "original",
+      "label": "種",
+      "en": "A new species of frog was discovered in the forest.",
+      "ja": "その森で新種のカエルが発見された。"
+    },
+    {
+      "source": "original",
+      "label": "種",
+      "en": "Many species have died out because of human activity.",
+      "ja": "人間の活動のせいで多くの種が絶滅した。"
+    },
+    {
+      "source": "original",
+      "label": "人類",
+      "en": "The human species has changed the planet.",
+      "ja": "人類は地球を変えてきた。"
+    },
+    {
+      "source": "original",
+      "label": "種",
+      "en": "This species can only live in clean water.",
+      "ja": "この種はきれいな水の中でしか生きられない。"
+    }
+  ],
+  "check_points": [
+    "species の単数・複数が同じ形だとわかるか",
+    "endangered species の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "単複同形、endangered species が環境・生物の長文で多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1229
+    }
+  ]
+}

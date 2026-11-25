@@ -1,0 +1,94 @@
+{
+  "word": "habitat",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈhæbɪtæt/",
+  "core_image": {
+    "text": "その生き物が、ふだん住みついている場所",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"60\" y1=\"140\" x2=\"60\" y2=\"70\"/><circle cx=\"60\" cy=\"56\" r=\"26\"/><line x1=\"170\" y1=\"140\" x2=\"170\" y2=\"70\"/><circle cx=\"170\" cy=\"56\" r=\"26\"/><ellipse cx=\"116\" cy=\"124\" rx=\"12\" ry=\"8\"/><circle cx=\"126\" cy=\"116\" r=\"5\"/></g><text x=\"116\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すみか</text></svg>"
+  },
+  "etymology": "ラテン語 habitat(それは住む。habit・inhabit と同じ「持つ・住む」根) → (動植物が)ふだん住んでいる所 → 生息地・生息環境",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the natural home of a plant or animal."
+    }
+  ],
+  "cautions": [
+    "environment=周りの環境(広い)/habitat=特定の動植物がすむ自然の場所=生息地",
+    "natural habitat=自然の生息地/lose [destroy] habitat=生息地を失う[破壊する]",
+    "inhabit=住む(他動詞)/inhabitant=住民",
+    "habitation=住むこと・住居(堅い)"
+  ],
+  "patterns": [
+    {
+      "form": "natural habitat",
+      "meaning": "自然の生息地"
+    },
+    {
+      "form": "habitat loss",
+      "meaning": "生息地の消失"
+    },
+    {
+      "form": "destroy A's habitat",
+      "meaning": "Aの生息地を破壊する"
+    },
+    {
+      "form": "in the wild habitat",
+      "meaning": "野生の生息地で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "生息地",
+      "en": "The panda's natural habitat is the bamboo forest.",
+      "ja": "パンダの自然の生息地は竹林だ。"
+    },
+    {
+      "source": "original",
+      "label": "生息地の消失",
+      "en": "Habitat loss is the main threat to many animals.",
+      "ja": "生息地の消失は多くの動物にとって最大の脅威だ。"
+    },
+    {
+      "source": "original",
+      "label": "生息地を破壊する",
+      "en": "Cutting down forests destroys the habitat of many birds.",
+      "ja": "森林を伐採すると多くの鳥の生息地が破壊される。"
+    },
+    {
+      "source": "original",
+      "label": "すみか",
+      "en": "The pond is a habitat for frogs and insects.",
+      "ja": "その池はカエルや昆虫のすみかだ。"
+    },
+    {
+      "source": "original",
+      "label": "生息地",
+      "en": "Zoos try to recreate each animal's habitat.",
+      "ja": "動物園はそれぞれの動物の生息地を再現しようとしている。"
+    },
+    {
+      "source": "original",
+      "label": "生息地",
+      "en": "Coral reefs provide habitats for many fish.",
+      "ja": "サンゴ礁は多くの魚に生息の場を与えている。"
+    }
+  ],
+  "check_points": [
+    "environment と habitat のちがいを言えるか",
+    "habitat loss の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "natural habitat、habitat loss が環境系の長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1230
+    }
+  ]
+}

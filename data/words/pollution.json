@@ -1,0 +1,98 @@
+{
+  "word": "pollution",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/pəˈluːʃn/",
+  "core_image": {
+    "text": "きれいなものを、よごしてけがすこと",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"80\" width=\"40\" height=\"60\"/><rect x=\"56\" y=\"50\" width=\"12\" height=\"30\"/><path d=\"M62 46 Q70 30 90 34 Q110 20 130 34 Q150 26 160 44\"/><path d=\"M140 140 Q170 120 200 140\"/><circle cx=\"170\" cy=\"130\" r=\"3\"/></g><text x=\"180\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">よごす</text></svg>"
+  },
+  "etymology": "pollute(けがす。ラテン語 polluere)の名詞 → けがすこと → (空気・水・土の)汚染・公害 → noise pollution(騒音公害)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the process of making air, water or soil dirty and harmful; substances that do this."
+    }
+  ],
+  "cautions": [
+    "pollution は不可算(× a pollution, × pollutions)",
+    "air [water] pollution=大気[水質]汚染/noise pollution=騒音公害",
+    "pollute=汚染する(動詞)/pollutant=汚染物質",
+    "contaminate=(毒・細菌で)汚染する(より局所的)"
+  ],
+  "patterns": [
+    {
+      "form": "air pollution",
+      "meaning": "大気汚染"
+    },
+    {
+      "form": "water pollution",
+      "meaning": "水質汚染"
+    },
+    {
+      "form": "noise pollution",
+      "meaning": "騒音公害"
+    },
+    {
+      "form": "reduce pollution",
+      "meaning": "汚染を減らす"
+    },
+    {
+      "form": "pollute A",
+      "meaning": "Aを汚染する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "大気汚染",
+      "en": "Air pollution is a big problem in many cities.",
+      "ja": "大気汚染は多くの都市で大問題だ。"
+    },
+    {
+      "source": "original",
+      "label": "汚染する",
+      "en": "Factories polluted the river with chemicals.",
+      "ja": "工場が化学物質で川を汚染した。"
+    },
+    {
+      "source": "original",
+      "label": "汚染を減らす",
+      "en": "We need to reduce pollution from cars.",
+      "ja": "車による汚染を減らす必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "水質汚染",
+      "en": "Water pollution kills many fish every year.",
+      "ja": "水質汚染で毎年多くの魚が死ぬ。"
+    },
+    {
+      "source": "original",
+      "label": "騒音公害",
+      "en": "People living near the airport suffer from noise pollution.",
+      "ja": "空港の近くに住む人は騒音公害に苦しんでいる。"
+    },
+    {
+      "source": "original",
+      "label": "汚染物質",
+      "en": "Trees help remove pollutants from the air.",
+      "ja": "木は空気中の汚染物質を取り除くのに役立つ。"
+    }
+  ],
+  "check_points": [
+    "pollution が不可算であることがわかるか",
+    "air pollution の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "air / water pollution が環境系の長文で非常に多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1222
+    }
+  ]
+}

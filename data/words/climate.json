@@ -1,0 +1,94 @@
+{
+  "word": "climate",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈklaɪmət/",
+  "core_image": {
+    "text": "その土地で長く続く、天気のくせ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"40\" cy=\"50\" r=\"14\"/><path d=\"M90 60 Q100 40 120 46 Q136 34 150 50 Q160 60 150 66 L96 66 Q86 66 90 60\"/><line x1=\"100\" y1=\"76\" x2=\"96\" y2=\"86\"/><line x1=\"120\" y1=\"76\" x2=\"116\" y2=\"86\"/><path d=\"M180 50 l6 -8 l6 8 l6 -8 l6 8\"/><line x1=\"20\" y1=\"120\" x2=\"220\" y2=\"120\"/><polyline points=\"213,116.2 220,120 213,123.8\"/></g><text x=\"120\" y=\"144\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">長い間の天気</text></svg>"
+  },
+  "etymology": "ギリシャ語 klima(傾き:地面が太陽に対してどれだけ傾いているか) → 緯度による地帯 → その地域の気候 → (社会の)風潮・情勢(the political climate)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the usual weather conditions in a particular place over a long period; the general attitudes and feelings in a place at a particular time."
+    }
+  ],
+  "cautions": [
+    "weather=その日その時の天気/climate=その土地の長期的な天気の傾向=気候",
+    "climate change=気候変動(長文で最頻出)",
+    "a mild [tropical] climate=温暖な[熱帯の]気候",
+    "比ゆ:the economic [political] climate=経済[政治]情勢"
+  ],
+  "patterns": [
+    {
+      "form": "climate change",
+      "meaning": "気候変動"
+    },
+    {
+      "form": "a mild climate",
+      "meaning": "温暖な気候"
+    },
+    {
+      "form": "a tropical climate",
+      "meaning": "熱帯気候"
+    },
+    {
+      "form": "the political climate",
+      "meaning": "政治情勢"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "気候変動",
+      "en": "Climate change is affecting farming around the world.",
+      "ja": "気候変動は世界中の農業に影響している。"
+    },
+    {
+      "source": "original",
+      "label": "気候",
+      "en": "Japan has a mild climate.",
+      "ja": "日本の気候は温暖だ。"
+    },
+    {
+      "source": "original",
+      "label": "気候",
+      "en": "The climate here is too dry for rice.",
+      "ja": "ここの気候は米を作るには乾燥しすぎている。"
+    },
+    {
+      "source": "original",
+      "label": "情勢",
+      "en": "In the current economic climate, many companies are cutting jobs.",
+      "ja": "現在の経済情勢では多くの企業が人員を削減している。"
+    },
+    {
+      "source": "original",
+      "label": "気候",
+      "en": "Plants have adapted to the cold climate.",
+      "ja": "植物は寒冷な気候に適応してきた。"
+    },
+    {
+      "source": "original",
+      "label": "熱帯気候",
+      "en": "Bananas grow well in a tropical climate.",
+      "ja": "バナナは熱帯気候でよく育つ。"
+    }
+  ],
+  "check_points": [
+    "weather と climate のちがいを言えるか",
+    "climate change の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "weather との区別、climate change が非常によく出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1224
+    }
+  ]
+}
