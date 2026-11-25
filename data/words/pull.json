@@ -1,0 +1,103 @@
+{
+  "word": "pull",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/pʊl/",
+  "core_image": {
+    "text": "手でつかんで、こちらへ引き寄せる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"90\" width=\"60\" height=\"50\"/><line x1=\"100\" y1=\"110\" x2=\"150\" y2=\"96\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"150\" y2=\"96\"/><line x1=\"170\" y1=\"74\" x2=\"186\" y2=\"96\"/><line x1=\"196\" y1=\"110\" x2=\"226\" y2=\"110\"/><polyline points=\"219,106.2 226,110 219,113.8\"/></g><text x=\"110\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">引き寄せる</text></svg>"
+  },
+  "etymology": "古い英語 pullian(引っぱる・むしる) → 手前に引く → (歯・草を)引き抜く → (車が)寄る・止まる(pull over) → (人を)引きつける",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to hold something and move it toward you; to remove something by pulling."
+    },
+    {
+      "pos": "名詞",
+      "text": "an act of pulling; a force that attracts."
+    }
+  ],
+  "cautions": [
+    "pull ⇔ push",
+    "pull out=引き抜く・撤退する/pull over=車を道の端に寄せる",
+    "pull A's leg=Aをからかう",
+    "draw=(ゆっくりなめらかに)引く/drag=重いものを引きずる/tug=ぐいっと引っぱる"
+  ],
+  "patterns": [
+    {
+      "form": "pull A",
+      "meaning": "Aを引く"
+    },
+    {
+      "form": "pull out A",
+      "meaning": "Aを引き抜く"
+    },
+    {
+      "form": "pull over",
+      "meaning": "車を寄せて止める"
+    },
+    {
+      "form": "pull A's leg",
+      "meaning": "Aをからかう"
+    },
+    {
+      "form": "pull oneself together",
+      "meaning": "気持ちを立て直す"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "引く",
+      "en": "Pull the door to open it.",
+      "ja": "ドアを引いて開けてください。"
+    },
+    {
+      "source": "original",
+      "label": "抜く",
+      "en": "The dentist pulled out my tooth.",
+      "ja": "歯医者が私の歯を抜いた。"
+    },
+    {
+      "source": "original",
+      "label": "車を寄せる",
+      "en": "The police told the driver to pull over.",
+      "ja": "警察は運転手に車を道の端に寄せるよう言った。"
+    },
+    {
+      "source": "original",
+      "label": "からかう",
+      "en": "Don't worry, I'm just pulling your leg.",
+      "ja": "心配しないで、ちょっとからかっただけだよ。"
+    },
+    {
+      "source": "original",
+      "label": "立て直す",
+      "en": "Pull yourself together and try again.",
+      "ja": "気持ちを立て直してもう一度やってごらん。"
+    },
+    {
+      "source": "original",
+      "label": "引力",
+      "en": "The moon's pull causes the tides.",
+      "ja": "月の引力が潮の満ち干を起こす。"
+    }
+  ],
+  "check_points": [
+    "pull over の意味を言えるか",
+    "pull A's leg の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "pull over、pull A's leg が熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1276
+    }
+  ]
+}

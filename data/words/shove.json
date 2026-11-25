@@ -1,0 +1,99 @@
+{
+  "word": "shove",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ʃʌv/",
+  "core_image": {
+    "text": "乱暴に、ぐいっと押しのける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"112\" y2=\"70\"/><line x1=\"70\" y1=\"74\" x2=\"112\" y2=\"80\"/><circle cx=\"140\" cy=\"52\" r=\"10\"/><line x1=\"140\" y1=\"62\" x2=\"140\" y2=\"106\"/><line x1=\"140\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"140\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"140\" y1=\"74\" x2=\"156\" y2=\"56\"/><line x1=\"140\" y1=\"74\" x2=\"160\" y2=\"88\"/><line x1=\"160\" y1=\"120\" x2=\"210\" y2=\"120\"/><polyline points=\"203,116.2 210,120 203,123.8\"/></g><text x=\"110\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぐいっ</text></svg>"
+  },
+  "etymology": "古い英語 scūfan(押す・突く) → 乱暴に押す・押しのける → (物を)無造作に突っこむ(shove A into B)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to push someone or something in a rough or careless way."
+    },
+    {
+      "pos": "名詞",
+      "text": "a strong push."
+    }
+  ],
+  "cautions": [
+    "push=押す(広い)/shove=乱暴に・無造作にぐいっと押す",
+    "shove A into B=AをBに無造作に突っこむ",
+    "push and shove=押し合いへし合いする",
+    "when push comes to shove=いざとなれば"
+  ],
+  "patterns": [
+    {
+      "form": "shove A",
+      "meaning": "Aを乱暴に押す"
+    },
+    {
+      "form": "shove A into B",
+      "meaning": "AをBに突っこむ"
+    },
+    {
+      "form": "push and shove",
+      "meaning": "押し合いへし合い"
+    },
+    {
+      "form": "when push comes to shove",
+      "meaning": "いざとなれば"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "押しのける",
+      "en": "He shoved me out of the way.",
+      "ja": "彼は私を押しのけた。"
+    },
+    {
+      "source": "original",
+      "label": "突っこむ",
+      "en": "She shoved her clothes into the bag.",
+      "ja": "彼女は服をかばんに突っこんだ。"
+    },
+    {
+      "source": "original",
+      "label": "押し合い",
+      "en": "People were pushing and shoving to get on the train.",
+      "ja": "人々は電車に乗ろうと押し合いへし合いしていた。"
+    },
+    {
+      "source": "original",
+      "label": "いざとなれば",
+      "en": "When push comes to shove, he always helps his friends.",
+      "ja": "いざとなれば、彼はいつも友達を助ける。"
+    },
+    {
+      "source": "original",
+      "label": "ぐいっと押す",
+      "en": "Give the door a shove. It's stuck.",
+      "ja": "ドアをぐいっと押して。引っかかっているんだ。"
+    },
+    {
+      "source": "original",
+      "label": "押す",
+      "en": "Don't shove! Wait your turn.",
+      "ja": "押さないで!順番を待って。"
+    }
+  ],
+  "check_points": [
+    "push と shove のちがいを言えるか",
+    "when push comes to shove の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "push and shove などの言い回しで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1278
+    }
+  ]
+}

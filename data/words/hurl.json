@@ -1,0 +1,89 @@
+{
+  "word": "hurl",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/hɜːrl/",
+  "core_image": {
+    "text": "力いっぱい、勢いよく投げつける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"80\" y2=\"60\"/><line x1=\"50\" y1=\"74\" x2=\"32\" y2=\"66\"/><line x1=\"90\" y1=\"60\" x2=\"200\" y2=\"70\"/><polyline points=\"193.4,65.5 200,70 192.7,73.2\"/><circle cx=\"210\" cy=\"72\" r=\"8\"/><line x1=\"96\" y1=\"50\" x2=\"140\" y2=\"54\"/><line x1=\"96\" y1=\"76\" x2=\"140\" y2=\"72\"/></g><text x=\"140\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">力いっぱい</text></svg>"
+  },
+  "etymology": "中英語 hurlen(勢いよく投げる) → 力いっぱい投げつける → (ことばを)浴びせる(hurl insults at A)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to throw something violently with a lot of force; to shout insults at someone."
+    }
+  ],
+  "cautions": [
+    "throw=投げる(広い)/hurl=力いっぱい乱暴に投げつける(怒りなど)",
+    "hurl A at B=AをBに投げつける",
+    "比ゆ:hurl abuse [insults] at A=Aにののしりのことばを浴びせる",
+    "fling=勢いよく投げる(無造作に)"
+  ],
+  "patterns": [
+    {
+      "form": "hurl A at B",
+      "meaning": "AをBに投げつける"
+    },
+    {
+      "form": "hurl insults at A",
+      "meaning": "Aをののしる"
+    },
+    {
+      "form": "be hurled",
+      "meaning": "たたきつけられる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "投げつける",
+      "en": "Angry fans hurled bottles at the players.",
+      "ja": "怒ったファンが選手たちに瓶を投げつけた。"
+    },
+    {
+      "source": "original",
+      "label": "投げつける",
+      "en": "He hurled the phone across the room.",
+      "ja": "彼は電話を部屋の向こうへ投げつけた。"
+    },
+    {
+      "source": "original",
+      "label": "ののしる",
+      "en": "The crowd hurled insults at the referee.",
+      "ja": "観衆は審判にののしりのことばを浴びせた。"
+    },
+    {
+      "source": "original",
+      "label": "たたきつけられる",
+      "en": "The boat was hurled against the rocks by the waves.",
+      "ja": "ボートは波で岩にたたきつけられた。"
+    },
+    {
+      "source": "original",
+      "label": "投げつける",
+      "en": "She hurled the book to the floor.",
+      "ja": "彼女は本を床にたたきつけた。"
+    },
+    {
+      "source": "original",
+      "label": "突進する",
+      "en": "He hurled himself at the door.",
+      "ja": "彼はドアに体当たりした。"
+    }
+  ],
+  "check_points": [
+    "throw と hurl のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "throw の強い言い換えとして長文に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1273
+    }
+  ]
+}

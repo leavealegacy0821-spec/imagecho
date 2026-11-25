@@ -1,0 +1,99 @@
+{
+  "word": "tug",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/tʌɡ/",
+  "core_image": {
+    "text": "何度か、ぐいっぐいっと強く引っぱる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"96\" y2=\"80\"/><line x1=\"60\" y1=\"74\" x2=\"40\" y2=\"90\"/><line x1=\"96\" y1=\"80\" x2=\"150\" y2=\"80\"/><line x1=\"140\" y1=\"74\" x2=\"150\" y2=\"80\"/><line x1=\"140\" y1=\"86\" x2=\"150\" y2=\"80\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"150\" y2=\"80\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぐいっ</text></svg>"
+  },
+  "etymology": "中英語 toggen(引っぱる。tow=引いて運ぶ と同じ仲間) → ぐいっと引く → (名詞)ぐいっと引くこと/タグボート(船を引く船) → tug of war=綱引き",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to pull something quickly and strongly, often several times."
+    },
+    {
+      "pos": "名詞",
+      "text": "a sudden strong pull; a small powerful boat that pulls ships."
+    }
+  ],
+  "cautions": [
+    "pull=引く(広い)/tug=短く強くぐいっと引く(何度も)",
+    "tug at A=Aをぐいっと引っぱる(注意を引くため)",
+    "tug of war=綱引き",
+    "a tug=タグボート"
+  ],
+  "patterns": [
+    {
+      "form": "tug at A",
+      "meaning": "Aをぐいっと引っぱる"
+    },
+    {
+      "form": "give A a tug",
+      "meaning": "Aをぐいっと引く"
+    },
+    {
+      "form": "tug of war",
+      "meaning": "綱引き"
+    },
+    {
+      "form": "a tug (boat)",
+      "meaning": "タグボート"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "引っぱる",
+      "en": "The child tugged at her mother's sleeve.",
+      "ja": "子どもは母親のそでをぐいぐい引っぱった。"
+    },
+    {
+      "source": "original",
+      "label": "ぐいっと引く",
+      "en": "He gave the rope a hard tug.",
+      "ja": "彼はロープをぐいっと強く引いた。"
+    },
+    {
+      "source": "original",
+      "label": "綱引き",
+      "en": "Our class won the tug of war.",
+      "ja": "私たちのクラスが綱引きで勝った。"
+    },
+    {
+      "source": "original",
+      "label": "タグボート",
+      "en": "A tug pulled the big ship into the harbor.",
+      "ja": "タグボートが大きな船を港へ引き入れた。"
+    },
+    {
+      "source": "original",
+      "label": "引っぱる",
+      "en": "The dog was tugging on its leash.",
+      "ja": "犬がひもをぐいぐい引っぱっていた。"
+    },
+    {
+      "source": "original",
+      "label": "胸が締めつけられる",
+      "en": "The sad story tugged at my heartstrings.",
+      "ja": "その悲しい話に胸が締めつけられた。"
+    }
+  ],
+  "check_points": [
+    "pull と tug のちがいを言えるか",
+    "tug of war の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "tug of war、tug at が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1279
+    }
+  ]
+}

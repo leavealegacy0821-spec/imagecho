@@ -1,0 +1,99 @@
+{
+  "word": "fling",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/flɪŋ/",
+  "core_image": {
+    "text": "さっと勢いよく、投げ出す・投げ広げる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"96\" y2=\"52\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><path d=\"M100 50 L160 30 L150 50 L210 50 L170 70 L190 90\" stroke-dasharray=\"4 4\"/></g><text x=\"150\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さっと投げ出す</text></svg>"
+  },
+  "etymology": "中英語 flingen(勢いよく突進する・投げる) → さっと投げる・放り出す → (ドア・腕を)ぱっと開く(fling open) → (名詞)短い遊び・浮気",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to throw something somewhere quickly and carelessly; to move your body or arms suddenly."
+    },
+    {
+      "pos": "名詞",
+      "text": "a short period of enjoyment."
+    }
+  ],
+  "cautions": [
+    "活用 fling - flung - flung",
+    "hurl=力いっぱい投げつける/fling=さっと無造作に放り出す",
+    "fling the door [window] open=ドア[窓]をぱっと開け放つ",
+    "fling one's arms around A=Aにさっと抱きつく"
+  ],
+  "patterns": [
+    {
+      "form": "fling A onto B",
+      "meaning": "AをBに放り出す"
+    },
+    {
+      "form": "fling A open",
+      "meaning": "Aをぱっと開け放つ"
+    },
+    {
+      "form": "fling one's arms around A",
+      "meaning": "Aにさっと抱きつく"
+    },
+    {
+      "form": "fling oneself",
+      "meaning": "身を投げ出す"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "放り出す",
+      "en": "He flung his coat onto the chair.",
+      "ja": "彼はコートをいすに放り出した。"
+    },
+    {
+      "source": "original",
+      "label": "開け放つ",
+      "en": "She flung the window open.",
+      "ja": "彼女は窓をぱっと開け放った。"
+    },
+    {
+      "source": "original",
+      "label": "抱きつく",
+      "en": "The child flung her arms around her mother.",
+      "ja": "子どもは母親にさっと抱きついた。"
+    },
+    {
+      "source": "original",
+      "label": "身を投げ出す",
+      "en": "He flung himself onto the sofa.",
+      "ja": "彼はソファにどさっと身を投げ出した。"
+    },
+    {
+      "source": "original",
+      "label": "投げ捨てる",
+      "en": "They flung the old clothes into a box.",
+      "ja": "彼らは古着を箱に投げ込んだ。"
+    },
+    {
+      "source": "original",
+      "label": "投げた(flung)",
+      "en": "The ball was flung far into the field.",
+      "ja": "ボールは野原のずっと向こうへ投げ飛ばされた。"
+    }
+  ],
+  "check_points": [
+    "fling の活用(flung)を言えるか",
+    "fling A open の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "活用 flung、fling open が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1274
+    }
+  ]
+}

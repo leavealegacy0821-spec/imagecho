@@ -1,0 +1,103 @@
+{
+  "word": "throw",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/θroʊ/",
+  "core_image": {
+    "text": "腕をふって、手から放ち飛ばす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"74\" y2=\"50\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"96\"/><path d=\"M80 44 Q140 10 190 60\" stroke-dasharray=\"5 5\"/><circle cx=\"196\" cy=\"68\" r=\"8\"/></g><text x=\"150\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">放ち飛ばす</text></svg>"
+  },
+  "etymology": "古い英語 thrāwan(ねじる・回す) → 腕をひねって投げる → (物・視線・光を)投げかける → (ある状態に)投げこむ(throw A into confusion) → throw away=捨てる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to send something through the air by moving your arm; to put someone or something into a particular state suddenly."
+    },
+    {
+      "pos": "名詞",
+      "text": "an act of throwing."
+    }
+  ],
+  "cautions": [
+    "活用 throw - threw - thrown",
+    "throw A to B=Bに(取れるように)投げる/throw A at B=Bめがけて(ぶつけるように)投げる",
+    "throw away=捨てる/throw a party=パーティーを開く",
+    "be thrown into A=急にA(混乱)におちいる"
+  ],
+  "patterns": [
+    {
+      "form": "throw A to B",
+      "meaning": "AをBに投げてやる"
+    },
+    {
+      "form": "throw A at B",
+      "meaning": "AをBめがけて投げつける"
+    },
+    {
+      "form": "throw away A",
+      "meaning": "Aを捨てる"
+    },
+    {
+      "form": "throw a party",
+      "meaning": "パーティーを開く"
+    },
+    {
+      "form": "be thrown into A",
+      "meaning": "Aにおちいる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "投げる",
+      "en": "Throw the ball to me.",
+      "ja": "ボールを私に投げて。"
+    },
+    {
+      "source": "original",
+      "label": "投げつける",
+      "en": "The boy threw a stone at the dog.",
+      "ja": "少年は犬めがけて石を投げつけた。"
+    },
+    {
+      "source": "original",
+      "label": "捨てる",
+      "en": "Don't throw away plastic bottles here.",
+      "ja": "ここにペットボトルを捨てないで。"
+    },
+    {
+      "source": "original",
+      "label": "開く",
+      "en": "We threw a party for her birthday.",
+      "ja": "彼女の誕生日にパーティーを開いた。"
+    },
+    {
+      "source": "original",
+      "label": "おちいる",
+      "en": "The city was thrown into confusion by the storm.",
+      "ja": "嵐で町は混乱におちいった。"
+    },
+    {
+      "source": "original",
+      "label": "投げ",
+      "en": "That was a great throw!",
+      "ja": "すごい投げだったね!"
+    }
+  ],
+  "check_points": [
+    "throw A to B と throw A at B のちがいを言えるか",
+    "throw の活用を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "to / at の前置詞のちがい、throw away が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1271
+    }
+  ]
+}

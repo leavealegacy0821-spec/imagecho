@@ -1,0 +1,99 @@
+{
+  "word": "toss",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/tɔːs/",
+  "core_image": {
+    "text": "軽く、ぽいっと放り上げる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"90\" y2=\"66\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><path d=\"M94 62 Q110 20 130 60\" stroke-dasharray=\"4 4\"/><circle cx=\"134\" cy=\"66\" r=\"6\"/></g><text x=\"180\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぽいっと</text></svg>"
+  },
+  "etymology": "(語源ははっきりしない)軽く投げ上げる → ぽいっと投げる → (コインを)投げる=表裏で決める → (寝床で)寝返りを打つ(toss and turn)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to throw something lightly or carelessly; to throw a coin to decide something; to move around restlessly."
+    },
+    {
+      "pos": "名詞",
+      "text": "an act of tossing."
+    }
+  ],
+  "cautions": [
+    "throw=投げる(広い)/toss=軽く・無造作にぽいっと投げる",
+    "toss a coin=コインを投げて決める(the toss of a coin)",
+    "toss and turn=(眠れずに)寝返りを打つ",
+    "toss a salad=サラダをあえる"
+  ],
+  "patterns": [
+    {
+      "form": "toss A to B",
+      "meaning": "AをBにぽいと投げる"
+    },
+    {
+      "form": "toss a coin",
+      "meaning": "コインを投げる"
+    },
+    {
+      "form": "toss and turn",
+      "meaning": "寝返りを打つ"
+    },
+    {
+      "form": "toss a salad",
+      "meaning": "サラダをあえる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ぽいっと投げる",
+      "en": "He tossed the keys to me.",
+      "ja": "彼は鍵をぽいと私に投げた。"
+    },
+    {
+      "source": "original",
+      "label": "コインを投げる",
+      "en": "Let's toss a coin to decide who goes first.",
+      "ja": "誰が先かコインを投げて決めよう。"
+    },
+    {
+      "source": "original",
+      "label": "寝返りを打つ",
+      "en": "I tossed and turned all night.",
+      "ja": "一晩中寝返りを打って眠れなかった。"
+    },
+    {
+      "source": "original",
+      "label": "あえる",
+      "en": "Toss the salad with olive oil.",
+      "ja": "サラダをオリーブオイルであえてください。"
+    },
+    {
+      "source": "original",
+      "label": "放り投げる",
+      "en": "She tossed her bag onto the bed.",
+      "ja": "彼女はかばんをベッドに放り投げた。"
+    },
+    {
+      "source": "original",
+      "label": "コイン投げ",
+      "en": "The game started after the toss.",
+      "ja": "コイン投げのあと試合が始まった。"
+    }
+  ],
+  "check_points": [
+    "throw と toss のちがいを言えるか",
+    "toss and turn の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "toss a coin、toss and turn が熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1272
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "push",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/pʊʃ/",
+  "core_image": {
+    "text": "手を当てて、向こうへ押しやる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"100\" y2=\"80\"/><line x1=\"60\" y1=\"74\" x2=\"100\" y2=\"92\"/><rect x=\"100\" y=\"80\" width=\"60\" height=\"60\"/><line x1=\"170\" y1=\"110\" x2=\"214\" y2=\"110\"/><polyline points=\"207,106.2 214,110 207,113.8\"/></g><text x=\"130\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">押しやる</text></svg>"
+  },
+  "etymology": "ラテン語 pulsare(打つ・押す。pulse と同じ根) → 向こうへ押す → (ボタンを)押す → (人を)せき立てる・強く勧める(push A to do) → (計画を)推し進める",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to use your hands or body to move something away from you; to try to make someone do something."
+    },
+    {
+      "pos": "名詞",
+      "text": "an act of pushing; encouragement."
+    }
+  ],
+  "cautions": [
+    "push ⇔ pull(引く)",
+    "push A to do [into doing]=Aに〜するよう強く迫る",
+    "push for A=Aを強く求める",
+    "shove=乱暴にぐいっと押す/thrust=ぐいっと突き出す"
+  ],
+  "patterns": [
+    {
+      "form": "push A",
+      "meaning": "Aを押す"
+    },
+    {
+      "form": "push A to do",
+      "meaning": "Aに〜するよう迫る"
+    },
+    {
+      "form": "push for A",
+      "meaning": "Aを強く求める"
+    },
+    {
+      "form": "push one's way through A",
+      "meaning": "Aを押し分けて進む"
+    },
+    {
+      "form": "give A a push",
+      "meaning": "Aを一押しする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "押す",
+      "en": "Push the button to start the machine.",
+      "ja": "ボタンを押すと機械が動きます。"
+    },
+    {
+      "source": "original",
+      "label": "押す",
+      "en": "He pushed the door open.",
+      "ja": "彼はドアを押して開けた。"
+    },
+    {
+      "source": "original",
+      "label": "迫る",
+      "en": "My parents pushed me to study harder.",
+      "ja": "両親はもっと勉強するよう私にうるさく言った。"
+    },
+    {
+      "source": "original",
+      "label": "強く求める",
+      "en": "The workers are pushing for higher pay.",
+      "ja": "労働者たちは賃上げを強く求めている。"
+    },
+    {
+      "source": "original",
+      "label": "押し分けて進む",
+      "en": "She pushed her way through the crowd.",
+      "ja": "彼女は人ごみを押し分けて進んだ。"
+    },
+    {
+      "source": "original",
+      "label": "一押し",
+      "en": "The car won't start. Can you give it a push?",
+      "ja": "車が動かないんだ。押してくれない?"
+    }
+  ],
+  "check_points": [
+    "push A to do の意味を言えるか",
+    "push と shove のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "push A to do、push for が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1275
+    }
+  ]
+}
