@@ -1,252 +1,1566 @@
 {
-  "note": "めくる形式の並び順。つながりのある単語をまとまりごとに並べる。ここに無い単語は最後の「そのほか」に自動で入る",
+  "note": "めくる形式の並び順。まず「使い分け」(似た意味の語をコアイメージで比べる)、次に語法、最後に多義語。note には各語のちがいを「語=イメージ」で書く。ここに無い単語は最後の「そのほか」に自動で入る",
   "groups": [
     {
-      "title": "tain=保つ",
-      "note": "中に・しっかり保つ",
+      "title": "使い分け:見る",
+      "note": "see=自然に目に入る ／ look=自分から目を向ける ／ watch=動きを目で追う ／ stare=じっと見つめる ／ glance=ちらっと見る ／ observe=注意して観察する ／ witness=その場で目撃する",
       "words": [
-        "maintain",
-        "contain",
-        "obtain",
-        "sustain",
-        "content",
-        "preserve",
-        "possess",
-        "retain",
-        "conserve"
-      ]
-    },
-    {
-      "title": "ceive / cap=取る・つかむ",
-      "note": "手でつかみ取る",
-      "words": [
-        "receive",
-        "perceive",
-        "capable",
-        "participate",
-        "acquire",
-        "require",
-        "recover",
-        "consume",
-        "anticipate",
-        "conceive",
-        "deceive",
-        "comprehend",
-        "comprise",
-        "accept",
-        "apprehend",
-        "capture"
-      ]
-    },
-    {
-      "title": "fer=運ぶ",
-      "note": "どこかへ運ぶ",
-      "words": [
-        "offer",
-        "prefer",
-        "refer",
-        "transfer",
-        "suffer",
-        "differ",
-        "infer",
-        "confer"
-      ]
-    },
-    {
-      "title": "pose=置く",
-      "note": "どこかに置く",
-      "words": [
-        "oppose",
-        "propose",
-        "suppose",
-        "expose",
-        "purpose",
-        "impose",
-        "dispose",
-        "compose",
-        "pose"
-      ]
-    },
-    {
-      "title": "duce / duct=導く",
-      "note": "ある方向へ導く",
-      "words": [
-        "produce",
-        "reduce",
-        "introduce",
-        "conduct",
-        "induce",
-        "deduce"
-      ]
-    },
-    {
-      "title": "mit=送る",
-      "note": "向こうへ送る",
-      "words": [
-        "admit",
-        "permit",
-        "commit",
-        "dismiss",
-        "omit",
-        "submit",
-        "transmit",
-        "emit",
-        "promise"
-      ]
-    },
-    {
-      "title": "sist / sta=立つ",
-      "note": "その場に立つ",
-      "words": [
-        "insist",
-        "consist",
-        "resist",
-        "stand",
-        "state",
-        "establish",
-        "still",
-        "exist",
-        "constitute",
-        "persist",
-        "assist",
-        "consistent",
-        "stable",
-        "constant"
-      ]
-    },
-    {
-      "title": "tend=伸ばす",
-      "note": "ある方向へ伸ばす",
-      "words": [
-        "tend",
-        "intend",
-        "extend",
-        "pretend",
-        "attend",
-        "contend",
-        "extent"
-      ]
-    },
-    {
-      "title": "spect=見る",
-      "note": "目を向けて見る",
-      "words": [
-        "respect",
-        "expect",
-        "suspect",
+        "see",
+        "look",
+        "watch",
+        "stare",
+        "glance",
         "observe",
-        "regard",
-        "reflect",
-        "inspect",
-        "perspective",
-        "prospect",
-        "speculate"
+        "witness"
       ]
     },
     {
-      "title": "vide / vis=見る・先を見る",
-      "note": "見る・見通す",
+      "title": "使い分け:気づく",
+      "note": "notice=目や耳でふと気づく ／ realize=頭ではっとわかる ／ perceive=感覚でとらえる ／ detect=隠れたものを見つけ出す ／ spot=多くの中から見つける ／ aware・conscious=気づいている状態",
       "words": [
-        "provide",
-        "reveal",
+        "notice",
         "realize",
-        "recognize",
-        "identify",
-        "revise",
-        "evident"
+        "perceive",
+        "detect",
+        "spot",
+        "sense",
+        "aware",
+        "conscious"
       ]
     },
     {
-      "title": "pro=前へ",
-      "note": "前へ動かす・出す",
+      "title": "使い分け:言う・話す",
+      "note": "say=言葉の中身 ／ tell=相手に伝える ／ speak=声を出して話す(言語・演説) ／ talk=相手とやりとり ／ mention=ちょっと触れる ／ remark=感想をひとこと述べる ／ utter=声に出す",
       "words": [
-        "promote",
-        "prevent",
-        "produce",
-        "approach",
-        "achieve",
-        "develop",
-        "improve",
-        "invent",
-        "proceed",
-        "provoke",
-        "prolong",
-        "pronounce",
-        "prominent"
+        "say",
+        "tell",
+        "speak",
+        "talk",
+        "mention",
+        "remark",
+        "utter"
       ]
     },
     {
-      "title": "re=戻す・再び",
-      "note": "後ろへ・もう一度",
+      "title": "使い分け:主張する",
+      "note": "claim=本当だと言い張る(証拠なしでも) ／ insist=反対されても言い続ける ／ assert=自信をもってきっぱり言う ／ argue=理由を挙げて論じる ／ allege=証拠なしに(悪事を)言い立てる ／ contend=争って強く主張する",
       "words": [
-        "remain",
-        "remind",
-        "replace",
-        "represent",
-        "respond",
-        "release",
-        "rely",
-        "relate",
-        "refuse",
-        "reach",
-        "recall",
-        "regret",
-        "reject",
-        "remove",
-        "resemble",
-        "restore",
-        "retire",
-        "reserve",
-        "resolve",
-        "resign",
-        "reconcile",
-        "resume",
-        "reinforce",
-        "resent",
-        "revise",
-        "refine",
-        "reform",
-        "register",
-        "renew",
-        "retreat",
-        "rescue",
-        "recruit",
-        "reverse",
-        "restrain",
-        "retrieve"
+        "claim",
+        "insist",
+        "assert",
+        "argue",
+        "allege",
+        "contend",
+        "maintain"
       ]
     },
     {
-      "title": "sub / sup=下から",
-      "note": "下から支える・下に置く",
+      "title": "使い分け:説明する",
+      "note": "explain=わかるように筋道を示す ／ describe=様子を言葉で描く ／ illustrate=例・図で示す ／ clarify=もやを晴らしてはっきりさせる ／ define=境界を決めて意味を定める ／ interpret=自分なりに読み解く ／ account for=理由を説明する",
       "words": [
-        "support",
-        "supply",
-        "subject",
-        "succeed",
-        "sustain",
+        "explain",
+        "describe",
+        "illustrate",
+        "clarify",
+        "define",
+        "interpret",
+        "account"
+      ]
+    },
+    {
+      "title": "使い分け:示す・明かす",
+      "note": "show=見せる(最も広い) ／ indicate=指で指すように示す ／ imply=言葉の奥にふくませる ／ suggest=それとなく示す ／ reveal=おおいを取って明かす ／ disclose=隠していた情報を公にする ／ expose=おおいをはがしてさらす",
+      "words": [
+        "show",
+        "indicate",
+        "imply",
         "suggest",
-        "submit",
-        "substitute",
-        "surround",
-        "suspend",
-        "subscribe",
-        "subsequent",
-        "substantial",
+        "reveal",
+        "disclose",
+        "expose",
+        "demonstrate"
+      ]
+    },
+    {
+      "title": "使い分け:見せる・並べる",
+      "note": "display=広げて見せる ／ exhibit=公に陳列・(性質を)表す ／ demonstrate=実際にやって示す・証明する ／ manifest=はっきり表に出す",
+      "words": [
+        "display",
+        "exhibit",
+        "demonstrate",
+        "manifest"
+      ]
+    },
+    {
+      "title": "使い分け:隠す",
+      "note": "conceal=意図して見えないようにする ／ disguise=別の姿に見せかける ／ withhold=渡さず手元に止める ／ suppress=力で押さえ込む",
+      "words": [
+        "conceal",
+        "disguise",
+        "withhold",
         "suppress"
       ]
     },
     {
-      "title": "port / form=運ぶ・形",
-      "note": "形を変える・運ぶ",
+      "title": "使い分け:思う・みなす",
+      "note": "consider=じっくり考えて〜とみなす ／ regard=ある見方で見る(regard A as B) ／ deem=(堅く)判断して〜とみなす ／ reckon=(口語)数えて〜と思う ／ suppose=たぶん〜だろうと思う",
       "words": [
+        "consider",
+        "regard",
+        "deem",
+        "reckon",
+        "suppose",
+        "view"
+      ]
+    },
+    {
+      "title": "使い分け:前提とする・疑う",
+      "note": "assume=証拠なしに当然だと思う ／ presume=ある程度根拠をもって推定する ／ doubt=〜ではないと思う ／ suspect=〜ではないかと思う",
+      "words": [
+        "assume",
+        "presume",
+        "suppose",
+        "doubt",
+        "suspect"
+      ]
+    },
+    {
+      "title": "使い分け:予想する・推し量る",
+      "note": "predict=言葉で前もって言う ／ foresee=前もって見通す ／ anticipate=先回りして予期・備える ／ expect=当然来ると思って待つ ／ estimate=ざっと見積もる ／ speculate=根拠なしにあれこれ推測する",
+      "words": [
+        "predict",
+        "foresee",
+        "anticipate",
+        "expect",
+        "estimate",
+        "speculate"
+      ]
+    },
+    {
+      "title": "使い分け:推論する",
+      "note": "infer=手がかりから結論を引き出す ／ deduce=一般から筋道立てて導く ／ conclude=考えた末に結論を出す ／ derive=元から引き出す",
+      "words": [
+        "infer",
+        "deduce",
+        "conclude",
+        "derive"
+      ]
+    },
+    {
+      "title": "使い分け:わかる",
+      "note": "comprehend=全体をつかんで理解する ／ grasp=しっかりつかむ ／ apprehend=(堅)つかみ取る ／ discern=見分けて気づく ／ recognize=前に知っていたものと認める ／ realize=はっと気づく",
+      "words": [
+        "comprehend",
+        "grasp",
+        "apprehend",
+        "discern",
+        "recognize",
+        "realize"
+      ]
+    },
+    {
+      "title": "使い分け:区別する・比べる",
+      "note": "distinguish=違いを見分ける ／ differ=互いに違う ／ compare=並べて似ている点・違う点を比べる ／ contrast=違いを際立たせる",
+      "words": [
+        "distinguish",
+        "differ",
+        "vary",
+        "compare",
+        "contrast",
+        "distinct"
+      ]
+    },
+    {
+      "title": "使い分け:調べる",
+      "note": "investigate=原因・真相を突き止める ／ inspect=細かく点検する ／ explore=未知を探って回る ／ check=合っているか確かめる",
+      "words": [
+        "investigate",
+        "inspect",
+        "explore",
+        "check",
+        "observe"
+      ]
+    },
+    {
+      "title": "使い分け:評価する",
+      "note": "assess=状況・価値を判定する ／ evaluate=価値(よしあし)を決める ／ estimate=数量をざっと見積もる ／ judge=判断を下す ／ rate=等級をつける ／ weigh=はかりにかけて比べる",
+      "words": [
+        "assess",
+        "evaluate",
+        "estimate",
+        "judge",
+        "rate",
+        "rank",
+        "weigh",
+        "measure"
+      ]
+    },
+    {
+      "title": "使い分け:確かめる・確実にする",
+      "note": "confirm=正しいと裏づける ／ prove=証拠で正しさを示す ／ ensure=必ずそうなるようにする ／ assure=相手に請け合って安心させる ／ insure=保険をかける ／ guarantee=保証する ／ secure=しっかり確保する",
+      "words": [
+        "confirm",
+        "prove",
+        "ensure",
+        "assure",
+        "insure",
+        "guarantee",
+        "secure"
+      ]
+    },
+    {
+      "title": "使い分け:似ている・一致する",
+      "note": "resemble=見た目・性質が似ている(他動詞) ／ alike=互いに似て(be alike) ／ similar=似ている(to) ／ match=ぴったり合う・対になる ／ correspond=互いに対応する ／ coincide=同時に起こる・一致する",
+      "words": [
+        "resemble",
+        "alike",
+        "similar",
+        "match",
+        "correspond",
+        "coincide"
+      ]
+    },
+    {
+      "title": "使い分け:合う",
+      "note": "suit=服・色・条件が人に似合う・都合がよい ／ fit=サイズ・形がぴったり合う ／ match=色・柄がつり合う",
+      "words": [
+        "suit",
+        "fit",
+        "match",
+        "appropriate",
+        "relevant",
+        "apt"
+      ]
+    },
+    {
+      "title": "使い分け:従う",
+      "note": "obey=命令に従う ／ follow=あとについていく ／ comply=規則・要求に応じる(with) ／ conform=型・基準に合わせる(to) ／ abide by=決まりを守る ／ observe=規則を守る ／ adhere=ぴったりくっついて守る(to)",
+      "words": [
+        "obey",
+        "follow",
+        "comply",
+        "conform",
+        "abide",
+        "observe",
+        "adhere"
+      ]
+    },
+    {
+      "title": "使い分け:必要とする",
+      "note": "need=足りなくて要る ／ require=(規則・状況が)要求する ／ demand=強く求める ／ want=欠けている",
+      "words": [
+        "need",
+        "require",
+        "demand",
+        "want",
+        "lack",
+        "necessary",
+        "essential",
+        "vital"
+      ]
+    },
+    {
+      "title": "使い分け:頼む・求める",
+      "note": "ask=たずねる・頼む ／ request=(丁寧・正式に)お願いする ／ demand=当然として強く要求する ／ urge=強く迫って勧める ／ plead=必死に嘆願する",
+      "words": [
+        "ask",
+        "request",
+        "demand",
+        "urge",
+        "plead"
+      ]
+    },
+    {
+      "title": "使い分け:勧める・提案する",
+      "note": "advise=経験から助言する ／ recommend=よいと思って推薦する ／ suggest=控えめに提案する ／ propose=正式に案を出す ／ encourage=背中を押す",
+      "words": [
+        "advise",
+        "recommend",
+        "suggest",
+        "propose",
+        "encourage"
+      ]
+    },
+    {
+      "title": "使い分け:説得する",
+      "note": "persuade=説いて行動させる ／ convince=説いて信じさせる ／ induce=誘い込んでさせる ／ dissuade=説いてやめさせる ／ prompt=きっかけを与える ／ tempt=誘惑する",
+      "words": [
+        "persuade",
+        "convince",
+        "induce",
+        "dissuade",
+        "prompt",
+        "tempt"
+      ]
+    },
+    {
+      "title": "使い分け:無理にさせる",
+      "note": "force=力ずくで ／ compel=(状況・義務が)避けられなくさせる ／ oblige=義務として〜させる ／ impose=上から押しつける",
+      "words": [
+        "force",
+        "compel",
+        "oblige",
+        "impose",
+        "urge"
+      ]
+    },
+    {
+      "title": "使い分け:許す・可能にする",
+      "note": "allow=止めずにさせておく ／ permit=(公式に)許可する ／ let=望みどおりにさせる(let A do) ／ enable=できるようにする ／ entitle=権利・資格を与える",
+      "words": [
+        "allow",
+        "permit",
+        "let",
+        "enable",
+        "entitle"
+      ]
+    },
+    {
+      "title": "使い分け:許す・大目に見る",
+      "note": "forgive=罪を許して恨みを捨てる ／ excuse=小さな失礼を大目に見る ／ tolerate=嫌でもがまんして認める",
+      "words": [
+        "forgive",
+        "excuse",
+        "tolerate"
+      ]
+    },
+    {
+      "title": "使い分け:耐える",
+      "note": "bear=重みを背負って耐える ／ endure=長く苦しみに耐え抜く ／ tolerate=嫌なものをがまんする ／ stand=(否定文で)がまんできない ／ withstand=押してくる力に負けない ／ cope=何とかうまく対処する",
+      "words": [
+        "bear",
+        "endure",
+        "tolerate",
+        "stand",
+        "withstand",
+        "cope"
+      ]
+    },
+    {
+      "title": "使い分け:禁止する",
+      "note": "forbid=(個人が)してはいけないと言う ／ prohibit=(法・規則で)禁じる ／ ban=(公に)全面禁止する ／ bar=横木でさえぎって締め出す",
+      "words": [
+        "forbid",
+        "prohibit",
+        "ban",
+        "bar"
+      ]
+    },
+    {
+      "title": "使い分け:妨げる・防ぐ",
+      "note": "prevent=前に立ちはだかって起こらせない ／ hinder=じゃまして遅らせる ／ inhibit=内側から抑えて妨げる ／ deter=恐れさせて思いとどまらせる ／ discourage=やる気をくじく ／ restrain=手綱を引いて抑える",
+      "words": [
+        "prevent",
+        "hinder",
+        "inhibit",
+        "deter",
+        "discourage",
+        "restrain",
+        "keep"
+      ]
+    },
+    {
+      "title": "使い分け:制限する・閉じ込める",
+      "note": "limit=上限を決める ／ restrict=範囲を狭く縛る ／ confine=境界の中に閉じ込める ／ constrain=外から締めつけて制限する ／ suppress=押さえつける",
+      "words": [
+        "limit",
+        "restrict",
+        "confine",
+        "constrain",
+        "suppress",
+        "restrain"
+      ]
+    },
+    {
+      "title": "使い分け:責める",
+      "note": "blame=責任を負わせる(blame A for B) ／ accuse=罪を言い立てる(accuse A of B) ／ criticize=欠点を批判する ／ condemn=厳しく非難・有罪とする ／ scold=(子どもを)しかる ／ charge=罪に問う・告発する",
+      "words": [
+        "blame",
+        "accuse",
+        "criticize",
+        "condemn",
+        "scold",
+        "charge"
+      ]
+    },
+    {
+      "title": "使い分け:ほめる・尊敬する",
+      "note": "praise=言葉でほめる ／ admire=心から感心する ／ compliment=面と向かってほめる ／ flatter=おだてる ／ respect=価値を認めて敬う ／ esteem=高く評価する ／ appreciate=よさがわかる",
+      "words": [
+        "praise",
+        "admire",
+        "compliment",
+        "flatter",
+        "respect",
+        "esteem",
+        "appreciate"
+      ]
+    },
+    {
+      "title": "使い分け:心配・不安",
+      "note": "worry=同じことにくり返しくよくよ ／ concern=関わることを気にかける ／ anxious=先のことが不安(・切望する) ／ afraid=怖がっている",
+      "words": [
+        "worry",
+        "concern",
+        "anxious",
+        "afraid"
+      ]
+    },
+    {
+      "title": "使い分け:心を乱す・怒らせる",
+      "note": "bother=小さく面倒をかける ／ disturb=静けさ・秩序を乱す ／ upset=ひっくり返して動揺させる ／ offend=気分を害する ／ provoke=わざと怒りをかき立てる ／ trouble=悩ませる",
+      "words": [
+        "bother",
+        "disturb",
+        "upset",
+        "offend",
+        "provoke",
+        "trouble",
+        "embarrass"
+      ]
+    },
+    {
+      "title": "使い分け:満足させる",
+      "note": "satisfy=望みを満たす ／ content=(それで)満足している ／ fulfill=約束・条件を最後まで満たす ／ entertain=楽しませる",
+      "words": [
+        "satisfy",
+        "content",
+        "fulfill",
+        "entertain"
+      ]
+    },
+    {
+      "title": "使い分け:望む",
+      "note": "want=欠けていてほしい ／ wish=かなわないことを思う ／ hope=実現しそうなことを望む ／ long for=遠くのものを長く望む ／ eager=〜したくてたまらない ／ keen=熱心で〜したがる ／ willing=頼まれれば〜する",
+      "words": [
+        "want",
+        "wish",
+        "hope",
+        "long",
+        "eager",
+        "keen",
+        "willing",
+        "anxious"
+      ]
+    },
+    {
+      "title": "使い分け:〜しがち",
+      "note": "tend to=自然とそちらへ傾く ／ apt to=そうなりやすい性質 ／ prone to=(悪いことに)なりやすい ／ liable to=(悪いことが)起こりがち ／ likely to=〜しそう",
+      "words": [
+        "tend",
+        "apt",
+        "prone",
+        "liable",
+        "likely",
+        "incline"
+      ]
+    },
+    {
+      "title": "使い分け:試みる・努力する",
+      "note": "try=やってみる ／ attempt=(成功するかわからず)試みる ／ strive=懸命に努める ／ endeavor=(堅)まじめに努める ／ venture=危険を冒して思い切ってする",
+      "words": [
+        "try",
+        "attempt",
+        "strive",
+        "endeavor",
+        "effort",
+        "venture"
+      ]
+    },
+    {
+      "title": "使い分け:始める・乗り出す",
+      "note": "launch=勢いよく送り出す ／ embark on=船に乗り込むように乗り出す ／ undertake=引き受けてとりかかる ／ initial=最初の",
+      "words": [
+        "launch",
+        "embark",
+        "undertake",
+        "initial",
+        "engage"
+      ]
+    },
+    {
+      "title": "使い分け:続く・続ける",
+      "note": "persist=しつこく続ける・続く ／ last=(期間)もつ ／ proceed=前へ進めていく ／ resume=中断したあと再開する ／ sustain=下から支えて続けさせる ／ remain=残る・〜のままでいる",
+      "words": [
+        "persist",
+        "last",
+        "proceed",
+        "resume",
+        "sustain",
+        "remain",
+        "maintain"
+      ]
+    },
+    {
+      "title": "使い分け:やめる・終える",
+      "note": "stop=動きを止める ／ cease=(堅)ある状態が終わる ／ quit=すっぱりやめる ／ end=終わりにする ／ conclude=締めくくる ／ abolish=制度をなくす",
+      "words": [
+        "stop",
+        "cease",
+        "quit",
+        "end",
+        "conclude",
+        "abolish"
+      ]
+    },
+    {
+      "title": "使い分け:手放す・捨てる",
+      "note": "abandon=見捨てて置き去りにする ／ discard=要らないものを捨てる ／ surrender=降参して明け渡す ／ yield=(押されて)譲る ／ sacrifice=大事なものを犠牲にする",
+      "words": [
+        "abandon",
+        "discard",
+        "surrender",
+        "yield",
+        "sacrifice",
+        "shed"
+      ]
+    },
+    {
+      "title": "使い分け:辞める・引く",
+      "note": "resign=(地位を)自分から辞める ／ retire=(年齢で)引退する ／ quit=やめる ／ withdraw=引っ込める・撤退する ／ retreat=後ろへ退く",
+      "words": [
+        "resign",
+        "retire",
+        "quit",
+        "withdraw",
+        "retreat"
+      ]
+    },
+    {
+      "title": "使い分け:決める",
+      "note": "decide=いくつかから選んで決める ／ determine=はっきり決める・決定づける ／ resolve=固く決心する・解決する ／ settle=落ち着かせて決着させる ／ fix=(日時を)固定する ／ conclude=結論を出す",
+      "words": [
+        "decide",
+        "determine",
+        "resolve",
+        "settle",
+        "fix",
+        "conclude"
+      ]
+    },
+    {
+      "title": "使い分け:選ぶ・好む",
+      "note": "pick=指でつまむように選ぶ ／ prefer=ほかより〜を好む ／ adopt=取り入れて自分のものにする ／ favor=ひいきする",
+      "words": [
+        "pick",
+        "prefer",
+        "adopt",
+        "favor",
+        "fond"
+      ]
+    },
+    {
+      "title": "使い分け:得る・手に入れる",
+      "note": "get=手に入れる(最も広い) ／ gain=少しずつ増やして得る ／ obtain=努力して手に入れる ／ acquire=身につける・獲得する ／ earn=働いて稼ぐ・値して得る ／ win=勝ち取る",
+      "words": [
+        "get",
+        "gain",
+        "obtain",
+        "acquire",
+        "earn",
+        "win",
+        "receive"
+      ]
+    },
+    {
+      "title": "使い分け:成しとげる",
+      "note": "achieve=努力して到達する ／ accomplish=最後までやりとげる ／ attain=長い努力でたどり着く ／ fulfill=期待・約束を満たす ／ succeed=うまくいく",
+      "words": [
+        "achieve",
+        "accomplish",
+        "attain",
+        "fulfill",
+        "succeed",
+        "reach"
+      ]
+    },
+    {
+      "title": "使い分け:受け入れる・認める",
+      "note": "accept=差し出されたものを受け入れる ／ admit=(しぶしぶ)事実を認める ／ acknowledge=はっきり認めて表に出す ／ concede=負けを認めて譲る ／ confess=罪・秘密を打ち明ける ／ approve=よいと認める・承認する",
+      "words": [
+        "accept",
+        "admit",
+        "acknowledge",
+        "concede",
+        "confess",
+        "approve",
+        "grant",
+        "recognize"
+      ]
+    },
+    {
+      "title": "使い分け:同意する",
+      "note": "agree=意見が合う ／ consent=許可・同意を与える ／ approve=賛成・承認する ／ endorse=裏書きして支持する ／ accord=ぴたりと一致する",
+      "words": [
+        "agree",
+        "consent",
+        "approve",
+        "endorse",
+        "accord"
+      ]
+    },
+    {
+      "title": "使い分け:断る・否定する",
+      "note": "refuse=(頼まれたことを)きっぱり断る ／ reject=(案・人を)突き返す ／ decline=丁寧に断る ／ deny=本当ではないと否定する ／ dismiss=取り合わず退ける",
+      "words": [
+        "refuse",
+        "reject",
+        "decline",
+        "deny",
+        "dismiss"
+      ]
+    },
+    {
+      "title": "使い分け:反対する・争う",
+      "note": "oppose=向かい合って反対する ／ object=異議を唱える(object to) ／ dispute=言い争う・異を唱える ／ contradict=言うことが食い違う ／ compete=競い合う ／ contend=争う ／ clash=ぶつかり合う ／ conflict=対立する",
+      "words": [
+        "oppose",
+        "object",
+        "dispute",
+        "contradict",
+        "contrary",
+        "compete",
+        "contend",
+        "clash",
+        "conflict",
+        "complain"
+      ]
+    },
+    {
+      "title": "使い分け:与える",
+      "note": "give=与える(最も広い) ／ provide=前もって用意して与える ／ supply=不足を補って供給する ／ offer=差し出す(受けるかは相手次第) ／ grant=(願いを)認めて与える ／ furnish=家具・情報を備えつける ／ equip=装備させる ／ endow=才能・資金を授ける ／ confer=(称号を)授ける",
+      "words": [
+        "give",
+        "provide",
+        "supply",
+        "offer",
+        "grant",
+        "furnish",
+        "equip",
+        "endow",
+        "confer"
+      ]
+    },
+    {
+      "title": "使い分け:分ける・配る",
+      "note": "distribute=広く配る ／ allocate=割り当てる ／ assign=(仕事・役を)割り振る ／ share=分け合う ／ split=二つに割る ／ dispense=分配する",
+      "words": [
+        "distribute",
+        "allocate",
+        "assign",
+        "share",
+        "split",
+        "dispense"
+      ]
+    },
+    {
+      "title": "使い分け:預ける・任せる",
+      "note": "entrust=信じて任せる ／ confide=秘密を打ち明ける・信頼する ／ trust=信頼する ／ deposit=置いて預ける ／ invest=(お金・時間を)注ぎ込む ／ commit=ゆだねる・約束する",
+      "words": [
+        "entrust",
+        "confide",
+        "trust",
+        "deposit",
+        "invest",
+        "commit"
+      ]
+    },
+    {
+      "title": "使い分け:捧げる",
+      "note": "devote=時間・力を(一つに)注ぐ ／ dedicate=神聖なものとして捧げる ／ commit=全身で関わる ／ sacrifice=犠牲にする ／ contribute=力・お金を出し合う",
+      "words": [
+        "devote",
+        "dedicate",
+        "commit",
+        "sacrifice",
+        "contribute"
+      ]
+    },
+    {
+      "title": "使い分け:頼る",
+      "note": "depend on=ぶら下がるように頼る ／ rely on=信頼して頼る ／ count on=当てにする ／ resort to=(最後の手段に)訴える ／ turn to=助けを求めて頼る",
+      "words": [
+        "depend",
+        "rely",
+        "count",
+        "resort",
+        "turn",
+        "trust"
+      ]
+    },
+    {
+      "title": "使い分け:助ける・役立つ",
+      "note": "help=助ける(最も広い) ／ assist=補助としてそばで手伝う ／ support=下から支える ／ serve=仕えて役に立つ ／ benefit=利益になる ／ contribute=寄与する",
+      "words": [
+        "help",
+        "assist",
+        "support",
+        "serve",
+        "benefit",
+        "contribute"
+      ]
+    },
+    {
+      "title": "使い分け:集める・ためる",
+      "note": "gather=散らばったものを集める ／ assemble=部品・人を組み立てる・集める ／ accumulate=少しずつたまる ／ store=取っておく ／ stock=在庫として蓄える",
+      "words": [
+        "gather",
+        "assemble",
+        "accumulate",
+        "store",
+        "stock"
+      ]
+    },
+    {
+      "title": "使い分け:運ぶ・伝える",
+      "note": "carry=持って運ぶ ／ bring=こちらへ持ってくる ／ take=向こうへ持っていく ／ convey=(意味・物を)運んで伝える ／ transmit=(電波・病気を)送り伝える ／ transfer=別の場所へ移す ／ deliver=送り届ける",
+      "words": [
+        "carry",
+        "bring",
+        "take",
+        "convey",
+        "transmit",
+        "transfer",
+        "deliver"
+      ]
+    },
+    {
+      "title": "使い分け:置く・上げる",
+      "note": "lie=横たわる(自) ／ lay=横たえる(他) ／ rise=上がる(自) ／ raise=上げる(他) ／ arise=(問題が)生じる ／ lift=持ち上げる ／ set・put=置く",
+      "words": [
+        "lie",
+        "lay",
+        "rise",
+        "raise",
+        "arise",
+        "lift",
+        "set",
+        "put"
+      ]
+    },
+    {
+      "title": "使い分け:増える・高める",
+      "note": "increase=数量が増える ／ expand=外へ広がって大きくなる ／ boost=下から押し上げる ／ accumulate=積み重なる ／ enhance=質・価値を高める ／ improve=よくする",
+      "words": [
+        "increase",
+        "expand",
+        "boost",
+        "accumulate",
+        "enhance",
+        "improve",
+        "advance"
+      ]
+    },
+    {
+      "title": "使い分け:減る・弱まる",
+      "note": "decrease=数量が減る ／ reduce=(意図して)減らす ／ decline=下向きに傾いて衰える ／ diminish=小さくなる ／ shrink=縮む ／ fade=色・音が薄れて消える ／ decay=朽ちて崩れる",
+      "words": [
+        "decrease",
+        "reduce",
+        "decline",
+        "diminish",
+        "shrink",
+        "fade",
+        "decay"
+      ]
+    },
+    {
+      "title": "使い分け:消える・滅びる",
+      "note": "vanish=急に見えなくなる ／ fade=しだいに薄れる ／ perish=(急に)死ぬ・滅びる ／ collapse=崩れ落ちる",
+      "words": [
+        "vanish",
+        "fade",
+        "perish",
+        "collapse"
+      ]
+    },
+    {
+      "title": "使い分け:広げる・伸ばす",
+      "note": "expand=中からふくらむ ／ extend=先へ伸ばす(期間・範囲) ／ spread=一面に広げる ／ stretch=引っぱって伸ばす ／ scatter=ばらまく ／ span=端から端まで渡る",
+      "words": [
+        "expand",
+        "extend",
+        "spread",
+        "stretch",
+        "scatter",
+        "span"
+      ]
+    },
+    {
+      "title": "使い分け:変える",
+      "note": "change=変える(最も広い) ／ alter=部分的に作り変える ／ modify=少し手直しする ／ transform=形・性質をがらりと変える ／ convert=別の用途・形へ変換する ／ shift=位置・方向をずらす ／ adjust=微調整する",
+      "words": [
+        "change",
+        "alter",
+        "modify",
         "transform",
-        "perform",
-        "inform",
-        "figure",
-        "feature",
+        "convert",
+        "shift",
+        "adjust",
+        "vary"
+      ]
+    },
+    {
+      "title": "使い分け:合わせる・慣れる",
+      "note": "adapt=環境に合わせて変わる ／ adjust=ずれを直して合わせる ／ accommodate=受け入れて合わせる ／ accustom=くり返して慣らす ／ conform=型に合わせる",
+      "words": [
+        "adapt",
+        "adjust",
+        "accommodate",
+        "accustom",
+        "conform"
+      ]
+    },
+    {
+      "title": "使い分け:直す・改める",
+      "note": "revise=見直して手を入れる ／ reform=制度の形を作り直す ／ refine=磨いて洗練する ／ improve=よりよくする ／ remedy=悪い点を治す ／ cure=病気を治す",
+      "words": [
+        "revise",
         "reform",
-        "form"
+        "refine",
+        "improve",
+        "remedy",
+        "cure"
+      ]
+    },
+    {
+      "title": "使い分け:取り戻す・元に戻す",
+      "note": "recover=失ったものを取り戻す・回復する ／ restore=元の状態に戻す ／ renew=新しくし直す・更新する ／ retrieve=取って戻ってくる ／ recall=呼び戻す・思い出す",
+      "words": [
+        "recover",
+        "restore",
+        "renew",
+        "retrieve",
+        "recall"
+      ]
+    },
+    {
+      "title": "使い分け:思い出す・忘れる",
+      "note": "remember=覚えている・思い出す ／ recall=意識して呼び起こす ／ remind=(人に)思い出させる ／ forget=忘れる",
+      "words": [
+        "remember",
+        "recall",
+        "remind",
+        "forget"
+      ]
+    },
+    {
+      "title": "使い分け:想像する・ふりをする",
+      "note": "imagine=心に思い描く ／ conceive=頭の中に宿す・考え出す ／ fancy=空想する ／ pretend=〜のふりをする ／ affect=(気取って)装う ／ pose=ポーズをとる・ふりをする",
+      "words": [
+        "imagine",
+        "conceive",
+        "fancy",
+        "pretend",
+        "affect",
+        "pose"
+      ]
+    },
+    {
+      "title": "使い分け:作り出す",
+      "note": "produce=前へ出して生み出す ／ generate=(電気・感情を)次々生む ／ invent=新しい物を発明する ／ devise=工夫して考え出す ／ found=土台を置いて創設する ／ establish=しっかり立てて設立する ／ form=形づくる",
+      "words": [
+        "produce",
+        "generate",
+        "invent",
+        "devise",
+        "found",
+        "establish",
+        "form",
+        "compose"
+      ]
+    },
+    {
+      "title": "使い分け:成長する・栄える",
+      "note": "grow=育つ ／ develop=包みを開くように発達する ／ evolve=少しずつ進化する ／ mature=成熟する ／ flourish=花開くように栄える ／ thrive=元気に伸びる",
+      "words": [
+        "grow",
+        "develop",
+        "evolve",
+        "mature",
+        "flourish",
+        "thrive",
+        "advance"
+      ]
+    },
+    {
+      "title": "使い分け:育てる",
+      "note": "raise=(子を)育てる ／ rear=(堅)養い育てる ／ breed=(動物を)繁殖させる ／ foster=(里親として)育成・促進する ／ nurture=栄養を与えて大切に育む ／ cultivate=耕して育てる・養う ／ train=訓練する",
+      "words": [
+        "raise",
+        "rear",
+        "breed",
+        "foster",
+        "nurture",
+        "cultivate",
+        "train"
+      ]
+    },
+    {
+      "title": "使い分け:起こる・現れる",
+      "note": "happen=(偶然)起こる ／ occur=(事が)起こる・頭に浮かぶ ／ arise=(問題が)生じる ／ emerge=中から外へ現れ出る ／ appear=姿を見せる",
+      "words": [
+        "happen",
+        "occur",
+        "arise",
+        "emerge",
+        "appear",
+        "come"
+      ]
+    },
+    {
+      "title": "使い分け:引き起こす",
+      "note": "cause=原因となる ／ bring about=もたらす ／ trigger=引き金を引く ／ provoke=(反応・怒りを)誘う ／ induce=誘発する ／ evoke=(記憶・感情を)呼び起こす ／ arouse=(感情を)目覚めさせる ／ generate=生み出す",
+      "words": [
+        "cause",
+        "bring",
+        "trigger",
+        "provoke",
+        "induce",
+        "evoke",
+        "arouse",
+        "generate"
+      ]
+    },
+    {
+      "title": "使い分け:影響する",
+      "note": "affect=直接はたらきかけて変える(動詞) ／ effect=結果・効果(名詞) ／ influence=間接的に流れ込んで影響 ／ impress=心に強く押しつける ／ sway=(心を)ゆり動かす",
+      "words": [
+        "affect",
+        "effect",
+        "influence",
+        "impress",
+        "sway"
+      ]
+    },
+    {
+      "title": "使い分け:含む・ふくめる",
+      "note": "include=全体の一部として含む ／ contain=中に入れている ／ involve=巻き込む・必然的に含む ／ entail=必然的に伴う ／ embrace=抱きかかえて含む",
+      "words": [
+        "include",
+        "contain",
+        "involve",
+        "entail",
+        "embrace"
+      ]
+    },
+    {
+      "title": "使い分け:成り立つ",
+      "note": "consist of=〜から成る ／ comprise=(全体が)〜から成る ／ compose=(部分が)組み立てる・be composed of ／ constitute=(部分が)構成する",
+      "words": [
+        "consist",
+        "comprise",
+        "compose",
+        "constitute"
+      ]
+    },
+    {
+      "title": "使い分け:取り除く",
+      "note": "remove=取り去る ／ eliminate=締め出して完全になくす ／ rid A of B=AからBを取り除く ／ strip=はぎ取る ／ exclude=外に締め出す ／ omit=(うっかり・意図的に)抜かす ／ extract=引き抜く",
+      "words": [
+        "remove",
+        "eliminate",
+        "rid",
+        "strip",
+        "exclude",
+        "omit",
+        "extract"
+      ]
+    },
+    {
+      "title": "使い分け:奪う・盗む",
+      "note": "steal=物をこっそり盗む(steal A from B) ／ rob=人・場所から奪う(rob B of A) ／ deprive=人から奪って欠けさせる(deprive B of A) ／ strip=はぎ取る",
+      "words": [
+        "steal",
+        "rob",
+        "deprive",
+        "strip"
+      ]
+    },
+    {
+      "title": "使い分け:だます",
+      "note": "deceive=うそで信じこませる ／ cheat=ずるをする ／ mislead=誤った方へ導く",
+      "words": [
+        "deceive",
+        "cheat",
+        "mislead"
+      ]
+    },
+    {
+      "title": "使い分け:遅らせる・延ばす",
+      "note": "delay=予定より遅らせる ／ postpone=後の日に延期する ／ suspend=一時停止する(つるしておく) ／ prolong=長引かせる ／ linger=ぐずぐず残る ／ hesitate=ためらう",
+      "words": [
+        "delay",
+        "postpone",
+        "suspend",
+        "prolong",
+        "linger",
+        "hesitate",
+        "await"
+      ]
+    },
+    {
+      "title": "使い分け:住む",
+      "note": "live=住む(最も広い) ／ inhabit=(他動詞)地域に住む ／ reside=(堅)居住する ／ dwell=(文)住む・くよくよ考える ／ occupy=場所を占める ／ lodge=泊まる・下宿する ／ settle=定住する",
+      "words": [
+        "inhabit",
+        "reside",
+        "dwell",
+        "occupy",
+        "lodge",
+        "settle"
+      ]
+    },
+    {
+      "title": "使い分け:立ち向かう・対処する",
+      "note": "face=顔を向けて直面する ／ confront=正面から立ち向かう ／ encounter=思いがけず出くわす ／ tackle=組み付いて取り組む ／ cope=うまく切り抜ける ／ deal with=処理する ／ handle=手で扱うように処理する",
+      "words": [
+        "face",
+        "confront",
+        "encounter",
+        "tackle",
+        "cope",
+        "deal",
+        "handle",
+        "manage"
+      ]
+    },
+    {
+      "title": "使い分け:経験する・こうむる",
+      "note": "experience=身をもって経験する ／ undergo=(手術・変化を)受ける ／ suffer=(苦痛・損害を)受ける ／ incur=(損失・怒りを)招く ／ sustain=(損害を)受ける",
+      "words": [
+        "experience",
+        "undergo",
+        "suffer",
+        "incur",
+        "sustain"
+      ]
+    },
+    {
+      "title": "使い分け:傷つける・損なう",
+      "note": "hurt=痛める(体・心) ／ injure=事故でけがさせる ／ harm=害を与える ／ damage=物に損害を与える ／ impair=はたらきを弱める ／ spoil=台無しにする ／ ruin=めちゃくちゃにする ／ undermine=下から掘ってじわじわ弱める",
+      "words": [
+        "hurt",
+        "injure",
+        "harm",
+        "damage",
+        "impair",
+        "spoil",
+        "ruin",
+        "undermine"
+      ]
+    },
+    {
+      "title": "使い分け:守る",
+      "note": "protect=おおって害から守る ／ defend=攻撃をはね返して守る ／ preserve=元のまま保存する ／ conserve=むだにせず大切に保つ ／ secure=安全を確保する",
+      "words": [
+        "protect",
+        "defend",
+        "preserve",
+        "conserve",
+        "secure"
+      ]
+    },
+    {
+      "title": "使い分け:保つ",
+      "note": "keep=持ち続ける ／ maintain=手を入れて保つ ／ retain=手放さず保持する ／ preserve=元のまま残す ／ sustain=支えて持続させる ／ hold=持つ",
+      "words": [
+        "keep",
+        "maintain",
+        "retain",
+        "preserve",
+        "sustain",
+        "hold"
+      ]
+    },
+    {
+      "title": "使い分け:捕まえる・つかむ",
+      "note": "catch=動くものをとらえる ／ capture=逃げるものを捕らえる ／ seize=急にぐいとつかむ ／ grasp=しっかりにぎる・理解する ／ grip=強くにぎりしめる ／ arrest=逮捕する",
+      "words": [
+        "catch",
+        "capture",
+        "seize",
+        "grasp",
+        "grip",
+        "arrest"
+      ]
+    },
+    {
+      "title": "使い分け:避ける・逃れる",
+      "note": "avoid=近づかないようにする ／ escape=束縛から逃れる ／ flee=危険から逃げる ／ steer clear of=かじを切って避ける ／ spare=(手間・害を)免れさせる",
+      "words": [
+        "avoid",
+        "escape",
+        "flee",
+        "steer",
+        "spare"
+      ]
+    },
+    {
+      "title": "使い分け:占める・持つ",
+      "note": "occupy=場所を占める ／ dominate=上から支配する ／ possess=所有する ／ own=自分のものとして持つ",
+      "words": [
+        "occupy",
+        "dominate",
+        "possess",
+        "own"
+      ]
+    },
+    {
+      "title": "使い分け:雇う・辞めさせる",
+      "note": "employ=雇う(正式) ／ hire=(短期でも)雇う・お金を払って借りる ／ engage=契約して雇う ／ recruit=新しく募集する ／ fire=くびにする ／ dismiss=解雇する",
+      "words": [
+        "employ",
+        "hire",
+        "engage",
+        "recruit",
+        "fire",
+        "dismiss"
+      ]
+    },
+    {
+      "title": "使い分け:借りる・貸す",
+      "note": "borrow=無料で借りる ／ lend=無料で貸す ／ rent=お金を払って借りる・貸す ／ hire=(短期で)お金を払って借りる ／ owe=借りがある",
+      "words": [
+        "borrow",
+        "lend",
+        "rent",
+        "hire",
+        "owe"
+      ]
+    },
+    {
+      "title": "使い分け:費用・料金",
+      "note": "price=物の値段 ／ cost=かかる費用 ／ fee=専門職・入場の料金 ／ fare=乗り物の運賃 ／ charge=サービスの料金 ／ expense=出費・経費 ／ toll=通行料 ／ rent=家賃 ／ bill=請求書",
+      "words": [
+        "price",
+        "cost",
+        "fee",
+        "fare",
+        "charge",
+        "expense",
+        "toll",
+        "rent",
+        "bill"
+      ]
+    },
+    {
+      "title": "使い分け:払う・費やす",
+      "note": "pay=代金を払う ／ spend=(お金・時間を)使う ／ afford=〜する余裕がある ／ owe=払う義務がある ／ consume=消費する ／ exhaust=使い果たす",
+      "words": [
+        "pay",
+        "spend",
+        "afford",
+        "owe",
+        "consume",
+        "exhaust",
+        "cost"
+      ]
+    },
+    {
+      "title": "使い分け:価値・長所",
+      "note": "value=値打ち ／ worth=〜の価値がある(前置詞的) ／ merit=ほめるべき長所 ／ virtue=道徳的な美徳・長所 ／ advantage=有利な点 ／ benefit=恩恵",
+      "words": [
+        "value",
+        "worth",
+        "merit",
+        "virtue",
+        "advantage",
+        "benefit",
+        "interest"
+      ]
+    },
+    {
+      "title": "使い分け:習慣・慣例",
+      "note": "habit=個人の無意識のくせ ／ custom=社会の習慣 ／ convention=社会のしきたり・大会 ／ practice=実際の慣行 ／ manner=(人の)作法 ／ fashion=流行",
+      "words": [
+        "habit",
+        "custom",
+        "convention",
+        "practice",
+        "manner",
+        "fashion"
+      ]
+    },
+    {
+      "title": "使い分け:方法・やり方",
+      "note": "way=やり方(最も広い) ／ means=手段 ／ manner=様子・仕方 ／ fashion=〜な仕方(in a 〜 fashion) ／ approach=取り組み方",
+      "words": [
+        "way",
+        "means",
+        "manner",
+        "fashion",
+        "approach"
+      ]
+    },
+    {
+      "title": "使い分け:目的・意図",
+      "note": "purpose=何のためかという目的 ／ aim=ねらい ／ objective=達成目標 ／ end=最終目的 ／ object=目的・対象 ／ point=要点・意味",
+      "words": [
+        "purpose",
+        "aim",
+        "objective",
+        "end",
+        "object",
+        "point",
+        "intend"
+      ]
+    },
+    {
+      "title": "使い分け:原因・理由",
+      "note": "cause=直接の原因 ／ reason=理由・筋道 ／ ground(s)=根拠 ／ account=理由の説明(on account of) ／ sake=〜のため(for the sake of)",
+      "words": [
+        "cause",
+        "reason",
+        "ground",
+        "account",
+        "sake"
+      ]
+    },
+    {
+      "title": "使い分け:結果",
+      "note": "result=結果(最も広い) ／ consequence=(良くない)なりゆき ／ effect=結果としての影響・効果 ／ end=結末",
+      "words": [
+        "result",
+        "consequence",
+        "effect",
+        "end"
+      ]
+    },
+    {
+      "title": "使い分け:状況・場合",
+      "note": "circumstance=周りを取り囲む事情 ／ condition=状態・条件 ／ case=実際の場合・事例 ／ state=ありさま ／ occasion=特定の機会・場合",
+      "words": [
+        "circumstance",
+        "condition",
+        "case",
+        "state",
+        "occasion",
+        "instance"
+      ]
+    },
+    {
+      "title": "使い分け:機会・見込み",
+      "note": "chance=偶然の機会・可能性 ／ occasion=特定のとき ／ prospect=見通し・見込み ／ odds=勝ち目・確率",
+      "words": [
+        "chance",
+        "occasion",
+        "prospect",
+        "odds",
+        "likely",
+        "possible"
+      ]
+    },
+    {
+      "title": "使い分け:範囲・程度",
+      "note": "range=幅・範囲 ／ scope=見渡せる範囲 ／ extent=広がりの度合い ／ span=端から端までの長さ ／ field=分野 ／ margin=余白・差 ／ degree=程度 ／ scale=規模",
+      "words": [
+        "range",
+        "scope",
+        "extent",
+        "span",
+        "field",
+        "margin",
+        "degree",
+        "scale"
+      ]
+    },
+    {
+      "title": "使い分け:権力・影響力",
+      "note": "authority=決める権限 ／ influence=影響力 ／ sway=支配力 ／ dominate=支配する ／ command=命令・指揮 ／ rule=支配・規則",
+      "words": [
+        "authority",
+        "influence",
+        "sway",
+        "dominate",
+        "command",
+        "rule"
+      ]
+    },
+    {
+      "title": "使い分け:規則・基準",
+      "note": "rule=規則 ／ principle=根本の原理・主義 ／ standard=基準 ／ convention=しきたり ／ regulate=規制する",
+      "words": [
+        "rule",
+        "principle",
+        "standard",
+        "convention",
+        "regulate"
+      ]
+    },
+    {
+      "title": "使い分け:罰と報い",
+      "note": "punish=罰する ／ discipline=しつけ・規律 ／ sentence=判決を下す ／ fine=罰金を科す ／ reward=報いる",
+      "words": [
+        "punish",
+        "discipline",
+        "sentence",
+        "fine",
+        "reward"
+      ]
+    },
+    {
+      "title": "使い分け:意見・見方",
+      "note": "view=見方・意見 ／ perspective=視点 ／ attitude=態度・考え方 ／ sense=感覚・意味",
+      "words": [
+        "view",
+        "perspective",
+        "attitude",
+        "sense",
+        "regard"
+      ]
+    },
+    {
+      "title": "使い分け:明らかな",
+      "note": "obvious=誰にでもすぐわかる ／ apparent=見たところ明らか(・見かけ上の) ／ evident=証拠があって明らか ／ clear=はっきりした ／ plain=飾りなく明白 ／ explicit=はっきり言葉にされた ／ manifest=表に出て明白 ／ distinct=はっきり区別できる",
+      "words": [
+        "obvious",
+        "apparent",
+        "evident",
+        "clear",
+        "plain",
+        "explicit",
+        "manifest",
+        "distinct"
+      ]
+    },
+    {
+      "title": "使い分け:はっきりしない",
+      "note": "vague=ぼんやりあいまい ／ ambiguous=2通り以上に取れる ／ obscure=暗くてわかりにくい・無名の ／ implicit=表に出さず暗に含まれた ／ abstract=抽象的な",
+      "words": [
+        "vague",
+        "ambiguous",
+        "obscure",
+        "implicit",
+        "abstract"
+      ]
+    },
+    {
+      "title": "使い分け:重要な・主な",
+      "note": "vital=命に関わるほど必要 ／ essential=本質的に欠かせない ／ critical=決定的な ／ major=大きいほうの・主要な ／ principal=第一の ／ prime=最も重要な・最上の",
+      "words": [
+        "vital",
+        "essential",
+        "critical",
+        "major",
+        "principal",
+        "prime",
+        "necessary"
+      ]
+    },
+    {
+      "title": "使い分け:かなりの・ただの",
+      "note": "considerable=考慮すべきほど大きい ／ substantial=中身があってかなりの ／ mere=ただの〜にすぎない ／ sheer=まったくの ／ bare=ぎりぎりの",
+      "words": [
+        "considerable",
+        "substantial",
+        "mere",
+        "sheer",
+        "bare"
+      ]
+    },
+    {
+      "title": "使い分け:十分・不足",
+      "note": "sufficient=必要を満たすのに足りる ／ adequate=要求にちょうど見合う ／ scarce=乏しい・少ない ／ lack=欠けている ／ short=足りない ／ abound=たくさんある",
+      "words": [
+        "sufficient",
+        "adequate",
+        "scarce",
+        "lack",
+        "short",
+        "abound"
+      ]
+    },
+    {
+      "title": "使い分け:奇妙な・珍しい",
+      "note": "odd=ふつうと違って変な ／ peculiar=独特で変わった・特有の ／ curious=好奇心をそそる・好奇心が強い ／ novel=目新しい",
+      "words": [
+        "odd",
+        "peculiar",
+        "curious",
+        "novel"
+      ]
+    },
+    {
+      "title": "使い分け:変わらない・安定した",
+      "note": "constant=いつも同じ・絶え間ない ／ steady=ゆるがず一定の ／ stable=倒れずに安定した ／ consistent=首尾一貫した ／ firm=固くしっかりした ／ solid=中身が詰まった",
+      "words": [
+        "constant",
+        "steady",
+        "stable",
+        "consistent",
+        "firm",
+        "solid"
+      ]
+    },
+    {
+      "title": "使い分け:厳しい",
+      "note": "strict=規則に厳格な ／ severe=(被害・罰が)ひどく厳しい ／ tough=手ごわい・頑丈な ／ rough=粗い・荒い ／ steep=急な・(値段が)法外な",
+      "words": [
+        "strict",
+        "severe",
+        "tough",
+        "rough",
+        "steep"
+      ]
+    },
+    {
+      "title": "使い分け:誇り・謙虚",
+      "note": "proud=誇りに思う ／ boast=自慢する ／ vain=うぬぼれた・むだな ／ modest=控えめな ／ humble=へりくだった・質素な ／ ashamed=恥じている",
+      "words": [
+        "proud",
+        "boast",
+        "vain",
+        "modest",
+        "humble",
+        "ashamed"
+      ]
+    },
+    {
+      "title": "使い分け:今の・同時代の",
+      "note": "current=今流れている・現在の ／ contemporary=同時代の・現代の ／ present=現在の・出席している ／ immediate=すぐの・直接の",
+      "words": [
+        "current",
+        "contemporary",
+        "present",
+        "immediate"
+      ]
+    },
+    {
+      "title": "使い分け:ぶらつく・漂う",
+      "note": "wander=あてもなく歩き回る ／ drift=流れに任せて漂う ／ linger=名残惜しくぐずぐず残る",
+      "words": [
+        "wander",
+        "drift",
+        "linger"
+      ]
+    },
+    {
+      "title": "使い分け:曲げる・巻く",
+      "note": "bend=力を加えて曲げる ／ turn=向きを変える ／ wind=くるくる巻く ／ fold=たたむ",
+      "words": [
+        "bend",
+        "turn",
+        "wind",
+        "fold"
+      ]
+    },
+    {
+      "title": "使い分け:引く・引き出す",
+      "note": "draw=引き寄せる・引き出す ／ drag=重いものを引きずる ／ attract=引きつける ／ extract=引き抜く ／ withdraw=引っ込める",
+      "words": [
+        "draw",
+        "drag",
+        "attract",
+        "extract",
+        "withdraw"
+      ]
+    },
+    {
+      "title": "使い分け:出す・放つ",
+      "note": "emit=(光・熱・ガスを)出す ／ discharge=中身を放出する・解放する ／ release=解き放つ ／ shed=(葉・涙・光を)落とす・発する",
+      "words": [
+        "emit",
+        "discharge",
+        "release",
+        "shed"
+      ]
+    },
+    {
+      "title": "使い分け:割り込む・関わる",
+      "note": "interfere=じゃまをして割り込む ／ intervene=間に入って仲裁・介入する ／ interrupt=話・作業をさえぎる ／ involve=巻き込む",
+      "words": [
+        "interfere",
+        "intervene",
+        "interrupt",
+        "involve",
+        "engage"
+      ]
+    },
+    {
+      "title": "使い分け:結びつける",
+      "note": "combine=2つ以上を合わせる ／ integrate=一体化して統合する ／ associate=結びつけて連想する ／ attach=くっつける ／ bind=縛って結ぶ ／ tie=ひもで結ぶ ／ bond=強いきずな",
+      "words": [
+        "combine",
+        "integrate",
+        "associate",
+        "attach",
+        "bind",
+        "tie",
+        "bond",
+        "relate"
+      ]
+    },
+    {
+      "title": "使い分け:取り替える",
+      "note": "replace=取って代わる・取り替える ／ substitute=代わりに使う(substitute A for B) ／ exchange=交換する ／ represent=代表する",
+      "words": [
+        "replace",
+        "substitute",
+        "exchange",
+        "represent"
+      ]
+    },
+    {
+      "title": "使い分け:参加する",
+      "note": "participate in=活動に加わる ／ attend=出席する(他動詞) ／ engage in=携わる ／ enter=入る・参加する",
+      "words": [
+        "participate",
+        "attend",
+        "engage",
+        "enter"
+      ]
+    },
+    {
+      "title": "使い分け:追い求める",
+      "note": "seek=探し求める ／ pursue=追いかけ続ける ／ trace=跡をたどる ／ track=足跡を追う ／ trail=跡をつける ／ follow=あとについていく",
+      "words": [
+        "seek",
+        "pursue",
+        "trace",
+        "track",
+        "trail",
+        "follow"
+      ]
+    },
+    {
+      "title": "使い分け:期待する・待つ",
+      "note": "expect=当然来ると思う ／ anticipate=先回りして予期する ／ await=待ち受ける ／ hope=望む",
+      "words": [
+        "expect",
+        "anticipate",
+        "await",
+        "hope"
+      ]
+    },
+    {
+      "title": "使い分け:欠点・誤り",
+      "note": "fault=責任のある欠点 ／ mistake=判断の誤り ／ blame=責任",
+      "words": [
+        "fault",
+        "mistake",
+        "blame"
+      ]
+    },
+    {
+      "title": "使い分け:危険にさらされた",
+      "note": "risk=危険・危険を冒す ／ threaten=脅かす ／ vulnerable=傷つきやすい ／ expose=さらす ／ warn=警告する",
+      "words": [
+        "risk",
+        "threaten",
+        "vulnerable",
+        "expose",
+        "warn"
+      ]
+    },
+    {
+      "title": "使い分け:能力",
+      "note": "capable=〜する能力がある ／ capacity=受け入れる容量・能力 ／ faculty=(心身の)能力・学部 ／ potential=潜在的な可能性",
+      "words": [
+        "capable",
+        "capacity",
+        "faculty",
+        "potential"
       ]
     },
     {
@@ -494,164 +1808,6 @@
       ]
     },
     {
-      "title": "考える・判断する",
-      "note": "頭の中の働き",
-      "words": [
-        "assume",
-        "estimate",
-        "judge",
-        "determine",
-        "imply",
-        "indicate",
-        "argue",
-        "reason",
-        "sense",
-        "mean",
-        "focus",
-        "conclude",
-        "evaluate",
-        "distinguish",
-        "explore",
-        "define",
-        "confirm",
-        "interpret",
-        "investigate",
-        "measure",
-        "doubt",
-        "declare",
-        "detect",
-        "justify",
-        "locate",
-        "predict",
-        "prove",
-        "weigh",
-        "trace",
-        "inquire",
-        "assert",
-        "mistake",
-        "assess",
-        "grasp",
-        "devise",
-        "contemplate",
-        "reckon",
-        "ascribe",
-        "presume",
-        "disregard",
-        "clarify",
-        "deem",
-        "digest",
-        "seem",
-        "foresee",
-        "discern",
-        "esteem"
-      ]
-    },
-    {
-      "title": "変える・動かす",
-      "note": "状態や場所が変わる",
-      "words": [
-        "change",
-        "vary",
-        "adapt",
-        "adopt",
-        "exchange",
-        "shift",
-        "transfer",
-        "move",
-        "raise",
-        "survive",
-        "decline",
-        "increase",
-        "decrease",
-        "adjust",
-        "overcome",
-        "expand",
-        "modify",
-        "undergo",
-        "accommodate",
-        "convert",
-        "spoil",
-        "exaggerate",
-        "evolve",
-        "enforce",
-        "facilitate",
-        "stimulate",
-        "diminish",
-        "disguise",
-        "alter",
-        "distort",
-        "integrate",
-        "reform",
-        "refine",
-        "stretch",
-        "scatter",
-        "tear",
-        "dissolve",
-        "divert",
-        "manipulate",
-        "fade"
-      ]
-    },
-    {
-      "title": "得る・増やす",
-      "note": "手に入れる",
-      "words": [
-        "gain",
-        "obtain",
-        "acquire",
-        "earn",
-        "achieve",
-        "generate",
-        "grant",
-        "yield",
-        "enhance",
-        "organize",
-        "pursue",
-        "derive",
-        "inherit",
-        "gather",
-        "foster",
-        "cultivate",
-        "attain",
-        "seize",
-        "accumulate",
-        "surpass",
-        "recruit",
-        "incur",
-        "thrive"
-      ]
-    },
-    {
-      "title": "関わる・つながる",
-      "note": "結びつく",
-      "words": [
-        "involve",
-        "engage",
-        "relate",
-        "associate",
-        "depend",
-        "attribute",
-        "affect",
-        "combine",
-        "compete",
-        "belong",
-        "conflict",
-        "consult",
-        "influence",
-        "include",
-        "accompany",
-        "correspond",
-        "encounter",
-        "conform",
-        "consent",
-        "accord",
-        "intervene",
-        "tie",
-        "entail",
-        "contact"
-      ]
-    },
-    {
       "title": "形容詞:be 〜 of / with / to",
       "note": "後ろの前置詞が大事",
       "words": [
@@ -698,158 +1854,94 @@
       "title": "多義語:名詞",
       "note": "1語で意味がいくつも",
       "words": [
-        "account",
-        "case",
         "term",
         "party",
-        "degree",
         "company",
-        "condition",
         "credit",
-        "ground",
-        "interest",
         "material",
         "matter",
         "order",
-        "present",
-        "rate",
         "rest",
         "right",
-        "sentence",
         "line",
-        "way",
         "note",
         "issue",
         "medicine",
         "nature",
         "minute",
         "board",
-        "bill",
-        "means",
-        "manner",
         "book",
-        "fire",
         "mark",
         "spell",
-        "occasion",
         "plant",
         "character",
-        "chance",
-        "view",
-        "fault",
-        "advance",
-        "field",
         "kind",
         "room",
-        "spot",
         "letter",
-        "custom",
         "fortune",
         "sight",
         "sort",
-        "end",
-        "rule",
-        "change",
         "game",
         "lot",
         "will",
         "spirit",
         "temper",
-        "stock",
         "draft",
-        "convention",
-        "discipline",
-        "deposit",
         "alternative",
         "property",
-        "faculty",
-        "fare",
-        "fashion",
         "capital",
         "race",
         "story",
         "sign",
-        "scale",
         "post",
         "plot",
         "function",
         "industry",
-        "current",
         "medium",
         "trial",
         "volume",
         "tip",
-        "favor",
-        "expense",
-        "virtue",
         "hand",
         "head",
         "dawn",
-        "point",
         "part",
         "course",
         "light",
-        "watch",
-        "consequence",
-        "price",
         "quarter",
         "shape",
         "word",
-        "store",
         "row",
         "date",
         "stake",
         "outline",
-        "scope",
         "vessel",
         "cell",
         "craft",
         "pupil",
-        "track",
         "screen",
-        "merit",
         "seal",
         "air",
-        "bar",
         "file",
-        "toll",
         "provision",
         "sanction",
         "balance",
-        "range",
-        "rank",
         "stuff",
         "branch",
         "instrument",
         "vehicle",
-        "advantage",
-        "benefit",
-        "harm",
         "pain",
         "duty",
         "taste",
         "attention",
         "pity",
-        "habit",
-        "value",
-        "standard",
-        "remedy",
-        "capacity",
-        "train",
         "affair",
-        "authority",
         "edge",
         "element",
         "surface",
-        "witness",
         "token",
-        "odds",
-        "principle",
         "frame",
         "amount",
         "mass",
-        "aim",
-        "margin",
         "scheme",
         "bias",
         "stress",
@@ -859,16 +1951,11 @@
         "pace",
         "fuel",
         "grace",
-        "experience",
         "commission",
         "compound",
-        "bond",
         "peer",
         "service",
-        "span",
         "stroke",
-        "trail",
-        "grip",
         "tide"
       ]
     },
@@ -877,182 +1964,87 @@
       "note": "核となるイメージで一気に",
       "words": [
         "run",
-        "hold",
-        "last",
         "lead",
         "meet",
-        "pay",
         "save",
-        "serve",
         "work",
-        "bear",
         "break",
-        "charge",
         "address",
         "cover",
-        "face",
-        "follow",
-        "count",
-        "settle",
         "apply",
         "treat",
-        "handle",
-        "share",
         "issue",
         "leave",
-        "command",
-        "deliver",
         "express",
         "arrange",
         "operate",
         "drive",
-        "fix",
-        "fit",
-        "launch",
-        "notice",
         "strike",
-        "spread",
         "appeal",
-        "resolve",
-        "spare",
-        "exhibit",
-        "abandon",
-        "keep",
-        "suit",
         "render",
-        "withdraw",
         "overlook",
         "compromise",
-        "exhaust",
-        "bind",
-        "entertain",
         "exercise",
-        "tackle",
-        "fulfill",
         "cling",
-        "venture",
-        "assemble",
-        "utter",
-        "sacrifice",
         "register",
-        "surrender",
         "strain",
         "swallow",
         "tear",
         "abuse",
         "digest",
         "dissolve",
-        "draw",
         "pass",
-        "carry",
-        "lie",
-        "lay",
-        "rise",
         "cast",
         "hang",
-        "match",
         "contract",
         "beat",
-        "tell",
-        "help",
         "lose",
-        "turn",
         "wear",
         "touch",
-        "shed",
-        "rear",
         "harbor",
         "desert",
         "lean",
         "spring",
-        "check",
         "quote",
-        "bring",
-        "set",
-        "put",
-        "take",
         "make",
-        "get",
-        "give",
         "become",
         "call",
-        "come",
-        "look",
-        "see",
         "feel",
         "find",
         "fall",
-        "catch",
         "have",
-        "let",
         "go",
-        "grow",
-        "say",
-        "speak",
         "hear",
         "cross",
-        "pick",
         "drop",
         "hit",
         "cut",
-        "ask",
         "fill",
-        "show",
         "answer",
         "press",
         "feed",
         "mount",
-        "remark",
-        "ruin",
-        "bend",
         "sink",
-        "wind",
-        "breed",
         "stir",
-        "demonstrate",
         "dictate",
-        "split",
         "sweep",
-        "shrink",
-        "trigger",
-        "wander",
-        "plead",
-        "condemn",
         "drain",
         "challenge",
-        "arrest",
-        "lodge",
         "play",
-        "win",
-        "cheat",
-        "drift",
-        "lift",
-        "discharge",
         "rush",
         "cite",
-        "decay",
-        "drag",
-        "fold",
-        "steer",
         "spur",
-        "sway",
         "harness",
-        "anchor",
-        "boost",
-        "clash"
+        "anchor"
       ]
     },
     {
       "title": "多義語:形容詞など",
       "note": "意味が広がる語",
       "words": [
-        "fine",
-        "firm",
         "free",
         "even",
         "close",
-        "short",
-        "long",
         "sound",
         "due",
         "natural",
@@ -1060,114 +2052,39 @@
         "particular",
         "direct",
         "right",
-        "apparent",
-        "obvious",
-        "clear",
-        "secure",
         "bound",
         "fair",
-        "plain",
-        "odd",
         "deliberate",
-        "contrary",
         "otherwise",
         "late",
         "patient",
         "hard",
-        "own",
         "well",
-        "abstract",
         "moderate",
-        "manifest",
-        "peculiar",
         "decent",
         "grave",
-        "vain",
         "acute",
         "tender",
         "faint",
-        "fancy",
-        "obscure",
-        "novel",
-        "contemporary",
-        "mature",
-        "objective",
         "elaborate",
         "relative",
         "positive",
-        "critical",
-        "severe",
-        "steady",
-        "rough",
-        "humble",
         "brief",
-        "vital",
         "sharp",
         "domestic",
-        "steep",
-        "major",
         "fast",
         "flat",
         "concrete",
         "loose",
         "minor",
         "dull",
-        "tough",
         "remote",
-        "immediate",
-        "principal",
         "virtual",
-        "potential",
         "genuine",
-        "sheer",
-        "solid",
-        "prime",
-        "initial",
         "intimate",
         "radical",
         "idle",
-        "hollow",
-        "bare"
-      ]
-    },
-    {
-      "title": "起こる・欠ける・限る",
-      "note": "状態を表す動詞",
-      "words": [
-        "occur",
-        "lack",
-        "limit",
-        "ensure",
-        "emerge",
-        "eliminate",
-        "publish",
-        "collapse",
-        "occupy",
-        "stem",
-        "arise",
-        "coincide",
-        "restrict",
-        "vanish",
-        "result",
-        "effect",
-        "originate"
-      ]
-    },
-    {
-      "title": "tribute / ply=割り当てる・たたむ",
-      "note": "配る・広げる",
-      "words": [
-        "distribute",
-        "contribute",
-        "attribute",
-        "display",
-        "apply",
-        "imply",
-        "employ",
-        "exploit",
-        "allocate",
-        "explicit",
-        "implicit"
+        "hollow"
       ]
     },
     {
