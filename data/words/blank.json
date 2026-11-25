@@ -1,0 +1,98 @@
+{
+  "word": "blank",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/blæŋk/",
+  "core_image": {
+    "text": "何も書かれていない、まっ白な",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"70\" y=\"20\" width=\"100\" height=\"120\"/><line x1=\"84\" y1=\"44\" x2=\"156\" y2=\"44\"/><rect x=\"100\" y=\"70\" width=\"40\" height=\"16\" stroke-dasharray=\"3 3\"/></g><text x=\"210\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まっ白</text></svg>"
+  },
+  "etymology": "古フランス語 blanc(白い) → 何も書いていない・白紙の → (表情が)ぽかんとした・(頭が)真っ白な → (名詞)空欄",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "with no writing or pictures; showing no emotion."
+    },
+    {
+      "pos": "名詞",
+      "text": "an empty space on a form or in a test."
+    }
+  ],
+  "cautions": [
+    "empty=中身がない/blank=(紙・画面に)何も書かれていない",
+    "fill in the blanks=空所を埋める",
+    "My mind went blank.=頭が真っ白になった",
+    "a blank look=ぽかんとした顔"
+  ],
+  "patterns": [
+    {
+      "form": "a blank sheet of paper",
+      "meaning": "白紙"
+    },
+    {
+      "form": "fill in the blanks",
+      "meaning": "空所を埋める"
+    },
+    {
+      "form": "go blank",
+      "meaning": "(頭が)真っ白になる"
+    },
+    {
+      "form": "a blank look",
+      "meaning": "ぽかんとした顔"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "空所",
+      "en": "Fill in the blanks with the correct words.",
+      "ja": "正しい語で空所を埋めなさい。"
+    },
+    {
+      "source": "original",
+      "label": "白紙",
+      "en": "She took out a blank sheet of paper.",
+      "ja": "彼女は白紙を1枚取り出した。"
+    },
+    {
+      "source": "original",
+      "label": "真っ白",
+      "en": "My mind went blank during the test.",
+      "ja": "テスト中に頭が真っ白になった。"
+    },
+    {
+      "source": "original",
+      "label": "ぽかん",
+      "en": "He gave me a blank look.",
+      "ja": "彼はぽかんとした顔で私を見た。"
+    },
+    {
+      "source": "original",
+      "label": "画面",
+      "en": "The screen went blank.",
+      "ja": "画面が真っ暗になった。"
+    },
+    {
+      "source": "original",
+      "label": "空欄",
+      "en": "Don't leave any blanks on the form.",
+      "ja": "用紙に空欄を残さないで。"
+    }
+  ],
+  "check_points": [
+    "My mind went blank. の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "fill in the blanks、go blank が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1871
+    }
+  ]
+}

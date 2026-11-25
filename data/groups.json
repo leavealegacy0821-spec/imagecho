@@ -2477,7 +2477,7 @@
     },
     {
       "title": "使い分け:形・はば・厚さ",
-      "note": "straight=曲がらずまっすぐ(副詞:直行で) ／ curved=弓なりになめらかにカーブ ／ crooked=不規則にゆがんだ(不正な) ／ smooth=でこぼこなくすべすべ(⇔rough) ／ sharp=鋭い ／ blunt=先がとがらず鈍い(ずけずけ) ／ wide=はばが大きく開いている(X meters wide) ／ broad=横にゆったり広がった(範囲が幅広い) ／ narrow=はばがせまくぎりぎり ／ thick=ぎっしり詰まって厚い・濃い ／ thin=うすい・細い ／ dense=ぎっしり密集した・濃い",
+      "note": "straight=曲がらずまっすぐ(副詞:直行で) ／ curved=弓なりになめらかにカーブ ／ crooked=不規則にゆがんだ(不正な) ／ smooth=でこぼこなくすべすべ(⇔rough) ／ sharp=鋭い ／ blunt=先がとがらず鈍い(ずけずけ) ／ wide=はばが大きく開いている(X meters wide) ／ broad=横にゆったり広がった(範囲が幅広い) ／ narrow=はばがせまくぎりぎり ／ thick=ぎっしり詰まって厚い・濃い ／ thin=うすい・細い ／ dense=ぎっしり密集した・濃い ／ heavy=ずしりと重い・量や程度も大きい(heavy rain)",
       "words": [
         "straight",
         "curved",
@@ -2490,7 +2490,8 @@
         "narrow",
         "thick",
         "thin",
-        "dense"
+        "dense",
+        "heavy"
       ]
     },
     {
@@ -2688,13 +2689,16 @@
     },
     {
       "title": "使い分け:かたい・しなやか",
-      "note": "firm=しっかりしてぐらつかない ／ solid=中身が詰まってかたい ／ rigid=曲がらずこちこち(規則が融通のきかない) ／ flexible=しなやかに曲がる・融通がきく ／ fragile=こわれやすくもろい",
+      "note": "firm=しっかりしてぐらつかない ／ solid=中身が詰まってかたい ／ rigid=曲がらずこちこち(規則が融通のきかない) ／ flexible=しなやかに曲がる・融通がきく ／ fragile=こわれやすくもろい ／ soft=押すとふわっとへこむ・おだやか ／ stiff=こわばって曲がりにくい(a stiff neck=首のこり) ／ tight=すき間なくぎゅっとしまった(⇔loose)",
       "words": [
         "firm",
         "solid",
         "rigid",
         "flexible",
-        "fragile"
+        "fragile",
+        "soft",
+        "stiff",
+        "tight"
       ]
     },
     {
@@ -3243,6 +3247,18 @@
         "high",
         "low",
         "deep"
+      ]
+    },
+    {
+      "title": "使い分け:からっぽ・いっぱい",
+      "note": "empty=中に何も入っていないからっぽ ／ vacant=(席・部屋・職が)使う人がいなくて空いている ／ blank=(紙・画面に)何も書かれていないまっ白 ／ full=もう入らないほどいっぱい(full of) ／ crowded=人がぎっしり集まってこみ合った(crowded with) ／ packed=すき間なくぎっしり詰めこまれた",
+      "words": [
+        "empty",
+        "vacant",
+        "blank",
+        "full",
+        "crowded",
+        "packed"
       ]
     },
     {

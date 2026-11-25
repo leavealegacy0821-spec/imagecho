@@ -1,0 +1,93 @@
+{
+  "word": "vacant",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈveɪkənt/",
+  "core_image": {
+    "text": "使う人がいなくて、空いている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"60\" width=\"50\" height=\"60\"/><rect x=\"110\" y=\"60\" width=\"50\" height=\"60\" stroke-dasharray=\"4 4\"/><rect x=\"180\" y=\"60\" width=\"40\" height=\"60\"/><circle cx=\"65\" cy=\"52\" r=\"10\"/><line x1=\"65\" y1=\"62\" x2=\"65\" y2=\"106\"/><line x1=\"65\" y1=\"106\" x2=\"55\" y2=\"140\"/><line x1=\"65\" y1=\"106\" x2=\"75\" y2=\"140\"/></g><text x=\"135\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">空き</text></svg>"
+  },
+  "etymology": "ラテン語 vacare(からである:vacation・vacuum と同じ根) → からの・空いている → (席・部屋・職が)空いている → (表情が)ぼんやりした",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "(of a seat, room or job) not being used or filled; (of an expression) showing no interest."
+    }
+  ],
+  "cautions": [
+    "empty=中身がない/vacant=(席・部屋・家・職が)使われていない・空いている",
+    "a vacant seat [room]=空席[空室]",
+    "vacancy=空き・欠員(No Vacancies=満室)",
+    "a vacant look=ぼんやりした表情"
+  ],
+  "patterns": [
+    {
+      "form": "a vacant seat",
+      "meaning": "空席"
+    },
+    {
+      "form": "a vacant lot",
+      "meaning": "空き地"
+    },
+    {
+      "form": "vacancy",
+      "meaning": "空室・欠員"
+    },
+    {
+      "form": "a vacant look",
+      "meaning": "ぼんやりした顔"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "空席",
+      "en": "Is this seat vacant?",
+      "ja": "この席は空いていますか。"
+    },
+    {
+      "source": "original",
+      "label": "空き家",
+      "en": "The house has been vacant for years.",
+      "ja": "その家は何年も空き家だ。"
+    },
+    {
+      "source": "original",
+      "label": "空き地",
+      "en": "Children played in the vacant lot.",
+      "ja": "子どもたちは空き地で遊んだ。"
+    },
+    {
+      "source": "original",
+      "label": "欠員",
+      "en": "There are no vacancies at the hotel.",
+      "ja": "そのホテルは満室だ。"
+    },
+    {
+      "source": "original",
+      "label": "ぼんやり",
+      "en": "He gave me a vacant look.",
+      "ja": "彼はぼんやりした顔で私を見た。"
+    },
+    {
+      "source": "original",
+      "label": "職",
+      "en": "The position of manager is still vacant.",
+      "ja": "部長の職はまだ空いている。"
+    }
+  ],
+  "check_points": [
+    "vacancy の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "vacant seat、vacancy が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1870
+    }
+  ]
+}

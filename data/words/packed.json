@@ -1,0 +1,93 @@
+{
+  "word": "packed",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/pækt/",
+  "core_image": {
+    "text": "すき間なく、ぎっしり詰めこまれた",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"40\" width=\"160\" height=\"90\"/><rect x=\"44\" y=\"44\" width=\"36\" height=\"40\"/><rect x=\"82\" y=\"44\" width=\"36\" height=\"40\"/><rect x=\"120\" y=\"44\" width=\"36\" height=\"40\"/><rect x=\"158\" y=\"44\" width=\"38\" height=\"40\"/><rect x=\"44\" y=\"86\" width=\"50\" height=\"40\"/><rect x=\"96\" y=\"86\" width=\"50\" height=\"40\"/><rect x=\"148\" y=\"86\" width=\"48\" height=\"40\"/></g><text x=\"120\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぎっしり</text></svg>"
+  },
+  "etymology": "pack(包み・詰める) の過去分詞 → 詰めこまれた → (場所が)ぎっしり満員の → (予定・内容が)盛りだくさんの",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "extremely full of people; (packed with) full of a particular thing."
+    }
+  ],
+  "cautions": [
+    "crowded=こみ合った/packed=すき間なく満員(より強い)",
+    "be packed with A=Aでぎっしり",
+    "packed lunch=(英)弁当",
+    "pack=荷造りする・詰める"
+  ],
+  "patterns": [
+    {
+      "form": "be packed with A",
+      "meaning": "Aでぎっしりだ"
+    },
+    {
+      "form": "a packed stadium",
+      "meaning": "満員のスタジアム"
+    },
+    {
+      "form": "packed lunch",
+      "meaning": "弁当"
+    },
+    {
+      "form": "pack A",
+      "meaning": "Aを詰める・荷造りする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "満員",
+      "en": "The stadium was packed.",
+      "ja": "スタジアムは満員だった。"
+    },
+    {
+      "source": "original",
+      "label": "ぎっしり",
+      "en": "The book is packed with useful information.",
+      "ja": "その本は役に立つ情報がぎっしりだ。"
+    },
+    {
+      "source": "original",
+      "label": "盛りだくさん",
+      "en": "We had a packed schedule.",
+      "ja": "予定がびっしりだった。"
+    },
+    {
+      "source": "original",
+      "label": "荷造り",
+      "en": "Have you packed your bag yet?",
+      "ja": "もう荷造りした?"
+    },
+    {
+      "source": "original",
+      "label": "弁当",
+      "en": "I bring a packed lunch to school.",
+      "ja": "学校に弁当を持っていく。"
+    },
+    {
+      "source": "original",
+      "label": "すし詰め",
+      "en": "We were packed like sardines on the train.",
+      "ja": "電車ですし詰めだった。"
+    }
+  ],
+  "check_points": [
+    "crowded と packed の強さのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be packed with が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1874
+    }
+  ]
+}

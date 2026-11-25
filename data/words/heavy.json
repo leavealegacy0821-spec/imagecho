@@ -1,0 +1,93 @@
+{
+  "word": "heavy",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈhevi/",
+  "core_image": {
+    "text": "ずしりと重く、量・程度も大きい",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><rect x=\"110\" y=\"80\" width=\"60\" height=\"60\"/><line x1=\"80\" y1=\"74\" x2=\"110\" y2=\"90\"/><line x1=\"140\" y1=\"50\" x2=\"140\" y2=\"76\"/><polyline points=\"143.8,69 140,76 136.2,69\"/></g><text x=\"190\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ずしり</text></svg>"
+  },
+  "etymology": "古い英語 hefig(heave=持ち上げる と同じ仲間:持ち上げるのに力がいる) → 重い → (量・程度が)多い・はげしい(heavy rain) → (気持ちが)重い",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "weighing a lot; larger in amount or more severe than usual; serious or difficult."
+    }
+  ],
+  "cautions": [
+    "heavy rain [traffic / snow]=大雨[交通渋滞・大雪](many / big ではない)",
+    "a heavy smoker=ヘビースモーカー",
+    "light⇔heavy",
+    "with a heavy heart=重い気持ちで"
+  ],
+  "patterns": [
+    {
+      "form": "heavy rain",
+      "meaning": "大雨"
+    },
+    {
+      "form": "heavy traffic",
+      "meaning": "交通渋滞"
+    },
+    {
+      "form": "a heavy smoker",
+      "meaning": "ヘビースモーカー"
+    },
+    {
+      "form": "with a heavy heart",
+      "meaning": "重い気持ちで"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "重い",
+      "en": "This box is too heavy for me to carry.",
+      "ja": "この箱は重すぎて私には運べない。"
+    },
+    {
+      "source": "original",
+      "label": "大雨",
+      "en": "The game was canceled because of heavy rain.",
+      "ja": "大雨のため試合は中止された。"
+    },
+    {
+      "source": "original",
+      "label": "渋滞",
+      "en": "We were caught in heavy traffic.",
+      "ja": "ひどい渋滞にはまった。"
+    },
+    {
+      "source": "original",
+      "label": "吸う人",
+      "en": "My father used to be a heavy smoker.",
+      "ja": "父は以前ヘビースモーカーだった。"
+    },
+    {
+      "source": "original",
+      "label": "重い気持ち",
+      "en": "She left her hometown with a heavy heart.",
+      "ja": "彼女は重い気持ちで故郷を離れた。"
+    },
+    {
+      "source": "original",
+      "label": "はげしい",
+      "en": "There was heavy fighting in the city.",
+      "ja": "その町ではげしい戦闘があった。"
+    }
+  ],
+  "check_points": [
+    "「大雨」「渋滞」を heavy で言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "heavy rain / traffic が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1878
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "empty",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/ˈempti/",
+  "core_image": {
+    "text": "中に何も入っていない、からっぽ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M70 40 L80 130 L160 130 L170 40\"/><ellipse cx=\"120\" cy=\"40\" rx=\"50\" ry=\"8\"/><path d=\"M100 90 L140 90\" stroke-dasharray=\"3 4\"/></g><text x=\"200\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">からっぽ</text></svg>"
+  },
+  "etymology": "古い英語 ǣmettig(ひまな・何もすることがない) → 中身がない・からっぽの → (言葉が)むなしい → (動詞)からにする",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "containing nothing; with no people; having no meaning."
+    },
+    {
+      "pos": "動詞",
+      "text": "to remove everything from a container."
+    }
+  ],
+  "cautions": [
+    "empty=(容器・部屋が)中身がない/vacant=(席・部屋・職が)使われていない・空いている",
+    "full⇔empty",
+    "an empty promise=口先だけの約束",
+    "empty A of B=AからBを取り出してからにする"
+  ],
+  "patterns": [
+    {
+      "form": "an empty box",
+      "meaning": "空の箱"
+    },
+    {
+      "form": "an empty promise",
+      "meaning": "口先だけの約束"
+    },
+    {
+      "form": "empty A",
+      "meaning": "Aをからにする"
+    },
+    {
+      "form": "on an empty stomach",
+      "meaning": "空腹で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "空の",
+      "en": "The box was empty.",
+      "ja": "箱はからっぽだった。"
+    },
+    {
+      "source": "original",
+      "label": "人がいない",
+      "en": "The streets were empty at night.",
+      "ja": "夜、通りには人けがなかった。"
+    },
+    {
+      "source": "original",
+      "label": "口先だけ",
+      "en": "His promises were empty.",
+      "ja": "彼の約束は口先だけだった。"
+    },
+    {
+      "source": "original",
+      "label": "からにする",
+      "en": "Please empty the trash can.",
+      "ja": "ごみ箱をからにしてください。"
+    },
+    {
+      "source": "original",
+      "label": "空腹",
+      "en": "Don't take this medicine on an empty stomach.",
+      "ja": "この薬は空腹時に飲まないでください。"
+    },
+    {
+      "source": "original",
+      "label": "むなしい",
+      "en": "She felt empty after her friend left.",
+      "ja": "友人が去ってから彼女はむなしさを感じた。"
+    }
+  ],
+  "check_points": [
+    "empty と vacant のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "on an empty stomach、empty promise が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1869
+    }
+  ]
+}
