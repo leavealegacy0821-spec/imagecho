@@ -1,0 +1,98 @@
+{
+  "word": "expression",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ɪkˈspreʃn/",
+  "core_image": {
+    "text": "中にあるものを、外へ押し出して表したもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"70\" cy=\"80\" r=\"34\"/><circle cx=\"58\" cy=\"70\" r=\"4\"/><circle cx=\"82\" cy=\"70\" r=\"4\"/><path d=\"M56 92 Q70 104 84 92\"/><line x1=\"110\" y1=\"80\" x2=\"160\" y2=\"80\"/><polyline points=\"153,76.2 160,80 153,83.8\"/><rect x=\"170\" y=\"62\" width=\"50\" height=\"36\"/></g><text x=\"150\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">外へ表す</text></svg>"
+  },
+  "etymology": "express(ex=外へ+press=押す)の名詞 → 中の思いを外へ押し出すこと → 表現 → (顔に出たもの)表情 → (言葉にしたもの)言い回し・表現",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the act of showing your feelings or thoughts; a word or phrase; a look on someone's face that shows feelings."
+    }
+  ],
+  "cautions": [
+    "3つの意味:表現(すること)/言い回し(an English expression)/表情(a facial expression)",
+    "freedom of expression=表現の自由",
+    "beyond expression=言葉では表せないほど",
+    "動詞 express=表す/expressive=表情豊かな"
+  ],
+  "patterns": [
+    {
+      "form": "an expression",
+      "meaning": "言い回し"
+    },
+    {
+      "form": "a facial expression",
+      "meaning": "顔の表情"
+    },
+    {
+      "form": "freedom of expression",
+      "meaning": "表現の自由"
+    },
+    {
+      "form": "as an expression of A",
+      "meaning": "Aのしるしとして"
+    },
+    {
+      "form": "beyond expression",
+      "meaning": "言葉にできないほど"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "言い回し",
+      "en": "\"Break a leg\" is an English expression meaning \"good luck.\"",
+      "ja": "「Break a leg」は「がんばって」という意味の英語の言い回しだ。"
+    },
+    {
+      "source": "original",
+      "label": "表情",
+      "en": "I could tell from her expression that she was angry.",
+      "ja": "表情から彼女が怒っているとわかった。"
+    },
+    {
+      "source": "original",
+      "label": "表現の自由",
+      "en": "Freedom of expression is important in a democracy.",
+      "ja": "表現の自由は民主主義において大切だ。"
+    },
+    {
+      "source": "original",
+      "label": "しるし",
+      "en": "He gave her flowers as an expression of thanks.",
+      "ja": "彼は感謝のしるしに彼女に花を贈った。"
+    },
+    {
+      "source": "original",
+      "label": "表現",
+      "en": "Art is a form of self-expression.",
+      "ja": "芸術は自己表現の一つの形だ。"
+    },
+    {
+      "source": "original",
+      "label": "言葉にできない",
+      "en": "The beauty of the scene was beyond expression.",
+      "ja": "その景色の美しさは言葉では表せなかった。"
+    }
+  ],
+  "check_points": [
+    "expression の3つの意味を言えるか",
+    "facial expression の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「表現・言い回し・表情」の訳し分けが出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1173
+    }
+  ]
+}

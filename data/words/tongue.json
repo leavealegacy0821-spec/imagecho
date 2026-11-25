@@ -1,0 +1,94 @@
+{
+  "word": "tongue",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/tʌŋ/",
+  "core_image": {
+    "text": "口の中で動く舌、そこから出ることば",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M60 60 Q120 30 180 60 Q180 110 120 120 Q60 110 60 60\"/><path d=\"M90 80 Q120 120 150 80\"/><line x1=\"120\" y1=\"84\" x2=\"120\" y2=\"104\"/></g><text x=\"200\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">舌</text></svg>"
+  },
+  "etymology": "古い英語 tunge(舌。ラテン語 lingua と同じく「舌=言葉」) → 舌 → (舌から出るもの)言語・言葉(mother tongue=母語) → 話しぶり",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the soft part in your mouth that moves and is used for tasting and speaking; a language."
+    }
+  ],
+  "cautions": [
+    "mother tongue=母語(=native language)",
+    "on the tip of one's tongue=(言葉が)のどまで出かかって",
+    "hold one's tongue=黙っている",
+    "a slip of the tongue=言い間違い/tongue twister=早口言葉"
+  ],
+  "patterns": [
+    {
+      "form": "one's mother tongue",
+      "meaning": "母語"
+    },
+    {
+      "form": "on the tip of one's tongue",
+      "meaning": "のどまで出かかって"
+    },
+    {
+      "form": "hold one's tongue",
+      "meaning": "黙っている"
+    },
+    {
+      "form": "a slip of the tongue",
+      "meaning": "言い間違い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "舌",
+      "en": "I burned my tongue on the hot soup.",
+      "ja": "熱いスープで舌をやけどした。"
+    },
+    {
+      "source": "original",
+      "label": "母語",
+      "en": "His mother tongue is Korean.",
+      "ja": "彼の母語は韓国語だ。"
+    },
+    {
+      "source": "original",
+      "label": "のどまで出かかって",
+      "en": "His name is on the tip of my tongue.",
+      "ja": "彼の名前がのどまで出かかっている。"
+    },
+    {
+      "source": "original",
+      "label": "黙っている",
+      "en": "I wanted to complain, but I held my tongue.",
+      "ja": "文句を言いたかったが、黙っていた。"
+    },
+    {
+      "source": "original",
+      "label": "言い間違い",
+      "en": "Sorry, it was just a slip of the tongue.",
+      "ja": "ごめん、ちょっと言い間違えただけ。"
+    },
+    {
+      "source": "original",
+      "label": "早口言葉",
+      "en": "\"She sells seashells\" is a famous tongue twister.",
+      "ja": "「She sells seashells」は有名な早口言葉だ。"
+    }
+  ],
+  "check_points": [
+    "mother tongue の意味を言えるか",
+    "on the tip of one's tongue の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "mother tongue、熟語(tip of one's tongue など)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1177
+    }
+  ]
+}

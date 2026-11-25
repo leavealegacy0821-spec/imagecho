@@ -1,0 +1,93 @@
+{
+  "word": "dialect",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈdaɪəlekt/",
+  "core_image": {
+    "text": "その土地ならではの、ことばの話し方",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"20\" y=\"40\" width=\"200\" height=\"90\"/><line x1=\"90\" y1=\"40\" x2=\"90\" y2=\"130\"/><line x1=\"160\" y1=\"40\" x2=\"160\" y2=\"130\"/><path d=\"M40 70 q8 -8 16 0 t16 0\"/><path d=\"M110 70 l8 -8 l8 8 l8 -8\"/><path d=\"M180 64 l20 0 l-20 12 l20 0\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">土地ごとの話し方</text></svg>"
+  },
+  "etymology": "ギリシャ語 dialektos(dia=間で+legein=話す:語り合い方) → ある人々の話し方 → (地域・階層の)方言",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a form of a language that is spoken in one area, with its own words and grammar."
+    }
+  ],
+  "cautions": [
+    "accent=発音のなまり(音だけ)/dialect=語・文法までちがう地域の言葉=方言",
+    "speak in a dialect=方言で話す/a local dialect=地元の方言",
+    "standard language=標準語(⇔ dialect)",
+    "language は国の言語、dialect はその中の地域の変種"
+  ],
+  "patterns": [
+    {
+      "form": "a local dialect",
+      "meaning": "地元の方言"
+    },
+    {
+      "form": "speak in (a) dialect",
+      "meaning": "方言で話す"
+    },
+    {
+      "form": "the Kansai dialect",
+      "meaning": "関西弁"
+    },
+    {
+      "form": "regional dialects",
+      "meaning": "地域の方言"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "方言",
+      "en": "My grandmother speaks in a strong local dialect.",
+      "ja": "祖母は強い地元の方言で話す。"
+    },
+    {
+      "source": "original",
+      "label": "関西弁",
+      "en": "He speaks the Kansai dialect.",
+      "ja": "彼は関西弁を話す。"
+    },
+    {
+      "source": "original",
+      "label": "方言",
+      "en": "There are many regional dialects in Japan.",
+      "ja": "日本には多くの地域の方言がある。"
+    },
+    {
+      "source": "original",
+      "label": "方言",
+      "en": "Some words in the dialect are hard for outsiders to understand.",
+      "ja": "その方言のいくつかの語はよそから来た人にはわかりにくい。"
+    },
+    {
+      "source": "original",
+      "label": "標準語",
+      "en": "On TV, most announcers use the standard language.",
+      "ja": "テレビではほとんどのアナウンサーが標準語を使う。"
+    },
+    {
+      "source": "original",
+      "label": "方言",
+      "en": "The novel is written in a northern dialect.",
+      "ja": "その小説は北部の方言で書かれている。"
+    }
+  ],
+  "check_points": [
+    "accent と dialect のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "言語系の長文で dialect / accent の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1175
+    }
+  ]
+}

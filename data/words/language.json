@@ -1,0 +1,98 @@
+{
+  "word": "language",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈlæŋɡwɪdʒ/",
+  "core_image": {
+    "text": "舌から出て、人と人が通じ合うしくみ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><path d=\"M70 46 Q120 20 170 46\"/><path d=\"M170 66 Q120 92 70 66\"/></g><text x=\"120\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">通じ合うしくみ</text></svg>"
+  },
+  "etymology": "ラテン語 lingua(舌。linguistics・bilingual と同じ根) → 舌で話すもの → (日本語・英語などの)言語 → 言葉づかい(bad language=下品な言葉) → (身ぶり・プログラムなどの)言語",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the system of words and grammar used by people in a country or area; a particular style of speaking or writing; a system of signs for expressing ideas."
+    }
+  ],
+  "cautions": [
+    "a language=1つの言語(可算)/language=言語一般・言葉づかい(不可算)",
+    "one's first [native] language=母語/a foreign language=外国語",
+    "body language=身ぶり言語/bad [strong] language=下品な言葉",
+    "word=単語/language=言語全体のしくみ"
+  ],
+  "patterns": [
+    {
+      "form": "a foreign language",
+      "meaning": "外国語"
+    },
+    {
+      "form": "one's native language",
+      "meaning": "母語"
+    },
+    {
+      "form": "body language",
+      "meaning": "身ぶり"
+    },
+    {
+      "form": "bad language",
+      "meaning": "下品な言葉"
+    },
+    {
+      "form": "language learning",
+      "meaning": "言語学習"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "外国語",
+      "en": "Learning a foreign language takes time.",
+      "ja": "外国語を身につけるには時間がかかる。"
+    },
+    {
+      "source": "original",
+      "label": "母語",
+      "en": "Her native language is Spanish.",
+      "ja": "彼女の母語はスペイン語だ。"
+    },
+    {
+      "source": "original",
+      "label": "言語",
+      "en": "How many languages are spoken in India?",
+      "ja": "インドではいくつの言語が話されていますか。"
+    },
+    {
+      "source": "original",
+      "label": "身ぶり",
+      "en": "Body language can show how you really feel.",
+      "ja": "身ぶりは本当の気持ちを表すことがある。"
+    },
+    {
+      "source": "original",
+      "label": "言葉づかい",
+      "en": "Please don't use bad language in class.",
+      "ja": "授業中は下品な言葉を使わないでください。"
+    },
+    {
+      "source": "original",
+      "label": "言語",
+      "en": "Children learn language very quickly.",
+      "ja": "子どもは言葉をとても速く身につける。"
+    }
+  ],
+  "check_points": [
+    "a language と language(不可算)の使い分けがわかるか",
+    "native language の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "言語学習の長文で非常に多い。body language も出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1171
+    }
+  ]
+}

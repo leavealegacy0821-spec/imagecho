@@ -1,0 +1,99 @@
+{
+  "word": "accent",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈæksent/",
+  "core_image": {
+    "text": "声の調子に表れる、その人らしい音のくせ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><path d=\"M70 50 q10 -10 20 0 q10 10 20 0 q10 -10 20 0\"/><line x1=\"150\" y1=\"30\" x2=\"150\" y2=\"60\"/><line x1=\"170\" y1=\"40\" x2=\"170\" y2=\"60\"/><line x1=\"190\" y1=\"20\" x2=\"190\" y2=\"60\"/></g><text x=\"170\" y=\"96\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">音のくせ</text></svg>"
+  },
+  "etymology": "ラテン語 accentus(ad=〜へ+cantus=歌:歌うような調子) → 声の調子 → 強勢・アクセント → (地域・外国語の)発音のなまり → (動詞)強調する(accentuate)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the way that people in a particular area or country pronounce words; the emphasis on part of a word; a mark on a letter."
+    },
+    {
+      "pos": "動詞",
+      "text": "to emphasize something."
+    }
+  ],
+  "cautions": [
+    "dialect=語・文法もちがう方言/accent=発音・抑揚だけのなまり",
+    "speak English with a Japanese accent=日本語なまりの英語を話す",
+    "a strong [slight] accent=強い[少しの]なまり",
+    "強勢(stress)の意味も:The accent is on the second syllable."
+  ],
+  "patterns": [
+    {
+      "form": "with an accent",
+      "meaning": "なまりのある"
+    },
+    {
+      "form": "a strong accent",
+      "meaning": "強いなまり"
+    },
+    {
+      "form": "a foreign accent",
+      "meaning": "外国なまり"
+    },
+    {
+      "form": "the accent on A",
+      "meaning": "Aの強勢"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "なまり",
+      "en": "He speaks English with a strong Australian accent.",
+      "ja": "彼は強いオーストラリアなまりの英語を話す。"
+    },
+    {
+      "source": "original",
+      "label": "なまり",
+      "en": "You don't have to worry about your accent.",
+      "ja": "なまりを気にする必要はない。"
+    },
+    {
+      "source": "original",
+      "label": "なまり",
+      "en": "I could tell from her accent that she was from Osaka.",
+      "ja": "なまりから彼女が大阪の出身だとわかった。"
+    },
+    {
+      "source": "original",
+      "label": "アクセント",
+      "en": "The accent in \"hotel\" is on the second syllable.",
+      "ja": "「hotel」のアクセントは2つ目の音節にある。"
+    },
+    {
+      "source": "original",
+      "label": "外国なまり",
+      "en": "She speaks Japanese without a foreign accent.",
+      "ja": "彼女は外国なまりのない日本語を話す。"
+    },
+    {
+      "source": "original",
+      "label": "強調する",
+      "en": "The red scarf accented her white dress.",
+      "ja": "赤いスカーフが彼女の白いドレスを引き立てた。"
+    }
+  ],
+  "check_points": [
+    "accent と dialect のちがいを言えるか",
+    "with a ... accent の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "with an accent、dialect との区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1176
+    }
+  ]
+}

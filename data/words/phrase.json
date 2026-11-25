@@ -1,0 +1,98 @@
+{
+  "word": "phrase",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/freɪz/",
+  "core_image": {
+    "text": "いくつかの語がまとまった、ひとかたまりの言い方",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"60\" width=\"40\" height=\"30\"/><rect x=\"80\" y=\"60\" width=\"40\" height=\"30\"/><rect x=\"130\" y=\"60\" width=\"40\" height=\"30\"/><path d=\"M26 100 Q100 130 174 100\"/></g><text x=\"100\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひとかたまり</text></svg>"
+  },
+  "etymology": "ギリシャ語 phrazein(言い表す) → 言い表し方 → (2語以上の)語句・成句・言い回し → (動詞)言い表す(phrase A carefully=言葉を選んで言う)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a group of words that have a particular meaning when used together; a short expression."
+    },
+    {
+      "pos": "動詞",
+      "text": "to express something in a particular way."
+    }
+  ],
+  "cautions": [
+    "word=1つの単語/phrase=2語以上のまとまり(句)/sentence=文",
+    "set phrase=決まり文句",
+    "to use a phrase=よく言われるように",
+    "動詞 phrase=言葉を選んで言い表す(carefully phrased)"
+  ],
+  "patterns": [
+    {
+      "form": "a phrase",
+      "meaning": "語句"
+    },
+    {
+      "form": "a set phrase",
+      "meaning": "決まり文句"
+    },
+    {
+      "form": "in a phrase",
+      "meaning": "ひとことで言えば"
+    },
+    {
+      "form": "phrase A carefully",
+      "meaning": "言葉を選んでAを言う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "語句",
+      "en": "Write down useful phrases in your notebook.",
+      "ja": "役立つ語句をノートに書きとめなさい。"
+    },
+    {
+      "source": "original",
+      "label": "決まり文句",
+      "en": "\"Nice to meet you\" is a set phrase.",
+      "ja": "「はじめまして」は決まり文句だ。"
+    },
+    {
+      "source": "original",
+      "label": "言い回し",
+      "en": "I don't understand the meaning of this phrase.",
+      "ja": "この言い回しの意味がわからない。"
+    },
+    {
+      "source": "original",
+      "label": "ひとことで言えば",
+      "en": "In a phrase, the movie was a disaster.",
+      "ja": "ひとことで言えば、その映画は大失敗だった。"
+    },
+    {
+      "source": "original",
+      "label": "言葉を選んで",
+      "en": "The letter was carefully phrased.",
+      "ja": "その手紙は言葉を慎重に選んで書かれていた。"
+    },
+    {
+      "source": "original",
+      "label": "フレーズ",
+      "en": "The singer repeated the same phrase several times.",
+      "ja": "歌手は同じフレーズを何度もくり返した。"
+    }
+  ],
+  "check_points": [
+    "word・phrase・sentence のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "set phrase、言語系の長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1172
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "vocabulary",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/voʊˈkæbjəleri/",
+  "core_image": {
+    "text": "ひとりが持っている、ことばの持ち札全部",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"40\" width=\"160\" height=\"90\"/><rect x=\"52\" y=\"52\" width=\"30\" height=\"18\"/><rect x=\"90\" y=\"52\" width=\"30\" height=\"18\"/><rect x=\"128\" y=\"52\" width=\"30\" height=\"18\"/><rect x=\"166\" y=\"52\" width=\"24\" height=\"18\"/><rect x=\"52\" y=\"78\" width=\"30\" height=\"18\"/><rect x=\"90\" y=\"78\" width=\"30\" height=\"18\"/><rect x=\"128\" y=\"78\" width=\"30\" height=\"18\"/><rect x=\"52\" y=\"104\" width=\"30\" height=\"18\"/></g><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">持っている語の全体</text></svg>"
+  },
+  "etymology": "ラテン語 vocabulum(名前・ことば。voice・vocal と同じ「声」の根) → 呼び名・語 → (ある人・言語・分野で使う)語彙・単語の全体",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "all the words that a person knows or uses; all the words in a language or subject."
+    }
+  ],
+  "cautions": [
+    "word=1つの単語(可算)/vocabulary=(ある人・分野の)語の全体=語彙(1つの集まり)",
+    "「語彙が多い[少ない]」は large [small] vocabulary(× many)",
+    "build [expand] one's vocabulary=語彙を増やす",
+    "× vocabularies to memorize とは言わない(覚える単語は words)"
+  ],
+  "patterns": [
+    {
+      "form": "a large vocabulary",
+      "meaning": "豊富な語彙"
+    },
+    {
+      "form": "build one's vocabulary",
+      "meaning": "語彙を増やす"
+    },
+    {
+      "form": "technical vocabulary",
+      "meaning": "専門用語"
+    },
+    {
+      "form": "vocabulary list",
+      "meaning": "単語リスト"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "語彙",
+      "en": "Reading books is a good way to build your vocabulary.",
+      "ja": "読書は語彙を増やすよい方法だ。"
+    },
+    {
+      "source": "original",
+      "label": "語彙が多い",
+      "en": "She has a large vocabulary.",
+      "ja": "彼女は語彙が豊富だ。"
+    },
+    {
+      "source": "original",
+      "label": "専門用語",
+      "en": "Medicine has its own technical vocabulary.",
+      "ja": "医学には独自の専門用語がある。"
+    },
+    {
+      "source": "original",
+      "label": "語彙",
+      "en": "The test checks your grammar and vocabulary.",
+      "ja": "そのテストは文法と語彙を確認する。"
+    },
+    {
+      "source": "original",
+      "label": "単語",
+      "en": "I learn ten new words every day.",
+      "ja": "私は毎日10個の新しい単語を覚える。"
+    },
+    {
+      "source": "original",
+      "label": "語彙",
+      "en": "A child's vocabulary grows quickly between two and five.",
+      "ja": "子どもの語彙は2歳から5歳の間に急速に増える。"
+    }
+  ],
+  "check_points": [
+    "語彙の多少を large / small で言えるか",
+    "word と vocabulary のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "large vocabulary(× many)が文法・英作文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1174
+    }
+  ]
+}

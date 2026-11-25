@@ -1,0 +1,98 @@
+{
+  "word": "translate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/trænsˈleɪt/",
+  "core_image": {
+    "text": "ことばの向こう側へ、意味を運んで移す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"20\" y=\"50\" width=\"70\" height=\"50\"/><line x1=\"32\" y1=\"66\" x2=\"78\" y2=\"66\"/><line x1=\"32\" y1=\"82\" x2=\"66\" y2=\"82\"/><line x1=\"98\" y1=\"75\" x2=\"142\" y2=\"75\"/><polyline points=\"135,71.2 142,75 135,78.8\"/><rect x=\"150\" y=\"50\" width=\"70\" height=\"50\"/><path d=\"M162 66 q6 -6 12 0 t12 0 t12 0\"/><path d=\"M162 84 q6 -6 12 0 t12 0\"/></g><text x=\"120\" y=\"128\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">意味を運ぶ</text></svg>"
+  },
+  "etymology": "trans(向こうへ)+late(運ばれた。transfer と同じ根の過去分詞) → 向こうへ運ぶ → (ある言語から別の言語へ)翻訳する → (考え・計画を行動などに)変える(translate A into action)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to change words from one language into another; to change something into a different form."
+    }
+  ],
+  "cautions": [
+    "translate A into B=AをB(言語)に翻訳する(前置詞は into)",
+    "interpret=(会話を)通訳する/translate=(主に文書を)翻訳する",
+    "比ゆ:translate A into action [reality]=Aを行動に移す[実現する]",
+    "名詞 translation/translator=翻訳者"
+  ],
+  "patterns": [
+    {
+      "form": "translate A into B",
+      "meaning": "AをBに訳す"
+    },
+    {
+      "form": "translate A from B into C",
+      "meaning": "AをBからCに訳す"
+    },
+    {
+      "form": "translate A into action",
+      "meaning": "Aを行動に移す"
+    },
+    {
+      "form": "in translation",
+      "meaning": "翻訳で"
+    },
+    {
+      "form": "a translator",
+      "meaning": "翻訳者"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "訳す",
+      "en": "Can you translate this sentence into Japanese?",
+      "ja": "この文を日本語に訳してくれる?"
+    },
+    {
+      "source": "original",
+      "label": "翻訳される",
+      "en": "Her novels have been translated into 30 languages.",
+      "ja": "彼女の小説は30の言語に翻訳されている。"
+    },
+    {
+      "source": "original",
+      "label": "行動に移す",
+      "en": "It is time to translate our plans into action.",
+      "ja": "計画を行動に移すときだ。"
+    },
+    {
+      "source": "original",
+      "label": "翻訳で",
+      "en": "I read the Russian novel in translation.",
+      "ja": "そのロシアの小説を翻訳で読んだ。"
+    },
+    {
+      "source": "original",
+      "label": "翻訳",
+      "en": "Machine translation has improved greatly.",
+      "ja": "機械翻訳は大きく進歩した。"
+    },
+    {
+      "source": "original",
+      "label": "翻訳者",
+      "en": "She works as a translator for a publishing company.",
+      "ja": "彼女は出版社で翻訳者として働いている。"
+    }
+  ],
+  "check_points": [
+    "translate A into B の型を言えるか",
+    "translate と interpret のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "translate A into B、translation が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1180
+    }
+  ]
+}
