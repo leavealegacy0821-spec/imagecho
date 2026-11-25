@@ -1,0 +1,728 @@
+// 下書き 152(別の自動作業が main の gen/106.js として作った語。番号がぶつかったため付け替え、こちらで先に作った語は除いた)
+module.exports = [
+ {
+  "w": "collide",
+  "pos": [
+   "動詞"
+  ],
+  "ipa": "/kəˈlaɪd/",
+  "core": "正面から、がつんとぶつかり合う",
+  "svg": "{ground}<circle cx=\"96\" cy=\"110\" r=\"22\"/><circle cx=\"144\" cy=\"110\" r=\"22\"/>{arrow 20 110 66 110}{arrow 220 110 174 110}<line x1=\"120\" y1=\"80\" x2=\"120\" y2=\"64\"/><line x1=\"108\" y1=\"82\" x2=\"98\" y2=\"70\"/><line x1=\"132\" y1=\"82\" x2=\"142\" y2=\"70\"/>",
+  "lab": [
+   [
+    120,
+    44,
+    "がつん"
+   ]
+  ],
+  "ety": "ラテン語 col(いっしょに)+ laedere(打つ) → 互いに打ち合う → (車・人・物が)ぶつかる・衝突する → (意見・利害が)ぶつかり合う・対立する → 名詞 collision=衝突",
+  "def": [
+   [
+    "動詞",
+    "to hit something or someone that is moving in a different direction; to disagree strongly, or to be in conflict."
+   ]
+  ],
+  "cau": [
+   "collide with A=Aと衝突する(with を使う。collide A とは言わない)",
+   "主語を複数にして two cars collided=2台の車が衝突した、とも言える",
+   "(意見・利害が)対立する の意味もある:His views collided with mine.",
+   "名詞 collision=衝突(a head-on collision=正面衝突)"
+  ],
+  "pat": [
+   [
+    "collide with A",
+    "Aと衝突する"
+   ],
+   [
+    "A and B collide",
+    "AとBが衝突する"
+   ],
+   [
+    "collide head-on",
+    "正面衝突する"
+   ],
+   [
+    "a collision with A",
+    "Aとの衝突"
+   ],
+   [
+    "come into collision with A",
+    "Aと衝突する・対立する"
+   ]
+  ],
+  "ex": [
+   [
+    "衝突する",
+    "A bus collided with a truck on the highway.",
+    "高速道路でバスがトラックと衝突した。"
+   ],
+   [
+    "A and B collide",
+    "Two players collided while trying to catch the ball.",
+    "ボールを取ろうとして2人の選手がぶつかった。"
+   ],
+   [
+    "正面衝突する",
+    "The two trains collided head-on in the fog.",
+    "霧の中で2本の列車が正面衝突した。"
+   ],
+   [
+    "対立する",
+    "Their interests often collide with ours.",
+    "彼らの利害はしばしば私たちの利害と対立する。"
+   ],
+   [
+    "collision(名詞)",
+    "Nobody was hurt in the collision.",
+    "その衝突でけがをした人はいなかった。"
+   ],
+   [
+    "対立(名詞)",
+    "The plan came into collision with local opinion.",
+    "その計画は地元の意見と対立した。"
+   ]
+  ],
+  "chk": [
+   "collide のあとの前置詞を言えるか",
+   "名詞形 collision を言えるか"
+  ],
+  "exam": [
+   "標準",
+   "collide with A の前置詞と、名詞 collision が出る。"
+  ]
+ },
+ {
+  "w": "grind",
+  "pos": [
+   "動詞",
+   "名詞"
+  ],
+  "ipa": "/ɡraɪnd/",
+  "core": "ごりごりこすって、細かくすりつぶす",
+  "svg": "<rect x=\"70\" y=\"48\" width=\"100\" height=\"24\"/><rect x=\"70\" y=\"76\" width=\"100\" height=\"24\"/><circle cx=\"100\" cy=\"112\" r=\"2\"/><circle cx=\"116\" cy=\"118\" r=\"2\"/><circle cx=\"132\" cy=\"112\" r=\"2\"/><circle cx=\"124\" cy=\"126\" r=\"2\"/><circle cx=\"108\" cy=\"128\" r=\"2\"/><path d=\"M90 38 Q120 22 150 38\"/><polyline points=\"140,38 150,38 147,28\"/>",
+  "lab": [
+   [
+    120,
+    150,
+    "すりつぶす"
+   ]
+  ],
+  "ety": "古い英語 grindan(すりつぶす) → (石うすなどで)ごりごりすりつぶす・ひく → (歯を)ぎしぎしこすり合わせる・(刃を)研ぐ → (こすれて)ゆっくり進む・止まる(grind to a halt) → 名詞 the daily grind=すりへるような毎日の単調な仕事。活用 grind-ground-ground",
+  "def": [
+   [
+    "動詞",
+    "to break something into very small pieces or powder; to rub things together with a lot of force; to make something sharp by rubbing it."
+   ],
+   [
+    "名詞",
+    "hard, boring work that seems to never end."
+   ]
+  ],
+  "cau": [
+   "活用 grind-ground-ground(過去形 ground は「地面」とは別物。ground coffee=ひいたコーヒー)",
+   "grind A into B=AをすりつぶしてB(粉など)にする",
+   "grind to a halt=(機械・交通・経済が)だんだん止まる・行きづまる",
+   "grind one's teeth=歯ぎしりする。名詞 the daily grind=毎日のつらい単調な仕事"
+  ],
+  "pat": [
+   [
+    "grind A into B",
+    "AをすりつぶしてBにする"
+   ],
+   [
+    "ground A",
+    "ひいたA(ground coffee / beef)"
+   ],
+   [
+    "grind to a halt",
+    "(だんだん)止まる"
+   ],
+   [
+    "grind one's teeth",
+    "歯ぎしりする"
+   ],
+   [
+    "the daily grind",
+    "毎日の単調な仕事"
+   ]
+  ],
+  "ex": [
+   [
+    "すりつぶす",
+    "The farmers grind wheat into flour.",
+    "農家の人たちは小麦をひいて粉にする。"
+   ],
+   [
+    "ground(過去分詞)",
+    "I bought a bag of freshly ground coffee.",
+    "私はひきたてのコーヒーを1袋買った。"
+   ],
+   [
+    "止まる",
+    "Traffic ground to a halt because of the heavy snow.",
+    "大雪のせいで交通がまひした。"
+   ],
+   [
+    "行きづまる",
+    "The talks have ground to a halt.",
+    "その話し合いは行きづまっている。"
+   ],
+   [
+    "歯ぎしりする",
+    "My brother grinds his teeth in his sleep.",
+    "弟は寝ているときに歯ぎしりをする。"
+   ],
+   [
+    "毎日の単調な仕事(名詞)",
+    "She wanted to escape from the daily grind for a while.",
+    "彼女はしばらく毎日の単調な仕事から逃れたかった。"
+   ]
+  ],
+  "chk": [
+   "grind の過去形・過去分詞を言えるか",
+   "grind to a halt の意味を言えるか"
+  ],
+  "exam": [
+   "標準",
+   "活用 ground と grind to a halt が狙われる。"
+  ]
+ },
+ {
+  "w": "subside",
+  "pos": [
+   "動詞"
+  ],
+  "ipa": "/səbˈsaɪd/",
+  "core": "高まったものが、すうっと下に沈んでおさまる",
+  "svg": "<path d=\"M20 90 Q40 30 60 90 Q80 50 100 90 Q120 66 140 90 Q160 80 180 90 L220 90\"/>{arrow 150 30 210 70}",
+  "lab": [
+   [
+    120,
+    130,
+    "おさまる"
+   ]
+  ],
+  "ety": "ラテン語 sub(下に)+ sidere(腰を下ろす・沈む) → 下に沈む → (盛り上がっていた水・地面が)引く・沈下する → (嵐・痛み・怒り・騒ぎが)しずまる・おさまる",
+  "def": [
+   [
+    "動詞",
+    "to become less strong, loud or violent; (of water) to go back to its normal level; (of land or a building) to sink lower."
+   ]
+  ],
+  "cau": [
+   "自動詞:主語は「嵐・痛み・怒り・騒ぎ・洪水」など(The storm subsided.)。人を主語にして「おさめる」とは言わない",
+   "die down / ease / calm down と言い換えられる",
+   "(水が)引く・(地面が)沈下する の意味もある",
+   "名詞 subsidence=沈下・おさまること"
+  ],
+  "pat": [
+   [
+    "A subside",
+    "A(嵐・痛みなど)がおさまる"
+   ],
+   [
+    "the pain subsides",
+    "痛みがおさまる"
+   ],
+   [
+    "the flood subsides",
+    "洪水の水が引く"
+   ],
+   [
+    "wait for A to subside",
+    "Aがおさまるのを待つ"
+   ]
+  ],
+  "ex": [
+   [
+    "おさまる(嵐)",
+    "The storm finally subsided in the early morning.",
+    "嵐は明け方にようやくおさまった。"
+   ],
+   [
+    "おさまる(痛み)",
+    "Take this medicine and the pain will soon subside.",
+    "この薬を飲めば痛みはすぐにおさまるでしょう。"
+   ],
+   [
+    "しずまる(感情)",
+    "When his anger had subsided, he apologized.",
+    "怒りがしずまると、彼は謝った。"
+   ],
+   [
+    "水が引く",
+    "It took a week for the flood waters to subside.",
+    "洪水の水が引くのに1週間かかった。"
+   ],
+   [
+    "wait for A to subside",
+    "We waited for the noise to subside before we started.",
+    "私たちは騒ぎがおさまるのを待ってから始めた。"
+   ],
+   [
+    "沈下する",
+    "The old building has subsided slightly over the years.",
+    "その古い建物は年月とともに少し沈下した。"
+   ]
+  ],
+  "chk": [
+   "subside の主語になるものを2つ言えるか",
+   "subside の言い換え(die down など)を言えるか"
+  ],
+  "exam": [
+   "標準",
+   "長文で「(嵐・痛みが)おさまる」の言い換えとして出る。"
+  ]
+ },
+ {
+  "w": "deploy",
+  "pos": [
+   "動詞"
+  ],
+  "ipa": "/dɪˈplɔɪ/",
+  "core": "たたんだものを広げて、持ち場に並べる",
+  "svg": "{ground}{man 50 52}<line x1=\"50\" y1=\"74\" x2=\"78\" y2=\"66\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/>{arrow 90 70 180 38}{arrow 90 80 180 80}{arrow 90 90 180 120}<rect x=\"186\" y=\"28\" width=\"16\" height=\"16\"/><rect x=\"186\" y=\"72\" width=\"16\" height=\"16\"/><rect x=\"186\" y=\"112\" width=\"16\" height=\"16\"/>",
+  "lab": [
+   [
+    128,
+    24,
+    "配置する"
+   ]
+  ],
+  "ety": "古いフランス語 desployer(dis=反対に + plier=たたむ。display と同じ根) → たたんだものを広げる → (軍隊・人員を)展開する・持ち場に配置する → (資源・技術・能力を)効果的に使う・活用する",
+  "def": [
+   [
+    "動詞",
+    "to move soldiers or equipment into position so they are ready to use; to use something or someone in an effective way."
+   ]
+  ],
+  "cau": [
+   "deploy A=A(軍隊・警察・人員)を配置する・展開する(受け身 be deployed to/in A がよく出る)",
+   "(技術・資源・能力を)活用する の意味もある(use の硬い言い換え)",
+   "名詞 deployment=配備・展開",
+   "display(広げて見せる)と同じ「たたんだのを広げる」が根"
+  ],
+  "pat": [
+   [
+    "deploy A",
+    "A(部隊・人員)を配置する"
+   ],
+   [
+    "be deployed to / in A",
+    "Aに配置される"
+   ],
+   [
+    "deploy A to do",
+    "…するためにAを配置する"
+   ],
+   [
+    "deploy A (technology)",
+    "A(技術・資源)を活用する"
+   ],
+   [
+    "the deployment of A",
+    "Aの配備"
+   ]
+  ],
+  "ex": [
+   [
+    "配置する",
+    "The government deployed troops along the border.",
+    "政府は国境沿いに部隊を配置した。"
+   ],
+   [
+    "be deployed",
+    "More police officers were deployed in the city center.",
+    "より多くの警察官が市の中心部に配置された。"
+   ],
+   [
+    "deploy A to do",
+    "Rescue teams were deployed to search for survivors.",
+    "生存者を捜すために救助隊が送りこまれた。"
+   ],
+   [
+    "活用する",
+    "The company deployed new technology to cut costs.",
+    "その会社は経費を減らすために新しい技術を活用した。"
+   ],
+   [
+    "生かす",
+    "She deployed all her skills to win the argument.",
+    "彼女は議論に勝つために持てる技術をすべて生かした。"
+   ],
+   [
+    "deployment(名詞)",
+    "The deployment of the new system took six months.",
+    "新しいシステムの導入には6か月かかった。"
+   ]
+  ],
+  "chk": [
+   "be deployed to A の意味を言えるか",
+   "deploy の「活用する」の意味を言えるか"
+  ],
+  "exam": [
+   "標準",
+   "ニュース・長文で「配置する」「(技術を)活用する」が出る。"
+  ]
+ },
+ {
+  "w": "prosper",
+  "pos": [
+   "動詞"
+  ],
+  "ipa": "/ˈprɑːspər/",
+  "core": "望みどおりに、ぐんぐん伸びて栄える",
+  "svg": "{ground}<rect x=\"40\" y=\"110\" width=\"30\" height=\"30\"/><rect x=\"90\" y=\"84\" width=\"30\" height=\"56\"/><rect x=\"140\" y=\"56\" width=\"30\" height=\"84\"/>{arrow 50 96 180 30}",
+  "lab": [
+   [
+    204,
+    100,
+    "栄える"
+   ]
+  ],
+  "ety": "ラテン語 prosperus(望みどおりの。pro=前へ + spes=望み) → 望みどおりにうまくいく → (人・商売・町が)栄える・成功する・繁盛する → 名詞 prosperity=繁栄、形容詞 prosperous=繁栄している・裕福な",
+  "def": [
+   [
+    "動詞",
+    "to be successful, especially by making a lot of money; to grow and develop well."
+   ]
+  ],
+  "cau": [
+   "自動詞:A prosper=Aが栄える(prosper A とはしない)。thrive / flourish と言い換えられる",
+   "名詞 prosperity=繁栄(peace and prosperity=平和と繁栄)",
+   "形容詞 prosperous=繁栄している・裕福な(a prosperous city)",
+   "反対は decline / fail"
+  ],
+  "pat": [
+   [
+    "A prosper",
+    "Aが栄える・成功する"
+   ],
+   [
+    "prosper in A",
+    "Aで成功する"
+   ],
+   [
+    "prosperity",
+    "繁栄"
+   ],
+   [
+    "prosperous",
+    "繁栄している・裕福な"
+   ]
+  ],
+  "ex": [
+   [
+    "栄える",
+    "The town prospered when the railway arrived.",
+    "鉄道が来てその町は栄えた。"
+   ],
+   [
+    "繁盛する",
+    "Her small business prospered and grew into a large company.",
+    "彼女の小さな商売は繁盛して大企業に成長した。"
+   ],
+   [
+    "prosper in A",
+    "Children who are loved tend to prosper in life.",
+    "愛されて育った子どもは人生で成功しやすい。"
+   ],
+   [
+    "よく育つ",
+    "These plants prosper in warm, wet climates.",
+    "これらの植物は暖かく湿った気候でよく育つ。"
+   ],
+   [
+    "prosperity(名詞)",
+    "The country enjoyed peace and prosperity for many years.",
+    "その国は長年、平和と繁栄を享受した。"
+   ],
+   [
+    "prosperous(形容詞)",
+    "He came from a prosperous family of merchants.",
+    "彼は裕福な商人の家の出だった。"
+   ]
+  ],
+  "chk": [
+   "prosperity と prosperous の意味を言えるか",
+   "prosper の言い換えを1つ言えるか"
+  ],
+  "exam": [
+   "標準",
+   "名詞 prosperity・形容詞 prosperous が長文・語形問題で出る。"
+  ]
+ },
+ {
+  "w": "compile",
+  "pos": [
+   "動詞"
+  ],
+  "ipa": "/kəmˈpaɪl/",
+  "core": "ばらばらの資料を集めて、1冊にまとめる",
+  "svg": "<rect x=\"20\" y=\"20\" width=\"30\" height=\"22\"/><rect x=\"20\" y=\"70\" width=\"30\" height=\"22\"/><rect x=\"20\" y=\"118\" width=\"30\" height=\"22\"/>{arrow 54 31 144 64}{arrow 54 81 144 84}{arrow 54 129 144 104}<rect x=\"150\" y=\"44\" width=\"60\" height=\"76\"/><line x1=\"160\" y1=\"62\" x2=\"200\" y2=\"62\"/><line x1=\"160\" y1=\"78\" x2=\"200\" y2=\"78\"/><line x1=\"160\" y1=\"94\" x2=\"200\" y2=\"94\"/>",
+  "lab": [
+   [
+    180,
+    140,
+    "まとめる"
+   ]
+  ],
+  "ety": "ラテン語 com(いっしょに)+ pilare(積み上げる。pile=山 と同じ根) → いっしょに積み上げる → (資料・情報を)集めて編集する・まとめる → (辞書・リスト・報告書を)作る",
+  "def": [
+   [
+    "動詞",
+    "to collect information from different places and arrange it in a book, list or report."
+   ]
+  ],
+  "cau": [
+   "compile A=A(リスト・辞書・報告書・資料)を(集めて)作る・編集する。目的語は「できあがる物」も「集める情報」も来る",
+   "compile A from B=BからAを作る(B=いろいろな資料)",
+   "名詞 compilation=編集(物)、compiler=編集者",
+   "pile(積み重ね)と同じ根で「積み上げてまとめる」と覚える"
+  ],
+  "pat": [
+   [
+    "compile a list of A",
+    "Aの一覧表を作る"
+   ],
+   [
+    "compile A from B",
+    "BをもとにAをまとめる"
+   ],
+   [
+    "compile data / information",
+    "データ・情報を集める"
+   ],
+   [
+    "compile a dictionary",
+    "辞書を編む"
+   ],
+   [
+    "a compilation of A",
+    "Aを集めたもの"
+   ]
+  ],
+  "ex": [
+   [
+    "一覧表を作る",
+    "The teacher compiled a list of useful books for us.",
+    "先生は私たちのために役に立つ本の一覧を作ってくれた。"
+   ],
+   [
+    "compile A from B",
+    "The report was compiled from interviews with 200 students.",
+    "その報告書は200人の生徒への聞き取りをもとにまとめられた。"
+   ],
+   [
+    "集める",
+    "Scientists have compiled data on the weather for a century.",
+    "科学者たちは1世紀にわたって天候のデータを集めてきた。"
+   ],
+   [
+    "編む",
+    "It took them twenty years to compile the dictionary.",
+    "彼らがその辞書を編むのに20年かかった。"
+   ],
+   [
+    "まとめる",
+    "Please compile your notes before the meeting.",
+    "会議の前にメモをまとめておいてください。"
+   ],
+   [
+    "compilation(名詞)",
+    "This album is a compilation of her greatest hits.",
+    "このアルバムは彼女のヒット曲を集めたものだ。"
+   ]
+  ],
+  "chk": [
+   "compile a list の意味を言えるか",
+   "compile の名詞形を言えるか"
+  ],
+  "exam": [
+   "標準",
+   "長文で「(資料を)まとめる・作る」の意味で出る。"
+  ]
+ },
+ {
+  "w": "enroll",
+  "pos": [
+   "動詞"
+  ],
+  "ipa": "/ɪnˈroʊl/",
+  "core": "名簿(ロール)の中に、名前を書き入れる",
+  "svg": "{ground}{man 50 52}<line x1=\"50\" y1=\"74\" x2=\"74\" y2=\"80\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/>{arrow 80 80 124 80}<rect x=\"130\" y=\"24\" width=\"80\" height=\"108\"/><line x1=\"142\" y1=\"44\" x2=\"198\" y2=\"44\"/><line x1=\"142\" y1=\"60\" x2=\"198\" y2=\"60\"/><line x1=\"142\" y1=\"76\" x2=\"198\" y2=\"76\"/><line x1=\"142\" y1=\"92\" x2=\"198\" y2=\"92\"/><line x1=\"142\" y1=\"108\" x2=\"198\" y2=\"108\"/>",
+  "lab": [
+   [
+    94,
+    24,
+    "名簿へ"
+   ]
+  ],
+  "ety": "古いフランス語 en(中に)+ rolle(巻物・名簿。roll と同じ根) → 名簿の中に名前を書き入れる → (学校・講座に)入学する・登録する(enroll in A) → (人を)入学させる・入会させる → 名詞 enrollment=入学・登録(者数)",
+  "def": [
+   [
+    "動詞",
+    "to officially become a member of a school, course or group; to officially make someone a member."
+   ]
+  ],
+  "cau": [
+   "enroll in / at A=A(講座・学校)に入学する・登録する(前置詞 in / at を忘れない)",
+   "他動詞で enroll A in B=AをBに入学させる/be enrolled in A=Aに在籍している",
+   "イギリス英語では enrol(l が1つ)。名詞 enrollment=入学・登録者数",
+   "join / register for / sign up for と言い換えられる"
+  ],
+  "pat": [
+   [
+    "enroll in A",
+    "A(講座)に登録する・入学する"
+   ],
+   [
+    "enroll at A",
+    "A(学校)に入学する"
+   ],
+   [
+    "enroll A in B",
+    "AをBに入学させる"
+   ],
+   [
+    "be enrolled in A",
+    "Aに在籍している"
+   ],
+   [
+    "enrollment",
+    "入学・登録(者数)"
+   ]
+  ],
+  "ex": [
+   [
+    "登録する",
+    "I enrolled in an online English course last month.",
+    "先月、私はオンラインの英語講座に申しこんだ。"
+   ],
+   [
+    "入学する",
+    "She enrolled at a university in Tokyo.",
+    "彼女は東京の大学に入学した。"
+   ],
+   [
+    "入学させる",
+    "His parents enrolled him in a local swimming school.",
+    "両親は彼を地元の水泳教室に入れた。"
+   ],
+   [
+    "be enrolled in",
+    "About 600 students are enrolled in this school.",
+    "この学校には約600人の生徒が在籍している。"
+   ],
+   [
+    "enrollment(名詞)",
+    "School enrollment has fallen because of the low birth rate.",
+    "少子化のせいで入学者数が減っている。"
+   ],
+   [
+    "入会する",
+    "Anyone over sixteen can enroll as a member.",
+    "16歳以上なら誰でも会員として入会できる。"
+   ]
+  ],
+  "chk": [
+   "enroll のあとの前置詞を言えるか",
+   "enrollment の意味を言えるか"
+  ],
+  "exam": [
+   "標準",
+   "enroll in A の型と enrollment(入学者数)が長文・グラフ問題で出る。"
+  ]
+ },
+ {
+  "w": "heal",
+  "pos": [
+   "動詞"
+  ],
+  "ipa": "/hiːl/",
+  "core": "欠けたところがふさがって、元のまるごとに戻る",
+  "svg": "<circle cx=\"60\" cy=\"80\" r=\"30\"/><polyline points=\"52,50 64,70 54,86 64,110\"/>{arrow 100 80 140 80}<circle cx=\"180\" cy=\"80\" r=\"30\"/>",
+  "lab": [
+   [
+    120,
+    140,
+    "元どおり"
+   ]
+  ],
+  "ety": "古い英語 hælan(まるごと・完全にする。whole・health と同じ根) → (傷・けがが)ふさがって治る・(傷を)治す → (心の傷・不和を)いやす・和解させる → 名詞 healing=いやし",
+  "def": [
+   [
+    "動詞",
+    "(of a wound or injury) to become healthy again; to make someone or something healthy again; to end a painful feeling or a disagreement."
+   ]
+  ],
+  "cau": [
+   "自動詞も他動詞もある:The wound healed.(傷が治った)/ Time heals all wounds.(時はすべての傷をいやす)",
+   "heal は主に「傷・けが・心の傷」、cure は「病気」を治す(cure A of B)、treat は「治療する(治るとは限らない)」",
+   "heal up=(傷が)すっかり治る。heal the rift=不和を解消する",
+   "health(健康)・whole(まるごとの)と同じ根"
+  ],
+  "pat": [
+   [
+    "A heal",
+    "A(傷)が治る"
+   ],
+   [
+    "heal A",
+    "A(傷・心)をいやす・治す"
+   ],
+   [
+    "heal up",
+    "すっかり治る"
+   ],
+   [
+    "heal the wounds of A",
+    "Aの傷をいやす"
+   ],
+   [
+    "healing",
+    "いやし"
+   ]
+  ],
+  "ex": [
+   [
+    "治る",
+    "The cut on my finger healed in a few days.",
+    "指の切り傷は数日で治った。"
+   ],
+   [
+    "heal up",
+    "It will take a month for your leg to heal up completely.",
+    "足が完全に治るには1か月かかるだろう。"
+   ],
+   [
+    "治す",
+    "This cream helps heal dry skin.",
+    "このクリームは乾燥肌を治すのに役立つ。"
+   ],
+   [
+    "いやす",
+    "Music can heal a broken heart.",
+    "音楽は傷ついた心をいやすことができる。"
+   ],
+   [
+    "和解させる",
+    "The leaders worked hard to heal the divisions in the country.",
+    "指導者たちは国の分断を修復しようと懸命に努めた。"
+   ],
+   [
+    "heal と cure",
+    "Doctors can cure the disease, but the scar will take time to heal.",
+    "医者はその病気を治せるが、傷あとが治るには時間がかかる。"
+   ]
+  ],
+  "chk": [
+   "heal と cure の違いを言えるか",
+   "heal の自動詞・他動詞の例を言えるか"
+  ],
+  "exam": [
+   "頻出",
+   "heal / cure / treat の使い分けが語法・語彙問題で狙われる。"
+  ]
+ }
+];

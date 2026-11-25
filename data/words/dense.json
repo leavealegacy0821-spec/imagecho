@@ -1,0 +1,98 @@
+{
+  "word": "dense",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/dens/",
+  "core_image": {
+    "text": "すき間なく、ぎっしり詰まった",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"36\" y=\"38\" width=\"112\" height=\"88\"/><circle cx=\"52\" cy=\"54\" r=\"7\"/><circle cx=\"72\" cy=\"54\" r=\"7\"/><circle cx=\"92\" cy=\"54\" r=\"7\"/><circle cx=\"112\" cy=\"54\" r=\"7\"/><circle cx=\"132\" cy=\"54\" r=\"7\"/><circle cx=\"52\" cy=\"74\" r=\"7\"/><circle cx=\"72\" cy=\"74\" r=\"7\"/><circle cx=\"92\" cy=\"74\" r=\"7\"/><circle cx=\"112\" cy=\"74\" r=\"7\"/><circle cx=\"132\" cy=\"74\" r=\"7\"/><circle cx=\"52\" cy=\"94\" r=\"7\"/><circle cx=\"72\" cy=\"94\" r=\"7\"/><circle cx=\"92\" cy=\"94\" r=\"7\"/><circle cx=\"112\" cy=\"94\" r=\"7\"/><circle cx=\"132\" cy=\"94\" r=\"7\"/><circle cx=\"52\" cy=\"112\" r=\"7\"/><circle cx=\"72\" cy=\"112\" r=\"7\"/><circle cx=\"92\" cy=\"112\" r=\"7\"/><circle cx=\"112\" cy=\"112\" r=\"7\"/><circle cx=\"132\" cy=\"112\" r=\"7\"/></g><text x=\"195\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぎっしり</text></svg>"
+  },
+  "etymology": "ラテン語 densus(ぎっしり詰まった) → 密集した・密度が高い → (霧・煙が)濃い → (文章が)中身が詰まって難しい → (話し言葉で)頭が鈍い",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "having a lot of things or people close together; (of fog or smoke) thick and difficult to see through; (of writing) difficult to understand."
+    }
+  ],
+  "cautions": [
+    "a dense population=人口密度が高いこと(「人口が多い」は a large population)",
+    "densely populated=人口が密集した(副詞の形で頻出)",
+    "dense fog=濃い霧(thick と言い換え。dark とは言わない)",
+    "名詞 density=密度(population density=人口密度)"
+  ],
+  "patterns": [
+    {
+      "form": "a dense forest",
+      "meaning": "うっそうとした森"
+    },
+    {
+      "form": "dense fog",
+      "meaning": "濃い霧"
+    },
+    {
+      "form": "densely populated",
+      "meaning": "人口が密集した"
+    },
+    {
+      "form": "density",
+      "meaning": "密度"
+    },
+    {
+      "form": "a dense text",
+      "meaning": "中身が詰まった難しい文章"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "密集した",
+      "en": "We got lost in the dense forest.",
+      "ja": "私たちはうっそうとした森で道に迷った。"
+    },
+    {
+      "source": "original",
+      "label": "濃い",
+      "en": "Dense fog delayed many flights.",
+      "ja": "濃い霧のため多くの便が遅れた。"
+    },
+    {
+      "source": "original",
+      "label": "densely populated",
+      "en": "Tokyo is one of the most densely populated cities in the world.",
+      "ja": "東京は世界で最も人口が密集した都市の1つだ。"
+    },
+    {
+      "source": "original",
+      "label": "density(名詞)",
+      "en": "The population density of this area is very low.",
+      "ja": "この地域の人口密度はとても低い。"
+    },
+    {
+      "source": "original",
+      "label": "難しい",
+      "en": "The book was too dense for me to finish.",
+      "ja": "その本は中身が詰まりすぎていて、最後まで読めなかった。"
+    },
+    {
+      "source": "original",
+      "label": "密度が高い",
+      "en": "Lead is a very dense metal.",
+      "ja": "鉛はとても密度の高い金属だ。"
+    }
+  ],
+  "check_points": [
+    "densely populated の意味を言えるか",
+    "名詞 density の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "densely populated、population density が長文・グラフ問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1505
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "summon",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈsʌmən/",
+  "core_image": {
+    "text": "声をかけて、そばへ呼び寄せる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"72\" y2=\"56\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><circle cx=\"186\" cy=\"52\" r=\"10\"/><line x1=\"186\" y1=\"62\" x2=\"186\" y2=\"106\"/><line x1=\"186\" y1=\"106\" x2=\"176\" y2=\"140\"/><line x1=\"186\" y1=\"106\" x2=\"196\" y2=\"140\"/><line x1=\"186\" y1=\"74\" x2=\"176\" y2=\"96\"/><line x1=\"186\" y1=\"74\" x2=\"196\" y2=\"96\"/><line x1=\"166\" y1=\"104\" x2=\"76\" y2=\"104\" stroke-dasharray=\"5 5\"/><polyline points=\"83,107.8 76,104 83,100.2\"/></g><text x=\"124\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">来なさい</text></svg>"
+  },
+  "etymology": "ラテン語 summonere(こっそり知らせる。sub=下で + monere=注意を促す。monitor と同じ根) → 呼び出す・呼び寄せる → (会議・議会を)召集する → (勇気・力を)奮い起こす=自分の中から呼び出す",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to officially order someone to come to a place; to call people to a meeting; to make an effort to produce a quality such as courage (summon up)."
+    }
+  ],
+  "cautions": [
+    "be summoned to A=Aに呼び出される(受け身でよく出る。to the office / to court)",
+    "summon A to do=Aに〜するよう呼びつける",
+    "summon (up) the courage to do=〜する勇気を奮い起こす(頻出)",
+    "名詞 summons=呼び出し状・召喚状(s で終わるが単数)"
+  ],
+  "patterns": [
+    {
+      "form": "summon A",
+      "meaning": "Aを呼び出す・呼び寄せる"
+    },
+    {
+      "form": "be summoned to A",
+      "meaning": "Aに呼び出される"
+    },
+    {
+      "form": "summon A to do",
+      "meaning": "Aに〜するよう呼びつける"
+    },
+    {
+      "form": "summon (up) the courage to do",
+      "meaning": "〜する勇気を奮い起こす"
+    },
+    {
+      "form": "summon a meeting",
+      "meaning": "会議を召集する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "呼び寄せる",
+      "en": "The hotel staff summoned a doctor at once.",
+      "ja": "ホテルの人はすぐに医者を呼んだ。"
+    },
+    {
+      "source": "original",
+      "label": "be summoned to",
+      "en": "He was summoned to the principal's office.",
+      "ja": "彼は校長室に呼び出された。"
+    },
+    {
+      "source": "original",
+      "label": "summon A to do",
+      "en": "The king summoned his ministers to discuss the war.",
+      "ja": "王は戦争について話し合うため大臣たちを呼び集めた。"
+    },
+    {
+      "source": "original",
+      "label": "奮い起こす",
+      "en": "She finally summoned up the courage to speak to him.",
+      "ja": "彼女はついに勇気を出して彼に話しかけた。"
+    },
+    {
+      "source": "original",
+      "label": "召集する",
+      "en": "The chairman summoned an emergency meeting.",
+      "ja": "議長は緊急会議を召集した。"
+    },
+    {
+      "source": "original",
+      "label": "力を出す",
+      "en": "He summoned all his strength and lifted the rock.",
+      "ja": "彼は力をふりしぼってその岩を持ち上げた。"
+    }
+  ],
+  "check_points": [
+    "summon up the courage to do の意味を言えるか",
+    "be summoned to A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "summon (up) the courage と「呼び出す」の受け身が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1508
+    }
+  ]
+}

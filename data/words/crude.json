@@ -1,0 +1,98 @@
+{
+  "word": "crude",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/kruːd/",
+  "core_image": {
+    "text": "手を加えず、生のままでごつごつ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polygon points=\"40,140 48,104 72,90 96,102 108,140\"/><line x1=\"58\" y1=\"118\" x2=\"70\" y2=\"110\"/><line x1=\"80\" y1=\"124\" x2=\"92\" y2=\"116\"/><line x1=\"118\" y1=\"110\" x2=\"158\" y2=\"100\" stroke-dasharray=\"5 5\"/><polyline points=\"150.3,98 158,100 152.1,105.4\"/><polygon points=\"170,92 190,72 210,92 190,124\"/><line x1=\"170\" y1=\"92\" x2=\"210\" y2=\"92\"/></g><text x=\"74\" y=\"72\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">生のまま</text></svg>"
+  },
+  "etymology": "ラテン語 crudus(生の。cruel=残酷な と同じ根) → 手を加えていない・未加工の(crude oil=原油) → (作りが)大まかな・粗雑な → (言葉・態度が)洗練されていない・下品な",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "in a natural state, not yet treated or used; simple and not made carefully; rude or offensive."
+    }
+  ],
+  "cautions": [
+    "crude oil=原油(未加工の石油。長文・グラフで頻出)",
+    "a crude estimate / drawing=大まかな見積もり・粗い絵(=rough)",
+    "a crude joke=下品な冗談(=vulgar)",
+    "副詞 crudely=大ざっぱに・下品に"
+  ],
+  "patterns": [
+    {
+      "form": "crude oil",
+      "meaning": "原油"
+    },
+    {
+      "form": "a crude estimate",
+      "meaning": "大まかな見積もり"
+    },
+    {
+      "form": "a crude tool",
+      "meaning": "粗末な道具"
+    },
+    {
+      "form": "a crude joke",
+      "meaning": "下品な冗談"
+    },
+    {
+      "form": "crudely",
+      "meaning": "大ざっぱに"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "未加工の",
+      "en": "The price of crude oil rose sharply last month.",
+      "ja": "先月、原油の価格が急に上がった。"
+    },
+    {
+      "source": "original",
+      "label": "大まかな",
+      "en": "This is only a crude estimate of the cost.",
+      "ja": "これは費用の大まかな見積もりにすぎない。"
+    },
+    {
+      "source": "original",
+      "label": "粗末な",
+      "en": "Early humans made crude tools from stone.",
+      "ja": "初期の人類は石で粗末な道具を作った。"
+    },
+    {
+      "source": "original",
+      "label": "粗い",
+      "en": "He drew a crude map on a piece of paper.",
+      "ja": "彼は紙切れに大ざっぱな地図を描いた。"
+    },
+    {
+      "source": "original",
+      "label": "下品な",
+      "en": "Please don't tell crude jokes in front of the children.",
+      "ja": "子どもたちの前で下品な冗談を言わないで。"
+    },
+    {
+      "source": "original",
+      "label": "crudely(副詞)",
+      "en": "The boat was crudely made but it floated.",
+      "ja": "そのボートは作りが雑だったが、ちゃんと浮いた。"
+    }
+  ],
+  "check_points": [
+    "crude oil の意味を言えるか",
+    "a crude estimate の crude を別の語で言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "crude oil(原油)、crude=rough(大まかな)が長文・言い換えで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1506
+    }
+  ]
+}

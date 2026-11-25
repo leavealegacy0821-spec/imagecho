@@ -1,0 +1,98 @@
+{
+  "word": "enroll",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈroʊl/",
+  "core_image": {
+    "text": "名簿(ロール)の中に、名前を書き入れる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"74\" y2=\"80\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><line x1=\"80\" y1=\"80\" x2=\"124\" y2=\"80\"/><polyline points=\"117,76.2 124,80 117,83.8\"/><rect x=\"130\" y=\"24\" width=\"80\" height=\"108\"/><line x1=\"142\" y1=\"44\" x2=\"198\" y2=\"44\"/><line x1=\"142\" y1=\"60\" x2=\"198\" y2=\"60\"/><line x1=\"142\" y1=\"76\" x2=\"198\" y2=\"76\"/><line x1=\"142\" y1=\"92\" x2=\"198\" y2=\"92\"/><line x1=\"142\" y1=\"108\" x2=\"198\" y2=\"108\"/></g><text x=\"94\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">名簿へ</text></svg>"
+  },
+  "etymology": "古いフランス語 en(中に)+ rolle(巻物・名簿。roll と同じ根) → 名簿の中に名前を書き入れる → (学校・講座に)入学する・登録する(enroll in A) → (人を)入学させる・入会させる → 名詞 enrollment=入学・登録(者数)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to officially become a member of a school, course or group; to officially make someone a member."
+    }
+  ],
+  "cautions": [
+    "enroll in / at A=A(講座・学校)に入学する・登録する(前置詞 in / at を忘れない)",
+    "他動詞で enroll A in B=AをBに入学させる/be enrolled in A=Aに在籍している",
+    "イギリス英語では enrol(l が1つ)。名詞 enrollment=入学・登録者数",
+    "join / register for / sign up for と言い換えられる"
+  ],
+  "patterns": [
+    {
+      "form": "enroll in A",
+      "meaning": "A(講座)に登録する・入学する"
+    },
+    {
+      "form": "enroll at A",
+      "meaning": "A(学校)に入学する"
+    },
+    {
+      "form": "enroll A in B",
+      "meaning": "AをBに入学させる"
+    },
+    {
+      "form": "be enrolled in A",
+      "meaning": "Aに在籍している"
+    },
+    {
+      "form": "enrollment",
+      "meaning": "入学・登録(者数)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "登録する",
+      "en": "I enrolled in an online English course last month.",
+      "ja": "先月、私はオンラインの英語講座に申しこんだ。"
+    },
+    {
+      "source": "original",
+      "label": "入学する",
+      "en": "She enrolled at a university in Tokyo.",
+      "ja": "彼女は東京の大学に入学した。"
+    },
+    {
+      "source": "original",
+      "label": "入学させる",
+      "en": "His parents enrolled him in a local swimming school.",
+      "ja": "両親は彼を地元の水泳教室に入れた。"
+    },
+    {
+      "source": "original",
+      "label": "be enrolled in",
+      "en": "About 600 students are enrolled in this school.",
+      "ja": "この学校には約600人の生徒が在籍している。"
+    },
+    {
+      "source": "original",
+      "label": "enrollment(名詞)",
+      "en": "School enrollment has fallen because of the low birth rate.",
+      "ja": "少子化のせいで入学者数が減っている。"
+    },
+    {
+      "source": "original",
+      "label": "入会する",
+      "en": "Anyone over sixteen can enroll as a member.",
+      "ja": "16歳以上なら誰でも会員として入会できる。"
+    }
+  ],
+  "check_points": [
+    "enroll のあとの前置詞を言えるか",
+    "enrollment の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "enroll in A の型と enrollment(入学者数)が長文・グラフ問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1519
+    }
+  ]
+}

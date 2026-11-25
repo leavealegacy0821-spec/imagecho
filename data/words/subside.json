@@ -1,0 +1,94 @@
+{
+  "word": "subside",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/səbˈsaɪd/",
+  "core_image": {
+    "text": "高まったものが、すうっと下に沈んでおさまる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 90 Q40 30 60 90 Q80 50 100 90 Q120 66 140 90 Q160 80 180 90 L220 90\"/><line x1=\"150\" y1=\"30\" x2=\"210\" y2=\"70\"/><polyline points=\"206.3,62.9 210,70 202,69.3\"/></g><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">おさまる</text></svg>"
+  },
+  "etymology": "ラテン語 sub(下に)+ sidere(腰を下ろす・沈む) → 下に沈む → (盛り上がっていた水・地面が)引く・沈下する → (嵐・痛み・怒り・騒ぎが)しずまる・おさまる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to become less strong, loud or violent; (of water) to go back to its normal level; (of land or a building) to sink lower."
+    }
+  ],
+  "cautions": [
+    "自動詞:主語は「嵐・痛み・怒り・騒ぎ・洪水」など(The storm subsided.)。人を主語にして「おさめる」とは言わない",
+    "die down / ease / calm down と言い換えられる",
+    "(水が)引く・(地面が)沈下する の意味もある",
+    "名詞 subsidence=沈下・おさまること"
+  ],
+  "patterns": [
+    {
+      "form": "A subside",
+      "meaning": "A(嵐・痛みなど)がおさまる"
+    },
+    {
+      "form": "the pain subsides",
+      "meaning": "痛みがおさまる"
+    },
+    {
+      "form": "the flood subsides",
+      "meaning": "洪水の水が引く"
+    },
+    {
+      "form": "wait for A to subside",
+      "meaning": "Aがおさまるのを待つ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "おさまる(嵐)",
+      "en": "The storm finally subsided in the early morning.",
+      "ja": "嵐は明け方にようやくおさまった。"
+    },
+    {
+      "source": "original",
+      "label": "おさまる(痛み)",
+      "en": "Take this medicine and the pain will soon subside.",
+      "ja": "この薬を飲めば痛みはすぐにおさまるでしょう。"
+    },
+    {
+      "source": "original",
+      "label": "しずまる(感情)",
+      "en": "When his anger had subsided, he apologized.",
+      "ja": "怒りがしずまると、彼は謝った。"
+    },
+    {
+      "source": "original",
+      "label": "水が引く",
+      "en": "It took a week for the flood waters to subside.",
+      "ja": "洪水の水が引くのに1週間かかった。"
+    },
+    {
+      "source": "original",
+      "label": "wait for A to subside",
+      "en": "We waited for the noise to subside before we started.",
+      "ja": "私たちは騒ぎがおさまるのを待ってから始めた。"
+    },
+    {
+      "source": "original",
+      "label": "沈下する",
+      "en": "The old building has subsided slightly over the years.",
+      "ja": "その古い建物は年月とともに少し沈下した。"
+    }
+  ],
+  "check_points": [
+    "subside の主語になるものを2つ言えるか",
+    "subside の言い換え(die down など)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で「(嵐・痛みが)おさまる」の言い換えとして出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1515
+    }
+  ]
+}

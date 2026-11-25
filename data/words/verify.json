@@ -1,0 +1,98 @@
+{
+  "word": "verify",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈverɪfaɪ/",
+  "core_image": {
+    "text": "本当かどうか、照らし合わせて確かめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"40\" width=\"60\" height=\"80\"/><rect x=\"150\" y=\"40\" width=\"60\" height=\"80\"/><line x1=\"42\" y1=\"60\" x2=\"78\" y2=\"60\"/><line x1=\"42\" y1=\"76\" x2=\"78\" y2=\"76\"/><line x1=\"42\" y1=\"92\" x2=\"78\" y2=\"92\"/><line x1=\"162\" y1=\"60\" x2=\"198\" y2=\"60\"/><line x1=\"162\" y1=\"76\" x2=\"198\" y2=\"76\"/><line x1=\"162\" y1=\"92\" x2=\"198\" y2=\"92\"/><line x1=\"96\" y1=\"80\" x2=\"144\" y2=\"80\" stroke-dasharray=\"5 5\"/><polyline points=\"137,76.2 144,80 137,83.8\"/><polyline points=\"106,124 116,136 136,112\"/></g><text x=\"120\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">確かめる</text></svg>"
+  },
+  "etymology": "ラテン語 verus(本当の。very=本当に・まさに と同じ根)+ -fy(…にする) → 本当だとする → (調べて)本当かどうか確かめる・検証する → (事実が)正しいことを証明する・裏づける → 名詞 verification=確認・検証",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to check that something is true or correct; to show that something is true."
+    }
+  ],
+  "cautions": [
+    "verify A=Aが正しいか確かめる。verify that S V=…ということを確かめる(後ろに that 節・wh 節も来る)",
+    "check / confirm と近いが、verify は「証拠と照らして本当かどうかを確かめる」",
+    "(研究・実験で)仮説を検証する の意味でも使う",
+    "名詞 verification=確認・検証。very(本当に)と同じ根"
+  ],
+  "patterns": [
+    {
+      "form": "verify A",
+      "meaning": "Aを確かめる・検証する"
+    },
+    {
+      "form": "verify that S V",
+      "meaning": "…ということを確かめる"
+    },
+    {
+      "form": "verify wh- …",
+      "meaning": "…かどうか・何かを確かめる"
+    },
+    {
+      "form": "be verified by A",
+      "meaning": "Aによって裏づけられる"
+    },
+    {
+      "form": "verification",
+      "meaning": "確認・検証"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "確かめる",
+      "en": "Please verify your email address before you log in.",
+      "ja": "ログインする前にメールアドレスを確認してください。"
+    },
+    {
+      "source": "original",
+      "label": "verify that S V",
+      "en": "The bank called to verify that I had made the payment.",
+      "ja": "私が支払いをしたかどうか確認するため銀行から電話があった。"
+    },
+    {
+      "source": "original",
+      "label": "verify wh-",
+      "en": "It is hard to verify whether the story is true.",
+      "ja": "その話が本当かどうかを確かめるのは難しい。"
+    },
+    {
+      "source": "original",
+      "label": "裏づける",
+      "en": "Her account was verified by two witnesses.",
+      "ja": "彼女の話は2人の目撃者によって裏づけられた。"
+    },
+    {
+      "source": "original",
+      "label": "検証する",
+      "en": "Scientists carried out experiments to verify the theory.",
+      "ja": "科学者たちはその理論を検証するために実験を行った。"
+    },
+    {
+      "source": "original",
+      "label": "verification(名詞)",
+      "en": "The new system requires identity verification.",
+      "ja": "新しいシステムでは本人確認が必要だ。"
+    }
+  ],
+  "check_points": [
+    "verify の後ろに来る形を2つ言えるか",
+    "verify と同じ根の語を1つ言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "情報・研究の長文で「確かめる・検証する」の意味で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1525
+    }
+  ]
+}

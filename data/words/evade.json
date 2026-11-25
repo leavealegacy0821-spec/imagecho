@@ -1,0 +1,98 @@
+{
+  "word": "evade",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪˈveɪd/",
+  "core_image": {
+    "text": "向かってくるものを、さっとかわして外へ逃れる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"30\" cy=\"80\" r=\"8\"/><line x1=\"42\" y1=\"80\" x2=\"124\" y2=\"80\"/><polyline points=\"117,76.2 124,80 117,83.8\"/><circle cx=\"176\" cy=\"52\" r=\"10\"/><line x1=\"176\" y1=\"62\" x2=\"176\" y2=\"106\"/><line x1=\"176\" y1=\"106\" x2=\"166\" y2=\"140\"/><line x1=\"176\" y1=\"106\" x2=\"186\" y2=\"140\"/><line x1=\"176\" y1=\"74\" x2=\"164\" y2=\"96\"/><line x1=\"176\" y1=\"74\" x2=\"188\" y2=\"96\"/><line x1=\"150\" y1=\"26\" x2=\"210\" y2=\"26\"/><polyline points=\"203,22.2 210,26 203,29.8\"/></g><text x=\"84\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かわす</text></svg>"
+  },
+  "etymology": "ラテン語 e(外へ)+ vadere(行く。invade=中へ行く=侵入する と同じ根) → 外へ行く=逃れる → (攻撃・追っ手を)かわす・逃れる → (質問・責任・税を)うまく避ける・ごまかす → 名詞 evasion=回避、形容詞 evasive=はぐらかす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to escape from someone or something, or avoid meeting them; to avoid dealing with something or answering a question; to illegally avoid paying tax."
+    }
+  ],
+  "cautions": [
+    "evade A=Aを(うまく)逃れる・避ける。avoid よりも「ずるく・巧みに」の感じが強い",
+    "evade doing=…するのを避ける(avoid doing と同じく doing を取る)",
+    "evade a question=質問をはぐらかす、evade taxes=脱税する(tax evasion=脱税)",
+    "invade(中へ行く=侵入する)と対にして覚える"
+  ],
+  "patterns": [
+    {
+      "form": "evade A",
+      "meaning": "A(追っ手・攻撃)を逃れる"
+    },
+    {
+      "form": "evade a question",
+      "meaning": "質問をはぐらかす"
+    },
+    {
+      "form": "evade responsibility",
+      "meaning": "責任を逃れる"
+    },
+    {
+      "form": "evade doing",
+      "meaning": "…するのを避ける"
+    },
+    {
+      "form": "tax evasion",
+      "meaning": "脱税"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "逃れる",
+      "en": "The thief evaded the police for three weeks.",
+      "ja": "その泥棒は3週間警察の手を逃れた。"
+    },
+    {
+      "source": "original",
+      "label": "かわす",
+      "en": "The boxer evaded his opponent's punch.",
+      "ja": "そのボクサーは相手のパンチをかわした。"
+    },
+    {
+      "source": "original",
+      "label": "はぐらかす",
+      "en": "The minister evaded the reporter's question.",
+      "ja": "大臣は記者の質問をはぐらかした。"
+    },
+    {
+      "source": "original",
+      "label": "責任を逃れる",
+      "en": "You cannot evade responsibility for what you did.",
+      "ja": "自分のしたことの責任から逃れることはできない。"
+    },
+    {
+      "source": "original",
+      "label": "evade doing",
+      "en": "He tried to evade paying the bill.",
+      "ja": "彼はその勘定を払うのを逃れようとした。"
+    },
+    {
+      "source": "original",
+      "label": "evasive(形容詞)",
+      "en": "She gave an evasive answer when I asked about her plans.",
+      "ja": "予定を尋ねると、彼女ははぐらかすような答えをした。"
+    }
+  ],
+  "check_points": [
+    "evade と avoid のニュアンスの違いを言えるか",
+    "evade のあとに動詞を続けるときの形を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "evade a question / responsibility の型と、invade との区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1524
+    }
+  ]
+}

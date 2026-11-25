@@ -1,0 +1,98 @@
+{
+  "word": "obstruct",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əbˈstrʌkt/",
+  "core_image": {
+    "text": "行く手の前に物を積んで、ふさいでじゃまをする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"52\" y2=\"92\"/><line x1=\"40\" y1=\"74\" x2=\"28\" y2=\"92\"/><line x1=\"58\" y1=\"96\" x2=\"122\" y2=\"96\"/><polyline points=\"115,92.2 122,96 115,99.8\"/><rect x=\"130\" y=\"100\" width=\"40\" height=\"40\"/><rect x=\"130\" y=\"60\" width=\"40\" height=\"40\"/><rect x=\"130\" y=\"20\" width=\"40\" height=\"40\"/></g><text x=\"206\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふさぐ</text></svg>"
+  },
+  "etymology": "ラテン語 ob(…に向かって・前に)+ struere(積む・建てる。structure=構造 と同じ根) → 前に積み上げる → (道・視界・流れを)ふさぐ・さえぎる → (進行・活動を)じゃまする・妨害する → 名詞 obstruction=障害(物)・妨害",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to block a road, path or view so that people or things cannot get past; to try to stop something from happening or making progress."
+    }
+  ],
+  "cautions": [
+    "obstruct A=A(道・視界・流れ)をふさぐ/A(進行・捜査・計画)をじゃまする",
+    "block / hinder / impede と言い換えられる",
+    "obstruct justice=司法を妨害する(ニュースで出る)",
+    "名詞 obstruction=障害物・妨害。structure(積み上げたもの)と同じ根"
+  ],
+  "patterns": [
+    {
+      "form": "obstruct A",
+      "meaning": "A(道・視界)をふさぐ"
+    },
+    {
+      "form": "obstruct A's view",
+      "meaning": "Aの視界をさえぎる"
+    },
+    {
+      "form": "obstruct progress",
+      "meaning": "進行をじゃまする"
+    },
+    {
+      "form": "obstruct justice",
+      "meaning": "司法を妨害する"
+    },
+    {
+      "form": "an obstruction to A",
+      "meaning": "Aへの障害"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ふさぐ",
+      "en": "A fallen tree obstructed the road.",
+      "ja": "倒れた木が道をふさいでいた。"
+    },
+    {
+      "source": "original",
+      "label": "視界をさえぎる",
+      "en": "The tall man in front of me obstructed my view of the stage.",
+      "ja": "前の背の高い男性のせいで舞台が見えなかった。"
+    },
+    {
+      "source": "original",
+      "label": "じゃまする",
+      "en": "Bad weather obstructed the rescue work.",
+      "ja": "悪天候が救助作業をさまたげた。"
+    },
+    {
+      "source": "original",
+      "label": "妨害する",
+      "en": "He was arrested for obstructing the police investigation.",
+      "ja": "彼は警察の捜査を妨害したとして逮捕された。"
+    },
+    {
+      "source": "original",
+      "label": "流れをふさぐ",
+      "en": "Leaves were obstructing the drain.",
+      "ja": "落ち葉が排水口をふさいでいた。"
+    },
+    {
+      "source": "original",
+      "label": "obstruction(名詞)",
+      "en": "The new law could become an obstruction to economic growth.",
+      "ja": "その新しい法律は経済成長の障害になりうる。"
+    }
+  ],
+  "check_points": [
+    "obstruct の言い換えを1つ言えるか",
+    "obstruction の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で「さえぎる・じゃまする」の意味と名詞 obstruction が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1528
+    }
+  ]
+}

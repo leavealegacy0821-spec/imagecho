@@ -1,0 +1,94 @@
+{
+  "word": "dwindle",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈdwɪndl/",
+  "core_image": {
+    "text": "だんだん細って、小さく減っていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"44\" cy=\"84\" r=\"26\"/><circle cx=\"104\" cy=\"84\" r=\"18\"/><circle cx=\"152\" cy=\"84\" r=\"11\"/><circle cx=\"190\" cy=\"84\" r=\"5\"/><line x1=\"30\" y1=\"130\" x2=\"210\" y2=\"130\"/><polyline points=\"203,126.2 210,130 203,133.8\"/></g><text x=\"120\" y=\"42\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">だんだん減る</text></svg>"
+  },
+  "etymology": "古い英語 dwinan(やせ細る・消えていく)+ -le(くり返し・少しずつ) → 少しずつやせ細る → (数・量・力が)だんだん減る・縮小する → dwindle away=しだいに消えていく",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to become gradually smaller in number or amount until almost nothing is left."
+    }
+  ],
+  "cautions": [
+    "自動詞:A dwindle=Aがだんだん減る(dwindle A とはしない)",
+    "急に減るのではなく「だんだん・じわじわ」(gradually / steadily と相性がよい)",
+    "dwindle to A=Aにまで減る、dwindle away=しだいに消えていく",
+    "dwindling=減りつつある(dwindling population / resources)。decrease / diminish / shrink と言い換えられる"
+  ],
+  "patterns": [
+    {
+      "form": "A dwindle",
+      "meaning": "Aがだんだん減る"
+    },
+    {
+      "form": "dwindle to A",
+      "meaning": "Aにまで減る"
+    },
+    {
+      "form": "dwindle away",
+      "meaning": "しだいに消えていく"
+    },
+    {
+      "form": "dwindling A",
+      "meaning": "減りつつあるA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "減る",
+      "en": "The number of young people in the village has dwindled.",
+      "ja": "その村の若者の数はだんだん減ってきた。"
+    },
+    {
+      "source": "original",
+      "label": "dwindle to A",
+      "en": "The audience dwindled to just a few people.",
+      "ja": "観客はほんの数人にまで減った。"
+    },
+    {
+      "source": "original",
+      "label": "dwindle away",
+      "en": "Our savings slowly dwindled away.",
+      "ja": "私たちの貯金は少しずつ消えていった。"
+    },
+    {
+      "source": "original",
+      "label": "弱まる",
+      "en": "As the hours passed, our hopes of finding him dwindled.",
+      "ja": "時間がたつにつれて、彼を見つけられる望みは薄れていった。"
+    },
+    {
+      "source": "original",
+      "label": "dwindling(形容詞)",
+      "en": "The country is facing dwindling natural resources.",
+      "ja": "その国は減りつつある天然資源の問題に直面している。"
+    },
+    {
+      "source": "original",
+      "label": "steadily",
+      "en": "Membership of the club has steadily dwindled.",
+      "ja": "そのクラブの会員数は着実に減ってきている。"
+    }
+  ],
+  "check_points": [
+    "dwindle の「だんだん」というニュアンスを言えるか",
+    "dwindle の言い換えを1つ言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文の言い換えで decrease / diminish と結びつける形で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1522
+    }
+  ]
+}

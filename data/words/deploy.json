@@ -1,0 +1,98 @@
+{
+  "word": "deploy",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈplɔɪ/",
+  "core_image": {
+    "text": "たたんだものを広げて、持ち場に並べる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"78\" y2=\"66\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><line x1=\"90\" y1=\"70\" x2=\"180\" y2=\"38\"/><polyline points=\"172.1,36.7 180,38 174.7,44\"/><line x1=\"90\" y1=\"80\" x2=\"180\" y2=\"80\"/><polyline points=\"173,76.2 180,80 173,83.8\"/><line x1=\"90\" y1=\"90\" x2=\"180\" y2=\"120\"/><polyline points=\"174.6,114.1 180,120 172.1,121.4\"/><rect x=\"186\" y=\"28\" width=\"16\" height=\"16\"/><rect x=\"186\" y=\"72\" width=\"16\" height=\"16\"/><rect x=\"186\" y=\"112\" width=\"16\" height=\"16\"/></g><text x=\"128\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">配置する</text></svg>"
+  },
+  "etymology": "古いフランス語 desployer(dis=反対に + plier=たたむ。display と同じ根) → たたんだものを広げる → (軍隊・人員を)展開する・持ち場に配置する → (資源・技術・能力を)効果的に使う・活用する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move soldiers or equipment into position so they are ready to use; to use something or someone in an effective way."
+    }
+  ],
+  "cautions": [
+    "deploy A=A(軍隊・警察・人員)を配置する・展開する(受け身 be deployed to/in A がよく出る)",
+    "(技術・資源・能力を)活用する の意味もある(use の硬い言い換え)",
+    "名詞 deployment=配備・展開",
+    "display(広げて見せる)と同じ「たたんだのを広げる」が根"
+  ],
+  "patterns": [
+    {
+      "form": "deploy A",
+      "meaning": "A(部隊・人員)を配置する"
+    },
+    {
+      "form": "be deployed to / in A",
+      "meaning": "Aに配置される"
+    },
+    {
+      "form": "deploy A to do",
+      "meaning": "…するためにAを配置する"
+    },
+    {
+      "form": "deploy A (technology)",
+      "meaning": "A(技術・資源)を活用する"
+    },
+    {
+      "form": "the deployment of A",
+      "meaning": "Aの配備"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "配置する",
+      "en": "The government deployed troops along the border.",
+      "ja": "政府は国境沿いに部隊を配置した。"
+    },
+    {
+      "source": "original",
+      "label": "be deployed",
+      "en": "More police officers were deployed in the city center.",
+      "ja": "より多くの警察官が市の中心部に配置された。"
+    },
+    {
+      "source": "original",
+      "label": "deploy A to do",
+      "en": "Rescue teams were deployed to search for survivors.",
+      "ja": "生存者を捜すために救助隊が送りこまれた。"
+    },
+    {
+      "source": "original",
+      "label": "活用する",
+      "en": "The company deployed new technology to cut costs.",
+      "ja": "その会社は経費を減らすために新しい技術を活用した。"
+    },
+    {
+      "source": "original",
+      "label": "生かす",
+      "en": "She deployed all her skills to win the argument.",
+      "ja": "彼女は議論に勝つために持てる技術をすべて生かした。"
+    },
+    {
+      "source": "original",
+      "label": "deployment(名詞)",
+      "en": "The deployment of the new system took six months.",
+      "ja": "新しいシステムの導入には6か月かかった。"
+    }
+  ],
+  "check_points": [
+    "be deployed to A の意味を言えるか",
+    "deploy の「活用する」の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "ニュース・長文で「配置する」「(技術を)活用する」が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1516
+    }
+  ]
+}

@@ -208,7 +208,7 @@
     },
     {
       "title": "使い分け:確かめる・確実にする",
-      "note": "confirm=正しいと裏づける ／ prove=証拠で正しさを示す ／ ensure=必ずそうなるようにする ／ assure=相手に請け合って安心させる ／ insure=保険をかける ／ guarantee=保証する ／ secure=しっかり確保する",
+      "note": "confirm=正しいと裏づける ／ prove=証拠で正しさを示す ／ ensure=必ずそうなるようにする ／ assure=相手に請け合って安心させる ／ insure=保険をかける ／ guarantee=保証する ／ secure=しっかり確保する ／ verify=本当かどうか照らして確かめる",
       "words": [
         "confirm",
         "prove",
@@ -216,7 +216,8 @@
         "assure",
         "insure",
         "guarantee",
-        "secure"
+        "secure",
+        "verify"
       ]
     },
     {
@@ -272,13 +273,14 @@
     },
     {
       "title": "使い分け:頼む・求める",
-      "note": "ask=たずねる・頼む ／ request=(丁寧・正式に)お願いする ／ demand=当然として強く要求する ／ urge=強く迫って勧める ／ plead=必死に嘆願する",
+      "note": "ask=たずねる・頼む ／ request=(丁寧・正式に)お願いする ／ demand=当然として強く要求する ／ urge=強く迫って勧める ／ plead=必死に嘆願する ／ summon=呼び出す・(勇気を)奮い起こす",
       "words": [
         "ask",
         "request",
         "demand",
         "urge",
-        "plead"
+        "plead",
+        "summon"
       ]
     },
     {
@@ -359,7 +361,7 @@
     },
     {
       "title": "使い分け:妨げる・防ぐ",
-      "note": "prevent=前に立ちはだかって起こらせない ／ hinder=じゃまして遅らせる ／ inhibit=内側から抑えて妨げる ／ deter=恐れさせて思いとどまらせる ／ discourage=やる気をくじく ／ restrain=手綱を引いて抑える",
+      "note": "prevent=前に立ちはだかって起こらせない ／ hinder=じゃまして遅らせる ／ inhibit=内側から抑えて妨げる ／ deter=恐れさせて思いとどまらせる ／ discourage=やる気をくじく ／ restrain=手綱を引いて抑える ／ obstruct=前に置いてふさぐ",
       "words": [
         "prevent",
         "hinder",
@@ -367,7 +369,8 @@
         "deter",
         "discourage",
         "restrain",
-        "keep"
+        "keep",
+        "obstruct"
       ]
     },
     {
@@ -633,7 +636,7 @@
     },
     {
       "title": "使い分け:反対する・争う",
-      "note": "oppose=向かい合って反対する ／ object=異議を唱える(object to) ／ dispute=言い争う・異を唱える ／ contradict=言うことが食い違う ／ compete=競い合う ／ contend=争う ／ clash=ぶつかり合う ／ conflict=対立する",
+      "note": "oppose=向かい合って反対する ／ object=異議を唱える(object to) ／ dispute=言い争う・異を唱える ／ contradict=言うことが食い違う ／ compete=競い合う ／ contend=争う ／ clash=ぶつかり合う ／ conflict=対立する ／ collide=物どうしが激突する・(意見が)ぶつかる",
       "words": [
         "oppose",
         "object",
@@ -644,7 +647,8 @@
         "contend",
         "clash",
         "conflict",
-        "complain"
+        "complain",
+        "collide"
       ]
     },
     {
@@ -664,14 +668,15 @@
     },
     {
       "title": "使い分け:分ける・配る",
-      "note": "distribute=広く配る ／ allocate=割り当てる ／ assign=(仕事・役を)割り振る ／ share=分け合う ／ split=二つに割る ／ dispense=分配する",
+      "note": "distribute=広く配る ／ allocate=割り当てる ／ assign=(仕事・役を)割り振る ／ share=分け合う ／ split=二つに割る ／ dispense=分配する ／ deploy=(部隊・人・物を)配置する",
       "words": [
         "distribute",
         "allocate",
         "assign",
         "share",
         "split",
-        "dispense"
+        "dispense",
+        "deploy"
       ]
     },
     {
@@ -723,13 +728,14 @@
     },
     {
       "title": "使い分け:集める・ためる",
-      "note": "gather=散らばったものを集める ／ assemble=部品・人を組み立てる・集める ／ accumulate=少しずつたまる ／ store=取っておく ／ stock=在庫として蓄える",
+      "note": "gather=散らばったものを集める ／ assemble=部品・人を組み立てる・集める ／ accumulate=少しずつたまる ／ store=取っておく ／ stock=在庫として蓄える ／ compile=集めて1つにまとめる",
       "words": [
         "gather",
         "assemble",
         "accumulate",
         "store",
-        "stock"
+        "stock",
+        "compile"
       ]
     },
     {
@@ -762,7 +768,7 @@
     },
     {
       "title": "使い分け:増える・高める",
-      "note": "increase=数量が増える ／ expand=外へ広がって大きくなる ／ boost=下から押し上げる ／ accumulate=積み重なる ／ enhance=質・価値を高める ／ improve=よくする",
+      "note": "increase=数量が増える ／ expand=外へ広がって大きくなる ／ boost=下から押し上げる ／ accumulate=積み重なる ／ enhance=質・価値を高める ／ improve=よくする ／ swell=中からふくらむ(swollen)",
       "words": [
         "increase",
         "expand",
@@ -770,12 +776,13 @@
         "accumulate",
         "enhance",
         "improve",
-        "advance"
+        "advance",
+        "swell"
       ]
     },
     {
       "title": "使い分け:減る・弱まる",
-      "note": "decrease=数量が減る ／ reduce=(意図して)減らす ／ decline=下向きに傾いて衰える ／ diminish=小さくなる ／ shrink=縮む ／ fade=色・音が薄れて消える ／ decay=朽ちて崩れる",
+      "note": "decrease=数量が減る ／ reduce=(意図して)減らす ／ decline=下向きに傾いて衰える ／ diminish=小さくなる ／ shrink=縮む ／ fade=色・音が薄れて消える ／ decay=朽ちて崩れる ／ dwindle=だんだん細って少なくなる ／ subside=(勢いが)おさまる・沈む ／ erode=少しずつ削りとられる・むしばまれる",
       "words": [
         "decrease",
         "reduce",
@@ -783,7 +790,10 @@
         "diminish",
         "shrink",
         "fade",
-        "decay"
+        "decay",
+        "dwindle",
+        "subside",
+        "erode"
       ]
     },
     {
@@ -894,7 +904,7 @@
     },
     {
       "title": "使い分け:成長する・栄える",
-      "note": "grow=育つ ／ develop=包みを開くように発達する ／ evolve=少しずつ進化する ／ mature=成熟する ／ flourish=花開くように栄える ／ thrive=元気に伸びる",
+      "note": "grow=育つ ／ develop=包みを開くように発達する ／ evolve=少しずつ進化する ／ mature=成熟する ／ flourish=花開くように栄える ／ thrive=元気に伸びる ／ prosper=(商売・人が)うまく栄える",
       "words": [
         "grow",
         "develop",
@@ -902,7 +912,8 @@
         "mature",
         "flourish",
         "thrive",
-        "advance"
+        "advance",
+        "prosper"
       ]
     },
     {
@@ -1035,7 +1046,7 @@
     },
     {
       "title": "使い分け:立ち向かう・対処する",
-      "note": "face=顔を向けて直面する ／ confront=正面から立ち向かう ／ encounter=思いがけず出くわす ／ tackle=組み付いて取り組む ／ cope=うまく切り抜ける ／ deal with=処理する ／ handle=手で扱うように処理する",
+      "note": "face=顔を向けて直面する ／ confront=正面から立ち向かう ／ encounter=思いがけず出くわす ／ tackle=組み付いて取り組む ／ cope=うまく切り抜ける ／ deal with=処理する ／ handle=手で扱うように処理する ／ conquer=戦って打ち負かす・克服する",
       "words": [
         "face",
         "confront",
@@ -1044,7 +1055,8 @@
         "cope",
         "deal",
         "handle",
-        "manage"
+        "manage",
+        "conquer"
       ]
     },
     {
@@ -1075,7 +1087,7 @@
     },
     {
       "title": "使い分け:守る",
-      "note": "protect=おおって害から守る ／ defend=攻撃をはね返して守る ／ preserve=元のまま保存する ／ conserve=むだにせず大切に保つ ／ secure=安全を確保する ／ guard=そばに立って見張って守る ／ shelter=屋根のように上からかばう ／ shield=盾をかざして正面からさえぎる",
+      "note": "protect=おおって害から守る ／ defend=攻撃をはね返して守る ／ preserve=元のまま保存する ／ conserve=むだにせず大切に保つ ／ secure=安全を確保する ／ guard=そばに立って見張って守る ／ shelter=屋根のように上からかばう ／ shield=盾をかざして正面からさえぎる ／ cherish=いとおしんで大切にする",
       "words": [
         "protect",
         "defend",
@@ -1084,7 +1096,8 @@
         "secure",
         "guard",
         "shelter",
-        "shield"
+        "shield",
+        "cherish"
       ]
     },
     {
@@ -1113,13 +1126,14 @@
     },
     {
       "title": "使い分け:避ける・逃れる",
-      "note": "avoid=近づかないようにする ／ escape=束縛から逃れる ／ flee=危険から逃げる ／ steer clear of=かじを切って避ける ／ spare=(手間・害を)免れさせる",
+      "note": "avoid=近づかないようにする ／ escape=束縛から逃れる ／ flee=危険から逃げる ／ steer clear of=かじを切って避ける ／ spare=(手間・害を)免れさせる ／ evade=するりとかわして逃れる(責任・税)",
       "words": [
         "avoid",
         "escape",
         "flee",
         "steer",
-        "spare"
+        "spare",
+        "evade"
       ]
     },
     {
@@ -1425,13 +1439,15 @@
     },
     {
       "title": "使い分け:厳しい",
-      "note": "strict=規則に厳格な ／ severe=(被害・罰が)ひどく厳しい ／ tough=手ごわい・頑丈な ／ rough=粗い・荒い ／ steep=急な・(値段が)法外な",
+      "note": "strict=規則に厳格な ／ severe=(被害・罰が)ひどく厳しい ／ tough=手ごわい・頑丈な ／ rough=粗い・荒い ／ steep=急な・(値段が)法外な ／ bitter=苦い・つらく痛烈な ／ crude=手を加えていない粗い・下品な",
       "words": [
         "strict",
         "severe",
         "tough",
         "rough",
-        "steep"
+        "steep",
+        "bitter",
+        "crude"
       ]
     },
     {
@@ -1458,11 +1474,12 @@
     },
     {
       "title": "使い分け:ぶらつく・漂う",
-      "note": "wander=あてもなく歩き回る ／ drift=流れに任せて漂う ／ linger=名残惜しくぐずぐず残る",
+      "note": "wander=あてもなく歩き回る ／ drift=流れに任せて漂う ／ linger=名残惜しくぐずぐず残る ／ deviate=決まった道からそれる",
       "words": [
         "wander",
         "drift",
-        "linger"
+        "linger",
+        "deviate"
       ]
     },
     {
@@ -1498,13 +1515,14 @@
     },
     {
       "title": "使い分け:割り込む・関わる",
-      "note": "interfere=じゃまをして割り込む ／ intervene=間に入って仲裁・介入する ／ interrupt=話・作業をさえぎる ／ involve=巻き込む",
+      "note": "interfere=じゃまをして割り込む ／ intervene=間に入って仲裁・介入する ／ interrupt=話・作業をさえぎる ／ involve=巻き込む ／ disrupt=流れを断ち切って混乱させる",
       "words": [
         "interfere",
         "intervene",
         "interrupt",
         "involve",
-        "engage"
+        "engage",
+        "disrupt"
       ]
     },
     {
@@ -1533,12 +1551,13 @@
     },
     {
       "title": "使い分け:参加する",
-      "note": "participate in=活動に加わる ／ attend=出席する(他動詞) ／ engage in=携わる ／ enter=入る・参加する",
+      "note": "participate in=活動に加わる ／ attend=出席する(他動詞) ／ engage in=携わる ／ enter=入る・参加する ／ enroll=名簿に名前を入れて入学・登録する",
       "words": [
         "participate",
         "attend",
         "engage",
-        "enter"
+        "enter",
+        "enroll"
       ]
     },
     {
@@ -2044,14 +2063,15 @@
     },
     {
       "title": "使い分け:治す・診る",
-      "note": "examine=細かく調べて診察する ／ diagnosis=見通して病気を見分ける診断 ／ treatment=手をかけて扱う治療(過程) ／ therapy=そばで世話して回復させる療法 ／ cure=すっかり治す(結果) ／ remedy=悪い所を治す手立て",
+      "note": "examine=細かく調べて診察する ／ diagnosis=見通して病気を見分ける診断 ／ treatment=手をかけて扱う治療(過程) ／ therapy=そばで世話して回復させる療法 ／ cure=すっかり治す(結果) ／ remedy=悪い所を治す手立て ／ heal=(傷・心が)自然に元どおりになる",
       "words": [
         "examine",
         "diagnosis",
         "treatment",
         "therapy",
         "cure",
-        "remedy"
+        "remedy",
+        "heal"
       ]
     },
     {
@@ -2143,13 +2163,15 @@
     },
     {
       "title": "使い分け:自信・緊張",
-      "note": "confident=自分を信じきって胸を張る ／ calm=波も風も立たずしんと静か(冷静) ／ nervous=神経がぴりぴり張りつめる(緊張) ／ anxious=先のことが不安 ／ timid=こわがっておずおず縮こまる",
+      "note": "confident=自分を信じきって胸を張る ／ calm=波も風も立たずしんと静か(冷静) ／ nervous=神経がぴりぴり張りつめる(緊張) ／ anxious=先のことが不安 ／ timid=こわがっておずおず縮こまる ／ tense=ぴんと張りつめて緊張した ／ awkward=ぎこちなく気まずい",
       "words": [
         "confident",
         "calm",
         "nervous",
         "anxious",
-        "timid"
+        "timid",
+        "tense",
+        "awkward"
       ]
     },
     {
@@ -2226,7 +2248,7 @@
     },
     {
       "title": "使い分け:割れる・つぶす・ねじる",
-      "note": "break=力で壊す(広い) ／ crack=パキッと細いひびが入る ／ snap=パチンと一瞬で折れる ／ shatter=ガシャンとこなごなに砕け散る ／ crush=上からぐしゃっと押しつぶす ／ squeeze=両側からぎゅっとしぼる ／ twist=両端を逆に回してねじる ／ bend=力を加えて曲げる",
+      "note": "break=力で壊す(広い) ／ crack=パキッと細いひびが入る ／ snap=パチンと一瞬で折れる ／ shatter=ガシャンとこなごなに砕け散る ／ crush=上からぐしゃっと押しつぶす ／ squeeze=両側からぎゅっとしぼる ／ twist=両端を逆に回してねじる ／ bend=力を加えて曲げる ／ grind=すりつぶす・ひく(ground)",
       "words": [
         "break",
         "crack",
@@ -2235,7 +2257,8 @@
         "crush",
         "squeeze",
         "twist",
-        "bend"
+        "bend",
+        "grind"
       ]
     },
     {
@@ -2394,18 +2417,19 @@
     },
     {
       "title": "使い分け:水の動き",
-      "note": "soak=液体にひたしてしみこませる ／ drip=しずくがぽたぽた落ちる ／ leak=すき間からもれ出る ／ splash=ばしゃっとはね散らす ／ flood=あふれて一面をのみこむ ／ pour=どっと注ぐ・降る ／ flow=途切れず流れる",
+      "note": "soak=液体にひたしてしみこませる ／ drip=しずくがぽたぽた落ちる ／ leak=すき間からもれ出る ／ splash=ばしゃっとはね散らす ／ flood=あふれて一面をのみこむ ／ pour=どっと注ぐ・降る ／ flow=途切れず流れる ／ immerse=すっぽりひたす・没頭させる",
       "words": [
         "soak",
         "drip",
         "leak",
         "splash",
-        "flood"
+        "flood",
+        "immerse"
       ]
     },
     {
       "title": "使い分け:形・はば・厚さ",
-      "note": "straight=曲がらずまっすぐ(副詞:直行で) ／ curved=弓なりになめらかにカーブ ／ crooked=不規則にゆがんだ(不正な) ／ smooth=でこぼこなくすべすべ(⇔rough) ／ sharp=鋭い ／ blunt=先がとがらず鈍い(ずけずけ) ／ wide=はばが大きく開いている(X meters wide) ／ broad=横にゆったり広がった(範囲が幅広い) ／ narrow=はばがせまくぎりぎり ／ thick=ぎっしり詰まって厚い・濃い ／ thin=うすい・細い",
+      "note": "straight=曲がらずまっすぐ(副詞:直行で) ／ curved=弓なりになめらかにカーブ ／ crooked=不規則にゆがんだ(不正な) ／ smooth=でこぼこなくすべすべ(⇔rough) ／ sharp=鋭い ／ blunt=先がとがらず鈍い(ずけずけ) ／ wide=はばが大きく開いている(X meters wide) ／ broad=横にゆったり広がった(範囲が幅広い) ／ narrow=はばがせまくぎりぎり ／ thick=ぎっしり詰まって厚い・濃い ／ thin=うすい・細い ／ dense=ぎっしり密集した・濃い",
       "words": [
         "straight",
         "curved",
@@ -2417,7 +2441,8 @@
         "broad",
         "narrow",
         "thick",
-        "thin"
+        "thin",
+        "dense"
       ]
     },
     {
@@ -2611,6 +2636,17 @@
         "suggestion",
         "recommendation",
         "proposal"
+      ]
+    },
+    {
+      "title": "使い分け:かたい・しなやか",
+      "note": "firm=しっかりしてぐらつかない ／ solid=中身が詰まってかたい ／ rigid=曲がらずこちこち(規則が融通のきかない) ／ flexible=しなやかに曲がる・融通がきく ／ fragile=こわれやすくもろい",
+      "words": [
+        "firm",
+        "solid",
+        "rigid",
+        "flexible",
+        "fragile"
       ]
     },
     {
