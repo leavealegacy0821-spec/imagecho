@@ -1,0 +1,98 @@
+{
+  "word": "number",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈnʌmbər/",
+  "core_image": {
+    "text": "ひとつ、ふたつと数えられる数",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"50\" cy=\"80\" r=\"10\"/><circle cx=\"80\" cy=\"80\" r=\"10\"/><circle cx=\"110\" cy=\"80\" r=\"10\"/><circle cx=\"140\" cy=\"80\" r=\"10\"/><circle cx=\"170\" cy=\"80\" r=\"10\"/><line x1=\"40\" y1=\"110\" x2=\"180\" y2=\"110\"/></g><text x=\"110\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">数えられる数</text></svg>"
+  },
+  "etymology": "ラテン語 numerus(数。numeral・numerous と同じ根) → 数・数字 → (電話・部屋の)番号 → (動詞)番号をつける・数が〜に達する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a word or symbol that represents an amount; a quantity of people or things; a telephone number."
+    },
+    {
+      "pos": "動詞",
+      "text": "to give a number to something; to reach a particular total."
+    }
+  ],
+  "cautions": [
+    "a number of A(複数)=いくつかのA・多くのA(動詞は複数)/the number of A=Aの数(動詞は単数)",
+    "a large [small] number of A=多くの[少ない]A(数えられる名詞)",
+    "amount=(数えられない)量",
+    "numerous=数多くの"
+  ],
+  "patterns": [
+    {
+      "form": "a number of A",
+      "meaning": "いくつかの・多くのA"
+    },
+    {
+      "form": "the number of A",
+      "meaning": "Aの数"
+    },
+    {
+      "form": "a large number of A",
+      "meaning": "多数のA"
+    },
+    {
+      "form": "number A",
+      "meaning": "Aに番号をつける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "数",
+      "en": "The number of students is increasing.",
+      "ja": "生徒の数が増えている。"
+    },
+    {
+      "source": "original",
+      "label": "多くの",
+      "en": "A number of people were waiting outside.",
+      "ja": "多くの人が外で待っていた。"
+    },
+    {
+      "source": "original",
+      "label": "多数",
+      "en": "A large number of tourists visit Kyoto every year.",
+      "ja": "毎年多くの観光客が京都を訪れる。"
+    },
+    {
+      "source": "original",
+      "label": "番号",
+      "en": "What's your phone number?",
+      "ja": "電話番号は何番?"
+    },
+    {
+      "source": "original",
+      "label": "番号をつける",
+      "en": "Please number the pages.",
+      "ja": "ページに番号をふってください。"
+    },
+    {
+      "source": "original",
+      "label": "数",
+      "en": "Choose a number between 1 and 10.",
+      "ja": "1から10までの数を1つ選んで。"
+    }
+  ],
+  "check_points": [
+    "a number of と the number of の動詞の数を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "a number of(複数)/the number of(単数)が文法で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1431
+    }
+  ]
+}

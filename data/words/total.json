@@ -1,0 +1,108 @@
+{
+  "word": "total",
+  "pos": [
+    "名詞",
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/ˈtoʊtl/",
+  "core_image": {
+    "text": "ひとつ残らず全部を、まとめた数",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"60\" width=\"30\" height=\"40\"/><rect x=\"66\" y=\"60\" width=\"30\" height=\"40\"/><rect x=\"102\" y=\"60\" width=\"30\" height=\"40\"/><line x1=\"140\" y1=\"80\" x2=\"166\" y2=\"80\"/><polyline points=\"159,76.2 166,80 159,83.8\"/><rect x=\"172\" y=\"50\" width=\"50\" height=\"60\"/></g><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">全部で</text></svg>"
+  },
+  "etymology": "ラテン語 totus(全体の) → 全体の・全部の → 合計(in total=全部で) → まったくの(a total stranger) → (動詞)合計が〜になる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the amount you get when you add everything together."
+    },
+    {
+      "pos": "形容詞",
+      "text": "including everything; complete."
+    },
+    {
+      "pos": "動詞",
+      "text": "to add up to a particular amount."
+    }
+  ],
+  "cautions": [
+    "sum=合計・金額/total=ひとつ残らず全部をまとめた合計(形容詞・動詞も)",
+    "in total=全部で",
+    "a total of A=合計A(動詞は複数:A total of 50 people were …)",
+    "totally=まったく・完全に(=completely)"
+  ],
+  "patterns": [
+    {
+      "form": "in total",
+      "meaning": "全部で"
+    },
+    {
+      "form": "a total of A",
+      "meaning": "合計A"
+    },
+    {
+      "form": "the total number of A",
+      "meaning": "Aの総数"
+    },
+    {
+      "form": "A totals B",
+      "meaning": "Aは合計Bになる"
+    },
+    {
+      "form": "totally",
+      "meaning": "完全に"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "全部で",
+      "en": "In total, 300 people came to the concert.",
+      "ja": "全部で300人がコンサートに来た。"
+    },
+    {
+      "source": "original",
+      "label": "合計",
+      "en": "A total of 50 students took the test.",
+      "ja": "合計50人の生徒がテストを受けた。"
+    },
+    {
+      "source": "original",
+      "label": "総数",
+      "en": "The total number of visitors rose.",
+      "ja": "訪問者の総数は増えた。"
+    },
+    {
+      "source": "original",
+      "label": "まったくの",
+      "en": "He was a total stranger to me.",
+      "ja": "彼は私にとってまったくの他人だった。"
+    },
+    {
+      "source": "original",
+      "label": "合計になる",
+      "en": "The bill totaled 5,000 yen.",
+      "ja": "請求額は合計5000円になった。"
+    },
+    {
+      "source": "original",
+      "label": "完全に",
+      "en": "I totally agree with you.",
+      "ja": "完全に君に賛成だ。"
+    }
+  ],
+  "check_points": [
+    "a total of A の動詞の数を言えるか",
+    "in total の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "in total、a total of が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1434
+    }
+  ]
+}

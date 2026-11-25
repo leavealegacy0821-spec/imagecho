@@ -1,0 +1,93 @@
+{
+  "word": "quantity",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈkwɑːntəti/",
+  "core_image": {
+    "text": "どれだけあるかという、量の多さ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"40\" width=\"40\" height=\"90\"/><rect x=\"60\" y=\"80\" width=\"40\" height=\"50\"/><rect x=\"140\" y=\"40\" width=\"40\" height=\"90\"/><rect x=\"140\" y=\"56\" width=\"40\" height=\"74\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">量</text></svg>"
+  },
+  "etymology": "ラテン語 quantus(どれだけの) → どれほどあるか=量・数量 → (大)量(in quantity=たくさん) → quality(質)と対で使われる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an amount or number of something; a large amount."
+    }
+  ],
+  "cautions": [
+    "quality(質)⇔ quantity(量)。quality over quantity=量より質",
+    "a large [small] quantity of A=大量[少量]のA(数えられる・数えられないどちらも)",
+    "in large quantities=大量に",
+    "amount=(数えられない)量/number=数"
+  ],
+  "patterns": [
+    {
+      "form": "a large quantity of A",
+      "meaning": "大量のA"
+    },
+    {
+      "form": "in large quantities",
+      "meaning": "大量に"
+    },
+    {
+      "form": "quality and quantity",
+      "meaning": "質と量"
+    },
+    {
+      "form": "quality over quantity",
+      "meaning": "量より質"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "大量",
+      "en": "The factory produces a large quantity of paper.",
+      "ja": "その工場は大量の紙を生産している。"
+    },
+    {
+      "source": "original",
+      "label": "大量に",
+      "en": "Rice is sold in large quantities.",
+      "ja": "米は大量に売られている。"
+    },
+    {
+      "source": "original",
+      "label": "量より質",
+      "en": "In learning words, quality is more important than quantity.",
+      "ja": "単語学習では量より質が大切だ。"
+    },
+    {
+      "source": "original",
+      "label": "量",
+      "en": "Check the quantity of each item.",
+      "ja": "それぞれの品物の数量を確認してください。"
+    },
+    {
+      "source": "original",
+      "label": "少量",
+      "en": "Add a small quantity of salt.",
+      "ja": "塩を少量加えてください。"
+    },
+    {
+      "source": "original",
+      "label": "質と量",
+      "en": "The quality and quantity of food have improved.",
+      "ja": "食べ物の質も量もよくなった。"
+    }
+  ],
+  "check_points": [
+    "quality と quantity のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "quality / quantity の対比が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1432
+    }
+  ]
+}

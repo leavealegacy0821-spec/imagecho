@@ -1,0 +1,103 @@
+{
+  "word": "sum",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/sʌm/",
+  "core_image": {
+    "text": "全部を足し合わせた、てっぺんの数",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"40\" y1=\"50\" x2=\"100\" y2=\"50\"/><line x1=\"40\" y1=\"70\" x2=\"100\" y2=\"70\"/><line x1=\"40\" y1=\"90\" x2=\"100\" y2=\"90\"/><line x1=\"40\" y1=\"104\" x2=\"100\" y2=\"104\"/><line x1=\"110\" y1=\"80\" x2=\"150\" y2=\"80\"/><polyline points=\"143,76.2 150,80 143,83.8\"/><rect x=\"160\" y=\"60\" width=\"50\" height=\"40\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">足した合計</text></svg>"
+  },
+  "etymology": "ラテン語 summa(いちばん上・合計。summit=頂上 と同じ根) → 足し合わせた合計 → (お金の)金額 → (動詞)sum up=要約する(=summarize)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an amount of money; the total when you add numbers together; a simple calculation."
+    },
+    {
+      "pos": "動詞",
+      "text": "(sum up) to describe the main facts briefly."
+    }
+  ],
+  "cautions": [
+    "total=全部の合計(形容詞・動詞にも)/sum=合計・(ある)金額(a large sum of money)",
+    "a large sum of money=大金",
+    "sum up=要約する/to sum up=要するに",
+    "summary=要約"
+  ],
+  "patterns": [
+    {
+      "form": "a sum of money",
+      "meaning": "金額"
+    },
+    {
+      "form": "a large sum of A",
+      "meaning": "多額のA"
+    },
+    {
+      "form": "sum up A",
+      "meaning": "Aを要約する"
+    },
+    {
+      "form": "to sum up",
+      "meaning": "要するに"
+    },
+    {
+      "form": "in sum",
+      "meaning": "要するに"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "大金",
+      "en": "He paid a large sum of money for the painting.",
+      "ja": "彼はその絵に大金を払った。"
+    },
+    {
+      "source": "original",
+      "label": "合計",
+      "en": "The sum of 5 and 7 is 12.",
+      "ja": "5と7の和は12だ。"
+    },
+    {
+      "source": "original",
+      "label": "要約する",
+      "en": "Can you sum up the story in one sentence?",
+      "ja": "その話を1文で要約できる?"
+    },
+    {
+      "source": "original",
+      "label": "要するに",
+      "en": "To sum up, the plan was a success.",
+      "ja": "要するに、計画は成功だった。"
+    },
+    {
+      "source": "original",
+      "label": "計算",
+      "en": "The children were doing sums in class.",
+      "ja": "子どもたちは授業で計算をしていた。"
+    },
+    {
+      "source": "original",
+      "label": "金額",
+      "en": "She saved a small sum every month.",
+      "ja": "彼女は毎月少しずつ貯金した。"
+    }
+  ],
+  "check_points": [
+    "sum up の意味を言えるか",
+    "a large sum of money の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "sum up、to sum up が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1433
+    }
+  ]
+}

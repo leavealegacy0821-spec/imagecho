@@ -1,0 +1,103 @@
+{
+  "word": "plenty",
+  "pos": [
+    "名詞",
+    "代名詞",
+    "副詞"
+  ],
+  "ipa": "/ˈplenti/",
+  "core_image": {
+    "text": "必要な分よりたっぷり、十分にある",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"40\" width=\"120\" height=\"90\"/><line x1=\"60\" y1=\"70\" x2=\"180\" y2=\"70\" stroke-dasharray=\"4 4\"/><circle cx=\"80\" cy=\"56\" r=\"6\"/><circle cx=\"100\" cy=\"52\" r=\"6\"/><circle cx=\"120\" cy=\"56\" r=\"6\"/><circle cx=\"140\" cy=\"52\" r=\"6\"/><circle cx=\"160\" cy=\"56\" r=\"6\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">たっぷり</text></svg>"
+  },
+  "etymology": "ラテン語 plenus(満ちた。full・complete と同じ根) → 満ちていること → たくさん・十分(plenty of A) → plentiful=豊富な",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a large amount; as much as or more than you need."
+    },
+    {
+      "pos": "代名詞",
+      "text": "a lot; enough."
+    },
+    {
+      "pos": "副詞",
+      "text": "(informal) more than enough; very."
+    }
+  ],
+  "cautions": [
+    "plenty of A=たくさんのA(数えられる・数えられないどちらも)。「必要以上にある」ニュアンス",
+    "a lot of=たくさん(広い)/plenty of=十分すぎるほど",
+    "否定文では plenty はふつう使わない(→ not enough / not much)",
+    "plentiful=豊富な"
+  ],
+  "patterns": [
+    {
+      "form": "plenty of A",
+      "meaning": "たっぷりのA"
+    },
+    {
+      "form": "have plenty of time",
+      "meaning": "時間がたっぷりある"
+    },
+    {
+      "form": "plenty more",
+      "meaning": "まだたくさん"
+    },
+    {
+      "form": "plentiful",
+      "meaning": "豊富な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "たっぷり",
+      "en": "Drink plenty of water.",
+      "ja": "水をたっぷり飲みなさい。"
+    },
+    {
+      "source": "original",
+      "label": "十分",
+      "en": "We have plenty of time before the train leaves.",
+      "ja": "電車が出るまで時間は十分ある。"
+    },
+    {
+      "source": "original",
+      "label": "たくさん",
+      "en": "There are plenty of seats.",
+      "ja": "席はたくさんある。"
+    },
+    {
+      "source": "original",
+      "label": "まだたくさん",
+      "en": "Have some more cake. There's plenty more.",
+      "ja": "ケーキもう少しどう?まだたくさんあるよ。"
+    },
+    {
+      "source": "original",
+      "label": "十分",
+      "en": "\"Do you need more paper?\" \"No, I have plenty.\"",
+      "ja": "「紙もっといる?」「いや、十分あるよ」"
+    },
+    {
+      "source": "original",
+      "label": "豊富な",
+      "en": "Fish are plentiful in this lake.",
+      "ja": "この湖には魚が豊富にいる。"
+    }
+  ],
+  "check_points": [
+    "plenty of A の意味(十分すぎるほど)がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "plenty of が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1435
+    }
+  ]
+}

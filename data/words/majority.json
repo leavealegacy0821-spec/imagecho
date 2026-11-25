@@ -1,0 +1,94 @@
+{
+  "word": "majority",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/məˈdʒɔːrəti/",
+  "core_image": {
+    "text": "半分より大きい、多いほうの側",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"50\"/><path d=\"M120 80 L120 30 A50 50 0 1 1 76 104 Z\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">多いほう</text></svg>"
+  },
+  "etymology": "major(より大きい。ラテン語 magnus=大きい の比較級)+ity → より大きい側 → 大多数・過半数 → (法律上の)成年",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the largest part of a group of people or things; more than half."
+    }
+  ],
+  "cautions": [
+    "majority ⇔ minority(少数)",
+    "the majority of A=Aの大多数(動詞は A に合わせる:the majority of students are …)",
+    "the vast majority=大多数/a majority vote=多数決",
+    "be in the majority=多数派である"
+  ],
+  "patterns": [
+    {
+      "form": "the majority of A",
+      "meaning": "Aの大多数"
+    },
+    {
+      "form": "the vast majority",
+      "meaning": "圧倒的多数"
+    },
+    {
+      "form": "be in the majority",
+      "meaning": "多数派だ"
+    },
+    {
+      "form": "a majority vote",
+      "meaning": "多数決"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "大多数",
+      "en": "The majority of students walk to school.",
+      "ja": "生徒の大多数は歩いて登校する。"
+    },
+    {
+      "source": "original",
+      "label": "圧倒的多数",
+      "en": "The vast majority of people agreed.",
+      "ja": "圧倒的多数の人が賛成した。"
+    },
+    {
+      "source": "original",
+      "label": "多数派",
+      "en": "Women are in the majority in this class.",
+      "ja": "このクラスでは女子が多数派だ。"
+    },
+    {
+      "source": "original",
+      "label": "多数決",
+      "en": "The decision was made by a majority vote.",
+      "ja": "その決定は多数決で行われた。"
+    },
+    {
+      "source": "original",
+      "label": "過半数",
+      "en": "The party won a majority in the election.",
+      "ja": "その政党は選挙で過半数を獲得した。"
+    },
+    {
+      "source": "original",
+      "label": "少数(minority)",
+      "en": "Only a minority of people disagreed.",
+      "ja": "反対したのは少数の人だけだった。"
+    }
+  ],
+  "check_points": [
+    "the majority of A の動詞の数がわかるか",
+    "minority の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "the majority of、the vast majority がグラフ・長文で多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1436
+    }
+  ]
+}

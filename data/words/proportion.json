@@ -1,0 +1,94 @@
+{
+  "word": "proportion",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/prəˈpɔːrʃn/",
+  "core_image": {
+    "text": "全体の中で、その部分がしめる釣り合い",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"60\" width=\"160\" height=\"40\"/><rect x=\"40\" y=\"60\" width=\"60\" height=\"40\" stroke-dasharray=\"3 3\"/><line x1=\"100\" y1=\"50\" x2=\"100\" y2=\"110\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">部分の割合</text></svg>"
+  },
+  "etymology": "pro(〜に応じて)+portion(部分・分け前) → 分け前に応じた比 → 割合・比率 → 釣り合い(in proportion to A=Aに比例して) → proportional=比例した",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a part of a whole; the relationship between the size or amount of two things; the correct relationship between parts."
+    }
+  ],
+  "cautions": [
+    "percentage=百分率/ratio=2つの比(3:1)/proportion=全体の中の割合・釣り合い",
+    "a large proportion of A=Aの大部分",
+    "in proportion to A=Aに比例して/out of proportion=不釣り合いに",
+    "sense of proportion=物事の軽重を判断する力"
+  ],
+  "patterns": [
+    {
+      "form": "a proportion of A",
+      "meaning": "Aの割合"
+    },
+    {
+      "form": "a large proportion of A",
+      "meaning": "Aの大部分"
+    },
+    {
+      "form": "in proportion to A",
+      "meaning": "Aに比例して"
+    },
+    {
+      "form": "out of proportion",
+      "meaning": "不釣り合いで"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "割合",
+      "en": "A large proportion of the population is over 65.",
+      "ja": "人口の大部分が65歳以上だ。"
+    },
+    {
+      "source": "original",
+      "label": "比例して",
+      "en": "Your salary will increase in proportion to your experience.",
+      "ja": "給料は経験に比例して上がる。"
+    },
+    {
+      "source": "original",
+      "label": "割合",
+      "en": "What proportion of students walk to school?",
+      "ja": "歩いて通学する生徒の割合はどれくらいですか。"
+    },
+    {
+      "source": "original",
+      "label": "不釣り合い",
+      "en": "His reaction was out of proportion to the problem.",
+      "ja": "彼の反応は問題に対して大げさだった。"
+    },
+    {
+      "source": "original",
+      "label": "釣り合い",
+      "en": "The drawing is good, but the head is out of proportion.",
+      "ja": "絵はよいが、頭のバランスがおかしい。"
+    },
+    {
+      "source": "original",
+      "label": "割合",
+      "en": "The proportion of elderly people is rising.",
+      "ja": "高齢者の割合が上がっている。"
+    }
+  ],
+  "check_points": [
+    "in proportion to A の意味を言えるか",
+    "ratio と proportion のちがいがわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "a large proportion of、in proportion to がグラフ・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1438
+    }
+  ]
+}

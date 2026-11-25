@@ -1,0 +1,89 @@
+{
+  "word": "ratio",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈreɪʃioʊ/",
+  "core_image": {
+    "text": "2つの量を並べて比べた、比",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"70\" width=\"90\" height=\"30\"/><rect x=\"150\" y=\"70\" width=\"30\" height=\"30\"/><circle cx=\"140\" cy=\"78\" r=\"3\"/><circle cx=\"140\" cy=\"92\" r=\"3\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">3:1</text></svg>"
+  },
+  "etymology": "ラテン語 ratio(計算・理性。reason・rate・rational と同じ根) → 数えて比べること → 比・比率(A:B)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the relationship between two amounts, shown as two numbers."
+    }
+  ],
+  "cautions": [
+    "proportion=全体の中の割合/ratio=2つの量の比(the ratio of A to B=AとBの比)",
+    "the ratio of A to B is 3 to 1=AとBの比は3対1",
+    "in a ratio of A to B=A対Bの割合で",
+    "rate=率・速さ(birth rate)"
+  ],
+  "patterns": [
+    {
+      "form": "the ratio of A to B",
+      "meaning": "AとBの比"
+    },
+    {
+      "form": "in a ratio of 2 to 1",
+      "meaning": "2対1の割合で"
+    },
+    {
+      "form": "a high ratio",
+      "meaning": "高い比率"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "比",
+      "en": "The ratio of boys to girls in our class is 2 to 1.",
+      "ja": "私たちのクラスの男女比は2対1だ。"
+    },
+    {
+      "source": "original",
+      "label": "割合",
+      "en": "Mix water and flour in a ratio of 1 to 2.",
+      "ja": "水と小麦粉を1対2の割合で混ぜてください。"
+    },
+    {
+      "source": "original",
+      "label": "比率",
+      "en": "The teacher-student ratio is very low.",
+      "ja": "教師1人あたりの生徒数がとても少ない。"
+    },
+    {
+      "source": "original",
+      "label": "比",
+      "en": "What is the ratio of adults to children?",
+      "ja": "大人と子どもの比はどれくらいですか。"
+    },
+    {
+      "source": "original",
+      "label": "比",
+      "en": "The ratio has changed over the years.",
+      "ja": "その比は年とともに変わってきた。"
+    },
+    {
+      "source": "original",
+      "label": "比率",
+      "en": "A high ratio of debt to income is risky.",
+      "ja": "収入に対する借金の比率が高いのは危険だ。"
+    }
+  ],
+  "check_points": [
+    "the ratio of A to B の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "ratio がグラフ・データの長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1440
+    }
+  ]
+}

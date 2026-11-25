@@ -1,0 +1,93 @@
+{
+  "word": "percentage",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/pərˈsentɪdʒ/",
+  "core_image": {
+    "text": "100をもとにした、割合の数",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"40\" width=\"180\" height=\"40\"/><rect x=\"30\" y=\"40\" width=\"72\" height=\"40\"/><line x1=\"30\" y1=\"96\" x2=\"210\" y2=\"96\"/><line x1=\"30\" y1=\"90\" x2=\"30\" y2=\"102\"/><line x1=\"210\" y1=\"90\" x2=\"210\" y2=\"102\"/></g><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">100あたり</text></svg>"
+  },
+  "etymology": "per(〜につき)+cent(100)+age → 100につきいくつ=百分率・パーセンテージ → (全体の)割合",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an amount stated as a number of parts in every hundred; a part of a whole."
+    }
+  ],
+  "cautions": [
+    "percent=(数字とともに)〜パーセント(30 percent)/percentage=割合(数字なしで:a high percentage of A)",
+    "a high [low] percentage of A=Aの高い[低い]割合",
+    "「割合が多い」は high / large(× many)",
+    "percentage point=ポイント(百分率の差)"
+  ],
+  "patterns": [
+    {
+      "form": "a high percentage of A",
+      "meaning": "Aの高い割合"
+    },
+    {
+      "form": "the percentage of A",
+      "meaning": "Aの割合"
+    },
+    {
+      "form": "a small percentage",
+      "meaning": "わずかな割合"
+    },
+    {
+      "form": "percentage points",
+      "meaning": "ポイント"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "割合",
+      "en": "A high percentage of students use smartphones.",
+      "ja": "高い割合の生徒がスマートフォンを使っている。"
+    },
+    {
+      "source": "original",
+      "label": "割合",
+      "en": "What percentage of people own a car?",
+      "ja": "車を持っている人の割合は何パーセントですか。"
+    },
+    {
+      "source": "original",
+      "label": "割合",
+      "en": "The percentage of elderly people is increasing.",
+      "ja": "高齢者の割合が増えている。"
+    },
+    {
+      "source": "original",
+      "label": "パーセント",
+      "en": "Thirty percent of the students are from abroad.",
+      "ja": "生徒の30パーセントが外国出身だ。"
+    },
+    {
+      "source": "original",
+      "label": "ポイント",
+      "en": "Unemployment fell by two percentage points.",
+      "ja": "失業率は2ポイント下がった。"
+    },
+    {
+      "source": "original",
+      "label": "わずかな割合",
+      "en": "Only a small percentage of people voted.",
+      "ja": "投票したのはごくわずかな割合の人だった。"
+    }
+  ],
+  "check_points": [
+    "percent と percentage のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "percentage がグラフ問題で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1439
+    }
+  ]
+}
