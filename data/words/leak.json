@@ -1,0 +1,99 @@
+{
+  "word": "leak",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/liːk/",
+  "core_image": {
+    "text": "すき間から、もれ出てしまう",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"30\" width=\"100\" height=\"90\"/><line x1=\"100\" y1=\"120\" x2=\"104\" y2=\"124\"/><path d=\"M104 128 Q100 136 104 140 Q108 136 104 128\"/><path d=\"M120 128 Q116 136 120 140 Q124 136 120 128\"/><line x1=\"96\" y1=\"116\" x2=\"112\" y2=\"124\"/></g><text x=\"200\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もれる</text></svg>"
+  },
+  "etymology": "古いノルド語 leka(しずくがもれる) → (液体・ガスが)すき間からもれる → (秘密・情報を)もらす・リークする → (名詞)もれ・漏えい",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "(of a liquid or gas) to get out through a hole; to give secret information to the public."
+    },
+    {
+      "pos": "名詞",
+      "text": "a hole that lets liquid or gas out; an act of giving away secret information."
+    }
+  ],
+  "cautions": [
+    "drip=ぽたぽた落ちる/leak=すき間・穴からもれ出る(水・ガス・情報)",
+    "leak A to B=A(秘密)をBにもらす",
+    "a gas leak=ガスもれ/a data leak=情報漏えい",
+    "leaky=もれる(a leaky roof=雨もりする屋根)"
+  ],
+  "patterns": [
+    {
+      "form": "A leaks",
+      "meaning": "Aがもれる"
+    },
+    {
+      "form": "leak A to B",
+      "meaning": "AをBにもらす"
+    },
+    {
+      "form": "a gas leak",
+      "meaning": "ガスもれ"
+    },
+    {
+      "form": "a leak in A",
+      "meaning": "Aのもれ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "もれる",
+      "en": "The roof leaks when it rains.",
+      "ja": "雨が降ると屋根が雨もりする。"
+    },
+    {
+      "source": "original",
+      "label": "ガスもれ",
+      "en": "There was a gas leak in the kitchen.",
+      "ja": "台所でガスもれがあった。"
+    },
+    {
+      "source": "original",
+      "label": "もらす",
+      "en": "Someone leaked the information to the press.",
+      "ja": "誰かがその情報を報道機関にもらした。"
+    },
+    {
+      "source": "original",
+      "label": "もれ",
+      "en": "We found a leak in the pipe.",
+      "ja": "パイプにもれを見つけた。"
+    },
+    {
+      "source": "original",
+      "label": "漏えい",
+      "en": "The company apologized for the data leak.",
+      "ja": "その会社は情報漏えいを謝罪した。"
+    },
+    {
+      "source": "original",
+      "label": "もれ出る",
+      "en": "Oil was leaking from the car.",
+      "ja": "車から油がもれていた。"
+    }
+  ],
+  "check_points": [
+    "drip と leak のちがいを言えるか",
+    "leak A to B の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "情報の leak が時事の長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1378
+    }
+  ]
+}

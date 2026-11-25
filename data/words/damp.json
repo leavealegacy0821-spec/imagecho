@@ -1,0 +1,98 @@
+{
+  "word": "damp",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/dæmp/",
+  "core_image": {
+    "text": "乾ききらず、じめっといやに湿っている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"40\" width=\"120\" height=\"90\"/><path d=\"M80 60 q4 8 0 12\"/><path d=\"M110 70 q4 8 0 12\"/><path d=\"M140 56 q4 8 0 12\"/><path d=\"M96 100 q4 8 0 12\"/><path d=\"M150 96 q4 8 0 12\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">じめっ</text></svg>"
+  },
+  "etymology": "中低地ドイツ語 damp(蒸気・もや) → 湿気 → じめじめした・湿った(不快な感じ) → (名詞)湿気",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "slightly wet, often in an unpleasant way."
+    },
+    {
+      "pos": "名詞",
+      "text": "slight wetness in the air or on walls."
+    }
+  ],
+  "cautions": [
+    "wet=ぬれている/damp=少し湿ってじめっとした(壁・服・部屋:不快)/moist=しっとり(よい意味)",
+    "a damp cloth=湿らせた布",
+    "damp weather=じめじめした天気",
+    "dampen=湿らせる・(熱意を)くじく"
+  ],
+  "patterns": [
+    {
+      "form": "a damp room",
+      "meaning": "じめじめした部屋"
+    },
+    {
+      "form": "a damp cloth",
+      "meaning": "湿った布"
+    },
+    {
+      "form": "damp weather",
+      "meaning": "じめじめした天気"
+    },
+    {
+      "form": "dampen A",
+      "meaning": "Aを湿らせる・くじく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "じめじめした",
+      "en": "The basement is cold and damp.",
+      "ja": "地下室は寒くてじめじめしている。"
+    },
+    {
+      "source": "original",
+      "label": "湿った",
+      "en": "Wipe the table with a damp cloth.",
+      "ja": "湿らせた布でテーブルをふいてください。"
+    },
+    {
+      "source": "original",
+      "label": "生乾き",
+      "en": "My socks are still damp.",
+      "ja": "靴下がまだ生乾きだ。"
+    },
+    {
+      "source": "original",
+      "label": "湿気",
+      "en": "The damp has damaged the walls.",
+      "ja": "湿気で壁が傷んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "じめじめ",
+      "en": "I hate this damp weather.",
+      "ja": "このじめじめした天気は大嫌いだ。"
+    },
+    {
+      "source": "original",
+      "label": "くじく",
+      "en": "The rain didn't dampen our spirits.",
+      "ja": "雨でも私たちの元気はくじけなかった。"
+    }
+  ],
+  "check_points": [
+    "damp と moist のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "湿り気の形容詞の使い分けで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1372
+    }
+  ]
+}

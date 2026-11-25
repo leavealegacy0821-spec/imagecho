@@ -1,0 +1,94 @@
+{
+  "word": "humid",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈhjuːmɪd/",
+  "core_image": {
+    "text": "空気が水分をたっぷり含んで、むしむしする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"190\" cy=\"40\" r=\"16\"/><path d=\"M30 70 q10 -10 20 0 t20 0 t20 0 t20 0 t20 0\"/><path d=\"M30 100 q10 -10 20 0 t20 0 t20 0 t20 0 t20 0\"/><circle cx=\"60\" cy=\"84\" r=\"3\"/><circle cx=\"100\" cy=\"88\" r=\"3\"/><circle cx=\"140\" cy=\"84\" r=\"3\"/></g><text x=\"90\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">むしむし</text></svg>"
+  },
+  "etymology": "ラテン語 humidus(湿った) → (空気・天気が)湿気の多い・蒸し暑い → humidity=湿度",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "(of air or weather) warm and wet in an unpleasant way."
+    }
+  ],
+  "cautions": [
+    "wet=ぬれている(物)/humid=空気・天気が湿って蒸し暑い",
+    "hot and humid=蒸し暑い(日本の夏の定番表現)",
+    "名詞 humidity=湿度(high humidity=高い湿度)",
+    "muggy=(口語)蒸し暑い"
+  ],
+  "patterns": [
+    {
+      "form": "hot and humid",
+      "meaning": "蒸し暑い"
+    },
+    {
+      "form": "humid weather",
+      "meaning": "蒸し暑い天気"
+    },
+    {
+      "form": "humidity",
+      "meaning": "湿度"
+    },
+    {
+      "form": "high humidity",
+      "meaning": "高い湿度"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "蒸し暑い",
+      "en": "Summer in Japan is hot and humid.",
+      "ja": "日本の夏は蒸し暑い。"
+    },
+    {
+      "source": "original",
+      "label": "湿度",
+      "en": "The humidity today is 85 percent.",
+      "ja": "今日の湿度は85%だ。"
+    },
+    {
+      "source": "original",
+      "label": "湿気の多い",
+      "en": "Bread goes bad quickly in humid weather.",
+      "ja": "湿気の多い天気ではパンがすぐ傷む。"
+    },
+    {
+      "source": "original",
+      "label": "高い湿度",
+      "en": "High humidity makes people feel tired.",
+      "ja": "湿度が高いと人は疲れを感じる。"
+    },
+    {
+      "source": "original",
+      "label": "蒸し暑い",
+      "en": "It was a humid night and I couldn't sleep.",
+      "ja": "蒸し暑い夜で眠れなかった。"
+    },
+    {
+      "source": "original",
+      "label": "湿度",
+      "en": "A dehumidifier removes humidity from the air.",
+      "ja": "除湿機は空気中の湿気を取り除く。"
+    }
+  ],
+  "check_points": [
+    "hot and humid の意味を言えるか",
+    "humidity の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "hot and humid、humidity が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1374
+    }
+  ]
+}

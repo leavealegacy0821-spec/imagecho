@@ -1,0 +1,98 @@
+{
+  "word": "wet",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/wet/",
+  "core_image": {
+    "text": "表面に水がついて、びしょっとしている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"106\" y2=\"96\"/><line x1=\"120\" y1=\"74\" x2=\"134\" y2=\"96\"/><line x1=\"60\" y1=\"20\" x2=\"56\" y2=\"32\"/><line x1=\"90\" y1=\"14\" x2=\"86\" y2=\"26\"/><line x1=\"150\" y1=\"14\" x2=\"146\" y2=\"26\"/><line x1=\"180\" y1=\"20\" x2=\"176\" y2=\"32\"/><line x1=\"70\" y1=\"50\" x2=\"66\" y2=\"62\"/><line x1=\"170\" y1=\"50\" x2=\"166\" y2=\"62\"/></g><text x=\"190\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">びしょぬれ</text></svg>"
+  },
+  "etymology": "古い英語 wǣt(ぬれた。water と同じ根) → 水でぬれた → 雨の多い(wet season) → (ペンキが)乾いていない(Wet Paint=ペンキ塗りたて)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "covered in water or another liquid; rainy; (of paint) not yet dry."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make something wet."
+    }
+  ],
+  "cautions": [
+    "wet=水でぬれている(広い)/damp=じめっと湿った(不快)/moist=しっとり(ほどよい)/humid=空気が蒸し暑い",
+    "get wet=ぬれる/wet through=ずぶぬれで(=soaked)",
+    "the wet season=雨季",
+    "Wet Paint=ペンキ塗りたて"
+  ],
+  "patterns": [
+    {
+      "form": "get wet",
+      "meaning": "ぬれる"
+    },
+    {
+      "form": "wet through",
+      "meaning": "ずぶぬれで"
+    },
+    {
+      "form": "the wet season",
+      "meaning": "雨季"
+    },
+    {
+      "form": "wet weather",
+      "meaning": "雨天"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ぬれる",
+      "en": "I got wet in the rain.",
+      "ja": "雨でぬれた。"
+    },
+    {
+      "source": "original",
+      "label": "ずぶぬれ",
+      "en": "My clothes were wet through.",
+      "ja": "服がずぶぬれだった。"
+    },
+    {
+      "source": "original",
+      "label": "雨季",
+      "en": "The wet season lasts from June to September.",
+      "ja": "雨季は6月から9月まで続く。"
+    },
+    {
+      "source": "original",
+      "label": "ぬれた",
+      "en": "Be careful. The floor is wet.",
+      "ja": "気をつけて。床がぬれているよ。"
+    },
+    {
+      "source": "original",
+      "label": "ペンキ塗りたて",
+      "en": "The sign said \"Wet Paint.\"",
+      "ja": "看板には「ペンキ塗りたて」と書いてあった。"
+    },
+    {
+      "source": "original",
+      "label": "ぬらす",
+      "en": "Wet the cloth and wipe the table.",
+      "ja": "布をぬらしてテーブルをふいて。"
+    }
+  ],
+  "check_points": [
+    "wet・damp・moist・humid のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "get wet、湿り気の形容詞の使い分けが出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1371
+    }
+  ]
+}

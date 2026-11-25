@@ -1,0 +1,94 @@
+{
+  "word": "moist",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/mɔɪst/",
+  "core_image": {
+    "text": "ほどよく水けを含んで、しっとりしている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"70\" y=\"80\" width=\"100\" height=\"60\"/><path d=\"M70 80 Q120 60 170 80\"/><path d=\"M100 96 q4 6 0 10\"/><path d=\"M140 100 q4 6 0 10\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しっとり</text></svg>"
+  },
+  "etymology": "古いフランス語 moiste(湿った) → 水けを含んだ → (ケーキ・肌・土が)しっとりした(よい意味が多い) → moisture=湿気・水分",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "slightly wet, often in a pleasant way."
+    }
+  ],
+  "cautions": [
+    "damp=じめっと不快に湿った/moist=ほどよくしっとり(ケーキ・肌・土)",
+    "名詞 moisture=水分・湿気",
+    "moisturizer=保湿クリーム",
+    "humid=空気が湿っている"
+  ],
+  "patterns": [
+    {
+      "form": "moist cake",
+      "meaning": "しっとりしたケーキ"
+    },
+    {
+      "form": "moist soil",
+      "meaning": "湿った土"
+    },
+    {
+      "form": "keep A moist",
+      "meaning": "Aをしっとり保つ"
+    },
+    {
+      "form": "moisture",
+      "meaning": "水分"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "しっとりした",
+      "en": "This chocolate cake is really moist.",
+      "ja": "このチョコレートケーキは本当にしっとりしている。"
+    },
+    {
+      "source": "original",
+      "label": "湿った",
+      "en": "Plants grow well in moist soil.",
+      "ja": "植物は湿った土でよく育つ。"
+    },
+    {
+      "source": "original",
+      "label": "しっとり",
+      "en": "This cream keeps your skin moist.",
+      "ja": "このクリームは肌をしっとり保つ。"
+    },
+    {
+      "source": "original",
+      "label": "うるんだ",
+      "en": "Her eyes were moist with tears.",
+      "ja": "彼女の目は涙でうるんでいた。"
+    },
+    {
+      "source": "original",
+      "label": "水分",
+      "en": "The sun dried all the moisture from the ground.",
+      "ja": "太陽が地面の水分をすっかり乾かした。"
+    },
+    {
+      "source": "original",
+      "label": "保湿",
+      "en": "Use a moisturizer after washing your face.",
+      "ja": "洗顔後は保湿クリームを使いなさい。"
+    }
+  ],
+  "check_points": [
+    "damp と moist のちがいを言えるか",
+    "moisture の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "moisture が自然・科学の長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1373
+    }
+  ]
+}

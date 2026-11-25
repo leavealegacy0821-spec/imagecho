@@ -1,0 +1,98 @@
+{
+  "word": "drip",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/drɪp/",
+  "core_image": {
+    "text": "しずくが、ぽたぽたと落ちる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"40\" y1=\"30\" x2=\"200\" y2=\"30\"/><line x1=\"120\" y1=\"30\" x2=\"120\" y2=\"46\"/><path d=\"M120 56 Q112 68 120 74 Q128 68 120 56\"/><path d=\"M120 90 Q112 102 120 108 Q128 102 120 90\"/><path d=\"M90 130 Q120 120 150 130\"/></g><text x=\"180\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぽたぽた</text></svg>"
+  },
+  "etymology": "古い英語 dryppan(したたる。drop と同じ根) → しずくがぽたぽた落ちる・したたらせる → (名詞)しずく・点滴",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "(of liquid) to fall in small drops; to let liquid fall in drops."
+    },
+    {
+      "pos": "名詞",
+      "text": "a small drop of liquid; a medical device that slowly puts liquid into a vein."
+    }
+  ],
+  "cautions": [
+    "drop=しずく・落ちる/drip=しずくがぽたぽた続けて落ちる",
+    "be dripping with A=Aがしたたるほどだ(dripping with sweat)",
+    "a dripping tap=水がぽたぽた漏れる蛇口",
+    "名詞 drip=(医療の)点滴"
+  ],
+  "patterns": [
+    {
+      "form": "A drips",
+      "meaning": "Aがしたたる"
+    },
+    {
+      "form": "drip from A",
+      "meaning": "Aからしたたる"
+    },
+    {
+      "form": "be dripping with A",
+      "meaning": "Aでびしょびしょだ"
+    },
+    {
+      "form": "be on a drip",
+      "meaning": "点滴を受けている"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "したたる",
+      "en": "Water was dripping from the ceiling.",
+      "ja": "天井から水がぽたぽた落ちていた。"
+    },
+    {
+      "source": "original",
+      "label": "したたるほど",
+      "en": "He came in dripping with sweat.",
+      "ja": "彼は汗びっしょりで入ってきた。"
+    },
+    {
+      "source": "original",
+      "label": "ぽたぽた",
+      "en": "The tap is dripping. Can you fix it?",
+      "ja": "蛇口から水が漏れている。直せる?"
+    },
+    {
+      "source": "original",
+      "label": "点滴",
+      "en": "The patient was on a drip.",
+      "ja": "患者は点滴を受けていた。"
+    },
+    {
+      "source": "original",
+      "label": "しずく",
+      "en": "I heard the drip of rain outside.",
+      "ja": "外で雨のしずくの音が聞こえた。"
+    },
+    {
+      "source": "original",
+      "label": "したたらせる",
+      "en": "Be careful not to drip paint on the floor.",
+      "ja": "床にペンキをたらさないよう気をつけて。"
+    }
+  ],
+  "check_points": [
+    "drop と drip のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be dripping with が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1377
+    }
+  ]
+}

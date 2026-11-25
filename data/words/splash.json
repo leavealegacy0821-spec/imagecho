@@ -1,0 +1,98 @@
+{
+  "word": "splash",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/splæʃ/",
+  "core_image": {
+    "text": "ばしゃっと、水しぶきをはね散らす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M30 110 Q80 100 120 110 T210 110\"/><path d=\"M120 106 L110 70\"/><path d=\"M120 106 L130 70\"/><path d=\"M120 106 L96 84\"/><path d=\"M120 106 L144 84\"/><circle cx=\"108\" cy=\"62\" r=\"3\"/><circle cx=\"132\" cy=\"62\" r=\"3\"/><circle cx=\"92\" cy=\"78\" r=\"3\"/><circle cx=\"148\" cy=\"78\" r=\"3\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ばしゃっ</text></svg>"
+  },
+  "etymology": "plash(ばしゃっという音)に s がついた語。音をまねた語 → 水をはね散らす・はねる → (名詞)水しぶき・ばしゃっという音 → make a splash=大評判になる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "(of a liquid) to fall on something noisily; to make water fly up by hitting it."
+    },
+    {
+      "pos": "名詞",
+      "text": "the sound of something hitting water; a small amount of liquid; a big impression."
+    }
+  ],
+  "cautions": [
+    "splash=ばしゃっと水をはね散らす・はねかける",
+    "splash A on [over] B=AをBにはねかける",
+    "make a splash=大評判になる・注目を集める",
+    "a splash of A=少量のA(液体)"
+  ],
+  "patterns": [
+    {
+      "form": "splash A",
+      "meaning": "Aに水をはねかける"
+    },
+    {
+      "form": "splash A on B",
+      "meaning": "AをBにはねかける"
+    },
+    {
+      "form": "make a splash",
+      "meaning": "注目を集める"
+    },
+    {
+      "form": "a splash of A",
+      "meaning": "少量のA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ばしゃばしゃ",
+      "en": "The children splashed in the pool.",
+      "ja": "子どもたちはプールでばしゃばしゃ水をはね散らした。"
+    },
+    {
+      "source": "original",
+      "label": "はねかける",
+      "en": "A passing car splashed water on me.",
+      "ja": "通りかかった車に水をはねかけられた。"
+    },
+    {
+      "source": "original",
+      "label": "ばしゃっという音",
+      "en": "I heard a splash and saw a fish jump.",
+      "ja": "ばしゃっと音がして魚がはねるのが見えた。"
+    },
+    {
+      "source": "original",
+      "label": "顔に水をかける",
+      "en": "She splashed cold water on her face.",
+      "ja": "彼女は顔に冷たい水をかけた。"
+    },
+    {
+      "source": "original",
+      "label": "注目を集める",
+      "en": "The young singer made a big splash with her first song.",
+      "ja": "その若い歌手はデビュー曲で大評判になった。"
+    },
+    {
+      "source": "original",
+      "label": "少量の",
+      "en": "Add a splash of milk to your tea.",
+      "ja": "紅茶にミルクを少し加えて。"
+    }
+  ],
+  "check_points": [
+    "make a splash の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "make a splash が熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1379
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "dry",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/draɪ/",
+  "core_image": {
+    "text": "水けがすっかりなくなって、からからだ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"190\" cy=\"40\" r=\"20\"/><line x1=\"190\" y1=\"10\" x2=\"190\" y2=\"16\"/><line x1=\"160\" y1=\"40\" x2=\"166\" y2=\"40\"/><polyline points=\"30,140 50,128 70,140 90,126 110,140 130,128 150,140\"/><line x1=\"60\" y1=\"134\" x2=\"66\" y2=\"120\"/><line x1=\"100\" y1=\"134\" x2=\"104\" y2=\"122\"/></g><text x=\"80\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">からから</text></svg>"
+  },
+  "etymology": "古い英語 drȳge(乾いた) → 水けのない・乾燥した → (雨の)少ない → (ワインが)辛口の → (話・ユーモアが)そっけない・味気ない → (動詞)乾かす・乾く",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "without water or liquid; with little rain; (of humor) said in a serious way but funny; (of wine) not sweet."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make something dry or to become dry."
+    }
+  ],
+  "cautions": [
+    "dry ⇔ wet",
+    "dry up=干上がる・(資金が)尽きる",
+    "a dry sense of humor=さりげない(真顔の)ユーモア",
+    "dry cleaning=ドライクリーニング/the dry season=乾季"
+  ],
+  "patterns": [
+    {
+      "form": "dry A",
+      "meaning": "Aを乾かす"
+    },
+    {
+      "form": "dry up",
+      "meaning": "干上がる・尽きる"
+    },
+    {
+      "form": "the dry season",
+      "meaning": "乾季"
+    },
+    {
+      "form": "a dry sense of humor",
+      "meaning": "さりげないユーモア"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "乾かす",
+      "en": "Dry your hair before you go out.",
+      "ja": "出かける前に髪を乾かしなさい。"
+    },
+    {
+      "source": "original",
+      "label": "干上がる",
+      "en": "The river dried up during the long drought.",
+      "ja": "長い日照りで川が干上がった。"
+    },
+    {
+      "source": "original",
+      "label": "乾燥した",
+      "en": "The air is very dry in winter.",
+      "ja": "冬は空気がとても乾燥している。"
+    },
+    {
+      "source": "original",
+      "label": "乾季",
+      "en": "It rarely rains in the dry season.",
+      "ja": "乾季にはめったに雨が降らない。"
+    },
+    {
+      "source": "original",
+      "label": "尽きる",
+      "en": "Money for the project has dried up.",
+      "ja": "その計画の資金は尽きた。"
+    },
+    {
+      "source": "original",
+      "label": "さりげない",
+      "en": "He has a dry sense of humor.",
+      "ja": "彼は真顔でおもしろいことを言う。"
+    }
+  ],
+  "check_points": [
+    "dry up の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "dry up が熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1375
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "flood",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/flʌd/",
+  "core_image": {
+    "text": "水があふれて、一面をのみこむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"70\" width=\"40\" height=\"70\"/><polygon points=\"36,70 60,50 84,70\"/><rect x=\"150\" y=\"80\" width=\"40\" height=\"60\"/><path d=\"M15 110 Q40 100 65 110 T115 110 T165 110 T225 110\"/><path d=\"M15 124 Q40 114 65 124 T115 124 T165 124 T225 124\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あふれる</text></svg>"
+  },
+  "etymology": "古い英語 flōd(流れ・満ち潮。flow と同じ根) → 水があふれること=洪水 → (人・物が)どっと押し寄せる(a flood of A) → (動詞)あふれさせる・殺到する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a large amount of water covering an area that is usually dry; a large number of things or people arriving at once."
+    },
+    {
+      "pos": "動詞",
+      "text": "to cover an area with water; to arrive in large numbers."
+    }
+  ],
+  "cautions": [
+    "名詞 a flood of A=殺到するA(a flood of letters [tourists])",
+    "be flooded with A=Aが殺到する(比ゆ)",
+    "flood into A=Aに押し寄せる",
+    "in floods of tears=さめざめと泣いて"
+  ],
+  "patterns": [
+    {
+      "form": "a flood",
+      "meaning": "洪水"
+    },
+    {
+      "form": "a flood of A",
+      "meaning": "殺到するA"
+    },
+    {
+      "form": "be flooded with A",
+      "meaning": "Aが殺到する"
+    },
+    {
+      "form": "flood into A",
+      "meaning": "Aに押し寄せる"
+    },
+    {
+      "form": "flood the market",
+      "meaning": "市場にあふれる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "洪水",
+      "en": "The heavy rain caused floods in the area.",
+      "ja": "大雨でその地域に洪水が起きた。"
+    },
+    {
+      "source": "original",
+      "label": "水びたしになる",
+      "en": "The river flooded the town.",
+      "ja": "川があふれて町が水びたしになった。"
+    },
+    {
+      "source": "original",
+      "label": "殺到する",
+      "en": "The office was flooded with phone calls.",
+      "ja": "事務所に電話が殺到した。"
+    },
+    {
+      "source": "original",
+      "label": "押し寄せる",
+      "en": "Tourists flood into Kyoto every autumn.",
+      "ja": "毎年秋には観光客が京都に押し寄せる。"
+    },
+    {
+      "source": "original",
+      "label": "殺到",
+      "en": "We received a flood of applications.",
+      "ja": "応募が殺到した。"
+    },
+    {
+      "source": "original",
+      "label": "あふれる",
+      "en": "Cheap goods are flooding the market.",
+      "ja": "安い商品が市場にあふれている。"
+    }
+  ],
+  "check_points": [
+    "be flooded with A の意味を言えるか",
+    "a flood of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be flooded with、a flood of が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1380
+    }
+  ]
+}
