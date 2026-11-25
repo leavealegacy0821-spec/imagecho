@@ -1,0 +1,103 @@
+{
+  "word": "narrow",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/ˈnæroʊ/",
+  "core_image": {
+    "text": "はばがせまく、ぎりぎりの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"60\" x2=\"80\" y2=\"60\"/><line x1=\"20\" y1=\"100\" x2=\"80\" y2=\"100\"/><line x1=\"80\" y1=\"60\" x2=\"120\" y2=\"74\"/><line x1=\"80\" y1=\"100\" x2=\"120\" y2=\"86\"/><line x1=\"120\" y1=\"74\" x2=\"220\" y2=\"74\"/><line x1=\"120\" y1=\"86\" x2=\"220\" y2=\"86\"/></g><text x=\"170\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">せまい</text></svg>"
+  },
+  "etymology": "古い英語 nearu(せまい・きつい) → はばがせまい → (範囲・考えが)せまい(narrow-minded) → ぎりぎりの(a narrow escape=間一髪) → (動詞)せばめる・しぼる",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "measuring a small distance from side to side; limited; only just achieved."
+    },
+    {
+      "pos": "動詞",
+      "text": "to become or make something narrower; to reduce."
+    }
+  ],
+  "cautions": [
+    "narrow ⇔ wide / broad(はばのせまい・広い)。部屋の「せまい」は small(× narrow room は「細長い部屋」)",
+    "a narrow escape=間一髪の脱出/a narrow victory=辛勝",
+    "narrow down A=Aを絞りこむ",
+    "narrow-minded=心のせまい"
+  ],
+  "patterns": [
+    {
+      "form": "a narrow road",
+      "meaning": "せまい道"
+    },
+    {
+      "form": "a narrow escape",
+      "meaning": "間一髪の脱出"
+    },
+    {
+      "form": "a narrow victory",
+      "meaning": "辛勝"
+    },
+    {
+      "form": "narrow down A",
+      "meaning": "Aを絞りこむ"
+    },
+    {
+      "form": "narrow-minded",
+      "meaning": "心のせまい"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "せまい",
+      "en": "The street was too narrow for cars.",
+      "ja": "その通りは車が通るにはせますぎた。"
+    },
+    {
+      "source": "original",
+      "label": "間一髪",
+      "en": "We had a narrow escape from the fire.",
+      "ja": "私たちは間一髪で火事から逃れた。"
+    },
+    {
+      "source": "original",
+      "label": "辛勝",
+      "en": "Our team won a narrow victory.",
+      "ja": "私たちのチームは辛うじて勝った。"
+    },
+    {
+      "source": "original",
+      "label": "絞りこむ",
+      "en": "We narrowed down the list to three candidates.",
+      "ja": "私たちは候補を3人に絞りこんだ。"
+    },
+    {
+      "source": "original",
+      "label": "心のせまい",
+      "en": "Don't be so narrow-minded.",
+      "ja": "そんなに心がせまくならないで。"
+    },
+    {
+      "source": "original",
+      "label": "縮まる",
+      "en": "The gap between the two teams has narrowed.",
+      "ja": "2チームの差は縮まった。"
+    }
+  ],
+  "check_points": [
+    "部屋の「せまい」は small を使うことがわかるか",
+    "narrow down の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "narrow / small の区別、narrow escape、narrow down が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1386
+    }
+  ]
+}

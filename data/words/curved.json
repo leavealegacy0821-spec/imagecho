@@ -1,0 +1,93 @@
+{
+  "word": "curved",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/kɜːrvd/",
+  "core_image": {
+    "text": "弓なりに、なめらかにカーブした",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 120 Q120 20 220 120\"/><line x1=\"20\" y1=\"120\" x2=\"220\" y2=\"120\" stroke-dasharray=\"4 6\"/><circle cx=\"120\" cy=\"70\" r=\"3\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">弓なり</text></svg>"
+  },
+  "etymology": "curve(曲線。ラテン語 curvus=曲がった)+ed → なめらかに曲がった・湾曲した",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "having a smooth round shape that bends, not straight."
+    }
+  ],
+  "cautions": [
+    "curved=なめらかにカーブした(美しい曲線)/crooked=くねくね・不規則に曲がった(悪い意味も)/bent=折れ曲がった",
+    "a curved line [road]=曲線[カーブした道]",
+    "名詞・動詞 curve=曲線・曲がる",
+    "a learning curve=習熟曲線(慣れるまでの過程)"
+  ],
+  "patterns": [
+    {
+      "form": "a curved line",
+      "meaning": "曲線"
+    },
+    {
+      "form": "a curved surface",
+      "meaning": "曲面"
+    },
+    {
+      "form": "curve",
+      "meaning": "曲がる"
+    },
+    {
+      "form": "a learning curve",
+      "meaning": "習熟の過程"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "曲がった",
+      "en": "Draw a curved line from A to B.",
+      "ja": "AからBへ曲線を引きなさい。"
+    },
+    {
+      "source": "original",
+      "label": "カーブした",
+      "en": "The road is curved along the river.",
+      "ja": "道は川に沿ってカーブしている。"
+    },
+    {
+      "source": "original",
+      "label": "弓なりの",
+      "en": "The bridge has a beautiful curved shape.",
+      "ja": "その橋は美しい弓なりの形をしている。"
+    },
+    {
+      "source": "original",
+      "label": "曲がる",
+      "en": "The path curves to the left.",
+      "ja": "小道は左へ曲がっている。"
+    },
+    {
+      "source": "original",
+      "label": "習熟の過程",
+      "en": "Learning a new language has a steep learning curve.",
+      "ja": "新しい言語を学ぶのは最初の壁が高い。"
+    },
+    {
+      "source": "original",
+      "label": "曲面",
+      "en": "Light bends on a curved surface.",
+      "ja": "光は曲面で曲がる。"
+    }
+  ],
+  "check_points": [
+    "curved と crooked のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "形の形容詞の使い分けで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1382
+    }
+  ]
+}

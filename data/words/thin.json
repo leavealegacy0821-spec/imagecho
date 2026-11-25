@@ -1,0 +1,103 @@
+{
+  "word": "thin",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/θɪn/",
+  "core_image": {
+    "text": "中身が少なくて、うすい・細い",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"40\" y1=\"80\" x2=\"200\" y2=\"80\"/><line x1=\"40\" y1=\"84\" x2=\"200\" y2=\"84\"/><line x1=\"100\" y1=\"110\" x2=\"100\" y2=\"130\"/><line x1=\"140\" y1=\"110\" x2=\"140\" y2=\"130\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">うすい・細い</text></svg>"
+  },
+  "etymology": "古い英語 þynne(うすい・細い) → うすい・細い・やせた → (液体・空気が)うすい → (髪・人の数が)まばらな → (言い訳が)見えすいた",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "having a small distance between opposite sides; (of a person) having little fat; (of liquid or air) containing little; not dense."
+    },
+    {
+      "pos": "動詞",
+      "text": "to become or make something thinner."
+    }
+  ],
+  "cautions": [
+    "thin=やせている(中立〜やや悪い)/slim・slender=すらりとした(よい)/skinny=がりがりの(悪い)",
+    "thin air=(高地の)うすい空気/vanish into thin air=跡形もなく消える",
+    "wear thin=(忍耐が)尽きかける",
+    "thick ⇔ thin"
+  ],
+  "patterns": [
+    {
+      "form": "a thin slice",
+      "meaning": "うすい一切れ"
+    },
+    {
+      "form": "thin air",
+      "meaning": "うすい空気"
+    },
+    {
+      "form": "vanish into thin air",
+      "meaning": "跡形もなく消える"
+    },
+    {
+      "form": "wear thin",
+      "meaning": "すり切れる・尽きかける"
+    },
+    {
+      "form": "thin out",
+      "meaning": "まばらになる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "うすい",
+      "en": "Cut the cucumber into thin slices.",
+      "ja": "きゅうりをうすく切ってください。"
+    },
+    {
+      "source": "original",
+      "label": "やせた",
+      "en": "He is tall and thin.",
+      "ja": "彼は背が高くてやせている。"
+    },
+    {
+      "source": "original",
+      "label": "うすい",
+      "en": "The air is thin at the top of the mountain.",
+      "ja": "山頂では空気がうすい。"
+    },
+    {
+      "source": "original",
+      "label": "跡形もなく",
+      "en": "My keys seem to have vanished into thin air.",
+      "ja": "鍵が跡形もなく消えてしまったようだ。"
+    },
+    {
+      "source": "original",
+      "label": "尽きかける",
+      "en": "My patience is wearing thin.",
+      "ja": "私の忍耐も限界に近づいている。"
+    },
+    {
+      "source": "original",
+      "label": "まばらになる",
+      "en": "The crowd began to thin out after the concert.",
+      "ja": "コンサートのあと人ごみがまばらになり始めた。"
+    }
+  ],
+  "check_points": [
+    "thin・slim・skinny のちがいを言えるか",
+    "vanish into thin air の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "thin / thick、熟語が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1390
+    }
+  ]
+}
