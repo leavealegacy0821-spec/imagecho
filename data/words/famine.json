@@ -1,0 +1,89 @@
+{
+  "word": "famine",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈfæmɪn/",
+  "core_image": {
+    "text": "地域全体で食べ物が尽きる、ききん",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"30,140 30,100 50,90 50,140\"/><line x1=\"80\" y1=\"140\" x2=\"84\" y2=\"110\"/><line x1=\"84\" y1=\"110\" x2=\"76\" y2=\"100\"/><line x1=\"140\" y1=\"140\" x2=\"136\" y2=\"112\"/><line x1=\"136\" y1=\"112\" x2=\"146\" y2=\"104\"/><line x1=\"190\" y1=\"140\" x2=\"194\" y2=\"116\"/><circle cx=\"190\" cy=\"40\" r=\"16\"/></g><text x=\"110\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ききん</text></svg>"
+  },
+  "etymology": "ラテン語 fames(飢え) → (古フランス語)飢え → (地域全体の)ききん・深刻な食料不足",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a situation in which a large number of people do not have enough food for a long time."
+    }
+  ],
+  "cautions": [
+    "hunger=(個人の)空腹・飢え/famine=(国・地域全体の)ききん",
+    "drought=日照り・干ばつ(→ famine の原因になる)",
+    "suffer from famine=ききんに苦しむ",
+    "数えられる名詞(a famine / famines)"
+  ],
+  "patterns": [
+    {
+      "form": "a severe famine",
+      "meaning": "深刻なききん"
+    },
+    {
+      "form": "famine relief",
+      "meaning": "ききん救済"
+    },
+    {
+      "form": "be hit by famine",
+      "meaning": "ききんに見舞われる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ききん",
+      "en": "The famine killed over a million people.",
+      "ja": "そのききんで100万人以上が亡くなった。"
+    },
+    {
+      "source": "original",
+      "label": "干ばつから",
+      "en": "The drought led to a terrible famine.",
+      "ja": "干ばつがひどいききんにつながった。"
+    },
+    {
+      "source": "original",
+      "label": "救済",
+      "en": "Many countries sent famine relief.",
+      "ja": "多くの国がききん救済の援助を送った。"
+    },
+    {
+      "source": "original",
+      "label": "見舞われる",
+      "en": "The region was hit by famine.",
+      "ja": "その地域はききんに見舞われた。"
+    },
+    {
+      "source": "original",
+      "label": "歴史",
+      "en": "The Irish Potato Famine began in 1845.",
+      "ja": "アイルランドのジャガイモききんは1845年に始まった。"
+    },
+    {
+      "source": "original",
+      "label": "防ぐ",
+      "en": "New farming methods helped prevent famine.",
+      "ja": "新しい農法がききんを防ぐのに役立った。"
+    }
+  ],
+  "check_points": [
+    "hunger と famine のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で drought / famine が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1772
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "meal",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/miːl/",
+  "core_image": {
+    "text": "決まった時に食べる、ひと区切りの食事",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"120\" cy=\"100\" rx=\"60\" ry=\"14\"/><ellipse cx=\"120\" cy=\"96\" rx=\"34\" ry=\"8\"/><line x1=\"40\" y1=\"70\" x2=\"40\" y2=\"120\"/><line x1=\"200\" y1=\"70\" x2=\"200\" y2=\"120\"/><path d=\"M36 70 L36 84 M44 70 L44 84\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひと区切り</text></svg>"
+  },
+  "etymology": "古い英語 mǣl(決まった時・印) → 決まった時刻にとるもの → 食事(朝・昼・夕の1回分)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an occasion when people eat, such as breakfast, lunch or dinner; the food eaten at that time."
+    }
+  ],
+  "cautions": [
+    "meal=1回分の食事(数えられる:three meals a day)/food=食べ物(全体)/dish=1品の料理",
+    "have a meal=食事をする",
+    "eat between meals=間食する",
+    "a balanced meal=バランスのとれた食事"
+  ],
+  "patterns": [
+    {
+      "form": "have a meal",
+      "meaning": "食事をする"
+    },
+    {
+      "form": "three meals a day",
+      "meaning": "1日3食"
+    },
+    {
+      "form": "between meals",
+      "meaning": "食事と食事の間に"
+    },
+    {
+      "form": "make a meal of A",
+      "meaning": "Aを大げさにする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "1日3食",
+      "en": "It's important to eat three meals a day.",
+      "ja": "1日3食とることが大切だ。"
+    },
+    {
+      "source": "original",
+      "label": "間食",
+      "en": "Try not to eat between meals.",
+      "ja": "間食をしないようにしなさい。"
+    },
+    {
+      "source": "original",
+      "label": "食事をする",
+      "en": "We had a meal at a small restaurant.",
+      "ja": "小さなレストランで食事をした。"
+    },
+    {
+      "source": "original",
+      "label": "バランス",
+      "en": "A balanced meal includes vegetables.",
+      "ja": "バランスのよい食事には野菜が入っている。"
+    },
+    {
+      "source": "original",
+      "label": "1回分",
+      "en": "Breakfast is the most important meal of the day.",
+      "ja": "朝食は1日で一番大切な食事だ。"
+    },
+    {
+      "source": "original",
+      "label": "手料理",
+      "en": "She cooked a big meal for her family.",
+      "ja": "彼女は家族のためにたっぷりの食事を作った。"
+    }
+  ],
+  "check_points": [
+    "meal と food と dish のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "between meals、three meals a day が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1776
+    }
+  ]
+}

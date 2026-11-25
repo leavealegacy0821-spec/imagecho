@@ -1,0 +1,93 @@
+{
+  "word": "appetite",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈæpɪtaɪt/",
+  "core_image": {
+    "text": "食べたい・ほしいと向かっていく気持ち",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"80\" x2=\"150\" y2=\"80\"/><polyline points=\"143,76.2 150,80 143,83.8\"/><ellipse cx=\"180\" cy=\"100\" rx=\"30\" ry=\"8\"/><path d=\"M160 96 Q180 70 200 96\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">食べたい!</text></svg>"
+  },
+  "etymology": "ラテン語 appetitus(ad-=〜へ + petere=求める) → 〜へ向かって求めること → 食欲 → (広く)欲求・意欲(an appetite for)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the desire to eat food; a strong desire for something."
+    }
+  ],
+  "cautions": [
+    "hunger=空腹(体の状態)/appetite=食べたいという気持ち(食欲)",
+    "have a good [poor] appetite=食欲がある[ない](big / small も)",
+    "lose one's appetite=食欲がなくなる",
+    "an appetite for A=Aへの意欲"
+  ],
+  "patterns": [
+    {
+      "form": "have a good appetite",
+      "meaning": "食欲がある"
+    },
+    {
+      "form": "lose one's appetite",
+      "meaning": "食欲をなくす"
+    },
+    {
+      "form": "spoil one's appetite",
+      "meaning": "食欲をなくさせる"
+    },
+    {
+      "form": "an appetite for A",
+      "meaning": "Aへの意欲"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "食欲がある",
+      "en": "My son has a big appetite.",
+      "ja": "息子は食欲旺盛だ。"
+    },
+    {
+      "source": "original",
+      "label": "食欲をなくす",
+      "en": "I lost my appetite after hearing the news.",
+      "ja": "その知らせを聞いて食欲がなくなった。"
+    },
+    {
+      "source": "original",
+      "label": "食欲をそぐ",
+      "en": "Don't eat snacks. You'll spoil your appetite.",
+      "ja": "お菓子を食べないで。ごはんが食べられなくなるよ。"
+    },
+    {
+      "source": "original",
+      "label": "意欲",
+      "en": "She has a great appetite for learning.",
+      "ja": "彼女は学ぶ意欲が旺盛だ。"
+    },
+    {
+      "source": "original",
+      "label": "ない",
+      "en": "He has a poor appetite these days.",
+      "ja": "彼は最近食欲がない。"
+    },
+    {
+      "source": "original",
+      "label": "ことわざ",
+      "en": "Appetite comes with eating.",
+      "ja": "食欲は食べるうちに出てくる(やり始めると意欲がわく)。"
+    }
+  ],
+  "check_points": [
+    "have a good appetite の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "lose one's appetite、have a good appetite が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1775
+    }
+  ]
+}

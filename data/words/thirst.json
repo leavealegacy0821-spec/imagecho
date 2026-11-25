@@ -1,0 +1,98 @@
+{
+  "word": "thirst",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/θɜːrst/",
+  "core_image": {
+    "text": "のどがかわいて、水が欲しい状態",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><path d=\"M150 50 Q160 70 150 80 Q140 70 150 50 Z\"/><line x1=\"100\" y1=\"80\" x2=\"140\" y2=\"66\" stroke-dasharray=\"3 3\"/><path d=\"M150 120 L170 112 L190 120 L210 112\"/></g><text x=\"190\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">からから</text></svg>"
+  },
+  "etymology": "古い英語 þurst(のどのかわき) → のどのかわき → (比ゆ的に)強い欲求(thirst for knowledge)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the feeling of needing to drink; a strong desire for something."
+    },
+    {
+      "pos": "動詞",
+      "text": "(thirst for) to want something very much."
+    }
+  ],
+  "cautions": [
+    "thirst=(名詞)のどのかわき/thirsty=(形容詞)のどがかわいた",
+    "quench one's thirst=のどのかわきをいやす",
+    "a thirst for A=Aへの渇望",
+    "die of thirst=のどがかわいて死ぬ"
+  ],
+  "patterns": [
+    {
+      "form": "quench one's thirst",
+      "meaning": "のどのかわきをいやす"
+    },
+    {
+      "form": "die of thirst",
+      "meaning": "かわき死にする"
+    },
+    {
+      "form": "a thirst for A",
+      "meaning": "Aへの渇望"
+    },
+    {
+      "form": "thirst for A",
+      "meaning": "Aを渇望する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "かわき",
+      "en": "I drank a glass of water to quench my thirst.",
+      "ja": "のどのかわきをいやすために水を1杯飲んだ。"
+    },
+    {
+      "source": "original",
+      "label": "かわき死に",
+      "en": "They almost died of thirst in the desert.",
+      "ja": "彼らは砂漠でのどがかわいて死にかけた。"
+    },
+    {
+      "source": "original",
+      "label": "渇望",
+      "en": "He has a thirst for adventure.",
+      "ja": "彼は冒険を強く求めている。"
+    },
+    {
+      "source": "original",
+      "label": "求める",
+      "en": "The students thirsted for knowledge.",
+      "ja": "学生たちは知識を渇望していた。"
+    },
+    {
+      "source": "original",
+      "label": "のどのかわき",
+      "en": "Thirst is a sign that your body needs water.",
+      "ja": "のどのかわきは体が水を必要としている合図だ。"
+    },
+    {
+      "source": "original",
+      "label": "運動",
+      "en": "After the game, I felt great thirst.",
+      "ja": "試合のあと、ひどくのどがかわいた。"
+    }
+  ],
+  "check_points": [
+    "quench one's thirst の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a thirst for knowledge が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1773
+    }
+  ]
+}

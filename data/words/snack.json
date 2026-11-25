@@ -1,0 +1,98 @@
+{
+  "word": "snack",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/snæk/",
+  "core_image": {
+    "text": "食事の合間に、ちょっとつまむ軽い食べ物",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"120\" cy=\"110\" rx=\"50\" ry=\"10\"/><circle cx=\"100\" cy=\"100\" r=\"8\"/><circle cx=\"124\" cy=\"96\" r=\"8\"/><circle cx=\"144\" cy=\"102\" r=\"8\"/><line x1=\"60\" y1=\"60\" x2=\"110\" y2=\"90\"/><polyline points=\"106,83.1 110,90 102,89.7\"/></g><text x=\"190\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ちょっと</text></svg>"
+  },
+  "etymology": "中オランダ語 snacken(ぱくっとかみつく) → ぱくっとひと口 → (食事の合間の)軽い食べ物・軽食 → (動詞)間食する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a small amount of food eaten between meals."
+    },
+    {
+      "pos": "動詞",
+      "text": "to eat small amounts of food between meals."
+    }
+  ],
+  "cautions": [
+    "meal=決まった時の食事/snack=合間に食べる軽食(お菓子に限らない)",
+    "have a snack=軽く食べる",
+    "snack on A=Aを間食する",
+    "sweets=甘いお菓子"
+  ],
+  "patterns": [
+    {
+      "form": "have a snack",
+      "meaning": "軽く食べる"
+    },
+    {
+      "form": "snack on A",
+      "meaning": "Aを間食に食べる"
+    },
+    {
+      "form": "a light snack",
+      "meaning": "軽い軽食"
+    },
+    {
+      "form": "snack food",
+      "meaning": "スナック食品"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "軽く食べる",
+      "en": "Let's have a snack before we go.",
+      "ja": "出かける前に軽く何か食べよう。"
+    },
+    {
+      "source": "original",
+      "label": "間食",
+      "en": "I often snack on nuts.",
+      "ja": "私はよくナッツを間食に食べる。"
+    },
+    {
+      "source": "original",
+      "label": "合間",
+      "en": "Fruit is a healthy snack.",
+      "ja": "果物は健康的な間食だ。"
+    },
+    {
+      "source": "original",
+      "label": "軽食",
+      "en": "The café serves light snacks.",
+      "ja": "そのカフェは軽食を出している。"
+    },
+    {
+      "source": "original",
+      "label": "食べすぎ",
+      "en": "Snacking too much is bad for your health.",
+      "ja": "間食のしすぎは健康によくない。"
+    },
+    {
+      "source": "original",
+      "label": "お菓子",
+      "en": "Don't eat snacks before dinner.",
+      "ja": "夕食前にお菓子を食べないで。"
+    }
+  ],
+  "check_points": [
+    "snack on A の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "snack on が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1777
+    }
+  ]
+}

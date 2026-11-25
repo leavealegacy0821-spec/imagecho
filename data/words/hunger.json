@@ -1,0 +1,98 @@
+{
+  "word": "hunger",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈhʌŋɡər/",
+  "core_image": {
+    "text": "食べ物が足りず、おなかがすいている状態",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><path d=\"M108 90 Q120 100 132 90\"/><path d=\"M150 70 Q160 60 170 70 Q180 80 190 70\" stroke-dasharray=\"3 3\"/></g><text x=\"190\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぐう</text></svg>"
+  },
+  "etymology": "古い英語 hungor(空腹) → 空腹・飢え → (広く世界の)飢餓 → (比ゆ的に)強い欲求(hunger for knowledge)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the feeling of needing food; a lack of food in a population; a strong wish for something."
+    },
+    {
+      "pos": "動詞",
+      "text": "(hunger for) to want something very much."
+    }
+  ],
+  "cautions": [
+    "hunger=(名詞)空腹・飢え/hungry=(形容詞)おなかがすいた",
+    "starvation=(長く食べられず)死にそうな飢え/famine=(地域全体の)ききん",
+    "a hunger for A=Aへの強い欲求",
+    "die of hunger=飢え死にする"
+  ],
+  "patterns": [
+    {
+      "form": "die of hunger",
+      "meaning": "飢え死にする"
+    },
+    {
+      "form": "world hunger",
+      "meaning": "世界の飢餓"
+    },
+    {
+      "form": "a hunger for A",
+      "meaning": "Aへの渇望"
+    },
+    {
+      "form": "hunger for A",
+      "meaning": "Aを渇望する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "飢え",
+      "en": "Millions of people suffer from hunger.",
+      "ja": "何百万もの人々が飢えに苦しんでいる。"
+    },
+    {
+      "source": "original",
+      "label": "飢え死に",
+      "en": "Many animals died of hunger in the winter.",
+      "ja": "冬に多くの動物が飢え死にした。"
+    },
+    {
+      "source": "original",
+      "label": "渇望",
+      "en": "She has a great hunger for knowledge.",
+      "ja": "彼女は知識への強い欲求をもっている。"
+    },
+    {
+      "source": "original",
+      "label": "空腹",
+      "en": "Hunger is the best sauce.",
+      "ja": "空腹は最高のソースだ(すきっ腹にまずいものなし)。"
+    },
+    {
+      "source": "original",
+      "label": "世界の飢餓",
+      "en": "The aim is to end world hunger.",
+      "ja": "目的は世界の飢餓をなくすことだ。"
+    },
+    {
+      "source": "original",
+      "label": "求める",
+      "en": "The people hungered for freedom.",
+      "ja": "人々は自由を渇望していた。"
+    }
+  ],
+  "check_points": [
+    "hunger と hungry の品詞のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "品詞(hunger / hungry)、world hunger が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1769
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "starve",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/stɑːrv/",
+  "core_image": {
+    "text": "食べ物がなく、死ぬほど飢える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"100\" cy=\"80\" r=\"10\"/><line x1=\"100\" y1=\"90\" x2=\"104\" y2=\"120\"/><line x1=\"104\" y1=\"120\" x2=\"96\" y2=\"140\"/><line x1=\"104\" y1=\"120\" x2=\"114\" y2=\"140\"/><line x1=\"102\" y1=\"100\" x2=\"88\" y2=\"116\"/><ellipse cx=\"170\" cy=\"134\" rx=\"24\" ry=\"6\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">からっぽ</text></svg>"
+  },
+  "etymology": "古い英語 steorfan(死ぬ) → (食べ物がなくて)死ぬ → 飢え死にする・飢えさせる → (口語)おなかがぺこぺこだ(I'm starving.)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to suffer or die because you do not have enough food; to make someone suffer this way; (be starved of) to not have enough of something."
+    }
+  ],
+  "cautions": [
+    "starve (to death)=飢え死にする",
+    "I'm starving.=おなかがぺこぺこ(口語の誇張)",
+    "be starved of [for] A=Aにうえている・Aが足りない",
+    "starvation=飢餓"
+  ],
+  "patterns": [
+    {
+      "form": "starve to death",
+      "meaning": "飢え死にする"
+    },
+    {
+      "form": "be starving",
+      "meaning": "おなかがぺこぺこ"
+    },
+    {
+      "form": "be starved of A",
+      "meaning": "Aが不足している"
+    },
+    {
+      "form": "starvation",
+      "meaning": "飢餓"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "飢え死に",
+      "en": "Thousands of people starved to death.",
+      "ja": "何千人もの人が飢え死にした。"
+    },
+    {
+      "source": "original",
+      "label": "ぺこぺこ",
+      "en": "When is dinner? I'm starving!",
+      "ja": "夕食はいつ?おなかぺこぺこだよ!"
+    },
+    {
+      "source": "original",
+      "label": "不足",
+      "en": "The schools are starved of money.",
+      "ja": "学校はお金が足りない。"
+    },
+    {
+      "source": "original",
+      "label": "飢餓",
+      "en": "Many children are dying of starvation.",
+      "ja": "多くの子どもが飢餓で亡くなっている。"
+    },
+    {
+      "source": "original",
+      "label": "飢えさせる",
+      "en": "The soldiers tried to starve the city into surrender.",
+      "ja": "兵士たちは兵糧攻めで町を降伏させようとした。"
+    },
+    {
+      "source": "original",
+      "label": "愛情",
+      "en": "The child was starved of love.",
+      "ja": "その子は愛情にうえていた。"
+    }
+  ],
+  "check_points": [
+    "I'm starving. の意味を言えるか",
+    "starve to death の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "starve to death、starvation が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1771
+    }
+  ]
+}

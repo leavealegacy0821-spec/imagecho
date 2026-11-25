@@ -1,0 +1,98 @@
+{
+  "word": "diet",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈdaɪət/",
+  "core_image": {
+    "text": "ふだん口にする食べ物・食事の制限",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"80\" cy=\"100\" rx=\"40\" ry=\"10\"/><circle cx=\"70\" cy=\"94\" r=\"6\"/><circle cx=\"90\" cy=\"94\" r=\"6\"/><rect x=\"140\" y=\"50\" width=\"60\" height=\"70\"/><line x1=\"150\" y1=\"66\" x2=\"190\" y2=\"66\"/><line x1=\"150\" y1=\"82\" x2=\"190\" y2=\"82\"/><line x1=\"150\" y1=\"98\" x2=\"176\" y2=\"98\"/></g><text x=\"80\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふだんの食事</text></svg>"
+  },
+  "etymology": "ギリシャ語 diaita(暮らし方) → (健康のための)暮らし方・食生活 → ふだん食べるもの → (やせるための)食事制限",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the kind of food that a person or animal usually eats; a plan of eating less to lose weight."
+    },
+    {
+      "pos": "動詞",
+      "text": "to eat less or eat special food to lose weight."
+    }
+  ],
+  "cautions": [
+    "diet=まずは「ふだんの食生活」(a healthy diet)。やせるための「ダイエット」は on a diet",
+    "be [go] on a diet=ダイエット中だ[を始める]",
+    "a balanced diet=バランスのよい食事",
+    "The Diet=(日本の)国会(別の語源)"
+  ],
+  "patterns": [
+    {
+      "form": "a healthy [balanced] diet",
+      "meaning": "健康的な[バランスのよい]食生活"
+    },
+    {
+      "form": "be on a diet",
+      "meaning": "ダイエット中だ"
+    },
+    {
+      "form": "go on a diet",
+      "meaning": "ダイエットを始める"
+    },
+    {
+      "form": "the Diet",
+      "meaning": "国会"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "食生活",
+      "en": "A healthy diet includes lots of vegetables.",
+      "ja": "健康的な食生活には野菜がたくさん入っている。"
+    },
+    {
+      "source": "original",
+      "label": "ダイエット中",
+      "en": "I'm on a diet, so no cake for me.",
+      "ja": "ダイエット中だからケーキはいらない。"
+    },
+    {
+      "source": "original",
+      "label": "始める",
+      "en": "She went on a diet before summer.",
+      "ja": "彼女は夏の前にダイエットを始めた。"
+    },
+    {
+      "source": "original",
+      "label": "ふだん食べる",
+      "en": "Rice is part of the Japanese diet.",
+      "ja": "米は日本人の食生活の一部だ。"
+    },
+    {
+      "source": "original",
+      "label": "動物",
+      "en": "The panda's diet is mainly bamboo.",
+      "ja": "パンダの食べ物は主に竹だ。"
+    },
+    {
+      "source": "original",
+      "label": "国会",
+      "en": "The bill was passed by the Diet.",
+      "ja": "その法案は国会で可決された。"
+    }
+  ],
+  "check_points": [
+    "diet の「ふだんの食生活」という意味がわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "a balanced diet、on a diet、the Diet が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1778
+    }
+  ]
+}
