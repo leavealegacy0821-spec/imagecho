@@ -1,0 +1,93 @@
+{
+  "word": "entire",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ɪnˈtaɪər/",
+  "core_image": {
+    "text": "手つかずで、ひとつ残らずそろった全体",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"50\" width=\"160\" height=\"60\"/><line x1=\"80\" y1=\"50\" x2=\"80\" y2=\"110\"/><line x1=\"120\" y1=\"50\" x2=\"120\" y2=\"110\"/><line x1=\"160\" y1=\"50\" x2=\"160\" y2=\"110\"/><path d=\"M40 40 Q120 20 200 40\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひとつ残らず</text></svg>"
+  },
+  "etymology": "ラテン語 integer(in=〜ない+tangere=触れる:手つかずの。integrate・integrity と同じ根) → 手をつけていない・完全な → 全体の・まるごとの → entirely=完全に",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "whole or complete, with nothing missing."
+    }
+  ],
+  "cautions": [
+    "whole とほぼ同じ「全体の」。entire は「ひとつも欠けず完全に」を強める(やや堅い)",
+    "the entire A=A全体(the entire world=全世界)",
+    "entirely=まったく・完全に(=completely)",
+    "not entirely=完全に〜というわけではない(部分否定)"
+  ],
+  "patterns": [
+    {
+      "form": "the entire A",
+      "meaning": "A全体"
+    },
+    {
+      "form": "the entire world",
+      "meaning": "全世界"
+    },
+    {
+      "form": "entirely",
+      "meaning": "完全に"
+    },
+    {
+      "form": "not entirely",
+      "meaning": "完全には〜ない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "全体",
+      "en": "The entire school came to watch the game.",
+      "ja": "全校が試合を見に来た。"
+    },
+    {
+      "source": "original",
+      "label": "丸ごと",
+      "en": "I read the entire book in one night.",
+      "ja": "一晩でその本を丸ごと読んだ。"
+    },
+    {
+      "source": "original",
+      "label": "完全に",
+      "en": "I entirely agree with you.",
+      "ja": "あなたにまったく同感です。"
+    },
+    {
+      "source": "original",
+      "label": "完全には〜ない",
+      "en": "I'm not entirely sure.",
+      "ja": "完全に確信があるわけではない。"
+    },
+    {
+      "source": "original",
+      "label": "全世界",
+      "en": "The news spread across the entire world.",
+      "ja": "そのニュースは全世界に広がった。"
+    },
+    {
+      "source": "original",
+      "label": "すべて",
+      "en": "The entire village was destroyed.",
+      "ja": "村全体が破壊された。"
+    }
+  ],
+  "check_points": [
+    "not entirely の意味(部分否定)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "entirely、not entirely が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1640
+    }
+  ]
+}

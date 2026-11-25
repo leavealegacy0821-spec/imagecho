@@ -1,0 +1,93 @@
+{
+  "word": "portion",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈpɔːrʃn/",
+  "core_image": {
+    "text": "全体から分けて与えられた、取り分",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"80\" cy=\"80\" r=\"40\"/><line x1=\"80\" y1=\"40\" x2=\"80\" y2=\"120\"/><line x1=\"40\" y1=\"80\" x2=\"120\" y2=\"80\"/><path d=\"M170 80 L170 50 A30 30 0 0 1 200 80 Z\"/><line x1=\"124\" y1=\"70\" x2=\"162\" y2=\"64\"/><polyline points=\"154.5,61.3 162,64 155.7,68.9\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">取り分</text></svg>"
+  },
+  "etymology": "ラテン語 portio(分け前。part と同じ仲間) → 分けられた部分・分け前 → (料理の)1人前 → 一部分",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a part of something larger; an amount of food for one person."
+    }
+  ],
+  "cautions": [
+    "part=部分(広い)/portion=全体から分けて与えられた取り分・(料理の)1人前",
+    "a large portion of A=Aの大部分",
+    "portion size=1人前の量",
+    "proportion=割合(同じ根)"
+  ],
+  "patterns": [
+    {
+      "form": "a portion of A",
+      "meaning": "Aの一部"
+    },
+    {
+      "form": "a large portion of A",
+      "meaning": "Aの大部分"
+    },
+    {
+      "form": "a portion of food",
+      "meaning": "1人前の料理"
+    },
+    {
+      "form": "portion size",
+      "meaning": "1人前の量"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "大部分",
+      "en": "A large portion of the budget is spent on education.",
+      "ja": "予算の大部分が教育に使われている。"
+    },
+    {
+      "source": "original",
+      "label": "1人前",
+      "en": "The restaurant serves large portions.",
+      "ja": "そのレストランは1人前の量が多い。"
+    },
+    {
+      "source": "original",
+      "label": "一部",
+      "en": "Only a small portion of the forest was damaged.",
+      "ja": "森のごく一部だけが被害を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "取り分",
+      "en": "Each child received a portion of the money.",
+      "ja": "子どもたちはそれぞれお金の取り分をもらった。"
+    },
+    {
+      "source": "original",
+      "label": "一部",
+      "en": "I read only a portion of the report.",
+      "ja": "報告書の一部しか読んでいない。"
+    },
+    {
+      "source": "original",
+      "label": "割合(proportion)",
+      "en": "The proportion of elderly people is rising.",
+      "ja": "高齢者の割合が上がっている。"
+    }
+  ],
+  "check_points": [
+    "part と portion のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a portion of が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1643
+    }
+  ]
+}

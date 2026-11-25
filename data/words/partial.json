@@ -1,0 +1,93 @@
+{
+  "word": "partial",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈpɑːrʃl/",
+  "core_image": {
+    "text": "全体の一部だけで、かたよった",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"80\" cy=\"80\" r=\"40\"/><path d=\"M80 80 L80 40 A40 40 0 0 1 120 80 Z\"/><line x1=\"140\" y1=\"80\" x2=\"200\" y2=\"80\"/><line x1=\"170\" y1=\"120\" x2=\"200\" y2=\"120\"/><polyline points=\"193,116.2 200,120 193,123.8\"/></g><text x=\"170\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">一部だけ</text></svg>"
+  },
+  "etymology": "part(部分)+ial → 一部分の・不完全な → 一方にかたよった・不公平な(⇔ impartial=公平な) → be partial to A=Aが大好きだ",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not complete; supporting one side unfairly; liking something very much."
+    }
+  ],
+  "cautions": [
+    "2つの意味:部分的な(a partial success)/不公平な・ひいきする(⇔ impartial=公平な)",
+    "be partial to A=Aが大好きだ",
+    "partially=部分的に",
+    "whole・complete の反対"
+  ],
+  "patterns": [
+    {
+      "form": "a partial success",
+      "meaning": "部分的な成功"
+    },
+    {
+      "form": "partially",
+      "meaning": "部分的に"
+    },
+    {
+      "form": "impartial",
+      "meaning": "公平な"
+    },
+    {
+      "form": "be partial to A",
+      "meaning": "Aが大好きだ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "部分的な",
+      "en": "The plan was only a partial success.",
+      "ja": "その計画は部分的な成功にとどまった。"
+    },
+    {
+      "source": "original",
+      "label": "部分的に",
+      "en": "The road was partially blocked.",
+      "ja": "道路は一部ふさがれていた。"
+    },
+    {
+      "source": "original",
+      "label": "公平な",
+      "en": "A judge must be impartial.",
+      "ja": "裁判官は公平でなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "大好き",
+      "en": "I'm partial to chocolate.",
+      "ja": "私はチョコレートに目がない。"
+    },
+    {
+      "source": "original",
+      "label": "一部",
+      "en": "We saw a partial eclipse of the sun.",
+      "ja": "部分日食を見た。"
+    },
+    {
+      "source": "original",
+      "label": "かたよった",
+      "en": "The referee was accused of being partial.",
+      "ja": "審判はひいきしていると非難された。"
+    }
+  ],
+  "check_points": [
+    "partial と impartial の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "partial / impartial が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1641
+    }
+  ]
+}

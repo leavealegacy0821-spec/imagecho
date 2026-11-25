@@ -1,0 +1,98 @@
+{
+  "word": "section",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈsekʃn/",
+  "core_image": {
+    "text": "切り分けた、ひと区切りの部分",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"40\" width=\"160\" height=\"80\"/><line x1=\"93\" y1=\"40\" x2=\"93\" y2=\"120\"/><line x1=\"146\" y1=\"40\" x2=\"146\" y2=\"120\"/><rect x=\"96\" y=\"44\" width=\"46\" height=\"72\" stroke-dasharray=\"3 3\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひと区切り</text></svg>"
+  },
+  "etymology": "ラテン語 sectio(切ること。secare=切る:insect・sector と同じ根) → 切り分けた部分 → (文書の)節・(店・組織の)売り場・部門・区画",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "one of the parts that something is divided into; a department of an organization; a part of a document."
+    },
+    {
+      "pos": "動詞",
+      "text": "to divide something into parts."
+    }
+  ],
+  "cautions": [
+    "part=部分/section=(切って分けた)区切り・節・部門(規則的に区切られた部分)",
+    "the sports section=(新聞の)スポーツ欄・(店の)売り場",
+    "Section 3=第3節",
+    "sector=(経済の)部門・分野(同じ根)"
+  ],
+  "patterns": [
+    {
+      "form": "a section of A",
+      "meaning": "Aの一区画"
+    },
+    {
+      "form": "the sports section",
+      "meaning": "スポーツ欄・売り場"
+    },
+    {
+      "form": "in this section",
+      "meaning": "この節で"
+    },
+    {
+      "form": "section off A",
+      "meaning": "Aを区切る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "売り場",
+      "en": "The book is in the history section.",
+      "ja": "その本は歴史のコーナーにある。"
+    },
+    {
+      "source": "original",
+      "label": "節",
+      "en": "Read Section 2 before the next class.",
+      "ja": "次の授業までに第2節を読んでおきなさい。"
+    },
+    {
+      "source": "original",
+      "label": "区画",
+      "en": "This section of the road is closed.",
+      "ja": "道路のこの区間は閉鎖中だ。"
+    },
+    {
+      "source": "original",
+      "label": "欄",
+      "en": "My father always reads the sports section first.",
+      "ja": "父はいつもスポーツ欄から読む。"
+    },
+    {
+      "source": "original",
+      "label": "部門",
+      "en": "She works in the sales section.",
+      "ja": "彼女は営業部で働いている。"
+    },
+    {
+      "source": "original",
+      "label": "区切る",
+      "en": "Part of the park was sectioned off for the event.",
+      "ja": "公園の一部が行事のために区切られた。"
+    }
+  ],
+  "check_points": [
+    "section の意味(節・売り場・部門)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "section が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1645
+    }
+  ]
+}

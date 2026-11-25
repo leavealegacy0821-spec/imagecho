@@ -1,0 +1,98 @@
+{
+  "word": "fragment",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈfræɡmənt/",
+  "core_image": {
+    "text": "こわれて飛び散った、小さなかけら",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon points=\"80,60 96,50 100,70\"/><polygon points=\"120,40 140,46 130,62\"/><polygon points=\"150,70 170,74 160,90\"/><polygon points=\"100,96 116,100 104,114\"/><polygon points=\"140,104 156,100 150,118\"/><polygon points=\"66,90 80,96 70,108\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かけら</text></svg>"
+  },
+  "etymology": "ラテン語 fragmentum(こわれた一片。frangere=こわす:fragile・fraction と同じ根) → 破片・かけら → (話・記憶の)断片 → (動詞)ばらばらになる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a small piece that has broken off something; a small part of something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to break into small pieces or parts."
+    }
+  ],
+  "cautions": [
+    "piece=一片(広い)/fragment=こわれて飛び散った破片・断片",
+    "fragments of glass=ガラスの破片",
+    "fragments of a conversation=会話の断片",
+    "fragile=こわれやすい(同じ根)"
+  ],
+  "patterns": [
+    {
+      "form": "a fragment of A",
+      "meaning": "Aのかけら"
+    },
+    {
+      "form": "fragments of glass",
+      "meaning": "ガラスの破片"
+    },
+    {
+      "form": "break into fragments",
+      "meaning": "こなごなになる"
+    },
+    {
+      "form": "fragmented",
+      "meaning": "ばらばらの"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "破片",
+      "en": "There were fragments of glass on the floor.",
+      "ja": "床にガラスの破片が散らばっていた。"
+    },
+    {
+      "source": "original",
+      "label": "断片",
+      "en": "I could only hear fragments of their conversation.",
+      "ja": "彼らの会話は断片的にしか聞こえなかった。"
+    },
+    {
+      "source": "original",
+      "label": "かけら",
+      "en": "Scientists found fragments of ancient pottery.",
+      "ja": "科学者たちは古代の土器のかけらを見つけた。"
+    },
+    {
+      "source": "original",
+      "label": "こなごな",
+      "en": "The vase broke into fragments.",
+      "ja": "花びんはこなごなに割れた。"
+    },
+    {
+      "source": "original",
+      "label": "ばらばらの",
+      "en": "The country became politically fragmented.",
+      "ja": "その国は政治的にばらばらになった。"
+    },
+    {
+      "source": "original",
+      "label": "断片",
+      "en": "I remember only fragments of the dream.",
+      "ja": "その夢は断片しか覚えていない。"
+    }
+  ],
+  "check_points": [
+    "piece と fragment のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "fragment が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1647
+    }
+  ]
+}

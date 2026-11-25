@@ -1,0 +1,93 @@
+{
+  "word": "piece",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/piːs/",
+  "core_image": {
+    "text": "全体から分かれた、ひとかけら",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"60\" width=\"80\" height=\"60\"/><polygon points=\"150,60 190,60 190,100 170,100 150,80\"/><line x1=\"120\" y1=\"60\" x2=\"120\" y2=\"120\" stroke-dasharray=\"3 3\"/></g><text x=\"170\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひとかけら</text></svg>"
+  },
+  "etymology": "古いフランス語 piece(かけら) → 全体から取れた一片・ひとかけら → (数えられない名詞を数える)1つ(a piece of advice) → (作品の)1点・(機械の)部品",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a part of something that has been broken or cut off; a single item of a type of thing; a work of art or music."
+    }
+  ],
+  "cautions": [
+    "a piece of A=1つのA(不可算名詞を数える:a piece of advice [information / furniture])",
+    "in pieces=ばらばらに/fall to pieces=ばらばらになる",
+    "a piece of cake=(口語)朝飯前",
+    "peace(平和)と同音"
+  ],
+  "patterns": [
+    {
+      "form": "a piece of A",
+      "meaning": "1つのA"
+    },
+    {
+      "form": "in pieces",
+      "meaning": "ばらばらに"
+    },
+    {
+      "form": "break into pieces",
+      "meaning": "こなごなになる"
+    },
+    {
+      "form": "a piece of cake",
+      "meaning": "朝飯前"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "1つの",
+      "en": "Let me give you a piece of advice.",
+      "ja": "1つアドバイスをさせて。"
+    },
+    {
+      "source": "original",
+      "label": "1切れ",
+      "en": "Would you like a piece of cake?",
+      "ja": "ケーキを1切れいかが?"
+    },
+    {
+      "source": "original",
+      "label": "こなごな",
+      "en": "The plate broke into pieces.",
+      "ja": "皿がこなごなに割れた。"
+    },
+    {
+      "source": "original",
+      "label": "朝飯前",
+      "en": "The test was a piece of cake.",
+      "ja": "テストは楽勝だった。"
+    },
+    {
+      "source": "original",
+      "label": "作品",
+      "en": "This is a beautiful piece of music.",
+      "ja": "これは美しい曲だ。"
+    },
+    {
+      "source": "original",
+      "label": "点",
+      "en": "We bought a few pieces of furniture.",
+      "ja": "家具を何点か買った。"
+    }
+  ],
+  "check_points": [
+    "a piece of + 不可算名詞 の使い方がわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "a piece of advice / information が文法で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1642
+    }
+  ]
+}

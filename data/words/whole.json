@@ -1,0 +1,103 @@
+{
+  "word": "whole",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/hoʊl/",
+  "core_image": {
+    "text": "欠けたところのない、まるごと全部",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"50\"/><line x1=\"40\" y1=\"140\" x2=\"200\" y2=\"140\" stroke-dasharray=\"4 4\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まるごと</text></svg>"
+  },
+  "etymology": "古い英語 hāl(無事な・欠けていない。heal・health・holy と同じ根) → 欠けたところのない → まるごとの・全体の → (名詞)全体 → as a whole=全体として/on the whole=概して",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "complete; all of something."
+    },
+    {
+      "pos": "名詞",
+      "text": "something that is complete in itself."
+    }
+  ],
+  "cautions": [
+    "all=すべての(数・量)/whole=ひとつのものの欠けのない全体(the whole day=丸一日)",
+    "the whole of A=Aの全体",
+    "as a whole=全体として/on the whole=概して・全体的に見て(頻出)",
+    "w は発音しない(hole=穴 と同音)"
+  ],
+  "patterns": [
+    {
+      "form": "the whole A",
+      "meaning": "A全体"
+    },
+    {
+      "form": "the whole of A",
+      "meaning": "Aの全体"
+    },
+    {
+      "form": "as a whole",
+      "meaning": "全体として"
+    },
+    {
+      "form": "on the whole",
+      "meaning": "概して"
+    },
+    {
+      "form": "a whole lot",
+      "meaning": "たくさん"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "丸一日",
+      "en": "I spent the whole day reading.",
+      "ja": "丸一日本を読んで過ごした。"
+    },
+    {
+      "source": "original",
+      "label": "概して",
+      "en": "On the whole, the trip was a success.",
+      "ja": "概して旅行は成功だった。"
+    },
+    {
+      "source": "original",
+      "label": "全体として",
+      "en": "We must think about society as a whole.",
+      "ja": "社会全体として考えなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "まるごと",
+      "en": "He ate the whole cake by himself.",
+      "ja": "彼はケーキをまるごとひとりで食べた。"
+    },
+    {
+      "source": "original",
+      "label": "全体",
+      "en": "The whole of Japan was shocked by the news.",
+      "ja": "日本じゅうがそのニュースに衝撃を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "全部",
+      "en": "Tell me the whole story.",
+      "ja": "話を全部聞かせて。"
+    }
+  ],
+  "check_points": [
+    "on the whole / as a whole の意味を言えるか",
+    "all と whole のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "on the whole、as a whole が熟語で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1639
+    }
+  ]
+}

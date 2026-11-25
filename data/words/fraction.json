@@ -1,0 +1,93 @@
+{
+  "word": "fraction",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈfrækʃn/",
+  "core_image": {
+    "text": "こわれて取れたような、ほんの一部・分数",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"100\" y1=\"80\" x2=\"140\" y2=\"80\"/><line x1=\"120\" y1=\"50\" x2=\"120\" y2=\"64\"/><line x1=\"114\" y1=\"54\" x2=\"120\" y2=\"50\"/><path d=\"M110 96 Q120 92 130 96 L110 110 L130 110\"/><circle cx=\"60\" cy=\"80\" r=\"20\"/><path d=\"M60 80 L60 60 A20 20 0 0 1 80 80 Z\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ほんの一部</text></svg>"
+  },
+  "etymology": "ラテン語 fractio(こわすこと。fracture=骨折・fragile と同じ根) → こわれた一片 → ほんの一部・わずか → (数学の)分数",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a very small part or amount of something; a number such as 1/2 or 3/4."
+    }
+  ],
+  "cautions": [
+    "part=部分/fraction=ほんのわずかな一部(a fraction of A)・分数",
+    "a fraction of a second=一瞬",
+    "at a fraction of the cost=ずっと安い費用で",
+    "fragment=こわれた破片(同じ根)"
+  ],
+  "patterns": [
+    {
+      "form": "a fraction of A",
+      "meaning": "Aのほんの一部"
+    },
+    {
+      "form": "a fraction of a second",
+      "meaning": "一瞬"
+    },
+    {
+      "form": "at a fraction of the cost",
+      "meaning": "ほんのわずかな費用で"
+    },
+    {
+      "form": "fractions",
+      "meaning": "分数"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "一瞬",
+      "en": "It all happened in a fraction of a second.",
+      "ja": "すべては一瞬の出来事だった。"
+    },
+    {
+      "source": "original",
+      "label": "わずか",
+      "en": "Only a fraction of the students passed.",
+      "ja": "合格したのはごく一部の生徒だけだった。"
+    },
+    {
+      "source": "original",
+      "label": "ずっと安く",
+      "en": "You can buy it online at a fraction of the price.",
+      "ja": "ネットならずっと安い値段で買える。"
+    },
+    {
+      "source": "original",
+      "label": "分数",
+      "en": "We learned about fractions in math class.",
+      "ja": "算数の授業で分数を習った。"
+    },
+    {
+      "source": "original",
+      "label": "わずか",
+      "en": "He earns a fraction of what his boss earns.",
+      "ja": "彼の稼ぎは上司のほんの一部にすぎない。"
+    },
+    {
+      "source": "original",
+      "label": "ほんの少し",
+      "en": "Open the window a fraction.",
+      "ja": "窓をほんの少し開けて。"
+    }
+  ],
+  "check_points": [
+    "a fraction of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a fraction of が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1644
+    }
+  ]
+}
