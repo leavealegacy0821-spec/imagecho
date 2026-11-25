@@ -1,0 +1,93 @@
+{
+  "word": "safety",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈseɪfti/",
+  "core_image": {
+    "text": "危険のない安全な状態",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M120 30 L170 50 Q170 110 120 130 Q70 110 70 50 Z\"/><polyline points=\"100,80 116,96 144,64\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あんぜん</text></svg>"
+  },
+  "etymology": "safe(安全な) + -ty(名詞をつくる) → 安全(であること)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the state of being safe from danger or harm."
+    }
+  ],
+  "cautions": [
+    "safe(形容詞)→ safety(名詞)",
+    "for safety=安全のために",
+    "in safety=安全に",
+    "safety first=安全第一"
+  ],
+  "patterns": [
+    {
+      "form": "for safety (reasons)",
+      "meaning": "安全のために"
+    },
+    {
+      "form": "road safety",
+      "meaning": "交通安全"
+    },
+    {
+      "form": "a safety belt",
+      "meaning": "安全ベルト"
+    },
+    {
+      "form": "safety first",
+      "meaning": "安全第一"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "安全",
+      "en": "Safety is our top priority.",
+      "ja": "安全が最優先だ。"
+    },
+    {
+      "source": "original",
+      "label": "ために",
+      "en": "Wear a helmet for your safety.",
+      "ja": "安全のためにヘルメットをかぶりなさい。"
+    },
+    {
+      "source": "original",
+      "label": "交通安全",
+      "en": "We learned about road safety.",
+      "ja": "交通安全について学んだ。"
+    },
+    {
+      "source": "original",
+      "label": "避難",
+      "en": "The people moved to safety.",
+      "ja": "人々は安全な場所へ避難した。"
+    },
+    {
+      "source": "original",
+      "label": "シートベルト",
+      "en": "Fasten your safety belt.",
+      "ja": "安全ベルトをしめてください。"
+    },
+    {
+      "source": "original",
+      "label": "形容詞",
+      "en": "Is it safe to swim here?",
+      "ja": "ここで泳いでも安全?"
+    }
+  ],
+  "check_points": [
+    "safe と safety の品詞のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "品詞問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2324
+    }
+  ]
+}

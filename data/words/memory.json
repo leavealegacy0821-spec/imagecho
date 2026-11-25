@@ -1,0 +1,93 @@
+{
+  "word": "memory",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈmeməri/",
+  "core_image": {
+    "text": "心にしまっておく力・しまわれた思い出",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"80\" cy=\"80\" r=\"34\"/><path d=\"M110 60 Q140 40 170 50\"/><rect x=\"160\" y=\"40\" width=\"40\" height=\"30\"/><rect x=\"170\" y=\"80\" width=\"40\" height=\"30\"/><path d=\"M110 90 Q140 100 170 96\"/></g><text x=\"80\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">きおく</text></svg>"
+  },
+  "etymology": "ラテン語 memoria(覚えていること:memor=覚えている) → 記憶(力)・思い出 → (パソコンの)メモリー",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the ability to remember; something you remember from the past; the part of a computer that stores information."
+    }
+  ],
+  "cautions": [
+    "memory=記憶力(数えない)・思い出(数えられる:memories)",
+    "have a good [bad] memory=記憶力がよい[悪い]",
+    "in memory of A=Aをしのんで",
+    "memorize=暗記する/memorial=記念碑"
+  ],
+  "patterns": [
+    {
+      "form": "have a good memory",
+      "meaning": "記憶力がよい"
+    },
+    {
+      "form": "memories of A",
+      "meaning": "Aの思い出"
+    },
+    {
+      "form": "in memory of A",
+      "meaning": "Aをしのんで"
+    },
+    {
+      "form": "from memory",
+      "meaning": "記憶をたよりに"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "記憶力",
+      "en": "My grandmother has a very good memory.",
+      "ja": "祖母はとても記憶力がよい。"
+    },
+    {
+      "source": "original",
+      "label": "思い出",
+      "en": "I have happy memories of my childhood.",
+      "ja": "子どものころの楽しい思い出がある。"
+    },
+    {
+      "source": "original",
+      "label": "しのんで",
+      "en": "The statue was built in memory of the soldiers.",
+      "ja": "その像は兵士たちをしのんで建てられた。"
+    },
+    {
+      "source": "original",
+      "label": "そらで",
+      "en": "He drew the map from memory.",
+      "ja": "彼は記憶をたよりに地図をかいた。"
+    },
+    {
+      "source": "original",
+      "label": "暗記",
+      "en": "I memorized the poem.",
+      "ja": "その詩を暗記した。"
+    },
+    {
+      "source": "original",
+      "label": "パソコン",
+      "en": "This computer doesn't have enough memory.",
+      "ja": "このパソコンはメモリーが足りない。"
+    }
+  ],
+  "check_points": [
+    "in memory of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "have a good memory、in memory of が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2318
+    }
+  ]
+}

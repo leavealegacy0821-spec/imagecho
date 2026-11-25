@@ -1,0 +1,93 @@
+{
+  "word": "truth",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/truːθ/",
+  "core_image": {
+    "text": "うそのない本当のこと(真実)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"40\"/><polyline points=\"100,80 116,96 144,64\"/><path d=\"M60 30 L70 40 M180 30 L170 40\"/></g><text x=\"200\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しんじつ</text></svg>"
+  },
+  "etymology": "true(本当の) + -th(名詞をつくる) → 本当であること=真実",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the true facts about something; the quality of being true."
+    }
+  ],
+  "cautions": [
+    "tell the truth=本当のことを言う(the をつける)",
+    "to tell the truth=実を言うと",
+    "truth=真実(抽象的)/fact=(個々の)事実",
+    "true(形容詞)→ truth(名詞)"
+  ],
+  "patterns": [
+    {
+      "form": "tell the truth",
+      "meaning": "本当のことを言う"
+    },
+    {
+      "form": "to tell the truth",
+      "meaning": "実を言うと"
+    },
+    {
+      "form": "the truth is that ...",
+      "meaning": "実は〜だ"
+    },
+    {
+      "form": "there is some truth in A",
+      "meaning": "Aにも一理ある"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "本当のこと",
+      "en": "Please tell me the truth.",
+      "ja": "本当のことを言って。"
+    },
+    {
+      "source": "original",
+      "label": "実を言うと",
+      "en": "To tell the truth, I forgot your birthday.",
+      "ja": "実を言うと、誕生日を忘れていた。"
+    },
+    {
+      "source": "original",
+      "label": "実は",
+      "en": "The truth is that I don't like it.",
+      "ja": "実はそれが好きではない。"
+    },
+    {
+      "source": "original",
+      "label": "一理",
+      "en": "There is some truth in what he says.",
+      "ja": "彼の言うことにも一理ある。"
+    },
+    {
+      "source": "original",
+      "label": "真実",
+      "en": "Time will reveal the truth.",
+      "ja": "時がたてば真実が明らかになる。"
+    },
+    {
+      "source": "original",
+      "label": "ことわざ",
+      "en": "Truth is stranger than fiction.",
+      "ja": "事実は小説よりも奇なり。"
+    }
+  ],
+  "check_points": [
+    "to tell the truth の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "tell the truth、to tell the truth が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2320
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "solution",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/səˈluːʃn/",
+  "core_image": {
+    "text": "問題をとくこと(解決策・答え)・とけた液",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"40\" width=\"60\" height=\"60\"/><line x1=\"50\" y1=\"50\" x2=\"90\" y2=\"90\"/><line x1=\"90\" y1=\"50\" x2=\"50\" y2=\"90\"/><line x1=\"110\" y1=\"70\" x2=\"150\" y2=\"70\"/><polyline points=\"143,66.2 150,70 143,73.8\"/><rect x=\"160\" y=\"40\" width=\"60\" height=\"60\"/><polyline points=\"172,70 186,84 208,56\"/></g><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かいけつ</text></svg>"
+  },
+  "etymology": "ラテン語 solvere(ほどく・とく:solve と同じ根) → とくこと → 解決(策)・(とかした)溶液",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a way to solve a problem; the answer to a puzzle; a liquid with something dissolved in it."
+    }
+  ],
+  "cautions": [
+    "a solution to [for] A=Aの解決策(to が多い)",
+    "solve=(動詞)解決する",
+    "find a solution=解決策を見つける",
+    "salt solution=食塩水"
+  ],
+  "patterns": [
+    {
+      "form": "a solution to A",
+      "meaning": "Aの解決策"
+    },
+    {
+      "form": "find a solution",
+      "meaning": "解決策を見つける"
+    },
+    {
+      "form": "solve A",
+      "meaning": "Aを解決する"
+    },
+    {
+      "form": "a salt solution",
+      "meaning": "食塩水"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "解決策",
+      "en": "We need a solution to this problem.",
+      "ja": "この問題の解決策が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "見つける",
+      "en": "They finally found a solution.",
+      "ja": "彼らはついに解決策を見つけた。"
+    },
+    {
+      "source": "original",
+      "label": "解決する",
+      "en": "Can you solve this puzzle?",
+      "ja": "このパズルを解ける?"
+    },
+    {
+      "source": "original",
+      "label": "答え",
+      "en": "The solutions are at the back of the book.",
+      "ja": "解答は本の最後にある。"
+    },
+    {
+      "source": "original",
+      "label": "溶液",
+      "en": "Put the plant in a weak salt solution.",
+      "ja": "その植物をうすい食塩水に入れて。"
+    },
+    {
+      "source": "original",
+      "label": "唯一",
+      "en": "There is no easy solution.",
+      "ja": "簡単な解決策はない。"
+    }
+  ],
+  "check_points": [
+    "a solution to A の前置詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "a solution to が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2322
+    }
+  ]
+}

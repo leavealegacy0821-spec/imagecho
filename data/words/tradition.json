@@ -1,0 +1,93 @@
+{
+  "word": "tradition",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/trəˈdɪʃn/",
+  "core_image": {
+    "text": "昔から受けつがれてきたやり方(伝統)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"56\" y1=\"80\" x2=\"96\" y2=\"80\"/><polyline points=\"89,76.2 96,80 89,83.8\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"136\" y1=\"80\" x2=\"176\" y2=\"80\"/><polyline points=\"169,76.2 176,80 169,83.8\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/></g><text x=\"120\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">うけつぐ</text></svg>"
+  },
+  "etymology": "ラテン語 tradere(trans-=向こうへ + dare=わたす → 手わたす) → 手わたされてきたもの=伝統",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a belief, custom or way of doing something that has existed for a long time."
+    }
+  ],
+  "cautions": [
+    "tradition=(世代をこえて)受けつがれた伝統/custom=(社会の)習慣・慣習/habit=(個人の)くせ",
+    "traditional=伝統的な",
+    "by tradition=伝統的に・しきたりで",
+    "break with tradition=伝統を破る"
+  ],
+  "patterns": [
+    {
+      "form": "a long tradition",
+      "meaning": "長い伝統"
+    },
+    {
+      "form": "traditional",
+      "meaning": "伝統的な"
+    },
+    {
+      "form": "by tradition",
+      "meaning": "しきたりで"
+    },
+    {
+      "form": "break with tradition",
+      "meaning": "伝統を破る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "伝統",
+      "en": "The festival has a long tradition.",
+      "ja": "その祭りには長い伝統がある。"
+    },
+    {
+      "source": "original",
+      "label": "伝統的",
+      "en": "We wore traditional Japanese clothes.",
+      "ja": "私たちは伝統的な和服を着た。"
+    },
+    {
+      "source": "original",
+      "label": "しきたり",
+      "en": "By tradition, the eldest son takes over the business.",
+      "ja": "しきたりで長男が家業をつぐ。"
+    },
+    {
+      "source": "original",
+      "label": "破る",
+      "en": "She broke with tradition and chose her own path.",
+      "ja": "彼女はしきたりを破って自分の道を選んだ。"
+    },
+    {
+      "source": "original",
+      "label": "守る",
+      "en": "We should keep our traditions alive.",
+      "ja": "伝統を守っていくべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "受けつぐ",
+      "en": "The recipe was handed down through generations.",
+      "ja": "そのレシピは代々受けつがれてきた。"
+    }
+  ],
+  "check_points": [
+    "tradition / custom / habit のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "traditional が長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2326
+    }
+  ]
+}

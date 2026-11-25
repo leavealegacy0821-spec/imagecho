@@ -1,0 +1,93 @@
+{
+  "word": "example",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ɪɡˈzæmpl/",
+  "core_image": {
+    "text": "全体を代表してとり出した1つ(例)・お手本",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"50\" cy=\"90\" r=\"10\"/><circle cx=\"80\" cy=\"90\" r=\"10\"/><circle cx=\"110\" cy=\"90\" r=\"10\"/><circle cx=\"140\" cy=\"90\" r=\"10\"/><circle cx=\"190\" cy=\"60\" r=\"16\"/><line x1=\"150\" y1=\"80\" x2=\"176\" y2=\"66\"/><polyline points=\"168,66 176,66 171.6,72.7\"/></g><text x=\"190\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">たとえば</text></svg>"
+  },
+  "etymology": "ラテン語 exemplum(ex-=外へ + emere=取る → とり出したもの) → 例・見本 → 手本",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "something that shows what other things of the same kind are like; a person or thing to be copied."
+    }
+  ],
+  "cautions": [
+    "for example=たとえば(=for instance)",
+    "give an example=例をあげる",
+    "set a good example (for A)=(Aに)よい手本を示す",
+    "sample=見本(製品)"
+  ],
+  "patterns": [
+    {
+      "form": "for example",
+      "meaning": "たとえば"
+    },
+    {
+      "form": "give an example",
+      "meaning": "例をあげる"
+    },
+    {
+      "form": "set an example",
+      "meaning": "手本を示す"
+    },
+    {
+      "form": "follow A's example",
+      "meaning": "Aを見ならう"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "たとえば",
+      "en": "Many animals, for example bears, sleep in winter.",
+      "ja": "たとえばクマのように、冬眠する動物は多い。"
+    },
+    {
+      "source": "original",
+      "label": "例",
+      "en": "Can you give me an example?",
+      "ja": "例をあげてもらえますか。"
+    },
+    {
+      "source": "original",
+      "label": "手本",
+      "en": "Parents should set a good example for their children.",
+      "ja": "親は子どもによい手本を示すべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "見ならう",
+      "en": "Follow your sister's example and study hard.",
+      "ja": "お姉さんを見ならってよく勉強しなさい。"
+    },
+    {
+      "source": "original",
+      "label": "典型",
+      "en": "This is a good example of Japanese architecture.",
+      "ja": "これは日本建築のよい例だ。"
+    },
+    {
+      "source": "original",
+      "label": "instance",
+      "en": "For instance, you could walk to school.",
+      "ja": "たとえば、歩いて通学することもできる。"
+    }
+  ],
+  "check_points": [
+    "set an example の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "for example、set an example が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2321
+    }
+  ]
+}

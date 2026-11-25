@@ -1,0 +1,94 @@
+{
+  "word": "fact",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/fækt/",
+  "core_image": {
+    "text": "実際に起こった・本当にあること(事実)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"40\" width=\"120\" height=\"80\"/><polyline points=\"90,80 110,100 150,60\"/><line x1=\"70\" y1=\"130\" x2=\"170\" y2=\"130\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">じじつ</text></svg>"
+  },
+  "etymology": "ラテン語 factum(なされたこと:facere=する・つくる:factory と同じ根) → 行い → 実際にあったこと=事実",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "something that is known to be true or to have happened."
+    }
+  ],
+  "cautions": [
+    "in fact=実は・実際には(前の内容を強める・訂正する)",
+    "the fact that S V=〜という事実(同格の that)",
+    "as a matter of fact=実を言うと",
+    "fact⇔opinion(意見)"
+  ],
+  "patterns": [
+    {
+      "form": "in fact",
+      "meaning": "実は"
+    },
+    {
+      "form": "the fact that S V",
+      "meaning": "〜という事実"
+    },
+    {
+      "form": "as a matter of fact",
+      "meaning": "実を言うと"
+    },
+    {
+      "form": "facts and figures",
+      "meaning": "事実と数字"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "実は",
+      "en": "I thought it was easy. In fact, it was very hard.",
+      "ja": "簡単だと思ったが、実はとてもむずかしかった。"
+    },
+    {
+      "source": "original",
+      "label": "同格",
+      "en": "The fact that he lied surprised me.",
+      "ja": "彼がうそをついたという事実に驚いた。"
+    },
+    {
+      "source": "original",
+      "label": "実を言うと",
+      "en": "As a matter of fact, I've never been abroad.",
+      "ja": "実を言うと、海外に行ったことがない。"
+    },
+    {
+      "source": "original",
+      "label": "事実",
+      "en": "It is a fact that the earth goes around the sun.",
+      "ja": "地球が太陽のまわりを回るのは事実だ。"
+    },
+    {
+      "source": "original",
+      "label": "意見と",
+      "en": "Separate facts from opinions.",
+      "ja": "事実と意見を区別しなさい。"
+    },
+    {
+      "source": "original",
+      "label": "根拠",
+      "en": "Please show me the facts.",
+      "ja": "根拠となる事実を見せてください。"
+    }
+  ],
+  "check_points": [
+    "in fact の働きを言えるか",
+    "the fact that の構文がわかるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "in fact、the fact that、fact / opinion が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2319
+    }
+  ]
+}

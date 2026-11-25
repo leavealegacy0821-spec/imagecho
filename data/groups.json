@@ -914,12 +914,13 @@
     },
     {
       "title": "使い分け:思い出す・忘れる",
-      "note": "remember=覚えている・思い出す ／ recall=意識して呼び起こす ／ remind=(人に)思い出させる ／ forget=忘れる",
+      "note": "remember=覚えている・思い出す ／ recall=意識して呼び起こす ／ remind=(人に)思い出させる ／ forget=忘れる ／ memory=心にしまう記憶力・思い出(in memory of)",
       "words": [
         "remember",
         "recall",
         "remind",
-        "forget"
+        "forget",
+        "memory"
       ]
     },
     {
@@ -1268,14 +1269,16 @@
     },
     {
       "title": "使い分け:習慣・慣例",
-      "note": "habit=個人の無意識のくせ ／ custom=社会の習慣 ／ convention=社会のしきたり・大会 ／ practice=実際の慣行 ／ manner=(人の)作法 ／ fashion=流行",
+      "note": "habit=個人の無意識のくせ ／ custom=社会の習慣 ／ convention=社会のしきたり・大会 ／ practice=実際の慣行 ／ manner=(人の)作法 ／ fashion=流行 ／ culture=人々が耕し育てた暮らし方(文化) ／ tradition=昔から受けつがれたやり方(伝統)",
       "words": [
         "habit",
         "custom",
         "convention",
         "practice",
         "manner",
-        "fashion"
+        "fashion",
+        "culture",
+        "tradition"
       ]
     },
     {
@@ -1349,14 +1352,15 @@
     },
     {
       "title": "使い分け:機会・見込み",
-      "note": "chance=偶然の機会・可能性 ／ occasion=特定のとき ／ prospect=見通し・見込み ／ odds=勝ち目・確率",
+      "note": "chance=偶然の機会・可能性 ／ occasion=特定のとき ／ prospect=見通し・見込み ／ odds=勝ち目・確率 ／ opportunity=ちょうどよい時(好機)・自分で生かす機会",
       "words": [
         "chance",
         "occasion",
         "prospect",
         "odds",
         "likely",
-        "possible"
+        "possible",
+        "opportunity"
       ]
     },
     {
@@ -2028,14 +2032,15 @@
     },
     {
       "title": "使い分け:社会・人々",
-      "note": "society=つながり合った人間社会全体 ／ community=場所や関心を共にする身近なまとまり ／ public=みんなに開かれた・一般の人々 ／ nation=同じ生まれでまとまった国と国民 ／ tribe=同じ祖先と習わしの集団 ／ crowd=押し合う人の群れ",
+      "note": "society=つながり合った人間社会全体 ／ community=場所や関心を共にする身近なまとまり ／ public=みんなに開かれた・一般の人々 ／ nation=同じ生まれでまとまった国と国民 ／ tribe=同じ祖先と習わしの集団 ／ crowd=押し合う人の群れ ／ communication=考えや気持ちを伝え合うこと",
       "words": [
         "society",
         "community",
         "public",
         "nation",
         "tribe",
-        "crowd"
+        "crowd",
+        "communication"
       ]
     },
     {
@@ -2110,14 +2115,15 @@
     },
     {
       "title": "使い分け:危険・危機",
-      "note": "danger=害を受けるかもしれないあぶない状態 ／ risk=自分から冒す危険性 ／ hazard=思わぬ害が起こりうる危険のもと ／ threat=押し迫っておびやかすもの(a threat to A) ／ crisis=よくなるか悪くなるかの分かれ目 ／ emergency=思いがけず起きてすぐ手当てが要る事態",
+      "note": "danger=害を受けるかもしれないあぶない状態 ／ risk=自分から冒す危険性 ／ hazard=思わぬ害が起こりうる危険のもと ／ threat=押し迫っておびやかすもの(a threat to A) ／ crisis=よくなるか悪くなるかの分かれ目 ／ emergency=思いがけず起きてすぐ手当てが要る事態 ／ safety=危険のない安全な状態",
       "words": [
         "danger",
         "risk",
         "hazard",
         "threat",
         "crisis",
-        "emergency"
+        "emergency",
+        "safety"
       ]
     },
     {
@@ -4033,6 +4039,16 @@
         "many",
         "much",
         "most"
+      ]
+    },
+    {
+      "title": "使い分け:事実・真実・例・解決",
+      "note": "fact=実際に起こった事実(in fact=実は・the fact that) ／ truth=うそのない真実(tell the truth) ／ example=全体を代表してとり出した例・手本(set an example) ／ solution=問題をとくこと(a solution to)・溶液",
+      "words": [
+        "fact",
+        "truth",
+        "example",
+        "solution"
       ]
     },
     {
