@@ -1,0 +1,93 @@
+{
+  "word": "difficult",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈdɪfɪkəlt/",
+  "core_image": {
+    "text": "たやすくなく、なかなか進めない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"20,140 70,140 70,60 120,60\"/><circle cx=\"46\" cy=\"52\" r=\"10\"/><line x1=\"46\" y1=\"62\" x2=\"46\" y2=\"106\"/><line x1=\"46\" y1=\"106\" x2=\"36\" y2=\"140\"/><line x1=\"46\" y1=\"106\" x2=\"56\" y2=\"140\"/><line x1=\"46\" y1=\"74\" x2=\"66\" y2=\"64\"/></g><text x=\"160\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">むずかしい</text></svg>"
+  },
+  "etymology": "dis(〜ない)+facilis(たやすい:facility・facilitate と同じ根) → たやすくない → むずかしい・困難な → (人が)気むずかしい → difficulty=困難",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not easy; needing effort or skill; (of a person) not easy to please."
+    }
+  ],
+  "cautions": [
+    "hard=むずかしい(口語・広い)/difficult=むずかしい(やや堅い)",
+    "It is difficult for A to do=Aが〜するのはむずかしい(It の構文)",
+    "A is difficult to do=Aは〜しにくい(This book is difficult to read.)",
+    "(人が)気むずかしい:a difficult person"
+  ],
+  "patterns": [
+    {
+      "form": "It is difficult (for A) to do",
+      "meaning": "(Aが)〜するのはむずかしい"
+    },
+    {
+      "form": "A is difficult to do",
+      "meaning": "Aは〜しにくい"
+    },
+    {
+      "form": "find A difficult",
+      "meaning": "Aをむずかしいと思う"
+    },
+    {
+      "form": "a difficult person",
+      "meaning": "気むずかしい人"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "むずかしい",
+      "en": "It is difficult for me to get up early.",
+      "ja": "早起きは私にはむずかしい。"
+    },
+    {
+      "source": "original",
+      "label": "しにくい",
+      "en": "This question is difficult to answer.",
+      "ja": "この質問は答えにくい。"
+    },
+    {
+      "source": "original",
+      "label": "むずかしい",
+      "en": "I found the test very difficult.",
+      "ja": "テストはとてもむずかしいと思った。"
+    },
+    {
+      "source": "original",
+      "label": "苦しい",
+      "en": "The family went through a difficult time.",
+      "ja": "その家族は苦しい時期を経験した。"
+    },
+    {
+      "source": "original",
+      "label": "気むずかしい",
+      "en": "My boss can be very difficult.",
+      "ja": "上司はとても気むずかしいことがある。"
+    },
+    {
+      "source": "original",
+      "label": "困難",
+      "en": "We had difficulty finding the station.",
+      "ja": "駅を見つけるのに苦労した。"
+    }
+  ],
+  "check_points": [
+    "A is difficult to do の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "It is difficult to do / A is difficult to do(tough構文)が文法で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1682
+    }
+  ]
+}
