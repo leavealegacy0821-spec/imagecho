@@ -1,0 +1,94 @@
+{
+  "word": "yawn",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/jɔːn/",
+  "core_image": {
+    "text": "眠さや退屈で、口を大きく開ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"70\" r=\"40\"/><ellipse cx=\"120\" cy=\"86\" rx=\"12\" ry=\"16\"/><path d=\"M98 60 Q104 64 110 60\"/><path d=\"M130 60 Q136 64 142 60\"/><line x1=\"160\" y1=\"40\" x2=\"176\" y2=\"32\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふわ〜</text></svg>"
+  },
+  "etymology": "古い英語 geonian(大口を開ける) → あくびをする → (穴・すき間が)大きく口を開けている → (名詞)あくび・退屈なもの",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to open your mouth wide and breathe in deeply, because you are tired or bored."
+    },
+    {
+      "pos": "名詞",
+      "text": "an act of yawning; something boring."
+    }
+  ],
+  "cautions": [
+    "yawn=あくびをする(眠さ・退屈)",
+    "stifle a yawn=あくびをかみ殺す",
+    "(口語)a yawn=退屈なもの",
+    "yawning gap=ぽっかり開いた大きな差"
+  ],
+  "patterns": [
+    {
+      "form": "yawn",
+      "meaning": "あくびをする"
+    },
+    {
+      "form": "stifle a yawn",
+      "meaning": "あくびをかみ殺す"
+    },
+    {
+      "form": "a yawning gap",
+      "meaning": "大きな差"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "あくびをする",
+      "en": "He yawned and said he was going to bed.",
+      "ja": "彼はあくびをして寝ると言った。"
+    },
+    {
+      "source": "original",
+      "label": "あくびをかみ殺す",
+      "en": "She tried to stifle a yawn during the meeting.",
+      "ja": "彼女は会議中にあくびをかみ殺そうとした。"
+    },
+    {
+      "source": "original",
+      "label": "あくび",
+      "en": "Yawns are contagious.",
+      "ja": "あくびはうつる。"
+    },
+    {
+      "source": "original",
+      "label": "退屈",
+      "en": "The lecture was a big yawn.",
+      "ja": "その講義はとても退屈だった。"
+    },
+    {
+      "source": "original",
+      "label": "大きな差",
+      "en": "There is a yawning gap between rich and poor.",
+      "ja": "貧富の間には大きな差がある。"
+    },
+    {
+      "source": "original",
+      "label": "あくびをする",
+      "en": "The cat yawned and stretched.",
+      "ja": "猫はあくびをして伸びをした。"
+    }
+  ],
+  "check_points": [
+    "stifle a yawn の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語・会話で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1365
+    }
+  ]
+}

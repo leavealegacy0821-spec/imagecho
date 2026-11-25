@@ -1,0 +1,103 @@
+{
+  "word": "sleep",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/sliːp/",
+  "core_image": {
+    "text": "目を閉じて、意識を休ませる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"100\" width=\"160\" height=\"10\"/><line x1=\"44\" y1=\"110\" x2=\"44\" y2=\"140\"/><line x1=\"196\" y1=\"110\" x2=\"196\" y2=\"140\"/><circle cx=\"62\" cy=\"88\" r=\"10\"/><path d=\"M74 92 Q130 76 190 92\"/><path d=\"M150 50 l10 0 l-10 10 l10 0\"/><path d=\"M170 30 l8 0 l-8 8 l8 0\"/></g><text x=\"90\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すやすや</text></svg>"
+  },
+  "etymology": "古い英語 slǣpan(眠る) → 眠る・睡眠をとる → (名詞)睡眠 → (場所が)〜人泊まれる(The tent sleeps four.) → 活用 sleep - slept - slept",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to rest with your eyes closed and your mind and body not active."
+    },
+    {
+      "pos": "名詞",
+      "text": "the state of sleeping."
+    }
+  ],
+  "cautions": [
+    "活用 sleep - slept - slept",
+    "sleep=眠る(動作)/asleep=眠っている(状態の形容詞・名詞の前に置かない)",
+    "go to sleep=寝つく/get enough sleep=十分な睡眠をとる",
+    "sleep on it=一晩考える"
+  ],
+  "patterns": [
+    {
+      "form": "sleep well",
+      "meaning": "よく眠る"
+    },
+    {
+      "form": "go to sleep",
+      "meaning": "寝つく"
+    },
+    {
+      "form": "get enough sleep",
+      "meaning": "十分寝る"
+    },
+    {
+      "form": "sleep on A",
+      "meaning": "Aを一晩考える"
+    },
+    {
+      "form": "lack of sleep",
+      "meaning": "睡眠不足"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "眠る",
+      "en": "Did you sleep well last night?",
+      "ja": "昨夜はよく眠れた?"
+    },
+    {
+      "source": "original",
+      "label": "寝つく",
+      "en": "I couldn't go to sleep because of the noise.",
+      "ja": "騒音で寝つけなかった。"
+    },
+    {
+      "source": "original",
+      "label": "睡眠",
+      "en": "Teenagers need about nine hours of sleep.",
+      "ja": "10代の若者は約9時間の睡眠が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "睡眠不足",
+      "en": "Lack of sleep can affect your memory.",
+      "ja": "睡眠不足は記憶力に影響することがある。"
+    },
+    {
+      "source": "original",
+      "label": "一晩考える",
+      "en": "Let me sleep on it before I decide.",
+      "ja": "決める前に一晩考えさせて。"
+    },
+    {
+      "source": "original",
+      "label": "寝た",
+      "en": "The baby slept through the night.",
+      "ja": "赤ちゃんは朝までぐっすり眠った。"
+    }
+  ],
+  "check_points": [
+    "sleep と asleep のちがいを言えるか",
+    "sleep の活用を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "sleep / asleep の区別、活用 slept が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1361
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "awake",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/əˈweɪk/",
+  "core_image": {
+    "text": "眠らずに、目がぱっちり覚めている状態",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"40\"/><circle cx=\"104\" cy=\"74\" r=\"6\"/><circle cx=\"136\" cy=\"74\" r=\"6\"/><circle cx=\"104\" cy=\"74\" r=\"2\"/><circle cx=\"136\" cy=\"74\" r=\"2\"/><path d=\"M108 98 Q120 104 132 98\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぱっちり</text></svg>"
+  },
+  "etymology": "a(〜の状態で)+wake(目覚め) → 目覚めている(状態の形容詞) → (動詞・堅い)目覚める → be awake to A=Aに気づいている",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not sleeping."
+    },
+    {
+      "pos": "動詞",
+      "text": "to wake up (a literary word)."
+    }
+  ],
+  "cautions": [
+    "asleep ⇔ awake:どちらも補語で使う(be awake / stay awake)",
+    "名詞の前には置かない(× an awake child → a child who is awake)",
+    "stay [keep] awake=起きている/lie awake=眠れずに横になっている",
+    "wide awake=すっかり目が覚めて"
+  ],
+  "patterns": [
+    {
+      "form": "be awake",
+      "meaning": "起きている"
+    },
+    {
+      "form": "stay awake",
+      "meaning": "起きている"
+    },
+    {
+      "form": "lie awake",
+      "meaning": "眠れずに横になる"
+    },
+    {
+      "form": "wide awake",
+      "meaning": "すっかり目が覚めて"
+    },
+    {
+      "form": "be awake to A",
+      "meaning": "Aに気づいている"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "起きている",
+      "en": "Are you still awake?",
+      "ja": "まだ起きてるの?"
+    },
+    {
+      "source": "original",
+      "label": "起きている",
+      "en": "I drank coffee to stay awake.",
+      "ja": "起きているためにコーヒーを飲んだ。"
+    },
+    {
+      "source": "original",
+      "label": "眠れずに",
+      "en": "I lay awake all night worrying.",
+      "ja": "心配で一晩中眠れずに横になっていた。"
+    },
+    {
+      "source": "original",
+      "label": "すっかり目が覚めて",
+      "en": "After the shower, I was wide awake.",
+      "ja": "シャワーを浴びてすっかり目が覚めた。"
+    },
+    {
+      "source": "original",
+      "label": "気づいている",
+      "en": "Are you awake to the danger?",
+      "ja": "その危険に気づいている?"
+    },
+    {
+      "source": "original",
+      "label": "目覚める",
+      "en": "She awoke to the sound of birds.",
+      "ja": "彼女は鳥の声で目覚めた。"
+    }
+  ],
+  "check_points": [
+    "awake が名詞の前に置けないことがわかるか",
+    "stay awake の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "叙述用法、stay / lie awake が文法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1369
+    }
+  ]
+}

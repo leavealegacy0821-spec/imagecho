@@ -1647,12 +1647,13 @@
     },
     {
       "title": "使い分け:なぐさめる・静める",
-      "note": "comfort=そばで支えてほっと楽にする ／ console=大きな悲しみに寄り添ってなぐさめる ／ soothe=高ぶった気持ち・痛みをそっと静める ／ relieve=重荷を取り除いて楽にする",
+      "note": "comfort=そばで支えてほっと楽にする ／ console=大きな悲しみに寄り添ってなぐさめる ／ soothe=高ぶった気持ち・痛みをそっと静める ／ relieve=重荷を取り除いて楽にする ／ relax=張りつめたものをゆるめてほっとする",
       "words": [
         "comfort",
         "console",
         "soothe",
-        "relieve"
+        "relieve",
+        "relax"
       ]
     },
     {
@@ -2363,6 +2364,21 @@
         "sip",
         "gulp",
         "swallow"
+      ]
+    },
+    {
+      "title": "使い分け:眠る・起きる",
+      "note": "sleep=目を閉じて意識を休ませる(動作) ／ asleep=眠っている状態(補語だけ) ／ nap=昼間に少しだけひと眠り ／ doze=いつのまにかうとうと ／ yawn=眠さ・退屈で大口を開ける ／ snore=眠りながらいびき ／ dream=眠りや心の中に見る映像 ／ wake=眠りからぱっと目を覚ます(woke) ／ awake=目が覚めている状態(補語だけ) ／ get up=起き上がる",
+      "words": [
+        "sleep",
+        "asleep",
+        "nap",
+        "doze",
+        "yawn",
+        "snore",
+        "dream",
+        "wake",
+        "awake"
       ]
     },
     {

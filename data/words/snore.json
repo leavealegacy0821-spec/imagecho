@@ -1,0 +1,94 @@
+{
+  "word": "snore",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/snɔːr/",
+  "core_image": {
+    "text": "眠りながら、鼻やのどでごうごう鳴らす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"100\" width=\"160\" height=\"10\"/><line x1=\"44\" y1=\"110\" x2=\"44\" y2=\"140\"/><line x1=\"196\" y1=\"110\" x2=\"196\" y2=\"140\"/><circle cx=\"62\" cy=\"88\" r=\"10\"/><path d=\"M74 92 Q130 76 190 92\"/><path d=\"M80 70 q8 -8 16 0 t16 0 t16 0\"/></g><text x=\"170\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぐうぐう</text></svg>"
+  },
+  "etymology": "中英語 snoren(鼻を鳴らす。音をまねた語。snort と同じ仲間) → 眠りながらいびきをかく → (名詞)いびき",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to breathe noisily through your nose and mouth while you are sleeping."
+    },
+    {
+      "pos": "名詞",
+      "text": "the noise made when snoring."
+    }
+  ],
+  "cautions": [
+    "snore=いびきをかく",
+    "snore loudly=大きないびきをかく",
+    "snoring=いびき(名詞的に)",
+    "snort=鼻を鳴らす(怒り・軽蔑)"
+  ],
+  "patterns": [
+    {
+      "form": "snore loudly",
+      "meaning": "大いびきをかく"
+    },
+    {
+      "form": "stop snoring",
+      "meaning": "いびきをやめる"
+    },
+    {
+      "form": "a loud snore",
+      "meaning": "大きないびき"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "いびきをかく",
+      "en": "My father snores loudly.",
+      "ja": "父は大きないびきをかく。"
+    },
+    {
+      "source": "original",
+      "label": "いびき",
+      "en": "I couldn't sleep because of his snoring.",
+      "ja": "彼のいびきで眠れなかった。"
+    },
+    {
+      "source": "original",
+      "label": "いびきをかく",
+      "en": "The dog was snoring on the sofa.",
+      "ja": "犬がソファでいびきをかいていた。"
+    },
+    {
+      "source": "original",
+      "label": "いびき",
+      "en": "A loud snore came from the next room.",
+      "ja": "隣の部屋から大きないびきが聞こえた。"
+    },
+    {
+      "source": "original",
+      "label": "いびきをかく",
+      "en": "Do I snore when I sleep?",
+      "ja": "私って寝るときいびきをかく?"
+    },
+    {
+      "source": "original",
+      "label": "いびき",
+      "en": "Snoring can be a sign of a health problem.",
+      "ja": "いびきは健康問題のしるしのこともある。"
+    }
+  ],
+  "check_points": [
+    "snore の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "会話・物語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1366
+    }
+  ]
+}

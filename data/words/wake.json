@@ -1,0 +1,99 @@
+{
+  "word": "wake",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/weɪk/",
+  "core_image": {
+    "text": "眠りから、ぱっと目を覚ます",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"100\" width=\"160\" height=\"10\"/><line x1=\"44\" y1=\"110\" x2=\"44\" y2=\"140\"/><line x1=\"196\" y1=\"110\" x2=\"196\" y2=\"140\"/><circle cx=\"80\" cy=\"70\" r=\"10\"/><line x1=\"80\" y1=\"80\" x2=\"90\" y2=\"100\"/><line x1=\"80\" y1=\"84\" x2=\"64\" y2=\"64\"/><line x1=\"80\" y1=\"84\" x2=\"96\" y2=\"64\"/><circle cx=\"180\" cy=\"40\" r=\"14\"/><line x1=\"70\" y1=\"50\" x2=\"64\" y2=\"42\"/><line x1=\"90\" y1=\"50\" x2=\"96\" y2=\"42\"/></g><text x=\"140\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぱちっ</text></svg>"
+  },
+  "etymology": "古い英語 wacian(目を覚ましている。watch と同じ根) → 目が覚める・起こす → (感情・記憶を)呼び覚ます → (名詞)通夜/(別語源)船の通ったあと(in the wake of A=Aのあとに)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stop sleeping; to make someone stop sleeping."
+    },
+    {
+      "pos": "名詞",
+      "text": "the track left by a boat; the time after an event."
+    }
+  ],
+  "cautions": [
+    "活用 wake - woke - woken",
+    "wake up=目を覚ます(自動詞)/wake A up=Aを起こす",
+    "get up=(ベッドから)起き上がる(wake とちがう)",
+    "in the wake of A=Aのあとに・Aの結果として(長文で頻出)"
+  ],
+  "patterns": [
+    {
+      "form": "wake up",
+      "meaning": "目を覚ます"
+    },
+    {
+      "form": "wake A up",
+      "meaning": "Aを起こす"
+    },
+    {
+      "form": "wake up to A",
+      "meaning": "Aに気づく"
+    },
+    {
+      "form": "in the wake of A",
+      "meaning": "Aのあとに"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "目を覚ます",
+      "en": "I woke up at six this morning.",
+      "ja": "今朝は6時に目が覚めた。"
+    },
+    {
+      "source": "original",
+      "label": "起こす",
+      "en": "Please wake me up at seven.",
+      "ja": "7時に起こしてください。"
+    },
+    {
+      "source": "original",
+      "label": "気づく",
+      "en": "People are waking up to the dangers of plastic.",
+      "ja": "人々はプラスチックの危険に気づき始めている。"
+    },
+    {
+      "source": "original",
+      "label": "のあとに",
+      "en": "Prices rose in the wake of the war.",
+      "ja": "戦争のあと物価が上がった。"
+    },
+    {
+      "source": "original",
+      "label": "起こされる",
+      "en": "I was woken by a loud noise.",
+      "ja": "大きな音で起こされた。"
+    },
+    {
+      "source": "original",
+      "label": "目を覚まして(get up と区別)",
+      "en": "I woke up at six but didn't get up until seven.",
+      "ja": "6時に目は覚めたが、7時まで起き上がらなかった。"
+    }
+  ],
+  "check_points": [
+    "wake up と get up のちがいを言えるか",
+    "in the wake of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "wake up / get up、in the wake of が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1368
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "word": "nap",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/næp/",
+  "core_image": {
+    "text": "昼間に少しだけ、ひと眠りする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"60\" y=\"100\" width=\"120\" height=\"10\"/><line x1=\"64\" y1=\"110\" x2=\"64\" y2=\"140\"/><line x1=\"176\" y1=\"110\" x2=\"176\" y2=\"140\"/><circle cx=\"80\" cy=\"90\" r=\"10\"/><path d=\"M92 94 Q130 84 170 94\"/><circle cx=\"190\" cy=\"30\" r=\"14\"/></g><text x=\"90\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひと眠り</text></svg>"
+  },
+  "etymology": "古い英語 hnappian(うとうとする) → 昼間に短く眠る → (名詞)昼寝・うたた寝 → catch A napping=Aの不意をつく",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a short sleep, especially during the day."
+    },
+    {
+      "pos": "動詞",
+      "text": "to sleep for a short time during the day."
+    }
+  ],
+  "cautions": [
+    "sleep=眠る(広い)/nap=昼間の短いひと眠り(計画的にとる)/doze=うとうとする(つい)",
+    "take [have] a nap=昼寝をする",
+    "power nap=短時間の仮眠",
+    "catch A napping=Aの不意をつく"
+  ],
+  "patterns": [
+    {
+      "form": "take a nap",
+      "meaning": "昼寝をする"
+    },
+    {
+      "form": "have a nap",
+      "meaning": "昼寝をする"
+    },
+    {
+      "form": "a power nap",
+      "meaning": "短い仮眠"
+    },
+    {
+      "form": "catch A napping",
+      "meaning": "Aの油断をつく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "昼寝",
+      "en": "I took a short nap after lunch.",
+      "ja": "昼食後に少し昼寝をした。"
+    },
+    {
+      "source": "original",
+      "label": "昼寝をする",
+      "en": "Babies need to nap several times a day.",
+      "ja": "赤ちゃんは1日に何回か昼寝が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "仮眠",
+      "en": "A 20-minute power nap can improve your focus.",
+      "ja": "20分の仮眠で集中力が上がることがある。"
+    },
+    {
+      "source": "original",
+      "label": "不意をつく",
+      "en": "The question caught him napping.",
+      "ja": "その質問は彼の不意をついた。"
+    },
+    {
+      "source": "original",
+      "label": "昼寝",
+      "en": "My grandfather has a nap every afternoon.",
+      "ja": "祖父は毎日午後に昼寝をする。"
+    },
+    {
+      "source": "original",
+      "label": "昼寝",
+      "en": "The cat is napping in the sun.",
+      "ja": "猫がひなたで昼寝している。"
+    }
+  ],
+  "check_points": [
+    "nap と doze のちがいを言えるか",
+    "take a nap の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "take a nap が会話で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1363
+    }
+  ]
+}

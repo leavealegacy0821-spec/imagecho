@@ -1,0 +1,103 @@
+{
+  "word": "dream",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/driːm/",
+  "core_image": {
+    "text": "眠りの中や心の中に、見る映像",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"110\" width=\"80\" height=\"10\"/><circle cx=\"56\" cy=\"100\" r=\"10\"/><path d=\"M68 104 Q90 96 116 104\"/><circle cx=\"80\" cy=\"80\" r=\"3\"/><circle cx=\"96\" cy=\"64\" r=\"5\"/><ellipse cx=\"160\" cy=\"50\" rx=\"50\" ry=\"30\"/><polygon points=\"160,30 164,42 176,42 166,50 170,62 160,54 150,62 154,50 144,42 156,42\"/></g><text x=\"180\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">夢・あこがれ</text></svg>"
+  },
+  "etymology": "古い英語 drēam(喜び・楽しみ)と北欧語(夢)が重なった語 → 眠りの中で見る夢 → (心に描く)夢・理想 → (動詞)夢を見る・夢見る → 活用 dreamed / dreamt",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "pictures and events you see in your mind while you sleep; something you want very much."
+    },
+    {
+      "pos": "動詞",
+      "text": "to have a dream while sleeping; to imagine something you want."
+    }
+  ],
+  "cautions": [
+    "have a dream=夢を見る(× see a dream)",
+    "dream of [about] A=Aの夢を見る・Aを夢見る",
+    "never dream of A [that …]=Aなど夢にも思わない",
+    "a dream come true=夢がかなったこと"
+  ],
+  "patterns": [
+    {
+      "form": "have a dream",
+      "meaning": "夢を見る"
+    },
+    {
+      "form": "dream of A",
+      "meaning": "Aを夢見る"
+    },
+    {
+      "form": "never dream that …",
+      "meaning": "…とは夢にも思わない"
+    },
+    {
+      "form": "a dream come true",
+      "meaning": "夢の実現"
+    },
+    {
+      "form": "A's dream job",
+      "meaning": "Aの夢の仕事"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "夢を見る",
+      "en": "I had a strange dream last night.",
+      "ja": "昨夜変な夢を見た。"
+    },
+    {
+      "source": "original",
+      "label": "夢見る",
+      "en": "She dreams of becoming a pilot.",
+      "ja": "彼女はパイロットになることを夢見ている。"
+    },
+    {
+      "source": "original",
+      "label": "夢にも思わない",
+      "en": "I never dreamed that I would win.",
+      "ja": "自分が勝つなんて夢にも思わなかった。"
+    },
+    {
+      "source": "original",
+      "label": "夢の実現",
+      "en": "Visiting Paris was a dream come true.",
+      "ja": "パリに行くのは夢がかなったことだった。"
+    },
+    {
+      "source": "original",
+      "label": "夢",
+      "en": "My dream is to open my own café.",
+      "ja": "私の夢は自分のカフェを開くことだ。"
+    },
+    {
+      "source": "original",
+      "label": "夢を見た",
+      "en": "I dreamt about my old school.",
+      "ja": "昔の学校の夢を見た。"
+    }
+  ],
+  "check_points": [
+    "have a dream(× see)がわかるか",
+    "never dream that の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "have a dream、dream of doing が語法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1367
+    }
+  ]
+}
