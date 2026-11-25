@@ -1,0 +1,103 @@
+{
+  "word": "season",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈsiːzn/",
+  "core_image": {
+    "text": "1年をめぐる区切り、ちょうどよい時期",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"50\"/><line x1=\"120\" y1=\"30\" x2=\"120\" y2=\"130\"/><line x1=\"70\" y1=\"80\" x2=\"170\" y2=\"80\"/><circle cx=\"96\" cy=\"56\" r=\"6\"/><polygon points=\"144,52 150,64 138,64\"/><path d=\"M90 100 q6 -6 12 0\"/><polygon points=\"144,98 148,106 140,106\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">めぐる季節</text></svg>"
+  },
+  "etymology": "ラテン語 satio(種まき) → 種をまく時期 → 季節・時期(rainy season) → (動詞)(時を経て)味をなじませる=味つけする → seasoning=調味料",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "one of the four periods of the year; a period of the year when something happens."
+    },
+    {
+      "pos": "動詞",
+      "text": "to add salt, pepper, etc. to food."
+    }
+  ],
+  "cautions": [
+    "the four seasons=四季/the rainy season=梅雨・雨季",
+    "in season=旬の/out of season=季節はずれの",
+    "the holiday [tourist] season=行楽シーズン",
+    "動詞 season=味つけする/seasonal=季節の"
+  ],
+  "patterns": [
+    {
+      "form": "the four seasons",
+      "meaning": "四季"
+    },
+    {
+      "form": "the rainy season",
+      "meaning": "梅雨・雨季"
+    },
+    {
+      "form": "in season",
+      "meaning": "旬で"
+    },
+    {
+      "form": "season A with B",
+      "meaning": "AにBで味をつける"
+    },
+    {
+      "form": "seasonal",
+      "meaning": "季節の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "季節",
+      "en": "Which season do you like best?",
+      "ja": "どの季節がいちばん好き?"
+    },
+    {
+      "source": "original",
+      "label": "梅雨",
+      "en": "The rainy season starts in June.",
+      "ja": "梅雨は6月に始まる。"
+    },
+    {
+      "source": "original",
+      "label": "旬",
+      "en": "Strawberries are in season now.",
+      "ja": "いちごは今が旬だ。"
+    },
+    {
+      "source": "original",
+      "label": "味つけする",
+      "en": "Season the meat with salt and pepper.",
+      "ja": "肉に塩こしょうで味をつけてください。"
+    },
+    {
+      "source": "original",
+      "label": "シーズン",
+      "en": "Hotels are full during the holiday season.",
+      "ja": "行楽シーズンはホテルが満室だ。"
+    },
+    {
+      "source": "original",
+      "label": "季節の",
+      "en": "The menu changes with seasonal vegetables.",
+      "ja": "メニューは季節の野菜で変わる。"
+    }
+  ],
+  "check_points": [
+    "in season の意味を言えるか",
+    "動詞 season(味つけする)がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "in season、rainy season が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1417
+    }
+  ]
+}

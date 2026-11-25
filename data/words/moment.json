@@ -1,0 +1,98 @@
+{
+  "word": "moment",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈmoʊmənt/",
+  "core_image": {
+    "text": "時の流れの中の、ほんの一点",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"80\" x2=\"220\" y2=\"80\"/><circle cx=\"120\" cy=\"80\" r=\"6\"/><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"70\"/><polyline points=\"123.8,63 120,70 116.2,63\"/></g><text x=\"120\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">一瞬</text></svg>"
+  },
+  "etymology": "ラテン語 momentum(動き・重み。movement と同じ根) → (天秤を動かす)わずかな重み → ほんのわずかな時間・瞬間 → 重要な時・時点 → momentary=一瞬の",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a very short period of time; a particular point in time."
+    }
+  ],
+  "cautions": [
+    "at the moment=今(のところ)/at that moment=そのとき",
+    "for a moment=少しの間/in a moment=すぐに",
+    "the moment S V=…するとすぐに(=as soon as)",
+    "Just a moment.=ちょっと待って"
+  ],
+  "patterns": [
+    {
+      "form": "at the moment",
+      "meaning": "今"
+    },
+    {
+      "form": "for a moment",
+      "meaning": "少しの間"
+    },
+    {
+      "form": "in a moment",
+      "meaning": "すぐに"
+    },
+    {
+      "form": "the moment S V",
+      "meaning": "…するとすぐに"
+    },
+    {
+      "form": "at the last moment",
+      "meaning": "土壇場で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "今",
+      "en": "I'm busy at the moment.",
+      "ja": "今は忙しい。"
+    },
+    {
+      "source": "original",
+      "label": "少しの間",
+      "en": "Wait for a moment, please.",
+      "ja": "少しお待ちください。"
+    },
+    {
+      "source": "original",
+      "label": "すぐに",
+      "en": "I'll be back in a moment.",
+      "ja": "すぐ戻ります。"
+    },
+    {
+      "source": "original",
+      "label": "するとすぐに",
+      "en": "The moment she saw me, she smiled.",
+      "ja": "私を見たとたん、彼女はほほえんだ。"
+    },
+    {
+      "source": "original",
+      "label": "土壇場で",
+      "en": "He changed his mind at the last moment.",
+      "ja": "彼は土壇場で気が変わった。"
+    },
+    {
+      "source": "original",
+      "label": "瞬間",
+      "en": "It was the happiest moment of my life.",
+      "ja": "人生でいちばん幸せな瞬間だった。"
+    }
+  ],
+  "check_points": [
+    "at the moment / in a moment / for a moment のちがいを言えるか",
+    "the moment S V の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "at the moment、the moment S V が文法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1416
+    }
+  ]
+}

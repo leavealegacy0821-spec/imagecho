@@ -1,0 +1,103 @@
+{
+  "word": "age",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/eɪdʒ/",
+  "core_image": {
+    "text": "生まれてから重ねた年月・時代の長さ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"120\" r=\"6\"/><line x1=\"40\" y1=\"126\" x2=\"40\" y2=\"140\"/><circle cx=\"90\" cy=\"100\" r=\"8\"/><line x1=\"90\" y1=\"108\" x2=\"90\" y2=\"140\"/><circle cx=\"150\" cy=\"80\" r=\"10\"/><line x1=\"150\" y1=\"90\" x2=\"150\" y2=\"140\"/><circle cx=\"200\" cy=\"86\" r=\"10\"/><line x1=\"200\" y1=\"96\" x2=\"196\" y2=\"140\"/><line x1=\"206\" y1=\"110\" x2=\"214\" y2=\"140\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">重ねた年月</text></svg>"
+  },
+  "etymology": "古いフランス語 aage(ラテン語 aetas=一生・年代) → 年齢 → (人生の)時期 → (歴史の)時代(the Stone Age) → (動詞)年をとる・熟成する → aging=高齢化",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the number of years someone has lived; a particular period in history."
+    },
+    {
+      "pos": "動詞",
+      "text": "to become older."
+    }
+  ],
+  "cautions": [
+    "at the age of A=A歳で(=at A)",
+    "for ages=長い間(口語)",
+    "the Stone [Information] Age=石器[情報]時代(大文字)",
+    "動詞 age=年をとる/an aging society=高齢化社会"
+  ],
+  "patterns": [
+    {
+      "form": "at the age of A",
+      "meaning": "A歳で"
+    },
+    {
+      "form": "for ages",
+      "meaning": "長い間"
+    },
+    {
+      "form": "of all ages",
+      "meaning": "あらゆる年齢の"
+    },
+    {
+      "form": "the Information Age",
+      "meaning": "情報時代"
+    },
+    {
+      "form": "an aging society",
+      "meaning": "高齢化社会"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "歳で",
+      "en": "He started playing the piano at the age of five.",
+      "ja": "彼は5歳でピアノを弾き始めた。"
+    },
+    {
+      "source": "original",
+      "label": "長い間",
+      "en": "I haven't seen you for ages!",
+      "ja": "すごく久しぶりだね!"
+    },
+    {
+      "source": "original",
+      "label": "あらゆる年齢",
+      "en": "The game is fun for people of all ages.",
+      "ja": "そのゲームはあらゆる年齢の人が楽しめる。"
+    },
+    {
+      "source": "original",
+      "label": "時代",
+      "en": "We live in the Information Age.",
+      "ja": "私たちは情報時代に生きている。"
+    },
+    {
+      "source": "original",
+      "label": "高齢化",
+      "en": "Japan is an aging society.",
+      "ja": "日本は高齢化社会だ。"
+    },
+    {
+      "source": "original",
+      "label": "年をとる",
+      "en": "My parents are aging well.",
+      "ja": "両親は元気に年を重ねている。"
+    }
+  ],
+  "check_points": [
+    "at the age of A の型を言えるか",
+    "for ages の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "at the age of、aging society が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1412
+    }
+  ]
+}

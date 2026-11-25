@@ -1,0 +1,93 @@
+{
+  "word": "era",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈɪrə/",
+  "core_image": {
+    "text": "大きな出来事で区切られた、ひとつの時代",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"80\" x2=\"220\" y2=\"80\"/><line x1=\"60\" y1=\"60\" x2=\"60\" y2=\"100\"/><line x1=\"160\" y1=\"60\" x2=\"160\" y2=\"100\"/><rect x=\"64\" y=\"64\" width=\"92\" height=\"32\" stroke-dasharray=\"4 4\"/></g><text x=\"110\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひとつの時代</text></svg>"
+  },
+  "etymology": "ラテン語 aera(計算の基準となる数) → 年を数える起点 → (重大な出来事・人物で始まる)時代・紀元",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a period of time in history that is special for a particular reason."
+    }
+  ],
+  "cautions": [
+    "period=期間(広い)/age=(特徴で呼ぶ)時代/era=新しいことが始まって区切られる時代(the Meiji era, a new era)",
+    "the end of an era=ひとつの時代の終わり",
+    "usher in a new era=新時代の幕を開ける",
+    "the Christian era=西暦紀元"
+  ],
+  "patterns": [
+    {
+      "form": "the Meiji era",
+      "meaning": "明治時代"
+    },
+    {
+      "form": "a new era",
+      "meaning": "新時代"
+    },
+    {
+      "form": "the end of an era",
+      "meaning": "ひとつの時代の終わり"
+    },
+    {
+      "form": "usher in a new era",
+      "meaning": "新時代を開く"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "時代",
+      "en": "Many changes took place during the Meiji era.",
+      "ja": "明治時代には多くの変化が起こった。"
+    },
+    {
+      "source": "original",
+      "label": "新時代",
+      "en": "The internet started a new era of communication.",
+      "ja": "インターネットは通信の新時代を開いた。"
+    },
+    {
+      "source": "original",
+      "label": "時代の終わり",
+      "en": "His retirement marked the end of an era.",
+      "ja": "彼の引退はひとつの時代の終わりを告げた。"
+    },
+    {
+      "source": "original",
+      "label": "時代",
+      "en": "We live in the digital era.",
+      "ja": "私たちはデジタル時代に生きている。"
+    },
+    {
+      "source": "original",
+      "label": "新時代を開く",
+      "en": "The invention ushered in a new era of travel.",
+      "ja": "その発明は旅行の新時代を開いた。"
+    },
+    {
+      "source": "original",
+      "label": "時代",
+      "en": "The postwar era was a time of rapid growth.",
+      "ja": "戦後は急成長の時代だった。"
+    }
+  ],
+  "check_points": [
+    "period・age・era のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a new era が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1411
+    }
+  ]
+}

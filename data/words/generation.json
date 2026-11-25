@@ -1,0 +1,98 @@
+{
+  "word": "generation",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˌdʒenəˈreɪʃn/",
+  "core_image": {
+    "text": "同じころに生まれた、ひとまとまりの世代",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><circle cx=\"100\" cy=\"96\" r=\"8\"/><line x1=\"100\" y1=\"104\" x2=\"100\" y2=\"140\"/><circle cx=\"160\" cy=\"80\" r=\"10\"/><line x1=\"160\" y1=\"90\" x2=\"160\" y2=\"140\"/><line x1=\"70\" y1=\"20\" x2=\"70\" y2=\"140\" stroke-dasharray=\"3 5\"/><line x1=\"130\" y1=\"20\" x2=\"130\" y2=\"140\" stroke-dasharray=\"3 5\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">世代</text></svg>"
+  },
+  "etymology": "generate(生み出す。gene・genus と同じ「生まれ」の根)の名詞 → 生み出すこと(発電=generation of electricity) → 一度に生まれた人々=世代 → (約30年の)一世代",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "all the people born at about the same time; a period of about 30 years; the production of something such as electricity."
+    }
+  ],
+  "cautions": [
+    "the younger [older] generation=若い[年配の]世代",
+    "for generations=何世代にもわたって/future generations=後の世代",
+    "the generation gap=世代間のずれ",
+    "generation of electricity=発電(generate の名詞)"
+  ],
+  "patterns": [
+    {
+      "form": "the younger generation",
+      "meaning": "若い世代"
+    },
+    {
+      "form": "future generations",
+      "meaning": "後の世代"
+    },
+    {
+      "form": "for generations",
+      "meaning": "何世代も"
+    },
+    {
+      "form": "the generation gap",
+      "meaning": "世代間のずれ"
+    },
+    {
+      "form": "from generation to generation",
+      "meaning": "代々"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "世代",
+      "en": "The younger generation uses smartphones every day.",
+      "ja": "若い世代は毎日スマートフォンを使う。"
+    },
+    {
+      "source": "original",
+      "label": "後の世代",
+      "en": "We must protect nature for future generations.",
+      "ja": "後の世代のために自然を守らなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "何世代も",
+      "en": "The shop has been run by the same family for generations.",
+      "ja": "その店は何世代も同じ家族が営んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "世代間のずれ",
+      "en": "There is a generation gap between me and my parents.",
+      "ja": "私と両親の間には世代のずれがある。"
+    },
+    {
+      "source": "original",
+      "label": "代々",
+      "en": "The story was passed down from generation to generation.",
+      "ja": "その話は代々受け継がれてきた。"
+    },
+    {
+      "source": "original",
+      "label": "発電",
+      "en": "Solar power is used for the generation of electricity.",
+      "ja": "太陽光は発電に使われる。"
+    }
+  ],
+  "check_points": [
+    "future generations の意味を言えるか",
+    "generation gap の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "future generations が環境系の長文で多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1418
+    }
+  ]
+}

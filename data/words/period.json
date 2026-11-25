@@ -1,0 +1,97 @@
+{
+  "word": "period",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈpɪriəd/",
+  "core_image": {
+    "text": "始まりと終わりで区切った、ひとまとまりの期間",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"80\" x2=\"220\" y2=\"80\"/><line x1=\"60\" y1=\"60\" x2=\"180\" y2=\"60\" stroke-dasharray=\"5 5\"/><polyline points=\"173,56.2 180,60 173,63.8\"/><line x1=\"60\" y1=\"50\" x2=\"60\" y2=\"90\"/><line x1=\"180\" y1=\"50\" x2=\"180\" y2=\"90\"/><circle cx=\"200\" cy=\"120\" r=\"4\"/></g><text x=\"120\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひと区切り</text></svg>"
+  },
+  "etymology": "ギリシャ語 periodos(peri=回って+hodos=道:ひと回り) → ひと回りする期間 → 期間・時期・時代 → (授業の)時限 → (文の終わりの)ピリオド=終止符",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a length of time; a particular time in history; a lesson at school; the mark (.) at the end of a sentence."
+    }
+  ],
+  "cautions": [
+    "period=始まりと終わりのある期間(最も広い)/era・age=時代",
+    "for a short [long] period=短い[長い]期間",
+    "a trial period=試用期間/the Edo period=江戸時代",
+    "(米)period=ピリオド/(授業の)時限:first period=1時間目"
+  ],
+  "patterns": [
+    {
+      "form": "for a period of A",
+      "meaning": "Aの期間"
+    },
+    {
+      "form": "a trial period",
+      "meaning": "試用期間"
+    },
+    {
+      "form": "the Edo period",
+      "meaning": "江戸時代"
+    },
+    {
+      "form": "first period",
+      "meaning": "1時間目"
+    },
+    {
+      "form": "Period.",
+      "meaning": "以上(それで終わり)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "期間",
+      "en": "He lived abroad for a short period.",
+      "ja": "彼は短い期間外国で暮らした。"
+    },
+    {
+      "source": "original",
+      "label": "時代",
+      "en": "The castle was built in the Edo period.",
+      "ja": "その城は江戸時代に建てられた。"
+    },
+    {
+      "source": "original",
+      "label": "時間目",
+      "en": "We have math in the first period.",
+      "ja": "1時間目は数学だ。"
+    },
+    {
+      "source": "original",
+      "label": "試用期間",
+      "en": "The job has a three-month trial period.",
+      "ja": "その仕事には3か月の試用期間がある。"
+    },
+    {
+      "source": "original",
+      "label": "ピリオド",
+      "en": "Put a period at the end of the sentence.",
+      "ja": "文の終わりにピリオドを打ちなさい。"
+    },
+    {
+      "source": "original",
+      "label": "期間",
+      "en": "Prices rose over a period of ten years.",
+      "ja": "10年の間に物価が上がった。"
+    }
+  ],
+  "check_points": [
+    "period の意味(期間・時代・時限・ピリオド)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "for a period of、the Edo period が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1413
+    }
+  ]
+}
