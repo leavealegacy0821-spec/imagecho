@@ -1,0 +1,89 @@
+{
+  "word": "recently",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˈriːsntli/",
+  "core_image": {
+    "text": "ついこの間・最近(のある時)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"80\" x2=\"220\" y2=\"80\"/><line x1=\"180\" y1=\"70\" x2=\"180\" y2=\"90\"/><circle cx=\"150\" cy=\"80\" r=\"8\"/><line x1=\"180\" y1=\"50\" x2=\"154\" y2=\"50\"/><polyline points=\"161,53.8 154,50 161,46.2\"/></g><text x=\"180\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いま</text><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ついこの間</text></svg>"
+  },
+  "etymology": "recent(最近の:ラテン語 recens=新しい) + -ly → 最近・ついこの間",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "not long ago."
+    }
+  ],
+  "cautions": [
+    "recently=ついこの間(過去形・現在完了どちらとも)/lately=最近ずっと(現在完了とよく使う)",
+    "these days=(現在形で)このごろ",
+    "until recently=最近まで",
+    "recent=(形容詞)最近の"
+  ],
+  "patterns": [
+    {
+      "form": "recently",
+      "meaning": "最近"
+    },
+    {
+      "form": "until recently",
+      "meaning": "最近まで"
+    },
+    {
+      "form": "recent",
+      "meaning": "最近の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "最近",
+      "en": "I recently started learning the guitar.",
+      "ja": "最近ギターを習い始めた。"
+    },
+    {
+      "source": "original",
+      "label": "過去形",
+      "en": "She moved to Tokyo recently.",
+      "ja": "彼女はつい最近東京に引っ越した。"
+    },
+    {
+      "source": "original",
+      "label": "最近まで",
+      "en": "Until recently, he lived alone.",
+      "ja": "最近まで彼は一人暮らしだった。"
+    },
+    {
+      "source": "original",
+      "label": "最近の",
+      "en": "Recent studies show that sleep is important.",
+      "ja": "最近の研究で睡眠が大切だとわかっている。"
+    },
+    {
+      "source": "original",
+      "label": "現在完了",
+      "en": "Have you seen him recently?",
+      "ja": "最近彼に会った?"
+    },
+    {
+      "source": "original",
+      "label": "このごろ",
+      "en": "Prices are high these days.",
+      "ja": "このごろ物価が高い。"
+    }
+  ],
+  "check_points": [
+    "recently と lately のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "recently / lately / these days の時制が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2133
+    }
+  ]
+}

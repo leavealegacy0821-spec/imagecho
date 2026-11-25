@@ -1,0 +1,93 @@
+{
+  "word": "soon",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/suːn/",
+  "core_image": {
+    "text": "今からまもなく・すぐに",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"80\" x2=\"220\" y2=\"80\"/><line x1=\"80\" y1=\"70\" x2=\"80\" y2=\"90\"/><circle cx=\"120\" cy=\"80\" r=\"8\"/><line x1=\"84\" y1=\"50\" x2=\"116\" y2=\"50\"/><polyline points=\"109,46.2 116,50 109,53.8\"/></g><text x=\"80\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いま</text><text x=\"160\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まもなく</text></svg>"
+  },
+  "etymology": "古い英語 sōna(すぐに) → まもなく・すぐに → as soon as=〜するとすぐ",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "in a short time from now; quickly."
+    }
+  ],
+  "cautions": [
+    "as soon as S V=〜するとすぐに(未来のことでも現在形)",
+    "as soon as possible=できるだけ早く(ASAP)",
+    "sooner or later=遅かれ早かれ",
+    "No sooner had S done than ...=〜するやいなや"
+  ],
+  "patterns": [
+    {
+      "form": "as soon as S V",
+      "meaning": "〜するとすぐに"
+    },
+    {
+      "form": "as soon as possible",
+      "meaning": "できるだけ早く"
+    },
+    {
+      "form": "sooner or later",
+      "meaning": "遅かれ早かれ"
+    },
+    {
+      "form": "No sooner ... than",
+      "meaning": "〜するやいなや"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "まもなく",
+      "en": "The bus will come soon.",
+      "ja": "バスはまもなく来る。"
+    },
+    {
+      "source": "original",
+      "label": "すぐに",
+      "en": "Call me as soon as you get home.",
+      "ja": "家に着いたらすぐ電話して。"
+    },
+    {
+      "source": "original",
+      "label": "できるだけ早く",
+      "en": "Please reply as soon as possible.",
+      "ja": "できるだけ早くお返事ください。"
+    },
+    {
+      "source": "original",
+      "label": "遅かれ早かれ",
+      "en": "Sooner or later, he will find out.",
+      "ja": "遅かれ早かれ彼は知るだろう。"
+    },
+    {
+      "source": "original",
+      "label": "やいなや",
+      "en": "No sooner had I arrived than it began to rain.",
+      "ja": "私が着くやいなや雨が降りだした。"
+    },
+    {
+      "source": "original",
+      "label": "またね",
+      "en": "See you soon!",
+      "ja": "またすぐ会おうね!"
+    }
+  ],
+  "check_points": [
+    "as soon as のあとが現在形になることがわかるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "as soon as、No sooner ... than が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2136
+    }
+  ]
+}

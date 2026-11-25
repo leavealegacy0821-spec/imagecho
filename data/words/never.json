@@ -1,0 +1,93 @@
+{
+  "word": "never",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˈnevər/",
+  "core_image": {
+    "text": "一度も〜ない・決して〜ない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"80\" x2=\"200\" y2=\"80\"/><line x1=\"200\" y1=\"70\" x2=\"200\" y2=\"90\"/><line x1=\"60\" y1=\"60\" x2=\"160\" y2=\"100\"/><line x1=\"160\" y1=\"60\" x2=\"60\" y2=\"100\"/></g><text x=\"110\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いちども…ない</text></svg>"
+  },
+  "etymology": "ne(〜ない) + ever(いつでも) → いつでも〜ない=決して〜ない・一度も〜ない",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "not at any time; not ever."
+    }
+  ],
+  "cautions": [
+    "never=not ever(一度も〜ない・決して〜ない)",
+    "I have never been to A.=Aに行ったことがない",
+    "Never mind.=気にしないで",
+    "Never have I seen ...=(倒置)一度も〜を見たことがない"
+  ],
+  "patterns": [
+    {
+      "form": "have never done",
+      "meaning": "一度も〜したことがない"
+    },
+    {
+      "form": "Never mind.",
+      "meaning": "気にしないで"
+    },
+    {
+      "form": "never fail to do",
+      "meaning": "必ず〜する"
+    },
+    {
+      "form": "Never have I ...",
+      "meaning": "(倒置)一度も〜ない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "一度もない",
+      "en": "I have never seen snow.",
+      "ja": "雪を見たことが一度もない。"
+    },
+    {
+      "source": "original",
+      "label": "気にしないで",
+      "en": "\"Sorry I'm late.\" \"Never mind.\"",
+      "ja": "「遅れてごめん」「気にしないで」"
+    },
+    {
+      "source": "original",
+      "label": "必ず",
+      "en": "He never fails to call his mother on her birthday.",
+      "ja": "彼は母の誕生日に必ず電話する。"
+    },
+    {
+      "source": "original",
+      "label": "倒置",
+      "en": "Never have I seen such a beautiful sunset.",
+      "ja": "こんなに美しい夕日は見たことがない。"
+    },
+    {
+      "source": "original",
+      "label": "決して",
+      "en": "I will never forget your kindness.",
+      "ja": "あなたのご親切は決して忘れません。"
+    },
+    {
+      "source": "original",
+      "label": "ことわざ",
+      "en": "Better late than never.",
+      "ja": "遅くてもしないよりまし。"
+    }
+  ],
+  "check_points": [
+    "never fail to do の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "never fail to、倒置 Never have I が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2132
+    }
+  ]
+}

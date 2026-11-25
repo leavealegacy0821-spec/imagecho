@@ -1,0 +1,103 @@
+{
+  "word": "once",
+  "pos": [
+    "副詞",
+    "接続詞"
+  ],
+  "ipa": "/wʌns/",
+  "core_image": {
+    "text": "(回数が)一度・(過去の)かつて・いったん〜すると",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"80\" x2=\"220\" y2=\"80\"/><line x1=\"180\" y1=\"70\" x2=\"180\" y2=\"90\"/><circle cx=\"70\" cy=\"80\" r=\"10\"/><path d=\"M60 50 L66 40 L72 50\"/></g><text x=\"70\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かつて</text><text x=\"180\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いま</text></svg>"
+  },
+  "etymology": "one(1) + -s(副詞をつくる) → 一度・1回 → (昔の)ある時・かつて → (接続詞)いったん〜すると",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "one time; at some time in the past."
+    },
+    {
+      "pos": "接続詞",
+      "text": "as soon as; after."
+    }
+  ],
+  "cautions": [
+    "once=1回/twice=2回/three times=3回",
+    "once=(過去)かつて(Once upon a time)",
+    "(接続詞)once S V=いったん〜すると",
+    "at once=すぐに・同時に"
+  ],
+  "patterns": [
+    {
+      "form": "once a week",
+      "meaning": "週に1回"
+    },
+    {
+      "form": "at once",
+      "meaning": "すぐに・同時に"
+    },
+    {
+      "form": "once upon a time",
+      "meaning": "昔むかし"
+    },
+    {
+      "form": "once S V",
+      "meaning": "いったん〜すると"
+    },
+    {
+      "form": "once in a while",
+      "meaning": "ときどき"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "1回",
+      "en": "I go swimming once a week.",
+      "ja": "週に1回泳ぎに行く。"
+    },
+    {
+      "source": "original",
+      "label": "すぐに",
+      "en": "Come here at once!",
+      "ja": "すぐにここへ来なさい!"
+    },
+    {
+      "source": "original",
+      "label": "昔むかし",
+      "en": "Once upon a time, there lived an old man.",
+      "ja": "昔むかし、あるところにおじいさんが住んでいました。"
+    },
+    {
+      "source": "original",
+      "label": "いったん",
+      "en": "Once you start, you can't stop.",
+      "ja": "いったん始めたら止められない。"
+    },
+    {
+      "source": "original",
+      "label": "かつて",
+      "en": "He was once a famous singer.",
+      "ja": "彼はかつて有名な歌手だった。"
+    },
+    {
+      "source": "original",
+      "label": "ときどき",
+      "en": "We eat out once in a while.",
+      "ja": "ときどき外食する。"
+    }
+  ],
+  "check_points": [
+    "once(接続詞)の意味を言えるか",
+    "at once の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "at once、接続詞の once が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2138
+    }
+  ]
+}
