@@ -1,0 +1,94 @@
+{
+  "word": "evaporate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪˈvæpəreɪt/",
+  "core_image": {
+    "text": "水が湯気になって、目に見えず空中へ抜けていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M70,120 L170,120 L160,140 L80,140 Z\"/><path d=\"M95,110 Q85,95 95,80 Q105,65 95,50\"/><path d=\"M120,110 Q110,95 120,80 Q130,65 120,50\"/><path d=\"M145,110 Q135,95 145,80 Q155,65 145,50\"/><line x1=\"190\" y1=\"110\" x2=\"190\" y2=\"50\"/><polyline points=\"186.2,57 190,50 193.8,57\"/></g><text x=\"30\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すうっ</text></svg>"
+  },
+  "etymology": "e-(外へ)+ vapor(湯気) → 湯気になって外へ出ていく → ①蒸発する(させる) ②(希望・自信などが)消えうせる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to change from a liquid into a gas; to disappear gradually."
+    }
+  ],
+  "cautions": [
+    "自動詞「蒸発する」と他動詞「蒸発させる」の両方がある",
+    "「(希望・自信・支持などが)消えうせる」の比ゆ的な意味が長文で出る",
+    "vanish=急に見えなくなる/fade=しだいに薄れる/evaporate=いつの間にか空中へ抜けて消える",
+    "名詞 evaporation=蒸発/vapor=蒸気(同じ根)"
+  ],
+  "patterns": [
+    {
+      "form": "evaporate",
+      "meaning": "蒸発する"
+    },
+    {
+      "form": "evaporate A",
+      "meaning": "Aを蒸発させる"
+    },
+    {
+      "form": "hope / confidence evaporates",
+      "meaning": "希望・自信が消える"
+    },
+    {
+      "form": "evaporated milk",
+      "meaning": "無糖練乳"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "蒸発",
+      "en": "The puddles evaporated quickly in the hot sun.",
+      "ja": "暑い日ざしで水たまりはすぐに蒸発した。"
+    },
+    {
+      "source": "original",
+      "label": "他動詞",
+      "en": "Heat the sauce to evaporate some of the water.",
+      "ja": "ソースを温めて水分を少し飛ばしなさい。"
+    },
+    {
+      "source": "original",
+      "label": "理科",
+      "en": "Water evaporates from the ocean and later falls as rain.",
+      "ja": "水は海から蒸発し、のちに雨となって降る。"
+    },
+    {
+      "source": "original",
+      "label": "希望",
+      "en": "Our hopes of winning evaporated in the second half.",
+      "ja": "勝つという私たちの希望は後半に消えうせた。"
+    },
+    {
+      "source": "original",
+      "label": "自信",
+      "en": "His confidence evaporated when he saw the exam questions.",
+      "ja": "試験問題を見たとたん、彼の自信は消えてなくなった。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "Evaporation is faster on windy days.",
+      "ja": "風の強い日には蒸発が速い。"
+    }
+  ],
+  "check_points": [
+    "evaporate の比ゆ的な意味(消えうせる)を言えるか",
+    "vanish・fade・evaporate のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "理科系の長文での「蒸発する」と、hopes evaporated などの比ゆ的な意味が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2018
+    }
+  ]
+}

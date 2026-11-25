@@ -297,7 +297,7 @@
     },
     {
       "title": "使い分け:説得する",
-      "note": "persuade=説いて行動させる ／ convince=説いて信じさせる ／ induce=誘い込んでさせる ／ dissuade=説いてやめさせる ／ prompt=きっかけを与える ／ tempt=誘惑する ／ coax=やさしく根気よくなだめてその気にさせる",
+      "note": "persuade=説いて行動させる ／ convince=説いて信じさせる ／ induce=誘い込んでさせる ／ dissuade=説いてやめさせる ／ prompt=きっかけを与える ／ tempt=誘惑する ／ coax=やさしく根気よくなだめてその気にさせる ／ lure=えさをちらつかせておびき寄せる ／ entice=魅力で気を引いてその気にさせる",
       "words": [
         "persuade",
         "convince",
@@ -305,7 +305,9 @@
         "dissuade",
         "prompt",
         "tempt",
-        "coax"
+        "coax",
+        "lure",
+        "entice"
       ]
     },
     {
@@ -332,11 +334,13 @@
     },
     {
       "title": "使い分け:許す・大目に見る",
-      "note": "forgive=罪を許して恨みを捨てる ／ excuse=小さな失礼を大目に見る ／ tolerate=嫌でもがまんして認める",
+      "note": "forgive=罪を許して恨みを捨てる ／ excuse=小さな失礼を大目に見る ／ tolerate=嫌でもがまんして認める ／ pardon=権限のある者が罰を取り消す(恩赦)・Pardon?=もう一度 ／ condone=悪事と知りながら見のがす(ふつう否定文)",
       "words": [
         "forgive",
         "excuse",
-        "tolerate"
+        "tolerate",
+        "pardon",
+        "condone"
       ]
     },
     {
@@ -824,12 +828,13 @@
     },
     {
       "title": "使い分け:消える・滅びる",
-      "note": "vanish=急に見えなくなる ／ fade=しだいに薄れる ／ perish=(急に)死ぬ・滅びる ／ collapse=崩れ落ちる",
+      "note": "vanish=急に見えなくなる ／ fade=しだいに薄れる ／ perish=(急に)死ぬ・滅びる ／ collapse=崩れ落ちる ／ evaporate=湯気になって空中へ抜けて消える",
       "words": [
         "vanish",
         "fade",
         "perish",
-        "collapse"
+        "collapse",
+        "evaporate"
       ]
     },
     {
@@ -1041,11 +1046,14 @@
     },
     {
       "title": "使い分け:だます",
-      "note": "deceive=うそで信じこませる ／ cheat=ずるをする ／ mislead=誤った方へ導く",
+      "note": "deceive=うそで信じこませる ／ cheat=ずるをする ／ mislead=誤った方へ導く ／ trick=すきをついてひょいとひっかける ／ fool=ばかにしてかつぐ(だまされた側がばかを見る) ／ betray=信じてくれる人を裏切る・思わず表に出す",
       "words": [
         "deceive",
         "cheat",
-        "mislead"
+        "mislead",
+        "trick",
+        "fool",
+        "betray"
       ]
     },
     {
@@ -1669,10 +1677,12 @@
     },
     {
       "title": "使い分け:聞く",
-      "note": "hear=(自然に)耳に入る・聞こえる ／ listen=(自分から)耳を向けて聞く",
+      "note": "hear=(自然に)耳に入る・聞こえる ／ listen=(自分から)耳を向けて聞く ／ overhear=自分あてでない話がたまたま耳に入る ／ heed=忠告・警告を心にとめて従う",
       "words": [
         "hear",
-        "listen"
+        "listen",
+        "overhear",
+        "heed"
       ]
     },
     {

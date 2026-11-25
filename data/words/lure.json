@@ -1,0 +1,99 @@
+{
+  "word": "lure",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/lʊr/",
+  "core_image": {
+    "text": "えさをちらつかせて、相手をこちらへおびき寄せる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><polyline points=\"50,74 70,62 90,50\"/><line x1=\"50\" y1=\"74\" x2=\"36\" y2=\"98\"/><line x1=\"90\" y1=\"50\" x2=\"110\" y2=\"40\"/><line x1=\"110\" y1=\"40\" x2=\"110\" y2=\"80\"/><circle cx=\"110\" cy=\"86\" r=\"6\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"174\" y2=\"96\"/><line x1=\"190\" y1=\"74\" x2=\"176\" y2=\"84\"/><line x1=\"176\" y1=\"70\" x2=\"124\" y2=\"84\" stroke-dasharray=\"5 5\"/><polyline points=\"131.8,85.9 124,84 129.8,78.5\"/></g><text x=\"150\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">おいで</text></svg>"
+  },
+  "etymology": "古フランス語 loirre(鷹を呼びもどすえさ) → えさで引き寄せる → ①おびき寄せる・誘い出す ②(名詞)魅力・誘惑・(釣りの)ルアー",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to persuade someone to go somewhere or do something by offering them something attractive."
+    },
+    {
+      "pos": "名詞",
+      "text": "something that attracts people; the attractive quality of something."
+    }
+  ],
+  "cautions": [
+    "lure A into B / doing=AをBへ・〜するよう誘いこむ/lure A away from B=AをBから引き離す",
+    "名詞 the lure of A=Aの魅力(the lure of the big city)",
+    "tempt=欲を起こさせて誘う/lure=えさでおびき寄せる(だます・危険の響き)/entice=うまく気を引いて誘いこむ",
+    "魚釣りの「ルアー」と同じ語"
+  ],
+  "patterns": [
+    {
+      "form": "lure A into B / doing",
+      "meaning": "Aを誘いこんでBへ・〜させる"
+    },
+    {
+      "form": "lure A away from B",
+      "meaning": "AをBから引き離す"
+    },
+    {
+      "form": "lure A with B",
+      "meaning": "AをBで誘う"
+    },
+    {
+      "form": "the lure of A",
+      "meaning": "Aの魅力"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "into",
+      "en": "The scammers lured victims into giving their bank details.",
+      "ja": "詐欺師たちは被害者を誘いこんで銀行の情報を教えさせた。"
+    },
+    {
+      "source": "original",
+      "label": "with",
+      "en": "The shop lures customers with big discounts.",
+      "ja": "その店は大幅な値引きで客を引き寄せている。"
+    },
+    {
+      "source": "original",
+      "label": "away from",
+      "en": "High salaries lured many doctors away from the countryside.",
+      "ja": "高い給料が多くの医者を地方から引き離した。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "Many young people cannot resist the lure of the big city.",
+      "ja": "多くの若者は大都会の魅力にあらがえない。"
+    },
+    {
+      "source": "original",
+      "label": "動物",
+      "en": "We used food to lure the cat out from under the car.",
+      "ja": "私たちは食べ物で猫を車の下からおびき出した。"
+    },
+    {
+      "source": "original",
+      "label": "釣り",
+      "en": "He tied a bright lure to the end of his line.",
+      "ja": "彼は釣り糸の先に派手なルアーを結んだ。"
+    }
+  ],
+  "check_points": [
+    "lure A into doing の型を言えるか",
+    "tempt と lure のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "lure A into doing / away from B と the lure of A が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2016
+    }
+  ]
+}

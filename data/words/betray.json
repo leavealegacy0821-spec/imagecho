@@ -1,0 +1,98 @@
+{
+  "word": "betray",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/bɪˈtreɪ/",
+  "core_image": {
+    "text": "信じてくれる人を、うしろから敵に引き渡す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"98\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"98\"/><circle cx=\"110\" cy=\"52\" r=\"10\"/><line x1=\"110\" y1=\"62\" x2=\"110\" y2=\"106\"/><line x1=\"110\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"110\" y1=\"106\" x2=\"120\" y2=\"140\"/><polyline points=\"110,74 124,82 140,82\"/><line x1=\"110\" y1=\"74\" x2=\"96\" y2=\"98\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><polyline points=\"190,74 170,80 160,80\"/><line x1=\"144\" y1=\"110\" x2=\"172\" y2=\"110\"/><polyline points=\"165,106.2 172,110 165,113.8\"/></g><text x=\"40\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">信じてたのに</text></svg>"
+  },
+  "etymology": "be-(すっかり)+ ラテン語 tradere(引き渡す。traitor・tradition と同じ根) → 信じてくれる人を敵に引き渡す → ①裏切る ②(秘密を)もらす ③(思わず感情などを)表に出してしまう",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be disloyal to someone who trusts you; to tell secrets to an enemy; to show a feeling you are trying to hide."
+    }
+  ],
+  "cautions": [
+    "betray A=Aを裏切る(他動詞)/betray A to B=AをBに売る・密告する",
+    "「(思わず)表に出す・あらわにする」の意味が長文でねらわれる(Her voice betrayed her fear.)",
+    "deceive=うそで信じこませる/betray=信頼を裏切る(相手との信頼関係が前提)",
+    "名詞 betrayal=裏切り/traitor=裏切り者(同じ根)"
+  ],
+  "patterns": [
+    {
+      "form": "betray A",
+      "meaning": "Aを裏切る"
+    },
+    {
+      "form": "betray A to B",
+      "meaning": "AをBに売る・密告する"
+    },
+    {
+      "form": "betray A's trust",
+      "meaning": "Aの信頼を裏切る"
+    },
+    {
+      "form": "betray a secret",
+      "meaning": "秘密をもらす"
+    },
+    {
+      "form": "betray one's feelings",
+      "meaning": "感情を表に出してしまう"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "裏切る",
+      "en": "He felt betrayed when his best friend told everyone his secret.",
+      "ja": "親友が自分の秘密をみんなに話したとき、彼は裏切られたと感じた。"
+    },
+    {
+      "source": "original",
+      "label": "信頼",
+      "en": "I will never betray your trust.",
+      "ja": "あなたの信頼を決して裏切りません。"
+    },
+    {
+      "source": "original",
+      "label": "to B",
+      "en": "The spy betrayed his country to the enemy.",
+      "ja": "そのスパイは祖国を敵に売った。"
+    },
+    {
+      "source": "original",
+      "label": "もらす",
+      "en": "She refused to betray the names of her friends.",
+      "ja": "彼女は友人たちの名前をもらすことを拒んだ。"
+    },
+    {
+      "source": "original",
+      "label": "表に出す",
+      "en": "His shaking hands betrayed his nervousness.",
+      "ja": "震える手が彼の緊張を物語っていた。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The voters saw the tax increase as a betrayal.",
+      "ja": "有権者たちは増税を裏切りと受けとめた。"
+    }
+  ],
+  "check_points": [
+    "betray の「(感情を)表に出してしまう」の意味を言えるか",
+    "deceive と betray のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「裏切る」と、長文での「(思わず)表に出す」の意味が内容一致・下線部問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2013
+    }
+  ]
+}

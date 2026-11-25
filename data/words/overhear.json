@@ -1,0 +1,94 @@
+{
+  "word": "overhear",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˌoʊvərˈhɪr/",
+  "core_image": {
+    "text": "自分あての話ではないのに、たまたま耳に入ってくる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"80\" y2=\"92\"/><line x1=\"60\" y1=\"74\" x2=\"80\" y2=\"84\"/><circle cx=\"160\" cy=\"52\" r=\"10\"/><line x1=\"160\" y1=\"62\" x2=\"160\" y2=\"106\"/><line x1=\"160\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"160\" y1=\"74\" x2=\"146\" y2=\"98\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"214\" y2=\"98\"/><line x1=\"105\" y1=\"60\" x2=\"105\" y2=\"140\"/><line x1=\"150\" y1=\"40\" x2=\"76\" y2=\"40\"/><polyline points=\"83,43.8 76,40 83,36.2\"/></g><text x=\"180\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひそひそ</text></svg>"
+  },
+  "etymology": "over(〜をこえて・横から)+ hear(聞こえる) → 自分あての話が横からこえて耳に入る → (偶然・ふと)もれ聞く・立ち聞きする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to hear what other people are saying when they do not know you are listening, often by chance."
+    }
+  ],
+  "cautions": [
+    "overhear A doing / do=Aが〜している(する)のをもれ聞く(知覚動詞の型)",
+    "overhear はたまたま耳に入るのが基本/eavesdrop=わざと盗み聞きする",
+    "hear=自然に聞こえる/listen=自分から耳を向ける/overhear=自分あてでない話がたまたま聞こえる",
+    "過去形・過去分詞は overheard(hear と同じ変化)"
+  ],
+  "patterns": [
+    {
+      "form": "overhear A",
+      "meaning": "Aをもれ聞く"
+    },
+    {
+      "form": "overhear A doing",
+      "meaning": "Aが〜しているのをもれ聞く"
+    },
+    {
+      "form": "overhear A say(s)",
+      "meaning": "Aが〜と言うのを聞く"
+    },
+    {
+      "form": "overhear a conversation",
+      "meaning": "会話をもれ聞く"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "会話",
+      "en": "I overheard a conversation between two teachers in the hallway.",
+      "ja": "廊下で2人の先生の会話がふと耳に入った。"
+    },
+    {
+      "source": "original",
+      "label": "doing",
+      "en": "She overheard her parents talking about moving.",
+      "ja": "彼女は両親が引っ越しの話をしているのをもれ聞いた。"
+    },
+    {
+      "source": "original",
+      "label": "say",
+      "en": "I overheard him say that the test would be easy.",
+      "ja": "彼がテストは簡単だと言うのがたまたま聞こえた。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "Be careful — we might be overheard.",
+      "ja": "気をつけて。人に聞かれるかもしれない。"
+    },
+    {
+      "source": "original",
+      "label": "偶然",
+      "en": "I didn't mean to overhear, but the walls are thin.",
+      "ja": "聞くつもりはなかったけれど、壁が薄いんだ。"
+    },
+    {
+      "source": "original",
+      "label": "that",
+      "en": "He overheard that the shop was going to close.",
+      "ja": "彼はその店が閉店するという話を小耳にはさんだ。"
+    }
+  ],
+  "check_points": [
+    "overhear A doing の型を言えるか",
+    "hear・listen・overhear のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "overhear A doing(知覚動詞の型)と過去形 overheard が長文・語法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2009
+    }
+  ]
+}
