@@ -1,0 +1,93 @@
+{
+  "word": "tree",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/triː/",
+  "core_image": {
+    "text": "太い幹から枝を広げる木",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"110\" y=\"80\" width=\"20\" height=\"60\"/><circle cx=\"120\" cy=\"60\" r=\"40\"/><line x1=\"120\" y1=\"90\" x2=\"100\" y2=\"70\"/><line x1=\"120\" y1=\"86\" x2=\"140\" y2=\"66\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">き</text></svg>"
+  },
+  "etymology": "古い英語 trēow(木) → 木 → 系図(family tree)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a tall plant with a wooden trunk, branches and leaves."
+    }
+  ],
+  "cautions": [
+    "tree=(生えている)木/wood=木材・林",
+    "a family tree=家系図",
+    "in [on] a tree=木の中に(鳥)・木に(実)",
+    "bark up the wrong tree=見当ちがいをする"
+  ],
+  "patterns": [
+    {
+      "form": "plant a tree",
+      "meaning": "木を植える"
+    },
+    {
+      "form": "a family tree",
+      "meaning": "家系図"
+    },
+    {
+      "form": "bark up the wrong tree",
+      "meaning": "見当ちがいをする"
+    },
+    {
+      "form": "up a tree",
+      "meaning": "困って"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "木",
+      "en": "We planted a cherry tree in the garden.",
+      "ja": "庭に桜の木を植えた。"
+    },
+    {
+      "source": "original",
+      "label": "鳥",
+      "en": "A bird is singing in the tree.",
+      "ja": "鳥が木の中でさえずっている。"
+    },
+    {
+      "source": "original",
+      "label": "実",
+      "en": "There are many apples on the tree.",
+      "ja": "木にりんごがたくさんなっている。"
+    },
+    {
+      "source": "original",
+      "label": "家系図",
+      "en": "I drew my family tree.",
+      "ja": "家系図をかいた。"
+    },
+    {
+      "source": "original",
+      "label": "見当ちがい",
+      "en": "If you think I took it, you're barking up the wrong tree.",
+      "ja": "私が取ったと思っているなら見当ちがいだ。"
+    },
+    {
+      "source": "original",
+      "label": "木材",
+      "en": "Paper is made from trees.",
+      "ja": "紙は木から作られる。"
+    }
+  ],
+  "check_points": [
+    "tree と wood のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "in / on a tree の前置詞が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2209
+    }
+  ]
+}

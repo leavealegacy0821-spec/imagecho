@@ -1,0 +1,94 @@
+{
+  "word": "bloom",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/bluːm/",
+  "core_image": {
+    "text": "花がぱっと開く(開花)・さかりにある",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"120\" y1=\"140\" x2=\"120\" y2=\"80\"/><path d=\"M120 80 Q90 60 100 40 Q120 54 120 80\"/><path d=\"M120 80 Q150 60 140 40 Q120 54 120 80\"/><path d=\"M120 80 Q120 50 120 30\"/><path d=\"M80 50 L70 40 M160 50 L170 40 M120 20 L120 10\"/></g><text x=\"200\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぱっ</text></svg>"
+  },
+  "etymology": "古いノルド語 blóm(花) → 花・開花 → (動詞)花がさく → (人・才能が)花開く",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a flower; the state of having flowers open."
+    },
+    {
+      "pos": "動詞",
+      "text": "to produce flowers; to become healthy and happy."
+    }
+  ],
+  "cautions": [
+    "bloom=(花が)ぱっと咲く・開花(観賞用の花)/blossom=(果樹の)花",
+    "in (full) bloom=満開で",
+    "late bloomer=大器晩成の人",
+    "(人が)生き生きする"
+  ],
+  "patterns": [
+    {
+      "form": "in full bloom",
+      "meaning": "満開で"
+    },
+    {
+      "form": "come into bloom",
+      "meaning": "咲き始める"
+    },
+    {
+      "form": "a late bloomer",
+      "meaning": "大器晩成の人"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "満開",
+      "en": "The cherry blossoms are in full bloom.",
+      "ja": "桜が満開だ。"
+    },
+    {
+      "source": "original",
+      "label": "咲く",
+      "en": "Roses bloom in May.",
+      "ja": "バラは5月に咲く。"
+    },
+    {
+      "source": "original",
+      "label": "咲き始める",
+      "en": "The tulips came into bloom.",
+      "ja": "チューリップが咲き始めた。"
+    },
+    {
+      "source": "original",
+      "label": "大器晩成",
+      "en": "He was a late bloomer.",
+      "ja": "彼は大器晩成型だった。"
+    },
+    {
+      "source": "original",
+      "label": "花開く",
+      "en": "Her talent bloomed in high school.",
+      "ja": "彼女の才能は高校で花開いた。"
+    },
+    {
+      "source": "original",
+      "label": "生き生き",
+      "en": "She bloomed after moving to the country.",
+      "ja": "田舎に引っ越して彼女は生き生きした。"
+    }
+  ],
+  "check_points": [
+    "in full bloom の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "in full bloom が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2215
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "weed",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/wiːd/",
+  "core_image": {
+    "text": "勝手に生えてくるじゃまな草(雑草)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M60 140 L60 110 Q50 100 46 90 M60 116 Q70 104 76 96\"/><path d=\"M160 140 L160 100 Q150 90 144 80 M160 110 Q172 96 178 88\"/><line x1=\"100\" y1=\"140\" x2=\"100\" y2=\"120\"/><line x1=\"96\" y1=\"120\" x2=\"104\" y2=\"120\"/><line x1=\"20\" y1=\"30\" x2=\"50\" y2=\"60\"/><line x1=\"50\" y1=\"30\" x2=\"20\" y2=\"60\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ざっそう</text></svg>"
+  },
+  "etymology": "古い英語 wēod(雑草) → 雑草 → (動詞)草を取る・(weed out)不要なものを取りのぞく",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a wild plant growing where it is not wanted."
+    },
+    {
+      "pos": "動詞",
+      "text": "to remove weeds; (weed out) to remove people or things that are not wanted."
+    }
+  ],
+  "cautions": [
+    "grass=草・芝/weed=じゃまな雑草",
+    "weed the garden=庭の草取りをする",
+    "weed out A=A(不要なもの)を取りのぞく",
+    "grow like weeds=どんどんのびる"
+  ],
+  "patterns": [
+    {
+      "form": "pull weeds",
+      "meaning": "雑草を抜く"
+    },
+    {
+      "form": "weed the garden",
+      "meaning": "草取りをする"
+    },
+    {
+      "form": "weed out A",
+      "meaning": "Aを取りのぞく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "雑草",
+      "en": "The garden is full of weeds.",
+      "ja": "庭は雑草だらけだ。"
+    },
+    {
+      "source": "original",
+      "label": "草取り",
+      "en": "I spent the morning weeding the garden.",
+      "ja": "午前中ずっと庭の草取りをした。"
+    },
+    {
+      "source": "original",
+      "label": "取りのぞく",
+      "en": "The test weeds out weak students.",
+      "ja": "その試験で力の弱い学生がふるい落とされる。"
+    },
+    {
+      "source": "original",
+      "label": "抜く",
+      "en": "We pulled weeds in the school yard.",
+      "ja": "校庭の雑草を抜いた。"
+    },
+    {
+      "source": "original",
+      "label": "のびる",
+      "en": "Weeds grow quickly in summer.",
+      "ja": "夏は雑草がすぐにのびる。"
+    },
+    {
+      "source": "original",
+      "label": "じゃま",
+      "en": "Weeds take water from vegetables.",
+      "ja": "雑草は野菜から水をうばう。"
+    }
+  ],
+  "check_points": [
+    "weed out の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "weed out が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2212
+    }
+  ]
+}

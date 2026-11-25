@@ -1,0 +1,98 @@
+{
+  "word": "crop",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/krɑːp/",
+  "core_image": {
+    "text": "畑で育てて収穫する作物(のとれ高)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M40 140 L40 100 M36 104 L40 96 L44 104 M60 140 L60 96 M56 100 L60 92 L64 100 M80 140 L80 100 M76 104 L80 96 L84 104\"/><path d=\"M140 140 L140 100 M136 104 L140 96 L144 104 M160 140 L160 96 M156 100 L160 92 L164 100 M180 140 L180 100 M176 104 L180 96 L184 104\"/><circle cx=\"200\" cy=\"40\" r=\"14\"/></g><text x=\"110\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さくもつ</text></svg>"
+  },
+  "etymology": "古い英語 cropp(植物の先・穂) → 穂 → 収穫物・作物 → (動詞)(先を)短く切る・(写真を)切りぬく",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a plant grown for food, such as wheat or rice; the amount harvested."
+    },
+    {
+      "pos": "動詞",
+      "text": "to cut something short; to cut the edges of a picture."
+    }
+  ],
+  "cautions": [
+    "crop=(畑で育てる)作物・収穫高",
+    "a good [poor] crop=豊作[不作]",
+    "crop up=(問題が)ひょっこり起こる",
+    "grow crops=作物を育てる"
+  ],
+  "patterns": [
+    {
+      "form": "grow crops",
+      "meaning": "作物を育てる"
+    },
+    {
+      "form": "a good crop",
+      "meaning": "豊作"
+    },
+    {
+      "form": "crop up",
+      "meaning": "(問題が)起こる"
+    },
+    {
+      "form": "crop A",
+      "meaning": "Aを切りそろえる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "作物",
+      "en": "Rice is the main crop in this area.",
+      "ja": "米がこの地域の主な作物だ。"
+    },
+    {
+      "source": "original",
+      "label": "育てる",
+      "en": "The farmers grow crops such as corn and beans.",
+      "ja": "農家はトウモロコシや豆などの作物を育てている。"
+    },
+    {
+      "source": "original",
+      "label": "豊作",
+      "en": "We had a good crop of apples this year.",
+      "ja": "今年はりんごが豊作だった。"
+    },
+    {
+      "source": "original",
+      "label": "起こる",
+      "en": "Some problems cropped up.",
+      "ja": "いくつか問題が起こった。"
+    },
+    {
+      "source": "original",
+      "label": "切る",
+      "en": "She cropped the photo.",
+      "ja": "彼女は写真を切りぬいた。"
+    },
+    {
+      "source": "original",
+      "label": "被害",
+      "en": "The drought destroyed the crops.",
+      "ja": "干ばつで作物がだめになった。"
+    }
+  ],
+  "check_points": [
+    "crop up の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "crop up が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2218
+    }
+  ]
+}
