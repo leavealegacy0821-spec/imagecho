@@ -1,0 +1,94 @@
+{
+  "word": "magnify",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈmæɡnɪfaɪ/",
+  "core_image": {
+    "text": "レンズを通して、実際より大きく見せる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"96\" cy=\"72\" r=\"36\"/><line x1=\"122\" y1=\"98\" x2=\"156\" y2=\"132\"/><line x1=\"130\" y1=\"94\" x2=\"162\" y2=\"126\"/><polygon points=\"80,88 96,56 112,88\"/><polygon points=\"194,54 200,42 206,54\"/></g><text x=\"196\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">大きく見える</text></svg>"
+  },
+  "etymology": "magni(大きい。ラテン語 magnus)+ fy(〜にする) → 大きくする → ①(レンズなどで)拡大して見せる ②(問題・危険・重要性を)実際より大きく見せる・誇張する ③(効果・影響を)大きくする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make something look bigger than it really is, especially with a lens; to make something seem more important or serious than it is."
+    }
+  ],
+  "cautions": [
+    "magnify=レンズで「見た目」を大きくする/enlarge=実際のサイズを大きくする",
+    "比喩で「(問題・不安を)大げさに考える」の意味にもなる(exaggerate に近い)",
+    "magnifying glass=虫めがね/magnification=倍率",
+    "magnify A ten times=Aを10倍に拡大する"
+  ],
+  "patterns": [
+    {
+      "form": "magnify A",
+      "meaning": "Aを拡大して見せる"
+    },
+    {
+      "form": "magnify A ten times",
+      "meaning": "Aを10倍に拡大する"
+    },
+    {
+      "form": "a magnifying glass",
+      "meaning": "虫めがね"
+    },
+    {
+      "form": "magnify a problem",
+      "meaning": "問題を大げさに考える"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "虫めがね",
+      "en": "The boy looked at the ant through a magnifying glass.",
+      "ja": "少年は虫めがねでアリを見た。"
+    },
+    {
+      "source": "original",
+      "label": "顕微鏡",
+      "en": "This microscope can magnify an object 1,000 times.",
+      "ja": "この顕微鏡は物を1000倍に拡大できる。"
+    },
+    {
+      "source": "original",
+      "label": "不安",
+      "en": "Worry tends to magnify small problems.",
+      "ja": "心配すると小さな問題を大きく感じがちだ。"
+    },
+    {
+      "source": "original",
+      "label": "影響",
+      "en": "The heavy rain magnified the damage caused by the earthquake.",
+      "ja": "大雨が地震の被害を大きくした。"
+    },
+    {
+      "source": "original",
+      "label": "誇張",
+      "en": "The media magnified the importance of the incident.",
+      "ja": "マスコミはその出来事の重大さを大げさに伝えた。"
+    },
+    {
+      "source": "original",
+      "label": "レンズ",
+      "en": "Glasses for farsighted people magnify things slightly.",
+      "ja": "遠視用のめがねは物を少し大きく見せる。"
+    }
+  ],
+  "check_points": [
+    "magnify と enlarge のちがい(見た目/実際のサイズ)を言えるか",
+    "magnifying glass の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "理科系の説明文で「拡大する」、評論で「(問題を)大きく見せる」の意味で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2130
+    }
+  ]
+}

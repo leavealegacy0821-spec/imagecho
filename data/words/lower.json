@@ -1,0 +1,103 @@
+{
+  "word": "lower",
+  "pos": [
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/ˈloʊər/",
+  "core_image": {
+    "text": "高い所にあるものを、下へそっとおろす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"96\" y2=\"92\"/><line x1=\"60\" y1=\"80\" x2=\"96\" y2=\"104\"/><rect x=\"96\" y=\"86\" width=\"30\" height=\"24\"/><line x1=\"150\" y1=\"60\" x2=\"150\" y2=\"116\"/><polyline points=\"153.8,109 150,116 146.2,109\"/></g><text x=\"196\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">下へ</text></svg>"
+  },
+  "etymology": "low(低い)+ er(より) → より低い/より低くする → ①(物を)下げる・おろす ②(値段・温度・声・基準を)下げる ③(lower oneself)品位を落とす ④(形容詞)下のほうの",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move something down; to reduce something in amount, level or quality."
+    },
+    {
+      "pos": "形容詞",
+      "text": "located below something else; at the bottom."
+    }
+  ],
+  "cautions": [
+    "lower は他動詞(lower A=Aを下げる)/自分が下がるのは fall・drop・go down",
+    "lower=位置・値段・水準を下へ下げる/reduce=量を減らす/decrease=数量が減る",
+    "lower one's voice=声を低く(小さく)する",
+    "lower oneself to do=品位を落として〜する(ふつう否定文)/形容詞 the lower class / lower lip"
+  ],
+  "patterns": [
+    {
+      "form": "lower A",
+      "meaning": "Aを下げる・おろす"
+    },
+    {
+      "form": "lower the price",
+      "meaning": "値段を下げる"
+    },
+    {
+      "form": "lower one's voice",
+      "meaning": "声を落とす"
+    },
+    {
+      "form": "lower oneself to do",
+      "meaning": "品位を落として〜する"
+    },
+    {
+      "form": "the lower A",
+      "meaning": "下のほうのA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "おろす",
+      "en": "They lowered the boat into the water.",
+      "ja": "彼らはボートを水面へおろした。"
+    },
+    {
+      "source": "original",
+      "label": "値段",
+      "en": "The shop lowered its prices to attract customers.",
+      "ja": "その店は客を集めるために値下げした。"
+    },
+    {
+      "source": "original",
+      "label": "声",
+      "en": "She lowered her voice so that no one else could hear.",
+      "ja": "ほかの人に聞こえないよう、彼女は声を落とした。"
+    },
+    {
+      "source": "original",
+      "label": "健康",
+      "en": "Eating less salt can lower your blood pressure.",
+      "ja": "塩分を減らすと血圧を下げられることがある。"
+    },
+    {
+      "source": "original",
+      "label": "品位",
+      "en": "I would never lower myself to tell such a lie.",
+      "ja": "そんなうそをついてまで自分を落とすことは決してしない。"
+    },
+    {
+      "source": "original",
+      "label": "形容詞",
+      "en": "He bit his lower lip nervously.",
+      "ja": "彼は不安そうに下くちびるをかんだ。"
+    }
+  ],
+  "check_points": [
+    "lower(他動詞)と fall・drop(自動詞)のちがいを言えるか",
+    "lower one's voice の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "lower the price / lower blood pressure が長文で、lower(他)と fall(自)の区別が語法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2137
+    }
+  ]
+}

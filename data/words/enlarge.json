@@ -1,0 +1,94 @@
+{
+  "word": "enlarge",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈlɑːrdʒ/",
+  "core_image": {
+    "text": "形はそのままで、ひと回り大きくする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"92\" width=\"30\" height=\"22\"/><line x1=\"72\" y1=\"103\" x2=\"110\" y2=\"103\"/><polyline points=\"103,99.2 110,103 103,106.8\"/><rect x=\"120\" y=\"60\" width=\"90\" height=\"66\"/></g><text x=\"165\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">大きく</text></svg>"
+  },
+  "etymology": "en(〜にする)+ large(大きい) → 大きくする → ①(写真・建物・部屋などを)拡大する・広げる ②(知識・活動の範囲を)広げる ③(enlarge on A)Aについてくわしく述べる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make something bigger; to become bigger."
+    }
+  ],
+  "cautions": [
+    "enlarge=形や比率はそのままでサイズを大きくする(写真の引きのばし・建物の増築)/expand=中からふくらんで広がる/increase=数量が増える",
+    "enlarge on [upon] A=Aについてくわしく述べる(自動詞の用法)",
+    "名詞 enlargement=拡大・引きのばし写真",
+    "an enlarged heart=肥大した心臓(体の器官が大きくなる意味でも使う)"
+  ],
+  "patterns": [
+    {
+      "form": "enlarge A",
+      "meaning": "Aを拡大する"
+    },
+    {
+      "form": "have A enlarged",
+      "meaning": "Aを引きのばしてもらう"
+    },
+    {
+      "form": "enlarge on A",
+      "meaning": "Aについてくわしく述べる"
+    },
+    {
+      "form": "an enlarged A",
+      "meaning": "拡大されたA・肥大したA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "写真",
+      "en": "I had the photo enlarged and put it on the wall.",
+      "ja": "その写真を引きのばしてもらい、壁にかけた。"
+    },
+    {
+      "source": "original",
+      "label": "建物",
+      "en": "The school plans to enlarge its library.",
+      "ja": "その学校は図書館を拡張する予定だ。"
+    },
+    {
+      "source": "original",
+      "label": "画面",
+      "en": "You can enlarge the text by touching the screen with two fingers.",
+      "ja": "2本の指で画面にふれると文字を大きくできる。"
+    },
+    {
+      "source": "original",
+      "label": "知識",
+      "en": "Reading widely will enlarge your knowledge of the world.",
+      "ja": "幅広く読書をすれば、世界についての知識が広がる。"
+    },
+    {
+      "source": "original",
+      "label": "くわしく",
+      "en": "Could you enlarge on that point a little?",
+      "ja": "その点についてもう少しくわしく話していただけますか。"
+    },
+    {
+      "source": "original",
+      "label": "体",
+      "en": "The doctor said that his heart was slightly enlarged.",
+      "ja": "医者は彼の心臓が少し肥大していると言った。"
+    }
+  ],
+  "check_points": [
+    "enlarge・expand・increase のちがいを言えるか",
+    "enlarge on A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "have A enlarged(使役)や enlarge on A が語法・会話で、expand との区別が語彙問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2129
+    }
+  ]
+}

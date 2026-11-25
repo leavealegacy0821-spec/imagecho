@@ -1,0 +1,94 @@
+{
+  "word": "strengthen",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈstreŋkθn/",
+  "core_image": {
+    "text": "中身を太く強くして、くずれにくくする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"50\" y1=\"140\" x2=\"50\" y2=\"70\"/><line x1=\"76\" y1=\"104\" x2=\"136\" y2=\"104\"/><polyline points=\"129,100.2 136,104 129,107.8\"/><rect x=\"160\" y=\"70\" width=\"40\" height=\"70\"/><line x1=\"160\" y1=\"70\" x2=\"200\" y2=\"140\"/><line x1=\"200\" y1=\"70\" x2=\"160\" y2=\"140\"/></g><text x=\"180\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">太く強く</text><text x=\"50\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">細い</text></svg>"
+  },
+  "etymology": "strength(強さ。strong の名詞)+ en(〜にする) → 強くする → ①(体・筋肉・建物を)強くする・補強する ②(関係・立場・決意を)強める ③(通貨・経済が)強くなる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make something stronger; to become stronger."
+    }
+  ],
+  "cautions": [
+    "strengthen=弱い所をなくして丈夫にする(体・きずな・立場)/intensify=激しさを増す/reinforce=外から補って強化する",
+    "つづり注意:strong → strength(名詞)→ strengthen(動詞)",
+    "反対語 weaken=弱める",
+    "strengthen ties [relations] with A=Aとの関係を強める(入試頻出の形)"
+  ],
+  "patterns": [
+    {
+      "form": "strengthen A",
+      "meaning": "Aを強くする"
+    },
+    {
+      "form": "strengthen ties with A",
+      "meaning": "Aとのきずなを強める"
+    },
+    {
+      "form": "strengthen one's position",
+      "meaning": "立場を強める"
+    },
+    {
+      "form": "strengthen the economy",
+      "meaning": "経済を強くする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "体",
+      "en": "Swimming helps strengthen the muscles of your back.",
+      "ja": "水泳は背中の筋肉をきたえるのに役立つ。"
+    },
+    {
+      "source": "original",
+      "label": "関係",
+      "en": "The two countries agreed to strengthen economic ties.",
+      "ja": "両国は経済的なつながりを強めることで合意した。"
+    },
+    {
+      "source": "original",
+      "label": "建物",
+      "en": "The old bridge was strengthened with steel.",
+      "ja": "その古い橋は鉄骨で補強された。"
+    },
+    {
+      "source": "original",
+      "label": "決意",
+      "en": "The difficulties only strengthened her determination.",
+      "ja": "その困難はかえって彼女の決意を強めた。"
+    },
+    {
+      "source": "original",
+      "label": "通貨",
+      "en": "The yen strengthened against the dollar.",
+      "ja": "円がドルに対して高くなった。"
+    },
+    {
+      "source": "original",
+      "label": "証拠",
+      "en": "The new data strengthens the theory.",
+      "ja": "新しいデータがその説を裏づけている。"
+    }
+  ],
+  "check_points": [
+    "strong → strength → strengthen のつづりを言えるか",
+    "strengthen と intensify のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "strengthen ties [relations] が長文で、つづり(strength+en)が語形問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2133
+    }
+  ]
+}

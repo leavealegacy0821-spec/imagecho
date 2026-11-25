@@ -1,0 +1,94 @@
+{
+  "word": "lessen",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈlesn/",
+  "core_image": {
+    "text": "痛みや危険の度合いを、少しずつやわらげる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"50\" y=\"50\" width=\"30\" height=\"90\"/><rect x=\"100\" y=\"80\" width=\"30\" height=\"60\"/><rect x=\"150\" y=\"110\" width=\"30\" height=\"30\"/><line x1=\"90\" y1=\"36\" x2=\"186\" y2=\"92\"/><polyline points=\"181.9,85.1 186,92 178,91.8\"/></g><text x=\"200\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やわらぐ</text></svg>"
+  },
+  "etymology": "less(より少ない)+ en(〜にする) → より少なくする → (痛み・危険・影響・重要性などを)減らす・やわらげる/(それらが)減る・弱まる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to become or make something smaller, weaker or less important."
+    }
+  ],
+  "cautions": [
+    "lesson(授業)と発音が同じ(/ˈlesn/)なので、聞きとりで注意",
+    "lessen=痛み・危険・影響など「度合い」を小さくする/reduce=量・数を(意図して)減らす/decrease=数量が減る",
+    "lessen the risk of A=Aの危険を減らす(入試頻出)",
+    "自動詞(The pain lessened.)にも他動詞にもなる"
+  ],
+  "patterns": [
+    {
+      "form": "lessen the risk of A",
+      "meaning": "Aの危険を減らす"
+    },
+    {
+      "form": "lessen the pain",
+      "meaning": "痛みをやわらげる"
+    },
+    {
+      "form": "lessen the impact of A",
+      "meaning": "Aの影響を小さくする"
+    },
+    {
+      "form": "A lessens",
+      "meaning": "Aがやわらぐ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "危険",
+      "en": "Regular exercise lessens the risk of heart disease.",
+      "ja": "定期的な運動は心臓病の危険を減らす。"
+    },
+    {
+      "source": "original",
+      "label": "痛み",
+      "en": "This medicine will lessen the pain.",
+      "ja": "この薬で痛みがやわらぐだろう。"
+    },
+    {
+      "source": "original",
+      "label": "影響",
+      "en": "We must lessen the impact of climate change.",
+      "ja": "気候変動の影響を小さくしなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "自動詞",
+      "en": "The noise lessened as the crowd went home.",
+      "ja": "人々が帰るにつれて騒音は小さくなった。"
+    },
+    {
+      "source": "original",
+      "label": "負担",
+      "en": "Robots can lessen the burden on care workers.",
+      "ja": "ロボットは介護職員の負担を軽くできる。"
+    },
+    {
+      "source": "original",
+      "label": "重要性",
+      "en": "His mistake does not lessen the value of his work.",
+      "ja": "彼のまちがいで彼の仕事の価値が下がるわけではない。"
+    }
+  ],
+  "check_points": [
+    "lessen と lesson が同じ発音だと言えるか",
+    "lessen と reduce のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "lessen the risk / impact が長文で、reduce の言いかえとして出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2135
+    }
+  ]
+}

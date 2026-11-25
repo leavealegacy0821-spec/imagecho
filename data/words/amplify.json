@@ -1,0 +1,94 @@
+{
+  "word": "amplify",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈæmplɪfaɪ/",
+  "core_image": {
+    "text": "小さな音や力を、ぐんと大きく増幅する",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"66\" width=\"20\" height=\"28\"/><polygon points=\"50,66 74,48 74,112 50,94\"/><path d=\"M90 70 q8 10 0 20\"/><path d=\"M104 60 q14 20 0 40\"/><path d=\"M120 48 q22 32 0 64\"/><path d=\"M138 36 q30 44 0 88\"/></g><text x=\"200\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぐんと大きく</text></svg>"
+  },
+  "etymology": "ampl(大きい・広い。ラテン語 amplus)+ ify(〜にする) → 広げて大きくする → ①(音・電気信号を)増幅する ②(効果・感情・影響を)強める ③(説明・考えを)ふくらませてくわしく述べる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make a sound louder, especially using electronic equipment; to increase the effect of something; to explain something in more detail."
+    }
+  ],
+  "cautions": [
+    "amplify=音や信号・力そのものを増幅する/magnify=見た目を大きくする/intensify=激しさを強める",
+    "名詞 amplifier=アンプ(増幅器)・amplification=増幅",
+    "amplify on A=Aをさらにくわしく述べる(enlarge on A と同じ)",
+    "amplify fears / concerns=不安・心配をあおる(悪い感情が大きくなる)"
+  ],
+  "patterns": [
+    {
+      "form": "amplify A",
+      "meaning": "A(音・効果)を増幅する"
+    },
+    {
+      "form": "amplify the effect of A",
+      "meaning": "Aの効果を強める"
+    },
+    {
+      "form": "amplify on A",
+      "meaning": "Aをくわしく述べる"
+    },
+    {
+      "form": "amplify fears",
+      "meaning": "不安をあおる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "音",
+      "en": "The guitar's sound is amplified by speakers.",
+      "ja": "ギターの音はスピーカーで増幅される。"
+    },
+    {
+      "source": "original",
+      "label": "マイク",
+      "en": "A microphone amplifies the speaker's voice.",
+      "ja": "マイクは話し手の声を大きくする。"
+    },
+    {
+      "source": "original",
+      "label": "効果",
+      "en": "Exercise can amplify the effects of a healthy diet.",
+      "ja": "運動は健康的な食事の効果を高めることがある。"
+    },
+    {
+      "source": "original",
+      "label": "不安",
+      "en": "The news reports amplified people's fears about the virus.",
+      "ja": "その報道はウイルスへの人々の不安をあおった。"
+    },
+    {
+      "source": "original",
+      "label": "くわしく",
+      "en": "The teacher asked her to amplify her answer.",
+      "ja": "先生は彼女に答えをもう少しくわしく述べるよう求めた。"
+    },
+    {
+      "source": "original",
+      "label": "SNS",
+      "en": "Social media can amplify a single voice to millions of people.",
+      "ja": "SNSは1人の声を何百万人にも広げることがある。"
+    }
+  ],
+  "check_points": [
+    "amplify・magnify・intensify のちがいを言えるか",
+    "amplifier(アンプ)とのつながりを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "評論で「(影響・不安を)増幅する」、SNS の話題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2131
+    }
+  ]
+}

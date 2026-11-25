@@ -1,0 +1,94 @@
+{
+  "word": "curtail",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kɜːrˈteɪl/",
+  "core_image": {
+    "text": "長く伸びたものを、ばっさり短く切りつめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"70\" width=\"100\" height=\"20\"/><rect x=\"150\" y=\"102\" width=\"60\" height=\"20\"/><circle cx=\"134\" cy=\"38\" r=\"6\"/><circle cx=\"150\" cy=\"38\" r=\"6\"/><line x1=\"136\" y1=\"44\" x2=\"146\" y2=\"92\"/><line x1=\"148\" y1=\"44\" x2=\"138\" y2=\"92\"/></g><text x=\"70\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">切りつめる</text></svg>"
+  },
+  "etymology": "curt(短い。ラテン語 curtus)から。「尾(tail)を短く切った馬」を表す語と結びついてこのつづりになった → 長いものを短く切りつめる → (予算・活動・時間・権利などを)削減する・制限する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to limit something or make it last for a shorter time, especially spending or activities."
+    }
+  ],
+  "cautions": [
+    "curtail=予算・活動・自由などを途中でばっさり減らす・制限する(改まった語)/reduce=減らす(一般)/cut=削る(口語)",
+    "時間を「短く切り上げる」意味もある(curtail a visit=訪問を早めに切り上げる)",
+    "名詞 curtailment=削減・短縮",
+    "目的語は spending, freedom, rights, activities などの抽象名詞が多い"
+  ],
+  "patterns": [
+    {
+      "form": "curtail spending",
+      "meaning": "支出を削減する"
+    },
+    {
+      "form": "curtail A's freedom",
+      "meaning": "Aの自由を制限する"
+    },
+    {
+      "form": "curtail a visit",
+      "meaning": "訪問を早めに切り上げる"
+    },
+    {
+      "form": "be curtailed",
+      "meaning": "削減される"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "予算",
+      "en": "The city had to curtail spending on public services.",
+      "ja": "市は公共サービスへの支出を削減しなければならなかった。"
+    },
+    {
+      "source": "original",
+      "label": "自由",
+      "en": "The new law curtails the freedom of the press.",
+      "ja": "新しい法律は報道の自由を制限している。"
+    },
+    {
+      "source": "original",
+      "label": "切り上げる",
+      "en": "We curtailed our trip because of the bad weather.",
+      "ja": "悪天候のため旅行を早めに切り上げた。"
+    },
+    {
+      "source": "original",
+      "label": "活動",
+      "en": "The club's activities were curtailed during the exam period.",
+      "ja": "試験期間中はクラブの活動が制限された。"
+    },
+    {
+      "source": "original",
+      "label": "権利",
+      "en": "Some people fear that the plan will curtail workers' rights.",
+      "ja": "その計画が労働者の権利を狭めるのではと心配する人もいる。"
+    },
+    {
+      "source": "original",
+      "label": "エネルギー",
+      "en": "Factories were asked to curtail their use of electricity.",
+      "ja": "工場は電気の使用を減らすよう求められた。"
+    }
+  ],
+  "check_points": [
+    "curtail の目的語になりやすい語(spending・freedom など)を言えるか",
+    "curtail と reduce のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "難関大の長文で「(予算・自由を)削減・制限する」の意味で出る。reduce / limit の言いかえに。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2136
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "weaken",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈwiːkən/",
+  "core_image": {
+    "text": "支える力を少しずつ抜いて、もろくする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"36\" y=\"70\" width=\"30\" height=\"70\"/><line x1=\"84\" y1=\"104\" x2=\"136\" y2=\"104\"/><polyline points=\"129,100.2 136,104 129,107.8\"/><polyline points=\"172,140 166,122 176,106 168,90 174,70\"/><line x1=\"186\" y1=\"118\" x2=\"192\" y2=\"124\"/><line x1=\"188\" y1=\"96\" x2=\"196\" y2=\"98\"/></g><text x=\"172\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もろく</text></svg>"
+  },
+  "etymology": "weak(弱い)+ en(〜にする) → 弱くする → ①(体・力を)弱める・弱る ②(立場・影響力・決意を)弱める ③(通貨・経済が)弱くなる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make somebody or something less strong or powerful; to become less strong."
+    }
+  ],
+  "cautions": [
+    "自動詞(弱る)にも他動詞(弱める)にもなる",
+    "weaken=支える力をなくしてもろくする/lessen=程度・量を少なくする/diminish=小さくなる",
+    "反対語 strengthen",
+    "The yen weakened.=円安になった(通貨の強弱に使う)"
+  ],
+  "patterns": [
+    {
+      "form": "weaken A",
+      "meaning": "Aを弱める"
+    },
+    {
+      "form": "A weakens",
+      "meaning": "Aが弱まる"
+    },
+    {
+      "form": "weaken one's position",
+      "meaning": "立場を弱める"
+    },
+    {
+      "form": "a weakened immune system",
+      "meaning": "弱った免疫"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "体",
+      "en": "The long illness weakened him greatly.",
+      "ja": "長い病気で彼はひどく弱った。"
+    },
+    {
+      "source": "original",
+      "label": "嵐",
+      "en": "The typhoon weakened as it moved north.",
+      "ja": "台風は北へ進むにつれて弱まった。"
+    },
+    {
+      "source": "original",
+      "label": "立場",
+      "en": "The scandal weakened the minister's position.",
+      "ja": "そのスキャンダルで大臣の立場は弱くなった。"
+    },
+    {
+      "source": "original",
+      "label": "免疫",
+      "en": "Lack of sleep can weaken your immune system.",
+      "ja": "睡眠不足は免疫を弱めることがある。"
+    },
+    {
+      "source": "original",
+      "label": "決意",
+      "en": "Nothing could weaken her resolve.",
+      "ja": "どんなことも彼女の決意を弱めることはできなかった。"
+    },
+    {
+      "source": "original",
+      "label": "通貨",
+      "en": "The dollar weakened against the euro.",
+      "ja": "ドルがユーロに対して安くなった。"
+    }
+  ],
+  "check_points": [
+    "weaken の自動詞・他動詞の両方を使えるか",
+    "weaken と lessen のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文で「(体・立場・通貨が)弱まる」の意味で出る。strengthen との対で覚える。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2134
+    }
+  ]
+}

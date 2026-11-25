@@ -1,0 +1,94 @@
+{
+  "word": "widen",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈwaɪdn/",
+  "core_image": {
+    "text": "幅をぐっと横に広げる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"20,70 100,70 140,44 220,44\"/><polyline points=\"20,90 100,90 140,116 220,116\"/><line x1=\"180\" y1=\"80\" x2=\"180\" y2=\"54\"/><polyline points=\"176.2,61 180,54 183.8,61\"/><line x1=\"180\" y1=\"80\" x2=\"180\" y2=\"106\"/><polyline points=\"183.8,99 180,106 176.2,99\"/></g><text x=\"60\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">幅を広げる</text></svg>"
+  },
+  "etymology": "wide(幅が広い)+ en(〜にする) → 幅を広くする → ①(道・川などを)広げる・広がる ②(差・視野・範囲を)広げる・広がる ③(目が驚いて)大きく見開かれる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to become wider; to make something wider."
+    }
+  ],
+  "cautions": [
+    "widen=幅(横の広がり)を広げる/extend=先へ伸ばす/expand=全体がふくらんで大きくなる/broaden=視野・経験の幅を広げる",
+    "widen the gap between A and B=AとBの差を広げる(格差の話題で頻出)",
+    "自動詞(The river widens here.)にも他動詞にもなる",
+    "His eyes widened.=(驚いて)彼の目が大きく見開かれた"
+  ],
+  "patterns": [
+    {
+      "form": "widen A",
+      "meaning": "Aを広げる"
+    },
+    {
+      "form": "widen the gap between A and B",
+      "meaning": "AとBの差を広げる"
+    },
+    {
+      "form": "the gap widens",
+      "meaning": "差が広がる"
+    },
+    {
+      "form": "one's eyes widen",
+      "meaning": "目を見開く"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "道",
+      "en": "The city is going to widen the road next year.",
+      "ja": "市は来年その道路を拡幅する予定だ。"
+    },
+    {
+      "source": "original",
+      "label": "格差",
+      "en": "The gap between the rich and the poor is widening.",
+      "ja": "富む人と貧しい人の差が広がっている。"
+    },
+    {
+      "source": "original",
+      "label": "川",
+      "en": "The river widens as it approaches the sea.",
+      "ja": "その川は海に近づくにつれて幅が広くなる。"
+    },
+    {
+      "source": "original",
+      "label": "視野",
+      "en": "Studying abroad will widen your view of the world.",
+      "ja": "留学すれば世界の見方が広がるだろう。"
+    },
+    {
+      "source": "original",
+      "label": "目",
+      "en": "Her eyes widened in surprise.",
+      "ja": "彼女は驚いて目を見開いた。"
+    },
+    {
+      "source": "original",
+      "label": "範囲",
+      "en": "The police widened their search to the nearby town.",
+      "ja": "警察は捜索を近くの町まで広げた。"
+    }
+  ],
+  "check_points": [
+    "widen the gap between A and B を使えるか",
+    "widen・extend・expand のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "the gap widens(格差の拡大)が長文・グラフ問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2138
+    }
+  ]
+}
