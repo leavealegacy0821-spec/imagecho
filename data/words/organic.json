@@ -1,0 +1,89 @@
+{
+  "word": "organic",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ɔːrˈɡænɪk/",
+  "core_image": {
+    "text": "農薬などを使わず、自然のままに育てた",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"80\" y1=\"140\" x2=\"80\" y2=\"100\"/><path d=\"M80 110 Q60 90 56 100 Q66 112 80 110\"/><path d=\"M80 104 Q100 84 104 94 Q94 106 80 104\"/><line x1=\"140\" y1=\"60\" x2=\"200\" y2=\"120\"/><line x1=\"200\" y1=\"60\" x2=\"140\" y2=\"120\"/><rect x=\"150\" y=\"70\" width=\"40\" height=\"40\"/></g><text x=\"170\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">農薬なし</text></svg>"
+  },
+  "etymology": "ギリシャ語 organon(道具・器官。organ と同じ根) → 器官の・生物の → 生きものからできた(有機の) → 化学肥料・農薬を使わない(有機農業の)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "produced without artificial chemicals; relating to living things; developing in a natural way."
+    }
+  ],
+  "cautions": [
+    "organic food=有機食品(農薬・化学肥料を使わない)",
+    "organic chemistry=有機化学(生物の化学)",
+    "organ=器官・オルガン",
+    "organic growth=自然な成長"
+  ],
+  "patterns": [
+    {
+      "form": "organic food",
+      "meaning": "有機食品"
+    },
+    {
+      "form": "organic farming",
+      "meaning": "有機農業"
+    },
+    {
+      "form": "organic matter",
+      "meaning": "有機物"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "有機の",
+      "en": "We try to buy organic vegetables.",
+      "ja": "私たちは有機野菜を買うようにしている。"
+    },
+    {
+      "source": "original",
+      "label": "有機農業",
+      "en": "Organic farming is better for the environment.",
+      "ja": "有機農業は環境によりよい。"
+    },
+    {
+      "source": "original",
+      "label": "有機物",
+      "en": "The soil is rich in organic matter.",
+      "ja": "その土は有機物が豊富だ。"
+    },
+    {
+      "source": "original",
+      "label": "高い",
+      "en": "Organic food is often more expensive.",
+      "ja": "有機食品はたいてい値段が高い。"
+    },
+    {
+      "source": "original",
+      "label": "自然な",
+      "en": "The company grew in an organic way.",
+      "ja": "その会社は自然な形で成長した。"
+    },
+    {
+      "source": "original",
+      "label": "化学",
+      "en": "He is studying organic chemistry.",
+      "ja": "彼は有機化学を学んでいる。"
+    }
+  ],
+  "check_points": [
+    "organic food の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "organic farming が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1794
+    }
+  ]
+}

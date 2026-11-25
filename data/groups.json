@@ -2739,7 +2739,7 @@
     },
     {
       "title": "使い分け:におい・味",
-      "note": "smell=鼻で感じるにおい(広い・smell+形容詞) ／ sniff=くんくん短く吸ってかぐ ／ scent=ふわりとただようほのかなよい香り ／ aroma=食べ物から立ついい香り ／ fragrance=花・香水のあまく上品な芳香 ／ odor=はっきり感じるいやなにおい ／ stink=鼻がまがるほどの悪臭 ／ taste=味(感覚) ／ flavor=その食べ物ならではの風味 ／ sweet=あまい ／ sour=すっぱい ／ bitter=苦い",
+      "note": "smell=鼻で感じるにおい(広い・smell+形容詞) ／ sniff=くんくん短く吸ってかぐ ／ scent=ふわりとただようほのかなよい香り ／ aroma=食べ物から立ついい香り ／ fragrance=花・香水のあまく上品な芳香 ／ odor=はっきり感じるいやなにおい ／ stink=鼻がまがるほどの悪臭 ／ taste=味(感覚) ／ flavor=その食べ物ならではの風味 ／ sweet=あまい ／ sour=すっぱい ／ bitter=苦い ／ delicious=とてもおいしい(very はつけない) ／ tasty=しっかり味があってうまい(tasteful=上品な) ／ salty=しょっぱい ／ spicy=香辛料でぴりっと辛い",
       "words": [
         "smell",
         "sniff",
@@ -2752,7 +2752,11 @@
         "flavor",
         "sweet",
         "sour",
-        "bitter"
+        "bitter",
+        "delicious",
+        "tasty",
+        "salty",
+        "spicy"
       ]
     },
     {
@@ -3102,6 +3106,18 @@
         "nutrient",
         "protein",
         "calorie"
+      ]
+    },
+    {
+      "title": "使い分け:食べ物の状態",
+      "note": "fresh=とれたて・できたてで新しい ／ raw=火も手も加えていないなまのまま(raw materials=原料) ／ ripe=じゅうぶん育って食べごろ ／ stale=時間がたって新しさが消えた(かたい・よどんだ) ／ rotten=ぐずぐずにくさった ／ organic=農薬を使わず自然のままに育てた",
+      "words": [
+        "fresh",
+        "raw",
+        "ripe",
+        "stale",
+        "rotten",
+        "organic"
       ]
     },
     {

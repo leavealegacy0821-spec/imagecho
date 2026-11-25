@@ -1,0 +1,93 @@
+{
+  "word": "stale",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/steɪl/",
+  "core_image": {
+    "text": "時間がたって、新しさが消えた",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"70\" y=\"70\" width=\"100\" height=\"50\"/><path d=\"M70 70 Q70 50 90 50 L150 50 Q170 50 170 70\"/><line x1=\"90\" y1=\"86\" x2=\"110\" y2=\"96\"/><line x1=\"130\" y1=\"84\" x2=\"150\" y2=\"100\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">カチカチ</text></svg>"
+  },
+  "etymology": "古フランス語 estale(動かない・止まった) → (時間がたって)新しさがない → (パンが)かたくなった・(空気が)よどんだ → (話が)陳腐な",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "(of food) no longer fresh; (of air) not fresh; no longer interesting because it is too old or familiar."
+    }
+  ],
+  "cautions": [
+    "fresh⇔stale",
+    "stale=(パン・菓子が)古くなってかたい・しけた/rotten=くさった",
+    "stale air=よどんだ空気",
+    "stale news [jokes]=古くさいニュース[冗談]"
+  ],
+  "patterns": [
+    {
+      "form": "stale bread",
+      "meaning": "かたくなったパン"
+    },
+    {
+      "form": "stale air",
+      "meaning": "よどんだ空気"
+    },
+    {
+      "form": "go stale",
+      "meaning": "古くなる"
+    },
+    {
+      "form": "a stale joke",
+      "meaning": "言い古された冗談"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "かたい",
+      "en": "This bread is stale.",
+      "ja": "このパンはかたくなっている。"
+    },
+    {
+      "source": "original",
+      "label": "よどんだ",
+      "en": "Open the window. The air is stale.",
+      "ja": "窓を開けて。空気がよどんでいる。"
+    },
+    {
+      "source": "original",
+      "label": "しける",
+      "en": "The cookies went stale.",
+      "ja": "クッキーがしけてしまった。"
+    },
+    {
+      "source": "original",
+      "label": "古くさい",
+      "en": "His jokes are stale.",
+      "ja": "彼の冗談は古くさい。"
+    },
+    {
+      "source": "original",
+      "label": "マンネリ",
+      "en": "I felt stale after studying all day.",
+      "ja": "一日中勉強して頭が働かなくなった。"
+    },
+    {
+      "source": "original",
+      "label": "対比",
+      "en": "Fresh bread is soft, but stale bread is hard.",
+      "ja": "焼きたてのパンはやわらかいが、古いパンはかたい。"
+    }
+  ],
+  "check_points": [
+    "fresh の反対としての stale がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "fresh / stale の対が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1793
+    }
+  ]
+}

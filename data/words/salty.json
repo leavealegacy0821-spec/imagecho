@@ -1,0 +1,88 @@
+{
+  "word": "salty",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈsɔːlti/",
+  "core_image": {
+    "text": "塩気がきいて、しょっぱい",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"90\" y=\"30\" width=\"40\" height=\"60\"/><path d=\"M90 30 Q110 14 130 30\"/><circle cx=\"104\" cy=\"22\" r=\"2\"/><circle cx=\"116\" cy=\"22\" r=\"2\"/><circle cx=\"104\" cy=\"104\" r=\"2\"/><circle cx=\"116\" cy=\"112\" r=\"2\"/><circle cx=\"110\" cy=\"122\" r=\"2\"/><ellipse cx=\"110\" cy=\"134\" rx=\"50\" ry=\"8\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しょっぱい</text></svg>"
+  },
+  "etymology": "salt(塩) + -y(〜がある) → 塩気がある・しょっぱい",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "containing or tasting of salt."
+    }
+  ],
+  "cautions": [
+    "sweet=あまい/sour=すっぱい/bitter=苦い/salty=しょっぱい/spicy=辛い(ぴりっ)/hot=辛い(口語)",
+    "salt water=海水(salty water とも)",
+    "salt(名詞)=塩/salty(形容詞)=塩からい"
+  ],
+  "patterns": [
+    {
+      "form": "salty food",
+      "meaning": "しょっぱい食べ物"
+    },
+    {
+      "form": "too salty",
+      "meaning": "しょっぱすぎる"
+    },
+    {
+      "form": "salty sea air",
+      "meaning": "潮の香りのする空気"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "しょっぱい",
+      "en": "This soup is too salty.",
+      "ja": "このスープはしょっぱすぎる。"
+    },
+    {
+      "source": "original",
+      "label": "体に",
+      "en": "Eating salty food raises blood pressure.",
+      "ja": "塩からい物を食べると血圧が上がる。"
+    },
+    {
+      "source": "original",
+      "label": "のど",
+      "en": "Salty snacks make you thirsty.",
+      "ja": "塩味のお菓子はのどがかわく。"
+    },
+    {
+      "source": "original",
+      "label": "海",
+      "en": "We could smell the salty sea air.",
+      "ja": "潮の香りがした。"
+    },
+    {
+      "source": "original",
+      "label": "涙",
+      "en": "Tears taste salty.",
+      "ja": "涙はしょっぱい味がする。"
+    },
+    {
+      "source": "original",
+      "label": "控える",
+      "en": "Doctors say we should eat less salty food.",
+      "ja": "医者はしょっぱい物を控えるべきだと言う。"
+    }
+  ],
+  "check_points": [
+    "味を表す形容詞(sweet / sour / bitter / salty / spicy)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "味の形容詞が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1797
+    }
+  ]
+}
