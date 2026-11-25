@@ -1,0 +1,98 @@
+{
+  "word": "ascend",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈsend/",
+  "core_image": {
+    "text": "段を追って、上へ上へとのぼっていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"40,140 40,120 80,120 80,100 120,100 120,80 160,80 160,60 200,60\"/><line x1=\"60\" y1=\"100\" x2=\"180\" y2=\"40\"/><polyline points=\"172,39.7 180,40 175.4,46.6\"/></g><text x=\"90\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">上へのぼる</text></svg>"
+  },
+  "etymology": "a(〜へ)+scend(のぼる) → 上へのぼる → (階段・山・地位を)のぼる・(王位に)就く → 反対は descend(de=下へ) → 名詞 ascent(上昇)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to go up or climb; to move to a higher position."
+    }
+  ],
+  "cautions": [
+    "climb=手足でよじ登る(日常)/ascend=のぼる(堅く、正式・文章語)",
+    "反対語 descend とセットで覚える(ascent ⇔ descent)",
+    "in ascending order=小さい順に(⇔ in descending order=大きい順に)",
+    "ascend the throne=王位につく"
+  ],
+  "patterns": [
+    {
+      "form": "ascend A",
+      "meaning": "Aをのぼる"
+    },
+    {
+      "form": "ascend to A",
+      "meaning": "Aまでのぼる"
+    },
+    {
+      "form": "in ascending order",
+      "meaning": "小さい(低い)順に"
+    },
+    {
+      "form": "ascend the throne",
+      "meaning": "王位につく"
+    },
+    {
+      "form": "the ascent of A",
+      "meaning": "Aの登頂・上昇"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "のぼる",
+      "en": "The climbers ascended the mountain in six hours.",
+      "ja": "登山者たちは6時間でその山を登った。"
+    },
+    {
+      "source": "original",
+      "label": "のぼる",
+      "en": "We slowly ascended the stone steps to the temple.",
+      "ja": "私たちはお寺への石段をゆっくりのぼった。"
+    },
+    {
+      "source": "original",
+      "label": "上昇する",
+      "en": "The plane ascended into the clouds.",
+      "ja": "飛行機は雲の中へ上昇していった。"
+    },
+    {
+      "source": "original",
+      "label": "小さい順に",
+      "en": "List the numbers in ascending order.",
+      "ja": "数を小さい順に並べなさい。"
+    },
+    {
+      "source": "original",
+      "label": "王位につく",
+      "en": "She ascended the throne at the age of 18.",
+      "ja": "彼女は18歳で王位についた。"
+    },
+    {
+      "source": "original",
+      "label": "登頂",
+      "en": "Their ascent of Everest made history.",
+      "ja": "彼らのエベレスト登頂は歴史に残った。"
+    }
+  ],
+  "check_points": [
+    "ascend と descend の対を言えるか",
+    "in ascending order の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "ascend / descend の対、ascending order が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1074
+    }
+  ]
+}

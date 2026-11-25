@@ -1,0 +1,103 @@
+{
+  "word": "climb",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/klaɪm/",
+  "core_image": {
+    "text": "手足を使って、一歩ずつよじ登る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"150\" y1=\"20\" x2=\"150\" y2=\"140\"/><circle cx=\"132\" cy=\"50\" r=\"10\"/><line x1=\"132\" y1=\"60\" x2=\"132\" y2=\"104\"/><line x1=\"132\" y1=\"70\" x2=\"150\" y2=\"50\"/><line x1=\"132\" y1=\"78\" x2=\"150\" y2=\"82\"/><line x1=\"132\" y1=\"104\" x2=\"150\" y2=\"116\"/><line x1=\"132\" y1=\"104\" x2=\"124\" y2=\"134\"/><line x1=\"190\" y1=\"120\" x2=\"190\" y2=\"40\"/><polyline points=\"186.2,47 190,40 193.8,47\"/></g><text x=\"70\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">よじ登る</text></svg>"
+  },
+  "etymology": "古い英語 climban(しがみついて登る) → 手足を使ってよじ登る → (坂・階段を)のぼる → (数値・地位が)少しずつ上がる → climb down=(主張から)引き下がる ※ b は発音しない",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to go up something using your hands and feet; to move up; to increase in number or level gradually."
+    },
+    {
+      "pos": "名詞",
+      "text": "an act of climbing; an increase."
+    }
+  ],
+  "cautions": [
+    "b は読まない(クライム)。climber(登山者)も同じ",
+    "climb a mountain=山に登る(他動詞。climb up も可)",
+    "数値が「(じわじわ)上がる」:Unemployment climbed to 5%.(soar は急上昇)",
+    "climb into [out of] A=A(車・ベッド)に乗り込む[から這い出る]"
+  ],
+  "patterns": [
+    {
+      "form": "climb A",
+      "meaning": "Aに登る"
+    },
+    {
+      "form": "climb up [down] A",
+      "meaning": "Aをよじ登る[降りる]"
+    },
+    {
+      "form": "climb into A",
+      "meaning": "Aに乗り込む"
+    },
+    {
+      "form": "A climbs to B",
+      "meaning": "AがBまで上昇する"
+    },
+    {
+      "form": "the climb to A",
+      "meaning": "Aへの上昇・登り"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "登る",
+      "en": "We climbed Mt. Fuji last summer.",
+      "ja": "昨年の夏、富士山に登った。"
+    },
+    {
+      "source": "original",
+      "label": "よじ登る",
+      "en": "The cat climbed up the tree and couldn't come down.",
+      "ja": "猫は木によじ登って降りられなくなった。"
+    },
+    {
+      "source": "original",
+      "label": "乗り込む",
+      "en": "He climbed into the car and drove away.",
+      "ja": "彼は車に乗り込んで走り去った。"
+    },
+    {
+      "source": "original",
+      "label": "上昇する",
+      "en": "The number of tourists climbed steadily over the decade.",
+      "ja": "観光客の数はその10年で着実に増えた。"
+    },
+    {
+      "source": "original",
+      "label": "上昇する",
+      "en": "The temperature climbed to 35 degrees by noon.",
+      "ja": "正午までに気温は35度まで上がった。"
+    },
+    {
+      "source": "original",
+      "label": "昇進",
+      "en": "His climb to the top of the company took 30 years.",
+      "ja": "彼が会社のトップまで上り詰めるのに30年かかった。"
+    }
+  ],
+  "check_points": [
+    "climb の b を読まないことがわかるか",
+    "climb と soar のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "発音(b 黙字)、数値の上昇の意味が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1073
+    }
+  ]
+}

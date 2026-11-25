@@ -1,0 +1,94 @@
+{
+  "word": "plummet",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈplʌmɪt/",
+  "core_image": {
+    "text": "おもりのように、まっすぐ一気に落ちる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"20,30 60,32 100,36 130,40 150,90 170,130 220,132\"/><line x1=\"130\" y1=\"20\" x2=\"130\" y2=\"34\"/><polygon points=\"124,34 136,34 130,46\"/></g><text x=\"70\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">一気に急落</text></svg>"
+  },
+  "etymology": "古いフランス語 plommet(鉛のおもり。plumber=配管工 と同じ「鉛」の根) → 測深用の鉛のおもり → おもりのようにまっすぐ落ちる → (価格・数値・人気が)急落する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to fall very quickly and suddenly from a high level or position."
+    }
+  ],
+  "cautions": [
+    "fall < drop < plunge ≒ plummet:plummet は「底まで一気に」の強い急落",
+    "soar(急上昇)と反対のペアで覚える",
+    "グラフ・ニュースの定番:Profits plummeted.=利益が激減した",
+    "自動詞。「〜を急落させる」とは言わない"
+  ],
+  "patterns": [
+    {
+      "form": "A plummets",
+      "meaning": "Aが急落する"
+    },
+    {
+      "form": "plummet to A",
+      "meaning": "Aまで急落する"
+    },
+    {
+      "form": "plummet by A",
+      "meaning": "A(の幅)だけ急落する"
+    },
+    {
+      "form": "plummeting",
+      "meaning": "急落している"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "急落する",
+      "en": "The company's profits plummeted last year.",
+      "ja": "その会社の利益は昨年激減した。"
+    },
+    {
+      "source": "original",
+      "label": "急落する",
+      "en": "Temperatures plummeted to minus 20 degrees at night.",
+      "ja": "夜には気温がマイナス20度まで急に下がった。"
+    },
+    {
+      "source": "original",
+      "label": "落下する",
+      "en": "The rock plummeted to the bottom of the valley.",
+      "ja": "岩は谷底へまっさかさまに落ちた。"
+    },
+    {
+      "source": "original",
+      "label": "急落する",
+      "en": "His popularity plummeted after the scandal.",
+      "ja": "その不祥事のあと彼の人気は急落した。"
+    },
+    {
+      "source": "original",
+      "label": "急落する",
+      "en": "The number of births has plummeted in many countries.",
+      "ja": "多くの国で出生数が急減している。"
+    },
+    {
+      "source": "original",
+      "label": "急落している",
+      "en": "Investors were worried about plummeting share prices.",
+      "ja": "投資家たちは急落する株価を心配していた。"
+    }
+  ],
+  "check_points": [
+    "plummet と soar の対を言えるか",
+    "plummet が自動詞であることがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "数値の急落がグラフ・時事の長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1077
+    }
+  ]
+}

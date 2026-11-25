@@ -1,0 +1,94 @@
+{
+  "word": "fluctuate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈflʌktʃueɪt/",
+  "core_image": {
+    "text": "波のように、上がったり下がったりする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"20,90 40,60 60,100 80,50 100,96 120,64 140,104 160,54 180,92 200,70 220,84\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">上下に揺れる</text></svg>"
+  },
+  "etymology": "ラテン語 fluctus(波。flow・fluid と同じ流れの根) → 波のように上下する → (価格・気温・数値・気分が)変動する → 名詞 fluctuation(変動)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to change often, going up and down in amount, level or value."
+    }
+  ],
+  "cautions": [
+    "vary=いろいろに変わる(ばらつき)/fluctuate=時間の中で上がったり下がったりをくり返す",
+    "fluctuate between A and B=AとBの間を行き来する(グラフ問題で定番)",
+    "名詞 fluctuation(s):price fluctuations=価格変動",
+    "自動詞。主語は価格・気温・数値・気分など"
+  ],
+  "patterns": [
+    {
+      "form": "A fluctuates",
+      "meaning": "Aが変動する"
+    },
+    {
+      "form": "fluctuate between A and B",
+      "meaning": "AとBの間で変動する"
+    },
+    {
+      "form": "fluctuate wildly",
+      "meaning": "大きく変動する"
+    },
+    {
+      "form": "fluctuations in A",
+      "meaning": "Aの変動"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "変動する",
+      "en": "Vegetable prices fluctuate with the weather.",
+      "ja": "野菜の値段は天候によって変動する。"
+    },
+    {
+      "source": "original",
+      "label": "間で変動する",
+      "en": "The temperature fluctuated between 10 and 25 degrees.",
+      "ja": "気温は10度から25度の間で上下した。"
+    },
+    {
+      "source": "original",
+      "label": "大きく変動する",
+      "en": "The exchange rate fluctuated wildly last week.",
+      "ja": "先週、為替レートが大きく変動した。"
+    },
+    {
+      "source": "original",
+      "label": "揺れる",
+      "en": "His mood fluctuates from day to day.",
+      "ja": "彼の気分は日によって変わる。"
+    },
+    {
+      "source": "original",
+      "label": "変動",
+      "en": "Small fluctuations in sales are normal.",
+      "ja": "売上の小さな変動はふつうのことだ。"
+    },
+    {
+      "source": "original",
+      "label": "上下する",
+      "en": "The number of visitors fluctuated throughout the year.",
+      "ja": "訪問者の数は1年を通じて上下した。"
+    }
+  ],
+  "check_points": [
+    "fluctuate between A and B の意味を言えるか",
+    "vary と fluctuate のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "グラフ・データの説明で「変動する」が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1079
+    }
+  ]
+}

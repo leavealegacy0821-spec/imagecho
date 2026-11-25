@@ -1,0 +1,108 @@
+{
+  "word": "peak",
+  "pos": [
+    "名詞",
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/piːk/",
+  "core_image": {
+    "text": "山のとがった頂点、いちばん高いところ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"20,130 60,110 100,70 120,40 140,70 180,110 220,130\"/><circle cx=\"120\" cy=\"40\" r=\"5\"/></g><text x=\"180\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">てっぺん</text></svg>"
+  },
+  "etymology": "先のとがったもの → とがった山頂 → (数値・活動・能力の)最高点・ピーク → (動詞)最高点に達する → (形容詞)最高の・最も混む(peak hours)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the pointed top of a mountain; the time when something is at its highest level or best."
+    },
+    {
+      "pos": "動詞",
+      "text": "to reach the highest level."
+    },
+    {
+      "pos": "形容詞",
+      "text": "used to describe the time when the greatest number of people do something."
+    }
+  ],
+  "cautions": [
+    "名詞 at its peak=最高点で・最盛期で/reach a peak=ピークに達する",
+    "動詞 peak at A=Aで最高に達する(グラフ問題の定番:peaked at 80% in 2010)",
+    "形容詞 peak hours [season]=最も混む時間帯[繁忙期](⇔ off-peak)",
+    "peek(のぞき見る)・pique とつづりがちがう同音語"
+  ],
+  "patterns": [
+    {
+      "form": "at its peak",
+      "meaning": "最高潮で"
+    },
+    {
+      "form": "reach a peak",
+      "meaning": "ピークに達する"
+    },
+    {
+      "form": "peak at A",
+      "meaning": "Aで最高に達する"
+    },
+    {
+      "form": "peak hours",
+      "meaning": "混雑時間帯"
+    },
+    {
+      "form": "the peak of A",
+      "meaning": "Aの頂上・最盛期"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "頂上",
+      "en": "The peak of the mountain was covered with snow.",
+      "ja": "山頂は雪でおおわれていた。"
+    },
+    {
+      "source": "original",
+      "label": "最高に達する",
+      "en": "The number of visitors peaked at 2 million in 2019.",
+      "ja": "訪問者数は2019年に200万人で最高に達した。"
+    },
+    {
+      "source": "original",
+      "label": "ピークに達する",
+      "en": "Traffic reaches its peak around 8 a.m.",
+      "ja": "交通量は午前8時ごろにピークに達する。"
+    },
+    {
+      "source": "original",
+      "label": "最盛期",
+      "en": "The singer was at the peak of her career in the 1990s.",
+      "ja": "その歌手は1990年代にキャリアの絶頂期にあった。"
+    },
+    {
+      "source": "original",
+      "label": "混雑時間帯",
+      "en": "Trains are very crowded during peak hours.",
+      "ja": "混雑時間帯の電車はとても混んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "最高の",
+      "en": "Athletes try to be in peak condition for the Olympics.",
+      "ja": "選手たちはオリンピックに最高の状態で臨もうとする。"
+    }
+  ],
+  "check_points": [
+    "peak at A の意味を言えるか",
+    "peak hours の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "グラフの「最高点」(peak at)、peak hours が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1080
+    }
+  ]
+}

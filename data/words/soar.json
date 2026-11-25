@@ -1,0 +1,98 @@
+{
+  "word": "soar",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/sɔːr/",
+  "core_image": {
+    "text": "翼を広げて、空高くぐんぐん舞い上がる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"20,130 60,124 100,110 140,80 180,40 220,20\"/><path d=\"M150 56 Q160 46 170 56 Q180 46 190 56\"/></g><text x=\"70\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">急上昇</text></svg>"
+  },
+  "etymology": "ラテン語 ex(外へ)+aura(空気) → 空中へ舞い上がる → (鳥・飛行機が)高く飛ぶ → (値段・数・気温が)急上昇する → (気持ちが)高まる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to rise quickly to a very high level; (of a bird or plane) to fly high in the air."
+    }
+  ],
+  "cautions": [
+    "rise=上がる(ふつう)/soar=ぐんぐん急上昇して高いところまで行く(価格・気温・人気)",
+    "グラフ・ニュース英語の定番:Prices soared.=物価が高騰した",
+    "soaring=急上昇している(soaring prices)",
+    "鳥・飛行機が「高く舞う」意味もある"
+  ],
+  "patterns": [
+    {
+      "form": "A soars",
+      "meaning": "Aが急上昇する"
+    },
+    {
+      "form": "soar to A",
+      "meaning": "Aまで急上昇する"
+    },
+    {
+      "form": "soar by A",
+      "meaning": "A(の幅)だけ急上昇する"
+    },
+    {
+      "form": "soaring prices",
+      "meaning": "高騰する物価"
+    },
+    {
+      "form": "soar into the sky",
+      "meaning": "空へ舞い上がる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "高騰する",
+      "en": "Food prices soared after the bad harvest.",
+      "ja": "不作のあと食料品の価格が高騰した。"
+    },
+    {
+      "source": "original",
+      "label": "急上昇する",
+      "en": "The temperature soared to 39 degrees.",
+      "ja": "気温は39度まで急上昇した。"
+    },
+    {
+      "source": "original",
+      "label": "急上昇する",
+      "en": "Sales of electric cars have soared in recent years.",
+      "ja": "近年、電気自動車の販売が急増している。"
+    },
+    {
+      "source": "original",
+      "label": "舞い上がる",
+      "en": "An eagle soared high above the valley.",
+      "ja": "ワシが谷の上空高く舞い上がった。"
+    },
+    {
+      "source": "original",
+      "label": "高まる",
+      "en": "Her hopes soared when she heard the news.",
+      "ja": "その知らせを聞いて彼女の期待は大きくふくらんだ。"
+    },
+    {
+      "source": "original",
+      "label": "高騰",
+      "en": "Soaring energy costs are a problem for many families.",
+      "ja": "高騰するエネルギー費用は多くの家庭の悩みだ。"
+    }
+  ],
+  "check_points": [
+    "rise と soar のちがいを言えるか",
+    "soaring prices の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "価格・数値の「急上昇」がグラフ・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1071
+    }
+  ]
+}

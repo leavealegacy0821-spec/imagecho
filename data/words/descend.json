@@ -1,0 +1,98 @@
+{
+  "word": "descend",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈsend/",
+  "core_image": {
+    "text": "上から下へ、段を追っておりていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"40,60 80,60 80,80 120,80 120,100 160,100 160,120 200,120 200,140\"/><line x1=\"60\" y1=\"40\" x2=\"180\" y2=\"100\"/><polyline points=\"175.4,93.4 180,100 172,100.3\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">下へおりる</text></svg>"
+  },
+  "etymology": "de(下へ)+scend(のぼる・登り降りする) → 下へおりる → (坂・階段を)おりる/(夜・沈黙が)降りてくる → (親から子へ)下っていく=〜の子孫である(be descended from A) → 名詞 descendant(子孫)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to go down; to come from an earlier family or group (be descended from); (of darkness or silence) to come."
+    }
+  ],
+  "cautions": [
+    "be descended from A=Aの子孫である(受け身の形で出る)",
+    "名詞 descendant=子孫(⇔ ancestor=祖先)/descent=下降・家系",
+    "go down の堅い言い方。反対は ascend",
+    "比ゆ:Silence descended on the room.=部屋がしんと静まった"
+  ],
+  "patterns": [
+    {
+      "form": "descend A",
+      "meaning": "Aをおりる"
+    },
+    {
+      "form": "descend from A",
+      "meaning": "Aからおりる"
+    },
+    {
+      "form": "be descended from A",
+      "meaning": "Aの子孫である"
+    },
+    {
+      "form": "in descending order",
+      "meaning": "大きい(高い)順に"
+    },
+    {
+      "form": "A descends on B",
+      "meaning": "A(夜・静けさ)がBに降りてくる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "おりる",
+      "en": "The plane began to descend toward the airport.",
+      "ja": "飛行機は空港に向けて降下し始めた。"
+    },
+    {
+      "source": "original",
+      "label": "おりる",
+      "en": "She slowly descended the stairs.",
+      "ja": "彼女はゆっくりと階段をおりた。"
+    },
+    {
+      "source": "original",
+      "label": "子孫である",
+      "en": "He claims to be descended from a famous samurai.",
+      "ja": "彼は有名な侍の子孫だと言っている。"
+    },
+    {
+      "source": "original",
+      "label": "子孫",
+      "en": "The descendants of the immigrants still live in the town.",
+      "ja": "移民の子孫たちは今もその町に住んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "大きい順に",
+      "en": "The countries are listed in descending order of population.",
+      "ja": "国々は人口の多い順に並べられている。"
+    },
+    {
+      "source": "original",
+      "label": "降りてくる",
+      "en": "Darkness descended on the village.",
+      "ja": "村に夜のとばりが降りた。"
+    }
+  ],
+  "check_points": [
+    "be descended from A の意味を言えるか",
+    "descendant と ancestor の対を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be descended from、descendant(子孫)が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1075
+    }
+  ]
+}
