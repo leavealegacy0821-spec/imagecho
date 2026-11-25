@@ -1,0 +1,98 @@
+{
+  "word": "stage",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/steɪdʒ/",
+  "core_image": {
+    "text": "(順に進む)段階・(上に立つ)舞台",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"120\" width=\"50\" height=\"20\"/><rect x=\"90\" y=\"100\" width=\"50\" height=\"40\"/><rect x=\"150\" y=\"80\" width=\"60\" height=\"60\"/><circle cx=\"180\" cy=\"56\" r=\"8\"/><line x1=\"180\" y1=\"64\" x2=\"180\" y2=\"72\"/><line x1=\"180\" y1=\"72\" x2=\"174\" y2=\"80\"/><line x1=\"180\" y1=\"72\" x2=\"186\" y2=\"80\"/><line x1=\"20\" y1=\"140\" x2=\"220\" y2=\"140\"/></g><text x=\"60\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">だんかい</text></svg>"
+  },
+  "etymology": "ラテン語 stare(立つ) → 立つ場所 → 舞台 → (旅・成長の)ひと区切り=段階 → (動詞)上演する・(デモなどを)行う",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a particular point or period in a process; a raised area where people perform."
+    },
+    {
+      "pos": "動詞",
+      "text": "to organize an event; to perform a play."
+    }
+  ],
+  "cautions": [
+    "at this stage=この段階では",
+    "in stages=段階的に",
+    "on stage=舞台の上で",
+    "stage A=A(劇・行事)を上演する・行う"
+  ],
+  "patterns": [
+    {
+      "form": "at an early stage",
+      "meaning": "早い段階で"
+    },
+    {
+      "form": "in stages",
+      "meaning": "段階的に"
+    },
+    {
+      "form": "on stage",
+      "meaning": "舞台で"
+    },
+    {
+      "form": "stage a protest",
+      "meaning": "抗議行動を行う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "段階",
+      "en": "At this stage, we don't know the cause.",
+      "ja": "この段階では原因はわからない。"
+    },
+    {
+      "source": "original",
+      "label": "段階的",
+      "en": "The work will be done in stages.",
+      "ja": "作業は段階的に行われる。"
+    },
+    {
+      "source": "original",
+      "label": "舞台",
+      "en": "She sang on stage.",
+      "ja": "彼女は舞台で歌った。"
+    },
+    {
+      "source": "original",
+      "label": "早期",
+      "en": "The disease was found at an early stage.",
+      "ja": "その病気は早い段階で見つかった。"
+    },
+    {
+      "source": "original",
+      "label": "行う",
+      "en": "Students staged a protest.",
+      "ja": "学生たちは抗議行動を起こした。"
+    },
+    {
+      "source": "original",
+      "label": "上演",
+      "en": "The school staged a musical.",
+      "ja": "その学校はミュージカルを上演した。"
+    }
+  ],
+  "check_points": [
+    "at this stage と on stage の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "at an early stage が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2337
+    }
+  ]
+}

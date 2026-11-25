@@ -1,0 +1,89 @@
+{
+  "word": "disadvantage",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˌdɪsədˈvæntɪdʒ/",
+  "core_image": {
+    "text": "ほかより不利になる点(短所・不利)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><rect x=\"160\" y=\"110\" width=\"40\" height=\"30\"/><line x1=\"100\" y1=\"60\" x2=\"140\" y2=\"60\" stroke-dasharray=\"3 3\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふり</text></svg>"
+  },
+  "etymology": "dis-(〜でない) + advantage(有利な点:ラテン語 abante=前に) → 前に出られない点=不利",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "something that makes a situation more difficult; a bad feature."
+    }
+  ],
+  "cautions": [
+    "advantage⇔disadvantage",
+    "be at a disadvantage=不利な立場にある",
+    "advantages and disadvantages=長所と短所(=pros and cons)",
+    "drawback=(計画・物の)欠点"
+  ],
+  "patterns": [
+    {
+      "form": "be at a disadvantage",
+      "meaning": "不利な立場にある"
+    },
+    {
+      "form": "advantages and disadvantages",
+      "meaning": "長所と短所"
+    },
+    {
+      "form": "the disadvantage of A",
+      "meaning": "Aの欠点"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "不利",
+      "en": "Players without experience are at a disadvantage.",
+      "ja": "経験のない選手は不利だ。"
+    },
+    {
+      "source": "original",
+      "label": "長所短所",
+      "en": "Let's discuss the advantages and disadvantages of city life.",
+      "ja": "都会の生活の長所と短所を話し合おう。"
+    },
+    {
+      "source": "original",
+      "label": "欠点",
+      "en": "One disadvantage of this car is its size.",
+      "ja": "この車の欠点の1つは大きさだ。"
+    },
+    {
+      "source": "original",
+      "label": "不利益",
+      "en": "Poor children are often at a disadvantage in education.",
+      "ja": "貧しい子どもは教育で不利な立場にあることが多い。"
+    },
+    {
+      "source": "original",
+      "label": "有利",
+      "en": "Being tall is an advantage in basketball.",
+      "ja": "背が高いのはバスケでは有利だ。"
+    },
+    {
+      "source": "original",
+      "label": "賛否",
+      "en": "We weighed the pros and cons.",
+      "ja": "賛否を比べた。"
+    }
+  ],
+  "check_points": [
+    "be at a disadvantage の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "advantages and disadvantages が英作文・長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2328
+    }
+  ]
+}

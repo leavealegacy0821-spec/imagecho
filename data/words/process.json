@@ -1,0 +1,98 @@
+{
+  "word": "process",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈprɑːses/",
+  "core_image": {
+    "text": "結果にいたるまで進んでいく道すじ(過程)・処理する",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"20\" y=\"64\" width=\"40\" height=\"32\"/><line x1=\"64\" y1=\"80\" x2=\"90\" y2=\"80\"/><polyline points=\"83,76.2 90,80 83,83.8\"/><rect x=\"94\" y=\"64\" width=\"40\" height=\"32\"/><line x1=\"138\" y1=\"80\" x2=\"164\" y2=\"80\"/><polyline points=\"157,76.2 164,80 157,83.8\"/><rect x=\"168\" y=\"64\" width=\"50\" height=\"32\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かてい</text></svg>"
+  },
+  "etymology": "ラテン語 procedere(pro-=前へ + cedere=進む:proceed と同じ根) → 前へ進むこと → 過程・手順 → (動詞)処理する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a series of actions or changes to achieve a result."
+    },
+    {
+      "pos": "動詞",
+      "text": "to deal with information or documents; to treat raw material."
+    }
+  ],
+  "cautions": [
+    "process=(結果までの)過程・手順",
+    "in the process of doing=〜している最中で",
+    "process A=Aを処理する・加工する(processed food=加工食品)",
+    "proceed=進む(同じ根)"
+  ],
+  "patterns": [
+    {
+      "form": "the process of A",
+      "meaning": "Aの過程"
+    },
+    {
+      "form": "in the process of doing",
+      "meaning": "〜している最中で"
+    },
+    {
+      "form": "process A",
+      "meaning": "Aを処理する"
+    },
+    {
+      "form": "processed food",
+      "meaning": "加工食品"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "過程",
+      "en": "Learning a language is a slow process.",
+      "ja": "言語の習得はゆっくりした過程だ。"
+    },
+    {
+      "source": "original",
+      "label": "最中",
+      "en": "We are in the process of moving.",
+      "ja": "私たちは引っ越しの最中だ。"
+    },
+    {
+      "source": "original",
+      "label": "処理",
+      "en": "The computer processes data quickly.",
+      "ja": "そのコンピューターはデータをすばやく処理する。"
+    },
+    {
+      "source": "original",
+      "label": "加工",
+      "en": "Try to avoid processed food.",
+      "ja": "加工食品は避けるようにしなさい。"
+    },
+    {
+      "source": "original",
+      "label": "手順",
+      "en": "The application process takes two weeks.",
+      "ja": "申しこみの手続きには2週間かかる。"
+    },
+    {
+      "source": "original",
+      "label": "自然",
+      "en": "Aging is a natural process.",
+      "ja": "老化は自然な過程だ。"
+    }
+  ],
+  "check_points": [
+    "in the process of doing の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2336
+    }
+  ]
+}

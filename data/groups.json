@@ -1256,7 +1256,7 @@
     },
     {
       "title": "使い分け:価値・長所",
-      "note": "value=値打ち ／ worth=〜の価値がある(前置詞的) ／ merit=ほめるべき長所 ／ virtue=道徳的な美徳・長所 ／ advantage=有利な点 ／ benefit=恩恵",
+      "note": "value=値打ち ／ worth=〜の価値がある(前置詞的) ／ merit=ほめるべき長所 ／ virtue=道徳的な美徳・長所 ／ advantage=有利な点 ／ benefit=恩恵 ／ disadvantage=ほかより不利な点(be at a disadvantage) ／ drawback=うしろへ引きもどす困った点(欠点)",
       "words": [
         "value",
         "worth",
@@ -1264,7 +1264,9 @@
         "virtue",
         "advantage",
         "benefit",
-        "interest"
+        "interest",
+        "disadvantage",
+        "drawback"
       ]
     },
     {
@@ -2020,14 +2022,16 @@
     },
     {
       "title": "使い分け:作業・任務",
-      "note": "task=割り当てられたやるべき作業 ／ chore=毎日くり返す雑用(家事) ／ assignment=割り振られた課題・任務 ／ mission=使命をおびて送り出される務め ／ labor=体を使う骨折り仕事・労働力 ／ duty=果たすべき義務",
+      "note": "task=割り当てられたやるべき作業 ／ chore=毎日くり返す雑用(家事) ／ assignment=割り振られた課題・任務 ／ mission=使命をおびて送り出される務め ／ labor=体を使う骨折り仕事・労働力 ／ duty=果たすべき義務 ／ role=その場で受けもつ役(play a role in) ／ responsibility=応じてやりとげるべき責任(take responsibility for)",
       "words": [
         "task",
         "chore",
         "assignment",
         "mission",
         "labor",
-        "duty"
+        "duty",
+        "role",
+        "responsibility"
       ]
     },
     {
@@ -4049,6 +4053,18 @@
         "truth",
         "example",
         "solution"
+      ]
+    },
+    {
+      "title": "使い分け:進歩・発展・過程",
+      "note": "progress=前へ前へ進むこと(数えない・make progress) ／ development=育ち広がること(発達・開発・新たな展開) ／ growth=大きく育つこと(成長・増加) ／ process=結果にいたる道すじ(過程)・処理する ／ stage=順に進む段階・舞台 ／ system=部分が組み合わさって働くしくみ(制度)",
+      "words": [
+        "progress",
+        "development",
+        "growth",
+        "process",
+        "stage",
+        "system"
       ]
     },
     {

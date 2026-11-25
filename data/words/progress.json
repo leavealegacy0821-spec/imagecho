@@ -1,0 +1,99 @@
+{
+  "word": "progress",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈprɑːɡres/ /prəˈɡres/",
+  "core_image": {
+    "text": "前へ前へと進んでいくこと(進歩)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"120\" width=\"30\" height=\"20\"/><rect x=\"70\" y=\"100\" width=\"30\" height=\"40\"/><rect x=\"110\" y=\"80\" width=\"30\" height=\"60\"/><rect x=\"150\" y=\"60\" width=\"30\" height=\"80\"/><line x1=\"40\" y1=\"100\" x2=\"200\" y2=\"40\"/><polyline points=\"192.1,38.9 200,40 194.8,46.1\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すすむ</text></svg>"
+  },
+  "etymology": "ラテン語 progredi(pro-=前へ + gradi=歩む:grade・graduate と同じ根) → 前へ歩む → 進歩・進行",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "movement toward an improved or more developed state; forward movement."
+    },
+    {
+      "pos": "動詞",
+      "text": "(pronounced /prəˈɡres/) to develop or improve; to move forward."
+    }
+  ],
+  "cautions": [
+    "progress=進歩(数えない:a progress ×・progresses ×)",
+    "make progress=進歩する(make great progress)",
+    "in progress=進行中で",
+    "名詞 /ˈprɑːɡres/(前を強く)・動詞 /prəˈɡres/(後ろを強く)"
+  ],
+  "patterns": [
+    {
+      "form": "make progress",
+      "meaning": "進歩する"
+    },
+    {
+      "form": "in progress",
+      "meaning": "進行中で"
+    },
+    {
+      "form": "progress in A",
+      "meaning": "Aでの進歩"
+    },
+    {
+      "form": "progressive",
+      "meaning": "進歩的な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "進歩",
+      "en": "You've made great progress in English.",
+      "ja": "あなたの英語はとても進歩した。"
+    },
+    {
+      "source": "original",
+      "label": "進行中",
+      "en": "The meeting is in progress.",
+      "ja": "会議は進行中だ。"
+    },
+    {
+      "source": "original",
+      "label": "科学",
+      "en": "There has been a lot of progress in medicine.",
+      "ja": "医学は大いに進歩した。"
+    },
+    {
+      "source": "original",
+      "label": "進む",
+      "en": "As the day progressed, it got colder.",
+      "ja": "日がたつにつれて寒くなった。"
+    },
+    {
+      "source": "original",
+      "label": "数えない",
+      "en": "We made little progress today.",
+      "ja": "今日はほとんど進まなかった。"
+    },
+    {
+      "source": "original",
+      "label": "進歩的",
+      "en": "She has progressive ideas.",
+      "ja": "彼女は進歩的な考えをもっている。"
+    }
+  ],
+  "check_points": [
+    "progress が数えない名詞だとわかるか",
+    "make progress の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "make progress(数えない)、アクセントが出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2330
+    }
+  ]
+}
