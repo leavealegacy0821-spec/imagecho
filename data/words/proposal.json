@@ -1,0 +1,97 @@
+{
+  "word": "proposal",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/prəˈpoʊzl/",
+  "core_image": {
+    "text": "前に出して示す、正式な案(と結婚の申し込み)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"96\" y2=\"80\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><rect x=\"96\" y=\"66\" width=\"40\" height=\"30\"/><line x1=\"104\" y1=\"76\" x2=\"128\" y2=\"76\"/><line x1=\"104\" y1=\"86\" x2=\"122\" y2=\"86\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/></g><text x=\"130\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">正式な案</text></svg>"
+  },
+  "etymology": "propose(pro=前に+pose=置く)の名詞 → 前に置いて示したもの → (正式な)提案・企画 → 結婚の申し込み(プロポーズ)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a formal suggestion or plan; an offer of marriage."
+    }
+  ],
+  "cautions": [
+    "suggestion=(控えめな)提案/proposal=(会議などで出す)正式な提案・企画",
+    "make [submit] a proposal=提案を出す/accept [reject] a proposal=提案を受け入れる[退ける]",
+    "a proposal for A [to do]=Aの[〜する]提案",
+    "結婚の申し込みも proposal"
+  ],
+  "patterns": [
+    {
+      "form": "make a proposal",
+      "meaning": "提案する"
+    },
+    {
+      "form": "a proposal for A",
+      "meaning": "Aの提案"
+    },
+    {
+      "form": "accept a proposal",
+      "meaning": "提案を受け入れる"
+    },
+    {
+      "form": "reject a proposal",
+      "meaning": "提案を退ける"
+    },
+    {
+      "form": "a marriage proposal",
+      "meaning": "結婚の申し込み"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "提案",
+      "en": "The committee rejected the proposal.",
+      "ja": "委員会はその提案を退けた。"
+    },
+    {
+      "source": "original",
+      "label": "提案",
+      "en": "They made a proposal to build a new library.",
+      "ja": "彼らは新しい図書館を建てる提案をした。"
+    },
+    {
+      "source": "original",
+      "label": "企画書",
+      "en": "Please submit your proposal by Friday.",
+      "ja": "金曜までに企画書を提出してください。"
+    },
+    {
+      "source": "original",
+      "label": "プロポーズ",
+      "en": "She accepted his marriage proposal.",
+      "ja": "彼女は彼のプロポーズを受け入れた。"
+    },
+    {
+      "source": "original",
+      "label": "案",
+      "en": "The proposal for a four-day week is being discussed.",
+      "ja": "週4日制の案が話し合われている。"
+    },
+    {
+      "source": "original",
+      "label": "提案する",
+      "en": "He proposed that the meeting (should) be postponed.",
+      "ja": "彼は会議の延期を提案した。"
+    }
+  ],
+  "check_points": [
+    "suggestion と proposal のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "proposal、propose that が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1500
+    }
+  ]
+}

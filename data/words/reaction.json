@@ -1,0 +1,94 @@
+{
+  "word": "reaction",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/riˈækʃn/",
+  "core_image": {
+    "text": "何かを受けて、はね返すように起こる反応",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"80\" r=\"10\"/><line x1=\"74\" y1=\"80\" x2=\"130\" y2=\"80\"/><polyline points=\"123,76.2 130,80 123,83.8\"/><circle cx=\"150\" cy=\"80\" r=\"14\"/><line x1=\"150\" y1=\"64\" x2=\"130\" y2=\"40\"/><polyline points=\"131.5,47.8 130,40 137.4,42.9\"/><line x1=\"164\" y1=\"80\" x2=\"190\" y2=\"60\"/><polyline points=\"182.1,61.2 190,60 186.8,67.3\"/></g><text x=\"100\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">受けて返す</text></svg>"
+  },
+  "etymology": "re(返して)+action(行動) → 返す行動 → (刺激・出来事への)反応 → (化学の)反応 → 反動・反発 → react=反応する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "what you do, say or feel because of something that has happened; a chemical change."
+    }
+  ],
+  "cautions": [
+    "response=(問いかけへの)応答・反応/reaction=(刺激・出来事に)思わず起こる反応・反発",
+    "reaction to A=Aへの反応(前置詞 to)",
+    "a chemical reaction=化学反応/an allergic reaction=アレルギー反応",
+    "react to A=Aに反応する"
+  ],
+  "patterns": [
+    {
+      "form": "a reaction to A",
+      "meaning": "Aへの反応"
+    },
+    {
+      "form": "a chemical reaction",
+      "meaning": "化学反応"
+    },
+    {
+      "form": "an allergic reaction",
+      "meaning": "アレルギー反応"
+    },
+    {
+      "form": "react to A",
+      "meaning": "Aに反応する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "反応",
+      "en": "What was his reaction to the news?",
+      "ja": "その知らせに彼はどんな反応をしたの?"
+    },
+    {
+      "source": "original",
+      "label": "化学反応",
+      "en": "A chemical reaction produces heat.",
+      "ja": "化学反応で熱が出る。"
+    },
+    {
+      "source": "original",
+      "label": "アレルギー反応",
+      "en": "She had an allergic reaction to the medicine.",
+      "ja": "彼女はその薬でアレルギー反応を起こした。"
+    },
+    {
+      "source": "original",
+      "label": "反応する",
+      "en": "How did your parents react to your decision?",
+      "ja": "ご両親は君の決断にどう反応した?"
+    },
+    {
+      "source": "original",
+      "label": "反発",
+      "en": "The new rule caused a strong reaction from students.",
+      "ja": "新しい規則は生徒から強い反発を招いた。"
+    },
+    {
+      "source": "original",
+      "label": "反射",
+      "en": "Good drivers have quick reactions.",
+      "ja": "よいドライバーは反射神経がいい。"
+    }
+  ],
+  "check_points": [
+    "reaction to A の前置詞を言えるか",
+    "response と reaction のちがいがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "reaction to、chemical reaction が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1491
+    }
+  ]
+}

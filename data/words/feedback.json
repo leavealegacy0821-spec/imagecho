@@ -1,0 +1,93 @@
+{
+  "word": "feedback",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈfiːdbæk/",
+  "core_image": {
+    "text": "結果を受けて、もとへ返す意見",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"60\" width=\"50\" height=\"40\"/><rect x=\"150\" y=\"60\" width=\"50\" height=\"40\"/><line x1=\"94\" y1=\"70\" x2=\"146\" y2=\"70\"/><polyline points=\"139,66.2 146,70 139,73.8\"/><line x1=\"146\" y1=\"90\" x2=\"94\" y2=\"90\" stroke-dasharray=\"5 5\"/><polyline points=\"101,93.8 94,90 101,86.2\"/></g><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">返ってくる意見</text></svg>"
+  },
+  "etymology": "feed(与える)+back(もとへ) → 結果をもとへ戻して与える → (仕事・作品への)意見・感想・反応 → (音響の)ハウリング",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "advice, criticism or information about how good or useful something is."
+    }
+  ],
+  "cautions": [
+    "feedback は不可算(× a feedback, × feedbacks)",
+    "give A feedback on B=AにBについての意見を伝える",
+    "positive [negative] feedback=よい[悪い]評価",
+    "comment=1つの意見・コメント(可算)"
+  ],
+  "patterns": [
+    {
+      "form": "feedback on A",
+      "meaning": "Aへの意見"
+    },
+    {
+      "form": "give feedback",
+      "meaning": "意見を伝える"
+    },
+    {
+      "form": "get feedback",
+      "meaning": "意見をもらう"
+    },
+    {
+      "form": "positive feedback",
+      "meaning": "よい評価"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "意見",
+      "en": "The teacher gave us feedback on our essays.",
+      "ja": "先生は私たちの作文に意見をくれた。"
+    },
+    {
+      "source": "original",
+      "label": "評価",
+      "en": "We got positive feedback from customers.",
+      "ja": "お客さんからよい評価をもらった。"
+    },
+    {
+      "source": "original",
+      "label": "意見",
+      "en": "Please give us your feedback.",
+      "ja": "ご意見をお聞かせください。"
+    },
+    {
+      "source": "original",
+      "label": "感想",
+      "en": "I'd like some feedback on my presentation.",
+      "ja": "私の発表について感想をもらいたい。"
+    },
+    {
+      "source": "original",
+      "label": "反応",
+      "en": "Feedback from users helped improve the app.",
+      "ja": "利用者からの反応がアプリの改良に役立った。"
+    },
+    {
+      "source": "original",
+      "label": "評価",
+      "en": "Negative feedback can help you grow.",
+      "ja": "厳しい評価は成長の助けになる。"
+    }
+  ],
+  "check_points": [
+    "feedback が不可算であることがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "feedback(不可算)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1493
+    }
+  ]
+}

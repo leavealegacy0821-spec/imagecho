@@ -1,0 +1,93 @@
+{
+  "word": "response",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/rɪˈspɑːns/",
+  "core_image": {
+    "text": "呼びかけに対して、こたえて返すもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"70\" y1=\"60\" x2=\"170\" y2=\"60\"/><polyline points=\"163,56.2 170,60 163,63.8\"/><line x1=\"170\" y1=\"80\" x2=\"70\" y2=\"80\"/><polyline points=\"77,83.8 70,80 77,76.2\"/></g><text x=\"120\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こたえる</text></svg>"
+  },
+  "etymology": "respond(re=返して+spondere=約束する)の名詞 → 約束を返す → 応答・返答 → (働きかけへの)反応・対応 → responsible=責任のある(こたえられる)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a spoken or written answer; a reaction to something that has happened."
+    }
+  ],
+  "cautions": [
+    "answer=答え(質問への)/reply=返事/response=(問いかけ・状況への)応答・対応(やや堅い)",
+    "in response to A=Aにこたえて・Aを受けて(頻出)",
+    "a quick [positive] response=すばやい[好意的な]反応",
+    "respond to A=Aにこたえる・反応する"
+  ],
+  "patterns": [
+    {
+      "form": "in response to A",
+      "meaning": "Aにこたえて"
+    },
+    {
+      "form": "a response to A",
+      "meaning": "Aへの返答"
+    },
+    {
+      "form": "a positive response",
+      "meaning": "好意的な反応"
+    },
+    {
+      "form": "respond to A",
+      "meaning": "Aに反応する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "こたえて",
+      "en": "In response to complaints, the store changed its hours.",
+      "ja": "苦情を受けて、その店は営業時間を変えた。"
+    },
+    {
+      "source": "original",
+      "label": "返事",
+      "en": "I haven't received a response to my email.",
+      "ja": "メールへの返事がまだ来ない。"
+    },
+    {
+      "source": "original",
+      "label": "反応",
+      "en": "The new product got a positive response.",
+      "ja": "新製品は好意的な反応を得た。"
+    },
+    {
+      "source": "original",
+      "label": "対応",
+      "en": "The government's response to the disaster was slow.",
+      "ja": "災害への政府の対応は遅かった。"
+    },
+    {
+      "source": "original",
+      "label": "こたえる",
+      "en": "She didn't respond to my question.",
+      "ja": "彼女は私の質問に答えなかった。"
+    },
+    {
+      "source": "original",
+      "label": "反応",
+      "en": "The patient showed a good response to the treatment.",
+      "ja": "患者は治療によく反応した。"
+    }
+  ],
+  "check_points": [
+    "in response to A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "in response to が長文で多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1492
+    }
+  ]
+}

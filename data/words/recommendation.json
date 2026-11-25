@@ -1,0 +1,93 @@
+{
+  "word": "recommendation",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˌrekəmenˈdeɪʃn/",
+  "core_image": {
+    "text": "これがよいと、自信をもってすすめること",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"96\" y2=\"60\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><rect x=\"130\" y=\"70\" width=\"40\" height=\"70\"/><polygon points=\"150,40 154,52 166,52 156,60 160,72 150,64 140,72 144,60 134,52 146,52\"/></g><text x=\"200\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">おすすめ</text></svg>"
+  },
+  "etymology": "recommend(re=強く+commend=ゆだねる・ほめる)の名詞 → よいとほめて任せる → 推薦・おすすめ → (公式の)勧告",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a suggestion that something is good or should be done; a letter saying that someone is suitable for a job."
+    }
+  ],
+  "cautions": [
+    "suggestion=(控えめな)提案/recommendation=よいと推薦すること・(公式の)勧告",
+    "on A's recommendation=Aのすすめで",
+    "a letter of recommendation=推薦状",
+    "recommend A to B / recommend that S (should) 原形"
+  ],
+  "patterns": [
+    {
+      "form": "on A's recommendation",
+      "meaning": "Aのすすめで"
+    },
+    {
+      "form": "a letter of recommendation",
+      "meaning": "推薦状"
+    },
+    {
+      "form": "make a recommendation",
+      "meaning": "勧告する"
+    },
+    {
+      "form": "recommend that S (should) 原形",
+      "meaning": "…するようすすめる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "すすめ",
+      "en": "I bought this book on my teacher's recommendation.",
+      "ja": "先生のすすめでこの本を買った。"
+    },
+    {
+      "source": "original",
+      "label": "推薦状",
+      "en": "She needs a letter of recommendation for college.",
+      "ja": "彼女は大学用の推薦状が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "勧告",
+      "en": "The committee made several recommendations.",
+      "ja": "委員会はいくつかの勧告を出した。"
+    },
+    {
+      "source": "original",
+      "label": "すすめる",
+      "en": "The doctor recommended that I (should) get more sleep.",
+      "ja": "医者はもっと寝るようにすすめた。"
+    },
+    {
+      "source": "original",
+      "label": "おすすめ",
+      "en": "Do you have any recommendations for a good restaurant?",
+      "ja": "おすすめのレストランはある?"
+    },
+    {
+      "source": "original",
+      "label": "推薦する",
+      "en": "I recommend this movie to everyone.",
+      "ja": "この映画をみんなにすすめたい。"
+    }
+  ],
+  "check_points": [
+    "on A's recommendation の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "recommend that S (should) 原形 が文法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1499
+    }
+  ]
+}

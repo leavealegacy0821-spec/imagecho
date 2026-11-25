@@ -1,0 +1,93 @@
+{
+  "word": "criticism",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈkrɪtɪsɪzəm/",
+  "core_image": {
+    "text": "よしあしを見分けて、悪い点を指摘する批判",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"96\" y2=\"64\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><rect x=\"130\" y=\"60\" width=\"70\" height=\"50\"/><line x1=\"140\" y1=\"74\" x2=\"190\" y2=\"74\"/><line x1=\"140\" y1=\"90\" x2=\"176\" y2=\"90\"/><line x1=\"150\" y1=\"68\" x2=\"170\" y2=\"96\"/></g><text x=\"110\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">悪い点を指摘</text></svg>"
+  },
+  "etymology": "critic(批評家。ギリシャ語 kritikos=見分ける:crisis と同じ根)+ism → よしあしを見分けること → 批評 → (悪い点の)批判・非難",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "comments that show what you think is wrong with someone or something; the work of giving opinions about books, films, etc."
+    }
+  ],
+  "cautions": [
+    "comment=意見(中立)/criticism=悪い点の指摘・批判(不可算が基本)",
+    "criticism of A=Aへの批判/come under criticism=批判を受ける",
+    "constructive criticism=建設的な批判",
+    "criticize=批判する/critic=批評家/critical=批判的な"
+  ],
+  "patterns": [
+    {
+      "form": "criticism of A",
+      "meaning": "Aへの批判"
+    },
+    {
+      "form": "come under criticism",
+      "meaning": "批判を受ける"
+    },
+    {
+      "form": "constructive criticism",
+      "meaning": "建設的な批判"
+    },
+    {
+      "form": "criticize A for B",
+      "meaning": "BのことでAを批判する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "批判",
+      "en": "The new law faced strong criticism.",
+      "ja": "新しい法律は強い批判にさらされた。"
+    },
+    {
+      "source": "original",
+      "label": "批判を受ける",
+      "en": "The company came under criticism for its low wages.",
+      "ja": "その会社は低賃金で批判を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "建設的な批判",
+      "en": "Constructive criticism helps people improve.",
+      "ja": "建設的な批判は人を成長させる。"
+    },
+    {
+      "source": "original",
+      "label": "批判する",
+      "en": "He was criticized for being late.",
+      "ja": "彼は遅刻したことで批判された。"
+    },
+    {
+      "source": "original",
+      "label": "批評",
+      "en": "She studied literary criticism at college.",
+      "ja": "彼女は大学で文芸批評を学んだ。"
+    },
+    {
+      "source": "original",
+      "label": "批判",
+      "en": "I can take criticism.",
+      "ja": "私は批判を受け止められる。"
+    }
+  ],
+  "check_points": [
+    "comment と criticism のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "criticism of、come under criticism が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1495
+    }
+  ]
+}

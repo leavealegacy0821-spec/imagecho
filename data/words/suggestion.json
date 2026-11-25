@@ -1,0 +1,93 @@
+{
+  "word": "suggestion",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/səɡˈdʒestʃən/",
+  "core_image": {
+    "text": "こうしてはどうかと、下からそっと出す案",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"90\" y2=\"80\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><rect x=\"94\" y=\"74\" width=\"24\" height=\"16\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"184\" y2=\"96\"/><line x1=\"170\" y1=\"74\" x2=\"156\" y2=\"96\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こうしたら?</text></svg>"
+  },
+  "etymology": "suggest(sub=下から+gerere=運ぶ:下から持ち出す)の名詞 → (控えめに)持ち出した案 → 提案・示唆 → それとなく示すこと",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an idea or plan that you mention for someone to think about; a slight sign of something."
+    }
+  ],
+  "cautions": [
+    "advice=相手のための助言/suggestion=(控えめな)提案・案(可算)/proposal=正式な提案",
+    "make a suggestion=提案する",
+    "at A's suggestion=Aの提案で",
+    "suggest that S (should) 原形=…してはどうかと提案する"
+  ],
+  "patterns": [
+    {
+      "form": "make a suggestion",
+      "meaning": "提案する"
+    },
+    {
+      "form": "a suggestion for A",
+      "meaning": "Aについての提案"
+    },
+    {
+      "form": "at A's suggestion",
+      "meaning": "Aの提案で"
+    },
+    {
+      "form": "suggest that S (should) 原形",
+      "meaning": "…を提案する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "提案",
+      "en": "Do you have any suggestions for the trip?",
+      "ja": "旅行について何か提案はある?"
+    },
+    {
+      "source": "original",
+      "label": "提案する",
+      "en": "May I make a suggestion?",
+      "ja": "1つ提案してもいいですか。"
+    },
+    {
+      "source": "original",
+      "label": "提案で",
+      "en": "At my friend's suggestion, I joined the club.",
+      "ja": "友達のすすめでその部に入った。"
+    },
+    {
+      "source": "original",
+      "label": "提案する",
+      "en": "I suggested that we (should) meet at the station.",
+      "ja": "駅で会うことを提案した。"
+    },
+    {
+      "source": "original",
+      "label": "気配",
+      "en": "There was no suggestion of anger in his voice.",
+      "ja": "彼の声には怒りの気配がなかった。"
+    },
+    {
+      "source": "original",
+      "label": "意見",
+      "en": "Thank you for your useful suggestions.",
+      "ja": "役に立つご提案をありがとう。"
+    }
+  ],
+  "check_points": [
+    "suggest that S (should) 原形 の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "suggest that S (should) 原形 が文法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1498
+    }
+  ]
+}

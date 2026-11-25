@@ -1,0 +1,98 @@
+{
+  "word": "advice",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ədˈvaɪs/",
+  "core_image": {
+    "text": "こうしたらと、相手のためにする助言",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"90\" y2=\"64\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"156\" y2=\"96\"/><line x1=\"170\" y1=\"74\" x2=\"184\" y2=\"96\"/><path d=\"M96 46 Q116 36 136 46\"/><line x1=\"100\" y1=\"56\" x2=\"140\" y2=\"56\"/><polyline points=\"133,52.2 140,56 133,59.8\"/></g><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">助言</text></svg>"
+  },
+  "etymology": "古いフランス語 avis(意見。ラテン語 ad=〜へ+visum=見えたもの) → こう見えるという意見 → 助言・忠告 → advise=助言する(動詞・発音 /z/)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an opinion you give someone about what they should do."
+    }
+  ],
+  "cautions": [
+    "advice は不可算(× an advice, × advices)。1つは a piece of advice",
+    "advice=名詞(/s/)/advise=動詞(/z/)",
+    "give A advice on B=AにBについて助言する",
+    "take [follow] A's advice=Aの忠告に従う"
+  ],
+  "patterns": [
+    {
+      "form": "a piece of advice",
+      "meaning": "1つの助言"
+    },
+    {
+      "form": "give A advice",
+      "meaning": "Aに助言する"
+    },
+    {
+      "form": "take A's advice",
+      "meaning": "Aの忠告に従う"
+    },
+    {
+      "form": "ask (A) for advice",
+      "meaning": "(Aに)助言を求める"
+    },
+    {
+      "form": "advise A to do",
+      "meaning": "Aに〜するよう助言する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "助言",
+      "en": "Can I give you some advice?",
+      "ja": "ちょっと助言してもいい?"
+    },
+    {
+      "source": "original",
+      "label": "1つの助言",
+      "en": "Let me give you a piece of advice.",
+      "ja": "1つアドバイスをさせてください。"
+    },
+    {
+      "source": "original",
+      "label": "忠告に従う",
+      "en": "I took my teacher's advice and studied harder.",
+      "ja": "先生の忠告に従ってもっと勉強した。"
+    },
+    {
+      "source": "original",
+      "label": "助言を求める",
+      "en": "She asked her parents for advice.",
+      "ja": "彼女は両親に助言を求めた。"
+    },
+    {
+      "source": "original",
+      "label": "助言する",
+      "en": "The doctor advised me to rest.",
+      "ja": "医者は私に休むよう助言した。"
+    },
+    {
+      "source": "original",
+      "label": "助言",
+      "en": "Thank you for your good advice.",
+      "ja": "よいアドバイスをありがとう。"
+    }
+  ],
+  "check_points": [
+    "advice が不可算であることがわかるか",
+    "advice と advise のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "不可算名詞(× advices)、advice/advise の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1497
+    }
+  ]
+}
