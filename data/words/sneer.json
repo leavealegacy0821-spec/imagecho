@@ -1,0 +1,94 @@
+{
+  "word": "sneer",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/snɪr/",
+  "core_image": {
+    "text": "口のはしをゆがめて、ふんとばかにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"40\"/><line x1=\"100\" y1=\"70\" x2=\"112\" y2=\"72\"/><line x1=\"128\" y1=\"72\" x2=\"140\" y2=\"70\"/><path d=\"M104 98 L124 98 Q134 96 140 88\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふん</text></svg>"
+  },
+  "etymology": "中英語 sneren(鼻を鳴らす・ばかにする) → 口のはしを上げてばかにした顔をする → (sneer at)〜をあざ笑う・見下す",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to smile or speak in a way that shows you think someone is not good or not important."
+    },
+    {
+      "pos": "名詞",
+      "text": "an unkind smile or remark that shows you have no respect."
+    }
+  ],
+  "cautions": [
+    "laugh at=(声を出して)ばかにする/sneer at=口のはしを上げ、見下してあざ笑う",
+    "frown=まゆを寄せる/sneer=口をゆがめる",
+    "with a sneer=冷笑をうかべて",
+    "scorn・mock と近い"
+  ],
+  "patterns": [
+    {
+      "form": "sneer at A",
+      "meaning": "Aをあざ笑う・見下す"
+    },
+    {
+      "form": "with a sneer",
+      "meaning": "冷笑をうかべて"
+    },
+    {
+      "form": "a sneering remark",
+      "meaning": "ばかにした言葉"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "あざ笑う",
+      "en": "They sneered at his old clothes.",
+      "ja": "彼らは彼の古い服をあざ笑った。"
+    },
+    {
+      "source": "original",
+      "label": "見下す",
+      "en": "Don't sneer at other people's dreams.",
+      "ja": "人の夢をばかにしてはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "冷笑",
+      "en": "\"You? Win?\" he said with a sneer.",
+      "ja": "「お前が勝つって?」と彼は冷笑して言った。"
+    },
+    {
+      "source": "original",
+      "label": "ばかにした",
+      "en": "She ignored his sneering remarks.",
+      "ja": "彼女は彼のばかにした言葉を無視した。"
+    },
+    {
+      "source": "original",
+      "label": "口をゆがめる",
+      "en": "The villain sneered at the hero.",
+      "ja": "悪役はヒーローを見てふんと笑った。"
+    },
+    {
+      "source": "original",
+      "label": "軽蔑",
+      "en": "Critics sneered at the movie, but it was a hit.",
+      "ja": "評論家はその映画をばかにしたが、大ヒットした。"
+    }
+  ],
+  "check_points": [
+    "sneer at と frown at のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1725
+    }
+  ]
+}

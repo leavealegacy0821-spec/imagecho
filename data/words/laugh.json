@@ -1,0 +1,99 @@
+{
+  "word": "laugh",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/læf/",
+  "core_image": {
+    "text": "声を出して、あははと笑う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"100\" cy=\"80\" r=\"40\"/><path d=\"M80 70 Q86 64 92 70\"/><path d=\"M108 70 Q114 64 120 70\"/><path d=\"M80 90 Q100 116 120 90 Z\"/><path d=\"M150 50 L170 40 M154 70 L178 70 M150 90 L170 100\"/></g><text x=\"200\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あはは</text></svg>"
+  },
+  "etymology": "古い英語 hlæhhan(笑う) → 声を出して笑う → (laugh at)〜をあざ笑う・ばかにする → (名詞)笑い・笑い声",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make sounds with your voice because something is funny; (laugh at) to make fun of someone."
+    },
+    {
+      "pos": "名詞",
+      "text": "the sound you make when you laugh; something funny."
+    }
+  ],
+  "cautions": [
+    "smile=声を出さずにほほえむ/laugh=声を出して笑う",
+    "laugh at A=Aを笑う・あざ笑う(自動詞なので at が必要)",
+    "burst out laughing=どっと笑い出す",
+    "laughter=笑い(数えない)"
+  ],
+  "patterns": [
+    {
+      "form": "laugh at A",
+      "meaning": "Aを笑う・ばかにする"
+    },
+    {
+      "form": "burst out laughing",
+      "meaning": "どっと笑い出す"
+    },
+    {
+      "form": "have a laugh",
+      "meaning": "笑う・楽しむ"
+    },
+    {
+      "form": "laughter",
+      "meaning": "笑い声"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "声を出して",
+      "en": "Everyone laughed at his joke.",
+      "ja": "みんなが彼の冗談に笑った。"
+    },
+    {
+      "source": "original",
+      "label": "ばかにする",
+      "en": "Don't laugh at people who make mistakes.",
+      "ja": "まちがえた人を笑ってはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "笑い出す",
+      "en": "We burst out laughing.",
+      "ja": "私たちはどっと笑い出した。"
+    },
+    {
+      "source": "original",
+      "label": "笑い声",
+      "en": "I heard laughter from the next room.",
+      "ja": "隣の部屋から笑い声が聞こえた。"
+    },
+    {
+      "source": "original",
+      "label": "楽しむ",
+      "en": "We had a good laugh about it later.",
+      "ja": "あとでそのことを大笑いした。"
+    },
+    {
+      "source": "original",
+      "label": "こらえる",
+      "en": "I couldn't help laughing.",
+      "ja": "笑わずにはいられなかった。"
+    }
+  ],
+  "check_points": [
+    "smile と laugh のちがいを言えるか",
+    "laugh at の at を忘れないか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "laugh at、can't help laughing、laughter が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1719
+    }
+  ]
+}

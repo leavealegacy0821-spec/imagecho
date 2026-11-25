@@ -1,0 +1,98 @@
+{
+  "word": "smile",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/smaɪl/",
+  "core_image": {
+    "text": "声を出さず、口もとでにっこりほほえむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"40\"/><circle cx=\"106\" cy=\"70\" r=\"3\"/><circle cx=\"134\" cy=\"70\" r=\"3\"/><path d=\"M100 92 Q120 106 140 92\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">にっこり</text></svg>"
+  },
+  "etymology": "中英語 smilen(ほほえむ。北欧の言葉から) → 声を出さずに口もとでほほえむ → (smile at)〜にほほえみかける → (運などが)ほほえむ(fortune smiles on A)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make your mouth curve up because you are happy or friendly."
+    },
+    {
+      "pos": "名詞",
+      "text": "an expression on your face in which your mouth curves up."
+    }
+  ],
+  "cautions": [
+    "laugh=声を出して笑う/smile=声を出さずにほほえむ/grin=歯を見せてにやっと笑う",
+    "smile at A=Aにほほえみかける",
+    "with a smile=にっこりして",
+    "Fortune smiled on A.=Aに運がむいた"
+  ],
+  "patterns": [
+    {
+      "form": "smile at A",
+      "meaning": "Aにほほえみかける"
+    },
+    {
+      "form": "with a smile",
+      "meaning": "にっこりして"
+    },
+    {
+      "form": "give A a smile",
+      "meaning": "Aににっこりする"
+    },
+    {
+      "form": "A smiles on B",
+      "meaning": "A(運)がBにほほえむ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ほほえみかける",
+      "en": "The baby smiled at me.",
+      "ja": "赤ちゃんが私にほほえんだ。"
+    },
+    {
+      "source": "original",
+      "label": "にっこりして",
+      "en": "She welcomed us with a smile.",
+      "ja": "彼女はにっこりして私たちを迎えた。"
+    },
+    {
+      "source": "original",
+      "label": "笑顔",
+      "en": "He has a nice smile.",
+      "ja": "彼はすてきな笑顔をしている。"
+    },
+    {
+      "source": "original",
+      "label": "運",
+      "en": "Luck smiled on us that day.",
+      "ja": "その日は運が私たちに味方した。"
+    },
+    {
+      "source": "original",
+      "label": "声を出さず",
+      "en": "She smiled but didn't say anything.",
+      "ja": "彼女はほほえんだが何も言わなかった。"
+    },
+    {
+      "source": "original",
+      "label": "笑顔にする",
+      "en": "The news put a smile on her face.",
+      "ja": "その知らせで彼女は笑顔になった。"
+    }
+  ],
+  "check_points": [
+    "smile と laugh と grin のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "smile at、with a smile が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1720
+    }
+  ]
+}

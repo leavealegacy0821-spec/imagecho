@@ -1,0 +1,98 @@
+{
+  "word": "grin",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɡrɪn/",
+  "core_image": {
+    "text": "歯を見せて、にやっと笑う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"40\"/><circle cx=\"106\" cy=\"68\" r=\"3\"/><circle cx=\"134\" cy=\"68\" r=\"3\"/><path d=\"M96 88 Q120 112 144 88 Z\"/><line x1=\"100\" y1=\"92\" x2=\"140\" y2=\"92\"/><line x1=\"110\" y1=\"88\" x2=\"110\" y2=\"98\"/><line x1=\"120\" y1=\"88\" x2=\"120\" y2=\"100\"/><line x1=\"130\" y1=\"88\" x2=\"130\" y2=\"98\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">にやっ</text></svg>"
+  },
+  "etymology": "古い英語 grennian(歯をむき出す) → 歯を見せて口を大きく横に広げる → (うれしくて・いたずらっぽく)にやっと笑う",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to smile widely so that your teeth show."
+    },
+    {
+      "pos": "名詞",
+      "text": "a wide smile that shows your teeth."
+    }
+  ],
+  "cautions": [
+    "smile=口もとでほほえむ/grin=歯を見せて口を横に広げ、にやっ・にかっと笑う(声は出さない)",
+    "grin at A=Aににやっと笑いかける",
+    "grin from ear to ear=満面の笑みをうかべる",
+    "grin and bear it=笑ってがまんする"
+  ],
+  "patterns": [
+    {
+      "form": "grin at A",
+      "meaning": "Aににやっと笑う"
+    },
+    {
+      "form": "grin from ear to ear",
+      "meaning": "満面の笑みをうかべる"
+    },
+    {
+      "form": "grin and bear it",
+      "meaning": "笑ってがまんする"
+    },
+    {
+      "form": "a broad grin",
+      "meaning": "満面のにやにや笑い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "にやっ",
+      "en": "He grinned at me and winked.",
+      "ja": "彼は私ににやっと笑ってウインクした。"
+    },
+    {
+      "source": "original",
+      "label": "満面の笑み",
+      "en": "She was grinning from ear to ear.",
+      "ja": "彼女は満面の笑みをうかべていた。"
+    },
+    {
+      "source": "original",
+      "label": "がまん",
+      "en": "There's nothing we can do but grin and bear it.",
+      "ja": "笑ってがまんするしかない。"
+    },
+    {
+      "source": "original",
+      "label": "にかっ",
+      "en": "The boy gave a big grin.",
+      "ja": "男の子はにかっと笑った。"
+    },
+    {
+      "source": "original",
+      "label": "いたずらっぽく",
+      "en": "He grinned as he told the joke.",
+      "ja": "彼はにやにやしながら冗談を言った。"
+    },
+    {
+      "source": "original",
+      "label": "うれしさ",
+      "en": "She couldn't stop grinning after the test.",
+      "ja": "テストのあと彼女はにやにやが止まらなかった。"
+    }
+  ],
+  "check_points": [
+    "grin from ear to ear の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1721
+    }
+  ]
+}

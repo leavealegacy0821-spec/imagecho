@@ -1,0 +1,94 @@
+{
+  "word": "frown",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/fraʊn/",
+  "core_image": {
+    "text": "まゆを寄せて、むっと顔をしかめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"40\"/><line x1=\"98\" y1=\"62\" x2=\"114\" y2=\"68\"/><line x1=\"142\" y1=\"62\" x2=\"126\" y2=\"68\"/><circle cx=\"106\" cy=\"74\" r=\"3\"/><circle cx=\"134\" cy=\"74\" r=\"3\"/><path d=\"M104 100 Q120 90 136 100\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">むっ</text></svg>"
+  },
+  "etymology": "古フランス語 froignier(不機嫌な顔をする) → まゆを寄せて顔をしかめる → (frown on [upon])〜に眉をひそめる=よくないと思う",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move your eyebrows together because you are angry, worried or thinking hard; (frown on) to disapprove of something."
+    },
+    {
+      "pos": "名詞",
+      "text": "an expression in which your eyebrows come together."
+    }
+  ],
+  "cautions": [
+    "smile の反対:frown=まゆを寄せて顔をしかめる",
+    "frown at A=Aに顔をしかめる",
+    "frown on [upon] A=Aに眉をひそめる・Aをよくないと思う(入試頻出)",
+    "sneer=ばかにして口をゆがめる"
+  ],
+  "patterns": [
+    {
+      "form": "frown at A",
+      "meaning": "Aに顔をしかめる"
+    },
+    {
+      "form": "frown on [upon] A",
+      "meaning": "Aをよく思わない"
+    },
+    {
+      "form": "with a frown",
+      "meaning": "顔をしかめて"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "しかめる",
+      "en": "She frowned at the noise.",
+      "ja": "彼女はその音に顔をしかめた。"
+    },
+    {
+      "source": "original",
+      "label": "よく思わない",
+      "en": "Smoking is frowned upon in this school.",
+      "ja": "この学校では喫煙はよく思われない。"
+    },
+    {
+      "source": "original",
+      "label": "顔をしかめて",
+      "en": "He read the letter with a frown.",
+      "ja": "彼は顔をしかめて手紙を読んだ。"
+    },
+    {
+      "source": "original",
+      "label": "考えこむ",
+      "en": "She frowned as she tried to solve the problem.",
+      "ja": "彼女はまゆを寄せて問題を解こうとした。"
+    },
+    {
+      "source": "original",
+      "label": "不満",
+      "en": "The teacher frowned when we came in late.",
+      "ja": "私たちが遅れて入ると先生は顔をしかめた。"
+    },
+    {
+      "source": "original",
+      "label": "しわ",
+      "en": "A deep frown appeared on his face.",
+      "ja": "彼の顔に深いしわが寄った。"
+    }
+  ],
+  "check_points": [
+    "frown on A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be frowned upon が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1724
+    }
+  ]
+}

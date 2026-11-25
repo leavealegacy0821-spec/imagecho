@@ -1,0 +1,98 @@
+{
+  "word": "sigh",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/saɪ/",
+  "core_image": {
+    "text": "はあっと、長く息をはく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"80\" cy=\"80\" r=\"34\"/><line x1=\"66\" y1=\"74\" x2=\"76\" y2=\"74\"/><line x1=\"86\" y1=\"74\" x2=\"96\" y2=\"74\"/><circle cx=\"90\" cy=\"96\" r=\"4\"/><path d=\"M118 92 Q150 80 170 96 Q190 110 214 96\" stroke-dasharray=\"4 4\"/></g><text x=\"180\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">はあっ</text></svg>"
+  },
+  "etymology": "古い英語 sīcan(ため息をつく) → はあっと長く息をはく(疲れ・失望・安心) → (名詞)ため息 → a sigh of relief=ほっとひと息",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to breathe out slowly and loudly because you are tired, sad or relieved."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act or sound of sighing."
+    }
+  ],
+  "cautions": [
+    "sigh=(疲れ・がっかり・安心で)はあっと長く息をはく",
+    "breathe a sigh of relief=ほっと胸をなでおろす",
+    "with a sigh=ため息をついて",
+    "groan=痛み・不満でうーんとうめく"
+  ],
+  "patterns": [
+    {
+      "form": "sigh with relief",
+      "meaning": "ほっとため息をつく"
+    },
+    {
+      "form": "breathe a sigh of relief",
+      "meaning": "ほっと胸をなでおろす"
+    },
+    {
+      "form": "with a sigh",
+      "meaning": "ため息をついて"
+    },
+    {
+      "form": "heave a sigh",
+      "meaning": "深いため息をつく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ため息",
+      "en": "She sighed and looked out of the window.",
+      "ja": "彼女はため息をついて窓の外を見た。"
+    },
+    {
+      "source": "original",
+      "label": "ほっと",
+      "en": "We breathed a sigh of relief when he arrived safely.",
+      "ja": "彼が無事に着いて私たちはほっとした。"
+    },
+    {
+      "source": "original",
+      "label": "安心",
+      "en": "He sighed with relief.",
+      "ja": "彼は安心してため息をついた。"
+    },
+    {
+      "source": "original",
+      "label": "がっかり",
+      "en": "\"I failed again,\" he said with a sigh.",
+      "ja": "「また落ちた」と彼はため息まじりに言った。"
+    },
+    {
+      "source": "original",
+      "label": "深いため息",
+      "en": "Mother heaved a deep sigh.",
+      "ja": "母は深いため息をついた。"
+    },
+    {
+      "source": "original",
+      "label": "疲れ",
+      "en": "She sat down with a tired sigh.",
+      "ja": "彼女は疲れたため息をついて座った。"
+    }
+  ],
+  "check_points": [
+    "breathe a sigh of relief の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a sigh of relief が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1726
+    }
+  ]
+}

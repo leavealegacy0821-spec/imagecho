@@ -1688,7 +1688,7 @@
     },
     {
       "title": "使い分け:声の出し方",
-      "note": "shout=大声を張り上げる ／ whisper=息だけでささやく ／ murmur=低い声でぼそぼそつぶやく ／ utter=声に出して言う ／ mutter=不満そうに口の中でぶつぶつ ／ mumble=口を開けずにもごもご ／ stammer=ことばがつかえてどもる ／ yell=怒り・興奮でわっと大声 ／ scream=恐怖・痛みでキャーッと甲高く",
+      "note": "shout=大声を張り上げる ／ whisper=息だけでささやく ／ murmur=低い声でぼそぼそつぶやく ／ utter=声に出して言う ／ mutter=不満そうに口の中でぶつぶつ ／ mumble=口を開けずにもごもご ／ stammer=ことばがつかえてどもる ／ yell=怒り・興奮でわっと大声 ／ scream=恐怖・痛みでキャーッと甲高く ／ sigh=はあっと長く息をはく(疲れ・安心) ／ groan=痛み・不満でうーんと低くうめく",
       "words": [
         "shout",
         "whisper",
@@ -1698,7 +1698,9 @@
         "mumble",
         "stammer",
         "yell",
-        "scream"
+        "scream",
+        "sigh",
+        "groan"
       ]
     },
     {
@@ -2346,14 +2348,15 @@
     },
     {
       "title": "使い分け:しゃべる・泣く",
-      "note": "talk=話す(広い) ／ chat=気軽に楽しくおしゃべり ／ chatter=ぺちゃくちゃ止まらずしゃべる ／ gossip=他人のことをひそひそうわさ ／ cry=声をあげて泣く・叫ぶ ／ weep=声をおさえて静かに涙を流す(wept)",
+      "note": "talk=話す(広い) ／ chat=気軽に楽しくおしゃべり ／ chatter=ぺちゃくちゃ止まらずしゃべる ／ gossip=他人のことをひそひそうわさ ／ cry=声をあげて泣く・叫ぶ ／ weep=声をおさえて静かに涙を流す(wept) ／ sob=息をつまらせてひっくひっくと泣く",
       "words": [
         "talk",
         "chat",
         "chatter",
         "gossip",
         "cry",
-        "weep"
+        "weep",
+        "sob"
       ]
     },
     {
@@ -2984,6 +2987,19 @@
         "brink",
         "verge",
         "threshold"
+      ]
+    },
+    {
+      "title": "使い分け:笑う・顔をしかめる",
+      "note": "laugh=声を出してあははと笑う(laugh at) ／ smile=声を出さず口もとでにっこり ／ grin=歯を見せてにやっ ／ giggle=照れてくすくす ／ chuckle=口を閉じてくっくっ(満足げ) ／ sneer=口のはしをゆがめてふんとばかにする ／ frown=まゆを寄せてむっとしかめる(frown on=よく思わない)",
+      "words": [
+        "laugh",
+        "smile",
+        "grin",
+        "giggle",
+        "chuckle",
+        "sneer",
+        "frown"
       ]
     },
     {
