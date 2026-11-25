@@ -1,0 +1,89 @@
+{
+  "word": "lion",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈlaɪən/",
+  "core_image": {
+    "text": "たてがみのある百獣の王",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"76\" r=\"26\"/><circle cx=\"80\" cy=\"76\" r=\"14\"/><ellipse cx=\"140\" cy=\"96\" rx=\"40\" ry=\"16\"/><line x1=\"110\" y1=\"110\" x2=\"110\" y2=\"140\"/><line x1=\"170\" y1=\"110\" x2=\"170\" y2=\"140\"/><path d=\"M180 92 Q200 80 196 64\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ライオン</text></svg>"
+  },
+  "etymology": "ギリシャ語 leōn(ライオン) → ライオン → (勇気ある人)・the lion's share=いちばん大きな分け前",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a large wild cat that lives in Africa; the male has a mane."
+    }
+  ],
+  "cautions": [
+    "lion=ライオン/lioness=めすライオン",
+    "the lion's share=いちばん大きな分け前・大部分",
+    "the king of beasts=百獣の王",
+    "roar=ほえる"
+  ],
+  "patterns": [
+    {
+      "form": "the lion's share",
+      "meaning": "大部分"
+    },
+    {
+      "form": "the king of beasts",
+      "meaning": "百獣の王"
+    },
+    {
+      "form": "a lion's roar",
+      "meaning": "ライオンのほえ声"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ライオン",
+      "en": "Lions live in groups called prides.",
+      "ja": "ライオンはプライドと呼ばれる群れで暮らす。"
+    },
+    {
+      "source": "original",
+      "label": "大部分",
+      "en": "He took the lion's share of the money.",
+      "ja": "彼はお金の大部分を取った。"
+    },
+    {
+      "source": "original",
+      "label": "ほえる",
+      "en": "We heard a lion roar in the distance.",
+      "ja": "遠くでライオンがほえるのが聞こえた。"
+    },
+    {
+      "source": "original",
+      "label": "百獣の王",
+      "en": "The lion is called the king of beasts.",
+      "ja": "ライオンは百獣の王と呼ばれる。"
+    },
+    {
+      "source": "original",
+      "label": "めす",
+      "en": "The lioness hunts for the group.",
+      "ja": "めすライオンが群れのために狩りをする。"
+    },
+    {
+      "source": "original",
+      "label": "勇敢",
+      "en": "He fought like a lion.",
+      "ja": "彼はライオンのように勇敢に戦った。"
+    }
+  ],
+  "check_points": [
+    "the lion's share の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "the lion's share が熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2199
+    }
+  ]
+}

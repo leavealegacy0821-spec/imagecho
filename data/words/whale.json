@@ -1,0 +1,89 @@
+{
+  "word": "whale",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/weɪl/",
+  "core_image": {
+    "text": "海にすむ巨大なほ乳類(クジラ)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 120 Q40 110 70 120 T130 120 T190 120 T240 120\"/><path d=\"M40 100 Q80 60 160 80 Q190 90 200 70 Q206 90 196 100 Q160 110 40 100 Z\"/><circle cx=\"70\" cy=\"88\" r=\"3\"/><path d=\"M90 66 Q94 50 90 40 M90 50 Q80 40 74 44 M90 50 Q100 40 106 44\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">クジラ</text></svg>"
+  },
+  "etymology": "古い英語 hwæl(クジラ) → クジラ → a whale of a time=すばらしい時",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a very large sea animal that breathes air through a hole on top of its head."
+    }
+  ],
+  "cautions": [
+    "whale=クジラ(魚ではなくほ乳類)",
+    "whaling=捕鯨",
+    "have a whale of a time=とても楽しく過ごす",
+    "wail(泣きさけぶ)と同じ発音"
+  ],
+  "patterns": [
+    {
+      "form": "whaling",
+      "meaning": "捕鯨"
+    },
+    {
+      "form": "have a whale of a time",
+      "meaning": "大いに楽しむ"
+    },
+    {
+      "form": "a blue whale",
+      "meaning": "シロナガスクジラ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "クジラ",
+      "en": "The blue whale is the largest animal on earth.",
+      "ja": "シロナガスクジラは地球最大の動物だ。"
+    },
+    {
+      "source": "original",
+      "label": "ほ乳類",
+      "en": "Whales are mammals, not fish.",
+      "ja": "クジラは魚ではなくほ乳類だ。"
+    },
+    {
+      "source": "original",
+      "label": "捕鯨",
+      "en": "Whaling is banned in many countries.",
+      "ja": "多くの国で捕鯨は禁止されている。"
+    },
+    {
+      "source": "original",
+      "label": "楽しむ",
+      "en": "We had a whale of a time at the festival.",
+      "ja": "お祭りでとても楽しく過ごした。"
+    },
+    {
+      "source": "original",
+      "label": "見る",
+      "en": "We went whale watching in Hawaii.",
+      "ja": "ハワイでホエールウォッチングをした。"
+    },
+    {
+      "source": "original",
+      "label": "しお",
+      "en": "The whale blew water into the air.",
+      "ja": "クジラが潮をふいた。"
+    }
+  ],
+  "check_points": [
+    "クジラが魚でないことを英語で言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で環境の話題として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2206
+    }
+  ]
+}

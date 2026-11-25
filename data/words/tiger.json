@@ -1,0 +1,84 @@
+{
+  "word": "tiger",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈtaɪɡər/",
+  "core_image": {
+    "text": "しま模様の大きな猛獣(トラ)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><ellipse cx=\"110\" cy=\"96\" rx=\"50\" ry=\"18\"/><circle cx=\"170\" cy=\"84\" r=\"14\"/><line x1=\"90\" y1=\"80\" x2=\"96\" y2=\"112\"/><line x1=\"110\" y1=\"78\" x2=\"116\" y2=\"114\"/><line x1=\"130\" y1=\"80\" x2=\"136\" y2=\"112\"/><line x1=\"76\" y1=\"112\" x2=\"76\" y2=\"140\"/><line x1=\"146\" y1=\"112\" x2=\"146\" y2=\"140\"/><path d=\"M60 90 Q40 80 46 64\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">トラ</text></svg>"
+  },
+  "etymology": "ギリシャ語 tigris(トラ) → トラ",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a large wild cat with orange fur and black stripes, living in Asia."
+    }
+  ],
+  "cautions": [
+    "tiger=トラ(アジアにすむ)/lion=ライオン(アフリカ)",
+    "a paper tiger=張り子のトラ(見かけだおし)",
+    "endangered=絶滅危惧の"
+  ],
+  "patterns": [
+    {
+      "form": "a paper tiger",
+      "meaning": "張り子のトラ"
+    },
+    {
+      "form": "an endangered tiger",
+      "meaning": "絶滅危惧のトラ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "トラ",
+      "en": "Tigers have black stripes.",
+      "ja": "トラには黒いしまがある。"
+    },
+    {
+      "source": "original",
+      "label": "絶滅危惧",
+      "en": "Tigers are an endangered species.",
+      "ja": "トラは絶滅危惧種だ。"
+    },
+    {
+      "source": "original",
+      "label": "見かけだおし",
+      "en": "The army was just a paper tiger.",
+      "ja": "その軍隊は張り子のトラにすぎなかった。"
+    },
+    {
+      "source": "original",
+      "label": "アジア",
+      "en": "Tigers live in the forests of Asia.",
+      "ja": "トラはアジアの森にすむ。"
+    },
+    {
+      "source": "original",
+      "label": "ひとりで",
+      "en": "Unlike lions, tigers usually hunt alone.",
+      "ja": "ライオンとちがい、トラはふつう単独で狩りをする。"
+    },
+    {
+      "source": "original",
+      "label": "動物園",
+      "en": "We saw a white tiger at the zoo.",
+      "ja": "動物園でホワイトタイガーを見た。"
+    }
+  ],
+  "check_points": [
+    "a paper tiger の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2200
+    }
+  ]
+}
