@@ -1,0 +1,98 @@
+{
+  "word": "grade",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ɡreɪd/",
+  "core_image": {
+    "text": "階段の一段のような、段階・等級",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"30,140 30,120 80,120 80,100 130,100 130,80 180,80 180,60 210,60\"/><circle cx=\"105\" cy=\"90\" r=\"4\"/></g><text x=\"80\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">段階</text></svg>"
+  },
+  "etymology": "ラテン語 gradus(一歩・段。gradual・graduate・degree と同じ根) → 段階・等級 → (学校の)学年(米)・成績・評価 → (動詞)等級に分ける・採点する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a level of quality or importance; a mark given for school work; a year of school (US)."
+    },
+    {
+      "pos": "動詞",
+      "text": "to give a mark to students' work; to sort things by quality."
+    }
+  ],
+  "cautions": [
+    "grade=成績・評価(get a good grade)/学年(米:the fifth grade=5年生)",
+    "score=点数/grade=(A・B などの)評価",
+    "grade papers=答案を採点する",
+    "make the grade=合格する・基準に達する"
+  ],
+  "patterns": [
+    {
+      "form": "get good grades",
+      "meaning": "よい成績をとる"
+    },
+    {
+      "form": "the first grade",
+      "meaning": "1年生"
+    },
+    {
+      "form": "grade A",
+      "meaning": "Aを採点する"
+    },
+    {
+      "form": "make the grade",
+      "meaning": "基準に達する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "成績",
+      "en": "She always gets good grades.",
+      "ja": "彼女はいつもよい成績をとる。"
+    },
+    {
+      "source": "original",
+      "label": "年生",
+      "en": "My brother is in the fifth grade.",
+      "ja": "弟は5年生だ。"
+    },
+    {
+      "source": "original",
+      "label": "採点する",
+      "en": "The teacher is grading our tests.",
+      "ja": "先生は私たちのテストを採点している。"
+    },
+    {
+      "source": "original",
+      "label": "等級",
+      "en": "This is high-grade beef.",
+      "ja": "これは上等な牛肉だ。"
+    },
+    {
+      "source": "original",
+      "label": "基準に達する",
+      "en": "Only a few players make the grade.",
+      "ja": "基準に達する選手はほんのわずかだ。"
+    },
+    {
+      "source": "original",
+      "label": "評価",
+      "en": "I got an A grade in English.",
+      "ja": "英語でA評価をもらった。"
+    }
+  ],
+  "check_points": [
+    "grade の意味(成績・学年・等級)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "get good grades、grade(米:学年)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1604
+    }
+  ]
+}

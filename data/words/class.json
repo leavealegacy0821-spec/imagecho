@@ -1,0 +1,102 @@
+{
+  "word": "class",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/klæs/",
+  "core_image": {
+    "text": "同じ仲間として呼び集められた、ひとまとまり",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"40\" width=\"160\" height=\"90\"/><circle cx=\"70\" cy=\"70\" r=\"8\"/><circle cx=\"100\" cy=\"70\" r=\"8\"/><circle cx=\"130\" cy=\"70\" r=\"8\"/><circle cx=\"160\" cy=\"70\" r=\"8\"/><circle cx=\"70\" cy=\"100\" r=\"8\"/><circle cx=\"100\" cy=\"100\" r=\"8\"/><circle cx=\"130\" cy=\"100\" r=\"8\"/><circle cx=\"160\" cy=\"100\" r=\"8\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひとまとまり</text></svg>"
+  },
+  "etymology": "ラテン語 classis(呼び集められた人々・区分) → 階級・部類 → (学校の)クラス・授業 → (乗り物の)等級(first class) → classify=分類する/classic=一流の",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a group of students taught together; a period of teaching; a social group; a group of things with similar features."
+    },
+    {
+      "pos": "動詞",
+      "text": "to put someone or something in a particular group."
+    }
+  ],
+  "cautions": [
+    "class=クラス(の生徒)・授業・階級・部類",
+    "in class=授業中に/after class=授業後",
+    "the middle [working] class=中流[労働者]階級",
+    "first class=一等/world-class=世界一流の/classify=分類する"
+  ],
+  "patterns": [
+    {
+      "form": "in class",
+      "meaning": "授業中に"
+    },
+    {
+      "form": "a math class",
+      "meaning": "数学の授業"
+    },
+    {
+      "form": "the middle class",
+      "meaning": "中流階級"
+    },
+    {
+      "form": "first class",
+      "meaning": "一等・一流"
+    },
+    {
+      "form": "classify A",
+      "meaning": "Aを分類する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "授業中",
+      "en": "Don't use your phone in class.",
+      "ja": "授業中にスマホを使ってはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "授業",
+      "en": "I have three classes this afternoon.",
+      "ja": "今日の午後は授業が3つある。"
+    },
+    {
+      "source": "original",
+      "label": "クラス",
+      "en": "There are 35 students in our class.",
+      "ja": "私たちのクラスには35人の生徒がいる。"
+    },
+    {
+      "source": "original",
+      "label": "中流階級",
+      "en": "The middle class is getting smaller.",
+      "ja": "中流階級が縮小している。"
+    },
+    {
+      "source": "original",
+      "label": "一流",
+      "en": "She is a world-class pianist.",
+      "ja": "彼女は世界一流のピアニストだ。"
+    },
+    {
+      "source": "original",
+      "label": "分類する",
+      "en": "Scientists classify animals into groups.",
+      "ja": "科学者は動物をグループに分類する。"
+    }
+  ],
+  "check_points": [
+    "class の意味(クラス・授業・階級)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "in class、middle class が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1601
+    }
+  ]
+}

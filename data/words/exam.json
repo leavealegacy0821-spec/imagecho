@@ -1,0 +1,97 @@
+{
+  "word": "exam",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ɪɡˈzæm/",
+  "core_image": {
+    "text": "力を細かくはかる、正式な試験",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"30\" width=\"120\" height=\"100\"/><line x1=\"76\" y1=\"50\" x2=\"164\" y2=\"50\"/><line x1=\"76\" y1=\"70\" x2=\"164\" y2=\"70\"/><line x1=\"76\" y1=\"90\" x2=\"164\" y2=\"90\"/><line x1=\"76\" y1=\"110\" x2=\"130\" y2=\"110\"/><circle cx=\"196\" cy=\"40\" r=\"14\"/><line x1=\"196\" y1=\"40\" x2=\"196\" y2=\"30\"/><line x1=\"196\" y1=\"40\" x2=\"204\" y2=\"44\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">正式な試験</text></svg>"
+  },
+  "etymology": "examination(examine=細かく調べる の名詞)の短縮 → 力を細かく調べる試験 → 入学試験・期末試験",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a formal test of knowledge or ability, especially at school or college."
+    }
+  ],
+  "cautions": [
+    "test=テスト(広い・小さいものも)/exam=(期末・入試などの)正式な試験/quiz=小テスト",
+    "take [sit] an exam=試験を受ける/pass [fail] an exam=合格する[落ちる]",
+    "× receive an exam / × do an exam は避ける",
+    "an entrance exam=入学試験"
+  ],
+  "patterns": [
+    {
+      "form": "take an exam",
+      "meaning": "試験を受ける"
+    },
+    {
+      "form": "pass an exam",
+      "meaning": "試験に合格する"
+    },
+    {
+      "form": "fail an exam",
+      "meaning": "試験に落ちる"
+    },
+    {
+      "form": "an entrance exam",
+      "meaning": "入試"
+    },
+    {
+      "form": "study for an exam",
+      "meaning": "試験勉強をする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "試験を受ける",
+      "en": "I have to take an exam tomorrow.",
+      "ja": "明日試験を受けなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "合格する",
+      "en": "She passed the entrance exam.",
+      "ja": "彼女は入学試験に合格した。"
+    },
+    {
+      "source": "original",
+      "label": "試験勉強",
+      "en": "I'm studying for my final exams.",
+      "ja": "期末試験の勉強をしている。"
+    },
+    {
+      "source": "original",
+      "label": "落ちる",
+      "en": "He failed the exam and had to take it again.",
+      "ja": "彼は試験に落ちて受け直さなければならなかった。"
+    },
+    {
+      "source": "original",
+      "label": "試験",
+      "en": "The exam results will be announced next week.",
+      "ja": "試験の結果は来週発表される。"
+    },
+    {
+      "source": "original",
+      "label": "試験",
+      "en": "How did your exam go?",
+      "ja": "試験はどうだった?"
+    }
+  ],
+  "check_points": [
+    "take / pass / fail an exam の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "take an exam(× receive)が語法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1605
+    }
+  ]
+}

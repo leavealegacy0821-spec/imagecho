@@ -1,0 +1,98 @@
+{
+  "word": "lecture",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈlektʃər/",
+  "core_image": {
+    "text": "大勢の前で読み聞かせる、講義・お説教",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"140\" y2=\"60\"/><rect x=\"104\" y=\"96\" width=\"32\" height=\"44\"/><circle cx=\"50\" cy=\"120\" r=\"8\"/><circle cx=\"76\" cy=\"124\" r=\"8\"/><circle cx=\"164\" cy=\"124\" r=\"8\"/><circle cx=\"190\" cy=\"120\" r=\"8\"/></g><text x=\"190\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">講義</text></svg>"
+  },
+  "etymology": "ラテン語 lectura(読むこと。lesson と同じ根) → 書物を読み聞かせる → (大学の)講義・講演 → (うんざりする)お説教 → lecturer=講師",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a talk to a group of people about a subject, especially at a university; a long serious talk criticizing someone."
+    },
+    {
+      "pos": "動詞",
+      "text": "to give a lecture; to talk angrily to someone about their behavior."
+    }
+  ],
+  "cautions": [
+    "class=授業/lesson=けいこ/lecture=(大学の)講義・講演・(長い)お説教",
+    "give a lecture on A=Aについて講義する",
+    "attend a lecture=講義に出る",
+    "lecture A about B=AにBのことでお説教する"
+  ],
+  "patterns": [
+    {
+      "form": "give a lecture on A",
+      "meaning": "Aについて講義する"
+    },
+    {
+      "form": "attend a lecture",
+      "meaning": "講義に出る"
+    },
+    {
+      "form": "lecture A about B",
+      "meaning": "AにBのことで説教する"
+    },
+    {
+      "form": "a lecturer",
+      "meaning": "講師"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "講義",
+      "en": "The professor gave a lecture on history.",
+      "ja": "教授は歴史について講義をした。"
+    },
+    {
+      "source": "original",
+      "label": "講義に出る",
+      "en": "I attended a lecture on climate change.",
+      "ja": "気候変動についての講演を聞きに行った。"
+    },
+    {
+      "source": "original",
+      "label": "説教する",
+      "en": "My father lectured me about coming home late.",
+      "ja": "父は帰りが遅いことで私に説教した。"
+    },
+    {
+      "source": "original",
+      "label": "講義",
+      "en": "The lecture lasted two hours.",
+      "ja": "講義は2時間続いた。"
+    },
+    {
+      "source": "original",
+      "label": "講師",
+      "en": "She is a lecturer at a university.",
+      "ja": "彼女は大学の講師だ。"
+    },
+    {
+      "source": "original",
+      "label": "お説教",
+      "en": "I don't need another lecture from you.",
+      "ja": "もう君のお説教はたくさんだ。"
+    }
+  ],
+  "check_points": [
+    "class・lesson・lecture のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "lecture が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1603
+    }
+  ]
+}

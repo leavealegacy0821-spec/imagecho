@@ -1,0 +1,98 @@
+{
+  "word": "lesson",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈlesn/",
+  "core_image": {
+    "text": "読んで身につける、ひとまとまりの教えと教訓",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"90\" y2=\"66\"/><rect x=\"100\" y=\"50\" width=\"60\" height=\"40\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"180\" y2=\"92\"/><line x1=\"190\" y1=\"74\" x2=\"200\" y2=\"92\"/></g><text x=\"130\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">教え</text></svg>"
+  },
+  "etymology": "ラテン語 lectio(読むこと。lecture・legend と同じ「読む」根) → 読んで学ぶ一区切り → けいこ・授業(piano lessons) → (経験からの)教訓",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a period of time in which someone is taught something; something you learn from experience."
+    }
+  ],
+  "cautions": [
+    "class=学校の授業(時間)/lesson=(個人の)けいこ・レッスン・教科書の課・教訓",
+    "take [have] lessons=レッスンを受ける",
+    "learn a lesson=教訓を得る/teach A a lesson=Aにお灸をすえる",
+    "lecture=大学の講義"
+  ],
+  "patterns": [
+    {
+      "form": "take lessons",
+      "meaning": "レッスンを受ける"
+    },
+    {
+      "form": "piano lessons",
+      "meaning": "ピアノのけいこ"
+    },
+    {
+      "form": "learn a lesson",
+      "meaning": "教訓を学ぶ"
+    },
+    {
+      "form": "teach A a lesson",
+      "meaning": "Aを懲らしめる"
+    },
+    {
+      "form": "Lesson 5",
+      "meaning": "第5課"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "レッスン",
+      "en": "I take piano lessons every week.",
+      "ja": "毎週ピアノのレッスンを受けている。"
+    },
+    {
+      "source": "original",
+      "label": "教訓",
+      "en": "I learned a lesson from my mistake.",
+      "ja": "失敗から教訓を学んだ。"
+    },
+    {
+      "source": "original",
+      "label": "懲らしめる",
+      "en": "Someone should teach him a lesson.",
+      "ja": "誰かが彼を懲らしめるべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "課",
+      "en": "Open your books to Lesson 5.",
+      "ja": "教科書の第5課を開きなさい。"
+    },
+    {
+      "source": "original",
+      "label": "教訓",
+      "en": "The story has an important lesson.",
+      "ja": "その話には大切な教訓がある。"
+    },
+    {
+      "source": "original",
+      "label": "けいこ",
+      "en": "She gives swimming lessons to children.",
+      "ja": "彼女は子どもに水泳を教えている。"
+    }
+  ],
+  "check_points": [
+    "learn a lesson の意味を言えるか",
+    "class と lesson のちがいがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "learn a lesson が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1602
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "word": "school",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/skuːl/",
+  "core_image": {
+    "text": "ひまをつかって学ぶ場所、学校",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"50\" y=\"70\" width=\"140\" height=\"70\"/><polygon points=\"44,70 120,36 196,70\"/><rect x=\"110\" y=\"110\" width=\"20\" height=\"30\"/><rect x=\"66\" y=\"84\" width=\"20\" height=\"16\"/><rect x=\"154\" y=\"84\" width=\"20\" height=\"16\"/><circle cx=\"120\" cy=\"54\" r=\"8\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">学校</text></svg>"
+  },
+  "etymology": "ギリシャ語 scholē(ひま・余暇) → ひまな時間に議論すること → 学びの場・学校 → (学問の)学派・流派 → (別語源)魚の群れ(a school of fish)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a place where children go to learn; the time spent there; a college or university department; a large group of fish."
+    }
+  ],
+  "cautions": [
+    "go to school=通学する(無冠詞=学校の本来の目的)/go to the school=(用事で)その学校へ行く",
+    "at school=学校で・在学中/after school=放課後",
+    "a school of thought=学派",
+    "a school of fish=魚の群れ(別語源)"
+  ],
+  "patterns": [
+    {
+      "form": "go to school",
+      "meaning": "通学する"
+    },
+    {
+      "form": "at school",
+      "meaning": "学校で"
+    },
+    {
+      "form": "after school",
+      "meaning": "放課後"
+    },
+    {
+      "form": "leave school",
+      "meaning": "卒業する・退学する"
+    },
+    {
+      "form": "a school of fish",
+      "meaning": "魚の群れ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "学校に行く",
+      "en": "My sister goes to school by bus.",
+      "ja": "妹はバスで学校に通っている。"
+    },
+    {
+      "source": "original",
+      "label": "放課後",
+      "en": "Let's play soccer after school.",
+      "ja": "放課後サッカーしよう。"
+    },
+    {
+      "source": "original",
+      "label": "学校で",
+      "en": "What did you learn at school today?",
+      "ja": "今日学校で何を習ったの?"
+    },
+    {
+      "source": "original",
+      "label": "その学校へ",
+      "en": "My mother went to the school to see my teacher.",
+      "ja": "母は先生に会うために学校へ行った。"
+    },
+    {
+      "source": "original",
+      "label": "学派",
+      "en": "There are two schools of thought on this issue.",
+      "ja": "この問題については2つの考え方がある。"
+    },
+    {
+      "source": "original",
+      "label": "群れ",
+      "en": "We saw a school of fish in the sea.",
+      "ja": "海で魚の群れを見た。"
+    }
+  ],
+  "check_points": [
+    "go to school と go to the school のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "無冠詞の go to school が文法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1600
+    }
+  ]
+}

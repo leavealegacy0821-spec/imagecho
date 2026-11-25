@@ -1,0 +1,98 @@
+{
+  "word": "quiz",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/kwɪz/",
+  "core_image": {
+    "text": "さっと答えさせる、小さな問題・小テスト",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"70\" y=\"40\" width=\"100\" height=\"70\"/><path d=\"M110 60 q0 -10 10 -10 q10 0 10 8 q0 6 -10 8 l0 6\"/><circle cx=\"120\" cy=\"86\" r=\"3\"/><line x1=\"70\" y1=\"124\" x2=\"170\" y2=\"124\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">小テスト</text></svg>"
+  },
+  "etymology": "(語源ははっきりしない)からかい・ちょっとした質問 → 簡単な問題・クイズ → (授業の)小テスト → (動詞)質問攻めにする",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a game or competition in which you answer questions; a short test at school."
+    },
+    {
+      "pos": "動詞",
+      "text": "to ask someone a lot of questions."
+    }
+  ],
+  "cautions": [
+    "exam=正式な試験/test=テスト/quiz=授業中の短い小テスト・クイズ",
+    "a pop quiz=抜き打ちテスト",
+    "a quiz show=クイズ番組",
+    "複数形 quizzes(z を重ねる)"
+  ],
+  "patterns": [
+    {
+      "form": "a quiz",
+      "meaning": "小テスト・クイズ"
+    },
+    {
+      "form": "a pop quiz",
+      "meaning": "抜き打ちテスト"
+    },
+    {
+      "form": "a quiz show",
+      "meaning": "クイズ番組"
+    },
+    {
+      "form": "quiz A about B",
+      "meaning": "AにBのことを質問攻めにする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "小テスト",
+      "en": "We have a vocabulary quiz every Monday.",
+      "ja": "毎週月曜に単語の小テストがある。"
+    },
+    {
+      "source": "original",
+      "label": "抜き打ちテスト",
+      "en": "The teacher gave us a pop quiz.",
+      "ja": "先生は抜き打ちテストをした。"
+    },
+    {
+      "source": "original",
+      "label": "クイズ番組",
+      "en": "My family loves watching quiz shows.",
+      "ja": "家族はクイズ番組を見るのが大好きだ。"
+    },
+    {
+      "source": "original",
+      "label": "質問攻め",
+      "en": "My mother quizzed me about my new friend.",
+      "ja": "母は新しい友達のことを私に質問攻めにした。"
+    },
+    {
+      "source": "original",
+      "label": "クイズ",
+      "en": "Let's have a quiz about Japanese history.",
+      "ja": "日本史クイズをしよう。"
+    },
+    {
+      "source": "original",
+      "label": "小テスト",
+      "en": "I got full marks on the quiz.",
+      "ja": "小テストで満点をとった。"
+    }
+  ],
+  "check_points": [
+    "exam・test・quiz のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "pop quiz が会話で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1607
+    }
+  ]
+}
