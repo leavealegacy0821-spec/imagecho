@@ -1,0 +1,98 @@
+{
+  "word": "pencil",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈpensl/",
+  "core_image": {
+    "text": "しんで書き、消せる鉛筆",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"50\" y=\"70\" width=\"120\" height=\"20\"/><polygon points=\"170,70 200,80 170,90\"/><line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"90\"/><rect x=\"40\" y=\"70\" width=\"10\" height=\"20\"/></g><text x=\"120\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">えんぴつ</text></svg>"
+  },
+  "etymology": "ラテン語 penicillus(小さな筆:「小さなしっぽ」から) → 細い筆 → 鉛筆",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an object for writing or drawing, with a thin stick of black material inside."
+    },
+    {
+      "pos": "動詞",
+      "text": "(pencil in) to arrange something that might change later."
+    }
+  ],
+  "cautions": [
+    "in pencil=鉛筆で",
+    "pencil A in=Aを(仮に)予定に入れる",
+    "eraser=消しゴム",
+    "sharpen a pencil=鉛筆をけずる"
+  ],
+  "patterns": [
+    {
+      "form": "write in pencil",
+      "meaning": "鉛筆で書く"
+    },
+    {
+      "form": "pencil A in",
+      "meaning": "Aを仮に予定に入れる"
+    },
+    {
+      "form": "sharpen a pencil",
+      "meaning": "鉛筆をけずる"
+    },
+    {
+      "form": "pencil case",
+      "meaning": "筆箱"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "鉛筆",
+      "en": "Write your name in pencil.",
+      "ja": "名前を鉛筆で書きなさい。"
+    },
+    {
+      "source": "original",
+      "label": "けずる",
+      "en": "I need to sharpen my pencil.",
+      "ja": "鉛筆をけずらないと。"
+    },
+    {
+      "source": "original",
+      "label": "仮の予定",
+      "en": "I'll pencil you in for Monday.",
+      "ja": "月曜日にとりあえず予定を入れておくね。"
+    },
+    {
+      "source": "original",
+      "label": "筆箱",
+      "en": "My pencil case is full of pens.",
+      "ja": "私の筆箱はペンでいっぱいだ。"
+    },
+    {
+      "source": "original",
+      "label": "消す",
+      "en": "You can erase pencil marks.",
+      "ja": "鉛筆の跡は消せる。"
+    },
+    {
+      "source": "original",
+      "label": "絵",
+      "en": "He drew a picture with colored pencils.",
+      "ja": "彼は色鉛筆で絵をかいた。"
+    }
+  ],
+  "check_points": [
+    "pencil A in の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "基本語として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2285
+    }
+  ]
+}

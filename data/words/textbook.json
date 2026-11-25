@@ -1,0 +1,93 @@
+{
+  "word": "textbook",
+  "pos": [
+    "名詞",
+    "形容詞"
+  ],
+  "ipa": "/ˈtekstbʊk/",
+  "core_image": {
+    "text": "授業で使う本(教科書)・お手本どおりの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"70\" y=\"40\" width=\"100\" height=\"90\"/><line x1=\"80\" y1=\"40\" x2=\"80\" y2=\"130\"/><line x1=\"96\" y1=\"64\" x2=\"156\" y2=\"64\"/><line x1=\"96\" y1=\"80\" x2=\"150\" y2=\"80\"/></g><text x=\"120\" y=\"150\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">きょうかしょ</text></svg>"
+  },
+  "etymology": "text(文章:ラテン語 textus=織られたもの) + book(本) → 教科書",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a book used for studying a subject."
+    },
+    {
+      "pos": "形容詞",
+      "text": "done in exactly the right way."
+    }
+  ],
+  "cautions": [
+    "textbook=教科書",
+    "a textbook example=典型的な例・お手本",
+    "text=文章・本文・(携帯の)メッセージ"
+  ],
+  "patterns": [
+    {
+      "form": "an English textbook",
+      "meaning": "英語の教科書"
+    },
+    {
+      "form": "a textbook example of A",
+      "meaning": "Aの典型例"
+    },
+    {
+      "form": "open your textbooks",
+      "meaning": "教科書を開いて"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "教科書",
+      "en": "Open your textbooks to page 30.",
+      "ja": "教科書の30ページを開きなさい。"
+    },
+    {
+      "source": "original",
+      "label": "忘れる",
+      "en": "I forgot my math textbook.",
+      "ja": "数学の教科書を忘れた。"
+    },
+    {
+      "source": "original",
+      "label": "典型",
+      "en": "This is a textbook example of good teamwork.",
+      "ja": "これはよいチームワークのお手本だ。"
+    },
+    {
+      "source": "original",
+      "label": "新しい",
+      "en": "We got new textbooks in April.",
+      "ja": "4月に新しい教科書をもらった。"
+    },
+    {
+      "source": "original",
+      "label": "お手本どおり",
+      "en": "It was a textbook goal.",
+      "ja": "それは教科書どおりのゴールだった。"
+    },
+    {
+      "source": "original",
+      "label": "メッセージ",
+      "en": "I'll text you later.",
+      "ja": "あとでメッセージを送るね。"
+    }
+  ],
+  "check_points": [
+    "a textbook example の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "基本語として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2282
+    }
+  ]
+}

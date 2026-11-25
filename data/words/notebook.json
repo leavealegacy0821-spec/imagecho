@@ -1,0 +1,88 @@
+{
+  "word": "notebook",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈnoʊtbʊk/",
+  "core_image": {
+    "text": "書きこむためのノート・ノートパソコン",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"40\" width=\"80\" height=\"90\"/><circle cx=\"40\" cy=\"56\" r=\"4\"/><circle cx=\"40\" cy=\"80\" r=\"4\"/><circle cx=\"40\" cy=\"104\" r=\"4\"/><line x1=\"52\" y1=\"64\" x2=\"110\" y2=\"64\"/><line x1=\"52\" y1=\"80\" x2=\"110\" y2=\"80\"/><rect x=\"140\" y=\"70\" width=\"80\" height=\"50\"/><line x1=\"130\" y1=\"120\" x2=\"230\" y2=\"120\"/></g><text x=\"180\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ノート</text></svg>"
+  },
+  "etymology": "note(メモ:ラテン語 nota=しるし) + book(本) → メモ帳・ノート",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a book of plain paper for writing notes; a small computer that you can carry."
+    }
+  ],
+  "cautions": [
+    "notebook=ノート(「ノート」を note とは言わない:note=メモ)",
+    "take notes in a notebook=ノートにメモをとる",
+    "a notebook computer=ノートパソコン(laptop)"
+  ],
+  "patterns": [
+    {
+      "form": "write in a notebook",
+      "meaning": "ノートに書く"
+    },
+    {
+      "form": "take notes",
+      "meaning": "メモをとる"
+    },
+    {
+      "form": "a notebook computer",
+      "meaning": "ノートパソコン"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ノート",
+      "en": "Write the new words in your notebook.",
+      "ja": "新しい単語をノートに書きなさい。"
+    },
+    {
+      "source": "original",
+      "label": "メモ",
+      "en": "Take notes during the lecture.",
+      "ja": "講義の間メモをとりなさい。"
+    },
+    {
+      "source": "original",
+      "label": "パソコン",
+      "en": "I use a notebook computer at school.",
+      "ja": "学校でノートパソコンを使っている。"
+    },
+    {
+      "source": "original",
+      "label": "note",
+      "en": "I left a note on the table.",
+      "ja": "テーブルにメモを残した。"
+    },
+    {
+      "source": "original",
+      "label": "日記",
+      "en": "She keeps a notebook of her ideas.",
+      "ja": "彼女はアイデアをノートにためている。"
+    },
+    {
+      "source": "original",
+      "label": "買う",
+      "en": "I need a new notebook for math.",
+      "ja": "数学用の新しいノートが必要だ。"
+    }
+  ],
+  "check_points": [
+    "「ノート」を英語で言えるか(notebook)"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "note / notebook の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2283
+    }
+  ]
+}
