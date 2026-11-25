@@ -1,0 +1,98 @@
+{
+  "word": "neighbor",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈneɪbər/",
+  "core_image": {
+    "text": "すぐ近くに住む人・となりの国",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"20\" y=\"90\" width=\"60\" height=\"50\"/><polygon points=\"14,90 50,60 86,90\"/><rect x=\"160\" y=\"90\" width=\"60\" height=\"50\"/><polygon points=\"154,90 190,60 226,90\"/><circle cx=\"110\" cy=\"52\" r=\"10\"/><line x1=\"110\" y1=\"62\" x2=\"110\" y2=\"106\"/><line x1=\"110\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"110\" y1=\"106\" x2=\"120\" y2=\"140\"/><circle cx=\"140\" cy=\"52\" r=\"10\"/><line x1=\"140\" y1=\"62\" x2=\"140\" y2=\"106\"/><line x1=\"140\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"140\" y1=\"106\" x2=\"150\" y2=\"140\"/></g><text x=\"120\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">となり</text></svg>"
+  },
+  "etymology": "古い英語 nēahgebūr(nēah=近い:near と同じ + gebūr=住む人) → 近くに住む人 → 隣人・となりの国",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a person who lives near you; a country next to another."
+    },
+    {
+      "pos": "動詞",
+      "text": "(neighbor on) to be next to."
+    }
+  ],
+  "cautions": [
+    "(英)neighbour",
+    "neighborhood=近所・地域",
+    "neighboring=となりの(neighboring countries)",
+    "Love your neighbor.=隣人を愛せ"
+  ],
+  "patterns": [
+    {
+      "form": "next-door neighbor",
+      "meaning": "となりの人"
+    },
+    {
+      "form": "neighborhood",
+      "meaning": "近所"
+    },
+    {
+      "form": "neighboring countries",
+      "meaning": "近隣諸国"
+    },
+    {
+      "form": "in the neighborhood",
+      "meaning": "近所に"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "となりの人",
+      "en": "Our next-door neighbor is very friendly.",
+      "ja": "となりの人はとても親切だ。"
+    },
+    {
+      "source": "original",
+      "label": "近所",
+      "en": "Is there a supermarket in the neighborhood?",
+      "ja": "近所にスーパーはありますか。"
+    },
+    {
+      "source": "original",
+      "label": "近隣諸国",
+      "en": "Japan trades with its neighboring countries.",
+      "ja": "日本は近隣諸国と貿易している。"
+    },
+    {
+      "source": "original",
+      "label": "あいさつ",
+      "en": "We said hello to our new neighbors.",
+      "ja": "新しいご近所さんにあいさつした。"
+    },
+    {
+      "source": "original",
+      "label": "騒音",
+      "en": "The neighbors complained about the noise.",
+      "ja": "近所の人が騒音に苦情を言った。"
+    },
+    {
+      "source": "original",
+      "label": "隣国",
+      "en": "France and Germany are neighbors.",
+      "ja": "フランスとドイツはとなり合う国だ。"
+    }
+  ],
+  "check_points": [
+    "neighborhood の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "neighborhood、neighboring が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2085
+    }
+  ]
+}

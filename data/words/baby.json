@@ -1,0 +1,94 @@
+{
+  "word": "baby",
+  "pos": [
+    "名詞",
+    "形容詞"
+  ],
+  "ipa": "/ˈbeɪbi/",
+  "core_image": {
+    "text": "生まれたばかりの赤ちゃん・小さくて新しいもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"96\" r=\"14\"/><ellipse cx=\"120\" cy=\"126\" rx=\"20\" ry=\"14\"/><path d=\"M112 94 Q114 92 116 94 M124 94 Q126 92 128 94\"/><path d=\"M116 102 Q120 106 124 102\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あかちゃん</text></svg>"
+  },
+  "etymology": "中英語 babe(赤ちゃん) → 赤ちゃん → 小型の・(動物の)子ども",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a very young child; a very young animal."
+    },
+    {
+      "pos": "形容詞",
+      "text": "very young or small."
+    }
+  ],
+  "cautions": [
+    "baby=生まれたばかりの赤ちゃん/child=子ども(広い)/infant=乳児(改まった)",
+    "have a baby=子どもを産む",
+    "a baby elephant=子ゾウ",
+    "babysit=子守りをする"
+  ],
+  "patterns": [
+    {
+      "form": "have a baby",
+      "meaning": "子どもを産む"
+    },
+    {
+      "form": "a baby A",
+      "meaning": "子どものA・小型のA"
+    },
+    {
+      "form": "babysit",
+      "meaning": "子守りをする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "赤ちゃん",
+      "en": "The baby is sleeping in the next room.",
+      "ja": "赤ちゃんは隣の部屋で寝ている。"
+    },
+    {
+      "source": "original",
+      "label": "産む",
+      "en": "My sister had a baby last month.",
+      "ja": "姉が先月赤ちゃんを産んだ。"
+    },
+    {
+      "source": "original",
+      "label": "子ども",
+      "en": "A baby elephant was walking with its mother.",
+      "ja": "子ゾウが母ゾウと歩いていた。"
+    },
+    {
+      "source": "original",
+      "label": "子守り",
+      "en": "I babysit my neighbor's kids on weekends.",
+      "ja": "週末は近所の子の子守りをしている。"
+    },
+    {
+      "source": "original",
+      "label": "小さい",
+      "en": "We planted some baby trees.",
+      "ja": "苗木を何本か植えた。"
+    },
+    {
+      "source": "original",
+      "label": "あやす",
+      "en": "She sang to the crying baby.",
+      "ja": "彼女は泣いている赤ちゃんに歌って聞かせた。"
+    }
+  ],
+  "check_points": [
+    "have a baby の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "have a baby が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2079
+    }
+  ]
+}

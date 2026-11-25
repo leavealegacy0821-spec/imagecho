@@ -1,0 +1,94 @@
+{
+  "word": "elderly",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/ˈeldərli/",
+  "core_image": {
+    "text": "年をとった(ていねいな言い方)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"110\" cy=\"56\" r=\"12\"/><path d=\"M110 68 Q114 90 108 110\"/><line x1=\"108\" y1=\"110\" x2=\"100\" y2=\"140\"/><line x1=\"108\" y1=\"110\" x2=\"118\" y2=\"140\"/><line x1=\"112\" y1=\"80\" x2=\"140\" y2=\"96\"/><line x1=\"140\" y1=\"90\" x2=\"144\" y2=\"140\"/></g><text x=\"190\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">おとしより</text></svg>"
+  },
+  "etymology": "elder(年上の:old の比較級の古い形) + -ly(〜のような) → 年長の → 高齢の(old より ていねい)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "(polite) old."
+    },
+    {
+      "pos": "名詞",
+      "text": "(the elderly) old people."
+    }
+  ],
+  "cautions": [
+    "old=年をとった(直接的)/elderly=高齢の(ていねい)/aged=〜歳の・高齢の",
+    "the elderly=お年寄り(複数扱い)",
+    "-ly でも形容詞",
+    "elder=年上の(elder brother=兄)"
+  ],
+  "patterns": [
+    {
+      "form": "the elderly",
+      "meaning": "お年寄り"
+    },
+    {
+      "form": "an elderly man",
+      "meaning": "年配の男性"
+    },
+    {
+      "form": "care for the elderly",
+      "meaning": "高齢者の介護"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "お年寄り",
+      "en": "We should take care of the elderly.",
+      "ja": "お年寄りを大切にすべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "年配",
+      "en": "An elderly woman asked me the way.",
+      "ja": "年配の女性に道をたずねられた。"
+    },
+    {
+      "source": "original",
+      "label": "介護",
+      "en": "My mother works in care for the elderly.",
+      "ja": "母は高齢者介護の仕事をしている。"
+    },
+    {
+      "source": "original",
+      "label": "高齢化",
+      "en": "Japan has a large elderly population.",
+      "ja": "日本は高齢者が多い。"
+    },
+    {
+      "source": "original",
+      "label": "席をゆずる",
+      "en": "I gave my seat to an elderly man.",
+      "ja": "年配の男性に席をゆずった。"
+    },
+    {
+      "source": "original",
+      "label": "年上",
+      "en": "My elder brother is a doctor.",
+      "ja": "兄は医者だ。"
+    }
+  ],
+  "check_points": [
+    "the elderly の意味と数を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "the elderly(複数扱い)が長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2084
+    }
+  ]
+}
