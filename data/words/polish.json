@@ -1,0 +1,98 @@
+{
+  "word": "polish",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈpɑːlɪʃ/",
+  "core_image": {
+    "text": "こすってつやを出し、みがき上げる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"120\" cy=\"100\" rx=\"60\" ry=\"16\"/><path d=\"M90 92 Q100 80 110 92\"/><path d=\"M70 60 L76 50 L82 60 L76 70 Z\"/><path d=\"M160 50 L164 44 L168 50 L164 56 Z\"/><path d=\"M190 80 L194 74 L198 80 L194 86 Z\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぴかぴか</text></svg>"
+  },
+  "etymology": "ラテン語 polire(なめらかにする:polite=みがかれた・洗練された と同じ根) → みがいてつやを出す → (文章・技を)みがき上げる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to rub something to make it shine; to improve something by making small changes."
+    },
+    {
+      "pos": "名詞",
+      "text": "a substance used to make something shine; the quality of being polished."
+    }
+  ],
+  "cautions": [
+    "polish=こすってつやを出す・(技・文章を)仕上げる",
+    "polite(礼儀正しい=みがかれた)と同じ根",
+    "polish up A=Aに磨きをかける",
+    "Polish /ˈpoʊlɪʃ/=ポーランドの(発音がちがう)"
+  ],
+  "patterns": [
+    {
+      "form": "polish A",
+      "meaning": "Aをみがく"
+    },
+    {
+      "form": "polish up A",
+      "meaning": "Aに磨きをかける"
+    },
+    {
+      "form": "shoe polish",
+      "meaning": "靴ずみ"
+    },
+    {
+      "form": "nail polish",
+      "meaning": "マニキュア"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "みがく",
+      "en": "He polished his shoes every morning.",
+      "ja": "彼は毎朝靴をみがいた。"
+    },
+    {
+      "source": "original",
+      "label": "磨きをかける",
+      "en": "I need to polish up my English before the trip.",
+      "ja": "旅行の前に英語に磨きをかけないと。"
+    },
+    {
+      "source": "original",
+      "label": "仕上げる",
+      "en": "She polished her speech many times.",
+      "ja": "彼女は何度もスピーチを練り直した。"
+    },
+    {
+      "source": "original",
+      "label": "つや",
+      "en": "The floor was polished until it shone.",
+      "ja": "床は光るまでみがかれた。"
+    },
+    {
+      "source": "original",
+      "label": "マニキュア",
+      "en": "She is wearing red nail polish.",
+      "ja": "彼女は赤いマニキュアをぬっている。"
+    },
+    {
+      "source": "original",
+      "label": "洗練",
+      "en": "His performance lacked polish.",
+      "ja": "彼の演技には洗練さが欠けていた。"
+    }
+  ],
+  "check_points": [
+    "polish up の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "polish up が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1943
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "mop",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/mɑːp/",
+  "core_image": {
+    "text": "モップで床をふく・(問題の)後始末をする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"80\" y1=\"30\" x2=\"130\" y2=\"120\"/><path d=\"M110 120 L150 120 L156 140 L104 140 Z\"/><path d=\"M60 140 Q70 136 80 140\" stroke-dasharray=\"2 2\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふきふき</text></svg>"
+  },
+  "etymology": "モップ(床ふき)→ モップでふく → (顔の汗を)ぬぐう → mop up=(こぼれた水・残りの問題を)きれいに片づける",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a tool for washing floors, with a long handle and soft material at the end."
+    },
+    {
+      "pos": "動詞",
+      "text": "to clean a floor with a mop; to wipe liquid from your face."
+    }
+  ],
+  "cautions": [
+    "wipe=布でさっとふく/mop=モップで床をふく・(額の汗を)ぬぐう",
+    "mop up A=A(こぼれた液体)をふき取る・(残った問題を)片づける",
+    "活用 mop - mopped - mopped"
+  ],
+  "patterns": [
+    {
+      "form": "mop the floor",
+      "meaning": "床をモップでふく"
+    },
+    {
+      "form": "mop up A",
+      "meaning": "Aをふき取る・片づける"
+    },
+    {
+      "form": "mop one's brow",
+      "meaning": "額の汗をぬぐう"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "床",
+      "en": "I mopped the kitchen floor.",
+      "ja": "台所の床をモップでふいた。"
+    },
+    {
+      "source": "original",
+      "label": "ふき取る",
+      "en": "Mop up the water before someone slips.",
+      "ja": "誰かがすべる前に水をふき取って。"
+    },
+    {
+      "source": "original",
+      "label": "汗",
+      "en": "He mopped his face with a towel.",
+      "ja": "彼はタオルで顔の汗をぬぐった。"
+    },
+    {
+      "source": "original",
+      "label": "後始末",
+      "en": "Soldiers were sent to mop up the remaining enemy.",
+      "ja": "残った敵を一掃するために兵士が送られた。"
+    },
+    {
+      "source": "original",
+      "label": "モップ",
+      "en": "Get the mop from the closet.",
+      "ja": "物置からモップを取ってきて。"
+    },
+    {
+      "source": "original",
+      "label": "そうじ",
+      "en": "We mopped and swept the classroom.",
+      "ja": "私たちは教室をモップでふいてはいた。"
+    }
+  ],
+  "check_points": [
+    "mop up の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "描写文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1946
+    }
+  ]
+}

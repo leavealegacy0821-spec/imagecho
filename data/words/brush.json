@@ -1,0 +1,99 @@
+{
+  "word": "brush",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/brʌʃ/",
+  "core_image": {
+    "text": "ブラシでさっとはらう・軽くかすめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"60\" width=\"80\" height=\"20\"/><line x1=\"140\" y1=\"70\" x2=\"200\" y2=\"70\"/><line x1=\"66\" y1=\"80\" x2=\"66\" y2=\"100\"/><line x1=\"78\" y1=\"80\" x2=\"78\" y2=\"100\"/><line x1=\"90\" y1=\"80\" x2=\"90\" y2=\"100\"/><line x1=\"102\" y1=\"80\" x2=\"102\" y2=\"100\"/><line x1=\"114\" y1=\"80\" x2=\"114\" y2=\"100\"/><line x1=\"126\" y1=\"80\" x2=\"126\" y2=\"100\"/><line x1=\"50\" y1=\"120\" x2=\"150\" y2=\"120\" stroke-dasharray=\"5 5\"/><polyline points=\"143,116.2 150,120 143,123.8\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さっさっ</text></svg>"
+  },
+  "etymology": "古フランス語 broce(小枝・やぶ) → 小枝のたば → ブラシ・はけ → ブラシでこする・はらう → (軽く)かすめる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an object with hairs or wires on a handle, used for cleaning or painting."
+    },
+    {
+      "pos": "動詞",
+      "text": "to clean or tidy something with a brush; to touch lightly; (brush up) to improve a skill."
+    }
+  ],
+  "cautions": [
+    "brush one's teeth=歯をみがく(polish ではない)",
+    "brush up (on) A=A(忘れかけた技能)をみがき直す",
+    "brush A aside=Aを払いのける・無視する",
+    "brush past A=Aをかすめて通る"
+  ],
+  "patterns": [
+    {
+      "form": "brush one's teeth",
+      "meaning": "歯をみがく"
+    },
+    {
+      "form": "brush up (on) A",
+      "meaning": "Aをみがき直す"
+    },
+    {
+      "form": "brush A aside",
+      "meaning": "Aを払いのける"
+    },
+    {
+      "form": "brush past A",
+      "meaning": "Aのそばをかすめる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "歯をみがく",
+      "en": "Brush your teeth before bed.",
+      "ja": "寝る前に歯をみがきなさい。"
+    },
+    {
+      "source": "original",
+      "label": "みがき直す",
+      "en": "I need to brush up on my French.",
+      "ja": "フランス語をみがき直す必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "払いのける",
+      "en": "He brushed aside my question.",
+      "ja": "彼は私の質問を受け流した。"
+    },
+    {
+      "source": "original",
+      "label": "かすめる",
+      "en": "Her hand brushed mine.",
+      "ja": "彼女の手が私の手に軽くふれた。"
+    },
+    {
+      "source": "original",
+      "label": "髪",
+      "en": "She brushed her hair carefully.",
+      "ja": "彼女は髪をていねいにとかした。"
+    },
+    {
+      "source": "original",
+      "label": "はけ",
+      "en": "He painted the wall with a large brush.",
+      "ja": "彼は大きなはけで壁をぬった。"
+    }
+  ],
+  "check_points": [
+    "brush up on A の意味を言えるか",
+    "「歯をみがく」を英語で言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "brush up on、brush one's teeth が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1944
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "scrub",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/skrʌb/",
+  "core_image": {
+    "text": "力を入れて、ごしごしこする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"110\" width=\"160\" height=\"10\"/><rect x=\"90\" y=\"80\" width=\"50\" height=\"20\"/><line x1=\"94\" y1=\"100\" x2=\"94\" y2=\"108\"/><line x1=\"104\" y1=\"100\" x2=\"104\" y2=\"108\"/><line x1=\"114\" y1=\"100\" x2=\"114\" y2=\"108\"/><line x1=\"124\" y1=\"100\" x2=\"124\" y2=\"108\"/><line x1=\"134\" y1=\"100\" x2=\"134\" y2=\"108\"/><line x1=\"60\" y1=\"60\" x2=\"180\" y2=\"60\" stroke-dasharray=\"5 5\"/><polyline points=\"173,56.2 180,60 173,63.8\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ごしごし</text></svg>"
+  },
+  "etymology": "中英語 scrubben(こする:低地ドイツ語から) → ブラシでごしごしこする → (計画を)取り消す(口語)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to clean something by rubbing it hard with a brush; (informal) to cancel."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of scrubbing; low bushes."
+    }
+  ],
+  "cautions": [
+    "rub=こする(広い)/scrub=(よごれを落とすため)力を入れてごしごし/wipe=さっとふく",
+    "scrub A clean=Aをごしごしこすってきれいにする",
+    "scrub the floor=床をみがく"
+  ],
+  "patterns": [
+    {
+      "form": "scrub A",
+      "meaning": "Aをごしごし洗う"
+    },
+    {
+      "form": "scrub A clean",
+      "meaning": "Aをこすってきれいにする"
+    },
+    {
+      "form": "scrub off A",
+      "meaning": "Aをこすり落とす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ごしごし",
+      "en": "She scrubbed the floor on her knees.",
+      "ja": "彼女はひざをついて床をごしごしみがいた。"
+    },
+    {
+      "source": "original",
+      "label": "こすり落とす",
+      "en": "I scrubbed the dirt off my shoes.",
+      "ja": "靴のどろをこすり落とした。"
+    },
+    {
+      "source": "original",
+      "label": "きれいに",
+      "en": "He scrubbed the pan clean.",
+      "ja": "彼はなべをこすってぴかぴかにした。"
+    },
+    {
+      "source": "original",
+      "label": "手",
+      "en": "The doctor scrubbed his hands before the operation.",
+      "ja": "医者は手術の前に手をよく洗った。"
+    },
+    {
+      "source": "original",
+      "label": "ブラシ",
+      "en": "Scrub the potatoes with a brush.",
+      "ja": "じゃがいもをブラシでこすり洗いして。"
+    },
+    {
+      "source": "original",
+      "label": "浴室",
+      "en": "We scrubbed the bathroom from top to bottom.",
+      "ja": "私たちは浴室をすみずみまでみがいた。"
+    }
+  ],
+  "check_points": [
+    "rub と scrub と wipe のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "描写文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1941
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "word": "bathe",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/beɪð/",
+  "core_image": {
+    "text": "体をひたして洗う・光にひたす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M40 80 L40 120 Q40 136 60 136 L180 136 Q200 136 200 120 L200 80\"/><line x1=\"30\" y1=\"80\" x2=\"210\" y2=\"80\"/><circle cx=\"90\" cy=\"66\" r=\"12\"/><path d=\"M60 90 Q80 84 100 90 Q120 96 140 90\"/><path d=\"M80 40 Q84 30 80 20 M100 40 Q104 30 100 20\" stroke-dasharray=\"2 3\"/></g><text x=\"170\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ちゃぷん</text></svg>"
+  },
+  "etymology": "bath(ふろ:名詞)から作られた動詞 → ふろに入る・入浴させる → (傷を)洗う → (光・汗に)ひたされる(bathed in light)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to wash your body or someone else's body; to wash a part of the body; (be bathed in) to be covered with light or liquid."
+    }
+  ],
+  "cautions": [
+    "bath /bæθ/=(名詞)ふろ・bathe /beɪð/=(動詞)入浴する・入浴させる(発音がちがう)",
+    "take a bath=ふろに入る(ふつう)",
+    "bathe a baby=赤ちゃんをふろに入れる",
+    "be bathed in light=光につつまれる"
+  ],
+  "patterns": [
+    {
+      "form": "bathe A",
+      "meaning": "Aを入浴させる・洗う"
+    },
+    {
+      "form": "take a bath",
+      "meaning": "ふろに入る"
+    },
+    {
+      "form": "be bathed in A",
+      "meaning": "A(光)につつまれる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "入浴させる",
+      "en": "She bathes the baby every evening.",
+      "ja": "彼女は毎晩赤ちゃんをおふろに入れる。"
+    },
+    {
+      "source": "original",
+      "label": "ふろに入る",
+      "en": "I take a bath before bed.",
+      "ja": "寝る前にふろに入る。"
+    },
+    {
+      "source": "original",
+      "label": "光",
+      "en": "The room was bathed in sunlight.",
+      "ja": "部屋は日の光につつまれていた。"
+    },
+    {
+      "source": "original",
+      "label": "洗う",
+      "en": "Bathe the cut with warm water.",
+      "ja": "傷口をぬるま湯で洗って。"
+    },
+    {
+      "source": "original",
+      "label": "発音",
+      "en": "\"Bath\" and \"bathe\" are pronounced differently.",
+      "ja": "bath と bathe は発音がちがう。"
+    },
+    {
+      "source": "original",
+      "label": "汗",
+      "en": "He was bathed in sweat after the race.",
+      "ja": "レースのあと彼は汗びっしょりだった。"
+    }
+  ],
+  "check_points": [
+    "bath と bathe の品詞と発音のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "bath / bathe の発音が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1948
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "wash",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/wɑːʃ/",
+  "core_image": {
+    "text": "水を使って、よごれを洗い流す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M60 90 L60 130 L180 130 L180 90\"/><line x1=\"50\" y1=\"90\" x2=\"190\" y2=\"90\"/><line x1=\"140\" y1=\"30\" x2=\"140\" y2=\"50\"/><line x1=\"140\" y1=\"30\" x2=\"170\" y2=\"30\"/><path d=\"M140 56 L140 70 M136 62 L134 76 M144 62 L146 76\" stroke-dasharray=\"2 3\"/><circle cx=\"96\" cy=\"104\" r=\"6\"/><circle cx=\"112\" cy=\"110\" r=\"4\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ざぶざぶ</text></svg>"
+  },
+  "etymology": "古い英語 wascan(洗う:water と同じ仲間) → 水で洗う → (波が)洗う・(水が)押し流す(wash away)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to clean something with water and usually soap; (of water) to flow over or carry something away."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of washing; clothes that are being washed."
+    }
+  ],
+  "cautions": [
+    "wash=水(と石けん)で洗う(広い)/rinse=水ですすぐ/scrub=ごしごしこする",
+    "wash the dishes [one's hands]=皿[手]を洗う",
+    "wash A away=Aを押し流す",
+    "in the wash=洗たく中で"
+  ],
+  "patterns": [
+    {
+      "form": "wash one's hands",
+      "meaning": "手を洗う"
+    },
+    {
+      "form": "wash the dishes",
+      "meaning": "皿を洗う"
+    },
+    {
+      "form": "wash A away",
+      "meaning": "Aを押し流す"
+    },
+    {
+      "form": "do the washing",
+      "meaning": "洗たくをする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "手を洗う",
+      "en": "Wash your hands before you eat.",
+      "ja": "食べる前に手を洗いなさい。"
+    },
+    {
+      "source": "original",
+      "label": "皿洗い",
+      "en": "I'll wash the dishes tonight.",
+      "ja": "今夜は私が皿を洗うよ。"
+    },
+    {
+      "source": "original",
+      "label": "押し流す",
+      "en": "The bridge was washed away by the flood.",
+      "ja": "橋は洪水で押し流された。"
+    },
+    {
+      "source": "original",
+      "label": "洗たく",
+      "en": "My shirt is in the wash.",
+      "ja": "私のシャツは洗たく中だ。"
+    },
+    {
+      "source": "original",
+      "label": "洗たくをする",
+      "en": "I do the washing on Sundays.",
+      "ja": "日曜日に洗たくをする。"
+    },
+    {
+      "source": "original",
+      "label": "波",
+      "en": "Waves washed over the rocks.",
+      "ja": "波が岩を洗った。"
+    }
+  ],
+  "check_points": [
+    "wash A away の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "wash away が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1939
+    }
+  ]
+}

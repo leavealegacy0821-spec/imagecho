@@ -1,0 +1,94 @@
+{
+  "word": "comb",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/koʊm/",
+  "core_image": {
+    "text": "くしの歯で、すじをつけてとかす・くまなくさがす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"50\" width=\"120\" height=\"16\"/><line x1=\"70\" y1=\"66\" x2=\"70\" y2=\"96\"/><line x1=\"82\" y1=\"66\" x2=\"82\" y2=\"96\"/><line x1=\"94\" y1=\"66\" x2=\"94\" y2=\"96\"/><line x1=\"106\" y1=\"66\" x2=\"106\" y2=\"96\"/><line x1=\"118\" y1=\"66\" x2=\"118\" y2=\"96\"/><line x1=\"130\" y1=\"66\" x2=\"130\" y2=\"96\"/><line x1=\"142\" y1=\"66\" x2=\"142\" y2=\"96\"/><line x1=\"154\" y1=\"66\" x2=\"154\" y2=\"96\"/><line x1=\"166\" y1=\"66\" x2=\"166\" y2=\"96\"/><line x1=\"60\" y1=\"120\" x2=\"180\" y2=\"120\"/><polyline points=\"173,116.2 180,120 173,123.8\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すーっ</text></svg>"
+  },
+  "etymology": "古い英語 camb(くし・とさか) → くし → くしでとかす → (くしの歯のように)すみずみまでさがす(comb through)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a flat piece of plastic or metal with a row of thin teeth, used for making hair tidy."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make hair tidy with a comb; to search a place very carefully."
+    }
+  ],
+  "cautions": [
+    "発音 /koʊm/(b は読まない:climb・bomb と同じ)",
+    "comb one's hair=髪をとかす",
+    "comb (through) A=Aをくまなくさがす",
+    "search=さがす(広い)/comb=くしですくように徹底的にさがす"
+  ],
+  "patterns": [
+    {
+      "form": "comb one's hair",
+      "meaning": "髪をとかす"
+    },
+    {
+      "form": "comb (through) A",
+      "meaning": "Aをしらみつぶしに調べる"
+    },
+    {
+      "form": "a fine-tooth comb",
+      "meaning": "目の細かいくし"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "とかす",
+      "en": "She combed her hair in front of the mirror.",
+      "ja": "彼女は鏡の前で髪をとかした。"
+    },
+    {
+      "source": "original",
+      "label": "くまなく",
+      "en": "Police combed the area for clues.",
+      "ja": "警察は手がかりを求めてその地域をくまなく捜索した。"
+    },
+    {
+      "source": "original",
+      "label": "調べる",
+      "en": "I combed through the documents.",
+      "ja": "書類を徹底的に調べた。"
+    },
+    {
+      "source": "original",
+      "label": "くし",
+      "en": "I lost my comb.",
+      "ja": "くしをなくした。"
+    },
+    {
+      "source": "original",
+      "label": "念入り",
+      "en": "They went over the report with a fine-tooth comb.",
+      "ja": "彼らは報告書を念入りに調べた。"
+    },
+    {
+      "source": "original",
+      "label": "発音",
+      "en": "The \"b\" in \"comb\" is silent.",
+      "ja": "comb の b は発音しない。"
+    }
+  ],
+  "check_points": [
+    "comb の発音(b を読まない)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "発音問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1945
+    }
+  ]
+}

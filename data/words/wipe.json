@@ -1,0 +1,98 @@
+{
+  "word": "wipe",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/waɪp/",
+  "core_image": {
+    "text": "布でさっとなでて、ふき取る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"100\" width=\"160\" height=\"10\"/><path d=\"M90 80 Q110 70 130 80 L130 96 L90 96 Z\"/><line x1=\"140\" y1=\"88\" x2=\"190\" y2=\"88\"/><polyline points=\"183,84.2 190,88 183,91.8\"/><path d=\"M60 96 L70 92 M74 96 L80 92\" /></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さっと</text></svg>"
+  },
+  "etymology": "古い英語 wīpian(ふく) → 布でさっとふく → ふき取る・ぬぐう → wipe out=(すっかりふき取る→)全滅させる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to clean or dry something by rubbing it with a cloth; to remove something completely."
+    },
+    {
+      "pos": "名詞",
+      "text": "an act of wiping; a wet cloth for cleaning."
+    }
+  ],
+  "cautions": [
+    "scrub=ごしごしこする/wipe=布などでさっとなでてふく",
+    "wipe A off B=BからAをふき取る",
+    "wipe out A=Aを全滅させる・一掃する",
+    "wipe one's feet=(玄関で)足をふく"
+  ],
+  "patterns": [
+    {
+      "form": "wipe A",
+      "meaning": "Aをふく"
+    },
+    {
+      "form": "wipe A off B",
+      "meaning": "BからAをふき取る"
+    },
+    {
+      "form": "wipe out A",
+      "meaning": "Aを全滅させる"
+    },
+    {
+      "form": "wipe one's tears",
+      "meaning": "涙をぬぐう"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ふく",
+      "en": "Please wipe the table.",
+      "ja": "テーブルをふいてください。"
+    },
+    {
+      "source": "original",
+      "label": "ぬぐう",
+      "en": "She wiped her tears with a handkerchief.",
+      "ja": "彼女はハンカチで涙をぬぐった。"
+    },
+    {
+      "source": "original",
+      "label": "ふき取る",
+      "en": "Wipe the mud off your shoes.",
+      "ja": "靴のどろをふき取って。"
+    },
+    {
+      "source": "original",
+      "label": "全滅",
+      "en": "The disease wiped out the whole village.",
+      "ja": "その病気で村全体が全滅した。"
+    },
+    {
+      "source": "original",
+      "label": "足をふく",
+      "en": "Wipe your feet before you come in.",
+      "ja": "入る前に足をふいて。"
+    },
+    {
+      "source": "original",
+      "label": "消す",
+      "en": "The data was wiped from the computer.",
+      "ja": "データはコンピューターから消された。"
+    }
+  ],
+  "check_points": [
+    "wipe out の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "wipe out が熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1942
+    }
+  ]
+}

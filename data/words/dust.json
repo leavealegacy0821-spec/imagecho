@@ -1,0 +1,98 @@
+{
+  "word": "dust",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/dʌst/",
+  "core_image": {
+    "text": "細かいちり・ほこり(を払う)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"80\" width=\"120\" height=\"50\"/><circle cx=\"80\" cy=\"70\" r=\"2\"/><circle cx=\"100\" cy=\"64\" r=\"2\"/><circle cx=\"130\" cy=\"72\" r=\"2\"/><circle cx=\"150\" cy=\"60\" r=\"2\"/><circle cx=\"170\" cy=\"70\" r=\"2\"/><circle cx=\"112\" cy=\"50\" r=\"2\"/><circle cx=\"160\" cy=\"44\" r=\"2\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ほこり</text></svg>"
+  },
+  "etymology": "古い英語 dūst(ちり・ほこり) → ほこり・ちり → (動詞)ほこりを払う(=ほこりを取る)・(粉を)ふりかける",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "very small dry pieces of dirt or other material."
+    },
+    {
+      "pos": "動詞",
+      "text": "to remove dust from something; to cover something lightly with powder."
+    }
+  ],
+  "cautions": [
+    "dust=(名詞)ほこり(数えない)・(動詞)ほこりを払う(ほこりを「つける」ではない!)",
+    "dust A with B=AにB(粉)をふりかける",
+    "bite the dust=死ぬ・失敗する",
+    "gather dust=ほこりをかぶる(使われない)"
+  ],
+  "patterns": [
+    {
+      "form": "dust A",
+      "meaning": "Aのほこりを払う"
+    },
+    {
+      "form": "be covered in dust",
+      "meaning": "ほこりだらけだ"
+    },
+    {
+      "form": "gather dust",
+      "meaning": "ほこりをかぶる"
+    },
+    {
+      "form": "dust A with B",
+      "meaning": "AにBをふりかける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ほこり",
+      "en": "The old books were covered in dust.",
+      "ja": "古い本はほこりだらけだった。"
+    },
+    {
+      "source": "original",
+      "label": "払う",
+      "en": "I dusted the shelves.",
+      "ja": "棚のほこりを払った。"
+    },
+    {
+      "source": "original",
+      "label": "使われない",
+      "en": "My guitar is gathering dust.",
+      "ja": "私のギターはほこりをかぶっている。"
+    },
+    {
+      "source": "original",
+      "label": "ふりかける",
+      "en": "Dust the cake with sugar.",
+      "ja": "ケーキに粉砂糖をふりかけて。"
+    },
+    {
+      "source": "original",
+      "label": "失敗",
+      "en": "Another plan bit the dust.",
+      "ja": "また1つ計画がつぶれた。"
+    },
+    {
+      "source": "original",
+      "label": "舞う",
+      "en": "The truck raised a cloud of dust.",
+      "ja": "トラックが砂ぼこりを巻き上げた。"
+    }
+  ],
+  "check_points": [
+    "動詞 dust の意味(ほこりを払う)がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "gather dust が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1947
+    }
+  ]
+}
