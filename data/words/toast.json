@@ -1,0 +1,95 @@
+{
+  "word": "toast",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/toʊst/",
+  "core_image": {
+    "text": "こんがり焼く・グラスを上げて祝う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"60\" width=\"60\" height=\"70\"/><path d=\"M40 60 Q40 40 70 40 Q100 40 100 60\"/><polygon points=\"150,50 190,50 180,100 160,100\"/><line x1=\"170\" y1=\"100\" x2=\"170\" y2=\"130\"/><line x1=\"156\" y1=\"130\" x2=\"184\" y2=\"130\"/><path d=\"M196 40 L206 30 M200 56 L214 54\"/></g><text x=\"100\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こんがり／乾杯</text></svg>"
+  },
+  "etymology": "ラテン語 tostus(焼かれた・あぶられた) → パンをこんがり焼く → (昔、香りづけに焼いたパンをワインに入れた)→ 乾杯(する)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "bread that has been heated until brown; an act of raising glasses and drinking to honor someone."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make bread brown by heating it; to drink to honor someone."
+    }
+  ],
+  "cautions": [
+    "toast=(パンを)こんがり焼く・乾杯",
+    "a piece [slice] of toast=トースト1枚(数えない名詞)",
+    "propose a toast to A=Aに乾杯の音頭をとる",
+    "drink a toast to A=Aのために乾杯する"
+  ],
+  "patterns": [
+    {
+      "form": "a slice of toast",
+      "meaning": "トースト1枚"
+    },
+    {
+      "form": "propose a toast to A",
+      "meaning": "Aのために乾杯の音頭をとる"
+    },
+    {
+      "form": "toast A",
+      "meaning": "Aに乾杯する・Aをこんがり焼く"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "トースト",
+      "en": "I had two slices of toast for breakfast.",
+      "ja": "朝食にトーストを2枚食べた。"
+    },
+    {
+      "source": "original",
+      "label": "乾杯の音頭",
+      "en": "Let me propose a toast to the bride and groom.",
+      "ja": "新郎新婦に乾杯の音頭をとらせてください。"
+    },
+    {
+      "source": "original",
+      "label": "乾杯",
+      "en": "We toasted his success.",
+      "ja": "私たちは彼の成功を祝って乾杯した。"
+    },
+    {
+      "source": "original",
+      "label": "こんがり焼く",
+      "en": "Toast the bread lightly.",
+      "ja": "パンを軽く焼いてください。"
+    },
+    {
+      "source": "original",
+      "label": "人気者",
+      "en": "She was the toast of the town.",
+      "ja": "彼女は町の人気者だった。"
+    },
+    {
+      "source": "original",
+      "label": "温まる",
+      "en": "We were warm and toasty by the fire.",
+      "ja": "私たちは暖炉のそばでぽかぽか暖まっていた。"
+    }
+  ],
+  "check_points": [
+    "a slice of toast(数えない)がわかるか",
+    "propose a toast の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "数えない名詞として、また propose a toast が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1764
+    }
+  ]
+}

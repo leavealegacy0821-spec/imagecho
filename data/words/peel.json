@@ -1,0 +1,98 @@
+{
+  "word": "peel",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/piːl/",
+  "core_image": {
+    "text": "外の皮を、ぺろりとはがす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"110\" cy=\"80\" r=\"34\"/><path d=\"M144 80 Q170 90 160 110 Q150 130 180 140\" /><path d=\"M144 72 Q176 80 168 104 Q160 124 190 132\"/><line x1=\"70\" y1=\"40\" x2=\"90\" y2=\"60\"/></g><text x=\"40\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぺろり</text></svg>"
+  },
+  "etymology": "ラテン語 pilare(毛を抜く) → (果物・野菜の)皮をむく → (ペンキ・皮ふが)はがれる・むける → (名詞)果物の皮",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to remove the skin of fruit or vegetables; (of skin or paint) to come off in thin pieces."
+    },
+    {
+      "pos": "名詞",
+      "text": "the skin of fruit or vegetables."
+    }
+  ],
+  "cautions": [
+    "peel=(果物・野菜の)皮をむく/skin=(動物の)皮をはぐ",
+    "peel A off B=BからAをはがす",
+    "My skin is peeling.=(日焼けで)皮がむけている",
+    "keep one's eyes peeled=目を皿のようにして見張る"
+  ],
+  "patterns": [
+    {
+      "form": "peel A",
+      "meaning": "Aの皮をむく"
+    },
+    {
+      "form": "peel off",
+      "meaning": "はがれる"
+    },
+    {
+      "form": "peel A off B",
+      "meaning": "BからAをはがす"
+    },
+    {
+      "form": "keep one's eyes peeled",
+      "meaning": "目をこらす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "皮をむく",
+      "en": "Peel the potatoes and cut them in half.",
+      "ja": "じゃがいもの皮をむいて半分に切ってください。"
+    },
+    {
+      "source": "original",
+      "label": "はがれる",
+      "en": "The paint is peeling off the wall.",
+      "ja": "壁のペンキがはがれかかっている。"
+    },
+    {
+      "source": "original",
+      "label": "むける",
+      "en": "My back is peeling after the sunburn.",
+      "ja": "日焼けのあと背中の皮がむけている。"
+    },
+    {
+      "source": "original",
+      "label": "はがす",
+      "en": "She peeled the sticker off the box.",
+      "ja": "彼女は箱からシールをはがした。"
+    },
+    {
+      "source": "original",
+      "label": "見張る",
+      "en": "Keep your eyes peeled for a taxi.",
+      "ja": "タクシーが来ないかよく見ていて。"
+    },
+    {
+      "source": "original",
+      "label": "皮",
+      "en": "Don't throw the orange peel on the floor.",
+      "ja": "オレンジの皮を床に捨てないで。"
+    }
+  ],
+  "check_points": [
+    "peel off の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "peel、keep one's eyes peeled が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1768
+    }
+  ]
+}

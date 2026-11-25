@@ -2253,7 +2253,7 @@
     },
     {
       "title": "使い分け:切る・彫る",
-      "note": "cut=切る(広い) ／ chop=刃をふり下ろしてざくざく刻む ／ slice=すっと刃を入れて薄く平らに切る ／ carve=少しずつ削って形を刻み出す ／ split=二つに割る ／ tear=手で引き裂く ／ pierce=とがった先でつき通す",
+      "note": "cut=切る(広い) ／ chop=刃をふり下ろしてざくざく刻む ／ slice=すっと刃を入れて薄く平らに切る ／ carve=少しずつ削って形を刻み出す ／ split=二つに割る ／ tear=手で引き裂く ／ pierce=とがった先でつき通す ／ peel=外の皮をぺろりとはがす",
       "words": [
         "cut",
         "chop",
@@ -2261,7 +2261,8 @@
         "carve",
         "split",
         "tear",
-        "pierce"
+        "pierce",
+        "peel"
       ]
     },
     {
@@ -3054,6 +3055,21 @@
         "swim",
         "dive",
         "sail"
+      ]
+    },
+    {
+      "title": "使い分け:料理する(火の通し方)",
+      "note": "cook=火を使って食べられるようにする(a good cook=料理上手) ／ bake=パン・菓子をオーブンでまわりから焼く ／ roast=肉・豆を強い火でじっくり焼く ／ grill=網で直火じゅうじゅう ／ fry=熱い油でじゅっと焼く・揚げる ／ toast=パンをこんがり・乾杯 ／ steam=湯気で蒸す ／ stew=汁ごと長く煮こむ ／ simmer=沸騰寸前の弱火でふつふつ",
+      "words": [
+        "cook",
+        "bake",
+        "roast",
+        "grill",
+        "fry",
+        "toast",
+        "steam",
+        "stew",
+        "simmer"
       ]
     },
     {

@@ -1,0 +1,94 @@
+{
+  "word": "grill",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɡrɪl/",
+  "core_image": {
+    "text": "網の上で、直火でじゅうじゅう焼く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"50\" y=\"80\" width=\"140\" height=\"10\"/><line x1=\"70\" y1=\"80\" x2=\"70\" y2=\"90\"/><line x1=\"100\" y1=\"80\" x2=\"100\" y2=\"90\"/><line x1=\"130\" y1=\"80\" x2=\"130\" y2=\"90\"/><line x1=\"160\" y1=\"80\" x2=\"160\" y2=\"90\"/><ellipse cx=\"120\" cy=\"72\" rx=\"34\" ry=\"8\"/><path d=\"M80 120 Q86 104 80 96 M120 124 Q126 104 120 94 M160 120 Q166 104 160 96\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">じゅうじゅう</text></svg>"
+  },
+  "etymology": "フランス語 gril(焼き網。ラテン語 craticula=小さな格子) → 焼き網 → 網で直火焼きする → (焼き網であぶるように)人をきびしく問いつめる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to cook food over or under direct heat; to ask someone a lot of difficult questions."
+    },
+    {
+      "pos": "名詞",
+      "text": "a frame of metal bars for cooking food over a fire."
+    }
+  ],
+  "cautions": [
+    "bake=オーブンで/roast=じっくり/grill=網で直火焼き(米 broil にあたる場合も)",
+    "grilled fish=焼き魚",
+    "grill A about B=AにBのことを根ほり葉ほり問いつめる",
+    "barbecue=屋外で網焼きする"
+  ],
+  "patterns": [
+    {
+      "form": "grill A",
+      "meaning": "Aを網焼きする"
+    },
+    {
+      "form": "grilled A",
+      "meaning": "網焼きのA"
+    },
+    {
+      "form": "grill A about B",
+      "meaning": "AにBのことを問いつめる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "網焼き",
+      "en": "We grilled fish over charcoal.",
+      "ja": "炭火で魚を焼いた。"
+    },
+    {
+      "source": "original",
+      "label": "焼き魚",
+      "en": "I had grilled salmon for lunch.",
+      "ja": "昼食に焼き鮭を食べた。"
+    },
+    {
+      "source": "original",
+      "label": "問いつめる",
+      "en": "The police grilled him about the robbery.",
+      "ja": "警察は強盗事件について彼を問いつめた。"
+    },
+    {
+      "source": "original",
+      "label": "直火",
+      "en": "Grill the steak for three minutes on each side.",
+      "ja": "ステーキを片面3分ずつ焼いてください。"
+    },
+    {
+      "source": "original",
+      "label": "焼き網",
+      "en": "Put the vegetables on the grill.",
+      "ja": "野菜を焼き網にのせて。"
+    },
+    {
+      "source": "original",
+      "label": "質問攻め",
+      "en": "My parents grilled me about my new boyfriend.",
+      "ja": "両親は新しい彼氏について私を質問攻めにした。"
+    }
+  ],
+  "check_points": [
+    "grill A about B の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "grilled、grill A about B が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1762
+    }
+  ]
+}

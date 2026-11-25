@@ -1,0 +1,98 @@
+{
+  "word": "steam",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/stiːm/",
+  "core_image": {
+    "text": "もくもく立ちのぼる湯気・蒸す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M60 90 L60 130 L180 130 L180 90\"/><line x1=\"50\" y1=\"90\" x2=\"190\" y2=\"90\"/><path d=\"M90 80 Q80 64 90 50 Q100 36 90 22\"/><path d=\"M120 80 Q110 64 120 50 Q130 36 120 22\"/><path d=\"M150 80 Q140 64 150 50 Q160 36 150 22\"/></g><text x=\"210\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もくもく</text></svg>"
+  },
+  "etymology": "古い英語 stēam(湯気) → 湯気・蒸気 → 蒸気の力(steam engine=蒸気機関) → 蒸す・湯気を立てる → (勢い)let off steam=うさを晴らす",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the hot gas that water becomes when it boils; energy or power."
+    },
+    {
+      "pos": "動詞",
+      "text": "to produce steam; to cook food in steam."
+    }
+  ],
+  "cautions": [
+    "steam=水が沸いてできる湯気・蒸気(目に見える白いもの)",
+    "steam vegetables=野菜を蒸す",
+    "let off steam=うっぷんを晴らす",
+    "run out of steam=勢いがなくなる・ばてる"
+  ],
+  "patterns": [
+    {
+      "form": "steam A",
+      "meaning": "Aを蒸す"
+    },
+    {
+      "form": "let off steam",
+      "meaning": "うさを晴らす"
+    },
+    {
+      "form": "run out of steam",
+      "meaning": "勢いがなくなる"
+    },
+    {
+      "form": "a steam engine",
+      "meaning": "蒸気機関"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "湯気",
+      "en": "Steam rose from the hot soup.",
+      "ja": "熱いスープから湯気が立ちのぼった。"
+    },
+    {
+      "source": "original",
+      "label": "蒸す",
+      "en": "Steam the fish for ten minutes.",
+      "ja": "魚を10分間蒸してください。"
+    },
+    {
+      "source": "original",
+      "label": "うさ晴らし",
+      "en": "I play soccer to let off steam.",
+      "ja": "うさを晴らすためにサッカーをする。"
+    },
+    {
+      "source": "original",
+      "label": "ばてる",
+      "en": "The runner ran out of steam near the end.",
+      "ja": "そのランナーは終盤でばてた。"
+    },
+    {
+      "source": "original",
+      "label": "蒸気機関",
+      "en": "The steam engine changed the world.",
+      "ja": "蒸気機関は世界を変えた。"
+    },
+    {
+      "source": "original",
+      "label": "湯気を立てる",
+      "en": "A cup of coffee was steaming on the table.",
+      "ja": "テーブルのコーヒーが湯気を立てていた。"
+    }
+  ],
+  "check_points": [
+    "let off steam の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "steam engine(産業革命)、let off steam が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1765
+    }
+  ]
+}

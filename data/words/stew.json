@@ -1,0 +1,98 @@
+{
+  "word": "stew",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/stuː/",
+  "core_image": {
+    "text": "鍋で長い時間、ことこと煮こむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M50 70 Q50 130 120 130 Q190 130 190 70 Z\"/><line x1=\"40\" y1=\"70\" x2=\"200\" y2=\"70\"/><circle cx=\"96\" cy=\"92\" r=\"6\"/><circle cx=\"124\" cy=\"100\" r=\"6\"/><circle cx=\"150\" cy=\"90\" r=\"6\"/><path d=\"M100 60 Q106 48 100 36 M140 60 Q146 48 140 36\" stroke-dasharray=\"3 3\"/></g><text x=\"40\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ことこと</text></svg>"
+  },
+  "etymology": "古フランス語 estuver(湯気を当てる・ふろに入れる) → (ふたをした鍋で)長時間煮こむ → 煮こみ料理=シチュー → (人が)気をもむ・やきもきする(in a stew)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a dish of meat and vegetables cooked slowly in liquid."
+    },
+    {
+      "pos": "動詞",
+      "text": "to cook food slowly in liquid; to worry about something."
+    }
+  ],
+  "cautions": [
+    "boil=ぐつぐつ沸騰させてゆでる/simmer=沸騰寸前でことこと/stew=汁ごと長時間煮こむ",
+    "beef stew=ビーフシチュー",
+    "stew over A=Aのことでやきもきする",
+    "in a stew=気をもんで"
+  ],
+  "patterns": [
+    {
+      "form": "stew A",
+      "meaning": "Aを煮こむ"
+    },
+    {
+      "form": "beef stew",
+      "meaning": "ビーフシチュー"
+    },
+    {
+      "form": "stew over [about] A",
+      "meaning": "Aのことでやきもきする"
+    },
+    {
+      "form": "in a stew",
+      "meaning": "気をもんで"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "煮こむ",
+      "en": "Stew the meat for two hours.",
+      "ja": "肉を2時間煮こんでください。"
+    },
+    {
+      "source": "original",
+      "label": "シチュー",
+      "en": "We had beef stew on a cold night.",
+      "ja": "寒い夜にビーフシチューを食べた。"
+    },
+    {
+      "source": "original",
+      "label": "やきもき",
+      "en": "He was stewing over the test results.",
+      "ja": "彼はテストの結果をくよくよ気にしていた。"
+    },
+    {
+      "source": "original",
+      "label": "気をもむ",
+      "en": "She was in a stew about the interview.",
+      "ja": "彼女は面接のことで気をもんでいた。"
+    },
+    {
+      "source": "original",
+      "label": "とろとろ",
+      "en": "The vegetables were stewed until soft.",
+      "ja": "野菜はやわらかくなるまで煮こまれた。"
+    },
+    {
+      "source": "original",
+      "label": "煮こみ料理",
+      "en": "My mother's fish stew is the best.",
+      "ja": "母の魚の煮こみが一番だ。"
+    }
+  ],
+  "check_points": [
+    "boil / simmer / stew のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "beef stew が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1766
+    }
+  ]
+}
