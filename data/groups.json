@@ -297,14 +297,17 @@
     },
     {
       "title": "使い分け:説得する",
-      "note": "persuade=説いて行動させる ／ convince=説いて信じさせる ／ induce=誘い込んでさせる ／ dissuade=説いてやめさせる ／ prompt=きっかけを与える ／ tempt=誘惑する",
+      "note": "persuade=説いて行動させる ／ convince=説いて信じさせる ／ induce=誘い込んでさせる ／ dissuade=説いてやめさせる ／ prompt=きっかけを与える ／ tempt=誘惑する ／ coax=やさしく根気よくなだめてその気にさせる ／ lure=えさをちらつかせておびき寄せる ／ entice=魅力で気を引いてその気にさせる",
       "words": [
         "persuade",
         "convince",
         "induce",
         "dissuade",
         "prompt",
-        "tempt"
+        "tempt",
+        "coax",
+        "lure",
+        "entice"
       ]
     },
     {
@@ -331,11 +334,13 @@
     },
     {
       "title": "使い分け:許す・大目に見る",
-      "note": "forgive=罪を許して恨みを捨てる ／ excuse=小さな失礼を大目に見る ／ tolerate=嫌でもがまんして認める",
+      "note": "forgive=罪を許して恨みを捨てる ／ excuse=小さな失礼を大目に見る ／ tolerate=嫌でもがまんして認める ／ pardon=権限のある者が罰を取り消す(恩赦)・Pardon?=もう一度 ／ condone=悪事と知りながら見のがす(ふつう否定文)",
       "words": [
         "forgive",
         "excuse",
-        "tolerate"
+        "tolerate",
+        "pardon",
+        "condone"
       ]
     },
     {
@@ -423,7 +428,7 @@
     },
     {
       "title": "使い分け:心を乱す・怒らせる",
-      "note": "bother=小さく面倒をかける ／ disturb=静けさ・秩序を乱す ／ upset=ひっくり返して動揺させる ／ offend=気分を害する ／ provoke=わざと怒りをかき立てる ／ trouble=悩ませる ／ annoy=小さなことでいらっとさせる ／ irritate=神経・肌にさわってじりじりさせる ／ frustrate=思うようにいかずいらだたせる",
+      "note": "bother=小さく面倒をかける ／ disturb=静けさ・秩序を乱す ／ upset=ひっくり返して動揺させる ／ offend=気分を害する ／ provoke=わざと怒りをかき立てる ／ trouble=悩ませる ／ annoy=小さなことでいらっとさせる ／ irritate=神経・肌にさわってじりじりさせる ／ frustrate=思うようにいかずいらだたせる ／ insult=わざと失礼なことを言ってばかにする",
       "words": [
         "bother",
         "disturb",
@@ -434,7 +439,26 @@
         "embarrass",
         "annoy",
         "irritate",
-        "frustrate"
+        "frustrate",
+        "insult"
+      ]
+    },
+    {
+      "title": "使い分け:招く・迎える",
+      "note": "invite=こちらへどうぞと呼びこむ ／ welcome=来た人を両手を広げて喜んで迎える ／ greet=顔を合わせてあいさつする(喜びとは限らない)",
+      "words": [
+        "invite",
+        "welcome",
+        "greet"
+      ]
+    },
+    {
+      "title": "使い分け:うらやむ・ねたむ",
+      "note": "envy=人の持っているものを横目で見てほしがる ／ jealous=自分のものを取られまいと胸を燃やす・ねたむ ／ resent=された事をかみしめて腹を立てる",
+      "words": [
+        "envy",
+        "jealous",
+        "resent"
       ]
     },
     {
@@ -449,7 +473,7 @@
     },
     {
       "title": "使い分け:望む",
-      "note": "want=欠けていてほしい ／ wish=かなわないことを思う ／ hope=実現しそうなことを望む ／ long for=遠くのものを長く望む ／ eager=〜したくてたまらない ／ keen=熱心で〜したがる ／ willing=頼まれれば〜する",
+      "note": "want=欠けていてほしい ／ wish=かなわないことを思う ／ hope=実現しそうなことを望む ／ long for=遠くのものを長く望む ／ eager=〜したくてたまらない ／ keen=熱心で〜したがる ／ willing=頼まれれば〜する ／ desire=手の届かないものを強く求める(改まった語) ／ ambition=高い目標をめざして上へ進む大望 ／ crave=からだや心が今すぐどうしてもほしがる ／ yearn=遠く手の届かないものに思いこがれる",
       "words": [
         "want",
         "wish",
@@ -458,7 +482,11 @@
         "eager",
         "keen",
         "willing",
-        "anxious"
+        "anxious",
+        "desire",
+        "ambition",
+        "crave",
+        "yearn"
       ]
     },
     {
@@ -512,7 +540,7 @@
     },
     {
       "title": "使い分け:やめる・終える",
-      "note": "stop=動きを止める ／ cease=(堅)ある状態が終わる ／ quit=すっぱりやめる ／ end=終わりにする ／ conclude=締めくくる ／ abolish=制度をなくす ／ finish=最後まで行きついて終える(finish doing) ／ complete=欠けなく満たして完成させる ／ terminate=境目で正式に打ち切る",
+      "note": "stop=動きを止める ／ cease=(堅)ある状態が終わる ／ quit=すっぱりやめる ／ end=終わりにする ／ conclude=締めくくる ／ abolish=制度をなくす ／ finish=最後まで行きついて終える(finish doing) ／ complete=欠けなく満たして完成させる ／ terminate=境目で正式に打ち切る ／ halt=号令でぴたっと止まる(come to a halt)",
       "words": [
         "stop",
         "cease",
@@ -522,7 +550,8 @@
         "abolish",
         "finish",
         "complete",
-        "terminate"
+        "terminate",
+        "halt"
       ]
     },
     {
@@ -637,7 +666,7 @@
     },
     {
       "title": "使い分け:反対する・争う",
-      "note": "oppose=向かい合って反対する ／ object=異議を唱える(object to) ／ dispute=言い争う・異を唱える ／ contradict=言うことが食い違う ／ compete=競い合う ／ contend=争う ／ clash=ぶつかり合う ／ conflict=対立する ／ collide=物どうしが激突する・(意見が)ぶつかる",
+      "note": "oppose=向かい合って反対する ／ object=異議を唱える(object to) ／ dispute=言い争う・異を唱える ／ contradict=言うことが食い違う ／ compete=競い合う ／ contend=争う ／ clash=ぶつかり合う ／ conflict=対立する ／ collide=物どうしが激突する・(意見が)ぶつかる ／ grumble=小声でぶつぶつ不平を言いつづける",
       "words": [
         "oppose",
         "object",
@@ -649,7 +678,8 @@
         "clash",
         "conflict",
         "complain",
-        "collide"
+        "collide",
+        "grumble"
       ]
     },
     {
@@ -800,12 +830,13 @@
     },
     {
       "title": "使い分け:消える・滅びる",
-      "note": "vanish=急に見えなくなる ／ fade=しだいに薄れる ／ perish=(急に)死ぬ・滅びる ／ collapse=崩れ落ちる",
+      "note": "vanish=急に見えなくなる ／ fade=しだいに薄れる ／ perish=(急に)死ぬ・滅びる ／ collapse=崩れ落ちる ／ evaporate=湯気になって空中へ抜けて消える",
       "words": [
         "vanish",
         "fade",
         "perish",
-        "collapse"
+        "collapse",
+        "evaporate"
       ]
     },
     {
@@ -1017,16 +1048,19 @@
     },
     {
       "title": "使い分け:だます",
-      "note": "deceive=うそで信じこませる ／ cheat=ずるをする ／ mislead=誤った方へ導く",
+      "note": "deceive=うそで信じこませる ／ cheat=ずるをする ／ mislead=誤った方へ導く ／ trick=すきをついてひょいとひっかける ／ fool=ばかにしてかつぐ(だまされた側がばかを見る) ／ betray=信じてくれる人を裏切る・思わず表に出す",
       "words": [
         "deceive",
         "cheat",
-        "mislead"
+        "mislead",
+        "trick",
+        "fool",
+        "betray"
       ]
     },
     {
       "title": "使い分け:遅らせる・延ばす",
-      "note": "delay=予定より遅らせる ／ postpone=後の日に延期する ／ suspend=一時停止する(つるしておく) ／ prolong=長引かせる ／ linger=ぐずぐず残る ／ hesitate=ためらう",
+      "note": "delay=予定より遅らせる ／ postpone=後の日に延期する ／ suspend=一時停止する(つるしておく) ／ prolong=長引かせる ／ linger=ぐずぐず残る ／ hesitate=ためらう ／ defer=決定・支払いなどを正式に先へ運んでおく(defer to A=Aにゆだねる)",
       "words": [
         "delay",
         "postpone",
@@ -1034,7 +1068,8 @@
         "prolong",
         "linger",
         "hesitate",
-        "await"
+        "await",
+        "defer"
       ]
     },
     {
@@ -1133,14 +1168,16 @@
     },
     {
       "title": "使い分け:避ける・逃れる",
-      "note": "avoid=近づかないようにする ／ escape=束縛から逃れる ／ flee=危険から逃げる ／ steer clear of=かじを切って避ける ／ spare=(手間・害を)免れさせる ／ evade=するりとかわして逃れる(責任・税)",
+      "note": "avoid=近づかないようにする ／ escape=束縛から逃れる ／ flee=危険から逃げる ／ steer clear of=かじを切って避ける ／ spare=(手間・害を)免れさせる ／ evade=するりとかわして逃れる(責任・税) ／ dodge=来たものをひょいと身をかわしてよける ／ elude=追う手や理解・記憶からつかまらずに抜け出す(The answer eludes me.)",
       "words": [
         "avoid",
         "escape",
         "flee",
         "steer",
         "spare",
-        "evade"
+        "evade",
+        "dodge",
+        "elude"
       ]
     },
     {
@@ -1246,7 +1283,7 @@
     },
     {
       "title": "使い分け:目的・意図",
-      "note": "purpose=何のためかという目的 ／ aim=ねらい ／ objective=達成目標 ／ end=最終目的 ／ object=目的・対象 ／ point=要点・意味",
+      "note": "purpose=何のためかという目的 ／ aim=ねらい ／ objective=達成目標 ／ end=最終目的 ／ object=目的・対象 ／ point=要点・意味 ／ intention=心の中で向けている「つもり」(have no intention of doing)",
       "words": [
         "purpose",
         "aim",
@@ -1254,7 +1291,17 @@
         "end",
         "object",
         "point",
-        "intend"
+        "intend",
+        "intention"
+      ]
+    },
+    {
+      "title": "使い分け:動機・衝動",
+      "note": "motive=内側から人を行動へ動かすわけ(犯罪の動機・下心) ／ incentive=外からぶら下げるごほうび・励み ／ impulse=考えるより先に突き動かす一瞬の力(on impulse)",
+      "words": [
+        "motive",
+        "incentive",
+        "impulse"
       ]
     },
     {
@@ -1465,14 +1512,15 @@
     },
     {
       "title": "使い分け:誇り・謙虚",
-      "note": "proud=誇りに思う ／ boast=自慢する ／ vain=うぬぼれた・むだな ／ modest=控えめな ／ humble=へりくだった・質素な ／ ashamed=恥じている",
+      "note": "proud=誇りに思う ／ boast=自慢する ／ vain=うぬぼれた・むだな ／ modest=控えめな ／ humble=へりくだった・質素な ／ ashamed=恥じている ／ brag=(くだけた語)いやみに自慢してまわる",
       "words": [
         "proud",
         "boast",
         "vain",
         "modest",
         "humble",
-        "ashamed"
+        "ashamed",
+        "brag"
       ]
     },
     {
@@ -1611,13 +1659,15 @@
     },
     {
       "title": "使い分け:危険にさらされた",
-      "note": "risk=危険・危険を冒す ／ threaten=脅かす ／ vulnerable=傷つきやすい ／ expose=さらす ／ warn=警告する",
+      "note": "risk=危険・危険を冒す ／ threaten=脅かす ／ vulnerable=傷つきやすい ／ expose=さらす ／ warn=警告する ／ caution=慎重にと注意をうながす・用心 ／ alert=目を見ひらいて身がまえている・警報",
       "words": [
         "risk",
         "threaten",
         "vulnerable",
         "expose",
-        "warn"
+        "warn",
+        "caution",
+        "alert"
       ]
     },
     {
@@ -1632,10 +1682,12 @@
     },
     {
       "title": "使い分け:聞く",
-      "note": "hear=(自然に)耳に入る・聞こえる ／ listen=(自分から)耳を向けて聞く",
+      "note": "hear=(自然に)耳に入る・聞こえる ／ listen=(自分から)耳を向けて聞く ／ overhear=自分あてでない話がたまたま耳に入る ／ heed=忠告・警告を心にとめて従う",
       "words": [
         "hear",
-        "listen"
+        "listen",
+        "overhear",
+        "heed"
       ]
     },
     {
@@ -2615,7 +2667,7 @@
     },
     {
       "title": "使い分け:気持ち(名詞)",
-      "note": "joy=胸がはずむ大きな喜び ／ relief=重荷が下りてほっとする安心 ／ sorrow=心にのしかかる深い悲しみ ／ grief=大切な人を失った悲嘆 ／ anger=むかっとこみ上げる怒り ／ rage=おさえきれない激しい怒り ／ fear=危険を感じて身がすくむ恐怖 ／ anxiety=先のことで胸がしめつけられる不安 ／ shame=したことを恥じる気持ち(It's a shame=残念) ／ guilt=悪いことをしたと心がとがめる罪悪感・罪",
+      "note": "joy=胸がはずむ大きな喜び ／ relief=重荷が下りてほっとする安心 ／ sorrow=心にのしかかる深い悲しみ ／ grief=大切な人を失った悲嘆 ／ anger=むかっとこみ上げる怒り ／ rage=おさえきれない激しい怒り ／ fear=危険を感じて身がすくむ恐怖 ／ anxiety=先のことで胸がしめつけられる不安 ／ shame=したことを恥じる気持ち(It's a shame=残念) ／ guilt=悪いことをしたと心がとがめる罪悪感・罪 ／ emotion=心をゆさぶってわき上がる感情(理性と対) ／ feeling=心や体でじかに感じたもの(予感・感覚も) ／ passion=身を焦がすほど燃える情熱・熱中 ／ sentiment=考えとまざったしみじみした気持ち・世論",
       "words": [
         "joy",
         "relief",
@@ -2626,7 +2678,11 @@
         "fear",
         "anxiety",
         "shame",
-        "guilt"
+        "guilt",
+        "emotion",
+        "feeling",
+        "passion",
+        "sentiment"
       ]
     },
     {
@@ -2992,7 +3048,7 @@
     },
     {
       "title": "使い分け:回る・ころがる・ゆれる・はねる",
-      "note": "rotate=軸を中心にぐるりと回転・交代 ／ spin=その場でくるくる速く ／ roll=まるいものがころころ転がる・巻く ／ tumble=ころげ落ちる・急落 ／ swing=つり下がってぶらんぶらん・ふる ／ bounce=当たってぽんとはね返る ／ shake=左右・上下に小きざみにゆさぶる(shook, shaken)",
+      "note": "rotate=軸を中心にぐるりと回転・交代 ／ spin=その場でくるくる速く ／ roll=まるいものがころころ転がる・巻く ／ tumble=ころげ落ちる・急落 ／ swing=つり下がってぶらんぶらん・ふる ／ bounce=当たってぽんとはね返る ／ shake=左右・上下に小きざみにゆさぶる(shook, shaken) ／ revolve=中心のまわりをぐるりと回る(公転) ／ whirl=うずを巻くように勢いよくぐるぐる回る",
       "words": [
         "rotate",
         "spin",
@@ -3000,7 +3056,9 @@
         "tumble",
         "swing",
         "bounce",
-        "shake"
+        "shake",
+        "revolve",
+        "whirl"
       ]
     },
     {
@@ -3472,6 +3530,50 @@
         "earthquake",
         "tsunami",
         "typhoon"
+      ]
+    },
+    {
+      "title": "使い分け:震える",
+      "note": "tremble=怖さ・興奮で体や声が小刻みにふるえ続ける ／ shiver=寒さで体がぶるぶるふるえる ／ shudder=ぞっとして一瞬ぶるっと身ぶるい ／ quiver=唇・葉などがかすかにぴくぴく ／ quake=大地・建物がぐらぐら大きくゆれる ／ shake=左右・上下にゆさぶる(いちばん広い)",
+      "words": [
+        "tremble",
+        "shiver",
+        "shudder",
+        "quiver",
+        "quake",
+        "shake"
+      ]
+    },
+    {
+      "title": "使い分け:ばかにする・からかう",
+      "note": "mock=まねをして笑いものにする ／ tease=ちょっかいを出していじる(親しみもある) ／ ridicule=指さしてみんなで笑いものにする ／ scorn=見下して鼻であしらう(態度に出す) ／ despise=上から見下して心でさげすむ ／ sneer=口のはしをゆがめてふんとばかにする",
+      "words": [
+        "mock",
+        "tease",
+        "ridicule",
+        "scorn",
+        "despise",
+        "sneer"
+      ]
+    },
+    {
+      "title": "使い分け:悲しむ・嘆く",
+      "note": "mourn=人の死を思い静かに深く悲しむ(悼む) ／ lament=失ったもの・悪くなったことを声や言葉に出して嘆く ／ regret=自分のしたことをふり返って悔やむ",
+      "words": [
+        "mourn",
+        "lament",
+        "regret"
+      ]
+    },
+    {
+      "title": "使い分け:使う・利用する",
+      "note": "use=使う(いちばん広い) ／ utilize=手もとのものを役に立つように使いこなす(かたい語) ／ employ=方法・技術を用いる・人を雇う ／ apply=当てはめて使う ／ exploit=資源を開発して使う・人を食い物にする",
+      "words": [
+        "use",
+        "utilize",
+        "employ",
+        "apply",
+        "exploit"
       ]
     },
     {

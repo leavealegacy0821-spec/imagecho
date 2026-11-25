@@ -1,0 +1,103 @@
+{
+  "word": "trick",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/trɪk/",
+  "core_image": {
+    "text": "相手のすきをついて、ひょいと思いこみをすりかえる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 92,80 104,72\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"98\"/><rect x=\"108\" y=\"64\" width=\"16\" height=\"16\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"166\" y2=\"96\"/><line x1=\"180\" y1=\"74\" x2=\"194\" y2=\"96\"/><line x1=\"130\" y1=\"40\" x2=\"160\" y2=\"40\"/><polyline points=\"153,36.2 160,40 153,43.8\"/></g><text x=\"40\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひっかけ</text></svg>"
+  },
+  "etymology": "古フランス語 trique(ずる・ごまかし) → すきをついて相手の思いこみをすりかえる → ①(名詞)たくらみ・いたずら ②手品・芸 ③こつ ④(動詞)だます",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "something done to deceive someone or as a joke; a clever action done to entertain; a clever way of doing something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to deceive someone."
+    }
+  ],
+  "cautions": [
+    "trick A into doing=Aをだまして〜させる/trick A out of B=AをだましてBを取る",
+    "名詞 trick には「手品・芸」「こつ(the trick is to 〜)」の意味もある",
+    "deceive=うそで信じこませる(改まった語)/cheat=ずるをする/trick=すきをついてひっかける(軽い・いたずらにも)",
+    "play a trick on A=Aにいたずらをする(on に注意)"
+  ],
+  "patterns": [
+    {
+      "form": "trick A into doing",
+      "meaning": "Aをだまして〜させる"
+    },
+    {
+      "form": "trick A out of B",
+      "meaning": "AをだましてBを取る"
+    },
+    {
+      "form": "play a trick on A",
+      "meaning": "Aにいたずらをする"
+    },
+    {
+      "form": "the trick is to do",
+      "meaning": "こつは〜することだ"
+    },
+    {
+      "form": "do the trick",
+      "meaning": "うまくいく・効く"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "into",
+      "en": "The man tricked the old woman into giving him her money.",
+      "ja": "その男は老婦人をだましてお金を渡させた。"
+    },
+    {
+      "source": "original",
+      "label": "out of",
+      "en": "They tricked him out of his savings.",
+      "ja": "彼らは彼をだまして貯金を巻き上げた。"
+    },
+    {
+      "source": "original",
+      "label": "いたずら",
+      "en": "The kids played a trick on their teacher.",
+      "ja": "子どもたちは先生にいたずらをした。"
+    },
+    {
+      "source": "original",
+      "label": "手品",
+      "en": "My uncle showed us some card tricks.",
+      "ja": "おじはトランプの手品をいくつか見せてくれた。"
+    },
+    {
+      "source": "original",
+      "label": "こつ",
+      "en": "The trick is to add the sugar slowly.",
+      "ja": "こつは砂糖を少しずつ加えることだ。"
+    },
+    {
+      "source": "original",
+      "label": "効く",
+      "en": "A cup of hot tea usually does the trick.",
+      "ja": "温かいお茶を1杯飲めば、たいていうまくいく。"
+    }
+  ],
+  "check_points": [
+    "trick A into doing の型を言えるか",
+    "名詞 trick の「こつ」「手品」の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "trick A into doing と play a trick on A、do the trick が語法・会話で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2021
+    }
+  ]
+}

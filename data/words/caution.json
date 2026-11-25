@@ -1,0 +1,104 @@
+{
+  "word": "caution",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈkɔːʃən/",
+  "core_image": {
+    "text": "足もとの危険に気をつけて、そっと進む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><polyline points=\"80,74 96,86 104,84\"/><line x1=\"80\" y1=\"74\" x2=\"66\" y2=\"96\"/><ellipse cx=\"160\" cy=\"140\" rx=\"30\" ry=\"6\"/><polygon points=\"196,108 212,80 228,108\"/><line x1=\"212\" y1=\"88\" x2=\"212\" y2=\"98\"/><circle cx=\"212\" cy=\"103\" r=\"1\"/></g><text x=\"150\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そろり</text></svg>"
+  },
+  "etymology": "ラテン語 cavere(用心する・身を守る) → 用心すること → ①用心・慎重さ ②警告 → (動詞)〜に用心するよう警告する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "great care to avoid danger or mistakes; a warning."
+    },
+    {
+      "pos": "動詞",
+      "text": "to warn someone to be careful."
+    }
+  ],
+  "cautions": [
+    "with caution=用心して(=carefully)。exercise caution=用心する",
+    "caution A against doing / caution A to do=Aに〜しないよう(〜するよう)注意する",
+    "warn=危険を前もって知らせる(ふつうの語)/caution=慎重にと注意をうながす(より穏やかで改まった語)",
+    "形容詞 cautious=用心深い(be cautious about A)。precaution=予防策"
+  ],
+  "patterns": [
+    {
+      "form": "with caution",
+      "meaning": "用心して"
+    },
+    {
+      "form": "exercise / use caution",
+      "meaning": "用心する"
+    },
+    {
+      "form": "caution A against doing",
+      "meaning": "Aに〜しないよう注意する"
+    },
+    {
+      "form": "as a precaution",
+      "meaning": "念のため"
+    },
+    {
+      "form": "be cautious about A",
+      "meaning": "Aに用心深い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "with",
+      "en": "Drive with caution on icy roads.",
+      "ja": "凍った道では用心して運転しなさい。"
+    },
+    {
+      "source": "original",
+      "label": "against",
+      "en": "The doctor cautioned him against eating too much salt.",
+      "ja": "医者は彼に塩をとりすぎないよう注意した。"
+    },
+    {
+      "source": "original",
+      "label": "to do",
+      "en": "Experts caution investors to think carefully before buying.",
+      "ja": "専門家は投資家に買う前によく考えるよう注意をうながしている。"
+    },
+    {
+      "source": "original",
+      "label": "慎重さ",
+      "en": "The results should be treated with caution.",
+      "ja": "その結果は慎重に扱うべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "形容詞",
+      "en": "She is cautious about trusting strangers.",
+      "ja": "彼女は知らない人を信用することに用心深い。"
+    },
+    {
+      "source": "original",
+      "label": "念のため",
+      "en": "As a precaution, we took an umbrella.",
+      "ja": "念のため、私たちはかさを持っていった。"
+    }
+  ],
+  "check_points": [
+    "with caution の意味を言えるか",
+    "caution A against doing の型を言えるか",
+    "cautious の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "with caution / cautious(用心深い)が長文に、caution A against doing が語法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2013
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "word": "condone",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈdoʊn/",
+  "core_image": {
+    "text": "悪いことと知りながら、見て見ぬふりで通してやる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"98\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"98\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><polyline points=\"170,74 186,62 200,66\"/><line x1=\"170\" y1=\"74\" x2=\"156\" y2=\"98\"/><rect x=\"200\" y=\"56\" width=\"20\" height=\"20\"/><line x1=\"80\" y1=\"40\" x2=\"140\" y2=\"40\"/><polyline points=\"133,36.2 140,40 133,43.8\"/></g><text x=\"60\" y=\"16\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見のがす</text></svg>"
+  },
+  "etymology": "con-(すっかり)+ ラテン語 donare(与える) → 罪をすっかり与えて(手放して)やる → (悪いことを)大目に見る・容認する(ふつう否定文で「容認しない」)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to accept or allow behavior that most people think is wrong."
+    }
+  ],
+  "cautions": [
+    "ふつう否定文で使う:We cannot condone violence.=暴力は容認できない",
+    "condone は「悪いと認められている行い」を大目に見る/tolerate=嫌でもがまんして認める(対象は良し悪しを問わない)",
+    "forgive=恨みを捨てて許す/pardon=罰を免じる/condone=悪事を見のがす(許すのではなく、とがめない)",
+    "pardon と同じ donare(与える)が根"
+  ],
+  "patterns": [
+    {
+      "form": "condone A",
+      "meaning": "A(悪事)を大目に見る"
+    },
+    {
+      "form": "cannot condone A",
+      "meaning": "Aを容認できない"
+    },
+    {
+      "form": "condone A's doing",
+      "meaning": "Aが〜するのを見のがす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "否定",
+      "en": "The school will not condone bullying of any kind.",
+      "ja": "学校はどんな形のいじめも容認しない。"
+    },
+    {
+      "source": "original",
+      "label": "暴力",
+      "en": "We cannot condone violence, whatever the reason.",
+      "ja": "理由が何であれ、暴力は容認できない。"
+    },
+    {
+      "source": "original",
+      "label": "doing",
+      "en": "I don't condone his lying, but I understand why he did it.",
+      "ja": "彼がうそをついたことを認めはしないが、なぜそうしたかはわかる。"
+    },
+    {
+      "source": "original",
+      "label": "政府",
+      "en": "The government was accused of condoning corruption.",
+      "ja": "政府は汚職を黙認していると非難された。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "Cheating on exams should never be condoned.",
+      "ja": "試験の不正は決して見のがされるべきではない。"
+    },
+    {
+      "source": "original",
+      "label": "tolerate",
+      "en": "Some teachers tolerate noise in class, but none condone cheating.",
+      "ja": "授業中の騒がしさをがまんする先生はいても、カンニングを見のがす先生はいない。"
+    }
+  ],
+  "check_points": [
+    "condone が否定文でよく使われることを言えるか",
+    "tolerate と condone のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "cannot condone A(容認できない)の形が長文・語彙問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2025
+    }
+  ]
+}

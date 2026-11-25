@@ -1,0 +1,99 @@
+{
+  "word": "insult",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɪnˈsʌlt/",
+  "core_image": {
+    "text": "相手の上にとびかかるように、ことばで踏みつける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 82,66 96,62\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"98\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"158\" y2=\"98\"/><line x1=\"170\" y1=\"74\" x2=\"182\" y2=\"98\"/><line x1=\"100\" y1=\"56\" x2=\"152\" y2=\"56\"/><polyline points=\"145,52.2 152,56 145,59.8\"/><polyline points=\"110,40 118,30 126,40 134,30 142,40\"/></g><text x=\"200\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひどい</text></svg>"
+  },
+  "etymology": "ラテン語 in-(上に)+ salire(とびはねる) → 相手にとびかかる → ことばや態度で人をばかにして傷つける → 侮辱(する)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say or do something rude that offends someone."
+    },
+    {
+      "pos": "名詞",
+      "text": "a rude remark or action that offends someone."
+    }
+  ],
+  "cautions": [
+    "アクセント:動詞は in-SULT、名詞は IN-sult",
+    "an insult to A=Aへの侮辱(to に注意。an insult to one's intelligence=人をばかにしている)",
+    "offend=結果として気分を害する(わざとでなくてもよい)/insult=わざと失礼なことを言ってばかにする/mock=まねして笑いものにする",
+    "add insult to injury=ふんだりけったりだ(熟語)"
+  ],
+  "patterns": [
+    {
+      "form": "insult A",
+      "meaning": "Aを侮辱する"
+    },
+    {
+      "form": "an insult to A",
+      "meaning": "Aへの侮辱"
+    },
+    {
+      "form": "feel insulted",
+      "meaning": "侮辱されたと感じる"
+    },
+    {
+      "form": "add insult to injury",
+      "meaning": "さらに追いうちをかける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "動詞",
+      "en": "He insulted me in front of my friends.",
+      "ja": "彼は友人たちの前で私を侮辱した。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "She felt insulted when he laughed at her idea.",
+      "ja": "彼が彼女の考えを笑ったとき、彼女は侮辱されたと感じた。"
+    },
+    {
+      "source": "original",
+      "label": "to A",
+      "en": "The low pay is an insult to the workers.",
+      "ja": "その低い給料は働く人たちへの侮辱だ。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The two players started shouting insults at each other.",
+      "ja": "2人の選手は互いに悪口を浴びせ始めた。"
+    },
+    {
+      "source": "original",
+      "label": "熟語",
+      "en": "To add insult to injury, it started to rain after we missed the bus.",
+      "ja": "バスに乗り遅れたうえに、追いうちをかけるように雨が降り出した。"
+    },
+    {
+      "source": "original",
+      "label": "形容詞",
+      "en": "His insulting remarks caused a big argument.",
+      "ja": "彼の侮辱的な発言は大げんかの原因になった。"
+    }
+  ],
+  "check_points": [
+    "動詞と名詞のアクセントのちがいを言えるか",
+    "add insult to injury の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "名動アクセント(in-SULT / IN-sult)と add insult to injury が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2016
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "entice",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈtaɪs/",
+  "core_image": {
+    "text": "うまいものを見せて火をつけ、その気にさせて誘いこむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><polyline points=\"60,74 82,70 96,70\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"98\"/><circle cx=\"104\" cy=\"70\" r=\"8\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><polyline points=\"180,74 160,70 150,70\"/><line x1=\"180\" y1=\"74\" x2=\"194\" y2=\"98\"/><line x1=\"172\" y1=\"110\" x2=\"120\" y2=\"110\" stroke-dasharray=\"5 5\"/><polyline points=\"127,113.8 120,110 127,106.2\"/></g><text x=\"130\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ほしいな</text></svg>"
+  },
+  "etymology": "en-(中に)+ ラテン語 titio(燃えさし・たいまつ) → 心に火をつける → 気を引いて誘いこむ・その気にさせる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to persuade someone to do something or go somewhere by offering them something pleasant."
+    }
+  ],
+  "cautions": [
+    "entice A to do / into doing=Aをその気にさせて〜させる",
+    "entice A away from B=AをBから誘い出す",
+    "tempt=欲・誘惑をかき立てる(悪いことへが多い)/lure=えさでおびき寄せる(わな・危険)/entice=魅力で気を引いて誘う(よい意味にも)",
+    "形容詞 enticing=心をそそる(an enticing smell)"
+  ],
+  "patterns": [
+    {
+      "form": "entice A to do",
+      "meaning": "Aを誘って〜させる"
+    },
+    {
+      "form": "entice A into doing",
+      "meaning": "Aを誘いこんで〜させる"
+    },
+    {
+      "form": "entice A away from B",
+      "meaning": "AをBから誘い出す"
+    },
+    {
+      "form": "enticing",
+      "meaning": "心をそそる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "to do",
+      "en": "Free samples entice shoppers to try new products.",
+      "ja": "無料の試供品は買い物客に新しい商品を試させる。"
+    },
+    {
+      "source": "original",
+      "label": "into",
+      "en": "The company enticed him into joining with a high salary.",
+      "ja": "会社は高い給料で彼を入社に誘いこんだ。"
+    },
+    {
+      "source": "original",
+      "label": "away",
+      "en": "The rival team tried to entice their best player away.",
+      "ja": "ライバルチームは彼らの一番の選手を引き抜こうとした。"
+    },
+    {
+      "source": "original",
+      "label": "観光",
+      "en": "The town hopes to entice more tourists with its new museum.",
+      "ja": "町は新しい博物館でもっと多くの観光客を呼びこみたいと思っている。"
+    },
+    {
+      "source": "original",
+      "label": "形容詞",
+      "en": "An enticing smell was coming from the kitchen.",
+      "ja": "台所から食欲をそそるにおいがしてきた。"
+    },
+    {
+      "source": "original",
+      "label": "比較",
+      "en": "The bakery enticed us in with the smell of fresh bread.",
+      "ja": "パン屋は焼きたてのパンのにおいで私たちを店に誘いこんだ。"
+    }
+  ],
+  "check_points": [
+    "entice A to do / into doing の型を言えるか",
+    "tempt・lure・entice のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "entice A to do / into doing の型と、形容詞 enticing が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2027
+    }
+  ]
+}

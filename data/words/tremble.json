@@ -1,0 +1,99 @@
+{
+  "word": "tremble",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈtrembl/",
+  "core_image": {
+    "text": "怖さや興奮で、体や声が小刻みにふるえ続ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><polyline points=\"120,74 104,90 110,104\"/><polyline points=\"120,74 136,90 130,104\"/><path d=\"M92 50 L86 56 L92 62 L86 68\"/><path d=\"M148 50 L154 56 L148 62 L154 68\"/><path d=\"M96 112 L90 118 L96 124\"/><path d=\"M144 112 L150 118 L144 124\"/></g><text x=\"196\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぶるぶる…</text></svg>"
+  },
+  "etymology": "ラテン語 tremere(ふるえる。tremendous=おそろしいほどの と同じ根) → 小刻みにふるえる → (恐れ・怒り・興奮で)体や声がふるえる → (心配で)おののく",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to shake slightly because you are afraid, excited, or weak."
+    },
+    {
+      "pos": "名詞",
+      "text": "a slight shaking movement."
+    }
+  ],
+  "cautions": [
+    "tremble with fear / anger / excitement=恐怖・怒り・興奮でふるえる(with で原因)",
+    "tremble は「体の中から」小刻みにふるえ続ける。shiver=寒さでぶるぶる/shudder=ぞっと一度身ぶるい/quiver=唇や葉がかすかにふるえる",
+    "声・手・ひざ・地面などが主語になる(Her voice trembled.)",
+    "tremble to think 〜=〜を考えるとぞっとする"
+  ],
+  "patterns": [
+    {
+      "form": "tremble with fear",
+      "meaning": "恐怖でふるえる"
+    },
+    {
+      "form": "tremble with anger",
+      "meaning": "怒りでふるえる"
+    },
+    {
+      "form": "A's voice trembles",
+      "meaning": "声がふるえる"
+    },
+    {
+      "form": "tremble to think",
+      "meaning": "考えるとぞっとする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "恐怖",
+      "en": "The little boy trembled with fear in the dark.",
+      "ja": "その小さな男の子は暗闇の中で恐怖にふるえた。"
+    },
+    {
+      "source": "original",
+      "label": "怒り",
+      "en": "His hands were trembling with anger.",
+      "ja": "彼の手は怒りでふるえていた。"
+    },
+    {
+      "source": "original",
+      "label": "声",
+      "en": "Her voice trembled as she read the letter aloud.",
+      "ja": "手紙を読み上げるとき、彼女の声はふるえた。"
+    },
+    {
+      "source": "original",
+      "label": "興奮",
+      "en": "I was trembling with excitement before the concert.",
+      "ja": "コンサートの前、私は興奮でふるえていた。"
+    },
+    {
+      "source": "original",
+      "label": "地面",
+      "en": "The ground trembled as the heavy truck passed by.",
+      "ja": "重いトラックが通ると地面がふるえた。"
+    },
+    {
+      "source": "original",
+      "label": "to think",
+      "en": "I tremble to think what might have happened.",
+      "ja": "何が起きていたかもしれないかと考えるとぞっとする。"
+    }
+  ],
+  "check_points": [
+    "tremble と shiver のちがいを言えるか",
+    "tremble with A の with の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "物語文で「(恐怖・怒りで)ふるえる」の意味で出る。shiver・shudder との区別も問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1989
+    }
+  ]
+}

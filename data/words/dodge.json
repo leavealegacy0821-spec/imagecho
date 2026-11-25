@@ -1,0 +1,99 @@
+{
+  "word": "dodge",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/dɑːdʒ/",
+  "core_image": {
+    "text": "ひょいと身をかわして、ぶつかるのをよける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"182\" cy=\"74\" r=\"10\"/><line x1=\"175\" y1=\"82\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><polyline points=\"166,90 186,96 196,90\"/><circle cx=\"48\" cy=\"44\" r=\"8\"/><line x1=\"60\" y1=\"44\" x2=\"216\" y2=\"44\" stroke-dasharray=\"5 5\"/><polyline points=\"209,40.2 216,44 209,47.8\"/></g><text x=\"90\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひょい</text></svg>"
+  },
+  "etymology": "語源ははっきりしない → ひょいと身をかわす → ①(ボールなどを)よける ②(質問・責任・税などを)うまくかわす・逃れる ③(名詞)言い逃れ・ごまかし",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move quickly to one side to avoid being hit; to avoid something unpleasant in a clever or dishonest way."
+    },
+    {
+      "pos": "名詞",
+      "text": "a clever trick to avoid something."
+    }
+  ],
+  "cautions": [
+    "dodge A=A(ボール・質問・責任)をかわす(他動詞)",
+    "avoid=避ける(一般)/evade=ずるく逃れる(改まった)/dodge=さっと身をかわす・(口語で)質問や責任をうまくかわす",
+    "elude=追っ手や理解からするりと逃げる/dodge=来たものをひょいとよける",
+    "dodge the question=質問をはぐらかす/tax dodge=脱税・税逃れ"
+  ],
+  "patterns": [
+    {
+      "form": "dodge A",
+      "meaning": "Aをよける"
+    },
+    {
+      "form": "dodge the question",
+      "meaning": "質問をはぐらかす"
+    },
+    {
+      "form": "dodge responsibility",
+      "meaning": "責任を逃れる"
+    },
+    {
+      "form": "dodge through A",
+      "meaning": "Aの中をすり抜ける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ボール",
+      "en": "He dodged the ball just in time.",
+      "ja": "彼はぎりぎりでボールをよけた。"
+    },
+    {
+      "source": "original",
+      "label": "質問",
+      "en": "The politician dodged the reporter's question.",
+      "ja": "その政治家は記者の質問をはぐらかした。"
+    },
+    {
+      "source": "original",
+      "label": "人ごみ",
+      "en": "She dodged through the crowd to catch the train.",
+      "ja": "彼女は電車に間に合うよう人ごみの中をすり抜けた。"
+    },
+    {
+      "source": "original",
+      "label": "税",
+      "en": "Some companies try to dodge taxes.",
+      "ja": "税金を逃れようとする会社もある。"
+    },
+    {
+      "source": "original",
+      "label": "車",
+      "en": "The driver dodged a cat that ran into the road.",
+      "ja": "運転手は道に飛び出してきた猫をよけた。"
+    },
+    {
+      "source": "original",
+      "label": "責任",
+      "en": "You can't dodge your responsibility forever.",
+      "ja": "いつまでも責任から逃れることはできない。"
+    }
+  ],
+  "check_points": [
+    "dodge の「よける」と「はぐらかす」を言えるか",
+    "avoid・evade・dodge のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "dodge the question(はぐらかす)が長文・会話で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2033
+    }
+  ]
+}

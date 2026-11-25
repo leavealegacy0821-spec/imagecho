@@ -1,0 +1,103 @@
+{
+  "word": "heed",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/hiːd/",
+  "core_image": {
+    "text": "言われたことに心を向け、きちんと受けとめて従う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 54,58 58,44\"/><line x1=\"70\" y1=\"74\" x2=\"84\" y2=\"98\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><polyline points=\"170,74 150,66 136,56\"/><line x1=\"170\" y1=\"74\" x2=\"184\" y2=\"98\"/><line x1=\"130\" y1=\"46\" x2=\"90\" y2=\"46\"/><polyline points=\"97,49.8 90,46 97,42.2\"/></g><text x=\"190\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">気をつけて</text></svg>"
+  },
+  "etymology": "古英語 hedan(気をつける・見守る) → 言われたことに注意を向ける → ①(忠告・警告に)注意を払う・従う ②(名詞)注意",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to pay careful attention to advice or a warning and act on it (formal)."
+    },
+    {
+      "pos": "名詞",
+      "text": "careful attention."
+    }
+  ],
+  "cautions": [
+    "heed A=A(忠告・警告)に従う・耳を傾ける(他動詞。heed to A は×)",
+    "名詞の型 pay heed to A / take heed of A=Aに注意を払う",
+    "listen=耳を向けて聞く/heed=聞いた忠告を心にとめて行動にうつす(改まった語)",
+    "形容詞 heedless=不注意な・(〜を)気にとめない(heedless of danger)"
+  ],
+  "patterns": [
+    {
+      "form": "heed A",
+      "meaning": "A(忠告など)に従う"
+    },
+    {
+      "form": "heed a warning / advice",
+      "meaning": "警告・忠告に従う"
+    },
+    {
+      "form": "pay heed to A",
+      "meaning": "Aに注意を払う"
+    },
+    {
+      "form": "take heed of A",
+      "meaning": "Aに注意する"
+    },
+    {
+      "form": "heedless of A",
+      "meaning": "Aを気にとめない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "警告",
+      "en": "The climbers did not heed the warnings about the storm.",
+      "ja": "登山者たちは嵐についての警告に従わなかった。"
+    },
+    {
+      "source": "original",
+      "label": "忠告",
+      "en": "If you had heeded my advice, you wouldn't be in trouble now.",
+      "ja": "私の忠告を聞いていたら、今ごろ困っていないだろうに。"
+    },
+    {
+      "source": "original",
+      "label": "pay heed",
+      "en": "Nobody paid heed to his complaints.",
+      "ja": "だれも彼の不満に注意を払わなかった。"
+    },
+    {
+      "source": "original",
+      "label": "take heed",
+      "en": "Take heed of what your doctor says.",
+      "ja": "医者の言うことに注意しなさい。"
+    },
+    {
+      "source": "original",
+      "label": "heedless",
+      "en": "He ran into the street, heedless of the traffic.",
+      "ja": "彼は車の往来を気にもとめず通りへ飛び出した。"
+    },
+    {
+      "source": "original",
+      "label": "政府",
+      "en": "The government finally heeded the voices of the citizens.",
+      "ja": "政府はようやく市民の声に耳を傾けた。"
+    }
+  ],
+  "check_points": [
+    "heed A(前置詞なし)と pay heed to A の形を言えるか",
+    "listen と heed のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "heed a warning / advice の形と pay heed to A が長文・語彙問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2020
+    }
+  ]
+}

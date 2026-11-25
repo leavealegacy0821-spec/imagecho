@@ -1,0 +1,108 @@
+{
+  "word": "alert",
+  "pos": [
+    "形容詞",
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/əˈlɜːrt/",
+  "core_image": {
+    "text": "見張り台の上で、目を見ひらいて身がまえている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"90,140 100,90 140,90 150,140\"/><line x1=\"96\" y1=\"118\" x2=\"144\" y2=\"118\"/><circle cx=\"120\" cy=\"38\" r=\"10\"/><line x1=\"120\" y1=\"48\" x2=\"120\" y2=\"90\"/><polyline points=\"120,58 138,50 146,52\"/><line x1=\"120\" y1=\"58\" x2=\"104\" y2=\"70\"/><line x1=\"150\" y1=\"44\" x2=\"200\" y2=\"44\" stroke-dasharray=\"5 5\"/><polyline points=\"193,40.2 200,44 193,47.8\"/></g><text x=\"56\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">油断なく</text></svg>"
+  },
+  "etymology": "イタリア語 all'erta(見張り台の上で) → 見張りについている → ①(形容詞)油断なく気を配っている・頭がさえている ②(名詞)警報・警戒 ③(動詞)警報を出す・〜に気づかせる",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "watching and ready to notice anything unusual or dangerous; able to think quickly and clearly."
+    },
+    {
+      "pos": "名詞",
+      "text": "a warning to be ready for possible danger; a state of being ready."
+    },
+    {
+      "pos": "動詞",
+      "text": "to warn someone of danger; to make someone aware of something."
+    }
+  ],
+  "cautions": [
+    "be alert to A=Aに気を配っている・Aを見逃さない(to に注意)",
+    "alert A to B=AにBを知らせる・気づかせる(warn A of B と同じ形の発想)",
+    "on (the) alert=警戒して・待機して",
+    "careful=注意深い/alert=すぐ反応できるよう目をさまして身がまえている/cautious=危険を恐れて慎重な"
+  ],
+  "patterns": [
+    {
+      "form": "be alert to A",
+      "meaning": "Aに油断なく気を配る"
+    },
+    {
+      "form": "stay alert",
+      "meaning": "気をはりつめている"
+    },
+    {
+      "form": "alert A to B",
+      "meaning": "AにBを知らせる"
+    },
+    {
+      "form": "on (the) alert",
+      "meaning": "警戒して"
+    },
+    {
+      "form": "a(n) earthquake / flood alert",
+      "meaning": "地震・洪水の警報"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "to A",
+      "en": "Drivers must be alert to children running into the road.",
+      "ja": "運転手は道路に飛び出す子どもに気を配らなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "頭がさえる",
+      "en": "Coffee helps me stay alert during long meetings.",
+      "ja": "長い会議の間、コーヒーのおかげで頭がさえている。"
+    },
+    {
+      "source": "original",
+      "label": "知らせる",
+      "en": "A neighbor alerted the police to the fire.",
+      "ja": "近所の人が火事を警察に知らせた。"
+    },
+    {
+      "source": "original",
+      "label": "on the alert",
+      "en": "The soldiers were on the alert all night.",
+      "ja": "兵士たちは一晩じゅう警戒態勢にあった。"
+    },
+    {
+      "source": "original",
+      "label": "警報",
+      "en": "A flood alert was issued for the area.",
+      "ja": "その地域に洪水警報が出された。"
+    },
+    {
+      "source": "original",
+      "label": "気づかせる",
+      "en": "The article alerted readers to the dangers of fake news.",
+      "ja": "その記事は読者にフェイクニュースの危険を気づかせた。"
+    }
+  ],
+  "check_points": [
+    "be alert to A の意味を言えるか",
+    "alert A to B の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "形容詞 alert(油断のない)と alert A to B(知らせる)が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2014
+    }
+  ]
+}

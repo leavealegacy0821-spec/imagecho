@@ -1,0 +1,99 @@
+{
+  "word": "shudder",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈʃʌdər/",
+  "core_image": {
+    "text": "ぞっとして、体が一瞬ぶるっとゆれる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><polyline points=\"150,74 134,64 130,48\"/><polyline points=\"150,74 166,64 170,48\"/><path d=\"M122 36 Q116 52 122 68\"/><path d=\"M178 36 Q184 52 178 68\"/><path d=\"M40 120 Q50 104 62 112 Q72 120 82 106 Q90 96 96 110\"/><circle cx=\"66\" cy=\"104\" r=\"2\"/></g><text x=\"60\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぞっ</text></svg>"
+  },
+  "etymology": "中世の英語 shoddren(ぶるっとゆれる) → いやなもの・こわいものを見て、体が一瞬大きくゆれる → 身ぶるいする → (機械や乗り物が)がくがくゆれる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to shake suddenly because you are afraid, disgusted, or cold; (of a machine) to shake violently."
+    },
+    {
+      "pos": "名詞",
+      "text": "a sudden shaking movement of the body."
+    }
+  ],
+  "cautions": [
+    "shudder at A=Aにぞっとする(いやなもの・恐ろしいもの)",
+    "shudder to think 〜=〜を考えるとぞっとする",
+    "tremble=小刻みにふるえ続ける/shudder=嫌悪・恐怖で一瞬ぶるっと(短く大きい)",
+    "乗り物・機械が主語なら「がくがく揺れる」(The bus shuddered to a stop.)"
+  ],
+  "patterns": [
+    {
+      "form": "shudder at A",
+      "meaning": "Aにぞっとする"
+    },
+    {
+      "form": "shudder to think",
+      "meaning": "考えるとぞっとする"
+    },
+    {
+      "form": "with a shudder",
+      "meaning": "身ぶるいして"
+    },
+    {
+      "form": "shudder to a halt",
+      "meaning": "がくがく揺れて止まる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ぞっとする",
+      "en": "She shuddered at the sight of the snake.",
+      "ja": "彼女はヘビを見てぞっとした。"
+    },
+    {
+      "source": "original",
+      "label": "to think",
+      "en": "I shudder to think how much this trip will cost.",
+      "ja": "この旅行にいくらかかるか考えるとぞっとする。"
+    },
+    {
+      "source": "original",
+      "label": "思い出す",
+      "en": "He shuddered when he remembered the accident.",
+      "ja": "その事故を思い出して、彼は身ぶるいした。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "\"Never again,\" she said with a shudder.",
+      "ja": "「二度とごめんだ」と彼女は身ぶるいして言った。"
+    },
+    {
+      "source": "original",
+      "label": "機械",
+      "en": "The old elevator shuddered and stopped.",
+      "ja": "古いエレベーターはがくんと揺れて止まった。"
+    },
+    {
+      "source": "original",
+      "label": "乗り物",
+      "en": "The train shuddered to a halt.",
+      "ja": "列車はがくがく揺れて止まった。"
+    }
+  ],
+  "check_points": [
+    "shudder at A の意味を言えるか",
+    "tremble と shudder のちがい(続く/一瞬)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文で「ぞっとする」の意味で出る。shudder to think の形も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1991
+    }
+  ]
+}

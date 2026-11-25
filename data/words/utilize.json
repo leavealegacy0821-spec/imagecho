@@ -1,0 +1,94 @@
+{
+  "word": "utilize",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈjuːtəlaɪz/",
+  "core_image": {
+    "text": "手もとにあるものを、役に立つように使いこなす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 96,72 110,62\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"98\"/><line x1=\"110\" y1=\"62\" x2=\"128\" y2=\"48\"/><rect x=\"122\" y=\"34\" width=\"20\" height=\"10\"/><rect x=\"140\" y=\"128\" width=\"70\" height=\"12\"/><line x1=\"170\" y1=\"128\" x2=\"170\" y2=\"114\"/></g><text x=\"186\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">うまく使う</text></svg>"
+  },
+  "etymology": "ラテン語 uti(使う)→ フランス語 utiliser(役に立てる) → 役に立つものにする → (資源・技術・能力などを)活用する・利用する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to use something for a practical purpose, especially in an effective way (formal)."
+    }
+  ],
+  "cautions": [
+    "utilize は use よりかたい語。今あるもの(資源・技術・能力・空間)を目的に合わせて有効に使う",
+    "use=使う(一般)/employ=(方法・技術を)用いる・(人を)雇う/exploit=(資源を)開発・利用する・(人を)食い物にする",
+    "utilize A as B=AをBとして活用する/utilize A to do=Aを使って〜する",
+    "名詞 utilization=活用/utility=有用性・(電気・ガス・水道などの)公共サービス"
+  ],
+  "patterns": [
+    {
+      "form": "utilize A",
+      "meaning": "Aを活用する"
+    },
+    {
+      "form": "utilize A as B",
+      "meaning": "AをBとして活用する"
+    },
+    {
+      "form": "utilize A to do",
+      "meaning": "Aを使って〜する"
+    },
+    {
+      "form": "fully utilize A",
+      "meaning": "Aを十分に生かす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "エネルギー",
+      "en": "We should utilize solar energy more effectively.",
+      "ja": "私たちは太陽エネルギーをもっと有効に活用すべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "as",
+      "en": "The school utilizes the gym as a shelter during disasters.",
+      "ja": "その学校は災害時に体育館を避難所として活用している。"
+    },
+    {
+      "source": "original",
+      "label": "to do",
+      "en": "The company utilizes AI to analyze customer data.",
+      "ja": "その会社は顧客データの分析に AI を活用している。"
+    },
+    {
+      "source": "original",
+      "label": "能力",
+      "en": "She utilized her language skills in her new job.",
+      "ja": "彼女は新しい仕事で語学力を生かした。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "Old buildings can be utilized for community events.",
+      "ja": "古い建物は地域の行事に活用することができる。"
+    },
+    {
+      "source": "original",
+      "label": "十分",
+      "en": "Many resources are not being fully utilized.",
+      "ja": "多くの資源が十分に活用されていない。"
+    }
+  ],
+  "check_points": [
+    "use と utilize のちがい(かたさ・有効に使う)を言えるか",
+    "utilize A as B の形を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "評論・説明文で utilize resources / technology が出る。use の言いかえとして同意語問題にも。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2037
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "whirl",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/wɜːrl/",
+  "core_image": {
+    "text": "うずを巻くように、ぐるぐる勢いよく回る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M114 84 a6 6 0 1 1 12 0 a12 12 0 1 1 -24 0 a18 18 0 1 1 36 0 a24 24 0 1 1 -48 0\"/><ellipse cx=\"170\" cy=\"56\" rx=\"7\" ry=\"4\"/><ellipse cx=\"66\" cy=\"106\" rx=\"7\" ry=\"4\"/><ellipse cx=\"160\" cy=\"118\" rx=\"7\" ry=\"4\"/></g><text x=\"196\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぐるぐる</text></svg>"
+  },
+  "etymology": "古ノルド語 hvirfla(ぐるぐる回る) → うずを巻いて勢いよく回る → ①くるくる回る・回す ②(頭が)くらくらする・(考えが)うずまく ③(名詞)回転・めまぐるしさ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move or turn around very quickly, especially in circles; to feel dizzy or confused."
+    },
+    {
+      "pos": "名詞",
+      "text": "a fast turning movement; a period of busy and exciting activity."
+    }
+  ],
+  "cautions": [
+    "whirl=風に巻かれるようにうずを巻いて回る/spin=軸を中心にくるくる速く回る/revolve=中心のまわりを回る",
+    "自動詞(The leaves whirled.)にも他動詞(whirl A around=Aをぐるぐる回す)にもなる",
+    "My head is whirling.=頭がくらくらする・考えがまとまらない",
+    "give it a whirl=ためしにやってみる(口語)/whirlwind=つむじ風・(形容詞的に)あわただしい"
+  ],
+  "patterns": [
+    {
+      "form": "whirl around",
+      "meaning": "ぐるぐる回る・くるりとふり向く"
+    },
+    {
+      "form": "whirl A around",
+      "meaning": "Aをぐるぐる回す"
+    },
+    {
+      "form": "one's head is whirling",
+      "meaning": "頭がくらくらする"
+    },
+    {
+      "form": "give it a whirl",
+      "meaning": "ためしにやってみる"
+    },
+    {
+      "form": "a whirlwind A",
+      "meaning": "あわただしいA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "風",
+      "en": "The fallen leaves whirled in the wind.",
+      "ja": "落ち葉が風にぐるぐると舞った。"
+    },
+    {
+      "source": "original",
+      "label": "ダンス",
+      "en": "The dancers whirled around the stage.",
+      "ja": "ダンサーたちは舞台の上をくるくると回った。"
+    },
+    {
+      "source": "original",
+      "label": "ふり向く",
+      "en": "He whirled around when he heard his name.",
+      "ja": "彼は名前を呼ばれてくるりとふり向いた。"
+    },
+    {
+      "source": "original",
+      "label": "頭",
+      "en": "My head was whirling with all the new information.",
+      "ja": "新しい情報が多すぎて頭がくらくらしていた。"
+    },
+    {
+      "source": "original",
+      "label": "ためす",
+      "en": "I've never tried surfing, but I'll give it a whirl.",
+      "ja": "サーフィンはやったことがないけれど、ためしにやってみよう。"
+    },
+    {
+      "source": "original",
+      "label": "あわただしい",
+      "en": "They got married after a whirlwind romance.",
+      "ja": "2人はあっという間の恋愛の末に結婚した。"
+    }
+  ],
+  "check_points": [
+    "whirl・spin・revolve のちがいを言えるか",
+    "give it a whirl の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文で「舞う・くるりとふり向く」、会話で give it a whirl が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2030
+    }
+  ]
+}

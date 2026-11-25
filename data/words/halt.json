@@ -1,0 +1,103 @@
+{
+  "word": "halt",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/hɔːlt/",
+  "core_image": {
+    "text": "号令ひとつで、ぴたっと止まる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 96,60 104,46\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"100\"/><rect x=\"140\" y=\"96\" width=\"60\" height=\"30\"/><circle cx=\"154\" cy=\"132\" r=\"8\"/><circle cx=\"186\" cy=\"132\" r=\"8\"/><line x1=\"128\" y1=\"100\" x2=\"128\" y2=\"124\"/><line x1=\"124\" y1=\"100\" x2=\"124\" y2=\"124\"/></g><text x=\"150\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">止まれ!</text></svg>"
+  },
+  "etymology": "ドイツ語 halten(止まる・持つ。行進の号令 Halt!=止まれ) → (動いていたものが)ぴたっと止まる・止める → 中断",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a stop or pause."
+    },
+    {
+      "pos": "動詞",
+      "text": "to stop, or to make something stop."
+    }
+  ],
+  "cautions": [
+    "名詞の型が多い:come to a halt=止まる、bring A to a halt=Aを止める、grind to a halt=(のろのろ進んで)止まってしまう",
+    "動詞 halt A=Aを止める・中止させる(自動詞「止まる」にもなる)",
+    "stop=ふつうに止まる/cease=(堅)状態が終わる/halt=動き・活動がぴたっと(公式に)止まる",
+    "call a halt to A=Aの中止を命じる"
+  ],
+  "patterns": [
+    {
+      "form": "come to a halt",
+      "meaning": "止まる"
+    },
+    {
+      "form": "bring A to a halt",
+      "meaning": "Aを止める"
+    },
+    {
+      "form": "grind to a halt",
+      "meaning": "止まってしまう"
+    },
+    {
+      "form": "call a halt to A",
+      "meaning": "Aの中止を命じる"
+    },
+    {
+      "form": "halt A",
+      "meaning": "Aを止める"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "止まる",
+      "en": "The bus came to a sudden halt.",
+      "ja": "バスは急に止まった。"
+    },
+    {
+      "source": "original",
+      "label": "止める",
+      "en": "The police halted traffic after the accident.",
+      "ja": "事故のあと、警察は交通を止めた。"
+    },
+    {
+      "source": "original",
+      "label": "中止",
+      "en": "The game was halted because of heavy rain.",
+      "ja": "大雨のため試合は中断された。"
+    },
+    {
+      "source": "original",
+      "label": "grind to a halt",
+      "en": "The city ground to a halt during the snowstorm.",
+      "ja": "吹雪の間、町の機能は止まってしまった。"
+    },
+    {
+      "source": "original",
+      "label": "bring A to a halt",
+      "en": "The strike brought production to a halt.",
+      "ja": "ストライキで生産が止まった。"
+    },
+    {
+      "source": "original",
+      "label": "号令",
+      "en": "\"Halt!\" shouted the guard.",
+      "ja": "「止まれ!」と警備員が叫んだ。"
+    }
+  ],
+  "check_points": [
+    "come to a halt の意味を言えるか",
+    "grind to a halt の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "come to a halt / grind to a halt の熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1998
+    }
+  ]
+}

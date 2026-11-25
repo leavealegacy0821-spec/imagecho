@@ -1,0 +1,94 @@
+{
+  "word": "revolve",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈvɑːlv/",
+  "core_image": {
+    "text": "中心のまわりを、ぐるりと回りつづける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"84\" r=\"14\"/><ellipse cx=\"120\" cy=\"84\" rx=\"84\" ry=\"40\"/><circle cx=\"204\" cy=\"84\" r=\"7\"/><line x1=\"150\" y1=\"122\" x2=\"112\" y2=\"124\"/><polyline points=\"119.2,127.5 112,124 118.8,119.8\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まわりを回る</text></svg>"
+  },
+  "etymology": "re(くり返し・もとへ)+ volve(転がる。ラテン語 volvere) → くり返し転がって中心のまわりを回る → ①回る・公転する ②(revolve around A)Aを中心に動く・Aが中心である",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move in a circle around a central point; to have something as the main subject or interest."
+    }
+  ],
+  "cautions": [
+    "revolve around A=Aのまわりを回る/Aを中心に展開する(自動詞。around が必要)",
+    "rotate=自分の軸を中心に回る(自転)/revolve=ほかのもののまわりを回る(公転)/spin=くるくる速く回る",
+    "名詞 revolution=①回転・公転 ②革命(ぐるりとひっくり返る)",
+    "The world doesn't revolve around you.=世界はあなた中心に回っていない(自分勝手をたしなめる言い方)"
+  ],
+  "patterns": [
+    {
+      "form": "revolve around A",
+      "meaning": "Aのまわりを回る"
+    },
+    {
+      "form": "revolve around A(比喩)",
+      "meaning": "Aを中心に展開する"
+    },
+    {
+      "form": "one's life revolves around A",
+      "meaning": "生活がA中心だ"
+    },
+    {
+      "form": "a revolving door",
+      "meaning": "回転ドア"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "公転",
+      "en": "The earth revolves around the sun.",
+      "ja": "地球は太陽のまわりを回っている。"
+    },
+    {
+      "source": "original",
+      "label": "月",
+      "en": "The moon takes about 27 days to revolve around the earth.",
+      "ja": "月が地球のまわりを1周するのに約27日かかる。"
+    },
+    {
+      "source": "original",
+      "label": "生活",
+      "en": "His whole life revolves around soccer.",
+      "ja": "彼の生活はすべてサッカー中心だ。"
+    },
+    {
+      "source": "original",
+      "label": "話題",
+      "en": "The discussion revolved around the cost of the project.",
+      "ja": "話し合いは計画の費用を中心に進んだ。"
+    },
+    {
+      "source": "original",
+      "label": "たしなめる",
+      "en": "You have to understand that the world doesn't revolve around you.",
+      "ja": "世界は自分中心に回っているわけではないとわかりなさい。"
+    },
+    {
+      "source": "original",
+      "label": "回転ドア",
+      "en": "The hotel has a revolving door at the entrance.",
+      "ja": "そのホテルの入口には回転ドアがある。"
+    }
+  ],
+  "check_points": [
+    "revolve around A の2つの意味(回る/中心になる)を言えるか",
+    "rotate と revolve のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "revolve around A(比喩で「〜を中心に展開する」)が長文で、rotate との区別が説明文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2029
+    }
+  ]
+}

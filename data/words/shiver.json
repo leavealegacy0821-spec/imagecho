@@ -1,0 +1,99 @@
+{
+  "word": "shiver",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈʃɪvər/",
+  "core_image": {
+    "text": "寒さで、体がぶるぶるとふるえる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"100\" cy=\"52\" r=\"10\"/><line x1=\"100\" y1=\"62\" x2=\"100\" y2=\"106\"/><line x1=\"100\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"100\" y1=\"106\" x2=\"110\" y2=\"140\"/><polyline points=\"100,74 88,86 112,86\"/><polyline points=\"100,74 114,84 90,90\"/><path d=\"M76 60 L70 66 L76 72\"/><path d=\"M124 60 L130 66 L124 72\"/><line x1=\"170\" y1=\"40\" x2=\"190\" y2=\"60\"/><line x1=\"190\" y1=\"40\" x2=\"170\" y2=\"60\"/><line x1=\"166\" y1=\"50\" x2=\"194\" y2=\"50\"/><line x1=\"200\" y1=\"76\" x2=\"212\" y2=\"88\"/><line x1=\"212\" y1=\"76\" x2=\"200\" y2=\"88\"/></g><text x=\"176\" y=\"116\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さむい!</text></svg>"
+  },
+  "etymology": "中世の英語 chiveren(あごがふるえる=歯がガチガチ鳴る) → 寒さで体がぶるぶるふるえる → (恐怖で)ぞくっとする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to shake slightly because you are cold or frightened."
+    },
+    {
+      "pos": "名詞",
+      "text": "a shaking movement of your body caused by cold or fear."
+    }
+  ],
+  "cautions": [
+    "shiver with cold=寒さでふるえる(いちばんの組み合わせ)",
+    "tremble=恐怖・興奮で小刻みに/shiver=おもに寒さでぶるぶる/shudder=いやなものにぞっと一度",
+    "send shivers (a shiver) down A's spine=Aの背筋をぞっとさせる",
+    "形容詞 shivery=寒気がする"
+  ],
+  "patterns": [
+    {
+      "form": "shiver with cold",
+      "meaning": "寒さでふるえる"
+    },
+    {
+      "form": "shiver with fear",
+      "meaning": "恐怖でふるえる"
+    },
+    {
+      "form": "send shivers down A's spine",
+      "meaning": "Aの背筋をぞっとさせる"
+    },
+    {
+      "form": "give A the shivers",
+      "meaning": "Aをぞっとさせる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "寒さ",
+      "en": "We stood shivering at the bus stop in the snow.",
+      "ja": "私たちは雪の中、バス停でふるえながら立っていた。"
+    },
+    {
+      "source": "original",
+      "label": "with cold",
+      "en": "The wet dog was shivering with cold.",
+      "ja": "ぬれた犬は寒さでぶるぶるふるえていた。"
+    },
+    {
+      "source": "original",
+      "label": "熱",
+      "en": "I feel feverish and keep shivering.",
+      "ja": "熱っぽくて、ずっと寒気がしてふるえている。"
+    },
+    {
+      "source": "original",
+      "label": "恐怖",
+      "en": "She shivered at the thought of walking home alone.",
+      "ja": "ひとりで歩いて帰ることを思って、彼女はぞくっとした。"
+    },
+    {
+      "source": "original",
+      "label": "背筋",
+      "en": "The strange noise sent shivers down my spine.",
+      "ja": "その奇妙な音に私は背筋がぞっとした。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "A shiver ran through his body.",
+      "ja": "彼の体に震えが走った。"
+    }
+  ],
+  "check_points": [
+    "shiver の典型の原因(寒さ)を言えるか",
+    "send shivers down A's spine の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文で「寒さでふるえる」。tremble・shudder との使い分けが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1990
+    }
+  ]
+}

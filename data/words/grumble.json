@@ -1,0 +1,99 @@
+{
+  "word": "grumble",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈɡrʌmbəl/",
+  "core_image": {
+    "text": "口の中で、ぶつぶつと低く不満を言いつづける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"90\" y1=\"74\" x2=\"78\" y2=\"98\"/><line x1=\"90\" y1=\"74\" x2=\"102\" y2=\"98\"/><path d=\"M110 44 Q116 38 122 44 Q128 50 134 44 Q140 38 146 44 Q152 50 158 44\"/><path d=\"M114 60 Q120 54 126 60 Q132 66 138 60 Q144 54 150 60\"/></g><text x=\"190\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぶつぶつ</text></svg>"
+  },
+  "etymology": "低くうなる音を表す語から → (雷・おなかが)ごろごろ鳴る → 小声でぶつぶつ不平を言う",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to complain about something in a bad-tempered way, often quietly; to make a low continuous sound."
+    },
+    {
+      "pos": "名詞",
+      "text": "a complaint, especially a quiet one."
+    }
+  ],
+  "cautions": [
+    "grumble about / at A=Aのことでぶつぶつ言う(about に注意)",
+    "complain=不満をはっきり相手に訴える(正式な苦情も)/grumble=相手に訴えるというより、小声でぶつぶつ言いつづける",
+    "(雷・おなかが)ごろごろ鳴る の意味もある(My stomach is grumbling.)",
+    "grumble that 〜=〜だとぶつぶつ言う"
+  ],
+  "patterns": [
+    {
+      "form": "grumble about A",
+      "meaning": "Aのことでぶつぶつ言う"
+    },
+    {
+      "form": "grumble that 〜",
+      "meaning": "〜だと不平を言う"
+    },
+    {
+      "form": "without grumbling",
+      "meaning": "文句を言わずに"
+    },
+    {
+      "form": "a stomach grumbles",
+      "meaning": "おなかがごろごろ鳴る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "about",
+      "en": "The students grumbled about the amount of homework.",
+      "ja": "生徒たちは宿題の量にぶつぶつ文句を言った。"
+    },
+    {
+      "source": "original",
+      "label": "that",
+      "en": "He grumbled that the food was cold.",
+      "ja": "彼は料理が冷めているとぶつぶつ言った。"
+    },
+    {
+      "source": "original",
+      "label": "without",
+      "en": "She did all the work without grumbling.",
+      "ja": "彼女は文句ひとつ言わずにその仕事を全部やった。"
+    },
+    {
+      "source": "original",
+      "label": "鳴る",
+      "en": "My stomach was grumbling during the test.",
+      "ja": "テストの間、おなかがごろごろ鳴っていた。"
+    },
+    {
+      "source": "original",
+      "label": "complain",
+      "en": "If you have a problem, complain to the manager instead of grumbling to me.",
+      "ja": "問題があるなら、私にぶつぶつ言わずに店長に訴えなさい。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "There were a few grumbles about the new schedule.",
+      "ja": "新しい予定表には少し不満の声があった。"
+    }
+  ],
+  "check_points": [
+    "complain と grumble のちがいを言えるか",
+    "grumble about A の前置詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "complain との使い分けと、grumble about A の形が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2017
+    }
+  ]
+}

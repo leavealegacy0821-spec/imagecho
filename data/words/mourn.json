@@ -1,0 +1,94 @@
+{
+  "word": "mourn",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/mɔːrn/",
+  "core_image": {
+    "text": "失った人を思い、静かに深く悲しむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><polyline points=\"80,74 92,94 98,100\"/><polyline points=\"80,74 70,94 66,100\"/><path d=\"M150 140 L150 96 Q170 74 190 96 L190 140\"/><line x1=\"160\" y1=\"104\" x2=\"180\" y2=\"104\"/><line x1=\"130\" y1=\"140\" x2=\"130\" y2=\"124\"/><circle cx=\"130\" cy=\"120\" r=\"4\"/></g><text x=\"80\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しのぶ</text></svg>"
+  },
+  "etymology": "古英語 murnan(悲しむ・思いわずらう) → 失ったものを思って心が沈む → ①(人の死を)悼む・喪に服す ②(失ったものを)嘆き悲しむ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to feel and show great sadness because someone has died or something has been lost."
+    }
+  ],
+  "cautions": [
+    "mourn A / mourn for (over) A=A(の死・喪失)を悼む",
+    "grieve=深い悲しみに沈む(心の痛み)/mourn=死を悼む(人前で・儀式も含む)/lament=言葉や声に出して嘆く",
+    "名詞 mourning=喪・哀悼(be in mourning=喪に服している)",
+    "発音は morning(朝)と同じなので文脈で区別する"
+  ],
+  "patterns": [
+    {
+      "form": "mourn A",
+      "meaning": "Aの死を悼む"
+    },
+    {
+      "form": "mourn for / over A",
+      "meaning": "Aを嘆き悲しむ"
+    },
+    {
+      "form": "mourn the loss of A",
+      "meaning": "Aを失ったことを悲しむ"
+    },
+    {
+      "form": "be in mourning",
+      "meaning": "喪に服している"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "国",
+      "en": "The whole nation mourned the death of the king.",
+      "ja": "国じゅうが王の死を悼んだ。"
+    },
+    {
+      "source": "original",
+      "label": "for",
+      "en": "She is still mourning for her grandmother.",
+      "ja": "彼女は今も祖母の死を悲しんでいる。"
+    },
+    {
+      "source": "original",
+      "label": "喪失",
+      "en": "They mourned the loss of their old house in the fire.",
+      "ja": "彼らは火事で古い家を失ったことを悲しんだ。"
+    },
+    {
+      "source": "original",
+      "label": "喪",
+      "en": "The family was in mourning for a year.",
+      "ja": "その家族は1年間喪に服した。"
+    },
+    {
+      "source": "original",
+      "label": "ファン",
+      "en": "Thousands of fans gathered to mourn the singer.",
+      "ja": "何千人ものファンがその歌手を悼むために集まった。"
+    },
+    {
+      "source": "original",
+      "label": "過去",
+      "en": "We should not just mourn the past but learn from it.",
+      "ja": "私たちは過去を嘆くだけでなく、そこから学ぶべきだ。"
+    }
+  ],
+  "check_points": [
+    "grieve・mourn・lament のちがいを言えるか",
+    "be in mourning の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "mourn the death / loss of A が長文で出る。grief・sorrow と並ぶ「悲しみ」の語。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2035
+    }
+  ]
+}
