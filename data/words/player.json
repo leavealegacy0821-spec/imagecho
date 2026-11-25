@@ -1,0 +1,89 @@
+{
+  "word": "player",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈpleɪər/",
+  "core_image": {
+    "text": "競技や演奏をする人(選手・演奏者)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"100\" y2=\"56\"/><circle cx=\"110\" cy=\"50\" r=\"8\"/><rect x=\"150\" y=\"80\" width=\"60\" height=\"40\"/><circle cx=\"170\" cy=\"100\" r=\"6\"/><circle cx=\"190\" cy=\"100\" r=\"6\"/></g><text x=\"180\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">プレーヤー</text></svg>"
+  },
+  "etymology": "play(遊ぶ・演じる) + -er(人) → する人=選手・演奏者・(機器)プレーヤー",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a person who plays a game or sport; a person who plays a musical instrument; a machine that plays music or video; an important person or company in an activity."
+    }
+  ],
+  "cautions": [
+    "a soccer [piano] player=サッカー選手[ピアニスト]",
+    "a key player=中心人物・主要企業",
+    "a team player=協調性のある人",
+    "DVD player=DVDプレーヤー"
+  ],
+  "patterns": [
+    {
+      "form": "a key player",
+      "meaning": "重要な存在"
+    },
+    {
+      "form": "a team player",
+      "meaning": "協調性のある人"
+    },
+    {
+      "form": "a piano player",
+      "meaning": "ピアノを弾く人"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "選手",
+      "en": "He is the best player on the team.",
+      "ja": "彼はチームでいちばんうまい選手だ。"
+    },
+    {
+      "source": "original",
+      "label": "演奏者",
+      "en": "She is a talented violin player.",
+      "ja": "彼女は才能あるバイオリン奏者だ。"
+    },
+    {
+      "source": "original",
+      "label": "主要",
+      "en": "China is a key player in the world economy.",
+      "ja": "中国は世界経済で重要な役割を担っている。"
+    },
+    {
+      "source": "original",
+      "label": "協調性",
+      "en": "We need team players.",
+      "ja": "協調性のある人が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "機器",
+      "en": "My CD player is broken.",
+      "ja": "CDプレーヤーがこわれた。"
+    },
+    {
+      "source": "original",
+      "label": "ゲーム",
+      "en": "This game is for two players.",
+      "ja": "このゲームは2人用だ。"
+    }
+  ],
+  "check_points": [
+    "a key player の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a key player が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2294
+    }
+  ]
+}

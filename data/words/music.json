@@ -1,0 +1,93 @@
+{
+  "word": "music",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈmjuːzɪk/",
+  "core_image": {
+    "text": "音を組み立ててつくる音楽",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"40\" y1=\"50\" x2=\"200\" y2=\"50\"/><line x1=\"40\" y1=\"65\" x2=\"200\" y2=\"65\"/><line x1=\"40\" y1=\"80\" x2=\"200\" y2=\"80\"/><line x1=\"40\" y1=\"95\" x2=\"200\" y2=\"95\"/><line x1=\"40\" y1=\"110\" x2=\"200\" y2=\"110\"/><ellipse cx=\"90\" cy=\"102\" rx=\"8\" ry=\"6\"/><line x1=\"98\" y1=\"102\" x2=\"98\" y2=\"60\"/><ellipse cx=\"150\" cy=\"88\" rx=\"8\" ry=\"6\"/><line x1=\"158\" y1=\"88\" x2=\"158\" y2=\"46\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">おんがく</text></svg>"
+  },
+  "etymology": "ギリシャ語 mousikē(学芸の女神ミューズたちのわざ:museum と同じ根) → 音楽",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "sounds arranged in a pleasant way; written notes for music."
+    }
+  ],
+  "cautions": [
+    "music=音楽(数えない:a music ×)",
+    "listen to music=音楽を聞く",
+    "a piece of music=1曲",
+    "face the music=(自分のしたことの)責任をとる"
+  ],
+  "patterns": [
+    {
+      "form": "listen to music",
+      "meaning": "音楽を聞く"
+    },
+    {
+      "form": "a piece of music",
+      "meaning": "1曲"
+    },
+    {
+      "form": "face the music",
+      "meaning": "報いを受ける"
+    },
+    {
+      "form": "musician",
+      "meaning": "音楽家"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "音楽",
+      "en": "I listen to music every day.",
+      "ja": "毎日音楽を聞く。"
+    },
+    {
+      "source": "original",
+      "label": "1曲",
+      "en": "This is my favorite piece of music.",
+      "ja": "これが私の好きな曲だ。"
+    },
+    {
+      "source": "original",
+      "label": "責任",
+      "en": "He broke the window, so he has to face the music.",
+      "ja": "彼は窓を割ったので責任をとらなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "音楽家",
+      "en": "She wants to be a musician.",
+      "ja": "彼女は音楽家になりたい。"
+    },
+    {
+      "source": "original",
+      "label": "楽譜",
+      "en": "Can you read music?",
+      "ja": "楽譜が読める?"
+    },
+    {
+      "source": "original",
+      "label": "数えない",
+      "en": "There was too much music in the movie.",
+      "ja": "その映画は音楽が多すぎた。"
+    }
+  ],
+  "check_points": [
+    "music が数えない名詞だとわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a piece of music が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2289
+    }
+  ]
+}

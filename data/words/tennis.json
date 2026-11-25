@@ -1,0 +1,93 @@
+{
+  "word": "tennis",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈtenɪs/",
+  "core_image": {
+    "text": "ネットをはさんでラケットで打ち合うテニス",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"120\" y1=\"100\" x2=\"120\" y2=\"140\"/><line x1=\"40\" y1=\"100\" x2=\"200\" y2=\"100\" stroke-dasharray=\"3 3\"/><ellipse cx=\"60\" cy=\"70\" rx=\"14\" ry=\"18\"/><line x1=\"60\" y1=\"88\" x2=\"60\" y2=\"120\"/><circle cx=\"140\" cy=\"60\" r=\"6\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">テニス</text></svg>"
+  },
+  "etymology": "中世フランスの球技 → テニス",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a game in which two or four players hit a ball over a net using rackets."
+    }
+  ],
+  "cautions": [
+    "play tennis=テニスをする(冠詞なし)",
+    "a tennis court=テニスコート",
+    "love=(テニスで)0点",
+    "table tennis=卓球"
+  ],
+  "patterns": [
+    {
+      "form": "play tennis",
+      "meaning": "テニスをする"
+    },
+    {
+      "form": "a tennis court",
+      "meaning": "テニスコート"
+    },
+    {
+      "form": "table tennis",
+      "meaning": "卓球"
+    },
+    {
+      "form": "a tennis racket",
+      "meaning": "ラケット"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "テニス",
+      "en": "Let's play tennis this weekend.",
+      "ja": "今週末テニスをしよう。"
+    },
+    {
+      "source": "original",
+      "label": "コート",
+      "en": "The tennis courts are behind the school.",
+      "ja": "テニスコートは学校の裏にある。"
+    },
+    {
+      "source": "original",
+      "label": "卓球",
+      "en": "Table tennis is popular in China.",
+      "ja": "中国では卓球が人気だ。"
+    },
+    {
+      "source": "original",
+      "label": "ラケット",
+      "en": "I bought a new tennis racket.",
+      "ja": "新しいテニスラケットを買った。"
+    },
+    {
+      "source": "original",
+      "label": "0点",
+      "en": "The score is thirty-love.",
+      "ja": "スコアは30対0だ。"
+    },
+    {
+      "source": "original",
+      "label": "部活",
+      "en": "She is the captain of the tennis team.",
+      "ja": "彼女はテニス部のキャプテンだ。"
+    }
+  ],
+  "check_points": [
+    "テニスの love の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "基本語として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2293
+    }
+  ]
+}

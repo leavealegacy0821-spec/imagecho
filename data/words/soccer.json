@@ -1,0 +1,89 @@
+{
+  "word": "soccer",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈsɑːkər/",
+  "core_image": {
+    "text": "手を使わずボールをけるサッカー",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"80\" y1=\"96\" x2=\"110\" y2=\"120\"/><circle cx=\"124\" cy=\"126\" r=\"12\"/><rect x=\"170\" y=\"80\" width=\"50\" height=\"60\"/><line x1=\"170\" y1=\"100\" x2=\"220\" y2=\"100\" stroke-dasharray=\"3 3\"/></g><text x=\"150\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">サッカー</text></svg>"
+  },
+  "etymology": "association football(協会式フットボール)の assoc. を変えた語 → サッカー",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "(American) a game played by two teams of eleven players who kick a ball and try to get it into a goal."
+    }
+  ],
+  "cautions": [
+    "(米)soccer/(英)football=サッカー",
+    "(米)football=アメリカンフットボール",
+    "play soccer=サッカーをする(スポーツに冠詞はつけない)",
+    "the World Cup=ワールドカップ"
+  ],
+  "patterns": [
+    {
+      "form": "play soccer",
+      "meaning": "サッカーをする"
+    },
+    {
+      "form": "a soccer player",
+      "meaning": "サッカー選手"
+    },
+    {
+      "form": "the soccer club",
+      "meaning": "サッカー部"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "サッカー",
+      "en": "We play soccer after school.",
+      "ja": "放課後サッカーをする。"
+    },
+    {
+      "source": "original",
+      "label": "部",
+      "en": "I'm in the soccer club.",
+      "ja": "サッカー部に入っている。"
+    },
+    {
+      "source": "original",
+      "label": "選手",
+      "en": "He wants to be a professional soccer player.",
+      "ja": "彼はプロのサッカー選手になりたい。"
+    },
+    {
+      "source": "original",
+      "label": "英",
+      "en": "In Britain, soccer is called football.",
+      "ja": "イギリスではサッカーを football と呼ぶ。"
+    },
+    {
+      "source": "original",
+      "label": "W杯",
+      "en": "The World Cup is a big soccer event.",
+      "ja": "ワールドカップはサッカーの大イベントだ。"
+    },
+    {
+      "source": "original",
+      "label": "冠詞なし",
+      "en": "Let's play soccer in the park.",
+      "ja": "公園でサッカーをしよう。"
+    }
+  ],
+  "check_points": [
+    "soccer と football の米英のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "基本語として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2291
+    }
+  ]
+}
