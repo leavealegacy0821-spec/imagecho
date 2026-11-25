@@ -558,13 +558,16 @@
     },
     {
       "title": "使い分け:選ぶ・好む",
-      "note": "pick=指でつまむように選ぶ ／ prefer=ほかより〜を好む ／ adopt=取り入れて自分のものにする ／ favor=ひいきする",
+      "note": "pick=指でつまむように選ぶ ／ prefer=ほかより〜を好む ／ adopt=取り入れて自分のものにする ／ favor=ひいきする ／ choose=いくつかの中から好みで決める(chose/chosen) ／ select=よく見比べてえりすぐる ／ opt=道の中からこちらを取る(opt for)",
       "words": [
         "pick",
         "prefer",
         "adopt",
         "favor",
-        "fond"
+        "fond",
+        "choose",
+        "select",
+        "opt"
       ]
     },
     {
@@ -2243,6 +2246,27 @@
         "attractive",
         "charming",
         "ugly"
+      ]
+    },
+    {
+      "title": "使い分け:表す・象徴する",
+      "note": "show=見せる(広い) ／ represent=代わりに表す・代表する ／ symbolize=見えるしるしで見えないものを象徴する ／ embody=考えに体を与えて体現する ／ signify=しるしとして意味を示す ／ denote=しるしを付けてそれと指し示す ／ imply=言外にふくませる",
+      "words": [
+        "represent",
+        "symbolize",
+        "embody",
+        "signify",
+        "denote",
+        "imply"
+      ]
+    },
+    {
+      "title": "使い分け:選挙",
+      "note": "vote=票を入れて意思を示す(行為) ／ elect=投票で代表を選び出す(結果) ／ nominate=名前を挙げて候補に推す",
+      "words": [
+        "vote",
+        "elect",
+        "nominate"
       ]
     },
     {

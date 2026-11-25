@@ -1,0 +1,89 @@
+{
+  "word": "symbolize",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈsɪmbəlaɪz/",
+  "core_image": {
+    "text": "目に見えるしるしで、見えないものを表す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M60 60 Q60 40 80 40 Q100 40 100 60 Q100 80 60 110 Q20 80 20 60 Q20 40 40 40 Q60 40 60 60\"/><line x1=\"110\" y1=\"76\" x2=\"150\" y2=\"76\"/><polyline points=\"143,72.2 150,76 143,79.8\"/><circle cx=\"190\" cy=\"76\" r=\"20\" stroke-dasharray=\"4 4\"/></g><text x=\"180\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しるしで表す</text></svg>"
+  },
+  "etymology": "symbol(しるし。ギリシャ語 symbolon=割り符:sym=共に+ballein=投げる)+ize → しるしとして表す → 象徴する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to represent an idea or quality with an object or sign."
+    }
+  ],
+  "cautions": [
+    "represent=代表する・表す(広い)/symbolize=物・しるしが抽象的な考えを象徴する",
+    "A symbolizes B=AはBの象徴だ(The dove symbolizes peace.)",
+    "名詞 symbol:a symbol of A=Aの象徴",
+    "symbolic=象徴的な"
+  ],
+  "patterns": [
+    {
+      "form": "A symbolizes B",
+      "meaning": "AはBを象徴する"
+    },
+    {
+      "form": "a symbol of A",
+      "meaning": "Aの象徴"
+    },
+    {
+      "form": "symbolic",
+      "meaning": "象徴的な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "象徴する",
+      "en": "The dove symbolizes peace.",
+      "ja": "ハトは平和を象徴する。"
+    },
+    {
+      "source": "original",
+      "label": "象徴",
+      "en": "The cherry blossom is a symbol of spring in Japan.",
+      "ja": "桜は日本の春の象徴だ。"
+    },
+    {
+      "source": "original",
+      "label": "表す",
+      "en": "In the story, the river symbolizes time.",
+      "ja": "その物語では川が時間を象徴している。"
+    },
+    {
+      "source": "original",
+      "label": "象徴的な",
+      "en": "The meeting was a symbolic step toward peace.",
+      "ja": "その会談は平和への象徴的な一歩だった。"
+    },
+    {
+      "source": "original",
+      "label": "記号",
+      "en": "\"+\" is the symbol for addition.",
+      "ja": "「+」は足し算の記号だ。"
+    },
+    {
+      "source": "original",
+      "label": "象徴する",
+      "en": "The red color symbolizes love.",
+      "ja": "赤い色は愛を表す。"
+    }
+  ],
+  "check_points": [
+    "represent と symbolize のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a symbol of、symbolize が評論で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1307
+    }
+  ]
+}

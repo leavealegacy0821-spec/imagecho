@@ -1,0 +1,98 @@
+{
+  "word": "nominate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈnɑːmɪneɪt/",
+  "core_image": {
+    "text": "名前を挙げて、候補として推す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"100\" y2=\"56\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"156\" y2=\"96\"/><line x1=\"170\" y1=\"74\" x2=\"184\" y2=\"96\"/><rect x=\"146\" y=\"20\" width=\"48\" height=\"16\"/></g><text x=\"80\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">名前を挙げる</text></svg>"
+  },
+  "etymology": "ラテン語 nomen(名前。name・noun と同じ根) → 名前を挙げる → (候補として)推薦する・指名する → 名詞 nomination(指名・ノミネート)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to officially suggest someone for a position or prize; to choose someone for a job."
+    }
+  ],
+  "cautions": [
+    "elect=投票で選ぶ/nominate=(選挙・賞の)候補として名前を挙げる・指名する",
+    "nominate A for [as] B=AをBの候補に推す",
+    "be nominated for an award=賞にノミネートされる",
+    "名詞 nomination/nominee=候補者"
+  ],
+  "patterns": [
+    {
+      "form": "nominate A for B",
+      "meaning": "AをBの候補に推す"
+    },
+    {
+      "form": "nominate A as B",
+      "meaning": "AをBに指名する"
+    },
+    {
+      "form": "be nominated for A",
+      "meaning": "Aにノミネートされる"
+    },
+    {
+      "form": "a nomination",
+      "meaning": "指名"
+    },
+    {
+      "form": "a nominee",
+      "meaning": "候補者"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "推薦する",
+      "en": "The teacher nominated her for the student council.",
+      "ja": "先生は彼女を生徒会の候補に推薦した。"
+    },
+    {
+      "source": "original",
+      "label": "ノミネートされる",
+      "en": "The film was nominated for five awards.",
+      "ja": "その映画は5つの賞にノミネートされた。"
+    },
+    {
+      "source": "original",
+      "label": "指名する",
+      "en": "The president nominated him as foreign minister.",
+      "ja": "大統領は彼を外務大臣に指名した。"
+    },
+    {
+      "source": "original",
+      "label": "候補者",
+      "en": "There are three nominees for the prize.",
+      "ja": "その賞には候補者が3人いる。"
+    },
+    {
+      "source": "original",
+      "label": "指名",
+      "en": "She received a nomination for best actress.",
+      "ja": "彼女は主演女優賞にノミネートされた。"
+    },
+    {
+      "source": "original",
+      "label": "推薦する",
+      "en": "Who will you nominate as captain?",
+      "ja": "キャプテンに誰を推す?"
+    }
+  ],
+  "check_points": [
+    "elect と nominate のちがいを言えるか",
+    "be nominated for の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be nominated for が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1306
+    }
+  ]
+}

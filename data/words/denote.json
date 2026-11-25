@@ -1,0 +1,85 @@
+{
+  "word": "denote",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈnoʊt/",
+  "core_image": {
+    "text": "しるしを付けて、それと指し示す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"40\" width=\"70\" height=\"60\"/><line x1=\"56\" y1=\"60\" x2=\"94\" y2=\"60\"/><line x1=\"56\" y1=\"80\" x2=\"80\" y2=\"80\"/><line x1=\"116\" y1=\"70\" x2=\"160\" y2=\"70\"/><polyline points=\"153,66.2 160,70 153,73.8\"/><circle cx=\"184\" cy=\"70\" r=\"14\"/></g><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">指し示す</text></svg>"
+  },
+  "etymology": "de(すっかり)+note(しるしを付ける。note・notice と同じ根) → しるしを付けて示す → (記号・語が)意味する・表す",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to represent or mean something."
+    }
+  ],
+  "cautions": [
+    "mean=意味する/denote=(記号・語が)そのものを直接指し示す(堅い)",
+    "connote=(言外に)ほのめかす・含意する、との対比",
+    "A denotes B=AはBを表す(記号の説明でよく使う)",
+    "indicate=指し示す(広い)"
+  ],
+  "patterns": [
+    {
+      "form": "A denotes B",
+      "meaning": "AはBを表す"
+    },
+    {
+      "form": "denote that …",
+      "meaning": "…を示す"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "表す",
+      "en": "In the map, the red line denotes the border.",
+      "ja": "地図では赤い線が国境を表している。"
+    },
+    {
+      "source": "original",
+      "label": "表す",
+      "en": "The letter \"x\" denotes an unknown number.",
+      "ja": "文字「x」は未知数を表す。"
+    },
+    {
+      "source": "original",
+      "label": "意味する",
+      "en": "The word \"home\" denotes a place where you live.",
+      "ja": "「home」という語は住む場所を意味する。"
+    },
+    {
+      "source": "original",
+      "label": "示す",
+      "en": "A star denotes a correct answer.",
+      "ja": "星印は正解を示す。"
+    },
+    {
+      "source": "original",
+      "label": "含意する",
+      "en": "The word \"home\" also connotes warmth and family.",
+      "ja": "「home」には温かさや家族といった含みもある。"
+    },
+    {
+      "source": "original",
+      "label": "示す",
+      "en": "Red spots on the skin may denote an allergy.",
+      "ja": "肌の赤い斑点はアレルギーを示していることがある。"
+    }
+  ],
+  "check_points": [
+    "denote と connote のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "denote / connote が評論で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1310
+    }
+  ]
+}

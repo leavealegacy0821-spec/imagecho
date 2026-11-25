@@ -1,0 +1,98 @@
+{
+  "word": "choose",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/tʃuːz/",
+  "core_image": {
+    "text": "いくつかの中から、自分の好みで決める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"100\" y2=\"76\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"96\"/><rect x=\"110\" y=\"100\" width=\"24\" height=\"40\"/><rect x=\"146\" y=\"100\" width=\"24\" height=\"40\"/><rect x=\"182\" y=\"100\" width=\"24\" height=\"40\"/><line x1=\"104\" y1=\"80\" x2=\"154\" y2=\"96\"/><polyline points=\"148.5,90.2 154,96 146.1,97.5\"/></g><text x=\"160\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">好みで選ぶ</text></svg>"
+  },
+  "etymology": "古い英語 cēosan(選ぶ・味わって試す) → いくつかの中から選ぶ → (〜することに)決める(choose to do) → 名詞 choice(選択)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to decide which thing or person you want from several possibilities; to decide to do something."
+    }
+  ],
+  "cautions": [
+    "活用 choose - chose - chosen",
+    "choose A from [among] B=BからAを選ぶ/choose A as B=AをBに選ぶ",
+    "choose to do=〜することに決める(=decide to do)",
+    "select=(よく考えて)選び抜く・堅い/pick=(気軽に)選ぶ"
+  ],
+  "patterns": [
+    {
+      "form": "choose A",
+      "meaning": "Aを選ぶ"
+    },
+    {
+      "form": "choose A from B",
+      "meaning": "BからAを選ぶ"
+    },
+    {
+      "form": "choose to do",
+      "meaning": "〜することに決める"
+    },
+    {
+      "form": "choose between A and B",
+      "meaning": "AとBのどちらかを選ぶ"
+    },
+    {
+      "form": "make a choice",
+      "meaning": "選ぶ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "選ぶ",
+      "en": "Choose one card from the pile.",
+      "ja": "山から1枚カードを選んでください。"
+    },
+    {
+      "source": "original",
+      "label": "どちらかを選ぶ",
+      "en": "I couldn't choose between the two dresses.",
+      "ja": "2着のドレスのどちらにするか決められなかった。"
+    },
+    {
+      "source": "original",
+      "label": "ことに決める",
+      "en": "She chose to study abroad.",
+      "ja": "彼女は留学することに決めた。"
+    },
+    {
+      "source": "original",
+      "label": "選ばれる",
+      "en": "He was chosen as captain of the team.",
+      "ja": "彼はチームのキャプテンに選ばれた。"
+    },
+    {
+      "source": "original",
+      "label": "選ぶ",
+      "en": "You can choose any color you like.",
+      "ja": "好きな色をどれでも選んでいいよ。"
+    },
+    {
+      "source": "original",
+      "label": "選択",
+      "en": "You have to make a choice.",
+      "ja": "君は選ばなければならない。"
+    }
+  ],
+  "check_points": [
+    "choose の活用を言えるか",
+    "choose to do の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "活用 chose/chosen、choose to do が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1301
+    }
+  ]
+}

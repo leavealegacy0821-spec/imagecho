@@ -1,0 +1,103 @@
+{
+  "word": "vote",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/voʊt/",
+  "core_image": {
+    "text": "票を入れて、賛成・反対の意思を示す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"100\" y=\"80\" width=\"70\" height=\"60\"/><line x1=\"120\" y1=\"80\" x2=\"150\" y2=\"80\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"96\" y2=\"60\"/><rect x=\"96\" y=\"50\" width=\"20\" height=\"14\"/><line x1=\"100\" y1=\"56\" x2=\"104\" y2=\"60\"/><line x1=\"104\" y1=\"60\" x2=\"112\" y2=\"52\"/></g><text x=\"190\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">1票を入れる</text></svg>"
+  },
+  "etymology": "ラテン語 votum(誓い・願い。vow と同じ根) → 願いを示す → 票・投票 → (動詞)投票する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to show which person or idea you choose, especially in an election."
+    },
+    {
+      "pos": "名詞",
+      "text": "a formal choice made in an election; the right to vote."
+    }
+  ],
+  "cautions": [
+    "vote for [against] A=Aに賛成[反対]の票を入れる",
+    "vote on A=Aについて採決する",
+    "elect=投票で選ぶ(結果)/vote=票を入れる(行為)",
+    "名詞 the vote=選挙権(get the vote)/a vote of thanks=謝辞"
+  ],
+  "patterns": [
+    {
+      "form": "vote for A",
+      "meaning": "Aに投票する"
+    },
+    {
+      "form": "vote against A",
+      "meaning": "Aに反対票を入れる"
+    },
+    {
+      "form": "vote on A",
+      "meaning": "Aを採決する"
+    },
+    {
+      "form": "the right to vote",
+      "meaning": "投票権"
+    },
+    {
+      "form": "take a vote",
+      "meaning": "採決をとる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "投票する",
+      "en": "Who did you vote for?",
+      "ja": "誰に投票したの?"
+    },
+    {
+      "source": "original",
+      "label": "反対票",
+      "en": "Most members voted against the plan.",
+      "ja": "ほとんどのメンバーがその計画に反対票を入れた。"
+    },
+    {
+      "source": "original",
+      "label": "採決する",
+      "en": "Let's vote on it.",
+      "ja": "それを多数決で決めよう。"
+    },
+    {
+      "source": "original",
+      "label": "投票権",
+      "en": "In Japan, people get the right to vote at 18.",
+      "ja": "日本では18歳で投票権が得られる。"
+    },
+    {
+      "source": "original",
+      "label": "票",
+      "en": "She won by 50 votes.",
+      "ja": "彼女は50票差で勝った。"
+    },
+    {
+      "source": "original",
+      "label": "採決をとる",
+      "en": "The class took a vote on where to go.",
+      "ja": "クラスはどこへ行くか採決をとった。"
+    }
+  ],
+  "check_points": [
+    "vote for / against の意味を言えるか",
+    "vote と elect のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "vote for、the right to vote が社会系の長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1305
+    }
+  ]
+}
