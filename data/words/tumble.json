@@ -1,0 +1,98 @@
+{
+  "word": "tumble",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈtʌmbl/",
+  "core_image": {
+    "text": "ころころ転がるように、ころげ落ちる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"20,40 80,40 160,140\"/><circle cx=\"100\" cy=\"74\" r=\"8\"/><circle cx=\"124\" cy=\"104\" r=\"8\"/><circle cx=\"146\" cy=\"126\" r=\"8\"/><path d=\"M90 60 a14 14 0 1 1 10 4\" stroke-dasharray=\"2 3\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ころげ落ちる</text></svg>"
+  },
+  "etymology": "中英語 tumblen(とんぼ返りする・ころがる) → ころげ落ちる・転ぶ → (値段が)急に下がる → (名詞)転倒・急落",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to fall down suddenly and roll over; (of prices) to fall suddenly by a large amount."
+    },
+    {
+      "pos": "名詞",
+      "text": "a fall; a sudden fall in value."
+    }
+  ],
+  "cautions": [
+    "fall=落ちる・転ぶ(広い)/tumble=ころころ転がるようにころげ落ちる・(値段が)急落する",
+    "tumble down A=Aをころげ落ちる",
+    "prices tumbled=物価が急落した",
+    "tumble dryer=回転式乾燥機"
+  ],
+  "patterns": [
+    {
+      "form": "tumble down A",
+      "meaning": "Aをころげ落ちる"
+    },
+    {
+      "form": "tumble over",
+      "meaning": "ばったり倒れる"
+    },
+    {
+      "form": "A tumbles",
+      "meaning": "A(値段)が急落する"
+    },
+    {
+      "form": "take a tumble",
+      "meaning": "転ぶ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ころげ落ちる",
+      "en": "The boy tumbled down the stairs.",
+      "ja": "男の子は階段をころげ落ちた。"
+    },
+    {
+      "source": "original",
+      "label": "急落する",
+      "en": "Stock prices tumbled yesterday.",
+      "ja": "昨日、株価が急落した。"
+    },
+    {
+      "source": "original",
+      "label": "転ぶ",
+      "en": "She took a tumble on the ice.",
+      "ja": "彼女は氷の上で転んだ。"
+    },
+    {
+      "source": "original",
+      "label": "崩れ落ちる",
+      "en": "The old wall tumbled down.",
+      "ja": "古い壁が崩れ落ちた。"
+    },
+    {
+      "source": "original",
+      "label": "こぼれ落ちる",
+      "en": "Apples tumbled out of the bag.",
+      "ja": "袋からリンゴがころがり出た。"
+    },
+    {
+      "source": "original",
+      "label": "転がる",
+      "en": "The puppies tumbled around on the grass.",
+      "ja": "子犬たちが芝生の上を転げ回った。"
+    }
+  ],
+  "check_points": [
+    "tumble の2つの意味(転がり落ちる・急落)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "prices tumble が時事で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1697
+    }
+  ]
+}

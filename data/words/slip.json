@@ -1,0 +1,103 @@
+{
+  "word": "slip",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/slɪp/",
+  "core_image": {
+    "text": "思わず足がすべって、するりと抜ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"100\" cy=\"64\" r=\"10\"/><line x1=\"104\" y1=\"74\" x2=\"120\" y2=\"110\"/><line x1=\"120\" y1=\"110\" x2=\"150\" y2=\"120\"/><line x1=\"120\" y1=\"110\" x2=\"100\" y2=\"136\"/><line x1=\"108\" y1=\"84\" x2=\"86\" y2=\"74\"/><line x1=\"112\" y1=\"88\" x2=\"134\" y2=\"80\"/><ellipse cx=\"150\" cy=\"138\" rx=\"20\" ry=\"4\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">つるっ</text></svg>"
+  },
+  "etymology": "中低地ドイツ語 slippen(すべる) → うっかり足がすべる → するりと抜ける・そっと入る(slip into) → (記憶から)抜け落ちる → (名詞)ちょっとしたまちがい(a slip of the tongue)・紙きれ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to slide accidentally and lose your balance; to go somewhere quietly; to become worse."
+    },
+    {
+      "pos": "名詞",
+      "text": "a small mistake; a small piece of paper."
+    }
+  ],
+  "cautions": [
+    "slide=なめらかにすべる(意図的なことも)/slip=うっかり足がすべる・するりと抜ける",
+    "slip one's mind=(うっかり)忘れる",
+    "a slip of the tongue=言いまちがい",
+    "slip into [out of] A=Aにそっと入る[から抜け出す]"
+  ],
+  "patterns": [
+    {
+      "form": "slip on A",
+      "meaning": "Aで足をすべらせる"
+    },
+    {
+      "form": "slip one's mind",
+      "meaning": "うっかり忘れる"
+    },
+    {
+      "form": "a slip of the tongue",
+      "meaning": "言いまちがい"
+    },
+    {
+      "form": "slip into A",
+      "meaning": "Aにそっと入る"
+    },
+    {
+      "form": "a slip of paper",
+      "meaning": "紙きれ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "足をすべらせる",
+      "en": "I slipped on the ice and fell.",
+      "ja": "氷で足をすべらせて転んだ。"
+    },
+    {
+      "source": "original",
+      "label": "うっかり忘れる",
+      "en": "Sorry, it slipped my mind.",
+      "ja": "ごめん、うっかり忘れてた。"
+    },
+    {
+      "source": "original",
+      "label": "言いまちがい",
+      "en": "It was just a slip of the tongue.",
+      "ja": "ただの言いまちがいだった。"
+    },
+    {
+      "source": "original",
+      "label": "そっと",
+      "en": "She slipped out of the room.",
+      "ja": "彼女はそっと部屋を抜け出した。"
+    },
+    {
+      "source": "original",
+      "label": "すべり落ちる",
+      "en": "The glass slipped from his hand.",
+      "ja": "グラスが彼の手からすべり落ちた。"
+    },
+    {
+      "source": "original",
+      "label": "紙きれ",
+      "en": "He wrote his number on a slip of paper.",
+      "ja": "彼は紙きれに電話番号を書いた。"
+    }
+  ],
+  "check_points": [
+    "slip one's mind の意味を言えるか",
+    "slide と slip のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "slip one's mind、a slip of the tongue が熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1695
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "swing",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/swɪŋ/",
+  "core_image": {
+    "text": "一点からつり下がって、ぶらんぶらんゆれる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"60\" y1=\"20\" x2=\"180\" y2=\"20\"/><line x1=\"100\" y1=\"20\" x2=\"80\" y2=\"100\"/><line x1=\"140\" y1=\"20\" x2=\"120\" y2=\"100\"/><line x1=\"76\" y1=\"100\" x2=\"124\" y2=\"100\"/><path d=\"M60 110 Q120 130 180 110\" stroke-dasharray=\"4 4\"/></g><text x=\"200\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぶらんこ</text></svg>"
+  },
+  "etymology": "古い英語 swingan(打つ・むちうつ) → (腕・バットを)大きくふる → (つるしたものが)前後にゆれる → (気分・意見が)ゆれ動く(mood swings) → (名詞)ぶらんこ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move backward and forward from a fixed point; to move something in a curve; to change suddenly from one opinion or feeling to another."
+    },
+    {
+      "pos": "名詞",
+      "text": "a seat hanging from ropes for children to play on; a swinging movement; a sudden change."
+    }
+  ],
+  "cautions": [
+    "活用 swing - swung - swung",
+    "sway=(風などで)ゆらゆらゆれる/swing=一点からつり下がって大きく前後にゆれる・(バットを)ふる",
+    "mood swings=気分のむら",
+    "in full swing=たけなわで・真っ最中で"
+  ],
+  "patterns": [
+    {
+      "form": "swing a bat",
+      "meaning": "バットをふる"
+    },
+    {
+      "form": "swing back and forth",
+      "meaning": "前後にゆれる"
+    },
+    {
+      "form": "mood swings",
+      "meaning": "気分の浮き沈み"
+    },
+    {
+      "form": "in full swing",
+      "meaning": "真っ最中で"
+    },
+    {
+      "form": "a swing",
+      "meaning": "ぶらんこ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ぶらんこ",
+      "en": "The children are playing on the swings.",
+      "ja": "子どもたちはぶらんこで遊んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "ふる",
+      "en": "He swung the bat and hit the ball.",
+      "ja": "彼はバットをふってボールを打った。"
+    },
+    {
+      "source": "original",
+      "label": "ゆれる",
+      "en": "The door swung open in the wind.",
+      "ja": "風でドアがぱっと開いた。"
+    },
+    {
+      "source": "original",
+      "label": "真っ最中",
+      "en": "The party was in full swing.",
+      "ja": "パーティーは盛り上がりの真っ最中だった。"
+    },
+    {
+      "source": "original",
+      "label": "浮き沈み",
+      "en": "Teenagers often have mood swings.",
+      "ja": "10代はよく気分の浮き沈みがある。"
+    },
+    {
+      "source": "original",
+      "label": "ゆれ動く",
+      "en": "Public opinion swung against the plan.",
+      "ja": "世論はその計画に反対の方へ動いた。"
+    }
+  ],
+  "check_points": [
+    "swing の活用(swung)を言えるか",
+    "in full swing の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "in full swing、mood swings が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1692
+    }
+  ]
+}

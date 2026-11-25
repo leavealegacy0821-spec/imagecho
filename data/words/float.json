@@ -1,0 +1,99 @@
+{
+  "word": "float",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/floʊt/",
+  "core_image": {
+    "text": "水や空気に支えられて、ぷかぷかうく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M15 90 Q40 80 65 90 T115 90 T165 90 T225 90\"/><ellipse cx=\"120\" cy=\"84\" rx=\"30\" ry=\"10\"/><line x1=\"120\" y1=\"130\" x2=\"120\" y2=\"100\"/><polyline points=\"116.2,107 120,100 123.8,107\"/></g><text x=\"190\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぷかぷか</text></svg>"
+  },
+  "etymology": "古い英語 flotian(うかぶ。flow・fleet と同じ仲間) → 水面・空中にうかぶ → ただよう → (考えを)うかべて提案する → (会社の株を)上場する・(通貨を)変動相場にする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stay on the surface of a liquid without sinking; to move slowly in the air or on water; to suggest an idea."
+    },
+    {
+      "pos": "名詞",
+      "text": "a light object that floats; a large decorated vehicle in a parade."
+    }
+  ],
+  "cautions": [
+    "sink(沈む)⇔ float(うく)",
+    "float on the water=水にうかぶ/float in the air=空中にただよう",
+    "float an idea=考えを出してみる",
+    "drift=流れに任せてただよう"
+  ],
+  "patterns": [
+    {
+      "form": "float on A",
+      "meaning": "Aにうかぶ"
+    },
+    {
+      "form": "float in the air",
+      "meaning": "空中をただよう"
+    },
+    {
+      "form": "float an idea",
+      "meaning": "考えを持ち出す"
+    },
+    {
+      "form": "a float",
+      "meaning": "うき・山車"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "うかぶ",
+      "en": "Wood floats on water.",
+      "ja": "木は水にうく。"
+    },
+    {
+      "source": "original",
+      "label": "ただよう",
+      "en": "A balloon floated in the sky.",
+      "ja": "風船が空をただよっていた。"
+    },
+    {
+      "source": "original",
+      "label": "うかんで",
+      "en": "We floated on our backs in the pool.",
+      "ja": "私たちはプールであお向けにうかんだ。"
+    },
+    {
+      "source": "original",
+      "label": "持ち出す",
+      "en": "He floated the idea of a school trip to Okinawa.",
+      "ja": "彼は沖縄への修学旅行という案を出してみた。"
+    },
+    {
+      "source": "original",
+      "label": "沈む(sink)",
+      "en": "The stone sank to the bottom.",
+      "ja": "石は底に沈んだ。"
+    },
+    {
+      "source": "original",
+      "label": "山車",
+      "en": "The parade had colorful floats.",
+      "ja": "パレードには色とりどりの山車が出た。"
+    }
+  ],
+  "check_points": [
+    "sink と float の対がわかるか",
+    "float an idea の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "float / sink が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1698
+    }
+  ]
+}

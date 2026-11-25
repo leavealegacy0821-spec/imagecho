@@ -1,0 +1,98 @@
+{
+  "word": "slide",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/slaɪd/",
+  "core_image": {
+    "text": "表面にそって、すーっとすべる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"40,60 180,140\"/><rect x=\"70\" y=\"64\" width=\"30\" height=\"20\" transform=\"rotate(30 85 74)\"/><line x1=\"120\" y1=\"90\" x2=\"160\" y2=\"114\"/><polyline points=\"156,107.1 160,114 152,113.7\"/></g><text x=\"180\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すーっと</text></svg>"
+  },
+  "etymology": "古い英語 slīdan(すべる) → 表面にそってなめらかにすべる・すべらせる → (価値・質が)だんだん下がる → (名詞)すべり台・スライド・下落",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move smoothly along a surface; to move quietly; to become gradually lower or worse."
+    },
+    {
+      "pos": "名詞",
+      "text": "a structure for children to slide down; a picture shown on a screen; a fall in value."
+    }
+  ],
+  "cautions": [
+    "活用 slide - slid - slid",
+    "slip=(うっかり)足がすべる/slide=表面にそってなめらかにすべる",
+    "slide A into B=AをBにすっとすべりこませる",
+    "prices slide=物価がじりじり下がる"
+  ],
+  "patterns": [
+    {
+      "form": "slide down A",
+      "meaning": "Aをすべり降りる"
+    },
+    {
+      "form": "slide A into B",
+      "meaning": "AをBにすべりこませる"
+    },
+    {
+      "form": "a slide",
+      "meaning": "すべり台・スライド"
+    },
+    {
+      "form": "a slide in A",
+      "meaning": "Aの下落"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "すべり降りる",
+      "en": "The children slid down the hill on the snow.",
+      "ja": "子どもたちは雪の坂をすべり降りた。"
+    },
+    {
+      "source": "original",
+      "label": "すべりこませる",
+      "en": "He slid the letter under the door.",
+      "ja": "彼は手紙をドアの下からすべりこませた。"
+    },
+    {
+      "source": "original",
+      "label": "すべり台",
+      "en": "The kids love playing on the slide.",
+      "ja": "子どもたちはすべり台で遊ぶのが大好きだ。"
+    },
+    {
+      "source": "original",
+      "label": "スライド",
+      "en": "The teacher showed us some slides.",
+      "ja": "先生はスライドを何枚か見せてくれた。"
+    },
+    {
+      "source": "original",
+      "label": "下がる",
+      "en": "The company's sales continued to slide.",
+      "ja": "その会社の売上は下がり続けた。"
+    },
+    {
+      "source": "original",
+      "label": "すっと",
+      "en": "The door slid open.",
+      "ja": "ドアがすっと開いた。"
+    }
+  ],
+  "check_points": [
+    "slip と slide のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "slide、活用 slid が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1694
+    }
+  ]
+}

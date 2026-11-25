@@ -1,0 +1,94 @@
+{
+  "word": "glide",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɡlaɪd/",
+  "core_image": {
+    "text": "音もなくなめらかに、すーっとすべるように進む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M60 60 L140 50 L180 64 L140 70 Z\"/><line x1=\"100\" y1=\"56\" x2=\"90\" y2=\"40\"/><line x1=\"100\" y1=\"64\" x2=\"90\" y2=\"80\"/><line x1=\"30\" y1=\"90\" x2=\"200\" y2=\"100\" stroke-dasharray=\"5 5\"/><polyline points=\"193.2,95.8 200,100 192.8,103.4\"/></g><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すーっと</text></svg>"
+  },
+  "etymology": "古い英語 glīdan(すべるように動く) → 音もなくなめらかに進む → (鳥・飛行機が)滑空する → glider=グライダー",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move smoothly and quietly; (of a bird or plane) to fly without using power."
+    },
+    {
+      "pos": "名詞",
+      "text": "a smooth quiet movement."
+    }
+  ],
+  "cautions": [
+    "slide=表面にそってすべる/glide=音もなく優雅にすーっと進む・滑空する",
+    "glide across [over] A=Aの上をすーっと進む",
+    "glider=グライダー",
+    "skate・swan などの優雅な動きによく使う"
+  ],
+  "patterns": [
+    {
+      "form": "glide across A",
+      "meaning": "Aをすーっと進む"
+    },
+    {
+      "form": "glide through the air",
+      "meaning": "空を滑空する"
+    },
+    {
+      "form": "a glider",
+      "meaning": "グライダー"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "すーっと進む",
+      "en": "The swans glided across the lake.",
+      "ja": "白鳥が湖の上をすーっと進んだ。"
+    },
+    {
+      "source": "original",
+      "label": "滑空する",
+      "en": "The eagle glided through the air.",
+      "ja": "ワシが空を滑空した。"
+    },
+    {
+      "source": "original",
+      "label": "すべるように",
+      "en": "The skater glided over the ice.",
+      "ja": "スケーターは氷の上をすべるように進んだ。"
+    },
+    {
+      "source": "original",
+      "label": "すーっと",
+      "en": "The boat glided into the harbor.",
+      "ja": "船がすーっと港に入った。"
+    },
+    {
+      "source": "original",
+      "label": "グライダー",
+      "en": "He flew a glider for the first time.",
+      "ja": "彼は初めてグライダーで飛んだ。"
+    },
+    {
+      "source": "original",
+      "label": "優雅に",
+      "en": "She glided into the room in her long dress.",
+      "ja": "彼女は長いドレスで優雅に部屋に入ってきた。"
+    }
+  ],
+  "check_points": [
+    "slide と glide のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1696
+    }
+  ]
+}

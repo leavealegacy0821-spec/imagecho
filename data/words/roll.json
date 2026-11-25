@@ -1,0 +1,102 @@
+{
+  "word": "roll",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/roʊl/",
+  "core_image": {
+    "text": "まるいものが、ころころ転がる・巻く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"120\" r=\"20\"/><path d=\"M80 120 L80 100\"/><line x1=\"110\" y1=\"120\" x2=\"200\" y2=\"120\"/><polyline points=\"193,116.2 200,120 193,123.8\"/><path d=\"M60 90 A30 30 0 0 1 100 90\" stroke-dasharray=\"3 3\"/></g><text x=\"150\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ころころ</text></svg>"
+  },
+  "etymology": "ラテン語 rotula(小さな車輪。rota=車輪:rotate と同じ根) → ころがる・転がす → 巻く・(巻いたもの)ロール・名簿(roll call=点呼) → (雷が)ゴロゴロ鳴る",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move by turning over and over; to make something into the shape of a ball or tube; (of thunder) to make a long deep sound."
+    },
+    {
+      "pos": "名詞",
+      "text": "a small round loaf of bread; something rolled into a tube; an official list of names."
+    }
+  ],
+  "cautions": [
+    "roll=まるいものがころころ転がる・くるくる巻く",
+    "roll up=巻き上げる・(袖を)まくる",
+    "roll over=寝返りを打つ・ごろりと回る",
+    "a roll call=点呼/a bread roll=ロールパン"
+  ],
+  "patterns": [
+    {
+      "form": "roll down A",
+      "meaning": "Aを転がり落ちる"
+    },
+    {
+      "form": "roll up A",
+      "meaning": "Aを巻く・まくる"
+    },
+    {
+      "form": "roll over",
+      "meaning": "ごろりと転がる"
+    },
+    {
+      "form": "a roll of A",
+      "meaning": "ひと巻きのA"
+    },
+    {
+      "form": "roll call",
+      "meaning": "点呼"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "転がる",
+      "en": "The ball rolled down the hill.",
+      "ja": "ボールが坂を転がり落ちた。"
+    },
+    {
+      "source": "original",
+      "label": "まくる",
+      "en": "He rolled up his sleeves and started working.",
+      "ja": "彼は袖をまくって仕事を始めた。"
+    },
+    {
+      "source": "original",
+      "label": "寝返り",
+      "en": "The baby rolled over in bed.",
+      "ja": "赤ちゃんがベッドで寝返りを打った。"
+    },
+    {
+      "source": "original",
+      "label": "ひと巻き",
+      "en": "I need a roll of tape.",
+      "ja": "テープがひと巻き必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "流れる",
+      "en": "Tears rolled down her cheeks.",
+      "ja": "涙が彼女のほおを流れ落ちた。"
+    },
+    {
+      "source": "original",
+      "label": "点呼",
+      "en": "The teacher took the roll.",
+      "ja": "先生は出席をとった。"
+    }
+  ],
+  "check_points": [
+    "roll up の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "roll up、roll down が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1691
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "bounce",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/baʊns/",
+  "core_image": {
+    "text": "当たって、ぽんとはね返る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"40\" r=\"10\"/><path d=\"M70 46 Q100 140 120 136 Q140 90 160 60\" stroke-dasharray=\"4 4\"/><circle cx=\"170\" cy=\"56\" r=\"10\"/></g><text x=\"200\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぽーん</text></svg>"
+  },
+  "etymology": "当たってはね返る・はずむ → (元気に)はねるように動く → bounce back=立ち直る",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move up or away after hitting a surface; to move up and down; to recover quickly after a problem."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of bouncing; energy."
+    }
+  ],
+  "cautions": [
+    "jump=(自分で)跳ぶ/bounce=(当たって)はね返る・はずむ",
+    "bounce back (from A)=(Aから)すぐ立ち直る",
+    "bounce off A=Aに当たってはね返る",
+    "(小切手・メールが)戻ってくる意味も"
+  ],
+  "patterns": [
+    {
+      "form": "A bounces",
+      "meaning": "Aがはずむ"
+    },
+    {
+      "form": "bounce off A",
+      "meaning": "Aに当たってはね返る"
+    },
+    {
+      "form": "bounce back",
+      "meaning": "立ち直る"
+    },
+    {
+      "form": "bounce up and down",
+      "meaning": "ぴょんぴょん跳ねる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "はずむ",
+      "en": "The ball bounced twice before it stopped.",
+      "ja": "ボールは2回はずんでから止まった。"
+    },
+    {
+      "source": "original",
+      "label": "はね返る",
+      "en": "The ball bounced off the wall.",
+      "ja": "ボールは壁に当たってはね返った。"
+    },
+    {
+      "source": "original",
+      "label": "立ち直る",
+      "en": "She bounced back quickly after the defeat.",
+      "ja": "彼女は負けからすぐに立ち直った。"
+    },
+    {
+      "source": "original",
+      "label": "跳ねる",
+      "en": "The kids were bouncing up and down on the bed.",
+      "ja": "子どもたちはベッドの上でぴょんぴょん跳ねていた。"
+    },
+    {
+      "source": "original",
+      "label": "戻ってくる",
+      "en": "My email bounced back.",
+      "ja": "私のメールが戻ってきた。"
+    },
+    {
+      "source": "original",
+      "label": "弾力",
+      "en": "This ball has lost its bounce.",
+      "ja": "このボールははずまなくなった。"
+    }
+  ],
+  "check_points": [
+    "bounce back の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "bounce back が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1693
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "word": "spin",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/spɪn/",
+  "core_image": {
+    "text": "その場でくるくると、速く回る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon points=\"120,30 140,110 100,110\"/><line x1=\"120\" y1=\"110\" x2=\"120\" y2=\"130\"/><path d=\"M80 70 Q120 50 160 70\" stroke-dasharray=\"3 3\"/><polygon points=\"156,62 166,72 152,74\"/><path d=\"M84 96 Q120 116 156 96\" stroke-dasharray=\"3 3\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くるくる</text></svg>"
+  },
+  "etymology": "古い英語 spinnan(糸をつむぐ) → 糸車を回して糸をつむぐ → くるくる速く回る・回す → (頭が)くらくらする → (名詞)回転・(事実の)都合のよい解釈",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to turn around and around quickly; to make thread from wool or cotton; (of your head) to feel dizzy."
+    },
+    {
+      "pos": "名詞",
+      "text": "a fast turning movement; a way of presenting information to make it seem good."
+    }
+  ],
+  "cautions": [
+    "活用 spin - spun - spun",
+    "rotate=軸で規則的に回転/spin=その場でくるくる速く回る",
+    "My head is spinning.=頭がくらくらする",
+    "spin a web=(クモが)巣をかける"
+  ],
+  "patterns": [
+    {
+      "form": "spin around",
+      "meaning": "くるりと回る"
+    },
+    {
+      "form": "spin a coin",
+      "meaning": "コインを回す"
+    },
+    {
+      "form": "A's head is spinning",
+      "meaning": "頭がくらくらする"
+    },
+    {
+      "form": "spin a web",
+      "meaning": "巣をかける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "くるくる回る",
+      "en": "The top was spinning on the table.",
+      "ja": "こまがテーブルの上でくるくる回っていた。"
+    },
+    {
+      "source": "original",
+      "label": "くるりと",
+      "en": "She spun around to face me.",
+      "ja": "彼女はくるりと振り向いて私を見た。"
+    },
+    {
+      "source": "original",
+      "label": "くらくら",
+      "en": "My head is spinning from all this information.",
+      "ja": "情報が多すぎて頭がくらくらする。"
+    },
+    {
+      "source": "original",
+      "label": "巣をかける",
+      "en": "The spider spun a web.",
+      "ja": "クモが巣を張った。"
+    },
+    {
+      "source": "original",
+      "label": "つむぐ",
+      "en": "People used to spin wool by hand.",
+      "ja": "昔の人は羊毛を手でつむいでいた。"
+    },
+    {
+      "source": "original",
+      "label": "回転",
+      "en": "The car went into a spin on the ice.",
+      "ja": "車は氷の上でスピンした。"
+    }
+  ],
+  "check_points": [
+    "spin の活用(spun)を言えるか",
+    "rotate と spin のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "活用 spun が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1690
+    }
+  ]
+}
