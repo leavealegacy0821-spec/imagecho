@@ -1,0 +1,98 @@
+{
+  "word": "rub",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rʌb/",
+  "core_image": {
+    "text": "押しつけたまま、こすって動かす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"90\" width=\"160\" height=\"40\"/><ellipse cx=\"120\" cy=\"80\" rx=\"30\" ry=\"10\"/><line x1=\"80\" y1=\"60\" x2=\"60\" y2=\"60\"/><polyline points=\"67,63.8 60,60 67,56.2\"/><line x1=\"160\" y1=\"60\" x2=\"180\" y2=\"60\"/><polyline points=\"173,56.2 180,60 173,63.8\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ごしごし</text></svg>"
+  },
+  "etymology": "中英語 rubben(こする) → 押しつけて前後にこする → (薬を)すりこむ・(汚れを)こすり落とす → rub it in=(失敗を)しつこく言う",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to press something against a surface and move it backward and forward; to put cream or liquid on a surface by rubbing."
+    }
+  ],
+  "cautions": [
+    "stroke=やさしくなでる/rub=押しつけてこする(手・目・汚れ)",
+    "rub one's eyes [hands]=目をこする[もみ手をする]",
+    "rub A into B=AをBにすりこむ/rub off=こすれて落ちる",
+    "rub A the wrong way=Aの神経を逆なでする"
+  ],
+  "patterns": [
+    {
+      "form": "rub A",
+      "meaning": "Aをこする"
+    },
+    {
+      "form": "rub one's eyes",
+      "meaning": "目をこする"
+    },
+    {
+      "form": "rub A into B",
+      "meaning": "AをBにすりこむ"
+    },
+    {
+      "form": "rub off",
+      "meaning": "こすれて落ちる・(性質が)うつる"
+    },
+    {
+      "form": "rub A the wrong way",
+      "meaning": "Aを怒らせる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "こする",
+      "en": "He rubbed his eyes and yawned.",
+      "ja": "彼は目をこすってあくびをした。"
+    },
+    {
+      "source": "original",
+      "label": "すりこむ",
+      "en": "Rub the cream into your skin.",
+      "ja": "クリームを肌にすりこんでください。"
+    },
+    {
+      "source": "original",
+      "label": "もみ手",
+      "en": "She rubbed her hands together to keep warm.",
+      "ja": "彼女は手をこすり合わせて温めた。"
+    },
+    {
+      "source": "original",
+      "label": "うつる",
+      "en": "I hope her good habits rub off on you.",
+      "ja": "彼女のよい習慣が君にもうつるといいね。"
+    },
+    {
+      "source": "original",
+      "label": "こすり落とす",
+      "en": "Rub the dirt off with a cloth.",
+      "ja": "布で汚れをこすり落として。"
+    },
+    {
+      "source": "original",
+      "label": "怒らせる",
+      "en": "His rude jokes rubbed everyone the wrong way.",
+      "ja": "彼の失礼な冗談はみんなの神経を逆なでした。"
+    }
+  ],
+  "check_points": [
+    "stroke と rub のちがいを言えるか",
+    "rub off on A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "rub off on が熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1345
+    }
+  ]
+}

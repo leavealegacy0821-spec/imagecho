@@ -1,0 +1,99 @@
+{
+  "word": "tap",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/tæp/",
+  "core_image": {
+    "text": "指先で、とんとんと軽くたたく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"60\" y=\"100\" width=\"120\" height=\"10\"/><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"92\"/><line x1=\"110\" y1=\"84\" x2=\"116\" y2=\"90\"/><line x1=\"130\" y1=\"84\" x2=\"124\" y2=\"90\"/></g><text x=\"180\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">とんとん</text></svg>"
+  },
+  "etymology": "古いフランス語 taper(軽くたたく。音をまねた語) → 指先で軽くたたく → (画面を)タップする/(別語源)(名詞)蛇口・栓 → (資源・才能を)利用する(tap into A)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to hit something gently, often several times; to touch a screen with your finger; to use a supply of something."
+    },
+    {
+      "pos": "名詞",
+      "text": "a gentle hit; a device for controlling the flow of water (faucet)."
+    }
+  ],
+  "cautions": [
+    "pat=手のひらでぽんぽん/tap=指先でとんとん(肩・画面・ドア)",
+    "tap A on the shoulder=Aの肩をとんとんたたく",
+    "tap (into) A=A(資源・才能・市場)を利用する(長文で頻出)",
+    "名詞 tap=蛇口(英)/tap water=水道水"
+  ],
+  "patterns": [
+    {
+      "form": "tap A on the shoulder",
+      "meaning": "Aの肩をたたく"
+    },
+    {
+      "form": "tap on A",
+      "meaning": "Aをとんとんたたく"
+    },
+    {
+      "form": "tap (into) A",
+      "meaning": "Aを利用する"
+    },
+    {
+      "form": "tap water",
+      "meaning": "水道水"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "肩をたたく",
+      "en": "Someone tapped me on the shoulder.",
+      "ja": "誰かが私の肩をとんとんとたたいた。"
+    },
+    {
+      "source": "original",
+      "label": "タップする",
+      "en": "Tap the icon to open the app.",
+      "ja": "アイコンをタップしてアプリを開いてください。"
+    },
+    {
+      "source": "original",
+      "label": "利用する",
+      "en": "The company is trying to tap into the Asian market.",
+      "ja": "その会社はアジア市場を開拓しようとしている。"
+    },
+    {
+      "source": "original",
+      "label": "水道水",
+      "en": "Is it safe to drink tap water here?",
+      "ja": "ここで水道水を飲んでも安全ですか。"
+    },
+    {
+      "source": "original",
+      "label": "こつこつ",
+      "en": "He tapped his pencil on the desk.",
+      "ja": "彼は鉛筆で机をこつこつたたいた。"
+    },
+    {
+      "source": "original",
+      "label": "蛇口",
+      "en": "Turn off the tap when you brush your teeth.",
+      "ja": "歯をみがくときは蛇口を閉めなさい。"
+    }
+  ],
+  "check_points": [
+    "pat と tap のちがいを言えるか",
+    "tap into A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "tap into、tap water が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1347
+    }
+  ]
+}

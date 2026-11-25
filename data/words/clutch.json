@@ -1,0 +1,99 @@
+{
+  "word": "clutch",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/klʌtʃ/",
+  "core_image": {
+    "text": "放すまいと、必死にしがみつく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"104\" y2=\"72\"/><line x1=\"70\" y1=\"74\" x2=\"104\" y2=\"84\"/><rect x=\"104\" y=\"64\" width=\"34\" height=\"30\"/><line x1=\"96\" y1=\"60\" x2=\"100\" y2=\"66\"/><line x1=\"112\" y1=\"56\" x2=\"112\" y2=\"62\"/></g><text x=\"180\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しがみつく</text></svg>"
+  },
+  "etymology": "古い英語 clyccan(しっかり握る) → (不安・恐怖で)必死につかむ・しがみつく → clutch at A=Aにすがろうとする → (名詞)つかむこと・(車の)クラッチ・魔の手(in the clutches of A)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to hold something tightly, especially because you are frightened or in pain."
+    },
+    {
+      "pos": "名詞",
+      "text": "a tight hold; (clutches) power or control; the pedal in a car used to change gears."
+    }
+  ],
+  "cautions": [
+    "grip=強く握る/clutch=(不安・痛みで)必死にぎゅっとつかむ・しがみつく",
+    "clutch at A=Aにすがろうとする(A drowning man will clutch at a straw.=おぼれる者はわらをもつかむ)",
+    "in the clutches of A=Aの手中に",
+    "clutch one's chest=胸を押さえる"
+  ],
+  "patterns": [
+    {
+      "form": "clutch A",
+      "meaning": "Aをしっかりつかむ"
+    },
+    {
+      "form": "clutch at A",
+      "meaning": "Aにすがろうとする"
+    },
+    {
+      "form": "in the clutches of A",
+      "meaning": "Aの手中に"
+    },
+    {
+      "form": "clutch one's chest",
+      "meaning": "胸を押さえる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "しっかりつかむ",
+      "en": "The child clutched her mother's hand.",
+      "ja": "子どもは母親の手をぎゅっと握りしめた。"
+    },
+    {
+      "source": "original",
+      "label": "抱えこむ",
+      "en": "She clutched her bag tightly in the crowd.",
+      "ja": "人ごみで彼女はかばんをしっかり抱えこんだ。"
+    },
+    {
+      "source": "original",
+      "label": "わらをもつかむ",
+      "en": "A drowning man will clutch at a straw.",
+      "ja": "おぼれる者はわらをもつかむ。"
+    },
+    {
+      "source": "original",
+      "label": "胸を押さえる",
+      "en": "He clutched his chest in pain.",
+      "ja": "彼は痛みで胸を押さえた。"
+    },
+    {
+      "source": "original",
+      "label": "手中に",
+      "en": "The town fell into the clutches of the enemy.",
+      "ja": "町は敵の手中に落ちた。"
+    },
+    {
+      "source": "original",
+      "label": "クラッチ",
+      "en": "Press the clutch to change gears.",
+      "ja": "ギアを変えるにはクラッチを踏んで。"
+    }
+  ],
+  "check_points": [
+    "clutch at a straw の意味を言えるか",
+    "grip と clutch のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "ことわざで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1343
+    }
+  ]
+}

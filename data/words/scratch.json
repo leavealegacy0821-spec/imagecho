@@ -1,0 +1,98 @@
+{
+  "word": "scratch",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/skrætʃ/",
+  "core_image": {
+    "text": "つめや先のとがったもので、ひっかく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"50\" width=\"160\" height=\"80\"/><line x1=\"80\" y1=\"70\" x2=\"120\" y2=\"110\"/><line x1=\"92\" y1=\"66\" x2=\"132\" y2=\"106\"/><line x1=\"104\" y1=\"62\" x2=\"144\" y2=\"102\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">がりっ</text></svg>"
+  },
+  "etymology": "中英語(ひっかく) → つめでひっかく・かく → ひっかき傷をつける → (名詞)ひっかき傷 → from scratch=(地面に引いた線から)ゼロから・最初から",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to rub your skin with your nails because it itches; to make a mark or cut on a surface with something sharp."
+    },
+    {
+      "pos": "名詞",
+      "text": "a mark or small cut made by scratching."
+    }
+  ],
+  "cautions": [
+    "rub=こする/scratch=つめ・とがった物でひっかく・かく",
+    "scratch one's head=頭をかく(困って)",
+    "from scratch=ゼロから・最初から(頻出)",
+    "名詞 scratch=ひっかき傷(without a scratch=無傷で)"
+  ],
+  "patterns": [
+    {
+      "form": "scratch A",
+      "meaning": "Aをかく・ひっかく"
+    },
+    {
+      "form": "scratch one's head",
+      "meaning": "頭をかく"
+    },
+    {
+      "form": "from scratch",
+      "meaning": "ゼロから"
+    },
+    {
+      "form": "without a scratch",
+      "meaning": "無傷で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ゼロから",
+      "en": "He built the company from scratch.",
+      "ja": "彼はゼロから会社を作り上げた。"
+    },
+    {
+      "source": "original",
+      "label": "ひっかく",
+      "en": "The cat scratched my arm.",
+      "ja": "猫が私の腕をひっかいた。"
+    },
+    {
+      "source": "original",
+      "label": "かく",
+      "en": "Don't scratch your mosquito bites.",
+      "ja": "蚊に刺されたところをかかないで。"
+    },
+    {
+      "source": "original",
+      "label": "頭をかく",
+      "en": "He scratched his head and looked confused.",
+      "ja": "彼は頭をかいて困った顔をした。"
+    },
+    {
+      "source": "original",
+      "label": "ひっかき傷",
+      "en": "There is a scratch on the car door.",
+      "ja": "車のドアにひっかき傷がある。"
+    },
+    {
+      "source": "original",
+      "label": "無傷で",
+      "en": "She came out of the accident without a scratch.",
+      "ja": "彼女はその事故で無傷だった。"
+    }
+  ],
+  "check_points": [
+    "from scratch の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "from scratch が熟語で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1346
+    }
+  ]
+}

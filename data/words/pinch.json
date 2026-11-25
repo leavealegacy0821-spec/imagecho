@@ -1,0 +1,99 @@
+{
+  "word": "pinch",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/pɪntʃ/",
+  "core_image": {
+    "text": "親指と人さし指で、きゅっとつまむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M80 80 Q100 60 120 76\"/><path d=\"M80 90 Q100 110 120 92\"/><circle cx=\"126\" cy=\"84\" r=\"6\"/><line x1=\"160\" y1=\"60\" x2=\"136\" y2=\"76\"/><polyline points=\"144,75.3 136,76 139.7,68.9\"/><line x1=\"160\" y1=\"108\" x2=\"136\" y2=\"92\"/><polyline points=\"139.7,99.1 136,92 144,92.7\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">つまむ</text></svg>"
+  },
+  "etymology": "古いフランス語 pincier(つまむ) → 指先でつまむ・つねる → (靴が)きつくて痛い → (名詞)ひとつまみ(a pinch of salt)・ピンチ(in a pinch=いざという時に)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to press someone's skin tightly between your thumb and finger; to be too tight and hurt you."
+    },
+    {
+      "pos": "名詞",
+      "text": "an act of pinching; a very small amount you can hold between your thumb and finger."
+    }
+  ],
+  "cautions": [
+    "pinch=親指と人さし指でつまむ・つねる",
+    "a pinch of salt=塩ひとつまみ",
+    "in a pinch=いざという時に(英:at a pinch)",
+    "take A with a pinch of salt=Aを話半分に聞く"
+  ],
+  "patterns": [
+    {
+      "form": "pinch A",
+      "meaning": "Aをつねる・つまむ"
+    },
+    {
+      "form": "a pinch of A",
+      "meaning": "ひとつまみのA"
+    },
+    {
+      "form": "in a pinch",
+      "meaning": "いざという時に"
+    },
+    {
+      "form": "take A with a pinch of salt",
+      "meaning": "Aを話半分に聞く"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "つねる",
+      "en": "I pinched myself to make sure I wasn't dreaming.",
+      "ja": "夢じゃないか確かめるために自分をつねった。"
+    },
+    {
+      "source": "original",
+      "label": "ひとつまみ",
+      "en": "Add a pinch of salt to the soup.",
+      "ja": "スープに塩をひとつまみ加えてください。"
+    },
+    {
+      "source": "original",
+      "label": "いざという時",
+      "en": "In a pinch, you can use a coin as a screwdriver.",
+      "ja": "いざという時は硬貨をドライバー代わりに使える。"
+    },
+    {
+      "source": "original",
+      "label": "話半分",
+      "en": "Take what he says with a pinch of salt.",
+      "ja": "彼の言うことは話半分に聞いておきなさい。"
+    },
+    {
+      "source": "original",
+      "label": "きつい",
+      "en": "These new shoes pinch my toes.",
+      "ja": "この新しい靴はつま先がきつくて痛い。"
+    },
+    {
+      "source": "original",
+      "label": "つまむ",
+      "en": "She pinched the baby's cheek gently.",
+      "ja": "彼女は赤ちゃんのほっぺをやさしくつまんだ。"
+    }
+  ],
+  "check_points": [
+    "a pinch of A の意味を言えるか",
+    "in a pinch の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a pinch of、with a pinch of salt が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1349
+    }
+  ]
+}

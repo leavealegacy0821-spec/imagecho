@@ -1,0 +1,103 @@
+{
+  "word": "knock",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/nɑːk/",
+  "core_image": {
+    "text": "こぶしなどで、こつんと打つ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"120\" y=\"40\" width=\"60\" height=\"100\"/><circle cx=\"168\" cy=\"92\" r=\"3\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"110\" y2=\"64\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><line x1=\"112\" y1=\"50\" x2=\"104\" y2=\"44\"/><line x1=\"112\" y1=\"78\" x2=\"104\" y2=\"84\"/></g><text x=\"60\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こんこん</text></svg>"
+  },
+  "etymology": "古い英語 cnocian(打つ。音をまねた語。k は今は読まない) → こつんと打つ → (ドアを)ノックする → ぶつかる・ぶつけて倒す(knock over) → knock out=打ち倒す",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to hit a door to attract attention; to hit something so that it falls or moves; to hit something by accident."
+    },
+    {
+      "pos": "名詞",
+      "text": "the sound of somebody knocking; a hit."
+    }
+  ],
+  "cautions": [
+    "k は発音しない(ノック)",
+    "knock on [at] the door=ドアをノックする",
+    "knock over A=Aをひっくり返す/knock A down=Aを倒す・取り壊す",
+    "knock out=気絶させる・敗退させる/knock into A=Aにぶつかる"
+  ],
+  "patterns": [
+    {
+      "form": "knock on [at] A",
+      "meaning": "Aをノックする"
+    },
+    {
+      "form": "knock over A",
+      "meaning": "Aを倒す"
+    },
+    {
+      "form": "knock A down",
+      "meaning": "Aを倒す・取り壊す"
+    },
+    {
+      "form": "knock out A",
+      "meaning": "Aを気絶させる・敗退させる"
+    },
+    {
+      "form": "a knock at the door",
+      "meaning": "ノックの音"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ノックする",
+      "en": "Please knock before you come in.",
+      "ja": "入る前にノックしてください。"
+    },
+    {
+      "source": "original",
+      "label": "倒す",
+      "en": "The cat knocked over the vase.",
+      "ja": "猫が花びんを倒した。"
+    },
+    {
+      "source": "original",
+      "label": "ノックの音",
+      "en": "There was a knock at the door.",
+      "ja": "ドアをノックする音がした。"
+    },
+    {
+      "source": "original",
+      "label": "ぶつける",
+      "en": "I knocked my head on the shelf.",
+      "ja": "棚に頭をぶつけた。"
+    },
+    {
+      "source": "original",
+      "label": "敗退させる",
+      "en": "Our team was knocked out in the first round.",
+      "ja": "私たちのチームは1回戦で敗退した。"
+    },
+    {
+      "source": "original",
+      "label": "取り壊す",
+      "en": "They knocked down the old building.",
+      "ja": "彼らは古い建物を取り壊した。"
+    }
+  ],
+  "check_points": [
+    "knock の k を読まないことがわかるか",
+    "knock over の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "knock on the door、knock over / down が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1350
+    }
+  ]
+}
