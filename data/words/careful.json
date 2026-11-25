@@ -1,0 +1,98 @@
+{
+  "word": "careful",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈkerfl/",
+  "core_image": {
+    "text": "気を配って、まちがいのないよう慎重に",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"96\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"96\" y2=\"104\"/><rect x=\"96\" y=\"90\" width=\"30\" height=\"20\"/><polygon points=\"96,90 111,78 126,90\"/><line x1=\"140\" y1=\"140\" x2=\"180\" y2=\"140\"/></g><text x=\"170\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">気を配る</text></svg>"
+  },
+  "etymology": "care(心配・気づかい)+ful(〜に満ちた) → 気づかいに満ちた → 注意深い・慎重な ⇔ careless(不注意な)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "giving a lot of attention to what you are doing so that you do not make mistakes or cause harm."
+    }
+  ],
+  "cautions": [
+    "Be careful (of / with / about A)!=(Aに)気をつけて",
+    "be careful (not) to do=〜する[しない]よう気をつける",
+    "careless=不注意な(a careless mistake=うっかりミス)",
+    "carefully=注意深く"
+  ],
+  "patterns": [
+    {
+      "form": "Be careful!",
+      "meaning": "気をつけて"
+    },
+    {
+      "form": "be careful with A",
+      "meaning": "Aの扱いに気をつける"
+    },
+    {
+      "form": "be careful not to do",
+      "meaning": "〜しないよう気をつける"
+    },
+    {
+      "form": "carefully",
+      "meaning": "注意深く"
+    },
+    {
+      "form": "careless",
+      "meaning": "不注意な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "気をつけて",
+      "en": "Be careful! The floor is wet.",
+      "ja": "気をつけて!床がぬれているよ。"
+    },
+    {
+      "source": "original",
+      "label": "扱いに気をつける",
+      "en": "Be careful with that knife.",
+      "ja": "そのナイフの扱いに気をつけて。"
+    },
+    {
+      "source": "original",
+      "label": "しないよう気をつける",
+      "en": "Be careful not to catch a cold.",
+      "ja": "かぜをひかないよう気をつけて。"
+    },
+    {
+      "source": "original",
+      "label": "注意深く",
+      "en": "Read the instructions carefully.",
+      "ja": "説明書を注意深く読みなさい。"
+    },
+    {
+      "source": "original",
+      "label": "うっかりミス",
+      "en": "I made a careless mistake on the test.",
+      "ja": "テストでうっかりミスをした。"
+    },
+    {
+      "source": "original",
+      "label": "慎重な",
+      "en": "She is a careful driver.",
+      "ja": "彼女は慎重なドライバーだ。"
+    }
+  ],
+  "check_points": [
+    "be careful not to do の型を言えるか",
+    "careless mistake の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be careful not to do、careless mistake が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1260
+    }
+  ]
+}

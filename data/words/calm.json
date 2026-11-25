@@ -1,0 +1,108 @@
+{
+  "word": "calm",
+  "pos": [
+    "形容詞",
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/kɑːm/",
+  "core_image": {
+    "text": "波も風も立たず、しんと静まっている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"100\" x2=\"220\" y2=\"100\"/><circle cx=\"180\" cy=\"50\" r=\"14\"/><polygon points=\"80,96 120,96 112,84 88,84\"/><line x1=\"100\" y1=\"84\" x2=\"100\" y2=\"56\"/><polygon points=\"100,58 100,82 118,82\"/></g><text x=\"60\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しんと静か</text></svg>"
+  },
+  "etymology": "ギリシャ語 kauma(真昼の暑さ → 暑さで風がやむ) → 風も波もない → (海・天気が)穏やかな → (人が)落ち着いた・冷静な → calm down=落ち着く。※l は発音しない",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not excited, nervous or upset; (of the sea or weather) without strong wind or big waves."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make someone or something quiet and relaxed."
+    },
+    {
+      "pos": "名詞",
+      "text": "a quiet and peaceful state."
+    }
+  ],
+  "cautions": [
+    "l は読まない(カーム)",
+    "calm down=落ち着く/calm A down=Aを落ち着かせる",
+    "keep [stay] calm=冷静でいる",
+    "quiet=音がしない/calm=(心・海が)乱れていない"
+  ],
+  "patterns": [
+    {
+      "form": "keep calm",
+      "meaning": "冷静でいる"
+    },
+    {
+      "form": "calm down",
+      "meaning": "落ち着く"
+    },
+    {
+      "form": "calm A down",
+      "meaning": "Aを落ち着かせる"
+    },
+    {
+      "form": "a calm sea",
+      "meaning": "穏やかな海"
+    },
+    {
+      "form": "calmly",
+      "meaning": "落ち着いて"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "冷静でいる",
+      "en": "Try to stay calm in an emergency.",
+      "ja": "緊急時には冷静でいるようにしなさい。"
+    },
+    {
+      "source": "original",
+      "label": "落ち着く",
+      "en": "Calm down and tell me what happened.",
+      "ja": "落ち着いて何があったか話して。"
+    },
+    {
+      "source": "original",
+      "label": "穏やかな",
+      "en": "The sea was calm this morning.",
+      "ja": "今朝の海は穏やかだった。"
+    },
+    {
+      "source": "original",
+      "label": "落ち着かせる",
+      "en": "The mother tried to calm the crying baby.",
+      "ja": "母親は泣いている赤ちゃんを落ち着かせようとした。"
+    },
+    {
+      "source": "original",
+      "label": "落ち着いて",
+      "en": "She answered the questions calmly.",
+      "ja": "彼女は落ち着いて質問に答えた。"
+    },
+    {
+      "source": "original",
+      "label": "静けさ",
+      "en": "The calm before the storm.",
+      "ja": "嵐の前の静けさ。"
+    }
+  ],
+  "check_points": [
+    "calm down の意味を言えるか",
+    "calm の l を読まないことがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "calm down、stay calm が会話で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1254
+    }
+  ]
+}
