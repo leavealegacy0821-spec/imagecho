@@ -1,0 +1,103 @@
+{
+  "word": "loan",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/loʊn/",
+  "core_image": {
+    "text": "あとで返す約束で、貸し借りするお金や物",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><circle cx=\"120\" cy=\"70\" r=\"10\"/><line x1=\"70\" y1=\"60\" x2=\"106\" y2=\"66\"/><polyline points=\"99.7,61.1 106,66 98.4,68.6\"/><line x1=\"170\" y1=\"90\" x2=\"70\" y2=\"90\" stroke-dasharray=\"5 5\"/><polyline points=\"77,93.8 70,90 77,86.2\"/></g><text x=\"120\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">返す約束で貸す</text></svg>"
+  },
+  "etymology": "古いノルド語 lán(貸すこと。lend と同じ根) → 貸し与えたもの → 貸付金・ローン・借入 → (物の)貸し出し(on loan=貸し出し中) → (動詞)貸す(=lend)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "money that a bank or person lends you, which you must pay back; the act of lending something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to lend something to someone."
+    }
+  ],
+  "cautions": [
+    "debt=返すべき借金(状態)/loan=(銀行などから)借りるお金・貸付(1件の取引)",
+    "take out [get] a loan=ローンを組む・借りる/pay back [repay] a loan=返済する",
+    "on loan (from A)=(Aから)貸し出し中",
+    "動詞 loan=lend(米で多い)"
+  ],
+  "patterns": [
+    {
+      "form": "take out a loan",
+      "meaning": "ローンを組む"
+    },
+    {
+      "form": "pay back a loan",
+      "meaning": "ローンを返す"
+    },
+    {
+      "form": "a bank loan",
+      "meaning": "銀行ローン"
+    },
+    {
+      "form": "on loan from A",
+      "meaning": "Aから借りている"
+    },
+    {
+      "form": "a student loan",
+      "meaning": "奨学ローン"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ローンを組む",
+      "en": "They took out a loan to buy a house.",
+      "ja": "彼らは家を買うためにローンを組んだ。"
+    },
+    {
+      "source": "original",
+      "label": "返す",
+      "en": "He paid back the loan in five years.",
+      "ja": "彼は5年でローンを返済した。"
+    },
+    {
+      "source": "original",
+      "label": "奨学ローン",
+      "en": "Many students need student loans.",
+      "ja": "多くの学生が奨学ローンを必要としている。"
+    },
+    {
+      "source": "original",
+      "label": "貸し出し中",
+      "en": "The painting is on loan from a museum in Paris.",
+      "ja": "その絵はパリの美術館から借りているものだ。"
+    },
+    {
+      "source": "original",
+      "label": "貸す",
+      "en": "Could you loan me your bike for a day?",
+      "ja": "自転車を1日貸してくれない?"
+    },
+    {
+      "source": "original",
+      "label": "融資",
+      "en": "The bank refused to give him a loan.",
+      "ja": "銀行は彼への融資を断った。"
+    }
+  ],
+  "check_points": [
+    "debt と loan のちがいを言えるか",
+    "take out a loan の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "take out a loan、student loan が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1209
+    }
+  ]
+}

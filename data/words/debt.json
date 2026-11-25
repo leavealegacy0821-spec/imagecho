@@ -1,0 +1,98 @@
+{
+  "word": "debt",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/det/",
+  "core_image": {
+    "text": "返さなければならない、背負った借り",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><rect x=\"40\" y=\"66\" width=\"22\" height=\"34\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"70\"/><line x1=\"70\" y1=\"74\" x2=\"84\" y2=\"90\"/><line x1=\"100\" y1=\"90\" x2=\"180\" y2=\"90\"/><polyline points=\"173,86.2 180,90 173,93.8\"/><circle cx=\"200\" cy=\"90\" r=\"12\"/></g><text x=\"150\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">返すべき借り</text></svg>"
+  },
+  "etymology": "ラテン語 debitum(負っているもの。debit と同じ根。b は綴りだけで発音しない) → 他人に負っているもの → 借金・負債 → 恩義(be in A's debt=Aに恩がある)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "money that you owe to someone; the state of owing money."
+    }
+  ],
+  "cautions": [
+    "b は発音しない(デット)",
+    "be in debt=借金をしている/get into debt=借金をつくる/pay off a debt=借金を返す",
+    "loan=(貸し借りする)ローン・貸付/debt=返すべき借金・負債",
+    "be in A's debt=Aに恩義がある(比ゆ)"
+  ],
+  "patterns": [
+    {
+      "form": "be in debt",
+      "meaning": "借金をしている"
+    },
+    {
+      "form": "get [run] into debt",
+      "meaning": "借金をつくる"
+    },
+    {
+      "form": "pay off a debt",
+      "meaning": "借金を返す"
+    },
+    {
+      "form": "national debt",
+      "meaning": "国の借金"
+    },
+    {
+      "form": "be in A's debt",
+      "meaning": "Aに恩がある"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "借金をしている",
+      "en": "He is deeply in debt.",
+      "ja": "彼は多額の借金を抱えている。"
+    },
+    {
+      "source": "original",
+      "label": "借金を返す",
+      "en": "It took her ten years to pay off her debts.",
+      "ja": "彼女は借金を返すのに10年かかった。"
+    },
+    {
+      "source": "original",
+      "label": "借金をつくる",
+      "en": "Many students get into debt to pay for college.",
+      "ja": "多くの学生が大学の費用のために借金をする。"
+    },
+    {
+      "source": "original",
+      "label": "国の借金",
+      "en": "Japan has a huge national debt.",
+      "ja": "日本は巨額の国の借金を抱えている。"
+    },
+    {
+      "source": "original",
+      "label": "恩がある",
+      "en": "Thank you for your help. I'm in your debt.",
+      "ja": "助けてくれてありがとう。恩に着るよ。"
+    },
+    {
+      "source": "original",
+      "label": "借金",
+      "en": "Credit cards can easily lead to debt.",
+      "ja": "クレジットカードは簡単に借金につながる。"
+    }
+  ],
+  "check_points": [
+    "debt の b を読まないことがわかるか",
+    "be in debt の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "発音(b 黙字)、be in debt が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1207
+    }
+  ]
+}

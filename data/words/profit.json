@@ -1,0 +1,103 @@
+{
+  "word": "profit",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈprɑːfɪt/",
+  "core_image": {
+    "text": "かかった分を差し引いて、前へ進み出た分",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"70\" width=\"50\" height=\"70\"/><rect x=\"130\" y=\"40\" width=\"50\" height=\"100\"/><rect x=\"130\" y=\"40\" width=\"50\" height=\"30\" stroke-dasharray=\"4 4\"/><line x1=\"200\" y1=\"100\" x2=\"200\" y2=\"46\"/><polyline points=\"196.2,53 200,46 203.8,53\"/></g><text x=\"70\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">差し引いた残り</text></svg>"
+  },
+  "etymology": "pro(前へ)+fit(する・作る。fact・effect と同じ根) → 前へ進むこと・得になること → もうけ・利益 → (動詞)利益を得る・役立つ(profit from A)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "money that you gain by selling things or doing business, after your costs have been paid; an advantage."
+    },
+    {
+      "pos": "動詞",
+      "text": "to get money or an advantage from something."
+    }
+  ],
+  "cautions": [
+    "income=入ってくるお金(全体)/profit=売上から費用を引いた「もうけ」(⇔ loss=損失)",
+    "make a profit=もうける/at a profit=もうけを出して",
+    "profit from [by] A=Aから利益を得る(比ゆ:経験から学ぶ)",
+    "profitable=もうかる/non-profit organization=非営利団体(NPO)"
+  ],
+  "patterns": [
+    {
+      "form": "make a profit",
+      "meaning": "もうける"
+    },
+    {
+      "form": "a profit of A",
+      "meaning": "Aの利益"
+    },
+    {
+      "form": "profit from A",
+      "meaning": "Aから利益を得る"
+    },
+    {
+      "form": "profitable",
+      "meaning": "もうかる"
+    },
+    {
+      "form": "a non-profit organization",
+      "meaning": "非営利団体"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "もうける",
+      "en": "The shop made a profit of 1 million yen last year.",
+      "ja": "その店は昨年100万円の利益を出した。"
+    },
+    {
+      "source": "original",
+      "label": "利益",
+      "en": "The company's profits fell by 10 percent.",
+      "ja": "その会社の利益は1割減った。"
+    },
+    {
+      "source": "original",
+      "label": "利益を得る",
+      "en": "We can all profit from his experience.",
+      "ja": "私たちはみんな彼の経験から学ぶことができる。"
+    },
+    {
+      "source": "original",
+      "label": "もうかる",
+      "en": "Selling bottled water is very profitable.",
+      "ja": "ボトル入りの水を売るのはとてももうかる。"
+    },
+    {
+      "source": "original",
+      "label": "非営利団体",
+      "en": "She works for a non-profit organization.",
+      "ja": "彼女は非営利団体で働いている。"
+    },
+    {
+      "source": "original",
+      "label": "損失",
+      "en": "The business made a loss instead of a profit.",
+      "ja": "その事業はもうけるどころか損失を出した。"
+    }
+  ],
+  "check_points": [
+    "profit と income のちがいを言えるか",
+    "profitable の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "make a profit、profitable、non-profit が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1205
+    }
+  ]
+}

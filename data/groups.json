@@ -1138,13 +1138,15 @@
     },
     {
       "title": "使い分け:借りる・貸す",
-      "note": "borrow=無料で借りる ／ lend=無料で貸す ／ rent=お金を払って借りる・貸す ／ hire=(短期で)お金を払って借りる ／ owe=借りがある",
+      "note": "borrow=無料で借りる ／ lend=無料で貸す ／ rent=お金を払って借りる・貸す ／ hire=(短期で)お金を払って借りる ／ owe=借りがある ／ loan=返す約束で貸し借りするお金(ローン) ／ debt=背負っている返すべき借金",
       "words": [
         "borrow",
         "lend",
         "rent",
         "hire",
-        "owe"
+        "owe",
+        "loan",
+        "debt"
       ]
     },
     {
@@ -1995,6 +1997,20 @@
         "accident",
         "disaster",
         "catastrophe"
+      ]
+    },
+    {
+      "title": "使い分け:お金",
+      "note": "wealth=たっぷりためた富・財産 ／ income=中へ入ってくる収入(high ／ low) ／ salary=毎月の固定給 ／ wage=働いた時間ぶんの賃金 ／ profit=費用を引いたもうけ(⇔loss) ／ budget=使えるお金のわく・予算 ／ fund=目的のためにためた資金・基金 ／ tax=国に納める税金",
+      "words": [
+        "wealth",
+        "income",
+        "salary",
+        "wage",
+        "profit",
+        "budget",
+        "fund",
+        "tax"
       ]
     },
     {

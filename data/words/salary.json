@@ -1,0 +1,94 @@
+{
+  "word": "salary",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈsæləri/",
+  "core_image": {
+    "text": "毎月決まって払われる、勤めの給料",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"30\" width=\"160\" height=\"100\"/><line x1=\"40\" y1=\"55\" x2=\"200\" y2=\"55\"/><line x1=\"80\" y1=\"30\" x2=\"80\" y2=\"130\"/><line x1=\"120\" y1=\"30\" x2=\"120\" y2=\"130\"/><line x1=\"160\" y1=\"30\" x2=\"160\" y2=\"130\"/><circle cx=\"60\" cy=\"100\" r=\"8\"/><circle cx=\"100\" cy=\"100\" r=\"8\"/><circle cx=\"140\" cy=\"100\" r=\"8\"/><circle cx=\"180\" cy=\"100\" r=\"8\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">毎月の給料</text></svg>"
+  },
+  "etymology": "ラテン語 salarium(ローマの兵士への手当) → 決まって払われる手当 → (会社員などの)固定給・月給",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a fixed amount of money that you earn each month or year from your job."
+    }
+  ],
+  "cautions": [
+    "wage=(時間・日・週で払う)賃金(肉体労働・アルバイト)/salary=(月・年ごとの)固定給(会社員・専門職)",
+    "「給料が高い[安い]」は high [low] salary(× expensive / cheap)",
+    "a salary of A=Aの給料/an annual salary=年俸",
+    "pay は給料一般をさす広い語"
+  ],
+  "patterns": [
+    {
+      "form": "a high [low] salary",
+      "meaning": "高い[安い]給料"
+    },
+    {
+      "form": "an annual salary",
+      "meaning": "年俸"
+    },
+    {
+      "form": "earn a salary",
+      "meaning": "給料をもらう"
+    },
+    {
+      "form": "a salary increase",
+      "meaning": "昇給"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "給料",
+      "en": "She earns a good salary as an engineer.",
+      "ja": "彼女はエンジニアとしてよい給料をもらっている。"
+    },
+    {
+      "source": "original",
+      "label": "給料が安い",
+      "en": "Teachers' salaries are low in some countries.",
+      "ja": "教師の給料が安い国もある。"
+    },
+    {
+      "source": "original",
+      "label": "年俸",
+      "en": "The player's annual salary is 2 million dollars.",
+      "ja": "その選手の年俸は200万ドルだ。"
+    },
+    {
+      "source": "original",
+      "label": "昇給",
+      "en": "He asked his boss for a salary increase.",
+      "ja": "彼は上司に昇給を求めた。"
+    },
+    {
+      "source": "original",
+      "label": "月給",
+      "en": "My father's salary is paid on the 25th.",
+      "ja": "父の給料は25日に支払われる。"
+    },
+    {
+      "source": "original",
+      "label": "給料",
+      "en": "The job offers a high salary but long hours.",
+      "ja": "その仕事は給料は高いが労働時間が長い。"
+    }
+  ],
+  "check_points": [
+    "salary と wage のちがいを言えるか",
+    "給料の高い安いの言い方がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "high / low salary(× expensive)が文法・語法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1203
+    }
+  ]
+}

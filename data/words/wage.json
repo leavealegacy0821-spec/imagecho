@@ -1,0 +1,99 @@
+{
+  "word": "wage",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/weɪdʒ/",
+  "core_image": {
+    "text": "働いた時間に応じて払われる賃金",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"60\" cy=\"80\" r=\"30\"/><line x1=\"60\" y1=\"80\" x2=\"60\" y2=\"58\"/><line x1=\"60\" y1=\"80\" x2=\"76\" y2=\"88\"/><line x1=\"100\" y1=\"80\" x2=\"140\" y2=\"80\"/><polyline points=\"133,76.2 140,80 133,83.8\"/><circle cx=\"160\" cy=\"80\" r=\"10\"/><circle cx=\"184\" cy=\"80\" r=\"10\"/><circle cx=\"208\" cy=\"80\" r=\"10\"/></g><text x=\"150\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">時間ぶんの賃金</text></svg>"
+  },
+  "etymology": "古いフランス語 wage(担保・約束。wed=結婚する と同じ根) → 約束した支払い → 働きに対して払われる賃金 → (動詞)wage war=戦争を(約束して)行う",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an amount of money that you earn each hour, day or week, especially for physical work."
+    },
+    {
+      "pos": "動詞",
+      "text": "to begin and continue a war or fight."
+    }
+  ],
+  "cautions": [
+    "salary=月給(固定給)/wage=時給・日給・週給(労働時間に応じて)。複数形 wages で「給料」",
+    "the minimum wage=最低賃金(長文で頻出)",
+    "high [low] wages=高い[低い]賃金",
+    "動詞 wage war [a campaign]=戦争[運動]を行う"
+  ],
+  "patterns": [
+    {
+      "form": "the minimum wage",
+      "meaning": "最低賃金"
+    },
+    {
+      "form": "high [low] wages",
+      "meaning": "高い[低い]賃金"
+    },
+    {
+      "form": "an hourly wage",
+      "meaning": "時給"
+    },
+    {
+      "form": "wage war on [against] A",
+      "meaning": "Aと戦う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "最低賃金",
+      "en": "The government raised the minimum wage.",
+      "ja": "政府は最低賃金を引き上げた。"
+    },
+    {
+      "source": "original",
+      "label": "時給",
+      "en": "The hourly wage for this job is 1,100 yen.",
+      "ja": "この仕事の時給は1100円だ。"
+    },
+    {
+      "source": "original",
+      "label": "賃金",
+      "en": "Workers are demanding higher wages.",
+      "ja": "労働者たちは賃上げを要求している。"
+    },
+    {
+      "source": "original",
+      "label": "賃金",
+      "en": "He spends most of his wages on rent.",
+      "ja": "彼は給料のほとんどを家賃に使う。"
+    },
+    {
+      "source": "original",
+      "label": "戦う",
+      "en": "The city is waging war against crime.",
+      "ja": "その市は犯罪と戦っている。"
+    },
+    {
+      "source": "original",
+      "label": "賃金",
+      "en": "Low wages are a problem in the industry.",
+      "ja": "その業界では低賃金が問題になっている。"
+    }
+  ],
+  "check_points": [
+    "salary と wage のちがいを言えるか",
+    "the minimum wage の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "minimum wage、wage war が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1204
+    }
+  ]
+}

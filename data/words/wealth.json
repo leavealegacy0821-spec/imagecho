@@ -1,0 +1,94 @@
+{
+  "word": "wealth",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/welθ/",
+  "core_image": {
+    "text": "たっぷりためこんだ、豊かな財産",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><ellipse cx=\"120\" cy=\"134\" rx=\"40\" ry=\"6\"/><ellipse cx=\"120\" cy=\"124\" rx=\"40\" ry=\"6\"/><ellipse cx=\"120\" cy=\"114\" rx=\"40\" ry=\"6\"/><ellipse cx=\"120\" cy=\"104\" rx=\"40\" ry=\"6\"/><ellipse cx=\"120\" cy=\"94\" rx=\"40\" ry=\"6\"/><ellipse cx=\"120\" cy=\"84\" rx=\"40\" ry=\"6\"/></g><text x=\"120\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">たっぷりの財産</text></svg>"
+  },
+  "etymology": "well(よく・豊かに)+th(状態) → よい状態・幸せ → 豊かさ → 富・財産 → (比ゆ)a wealth of A=豊富なA → wealthy=裕福な",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a large amount of money or property; the state of being rich; a large amount of something."
+    }
+  ],
+  "cautions": [
+    "money=お金/wealth=(長くためた)富・財産(不可算)",
+    "a wealth of A=豊富なA(a wealth of information [experience])",
+    "wealthy=裕福な(=rich)",
+    "the gap between wealth and poverty=貧富の差"
+  ],
+  "patterns": [
+    {
+      "form": "great wealth",
+      "meaning": "巨万の富"
+    },
+    {
+      "form": "a wealth of A",
+      "meaning": "豊富なA"
+    },
+    {
+      "form": "the distribution of wealth",
+      "meaning": "富の分配"
+    },
+    {
+      "form": "wealthy",
+      "meaning": "裕福な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "富",
+      "en": "He gained great wealth from his business.",
+      "ja": "彼は商売で巨万の富を得た。"
+    },
+    {
+      "source": "original",
+      "label": "豊富な",
+      "en": "The internet provides a wealth of information.",
+      "ja": "インターネットは豊富な情報を与えてくれる。"
+    },
+    {
+      "source": "original",
+      "label": "富の分配",
+      "en": "The distribution of wealth is unequal in many countries.",
+      "ja": "多くの国で富の分配は不平等だ。"
+    },
+    {
+      "source": "original",
+      "label": "裕福な",
+      "en": "She was born into a wealthy family.",
+      "ja": "彼女は裕福な家に生まれた。"
+    },
+    {
+      "source": "original",
+      "label": "豊富な",
+      "en": "The teacher has a wealth of experience.",
+      "ja": "その先生は経験が豊富だ。"
+    },
+    {
+      "source": "original",
+      "label": "富",
+      "en": "Health is more important than wealth.",
+      "ja": "健康は富よりも大切だ。"
+    }
+  ],
+  "check_points": [
+    "a wealth of A の意味を言えるか",
+    "wealthy の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a wealth of、wealthy が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1201
+    }
+  ]
+}

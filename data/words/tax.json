@@ -1,0 +1,103 @@
+{
+  "word": "tax",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/tæks/",
+  "core_image": {
+    "text": "国に、割り当てられて納めるお金",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"140\" y=\"50\" width=\"80\" height=\"90\"/><polygon points=\"134,50 180,24 226,50\"/><line x1=\"160\" y1=\"70\" x2=\"160\" y2=\"140\"/><line x1=\"180\" y1=\"70\" x2=\"180\" y2=\"140\"/><line x1=\"200\" y1=\"70\" x2=\"200\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"64\" y1=\"90\" x2=\"130\" y2=\"90\"/><polyline points=\"123,86.2 130,90 123,93.8\"/><circle cx=\"90\" cy=\"80\" r=\"6\"/></g><text x=\"90\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">納める</text></svg>"
+  },
+  "etymology": "ラテン語 taxare(評価して割り当てる。task と同じ根) → 割り当てて取り立てるお金 → 税金 → (動詞)課税する/(体力・忍耐に)重い負担をかける",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "money that you have to pay to the government."
+    },
+    {
+      "pos": "動詞",
+      "text": "to put a tax on something; to need a lot of effort."
+    }
+  ],
+  "cautions": [
+    "pay taxes=税金を払う/raise [cut] taxes=増税[減税]する",
+    "consumption tax=消費税/income tax=所得税/tax-free=免税の",
+    "tax A on B=Bに課税する(堅い)",
+    "比ゆ:tax A's patience=Aの忍耐をきびしく試す"
+  ],
+  "patterns": [
+    {
+      "form": "pay taxes",
+      "meaning": "税金を払う"
+    },
+    {
+      "form": "raise [cut] taxes",
+      "meaning": "増税[減税]する"
+    },
+    {
+      "form": "a tax on A",
+      "meaning": "Aにかかる税"
+    },
+    {
+      "form": "consumption tax",
+      "meaning": "消費税"
+    },
+    {
+      "form": "tax-free",
+      "meaning": "免税の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "税金を払う",
+      "en": "Everyone who works must pay taxes.",
+      "ja": "働く人はみな税金を払わなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "増税する",
+      "en": "The government plans to raise taxes.",
+      "ja": "政府は増税を計画している。"
+    },
+    {
+      "source": "original",
+      "label": "税",
+      "en": "There is a high tax on cigarettes.",
+      "ja": "たばこには高い税がかかっている。"
+    },
+    {
+      "source": "original",
+      "label": "消費税",
+      "en": "Japan's consumption tax is 10 percent.",
+      "ja": "日本の消費税は10%だ。"
+    },
+    {
+      "source": "original",
+      "label": "免税",
+      "en": "You can buy tax-free goods at the airport.",
+      "ja": "空港では免税品が買える。"
+    },
+    {
+      "source": "original",
+      "label": "重い負担",
+      "en": "The long climb taxed his strength.",
+      "ja": "長い登山は彼の体力をきびしく消耗させた。"
+    }
+  ],
+  "check_points": [
+    "raise / cut taxes の意味を言えるか",
+    "consumption tax の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "税の熟語(pay / raise taxes)が社会系の長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1208
+    }
+  ]
+}

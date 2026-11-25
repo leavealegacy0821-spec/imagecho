@@ -1,0 +1,103 @@
+{
+  "word": "fund",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/fʌnd/",
+  "core_image": {
+    "text": "目的のために、底にためておくお金",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"80\" y=\"60\" width=\"80\" height=\"80\"/><line x1=\"100\" y1=\"60\" x2=\"140\" y2=\"60\"/><line x1=\"110\" y1=\"52\" x2=\"130\" y2=\"52\"/><circle cx=\"104\" cy=\"124\" r=\"8\"/><circle cx=\"124\" cy=\"124\" r=\"8\"/><circle cx=\"144\" cy=\"124\" r=\"8\"/><circle cx=\"114\" cy=\"108\" r=\"8\"/><circle cx=\"134\" cy=\"108\" r=\"8\"/><line x1=\"120\" y1=\"20\" x2=\"120\" y2=\"46\"/><polyline points=\"123.8,39 120,46 116.2,39\"/></g><text x=\"200\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ためたお金</text></svg>"
+  },
+  "etymology": "ラテン語 fundus(底・土台。fundamental・found と同じ根) → 土台となるたくわえ → 基金・資金 → (動詞)資金を出す(fund A) → funds=財源・手持ちのお金",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an amount of money saved or collected for a particular purpose; (funds) money that is available to spend."
+    },
+    {
+      "pos": "動詞",
+      "text": "to provide money for something."
+    }
+  ],
+  "cautions": [
+    "budget=使えるお金のわく(計画)/fund=目的のために集めた・ためたお金(基金・資金)",
+    "raise funds=資金を集める/be short of funds=資金不足だ",
+    "動詞 fund A=Aに資金を出す(be funded by the government=政府の資金で運営される)",
+    "fundraising=募金活動"
+  ],
+  "patterns": [
+    {
+      "form": "a fund for A",
+      "meaning": "Aのための基金"
+    },
+    {
+      "form": "raise funds",
+      "meaning": "資金を集める"
+    },
+    {
+      "form": "be funded by A",
+      "meaning": "Aの資金で運営される"
+    },
+    {
+      "form": "public funds",
+      "meaning": "公金"
+    },
+    {
+      "form": "fundraising",
+      "meaning": "募金活動"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "基金",
+      "en": "They set up a fund for children in need.",
+      "ja": "彼らは困っている子どもたちのための基金を設けた。"
+    },
+    {
+      "source": "original",
+      "label": "資金を集める",
+      "en": "The students held a concert to raise funds for the hospital.",
+      "ja": "生徒たちは病院のための資金を集めるコンサートを開いた。"
+    },
+    {
+      "source": "original",
+      "label": "資金で運営される",
+      "en": "The research is funded by the government.",
+      "ja": "その研究は政府の資金で行われている。"
+    },
+    {
+      "source": "original",
+      "label": "資金不足",
+      "en": "The project stopped because of a lack of funds.",
+      "ja": "資金不足のためその計画は止まった。"
+    },
+    {
+      "source": "original",
+      "label": "募金活動",
+      "en": "Our club did some fundraising for the earthquake victims.",
+      "ja": "私たちの部は地震の被災者のために募金活動をした。"
+    },
+    {
+      "source": "original",
+      "label": "公金",
+      "en": "Public funds should be used carefully.",
+      "ja": "公金は慎重に使われるべきだ。"
+    }
+  ],
+  "check_points": [
+    "raise funds の意味を言えるか",
+    "be funded by A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "raise funds、be funded by が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1210
+    }
+  ]
+}

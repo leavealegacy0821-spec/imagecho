@@ -1,0 +1,108 @@
+{
+  "word": "budget",
+  "pos": [
+    "名詞",
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/ˈbʌdʒɪt/",
+  "core_image": {
+    "text": "袋に入れて決めておく、使えるお金のわく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M70 50 Q60 130 120 134 Q180 130 170 50 Z\"/><line x1=\"100\" y1=\"50\" x2=\"96\" y2=\"36\"/><line x1=\"140\" y1=\"50\" x2=\"144\" y2=\"36\"/><line x1=\"96\" y1=\"36\" x2=\"144\" y2=\"36\"/><line x1=\"40\" y1=\"80\" x2=\"200\" y2=\"80\" stroke-dasharray=\"5 5\"/></g><text x=\"200\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">使えるわく</text></svg>"
+  },
+  "etymology": "古いフランス語 bougette(小さな革袋) → 財布 → (政府が議会で袋から出す)予算案 → 予算・使えるお金のわく → (形容詞)格安の(budget hotel)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the amount of money that a person, company or government has to spend; a plan for how to spend money."
+    },
+    {
+      "pos": "動詞",
+      "text": "to plan how much money you will spend."
+    },
+    {
+      "pos": "形容詞",
+      "text": "cheap."
+    }
+  ],
+  "cautions": [
+    "income=入ってくるお金/budget=使えるお金のわく・その計画(予算)",
+    "on a (tight) budget=(きびしい)予算で/within [over] budget=予算内で[をこえて]",
+    "budget for A=Aの予算を立てる",
+    "形容詞 budget=格安の(a budget airline)"
+  ],
+  "patterns": [
+    {
+      "form": "a budget for A",
+      "meaning": "Aの予算"
+    },
+    {
+      "form": "on a tight budget",
+      "meaning": "限られた予算で"
+    },
+    {
+      "form": "within budget",
+      "meaning": "予算内で"
+    },
+    {
+      "form": "budget cuts",
+      "meaning": "予算削減"
+    },
+    {
+      "form": "a budget hotel",
+      "meaning": "格安ホテル"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "予算",
+      "en": "The school has a small budget for books.",
+      "ja": "その学校は本に使う予算が少ない。"
+    },
+    {
+      "source": "original",
+      "label": "限られた予算",
+      "en": "We traveled around Asia on a tight budget.",
+      "ja": "私たちは限られた予算でアジアを旅した。"
+    },
+    {
+      "source": "original",
+      "label": "予算内",
+      "en": "The project was finished within budget.",
+      "ja": "その事業は予算内で終わった。"
+    },
+    {
+      "source": "original",
+      "label": "予算削減",
+      "en": "Budget cuts forced the library to close early.",
+      "ja": "予算削減で図書館は早く閉まることになった。"
+    },
+    {
+      "source": "original",
+      "label": "予算を立てる",
+      "en": "You should budget for unexpected costs.",
+      "ja": "予想外の出費にも予算を見ておくべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "格安の",
+      "en": "We stayed at a budget hotel near the station.",
+      "ja": "駅の近くの格安ホテルに泊まった。"
+    }
+  ],
+  "check_points": [
+    "on a tight budget の意味を言えるか",
+    "形容詞 budget(格安の)がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "on a budget、budget cuts が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1206
+    }
+  ]
+}
