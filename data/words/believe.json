@@ -1,0 +1,98 @@
+{
+  "word": "believe",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/bɪˈliːv/",
+  "core_image": {
+    "text": "本当だと、心から受け入れる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"84\" y2=\"96\"/><path d=\"M150 60 Q150 46 162 46 Q174 46 174 60 Q174 72 150 92 Q126 72 126 60 Q126 46 138 46 Q150 46 150 60\"/></g><text x=\"150\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">本当だと思う</text></svg>"
+  },
+  "etymology": "古い英語 belȳfan(信じる。love・belief と同じ「大切に思う」根) → 本当だと受け入れる → (人の言うことを)信じる → believe in A=Aの存在・価値を信じる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to feel sure that something is true or that someone is telling the truth; to think that something is probably true."
+    }
+  ],
+  "cautions": [
+    "believe A=Aの言うことを信じる/believe in A=Aの存在・価値を信じる(believe in God / in yourself)",
+    "think=意見として思う/believe=本当だと信じる(確信が強い)",
+    "be believed to do=〜すると信じられている(It is believed that … の書きかえ)",
+    "名詞 belief(複数 beliefs)"
+  ],
+  "patterns": [
+    {
+      "form": "believe A",
+      "meaning": "Aを信じる"
+    },
+    {
+      "form": "believe (that) …",
+      "meaning": "…だと信じる"
+    },
+    {
+      "form": "believe in A",
+      "meaning": "Aの存在・価値を信じる"
+    },
+    {
+      "form": "be believed to do",
+      "meaning": "〜すると信じられている"
+    },
+    {
+      "form": "Believe it or not, …",
+      "meaning": "信じられないかもしれないが…"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "信じる",
+      "en": "I believe you. You never tell lies.",
+      "ja": "君を信じるよ。君はうそをつかないから。"
+    },
+    {
+      "source": "original",
+      "label": "信じる",
+      "en": "Scientists believe that the universe is about 14 billion years old.",
+      "ja": "科学者は宇宙ができて約140億年だと考えている。"
+    },
+    {
+      "source": "original",
+      "label": "価値を信じる",
+      "en": "You have to believe in yourself.",
+      "ja": "自分の力を信じなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "存在を信じる",
+      "en": "Do you believe in ghosts?",
+      "ja": "幽霊がいると思う?"
+    },
+    {
+      "source": "original",
+      "label": "信じられている",
+      "en": "The castle is believed to have been built in the 16th century.",
+      "ja": "その城は16世紀に建てられたと信じられている。"
+    },
+    {
+      "source": "original",
+      "label": "信じられないかもしれないが",
+      "en": "Believe it or not, he passed the exam.",
+      "ja": "信じられないかもしれないけど、彼は試験に受かった。"
+    }
+  ],
+  "check_points": [
+    "believe A と believe in A のちがいを言えるか",
+    "be believed to have done の意味がわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "believe in、be believed to do(have done)が文法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1083
+    }
+  ]
+}

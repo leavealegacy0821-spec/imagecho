@@ -1,0 +1,102 @@
+{
+  "word": "know",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/noʊ/",
+  "core_image": {
+    "text": "頭の中に、情報として持っている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"84\" y2=\"96\"/><rect x=\"120\" y=\"30\" width=\"30\" height=\"40\"/><rect x=\"156\" y=\"30\" width=\"30\" height=\"40\"/><rect x=\"192\" y=\"30\" width=\"30\" height=\"40\"/></g><text x=\"170\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">知っている</text></svg>"
+  },
+  "etymology": "古い英語 cnāwan(知る。can・acknowledge と同じ根。k は昔は読んでいた) → 情報・人・やり方を頭に持っている → 見分けがつく(know A from B) → 名詞 knowledge(知識)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to have information in your mind; to be familiar with a person or place; to be able to recognize something."
+    }
+  ],
+  "cautions": [
+    "know=知っている(状態)。「知る(ようになる)」は learn / find out / get to know",
+    "know A from B=AとBの区別がつく(=tell A from B)",
+    "know of A=Aのことを(間接的に)聞いて知っている/know A=Aと(直接)知り合いだ",
+    "be known to A=Aに知られている/be known for A=Aで有名だ/be known as A=Aとして知られている(前置詞の使い分けが頻出)"
+  ],
+  "patterns": [
+    {
+      "form": "know A",
+      "meaning": "Aを知っている"
+    },
+    {
+      "form": "know how to do",
+      "meaning": "〜のしかたを知っている"
+    },
+    {
+      "form": "know A from B",
+      "meaning": "AとBを見分ける"
+    },
+    {
+      "form": "be known for A",
+      "meaning": "Aで有名だ"
+    },
+    {
+      "form": "be known as A",
+      "meaning": "Aとして知られている"
+    },
+    {
+      "form": "be known to A",
+      "meaning": "Aに知られている"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "知っている",
+      "en": "Do you know her phone number?",
+      "ja": "彼女の電話番号を知ってる?"
+    },
+    {
+      "source": "original",
+      "label": "知り合いだ",
+      "en": "I have known him since we were children.",
+      "ja": "彼とは子どものころからの知り合いだ。"
+    },
+    {
+      "source": "original",
+      "label": "見分ける",
+      "en": "Young children don't always know right from wrong.",
+      "ja": "幼い子どもはいつも善悪の区別がつくとは限らない。"
+    },
+    {
+      "source": "original",
+      "label": "で有名",
+      "en": "Kyoto is known for its old temples.",
+      "ja": "京都は古い寺で有名だ。"
+    },
+    {
+      "source": "original",
+      "label": "として知られる",
+      "en": "He is known as the father of modern physics.",
+      "ja": "彼は近代物理学の父として知られている。"
+    },
+    {
+      "source": "original",
+      "label": "に知られている",
+      "en": "His name is known to everyone in the town.",
+      "ja": "彼の名前は町の誰もが知っている。"
+    }
+  ],
+  "check_points": [
+    "be known for / as / to の使い分けができるか",
+    "know と learn のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "be known for/as/to の前置詞、know A from B が文法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1084
+    }
+  ]
+}

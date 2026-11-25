@@ -1,0 +1,98 @@
+{
+  "word": "learn",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/lɜːrn/",
+  "core_image": {
+    "text": "やってみて、自分の中に身につける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"96\" y2=\"80\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><rect x=\"100\" y=\"70\" width=\"36\" height=\"24\"/><line x1=\"136\" y1=\"82\" x2=\"170\" y2=\"82\"/><polyline points=\"163,78.2 170,82 163,85.8\"/><circle cx=\"190\" cy=\"82\" r=\"12\"/></g><text x=\"150\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">身につく</text></svg>"
+  },
+  "etymology": "古い英語 leornian(学ぶ。lore=伝承 と同じ根) → 知識・技術を身につける・習得する → (知らせを)聞いて知る(learn that …)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to get knowledge or a skill by studying, practicing or experience; to find out information."
+    }
+  ],
+  "cautions": [
+    "study=勉強する(過程)/learn=(その結果)身につける・習得する。I studied but didn't learn much. が成り立つ",
+    "learn to do=(練習して)〜できるようになる",
+    "learn (that) … / learn of A=…を(聞いて)知る(=find out)",
+    "learn A by heart=Aを暗記する"
+  ],
+  "patterns": [
+    {
+      "form": "learn A",
+      "meaning": "Aを身につける"
+    },
+    {
+      "form": "learn to do",
+      "meaning": "〜できるようになる"
+    },
+    {
+      "form": "learn how to do",
+      "meaning": "〜のしかたを覚える"
+    },
+    {
+      "form": "learn (that) …",
+      "meaning": "…を知る"
+    },
+    {
+      "form": "learn A by heart",
+      "meaning": "Aを暗記する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "身につける",
+      "en": "She learned Spanish while living in Mexico.",
+      "ja": "彼女はメキシコに住んでいる間にスペイン語を身につけた。"
+    },
+    {
+      "source": "original",
+      "label": "できるようになる",
+      "en": "My little brother learned to ride a bike.",
+      "ja": "弟は自転車に乗れるようになった。"
+    },
+    {
+      "source": "original",
+      "label": "覚える",
+      "en": "I want to learn how to cook.",
+      "ja": "料理のしかたを覚えたい。"
+    },
+    {
+      "source": "original",
+      "label": "知る",
+      "en": "We were shocked to learn that the shop had closed.",
+      "ja": "その店が閉店したと知ってショックだった。"
+    },
+    {
+      "source": "original",
+      "label": "暗記する",
+      "en": "We had to learn the poem by heart.",
+      "ja": "私たちはその詩を暗記しなければならなかった。"
+    },
+    {
+      "source": "original",
+      "label": "学ぶ",
+      "en": "You can learn a lot from your mistakes.",
+      "ja": "失敗から多くを学ぶことができる。"
+    }
+  ],
+  "check_points": [
+    "study と learn のちがいを言えるか",
+    "learn to do の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "study との区別、learn to do、learn that が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1085
+    }
+  ]
+}

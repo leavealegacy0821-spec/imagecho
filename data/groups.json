@@ -107,14 +107,16 @@
     },
     {
       "title": "使い分け:思う・みなす",
-      "note": "consider=じっくり考えて〜とみなす ／ regard=ある見方で見る(regard A as B) ／ deem=(堅く)判断して〜とみなす ／ reckon=(口語)数えて〜と思う ／ suppose=たぶん〜だろうと思う",
+      "note": "consider=じっくり考えて〜とみなす ／ regard=ある見方で見る(regard A as B) ／ deem=(堅く)判断して〜とみなす ／ reckon=(口語)数えて〜と思う ／ suppose=たぶん〜だろうと思う ／ think=頭の中で思いめぐらす(意見) ／ believe=本当だと心から受け入れる",
       "words": [
         "consider",
         "regard",
         "deem",
         "reckon",
         "suppose",
-        "view"
+        "view",
+        "think",
+        "believe"
       ]
     },
     {
@@ -152,14 +154,16 @@
     },
     {
       "title": "使い分け:わかる",
-      "note": "comprehend=全体をつかんで理解する ／ grasp=しっかりつかむ ／ apprehend=(堅)つかみ取る ／ discern=見分けて気づく ／ recognize=前に知っていたものと認める ／ realize=はっと気づく",
+      "note": "comprehend=全体をつかんで理解する ／ grasp=しっかりつかむ ／ apprehend=(堅)つかみ取る ／ discern=見分けて気づく ／ recognize=前に知っていたものと認める ／ realize=はっと気づく ／ understand=中に立ってしくみ・意味がわかる ／ know=情報として持っている(状態)",
       "words": [
         "comprehend",
         "grasp",
         "apprehend",
         "discern",
         "recognize",
-        "realize"
+        "realize",
+        "understand",
+        "know"
       ]
     },
     {
@@ -1670,6 +1674,40 @@
         "ascend",
         "descend",
         "mount"
+      ]
+    },
+    {
+      "title": "使い分け:学ぶ・教える",
+      "note": "study=時間をかけて勉強する(過程) ／ learn=やってみて身につける(結果) ／ teach=知識・わざを身につけさせる ／ train=くり返し訓練する ／ tell=(情報を)教える",
+      "words": [
+        "study",
+        "learn",
+        "teach",
+        "train",
+        "tell"
+      ]
+    },
+    {
+      "title": "使い分け:知らせる・発表する",
+      "note": "tell=個人に伝える ／ inform=情報を正式に知らせる(inform A of B) ／ notify=(公式に)通知する ／ announce=みんなに公式に発表する ／ declare=きっぱり宣言する ／ state=はっきり述べる",
+      "words": [
+        "tell",
+        "inform",
+        "notify",
+        "announce",
+        "declare",
+        "state"
+      ]
+    },
+    {
+      "title": "使い分け:話し合う",
+      "note": "discuss=話し合う(他動詞) ／ debate=賛成と反対がことばを打ち合う ／ argue=理由を挙げて主張する・口論する ／ negotiate=条件を出し合って歩み寄る ／ consult=意見を求めて相談する",
+      "words": [
+        "discuss",
+        "debate",
+        "argue",
+        "negotiate",
+        "consult"
       ]
     },
     {

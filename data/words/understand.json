@@ -1,0 +1,98 @@
+{
+  "word": "understand",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˌʌndərˈstænd/",
+  "core_image": {
+    "text": "中身の下に立って、しくみがわかる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"80\" y=\"6\" width=\"80\" height=\"30\"/><line x1=\"100\" y1=\"14\" x2=\"140\" y2=\"14\"/><line x1=\"100\" y1=\"21\" x2=\"140\" y2=\"21\"/><line x1=\"100\" y1=\"28\" x2=\"128\" y2=\"28\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"106\" y2=\"90\"/><line x1=\"120\" y1=\"74\" x2=\"134\" y2=\"90\"/></g><text x=\"200\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">わかる</text></svg>"
+  },
+  "etymology": "under(下に・間に)+stand(立つ) → 物事のすぐそば・中に立って見る → 意味・しくみ・気持ちがわかる → (聞いて)〜だと理解している(I understand that …=…と聞いている)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to know the meaning of something; to know why something happens or how it works; to know how someone feels; to believe something is true because you have been told."
+    }
+  ],
+  "cautions": [
+    "know=知っている(情報をもっている)/understand=意味・理由・しくみがわかる",
+    "状態動詞:ふつう進行形にしない(× I'm understanding.)",
+    "I understand (that) …=…と聞いて(承知して)いる(人から聞いた情報を言う丁寧な言い方)",
+    "make oneself understood=自分の言うことを相手にわからせる(英語で通じる)"
+  ],
+  "patterns": [
+    {
+      "form": "understand A",
+      "meaning": "Aを理解する"
+    },
+    {
+      "form": "understand why [how] …",
+      "meaning": "なぜ[どう]…かがわかる"
+    },
+    {
+      "form": "I understand (that) …",
+      "meaning": "…と聞いている"
+    },
+    {
+      "form": "make oneself understood",
+      "meaning": "自分の言うことを通じさせる"
+    },
+    {
+      "form": "understanding",
+      "meaning": "理解・思いやりのある"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "理解する",
+      "en": "I don't understand this question.",
+      "ja": "この問題の意味がわからない。"
+    },
+    {
+      "source": "original",
+      "label": "わかる",
+      "en": "I can understand why she got angry.",
+      "ja": "彼女がなぜ怒ったのかはわかる。"
+    },
+    {
+      "source": "original",
+      "label": "気持ちがわかる",
+      "en": "My mother always understands me.",
+      "ja": "母はいつも私の気持ちをわかってくれる。"
+    },
+    {
+      "source": "original",
+      "label": "聞いている",
+      "en": "I understand that you are moving to Osaka.",
+      "ja": "大阪に引っ越されると聞いています。"
+    },
+    {
+      "source": "original",
+      "label": "通じさせる",
+      "en": "I could make myself understood in English.",
+      "ja": "英語で言いたいことを通じさせることができた。"
+    },
+    {
+      "source": "original",
+      "label": "理解",
+      "en": "The book helped my understanding of history.",
+      "ja": "その本のおかげで歴史の理解が深まった。"
+    }
+  ],
+  "check_points": [
+    "know と understand のちがいを言えるか",
+    "make oneself understood の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "make oneself understood、I understand that の用法が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1081
+    }
+  ]
+}

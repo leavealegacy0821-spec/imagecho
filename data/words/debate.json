@@ -1,0 +1,103 @@
+{
+  "word": "debate",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/dɪˈbeɪt/",
+  "core_image": {
+    "text": "賛成と反対が、ことばを打ち合う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"74\" y2=\"64\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"96\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"166\" y2=\"64\"/><line x1=\"190\" y1=\"74\" x2=\"202\" y2=\"96\"/><line x1=\"84\" y1=\"50\" x2=\"116\" y2=\"50\"/><polyline points=\"109,46.2 116,50 109,53.8\"/><line x1=\"156\" y1=\"64\" x2=\"124\" y2=\"64\"/><polyline points=\"131,67.8 124,64 131,60.2\"/></g><text x=\"120\" y=\"108\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">賛否を戦わす</text></svg>"
+  },
+  "etymology": "de(すっかり)+bate(打つ。battle・combat と同じ根) → 打ち合う → (意見を)戦わせる・討論する → (自分の中で)あれこれ考える",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a discussion in which people express different opinions; a formal discussion with rules."
+    },
+    {
+      "pos": "動詞",
+      "text": "to discuss a subject with people who have different opinions; to think carefully before deciding."
+    }
+  ],
+  "cautions": [
+    "discuss=話し合う(他動詞)/debate=賛成・反対に分かれて論じ合う/argue=理由を挙げて主張する・口論する",
+    "debate A / debate about [over] A=Aについて討論する",
+    "debate whether …=…かどうかあれこれ考える(自分の中でも使える)",
+    "名詞 a heated debate=激論/be open to debate=議論の余地がある"
+  ],
+  "patterns": [
+    {
+      "form": "debate A",
+      "meaning": "Aを討論する"
+    },
+    {
+      "form": "debate whether …",
+      "meaning": "…かどうか迷う"
+    },
+    {
+      "form": "a debate on [about] A",
+      "meaning": "Aについての討論"
+    },
+    {
+      "form": "a heated debate",
+      "meaning": "激論"
+    },
+    {
+      "form": "be open to debate",
+      "meaning": "議論の余地がある"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "討論する",
+      "en": "The students debated whether school uniforms are necessary.",
+      "ja": "生徒たちは制服が必要かどうかを討論した。"
+    },
+    {
+      "source": "original",
+      "label": "討論",
+      "en": "There was a heated debate about the new law.",
+      "ja": "新しい法律をめぐって激論が交わされた。"
+    },
+    {
+      "source": "original",
+      "label": "迷う",
+      "en": "I'm debating whether to buy a new phone.",
+      "ja": "新しいスマホを買うかどうか迷っている。"
+    },
+    {
+      "source": "original",
+      "label": "論議",
+      "en": "The issue has been the subject of debate for years.",
+      "ja": "その問題は何年も議論の的になっている。"
+    },
+    {
+      "source": "original",
+      "label": "議論の余地",
+      "en": "Whether the plan will work is open to debate.",
+      "ja": "その計画がうまくいくかどうかは議論の余地がある。"
+    },
+    {
+      "source": "original",
+      "label": "ディベート",
+      "en": "Our team won the English debate contest.",
+      "ja": "私たちのチームは英語ディベート大会で優勝した。"
+    }
+  ],
+  "check_points": [
+    "discuss と debate のちがいを言えるか",
+    "be open to debate の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "名詞 debate(議論・論争)が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1089
+    }
+  ]
+}

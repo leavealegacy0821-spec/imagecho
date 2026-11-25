@@ -1,0 +1,98 @@
+{
+  "word": "think",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/θɪŋk/",
+  "core_image": {
+    "text": "頭の中で、あれこれ思いめぐらす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"80\" y2=\"58\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"96\"/><circle cx=\"96\" cy=\"36\" r=\"4\"/><circle cx=\"110\" cy=\"26\" r=\"6\"/><ellipse cx=\"164\" cy=\"34\" rx=\"50\" ry=\"22\"/></g><text x=\"164\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">思いめぐらす</text></svg>"
+  },
+  "etymology": "古い英語 þencan(考える) → 頭の中で思いめぐらす → 〜だと思う(意見) → think of A=Aを思いつく・思い浮かべる/think about A=Aについてあれこれ考える",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to use your mind to consider something; to have an opinion or belief about something."
+    }
+  ],
+  "cautions": [
+    "think=自分の考え・意見として思う/believe=本当だと信じる/suppose=たぶん〜だと思う",
+    "think of A=思いつく・思い浮かべる/think about A=(時間をかけて)考える",
+    "否定は前に出す:I don't think he will come.(× I think he won't come. は不自然になりやすい)",
+    "think A (to be) B=AをBだと思う/think of A as B=AをBとみなす"
+  ],
+  "patterns": [
+    {
+      "form": "think (that) …",
+      "meaning": "…と思う"
+    },
+    {
+      "form": "think of A",
+      "meaning": "Aを思いつく・思い浮かべる"
+    },
+    {
+      "form": "think about A",
+      "meaning": "Aについて考える"
+    },
+    {
+      "form": "think of A as B",
+      "meaning": "AをBとみなす"
+    },
+    {
+      "form": "think twice",
+      "meaning": "よく考え直す"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "思う",
+      "en": "I think this plan will work.",
+      "ja": "この計画はうまくいくと思う。"
+    },
+    {
+      "source": "original",
+      "label": "思わない",
+      "en": "I don't think it will rain tomorrow.",
+      "ja": "明日は雨は降らないと思う。"
+    },
+    {
+      "source": "original",
+      "label": "思いつく",
+      "en": "Can you think of a better idea?",
+      "ja": "もっといい考えを思いつける?"
+    },
+    {
+      "source": "original",
+      "label": "考える",
+      "en": "I'm thinking about studying abroad.",
+      "ja": "留学しようかと考えている。"
+    },
+    {
+      "source": "original",
+      "label": "みなす",
+      "en": "Many people think of him as a hero.",
+      "ja": "多くの人が彼を英雄とみなしている。"
+    },
+    {
+      "source": "original",
+      "label": "考え直す",
+      "en": "You should think twice before you quit your job.",
+      "ja": "仕事を辞める前によく考え直すべきだ。"
+    }
+  ],
+  "check_points": [
+    "think of と think about のちがいを言えるか",
+    "否定を前に出す言い方ができるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "think of A as B、否定の位置、think of/about の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1082
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "study",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈstʌdi/",
+  "core_image": {
+    "text": "時間をかけて、熱心に取り組んで調べる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"120\" y=\"100\" width=\"80\" height=\"8\"/><line x1=\"128\" y1=\"108\" x2=\"128\" y2=\"140\"/><line x1=\"192\" y1=\"108\" x2=\"192\" y2=\"140\"/><circle cx=\"96\" cy=\"64\" r=\"10\"/><line x1=\"96\" y1=\"74\" x2=\"100\" y2=\"112\"/><line x1=\"98\" y1=\"88\" x2=\"130\" y2=\"96\"/><line x1=\"100\" y1=\"112\" x2=\"100\" y2=\"140\"/><rect x=\"140\" y=\"88\" width=\"30\" height=\"12\"/></g><text x=\"170\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">じっくり取り組む</text></svg>"
+  },
+  "etymology": "ラテン語 studium(熱心さ。student と同じ根) → 熱心に打ち込む → 勉強する → (資料・問題を)よく調べる・研究する → (名詞)研究・調査/書斎",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to spend time learning about a subject; to look at something carefully."
+    },
+    {
+      "pos": "名詞",
+      "text": "the activity of learning; a piece of research; a room for reading and writing."
+    }
+  ],
+  "cautions": [
+    "study=勉強する・研究する(取り組む過程)/learn=身につける(結果)",
+    "名詞 study=研究・調査:A recent study shows that …=最近の研究によれば(長文の定番)",
+    "動詞 study A=Aをじっくり調べる(study the map)",
+    "名詞「書斎」の意味もある"
+  ],
+  "patterns": [
+    {
+      "form": "study A",
+      "meaning": "Aを勉強する・研究する"
+    },
+    {
+      "form": "study for A",
+      "meaning": "A(試験)に向けて勉強する"
+    },
+    {
+      "form": "study A carefully",
+      "meaning": "Aをじっくり調べる"
+    },
+    {
+      "form": "a study of [on] A",
+      "meaning": "Aの研究"
+    },
+    {
+      "form": "studies show that …",
+      "meaning": "研究によると…"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "勉強する",
+      "en": "I study English for an hour every day.",
+      "ja": "毎日1時間英語を勉強している。"
+    },
+    {
+      "source": "original",
+      "label": "勉強する",
+      "en": "She is studying hard for the entrance exam.",
+      "ja": "彼女は入試に向けて一生懸命勉強している。"
+    },
+    {
+      "source": "original",
+      "label": "じっくり見る",
+      "en": "He studied the map before the hike.",
+      "ja": "彼はハイキングの前に地図をじっくり見た。"
+    },
+    {
+      "source": "original",
+      "label": "研究",
+      "en": "A recent study shows that sleep improves memory.",
+      "ja": "最近の研究によると睡眠は記憶力を高める。"
+    },
+    {
+      "source": "original",
+      "label": "研究する",
+      "en": "My uncle studies insects at a university.",
+      "ja": "おじは大学で昆虫を研究している。"
+    },
+    {
+      "source": "original",
+      "label": "書斎",
+      "en": "My father reads in his study every night.",
+      "ja": "父は毎晩書斎で読書をする。"
+    }
+  ],
+  "check_points": [
+    "study と learn のちがいを言えるか",
+    "名詞 study(研究)を訳せるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "名詞 study=研究 が長文で多い。learn との区別も出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1086
+    }
+  ]
+}

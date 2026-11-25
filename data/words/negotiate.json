@@ -1,0 +1,98 @@
+{
+  "word": "negotiate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/nɪˈɡoʊʃieɪt/",
+  "core_image": {
+    "text": "条件を出し合い、歩み寄って話をまとめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"90\" y2=\"80\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"96\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"150\" y2=\"80\"/><line x1=\"190\" y1=\"74\" x2=\"202\" y2=\"96\"/><rect x=\"90\" y=\"100\" width=\"60\" height=\"8\"/><line x1=\"96\" y1=\"108\" x2=\"96\" y2=\"140\"/><line x1=\"144\" y1=\"108\" x2=\"144\" y2=\"140\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">歩み寄る</text></svg>"
+  },
+  "etymology": "ラテン語 negotium(仕事・商売。neg=ない+otium=ひま) → 商売の取り引きをする → (条件を)話し合って取り決める・交渉する → (難所を)うまく通り抜ける",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to try to reach an agreement by discussing something; to get past or through a difficult place."
+    }
+  ],
+  "cautions": [
+    "discuss=話し合う/negotiate=条件を出し合って合意をめざして交渉する",
+    "negotiate with A (for [about] B)=Aと(Bについて)交渉する/negotiate A=A(契約・条件)を取り決める",
+    "比ゆ:negotiate a sharp bend=急カーブをうまく通り抜ける",
+    "名詞 negotiation(s)=交渉/be under negotiation=交渉中"
+  ],
+  "patterns": [
+    {
+      "form": "negotiate with A",
+      "meaning": "Aと交渉する"
+    },
+    {
+      "form": "negotiate A",
+      "meaning": "A(契約など)を取り決める"
+    },
+    {
+      "form": "negotiate for A",
+      "meaning": "Aを求めて交渉する"
+    },
+    {
+      "form": "negotiations with A",
+      "meaning": "Aとの交渉"
+    },
+    {
+      "form": "be under negotiation",
+      "meaning": "交渉中である"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "交渉する",
+      "en": "The union negotiated with the company for higher wages.",
+      "ja": "組合は賃上げを求めて会社と交渉した。"
+    },
+    {
+      "source": "original",
+      "label": "取り決める",
+      "en": "The two countries negotiated a peace treaty.",
+      "ja": "両国は平和条約を取り決めた。"
+    },
+    {
+      "source": "original",
+      "label": "交渉",
+      "en": "After long negotiations, they reached an agreement.",
+      "ja": "長い交渉のすえ、彼らは合意に達した。"
+    },
+    {
+      "source": "original",
+      "label": "交渉中",
+      "en": "The contract is still under negotiation.",
+      "ja": "その契約はまだ交渉中だ。"
+    },
+    {
+      "source": "original",
+      "label": "通り抜ける",
+      "en": "The driver carefully negotiated the narrow mountain road.",
+      "ja": "運転手は細い山道を慎重に通り抜けた。"
+    },
+    {
+      "source": "original",
+      "label": "交渉する",
+      "en": "You can sometimes negotiate the price at the market.",
+      "ja": "市場では値段の交渉ができることもある。"
+    }
+  ],
+  "check_points": [
+    "negotiate with A の型を言えるか",
+    "名詞 negotiation を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "negotiate with、negotiations(交渉)が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1090
+    }
+  ]
+}
