@@ -1,0 +1,89 @@
+{
+  "word": "renowned",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/rɪˈnaʊnd/",
+  "core_image": {
+    "text": "すぐれた業績で、名が広く聞こえている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><polygon points=\"120,22 124,32 134,32 126,38 130,48 120,42 110,48 114,38 106,32 116,32\"/><path d=\"M70 70 Q60 80 70 90 M50 60 Q36 80 50 100 M170 70 Q180 80 170 90 M190 60 Q204 80 190 100\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">名声</text></svg>"
+  },
+  "etymology": "古フランス語 renomer(re-=くり返し + nomer=名を呼ぶ:name と同じ根) → くり返し名を呼ばれる → 名声のある",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "famous and admired for a special skill or achievement."
+    }
+  ],
+  "cautions": [
+    "famous=有名な(広い)/renowned=(すぐれた技能・業績で)名高い(改まった)",
+    "be renowned for A=Aで名高い",
+    "renown=名声",
+    "world-renowned=世界的に名高い"
+  ],
+  "patterns": [
+    {
+      "form": "be renowned for A",
+      "meaning": "Aで名高い"
+    },
+    {
+      "form": "a renowned scientist",
+      "meaning": "名高い科学者"
+    },
+    {
+      "form": "world-renowned",
+      "meaning": "世界的に名高い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "名高い",
+      "en": "He is a renowned scientist.",
+      "ja": "彼は名高い科学者だ。"
+    },
+    {
+      "source": "original",
+      "label": "〜で",
+      "en": "The region is renowned for its wine.",
+      "ja": "その地方はワインで名高い。"
+    },
+    {
+      "source": "original",
+      "label": "世界的",
+      "en": "She is a world-renowned violinist.",
+      "ja": "彼女は世界的に名高いバイオリン奏者だ。"
+    },
+    {
+      "source": "original",
+      "label": "名声",
+      "en": "The chef won renown for his sushi.",
+      "ja": "その料理人はすしで名声を得た。"
+    },
+    {
+      "source": "original",
+      "label": "大学",
+      "en": "The university is renowned for its research.",
+      "ja": "その大学は研究で名高い。"
+    },
+    {
+      "source": "original",
+      "label": "芸術家",
+      "en": "Renowned artists from around the world took part.",
+      "ja": "世界中の名高い芸術家が参加した。"
+    }
+  ],
+  "check_points": [
+    "famous と renowned のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be renowned for が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1842
+    }
+  ]
+}

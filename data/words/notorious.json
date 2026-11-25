@@ -1,0 +1,89 @@
+{
+  "word": "notorious",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/noʊˈtɔːriəs/",
+  "core_image": {
+    "text": "悪いことで、名が知れわたっている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><rect x=\"104\" y=\"40\" width=\"32\" height=\"8\"/><circle cx=\"60\" cy=\"60\" r=\"10\"/><circle cx=\"180\" cy=\"60\" r=\"10\"/><line x1=\"54\" y1=\"72\" x2=\"66\" y2=\"72\"/><line x1=\"174\" y1=\"72\" x2=\"186\" y2=\"72\"/><path d=\"M80 40 L90 50 M160 40 L150 50\"/></g><text x=\"120\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">悪名</text></svg>"
+  },
+  "etymology": "ラテン語 notus(知られた:note・notice と同じ根) → 広く知られた → (とくに悪いことで)知れわたった・悪名高い",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "famous for something bad."
+    }
+  ],
+  "cautions": [
+    "famous=(よいことで)有名/notorious=(悪いことで)悪名高い",
+    "be notorious for A=Aで悪名高い",
+    "infamous=(ひどい悪事で)悪名高い(notorious より強い・改まった)",
+    "notoriety=悪評"
+  ],
+  "patterns": [
+    {
+      "form": "be notorious for A",
+      "meaning": "Aで悪名高い"
+    },
+    {
+      "form": "a notorious criminal",
+      "meaning": "悪名高い犯罪者"
+    },
+    {
+      "form": "notoriety",
+      "meaning": "悪評"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "悪名高い",
+      "en": "The area is notorious for crime.",
+      "ja": "その地域は犯罪が多いことで悪名高い。"
+    },
+    {
+      "source": "original",
+      "label": "犯罪者",
+      "en": "He was a notorious thief.",
+      "ja": "彼は悪名高い泥棒だった。"
+    },
+    {
+      "source": "original",
+      "label": "悪評",
+      "en": "This road is notorious for traffic jams.",
+      "ja": "この道は渋滞がひどいことで有名だ。"
+    },
+    {
+      "source": "original",
+      "label": "評判",
+      "en": "The company gained notoriety for its poor service.",
+      "ja": "その会社はサービスの悪さで悪評が立った。"
+    },
+    {
+      "source": "original",
+      "label": "天気",
+      "en": "London is notorious for its rainy weather.",
+      "ja": "ロンドンは雨が多いことで知られている。"
+    },
+    {
+      "source": "original",
+      "label": "対比",
+      "en": "He is famous as a singer but notorious for being late.",
+      "ja": "彼は歌手として有名だが遅刻で悪名高い。"
+    }
+  ],
+  "check_points": [
+    "famous と notorious のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "famous / notorious の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1843
+    }
+  ]
+}

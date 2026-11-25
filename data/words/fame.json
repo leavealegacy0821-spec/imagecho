@@ -1,0 +1,89 @@
+{
+  "word": "fame",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/feɪm/",
+  "core_image": {
+    "text": "世の中に名前が広く知られること",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><path d=\"M90 30 Q120 10 150 30\"/><path d=\"M76 20 Q120 -6 164 20\"/><circle cx=\"40\" cy=\"80\" r=\"8\"/><circle cx=\"200\" cy=\"80\" r=\"8\"/></g><text x=\"200\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">名声</text></svg>"
+  },
+  "etymology": "ラテン語 fama(うわさ・評判) → 世の評判・名声 → famous=有名な",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the state of being known by many people."
+    }
+  ],
+  "cautions": [
+    "fame=名声(有名であること)/reputation=評判(よい・悪いの評価)",
+    "rise to fame=有名になる",
+    "fame and fortune=富と名声",
+    "famous=(形容詞)有名な"
+  ],
+  "patterns": [
+    {
+      "form": "rise [come] to fame",
+      "meaning": "有名になる"
+    },
+    {
+      "form": "fame and fortune",
+      "meaning": "富と名声"
+    },
+    {
+      "form": "A's claim to fame",
+      "meaning": "Aの唯一の自慢"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "有名になる",
+      "en": "She rose to fame after the movie.",
+      "ja": "その映画のあと彼女は有名になった。"
+    },
+    {
+      "source": "original",
+      "label": "富と名声",
+      "en": "He went to Tokyo in search of fame and fortune.",
+      "ja": "彼は富と名声を求めて東京へ行った。"
+    },
+    {
+      "source": "original",
+      "label": "名声",
+      "en": "Fame did not make him happy.",
+      "ja": "名声は彼を幸せにはしなかった。"
+    },
+    {
+      "source": "original",
+      "label": "自慢",
+      "en": "My claim to fame is that I once met the Prime Minister.",
+      "ja": "私の唯一の自慢は首相に会ったことがあることだ。"
+    },
+    {
+      "source": "original",
+      "label": "世界的",
+      "en": "The band achieved international fame.",
+      "ja": "そのバンドは国際的な名声を得た。"
+    },
+    {
+      "source": "original",
+      "label": "代償",
+      "en": "Fame often comes at a price.",
+      "ja": "名声にはしばしば代償がともなう。"
+    }
+  ],
+  "check_points": [
+    "fame と reputation のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "rise to fame が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1847
+    }
+  ]
+}

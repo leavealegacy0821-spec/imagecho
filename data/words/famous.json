@@ -1,0 +1,93 @@
+{
+  "word": "famous",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈfeɪməs/",
+  "core_image": {
+    "text": "多くの人に名前を知られている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><circle cx=\"60\" cy=\"60\" r=\"10\"/><circle cx=\"180\" cy=\"60\" r=\"10\"/><circle cx=\"40\" cy=\"100\" r=\"10\"/><circle cx=\"200\" cy=\"100\" r=\"10\"/><line x1=\"70\" y1=\"64\" x2=\"104\" y2=\"56\"/><line x1=\"170\" y1=\"64\" x2=\"136\" y2=\"56\"/></g><text x=\"120\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">有名</text></svg>"
+  },
+  "etymology": "ラテン語 fama(うわさ・評判) + -ous(〜に満ちた) → 評判に満ちた → 有名な",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "known about by many people."
+    }
+  ],
+  "cautions": [
+    "be famous for A=Aで有名だ(理由)/be famous as A=Aとして有名だ(立場)",
+    "famous=よいことで有名/notorious=悪いことで有名",
+    "well-known=よく知られた(famous より少し弱い)",
+    "fame=名声"
+  ],
+  "patterns": [
+    {
+      "form": "be famous for A",
+      "meaning": "Aで有名だ"
+    },
+    {
+      "form": "be famous as A",
+      "meaning": "Aとして有名だ"
+    },
+    {
+      "form": "world-famous",
+      "meaning": "世界的に有名な"
+    },
+    {
+      "form": "fame",
+      "meaning": "名声"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "〜で有名",
+      "en": "Kyoto is famous for its old temples.",
+      "ja": "京都は古い寺で有名だ。"
+    },
+    {
+      "source": "original",
+      "label": "〜として",
+      "en": "He is famous as a writer.",
+      "ja": "彼は作家として有名だ。"
+    },
+    {
+      "source": "original",
+      "label": "世界的",
+      "en": "She is a world-famous pianist.",
+      "ja": "彼女は世界的に有名なピアニストだ。"
+    },
+    {
+      "source": "original",
+      "label": "名声",
+      "en": "He gained fame after his first novel.",
+      "ja": "彼は最初の小説で名声を得た。"
+    },
+    {
+      "source": "original",
+      "label": "有名になる",
+      "en": "She became famous overnight.",
+      "ja": "彼女は一夜にして有名になった。"
+    },
+    {
+      "source": "original",
+      "label": "有名人",
+      "en": "Many famous people attended the party.",
+      "ja": "そのパーティーには多くの有名人が来た。"
+    }
+  ],
+  "check_points": [
+    "famous for と famous as のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "be famous for / as の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1841
+    }
+  ]
+}

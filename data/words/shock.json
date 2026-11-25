@@ -1,0 +1,98 @@
+{
+  "word": "shock",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ʃɑːk/",
+  "core_image": {
+    "text": "どんと強くぶつかって、心をゆさぶる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"80\" cy=\"80\" r=\"30\"/><circle cx=\"72\" cy=\"74\" r=\"4\"/><circle cx=\"90\" cy=\"74\" r=\"4\"/><ellipse cx=\"80\" cy=\"94\" rx=\"5\" ry=\"6\"/><polyline points=\"170,20 140,70 170,70 130,140\"/></g><text x=\"200\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どーん</text></svg>"
+  },
+  "etymology": "フランス語 choc(激しくぶつかること) → 激しい衝撃 → (心への)ショック・ぎょっとさせる → (電気の)ショック",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a sudden unpleasant surprise; a violent force from a hit or explosion; a feeling caused by electricity."
+    },
+    {
+      "pos": "動詞",
+      "text": "to surprise and upset someone very much."
+    }
+  ],
+  "cautions": [
+    "surprise=(よい・悪い)驚き/shock=(悪いことで)強い衝撃・ショック",
+    "be shocked at [by] A=Aにショックを受ける",
+    "come as a shock to A=Aにとってショックだ",
+    "shocking=ショッキングな"
+  ],
+  "patterns": [
+    {
+      "form": "be shocked at [by] A",
+      "meaning": "Aにショックを受ける"
+    },
+    {
+      "form": "come as a shock (to A)",
+      "meaning": "(Aにとって)ショックだ"
+    },
+    {
+      "form": "in shock",
+      "meaning": "ショック状態で"
+    },
+    {
+      "form": "an electric shock",
+      "meaning": "感電"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ショック",
+      "en": "The news came as a shock to everyone.",
+      "ja": "その知らせはみんなにとってショックだった。"
+    },
+    {
+      "source": "original",
+      "label": "ショックを受ける",
+      "en": "We were shocked by his sudden death.",
+      "ja": "彼の突然の死に私たちはショックを受けた。"
+    },
+    {
+      "source": "original",
+      "label": "ぼうぜん",
+      "en": "She was still in shock after the accident.",
+      "ja": "事故のあと彼女はまだショック状態だった。"
+    },
+    {
+      "source": "original",
+      "label": "感電",
+      "en": "I got an electric shock from the plug.",
+      "ja": "プラグで感電した。"
+    },
+    {
+      "source": "original",
+      "label": "衝撃",
+      "en": "The shock of the explosion broke the windows.",
+      "ja": "爆発の衝撃で窓が割れた。"
+    },
+    {
+      "source": "original",
+      "label": "ひどい",
+      "en": "The prices were shocking.",
+      "ja": "値段はひどいものだった。"
+    }
+  ],
+  "check_points": [
+    "surprise と shock のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "come as a shock、be shocked at が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1839
+    }
+  ]
+}
