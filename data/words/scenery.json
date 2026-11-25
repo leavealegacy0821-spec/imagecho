@@ -1,0 +1,93 @@
+{
+  "word": "scenery",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈsiːnəri/",
+  "core_image": {
+    "text": "あたりをいろどる、自然の美しい景色",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"15,140 70,70 110,110 160,50 225,130\"/><circle cx=\"60\" cy=\"34\" r=\"12\"/><path d=\"M130 100 q10 -16 20 0\"/><path d=\"M170 110 q10 -16 20 0\"/></g><text x=\"190\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">美しい景色</text></svg>"
+  },
+  "etymology": "scene(場面・光景)+ery(集まり) → 舞台の背景(書き割り) → (地域全体の)自然の景色・風景",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the natural features of an area, such as mountains and forests, especially when they are beautiful; the painted background on a stage."
+    }
+  ],
+  "cautions": [
+    "scenery は不可算(× a scenery, × sceneries)",
+    "scene=ひと場面(可算)/scenery=あたり一帯の自然の景色",
+    "beautiful [mountain] scenery=美しい[山の]景色",
+    "a change of scenery=気分転換(環境を変えること)"
+  ],
+  "patterns": [
+    {
+      "form": "beautiful scenery",
+      "meaning": "美しい景色"
+    },
+    {
+      "form": "mountain scenery",
+      "meaning": "山の景色"
+    },
+    {
+      "form": "enjoy the scenery",
+      "meaning": "景色を楽しむ"
+    },
+    {
+      "form": "a change of scenery",
+      "meaning": "気分転換"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "景色",
+      "en": "The scenery in Hokkaido is beautiful.",
+      "ja": "北海道の景色は美しい。"
+    },
+    {
+      "source": "original",
+      "label": "景色を楽しむ",
+      "en": "We stopped to enjoy the scenery.",
+      "ja": "私たちは止まって景色を楽しんだ。"
+    },
+    {
+      "source": "original",
+      "label": "気分転換",
+      "en": "I need a change of scenery.",
+      "ja": "気分転換が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "景色",
+      "en": "The train passes through some amazing scenery.",
+      "ja": "その電車はすばらしい景色の中を走る。"
+    },
+    {
+      "source": "original",
+      "label": "舞台装置",
+      "en": "The students painted the scenery for the play.",
+      "ja": "生徒たちは劇の背景を描いた。"
+    },
+    {
+      "source": "original",
+      "label": "風景",
+      "en": "The mountain scenery took my breath away.",
+      "ja": "山の景色に息をのんだ。"
+    }
+  ],
+  "check_points": [
+    "scenery が不可算であることがわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "scenery(不可算)が文法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1655
+    }
+  ]
+}

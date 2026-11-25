@@ -1,0 +1,98 @@
+{
+  "word": "image",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈɪmɪdʒ/",
+  "core_image": {
+    "text": "目や心に映る、かたちの写し",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"60\" width=\"40\" height=\"80\"/><polygon points=\"26,60 50,40 74,60\"/><rect x=\"130\" y=\"40\" width=\"80\" height=\"60\"/><rect x=\"156\" y=\"62\" width=\"20\" height=\"30\" stroke-dasharray=\"3 3\"/><polygon points=\"152,62 166,50 180,62\" stroke-dasharray=\"3 3\"/><line x1=\"76\" y1=\"80\" x2=\"126\" y2=\"70\" stroke-dasharray=\"5 5\"/><polyline points=\"118.4,67.6 126,70 119.9,75.1\"/></g><text x=\"170\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">映ったかたち</text></svg>"
+  },
+  "etymology": "ラテン語 imago(写し・像。imitate・imagine と同じ根) → 似せた像・写し → (写真・画面の)画像・(心の中の)イメージ → (人・会社の)印象・評判",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a picture, photograph or a picture on a screen; a picture in your mind; the way a person or organization is seen by others."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make a picture of something."
+    }
+  ],
+  "cautions": [
+    "picture=絵・写真/image=画像・心に描く像・(世間の)イメージ・評判",
+    "improve [damage] one's image=イメージを高める[傷つける]",
+    "a public image=世間の印象",
+    "imagine=想像する(同じ根)"
+  ],
+  "patterns": [
+    {
+      "form": "an image of A",
+      "meaning": "Aの画像・イメージ"
+    },
+    {
+      "form": "a public image",
+      "meaning": "世間のイメージ"
+    },
+    {
+      "form": "improve one's image",
+      "meaning": "イメージを高める"
+    },
+    {
+      "form": "the very image of A",
+      "meaning": "Aにそっくり"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "イメージ",
+      "en": "The scandal damaged the company's image.",
+      "ja": "その不祥事は会社のイメージを傷つけた。"
+    },
+    {
+      "source": "original",
+      "label": "画像",
+      "en": "The camera takes very clear images.",
+      "ja": "そのカメラはとても鮮明な画像を撮る。"
+    },
+    {
+      "source": "original",
+      "label": "イメージ",
+      "en": "I have a clear image of my grandmother's house.",
+      "ja": "祖母の家がはっきり目に浮かぶ。"
+    },
+    {
+      "source": "original",
+      "label": "世間の",
+      "en": "The singer cares a lot about her public image.",
+      "ja": "その歌手は世間のイメージをとても気にしている。"
+    },
+    {
+      "source": "original",
+      "label": "そっくり",
+      "en": "He is the very image of his father.",
+      "ja": "彼は父親にそっくりだ。"
+    },
+    {
+      "source": "original",
+      "label": "映像",
+      "en": "Images of the disaster were shown on TV.",
+      "ja": "災害の映像がテレビで流れた。"
+    }
+  ],
+  "check_points": [
+    "image の意味(画像・イメージ・評判)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "image が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1651
+    }
+  ]
+}

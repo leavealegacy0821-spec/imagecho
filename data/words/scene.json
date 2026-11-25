@@ -1,0 +1,98 @@
+{
+  "word": "scene",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/siːn/",
+  "core_image": {
+    "text": "舞台のように目の前に広がる、ひと場面",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"30\" width=\"180\" height=\"100\"/><path d=\"M30 30 Q60 50 50 130\"/><path d=\"M210 30 Q180 50 190 130\"/><circle cx=\"120\" cy=\"42\" r=\"10\"/><line x1=\"120\" y1=\"52\" x2=\"120\" y2=\"96\"/><line x1=\"120\" y1=\"96\" x2=\"110\" y2=\"130\"/><line x1=\"120\" y1=\"96\" x2=\"130\" y2=\"130\"/><line x1=\"120\" y1=\"64\" x2=\"100\" y2=\"52\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひと場面</text></svg>"
+  },
+  "etymology": "ギリシャ語 skēnē(テント・舞台の背景) → 舞台・場面 → (出来事の)現場(the scene of the crime) → (目の前の)光景・眺め → (〜の)世界・業界(the music scene)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a part of a play or film; the place where something happens; a view; a particular area of activity."
+    }
+  ],
+  "cautions": [
+    "scenery=(ある地域全体の自然の)景色(不可算)/scene=(目の前の)ひと場面・光景・現場(可算)",
+    "the scene of the accident=事故現場",
+    "behind the scenes=舞台裏で・ひそかに",
+    "make a scene=(人前で)騒ぎ立てる"
+  ],
+  "patterns": [
+    {
+      "form": "the scene of A",
+      "meaning": "Aの現場"
+    },
+    {
+      "form": "behind the scenes",
+      "meaning": "裏で"
+    },
+    {
+      "form": "make a scene",
+      "meaning": "大騒ぎする"
+    },
+    {
+      "form": "the music scene",
+      "meaning": "音楽の世界"
+    },
+    {
+      "form": "a scene from A",
+      "meaning": "Aの一場面"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "現場",
+      "en": "The police arrived at the scene of the accident.",
+      "ja": "警察が事故現場に到着した。"
+    },
+    {
+      "source": "original",
+      "label": "場面",
+      "en": "This is my favorite scene in the movie.",
+      "ja": "これが映画でいちばん好きな場面だ。"
+    },
+    {
+      "source": "original",
+      "label": "裏で",
+      "en": "Many people work behind the scenes.",
+      "ja": "多くの人が裏方として働いている。"
+    },
+    {
+      "source": "original",
+      "label": "騒ぎ立てる",
+      "en": "Please don't make a scene in the restaurant.",
+      "ja": "レストランで騒ぎを起こさないで。"
+    },
+    {
+      "source": "original",
+      "label": "光景",
+      "en": "The scene from the window was beautiful.",
+      "ja": "窓からの光景は美しかった。"
+    },
+    {
+      "source": "original",
+      "label": "世界",
+      "en": "She is a big name in the fashion scene.",
+      "ja": "彼女はファッション界の大物だ。"
+    }
+  ],
+  "check_points": [
+    "scene と scenery のちがいを言えるか",
+    "behind the scenes の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "scene / scenery の区別、behind the scenes が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1653
+    }
+  ]
+}

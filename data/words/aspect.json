@@ -1,0 +1,93 @@
+{
+  "word": "aspect",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈæspekt/",
+  "core_image": {
+    "text": "見る方向によってちがって見える、ひとつの面",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon points=\"120,40 170,70 170,120 120,140 70,120 70,70\"/><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"90\"/><line x1=\"70\" y1=\"70\" x2=\"120\" y2=\"90\"/><line x1=\"170\" y1=\"70\" x2=\"120\" y2=\"90\"/><line x1=\"120\" y1=\"90\" x2=\"120\" y2=\"140\"/><line x1=\"30\" y1=\"40\" x2=\"66\" y2=\"66\"/><polyline points=\"62.6,58.8 66,66 58.1,65\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひとつの面</text></svg>"
+  },
+  "etymology": "a(〜へ)+spect(見る。inspect・respect と同じ根) → 〜へ目を向けること → (見る方向から見た)様子・面・側面 → (問題の)観点",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "one part or feature of a situation, problem or subject; the way something looks."
+    }
+  ],
+  "cautions": [
+    "part=部分/aspect=(問題・物事の)ある一面・側面(見る角度で変わる)",
+    "every aspect of A=Aのあらゆる面",
+    "an important aspect of A=Aの重要な一面",
+    "side=(対立する)側"
+  ],
+  "patterns": [
+    {
+      "form": "an aspect of A",
+      "meaning": "Aの一面"
+    },
+    {
+      "form": "every aspect of A",
+      "meaning": "Aのあらゆる面"
+    },
+    {
+      "form": "in all aspects",
+      "meaning": "あらゆる面で"
+    },
+    {
+      "form": "the positive aspect",
+      "meaning": "よい面"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "一面",
+      "en": "Money is only one aspect of the problem.",
+      "ja": "お金は問題の一面にすぎない。"
+    },
+    {
+      "source": "original",
+      "label": "あらゆる面",
+      "en": "Technology affects every aspect of our lives.",
+      "ja": "技術は生活のあらゆる面に影響している。"
+    },
+    {
+      "source": "original",
+      "label": "側面",
+      "en": "We must consider the social aspects of the plan.",
+      "ja": "計画の社会的な側面を考えなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "面",
+      "en": "The best aspect of this job is the people.",
+      "ja": "この仕事のいちばんよい面は人間関係だ。"
+    },
+    {
+      "source": "original",
+      "label": "観点",
+      "en": "Let's look at the issue from a different aspect.",
+      "ja": "その問題を別の観点から見てみよう。"
+    },
+    {
+      "source": "original",
+      "label": "面",
+      "en": "Learning a language has many aspects.",
+      "ja": "言語の習得にはいろいろな面がある。"
+    }
+  ],
+  "check_points": [
+    "aspect の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "every aspect of が長文で多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1650
+    }
+  ]
+}

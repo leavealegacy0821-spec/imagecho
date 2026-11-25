@@ -1,0 +1,93 @@
+{
+  "word": "appearance",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/əˈpɪrəns/",
+  "core_image": {
+    "text": "外に見えてくる姿、あらわれること",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"120\" y=\"40\" width=\"80\" height=\"100\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"90\" y1=\"74\" x2=\"76\" y2=\"96\"/><line x1=\"90\" y1=\"74\" x2=\"104\" y2=\"96\"/><line x1=\"150\" y1=\"90\" x2=\"110\" y2=\"90\"/><polyline points=\"117,93.8 110,90 117,86.2\"/></g><text x=\"60\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あらわれる・見た目</text></svg>"
+  },
+  "etymology": "appear(現れる・〜に見える。ap=〜へ+parere=見えてくる)の名詞 → 姿を現すこと・出現・出演 → 外から見える様子=見た目・外見",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the way someone or something looks; the act of arriving or being seen; an act of performing in public."
+    }
+  ],
+  "cautions": [
+    "look=見た目(口語)/appearance=外見・見かけ(やや堅い)・出現・出演",
+    "judge by appearances=見かけで判断する",
+    "make an appearance=姿を見せる・出演する",
+    "to all appearances=見たところ"
+  ],
+  "patterns": [
+    {
+      "form": "judge by appearances",
+      "meaning": "見かけで判断する"
+    },
+    {
+      "form": "make an appearance",
+      "meaning": "姿を見せる・出演する"
+    },
+    {
+      "form": "the appearance of A",
+      "meaning": "Aの出現"
+    },
+    {
+      "form": "change one's appearance",
+      "meaning": "見た目を変える"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "見かけ",
+      "en": "Don't judge people by their appearance.",
+      "ja": "人を見かけで判断してはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "出現",
+      "en": "The appearance of smartphones changed our lives.",
+      "ja": "スマートフォンの登場で生活が変わった。"
+    },
+    {
+      "source": "original",
+      "label": "出演",
+      "en": "The actor made a short appearance in the movie.",
+      "ja": "その俳優は映画にちょっとだけ出演した。"
+    },
+    {
+      "source": "original",
+      "label": "外見",
+      "en": "She changed her appearance by cutting her hair.",
+      "ja": "彼女は髪を切って見た目を変えた。"
+    },
+    {
+      "source": "original",
+      "label": "姿を見せる",
+      "en": "He finally made an appearance at ten o'clock.",
+      "ja": "彼は10時にやっと姿を見せた。"
+    },
+    {
+      "source": "original",
+      "label": "見たところ",
+      "en": "To all appearances, they are happy.",
+      "ja": "見たところ、彼らは幸せそうだ。"
+    }
+  ],
+  "check_points": [
+    "appearance の意味(外見・出現・出演)を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "judge by appearances が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1649
+    }
+  ]
+}

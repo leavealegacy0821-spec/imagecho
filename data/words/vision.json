@@ -1,0 +1,93 @@
+{
+  "word": "vision",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈvɪʒn/",
+  "core_image": {
+    "text": "目で見る力、心で見る将来の姿",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"60\" cy=\"80\" rx=\"24\" ry=\"14\"/><circle cx=\"60\" cy=\"80\" r=\"6\"/><line x1=\"88\" y1=\"80\" x2=\"140\" y2=\"60\" stroke-dasharray=\"5 5\"/><polyline points=\"132.1,58.9 140,60 134.8,66.1\"/><rect x=\"140\" y=\"30\" width=\"70\" height=\"50\" stroke-dasharray=\"4 4\"/><polygon points=\"160,60 175,40 190,60\" stroke-dasharray=\"4 4\"/></g><text x=\"150\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見る力・将来の姿</text></svg>"
+  },
+  "etymology": "ラテン語 visio(見ること。videre=見る:visible・video と同じ根) → 視力・見ること → 心に見えるもの=幻・空想 → 将来の見通し・ビジョン",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the ability to see; an idea of what the future could be like; a picture in your mind."
+    }
+  ],
+  "cautions": [
+    "sight=視力・見えること(日常)/vision=視力(やや堅い)・将来像・先見の明",
+    "have good [poor] vision=目がよい[悪い]",
+    "a vision of A=Aの将来像",
+    "a person of vision=先見の明のある人"
+  ],
+  "patterns": [
+    {
+      "form": "have good vision",
+      "meaning": "目がよい"
+    },
+    {
+      "form": "a vision for A",
+      "meaning": "Aの将来像"
+    },
+    {
+      "form": "a person of vision",
+      "meaning": "先見の明のある人"
+    },
+    {
+      "form": "field of vision",
+      "meaning": "視野"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "視力",
+      "en": "Eagles have excellent vision.",
+      "ja": "ワシはすばらしい視力をもっている。"
+    },
+    {
+      "source": "original",
+      "label": "将来像",
+      "en": "The president shared his vision for the country.",
+      "ja": "大統領は国の将来像を語った。"
+    },
+    {
+      "source": "original",
+      "label": "先見の明",
+      "en": "She is a leader of great vision.",
+      "ja": "彼女は先見の明のあるリーダーだ。"
+    },
+    {
+      "source": "original",
+      "label": "視野",
+      "en": "The car moved out of my field of vision.",
+      "ja": "その車は私の視野から消えた。"
+    },
+    {
+      "source": "original",
+      "label": "心に描く",
+      "en": "I had a vision of myself as a teacher.",
+      "ja": "私は教師になった自分の姿を思い描いた。"
+    },
+    {
+      "source": "original",
+      "label": "見えにくい",
+      "en": "He has poor vision in one eye.",
+      "ja": "彼は片目が見えにくい。"
+    }
+  ],
+  "check_points": [
+    "vision の2つの意味(視力・将来像)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "vision が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1657
+    }
+  ]
+}
