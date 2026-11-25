@@ -1,0 +1,98 @@
+{
+  "word": "rattle",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈrætl/",
+  "core_image": {
+    "text": "がたがたと、小刻みにぶつかって鳴る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"70\" y=\"50\" width=\"100\" height=\"70\"/><circle cx=\"96\" cy=\"86\" r=\"6\"/><circle cx=\"120\" cy=\"76\" r=\"6\"/><circle cx=\"144\" cy=\"94\" r=\"6\"/><polyline points=\"60,50 54,56 60,62\"/><polyline points=\"180,50 186,56 180,62\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">がたがた</text></svg>"
+  },
+  "etymology": "中英語 ratelen(がたがた鳴る。音をまねた語) → がたがた音を立てる・揺さぶる → (人を)動揺させる → (名詞)がらがら(おもちゃ)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make a series of short knocking sounds; to make someone nervous or worried."
+    },
+    {
+      "pos": "名詞",
+      "text": "a series of short knocking sounds; a baby's toy that makes a noise when shaken."
+    }
+  ],
+  "cautions": [
+    "rattle=小さなものが何度もぶつかってがたがた鳴る(窓・びん・車)",
+    "rattle off A=Aをすらすら並べ立てる",
+    "be rattled=動揺する",
+    "a baby's rattle=赤ちゃんのがらがら"
+  ],
+  "patterns": [
+    {
+      "form": "A rattles",
+      "meaning": "Aががたがた鳴る"
+    },
+    {
+      "form": "rattle off A",
+      "meaning": "Aをすらすら言う"
+    },
+    {
+      "form": "be rattled",
+      "meaning": "動揺する"
+    },
+    {
+      "form": "a rattle",
+      "meaning": "がらがら"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "がたがた鳴る",
+      "en": "The windows rattled in the wind.",
+      "ja": "風で窓ががたがた鳴った。"
+    },
+    {
+      "source": "original",
+      "label": "すらすら言う",
+      "en": "She rattled off the names of all the planets.",
+      "ja": "彼女は惑星の名前をすらすら言った。"
+    },
+    {
+      "source": "original",
+      "label": "動揺する",
+      "en": "He was clearly rattled by the question.",
+      "ja": "彼はその質問に明らかに動揺していた。"
+    },
+    {
+      "source": "original",
+      "label": "がらがら",
+      "en": "The baby was playing with a rattle.",
+      "ja": "赤ちゃんはがらがらで遊んでいた。"
+    },
+    {
+      "source": "original",
+      "label": "がたがた",
+      "en": "The old car rattled along the road.",
+      "ja": "古い車ががたがたと道を走った。"
+    },
+    {
+      "source": "original",
+      "label": "がたがたいう音",
+      "en": "I heard a strange rattle in the engine.",
+      "ja": "エンジンから妙ながたがたいう音がした。"
+    }
+  ],
+  "check_points": [
+    "rattle off の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "音の動詞の使い分けで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1407
+    }
+  ]
+}

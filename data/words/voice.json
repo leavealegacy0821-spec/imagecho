@@ -1,0 +1,103 @@
+{
+  "word": "voice",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/vɔɪs/",
+  "core_image": {
+    "text": "人の口から出る声、そして意見",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"96\"/><path d=\"M80 50 Q90 40 100 50\"/><path d=\"M80 44 Q96 28 112 44\"/></g><text x=\"170\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">声・意見</text></svg>"
+  },
+  "etymology": "ラテン語 vox(声。vocal・vocabulary と同じ根) → 人の声 → (意見を言う)発言権・声 → (動詞)(意見を)口に出す",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the sounds that you make when you speak or sing; the right to express your opinion."
+    },
+    {
+      "pos": "動詞",
+      "text": "to express your opinion or feelings."
+    }
+  ],
+  "cautions": [
+    "sound=音(広い)/voice=人の声(歌声・話し声)",
+    "in a loud [low] voice=大きな[低い]声で(前置詞 in)",
+    "have a voice in A=Aに発言権がある",
+    "voice one's opinion=意見を述べる"
+  ],
+  "patterns": [
+    {
+      "form": "in a loud voice",
+      "meaning": "大きな声で"
+    },
+    {
+      "form": "raise one's voice",
+      "meaning": "声を荒らげる"
+    },
+    {
+      "form": "have a voice in A",
+      "meaning": "Aに発言権がある"
+    },
+    {
+      "form": "voice one's opinion",
+      "meaning": "意見を述べる"
+    },
+    {
+      "form": "lose one's voice",
+      "meaning": "声が出なくなる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "声",
+      "en": "She has a beautiful voice.",
+      "ja": "彼女は美しい声をしている。"
+    },
+    {
+      "source": "original",
+      "label": "大きな声で",
+      "en": "Please speak in a loud voice.",
+      "ja": "大きな声で話してください。"
+    },
+    {
+      "source": "original",
+      "label": "声を荒らげる",
+      "en": "Don't raise your voice at me.",
+      "ja": "私に声を荒らげないで。"
+    },
+    {
+      "source": "original",
+      "label": "発言権",
+      "en": "Students should have a voice in school rules.",
+      "ja": "生徒は校則について発言権をもつべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "述べる",
+      "en": "Many people voiced their concerns about the plan.",
+      "ja": "多くの人がその計画への懸念を口にした。"
+    },
+    {
+      "source": "original",
+      "label": "声が出ない",
+      "en": "I lost my voice after the concert.",
+      "ja": "コンサートのあと声が出なくなった。"
+    }
+  ],
+  "check_points": [
+    "in a ... voice の前置詞を言えるか",
+    "have a voice in A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "in a loud voice、have a voice in が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1402
+    }
+  ]
+}

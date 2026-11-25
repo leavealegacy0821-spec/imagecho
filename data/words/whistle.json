@@ -1,0 +1,99 @@
+{
+  "word": "whistle",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈwɪsl/",
+  "core_image": {
+    "text": "すぼめた口や笛から、ピーッと鋭い音",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"58\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><rect x=\"74\" y=\"44\" width=\"20\" height=\"8\"/><path d=\"M100 44 q10 -8 20 0 t20 0 t20 0\"/></g><text x=\"180\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ピーッ</text></svg>"
+  },
+  "etymology": "古い英語 hwistlian(口笛を吹く。音をまねた語) → 口笛・笛を吹く → (風・やかんが)ピーッと鳴る → blow the whistle on A=Aを告発する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a small object that makes a high sound when you blow it; the high sound made by blowing through your lips."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make a high sound by blowing through your lips or a whistle."
+    }
+  ],
+  "cautions": [
+    "whistle=口笛・笛(の音)",
+    "blow a whistle=笛を吹く",
+    "blow the whistle on A=A(不正)を告発する/whistle-blower=内部告発者",
+    "t は発音しない(ウィスル)"
+  ],
+  "patterns": [
+    {
+      "form": "blow a whistle",
+      "meaning": "笛を吹く"
+    },
+    {
+      "form": "whistle a tune",
+      "meaning": "口笛で曲を吹く"
+    },
+    {
+      "form": "blow the whistle on A",
+      "meaning": "Aを告発する"
+    },
+    {
+      "form": "a whistle-blower",
+      "meaning": "内部告発者"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "笛を吹く",
+      "en": "The referee blew the whistle.",
+      "ja": "審判が笛を吹いた。"
+    },
+    {
+      "source": "original",
+      "label": "口笛",
+      "en": "He was whistling a happy tune.",
+      "ja": "彼は楽しい曲を口笛で吹いていた。"
+    },
+    {
+      "source": "original",
+      "label": "ピーッと鳴る",
+      "en": "The kettle whistled on the stove.",
+      "ja": "コンロの上でやかんがピーッと鳴った。"
+    },
+    {
+      "source": "original",
+      "label": "告発する",
+      "en": "She blew the whistle on her company's illegal activities.",
+      "ja": "彼女は会社の違法行為を告発した。"
+    },
+    {
+      "source": "original",
+      "label": "内部告発者",
+      "en": "The whistle-blower was protected by law.",
+      "ja": "内部告発者は法律で守られた。"
+    },
+    {
+      "source": "original",
+      "label": "ひゅうひゅう",
+      "en": "The wind whistled through the window.",
+      "ja": "風が窓からひゅうひゅう吹きこんだ。"
+    }
+  ],
+  "check_points": [
+    "blow the whistle on A の意味を言えるか",
+    "whistle の t を読まないことがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "whistle-blower が時事で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1405
+    }
+  ]
+}

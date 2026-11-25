@@ -1,0 +1,98 @@
+{
+  "word": "echo",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈekoʊ/",
+  "core_image": {
+    "text": "はね返って、もう一度ひびいてくる音",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><polyline points=\"160,140 160,40 220,40\"/><path d=\"M60 60 Q70 50 80 60\"/><path d=\"M90 56 Q104 42 118 56\"/><path d=\"M150 70 Q140 60 130 70\" stroke-dasharray=\"3 3\"/><path d=\"M122 80 Q108 66 94 80\" stroke-dasharray=\"3 3\"/></g><text x=\"110\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">はね返る</text></svg>"
+  },
+  "etymology": "ギリシャ語 ēchō(音・こだま。森の精エーコーの名) → こだま・反響 → (意見・考えを)くり返す・反映する → (名詞)共鳴・名残",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a sound that is heard again because it hits a surface and comes back; a detail that is similar to something else."
+    },
+    {
+      "pos": "動詞",
+      "text": "(of a sound) to be repeated; to repeat what someone else has said."
+    }
+  ],
+  "cautions": [
+    "echo=はね返ってくる音・こだま",
+    "動詞 A echoes=Aがひびきわたる",
+    "比ゆ:echo A's words=Aのことばをくり返す・同じ意見を言う",
+    "複数形 echoes"
+  ],
+  "patterns": [
+    {
+      "form": "A echoes",
+      "meaning": "Aがひびく"
+    },
+    {
+      "form": "echo through A",
+      "meaning": "Aにひびきわたる"
+    },
+    {
+      "form": "echo A's words",
+      "meaning": "Aのことばをくり返す"
+    },
+    {
+      "form": "an echo of A",
+      "meaning": "Aの名残"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "こだま",
+      "en": "We shouted and heard our echo in the mountains.",
+      "ja": "山で叫ぶとこだまが返ってきた。"
+    },
+    {
+      "source": "original",
+      "label": "ひびきわたる",
+      "en": "Her laughter echoed through the empty hall.",
+      "ja": "彼女の笑い声ががらんとしたホールにひびきわたった。"
+    },
+    {
+      "source": "original",
+      "label": "くり返す",
+      "en": "The students echoed the teacher's words.",
+      "ja": "生徒たちは先生のことばをくり返した。"
+    },
+    {
+      "source": "original",
+      "label": "同じ意見",
+      "en": "Many experts echoed his warning.",
+      "ja": "多くの専門家が彼と同じ警告をした。"
+    },
+    {
+      "source": "original",
+      "label": "名残",
+      "en": "The design has echoes of traditional Japanese art.",
+      "ja": "そのデザインには伝統的な日本美術の名残がある。"
+    },
+    {
+      "source": "original",
+      "label": "反響する",
+      "en": "Footsteps echoed in the tunnel.",
+      "ja": "トンネルに足音が反響した。"
+    }
+  ],
+  "check_points": [
+    "echo の比ゆ(くり返す・同じ意見を言う)がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "echo(反響・共鳴)が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1403
+    }
+  ]
+}

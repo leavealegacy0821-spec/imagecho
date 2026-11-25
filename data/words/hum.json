@@ -1,0 +1,98 @@
+{
+  "word": "hum",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/hʌm/",
+  "core_image": {
+    "text": "口を閉じて、ぶーんと低くうなる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"96\"/><path d=\"M80 56 q6 -6 12 0 t12 0 t12 0\"/><rect x=\"150\" y=\"80\" width=\"50\" height=\"60\"/><path d=\"M150 70 q8 -6 16 0 t16 0 t16 0\"/></g><text x=\"110\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふんふん</text></svg>"
+  },
+  "etymology": "中英語 hummen(ぶーんと鳴る。音をまねた語) → 口を閉じて歌う=鼻歌を歌う → (機械・ハチが)ぶーんとうなる → (場所が)活気づく",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to sing a tune with your lips closed; to make a low continuous sound."
+    },
+    {
+      "pos": "名詞",
+      "text": "a low continuous sound."
+    }
+  ],
+  "cautions": [
+    "buzz=(ハチ・ブザーが)ブンブン・ジーッ/hum=口を閉じた鼻歌・(機械の)低いうなり",
+    "hum a tune=鼻歌を歌う",
+    "the hum of traffic=車の低いざわめき",
+    "hum with activity=活気にあふれる"
+  ],
+  "patterns": [
+    {
+      "form": "hum a tune",
+      "meaning": "鼻歌を歌う"
+    },
+    {
+      "form": "A hums",
+      "meaning": "Aがぶーんとうなる"
+    },
+    {
+      "form": "the hum of A",
+      "meaning": "Aの低いうなり"
+    },
+    {
+      "form": "hum with activity",
+      "meaning": "活気にあふれる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "鼻歌",
+      "en": "She was humming a song while cooking.",
+      "ja": "彼女は料理しながら鼻歌を歌っていた。"
+    },
+    {
+      "source": "original",
+      "label": "うなる",
+      "en": "The refrigerator hummed quietly.",
+      "ja": "冷蔵庫が静かにうなっていた。"
+    },
+    {
+      "source": "original",
+      "label": "ざわめき",
+      "en": "I could hear the hum of traffic outside.",
+      "ja": "外の車のざわめきが聞こえた。"
+    },
+    {
+      "source": "original",
+      "label": "活気にあふれる",
+      "en": "The market was humming with activity.",
+      "ja": "市場は活気にあふれていた。"
+    },
+    {
+      "source": "original",
+      "label": "鼻歌",
+      "en": "If you don't know the words, just hum.",
+      "ja": "歌詞を知らなければ鼻歌でいいよ。"
+    },
+    {
+      "source": "original",
+      "label": "ぶーん",
+      "en": "Bees hummed among the flowers.",
+      "ja": "ハチが花の間でぶーんと飛んでいた。"
+    }
+  ],
+  "check_points": [
+    "buzz と hum のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "hum a tune が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1410
+    }
+  ]
+}

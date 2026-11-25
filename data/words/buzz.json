@@ -1,0 +1,98 @@
+{
+  "word": "buzz",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/bʌz/",
+  "core_image": {
+    "text": "ブーンと低くうなる、ざわざわした音",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"120\" cy=\"80\" rx=\"16\" ry=\"10\"/><ellipse cx=\"112\" cy=\"66\" rx=\"8\" ry=\"10\"/><ellipse cx=\"128\" cy=\"66\" rx=\"8\" ry=\"10\"/><path d=\"M40 80 q8 -8 16 0 t16 0 t16 0\"/><path d=\"M150 80 q8 -8 16 0 t16 0 t16 0\"/></g><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ブーン</text></svg>"
+  },
+  "etymology": "ハチの羽音をまねた語 → ブーンという音を立てる → (場所が)活気でざわつく(buzz with excitement) → (名詞)うわさ・興奮・ブザー",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make a low continuous sound like a bee; (of a place) to be full of activity and excitement."
+    },
+    {
+      "pos": "名詞",
+      "text": "a low continuous sound; a feeling of excitement; rumors."
+    }
+  ],
+  "cautions": [
+    "hum=低くぶーんと鳴る(機械・鼻歌)/buzz=(ハチ・ブザーが)ブンブン・ジーッと鳴る",
+    "buzz with A=Aでざわつく・活気づく",
+    "名詞 buzz=活気・うわさ/a buzz of conversation=話し声のざわめき",
+    "buzzer=ブザー"
+  ],
+  "patterns": [
+    {
+      "form": "A buzzes",
+      "meaning": "Aがブンブン鳴る"
+    },
+    {
+      "form": "buzz with A",
+      "meaning": "Aで活気づく"
+    },
+    {
+      "form": "a buzz of A",
+      "meaning": "Aのざわめき"
+    },
+    {
+      "form": "create a buzz",
+      "meaning": "話題になる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ブンブン",
+      "en": "Bees were buzzing around the flowers.",
+      "ja": "ハチが花のまわりをブンブン飛んでいた。"
+    },
+    {
+      "source": "original",
+      "label": "活気づく",
+      "en": "The room was buzzing with excitement.",
+      "ja": "部屋は興奮でざわついていた。"
+    },
+    {
+      "source": "original",
+      "label": "ざわめき",
+      "en": "There was a buzz of conversation in the café.",
+      "ja": "カフェは話し声でざわついていた。"
+    },
+    {
+      "source": "original",
+      "label": "話題になる",
+      "en": "The new phone created a lot of buzz.",
+      "ja": "新しい電話は大きな話題になった。"
+    },
+    {
+      "source": "original",
+      "label": "鳴る",
+      "en": "My phone buzzed in my pocket.",
+      "ja": "ポケットの中でスマホが振動した。"
+    },
+    {
+      "source": "original",
+      "label": "ブザー",
+      "en": "Press the buzzer when you are ready.",
+      "ja": "準備ができたらブザーを押してください。"
+    }
+  ],
+  "check_points": [
+    "buzz with A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be buzzing with が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1406
+    }
+  ]
+}

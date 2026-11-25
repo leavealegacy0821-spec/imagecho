@@ -1,0 +1,93 @@
+{
+  "word": "noise",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/nɔɪz/",
+  "core_image": {
+    "text": "耳ざわりで、うるさい音",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"110\" y2=\"56\"/><line x1=\"120\" y1=\"74\" x2=\"130\" y2=\"56\"/><polyline points=\"30,40 40,30 50,50 60,30 70,50 80,40\"/><polyline points=\"160,40 170,30 180,50 190,30 200,50 210,40\"/></g><text x=\"60\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">うるさい</text></svg>"
+  },
+  "etymology": "古いフランス語 noise(騒ぎ・けんか) → やかましい音・騒音 → noisy=うるさい",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a sound, especially one that is loud or unpleasant."
+    }
+  ],
+  "cautions": [
+    "sound=音(広い・中立)/noise=うるさい・不快な音(騒音)",
+    "make a noise=音を立てる・騒ぐ",
+    "noisy=うるさい(⇔ quiet)",
+    "noise pollution=騒音公害"
+  ],
+  "patterns": [
+    {
+      "form": "make (a) noise",
+      "meaning": "音を立てる"
+    },
+    {
+      "form": "a loud noise",
+      "meaning": "大きな音"
+    },
+    {
+      "form": "noise from A",
+      "meaning": "Aからの騒音"
+    },
+    {
+      "form": "noisy",
+      "meaning": "うるさい"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "音",
+      "en": "Don't make any noise. The baby is sleeping.",
+      "ja": "音を立てないで。赤ちゃんが寝ているから。"
+    },
+    {
+      "source": "original",
+      "label": "大きな音",
+      "en": "I heard a loud noise outside.",
+      "ja": "外で大きな音が聞こえた。"
+    },
+    {
+      "source": "original",
+      "label": "騒音",
+      "en": "The noise from the construction kept me awake.",
+      "ja": "工事の騒音で眠れなかった。"
+    },
+    {
+      "source": "original",
+      "label": "うるさい",
+      "en": "The classroom was very noisy.",
+      "ja": "教室はとてもうるさかった。"
+    },
+    {
+      "source": "original",
+      "label": "騒音公害",
+      "en": "Noise pollution is a problem in big cities.",
+      "ja": "騒音公害は大都市の問題だ。"
+    },
+    {
+      "source": "original",
+      "label": "物音",
+      "en": "What's that strange noise?",
+      "ja": "あの変な物音は何?"
+    }
+  ],
+  "check_points": [
+    "sound と noise のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "make a noise、noisy が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1401
+    }
+  ]
+}
