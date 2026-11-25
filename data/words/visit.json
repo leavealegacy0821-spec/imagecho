@@ -1,0 +1,98 @@
+{
+  "word": "visit",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈvɪzɪt/",
+  "core_image": {
+    "text": "会いに・見に、わざわざ行ってみる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"100\" x2=\"130\" y2=\"100\"/><polyline points=\"123,96.2 130,100 123,103.8\"/><rect x=\"150\" y=\"70\" width=\"60\" height=\"70\"/><polygon points=\"146,70 180,44 214,70\"/><circle cx=\"180\" cy=\"100\" r=\"7\"/><line x1=\"180\" y1=\"107\" x2=\"180\" y2=\"126\"/><line x1=\"180\" y1=\"126\" x2=\"174\" y2=\"140\"/><line x1=\"180\" y1=\"126\" x2=\"186\" y2=\"140\"/></g><text x=\"100\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">たずねる</text></svg>"
+  },
+  "etymology": "ラテン語 visitare(見に行く:videre=見る。vision・video と同じ根) → 見に行く → 人・場所をたずねる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to go to see a person or place for a period of time."
+    },
+    {
+      "pos": "名詞",
+      "text": "an act of going to see a person or place."
+    }
+  ],
+  "cautions": [
+    "visit A=Aをたずねる(他動詞:visit to A とは言わない)",
+    "pay a visit to A=Aをたずねる(名詞のとき to)",
+    "visitor=訪問者",
+    "stay with 人 / at 場所=泊まる"
+  ],
+  "patterns": [
+    {
+      "form": "visit A",
+      "meaning": "Aをたずねる"
+    },
+    {
+      "form": "pay a visit to A",
+      "meaning": "Aを訪問する"
+    },
+    {
+      "form": "on a visit to A",
+      "meaning": "Aを訪問中で"
+    },
+    {
+      "form": "visitor",
+      "meaning": "訪問者"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "たずねる",
+      "en": "I visited my grandparents last weekend.",
+      "ja": "先週末、祖父母をたずねた。"
+    },
+    {
+      "source": "original",
+      "label": "to なし",
+      "en": "We visited Kyoto on our school trip.",
+      "ja": "修学旅行で京都を訪れた。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "I paid a visit to my old school.",
+      "ja": "母校を訪れた。"
+    },
+    {
+      "source": "original",
+      "label": "訪問中",
+      "en": "He is in Japan on a visit.",
+      "ja": "彼は訪問で日本に来ている。"
+    },
+    {
+      "source": "original",
+      "label": "訪問者",
+      "en": "The museum gets many visitors.",
+      "ja": "その博物館には多くの人が訪れる。"
+    },
+    {
+      "source": "original",
+      "label": "見舞う",
+      "en": "We visited her in the hospital.",
+      "ja": "私たちは病院にいる彼女を見舞った。"
+    }
+  ],
+  "check_points": [
+    "visit to A とは言わないことがわかるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "visit A(他動詞)/ pay a visit to A の型が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1883
+    }
+  ]
+}

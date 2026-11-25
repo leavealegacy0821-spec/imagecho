@@ -1,0 +1,98 @@
+{
+  "word": "open",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/ˈoʊpən/",
+  "core_image": {
+    "text": "閉じていたものが開いて、中が見える・入れる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"80\" y=\"30\" width=\"80\" height=\"110\"/><polygon points=\"80,30 50,40 50,130 80,140\"/><line x1=\"120\" y1=\"90\" x2=\"200\" y2=\"90\"/><polyline points=\"193,86.2 200,90 193,93.8\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひらく</text></svg>"
+  },
+  "etymology": "古い英語 open(開いている:up と同じ仲間 → 上がった・開いた) → 開いている・開ける → (店が)営業している → (人・心が)率直な・受け入れる(open to)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not closed; ready for business; honest and willing to talk; not yet decided."
+    },
+    {
+      "pos": "動詞",
+      "text": "to move something so that it is no longer closed; to start business."
+    }
+  ],
+  "cautions": [
+    "open(形容詞)=開いている:The shop is open.(opened ではない)",
+    "open(動詞)=開ける:She opened the door.",
+    "be open to A=Aを受け入れる",
+    "open-minded=心が広い"
+  ],
+  "patterns": [
+    {
+      "form": "be open",
+      "meaning": "開いている・営業している"
+    },
+    {
+      "form": "be open to A",
+      "meaning": "Aを受け入れる"
+    },
+    {
+      "form": "open-minded",
+      "meaning": "偏見のない"
+    },
+    {
+      "form": "in the open air",
+      "meaning": "屋外で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "営業中",
+      "en": "The store is open from 9 to 6.",
+      "ja": "その店は9時から6時まで開いている。"
+    },
+    {
+      "source": "original",
+      "label": "開ける",
+      "en": "She opened the window.",
+      "ja": "彼女は窓を開けた。"
+    },
+    {
+      "source": "original",
+      "label": "受け入れる",
+      "en": "I'm open to new ideas.",
+      "ja": "新しいアイデアは歓迎だ。"
+    },
+    {
+      "source": "original",
+      "label": "率直",
+      "en": "He was very open about his feelings.",
+      "ja": "彼は自分の気持ちをとても率直に話した。"
+    },
+    {
+      "source": "original",
+      "label": "屋外",
+      "en": "We had lunch in the open air.",
+      "ja": "屋外で昼食をとった。"
+    },
+    {
+      "source": "original",
+      "label": "未決定",
+      "en": "The question is still open.",
+      "ja": "その問題はまだ決まっていない。"
+    }
+  ],
+  "check_points": [
+    "The shop is open. の open が形容詞であることがわかるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "open(形容詞)/ opened の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1879
+    }
+  ]
+}

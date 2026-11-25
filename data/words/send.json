@@ -1,0 +1,94 @@
+{
+  "word": "send",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/send/",
+  "core_image": {
+    "text": "自分の手もとから、相手のほうへ送り出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><rect x=\"70\" y=\"70\" width=\"40\" height=\"28\"/><polyline points=\"70,70 90,86 110,70\"/><line x1=\"116\" y1=\"84\" x2=\"200\" y2=\"84\"/><polyline points=\"193,80.2 200,84 193,87.8\"/><circle cx=\"210\" cy=\"52\" r=\"10\"/><line x1=\"210\" y1=\"62\" x2=\"210\" y2=\"106\"/><line x1=\"210\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"210\" y1=\"106\" x2=\"220\" y2=\"140\"/></g><text x=\"150\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">送る</text></svg>"
+  },
+  "etymology": "古い英語 sendan(行かせる) → (物・人を)送る・行かせる → (ある状態に)させる(send A to sleep)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make something go somewhere; to make someone go somewhere; to cause someone to be in a particular state."
+    }
+  ],
+  "cautions": [
+    "活用 send - sent - sent",
+    "send A B / send B to A=AにBを送る",
+    "send for A=Aを呼びにやる",
+    "send A off=Aを見送る"
+  ],
+  "patterns": [
+    {
+      "form": "send A B",
+      "meaning": "AにBを送る"
+    },
+    {
+      "form": "send B to A",
+      "meaning": "BをAに送る"
+    },
+    {
+      "form": "send for A",
+      "meaning": "Aを呼びにやる"
+    },
+    {
+      "form": "send A off",
+      "meaning": "Aを見送る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "送る",
+      "en": "I sent my friend a birthday card.",
+      "ja": "友達に誕生日カードを送った。"
+    },
+    {
+      "source": "original",
+      "label": "to",
+      "en": "Please send this letter to my office.",
+      "ja": "この手紙を事務所に送ってください。"
+    },
+    {
+      "source": "original",
+      "label": "呼びにやる",
+      "en": "We sent for a doctor.",
+      "ja": "私たちは医者を呼びにやった。"
+    },
+    {
+      "source": "original",
+      "label": "見送る",
+      "en": "They sent him off at the airport.",
+      "ja": "彼らは空港で彼を見送った。"
+    },
+    {
+      "source": "original",
+      "label": "行かせる",
+      "en": "Her parents sent her to a school in England.",
+      "ja": "両親は彼女をイギリスの学校に行かせた。"
+    },
+    {
+      "source": "original",
+      "label": "させる",
+      "en": "The music sent me to sleep.",
+      "ja": "その音楽で眠くなってしまった。"
+    }
+  ],
+  "check_points": [
+    "send の活用(sent)を言えるか",
+    "send for A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "send for、send A B が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1886
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "search",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/sɜːrtʃ/",
+  "core_image": {
+    "text": "ぐるぐる見て回って、くまなくさがす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"100\" cy=\"70\" r=\"30\"/><line x1=\"122\" y1=\"92\" x2=\"160\" y2=\"130\"/><path d=\"M40 40 Q120 10 200 40\" stroke-dasharray=\"3 4\"/></g><text x=\"200\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くまなく</text></svg>"
+  },
+  "etymology": "ラテン語 circare(ぐるりと回る:circle と同じ根) → (古フランス語)あちこち回る → 見て回ってさがす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to look carefully for someone or something; to examine a place or person carefully."
+    },
+    {
+      "pos": "名詞",
+      "text": "an attempt to find someone or something."
+    }
+  ],
+  "cautions": [
+    "search A=A(場所・人)をくまなく調べる/search for A=A(さがし物)をさがす",
+    "search the room for the key=かぎを見つけようと部屋をさがす",
+    "look for=さがす(ふつう)",
+    "in search of A=Aを求めて"
+  ],
+  "patterns": [
+    {
+      "form": "search for A",
+      "meaning": "Aをさがす"
+    },
+    {
+      "form": "search A for B",
+      "meaning": "Bを求めてAを調べる"
+    },
+    {
+      "form": "in search of A",
+      "meaning": "Aを求めて"
+    },
+    {
+      "form": "a search engine",
+      "meaning": "検索エンジン"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "さがす",
+      "en": "The police are searching for the missing child.",
+      "ja": "警察は行方不明の子をさがしている。"
+    },
+    {
+      "source": "original",
+      "label": "調べる",
+      "en": "They searched the house for clues.",
+      "ja": "彼らは手がかりを求めて家中を調べた。"
+    },
+    {
+      "source": "original",
+      "label": "求めて",
+      "en": "Many people moved to cities in search of work.",
+      "ja": "多くの人が仕事を求めて都市へ移った。"
+    },
+    {
+      "source": "original",
+      "label": "検索",
+      "en": "I searched the Internet for information.",
+      "ja": "インターネットで情報を検索した。"
+    },
+    {
+      "source": "original",
+      "label": "捜索",
+      "en": "The search continued through the night.",
+      "ja": "捜索は夜通し続いた。"
+    },
+    {
+      "source": "original",
+      "label": "持ち物",
+      "en": "Our bags were searched at the airport.",
+      "ja": "空港で私たちのかばんが調べられた。"
+    }
+  ],
+  "check_points": [
+    "search A と search for A のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "search A for B / search for A の区別、in search of が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1887
+    }
+  ]
+}

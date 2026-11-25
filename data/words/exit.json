@@ -1,0 +1,98 @@
+{
+  "word": "exit",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈeksɪt/",
+  "core_image": {
+    "text": "中から外へ、出ていく出口",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"20\" width=\"160\" height=\"120\"/><rect x=\"170\" y=\"70\" width=\"30\" height=\"70\"/><circle cx=\"100\" cy=\"52\" r=\"10\"/><line x1=\"100\" y1=\"62\" x2=\"100\" y2=\"106\"/><line x1=\"100\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"100\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"100\" x2=\"196\" y2=\"100\"/><polyline points=\"189,96.2 196,100 189,103.8\"/></g><text x=\"185\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">出口</text></svg>"
+  },
+  "etymology": "ラテン語 exire(ex-=外へ + ire=行く) → 外へ出ていく → 出口・退場",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a door or way out of a place; the act of leaving."
+    },
+    {
+      "pos": "動詞",
+      "text": "to leave a place; to close a computer program."
+    }
+  ],
+  "cautions": [
+    "entrance⇔exit",
+    "an emergency exit=非常口",
+    "exit A=Aから出る・(プログラムを)終了する",
+    "make an exit=退場する"
+  ],
+  "patterns": [
+    {
+      "form": "an emergency exit",
+      "meaning": "非常口"
+    },
+    {
+      "form": "the exit",
+      "meaning": "出口"
+    },
+    {
+      "form": "exit A",
+      "meaning": "Aから出る・終了する"
+    },
+    {
+      "form": "make an exit",
+      "meaning": "退場する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "出口",
+      "en": "Where is the exit?",
+      "ja": "出口はどこですか。"
+    },
+    {
+      "source": "original",
+      "label": "非常口",
+      "en": "Find the nearest emergency exit.",
+      "ja": "いちばん近い非常口を確認してください。"
+    },
+    {
+      "source": "original",
+      "label": "出る",
+      "en": "Please exit through the back door.",
+      "ja": "裏口から出てください。"
+    },
+    {
+      "source": "original",
+      "label": "終了",
+      "en": "Save your work before you exit the program.",
+      "ja": "プログラムを終了する前に保存してください。"
+    },
+    {
+      "source": "original",
+      "label": "退場",
+      "en": "The actor made his exit to loud applause.",
+      "ja": "その俳優は大きな拍手の中で退場した。"
+    },
+    {
+      "source": "original",
+      "label": "高速道路",
+      "en": "Take the next exit.",
+      "ja": "次の出口で降りて。"
+    }
+  ],
+  "check_points": [
+    "entrance と exit の対がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "emergency exit が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1885
+    }
+  ]
+}

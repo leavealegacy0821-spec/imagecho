@@ -741,7 +741,7 @@
     },
     {
       "title": "使い分け:運ぶ・伝える",
-      "note": "carry=持って運ぶ ／ bring=こちらへ持ってくる ／ take=向こうへ持っていく ／ convey=(意味・物を)運んで伝える ／ transmit=(電波・病気を)送り伝える ／ transfer=別の場所へ移す ／ deliver=送り届ける ／ transport=乗り物でまとめて輸送する",
+      "note": "carry=持って運ぶ ／ bring=こちらへ持ってくる ／ take=向こうへ持っていく ／ convey=(意味・物を)運んで伝える ／ transmit=(電波・病気を)送り伝える ／ transfer=別の場所へ移す ／ deliver=送り届ける ／ transport=乗り物でまとめて輸送する ／ send=手もとから相手のほうへ送り出す(sent)",
       "words": [
         "carry",
         "bring",
@@ -750,7 +750,8 @@
         "transmit",
         "transfer",
         "deliver",
-        "transport"
+        "transport",
+        "send"
       ]
     },
     {
@@ -1574,14 +1575,16 @@
     },
     {
       "title": "使い分け:追い求める",
-      "note": "seek=探し求める ／ pursue=追いかけ続ける ／ trace=跡をたどる ／ track=足跡を追う ／ trail=跡をつける ／ follow=あとについていく",
+      "note": "seek=探し求める ／ pursue=追いかけ続ける ／ trace=跡をたどる ／ track=足跡を追う ／ trail=跡をつける ／ follow=あとについていく ／ search=ぐるぐる見て回ってくまなくさがす(search A for B) ／ hunt=えものを追いかけてとらえる・必死にさがす",
       "words": [
         "seek",
         "pursue",
         "trace",
         "track",
         "trail",
-        "follow"
+        "follow",
+        "search",
+        "hunt"
       ]
     },
     {
@@ -3259,6 +3262,25 @@
         "full",
         "crowded",
         "packed"
+      ]
+    },
+    {
+      "title": "使い分け:開ける・閉める",
+      "note": "open=閉じていたものが開いて中が見える・入れる(The shop is open.) ／ shut=ばたんとすき間なく閉じる(shut down=閉鎖) ／ lock=かぎをかけてがちゃりと閉じこめる",
+      "words": [
+        "open",
+        "shut",
+        "lock"
+      ]
+    },
+    {
+      "title": "使い分け:着く・たずねる・もどる",
+      "note": "arrive=目的の場所にたどり着く(at 地点 ／ in 町) ／ visit=会いに・見にわざわざ行く(visit A:to なし) ／ return=もとの場所・持ち主へくるりともどる・もどす ／ exit=中から外へ出ていく出口",
+      "words": [
+        "arrive",
+        "visit",
+        "return",
+        "exit"
       ]
     },
     {

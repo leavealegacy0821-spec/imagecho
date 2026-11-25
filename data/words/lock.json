@@ -1,0 +1,98 @@
+{
+  "word": "lock",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/lɑːk/",
+  "core_image": {
+    "text": "かぎをかけて、がちゃりと閉じこめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"80\" y=\"70\" width=\"80\" height=\"60\"/><path d=\"M96 70 L96 50 Q96 26 120 26 Q144 26 144 50 L144 70\"/><circle cx=\"120\" cy=\"94\" r=\"6\"/><line x1=\"120\" y1=\"100\" x2=\"120\" y2=\"114\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">がちゃり</text></svg>"
+  },
+  "etymology": "古い英語 loc(かんぬき・とじこめる所) → かぎ・錠 → かぎをかける → (ロックして)動かなくする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to close something with a key; to keep someone or something in a place that is locked."
+    },
+    {
+      "pos": "名詞",
+      "text": "a device that keeps a door or box closed; a part of a canal."
+    }
+  ],
+  "cautions": [
+    "lock=かぎをかける/key=かぎ(道具)そのもの",
+    "lock A out=Aをしめ出す(lock oneself out=かぎを中に置いて出られなくなる)",
+    "lock A up=Aを閉じこめる・しまいこむ",
+    "unlock=かぎを開ける"
+  ],
+  "patterns": [
+    {
+      "form": "lock the door",
+      "meaning": "ドアにかぎをかける"
+    },
+    {
+      "form": "lock oneself out",
+      "meaning": "かぎを閉じこめてしまう"
+    },
+    {
+      "form": "lock A up",
+      "meaning": "Aを閉じこめる"
+    },
+    {
+      "form": "unlock A",
+      "meaning": "Aのかぎを開ける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "かぎをかける",
+      "en": "Did you lock the door?",
+      "ja": "ドアにかぎをかけた?"
+    },
+    {
+      "source": "original",
+      "label": "しめ出される",
+      "en": "I locked myself out of my house.",
+      "ja": "かぎを中に置いたまま家の外に出てしまった。"
+    },
+    {
+      "source": "original",
+      "label": "閉じこめる",
+      "en": "They locked the dog in the garage.",
+      "ja": "彼らは犬を車庫に閉じこめた。"
+    },
+    {
+      "source": "original",
+      "label": "開ける",
+      "en": "Use this key to unlock the box.",
+      "ja": "このかぎで箱を開けて。"
+    },
+    {
+      "source": "original",
+      "label": "錠",
+      "en": "The lock on the door is broken.",
+      "ja": "ドアの錠がこわれている。"
+    },
+    {
+      "source": "original",
+      "label": "しまう",
+      "en": "Lock up your valuables.",
+      "ja": "貴重品はしまってかぎをかけて。"
+    }
+  ],
+  "check_points": [
+    "lock oneself out の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "lock oneself out が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1881
+    }
+  ]
+}
