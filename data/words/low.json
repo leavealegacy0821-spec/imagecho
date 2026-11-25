@@ -1,0 +1,102 @@
+{
+  "word": "low",
+  "pos": [
+    "形容詞",
+    "副詞"
+  ],
+  "ipa": "/loʊ/",
+  "core_image": {
+    "text": "地面に近く、下のほうにある",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"120\" width=\"60\" height=\"20\"/><rect x=\"140\" y=\"50\" width=\"60\" height=\"90\"/><line x1=\"70\" y1=\"100\" x2=\"70\" y2=\"116\"/><polyline points=\"73.8,109 70,116 66.2,109\"/></g><text x=\"70\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">低い</text></svg>"
+  },
+  "etymology": "古いノルド語 lágr(低い) → (位置が)低い → (数値・程度・音・声が)低い・小さい → (気分が)落ちこんだ",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not high; small in amount or level; (of a sound) deep or quiet; sad."
+    },
+    {
+      "pos": "副詞",
+      "text": "in or to a low position or level."
+    }
+  ],
+  "cautions": [
+    "high⇔low(数値・値段・温度にも:low price / low temperature)",
+    "a low voice=低い声・小さい声",
+    "feel low=気分が沈む",
+    "run low (on A)=(Aが)少なくなる"
+  ],
+  "patterns": [
+    {
+      "form": "a low price",
+      "meaning": "安い値段"
+    },
+    {
+      "form": "in a low voice",
+      "meaning": "小さな声で"
+    },
+    {
+      "form": "feel low",
+      "meaning": "落ちこむ"
+    },
+    {
+      "form": "run low on A",
+      "meaning": "Aが乏しくなる"
+    },
+    {
+      "form": "lower",
+      "meaning": "下げる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "安い",
+      "en": "The store sells goods at low prices.",
+      "ja": "その店は商品を安い値段で売っている。"
+    },
+    {
+      "source": "original",
+      "label": "小さな声",
+      "en": "She spoke in a low voice.",
+      "ja": "彼女は小さな声で話した。"
+    },
+    {
+      "source": "original",
+      "label": "落ちこむ",
+      "en": "I've been feeling low lately.",
+      "ja": "最近気分が沈んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "乏しくなる",
+      "en": "We're running low on gas.",
+      "ja": "ガソリンが少なくなってきた。"
+    },
+    {
+      "source": "original",
+      "label": "低い",
+      "en": "The sun was low in the sky.",
+      "ja": "太陽が空の低い所にあった。"
+    },
+    {
+      "source": "original",
+      "label": "温度",
+      "en": "The temperature was very low last night.",
+      "ja": "昨夜は気温がとても低かった。"
+    }
+  ],
+  "check_points": [
+    "run low on A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "low price、run low on が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1867
+    }
+  ]
+}

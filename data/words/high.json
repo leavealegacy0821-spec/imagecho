@@ -1,0 +1,102 @@
+{
+  "word": "high",
+  "pos": [
+    "形容詞",
+    "副詞"
+  ],
+  "ipa": "/haɪ/",
+  "core_image": {
+    "text": "地面から離れて、上のほうにある",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"20,140 120,30 220,140\"/><line x1=\"200\" y1=\"40\" x2=\"200\" y2=\"136\" stroke-dasharray=\"5 5\"/><polyline points=\"203.8,129 200,136 196.2,129\"/><circle cx=\"60\" cy=\"40\" r=\"8\"/></g><text x=\"200\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">高さ</text></svg>"
+  },
+  "etymology": "古い英語 hēah(高い) → (位置・山が)高い → (数値・程度・地位が)高い → height=高さ",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "far above the ground; large in amount or level; important in rank."
+    },
+    {
+      "pos": "副詞",
+      "text": "at or to a high level."
+    }
+  ],
+  "cautions": [
+    "tall=細長く背が高い(人・木・ビル)/high=地面からの高さ・位置(山・壁・天井・棚)",
+    "数値・程度に high:high price / temperature / speed",
+    "high と highly:highly=(副詞)非常に(highly recommended)",
+    "height=高さ"
+  ],
+  "patterns": [
+    {
+      "form": "a high price",
+      "meaning": "高い値段"
+    },
+    {
+      "form": "high school",
+      "meaning": "高校"
+    },
+    {
+      "form": "in high spirits",
+      "meaning": "上機嫌で"
+    },
+    {
+      "form": "high and low",
+      "meaning": "あちこちくまなく"
+    },
+    {
+      "form": "height",
+      "meaning": "高さ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "山",
+      "en": "Mt. Fuji is 3,776 meters high.",
+      "ja": "富士山は高さ3776メートルだ。"
+    },
+    {
+      "source": "original",
+      "label": "値段",
+      "en": "The price is too high.",
+      "ja": "値段が高すぎる。"
+    },
+    {
+      "source": "original",
+      "label": "位置",
+      "en": "The shelf is too high for me to reach.",
+      "ja": "棚が高すぎて手が届かない。"
+    },
+    {
+      "source": "original",
+      "label": "上機嫌",
+      "en": "The team was in high spirits after the win.",
+      "ja": "勝ってチームは上機嫌だった。"
+    },
+    {
+      "source": "original",
+      "label": "くまなく",
+      "en": "I looked high and low for my keys.",
+      "ja": "かぎをあちこちくまなくさがした。"
+    },
+    {
+      "source": "original",
+      "label": "非常に",
+      "en": "This book is highly recommended.",
+      "ja": "この本は非常におすすめだ。"
+    }
+  ],
+  "check_points": [
+    "high と highly のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "high / highly、tall / high が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1866
+    }
+  ]
+}

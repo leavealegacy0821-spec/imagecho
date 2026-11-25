@@ -1,0 +1,102 @@
+{
+  "word": "deep",
+  "pos": [
+    "形容詞",
+    "副詞"
+  ],
+  "ipa": "/diːp/",
+  "core_image": {
+    "text": "表面から下へ・奥へ、ずっと深い",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"40\" x2=\"220\" y2=\"40\"/><path d=\"M60 40 L60 140 L180 140 L180 40\"/><line x1=\"120\" y1=\"46\" x2=\"120\" y2=\"134\" stroke-dasharray=\"5 5\"/><polyline points=\"123.8,127 120,134 116.2,127\"/><path d=\"M20 30 Q40 22 60 30\" /></g><text x=\"200\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">深い</text></svg>"
+  },
+  "etymology": "古い英語 dēop(深い) → (下へ・奥へ)深い → (程度が)深い・(色が)こい・(声が)低い・(眠りが)ぐっすり → depth=深さ",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "going a long way down from the top or in from the surface; strong or serious; (of a color) dark; (of a sound) low."
+    },
+    {
+      "pos": "副詞",
+      "text": "a long way down or in."
+    }
+  ],
+  "cautions": [
+    "deep⇔shallow(浅い)",
+    "deep sleep=深い眠り・deep blue=こい青・a deep voice=低い声",
+    "deeply=(副詞)深く・心から(deeply moved)",
+    "depth=深さ"
+  ],
+  "patterns": [
+    {
+      "form": "... deep",
+      "meaning": "深さ…"
+    },
+    {
+      "form": "deep in thought",
+      "meaning": "考えこんで"
+    },
+    {
+      "form": "take a deep breath",
+      "meaning": "深呼吸する"
+    },
+    {
+      "form": "deeply",
+      "meaning": "深く・ひどく"
+    },
+    {
+      "form": "depth",
+      "meaning": "深さ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "深さ",
+      "en": "The lake is 50 meters deep.",
+      "ja": "その湖は深さ50メートルだ。"
+    },
+    {
+      "source": "original",
+      "label": "深呼吸",
+      "en": "Take a deep breath and relax.",
+      "ja": "深呼吸して力を抜いて。"
+    },
+    {
+      "source": "original",
+      "label": "考えこむ",
+      "en": "He was deep in thought.",
+      "ja": "彼は考えこんでいた。"
+    },
+    {
+      "source": "original",
+      "label": "声",
+      "en": "He has a deep voice.",
+      "ja": "彼は低い声をしている。"
+    },
+    {
+      "source": "original",
+      "label": "心から",
+      "en": "I was deeply moved by the movie.",
+      "ja": "その映画に深く感動した。"
+    },
+    {
+      "source": "original",
+      "label": "浅いと",
+      "en": "The river is deep here but shallow over there.",
+      "ja": "川はここは深いが、あそこは浅い。"
+    }
+  ],
+  "check_points": [
+    "deep と deeply のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "deeply moved、take a deep breath が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1868
+    }
+  ]
+}
