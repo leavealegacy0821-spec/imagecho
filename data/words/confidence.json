@@ -1,0 +1,94 @@
+{
+  "word": "confidence",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈkɑːnfɪdəns/",
+  "core_image": {
+    "text": "しっかり信じきって、胸を張れる気持ち(と信頼)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"104\" y2=\"84\"/><line x1=\"104\" y1=\"84\" x2=\"116\" y2=\"90\"/><line x1=\"120\" y1=\"74\" x2=\"136\" y2=\"84\"/><line x1=\"136\" y1=\"84\" x2=\"124\" y2=\"90\"/><line x1=\"90\" y1=\"40\" x2=\"100\" y2=\"46\"/><line x1=\"150\" y1=\"40\" x2=\"140\" y2=\"46\"/></g><text x=\"190\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">自信</text></svg>"
+  },
+  "etymology": "confide(信じて打ち明ける。con=すっかり+fidere=信じる)の名詞 → すっかり信じること → (人・物への)信頼 → (自分への)自信 → in confidence=内密に",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the feeling that you can do things well; trust in someone or something; a secret."
+    }
+  ],
+  "cautions": [
+    "confidence=自信・信頼(self-confidence=自信)",
+    "have confidence in A=Aを信頼している",
+    "lose confidence=自信をなくす",
+    "in confidence=内密に/confident=自信のある/confidential=秘密の"
+  ],
+  "patterns": [
+    {
+      "form": "have confidence in A",
+      "meaning": "Aを信頼している"
+    },
+    {
+      "form": "gain [lose] confidence",
+      "meaning": "自信をつける[なくす]"
+    },
+    {
+      "form": "with confidence",
+      "meaning": "自信をもって"
+    },
+    {
+      "form": "in confidence",
+      "meaning": "内密に"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "自信",
+      "en": "Winning the contest gave her confidence.",
+      "ja": "コンテストで勝って彼女は自信をつけた。"
+    },
+    {
+      "source": "original",
+      "label": "信頼",
+      "en": "We have complete confidence in our doctor.",
+      "ja": "私たちは主治医を全面的に信頼している。"
+    },
+    {
+      "source": "original",
+      "label": "自信をなくす",
+      "en": "He lost confidence after the failure.",
+      "ja": "失敗のあと彼は自信をなくした。"
+    },
+    {
+      "source": "original",
+      "label": "自信をもって",
+      "en": "Speak with confidence.",
+      "ja": "自信をもって話しなさい。"
+    },
+    {
+      "source": "original",
+      "label": "内密に",
+      "en": "I'm telling you this in confidence.",
+      "ja": "これは内緒で話しているんだよ。"
+    },
+    {
+      "source": "original",
+      "label": "秘密の",
+      "en": "This information is confidential.",
+      "ja": "この情報は秘密だ。"
+    }
+  ],
+  "check_points": [
+    "have confidence in A の意味を言えるか",
+    "in confidence の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "confidence / confident / confidential が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1621
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "belief",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/bɪˈliːf/",
+  "core_image": {
+    "text": "本当だと信じて、心にもっている考え",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"96\"/><ellipse cx=\"150\" cy=\"50\" rx=\"50\" ry=\"24\"/><polyline points=\"132,50 144,62 168,38\"/><circle cx=\"96\" cy=\"60\" r=\"3\"/></g><text x=\"150\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">信じる考え</text></svg>"
+  },
+  "etymology": "believe(信じる)の名詞 → 信じていること → 信念・考え・(宗教の)信仰 → beyond belief=信じられないほど",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a feeling that something is true or real; an idea that you believe is true; religious faith."
+    }
+  ],
+  "cautions": [
+    "belief=信じている考え・信念(可算:beliefs)/faith=強い信頼・信仰",
+    "the belief that …=…という考え",
+    "beyond belief=信じられないほど",
+    "複数形 beliefs(× believes は動詞)"
+  ],
+  "patterns": [
+    {
+      "form": "the belief that …",
+      "meaning": "…という考え"
+    },
+    {
+      "form": "belief in A",
+      "meaning": "Aを信じること"
+    },
+    {
+      "form": "beyond belief",
+      "meaning": "信じられないほど"
+    },
+    {
+      "form": "religious beliefs",
+      "meaning": "宗教的信条"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "考え",
+      "en": "There is a common belief that money brings happiness.",
+      "ja": "お金が幸せをもたらすというのはよくある考えだ。"
+    },
+    {
+      "source": "original",
+      "label": "信じること",
+      "en": "Her belief in herself helped her succeed.",
+      "ja": "自分を信じる気持ちが彼女の成功を助けた。"
+    },
+    {
+      "source": "original",
+      "label": "信じられないほど",
+      "en": "The view was beautiful beyond belief.",
+      "ja": "そのながめは信じられないほど美しかった。"
+    },
+    {
+      "source": "original",
+      "label": "信条",
+      "en": "We should respect other people's religious beliefs.",
+      "ja": "他人の宗教的信条を尊重すべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "信念",
+      "en": "He acted according to his beliefs.",
+      "ja": "彼は自分の信念に従って行動した。"
+    },
+    {
+      "source": "original",
+      "label": "考え",
+      "en": "Contrary to popular belief, bats are not blind.",
+      "ja": "一般に信じられているのとは反対に、コウモリは目が見えないわけではない。"
+    }
+  ],
+  "check_points": [
+    "belief の複数形(beliefs)を言えるか",
+    "contrary to popular belief の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "the belief that、contrary to popular belief が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1620
+    }
+  ]
+}

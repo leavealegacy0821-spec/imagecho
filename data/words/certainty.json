@@ -1,0 +1,93 @@
+{
+  "word": "certainty",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈsɜːrtnti/",
+  "core_image": {
+    "text": "少しも疑いのない、確かなこと",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"40\" width=\"120\" height=\"80\"/><polyline points=\"90,80 110,100 150,56\"/><line x1=\"40\" y1=\"130\" x2=\"200\" y2=\"130\"/></g><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">確かさ</text></svg>"
+  },
+  "etymology": "certain(確かな。ラテン語 certus=決まった:certify と同じ根)+ty → 確かであること・確実性・確信 → with certainty=確信をもって",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the state of being completely sure; something that is sure to happen."
+    }
+  ],
+  "cautions": [
+    "confidence=自信・信頼/certainty=少しも疑いのない確かさ・確実性",
+    "with certainty=確信をもって・確実に(say with certainty)",
+    "It is a certainty that …=…は確実だ",
+    "uncertainty=不確実さ・不安"
+  ],
+  "patterns": [
+    {
+      "form": "with certainty",
+      "meaning": "確実に"
+    },
+    {
+      "form": "say with certainty",
+      "meaning": "断言する"
+    },
+    {
+      "form": "a certainty",
+      "meaning": "確実なこと"
+    },
+    {
+      "form": "uncertainty",
+      "meaning": "不確実さ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "確実に",
+      "en": "Nobody can say with certainty what will happen.",
+      "ja": "何が起こるか誰も確実には言えない。"
+    },
+    {
+      "source": "original",
+      "label": "確実なこと",
+      "en": "It's a certainty that prices will rise.",
+      "ja": "物価が上がるのは確実だ。"
+    },
+    {
+      "source": "original",
+      "label": "確信",
+      "en": "I know with certainty that he is honest.",
+      "ja": "彼が正直なことは確信している。"
+    },
+    {
+      "source": "original",
+      "label": "不確実さ",
+      "en": "There is a lot of uncertainty about the future.",
+      "ja": "将来には多くの不確実さがある。"
+    },
+    {
+      "source": "original",
+      "label": "確かさ",
+      "en": "Science cannot give us complete certainty.",
+      "ja": "科学は完全な確かさを与えてはくれない。"
+    },
+    {
+      "source": "original",
+      "label": "確実",
+      "en": "Death is a certainty for all living things.",
+      "ja": "死はすべての生き物にとって確実なことだ。"
+    }
+  ],
+  "check_points": [
+    "with certainty の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "uncertainty が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1622
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "faith",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/feɪθ/",
+  "core_image": {
+    "text": "証拠がなくても、心から信じきること",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"110\" y2=\"58\"/><line x1=\"120\" y1=\"74\" x2=\"130\" y2=\"58\"/><path d=\"M120 40 Q140 20 160 30\" stroke-dasharray=\"3 3\"/><polygon points=\"170,20 174,30 184,30 176,36 180,46 170,40 160,46 164,36 156,30 166,30\"/></g><text x=\"60\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">信じきる</text></svg>"
+  },
+  "etymology": "ラテン語 fides(信頼。confide・fidelity と同じ根) → 信頼・信用 → (神への)信仰 → in good faith=誠意をもって",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "strong trust in someone or something; strong religious belief."
+    }
+  ],
+  "cautions": [
+    "belief=信じていること(考え)/faith=証拠がなくても強く信じきる信頼・信仰",
+    "have faith in A=Aを信頼している(in)",
+    "lose faith in A=Aへの信頼を失う",
+    "in good faith=誠意をもって・善意で"
+  ],
+  "patterns": [
+    {
+      "form": "have faith in A",
+      "meaning": "Aを信頼する"
+    },
+    {
+      "form": "lose faith in A",
+      "meaning": "Aを信じなくなる"
+    },
+    {
+      "form": "religious faith",
+      "meaning": "信仰"
+    },
+    {
+      "form": "in good faith",
+      "meaning": "善意で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "信頼",
+      "en": "I have faith in my teammates.",
+      "ja": "私はチームメートを信頼している。"
+    },
+    {
+      "source": "original",
+      "label": "信頼を失う",
+      "en": "People lost faith in the government.",
+      "ja": "人々は政府への信頼を失った。"
+    },
+    {
+      "source": "original",
+      "label": "信仰",
+      "en": "Her faith helped her through hard times.",
+      "ja": "信仰が彼女のつらい時期を支えた。"
+    },
+    {
+      "source": "original",
+      "label": "善意で",
+      "en": "He made the promise in good faith.",
+      "ja": "彼は誠意をもってその約束をした。"
+    },
+    {
+      "source": "original",
+      "label": "信じる",
+      "en": "Keep the faith. Things will get better.",
+      "ja": "信じていて。きっとよくなるから。"
+    },
+    {
+      "source": "original",
+      "label": "信念",
+      "en": "She has great faith in her own abilities.",
+      "ja": "彼女は自分の力を強く信じている。"
+    }
+  ],
+  "check_points": [
+    "have faith in A の意味を言えるか",
+    "belief と faith のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "have faith in が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1619
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "suspicion",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/səˈspɪʃn/",
+  "core_image": {
+    "text": "下から見上げるように、あやしいと感じる疑い",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"60\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"74\" y1=\"48\" x2=\"166\" y2=\"48\" stroke-dasharray=\"5 5\"/><polyline points=\"159,44.2 166,48 159,51.8\"/><path d=\"M110 30 q0 -8 8 -8 q8 0 8 6 q0 5 -8 6\"/></g><text x=\"120\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あやしい</text></svg>"
+  },
+  "etymology": "suspect(sub=下から+specere=見る:下から見上げる=疑う)の名詞 → あやしいと思うこと=疑い・容疑 → (〜ではないかという)気配・予感",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a feeling that someone has done something wrong; a feeling that something is true without proof."
+    }
+  ],
+  "cautions": [
+    "doubt=〜ではないと疑う/suspicion=〜ではないか(悪いことをしたのでは)と疑う気持ち",
+    "under suspicion=疑いをかけられて",
+    "arrest A on suspicion of B=Bの容疑でAを逮捕する",
+    "suspicious=あやしい・疑い深い"
+  ],
+  "patterns": [
+    {
+      "form": "under suspicion",
+      "meaning": "疑いをかけられて"
+    },
+    {
+      "form": "on suspicion of A",
+      "meaning": "Aの容疑で"
+    },
+    {
+      "form": "have a suspicion that …",
+      "meaning": "…ではないかと思う"
+    },
+    {
+      "form": "suspicious",
+      "meaning": "あやしい"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "疑い",
+      "en": "He is under suspicion of stealing the money.",
+      "ja": "彼はお金を盗んだ疑いをかけられている。"
+    },
+    {
+      "source": "original",
+      "label": "容疑で",
+      "en": "The man was arrested on suspicion of murder.",
+      "ja": "その男は殺人の容疑で逮捕された。"
+    },
+    {
+      "source": "original",
+      "label": "気がする",
+      "en": "I have a suspicion that she knows the answer.",
+      "ja": "彼女は答えを知っているような気がする。"
+    },
+    {
+      "source": "original",
+      "label": "疑いの目",
+      "en": "They looked at the stranger with suspicion.",
+      "ja": "彼らはその見知らぬ人を疑いの目で見た。"
+    },
+    {
+      "source": "original",
+      "label": "あやしい",
+      "en": "A suspicious man was standing by the door.",
+      "ja": "あやしい男がドアのそばに立っていた。"
+    },
+    {
+      "source": "original",
+      "label": "疑い",
+      "en": "Her story raised suspicions.",
+      "ja": "彼女の話は疑いを招いた。"
+    }
+  ],
+  "check_points": [
+    "on suspicion of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "under suspicion、on suspicion of が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1623
+    }
+  ]
+}
