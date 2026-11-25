@@ -1,0 +1,84 @@
+{
+  "word": "uncle",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈʌŋkl/",
+  "core_image": {
+    "text": "父や母の兄弟(おじ)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"60\" cy=\"40\" r=\"10\"/><circle cx=\"120\" cy=\"40\" r=\"10\"/><line x1=\"60\" y1=\"50\" x2=\"60\" y2=\"70\"/><line x1=\"120\" y1=\"50\" x2=\"120\" y2=\"70\"/><line x1=\"60\" y1=\"70\" x2=\"120\" y2=\"70\"/><line x1=\"60\" y1=\"70\" x2=\"60\" y2=\"100\"/><circle cx=\"60\" cy=\"110\" r=\"10\"/><circle cx=\"180\" cy=\"40\" r=\"10\"/><line x1=\"120\" y1=\"20\" x2=\"180\" y2=\"20\"/><line x1=\"120\" y1=\"20\" x2=\"120\" y2=\"30\"/><line x1=\"180\" y1=\"20\" x2=\"180\" y2=\"30\"/></g><text x=\"200\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">おじ</text></svg>"
+  },
+  "etymology": "ラテン語 avunculus(母方のおじ:avus=祖父) → (古フランス語)おじ → 父母の兄弟",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the brother of your father or mother; the husband of your aunt."
+    }
+  ],
+  "cautions": [
+    "uncle=おじ(父母の兄弟・おばの夫)/aunt=おば",
+    "伯父・叔父の区別はない",
+    "Uncle Ken=ケンおじさん(名前の前につける)"
+  ],
+  "patterns": [
+    {
+      "form": "my uncle",
+      "meaning": "おじ"
+    },
+    {
+      "form": "Uncle + 名前",
+      "meaning": "〜おじさん"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "おじ",
+      "en": "My uncle lives in Hokkaido.",
+      "ja": "おじは北海道に住んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "名前",
+      "en": "Uncle Taro gave me a present.",
+      "ja": "太郎おじさんがプレゼントをくれた。"
+    },
+    {
+      "source": "original",
+      "label": "父の兄",
+      "en": "My father's older brother is my uncle.",
+      "ja": "父の兄は私のおじだ。"
+    },
+    {
+      "source": "original",
+      "label": "訪問",
+      "en": "We visited our uncle during the holidays.",
+      "ja": "休みにおじの家を訪ねた。"
+    },
+    {
+      "source": "original",
+      "label": "仕事",
+      "en": "My uncle runs a small shop.",
+      "ja": "おじは小さな店を経営している。"
+    },
+    {
+      "source": "original",
+      "label": "おばの夫",
+      "en": "My aunt's husband is also my uncle.",
+      "ja": "おばの夫も私のおじだ。"
+    }
+  ],
+  "check_points": [
+    "uncle と aunt のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "家族関係の説明で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2095
+    }
+  ]
+}

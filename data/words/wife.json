@@ -1,0 +1,89 @@
+{
+  "word": "wife",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/waɪf/",
+  "core_image": {
+    "text": "結婚している女性(妻)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><circle cx=\"120\" cy=\"30\" r=\"8\"/><circle cx=\"128\" cy=\"30\" r=\"8\"/><path d=\"M140 40 Q150 30 160 40\"/></g><text x=\"200\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">つま</text></svg>"
+  },
+  "etymology": "古い英語 wīf(女の人) → 妻(もとは女性一般:midwife=産婆 にその名残)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the woman someone is married to."
+    }
+  ],
+  "cautions": [
+    "複数形 wives(knife → knives と同じ)",
+    "husband=夫/wife=妻/spouse=配偶者",
+    "ex-wife=元妻",
+    "housewife=専業主婦"
+  ],
+  "patterns": [
+    {
+      "form": "A's wife",
+      "meaning": "Aの妻"
+    },
+    {
+      "form": "husband and wife",
+      "meaning": "夫婦"
+    },
+    {
+      "form": "ex-wife",
+      "meaning": "元妻"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "妻",
+      "en": "His wife is a teacher.",
+      "ja": "彼の妻は教師だ。"
+    },
+    {
+      "source": "original",
+      "label": "夫婦",
+      "en": "The husband and wife run a small café.",
+      "ja": "その夫婦は小さなカフェを経営している。"
+    },
+    {
+      "source": "original",
+      "label": "複数形",
+      "en": "The two men came with their wives.",
+      "ja": "2人の男性はそれぞれ妻を連れて来た。"
+    },
+    {
+      "source": "original",
+      "label": "紹介",
+      "en": "Let me introduce my wife, Emi.",
+      "ja": "妻のエミを紹介させてください。"
+    },
+    {
+      "source": "original",
+      "label": "専業主婦",
+      "en": "My mother was a housewife.",
+      "ja": "母は専業主婦だった。"
+    },
+    {
+      "source": "original",
+      "label": "元妻",
+      "en": "He met his ex-wife at the station.",
+      "ja": "彼は駅で元妻に会った。"
+    }
+  ],
+  "check_points": [
+    "wife の複数形(wives)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "複数形 wives が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2092
+    }
+  ]
+}

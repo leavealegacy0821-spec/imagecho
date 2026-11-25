@@ -1,0 +1,98 @@
+{
+  "word": "family",
+  "pos": [
+    "名詞",
+    "形容詞"
+  ],
+  "ipa": "/ˈfæməli/",
+  "core_image": {
+    "text": "いっしょに暮らす家族・同じなかまのまとまり",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><circle cx=\"180\" cy=\"96\" r=\"9\"/><line x1=\"180\" y1=\"105\" x2=\"180\" y2=\"124\"/><line x1=\"180\" y1=\"124\" x2=\"174\" y2=\"140\"/><line x1=\"180\" y1=\"124\" x2=\"186\" y2=\"140\"/><path d=\"M30 30 Q120 0 210 30\" stroke-dasharray=\"4 4\"/></g><text x=\"120\" y=\"150\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かぞく</text></svg>"
+  },
+  "etymology": "ラテン語 familia(家の者たち・使用人もふくむ) → 家族 → (動植物・言語の)同じなかま・科",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a group of people related to each other; children of a parent; a group of related animals, plants or languages."
+    },
+    {
+      "pos": "形容詞",
+      "text": "for or about families."
+    }
+  ],
+  "cautions": [
+    "family=家族(全体をひとまとまりで見ると単数・一人ひとりを考えると複数扱いも)",
+    "a large family=大家族(many family ではない)",
+    "run in the family=(才能・病気が)家系に伝わる",
+    "start a family=子どもをもつ"
+  ],
+  "patterns": [
+    {
+      "form": "a large family",
+      "meaning": "大家族"
+    },
+    {
+      "form": "run in the family",
+      "meaning": "家系に伝わる"
+    },
+    {
+      "form": "start a family",
+      "meaning": "子どもをもうける"
+    },
+    {
+      "form": "family members",
+      "meaning": "家族の一人ひとり"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "大家族",
+      "en": "I come from a large family.",
+      "ja": "私は大家族の出身だ。"
+    },
+    {
+      "source": "original",
+      "label": "家系",
+      "en": "Musical talent runs in the family.",
+      "ja": "音楽の才能は家系に伝わっている。"
+    },
+    {
+      "source": "original",
+      "label": "子どもをもつ",
+      "en": "They want to start a family soon.",
+      "ja": "彼らはそろそろ子どもがほしいと思っている。"
+    },
+    {
+      "source": "original",
+      "label": "家族全員",
+      "en": "My family are all early risers.",
+      "ja": "うちの家族はみんな早起きだ。"
+    },
+    {
+      "source": "original",
+      "label": "なかま",
+      "en": "The cat belongs to the same family as the lion.",
+      "ja": "ネコはライオンと同じ科に属する。"
+    },
+    {
+      "source": "original",
+      "label": "家族向け",
+      "en": "It's a family restaurant.",
+      "ja": "そこはファミリーレストランだ。"
+    }
+  ],
+  "check_points": [
+    "a large family(many ではない)を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "a large family、run in the family が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2089
+    }
+  ]
+}
