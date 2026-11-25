@@ -1,0 +1,89 @@
+{
+  "word": "mainly",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˈmeɪnli/",
+  "core_image": {
+    "text": "おもに(大部分は)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"50\"/><path d=\"M120 80 L120 30 A50 50 0 1 1 76 104 Z\" stroke-dasharray=\"3 3\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">おもに</text></svg>"
+  },
+  "etymology": "main(おもな:古い英語 mægen=力) + -ly → おもに・大部分は",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "mostly; more than anything else."
+    }
+  ],
+  "cautions": [
+    "mainly=おもに(大部分)/mostly=たいてい・ほとんど",
+    "be mainly made of A=おもにAでできている",
+    "main=おもな(main reason)",
+    "chiefly=おもに(改まった)"
+  ],
+  "patterns": [
+    {
+      "form": "mainly because ...",
+      "meaning": "おもに〜だから"
+    },
+    {
+      "form": "be mainly A",
+      "meaning": "おもにAだ"
+    },
+    {
+      "form": "main",
+      "meaning": "おもな"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "おもに",
+      "en": "The students are mainly from Asia.",
+      "ja": "学生はおもにアジア出身だ。"
+    },
+    {
+      "source": "original",
+      "label": "理由",
+      "en": "I came here mainly to see you.",
+      "ja": "おもに君に会うためにここに来た。"
+    },
+    {
+      "source": "original",
+      "label": "なぜなら",
+      "en": "He failed mainly because he didn't study.",
+      "ja": "彼が落ちたのはおもに勉強しなかったからだ。"
+    },
+    {
+      "source": "original",
+      "label": "材料",
+      "en": "The drink is mainly water.",
+      "ja": "その飲み物は大部分が水だ。"
+    },
+    {
+      "source": "original",
+      "label": "形容詞",
+      "en": "What is the main reason?",
+      "ja": "おもな理由は何?"
+    },
+    {
+      "source": "original",
+      "label": "mostly",
+      "en": "The audience was mostly young people.",
+      "ja": "観客はほとんどが若者だった。"
+    }
+  ],
+  "check_points": [
+    "mainly の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2365
+    }
+  ]
+}

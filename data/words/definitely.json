@@ -1,0 +1,93 @@
+{
+  "word": "definitely",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˈdefɪnətli/",
+  "core_image": {
+    "text": "はっきり決まって、絶対に",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"70\" width=\"160\" height=\"20\"/><line x1=\"196\" y1=\"50\" x2=\"196\" y2=\"110\"/><line x1=\"40\" y1=\"50\" x2=\"40\" y2=\"110\"/><polyline points=\"90,40 110,56 150,24\"/></g><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぜったい</text></svg>"
+  },
+  "etymology": "definite(はっきりした:ラテン語 definire=境界を決める:define と同じ根) + -ly → はっきりと・絶対に",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "without any doubt; clearly."
+    }
+  ],
+  "cautions": [
+    "definitely=絶対に・まちがいなく(口語で強い)",
+    "返事の Definitely!=もちろん!・絶対!",
+    "definitely not=絶対にちがう",
+    "definite=はっきりした/infinite=無限の"
+  ],
+  "patterns": [
+    {
+      "form": "definitely",
+      "meaning": "絶対に"
+    },
+    {
+      "form": "Definitely!",
+      "meaning": "もちろん!"
+    },
+    {
+      "form": "definitely not",
+      "meaning": "絶対だめ"
+    },
+    {
+      "form": "definite",
+      "meaning": "はっきりした"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "絶対",
+      "en": "I'll definitely come to your party.",
+      "ja": "パーティーには絶対行くよ。"
+    },
+    {
+      "source": "original",
+      "label": "返事",
+      "en": "\"Do you want to go?\" \"Definitely!\"",
+      "ja": "「行きたい?」「もちろん!」"
+    },
+    {
+      "source": "original",
+      "label": "絶対だめ",
+      "en": "\"Can I eat this?\" \"Definitely not.\"",
+      "ja": "「これ食べていい?」「絶対だめ」"
+    },
+    {
+      "source": "original",
+      "label": "はっきり",
+      "en": "This is definitely the best restaurant in town.",
+      "ja": "ここはまちがいなく町でいちばんのレストランだ。"
+    },
+    {
+      "source": "original",
+      "label": "はっきりした",
+      "en": "We need a definite answer.",
+      "ja": "はっきりした答えが必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "決まり",
+      "en": "It's not definite yet.",
+      "ja": "まだ決まっていない。"
+    }
+  ],
+  "check_points": [
+    "definitely の強さがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "会話で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2362
+    }
+  ]
+}

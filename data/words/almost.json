@@ -1,0 +1,93 @@
+{
+  "word": "almost",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˈɔːlmoʊst/",
+  "core_image": {
+    "text": "あと少しで届く(ほとんど)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"40\" y1=\"80\" x2=\"200\" y2=\"80\"/><line x1=\"200\" y1=\"66\" x2=\"200\" y2=\"94\"/><line x1=\"40\" y1=\"60\" x2=\"186\" y2=\"60\"/><polyline points=\"179,56.2 186,60 179,63.8\"/><circle cx=\"186\" cy=\"80\" r=\"6\"/></g><text x=\"120\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あと少し</text></svg>"
+  },
+  "etymology": "all(すべて) + most(ほとんど) → ほぼすべて → ほとんど・もう少しで",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "nearly but not completely."
+    }
+  ],
+  "cautions": [
+    "almost=nearly=ほとんど・もう少しで(届いていない)",
+    "almost all A=ほとんどすべてのA(almost A ×:almost students ×)",
+    "most A=たいていのA/almost all A=ほとんどすべてのA",
+    "almost never=ほとんど〜ない"
+  ],
+  "patterns": [
+    {
+      "form": "almost all (of) A",
+      "meaning": "ほとんどすべてのA"
+    },
+    {
+      "form": "almost every A",
+      "meaning": "ほとんどすべてのA"
+    },
+    {
+      "form": "almost + 動詞",
+      "meaning": "もう少しで〜するところだった"
+    },
+    {
+      "form": "almost never",
+      "meaning": "ほとんど〜ない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ほとんど",
+      "en": "Almost all the students passed.",
+      "ja": "ほとんどすべての生徒が合格した。"
+    },
+    {
+      "source": "original",
+      "label": "もう少しで",
+      "en": "I almost missed the train.",
+      "ja": "もう少しで電車に乗りおくれるところだった。"
+    },
+    {
+      "source": "original",
+      "label": "ほぼ",
+      "en": "It's almost ten o'clock.",
+      "ja": "もうすぐ10時だ。"
+    },
+    {
+      "source": "original",
+      "label": "毎日",
+      "en": "I go jogging almost every day.",
+      "ja": "ほぼ毎日ジョギングする。"
+    },
+    {
+      "source": "original",
+      "label": "ほとんどない",
+      "en": "He almost never eats breakfast.",
+      "ja": "彼は朝食をほとんど食べない。"
+    },
+    {
+      "source": "original",
+      "label": "most と",
+      "en": "Most students like summer.",
+      "ja": "たいていの生徒は夏が好きだ。"
+    }
+  ],
+  "check_points": [
+    "almost all A と most A のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "almost / most の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2366
+    }
+  ]
+}

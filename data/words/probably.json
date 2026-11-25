@@ -1,0 +1,88 @@
+{
+  "word": "probably",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˈprɑːbəbli/",
+  "core_image": {
+    "text": "たぶん(8割くらいの確かさ)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"70\" width=\"160\" height=\"20\"/><rect x=\"40\" y=\"70\" width=\"128\" height=\"20\" stroke-dasharray=\"2 2\"/><line x1=\"168\" y1=\"60\" x2=\"168\" y2=\"100\"/></g><text x=\"168\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">80%</text></svg>"
+  },
+  "etymology": "probable(ありそうな:ラテン語 probare=ためす・証明する:prove と同じ根) + -ly → たぶん",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "almost certainly; likely to be true."
+    }
+  ],
+  "cautions": [
+    "確かさ:certainly(ほぼ100%)> probably(80%くらい)> perhaps / maybe(50%くらい)> possibly",
+    "probable=ありそうな",
+    "It will probably rain.=たぶん雨だ(will のあと・be動詞のあと)"
+  ],
+  "patterns": [
+    {
+      "form": "will probably do",
+      "meaning": "たぶん〜するだろう"
+    },
+    {
+      "form": "most probably",
+      "meaning": "十中八九"
+    },
+    {
+      "form": "probable",
+      "meaning": "ありそうな"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "たぶん",
+      "en": "It will probably rain tomorrow.",
+      "ja": "明日はたぶん雨だろう。"
+    },
+    {
+      "source": "original",
+      "label": "十中八九",
+      "en": "He is most probably at home.",
+      "ja": "彼は十中八九家にいる。"
+    },
+    {
+      "source": "original",
+      "label": "推量",
+      "en": "You're probably right.",
+      "ja": "たぶんあなたの言う通りだ。"
+    },
+    {
+      "source": "original",
+      "label": "形容詞",
+      "en": "It is probable that prices will rise.",
+      "ja": "物価が上がりそうだ。"
+    },
+    {
+      "source": "original",
+      "label": "比べる",
+      "en": "Maybe he'll come, but probably not.",
+      "ja": "彼は来るかもしれないが、たぶん来ない。"
+    },
+    {
+      "source": "original",
+      "label": "位置",
+      "en": "She probably forgot.",
+      "ja": "彼女はたぶん忘れたんだ。"
+    }
+  ],
+  "check_points": [
+    "probably / perhaps / maybe の確かさの差を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "確かさの副詞の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2358
+    }
+  ]
+}

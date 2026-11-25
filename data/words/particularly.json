@@ -1,0 +1,89 @@
+{
+  "word": "particularly",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/pərˈtɪkjələrli/",
+  "core_image": {
+    "text": "その部分をとくに・きわだって",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"60\" width=\"180\" height=\"40\"/><line x1=\"90\" y1=\"60\" x2=\"90\" y2=\"100\"/><line x1=\"150\" y1=\"60\" x2=\"150\" y2=\"100\"/><rect x=\"90\" y=\"54\" width=\"60\" height=\"52\" stroke-dasharray=\"3 3\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">とくにここ</text></svg>"
+  },
+  "etymology": "particular(特定の:part=部分 と同じ根) + -ly → 特定の部分に → とくに",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "especially; very."
+    }
+  ],
+  "cautions": [
+    "particularly=especially(少し改まった)",
+    "not particularly=とくに〜というわけではない",
+    "in particular=とくに(句)",
+    "particular=特定の・好みにうるさい"
+  ],
+  "patterns": [
+    {
+      "form": "particularly A",
+      "meaning": "とくにA"
+    },
+    {
+      "form": "not particularly",
+      "meaning": "とくに〜ではない"
+    },
+    {
+      "form": "in particular",
+      "meaning": "とくに"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "とくに",
+      "en": "I like sports, particularly tennis.",
+      "ja": "スポーツが好きで、とくにテニスが好きだ。"
+    },
+    {
+      "source": "original",
+      "label": "とくにない",
+      "en": "\"Are you busy?\" \"Not particularly.\"",
+      "ja": "「忙しい?」「とくには」"
+    },
+    {
+      "source": "original",
+      "label": "in particular",
+      "en": "Is there anything in particular you want?",
+      "ja": "とくにほしいものはある?"
+    },
+    {
+      "source": "original",
+      "label": "きわだって",
+      "en": "The movie was particularly good.",
+      "ja": "その映画はとくによかった。"
+    },
+    {
+      "source": "original",
+      "label": "好み",
+      "en": "She is particular about food.",
+      "ja": "彼女は食べ物の好みにうるさい。"
+    },
+    {
+      "source": "original",
+      "label": "特定",
+      "en": "On that particular day, it rained.",
+      "ja": "その日に限って雨が降った。"
+    }
+  ],
+  "check_points": [
+    "in particular の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "in particular、be particular about が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2364
+    }
+  ]
+}

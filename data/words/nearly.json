@@ -1,0 +1,89 @@
+{
+  "word": "nearly",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˈnɪrli/",
+  "core_image": {
+    "text": "すぐ近くまで(ほとんど・もう少しで)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"40\" y1=\"80\" x2=\"200\" y2=\"80\"/><circle cx=\"200\" cy=\"80\" r=\"10\"/><line x1=\"50\" y1=\"60\" x2=\"180\" y2=\"60\"/><polyline points=\"173,56.2 180,60 173,63.8\"/><circle cx=\"176\" cy=\"80\" r=\"6\"/></g><text x=\"120\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すぐそば</text></svg>"
+  },
+  "etymology": "near(近い) + -ly → 近くまで → ほとんど・もう少しで",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "almost; not completely."
+    }
+  ],
+  "cautions": [
+    "nearly=almost(ほとんど同じ:nearly は「数」とよく使う)",
+    "not nearly=とても〜ない(=far from)",
+    "nearly every A=ほぼすべてのA",
+    "near=近い・近くに"
+  ],
+  "patterns": [
+    {
+      "form": "nearly + 数",
+      "meaning": "ほぼ〜"
+    },
+    {
+      "form": "nearly + 動詞",
+      "meaning": "もう少しで〜"
+    },
+    {
+      "form": "not nearly",
+      "meaning": "とても〜ない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ほぼ",
+      "en": "Nearly 100 people came.",
+      "ja": "ほぼ100人が来た。"
+    },
+    {
+      "source": "original",
+      "label": "もう少しで",
+      "en": "I nearly fell down the stairs.",
+      "ja": "もう少しで階段から落ちるところだった。"
+    },
+    {
+      "source": "original",
+      "label": "とても〜ない",
+      "en": "I'm not nearly ready.",
+      "ja": "まだ全然準備ができていない。"
+    },
+    {
+      "source": "original",
+      "label": "もうすぐ",
+      "en": "It's nearly time to go.",
+      "ja": "そろそろ行く時間だ。"
+    },
+    {
+      "source": "original",
+      "label": "ほとんど",
+      "en": "The work is nearly finished.",
+      "ja": "その仕事はほとんど終わっている。"
+    },
+    {
+      "source": "original",
+      "label": "年",
+      "en": "We've known each other for nearly ten years.",
+      "ja": "知り合ってほぼ10年になる。"
+    }
+  ],
+  "check_points": [
+    "not nearly の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "not nearly が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2367
+    }
+  ]
+}

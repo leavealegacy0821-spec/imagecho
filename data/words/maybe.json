@@ -1,0 +1,88 @@
+{
+  "word": "maybe",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˈmeɪbi/",
+  "core_image": {
+    "text": "(口語で)たぶん・かもね",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"70\" width=\"160\" height=\"20\"/><line x1=\"120\" y1=\"60\" x2=\"120\" y2=\"100\"/><path d=\"M80 40 Q90 30 100 40 M140 40 Q150 30 160 40\"/></g><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かもね</text></svg>"
+  },
+  "etymology": "it may be(〜かもしれない) → maybe(1語)=たぶん・もしかすると",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "perhaps; possibly."
+    }
+  ],
+  "cautions": [
+    "maybe(1語・副詞)=たぶん/may be(2語・助動詞+動詞)=〜かもしれない",
+    "maybe=perhaps(口語的)",
+    "提案にも:Maybe we should go.=行ったほうがいいかもね"
+  ],
+  "patterns": [
+    {
+      "form": "Maybe ...",
+      "meaning": "たぶん…"
+    },
+    {
+      "form": "maybe not",
+      "meaning": "たぶんちがう"
+    },
+    {
+      "form": "may be + A",
+      "meaning": "Aかもしれない(2語)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "たぶん",
+      "en": "Maybe she's right.",
+      "ja": "たぶん彼女の言う通りだ。"
+    },
+    {
+      "source": "original",
+      "label": "提案",
+      "en": "Maybe we should take a break.",
+      "ja": "休憩したほうがいいかもね。"
+    },
+    {
+      "source": "original",
+      "label": "返事",
+      "en": "\"Are you coming?\" \"Maybe.\"",
+      "ja": "「来る?」「たぶんね」"
+    },
+    {
+      "source": "original",
+      "label": "2語",
+      "en": "He may be at home.",
+      "ja": "彼は家にいるかもしれない(may be は2語)。"
+    },
+    {
+      "source": "original",
+      "label": "たぶんちがう",
+      "en": "Maybe not.",
+      "ja": "たぶんちがうと思う。"
+    },
+    {
+      "source": "original",
+      "label": "見積もり",
+      "en": "It takes maybe ten minutes.",
+      "ja": "たぶん10分くらいかかる。"
+    }
+  ],
+  "check_points": [
+    "maybe と may be のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "maybe / may be の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2360
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "word": "perhaps",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/pərˈhæps/",
+  "core_image": {
+    "text": "もしかすると(半々くらい)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"70\" width=\"160\" height=\"20\"/><line x1=\"120\" y1=\"60\" x2=\"120\" y2=\"100\"/><path d=\"M110 40 Q120 30 130 40 Q130 50 120 52\"/><circle cx=\"120\" cy=\"58\" r=\"2\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">50%</text></svg>"
+  },
+  "etymology": "per(〜によって) + hap(運・偶然:happen と同じ根) + -s → 運しだいで → もしかすると",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "possibly; used to say that something may be true."
+    }
+  ],
+  "cautions": [
+    "perhaps=maybe=もしかすると(perhaps のほうが改まった)",
+    "ていねいな提案・依頼にも(Perhaps you could ...)",
+    "probably(たぶん)より不確か",
+    "happen=起こる(同じ根:運)"
+  ],
+  "patterns": [
+    {
+      "form": "Perhaps ...",
+      "meaning": "もしかすると…"
+    },
+    {
+      "form": "perhaps not",
+      "meaning": "たぶんちがう"
+    },
+    {
+      "form": "Perhaps you could ...",
+      "meaning": "〜していただけませんか"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "もしかすると",
+      "en": "Perhaps he is sick.",
+      "ja": "もしかすると彼は病気かもしれない。"
+    },
+    {
+      "source": "original",
+      "label": "ていねい",
+      "en": "Perhaps you could help me.",
+      "ja": "手伝っていただけませんか。"
+    },
+    {
+      "source": "original",
+      "label": "たぶんちがう",
+      "en": "\"Will it rain?\" \"Perhaps not.\"",
+      "ja": "「雨降るかな」「たぶん降らないよ」"
+    },
+    {
+      "source": "original",
+      "label": "推測",
+      "en": "Perhaps it's time to go home.",
+      "ja": "そろそろ帰る時間かもしれない。"
+    },
+    {
+      "source": "original",
+      "label": "数",
+      "en": "There were perhaps 100 people there.",
+      "ja": "そこにはおそらく100人ほどいた。"
+    },
+    {
+      "source": "original",
+      "label": "比べる",
+      "en": "It will probably snow, or perhaps rain.",
+      "ja": "たぶん雪、もしかすると雨だろう。"
+    }
+  ],
+  "check_points": [
+    "perhaps と probably のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "確かさの副詞が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2359
+    }
+  ]
+}

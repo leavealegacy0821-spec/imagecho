@@ -1,0 +1,89 @@
+{
+  "word": "especially",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ɪˈspeʃəli/",
+  "core_image": {
+    "text": "ほかの中でもとくに(目立って)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"50\" cy=\"90\" r=\"12\"/><circle cx=\"90\" cy=\"90\" r=\"12\"/><circle cx=\"140\" cy=\"80\" r=\"20\"/><circle cx=\"190\" cy=\"90\" r=\"12\"/><line x1=\"140\" y1=\"30\" x2=\"140\" y2=\"56\"/><polyline points=\"143.8,49 140,56 136.2,49\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">とくに</text></svg>"
+  },
+  "etymology": "especial(特別な:special と同じ根:ラテン語 species=見た目・種類) + -ly → とくに",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "more than usual; particularly; for a particular purpose."
+    }
+  ],
+  "cautions": [
+    "especially=とくに(1つをきわだたせる)",
+    "especially for A=とくにAのために",
+    "especially when [if] ...=とくに〜のとき",
+    "文頭に Especially, ... とはふつう言わない"
+  ],
+  "patterns": [
+    {
+      "form": "especially A",
+      "meaning": "とくにA"
+    },
+    {
+      "form": "especially for A",
+      "meaning": "とくにAのために"
+    },
+    {
+      "form": "especially when ...",
+      "meaning": "とくに〜のとき"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "とくに",
+      "en": "I love fruit, especially strawberries.",
+      "ja": "果物が大好きで、とくにイチゴが好きだ。"
+    },
+    {
+      "source": "original",
+      "label": "ために",
+      "en": "This cake is made especially for you.",
+      "ja": "このケーキはとくにあなたのために作った。"
+    },
+    {
+      "source": "original",
+      "label": "とき",
+      "en": "It's cold here, especially at night.",
+      "ja": "ここは寒い。とくに夜は。"
+    },
+    {
+      "source": "original",
+      "label": "目立って",
+      "en": "She is especially good at math.",
+      "ja": "彼女はとくに数学が得意だ。"
+    },
+    {
+      "source": "original",
+      "label": "条件",
+      "en": "Be careful, especially when it rains.",
+      "ja": "気をつけて、とくに雨のときは。"
+    },
+    {
+      "source": "original",
+      "label": "particularly",
+      "en": "I'm not particularly hungry.",
+      "ja": "とくにおなかがすいているわけではない。"
+    }
+  ],
+  "check_points": [
+    "especially を文頭に置かないことがわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "especially / particularly が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2363
+    }
+  ]
+}
