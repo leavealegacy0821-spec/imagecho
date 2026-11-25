@@ -1,0 +1,103 @@
+{
+  "word": "grind",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɡraɪnd/",
+  "core_image": {
+    "text": "ごりごりこすって、細かくすりつぶす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"70\" y=\"48\" width=\"100\" height=\"24\"/><rect x=\"70\" y=\"76\" width=\"100\" height=\"24\"/><circle cx=\"100\" cy=\"112\" r=\"2\"/><circle cx=\"116\" cy=\"118\" r=\"2\"/><circle cx=\"132\" cy=\"112\" r=\"2\"/><circle cx=\"124\" cy=\"126\" r=\"2\"/><circle cx=\"108\" cy=\"128\" r=\"2\"/><path d=\"M90 38 Q120 22 150 38\"/><polyline points=\"140,38 150,38 147,28\"/></g><text x=\"120\" y=\"150\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すりつぶす</text></svg>"
+  },
+  "etymology": "古い英語 grindan(すりつぶす) → (石うすなどで)ごりごりすりつぶす・ひく → (歯を)ぎしぎしこすり合わせる・(刃を)研ぐ → (こすれて)ゆっくり進む・止まる(grind to a halt) → 名詞 the daily grind=すりへるような毎日の単調な仕事。活用 grind-ground-ground",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to break something into very small pieces or powder; to rub things together with a lot of force; to make something sharp by rubbing it."
+    },
+    {
+      "pos": "名詞",
+      "text": "hard, boring work that seems to never end."
+    }
+  ],
+  "cautions": [
+    "活用 grind-ground-ground(過去形 ground は「地面」とは別物。ground coffee=ひいたコーヒー)",
+    "grind A into B=AをすりつぶしてB(粉など)にする",
+    "grind to a halt=(機械・交通・経済が)だんだん止まる・行きづまる",
+    "grind one's teeth=歯ぎしりする。名詞 the daily grind=毎日のつらい単調な仕事"
+  ],
+  "patterns": [
+    {
+      "form": "grind A into B",
+      "meaning": "AをすりつぶしてBにする"
+    },
+    {
+      "form": "ground A",
+      "meaning": "ひいたA(ground coffee / beef)"
+    },
+    {
+      "form": "grind to a halt",
+      "meaning": "(だんだん)止まる"
+    },
+    {
+      "form": "grind one's teeth",
+      "meaning": "歯ぎしりする"
+    },
+    {
+      "form": "the daily grind",
+      "meaning": "毎日の単調な仕事"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "すりつぶす",
+      "en": "The farmers grind wheat into flour.",
+      "ja": "農家の人たちは小麦をひいて粉にする。"
+    },
+    {
+      "source": "original",
+      "label": "ground(過去分詞)",
+      "en": "I bought a bag of freshly ground coffee.",
+      "ja": "私はひきたてのコーヒーを1袋買った。"
+    },
+    {
+      "source": "original",
+      "label": "止まる",
+      "en": "Traffic ground to a halt because of the heavy snow.",
+      "ja": "大雪のせいで交通がまひした。"
+    },
+    {
+      "source": "original",
+      "label": "行きづまる",
+      "en": "The talks have ground to a halt.",
+      "ja": "その話し合いは行きづまっている。"
+    },
+    {
+      "source": "original",
+      "label": "歯ぎしりする",
+      "en": "My brother grinds his teeth in his sleep.",
+      "ja": "弟は寝ているときに歯ぎしりをする。"
+    },
+    {
+      "source": "original",
+      "label": "毎日の単調な仕事(名詞)",
+      "en": "She wanted to escape from the daily grind for a while.",
+      "ja": "彼女はしばらく毎日の単調な仕事から逃れたかった。"
+    }
+  ],
+  "check_points": [
+    "grind の過去形・過去分詞を言えるか",
+    "grind to a halt の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "活用 ground と grind to a halt が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1063
+    }
+  ]
+}

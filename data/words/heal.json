@@ -1,0 +1,98 @@
+{
+  "word": "heal",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/hiːl/",
+  "core_image": {
+    "text": "欠けたところがふさがって、元のまるごとに戻る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"60\" cy=\"80\" r=\"30\"/><polyline points=\"52,50 64,70 54,86 64,110\"/><line x1=\"100\" y1=\"80\" x2=\"140\" y2=\"80\"/><polyline points=\"133,76.2 140,80 133,83.8\"/><circle cx=\"180\" cy=\"80\" r=\"30\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">元どおり</text></svg>"
+  },
+  "etymology": "古い英語 hælan(まるごと・完全にする。whole・health と同じ根) → (傷・けがが)ふさがって治る・(傷を)治す → (心の傷・不和を)いやす・和解させる → 名詞 healing=いやし",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "(of a wound or injury) to become healthy again; to make someone or something healthy again; to end a painful feeling or a disagreement."
+    }
+  ],
+  "cautions": [
+    "自動詞も他動詞もある:The wound healed.(傷が治った)/ Time heals all wounds.(時はすべての傷をいやす)",
+    "heal は主に「傷・けが・心の傷」、cure は「病気」を治す(cure A of B)、treat は「治療する(治るとは限らない)」",
+    "heal up=(傷が)すっかり治る。heal the rift=不和を解消する",
+    "health(健康)・whole(まるごとの)と同じ根"
+  ],
+  "patterns": [
+    {
+      "form": "A heal",
+      "meaning": "A(傷)が治る"
+    },
+    {
+      "form": "heal A",
+      "meaning": "A(傷・心)をいやす・治す"
+    },
+    {
+      "form": "heal up",
+      "meaning": "すっかり治る"
+    },
+    {
+      "form": "heal the wounds of A",
+      "meaning": "Aの傷をいやす"
+    },
+    {
+      "form": "healing",
+      "meaning": "いやし"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "治る",
+      "en": "The cut on my finger healed in a few days.",
+      "ja": "指の切り傷は数日で治った。"
+    },
+    {
+      "source": "original",
+      "label": "heal up",
+      "en": "It will take a month for your leg to heal up completely.",
+      "ja": "足が完全に治るには1か月かかるだろう。"
+    },
+    {
+      "source": "original",
+      "label": "治す",
+      "en": "This cream helps heal dry skin.",
+      "ja": "このクリームは乾燥肌を治すのに役立つ。"
+    },
+    {
+      "source": "original",
+      "label": "いやす",
+      "en": "Music can heal a broken heart.",
+      "ja": "音楽は傷ついた心をいやすことができる。"
+    },
+    {
+      "source": "original",
+      "label": "和解させる",
+      "en": "The leaders worked hard to heal the divisions in the country.",
+      "ja": "指導者たちは国の分断を修復しようと懸命に努めた。"
+    },
+    {
+      "source": "original",
+      "label": "heal と cure",
+      "en": "Doctors can cure the disease, but the scar will take time to heal.",
+      "ja": "医者はその病気を治せるが、傷あとが治るには時間がかかる。"
+    }
+  ],
+  "check_points": [
+    "heal と cure の違いを言えるか",
+    "heal の自動詞・他動詞の例を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "heal / cure / treat の使い分けが語法・語彙問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1069
+    }
+  ]
+}

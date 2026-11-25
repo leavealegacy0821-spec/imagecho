@@ -1,0 +1,103 @@
+{
+  "word": "thrust",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/θrʌst/",
+  "core_image": {
+    "text": "力をこめて、ぐいっと前へ押しこむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"86\" y2=\"72\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"96\"/><line x1=\"90\" y1=\"72\" x2=\"210\" y2=\"72\"/><polyline points=\"203,68.2 210,72 203,75.8\"/><line x1=\"200\" y1=\"40\" x2=\"200\" y2=\"140\"/></g><text x=\"146\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぐいっと</text></svg>"
+  },
+  "etymology": "古いノルド語 þrysta(押す) → 力をこめてぐいっと押す・突き出す → (物を人に)押しつける(thrust A on B) → 名詞 the thrust=(議論の)ぐいっと前に出ている中心=要点・主旨/(エンジンの)推進力。活用は thrust-thrust-thrust(形が変わらない)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to push something or someone suddenly and with force; to force someone to accept something."
+    },
+    {
+      "pos": "名詞",
+      "text": "a sudden strong push; the main point of an argument; the force that moves a plane or rocket forward."
+    }
+  ],
+  "cautions": [
+    "活用は thrust-thrust-thrust(過去・過去分詞も同じ形)",
+    "thrust A into B=AをBにぐいっと突っこむ(thrust his hands into his pockets)",
+    "thrust A on / upon B=AをBに押しつける(be thrust into the spotlight=急に注目の的にされる)",
+    "名詞 the (main) thrust of A=Aの要点・主旨(長文の設問で出る)"
+  ],
+  "patterns": [
+    {
+      "form": "thrust A into B",
+      "meaning": "AをBに突っこむ"
+    },
+    {
+      "form": "thrust A at B",
+      "meaning": "AをBに突きつける"
+    },
+    {
+      "form": "thrust A on B",
+      "meaning": "AをBに押しつける"
+    },
+    {
+      "form": "thrust one's way through A",
+      "meaning": "Aを押し分けて進む"
+    },
+    {
+      "form": "the thrust of A",
+      "meaning": "Aの要点・主旨"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "突っこむ",
+      "en": "He thrust his hands into his pockets and walked away.",
+      "ja": "彼は両手をポケットに突っこんで歩き去った。"
+    },
+    {
+      "source": "original",
+      "label": "突きつける",
+      "en": "She thrust the letter at me and said, \"Read this.\"",
+      "ja": "彼女は手紙を私に突きつけて「読んで」と言った。"
+    },
+    {
+      "source": "original",
+      "label": "押し分けて進む",
+      "en": "He thrust his way through the crowd.",
+      "ja": "彼は人ごみを押し分けて進んだ。"
+    },
+    {
+      "source": "original",
+      "label": "押しつける",
+      "en": "Responsibility was suddenly thrust upon the young manager.",
+      "ja": "その若い責任者に責任が突然押しつけられた。"
+    },
+    {
+      "source": "original",
+      "label": "要点(名詞)",
+      "en": "The main thrust of his speech was that we must act now.",
+      "ja": "彼の演説の要点は、今すぐ行動しなければならないということだった。"
+    },
+    {
+      "source": "original",
+      "label": "推進力(名詞)",
+      "en": "The engines produce enough thrust to lift the rocket.",
+      "ja": "そのエンジンはロケットを持ち上げるだけの推進力を生む。"
+    }
+  ],
+  "check_points": [
+    "thrust の過去形・過去分詞を言えるか",
+    "the thrust of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "名詞 the thrust of A=要点 が長文の言い換えで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1062
+    }
+  ]
+}

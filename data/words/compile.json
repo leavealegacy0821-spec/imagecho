@@ -1,0 +1,98 @@
+{
+  "word": "compile",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kəmˈpaɪl/",
+  "core_image": {
+    "text": "ばらばらの資料を集めて、1冊にまとめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"20\" y=\"20\" width=\"30\" height=\"22\"/><rect x=\"20\" y=\"70\" width=\"30\" height=\"22\"/><rect x=\"20\" y=\"118\" width=\"30\" height=\"22\"/><line x1=\"54\" y1=\"31\" x2=\"144\" y2=\"64\"/><polyline points=\"138.7,58 144,64 136.1,65.2\"/><line x1=\"54\" y1=\"81\" x2=\"144\" y2=\"84\"/><polyline points=\"137.1,79.9 144,84 136.9,87.6\"/><line x1=\"54\" y1=\"129\" x2=\"144\" y2=\"104\"/><polyline points=\"136.2,102.2 144,104 138.3,109.6\"/><rect x=\"150\" y=\"44\" width=\"60\" height=\"76\"/><line x1=\"160\" y1=\"62\" x2=\"200\" y2=\"62\"/><line x1=\"160\" y1=\"78\" x2=\"200\" y2=\"78\"/><line x1=\"160\" y1=\"94\" x2=\"200\" y2=\"94\"/></g><text x=\"180\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まとめる</text></svg>"
+  },
+  "etymology": "ラテン語 com(いっしょに)+ pilare(積み上げる。pile=山 と同じ根) → いっしょに積み上げる → (資料・情報を)集めて編集する・まとめる → (辞書・リスト・報告書を)作る",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to collect information from different places and arrange it in a book, list or report."
+    }
+  ],
+  "cautions": [
+    "compile A=A(リスト・辞書・報告書・資料)を(集めて)作る・編集する。目的語は「できあがる物」も「集める情報」も来る",
+    "compile A from B=BからAを作る(B=いろいろな資料)",
+    "名詞 compilation=編集(物)、compiler=編集者",
+    "pile(積み重ね)と同じ根で「積み上げてまとめる」と覚える"
+  ],
+  "patterns": [
+    {
+      "form": "compile a list of A",
+      "meaning": "Aの一覧表を作る"
+    },
+    {
+      "form": "compile A from B",
+      "meaning": "BをもとにAをまとめる"
+    },
+    {
+      "form": "compile data / information",
+      "meaning": "データ・情報を集める"
+    },
+    {
+      "form": "compile a dictionary",
+      "meaning": "辞書を編む"
+    },
+    {
+      "form": "a compilation of A",
+      "meaning": "Aを集めたもの"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "一覧表を作る",
+      "en": "The teacher compiled a list of useful books for us.",
+      "ja": "先生は私たちのために役に立つ本の一覧を作ってくれた。"
+    },
+    {
+      "source": "original",
+      "label": "compile A from B",
+      "en": "The report was compiled from interviews with 200 students.",
+      "ja": "その報告書は200人の生徒への聞き取りをもとにまとめられた。"
+    },
+    {
+      "source": "original",
+      "label": "集める",
+      "en": "Scientists have compiled data on the weather for a century.",
+      "ja": "科学者たちは1世紀にわたって天候のデータを集めてきた。"
+    },
+    {
+      "source": "original",
+      "label": "編む",
+      "en": "It took them twenty years to compile the dictionary.",
+      "ja": "彼らがその辞書を編むのに20年かかった。"
+    },
+    {
+      "source": "original",
+      "label": "まとめる",
+      "en": "Please compile your notes before the meeting.",
+      "ja": "会議の前にメモをまとめておいてください。"
+    },
+    {
+      "source": "original",
+      "label": "compilation(名詞)",
+      "en": "This album is a compilation of her greatest hits.",
+      "ja": "このアルバムは彼女のヒット曲を集めたものだ。"
+    }
+  ],
+  "check_points": [
+    "compile a list の意味を言えるか",
+    "compile の名詞形を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で「(資料を)まとめる・作る」の意味で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1067
+    }
+  ]
+}

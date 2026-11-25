@@ -1,0 +1,107 @@
+{
+  "word": "shelter",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈʃeltər/",
+  "core_image": {
+    "text": "屋根の下に入って、雨風や危険から守られる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"60,60 120,20 180,60\"/><line x1=\"70\" y1=\"54\" x2=\"70\" y2=\"140\"/><line x1=\"170\" y1=\"54\" x2=\"170\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"108\" y2=\"96\"/><line x1=\"120\" y1=\"74\" x2=\"132\" y2=\"96\"/><line x1=\"24\" y1=\"40\" x2=\"20\" y2=\"52\"/><line x1=\"44\" y1=\"40\" x2=\"40\" y2=\"52\"/><line x1=\"24\" y1=\"80\" x2=\"20\" y2=\"92\"/><line x1=\"44\" y1=\"80\" x2=\"40\" y2=\"92\"/></g><text x=\"205\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">守る</text></svg>"
+  },
+  "etymology": "屋根で雨風・危険をさえぎる → 守られる場所=避難所・雨宿りの場所・住まい → 守ること・保護(take shelter / give shelter) → 動詞 shelter A from B=AをBから守る・かくまう/雨宿りする",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a place that protects you from bad weather or danger; protection, especially a place to live."
+    },
+    {
+      "pos": "動詞",
+      "text": "to protect someone or something from bad weather or danger; to stay in a place that gives protection."
+    }
+  ],
+  "cautions": [
+    "take shelter (from A)=(Aから)避難する・雨宿りする(seek shelter も同じ)",
+    "food, clothing and shelter=衣食住(shelter=住まい。順番が日本語と違う)",
+    "shelter A from B=AをBから守る(protect A from B と同じ型)",
+    "形容詞 sheltered=守られた・(過保護で)世間知らずの(a sheltered life)"
+  ],
+  "patterns": [
+    {
+      "form": "take shelter (from A)",
+      "meaning": "(Aから)避難する"
+    },
+    {
+      "form": "a shelter for A",
+      "meaning": "Aのための避難所・保護施設"
+    },
+    {
+      "form": "food, clothing and shelter",
+      "meaning": "衣食住"
+    },
+    {
+      "form": "shelter A from B",
+      "meaning": "AをBから守る"
+    },
+    {
+      "form": "shelter from A",
+      "meaning": "Aを避けて雨宿りする"
+    },
+    {
+      "form": "a sheltered life",
+      "meaning": "守られた(世間知らずの)生活"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "避難する",
+      "en": "We took shelter from the rain under a big tree.",
+      "ja": "私たちは大きな木の下で雨宿りした。"
+    },
+    {
+      "source": "original",
+      "label": "避難所",
+      "en": "Thousands of people stayed in shelters after the earthquake.",
+      "ja": "地震のあと何千人もの人が避難所で過ごした。"
+    },
+    {
+      "source": "original",
+      "label": "住まい",
+      "en": "Everyone needs food, clothing and shelter.",
+      "ja": "誰もが衣食住を必要としている。"
+    },
+    {
+      "source": "original",
+      "label": "shelter A from B",
+      "en": "The wall shelters the garden from strong winds.",
+      "ja": "その塀が庭を強い風から守っている。"
+    },
+    {
+      "source": "original",
+      "label": "かくまう",
+      "en": "The family sheltered the refugees in their house.",
+      "ja": "その家族は難民を自宅にかくまった。"
+    },
+    {
+      "source": "original",
+      "label": "保護施設",
+      "en": "She found the lost dog at an animal shelter.",
+      "ja": "彼女は迷子の犬を動物保護施設で見つけた。"
+    }
+  ],
+  "check_points": [
+    "take shelter の意味を言えるか",
+    "food, clothing and shelter の訳を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "take shelter と「衣食住」の shelter が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1070
+    }
+  ]
+}
