@@ -1,0 +1,93 @@
+{
+  "word": "messy",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈmesi/",
+  "core_image": {
+    "text": "物がごちゃごちゃに散らかった",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"120\" width=\"30\" height=\"20\" transform=\"rotate(-20 55 130)\"/><rect x=\"100\" y=\"124\" width=\"24\" height=\"16\"/><path d=\"M140 130 L170 120 L190 136\"/><circle cx=\"210\" cy=\"132\" r=\"8\"/><path d=\"M60 80 L80 60 L90 90 L120 70 L140 96 L170 66\"/></g><text x=\"180\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ごちゃごちゃ</text></svg>"
+  },
+  "etymology": "mess(散らかったもの・めちゃくちゃ:古くは「料理1皿分」) + -y → 散らかった・ぐちゃぐちゃの → (問題が)こじれた",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "untidy or dirty; (of a situation) complicated and unpleasant."
+    }
+  ],
+  "cautions": [
+    "dirty=よごれた/messy=散らかってごちゃごちゃ(よごれていなくても)⇔ tidy",
+    "a messy room=散らかった部屋",
+    "a messy divorce=泥沼の離婚",
+    "mess=(名詞)散らかった状態:make a mess=散らかす"
+  ],
+  "patterns": [
+    {
+      "form": "a messy room",
+      "meaning": "散らかった部屋"
+    },
+    {
+      "form": "make a mess",
+      "meaning": "散らかす"
+    },
+    {
+      "form": "in a mess",
+      "meaning": "散らかって・混乱して"
+    },
+    {
+      "form": "a messy situation",
+      "meaning": "こじれた状況"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "散らかった",
+      "en": "My brother's room is always messy.",
+      "ja": "弟の部屋はいつも散らかっている。"
+    },
+    {
+      "source": "original",
+      "label": "散らかす",
+      "en": "Don't make a mess in the kitchen.",
+      "ja": "台所を散らかさないで。"
+    },
+    {
+      "source": "original",
+      "label": "混乱",
+      "en": "Everything is in a mess.",
+      "ja": "何もかもめちゃくちゃだ。"
+    },
+    {
+      "source": "original",
+      "label": "字",
+      "en": "His handwriting is messy.",
+      "ja": "彼の字は乱雑だ。"
+    },
+    {
+      "source": "original",
+      "label": "こじれた",
+      "en": "It became a messy situation.",
+      "ja": "こじれた状況になった。"
+    },
+    {
+      "source": "original",
+      "label": "髪",
+      "en": "My hair is messy in the morning.",
+      "ja": "朝は髪がぼさぼさだ。"
+    }
+  ],
+  "check_points": [
+    "dirty と messy のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "make a mess が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1857
+    }
+  ]
+}

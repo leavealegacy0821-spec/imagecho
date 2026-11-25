@@ -1,0 +1,98 @@
+{
+  "word": "fat",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/fæt/",
+  "core_image": {
+    "text": "肉がたっぷりついて、ふくらんだ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"44\" r=\"12\"/><ellipse cx=\"120\" cy=\"90\" rx=\"34\" ry=\"34\"/><line x1=\"108\" y1=\"122\" x2=\"104\" y2=\"140\"/><line x1=\"132\" y1=\"122\" x2=\"136\" y2=\"140\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">でっぷり</text></svg>"
+  },
+  "etymology": "古い英語 fǣtt(太らせた・肥えた) → 太った・脂肪の多い → (本・財布が)分厚い → (名詞)脂肪",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "having too much flesh on the body; thick or large."
+    },
+    {
+      "pos": "名詞",
+      "text": "a substance under the skin; oil used in cooking."
+    }
+  ],
+  "cautions": [
+    "fat=太った(直接的で失礼になりやすい)/overweight=標準体重より重い(ていねい)/plump・chubby=ぽっちゃり(やわらかい言い方)",
+    "get fat=太る(gain weight の方がていねい)",
+    "fat=(名詞)脂肪:low-fat=低脂肪の",
+    "a fat wallet=分厚い財布"
+  ],
+  "patterns": [
+    {
+      "form": "get fat",
+      "meaning": "太る"
+    },
+    {
+      "form": "low-fat",
+      "meaning": "低脂肪の"
+    },
+    {
+      "form": "body fat",
+      "meaning": "体脂肪"
+    },
+    {
+      "form": "a fat chance",
+      "meaning": "見こみゼロ(皮肉)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "太る",
+      "en": "If you eat too much, you'll get fat.",
+      "ja": "食べすぎると太るよ。"
+    },
+    {
+      "source": "original",
+      "label": "脂肪",
+      "en": "Avoid food that is high in fat.",
+      "ja": "脂肪の多い食べ物は避けなさい。"
+    },
+    {
+      "source": "original",
+      "label": "低脂肪",
+      "en": "I drink low-fat milk.",
+      "ja": "私は低脂肪乳を飲む。"
+    },
+    {
+      "source": "original",
+      "label": "分厚い",
+      "en": "He carried a fat book under his arm.",
+      "ja": "彼は分厚い本をわきにかかえていた。"
+    },
+    {
+      "source": "original",
+      "label": "失礼",
+      "en": "Calling someone fat can hurt their feelings.",
+      "ja": "人を太っていると言うと傷つけることがある。"
+    },
+    {
+      "source": "original",
+      "label": "言いかえ",
+      "en": "Instead of \"fat,\" the doctor used the word \"overweight.\"",
+      "ja": "医者は fat ではなく overweight という語を使った。"
+    }
+  ],
+  "check_points": [
+    "fat が失礼になりやすいことを知っているか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "low-fat、gain weight との言いかえが出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1849
+    }
+  ]
+}

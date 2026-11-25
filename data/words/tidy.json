@@ -1,0 +1,98 @@
+{
+  "word": "tidy",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/ˈtaɪdi/",
+  "core_image": {
+    "text": "物が決まった所に、きちんと片づいた",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"30\" width=\"120\" height=\"110\"/><line x1=\"60\" y1=\"66\" x2=\"180\" y2=\"66\"/><line x1=\"60\" y1=\"102\" x2=\"180\" y2=\"102\"/><rect x=\"70\" y=\"42\" width=\"10\" height=\"24\"/><rect x=\"82\" y=\"42\" width=\"10\" height=\"24\"/><rect x=\"94\" y=\"42\" width=\"10\" height=\"24\"/><rect x=\"70\" y=\"78\" width=\"10\" height=\"24\"/><rect x=\"82\" y=\"78\" width=\"10\" height=\"24\"/><rect x=\"140\" y=\"84\" width=\"30\" height=\"18\"/></g><text x=\"210\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">きちん</text></svg>"
+  },
+  "etymology": "tide(時・季節:潮の満ち引き) + -y → 時にかなった・ちょうどよい → きちんとした・整頓された",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "arranged neatly and in order; (of a person) liking to keep things in order."
+    },
+    {
+      "pos": "動詞",
+      "text": "(tidy up) to make a place neat."
+    }
+  ],
+  "cautions": [
+    "clean=よごれがない/tidy=散らかっていない・整頓された(⇔ messy)/neat=きちんと整った(見た目)",
+    "tidy up A=Aを片づける",
+    "a tidy sum=(口語)かなりの額",
+    "keep A tidy=Aをきちんとしておく"
+  ],
+  "patterns": [
+    {
+      "form": "tidy up A",
+      "meaning": "Aを片づける"
+    },
+    {
+      "form": "keep A tidy",
+      "meaning": "Aをきちんとしておく"
+    },
+    {
+      "form": "a tidy room",
+      "meaning": "整頓された部屋"
+    },
+    {
+      "form": "a tidy sum",
+      "meaning": "かなりの額"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "片づける",
+      "en": "Tidy up your room before dinner.",
+      "ja": "夕食前に部屋を片づけなさい。"
+    },
+    {
+      "source": "original",
+      "label": "きちん",
+      "en": "Her desk is always tidy.",
+      "ja": "彼女の机はいつもきちんとしている。"
+    },
+    {
+      "source": "original",
+      "label": "しておく",
+      "en": "Please keep the kitchen tidy.",
+      "ja": "台所をきちんとしておいてね。"
+    },
+    {
+      "source": "original",
+      "label": "対比",
+      "en": "His room is messy, but mine is tidy.",
+      "ja": "彼の部屋は散らかっているが、私の部屋は片づいている。"
+    },
+    {
+      "source": "original",
+      "label": "人柄",
+      "en": "He is a very tidy person.",
+      "ja": "彼はとても几帳面な人だ。"
+    },
+    {
+      "source": "original",
+      "label": "大金",
+      "en": "She made a tidy sum from selling her paintings.",
+      "ja": "彼女は絵を売ってかなりのお金をかせいだ。"
+    }
+  ],
+  "check_points": [
+    "clean と tidy のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "tidy up が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1858
+    }
+  ]
+}

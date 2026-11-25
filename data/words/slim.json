@@ -1,0 +1,94 @@
+{
+  "word": "slim",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/slɪm/",
+  "core_image": {
+    "text": "ほっそりして、魅力的・見こみがうすい",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><path d=\"M100 40 Q96 90 104 140\" stroke-dasharray=\"3 3\"/><path d=\"M140 40 Q144 90 136 140\" stroke-dasharray=\"3 3\"/></g><text x=\"190\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ほっそり</text></svg>"
+  },
+  "etymology": "オランダ語 slim(悪い・曲がった) → (英語で)細い・やせた → ほっそりして魅力的な → (見こみが)うすい(a slim chance)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "thin in an attractive way; very small in amount or chance."
+    },
+    {
+      "pos": "動詞",
+      "text": "(slim down) to become thinner."
+    }
+  ],
+  "cautions": [
+    "thin=細い(中立・ときにやせすぎ)/slim=ほっそりして魅力的(ほめ言葉)/slender=すらりと優美/skinny=がりがり",
+    "「スマートな体型」は slim(smart ではない)",
+    "a slim chance=わずかな見こみ",
+    "slim down=やせる"
+  ],
+  "patterns": [
+    {
+      "form": "a slim figure",
+      "meaning": "ほっそりした体型"
+    },
+    {
+      "form": "a slim chance",
+      "meaning": "わずかな見こみ"
+    },
+    {
+      "form": "slim down",
+      "meaning": "やせる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ほっそり",
+      "en": "She is tall and slim.",
+      "ja": "彼女は背が高くてほっそりしている。"
+    },
+    {
+      "source": "original",
+      "label": "見こみ",
+      "en": "There is only a slim chance of winning.",
+      "ja": "勝てる見こみはわずかだ。"
+    },
+    {
+      "source": "original",
+      "label": "やせる",
+      "en": "He slimmed down before the wedding.",
+      "ja": "彼は結婚式の前にやせた。"
+    },
+    {
+      "source": "original",
+      "label": "スマート",
+      "en": "She looks slim in that dress.",
+      "ja": "あのドレスを着ると彼女はスマートに見える。"
+    },
+    {
+      "source": "original",
+      "label": "薄い",
+      "en": "This is a slim phone.",
+      "ja": "これは薄型の電話だ。"
+    },
+    {
+      "source": "original",
+      "label": "差",
+      "en": "They won by a slim margin.",
+      "ja": "彼らはわずかな差で勝った。"
+    }
+  ],
+  "check_points": [
+    "「スマートな体型」を英語で言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "slim(=やせた)、a slim chance が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1851
+    }
+  ]
+}
