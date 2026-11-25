@@ -1,0 +1,89 @@
+{
+  "word": "weapon",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈwepən/",
+  "core_image": {
+    "text": "戦ったり傷つけたりするための道具",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"40\" y1=\"120\" x2=\"140\" y2=\"40\"/><line x1=\"56\" y1=\"100\" x2=\"70\" y2=\"114\"/><polygon points=\"140,40 150,30 146,46\"/><rect x=\"160\" y=\"90\" width=\"50\" height=\"16\"/><rect x=\"190\" y=\"106\" width=\"12\" height=\"20\"/></g><text x=\"80\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">武器</text></svg>"
+  },
+  "etymology": "古い英語 wǣpen(武器) → 武器・兵器 → (比ゆ的に)対抗手段(a weapon against)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an object used for fighting or attacking; something used to gain an advantage."
+    }
+  ],
+  "cautions": [
+    "weapon=武器(数えられる)・arms=(複数形で)武器(改まった)",
+    "nuclear weapons=核兵器",
+    "a weapon against A=Aへの対抗手段",
+    "発音 /ˈwepən/(ウェパン)"
+  ],
+  "patterns": [
+    {
+      "form": "nuclear weapons",
+      "meaning": "核兵器"
+    },
+    {
+      "form": "carry a weapon",
+      "meaning": "武器を持ち歩く"
+    },
+    {
+      "form": "a weapon against A",
+      "meaning": "Aへの武器・対抗手段"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "核兵器",
+      "en": "We must get rid of nuclear weapons.",
+      "ja": "核兵器をなくさなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "武器",
+      "en": "The police found a weapon in his car.",
+      "ja": "警察は彼の車から武器を見つけた。"
+    },
+    {
+      "source": "original",
+      "label": "対抗手段",
+      "en": "Education is the best weapon against poverty.",
+      "ja": "教育は貧困に対する最高の武器だ。"
+    },
+    {
+      "source": "original",
+      "label": "持ち歩く",
+      "en": "It is illegal to carry a weapon.",
+      "ja": "武器を持ち歩くのは違法だ。"
+    },
+    {
+      "source": "original",
+      "label": "秘密兵器",
+      "en": "Her speed is her secret weapon.",
+      "ja": "スピードが彼女の秘密兵器だ。"
+    },
+    {
+      "source": "original",
+      "label": "兵器",
+      "en": "The country spends a lot on weapons.",
+      "ja": "その国は兵器に多くのお金を使う。"
+    }
+  ],
+  "check_points": [
+    "weapon の発音を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "nuclear weapons が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1915
+    }
+  ]
+}

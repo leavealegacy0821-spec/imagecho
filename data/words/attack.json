@@ -1,0 +1,98 @@
+{
+  "word": "attack",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/əˈtæk/",
+  "core_image": {
+    "text": "こちらから、相手に向かって攻めかかる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"90\" x2=\"160\" y2=\"90\"/><polyline points=\"153,86.2 160,90 153,93.8\"/><rect x=\"170\" y=\"70\" width=\"40\" height=\"70\"/><path d=\"M164 80 L156 72 M164 100 L154 100\"/></g><text x=\"110\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">攻める</text></svg>"
+  },
+  "etymology": "イタリア語 attaccare(くっつける・(戦いを)仕かける) → 攻撃する・おそう → (言葉で)非難する → (病気が)おそう(heart attack=心臓発作)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to use violence against a person or place; to criticize strongly; (of a disease) to damage part of the body."
+    },
+    {
+      "pos": "名詞",
+      "text": "an act of attacking; strong criticism; a sudden period of illness."
+    }
+  ],
+  "cautions": [
+    "attack A=Aを攻撃する(他動詞:attack to A とは言わない)/an attack on A=Aへの攻撃(名詞のとき on)",
+    "defend⇔attack",
+    "a heart attack=心臓発作",
+    "under attack=攻撃を受けて"
+  ],
+  "patterns": [
+    {
+      "form": "attack A",
+      "meaning": "Aを攻撃する"
+    },
+    {
+      "form": "an attack on A",
+      "meaning": "Aへの攻撃"
+    },
+    {
+      "form": "under attack",
+      "meaning": "攻撃されて・非難をあびて"
+    },
+    {
+      "form": "a heart attack",
+      "meaning": "心臓発作"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "攻撃",
+      "en": "The enemy attacked the city at night.",
+      "ja": "敵は夜にその町を攻撃した。"
+    },
+    {
+      "source": "original",
+      "label": "on",
+      "en": "There was a terrorist attack on the airport.",
+      "ja": "空港でテロ攻撃があった。"
+    },
+    {
+      "source": "original",
+      "label": "発作",
+      "en": "My uncle had a heart attack.",
+      "ja": "おじが心臓発作を起こした。"
+    },
+    {
+      "source": "original",
+      "label": "非難",
+      "en": "The newspaper attacked the government's plan.",
+      "ja": "新聞は政府の計画を激しく非難した。"
+    },
+    {
+      "source": "original",
+      "label": "受けて",
+      "en": "The city was under attack.",
+      "ja": "その町は攻撃を受けていた。"
+    },
+    {
+      "source": "original",
+      "label": "おそう",
+      "en": "The virus attacks the immune system.",
+      "ja": "そのウイルスは免疫系をおそう。"
+    }
+  ],
+  "check_points": [
+    "attack A / an attack on A の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "attack(他動詞)/ an attack on が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1913
+    }
+  ]
+}

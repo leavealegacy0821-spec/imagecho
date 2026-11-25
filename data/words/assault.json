@@ -1,0 +1,93 @@
+{
+  "word": "assault",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/əˈsɔːlt/",
+  "core_image": {
+    "text": "いきなり飛びかかって、暴力をふるう",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"76\" y1=\"70\" x2=\"120\" y2=\"60\"/><line x1=\"80\" y1=\"100\" x2=\"150\" y2=\"100\"/><polyline points=\"143,96.2 150,100 143,103.8\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><path d=\"M160 40 L150 30 M200 40 L210 30\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いきなり</text></svg>"
+  },
+  "etymology": "ラテン語 ad-(〜へ) + saltare(とびかかる:salire=とぶ) → 〜にとびかかる → 暴行・強襲",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a violent physical attack on a person; a military attack."
+    },
+    {
+      "pos": "動詞",
+      "text": "to attack someone violently."
+    }
+  ],
+  "cautions": [
+    "attack=攻撃(広い)/assault=(人への)暴行・(軍の)強襲(法律・ニュースの語)",
+    "be charged with assault=暴行罪で起訴される",
+    "an assault on A=Aへの攻撃・侵害"
+  ],
+  "patterns": [
+    {
+      "form": "assault A",
+      "meaning": "Aに暴行する"
+    },
+    {
+      "form": "an assault on A",
+      "meaning": "Aへの襲撃"
+    },
+    {
+      "form": "be charged with assault",
+      "meaning": "暴行罪で起訴される"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "暴行",
+      "en": "He was arrested for assault.",
+      "ja": "彼は暴行容疑で逮捕された。"
+    },
+    {
+      "source": "original",
+      "label": "おそう",
+      "en": "A man assaulted her on her way home.",
+      "ja": "帰宅途中に男が彼女をおそった。"
+    },
+    {
+      "source": "original",
+      "label": "強襲",
+      "en": "The army launched an assault on the city.",
+      "ja": "軍はその町への強襲を開始した。"
+    },
+    {
+      "source": "original",
+      "label": "起訴",
+      "en": "He was charged with assault.",
+      "ja": "彼は暴行罪で起訴された。"
+    },
+    {
+      "source": "original",
+      "label": "侵害",
+      "en": "The new law is an assault on free speech.",
+      "ja": "新しい法律は言論の自由への攻撃だ。"
+    },
+    {
+      "source": "original",
+      "label": "騒音",
+      "en": "Loud music was an assault on my ears.",
+      "ja": "大音量の音楽が耳をおそった。"
+    }
+  ],
+  "check_points": [
+    "attack と assault のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "ニュース英語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1914
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "battle",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈbætl/",
+  "core_image": {
+    "text": "ある場所での、ひとつの戦い・激しい争い",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"40\" y1=\"140\" x2=\"40\" y2=\"50\"/><polygon points=\"40,50 80,60 40,70\"/><line x1=\"200\" y1=\"140\" x2=\"200\" y2=\"50\"/><polygon points=\"200,50 160,60 200,70\"/><path d=\"M100 90 L140 110 M140 90 L100 110\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひと戦</text></svg>"
+  },
+  "etymology": "ラテン語 battuere(打つ:beat・combat と同じ根) → 打ち合い → (特定の場所での)戦闘 → (長く続く)闘い(a battle against)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a fight between armies in a particular place; a struggle to achieve something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to fight or struggle."
+    }
+  ],
+  "cautions": [
+    "war=国どうしの戦争全体/battle=その中の(ある場所での)ひとつの戦闘・激しい闘い",
+    "a battle against [with] A=Aとの闘い(病気・困難にも)",
+    "win [lose] a battle=戦いに勝つ[負ける]",
+    "an uphill battle=苦しい闘い"
+  ],
+  "patterns": [
+    {
+      "form": "the Battle of A",
+      "meaning": "Aの戦い"
+    },
+    {
+      "form": "a battle against A",
+      "meaning": "Aとの闘い"
+    },
+    {
+      "form": "an uphill battle",
+      "meaning": "苦戦"
+    },
+    {
+      "form": "battle with A",
+      "meaning": "Aと闘う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "戦い",
+      "en": "The Battle of Sekigahara took place in 1600.",
+      "ja": "関ヶ原の戦いは1600年に起きた。"
+    },
+    {
+      "source": "original",
+      "label": "闘い",
+      "en": "Her battle against cancer lasted three years.",
+      "ja": "彼女のがんとの闘いは3年続いた。"
+    },
+    {
+      "source": "original",
+      "label": "苦戦",
+      "en": "Getting the law changed will be an uphill battle.",
+      "ja": "その法律を変えるのは苦しい闘いになるだろう。"
+    },
+    {
+      "source": "original",
+      "label": "対比",
+      "en": "They won the battle but lost the war.",
+      "ja": "彼らは戦闘には勝ったが戦争には負けた。"
+    },
+    {
+      "source": "original",
+      "label": "闘う",
+      "en": "Firefighters battled the fire for hours.",
+      "ja": "消防士たちは何時間も火と闘った。"
+    },
+    {
+      "source": "original",
+      "label": "争い",
+      "en": "There was a legal battle over the land.",
+      "ja": "その土地をめぐって裁判沙汰になった。"
+    }
+  ],
+  "check_points": [
+    "war と battle のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a battle against が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1910
+    }
+  ]
+}

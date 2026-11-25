@@ -1,0 +1,89 @@
+{
+  "word": "army",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈɑːrmi/",
+  "core_image": {
+    "text": "武器をもって集まった、陸の大きな軍",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><circle cx=\"160\" cy=\"52\" r=\"10\"/><line x1=\"160\" y1=\"62\" x2=\"160\" y2=\"106\"/><line x1=\"160\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"106\" x2=\"170\" y2=\"140\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"20\"/><line x1=\"80\" y1=\"30\" x2=\"80\" y2=\"20\"/><line x1=\"120\" y1=\"30\" x2=\"120\" y2=\"20\"/><line x1=\"160\" y1=\"30\" x2=\"160\" y2=\"20\"/><line x1=\"200\" y1=\"30\" x2=\"200\" y2=\"20\"/></g><text x=\"120\" y=\"160\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">軍隊</text></svg>"
+  },
+  "etymology": "ラテン語 armata(武装したもの:arms=武器 と同じ根) → 武装した集団 → 陸軍・軍隊 → (比ゆ的に)大勢(an army of)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a large organized group of soldiers who fight on land; a large group of people or things."
+    }
+  ],
+  "cautions": [
+    "army=陸軍(navy=海軍・air force=空軍)/the military=軍(全体)",
+    "join the army=入隊する",
+    "an army of A=大勢のA(an army of volunteers)",
+    "arms=武器(同じ根)"
+  ],
+  "patterns": [
+    {
+      "form": "join the army",
+      "meaning": "軍に入る"
+    },
+    {
+      "form": "an army of A",
+      "meaning": "大勢のA"
+    },
+    {
+      "form": "the army and navy",
+      "meaning": "陸軍と海軍"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "軍隊",
+      "en": "He joined the army at 18.",
+      "ja": "彼は18歳で陸軍に入った。"
+    },
+    {
+      "source": "original",
+      "label": "大勢",
+      "en": "An army of volunteers cleaned the beach.",
+      "ja": "大勢のボランティアが浜辺をそうじした。"
+    },
+    {
+      "source": "original",
+      "label": "陸軍",
+      "en": "The army and the navy worked together.",
+      "ja": "陸軍と海軍が協力した。"
+    },
+    {
+      "source": "original",
+      "label": "進軍",
+      "en": "The army marched into the city.",
+      "ja": "軍は町に進軍した。"
+    },
+    {
+      "source": "original",
+      "label": "軍",
+      "en": "The country has a large army.",
+      "ja": "その国は大きな軍隊をもっている。"
+    },
+    {
+      "source": "original",
+      "label": "アリ",
+      "en": "An army of ants carried the food away.",
+      "ja": "アリの大群が食べ物を運び去った。"
+    }
+  ],
+  "check_points": [
+    "army / navy / air force を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "an army of が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1916
+    }
+  ]
+}

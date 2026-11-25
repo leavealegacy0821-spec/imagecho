@@ -1,0 +1,94 @@
+{
+  "word": "combat",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈkɑːmbæt/ /kəmˈbæt/",
+  "core_image": {
+    "text": "問題や敵と、正面から打ち合う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><rect x=\"150\" y=\"60\" width=\"60\" height=\"80\"/><line x1=\"160\" y1=\"80\" x2=\"200\" y2=\"120\"/><line x1=\"200\" y1=\"80\" x2=\"160\" y2=\"120\"/><line x1=\"80\" y1=\"90\" x2=\"144\" y2=\"90\"/><polyline points=\"137,86.2 144,90 137,93.8\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">問題</text></svg>"
+  },
+  "etymology": "com-(=together 互いに) + battuere(打つ:battle と同じ根) → 互いに打ち合う → 戦闘・(問題と)闘う・取り組む",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "fighting, especially during a war."
+    },
+    {
+      "pos": "動詞",
+      "text": "to try to stop something bad from happening or getting worse."
+    }
+  ],
+  "cautions": [
+    "(動詞)combat A=A(犯罪・病気・温暖化)と闘う・撲滅に取り組む(tackle と近い)",
+    "(名詞)戦闘(in combat=戦闘で)",
+    "改まった語:新聞・論説でよく使う",
+    "fight=戦う(広い)/combat=問題と闘う(改まった)"
+  ],
+  "patterns": [
+    {
+      "form": "combat A",
+      "meaning": "A(問題)と闘う・に取り組む"
+    },
+    {
+      "form": "combat climate change",
+      "meaning": "気候変動に取り組む"
+    },
+    {
+      "form": "in combat",
+      "meaning": "戦闘で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "取り組む",
+      "en": "We need new ways to combat climate change.",
+      "ja": "気候変動と闘う新しい方法が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "撲滅",
+      "en": "The police are trying to combat crime.",
+      "ja": "警察は犯罪の撲滅に努めている。"
+    },
+    {
+      "source": "original",
+      "label": "病気",
+      "en": "The new drug helps combat the disease.",
+      "ja": "その新薬は病気と闘うのに役立つ。"
+    },
+    {
+      "source": "original",
+      "label": "戦闘",
+      "en": "Many soldiers died in combat.",
+      "ja": "多くの兵士が戦闘で亡くなった。"
+    },
+    {
+      "source": "original",
+      "label": "いじめ",
+      "en": "Schools must combat bullying.",
+      "ja": "学校はいじめに対処しなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "対策",
+      "en": "The city introduced measures to combat pollution.",
+      "ja": "市は汚染対策を導入した。"
+    }
+  ],
+  "check_points": [
+    "combat A(問題と闘う)の意味がわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "combat climate change など、長文・論説で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1912
+    }
+  ]
+}
