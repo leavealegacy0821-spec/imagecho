@@ -1,0 +1,93 @@
+{
+  "word": "holiday",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈhɑːlədeɪ/",
+  "core_image": {
+    "text": "仕事や学校が休みの日(祝日・休暇)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"30\" width=\"160\" height=\"110\"/><line x1=\"40\" y1=\"54\" x2=\"200\" y2=\"54\"/><circle cx=\"120\" cy=\"96\" r=\"20\"/><path d=\"M110 92 Q120 104 130 92\"/><circle cx=\"112\" cy=\"88\" r=\"2\"/><circle cx=\"128\" cy=\"88\" r=\"2\"/></g><text x=\"120\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やすみ</text></svg>"
+  },
+  "etymology": "holy(神聖な) + day(日) → 神聖な日=祭日 → 祝日・休日 → (英)休暇",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a day when people do not go to work or school; (British) a period of time away from work for rest or travel."
+    }
+  ],
+  "cautions": [
+    "(米)holiday=祝日/vacation=休暇",
+    "(英)holiday=休暇(go on holiday)",
+    "a national holiday=国民の祝日",
+    "holy day(聖なる日)から"
+  ],
+  "patterns": [
+    {
+      "form": "a national holiday",
+      "meaning": "国民の祝日"
+    },
+    {
+      "form": "on holiday",
+      "meaning": "(英)休暇中で"
+    },
+    {
+      "form": "go on holiday",
+      "meaning": "(英)休暇に出かける"
+    },
+    {
+      "form": "the holidays",
+      "meaning": "(米)年末年始"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "祝日",
+      "en": "Today is a national holiday.",
+      "ja": "今日は国民の祝日だ。"
+    },
+    {
+      "source": "original",
+      "label": "休暇",
+      "en": "They are on holiday in Spain.",
+      "ja": "彼らはスペインで休暇中だ。"
+    },
+    {
+      "source": "original",
+      "label": "年末年始",
+      "en": "Happy holidays!",
+      "ja": "楽しい休暇を!"
+    },
+    {
+      "source": "original",
+      "label": "休み",
+      "en": "Monday is a holiday, so there's no school.",
+      "ja": "月曜は休日なので学校はない。"
+    },
+    {
+      "source": "original",
+      "label": "祭日",
+      "en": "Christmas is a holiday in many countries.",
+      "ja": "クリスマスは多くの国で祝日だ。"
+    },
+    {
+      "source": "original",
+      "label": "出かける",
+      "en": "We went on holiday to Okinawa.",
+      "ja": "沖縄へ休暇旅行に出かけた。"
+    }
+  ],
+  "check_points": [
+    "holiday と vacation の米英のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "holiday / vacation の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2172
+    }
+  ]
+}

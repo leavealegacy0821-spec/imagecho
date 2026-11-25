@@ -1,0 +1,98 @@
+{
+  "word": "vacation",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/veɪˈkeɪʃn/",
+  "core_image": {
+    "text": "仕事や学校からはなれる長めの休暇",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 120 Q40 110 70 120 T130 120 T190 120 T240 120\"/><line x1=\"160\" y1=\"120\" x2=\"160\" y2=\"70\"/><path d=\"M130 76 Q160 50 190 76 Z\"/><rect x=\"60\" y=\"100\" width=\"40\" height=\"10\"/><circle cx=\"210\" cy=\"30\" r=\"14\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">きゅうか</text></svg>"
+  },
+  "etymology": "ラテン語 vacare(からっぽである:vacant・vacuum と同じ根) → (仕事から)はなれてからっぽ → 休暇",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "(American) a period of time when you do not work or study, often to travel."
+    },
+    {
+      "pos": "動詞",
+      "text": "to take a vacation."
+    }
+  ],
+  "cautions": [
+    "(米)vacation=休暇(長め)/holiday=祝日",
+    "summer vacation=夏休み",
+    "on vacation=休暇中で",
+    "take a vacation=休暇をとる"
+  ],
+  "patterns": [
+    {
+      "form": "summer vacation",
+      "meaning": "夏休み"
+    },
+    {
+      "form": "on vacation",
+      "meaning": "休暇中で"
+    },
+    {
+      "form": "take a vacation",
+      "meaning": "休暇をとる"
+    },
+    {
+      "form": "go on vacation",
+      "meaning": "休暇に出かける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "夏休み",
+      "en": "What did you do during summer vacation?",
+      "ja": "夏休みは何をしたの?"
+    },
+    {
+      "source": "original",
+      "label": "休暇中",
+      "en": "My teacher is on vacation this week.",
+      "ja": "先生は今週休暇中だ。"
+    },
+    {
+      "source": "original",
+      "label": "とる",
+      "en": "I'm going to take a vacation next month.",
+      "ja": "来月休暇をとるつもりだ。"
+    },
+    {
+      "source": "original",
+      "label": "出かける",
+      "en": "We went on vacation to Hawaii.",
+      "ja": "ハワイへ休暇旅行に出かけた。"
+    },
+    {
+      "source": "original",
+      "label": "長い",
+      "en": "The students have a long spring vacation.",
+      "ja": "学生たちは長い春休みがある。"
+    },
+    {
+      "source": "original",
+      "label": "過ごす",
+      "en": "They vacationed in the mountains.",
+      "ja": "彼らは山で休暇を過ごした。"
+    }
+  ],
+  "check_points": [
+    "on vacation の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "summer vacation、on vacation が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2173
+    }
+  ]
+}
