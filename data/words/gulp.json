@@ -1,0 +1,94 @@
+{
+  "word": "gulp",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɡʌlp/",
+  "core_image": {
+    "text": "ごくりと、一気に飲みこむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"60\" r=\"16\"/><line x1=\"80\" y1=\"76\" x2=\"80\" y2=\"140\"/><circle cx=\"80\" cy=\"96\" r=\"6\"/><line x1=\"120\" y1=\"60\" x2=\"120\" y2=\"110\"/><polyline points=\"123.8,103 120,110 116.2,103\"/><path d=\"M140 40 l6 -6 l6 6\"/></g><text x=\"180\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ごくり</text></svg>"
+  },
+  "etymology": "のどが鳴る音をまねた語 → ごくりと飲みこむ・がぶ飲みする → (緊張・驚きで)つばを飲みこむ → gulp for air=あえぐ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to swallow large amounts of food or drink quickly; to swallow because you are nervous or surprised."
+    },
+    {
+      "pos": "名詞",
+      "text": "a large amount swallowed quickly."
+    }
+  ],
+  "cautions": [
+    "sip=ちびちびすする/gulp=ごくごく一気に飲む・がつがつ食べる",
+    "gulp down A=Aを一気に飲みこむ",
+    "(緊張で)ごくりとつばを飲む",
+    "gulp for air=空気を求めてあえぐ"
+  ],
+  "patterns": [
+    {
+      "form": "gulp down A",
+      "meaning": "Aを一気に飲む"
+    },
+    {
+      "form": "in one gulp",
+      "meaning": "ひと息に"
+    },
+    {
+      "form": "gulp for air",
+      "meaning": "あえぐ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "一気に飲む",
+      "en": "He gulped down a glass of cold water.",
+      "ja": "彼は冷たい水を1杯一気に飲みほした。"
+    },
+    {
+      "source": "original",
+      "label": "ひと息に",
+      "en": "She drank the juice in one gulp.",
+      "ja": "彼女はジュースをひと息に飲んだ。"
+    },
+    {
+      "source": "original",
+      "label": "つばを飲む",
+      "en": "He gulped nervously before answering.",
+      "ja": "彼は答える前に緊張してごくりとつばを飲んだ。"
+    },
+    {
+      "source": "original",
+      "label": "あえぐ",
+      "en": "The swimmer came up gulping for air.",
+      "ja": "泳者は空気を求めてあえぎながら浮き上がった。"
+    },
+    {
+      "source": "original",
+      "label": "がつがつ",
+      "en": "Don't gulp your food. Eat slowly.",
+      "ja": "がつがつ食べないで、ゆっくり食べなさい。"
+    },
+    {
+      "source": "original",
+      "label": "ごくり",
+      "en": "I took a big gulp of milk.",
+      "ja": "牛乳をごくりと大きく飲んだ。"
+    }
+  ],
+  "check_points": [
+    "sip と gulp のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "食べ方・飲み方の動詞の使い分けで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1356
+    }
+  ]
+}

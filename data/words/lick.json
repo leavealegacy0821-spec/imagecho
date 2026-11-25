@@ -1,0 +1,98 @@
+{
+  "word": "lick",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/lɪk/",
+  "core_image": {
+    "text": "舌を出して、ぺろりとなめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"80\" cy=\"70\" r=\"20\"/><path d=\"M96 80 Q112 88 104 100 Q96 96 92 84\"/><polygon points=\"150,50 190,50 170,110\"/><circle cx=\"170\" cy=\"44\" r=\"16\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぺろり</text></svg>"
+  },
+  "etymology": "古い英語 liccian(なめる) → 舌でなめる → (炎・波が)なめるように触れる → (口語)打ち負かす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move your tongue across something; (informal) to defeat someone easily."
+    },
+    {
+      "pos": "名詞",
+      "text": "an act of licking."
+    }
+  ],
+  "cautions": [
+    "lick=舌でなめる(アイス・皿・傷)",
+    "lick one's lips=舌なめずりする(期待して)",
+    "lick one's wounds=傷をいやす(負けたあと)",
+    "(口語)lick A=Aを打ち負かす"
+  ],
+  "patterns": [
+    {
+      "form": "lick A",
+      "meaning": "Aをなめる"
+    },
+    {
+      "form": "lick one's lips",
+      "meaning": "舌なめずりする"
+    },
+    {
+      "form": "lick one's wounds",
+      "meaning": "傷をいやす"
+    },
+    {
+      "form": "a lick of paint",
+      "meaning": "ひと塗りのペンキ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "なめる",
+      "en": "The child licked her ice cream.",
+      "ja": "子どもはアイスクリームをなめた。"
+    },
+    {
+      "source": "original",
+      "label": "なめる",
+      "en": "The dog licked my face.",
+      "ja": "犬が私の顔をなめた。"
+    },
+    {
+      "source": "original",
+      "label": "舌なめずり",
+      "en": "He licked his lips when he saw the cake.",
+      "ja": "ケーキを見て彼は舌なめずりした。"
+    },
+    {
+      "source": "original",
+      "label": "傷をいやす",
+      "en": "After the defeat, the team went home to lick its wounds.",
+      "ja": "負けたあと、チームは傷をいやしに帰った。"
+    },
+    {
+      "source": "original",
+      "label": "ひと塗り",
+      "en": "The door needs a lick of paint.",
+      "ja": "ドアにペンキをひと塗りする必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "なめる",
+      "en": "Flames licked the walls of the house.",
+      "ja": "炎が家の壁をなめるように広がった。"
+    }
+  ],
+  "check_points": [
+    "lick one's lips の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1359
+    }
+  ]
+}

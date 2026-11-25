@@ -1,0 +1,93 @@
+{
+  "word": "nibble",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈnɪbl/",
+  "core_image": {
+    "text": "小さく何度も、ちょこちょこかじる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><ellipse cx=\"140\" cy=\"120\" rx=\"40\" ry=\"20\"/><path d=\"M100 120 l4 -4 l4 4 l4 -4 l4 4\"/><circle cx=\"70\" cy=\"110\" r=\"12\"/><ellipse cx=\"64\" cy=\"96\" rx=\"4\" ry=\"8\"/><ellipse cx=\"76\" cy=\"96\" rx=\"4\" ry=\"8\"/></g><text x=\"150\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ちょこちょこ</text></svg>"
+  },
+  "etymology": "少しずつかじる → 小さくかじる・つまむ → (アイデアに)少し興味を示す → (名詞)ひとかじり",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to eat something by taking very small bites."
+    },
+    {
+      "pos": "名詞",
+      "text": "a small bite of something."
+    }
+  ],
+  "cautions": [
+    "bite=かみつく/chew=かみくだく/nibble=(ネズミ・ウサギのように)小さくちょこちょこかじる",
+    "nibble (at [on]) A=Aを少しずつかじる",
+    "比ゆ:(魚が)えさをつつく・(申し出に)少し興味を示す"
+  ],
+  "patterns": [
+    {
+      "form": "nibble A",
+      "meaning": "Aをかじる"
+    },
+    {
+      "form": "nibble at [on] A",
+      "meaning": "Aを少しずつかじる"
+    },
+    {
+      "form": "have a nibble",
+      "meaning": "ちょっとつまむ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "かじる",
+      "en": "The mouse nibbled the cheese.",
+      "ja": "ネズミがチーズをかじった。"
+    },
+    {
+      "source": "original",
+      "label": "少しずつかじる",
+      "en": "She nibbled on a cookie while she read.",
+      "ja": "彼女は本を読みながらクッキーを少しずつかじった。"
+    },
+    {
+      "source": "original",
+      "label": "つつく",
+      "en": "A fish nibbled at the bait.",
+      "ja": "魚がえさをつついた。"
+    },
+    {
+      "source": "original",
+      "label": "かじる",
+      "en": "Rabbits like to nibble carrots.",
+      "ja": "ウサギはニンジンをかじるのが好きだ。"
+    },
+    {
+      "source": "original",
+      "label": "ちょっとつまむ",
+      "en": "I just had a nibble of the cake.",
+      "ja": "ケーキをちょっとつまんだだけだ。"
+    },
+    {
+      "source": "original",
+      "label": "食べる",
+      "en": "He was too nervous to eat and just nibbled at his food.",
+      "ja": "彼は緊張して食べられず、料理を少しつつくだけだった。"
+    }
+  ],
+  "check_points": [
+    "bite・chew・nibble のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1357
+    }
+  ]
+}

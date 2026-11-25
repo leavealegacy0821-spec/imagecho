@@ -1,0 +1,98 @@
+{
+  "word": "feast",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/fiːst/",
+  "core_image": {
+    "text": "祝いの日に、ごちそうをたっぷり食べる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"100\" width=\"160\" height=\"10\"/><line x1=\"50\" y1=\"110\" x2=\"50\" y2=\"140\"/><line x1=\"190\" y1=\"110\" x2=\"190\" y2=\"140\"/><ellipse cx=\"80\" cy=\"92\" rx=\"20\" ry=\"8\"/><ellipse cx=\"160\" cy=\"92\" rx=\"20\" ry=\"8\"/><circle cx=\"120\" cy=\"86\" r=\"12\"/><line x1=\"80\" y1=\"40\" x2=\"90\" y2=\"50\"/><line x1=\"160\" y1=\"40\" x2=\"150\" y2=\"50\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ごちそう</text></svg>"
+  },
+  "etymology": "ラテン語 festa(祭り。festival・festive と同じ根) → 祭りの日 → 祝宴・ごちそう → (動詞)ごちそうを食べる・(目を)楽しませる(feast one's eyes on A)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a large special meal for a celebration; something very enjoyable."
+    },
+    {
+      "pos": "動詞",
+      "text": "to eat a lot of good food; to enjoy something very much."
+    }
+  ],
+  "cautions": [
+    "feast=(祝いの)ごちそう・宴会",
+    "feast on A=Aをたらふく食べる",
+    "feast one's eyes on A=Aを見て目を楽しませる",
+    "a feast for the eyes=目の保養"
+  ],
+  "patterns": [
+    {
+      "form": "a feast",
+      "meaning": "ごちそう・宴会"
+    },
+    {
+      "form": "feast on A",
+      "meaning": "Aをたらふく食べる"
+    },
+    {
+      "form": "feast one's eyes on A",
+      "meaning": "Aを見て楽しむ"
+    },
+    {
+      "form": "a feast for the eyes",
+      "meaning": "目の保養"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ごちそう",
+      "en": "We had a wonderful feast at the wedding.",
+      "ja": "結婚式ですばらしいごちそうが出た。"
+    },
+    {
+      "source": "original",
+      "label": "たらふく食べる",
+      "en": "The birds feasted on the berries.",
+      "ja": "鳥たちは木の実をたらふく食べた。"
+    },
+    {
+      "source": "original",
+      "label": "目を楽しませる",
+      "en": "Feast your eyes on this beautiful view!",
+      "ja": "この美しいながめを見て楽しんで!"
+    },
+    {
+      "source": "original",
+      "label": "目の保養",
+      "en": "The flower garden was a feast for the eyes.",
+      "ja": "その花園は目の保養だった。"
+    },
+    {
+      "source": "original",
+      "label": "宴会",
+      "en": "The king held a great feast.",
+      "ja": "王は盛大な宴会を開いた。"
+    },
+    {
+      "source": "original",
+      "label": "ごちそう",
+      "en": "The festival ends with a big feast.",
+      "ja": "祭りは盛大なごちそうで終わる。"
+    }
+  ],
+  "check_points": [
+    "feast on A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a feast for the eyes などで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1360
+    }
+  ]
+}

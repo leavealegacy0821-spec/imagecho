@@ -1,0 +1,98 @@
+{
+  "word": "eat",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/iːt/",
+  "core_image": {
+    "text": "口に入れて、かんで飲みこむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"84\" y2=\"58\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><ellipse cx=\"150\" cy=\"110\" rx=\"40\" ry=\"10\"/><circle cx=\"150\" cy=\"100\" r=\"10\"/></g><text x=\"180\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もぐもぐ</text></svg>"
+  },
+  "etymology": "古い英語 etan(食べる) → 食べる・食事をする → (少しずつ)食いこむ・むしばむ(eat into / eat away) → 活用 eat - ate - eaten",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to put food in your mouth, chew it and swallow it; to have a meal."
+    }
+  ],
+  "cautions": [
+    "活用 eat - ate - eaten",
+    "have=(食事を)とる(have breakfast)/eat=食べる行為そのもの",
+    "eat out=外食する/eat up=平らげる",
+    "eat into A=A(お金・時間)に食いこむ"
+  ],
+  "patterns": [
+    {
+      "form": "eat A",
+      "meaning": "Aを食べる"
+    },
+    {
+      "form": "eat out",
+      "meaning": "外食する"
+    },
+    {
+      "form": "eat up A",
+      "meaning": "Aを平らげる"
+    },
+    {
+      "form": "eat into A",
+      "meaning": "Aに食いこむ"
+    },
+    {
+      "form": "eat away at A",
+      "meaning": "Aをむしばむ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "食べる",
+      "en": "I eat breakfast at seven.",
+      "ja": "私は7時に朝食を食べる。"
+    },
+    {
+      "source": "original",
+      "label": "外食する",
+      "en": "Let's eat out tonight.",
+      "ja": "今夜は外食しよう。"
+    },
+    {
+      "source": "original",
+      "label": "平らげる",
+      "en": "Eat up your vegetables.",
+      "ja": "野菜を全部食べなさい。"
+    },
+    {
+      "source": "original",
+      "label": "食いこむ",
+      "en": "The repairs ate into our savings.",
+      "ja": "修理代で貯金が減った。"
+    },
+    {
+      "source": "original",
+      "label": "むしばむ",
+      "en": "Worry was eating away at him.",
+      "ja": "心配が彼をむしばんでいた。"
+    },
+    {
+      "source": "original",
+      "label": "食べた",
+      "en": "Have you eaten lunch yet?",
+      "ja": "もう昼ご飯を食べた?"
+    }
+  ],
+  "check_points": [
+    "eat の活用を言えるか",
+    "eat out の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "eat out、活用が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1351
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "sip",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/sɪp/",
+  "core_image": {
+    "text": "少しずつ、ちびちびすする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M100 60 L104 120 L136 120 L140 60 Z\"/><path d=\"M140 76 Q156 80 140 100\"/><path d=\"M110 50 q4 -8 0 -16\"/><path d=\"M126 50 q4 -8 0 -16\"/></g><text x=\"190\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ちびちび</text></svg>"
+  },
+  "etymology": "少しずつ飲む・すする → (名詞)ひとすすり・ひと口",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to drink something slowly, taking very small amounts at a time."
+    },
+    {
+      "pos": "名詞",
+      "text": "a very small amount of a drink."
+    }
+  ],
+  "cautions": [
+    "drink=飲む(広い)/sip=少しずつちびちびすする(熱い飲み物・ワイン)/gulp=ごくごく一気に",
+    "take a sip of A=Aをひと口すする",
+    "sip at A=Aを少しずつ飲む"
+  ],
+  "patterns": [
+    {
+      "form": "sip A",
+      "meaning": "Aをすする"
+    },
+    {
+      "form": "take a sip of A",
+      "meaning": "Aをひと口飲む"
+    },
+    {
+      "form": "sip at A",
+      "meaning": "Aを少しずつ飲む"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "すする",
+      "en": "She sipped her hot tea slowly.",
+      "ja": "彼女は熱いお茶をゆっくりすすった。"
+    },
+    {
+      "source": "original",
+      "label": "ひと口",
+      "en": "He took a sip of water and started his speech.",
+      "ja": "彼は水をひと口飲んでスピーチを始めた。"
+    },
+    {
+      "source": "original",
+      "label": "ちびちび飲む",
+      "en": "They sat on the porch sipping lemonade.",
+      "ja": "彼らはポーチに座ってレモネードをちびちび飲んでいた。"
+    },
+    {
+      "source": "original",
+      "label": "ひと口",
+      "en": "Can I have a sip of your juice?",
+      "ja": "ジュースひと口ちょうだい。"
+    },
+    {
+      "source": "original",
+      "label": "少しずつ飲む",
+      "en": "The patient could only sip a little soup.",
+      "ja": "患者はスープを少しすすることしかできなかった。"
+    },
+    {
+      "source": "original",
+      "label": "すする",
+      "en": "He sipped his coffee and read the paper.",
+      "ja": "彼はコーヒーをすすりながら新聞を読んだ。"
+    }
+  ],
+  "check_points": [
+    "sip と gulp のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "take a sip of が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1355
+    }
+  ]
+}

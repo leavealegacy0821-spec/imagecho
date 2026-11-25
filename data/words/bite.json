@@ -1,0 +1,103 @@
+{
+  "word": "bite",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/baɪt/",
+  "core_image": {
+    "text": "歯でがぶりと、かみつく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M60 60 L80 80 L100 60 L120 80 L140 60 L160 80 L180 60\"/><path d=\"M60 100 L80 80 L100 100 L120 80 L140 100 L160 80 L180 100\"/></g><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">がぶり</text></svg>"
+  },
+  "etymology": "古い英語 bītan(かむ。bitter=苦い と同じ根) → 歯でかみつく・(虫が)刺す → (名詞)ひとかじり・ひと口(a bite to eat=軽い食事)・刺し傷 → 活用 bite - bit - bitten",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to use your teeth to cut into something; (of an insect or snake) to wound you."
+    },
+    {
+      "pos": "名詞",
+      "text": "a piece cut off by biting; a small meal; an injury from biting."
+    }
+  ],
+  "cautions": [
+    "活用 bite - bit - bitten",
+    "虫・へびに「刺される」も bite(蚊:a mosquito bite)。ハチは sting",
+    "a bite to eat=軽い食事(grab a bite)",
+    "bite one's nails=つめをかむ"
+  ],
+  "patterns": [
+    {
+      "form": "bite A",
+      "meaning": "Aをかむ"
+    },
+    {
+      "form": "be bitten by A",
+      "meaning": "Aにかまれる・刺される"
+    },
+    {
+      "form": "a mosquito bite",
+      "meaning": "蚊に刺されたあと"
+    },
+    {
+      "form": "a bite to eat",
+      "meaning": "軽い食事"
+    },
+    {
+      "form": "bite one's nails",
+      "meaning": "つめをかむ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "かまれる",
+      "en": "He was bitten by a dog.",
+      "ja": "彼は犬にかまれた。"
+    },
+    {
+      "source": "original",
+      "label": "刺されたあと",
+      "en": "I have mosquito bites all over my legs.",
+      "ja": "脚じゅう蚊に刺された。"
+    },
+    {
+      "source": "original",
+      "label": "軽い食事",
+      "en": "Let's grab a bite to eat before the movie.",
+      "ja": "映画の前に軽く何か食べよう。"
+    },
+    {
+      "source": "original",
+      "label": "ひと口",
+      "en": "Can I have a bite of your sandwich?",
+      "ja": "サンドイッチひと口もらっていい?"
+    },
+    {
+      "source": "original",
+      "label": "つめをかむ",
+      "en": "She bites her nails when she's nervous.",
+      "ja": "彼女は緊張するとつめをかむ。"
+    },
+    {
+      "source": "original",
+      "label": "かじる",
+      "en": "He bit into the apple.",
+      "ja": "彼はリンゴにかじりついた。"
+    }
+  ],
+  "check_points": [
+    "bite の活用を言えるか",
+    "a bite to eat の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "活用 bit/bitten、be bitten by が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1354
+    }
+  ]
+}

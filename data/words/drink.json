@@ -1,0 +1,103 @@
+{
+  "word": "drink",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/drɪŋk/",
+  "core_image": {
+    "text": "液体を、口からのどへ流しこむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"88\" y2=\"52\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><polygon points=\"86,40 100,34 104,50 92,54\"/></g><text x=\"170\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ごくごく</text></svg>"
+  },
+  "etymology": "古い英語 drincan(飲む) → 液体を飲む → (特に)酒を飲む → (名詞)飲み物・酒 → 活用 drink - drank - drunk",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to take liquid into your body through your mouth; to drink alcohol."
+    },
+    {
+      "pos": "名詞",
+      "text": "a liquid for drinking; an alcoholic drink."
+    }
+  ],
+  "cautions": [
+    "活用 drink - drank - drunk(drunk は形容詞で「酔った」も)",
+    "スープは「飲む」でも eat soup(スプーンで)が自然",
+    "drink は目的語なしで「酒を飲む」の意味になる(He doesn't drink.)",
+    "sip=少しずつすする/gulp=ごくごく飲みこむ"
+  ],
+  "patterns": [
+    {
+      "form": "drink A",
+      "meaning": "Aを飲む"
+    },
+    {
+      "form": "have a drink",
+      "meaning": "一杯やる"
+    },
+    {
+      "form": "drink to A",
+      "meaning": "Aに乾杯する"
+    },
+    {
+      "form": "drunk",
+      "meaning": "酔った"
+    },
+    {
+      "form": "soft drinks",
+      "meaning": "清涼飲料"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "飲む",
+      "en": "Drink plenty of water when it's hot.",
+      "ja": "暑いときは水をたくさん飲みなさい。"
+    },
+    {
+      "source": "original",
+      "label": "酒を飲む",
+      "en": "My father doesn't drink.",
+      "ja": "父はお酒を飲まない。"
+    },
+    {
+      "source": "original",
+      "label": "乾杯",
+      "en": "Let's drink to your success!",
+      "ja": "君の成功に乾杯しよう!"
+    },
+    {
+      "source": "original",
+      "label": "飲み物",
+      "en": "Would you like something to drink?",
+      "ja": "何か飲み物はいかがですか。"
+    },
+    {
+      "source": "original",
+      "label": "清涼飲料",
+      "en": "Soft drinks contain a lot of sugar.",
+      "ja": "清涼飲料には砂糖がたくさん入っている。"
+    },
+    {
+      "source": "original",
+      "label": "飲んだ",
+      "en": "He drank a glass of milk.",
+      "ja": "彼は牛乳を1杯飲んだ。"
+    }
+  ],
+  "check_points": [
+    "drink の活用を言えるか",
+    "drink to A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "活用 drank/drunk が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1352
+    }
+  ]
+}
