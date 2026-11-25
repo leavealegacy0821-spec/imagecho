@@ -1,0 +1,90 @@
+{
+  "word": "ponder",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈpɑːndər/",
+  "core_image": {
+    "text": "重い問題を、頭の天びんでじっくり量る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><polyline points=\"120,76 104,86 114,64\"/><line x1=\"120\" y1=\"76\" x2=\"136\" y2=\"100\"/><line x1=\"120\" y1=\"8\" x2=\"120\" y2=\"32\"/><line x1=\"92\" y1=\"18\" x2=\"148\" y2=\"14\"/><line x1=\"92\" y1=\"18\" x2=\"92\" y2=\"26\"/><line x1=\"148\" y1=\"14\" x2=\"148\" y2=\"22\"/><path d=\"M84 26 Q92 34 100 26 Z\"/><path d=\"M140 22 Q148 30 156 22 Z\"/></g><text x=\"196\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">うーん…</text></svg>"
+  },
+  "etymology": "ラテン語 ponderare(重さを量る:pound=ポンド と同じ根) → 頭の中で重さを量る → (迷いながら)じっくり考える",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to think carefully about something for a long time, especially before deciding."
+    }
+  ],
+  "cautions": [
+    "ponder A / ponder over (on) A=Aをじっくり考える",
+    "ponder wh- 節(whether, what など)の形が多い",
+    "think=考える(ふつう)/ponder=あれこれ量って迷いながら考える/meditate=心を静めて思いをこらす/brood=くよくよ思い悩む",
+    "形容詞 ponderous=重苦しい・のろい"
+  ],
+  "patterns": [
+    {
+      "form": "ponder A",
+      "meaning": "Aをじっくり考える"
+    },
+    {
+      "form": "ponder over A",
+      "meaning": "Aについて思案する"
+    },
+    {
+      "form": "ponder whether 〜",
+      "meaning": "〜かどうか考えこむ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "じっくり考える",
+      "en": "He pondered the question for a long time.",
+      "ja": "彼はその問いを長い間じっくり考えた。"
+    },
+    {
+      "source": "original",
+      "label": "whether",
+      "en": "She pondered whether to accept the offer.",
+      "ja": "彼女はその申し出を受けるべきか考えこんだ。"
+    },
+    {
+      "source": "original",
+      "label": "over",
+      "en": "I pondered over what he had said.",
+      "ja": "私は彼が言ったことについて思いをめぐらせた。"
+    },
+    {
+      "source": "original",
+      "label": "意味",
+      "en": "Philosophers have long pondered the meaning of life.",
+      "ja": "哲学者たちは昔から人生の意味を思索してきた。"
+    },
+    {
+      "source": "original",
+      "label": "手を止めて",
+      "en": "She stopped to ponder her next move.",
+      "ja": "彼女は手を止めて次の一手をじっくり考えた。"
+    },
+    {
+      "source": "original",
+      "label": "何を",
+      "en": "The students pondered what to write about.",
+      "ja": "生徒たちは何について書くか考えこんだ。"
+    }
+  ],
+  "check_points": [
+    "ponder の語源(重さを量る)と意味を結びつけられるか",
+    "think と ponder のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文・物語文で「熟考する」の意味で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1932
+    }
+  ]
+}

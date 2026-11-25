@@ -1,0 +1,95 @@
+{
+  "word": "brood",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/bruːd/",
+  "core_image": {
+    "text": "卵を温めるように、悩みをじっと抱えこむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><ellipse cx=\"76\" cy=\"114\" rx=\"30\" ry=\"16\"/><circle cx=\"106\" cy=\"94\" r=\"8\"/><polyline points=\"114,92 122,95 114,98\"/><path d=\"M40 128 Q76 146 112 128\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"170\" y2=\"102\"/><line x1=\"180\" y1=\"74\" x2=\"190\" y2=\"102\"/><path d=\"M160 32 Q164 18 176 22 Q186 10 198 22 Q210 22 204 34 Z\"/></g><text x=\"72\" y=\"74\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">じっと温める</text></svg>"
+  },
+  "etymology": "古い英語 brōd(ひとかえりのひな:breed=育てる と同じ根) → 卵を抱いて温める → 心配や不満を胸に抱えこむ → くよくよ考える",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to think for a long time about something that makes you worried, angry or sad; (of a bird) to sit on eggs."
+    },
+    {
+      "pos": "名詞",
+      "text": "a group of young birds born at the same time."
+    }
+  ],
+  "cautions": [
+    "brood over (on / about) A=Aのことをくよくよ考える",
+    "ponder=じっくり量る(中立)/brood=いやなことを抱えこんで思い悩む(悪い意味)",
+    "名詞 a brood=一かえりのひな(breed と同じ根)",
+    "形容詞 broody=ふさぎこんだ"
+  ],
+  "patterns": [
+    {
+      "form": "brood over A",
+      "meaning": "Aをくよくよ考える"
+    },
+    {
+      "form": "brood about A",
+      "meaning": "Aのことで思い悩む"
+    },
+    {
+      "form": "a brood of chicks",
+      "meaning": "一かえりのひよこ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "くよくよ",
+      "en": "Don't brood over your mistakes.",
+      "ja": "失敗をくよくよ考えるな。"
+    },
+    {
+      "source": "original",
+      "label": "about",
+      "en": "He sat alone, brooding about the argument.",
+      "ja": "彼は口論のことを思い悩みながら1人で座っていた。"
+    },
+    {
+      "source": "original",
+      "label": "抱えこむ",
+      "en": "She brooded on the unfair treatment for weeks.",
+      "ja": "彼女は何週間も不当な扱いのことを根にもって考え続けた。"
+    },
+    {
+      "source": "original",
+      "label": "卵",
+      "en": "The hen was brooding her eggs in the nest.",
+      "ja": "めんどりは巣で卵を温めていた。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "A duck walked by with her brood of ducklings.",
+      "ja": "カモが一かえりのひなを連れて歩いていった。"
+    },
+    {
+      "source": "original",
+      "label": "考えこむ",
+      "en": "Instead of brooding, go out and get some fresh air.",
+      "ja": "くよくよしないで、外へ出て新鮮な空気を吸いなさい。"
+    }
+  ],
+  "check_points": [
+    "brood over A の意味を言えるか",
+    "ponder と brood のちがい(よい・悪い)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文で「くよくよ考える」の意味で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1934
+    }
+  ]
+}

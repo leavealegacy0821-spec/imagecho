@@ -1,0 +1,99 @@
+{
+  "word": "pledge",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/pledʒ/",
+  "core_image": {
+    "text": "人前で、かたい約束を差し出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><polyline points=\"80,74 56,60 52,36\"/><line x1=\"80\" y1=\"74\" x2=\"120\" y2=\"70\"/><rect x=\"120\" y=\"58\" width=\"34\" height=\"24\"/><line x1=\"128\" y1=\"66\" x2=\"146\" y2=\"66\"/><line x1=\"128\" y1=\"74\" x2=\"140\" y2=\"74\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">誓って差し出す</text></svg>"
+  },
+  "etymology": "古いフランス語 plege(保証・担保) → 約束のしるしに差し出すもの → 誓約・担保 → (公に)誓う・(寄付や支援を)約束する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make a serious, often public, promise to do or give something."
+    },
+    {
+      "pos": "名詞",
+      "text": "a serious promise; something given as a sign that you will keep a promise."
+    }
+  ],
+  "cautions": [
+    "promise=ふつうの約束/pledge=公の場でかたく約束(寄付・支援・協力など)/vow=心に・神にかけて誓う/swear=本当だと強く言い切る",
+    "pledge to do / pledge that 〜=〜すると誓う",
+    "pledge A to B=AをBに(寄付などとして)約束する",
+    "名詞 a pledge=誓約・担保(make a pledge=誓約する)"
+  ],
+  "patterns": [
+    {
+      "form": "pledge to do",
+      "meaning": "〜すると誓う"
+    },
+    {
+      "form": "pledge A to B",
+      "meaning": "AをBに約束する"
+    },
+    {
+      "form": "make a pledge",
+      "meaning": "誓約する"
+    },
+    {
+      "form": "pledge support",
+      "meaning": "支援を約束する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "誓う",
+      "en": "The mayor pledged to reduce taxes.",
+      "ja": "市長は税を下げると誓った。"
+    },
+    {
+      "source": "original",
+      "label": "that 節",
+      "en": "The company pledged that it would cut its emissions by half.",
+      "ja": "その会社は排出量を半分に減らすと公約した。"
+    },
+    {
+      "source": "original",
+      "label": "寄付",
+      "en": "He pledged a large sum of money to the hospital.",
+      "ja": "彼は病院に多額のお金を寄付すると約束した。"
+    },
+    {
+      "source": "original",
+      "label": "支援",
+      "en": "Many countries pledged support for the victims.",
+      "ja": "多くの国が被災者への支援を約束した。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The government made a pledge to protect the forests.",
+      "ja": "政府は森を守るという誓約をした。"
+    },
+    {
+      "source": "original",
+      "label": "守る",
+      "en": "She kept her pledge and never smoked again.",
+      "ja": "彼女は誓いを守り、二度とたばこを吸わなかった。"
+    }
+  ],
+  "check_points": [
+    "promise と pledge のちがいを言えるか",
+    "pledge A to B の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で「(政府・企業が)公約する・支援を約束する」の意味で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1929
+    }
+  ]
+}

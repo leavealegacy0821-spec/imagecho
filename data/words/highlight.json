@@ -1,0 +1,95 @@
+{
+  "word": "highlight",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈhaɪlaɪt/",
+  "core_image": {
+    "text": "大事な所にだけ光を当てて、目立たせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"30\" width=\"120\" height=\"100\"/><line x1=\"44\" y1=\"50\" x2=\"136\" y2=\"50\"/><rect x=\"42\" y=\"62\" width=\"96\" height=\"16\"/><line x1=\"48\" y1=\"70\" x2=\"132\" y2=\"70\"/><line x1=\"44\" y1=\"92\" x2=\"136\" y2=\"92\"/><line x1=\"44\" y1=\"112\" x2=\"120\" y2=\"112\"/><polygon points=\"196,12 218,24 210,34 188,22\"/><line x1=\"200\" y1=\"30\" x2=\"142\" y2=\"64\"/><line x1=\"206\" y1=\"34\" x2=\"142\" y2=\"78\"/></g><text x=\"196\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ここが大事</text></svg>"
+  },
+  "etymology": "high(強い・いちばん) + light(光) → (絵の)いちばん明るく光る部分 → 見どころ → 光を当てて目立たせる・強調する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to draw attention to something important; to mark words with a bright-colored pen."
+    },
+    {
+      "pos": "名詞",
+      "text": "the most important, interesting or exciting part of something."
+    }
+  ],
+  "cautions": [
+    "動詞 highlight A=Aを強調する・目立たせる(物が主語のことも多い)",
+    "名詞 the highlight of A=Aのいちばんの見どころ",
+    "highlight=光を当てて目立たせる/underline=下線を引くように重要さをはっきり示す/emphasize=言葉で重みを置く/stress=力をこめて言う",
+    "蛍光ペンで線を引く(highlighter=蛍光ペン)"
+  ],
+  "patterns": [
+    {
+      "form": "highlight A",
+      "meaning": "Aを強調する・目立たせる"
+    },
+    {
+      "form": "the highlight of A",
+      "meaning": "Aの見どころ"
+    },
+    {
+      "form": "highlighter",
+      "meaning": "蛍光ペン"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "強調する",
+      "en": "The report highlights the need for more teachers.",
+      "ja": "その報告書は教員を増やす必要性を浮き彫りにしている。"
+    },
+    {
+      "source": "original",
+      "label": "見どころ",
+      "en": "The highlight of the trip was the visit to the old castle.",
+      "ja": "旅行のいちばんの見どころは古城の見学だった。"
+    },
+    {
+      "source": "original",
+      "label": "蛍光ペン",
+      "en": "I highlighted the key words in yellow.",
+      "ja": "大事な語を黄色の蛍光ペンで目立たせた。"
+    },
+    {
+      "source": "original",
+      "label": "問題",
+      "en": "The accident highlighted the dangers of texting while driving.",
+      "ja": "その事故は運転中のメールの危険を浮き彫りにした。"
+    },
+    {
+      "source": "original",
+      "label": "名場面",
+      "en": "We watched the highlights of the game on TV.",
+      "ja": "テレビで試合のハイライトを見た。"
+    },
+    {
+      "source": "original",
+      "label": "示す",
+      "en": "The speaker highlighted three main points.",
+      "ja": "講演者は主な3つの点を強調した。"
+    }
+  ],
+  "check_points": [
+    "動詞 highlight の意味を言えるか",
+    "highlight と emphasize のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文・説明文で「〜を浮き彫りにする・強調する」の意味で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1935
+    }
+  ]
+}

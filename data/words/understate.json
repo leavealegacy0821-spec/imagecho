@@ -1,0 +1,90 @@
+{
+  "word": "understate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˌʌndərˈsteɪt/",
+  "core_image": {
+    "text": "本当より小さく、控えめに言う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"98\" y2=\"68\"/><line x1=\"70\" y1=\"74\" x2=\"98\" y2=\"78\"/><ellipse cx=\"168\" cy=\"110\" rx=\"44\" ry=\"26\"/><polyline points=\"212,110 228,96 228,124 212,110\"/><circle cx=\"144\" cy=\"104\" r=\"3\"/></g><text x=\"70\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ちょっとだけ</text><text x=\"168\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">本当</text></svg>"
+  },
+  "etymology": "under(下に・足りずに) + state(述べる) → 実際より低く述べる → 控えめに言う・軽く言う",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to describe something as smaller, less important or less serious than it really is."
+    }
+  ],
+  "cautions": [
+    "反対は overstate / exaggerate(大げさに言う)",
+    "名詞 understatement=控えめな言い方(わざと小さく言うのは英国人らしい言い方とされる)",
+    "That's an understatement.=それは控えめすぎる(実際はもっとすごい)",
+    "understated=(服・デザインが)控えめで上品な"
+  ],
+  "patterns": [
+    {
+      "form": "understate A",
+      "meaning": "Aを控えめに言う"
+    },
+    {
+      "form": "an understatement",
+      "meaning": "控えめな言い方"
+    },
+    {
+      "form": "understated",
+      "meaning": "控えめで上品な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "控えめに言う",
+      "en": "The company understated its losses in the report.",
+      "ja": "会社は報告書で損失を少なめに示した。"
+    },
+    {
+      "source": "original",
+      "label": "軽く言う",
+      "en": "He tends to understate his own achievements.",
+      "ja": "彼は自分の業績を控えめに言いがちだ。"
+    },
+    {
+      "source": "original",
+      "label": "控えめすぎ",
+      "en": "\"It's a bit cold.\" \"That's an understatement! It's freezing!\"",
+      "ja": "「ちょっと寒いね」「ちょっとどころじゃない!凍えそうだ!」"
+    },
+    {
+      "source": "original",
+      "label": "危険",
+      "en": "The government understated the risk of the disease.",
+      "ja": "政府はその病気の危険を軽く見せた。"
+    },
+    {
+      "source": "original",
+      "label": "形容詞",
+      "en": "She wore an understated but elegant dress.",
+      "ja": "彼女は控えめだが上品なドレスを着ていた。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "To say he was angry would be an understatement.",
+      "ja": "彼が怒っていたと言うのは控えめすぎるだろう。"
+    }
+  ],
+  "check_points": [
+    "That's an understatement. の意味を言えるか",
+    "overstate との対で覚えているか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "understatement(控えめな言い方)が長文・会話文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1938
+    }
+  ]
+}
