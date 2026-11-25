@@ -1,0 +1,98 @@
+{
+  "word": "rigid",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈrɪdʒɪd/",
+  "core_image": {
+    "text": "かたくこわばって、曲がらない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"90\" y2=\"77\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><rect x=\"90\" y=\"74\" width=\"120\" height=\"6\"/><line x1=\"180\" y1=\"40\" x2=\"180\" y2=\"68\"/><polyline points=\"183.8,61 180,68 176.2,61\"/></g><text x=\"180\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">押しても</text><text x=\"150\" y=\"108\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">曲がらない</text></svg>"
+  },
+  "etymology": "ラテン語 rigidus(こわばった。rigor=厳しさ と同じ根) → かたくて曲がらない → (規則・予定が)厳格で変えられない・融通がきかない → (人・考えが)頑固な",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "stiff and not able to bend; (of rules, ideas or people) very strict and difficult to change."
+    }
+  ],
+  "cautions": [
+    "rigid rules=厳しくて変えられない規則(strict は「厳しい」、rigid は「融通がきかない・変えられない」点が強い)",
+    "反対は flexible=柔軟な(セットで覚える)",
+    "be rigid with fear=恐怖で体がこわばる",
+    "名詞 rigidity=かたさ・厳格さ、副詞 rigidly=厳格に"
+  ],
+  "patterns": [
+    {
+      "form": "rigid rules",
+      "meaning": "厳格な規則"
+    },
+    {
+      "form": "a rigid schedule",
+      "meaning": "融通のきかない予定"
+    },
+    {
+      "form": "be rigid with fear",
+      "meaning": "恐怖でこわばる"
+    },
+    {
+      "form": "rigidly",
+      "meaning": "厳格に"
+    },
+    {
+      "form": "rigidity",
+      "meaning": "かたさ・厳格さ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "かたい",
+      "en": "The box is made of rigid plastic.",
+      "ja": "その箱はかたいプラスチックでできている。"
+    },
+    {
+      "source": "original",
+      "label": "厳格な",
+      "en": "The school has rigid rules about uniforms.",
+      "ja": "その学校には制服についての厳しい規則がある。"
+    },
+    {
+      "source": "original",
+      "label": "融通のきかない",
+      "en": "Our rigid schedule left no time for rest.",
+      "ja": "予定に融通がきかず、休む時間がなかった。"
+    },
+    {
+      "source": "original",
+      "label": "頑固な",
+      "en": "He is too rigid in his thinking to accept new ideas.",
+      "ja": "彼は考え方がかたすぎて、新しい考えを受け入れない。"
+    },
+    {
+      "source": "original",
+      "label": "こわばる",
+      "en": "She was rigid with fear when she saw the snake.",
+      "ja": "彼女はヘビを見て恐怖で体がこわばった。"
+    },
+    {
+      "source": "original",
+      "label": "rigidly(副詞)",
+      "en": "The rules were rigidly enforced.",
+      "ja": "その規則は厳格に守らされた。"
+    }
+  ],
+  "check_points": [
+    "rigid の反対語を言えるか",
+    "rigid rules と strict rules の違いを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "rigid / flexible の対比が長文・言い換えで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1041
+    }
+  ]
+}

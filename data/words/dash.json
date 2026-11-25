@@ -1,0 +1,103 @@
+{
+  "word": "dash",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/dæʃ/",
+  "core_image": {
+    "text": "勢いよく、さっと突っこむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"130\" cy=\"52\" r=\"10\"/><line x1=\"130\" y1=\"62\" x2=\"130\" y2=\"106\"/><line x1=\"130\" y1=\"106\" x2=\"120\" y2=\"140\"/><line x1=\"130\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"130\" y1=\"74\" x2=\"150\" y2=\"64\"/><line x1=\"130\" y1=\"74\" x2=\"110\" y2=\"90\"/><line x1=\"60\" y1=\"70\" x2=\"100\" y2=\"70\"/><line x1=\"50\" y1=\"90\" x2=\"98\" y2=\"90\"/><line x1=\"60\" y1=\"110\" x2=\"104\" y2=\"110\"/><line x1=\"160\" y1=\"120\" x2=\"220\" y2=\"120\"/><polyline points=\"213,116.2 220,120 213,123.8\"/></g><text x=\"190\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さっと</text></svg>"
+  },
+  "etymology": "もとは「勢いよく打ちつける」 → 勢いよく突進する・急いで行く → (希望を)たたきつけて砕く → (名詞)さっとひと振り=少量(a dash of salt)/突進/ダッシュ記号(—)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to go somewhere very quickly; to destroy someone's hopes."
+    },
+    {
+      "pos": "名詞",
+      "text": "an act of running quickly; a small amount of something added to food or drink; the mark (—)."
+    }
+  ],
+  "cautions": [
+    "dash to [for] A=Aへ急いで行く、make a dash for A=Aへ駆け出す",
+    "dash A's hopes=Aの希望をくじく(受け身 A's hopes were dashed が多い)",
+    "a dash of A=少量のA(a dash of salt=塩少々)",
+    "I must dash.=もう急いで行かなきゃ(話し言葉)"
+  ],
+  "patterns": [
+    {
+      "form": "dash to A",
+      "meaning": "Aへ急いで行く"
+    },
+    {
+      "form": "make a dash for A",
+      "meaning": "Aへ駆け出す"
+    },
+    {
+      "form": "dash A's hopes",
+      "meaning": "Aの希望をくじく"
+    },
+    {
+      "form": "a dash of A",
+      "meaning": "少量のA"
+    },
+    {
+      "form": "I must dash",
+      "meaning": "もう行かなきゃ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "急いで行く",
+      "en": "She dashed to the station to catch the last train.",
+      "ja": "彼女は終電に間に合うよう駅へ急いだ。"
+    },
+    {
+      "source": "original",
+      "label": "make a dash for",
+      "en": "When the rain started, we made a dash for the bus stop.",
+      "ja": "雨が降り出すと、私たちはバス停へ駆け出した。"
+    },
+    {
+      "source": "original",
+      "label": "希望をくじく",
+      "en": "The injury dashed his hopes of playing in the final.",
+      "ja": "けがで、決勝に出るという彼の望みは砕かれた。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "Our hopes of winning were dashed in the last minute.",
+      "ja": "勝てるという望みは最後の1分で絶たれた。"
+    },
+    {
+      "source": "original",
+      "label": "少量",
+      "en": "Add a dash of salt to the soup.",
+      "ja": "スープに塩を少々加えてください。"
+    },
+    {
+      "source": "original",
+      "label": "I must dash",
+      "en": "Sorry, I must dash — my class starts soon.",
+      "ja": "ごめん、もう行かなきゃ。もうすぐ授業が始まるんだ。"
+    }
+  ],
+  "check_points": [
+    "dash A's hopes の意味を言えるか",
+    "a dash of salt の dash の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「急いで行く」のほか、hopes were dashed(望みが絶たれた)、a dash of(少量)が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1049
+    }
+  ]
+}
