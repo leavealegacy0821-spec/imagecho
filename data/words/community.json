@@ -1,0 +1,98 @@
+{
+  "word": "community",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/kəˈmjuːnəti/",
+  "core_image": {
+    "text": "同じ場所・同じものを共にする、身近なまとまり",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"90\" width=\"40\" height=\"50\"/><polygon points=\"26,90 50,70 74,90\"/><rect x=\"100\" y=\"90\" width=\"40\" height=\"50\"/><polygon points=\"96,90 120,70 144,90\"/><rect x=\"170\" y=\"90\" width=\"40\" height=\"50\"/><polygon points=\"166,90 190,70 214,90\"/><ellipse cx=\"120\" cy=\"105\" rx=\"110\" ry=\"50\" stroke-dasharray=\"5 5\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">共にする仲間</text></svg>"
+  },
+  "etymology": "com(共に)+mun(務め・分け合う。common・communicate と同じ根) → 共に分け合う人々 → 地域社会・共同体 → 同じ特徴・関心をもつ人々の集まり(the scientific community)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the people living in one area; a group of people with the same interests, religion, nationality, etc."
+    }
+  ],
+  "cautions": [
+    "society=人間社会全体/community=地域や共通点でまとまる身近な集まり(地域社会・〜界)",
+    "the local community=地域社会/the international community=国際社会",
+    "the scientific [business] community=科学界[経済界]",
+    "community center=公民館"
+  ],
+  "patterns": [
+    {
+      "form": "the local community",
+      "meaning": "地域社会"
+    },
+    {
+      "form": "the international community",
+      "meaning": "国際社会"
+    },
+    {
+      "form": "a sense of community",
+      "meaning": "連帯感"
+    },
+    {
+      "form": "the A community",
+      "meaning": "A界・Aの人々"
+    },
+    {
+      "form": "a community center",
+      "meaning": "公民館"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "地域社会",
+      "en": "Volunteers help the local community.",
+      "ja": "ボランティアは地域社会を支えている。"
+    },
+    {
+      "source": "original",
+      "label": "国際社会",
+      "en": "The international community must act together.",
+      "ja": "国際社会は一致して行動しなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "連帯感",
+      "en": "There is a strong sense of community in this town.",
+      "ja": "この町には強い連帯感がある。"
+    },
+    {
+      "source": "original",
+      "label": "〜界",
+      "en": "The discovery excited the scientific community.",
+      "ja": "その発見は科学界をわかせた。"
+    },
+    {
+      "source": "original",
+      "label": "共同体",
+      "en": "There is a large Japanese community in that city.",
+      "ja": "その都市には大きな日本人コミュニティがある。"
+    },
+    {
+      "source": "original",
+      "label": "公民館",
+      "en": "We held the meeting at the community center.",
+      "ja": "公民館で会合を開いた。"
+    }
+  ],
+  "check_points": [
+    "society と community のちがいを言えるか",
+    "the international community の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "local / international community が長文で多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1162
+    }
+  ]
+}

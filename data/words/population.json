@@ -1,0 +1,98 @@
+{
+  "word": "population",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˌpɑːpjuˈleɪʃn/",
+  "core_image": {
+    "text": "その地域に住む人々を、まとめて数えた数",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"40\" cy=\"60\" r=\"6\"/><circle cx=\"60\" cy=\"60\" r=\"6\"/><circle cx=\"80\" cy=\"60\" r=\"6\"/><circle cx=\"40\" cy=\"80\" r=\"6\"/><circle cx=\"60\" cy=\"80\" r=\"6\"/><circle cx=\"80\" cy=\"80\" r=\"6\"/><line x1=\"100\" y1=\"70\" x2=\"140\" y2=\"70\"/><polyline points=\"133,66.2 140,70 133,73.8\"/><rect x=\"150\" y=\"50\" width=\"70\" height=\"40\"/></g><text x=\"186\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まとめた数</text></svg>"
+  },
+  "etymology": "ラテン語 populus(人々。people・popular・public と同じ根) → 人々がいること → (ある地域の)人口・住民全体 → (動植物の)個体数",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the number of people living in a particular area; all the people or animals of a particular type in an area."
+    }
+  ],
+  "cautions": [
+    "「人口が多い[少ない]」は large [small](× many / few):a large population",
+    "What is the population of A?=Aの人口はどれくらい(× How many)",
+    "the population is [are] …:人口の数としては単数扱い",
+    "aging population=高齢化する人口/population growth=人口増加"
+  ],
+  "patterns": [
+    {
+      "form": "a large [small] population",
+      "meaning": "多い[少ない]人口"
+    },
+    {
+      "form": "the population of A",
+      "meaning": "Aの人口"
+    },
+    {
+      "form": "population growth",
+      "meaning": "人口増加"
+    },
+    {
+      "form": "an aging population",
+      "meaning": "高齢化人口"
+    },
+    {
+      "form": "the animal population",
+      "meaning": "動物の個体数"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "人口",
+      "en": "Tokyo has a large population.",
+      "ja": "東京は人口が多い。"
+    },
+    {
+      "source": "original",
+      "label": "人口",
+      "en": "What is the population of Canada?",
+      "ja": "カナダの人口はどれくらいですか。"
+    },
+    {
+      "source": "original",
+      "label": "人口増加",
+      "en": "Rapid population growth causes food shortages.",
+      "ja": "急速な人口増加は食料不足を引き起こす。"
+    },
+    {
+      "source": "original",
+      "label": "高齢化",
+      "en": "Japan has an aging population.",
+      "ja": "日本は人口の高齢化が進んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "個体数",
+      "en": "The tiger population has decreased sharply.",
+      "ja": "トラの個体数は急激に減っている。"
+    },
+    {
+      "source": "original",
+      "label": "住民",
+      "en": "Half of the population lives in cities.",
+      "ja": "人口の半分が都市に住んでいる。"
+    }
+  ],
+  "check_points": [
+    "人口の多い少ないを large / small で言えるか",
+    "What is the population of A? の形がわかるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "large / small population、What is the population が文法・グラフで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1167
+    }
+  ]
+}

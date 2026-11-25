@@ -1,0 +1,94 @@
+{
+  "word": "inhabitant",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ɪnˈhæbɪtənt/",
+  "core_image": {
+    "text": "その土地に、ずっと住みついている者",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M20 140 Q70 80 120 100 Q170 120 220 70\"/><rect x=\"60\" y=\"94\" width=\"20\" height=\"20\"/><rect x=\"150\" y=\"96\" width=\"20\" height=\"20\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">住みついている</text></svg>"
+  },
+  "etymology": "inhabit(住む。in=中に+habit=持つ・住む:habitat と同じ根)+ant(人) → その土地に住みついている人・動物 → (地域・国の)住民・生息動物",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a person or animal that lives in a particular place."
+    }
+  ],
+  "cautions": [
+    "resident=(ある建物・町に)住んでいる人/inhabitant=(島・地域・国に)住みついている人・動物(人口の文脈)",
+    "the inhabitants of A=Aの住民(数を言う文脈が多い:a town of 5,000 inhabitants)",
+    "inhabit A=Aに住む(他動詞:× inhabit in)",
+    "habitat=生息地"
+  ],
+  "patterns": [
+    {
+      "form": "the inhabitants of A",
+      "meaning": "Aの住民"
+    },
+    {
+      "form": "a town of X inhabitants",
+      "meaning": "人口X人の町"
+    },
+    {
+      "form": "the original inhabitants",
+      "meaning": "先住民"
+    },
+    {
+      "form": "inhabit A",
+      "meaning": "Aに住む"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "住民",
+      "en": "The island has about 3,000 inhabitants.",
+      "ja": "その島にはおよそ3000人が住んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "住民",
+      "en": "The inhabitants of the village grow rice.",
+      "ja": "その村の住民は米を作っている。"
+    },
+    {
+      "source": "original",
+      "label": "先住民",
+      "en": "The original inhabitants of the land were forced to leave.",
+      "ja": "その土地の先住民は立ち退きを強いられた。"
+    },
+    {
+      "source": "original",
+      "label": "住む",
+      "en": "Many rare birds inhabit the forest.",
+      "ja": "その森には多くの珍しい鳥が住んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "生息",
+      "en": "Bears are among the largest inhabitants of the forest.",
+      "ja": "クマはその森に住む最大の動物の一つだ。"
+    },
+    {
+      "source": "original",
+      "label": "人口",
+      "en": "It is a small town of 10,000 inhabitants.",
+      "ja": "そこは人口1万人の小さな町だ。"
+    }
+  ],
+  "check_points": [
+    "inhabit が他動詞であることがわかるか",
+    "resident と inhabitant のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "inhabit(他動詞)、inhabitants が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1166
+    }
+  ]
+}

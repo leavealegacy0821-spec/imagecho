@@ -1,0 +1,103 @@
+{
+  "word": "public",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/ˈpʌblɪk/",
+  "core_image": {
+    "text": "みんなに開かれた、だれのものでもある",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"80\" y=\"60\" width=\"80\" height=\"80\"/><line x1=\"120\" y1=\"100\" x2=\"120\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"56\" y1=\"100\" x2=\"100\" y2=\"120\"/><polyline points=\"95.2,113.6 100,120 92,120.6\"/><line x1=\"184\" y1=\"100\" x2=\"140\" y2=\"120\"/><polyline points=\"148,120.6 140,120 144.8,113.6\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">みんなに開く</text></svg>"
+  },
+  "etymology": "ラテン語 publicus(人々の。people と同じ根) → 人々みんなの → 公の・公共の・公立の(⇔ private) → 人前の・公然の → (名詞)the public=一般の人々・大衆",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "relating to all the people in a country or area; provided by the government; open to everyone; known by many people."
+    },
+    {
+      "pos": "名詞",
+      "text": "(the public) ordinary people in general."
+    }
+  ],
+  "cautions": [
+    "public ⇔ private(私的な・私立の)の対比",
+    "in public=人前で・公然と(⇔ in private)",
+    "the public=一般の人々(単数・複数どちらの動詞でも可)",
+    "public opinion=世論/public transportation=公共交通機関/make A public=Aを公表する"
+  ],
+  "patterns": [
+    {
+      "form": "in public",
+      "meaning": "人前で"
+    },
+    {
+      "form": "the general public",
+      "meaning": "一般の人々"
+    },
+    {
+      "form": "public transportation",
+      "meaning": "公共交通機関"
+    },
+    {
+      "form": "make A public",
+      "meaning": "Aを公表する"
+    },
+    {
+      "form": "public opinion",
+      "meaning": "世論"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "人前で",
+      "en": "He doesn't like to speak in public.",
+      "ja": "彼は人前で話すのが好きではない。"
+    },
+    {
+      "source": "original",
+      "label": "一般の人々",
+      "en": "The museum is open to the public on weekends.",
+      "ja": "その博物館は週末に一般公開されている。"
+    },
+    {
+      "source": "original",
+      "label": "公共交通機関",
+      "en": "Please use public transportation to come here.",
+      "ja": "ここへは公共交通機関で来てください。"
+    },
+    {
+      "source": "original",
+      "label": "公表する",
+      "en": "The results will be made public next week.",
+      "ja": "結果は来週公表される。"
+    },
+    {
+      "source": "original",
+      "label": "公立の",
+      "en": "My sister goes to a public school.",
+      "ja": "妹は公立の学校に通っている。"
+    },
+    {
+      "source": "original",
+      "label": "公共の",
+      "en": "Smoking is not allowed in public places.",
+      "ja": "公共の場所では喫煙が禁止されている。"
+    }
+  ],
+  "check_points": [
+    "in public の意味を言えるか",
+    "public と private の対比がわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "in public、the public、make A public が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1163
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "nation",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈneɪʃn/",
+  "core_image": {
+    "text": "同じ生まれでまとまった、国と国民",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"60\" y1=\"140\" x2=\"60\" y2=\"30\"/><polygon points=\"60,30 120,40 60,50\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><circle cx=\"196\" cy=\"52\" r=\"10\"/><line x1=\"196\" y1=\"62\" x2=\"196\" y2=\"106\"/><line x1=\"196\" y1=\"106\" x2=\"186\" y2=\"140\"/><line x1=\"196\" y1=\"106\" x2=\"206\" y2=\"140\"/></g><text x=\"174\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">国・国民</text></svg>"
+  },
+  "etymology": "ラテン語 natio(生まれ。native・nature と同じ「生まれる」根) → 同じ生まれの人々 → 国民・民族 → (政治的な)国家 → national=国の・国民の/international=国際的な",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a country, considered as a group of people with the same language, culture and history; all the people in a country."
+    }
+  ],
+  "cautions": [
+    "country=国(土地・国土をふくむ日常語)/nation=国民としてまとまった国・国家(人々に焦点)/state=政府としての国家",
+    "the whole nation=国じゅう(の人々)",
+    "the United Nations=国際連合",
+    "national=国の/nationality=国籍"
+  ],
+  "patterns": [
+    {
+      "form": "a nation",
+      "meaning": "国家"
+    },
+    {
+      "form": "the whole nation",
+      "meaning": "国民全体"
+    },
+    {
+      "form": "developing nations",
+      "meaning": "発展途上国"
+    },
+    {
+      "form": "the United Nations",
+      "meaning": "国際連合"
+    },
+    {
+      "form": "national",
+      "meaning": "国の・国民の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "国家",
+      "en": "Japan is an island nation.",
+      "ja": "日本は島国だ。"
+    },
+    {
+      "source": "original",
+      "label": "国じゅう",
+      "en": "The whole nation celebrated the victory.",
+      "ja": "国じゅうがその勝利を祝った。"
+    },
+    {
+      "source": "original",
+      "label": "発展途上国",
+      "en": "Many developing nations need clean water.",
+      "ja": "多くの発展途上国にきれいな水が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "国際連合",
+      "en": "The United Nations was founded in 1945.",
+      "ja": "国際連合は1945年に設立された。"
+    },
+    {
+      "source": "original",
+      "label": "国の",
+      "en": "Baseball is a national sport in Japan.",
+      "ja": "野球は日本の国民的スポーツだ。"
+    },
+    {
+      "source": "original",
+      "label": "国籍",
+      "en": "What is your nationality?",
+      "ja": "国籍はどちらですか。"
+    }
+  ],
+  "check_points": [
+    "country と nation のちがいを言えるか",
+    "nationality の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "nation / national / nationality、developing nations が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1169
+    }
+  ]
+}

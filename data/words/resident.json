@@ -1,0 +1,99 @@
+{
+  "word": "resident",
+  "pos": [
+    "名詞",
+    "形容詞"
+  ],
+  "ipa": "/ˈrezɪdənt/",
+  "core_image": {
+    "text": "その場所に、腰をすえて住んでいる人",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"80\" y=\"70\" width=\"80\" height=\"70\"/><polygon points=\"74,70 120,36 166,70\"/><circle cx=\"120\" cy=\"96\" r=\"8\"/><line x1=\"120\" y1=\"104\" x2=\"120\" y2=\"124\"/><line x1=\"120\" y1=\"124\" x2=\"114\" y2=\"140\"/><line x1=\"120\" y1=\"124\" x2=\"126\" y2=\"140\"/></g><text x=\"200\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">住んでいる</text></svg>"
+  },
+  "etymology": "reside(住む。re=後ろに+side=座る:sit と同じ根)の人 → 腰をすえて住んでいる人=住民・居住者 → (形容詞)住みこみの・常駐の → residence=住居",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a person who lives in a particular place."
+    },
+    {
+      "pos": "形容詞",
+      "text": "living in a particular place."
+    }
+  ],
+  "cautions": [
+    "citizen=国籍・市民権をもつ人/resident=(国籍に関係なく)そこに住んでいる人",
+    "local residents=地元住民(長文で頻出)",
+    "reside in A=Aに住む(堅い)/residence=住居・居住",
+    "residential area=住宅地"
+  ],
+  "patterns": [
+    {
+      "form": "local residents",
+      "meaning": "地元住民"
+    },
+    {
+      "form": "a resident of A",
+      "meaning": "Aの住民"
+    },
+    {
+      "form": "resident in A",
+      "meaning": "Aに住んでいる"
+    },
+    {
+      "form": "a residential area",
+      "meaning": "住宅地"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "地元住民",
+      "en": "Local residents complained about the noise.",
+      "ja": "地元住民が騒音について苦情を言った。"
+    },
+    {
+      "source": "original",
+      "label": "住民",
+      "en": "She has been a resident of this town for 20 years.",
+      "ja": "彼女はこの町に20年住んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "住民",
+      "en": "Foreign residents can join the language class for free.",
+      "ja": "外国人住民は無料でその語学教室に参加できる。"
+    },
+    {
+      "source": "original",
+      "label": "住宅地",
+      "en": "We live in a quiet residential area.",
+      "ja": "私たちは静かな住宅地に住んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "住居",
+      "en": "The president's official residence is in the capital.",
+      "ja": "大統領の公邸は首都にある。"
+    },
+    {
+      "source": "original",
+      "label": "住んでいる",
+      "en": "The writer is resident in London.",
+      "ja": "その作家はロンドン在住だ。"
+    }
+  ],
+  "check_points": [
+    "citizen と resident のちがいを言えるか",
+    "local residents の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "local residents、residential area が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1165
+    }
+  ]
+}
