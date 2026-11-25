@@ -1,0 +1,93 @@
+{
+  "word": "fatigue",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/fəˈtiːɡ/",
+  "core_image": {
+    "text": "積み重なって、たまった疲れ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"80\" y=\"30\" width=\"80\" height=\"110\"/><rect x=\"80\" y=\"100\" width=\"80\" height=\"40\"/><line x1=\"80\" y1=\"80\" x2=\"160\" y2=\"80\" stroke-dasharray=\"3 3\"/><line x1=\"200\" y1=\"130\" x2=\"200\" y2=\"90\"/><polyline points=\"196.2,97 200,90 203.8,97\"/></g><text x=\"40\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">たまる</text></svg>"
+  },
+  "etymology": "フランス語 fatigue(ラテン語 fatigare=疲れさせる) → 疲れ・疲労 → (金属の)疲労",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a feeling of being extremely tired; weakness in metal caused by repeated stress."
+    }
+  ],
+  "cautions": [
+    "fatigue=(医学・改まった)疲労(数えない)/tiredness=疲れ(ふつう)",
+    "発音 /fəˈtiːɡ/(後ろを強く)",
+    "suffer from fatigue=疲労に苦しむ",
+    "metal fatigue=金属疲労"
+  ],
+  "patterns": [
+    {
+      "form": "suffer from fatigue",
+      "meaning": "疲労に苦しむ"
+    },
+    {
+      "form": "mental fatigue",
+      "meaning": "精神的疲労"
+    },
+    {
+      "form": "eye fatigue",
+      "meaning": "目の疲れ"
+    },
+    {
+      "form": "metal fatigue",
+      "meaning": "金属疲労"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "疲労",
+      "en": "He was suffering from fatigue after weeks of work.",
+      "ja": "彼は何週間もの仕事で疲労に苦しんでいた。"
+    },
+    {
+      "source": "original",
+      "label": "精神的",
+      "en": "Mental fatigue can cause mistakes.",
+      "ja": "精神的な疲れはミスのもとになる。"
+    },
+    {
+      "source": "original",
+      "label": "目の疲れ",
+      "en": "Looking at screens causes eye fatigue.",
+      "ja": "画面を見ていると目が疲れる。"
+    },
+    {
+      "source": "original",
+      "label": "事故",
+      "en": "Driver fatigue is a major cause of accidents.",
+      "ja": "運転手の疲労は事故の大きな原因だ。"
+    },
+    {
+      "source": "original",
+      "label": "金属",
+      "en": "The crash was caused by metal fatigue.",
+      "ja": "その墜落は金属疲労が原因だった。"
+    },
+    {
+      "source": "original",
+      "label": "回復",
+      "en": "Sleep is the best cure for fatigue.",
+      "ja": "睡眠は疲労回復の一番の薬だ。"
+    }
+  ],
+  "check_points": [
+    "fatigue の発音を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で健康の話題として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1823
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "word": "quiet",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/ˈkwaɪət/",
+  "core_image": {
+    "text": "音も動きも少なく、静かでおだやか",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"60\" x2=\"120\" y2=\"76\" /><line x1=\"110\" y1=\"64\" x2=\"124\" y2=\"64\"/><path d=\"M60 50 Q66 40 60 30 M180 50 Q186 40 180 30\" stroke-dasharray=\"2 4\"/></g><text x=\"200\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しーっ</text></svg>"
+  },
+  "etymology": "ラテン語 quietus(休んでいる。quit・quite と同じ根) → 静かに休んでいる → 音がしない・おだやかな・ひかえめな",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "making very little noise; calm and peaceful; (of a person) not talking much."
+    },
+    {
+      "pos": "名詞",
+      "text": "the state of being quiet."
+    }
+  ],
+  "cautions": [
+    "quiet=音が少なく静か・おだやか(人柄にも)/silent=まったく音を出さない・何も言わない/calm=落ち着いた",
+    "Be quiet!=静かに!",
+    "quite(かなり)とつづりを混同しない",
+    "keep quiet about A=Aについて黙っている"
+  ],
+  "patterns": [
+    {
+      "form": "Be quiet.",
+      "meaning": "静かにしなさい"
+    },
+    {
+      "form": "keep quiet (about A)",
+      "meaning": "(Aについて)黙っている"
+    },
+    {
+      "form": "a quiet life",
+      "meaning": "おだやかな生活"
+    },
+    {
+      "form": "peace and quiet",
+      "meaning": "静けさ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "静かに",
+      "en": "Be quiet! The baby is sleeping.",
+      "ja": "静かに!赤ちゃんが寝ているよ。"
+    },
+    {
+      "source": "original",
+      "label": "黙っている",
+      "en": "Please keep quiet about this.",
+      "ja": "このことは黙っていてね。"
+    },
+    {
+      "source": "original",
+      "label": "ひかえめ",
+      "en": "She is a quiet girl who loves books.",
+      "ja": "彼女は本が大好きなおとなしい女の子だ。"
+    },
+    {
+      "source": "original",
+      "label": "静けさ",
+      "en": "I need some peace and quiet.",
+      "ja": "静かな時間がほしい。"
+    },
+    {
+      "source": "original",
+      "label": "おだやか",
+      "en": "We had a quiet weekend at home.",
+      "ja": "家でおだやかな週末を過ごした。"
+    },
+    {
+      "source": "original",
+      "label": "つづり",
+      "en": "It's quite quiet here.",
+      "ja": "ここはかなり静かだ(quite と quiet)。"
+    }
+  ],
+  "check_points": [
+    "quiet と quite のつづりを区別できるか",
+    "quiet と silent のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "quiet / quite のつづりが出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1824
+    }
+  ]
+}

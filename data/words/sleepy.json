@@ -1,0 +1,89 @@
+{
+  "word": "sleepy",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈsliːpi/",
+  "core_image": {
+    "text": "まぶたが重く、うとうと眠い",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"100\" cy=\"80\" r=\"34\"/><line x1=\"84\" y1=\"76\" x2=\"96\" y2=\"76\"/><line x1=\"104\" y1=\"76\" x2=\"116\" y2=\"76\"/><ellipse cx=\"100\" cy=\"96\" rx=\"6\" ry=\"4\"/><path d=\"M150 50 L170 50 L150 70 L170 70\"/><path d=\"M180 30 L192 30 L180 42 L192 42\"/></g><text x=\"200\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">うとうと</text></svg>"
+  },
+  "etymology": "sleep(眠る) + -y(〜な状態の) → 眠くなった → (町が)眠ったように静かな・活気のない",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "feeling that you want to sleep; (of a place) quiet and without much activity."
+    }
+  ],
+  "cautions": [
+    "tired=疲れた/sleepy=眠い(疲れていなくても眠いことはある)",
+    "asleep=眠っている(名詞の前に置かない)/sleepy=眠い",
+    "a sleepy town=ひっそりした町",
+    "feel sleepy=眠くなる"
+  ],
+  "patterns": [
+    {
+      "form": "feel sleepy",
+      "meaning": "眠くなる"
+    },
+    {
+      "form": "make A sleepy",
+      "meaning": "Aを眠くさせる"
+    },
+    {
+      "form": "a sleepy town",
+      "meaning": "ひっそりした町"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "眠い",
+      "en": "I feel sleepy after lunch.",
+      "ja": "昼食のあとは眠くなる。"
+    },
+    {
+      "source": "original",
+      "label": "眠くさせる",
+      "en": "This medicine may make you sleepy.",
+      "ja": "この薬で眠くなることがあります。"
+    },
+    {
+      "source": "original",
+      "label": "静かな",
+      "en": "We stayed in a sleepy little village.",
+      "ja": "私たちはひっそりした小さな村に泊まった。"
+    },
+    {
+      "source": "original",
+      "label": "asleep と",
+      "en": "The sleepy baby is now fast asleep.",
+      "ja": "眠そうだった赤ちゃんは今ぐっすり眠っている。"
+    },
+    {
+      "source": "original",
+      "label": "あくび",
+      "en": "The sleepy students kept yawning.",
+      "ja": "眠い生徒たちはあくびを続けた。"
+    },
+    {
+      "source": "original",
+      "label": "寝ぼけた",
+      "en": "He answered the phone in a sleepy voice.",
+      "ja": "彼は寝ぼけた声で電話に出た。"
+    }
+  ],
+  "check_points": [
+    "sleepy と asleep のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "sleepy / asleep の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1822
+    }
+  ]
+}
