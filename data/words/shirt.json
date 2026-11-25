@@ -1,0 +1,89 @@
+{
+  "word": "shirt",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ʃɜːrt/",
+  "core_image": {
+    "text": "上半身に着る、えりとボタンのあるシャツ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M60 40 L96 30 L110 44 L130 44 L144 30 L180 40 L190 70 L160 76 L160 140 L80 140 L80 76 L50 70 Z\"/><line x1=\"120\" y1=\"44\" x2=\"120\" y2=\"140\"/><circle cx=\"126\" cy=\"70\" r=\"2\"/><circle cx=\"126\" cy=\"94\" r=\"2\"/><circle cx=\"126\" cy=\"118\" r=\"2\"/></g><text x=\"210\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">シャツ</text></svg>"
+  },
+  "etymology": "古い英語 scyrte(短い衣:short・skirt と同じ根) → シャツ",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a piece of clothing for the upper body with sleeves, a collar and buttons."
+    }
+  ],
+  "cautions": [
+    "shirt=(えり・ボタンのある)シャツ/T-shirt=Tシャツ",
+    "short・skirt と同じ根(短い衣)",
+    "keep one's shirt on=落ち着く(口語)",
+    "give the shirt off one's back=何でも与える"
+  ],
+  "patterns": [
+    {
+      "form": "wear a shirt",
+      "meaning": "シャツを着ている"
+    },
+    {
+      "form": "a T-shirt",
+      "meaning": "Tシャツ"
+    },
+    {
+      "form": "tuck in one's shirt",
+      "meaning": "シャツを入れる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "シャツ",
+      "en": "He wore a white shirt and a tie.",
+      "ja": "彼は白いシャツにネクタイをしていた。"
+    },
+    {
+      "source": "original",
+      "label": "Tシャツ",
+      "en": "I bought a T-shirt at the concert.",
+      "ja": "コンサートでTシャツを買った。"
+    },
+    {
+      "source": "original",
+      "label": "入れる",
+      "en": "Tuck in your shirt.",
+      "ja": "シャツをズボンに入れなさい。"
+    },
+    {
+      "source": "original",
+      "label": "アイロン",
+      "en": "My mother ironed my shirt.",
+      "ja": "母がシャツにアイロンをかけてくれた。"
+    },
+    {
+      "source": "original",
+      "label": "ボタン",
+      "en": "A button came off my shirt.",
+      "ja": "シャツのボタンがとれた。"
+    },
+    {
+      "source": "original",
+      "label": "制服",
+      "en": "We wear white shirts at school.",
+      "ja": "学校では白いシャツを着る。"
+    }
+  ],
+  "check_points": [
+    "shirt と skirt の語源の関係がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "描写文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2240
+    }
+  ]
+}

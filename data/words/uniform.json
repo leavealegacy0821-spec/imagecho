@@ -1,0 +1,94 @@
+{
+  "word": "uniform",
+  "pos": [
+    "名詞",
+    "形容詞"
+  ],
+  "ipa": "/ˈjuːnɪfɔːrm/",
+  "core_image": {
+    "text": "みんな同じ形の服(制服)・ばらつきのない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><rect x=\"48\" y=\"66\" width=\"24\" height=\"30\"/><rect x=\"108\" y=\"66\" width=\"24\" height=\"30\"/><rect x=\"168\" y=\"66\" width=\"24\" height=\"30\"/></g><text x=\"120\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">おなじ</text></svg>"
+  },
+  "etymology": "ラテン語 uni-(1つ) + forma(形) → 1つの形 → (形容詞)一様な・均一の → (名詞)同じ形の服=制服",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a special set of clothes worn by all members of a group."
+    },
+    {
+      "pos": "形容詞",
+      "text": "the same in all parts or at all times."
+    }
+  ],
+  "cautions": [
+    "school uniform=学校の制服",
+    "in uniform=制服を着て",
+    "(形容詞)uniform=一様な・ばらつきのない(a uniform size)",
+    "uni-=1つ(unite・unique・universe)"
+  ],
+  "patterns": [
+    {
+      "form": "school uniform",
+      "meaning": "制服"
+    },
+    {
+      "form": "in uniform",
+      "meaning": "制服を着て"
+    },
+    {
+      "form": "uniform A",
+      "meaning": "一様なA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "制服",
+      "en": "We wear uniforms at our school.",
+      "ja": "私たちの学校は制服だ。"
+    },
+    {
+      "source": "original",
+      "label": "制服姿",
+      "en": "A man in uniform came to the door.",
+      "ja": "制服姿の男性が玄関に来た。"
+    },
+    {
+      "source": "original",
+      "label": "一様",
+      "en": "The boxes are uniform in size.",
+      "ja": "箱は大きさがそろっている。"
+    },
+    {
+      "source": "original",
+      "label": "同じ形",
+      "en": "\"Uni\" means one, so \"uniform\" means one form.",
+      "ja": "uni は1つという意味なので、uniform は「1つの形」だ。"
+    },
+    {
+      "source": "original",
+      "label": "警官",
+      "en": "Police officers wear blue uniforms.",
+      "ja": "警官は青い制服を着る。"
+    },
+    {
+      "source": "original",
+      "label": "均一",
+      "en": "The temperature was uniform throughout the room.",
+      "ja": "部屋の温度はどこも均一だった。"
+    }
+  ],
+  "check_points": [
+    "uniform(形容詞)の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "形容詞の uniform が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2243
+    }
+  ]
+}
