@@ -1,0 +1,85 @@
+{
+  "word": "furthermore",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˌfɜːrðərˈmɔːr/",
+  "core_image": {
+    "text": "さらにその先に(つけ加えて)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"50\" cy=\"80\" r=\"14\"/><line x1=\"66\" y1=\"80\" x2=\"100\" y2=\"80\"/><polyline points=\"93,76.2 100,80 93,83.8\"/><circle cx=\"116\" cy=\"80\" r=\"14\"/><line x1=\"132\" y1=\"80\" x2=\"166\" y2=\"80\"/><polyline points=\"159,76.2 166,80 159,83.8\"/><circle cx=\"182\" cy=\"80\" r=\"14\" stroke-dasharray=\"3 3\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さらに</text></svg>"
+  },
+  "etymology": "further(さらに先へ:far の比較級) + more(もっと) → さらにもっと → そのうえ",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "in addition; besides what has been said."
+    }
+  ],
+  "cautions": [
+    "furthermore=moreover=さらに(改まった)",
+    "further=さらに(副詞・形容詞:further information)",
+    "what is more=さらに(口語)",
+    "first ..., second ..., furthermore ...=論点の追加"
+  ],
+  "patterns": [
+    {
+      "form": "Furthermore, ...",
+      "meaning": "さらに…"
+    },
+    {
+      "form": "further A",
+      "meaning": "さらなるA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "さらに",
+      "en": "The car is fast. Furthermore, it uses little fuel.",
+      "ja": "その車は速い。さらに燃費もよい。"
+    },
+    {
+      "source": "original",
+      "label": "追加",
+      "en": "Furthermore, we need to think about the cost.",
+      "ja": "さらに費用についても考える必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "さらなる",
+      "en": "For further information, visit our website.",
+      "ja": "さらにくわしい情報はウェブサイトへ。"
+    },
+    {
+      "source": "original",
+      "label": "口語",
+      "en": "It's cheap, and what's more, it's delicious.",
+      "ja": "安いし、そのうえおいしい。"
+    },
+    {
+      "source": "original",
+      "label": "論文",
+      "en": "Furthermore, the results show a clear trend.",
+      "ja": "さらに、結果には明確な傾向が見られる。"
+    },
+    {
+      "source": "original",
+      "label": "遠く",
+      "en": "I can't walk any further.",
+      "ja": "もうこれ以上歩けない。"
+    }
+  ],
+  "check_points": [
+    "furthermore と further のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文の論理マーカーとして出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2350
+    }
+  ]
+}

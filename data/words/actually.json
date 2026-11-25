@@ -1,0 +1,89 @@
+{
+  "word": "actually",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˈæktʃuəli/",
+  "core_image": {
+    "text": "(思っているのとちがって)実際は・本当は",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"50\" width=\"60\" height=\"50\" stroke-dasharray=\"4 4\"/><line x1=\"104\" y1=\"76\" x2=\"136\" y2=\"76\"/><polyline points=\"129,72.2 136,76 129,79.8\"/><rect x=\"140\" y=\"50\" width=\"60\" height=\"50\"/><circle cx=\"170\" cy=\"76\" r=\"10\"/></g><text x=\"70\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">おもった</text><text x=\"170\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">じつは</text></svg>"
+  },
+  "etymology": "actual(実際の:act=行い) + -ly → 実際に → (予想とちがって)実は",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "in fact; really (often used to correct or surprise)."
+    }
+  ],
+  "cautions": [
+    "actually=実は(相手の予想・思いこみを訂正する)",
+    "日本語の「アクチュアル(今日的な)」とは別",
+    "in fact=実は",
+    "actual=実際の"
+  ],
+  "patterns": [
+    {
+      "form": "Actually, ...",
+      "meaning": "実は…"
+    },
+    {
+      "form": "actually do",
+      "meaning": "実際に〜する"
+    },
+    {
+      "form": "actual",
+      "meaning": "実際の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "実は",
+      "en": "Actually, I'm not from Tokyo.",
+      "ja": "実は東京出身じゃないんだ。"
+    },
+    {
+      "source": "original",
+      "label": "訂正",
+      "en": "\"You're a student, right?\" \"Actually, I'm a teacher.\"",
+      "ja": "「学生だよね?」「実は先生なんだ」"
+    },
+    {
+      "source": "original",
+      "label": "本当に",
+      "en": "Did he actually say that?",
+      "ja": "彼は本当にそう言ったの?"
+    },
+    {
+      "source": "original",
+      "label": "実際の",
+      "en": "The actual cost was higher.",
+      "ja": "実際の費用はもっと高かった。"
+    },
+    {
+      "source": "original",
+      "label": "意外",
+      "en": "It's actually quite easy.",
+      "ja": "実はけっこう簡単だ。"
+    },
+    {
+      "source": "original",
+      "label": "in fact",
+      "en": "In fact, she was right.",
+      "ja": "実は彼女が正しかった。"
+    }
+  ],
+  "check_points": [
+    "actually が「訂正」に使われることがわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "会話・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2356
+    }
+  ]
+}

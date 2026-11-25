@@ -1,0 +1,89 @@
+{
+  "word": "therefore",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˈðerfɔːr/",
+  "core_image": {
+    "text": "それゆえに(理由から結論へ)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"50\" width=\"60\" height=\"50\"/><line x1=\"96\" y1=\"76\" x2=\"140\" y2=\"76\"/><polyline points=\"133,72.2 140,76 133,79.8\"/><rect x=\"150\" y=\"50\" width=\"60\" height=\"50\"/><circle cx=\"114\" cy=\"110\" r=\"3\"/><circle cx=\"106\" cy=\"122\" r=\"3\"/><circle cx=\"122\" cy=\"122\" r=\"3\"/></g><text x=\"60\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">りゆう</text><text x=\"180\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">けつろん</text></svg>"
+  },
+  "etymology": "there(そこ) + fore(〜のために) → そのために → それゆえに",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "as a result; for that reason."
+    }
+  ],
+  "cautions": [
+    "therefore=それゆえに(副詞:改まった・so より固い)",
+    "so=だから(接続詞:文をつなぐ)",
+    "thus / hence=それゆえ(さらに改まった)",
+    "I think, therefore I am.=我思う、ゆえに我あり"
+  ],
+  "patterns": [
+    {
+      "form": "Therefore, ...",
+      "meaning": "それゆえ…"
+    },
+    {
+      "form": "S is therefore ...",
+      "meaning": "したがってSは〜"
+    },
+    {
+      "form": "and therefore",
+      "meaning": "それゆえに"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "それゆえ",
+      "en": "He was sick. Therefore, he couldn't come.",
+      "ja": "彼は病気だった。それゆえ来られなかった。"
+    },
+    {
+      "source": "original",
+      "label": "したがって",
+      "en": "The road is closed and therefore we must go another way.",
+      "ja": "道が閉鎖されているので、別の道を行かなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "文中",
+      "en": "The plan is, therefore, impossible.",
+      "ja": "したがってその計画は不可能だ。"
+    },
+    {
+      "source": "original",
+      "label": "so と",
+      "en": "It was late, so we went home.",
+      "ja": "遅かったので家に帰った。"
+    },
+    {
+      "source": "original",
+      "label": "名言",
+      "en": "I think, therefore I am.",
+      "ja": "我思う、ゆえに我あり。"
+    },
+    {
+      "source": "original",
+      "label": "thus",
+      "en": "The price went up; thus, sales fell.",
+      "ja": "値段が上がり、その結果売上が落ちた。"
+    }
+  ],
+  "check_points": [
+    "therefore と so の文法上のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "長文の論理マーカーとして頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2348
+    }
+  ]
+}

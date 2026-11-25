@@ -1,0 +1,89 @@
+{
+  "word": "also",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˈɔːlsoʊ/",
+  "core_image": {
+    "text": "〜もまた(同じものをつけ足す)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"80\" cy=\"80\" r=\"24\"/><circle cx=\"160\" cy=\"80\" r=\"24\"/><line x1=\"110\" y1=\"80\" x2=\"130\" y2=\"80\"/><line x1=\"120\" y1=\"70\" x2=\"120\" y2=\"90\"/></g><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">〜もまた</text></svg>"
+  },
+  "etymology": "all(まったく) + so(そのように) → まったく同じように → 〜もまた",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "in addition; too."
+    }
+  ],
+  "cautions": [
+    "also=〜も(一般動詞の前・be動詞のあと)",
+    "too=〜も(文末・くだけた)",
+    "either=(否定文で)〜も…ない",
+    "not only A but also B=AだけでなくBも"
+  ],
+  "patterns": [
+    {
+      "form": "also",
+      "meaning": "〜も"
+    },
+    {
+      "form": "not only A but also B",
+      "meaning": "AだけでなくBも"
+    },
+    {
+      "form": "Also, ...",
+      "meaning": "また…"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "〜も",
+      "en": "I also like cats.",
+      "ja": "私もネコが好きだ。"
+    },
+    {
+      "source": "original",
+      "label": "be動詞",
+      "en": "She is also a singer.",
+      "ja": "彼女は歌手でもある。"
+    },
+    {
+      "source": "original",
+      "label": "だけでなく",
+      "en": "He speaks not only English but also French.",
+      "ja": "彼は英語だけでなくフランス語も話す。"
+    },
+    {
+      "source": "original",
+      "label": "文頭",
+      "en": "Also, don't forget your umbrella.",
+      "ja": "それと、かさを忘れないで。"
+    },
+    {
+      "source": "original",
+      "label": "too と",
+      "en": "I like cats, too.",
+      "ja": "私もネコが好き(文末は too)。"
+    },
+    {
+      "source": "original",
+      "label": "否定",
+      "en": "I don't like cats, either.",
+      "ja": "私もネコは好きではない(否定は either)。"
+    }
+  ],
+  "check_points": [
+    "also / too / either の使い分けを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "not only A but also B、also / too / either が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2351
+    }
+  ]
+}

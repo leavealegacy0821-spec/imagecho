@@ -1,0 +1,94 @@
+{
+  "word": "too",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/tuː/",
+  "core_image": {
+    "text": "〜も(文末)・度をこして〜すぎる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"40\" width=\"80\" height=\"90\"/><rect x=\"60\" y=\"20\" width=\"80\" height=\"20\" stroke-dasharray=\"3 3\"/><line x1=\"40\" y1=\"40\" x2=\"160\" y2=\"40\"/><line x1=\"180\" y1=\"120\" x2=\"180\" y2=\"30\"/><polyline points=\"176.2,37 180,30 183.8,37\"/></g><text x=\"200\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">〜すぎる</text></svg>"
+  },
+  "etymology": "to(〜へ)の強めの形 → それに加えて=〜も → (度を)こえて=〜すぎる",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "also; more than is needed or wanted."
+    }
+  ],
+  "cautions": [
+    "too=〜も(肯定文の文末)/either=(否定文)〜も",
+    "too + 形容詞=〜すぎる(悪い意味)/very=とても",
+    "too ... to do=あまりに〜で…できない",
+    "cannot ... too ~=いくら〜してもしすぎることはない"
+  ],
+  "patterns": [
+    {
+      "form": "..., too",
+      "meaning": "〜も"
+    },
+    {
+      "form": "too + 形容詞",
+      "meaning": "〜すぎる"
+    },
+    {
+      "form": "too ... to do",
+      "meaning": "〜すぎて…できない"
+    },
+    {
+      "form": "cannot ... too ~",
+      "meaning": "いくら〜してもしすぎない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "〜も",
+      "en": "\"I'm hungry.\" \"Me, too.\"",
+      "ja": "「おなかすいた」「私も」"
+    },
+    {
+      "source": "original",
+      "label": "すぎる",
+      "en": "This coffee is too hot.",
+      "ja": "このコーヒーは熱すぎる。"
+    },
+    {
+      "source": "original",
+      "label": "できない",
+      "en": "He was too tired to walk.",
+      "ja": "彼は疲れすぎて歩けなかった。"
+    },
+    {
+      "source": "original",
+      "label": "しすぎない",
+      "en": "You cannot be too careful.",
+      "ja": "いくら注意してもしすぎることはない。"
+    },
+    {
+      "source": "original",
+      "label": "very と",
+      "en": "This coffee is very hot.",
+      "ja": "このコーヒーはとても熱い(飲めないとは言っていない)。"
+    },
+    {
+      "source": "original",
+      "label": "多すぎる",
+      "en": "There are too many people here.",
+      "ja": "ここは人が多すぎる。"
+    }
+  ],
+  "check_points": [
+    "too ... to do の意味を言えるか",
+    "cannot ... too の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "too ... to do、cannot ... too が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2352
+    }
+  ]
+}

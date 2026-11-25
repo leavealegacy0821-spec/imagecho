@@ -1,0 +1,89 @@
+{
+  "word": "indeed",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ɪnˈdiːd/",
+  "core_image": {
+    "text": "本当に・実際に(前の内容を強める)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"50\" width=\"120\" height=\"60\"/><polyline points=\"90,80 110,100 150,60\"/><line x1=\"30\" y1=\"80\" x2=\"56\" y2=\"80\"/><polyline points=\"49,76.2 56,80 49,83.8\"/><path d=\"M190 60 L200 50 M190 100 L200 110\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">たしかに</text></svg>"
+  },
+  "etymology": "in(〜の中で) + deed(行い・事実) → 事実において → 本当に・実際",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "really; used to emphasize or confirm something."
+    }
+  ],
+  "cautions": [
+    "indeed=本当に・実際(前の内容を強める・確認する)",
+    "very ... indeed=本当にとても(英)",
+    "A friend in need is a friend indeed.=まさかの友こそ真の友",
+    "in fact=実は"
+  ],
+  "patterns": [
+    {
+      "form": "Indeed, ...",
+      "meaning": "実際…"
+    },
+    {
+      "form": "very + 形容詞 + indeed",
+      "meaning": "本当にとても"
+    },
+    {
+      "form": "Yes, indeed.",
+      "meaning": "まったくその通り"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "実際",
+      "en": "The test was hard. Indeed, half the class failed.",
+      "ja": "テストはむずかしかった。実際、クラスの半分が落ちた。"
+    },
+    {
+      "source": "original",
+      "label": "本当に",
+      "en": "Thank you very much indeed.",
+      "ja": "本当にありがとうございます。"
+    },
+    {
+      "source": "original",
+      "label": "同意",
+      "en": "\"It's cold today.\" \"Yes, indeed.\"",
+      "ja": "「今日は寒いね」「まったくだ」"
+    },
+    {
+      "source": "original",
+      "label": "ことわざ",
+      "en": "A friend in need is a friend indeed.",
+      "ja": "まさかの時の友こそ真の友。"
+    },
+    {
+      "source": "original",
+      "label": "確認",
+      "en": "It was indeed a great success.",
+      "ja": "それはまさに大成功だった。"
+    },
+    {
+      "source": "original",
+      "label": "強める",
+      "en": "He is a very lucky man indeed.",
+      "ja": "彼は本当に運のいい人だ。"
+    }
+  ],
+  "check_points": [
+    "indeed の働きを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2355
+    }
+  ]
+}

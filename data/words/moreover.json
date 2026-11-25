@@ -1,0 +1,85 @@
+{
+  "word": "moreover",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/mɔːrˈoʊvər/",
+  "core_image": {
+    "text": "そのうえさらに(前の話に重ねる)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"90\" width=\"80\" height=\"30\"/><rect x=\"40\" y=\"56\" width=\"80\" height=\"30\"/><line x1=\"160\" y1=\"120\" x2=\"160\" y2=\"60\"/><polyline points=\"156.2,67 160,60 163.8,67\"/><rect x=\"140\" y=\"30\" width=\"40\" height=\"20\" stroke-dasharray=\"3 3\"/></g><text x=\"200\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さらに</text></svg>"
+  },
+  "etymology": "more(もっと) + over(上に) → さらにその上に → そのうえ",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "in addition to what has been said; also."
+    }
+  ],
+  "cautions": [
+    "moreover=furthermore=そのうえ(改まった:書き言葉)",
+    "besides=そのうえ(口語的)",
+    "in addition=さらに",
+    "同じ方向の理由・情報を重ねる"
+  ],
+  "patterns": [
+    {
+      "form": "Moreover, ...",
+      "meaning": "そのうえ…"
+    },
+    {
+      "form": "and moreover",
+      "meaning": "しかもそのうえ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "そのうえ",
+      "en": "The hotel was cheap. Moreover, it was near the station.",
+      "ja": "そのホテルは安かった。そのうえ駅に近かった。"
+    },
+    {
+      "source": "original",
+      "label": "しかも",
+      "en": "The job is interesting, and moreover, it pays well.",
+      "ja": "その仕事はおもしろく、しかも給料もよい。"
+    },
+    {
+      "source": "original",
+      "label": "論説",
+      "en": "Moreover, the plan will create new jobs.",
+      "ja": "さらに、その計画は新しい仕事を生むだろう。"
+    },
+    {
+      "source": "original",
+      "label": "in addition",
+      "en": "In addition, you need a passport.",
+      "ja": "さらにパスポートも必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "口語",
+      "en": "It's too far. Besides, I'm tired.",
+      "ja": "遠すぎる。それに疲れている。"
+    },
+    {
+      "source": "original",
+      "label": "重ねる",
+      "en": "Exercise is good for the body. Moreover, it reduces stress.",
+      "ja": "運動は体によい。そのうえストレスも減らす。"
+    }
+  ],
+  "check_points": [
+    "moreover の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文の論理マーカーとして出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2349
+    }
+  ]
+}

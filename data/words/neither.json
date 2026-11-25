@@ -1,0 +1,105 @@
+{
+  "word": "neither",
+  "pos": [
+    "代名詞",
+    "形容詞",
+    "副詞",
+    "接続詞"
+  ],
+  "ipa": "/ˈniːðər/",
+  "core_image": {
+    "text": "2つのどちらも〜ない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"70\" cy=\"80\" r=\"24\"/><circle cx=\"170\" cy=\"80\" r=\"24\"/><line x1=\"52\" y1=\"62\" x2=\"88\" y2=\"98\"/><line x1=\"88\" y1=\"62\" x2=\"52\" y2=\"98\"/><line x1=\"152\" y1=\"62\" x2=\"188\" y2=\"98\"/><line x1=\"188\" y1=\"62\" x2=\"152\" y2=\"98\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どちらも…ない</text></svg>"
+  },
+  "etymology": "ne(〜ない) + either(どちらか) → どちらも〜ない",
+  "en_definitions": [
+    {
+      "pos": "代名詞",
+      "text": "not one and not the other of two."
+    },
+    {
+      "pos": "形容詞",
+      "text": "not either of two."
+    },
+    {
+      "pos": "副詞",
+      "text": "also not."
+    },
+    {
+      "pos": "接続詞",
+      "text": "(neither ... nor) not one and not the other."
+    }
+  ],
+  "cautions": [
+    "neither A nor B=AもBも〜ない(動詞はBに合わせる)",
+    "Neither do I.=私も〜ない(倒置:So do I. の否定版)",
+    "neither of A=Aのどちらも〜ない",
+    "none=(3つ以上)どれも〜ない"
+  ],
+  "patterns": [
+    {
+      "form": "neither A nor B",
+      "meaning": "AもBも〜ない"
+    },
+    {
+      "form": "Neither do I.",
+      "meaning": "私もしない"
+    },
+    {
+      "form": "neither of A",
+      "meaning": "Aのどちらも〜ない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "どちらも",
+      "en": "Neither of my parents can drive.",
+      "ja": "両親はどちらも運転できない。"
+    },
+    {
+      "source": "original",
+      "label": "A も B も",
+      "en": "He speaks neither English nor French.",
+      "ja": "彼は英語もフランス語も話さない。"
+    },
+    {
+      "source": "original",
+      "label": "倒置",
+      "en": "\"I don't like natto.\" \"Neither do I.\"",
+      "ja": "「納豆好きじゃないんだ」「私も」"
+    },
+    {
+      "source": "original",
+      "label": "形容詞",
+      "en": "Neither answer is correct.",
+      "ja": "どちらの答えも正しくない。"
+    },
+    {
+      "source": "original",
+      "label": "3つ以上",
+      "en": "None of the students knew the answer.",
+      "ja": "生徒の誰も答えを知らなかった。"
+    },
+    {
+      "source": "original",
+      "label": "動詞",
+      "en": "Neither you nor I am wrong.",
+      "ja": "あなたも私もまちがっていない。"
+    }
+  ],
+  "check_points": [
+    "Neither do I. の意味を言えるか",
+    "neither と none のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "neither A nor B、Neither do I が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2354
+    }
+  ]
+}
