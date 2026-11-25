@@ -1,0 +1,93 @@
+{
+  "word": "bus",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/bʌs/",
+  "core_image": {
+    "text": "決まった道を走り、大勢を乗せる乗り合い車",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"60\" width=\"180\" height=\"60\"/><rect x=\"40\" y=\"70\" width=\"24\" height=\"20\"/><rect x=\"72\" y=\"70\" width=\"24\" height=\"20\"/><rect x=\"104\" y=\"70\" width=\"24\" height=\"20\"/><rect x=\"136\" y=\"70\" width=\"24\" height=\"20\"/><circle cx=\"70\" cy=\"124\" r=\"12\"/><circle cx=\"170\" cy=\"124\" r=\"12\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">バス</text></svg>"
+  },
+  "etymology": "フランス語 omnibus(ラテン語「すべての人のために」) を短くした語 → 乗り合い馬車 → バス",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a large vehicle that carries many passengers along a fixed route."
+    }
+  ],
+  "cautions": [
+    "by bus=バスで(冠詞なし)",
+    "get on [off] a bus=バスに乗る[降りる](大きい乗り物は on)",
+    "miss the bus=バスに乗りおくれる・(比ゆ)好機をのがす",
+    "複数形 buses"
+  ],
+  "patterns": [
+    {
+      "form": "by bus",
+      "meaning": "バスで"
+    },
+    {
+      "form": "get on [off] the bus",
+      "meaning": "バスに乗る[降りる]"
+    },
+    {
+      "form": "take a bus",
+      "meaning": "バスに乗る"
+    },
+    {
+      "form": "miss the bus",
+      "meaning": "乗りおくれる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "バスで",
+      "en": "I go to school by bus.",
+      "ja": "バスで通学している。"
+    },
+    {
+      "source": "original",
+      "label": "乗る",
+      "en": "Get on the bus at the station.",
+      "ja": "駅でバスに乗ってください。"
+    },
+    {
+      "source": "original",
+      "label": "降りる",
+      "en": "I got off the bus at the wrong stop.",
+      "ja": "まちがった停留所でバスを降りた。"
+    },
+    {
+      "source": "original",
+      "label": "乗りおくれ",
+      "en": "I missed the last bus.",
+      "ja": "最終バスに乗りおくれた。"
+    },
+    {
+      "source": "original",
+      "label": "利用",
+      "en": "We took a bus to the museum.",
+      "ja": "博物館までバスに乗った。"
+    },
+    {
+      "source": "original",
+      "label": "停留所",
+      "en": "The bus stop is near my house.",
+      "ja": "バス停は家の近くにある。"
+    }
+  ],
+  "check_points": [
+    "get on a bus と get in a car の前置詞のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "get on / off、by bus が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2180
+    }
+  ]
+}

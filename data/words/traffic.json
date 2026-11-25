@@ -1,0 +1,93 @@
+{
+  "word": "traffic",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈtræfɪk/",
+  "core_image": {
+    "text": "道を行き来する車の流れ(交通)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"10\" y1=\"60\" x2=\"230\" y2=\"60\"/><line x1=\"10\" y1=\"140\" x2=\"230\" y2=\"140\"/><rect x=\"20\" y=\"70\" width=\"40\" height=\"22\"/><rect x=\"70\" y=\"70\" width=\"40\" height=\"22\"/><rect x=\"120\" y=\"70\" width=\"40\" height=\"22\"/><rect x=\"40\" y=\"108\" width=\"40\" height=\"22\"/><rect x=\"100\" y=\"108\" width=\"40\" height=\"22\"/><rect x=\"160\" y=\"108\" width=\"40\" height=\"22\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こうつう</text></svg>"
+  },
+  "etymology": "イタリア語 traffico(取引・商売) → 物の行き来 → (車・人の)往来・交通量 → 不正な取引(drug trafficking)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the vehicles moving along a road; the movement of people or goods; illegal trade."
+    }
+  ],
+  "cautions": [
+    "traffic=交通(量)(数えない:many traffic ×)",
+    "heavy traffic=交通量が多い・渋滞(much traffic とも)",
+    "a traffic jam=交通渋滞",
+    "traffic lights=信号"
+  ],
+  "patterns": [
+    {
+      "form": "heavy traffic",
+      "meaning": "激しい交通・渋滞"
+    },
+    {
+      "form": "a traffic jam",
+      "meaning": "交通渋滞"
+    },
+    {
+      "form": "traffic lights",
+      "meaning": "信号"
+    },
+    {
+      "form": "a traffic accident",
+      "meaning": "交通事故"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "渋滞",
+      "en": "We were stuck in a traffic jam.",
+      "ja": "渋滞にはまった。"
+    },
+    {
+      "source": "original",
+      "label": "交通量",
+      "en": "There is heavy traffic on this road.",
+      "ja": "この道路は交通量が多い。"
+    },
+    {
+      "source": "original",
+      "label": "信号",
+      "en": "Turn left at the traffic lights.",
+      "ja": "信号を左に曲がって。"
+    },
+    {
+      "source": "original",
+      "label": "事故",
+      "en": "He was injured in a traffic accident.",
+      "ja": "彼は交通事故でけがをした。"
+    },
+    {
+      "source": "original",
+      "label": "少ない",
+      "en": "There isn't much traffic at night.",
+      "ja": "夜は交通量が少ない。"
+    },
+    {
+      "source": "original",
+      "label": "密売",
+      "en": "Drug trafficking is a serious crime.",
+      "ja": "麻薬の密売は重大な犯罪だ。"
+    }
+  ],
+  "check_points": [
+    "heavy traffic の意味と、traffic が数えない名詞だとわかるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "heavy traffic、traffic jam が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2188
+    }
+  ]
+}

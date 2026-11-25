@@ -1,0 +1,93 @@
+{
+  "word": "plane",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/pleɪn/",
+  "core_image": {
+    "text": "空を飛ぶ飛行機・平らな面",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M40 80 L150 70 L200 80 L150 90 Z\"/><line x1=\"120\" y1=\"74\" x2=\"100\" y2=\"40\"/><line x1=\"120\" y1=\"86\" x2=\"100\" y2=\"120\"/><line x1=\"56\" y1=\"78\" x2=\"46\" y2=\"64\"/><line x1=\"204\" y1=\"76\" x2=\"230\" y2=\"60\"/><polyline points=\"222,60.4 230,60 226,66.9\"/></g><text x=\"60\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひこうき</text></svg>"
+  },
+  "etymology": "airplane(飛行機) の短縮 ／ ラテン語 planus(平らな:plain・plan と同じ根) → 平面",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a vehicle with wings and engines that flies; a flat surface; a level of thinking or existence."
+    }
+  ],
+  "cautions": [
+    "plane=飛行機(airplane の短縮)・平面",
+    "by plane=飛行機で/get on [off] a plane",
+    "plain(平らな・明白な)と同じ発音",
+    "catch a plane=飛行機に間に合う"
+  ],
+  "patterns": [
+    {
+      "form": "by plane",
+      "meaning": "飛行機で"
+    },
+    {
+      "form": "get on a plane",
+      "meaning": "飛行機に乗る"
+    },
+    {
+      "form": "catch a plane",
+      "meaning": "飛行機に間に合う"
+    },
+    {
+      "form": "a plane crash",
+      "meaning": "墜落事故"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "飛行機で",
+      "en": "We went to Hokkaido by plane.",
+      "ja": "飛行機で北海道へ行った。"
+    },
+    {
+      "source": "original",
+      "label": "乗る",
+      "en": "We got on the plane at nine.",
+      "ja": "9時に飛行機に乗った。"
+    },
+    {
+      "source": "original",
+      "label": "間に合う",
+      "en": "I have to catch a plane at six.",
+      "ja": "6時の飛行機に乗らなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "墜落",
+      "en": "Nobody died in the plane crash.",
+      "ja": "その墜落事故で亡くなった人はいなかった。"
+    },
+    {
+      "source": "original",
+      "label": "平面",
+      "en": "A square is a figure on a plane.",
+      "ja": "正方形は平面上の図形だ。"
+    },
+    {
+      "source": "original",
+      "label": "同音",
+      "en": "\"Plane\" and \"plain\" sound the same.",
+      "ja": "plane と plain は同じ発音だ。"
+    }
+  ],
+  "check_points": [
+    "plane と plain が同じ発音だとわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "by plane が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2185
+    }
+  ]
+}

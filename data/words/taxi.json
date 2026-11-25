@@ -1,0 +1,98 @@
+{
+  "word": "taxi",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈtæksi/",
+  "core_image": {
+    "text": "お金をはらって行き先まで乗せてもらう車",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M40 120 L50 96 L90 80 L150 80 L180 96 L200 100 L200 120 Z\"/><circle cx=\"76\" cy=\"124\" r=\"12\"/><circle cx=\"170\" cy=\"124\" r=\"12\"/><rect x=\"104\" y=\"64\" width=\"32\" height=\"16\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">タクシー</text></svg>"
+  },
+  "etymology": "taximeter(料金メーター:taxa=料金) + cab の短縮 → 料金メーターつきの車=タクシー",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a car with a driver that you pay to take you somewhere."
+    },
+    {
+      "pos": "動詞",
+      "text": "(of a plane) to move slowly on the ground."
+    }
+  ],
+  "cautions": [
+    "take a taxi=タクシーに乗る/by taxi=タクシーで",
+    "call [get] a taxi=タクシーを呼ぶ",
+    "cab=(米)タクシー",
+    "(飛行機が)地上をゆっくり走る の意味も"
+  ],
+  "patterns": [
+    {
+      "form": "take a taxi",
+      "meaning": "タクシーに乗る"
+    },
+    {
+      "form": "by taxi",
+      "meaning": "タクシーで"
+    },
+    {
+      "form": "call a taxi",
+      "meaning": "タクシーを呼ぶ"
+    },
+    {
+      "form": "a taxi driver",
+      "meaning": "タクシー運転手"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "乗る",
+      "en": "We took a taxi to the hotel.",
+      "ja": "ホテルまでタクシーに乗った。"
+    },
+    {
+      "source": "original",
+      "label": "呼ぶ",
+      "en": "Could you call a taxi for me?",
+      "ja": "タクシーを呼んでもらえますか。"
+    },
+    {
+      "source": "original",
+      "label": "タクシーで",
+      "en": "It takes ten minutes by taxi.",
+      "ja": "タクシーで10分かかる。"
+    },
+    {
+      "source": "original",
+      "label": "乗り場",
+      "en": "There is a taxi stand in front of the station.",
+      "ja": "駅前にタクシー乗り場がある。"
+    },
+    {
+      "source": "original",
+      "label": "運転手",
+      "en": "The taxi driver knew a shortcut.",
+      "ja": "タクシーの運転手は近道を知っていた。"
+    },
+    {
+      "source": "original",
+      "label": "飛行機",
+      "en": "The plane taxied to the runway.",
+      "ja": "飛行機は滑走路へゆっくり移動した。"
+    }
+  ],
+  "check_points": [
+    "take a taxi の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "take a taxi が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2182
+    }
+  ]
+}
