@@ -1,0 +1,94 @@
+{
+  "word": "crime",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/kraɪm/",
+  "core_image": {
+    "text": "法律に反する、悪い行い",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"130\" y=\"70\" width=\"60\" height=\"70\"/><line x1=\"160\" y1=\"70\" x2=\"160\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"96\" y2=\"80\"/><rect x=\"96\" y=\"74\" width=\"20\" height=\"14\"/><line x1=\"40\" y1=\"40\" x2=\"50\" y2=\"50\"/><line x1=\"50\" y1=\"40\" x2=\"40\" y2=\"50\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">法を破る</text></svg>"
+  },
+  "etymology": "ラテン語 crimen(告発・罪) → (法律上の)罪・犯罪 → (口語)ひどいこと・もったいないこと(It's a crime to waste food.) → criminal=犯罪の・犯罪者",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an illegal action that can be punished by law; illegal activities in general."
+    }
+  ],
+  "cautions": [
+    "sin=(宗教・道徳上の)罪/crime=法律上の犯罪",
+    "commit a crime=罪を犯す(× do a crime)",
+    "crime=犯罪全般(不可算:the crime rate)/a crime=1つの犯罪",
+    "a crime against humanity=人道に対する罪"
+  ],
+  "patterns": [
+    {
+      "form": "commit a crime",
+      "meaning": "罪を犯す"
+    },
+    {
+      "form": "the crime rate",
+      "meaning": "犯罪発生率"
+    },
+    {
+      "form": "a serious crime",
+      "meaning": "重大な犯罪"
+    },
+    {
+      "form": "crime prevention",
+      "meaning": "防犯"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "罪を犯す",
+      "en": "He committed a serious crime.",
+      "ja": "彼は重大な罪を犯した。"
+    },
+    {
+      "source": "original",
+      "label": "犯罪",
+      "en": "Crime has decreased in this city.",
+      "ja": "この市では犯罪が減った。"
+    },
+    {
+      "source": "original",
+      "label": "犯罪発生率",
+      "en": "The crime rate is low in Japan.",
+      "ja": "日本は犯罪発生率が低い。"
+    },
+    {
+      "source": "original",
+      "label": "防犯",
+      "en": "Street lights help with crime prevention.",
+      "ja": "街灯は防犯に役立つ。"
+    },
+    {
+      "source": "original",
+      "label": "もったいない",
+      "en": "It's a crime to waste so much food.",
+      "ja": "こんなに食べ物を無駄にするなんてもったいない。"
+    },
+    {
+      "source": "original",
+      "label": "犯罪",
+      "en": "The police are investigating the crime.",
+      "ja": "警察はその犯罪を捜査している。"
+    }
+  ],
+  "check_points": [
+    "commit a crime の動詞を言えるか",
+    "crime と sin のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "commit a crime、crime rate が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1572
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "word": "court",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/kɔːrt/",
+  "core_image": {
+    "text": "囲まれた広場、そこで開かれる裁判(所)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"30\" width=\"180\" height=\"100\"/><rect x=\"100\" y=\"40\" width=\"40\" height=\"20\"/><line x1=\"60\" y1=\"90\" x2=\"100\" y2=\"90\"/><line x1=\"140\" y1=\"90\" x2=\"180\" y2=\"90\"/><circle cx=\"80\" cy=\"76\" r=\"6\"/><circle cx=\"160\" cy=\"76\" r=\"6\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">裁判所・コート</text></svg>"
+  },
+  "etymology": "ラテン語 cohors(囲まれた庭。cohort と同じ根) → 囲まれた中庭 → 王の宮廷 → (王が裁いた場)法廷・裁判所 → (テニスなどの)コート → (動詞)(好意を)得ようとする・求愛する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a place where legal cases are decided; an area for playing tennis or basketball; the place where a king or queen lives."
+    },
+    {
+      "pos": "動詞",
+      "text": "to try to get someone's support; to have a romantic relationship (old use)."
+    }
+  ],
+  "cautions": [
+    "court=裁判所・法廷(go to court=訴訟を起こす)",
+    "take A to court=Aを訴える",
+    "the Supreme Court=最高裁判所",
+    "tennis [basketball] court=テニス[バスケット]コート/court A=Aの支持を得ようとする"
+  ],
+  "patterns": [
+    {
+      "form": "go to court",
+      "meaning": "裁判に訴える"
+    },
+    {
+      "form": "take A to court",
+      "meaning": "Aを訴える"
+    },
+    {
+      "form": "in court",
+      "meaning": "法廷で"
+    },
+    {
+      "form": "a tennis court",
+      "meaning": "テニスコート"
+    },
+    {
+      "form": "the Supreme Court",
+      "meaning": "最高裁"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "法廷",
+      "en": "The case will be heard in court next month.",
+      "ja": "その事件は来月法廷で審理される。"
+    },
+    {
+      "source": "original",
+      "label": "訴える",
+      "en": "She took the company to court.",
+      "ja": "彼女はその会社を訴えた。"
+    },
+    {
+      "source": "original",
+      "label": "最高裁",
+      "en": "The Supreme Court made the final decision.",
+      "ja": "最高裁判所が最終決定を下した。"
+    },
+    {
+      "source": "original",
+      "label": "コート",
+      "en": "We played on the tennis court.",
+      "ja": "私たちはテニスコートで試合をした。"
+    },
+    {
+      "source": "original",
+      "label": "宮廷",
+      "en": "He was a musician at the king's court.",
+      "ja": "彼は王の宮廷の音楽家だった。"
+    },
+    {
+      "source": "original",
+      "label": "支持を得ようとする",
+      "en": "The politician tried to court young voters.",
+      "ja": "その政治家は若い有権者の支持を得ようとした。"
+    }
+  ],
+  "check_points": [
+    "take A to court の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "go to court、take A to court が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1571
+    }
+  ]
+}

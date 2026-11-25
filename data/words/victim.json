@@ -1,0 +1,93 @@
+{
+  "word": "victim",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈvɪktɪm/",
+  "core_image": {
+    "text": "害を受けて苦しむ、被害を受けた人",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"120\" r=\"10\"/><line x1=\"90\" y1=\"124\" x2=\"150\" y2=\"130\"/><line x1=\"110\" y1=\"126\" x2=\"104\" y2=\"140\"/><path d=\"M160 60 L180 90 L170 90 L190 120\" /></g><text x=\"150\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">被害者</text></svg>"
+  },
+  "etymology": "ラテン語 victima(いけにえ) → 神にささげられるいけにえ → (犯罪・事故・災害の)被害者・犠牲者 → fall victim to A=Aの犠牲になる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a person or animal that has been harmed or killed by a crime, accident, disaster, etc."
+    }
+  ],
+  "cautions": [
+    "criminal=犯人/victim=被害者・犠牲者",
+    "fall victim to A=Aの犠牲になる(fall の後は無冠詞)",
+    "victims of the earthquake=地震の被災者",
+    "a murder victim=殺人の被害者"
+  ],
+  "patterns": [
+    {
+      "form": "a victim of A",
+      "meaning": "Aの被害者"
+    },
+    {
+      "form": "fall victim to A",
+      "meaning": "Aの犠牲になる"
+    },
+    {
+      "form": "victims of the disaster",
+      "meaning": "被災者"
+    },
+    {
+      "form": "a murder victim",
+      "meaning": "殺人の被害者"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "被災者",
+      "en": "Money was sent to help the victims of the earthquake.",
+      "ja": "地震の被災者を助けるためにお金が送られた。"
+    },
+    {
+      "source": "original",
+      "label": "犠牲になる",
+      "en": "Many people fell victim to the scam.",
+      "ja": "多くの人がその詐欺の犠牲になった。"
+    },
+    {
+      "source": "original",
+      "label": "被害者",
+      "en": "The police are talking to the victim.",
+      "ja": "警察は被害者から話を聞いている。"
+    },
+    {
+      "source": "original",
+      "label": "犠牲者",
+      "en": "The war had many innocent victims.",
+      "ja": "その戦争では多くの罪のない犠牲者が出た。"
+    },
+    {
+      "source": "original",
+      "label": "被害者",
+      "en": "She was the victim of bullying.",
+      "ja": "彼女はいじめの被害者だった。"
+    },
+    {
+      "source": "original",
+      "label": "犠牲者",
+      "en": "Children are often the victims of poverty.",
+      "ja": "子どもはしばしば貧困の犠牲者だ。"
+    }
+  ],
+  "check_points": [
+    "fall victim to A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "fall victim to、victims of が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1576
+    }
+  ]
+}

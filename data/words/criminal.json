@@ -1,0 +1,98 @@
+{
+  "word": "criminal",
+  "pos": [
+    "名詞",
+    "形容詞"
+  ],
+  "ipa": "/ˈkrɪmɪnl/",
+  "core_image": {
+    "text": "罪を犯した人・犯罪にかかわる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"106\" y2=\"88\"/><line x1=\"120\" y1=\"74\" x2=\"134\" y2=\"88\"/><line x1=\"100\" y1=\"20\" x2=\"100\" y2=\"140\"/><line x1=\"140\" y1=\"20\" x2=\"140\" y2=\"140\"/><line x1=\"80\" y1=\"20\" x2=\"80\" y2=\"140\"/><line x1=\"160\" y1=\"20\" x2=\"160\" y2=\"140\"/></g><text x=\"200\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">犯罪者</text></svg>"
+  },
+  "etymology": "crime(犯罪)+al → 犯罪の・刑事上の → (名詞)犯罪者・犯人 → (口語)けしからん",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a person who has committed a crime."
+    },
+    {
+      "pos": "形容詞",
+      "text": "relating to crime; very wrong."
+    }
+  ],
+  "cautions": [
+    "suspect=容疑者/criminal=罪を犯した人・犯人",
+    "criminal law [record]=刑法[前科]",
+    "a criminal act=犯罪行為",
+    "(口語)It's criminal!=けしからん"
+  ],
+  "patterns": [
+    {
+      "form": "a criminal",
+      "meaning": "犯罪者"
+    },
+    {
+      "form": "a criminal record",
+      "meaning": "前科"
+    },
+    {
+      "form": "criminal law",
+      "meaning": "刑法"
+    },
+    {
+      "form": "a criminal act",
+      "meaning": "犯罪行為"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "犯罪者",
+      "en": "The police caught the criminal.",
+      "ja": "警察は犯人を捕まえた。"
+    },
+    {
+      "source": "original",
+      "label": "前科",
+      "en": "He has no criminal record.",
+      "ja": "彼に前科はない。"
+    },
+    {
+      "source": "original",
+      "label": "犯罪行為",
+      "en": "Stealing is a criminal act.",
+      "ja": "盗みは犯罪行為だ。"
+    },
+    {
+      "source": "original",
+      "label": "刑事",
+      "en": "She is studying criminal law.",
+      "ja": "彼女は刑法を学んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "犯罪者",
+      "en": "Dangerous criminals are kept in prison.",
+      "ja": "危険な犯罪者は刑務所に収容される。"
+    },
+    {
+      "source": "original",
+      "label": "けしからん",
+      "en": "It's criminal to charge so much.",
+      "ja": "そんなに高い料金をとるなんてけしからん。"
+    }
+  ],
+  "check_points": [
+    "criminal record の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "criminal が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1575
+    }
+  ]
+}

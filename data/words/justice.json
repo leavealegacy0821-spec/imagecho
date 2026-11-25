@@ -1,0 +1,98 @@
+{
+  "word": "justice",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈdʒʌstɪs/",
+  "core_image": {
+    "text": "てんびんが釣り合うように、正しく公平であること",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"120\" y1=\"140\" x2=\"120\" y2=\"40\"/><line x1=\"60\" y1=\"50\" x2=\"180\" y2=\"50\"/><line x1=\"60\" y1=\"50\" x2=\"50\" y2=\"80\"/><line x1=\"60\" y1=\"50\" x2=\"70\" y2=\"80\"/><line x1=\"50\" y1=\"80\" x2=\"70\" y2=\"80\"/><line x1=\"180\" y1=\"50\" x2=\"170\" y2=\"80\"/><line x1=\"180\" y1=\"50\" x2=\"190\" y2=\"80\"/><line x1=\"170\" y1=\"80\" x2=\"190\" y2=\"80\"/><line x1=\"100\" y1=\"140\" x2=\"140\" y2=\"140\"/></g><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">公平</text></svg>"
+  },
+  "etymology": "ラテン語 justus(正しい。just=正しい・ちょうど と同じ根) → 正しいこと=正義・公正 → 裁判・司法 → justify=正しいとする",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "fair treatment of people; the system of laws and courts."
+    }
+  ],
+  "cautions": [
+    "law=法律/justice=法による正しさ・公正・正義・司法",
+    "bring A to justice=Aを裁判にかける・法の裁きを受けさせる",
+    "do A justice=Aを正当に評価する・実物どおりに表す",
+    "injustice=不正・不公平"
+  ],
+  "patterns": [
+    {
+      "form": "bring A to justice",
+      "meaning": "Aを裁きにかける"
+    },
+    {
+      "form": "a sense of justice",
+      "meaning": "正義感"
+    },
+    {
+      "form": "do A justice",
+      "meaning": "Aを正当に表す"
+    },
+    {
+      "form": "social justice",
+      "meaning": "社会正義"
+    },
+    {
+      "form": "injustice",
+      "meaning": "不公平"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "裁きにかける",
+      "en": "The police are determined to bring the killer to justice.",
+      "ja": "警察は殺人犯を必ず裁きにかけるつもりだ。"
+    },
+    {
+      "source": "original",
+      "label": "正義感",
+      "en": "He has a strong sense of justice.",
+      "ja": "彼は正義感が強い。"
+    },
+    {
+      "source": "original",
+      "label": "実物どおり",
+      "en": "This photo doesn't do her justice.",
+      "ja": "この写真は実物の彼女ほどよくない。"
+    },
+    {
+      "source": "original",
+      "label": "社会正義",
+      "en": "They are fighting for social justice.",
+      "ja": "彼らは社会正義のために戦っている。"
+    },
+    {
+      "source": "original",
+      "label": "不公平",
+      "en": "We must fight against injustice.",
+      "ja": "不公平と戦わなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "司法",
+      "en": "The justice system should treat everyone equally.",
+      "ja": "司法制度は誰でも平等に扱うべきだ。"
+    }
+  ],
+  "check_points": [
+    "bring A to justice の意味を言えるか",
+    "do A justice の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "bring A to justice、do A justice が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1570
+    }
+  ]
+}

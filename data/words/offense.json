@@ -1,0 +1,97 @@
+{
+  "word": "offense",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/əˈfens/",
+  "core_image": {
+    "text": "ぶつかって相手を傷つける、規則違反・気にさわること",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"100\" y2=\"66\"/><polyline points=\"104,60 112,68 104,76\"/><line x1=\"170\" y1=\"74\" x2=\"156\" y2=\"96\"/><line x1=\"170\" y1=\"74\" x2=\"184\" y2=\"96\"/><line x1=\"150\" y1=\"40\" x2=\"144\" y2=\"34\"/></g><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さわる・違反</text></svg>"
+  },
+  "etymology": "offend(気分を害する。of=〜に向かって+fend=打つ:defend と同じ根)の名詞 → 打ちあたること → 法律違反・(軽い)犯罪 → 気分を害すること・侮辱 → (スポーツの)攻撃(⇔ defense)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an illegal action; a feeling of being upset or insulted; (in sports) the team that attacks."
+    }
+  ],
+  "cautions": [
+    "crime=犯罪(重いことも)/offense=法律・規則違反(軽い犯罪も)・気分を害すること",
+    "take offense (at A)=(Aに)腹を立てる",
+    "No offense, but …=悪く思わないでほしいけど…",
+    "offense ⇔ defense(攻撃⇔守備)/イギリス英語 offence"
+  ],
+  "patterns": [
+    {
+      "form": "commit an offense",
+      "meaning": "違反を犯す"
+    },
+    {
+      "form": "a traffic offense",
+      "meaning": "交通違反"
+    },
+    {
+      "form": "take offense at A",
+      "meaning": "Aに腹を立てる"
+    },
+    {
+      "form": "No offense, but …",
+      "meaning": "悪気はないけど…"
+    },
+    {
+      "form": "on offense",
+      "meaning": "攻撃側で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "交通違反",
+      "en": "Speeding is a traffic offense.",
+      "ja": "スピード違反は交通違反だ。"
+    },
+    {
+      "source": "original",
+      "label": "腹を立てる",
+      "en": "She took offense at his joke.",
+      "ja": "彼女は彼の冗談に腹を立てた。"
+    },
+    {
+      "source": "original",
+      "label": "悪気はない",
+      "en": "No offense, but your idea won't work.",
+      "ja": "悪く思わないでほしいけど、君の案はうまくいかないよ。"
+    },
+    {
+      "source": "original",
+      "label": "罪",
+      "en": "It is an offense to sell alcohol to children.",
+      "ja": "子どもに酒を売るのは違法だ。"
+    },
+    {
+      "source": "original",
+      "label": "攻撃",
+      "en": "Our team is strong on offense.",
+      "ja": "私たちのチームは攻撃が強い。"
+    },
+    {
+      "source": "original",
+      "label": "違反を犯す",
+      "en": "He committed his first offense at 16.",
+      "ja": "彼は16歳で初めて罪を犯した。"
+    }
+  ],
+  "check_points": [
+    "take offense at A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "take offense、No offense が会話で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1573
+    }
+  ]
+}

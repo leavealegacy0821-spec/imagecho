@@ -1,0 +1,97 @@
+{
+  "word": "law",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/lɔː/",
+  "core_image": {
+    "text": "みんなが従うよう、定めて置かれた決まり",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"80\" y=\"40\" width=\"80\" height=\"100\"/><line x1=\"96\" y1=\"60\" x2=\"144\" y2=\"60\"/><line x1=\"96\" y1=\"80\" x2=\"144\" y2=\"80\"/><line x1=\"96\" y1=\"100\" x2=\"144\" y2=\"100\"/><line x1=\"96\" y1=\"120\" x2=\"130\" y2=\"120\"/></g><text x=\"200\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">決まり</text></svg>"
+  },
+  "etymology": "古いノルド語 lag(置かれたもの。lay=置く と同じ根) → 定めて置かれたもの → 法律・法 → (自然の)法則(the law of gravity) → lawyer=弁護士",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a rule made by the government that everyone must obey; the system of such rules; a rule that explains how something in nature works."
+    }
+  ],
+  "cautions": [
+    "rule=規則(広い・団体の)/law=国が定めた法律・(自然の)法則",
+    "break [obey] the law=法律を破る[守る]/against the law=違法で",
+    "by law=法律で(be required by law)",
+    "the law of gravity=重力の法則/lawyer=弁護士"
+  ],
+  "patterns": [
+    {
+      "form": "break the law",
+      "meaning": "法律を破る"
+    },
+    {
+      "form": "obey the law",
+      "meaning": "法律を守る"
+    },
+    {
+      "form": "against the law",
+      "meaning": "違法で"
+    },
+    {
+      "form": "by law",
+      "meaning": "法律によって"
+    },
+    {
+      "form": "the law of A",
+      "meaning": "Aの法則"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "法律を破る",
+      "en": "Anyone who breaks the law will be punished.",
+      "ja": "法律を破った者は誰でも罰せられる。"
+    },
+    {
+      "source": "original",
+      "label": "違法",
+      "en": "It's against the law to drive without a license.",
+      "ja": "免許なしで運転するのは違法だ。"
+    },
+    {
+      "source": "original",
+      "label": "法律によって",
+      "en": "Wearing a seat belt is required by law.",
+      "ja": "シートベルトの着用は法律で義務づけられている。"
+    },
+    {
+      "source": "original",
+      "label": "法則",
+      "en": "Newton discovered the law of gravity.",
+      "ja": "ニュートンは重力の法則を発見した。"
+    },
+    {
+      "source": "original",
+      "label": "法律",
+      "en": "A new law was passed last year.",
+      "ja": "昨年新しい法律が成立した。"
+    },
+    {
+      "source": "original",
+      "label": "法律",
+      "en": "She is studying law at university.",
+      "ja": "彼女は大学で法律を学んでいる。"
+    }
+  ],
+  "check_points": [
+    "against the law の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "break the law、against the law が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1569
+    }
+  ]
+}

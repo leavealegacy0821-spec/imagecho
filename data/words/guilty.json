@@ -1,0 +1,98 @@
+{
+  "word": "guilty",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈɡɪlti/",
+  "core_image": {
+    "text": "罪を犯している、心がとがめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"64\" r=\"12\"/><path d=\"M112 72 Q120 68 128 72\"/><line x1=\"120\" y1=\"76\" x2=\"116\" y2=\"110\"/><line x1=\"116\" y1=\"110\" x2=\"106\" y2=\"140\"/><line x1=\"116\" y1=\"110\" x2=\"126\" y2=\"140\"/><line x1=\"118\" y1=\"86\" x2=\"104\" y2=\"100\"/><line x1=\"118\" y1=\"86\" x2=\"132\" y2=\"98\"/><line x1=\"100\" y1=\"44\" x2=\"94\" y2=\"38\"/><line x1=\"140\" y1=\"44\" x2=\"146\" y2=\"38\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やましい</text></svg>"
+  },
+  "etymology": "guilt(罪・罪悪感)+y → 罪のある・有罪の → (悪いことをして)やましい・後ろめたい",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "having broken a law; feeling bad because you have done something wrong."
+    }
+  ],
+  "cautions": [
+    "innocent(無罪の)⇔ guilty(有罪の)",
+    "be guilty of A=Aの罪を犯している(of)",
+    "be found guilty=有罪判決を受ける/plead guilty=罪を認める",
+    "feel guilty about A=Aに罪悪感を感じる"
+  ],
+  "patterns": [
+    {
+      "form": "be guilty of A",
+      "meaning": "Aの罪を犯している"
+    },
+    {
+      "form": "be found guilty",
+      "meaning": "有罪とされる"
+    },
+    {
+      "form": "plead guilty",
+      "meaning": "罪を認める"
+    },
+    {
+      "form": "feel guilty about A",
+      "meaning": "Aにやましさを感じる"
+    },
+    {
+      "form": "a guilty conscience",
+      "meaning": "やましい心"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "有罪",
+      "en": "He was found guilty of stealing.",
+      "ja": "彼は窃盗で有罪となった。"
+    },
+    {
+      "source": "original",
+      "label": "罪を犯している",
+      "en": "She is guilty of lying.",
+      "ja": "彼女はうそをついた罪がある。"
+    },
+    {
+      "source": "original",
+      "label": "罪を認める",
+      "en": "The man pleaded guilty.",
+      "ja": "その男は罪を認めた。"
+    },
+    {
+      "source": "original",
+      "label": "やましい",
+      "en": "I feel guilty about not calling my mother.",
+      "ja": "母に電話していなくて後ろめたい。"
+    },
+    {
+      "source": "original",
+      "label": "やましい心",
+      "en": "He had a guilty conscience.",
+      "ja": "彼は良心がとがめていた。"
+    },
+    {
+      "source": "original",
+      "label": "後ろめたい",
+      "en": "Don't feel guilty about taking a break.",
+      "ja": "休むことに罪悪感をもたないで。"
+    }
+  ],
+  "check_points": [
+    "be guilty of A の意味を言えるか",
+    "feel guilty の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be found guilty、feel guilty が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1578
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "sin",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/sɪn/",
+  "core_image": {
+    "text": "神や良心にそむく、心の中の罪",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"70\" r=\"40\" stroke-dasharray=\"4 4\"/><path d=\"M110 60 Q120 50 130 60 Q140 50 150 60\" transform=\"translate(-20 0)\"/><line x1=\"104\" y1=\"80\" x2=\"136\" y2=\"80\"/><line x1=\"120\" y1=\"20\" x2=\"120\" y2=\"28\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">心の罪</text></svg>"
+  },
+  "etymology": "古い英語 synn(罪・悪行) → (宗教・道徳上の)罪 → (口語)ばちあたりなこと・もったいないこと → sinful=罪深い",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an action that breaks a religious or moral law; something wrong."
+    },
+    {
+      "pos": "動詞",
+      "text": "to do something wrong according to religious or moral law."
+    }
+  ],
+  "cautions": [
+    "crime=法律上の犯罪/sin=宗教・道徳上の罪(悪いこと)",
+    "commit a sin=罪を犯す",
+    "It's a sin to waste A.=Aを無駄にするのはばちあたりだ",
+    "the seven deadly sins=七つの大罪"
+  ],
+  "patterns": [
+    {
+      "form": "commit a sin",
+      "meaning": "罪を犯す"
+    },
+    {
+      "form": "It's a sin to do",
+      "meaning": "〜するのはばちあたりだ"
+    },
+    {
+      "form": "sinful",
+      "meaning": "罪深い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "罪",
+      "en": "Many religions teach that lying is a sin.",
+      "ja": "多くの宗教はうそが罪だと教えている。"
+    },
+    {
+      "source": "original",
+      "label": "ばちあたり",
+      "en": "It's a sin to waste good food.",
+      "ja": "おいしい食べ物を無駄にするなんてばちあたりだ。"
+    },
+    {
+      "source": "original",
+      "label": "罪を犯す",
+      "en": "He believed he had committed a terrible sin.",
+      "ja": "彼は自分がひどい罪を犯したと思いこんでいた。"
+    },
+    {
+      "source": "original",
+      "label": "罪深い",
+      "en": "The priest said greed is sinful.",
+      "ja": "司祭は強欲は罪深いと言った。"
+    },
+    {
+      "source": "original",
+      "label": "罪",
+      "en": "Forgive us our sins.",
+      "ja": "われらの罪をゆるしたまえ。"
+    },
+    {
+      "source": "original",
+      "label": "罪(crime)",
+      "en": "Stealing is a crime.",
+      "ja": "盗みは犯罪だ。"
+    }
+  ],
+  "check_points": [
+    "crime と sin のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "crime / sin の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1574
+    }
+  ]
+}
