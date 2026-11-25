@@ -1,0 +1,98 @@
+{
+  "word": "group",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ɡruːp/",
+  "core_image": {
+    "text": "ひとかたまりに集まった人や物",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"120\" cy=\"80\" rx=\"90\" ry=\"50\" stroke-dasharray=\"4 4\"/><circle cx=\"80\" cy=\"70\" r=\"10\"/><circle cx=\"110\" cy=\"64\" r=\"10\"/><circle cx=\"140\" cy=\"70\" r=\"10\"/><circle cx=\"96\" cy=\"96\" r=\"10\"/><circle cx=\"128\" cy=\"98\" r=\"10\"/><circle cx=\"160\" cy=\"94\" r=\"10\"/></g><text x=\"200\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひとかたまり</text></svg>"
+  },
+  "etymology": "イタリア語 gruppo(かたまり・結び目) → (絵の中の)人物のかたまり → 集団・グループ → (動詞)まとめる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a number of people or things that are together or connected."
+    },
+    {
+      "pos": "動詞",
+      "text": "to put people or things into groups."
+    }
+  ],
+  "cautions": [
+    "group=ゆるく集まったかたまり(広い)/team=同じ目的で協力する組/crew=船・飛行機などの乗組員",
+    "in groups=グループで",
+    "group A into B=AをBに分類する",
+    "a group of A=ひとまとまりのA"
+  ],
+  "patterns": [
+    {
+      "form": "a group of A",
+      "meaning": "ひとまとまりのA"
+    },
+    {
+      "form": "in groups",
+      "meaning": "グループで"
+    },
+    {
+      "form": "group A together",
+      "meaning": "Aをまとめる"
+    },
+    {
+      "form": "an age group",
+      "meaning": "年齢層"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "グループで",
+      "en": "We worked in groups of four.",
+      "ja": "4人ずつのグループで作業した。"
+    },
+    {
+      "source": "original",
+      "label": "集まり",
+      "en": "A group of students was waiting outside.",
+      "ja": "生徒の一団が外で待っていた。"
+    },
+    {
+      "source": "original",
+      "label": "分類",
+      "en": "The books are grouped by subject.",
+      "ja": "本は教科ごとにまとめられている。"
+    },
+    {
+      "source": "original",
+      "label": "年齢層",
+      "en": "This game is popular with every age group.",
+      "ja": "このゲームはどの年齢層にも人気だ。"
+    },
+    {
+      "source": "original",
+      "label": "団体",
+      "en": "The tour group visited three temples.",
+      "ja": "その団体旅行客は3つの寺を訪れた。"
+    },
+    {
+      "source": "original",
+      "label": "音楽",
+      "en": "She sings in a pop group.",
+      "ja": "彼女はポップグループで歌っている。"
+    }
+  ],
+  "check_points": [
+    "group と team のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "in groups、age group が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2099
+    }
+  ]
+}

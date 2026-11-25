@@ -1,0 +1,93 @@
+{
+  "word": "manager",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈmænɪdʒər/",
+  "core_image": {
+    "text": "仕事や人をうまく管理する人",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"30\" width=\"180\" height=\"110\"/><circle cx=\"120\" cy=\"56\" r=\"10\"/><line x1=\"120\" y1=\"66\" x2=\"120\" y2=\"90\"/><line x1=\"120\" y1=\"80\" x2=\"70\" y2=\"110\"/><line x1=\"120\" y1=\"80\" x2=\"170\" y2=\"110\"/><circle cx=\"70\" cy=\"118\" r=\"8\"/><circle cx=\"120\" cy=\"118\" r=\"8\"/><circle cx=\"170\" cy=\"118\" r=\"8\"/><line x1=\"120\" y1=\"90\" x2=\"120\" y2=\"110\"/></g><text x=\"120\" y=\"16\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まとめる</text></svg>"
+  },
+  "etymology": "manage(うまくやる・管理する:イタリア語 maneggiare=馬を手であつかう・manus=手) + -er(人) → 管理する人・支配人",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a person who is in charge of a business, department or team."
+    }
+  ],
+  "cautions": [
+    "manager=(店・部署・チームの)管理者・支配人・監督/boss=上司(口語)",
+    "a store manager=店長",
+    "(スポーツ)監督・(芸能人の)マネージャー",
+    "management=経営・管理"
+  ],
+  "patterns": [
+    {
+      "form": "a store manager",
+      "meaning": "店長"
+    },
+    {
+      "form": "a sales manager",
+      "meaning": "営業部長"
+    },
+    {
+      "form": "the team manager",
+      "meaning": "チームの監督"
+    },
+    {
+      "form": "management",
+      "meaning": "経営"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "店長",
+      "en": "I'd like to speak to the manager.",
+      "ja": "店長と話したいのですが。"
+    },
+    {
+      "source": "original",
+      "label": "部長",
+      "en": "She was promoted to sales manager.",
+      "ja": "彼女は営業部長に昇進した。"
+    },
+    {
+      "source": "original",
+      "label": "監督",
+      "en": "The team manager was happy with the result.",
+      "ja": "チームの監督は結果に満足していた。"
+    },
+    {
+      "source": "original",
+      "label": "経営",
+      "en": "The company is under new management.",
+      "ja": "その会社は経営者が変わった。"
+    },
+    {
+      "source": "original",
+      "label": "支配人",
+      "en": "The hotel manager apologized to us.",
+      "ja": "ホテルの支配人が私たちに謝った。"
+    },
+    {
+      "source": "original",
+      "label": "うまくやる",
+      "en": "He managed to finish on time.",
+      "ja": "彼はなんとか時間内に終えた。"
+    }
+  ],
+  "check_points": [
+    "manager と boss のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "management が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2106
+    }
+  ]
+}

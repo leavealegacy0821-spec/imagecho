@@ -1,0 +1,93 @@
+{
+  "word": "employer",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ɪmˈplɔɪər/",
+  "core_image": {
+    "text": "人をやとってお金を払う側(雇い主)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"20\" y=\"40\" width=\"80\" height=\"80\"/><line x1=\"20\" y1=\"60\" x2=\"100\" y2=\"60\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"104\" y1=\"80\" x2=\"160\" y2=\"80\"/><polyline points=\"153,76.2 160,80 153,83.8\"/><circle cx=\"130\" cy=\"64\" r=\"8\"/></g><text x=\"60\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やとう</text></svg>"
+  },
+  "etymology": "employ(やとう・使う:ラテン語 implicare=包みこむ) + -er(〜する人) → やとう人・会社",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a person or company that pays people to work for them."
+    }
+  ],
+  "cautions": [
+    "employer=やとう側(-er)/employee=やとわれる側(-ee)",
+    "-er=〜する人・-ee=〜される人(interviewer / interviewee も同じ)",
+    "employment=雇用",
+    "unemployment=失業"
+  ],
+  "patterns": [
+    {
+      "form": "one's employer",
+      "meaning": "雇い主"
+    },
+    {
+      "form": "a large employer",
+      "meaning": "多くの人をやとう企業"
+    },
+    {
+      "form": "employment",
+      "meaning": "雇用"
+    },
+    {
+      "form": "unemployment",
+      "meaning": "失業"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "雇い主",
+      "en": "My employer pays me every month.",
+      "ja": "雇い主が毎月給料を払ってくれる。"
+    },
+    {
+      "source": "original",
+      "label": "企業",
+      "en": "The factory is the town's biggest employer.",
+      "ja": "その工場は町でいちばん多くの人をやとっている。"
+    },
+    {
+      "source": "original",
+      "label": "対比",
+      "en": "Employers and employees must respect each other.",
+      "ja": "雇う側と雇われる側は互いを尊重しなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "雇用",
+      "en": "The new law will create employment.",
+      "ja": "新しい法律は雇用を生むだろう。"
+    },
+    {
+      "source": "original",
+      "label": "失業",
+      "en": "Unemployment is rising.",
+      "ja": "失業が増えている。"
+    },
+    {
+      "source": "original",
+      "label": "求める",
+      "en": "Employers want workers with good communication skills.",
+      "ja": "雇い主はコミュニケーション力のある人を求めている。"
+    }
+  ],
+  "check_points": [
+    "employer と employee のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "employer / employee の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2107
+    }
+  ]
+}

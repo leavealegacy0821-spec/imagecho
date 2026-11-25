@@ -1,0 +1,89 @@
+{
+  "word": "employee",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ɪmˈplɔɪiː/",
+  "core_image": {
+    "text": "やとわれて働く側(従業員)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"140\" y=\"40\" width=\"80\" height=\"80\"/><line x1=\"140\" y1=\"60\" x2=\"220\" y2=\"60\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"136\" y1=\"80\" x2=\"80\" y2=\"80\"/><polyline points=\"87,83.8 80,80 87,76.2\"/><circle cx=\"110\" cy=\"64\" r=\"8\"/></g><text x=\"180\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やとわれる</text></svg>"
+  },
+  "etymology": "employ(やとう) + -ee(〜される人:フランス語の受け身の形から) → やとわれる人=従業員",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a person who is paid to work for a person or company."
+    }
+  ],
+  "cautions": [
+    "employee=やとわれる人(-ee)/employer=やとう側(-er)",
+    "発音 /ɪmˈplɔɪiː/(後ろの -ee を強く読むことも)",
+    "staff=職員全体/employee=一人ひとりの従業員",
+    "worker=働く人(広い)"
+  ],
+  "patterns": [
+    {
+      "form": "an employee of A",
+      "meaning": "Aの従業員"
+    },
+    {
+      "form": "full-time employees",
+      "meaning": "正社員"
+    },
+    {
+      "form": "part-time employees",
+      "meaning": "パート従業員"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "従業員",
+      "en": "The company has 500 employees.",
+      "ja": "その会社には500人の従業員がいる。"
+    },
+    {
+      "source": "original",
+      "label": "正社員",
+      "en": "She became a full-time employee.",
+      "ja": "彼女は正社員になった。"
+    },
+    {
+      "source": "original",
+      "label": "待遇",
+      "en": "The company treats its employees well.",
+      "ja": "その会社は従業員を大切にしている。"
+    },
+    {
+      "source": "original",
+      "label": "-ee",
+      "en": "An interviewee answers the interviewer's questions.",
+      "ja": "面接される人は面接する人の質問に答える。"
+    },
+    {
+      "source": "original",
+      "label": "研修",
+      "en": "New employees receive two weeks of training.",
+      "ja": "新入社員は2週間の研修を受ける。"
+    },
+    {
+      "source": "original",
+      "label": "対比",
+      "en": "The employer hired ten new employees.",
+      "ja": "雇い主は新しく10人の従業員をやとった。"
+    }
+  ],
+  "check_points": [
+    "-er と -ee のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "employer / employee の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2108
+    }
+  ]
+}

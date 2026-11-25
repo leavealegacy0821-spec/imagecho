@@ -1,0 +1,98 @@
+{
+  "word": "staff",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/stæf/",
+  "core_image": {
+    "text": "その場所で働く職員たち(全体)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"20\" width=\"180\" height=\"120\"/><line x1=\"30\" y1=\"34\" x2=\"210\" y2=\"34\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/></g><text x=\"120\" y=\"10\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しょくいんたち</text></svg>"
+  },
+  "etymology": "古い英語 stæf(つえ・棒) → (指揮官の)つえ → 指揮官をささえる幕僚 → (組織の)職員全体",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "all the people who work for an organization."
+    },
+    {
+      "pos": "動詞",
+      "text": "to provide workers for an organization."
+    }
+  ],
+  "cautions": [
+    "staff=職員全体(集合名詞:a staff member=職員1人)",
+    "「スタッフ1人」を a staff とはふつう言わない",
+    "the teaching staff=教職員",
+    "staff A=Aに人員を配置する(be well staffed)"
+  ],
+  "patterns": [
+    {
+      "form": "a staff member",
+      "meaning": "職員1人"
+    },
+    {
+      "form": "the staff",
+      "meaning": "職員(全体)"
+    },
+    {
+      "form": "be short-staffed",
+      "meaning": "人手不足だ"
+    },
+    {
+      "form": "staff room",
+      "meaning": "職員室"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "職員",
+      "en": "The hotel staff were very friendly.",
+      "ja": "ホテルの従業員はとても親切だった。"
+    },
+    {
+      "source": "original",
+      "label": "1人",
+      "en": "She is a member of staff at the library.",
+      "ja": "彼女は図書館の職員だ。"
+    },
+    {
+      "source": "original",
+      "label": "人手不足",
+      "en": "The hospital is short-staffed.",
+      "ja": "その病院は人手不足だ。"
+    },
+    {
+      "source": "original",
+      "label": "職員室",
+      "en": "The teachers are in the staff room.",
+      "ja": "先生たちは職員室にいる。"
+    },
+    {
+      "source": "original",
+      "label": "配置",
+      "en": "The office is staffed by volunteers.",
+      "ja": "その事務所はボランティアが運営している。"
+    },
+    {
+      "source": "original",
+      "label": "教職員",
+      "en": "The school has a teaching staff of 50.",
+      "ja": "その学校には50人の教職員がいる。"
+    }
+  ],
+  "check_points": [
+    "staff が集合名詞だとわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "staff の数え方が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2102
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "crew",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/kruː/",
+  "core_image": {
+    "text": "船や飛行機をいっしょに動かす乗組員たち",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 110 Q40 100 70 110 T130 110 T190 110 T240 110\"/><path d=\"M50 100 L190 100 L170 120 L70 120 Z\"/><line x1=\"120\" y1=\"100\" x2=\"120\" y2=\"40\"/><polygon points=\"120,44 120,90 160,90\"/><circle cx=\"80\" cy=\"90\" r=\"6\"/><circle cx=\"96\" cy=\"90\" r=\"6\"/><circle cx=\"170\" cy=\"90\" r=\"6\"/></g><text x=\"50\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">のりくみいん</text></svg>"
+  },
+  "etymology": "古フランス語 creue(増えること・援軍:recruit と同じ根) → 増員 → (いっしょに働く)一団・乗組員",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "all the people who work on a ship, plane or train; a group of people who work together on a particular job."
+    }
+  ],
+  "cautions": [
+    "crew=(船・飛行機の)乗組員全体(ひとまとまりの集合名詞)",
+    "a crew member=乗組員の一人",
+    "a film crew=撮影スタッフ",
+    "passengers=乗客/crew=乗員"
+  ],
+  "patterns": [
+    {
+      "form": "the crew",
+      "meaning": "乗組員(全体)"
+    },
+    {
+      "form": "a crew member",
+      "meaning": "乗組員の一人"
+    },
+    {
+      "form": "a film [TV] crew",
+      "meaning": "撮影班"
+    },
+    {
+      "form": "cabin crew",
+      "meaning": "客室乗務員"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "乗組員",
+      "en": "The ship had a crew of 20.",
+      "ja": "その船には20人の乗組員がいた。"
+    },
+    {
+      "source": "original",
+      "label": "乗客と乗員",
+      "en": "All passengers and crew were safe.",
+      "ja": "乗客乗員全員が無事だった。"
+    },
+    {
+      "source": "original",
+      "label": "客室乗務員",
+      "en": "The cabin crew served drinks.",
+      "ja": "客室乗務員が飲み物を配った。"
+    },
+    {
+      "source": "original",
+      "label": "撮影班",
+      "en": "A film crew came to our school.",
+      "ja": "撮影班が学校に来た。"
+    },
+    {
+      "source": "original",
+      "label": "一人",
+      "en": "He is a crew member on the space station.",
+      "ja": "彼は宇宙ステーションの乗組員だ。"
+    },
+    {
+      "source": "original",
+      "label": "作業班",
+      "en": "A repair crew fixed the road.",
+      "ja": "修理班が道路を直した。"
+    }
+  ],
+  "check_points": [
+    "crew が乗組員全体を指すことがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "passengers and crew が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2101
+    }
+  ]
+}

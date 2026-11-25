@@ -1,0 +1,98 @@
+{
+  "word": "team",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/tiːm/",
+  "core_image": {
+    "text": "同じ目的のために力を合わせる組",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"120\" y2=\"74\"/><line x1=\"120\" y1=\"74\" x2=\"180\" y2=\"74\"/><line x1=\"120\" y1=\"20\" x2=\"200\" y2=\"20\"/><polyline points=\"193,16.2 200,20 193,23.8\"/></g><text x=\"60\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">力を合わせる</text></svg>"
+  },
+  "etymology": "古い英語 tēam(いっしょにつながれた牛馬の一組) → 協力する一組 → チーム → team up=協力する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a group of people who play a sport or work together."
+    },
+    {
+      "pos": "動詞",
+      "text": "(team up) to join together to do something."
+    }
+  ],
+  "cautions": [
+    "group=集まり(広い)/team=同じ目的で協力する組",
+    "team up with A=Aと協力する",
+    "teamwork=チームワーク",
+    "on a team=チームの一員で"
+  ],
+  "patterns": [
+    {
+      "form": "be on a team",
+      "meaning": "チームに入っている"
+    },
+    {
+      "form": "team up with A",
+      "meaning": "Aと手を組む"
+    },
+    {
+      "form": "teamwork",
+      "meaning": "協力"
+    },
+    {
+      "form": "a team player",
+      "meaning": "協調性のある人"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "チーム",
+      "en": "I'm on the soccer team.",
+      "ja": "私はサッカー部に入っている。"
+    },
+    {
+      "source": "original",
+      "label": "手を組む",
+      "en": "The two companies teamed up to make a new car.",
+      "ja": "2社は手を組んで新しい車を作った。"
+    },
+    {
+      "source": "original",
+      "label": "協力",
+      "en": "Teamwork is the key to success.",
+      "ja": "協力が成功のかぎだ。"
+    },
+    {
+      "source": "original",
+      "label": "協調性",
+      "en": "She is a good team player.",
+      "ja": "彼女は協調性がある。"
+    },
+    {
+      "source": "original",
+      "label": "研究",
+      "en": "A team of scientists made the discovery.",
+      "ja": "科学者のチームがその発見をした。"
+    },
+    {
+      "source": "original",
+      "label": "勝つ",
+      "en": "Our team won the championship.",
+      "ja": "私たちのチームが優勝した。"
+    }
+  ],
+  "check_points": [
+    "team up with の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "team up with が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2100
+    }
+  ]
+}
