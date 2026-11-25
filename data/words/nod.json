@@ -1,0 +1,99 @@
+{
+  "word": "nod",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/nɑːd/",
+  "core_image": {
+    "text": "頭を小さく上下に、こくりと動かす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><path d=\"M144 40 Q152 52 144 64\"/><polygon points=\"140,60 146,68 150,60\"/></g><text x=\"190\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こくり</text></svg>"
+  },
+  "etymology": "中英語 nodden(頭を下げる) → 頭をこくりと上下させる(うなずく・あいさつ) → (眠くて)こっくりする(nod off) → (名詞)うなずき・合図",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move your head up and down to show agreement or to greet someone; (nod off) to fall asleep."
+    },
+    {
+      "pos": "名詞",
+      "text": "a movement of the head up and down."
+    }
+  ],
+  "cautions": [
+    "nod=首をたてにふる(賛成・あいさつ)⇔ shake one's head=首を横にふる(反対)",
+    "nod off=うとうと居眠りする",
+    "nod at [to] A=Aに会釈する・あごで示す",
+    "give A the nod=Aに許可を出す"
+  ],
+  "patterns": [
+    {
+      "form": "nod in agreement",
+      "meaning": "うなずいて賛成する"
+    },
+    {
+      "form": "nod to A",
+      "meaning": "Aに会釈する"
+    },
+    {
+      "form": "nod off",
+      "meaning": "居眠りする"
+    },
+    {
+      "form": "give a nod",
+      "meaning": "うなずく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "うなずく",
+      "en": "She nodded in agreement.",
+      "ja": "彼女はうなずいて賛成した。"
+    },
+    {
+      "source": "original",
+      "label": "会釈",
+      "en": "He nodded to me as he passed.",
+      "ja": "彼はすれちがうときに私に会釈した。"
+    },
+    {
+      "source": "original",
+      "label": "居眠り",
+      "en": "I nodded off during the lecture.",
+      "ja": "講義中にうとうとしてしまった。"
+    },
+    {
+      "source": "original",
+      "label": "首を横にふる",
+      "en": "Instead of nodding, he shook his head.",
+      "ja": "彼はうなずかずに首を横にふった。"
+    },
+    {
+      "source": "original",
+      "label": "あごで示す",
+      "en": "She nodded toward the door.",
+      "ja": "彼女はあごでドアの方を示した。"
+    },
+    {
+      "source": "original",
+      "label": "合図",
+      "en": "The teacher gave a nod, and we started.",
+      "ja": "先生がうなずいたので私たちは始めた。"
+    }
+  ],
+  "check_points": [
+    "nod と shake one's head のちがいを言えるか",
+    "nod off の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "nod off が熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1729
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "glare",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɡler/",
+  "core_image": {
+    "text": "怒って、ぎらっとにらみつける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"60\" cy=\"80\" r=\"30\"/><line x1=\"44\" y1=\"66\" x2=\"56\" y2=\"72\"/><line x1=\"76\" y1=\"66\" x2=\"64\" y2=\"72\"/><circle cx=\"52\" cy=\"78\" r=\"3\"/><circle cx=\"68\" cy=\"78\" r=\"3\"/><line x1=\"96\" y1=\"80\" x2=\"180\" y2=\"80\"/><polyline points=\"173,76.2 180,80 173,83.8\"/><line x1=\"100\" y1=\"70\" x2=\"170\" y2=\"66\"/><line x1=\"100\" y1=\"90\" x2=\"170\" y2=\"94\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぎらっ</text></svg>"
+  },
+  "etymology": "中英語 glaren(ぎらぎら光る) → まぶしくぎらぎら光る → 怒ってぎらっとにらみつける → (名詞)ぎらぎらした光・にらみ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to look at someone in an angry way; to shine with a very bright unpleasant light."
+    },
+    {
+      "pos": "名詞",
+      "text": "an angry look; a strong unpleasant light."
+    }
+  ],
+  "cautions": [
+    "stare=じっと見つめる(怒りとはかぎらない)/glare=怒ってにらみつける",
+    "glare at A=Aをにらみつける",
+    "glare=まぶしいぎらぎらした光の意味も",
+    "frown=まゆを寄せる/glare=目でにらむ"
+  ],
+  "patterns": [
+    {
+      "form": "glare at A",
+      "meaning": "Aをにらみつける"
+    },
+    {
+      "form": "the glare of A",
+      "meaning": "Aのぎらぎらした光"
+    },
+    {
+      "form": "in the glare of publicity",
+      "meaning": "世間の注目を浴びて"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "にらむ",
+      "en": "She glared at me when I laughed.",
+      "ja": "私が笑うと彼女はにらみつけた。"
+    },
+    {
+      "source": "original",
+      "label": "にらみつける",
+      "en": "Don't glare at me like that.",
+      "ja": "そんなふうに私をにらまないで。"
+    },
+    {
+      "source": "original",
+      "label": "まぶしい",
+      "en": "The glare of the sun made it hard to see.",
+      "ja": "太陽のぎらつきで見えにくかった。"
+    },
+    {
+      "source": "original",
+      "label": "にらみ",
+      "en": "He gave me an angry glare.",
+      "ja": "彼は怒って私をにらんだ。"
+    },
+    {
+      "source": "original",
+      "label": "ぎらぎら",
+      "en": "The sun glared down on the desert.",
+      "ja": "太陽が砂漠にぎらぎら照りつけた。"
+    },
+    {
+      "source": "original",
+      "label": "注目",
+      "en": "The actor lived in the glare of publicity.",
+      "ja": "その俳優は世間の注目を浴びて暮らしていた。"
+    }
+  ],
+  "check_points": [
+    "stare と glare のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "glare at が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1738
+    }
+  ]
+}

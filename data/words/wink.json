@@ -1,0 +1,99 @@
+{
+  "word": "wink",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/wɪŋk/",
+  "core_image": {
+    "text": "片目だけをぱちっと閉じて合図する",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"40\"/><circle cx=\"104\" cy=\"70\" r=\"4\"/><path d=\"M128 70 Q136 76 144 70\"/><path d=\"M104 96 Q120 106 136 96\"/><line x1=\"160\" y1=\"50\" x2=\"172\" y2=\"42\"/><line x1=\"164\" y1=\"64\" x2=\"178\" y2=\"62\"/></g><text x=\"40\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぱちっ</text></svg>"
+  },
+  "etymology": "古い英語 wincian(目を閉じる) → 片目をぱちっと閉じる(合図・いたずらっぽさ) → (光が)ちかちかまたたく → not sleep a wink=一睡もしない",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to close and open one eye quickly as a signal; (of a light) to shine on and off."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of winking; a very short time."
+    }
+  ],
+  "cautions": [
+    "blink=両目を思わずぱちぱちまばたき/wink=片目をわざとぱちっと閉じる(合図)",
+    "wink at A=Aにウインクする",
+    "not sleep a wink=一睡もしない",
+    "forty winks=ひと眠り"
+  ],
+  "patterns": [
+    {
+      "form": "wink at A",
+      "meaning": "Aにウインクする"
+    },
+    {
+      "form": "not sleep a wink",
+      "meaning": "一睡もしない"
+    },
+    {
+      "form": "forty winks",
+      "meaning": "ひと眠り"
+    },
+    {
+      "form": "in a wink",
+      "meaning": "一瞬で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ウインク",
+      "en": "He winked at me to show he was joking.",
+      "ja": "冗談だと示すために彼は私にウインクした。"
+    },
+    {
+      "source": "original",
+      "label": "一睡も",
+      "en": "I didn't sleep a wink last night.",
+      "ja": "昨夜は一睡もできなかった。"
+    },
+    {
+      "source": "original",
+      "label": "ひと眠り",
+      "en": "I'll have forty winks before dinner.",
+      "ja": "夕食前にひと眠りしよう。"
+    },
+    {
+      "source": "original",
+      "label": "合図",
+      "en": "She gave me a wink across the room.",
+      "ja": "彼女は部屋のむこうから私にウインクした。"
+    },
+    {
+      "source": "original",
+      "label": "ちかちか",
+      "en": "The lights of the city winked in the distance.",
+      "ja": "遠くで町の明かりがちかちかしていた。"
+    },
+    {
+      "source": "original",
+      "label": "いたずらっぽく",
+      "en": "\"Don't tell anyone,\" she said with a wink.",
+      "ja": "「誰にも言わないでね」と彼女はウインクして言った。"
+    }
+  ],
+  "check_points": [
+    "wink と blink のちがいを言えるか",
+    "not sleep a wink の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "not sleep a wink が熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1733
+    }
+  ]
+}

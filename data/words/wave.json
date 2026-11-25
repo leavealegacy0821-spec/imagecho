@@ -1,0 +1,103 @@
+{
+  "word": "wave",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/weɪv/",
+  "core_image": {
+    "text": "手や物を、ゆらゆら左右にふる・波",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"80\" y1=\"74\" x2=\"110\" y2=\"40\"/><path d=\"M104 28 Q116 22 124 32\" stroke-dasharray=\"3 3\"/><path d=\"M130 110 Q150 90 170 110 T210 110\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">バイバイ</text></svg>"
+  },
+  "etymology": "古い英語 wafian(手をふる) → 手を左右にふる → (旗・木が)ゆれる → 波(のようなうねり)・(熱・感情・犯罪の)波 → a heat wave=熱波",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move your hand from side to side to say hello or goodbye; to move from side to side."
+    },
+    {
+      "pos": "名詞",
+      "text": "a raised line of water moving across the sea; a sudden increase of something; a movement of the hand."
+    }
+  ],
+  "cautions": [
+    "wave to [at] A=Aに手をふる",
+    "wave goodbye to A=Aに手をふって別れを告げる",
+    "a wave of A=押し寄せるA(a wave of anger=こみ上げる怒り)",
+    "a heat wave=熱波/the new wave=新しい流れ"
+  ],
+  "patterns": [
+    {
+      "form": "wave to [at] A",
+      "meaning": "Aに手をふる"
+    },
+    {
+      "form": "wave goodbye",
+      "meaning": "手をふって別れる"
+    },
+    {
+      "form": "a wave of A",
+      "meaning": "押し寄せるA"
+    },
+    {
+      "form": "a heat wave",
+      "meaning": "熱波"
+    },
+    {
+      "form": "wave A away",
+      "meaning": "Aを手で追い払う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "手をふる",
+      "en": "The children waved to us from the bus.",
+      "ja": "子どもたちがバスから私たちに手をふった。"
+    },
+    {
+      "source": "original",
+      "label": "別れ",
+      "en": "She waved goodbye to her friends.",
+      "ja": "彼女は友達に手をふって別れた。"
+    },
+    {
+      "source": "original",
+      "label": "波",
+      "en": "The waves were very high today.",
+      "ja": "今日は波がとても高かった。"
+    },
+    {
+      "source": "original",
+      "label": "こみ上げる",
+      "en": "A wave of sadness came over me.",
+      "ja": "悲しみがどっと押し寄せた。"
+    },
+    {
+      "source": "original",
+      "label": "熱波",
+      "en": "Europe is suffering from a heat wave.",
+      "ja": "ヨーロッパは熱波に苦しんでいる。"
+    },
+    {
+      "source": "original",
+      "label": "ゆれる",
+      "en": "Flags waved in the wind.",
+      "ja": "旗が風にゆれた。"
+    }
+  ],
+  "check_points": [
+    "wave to A の型を言えるか",
+    "a wave of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a wave of、heat wave が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1731
+    }
+  ]
+}

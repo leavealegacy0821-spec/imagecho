@@ -3,7 +3,7 @@
   "groups": [
     {
       "title": "使い分け:見る",
-      "note": "see=自然に目に入る ／ look=自分から目を向ける ／ watch=動きを目で追う ／ stare=じっと見つめる ／ glance=ちらっと見る ／ observe=注意して観察する ／ witness=その場で目撃する ／ gaze=うっとり長く見つめる ／ glimpse=(たまたま)一瞬ちらりと見える",
+      "note": "see=自然に目に入る ／ look=自分から目を向ける ／ watch=動きを目で追う ／ stare=じっと見つめる ／ glance=ちらっと見る ／ observe=注意して観察する ／ witness=その場で目撃する ／ gaze=うっとり長く見つめる ／ glimpse=(たまたま)一瞬ちらりと見える ／ glare=怒ってぎらっとにらみつける",
       "words": [
         "see",
         "look",
@@ -14,7 +14,8 @@
         "witness",
         "gaze",
         "glimpse",
-        "survey"
+        "survey",
+        "glare"
       ]
     },
     {
@@ -3000,6 +3001,27 @@
         "chuckle",
         "sneer",
         "frown"
+      ]
+    },
+    {
+      "title": "使い分け:しぐさ・合図",
+      "note": "nod=頭をこくりと上下(うなずく・nod off=居眠り) ／ shrug=両肩をひょいと上げて「さあね」 ／ wave=手を左右にふる・波 ／ bow=上体を前に曲げておじぎ・屈する ／ wink=片目だけぱちっと閉じて合図(blink=両目のまばたき)",
+      "words": [
+        "nod",
+        "shrug",
+        "wave",
+        "bow",
+        "wink"
+      ]
+    },
+    {
+      "title": "使い分け:かがむ・ひざまずく",
+      "note": "kneel=ひざを床につく(knelt) ／ crouch=ひざを深く曲げ身を低く構える ／ squat=お尻を落としてしゃがみこむ ／ stoop=上体を前にかがめる・(stoop to)身を落とす",
+      "words": [
+        "kneel",
+        "crouch",
+        "squat",
+        "stoop"
       ]
     },
     {

@@ -1,0 +1,99 @@
+{
+  "word": "squat",
+  "pos": [
+    "動詞",
+    "名詞",
+    "形容詞"
+  ],
+  "ipa": "/skwɑːt/",
+  "core_image": {
+    "text": "お尻を落として、しゃがみこむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"78\" r=\"12\"/><line x1=\"120\" y1=\"90\" x2=\"118\" y2=\"120\"/><polyline points=\"118,120 140,116 136,140\"/><polyline points=\"118,120 100,116 104,140\"/><line x1=\"118\" y1=\"100\" x2=\"140\" y2=\"108\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しゃがむ</text></svg>"
+  },
+  "etymology": "古フランス語 esquatir(押しつぶす) → 体を押しつぶすように低くする → お尻をかかとに近づけてしゃがむ → (空き家・土地に)勝手に住みつく",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to sit on your heels with your knees bent; to live in an empty building without permission."
+    },
+    {
+      "pos": "名詞",
+      "text": "a squatting position; an exercise."
+    },
+    {
+      "pos": "形容詞",
+      "text": "short and wide."
+    }
+  ],
+  "cautions": [
+    "crouch=身を低く構える/squat=お尻を落としてしゃがみこむ",
+    "squat down=しゃがむ",
+    "(運動)スクワット",
+    "空き家に不法に住みつく(squatter=不法居住者)の意味も"
+  ],
+  "patterns": [
+    {
+      "form": "squat down",
+      "meaning": "しゃがむ"
+    },
+    {
+      "form": "do squats",
+      "meaning": "スクワットをする"
+    },
+    {
+      "form": "squat in A",
+      "meaning": "Aに不法に住みつく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "しゃがむ",
+      "en": "He squatted down by the fire.",
+      "ja": "彼はたき火のそばにしゃがみこんだ。"
+    },
+    {
+      "source": "original",
+      "label": "スクワット",
+      "en": "I do fifty squats every morning.",
+      "ja": "毎朝スクワットを50回する。"
+    },
+    {
+      "source": "original",
+      "label": "しゃがんで",
+      "en": "The kids squatted to watch the ants.",
+      "ja": "子どもたちはしゃがんでアリを見た。"
+    },
+    {
+      "source": "original",
+      "label": "不法に住む",
+      "en": "Some people were squatting in the empty house.",
+      "ja": "その空き家に勝手に住みついている人がいた。"
+    },
+    {
+      "source": "original",
+      "label": "ずんぐり",
+      "en": "It was a squat little building.",
+      "ja": "それはずんぐりした小さな建物だった。"
+    },
+    {
+      "source": "original",
+      "label": "姿勢",
+      "en": "Sit in a squat position.",
+      "ja": "しゃがんだ姿勢をとってください。"
+    }
+  ],
+  "check_points": [
+    "crouch と squat のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1737
+    }
+  ]
+}

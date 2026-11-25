@@ -1,0 +1,94 @@
+{
+  "word": "crouch",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/kraʊtʃ/",
+  "core_image": {
+    "text": "ひざを深く曲げて、身を低くかがめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"84\" r=\"12\"/><line x1=\"116\" y1=\"96\" x2=\"104\" y2=\"120\"/><polyline points=\"104,120 128,120 120,140\"/><polyline points=\"104,120 96,140 104,140\"/><line x1=\"112\" y1=\"104\" x2=\"136\" y2=\"112\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かがむ</text></svg>"
+  },
+  "etymology": "古フランス語 crochir(曲がる。crook=曲がったもの と同じ仲間) → 体を丸めて曲げる → ひざを深く曲げて身を低くかがむ(隠れる・飛びかかる前)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to bend your knees and lower your body close to the ground."
+    },
+    {
+      "pos": "名詞",
+      "text": "a crouching position."
+    }
+  ],
+  "cautions": [
+    "kneel=ひざを床につく/crouch=ひざを深く曲げて体を低く(ひざはつかない)/squat=しゃがみこむ(お尻をかかとの近くに)",
+    "crouch down=かがむ",
+    "隠れる・身構える場面で使われることが多い",
+    "stoop=上体を前に曲げる"
+  ],
+  "patterns": [
+    {
+      "form": "crouch down",
+      "meaning": "かがむ"
+    },
+    {
+      "form": "crouch behind A",
+      "meaning": "Aの後ろに身をかがめる"
+    },
+    {
+      "form": "in a crouch",
+      "meaning": "かがんだ姿勢で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "かがむ",
+      "en": "He crouched down to tie his shoes.",
+      "ja": "彼はかがんで靴ひもを結んだ。"
+    },
+    {
+      "source": "original",
+      "label": "隠れる",
+      "en": "The children crouched behind the wall.",
+      "ja": "子どもたちは壁の後ろに身をかがめた。"
+    },
+    {
+      "source": "original",
+      "label": "身構える",
+      "en": "The cat crouched, ready to jump.",
+      "ja": "ネコは飛びかかろうと身を低くした。"
+    },
+    {
+      "source": "original",
+      "label": "低く",
+      "en": "We crouched low to avoid being seen.",
+      "ja": "見られないように私たちは身を低くした。"
+    },
+    {
+      "source": "original",
+      "label": "姿勢",
+      "en": "The runners waited in a crouch.",
+      "ja": "走者たちはかがんだ姿勢で待った。"
+    },
+    {
+      "source": "original",
+      "label": "のぞく",
+      "en": "She crouched to look at the flowers.",
+      "ja": "彼女はかがんで花を見た。"
+    }
+  ],
+  "check_points": [
+    "kneel / crouch / squat のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1735
+    }
+  ]
+}

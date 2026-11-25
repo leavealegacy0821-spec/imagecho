@@ -1,0 +1,103 @@
+{
+  "word": "bow",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/baʊ/",
+  "core_image": {
+    "text": "頭や上体を、前にぐっと曲げる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"140\" cy=\"70\" r=\"12\"/><line x1=\"130\" y1=\"76\" x2=\"100\" y2=\"80\"/><line x1=\"100\" y1=\"80\" x2=\"96\" y2=\"140\"/><line x1=\"96\" y1=\"140\" x2=\"88\" y2=\"140\"/><line x1=\"96\" y1=\"140\" x2=\"106\" y2=\"140\"/><line x1=\"118\" y1=\"78\" x2=\"124\" y2=\"110\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぺこり</text></svg>"
+  },
+  "etymology": "古い英語 būgan(曲がる。bend と同じ仲間) → 体・頭を前に曲げる=おじぎする → (bow to)〜に屈する・従う → (/boʊ/ と読むと)曲がったもの=弓・ちょう結び",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to bend your head or body forward to show respect; (bow to) to agree to do something because others want you to."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of bowing; (pronounced /boʊ/) a weapon for shooting arrows; a knot with two loops."
+    }
+  ],
+  "cautions": [
+    "発音:おじぎ・おじぎする=/baʊ/、弓・ちょう結び=/boʊ/",
+    "bow to A=Aにおじぎする・Aに屈する(bow to pressure=圧力に屈する)",
+    "bow one's head=頭を下げる",
+    "nod=首だけこくり/bow=上体を曲げておじぎ"
+  ],
+  "patterns": [
+    {
+      "form": "bow to A",
+      "meaning": "Aにおじぎする・屈する"
+    },
+    {
+      "form": "bow one's head",
+      "meaning": "頭を下げる"
+    },
+    {
+      "form": "take a bow",
+      "meaning": "(拍手に)おじぎで応える"
+    },
+    {
+      "form": "bow to pressure",
+      "meaning": "圧力に屈する"
+    },
+    {
+      "form": "a bow and arrow",
+      "meaning": "弓矢"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "おじぎ",
+      "en": "In Japan, people bow when they meet.",
+      "ja": "日本では人は会うとおじぎをする。"
+    },
+    {
+      "source": "original",
+      "label": "屈する",
+      "en": "The government finally bowed to public pressure.",
+      "ja": "政府はついに世論の圧力に屈した。"
+    },
+    {
+      "source": "original",
+      "label": "頭を下げる",
+      "en": "We bowed our heads in silence.",
+      "ja": "私たちは黙って頭を下げた。"
+    },
+    {
+      "source": "original",
+      "label": "拍手に応える",
+      "en": "The pianist stood up and took a bow.",
+      "ja": "ピアニストは立ち上がっておじぎをした。"
+    },
+    {
+      "source": "original",
+      "label": "弓",
+      "en": "He shot an arrow with his bow.",
+      "ja": "彼は弓で矢を射た。"
+    },
+    {
+      "source": "original",
+      "label": "ちょう結び",
+      "en": "She tied the ribbon in a bow.",
+      "ja": "彼女はリボンをちょう結びにした。"
+    }
+  ],
+  "check_points": [
+    "bow の2つの発音と意味を言えるか",
+    "bow to pressure の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "発音問題(/baʊ/ と /boʊ/)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1732
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "stoop",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/stuːp/",
+  "core_image": {
+    "text": "上体を前にかがめる・身を落とす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"150\" cy=\"70\" r=\"12\"/><line x1=\"140\" y1=\"78\" x2=\"110\" y2=\"90\"/><line x1=\"110\" y1=\"90\" x2=\"100\" y2=\"140\"/><line x1=\"110\" y1=\"90\" x2=\"118\" y2=\"140\"/><line x1=\"130\" y1=\"82\" x2=\"144\" y2=\"120\"/><circle cx=\"150\" cy=\"134\" r=\"5\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">前かがみ</text></svg>"
+  },
+  "etymology": "古い英語 stūpian(かがむ) → 上体を前に曲げる・前かがみになる → (stoop to)〜まで身を落とす=(悪いこと)をするまでに落ちぶれる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to bend the top half of your body forward and down; (stoop to) to lower your moral standards and do something bad."
+    },
+    {
+      "pos": "名詞",
+      "text": "a habit of bending your shoulders forward."
+    }
+  ],
+  "cautions": [
+    "crouch=ひざを曲げて低く/stoop=上体(背中)を前にかがめる",
+    "stoop to pick up A=かがんでAを拾う",
+    "stoop to A [doing]=(落ちぶれて)Aまでする(stoop to lying=うそまでつく)",
+    "bow=おじぎ/stoop=物を拾う・低い所を通るためにかがむ"
+  ],
+  "patterns": [
+    {
+      "form": "stoop down",
+      "meaning": "かがむ"
+    },
+    {
+      "form": "stoop to pick up A",
+      "meaning": "かがんでAを拾う"
+    },
+    {
+      "form": "stoop to A [doing]",
+      "meaning": "落ちぶれてAまでする"
+    },
+    {
+      "form": "walk with a stoop",
+      "meaning": "前かがみで歩く"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "拾う",
+      "en": "She stooped to pick up the coin.",
+      "ja": "彼女はかがんでコインを拾った。"
+    },
+    {
+      "source": "original",
+      "label": "低い所",
+      "en": "He had to stoop to get through the door.",
+      "ja": "彼はかがまないとドアを通れなかった。"
+    },
+    {
+      "source": "original",
+      "label": "落ちぶれる",
+      "en": "I never thought he would stoop to lying.",
+      "ja": "彼がうそまでつくとは思わなかった。"
+    },
+    {
+      "source": "original",
+      "label": "身を落とす",
+      "en": "Don't stoop to their level.",
+      "ja": "彼らと同じレベルに身を落とすな。"
+    },
+    {
+      "source": "original",
+      "label": "前かがみ",
+      "en": "My grandfather walks with a stoop.",
+      "ja": "祖父は前かがみで歩く。"
+    },
+    {
+      "source": "original",
+      "label": "のぞきこむ",
+      "en": "She stooped over the baby's bed.",
+      "ja": "彼女は赤ちゃんのベッドの上にかがみこんだ。"
+    }
+  ],
+  "check_points": [
+    "stoop to A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "stoop to が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1736
+    }
+  ]
+}
