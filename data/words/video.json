@@ -1,0 +1,98 @@
+{
+  "word": "video",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈvɪdioʊ/",
+  "core_image": {
+    "text": "目で見る録画・動画",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"40\" width=\"130\" height=\"80\"/><polygon points=\"96,62 96,98 126,80\"/><polygon points=\"170,64 200,50 200,110 170,96\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どうが</text></svg>"
+  },
+  "etymology": "ラテン語 video(「私は見る」:videre=見る:vision と同じ根) → 映像・動画",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a recording of moving pictures; a short film on the Internet."
+    },
+    {
+      "pos": "動詞",
+      "text": "to record something on video."
+    }
+  ],
+  "cautions": [
+    "video=録画・動画(ネット動画にも)",
+    "watch a video=動画を見る",
+    "a video call=ビデオ通話",
+    "vision・visit と同じ「見る」の根"
+  ],
+  "patterns": [
+    {
+      "form": "watch a video",
+      "meaning": "動画を見る"
+    },
+    {
+      "form": "make a video",
+      "meaning": "動画を作る"
+    },
+    {
+      "form": "a video call",
+      "meaning": "ビデオ通話"
+    },
+    {
+      "form": "video game",
+      "meaning": "テレビゲーム"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "動画",
+      "en": "I watched a funny video online.",
+      "ja": "ネットでおもしろい動画を見た。"
+    },
+    {
+      "source": "original",
+      "label": "作る",
+      "en": "We made a video for the school festival.",
+      "ja": "文化祭のために動画を作った。"
+    },
+    {
+      "source": "original",
+      "label": "通話",
+      "en": "I had a video call with my cousin in Canada.",
+      "ja": "カナダのいとことビデオ通話した。"
+    },
+    {
+      "source": "original",
+      "label": "ゲーム",
+      "en": "He plays video games every day.",
+      "ja": "彼は毎日テレビゲームをする。"
+    },
+    {
+      "source": "original",
+      "label": "録画",
+      "en": "The wedding was recorded on video.",
+      "ja": "結婚式はビデオに録画された。"
+    },
+    {
+      "source": "original",
+      "label": "拡散",
+      "en": "The video went viral.",
+      "ja": "その動画はあっという間に広まった。"
+    }
+  ],
+  "check_points": [
+    "video の語源(見る)がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "基本語として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2304
+    }
+  ]
+}

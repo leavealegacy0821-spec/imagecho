@@ -1,0 +1,93 @@
+{
+  "word": "movie",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈmuːvi/",
+  "core_image": {
+    "text": "動く絵(映画)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"30\" width=\"160\" height=\"90\"/><circle cx=\"120\" cy=\"32\" r=\"10\"/><line x1=\"120\" y1=\"42\" x2=\"120\" y2=\"86\"/><line x1=\"120\" y1=\"86\" x2=\"110\" y2=\"120\"/><line x1=\"120\" y1=\"86\" x2=\"130\" y2=\"120\"/><line x1=\"40\" y1=\"140\" x2=\"200\" y2=\"140\"/><circle cx=\"80\" cy=\"150\" r=\"6\"/><circle cx=\"120\" cy=\"150\" r=\"6\"/><circle cx=\"160\" cy=\"150\" r=\"6\"/></g><text x=\"210\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">えいが</text></svg>"
+  },
+  "etymology": "moving picture(動く絵) の短縮 → 映画",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "(American) a story shown in moving pictures; (the movies) the cinema."
+    }
+  ],
+  "cautions": [
+    "(米)movie/(英)film=映画",
+    "go to the movies=映画を見に行く",
+    "a movie theater=(米)映画館(英 cinema)",
+    "watch a movie=映画を見る"
+  ],
+  "patterns": [
+    {
+      "form": "go to the movies",
+      "meaning": "映画を見に行く"
+    },
+    {
+      "form": "watch a movie",
+      "meaning": "映画を見る"
+    },
+    {
+      "form": "a movie theater",
+      "meaning": "映画館"
+    },
+    {
+      "form": "a movie star",
+      "meaning": "映画スター"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "映画",
+      "en": "Let's watch a movie tonight.",
+      "ja": "今夜映画を見よう。"
+    },
+    {
+      "source": "original",
+      "label": "見に行く",
+      "en": "We went to the movies on Sunday.",
+      "ja": "日曜日に映画を見に行った。"
+    },
+    {
+      "source": "original",
+      "label": "映画館",
+      "en": "The movie theater is near the station.",
+      "ja": "映画館は駅の近くにある。"
+    },
+    {
+      "source": "original",
+      "label": "スター",
+      "en": "She is a famous movie star.",
+      "ja": "彼女は有名な映画スターだ。"
+    },
+    {
+      "source": "original",
+      "label": "英",
+      "en": "In Britain, people say \"film.\"",
+      "ja": "イギリスでは film と言う。"
+    },
+    {
+      "source": "original",
+      "label": "原作",
+      "en": "The movie is based on a novel.",
+      "ja": "その映画は小説がもとになっている。"
+    }
+  ],
+  "check_points": [
+    "movie と film の米英のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "基本語として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2302
+    }
+  ]
+}
