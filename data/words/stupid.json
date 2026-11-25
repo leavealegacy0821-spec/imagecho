@@ -1,0 +1,89 @@
+{
+  "word": "stupid",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈstuːpɪd/",
+  "core_image": {
+    "text": "頭がにぶくて、まるで考えが働かない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"40\"/><circle cx=\"106\" cy=\"72\" r=\"4\"/><circle cx=\"134\" cy=\"72\" r=\"4\"/><line x1=\"106\" y1=\"98\" x2=\"134\" y2=\"98\"/><path d=\"M160 40 Q170 30 180 40 Q190 50 180 60\" /><circle cx=\"180\" cy=\"70\" r=\"2\"/></g><text x=\"40\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぼんやり</text></svg>"
+  },
+  "etymology": "ラテン語 stupere(ぼうっとする・あぜんとする) → ぼうっとした → 頭がにぶい・ばかな",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not intelligent; not sensible; annoying."
+    }
+  ],
+  "cautions": [
+    "stupid=頭が悪い・ばかな(強い・人に言うと失礼)/foolish=判断がまずい/silly=ばかばかしい(軽い・子どもっぽい)",
+    "It is stupid of A to do=〜するとはAはばかだ",
+    "a stupid mistake=ばかなミス",
+    "人に向かって使うのは避ける"
+  ],
+  "patterns": [
+    {
+      "form": "a stupid mistake",
+      "meaning": "ばかなミス"
+    },
+    {
+      "form": "It is stupid (of A) to do",
+      "meaning": "〜するのはばかだ"
+    },
+    {
+      "form": "Don't be stupid.",
+      "meaning": "ばか言わないで"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ばかなミス",
+      "en": "I made a stupid mistake on the test.",
+      "ja": "テストでばかなミスをした。"
+    },
+    {
+      "source": "original",
+      "label": "ばかだった",
+      "en": "It was stupid of me to forget my bag.",
+      "ja": "かばんを忘れるなんて私はばかだった。"
+    },
+    {
+      "source": "original",
+      "label": "ばか言わないで",
+      "en": "Don't be stupid. Of course you can do it.",
+      "ja": "ばか言わないで。もちろん君ならできるよ。"
+    },
+    {
+      "source": "original",
+      "label": "頭がにぶい",
+      "en": "I felt stupid because I couldn't answer.",
+      "ja": "答えられなくて自分がばかに思えた。"
+    },
+    {
+      "source": "original",
+      "label": "いまいましい",
+      "en": "This stupid machine doesn't work!",
+      "ja": "このいまいましい機械が動かない!"
+    },
+    {
+      "source": "original",
+      "label": "失礼",
+      "en": "Calling someone stupid is rude.",
+      "ja": "人をばかと呼ぶのは失礼だ。"
+    }
+  ],
+  "check_points": [
+    "stupid と silly の強さのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "It is stupid of 〜 が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1806
+    }
+  ]
+}

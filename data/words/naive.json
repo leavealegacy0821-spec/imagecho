@@ -1,0 +1,89 @@
+{
+  "word": "naive",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/naɪˈiːv/",
+  "core_image": {
+    "text": "経験が足りず、人をすぐ信じてしまう",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><path d=\"M150 30 Q160 20 170 30\"/><line x1=\"90\" y1=\"64\" x2=\"150\" y2=\"64\" stroke-dasharray=\"3 3\"/><path d=\"M60 30 Q70 20 80 30\"/></g><text x=\"120\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">信じちゃう</text></svg>"
+  },
+  "etymology": "フランス語 naïf(生まれたままの。ラテン語 nativus=生まれつきの:native と同じ根) → 生まれたまま・すれていない → 世間知らずの・お人よしの",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "lacking experience and too ready to believe that things are simple or that people are honest."
+    }
+  ],
+  "cautions": [
+    "日本語の「ナイーブ(繊細な)」とちがう:英語の naive=世間知らず・考えが甘い(悪い意味)",
+    "「繊細な」は sensitive",
+    "It is naive to think that 〜=〜と考えるのは甘い",
+    "innocent=(悪意がなく)無邪気な"
+  ],
+  "patterns": [
+    {
+      "form": "It is naive to think that 〜",
+      "meaning": "〜と考えるのは甘い"
+    },
+    {
+      "form": "a naive question",
+      "meaning": "世間知らずな質問"
+    },
+    {
+      "form": "be naive about A",
+      "meaning": "Aについて考えが甘い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "考えが甘い",
+      "en": "It is naive to think that money can solve everything.",
+      "ja": "お金ですべて解決できると思うのは甘い。"
+    },
+    {
+      "source": "original",
+      "label": "お人よし",
+      "en": "She was naive enough to believe his story.",
+      "ja": "彼女は彼の話を信じるほどお人よしだった。"
+    },
+    {
+      "source": "original",
+      "label": "繊細",
+      "en": "He is very sensitive, not naive.",
+      "ja": "彼はとても繊細だ(naive ではなく sensitive)。"
+    },
+    {
+      "source": "original",
+      "label": "世間知らず",
+      "en": "I was young and naive back then.",
+      "ja": "当時の私は若くて世間知らずだった。"
+    },
+    {
+      "source": "original",
+      "label": "甘い",
+      "en": "You're being naive about the risks.",
+      "ja": "君は危険について考えが甘い。"
+    },
+    {
+      "source": "original",
+      "label": "だまされる",
+      "en": "Naive tourists are easy targets for thieves.",
+      "ja": "世間慣れしていない旅行者はすりにねらわれやすい。"
+    }
+  ],
+  "check_points": [
+    "日本語の「ナイーブ」と英語の naive のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "和製英語の注意(naive=世間知らず)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1808
+    }
+  ]
+}

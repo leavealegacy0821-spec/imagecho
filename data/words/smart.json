@@ -1,0 +1,98 @@
+{
+  "word": "smart",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/smɑːrt/",
+  "core_image": {
+    "text": "頭がきれる・身なりがぱりっとした",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><polygon points=\"80,70 76,90 84,90\"/><line x1=\"70\" y1=\"40\" x2=\"90\" y2=\"40\"/><rect x=\"72\" y=\"28\" width=\"16\" height=\"12\"/><path d=\"M130 50 L150 40 M134 70 L160 70 M130 90 L150 100\"/></g><text x=\"190\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">きれる</text></svg>"
+  },
+  "etymology": "古い英語 smeortan(ずきずき痛む) → ぴりっと鋭い → (頭が)鋭い・きれる(米) → (身なりが)きちんとした・しゃれた(英) → (機械が)高性能の(smartphone)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "intelligent; quick at thinking; (of clothes or people) clean, neat and fashionable."
+    },
+    {
+      "pos": "動詞",
+      "text": "to feel a sharp pain."
+    }
+  ],
+  "cautions": [
+    "(米)smart=頭がいい/(英)smart=身なりがきちんとした",
+    "「体型がスマート」は slim(smart ではない)",
+    "a smart decision=賢い決断",
+    "smart=ずきずき痛む の意味も(元の意味)"
+  ],
+  "patterns": [
+    {
+      "form": "a smart decision",
+      "meaning": "賢い決断"
+    },
+    {
+      "form": "smart clothes",
+      "meaning": "きちんとした服"
+    },
+    {
+      "form": "look smart",
+      "meaning": "ぱりっとして見える"
+    },
+    {
+      "form": "smart technology",
+      "meaning": "高性能な技術"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "頭がいい",
+      "en": "He is smart enough to solve the problem.",
+      "ja": "彼はその問題を解けるほど頭がいい。"
+    },
+    {
+      "source": "original",
+      "label": "賢い決断",
+      "en": "Buying a used car was a smart decision.",
+      "ja": "中古車を買ったのは賢い選択だった。"
+    },
+    {
+      "source": "original",
+      "label": "身なり",
+      "en": "You look very smart in that suit.",
+      "ja": "そのスーツを着るととてもぱりっとして見える。"
+    },
+    {
+      "source": "original",
+      "label": "スマートではない",
+      "en": "She is slim, not \"smart.\"",
+      "ja": "彼女はやせている(smart ではなく slim)。"
+    },
+    {
+      "source": "original",
+      "label": "高性能",
+      "en": "Smart speakers can answer questions.",
+      "ja": "スマートスピーカーは質問に答えられる。"
+    },
+    {
+      "source": "original",
+      "label": "痛む",
+      "en": "My eyes were smarting from the smoke.",
+      "ja": "煙で目がひりひりした。"
+    }
+  ],
+  "check_points": [
+    "「体型がスマート」を英語で言えるか(slim)"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "和製英語の注意(smart ≠ やせている)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1800
+    }
+  ]
+}
