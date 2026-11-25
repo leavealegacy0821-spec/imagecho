@@ -1,0 +1,103 @@
+{
+  "word": "please",
+  "pos": [
+    "動詞",
+    "副詞"
+  ],
+  "ipa": "/pliːz/",
+  "core_image": {
+    "text": "相手の気持ちに合って、にっこりさせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"100\" y2=\"80\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><rect x=\"104\" y=\"72\" width=\"20\" height=\"16\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"150\" y2=\"84\"/><line x1=\"170\" y1=\"74\" x2=\"184\" y2=\"96\"/><path d=\"M164 54 Q170 60 176 54\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">にっこり</text></svg>"
+  },
+  "etymology": "ラテン語 placere(気に入る。pleasure・pleasant と同じ根) → 相手の気に入る・喜ばせる → (副詞)if you please(よろしければ)が短くなって「どうぞ」 → pleased=うれしい/pleasant=(物事が)心地よい",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone happy or satisfied; to want or choose to do something (as you please)."
+    },
+    {
+      "pos": "副詞",
+      "text": "used to make a request polite."
+    }
+  ],
+  "cautions": [
+    "be pleased with A=Aに満足している/be pleased to do=喜んで〜する・〜してうれしい",
+    "pleased=(人が)うれしい/pleasant=(物事が)心地よい/pleasing=(人の)気に入る",
+    "as you please=好きなように/hard to please=気難しい",
+    "名詞 pleasure:It's my pleasure. / with pleasure=喜んで"
+  ],
+  "patterns": [
+    {
+      "form": "please A",
+      "meaning": "Aを喜ばせる"
+    },
+    {
+      "form": "be pleased with A",
+      "meaning": "Aに満足している"
+    },
+    {
+      "form": "be pleased to do",
+      "meaning": "喜んで〜する"
+    },
+    {
+      "form": "as you please",
+      "meaning": "好きなように"
+    },
+    {
+      "form": "be hard to please",
+      "meaning": "気難しい"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "喜ばせる",
+      "en": "He bought flowers to please his mother.",
+      "ja": "彼は母を喜ばせるために花を買った。"
+    },
+    {
+      "source": "original",
+      "label": "満足している",
+      "en": "The teacher was pleased with our work.",
+      "ja": "先生は私たちの作品に満足していた。"
+    },
+    {
+      "source": "original",
+      "label": "喜んで〜する",
+      "en": "I'm pleased to meet you.",
+      "ja": "お会いできてうれしいです。"
+    },
+    {
+      "source": "original",
+      "label": "好きなように",
+      "en": "You can do as you please on Sunday.",
+      "ja": "日曜は好きなようにしていいよ。"
+    },
+    {
+      "source": "original",
+      "label": "気難しい",
+      "en": "My grandfather is very hard to please.",
+      "ja": "祖父はとても気難しい。"
+    },
+    {
+      "source": "original",
+      "label": "心地よい",
+      "en": "We had a pleasant evening by the lake.",
+      "ja": "湖のほとりで心地よい夜を過ごした。"
+    }
+  ],
+  "check_points": [
+    "pleased と pleasant の使い分けができるか",
+    "as you please の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "pleased / pleasant / pleasing の区別、be pleased with が文法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1061
+    }
+  ]
+}

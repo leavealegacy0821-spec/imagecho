@@ -1,0 +1,103 @@
+{
+  "word": "comfort",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈkʌmfərt/",
+  "core_image": {
+    "text": "そばで支えて、心と体をほっと楽にする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><circle cx=\"140\" cy=\"52\" r=\"10\"/><line x1=\"140\" y1=\"62\" x2=\"140\" y2=\"106\"/><line x1=\"140\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"140\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"90\" y1=\"74\" x2=\"132\" y2=\"70\"/><line x1=\"90\" y1=\"74\" x2=\"78\" y2=\"96\"/><line x1=\"140\" y1=\"74\" x2=\"128\" y2=\"96\"/><line x1=\"140\" y1=\"74\" x2=\"152\" y2=\"96\"/></g><text x=\"190\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ほっとさせる</text></svg>"
+  },
+  "etymology": "com(すっかり)+fort(強い。force・effort と同じ根) → すっかり強くする=力づける → (悲しむ人を)なぐさめる → (名詞)なぐさめ/(体の)楽さ・快適さ → comfortable=快適な",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a pleasant feeling of being relaxed and free from pain; help and kindness for someone who is sad; a person or thing that helps you when you are sad."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make someone feel less sad or worried."
+    }
+  ],
+  "cautions": [
+    "名詞は「なぐさめ」と「快適さ」の2つ(live in comfort=何不自由なく暮らす)",
+    "動詞 comfort=なぐさめる(console より日常的。体に触れて励ます感じ)",
+    "comfortable=(物・人が)快適な・くつろいだ/uncomfortable=居心地が悪い",
+    "a comfort to A=Aにとってのなぐさめ(になる人・物)"
+  ],
+  "patterns": [
+    {
+      "form": "comfort A",
+      "meaning": "Aをなぐさめる"
+    },
+    {
+      "form": "take comfort in A",
+      "meaning": "Aになぐさめを見いだす"
+    },
+    {
+      "form": "a comfort to A",
+      "meaning": "Aにとってのなぐさめ"
+    },
+    {
+      "form": "in comfort",
+      "meaning": "快適に"
+    },
+    {
+      "form": "comfortable",
+      "meaning": "快適な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "なぐさめる",
+      "en": "She comforted her crying friend.",
+      "ja": "彼女は泣いている友達をなぐさめた。"
+    },
+    {
+      "source": "original",
+      "label": "なぐさめ",
+      "en": "His letter was a great comfort to me.",
+      "ja": "彼の手紙は私にとって大きななぐさめだった。"
+    },
+    {
+      "source": "original",
+      "label": "なぐさめを見いだす",
+      "en": "She took comfort in the fact that she had done her best.",
+      "ja": "全力を尽くしたという事実に彼女はなぐさめを見いだした。"
+    },
+    {
+      "source": "original",
+      "label": "快適に",
+      "en": "The new trains allow passengers to travel in comfort.",
+      "ja": "新しい列車で乗客は快適に旅ができる。"
+    },
+    {
+      "source": "original",
+      "label": "快適な",
+      "en": "This sofa is very comfortable.",
+      "ja": "このソファはとても座り心地がいい。"
+    },
+    {
+      "source": "original",
+      "label": "居心地が悪い",
+      "en": "I felt uncomfortable at the formal dinner.",
+      "ja": "かしこまった夕食会で居心地が悪かった。"
+    }
+  ],
+  "check_points": [
+    "名詞 comfort の2つの意味を言えるか",
+    "take comfort in A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「なぐさめ」と「快適さ」の訳し分け、comfortable が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1065
+    }
+  ]
+}

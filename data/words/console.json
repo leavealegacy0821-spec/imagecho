@@ -1,0 +1,94 @@
+{
+  "word": "console",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈsoʊl/",
+  "core_image": {
+    "text": "悲しみのそばに寄り添って、なぐさめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"138\" y2=\"92\"/><line x1=\"150\" y1=\"74\" x2=\"162\" y2=\"92\"/><path d=\"M146 58 Q150 54 154 58\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"90\" y1=\"74\" x2=\"140\" y2=\"68\"/><line x1=\"90\" y1=\"74\" x2=\"80\" y2=\"96\"/><line x1=\"158\" y1=\"56\" x2=\"160\" y2=\"64\"/></g><text x=\"60\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">寄り添う</text></svg>"
+  },
+  "etymology": "con(共に)+sole(なぐさめる) → 悲しむ人と共にいてなぐさめる → (失望・死などで)落ちこむ人をなぐさめる → 名詞 consolation(なぐさめ)/a consolation prize=残念賞 ※「操作台」の console は別の語",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone who is sad or disappointed feel better."
+    }
+  ],
+  "cautions": [
+    "comfort=なぐさめる(広い・体も心も楽に)/console=(死・失敗などの)大きな悲しみをなぐさめる(やや堅い)",
+    "console oneself with A=Aで自分をなぐさめる",
+    "名詞 consolation:a consolation prize=残念賞",
+    "発音は動詞で後ろに強勢(コンソウル)。名詞の console(操作台・ゲーム機)とは別語"
+  ],
+  "patterns": [
+    {
+      "form": "console A",
+      "meaning": "Aをなぐさめる"
+    },
+    {
+      "form": "console A for B",
+      "meaning": "B(損失など)についてAをなぐさめる"
+    },
+    {
+      "form": "console oneself with A",
+      "meaning": "Aで自分をなぐさめる"
+    },
+    {
+      "form": "a consolation prize",
+      "meaning": "残念賞"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "なぐさめる",
+      "en": "Nothing could console her after her dog died.",
+      "ja": "犬が死んでから、何も彼女をなぐさめることはできなかった。"
+    },
+    {
+      "source": "original",
+      "label": "なぐさめる",
+      "en": "He tried to console his teammates after the defeat.",
+      "ja": "彼は負けたあとチームメートをなぐさめようとした。"
+    },
+    {
+      "source": "original",
+      "label": "自分をなぐさめる",
+      "en": "She consoled herself with the thought that there would be another chance.",
+      "ja": "また機会はあると考えて彼女は自分をなぐさめた。"
+    },
+    {
+      "source": "original",
+      "label": "なぐさめる",
+      "en": "Friends came to console the family.",
+      "ja": "友人たちが家族をなぐさめに来た。"
+    },
+    {
+      "source": "original",
+      "label": "なぐさめ",
+      "en": "It was some consolation that nobody was hurt.",
+      "ja": "誰もけがをしなかったのがせめてものなぐさめだった。"
+    },
+    {
+      "source": "original",
+      "label": "残念賞",
+      "en": "I didn't win, but I got a consolation prize.",
+      "ja": "勝てなかったが残念賞をもらった。"
+    }
+  ],
+  "check_points": [
+    "comfort と console のちがいを言えるか",
+    "console oneself with A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "console、consolation(せめてものなぐさめ)が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1066
+    }
+  ]
+}

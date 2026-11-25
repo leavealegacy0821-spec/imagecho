@@ -1,0 +1,103 @@
+{
+  "word": "shout",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ʃaʊt/",
+  "core_image": {
+    "text": "息を一気に出して、大声を張り上げる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"96\"/><path d=\"M84 44 Q92 52 84 60\"/><path d=\"M98 36 Q112 52 98 68\"/><path d=\"M114 28 Q134 52 114 76\"/></g><text x=\"180\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">大声</text></svg>"
+  },
+  "etymology": "中英語 shouten(大声を出す) → 大きな声を張り上げる・叫ぶ → shout at A=A(人)に向かってどなる/shout to A=A(遠くの人)に大声で呼びかける",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say something very loudly; to speak angrily in a loud voice."
+    },
+    {
+      "pos": "名詞",
+      "text": "a loud cry or call."
+    }
+  ],
+  "cautions": [
+    "shout at A=Aをどなりつける(怒り)/shout to A=(聞こえるように)Aに大声で言う。前置詞で意味が変わる",
+    "cry=(感情で)声を上げる・泣く/scream=(恐怖で)金切り声を上げる/shout=大声で言葉を言う",
+    "shout for help=大声で助けを求める",
+    "反対:whisper=ささやく"
+  ],
+  "patterns": [
+    {
+      "form": "shout at A",
+      "meaning": "Aをどなりつける"
+    },
+    {
+      "form": "shout to A",
+      "meaning": "Aに大声で呼びかける"
+    },
+    {
+      "form": "shout for help",
+      "meaning": "大声で助けを求める"
+    },
+    {
+      "form": "shout out A",
+      "meaning": "Aを大声で言う"
+    },
+    {
+      "form": "give a shout",
+      "meaning": "大声を上げる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "どなる",
+      "en": "Don't shout at me. I'm doing my best.",
+      "ja": "どならないで。精いっぱいやっているんだから。"
+    },
+    {
+      "source": "original",
+      "label": "呼びかける",
+      "en": "She shouted to her friend across the street.",
+      "ja": "彼女は通りの向こうの友達に大声で呼びかけた。"
+    },
+    {
+      "source": "original",
+      "label": "大声で助けを求める",
+      "en": "The boy fell into the river and shouted for help.",
+      "ja": "男の子は川に落ちて大声で助けを求めた。"
+    },
+    {
+      "source": "original",
+      "label": "大声で言う",
+      "en": "The students shouted out the answer.",
+      "ja": "生徒たちは答えを大声で言った。"
+    },
+    {
+      "source": "original",
+      "label": "叫ぶ",
+      "en": "\"Watch out!\" he shouted.",
+      "ja": "「危ない!」と彼は叫んだ。"
+    },
+    {
+      "source": "original",
+      "label": "叫び声",
+      "en": "We heard a shout from the kitchen.",
+      "ja": "台所から叫び声が聞こえた。"
+    }
+  ],
+  "check_points": [
+    "shout at と shout to のちがいを言えるか",
+    "shout と scream のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "shout at / to の前置詞による意味のちがいが語法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1068
+    }
+  ]
+}

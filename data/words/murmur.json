@@ -1,0 +1,99 @@
+{
+  "word": "murmur",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈmɜːrmər/",
+  "core_image": {
+    "text": "低くはっきりしない声が、ぶつぶつ続く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"96\"/><path d=\"M80 60 q6 -6 12 0 t12 0 t12 0 t12 0 t12 0 t12 0\"/></g><text x=\"180\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぶつぶつ</text></svg>"
+  },
+  "etymology": "ラテン語 murmurare(ぶつぶつ言う。音をまねた語) → 低くはっきりしない声で言う・つぶやく → (不満を)ぶつぶつ言う → (小川・風が)さらさら・ざわざわ音を立てる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say something in a quiet low voice that is difficult to hear; to complain quietly."
+    },
+    {
+      "pos": "名詞",
+      "text": "a quiet continuous sound of voices or of water or wind."
+    }
+  ],
+  "cautions": [
+    "whisper=息だけで(相手にだけ)ささやく/murmur=低い声でぼそぼそつぶやく・ざわざわ続く音",
+    "不満の意味:murmur against [about] A=Aに不平をこぼす",
+    "名詞 a murmur of A=Aのざわめき(a murmur of voices)",
+    "without a murmur=文句ひとつ言わずに"
+  ],
+  "patterns": [
+    {
+      "form": "murmur A",
+      "meaning": "Aをつぶやく"
+    },
+    {
+      "form": "murmur about A",
+      "meaning": "Aについてぶつぶつ言う"
+    },
+    {
+      "form": "a murmur of voices",
+      "meaning": "人の話し声のざわめき"
+    },
+    {
+      "form": "without a murmur",
+      "meaning": "文句ひとつ言わずに"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "つぶやく",
+      "en": "He murmured a few words of thanks.",
+      "ja": "彼はぼそぼそと感謝の言葉を言った。"
+    },
+    {
+      "source": "original",
+      "label": "つぶやく",
+      "en": "\"I'm sorry,\" she murmured.",
+      "ja": "「ごめんなさい」と彼女はつぶやいた。"
+    },
+    {
+      "source": "original",
+      "label": "ぶつぶつ言う",
+      "en": "The workers murmured about the low pay.",
+      "ja": "労働者たちは安い給料に不平をこぼした。"
+    },
+    {
+      "source": "original",
+      "label": "ざわめき",
+      "en": "A murmur of voices came from the next room.",
+      "ja": "隣の部屋から人の話し声のざわめきが聞こえてきた。"
+    },
+    {
+      "source": "original",
+      "label": "さらさら",
+      "en": "We could hear the murmur of the stream.",
+      "ja": "小川のさらさらいう音が聞こえた。"
+    },
+    {
+      "source": "original",
+      "label": "文句ひとつ言わずに",
+      "en": "She did all the work without a murmur.",
+      "ja": "彼女は文句ひとつ言わずにすべての仕事をした。"
+    }
+  ],
+  "check_points": [
+    "whisper と murmur のちがいを言えるか",
+    "without a murmur の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「つぶやく」「ざわめき」と不満の意味が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1070
+    }
+  ]
+}
