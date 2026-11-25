@@ -1,0 +1,93 @@
+{
+  "word": "new",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/nuː/",
+  "core_image": {
+    "text": "今までになかった・はじめての",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"50\" width=\"80\" height=\"80\"/><path d=\"M160 40 L166 30 L172 40 L166 50 Z\"/><path d=\"M180 70 L186 60 L192 70 L186 80 Z\"/><path d=\"M40 40 L46 30 L52 40 L46 50 Z\"/></g><text x=\"100\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あたらしい</text></svg>"
+  },
+  "etymology": "古い英語 nīwe(新しい) → 新しい・はじめての → news=新しい出来事",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "recently made, bought or started; not known before; different from before."
+    }
+  ],
+  "cautions": [
+    "new=今までになかった・新品の/fresh=とれたて",
+    "be new to A=Aにとって初めて・Aに不慣れだ",
+    "brand-new=真新しい",
+    "news=知らせ(数えない)"
+  ],
+  "patterns": [
+    {
+      "form": "be new to A",
+      "meaning": "Aに不慣れだ"
+    },
+    {
+      "form": "brand-new",
+      "meaning": "新品の"
+    },
+    {
+      "form": "a new A",
+      "meaning": "新しいA"
+    },
+    {
+      "form": "What's new?",
+      "meaning": "変わりない?"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "新しい",
+      "en": "I bought a new bike.",
+      "ja": "新しい自転車を買った。"
+    },
+    {
+      "source": "original",
+      "label": "不慣れ",
+      "en": "I'm new to this town.",
+      "ja": "この町には来たばかりだ。"
+    },
+    {
+      "source": "original",
+      "label": "新品",
+      "en": "He has a brand-new phone.",
+      "ja": "彼は新品のスマホをもっている。"
+    },
+    {
+      "source": "original",
+      "label": "はじめて",
+      "en": "This idea is new to me.",
+      "ja": "この考えは私にははじめてだ。"
+    },
+    {
+      "source": "original",
+      "label": "あいさつ",
+      "en": "Hi, what's new?",
+      "ja": "やあ、何か変わったことある?"
+    },
+    {
+      "source": "original",
+      "label": "新入り",
+      "en": "We have a new student in our class.",
+      "ja": "クラスに転校生が来た。"
+    }
+  ],
+  "check_points": [
+    "be new to A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be new to が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2259
+    }
+  ]
+}

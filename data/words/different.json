@@ -1,0 +1,93 @@
+{
+  "word": "different",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈdɪfrənt/",
+  "core_image": {
+    "text": "ほかとはなれてちがう・いろいろな",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"50\" width=\"60\" height=\"60\"/><circle cx=\"170\" cy=\"80\" r=\"30\"/><line x1=\"110\" y1=\"70\" x2=\"130\" y2=\"90\"/><line x1=\"130\" y1=\"70\" x2=\"110\" y2=\"90\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ちがう</text></svg>"
+  },
+  "etymology": "ラテン語 differre(dis-=はなれて + ferre=運ぶ → 別々に運ぶ) → ちがう・異なる",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not the same; separate; various."
+    }
+  ],
+  "cautions": [
+    "be different from A=Aとちがう(than も口語で使う)",
+    "different A(複数)=いろいろなA(different kinds)",
+    "difference=ちがい/differ=異なる",
+    "make a difference=ちがいを生む・重要だ"
+  ],
+  "patterns": [
+    {
+      "form": "be different from A",
+      "meaning": "Aとちがう"
+    },
+    {
+      "form": "different kinds of A",
+      "meaning": "いろいろな種類のA"
+    },
+    {
+      "form": "difference",
+      "meaning": "ちがい"
+    },
+    {
+      "form": "make a difference",
+      "meaning": "影響を与える"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ちがう",
+      "en": "My opinion is different from yours.",
+      "ja": "私の意見はあなたとちがう。"
+    },
+    {
+      "source": "original",
+      "label": "いろいろな",
+      "en": "The shop sells many different kinds of tea.",
+      "ja": "その店はいろいろな種類のお茶を売っている。"
+    },
+    {
+      "source": "original",
+      "label": "ちがい",
+      "en": "What is the difference between A and B?",
+      "ja": "AとBのちがいは何?"
+    },
+    {
+      "source": "original",
+      "label": "影響",
+      "en": "Your help made a big difference.",
+      "ja": "あなたの助けが大きな力になった。"
+    },
+    {
+      "source": "original",
+      "label": "別の",
+      "en": "Let's try a different way.",
+      "ja": "別の方法を試してみよう。"
+    },
+    {
+      "source": "original",
+      "label": "異なる",
+      "en": "Customs differ from country to country.",
+      "ja": "習慣は国によって異なる。"
+    }
+  ],
+  "check_points": [
+    "be different from の前置詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "be different from、make a difference が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2263
+    }
+  ]
+}

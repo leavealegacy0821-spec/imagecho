@@ -1,0 +1,93 @@
+{
+  "word": "real",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈriːəl/",
+  "core_image": {
+    "text": "想像ではなく本当にある・本物の",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"50\" width=\"70\" height=\"70\" stroke-dasharray=\"4 4\"/><rect x=\"140\" y=\"50\" width=\"70\" height=\"70\"/><circle cx=\"175\" cy=\"85\" r=\"14\"/><circle cx=\"75\" cy=\"85\" r=\"14\" stroke-dasharray=\"3 3\"/></g><text x=\"75\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そうぞう</text><text x=\"175\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ほんもの</text></svg>"
+  },
+  "etymology": "ラテン語 res(もの・こと) → 実在するもの → 現実の・本物の → reality=現実・realize=実現する・気づく",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "existing in fact, not imagined; not false or artificial; true and serious."
+    }
+  ],
+  "cautions": [
+    "real=実在する・本物の/true=事実に合った",
+    "in real life=現実の生活では",
+    "realize=実現する・はっきり気づく",
+    "reality=現実/really=本当に"
+  ],
+  "patterns": [
+    {
+      "form": "in real life",
+      "meaning": "現実には"
+    },
+    {
+      "form": "a real A",
+      "meaning": "本物のA・まさにA"
+    },
+    {
+      "form": "reality",
+      "meaning": "現実"
+    },
+    {
+      "form": "realize",
+      "meaning": "気づく・実現する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "本物",
+      "en": "Is this a real diamond?",
+      "ja": "これは本物のダイヤ?"
+    },
+    {
+      "source": "original",
+      "label": "現実",
+      "en": "In real life, things are not so easy.",
+      "ja": "現実の生活ではそんなに簡単ではない。"
+    },
+    {
+      "source": "original",
+      "label": "まさに",
+      "en": "He is a real hero.",
+      "ja": "彼はまさに英雄だ。"
+    },
+    {
+      "source": "original",
+      "label": "現実(名詞)",
+      "en": "The dream became a reality.",
+      "ja": "夢が現実になった。"
+    },
+    {
+      "source": "original",
+      "label": "気づく",
+      "en": "I realized I had made a mistake.",
+      "ja": "まちがえたことに気づいた。"
+    },
+    {
+      "source": "original",
+      "label": "実在",
+      "en": "The story is based on real events.",
+      "ja": "その物語は実際の出来事にもとづいている。"
+    }
+  ],
+  "check_points": [
+    "real と true のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "realize、reality が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2265
+    }
+  ]
+}

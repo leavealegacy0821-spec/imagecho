@@ -1,0 +1,98 @@
+{
+  "word": "same",
+  "pos": [
+    "形容詞",
+    "代名詞"
+  ],
+  "ipa": "/seɪm/",
+  "core_image": {
+    "text": "ぴったり同じ・変わらない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"50\" width=\"60\" height=\"60\"/><rect x=\"140\" y=\"50\" width=\"60\" height=\"60\"/><line x1=\"110\" y1=\"74\" x2=\"130\" y2=\"74\"/><line x1=\"110\" y1=\"86\" x2=\"130\" y2=\"86\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">おなじ</text></svg>"
+  },
+  "etymology": "古いノルド語 samr(同じ) → 同じ・変わらない",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "exactly like another; not changed."
+    },
+    {
+      "pos": "代名詞",
+      "text": "the same thing."
+    }
+  ],
+  "cautions": [
+    "いつも the same",
+    "the same A as B=Bと同じA",
+    "the same as A=Aと同じ",
+    "at the same time=同時に・それでも"
+  ],
+  "patterns": [
+    {
+      "form": "the same A as B",
+      "meaning": "Bと同じA"
+    },
+    {
+      "form": "the same as A",
+      "meaning": "Aと同じ"
+    },
+    {
+      "form": "at the same time",
+      "meaning": "同時に"
+    },
+    {
+      "form": "all the same",
+      "meaning": "それでもやはり"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "同じ",
+      "en": "We are in the same class.",
+      "ja": "私たちは同じクラスだ。"
+    },
+    {
+      "source": "original",
+      "label": "〜と同じ",
+      "en": "I have the same bag as you.",
+      "ja": "あなたと同じかばんをもっている。"
+    },
+    {
+      "source": "original",
+      "label": "同時",
+      "en": "They arrived at the same time.",
+      "ja": "彼らは同時に着いた。"
+    },
+    {
+      "source": "original",
+      "label": "それでも",
+      "en": "It was raining, but we went all the same.",
+      "ja": "雨だったが、それでも出かけた。"
+    },
+    {
+      "source": "original",
+      "label": "変わらない",
+      "en": "He is still the same.",
+      "ja": "彼は相変わらずだ。"
+    },
+    {
+      "source": "original",
+      "label": "同じこと",
+      "en": "\"Happy New Year!\" \"Same to you!\"",
+      "ja": "「明けましておめでとう!」「おめでとう!」"
+    }
+  ],
+  "check_points": [
+    "the same A as B の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "the same as、at the same time が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2262
+    }
+  ]
+}
