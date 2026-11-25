@@ -1,0 +1,93 @@
+{
+  "word": "fatal",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈfeɪtl/",
+  "core_image": {
+    "text": "死をまねく・取り返しのつかない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"60\" y=\"100\" width=\"60\" height=\"30\"/><circle cx=\"76\" cy=\"134\" r=\"6\"/><circle cx=\"106\" cy=\"134\" r=\"6\"/><polyline points=\"140,40 120,80 140,80 116,120\"/><line x1=\"160\" y1=\"140\" x2=\"200\" y2=\"100\"/></g><text x=\"190\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">命とり</text></svg>"
+  },
+  "etymology": "ラテン語 fatum(運命:fate と同じ根) → 運命の → 運命的な・死を運命づける → 命にかかわる・致命的な",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "causing death; causing failure or very serious problems."
+    }
+  ],
+  "cautions": [
+    "fatal=死をまねく・致命的な(取り返しがつかない)/deadly=死ぬほど危険な(毒・武器)/serious=重大な",
+    "a fatal accident=死亡事故",
+    "a fatal mistake=致命的なミス",
+    "fate=運命/fatality=死者"
+  ],
+  "patterns": [
+    {
+      "form": "a fatal accident",
+      "meaning": "死亡事故"
+    },
+    {
+      "form": "a fatal mistake",
+      "meaning": "致命的なミス"
+    },
+    {
+      "form": "prove fatal",
+      "meaning": "命とりになる"
+    },
+    {
+      "form": "fatality",
+      "meaning": "死者(数)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "死亡事故",
+      "en": "There was a fatal accident on the highway.",
+      "ja": "高速道路で死亡事故があった。"
+    },
+    {
+      "source": "original",
+      "label": "致命的",
+      "en": "It was a fatal mistake.",
+      "ja": "それは致命的なミスだった。"
+    },
+    {
+      "source": "original",
+      "label": "命とり",
+      "en": "The disease can be fatal if not treated.",
+      "ja": "その病気は治療しないと命にかかわる。"
+    },
+    {
+      "source": "original",
+      "label": "死者",
+      "en": "There were no fatalities in the fire.",
+      "ja": "その火事で死者は出なかった。"
+    },
+    {
+      "source": "original",
+      "label": "運命",
+      "en": "It was fate that brought them together.",
+      "ja": "2人をめぐり合わせたのは運命だった。"
+    },
+    {
+      "source": "original",
+      "label": "決定的",
+      "en": "Losing their best player was a fatal blow to the team.",
+      "ja": "最高の選手を失ったのはチームにとって致命的な打撃だった。"
+    }
+  ],
+  "check_points": [
+    "fatal と fate の関係を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "fatal accident、fatal mistake が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1907
+    }
+  ]
+}

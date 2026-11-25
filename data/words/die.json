@@ -1,0 +1,94 @@
+{
+  "word": "die",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/daɪ/",
+  "core_image": {
+    "text": "命が尽きて、消えていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"60\" y1=\"140\" x2=\"60\" y2=\"80\"/><path d=\"M60 80 Q40 70 36 90 M60 90 Q80 80 86 100\" /><line x1=\"130\" y1=\"60\" x2=\"130\" y2=\"120\"/><polyline points=\"133.8,113 130,120 126.2,113\"/><path d=\"M170 140 L176 120 L190 116 L196 130\" /></g><text x=\"190\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">尽きる</text></svg>"
+  },
+  "etymology": "古いノルド語 deyja(死ぬ) → 死ぬ → (火・音・習慣が)消える・なくなる(die out) → be dying to do=〜したくてたまらない",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stop living; to stop existing; (be dying for/to do) to want something very much."
+    }
+  ],
+  "cautions": [
+    "活用 die - died - died/dying(ie→y)",
+    "die of A=A(病気など直接の原因)で死ぬ/die from A=A(けが・外的原因)で死ぬ(区別しない人も多い)",
+    "dead=(形容詞)死んでいる/death=(名詞)死",
+    "be dying to do=〜したくてたまらない"
+  ],
+  "patterns": [
+    {
+      "form": "die of [from] A",
+      "meaning": "Aで死ぬ"
+    },
+    {
+      "form": "die out",
+      "meaning": "絶滅する・すたれる"
+    },
+    {
+      "form": "be dying to do",
+      "meaning": "〜したくてたまらない"
+    },
+    {
+      "form": "die young",
+      "meaning": "若くして死ぬ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "死ぬ",
+      "en": "My grandfather died of cancer.",
+      "ja": "祖父はがんで亡くなった。"
+    },
+    {
+      "source": "original",
+      "label": "けが",
+      "en": "He died from his injuries.",
+      "ja": "彼はけががもとで亡くなった。"
+    },
+    {
+      "source": "original",
+      "label": "絶滅",
+      "en": "Dinosaurs died out millions of years ago.",
+      "ja": "恐竜は何百万年も前に絶滅した。"
+    },
+    {
+      "source": "original",
+      "label": "たまらない",
+      "en": "I'm dying to see the new movie.",
+      "ja": "新しい映画が見たくてたまらない。"
+    },
+    {
+      "source": "original",
+      "label": "枯れる",
+      "en": "The flowers died because I forgot to water them.",
+      "ja": "水やりを忘れて花が枯れた。"
+    },
+    {
+      "source": "original",
+      "label": "消える",
+      "en": "The noise slowly died away.",
+      "ja": "その音はゆっくり消えていった。"
+    }
+  ],
+  "check_points": [
+    "die / dead / death の品詞を言えるか",
+    "be dying to do の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "die / dead / death の品詞、die out が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1902
+    }
+  ]
+}

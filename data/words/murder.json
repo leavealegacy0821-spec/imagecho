@@ -1,0 +1,98 @@
+{
+  "word": "murder",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈmɜːrdər/",
+  "core_image": {
+    "text": "人をわざと計画して殺すこと",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"74\" x2=\"120\" y2=\"60\"/><polygon points=\"120,56 140,60 120,64\"/><path d=\"M180 140 L180 120 Q180 100 200 100 Q220 100 220 120 L220 140\" stroke-dasharray=\"3 3\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">殺人</text></svg>"
+  },
+  "etymology": "古い英語 morþor(殺人。ラテン語 mors=死 と遠い親戚) → 人を故意に殺すこと → 殺人(罪)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the crime of intentionally killing a person."
+    },
+    {
+      "pos": "動詞",
+      "text": "to kill someone intentionally and illegally."
+    }
+  ],
+  "cautions": [
+    "kill=命をうばう(広い・事故にも)/murder=人をわざと殺す(犯罪)",
+    "commit murder=殺人を犯す",
+    "murderer=殺人者",
+    "get away with murder=(悪いことをしても)おとがめなし"
+  ],
+  "patterns": [
+    {
+      "form": "commit murder",
+      "meaning": "殺人を犯す"
+    },
+    {
+      "form": "be charged with murder",
+      "meaning": "殺人罪で起訴される"
+    },
+    {
+      "form": "a murderer",
+      "meaning": "殺人者"
+    },
+    {
+      "form": "get away with murder",
+      "meaning": "好き勝手してとがめられない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "殺人",
+      "en": "The police are investigating the murder.",
+      "ja": "警察はその殺人事件を捜査している。"
+    },
+    {
+      "source": "original",
+      "label": "犯す",
+      "en": "He was accused of committing murder.",
+      "ja": "彼は殺人を犯したとして告発された。"
+    },
+    {
+      "source": "original",
+      "label": "殺す",
+      "en": "She was murdered in her home.",
+      "ja": "彼女は自宅で殺害された。"
+    },
+    {
+      "source": "original",
+      "label": "殺人者",
+      "en": "The murderer was arrested yesterday.",
+      "ja": "殺人犯は昨日逮捕された。"
+    },
+    {
+      "source": "original",
+      "label": "おとがめなし",
+      "en": "That kid gets away with murder.",
+      "ja": "あの子は何をしてもしかられない。"
+    },
+    {
+      "source": "original",
+      "label": "推理小説",
+      "en": "I love murder mysteries.",
+      "ja": "私は殺人ミステリーが大好きだ。"
+    }
+  ],
+  "check_points": [
+    "kill と murder のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で犯罪の話題として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1906
+    }
+  ]
+}
