@@ -1,0 +1,88 @@
+{
+  "word": "merely",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˈmɪrli/",
+  "core_image": {
+    "text": "ただ〜にすぎない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"10\"/><rect x=\"40\" y=\"40\" width=\"160\" height=\"80\" stroke-dasharray=\"4 4\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">〜にすぎない</text></svg>"
+  },
+  "etymology": "mere(単なる:ラテン語 merus=まぜものなしの) + -ly → ただ〜だけ",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "only; simply."
+    }
+  ],
+  "cautions": [
+    "merely=only=ただ〜にすぎない(改まった)",
+    "not merely A but (also) B=AだけでなくBも",
+    "mere=単なる(a mere child=ほんの子ども)"
+  ],
+  "patterns": [
+    {
+      "form": "merely A",
+      "meaning": "ただAにすぎない"
+    },
+    {
+      "form": "not merely A but B",
+      "meaning": "AだけでなくBも"
+    },
+    {
+      "form": "mere",
+      "meaning": "単なる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "にすぎない",
+      "en": "It was merely a mistake.",
+      "ja": "それはただのミスにすぎなかった。"
+    },
+    {
+      "source": "original",
+      "label": "だけでなく",
+      "en": "He is not merely a teacher but also a writer.",
+      "ja": "彼は先生であるだけでなく作家でもある。"
+    },
+    {
+      "source": "original",
+      "label": "単なる",
+      "en": "She was a mere child at the time.",
+      "ja": "当時彼女はほんの子どもだった。"
+    },
+    {
+      "source": "original",
+      "label": "ただ",
+      "en": "I merely asked a question.",
+      "ja": "ただ質問しただけだ。"
+    },
+    {
+      "source": "original",
+      "label": "考えるだけで",
+      "en": "The mere thought of it makes me happy.",
+      "ja": "そう考えるだけで幸せになる。"
+    },
+    {
+      "source": "original",
+      "label": "only",
+      "en": "It costs only 100 yen.",
+      "ja": "たった100円だ。"
+    }
+  ],
+  "check_points": [
+    "not merely A but B の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "not merely A but B が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2383
+    }
+  ]
+}

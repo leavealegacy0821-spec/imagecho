@@ -1,0 +1,98 @@
+{
+  "word": "step",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/step/",
+  "core_image": {
+    "text": "足を1歩ふみ出す・(目標への)一段階",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"20,140 20,120 70,120 70,100 120,100 120,80 170,80 170,60 220,60\"/><path d=\"M80 96 L96 96 L96 88\"/><path d=\"M130 76 L146 76 L146 68\"/></g><text x=\"60\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いっぽ</text></svg>"
+  },
+  "etymology": "古い英語 stæpe(1歩) → 1歩・足どり → (階段の)段 → (目標への)段階・手段",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the act of putting one foot in front of the other; one action in a series; a stair."
+    },
+    {
+      "pos": "動詞",
+      "text": "to move by putting one foot in front of the other."
+    }
+  ],
+  "cautions": [
+    "step by step=一歩一歩・着実に",
+    "take steps to do=〜するための手段をとる",
+    "a step forward=前進",
+    "step on A=Aをふむ"
+  ],
+  "patterns": [
+    {
+      "form": "step by step",
+      "meaning": "一歩一歩"
+    },
+    {
+      "form": "take steps to do",
+      "meaning": "〜する対策をとる"
+    },
+    {
+      "form": "the first step",
+      "meaning": "第一歩"
+    },
+    {
+      "form": "step on A",
+      "meaning": "Aをふむ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "一歩一歩",
+      "en": "Learn English step by step.",
+      "ja": "一歩一歩英語を学びなさい。"
+    },
+    {
+      "source": "original",
+      "label": "対策",
+      "en": "The government took steps to reduce crime.",
+      "ja": "政府は犯罪を減らすための対策をとった。"
+    },
+    {
+      "source": "original",
+      "label": "第一歩",
+      "en": "This is the first step toward peace.",
+      "ja": "これは平和への第一歩だ。"
+    },
+    {
+      "source": "original",
+      "label": "ふむ",
+      "en": "Sorry, I stepped on your foot.",
+      "ja": "ごめん、足をふんじゃった。"
+    },
+    {
+      "source": "original",
+      "label": "段",
+      "en": "Watch your step.",
+      "ja": "足もとに気をつけて。"
+    },
+    {
+      "source": "original",
+      "label": "1歩",
+      "en": "She took a step forward.",
+      "ja": "彼女は1歩前に出た。"
+    }
+  ],
+  "check_points": [
+    "take steps to do の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "take steps、step by step が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2387
+    }
+  ]
+}

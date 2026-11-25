@@ -1,0 +1,93 @@
+{
+  "word": "entirely",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ɪnˈtaɪərli/",
+  "core_image": {
+    "text": "欠けたところなく全部(まったく)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"50\" y=\"50\" width=\"140\" height=\"60\"/><rect x=\"56\" y=\"56\" width=\"128\" height=\"48\" stroke-dasharray=\"2 2\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まるごと</text></svg>"
+  },
+  "etymology": "entire(全体の:ラテン語 integer=欠けていない:integrity と同じ根) + -ly → 欠けずに全部・まったく",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "completely."
+    }
+  ],
+  "cautions": [
+    "entirely=completely(改まった)",
+    "not entirely=完全に〜とはかぎらない(部分否定)",
+    "entire=全体の(the entire class)",
+    "It's entirely up to you.=すべてあなたしだいだ"
+  ],
+  "patterns": [
+    {
+      "form": "entirely different",
+      "meaning": "まったくちがう"
+    },
+    {
+      "form": "not entirely",
+      "meaning": "完全には〜ない"
+    },
+    {
+      "form": "entirely up to A",
+      "meaning": "すべてAしだい"
+    },
+    {
+      "form": "the entire A",
+      "meaning": "A全体"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "まったく",
+      "en": "This is an entirely new idea.",
+      "ja": "これはまったく新しい考えだ。"
+    },
+    {
+      "source": "original",
+      "label": "しだい",
+      "en": "It's entirely up to you.",
+      "ja": "すべてあなたしだいだ。"
+    },
+    {
+      "source": "original",
+      "label": "部分否定",
+      "en": "I don't entirely agree.",
+      "ja": "全面的に賛成というわけではない。"
+    },
+    {
+      "source": "original",
+      "label": "全体",
+      "en": "The entire class laughed.",
+      "ja": "クラス全員が笑った。"
+    },
+    {
+      "source": "original",
+      "label": "完全に",
+      "en": "The house is made entirely of wood.",
+      "ja": "その家はすべて木でできている。"
+    },
+    {
+      "source": "original",
+      "label": "責任",
+      "en": "It was entirely my fault.",
+      "ja": "完全に私のせいだった。"
+    }
+  ],
+  "check_points": [
+    "not entirely の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "部分否定 not entirely が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2380
+    }
+  ]
+}

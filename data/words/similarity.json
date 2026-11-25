@@ -1,0 +1,89 @@
+{
+  "word": "similarity",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˌsɪməˈlærəti/",
+  "core_image": {
+    "text": "2つのにかよったところ(類似点)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"80\" cy=\"80\" r=\"30\"/><circle cx=\"160\" cy=\"80\" r=\"30\"/><path d=\"M120 60 Q130 80 120 100\" stroke-dasharray=\"3 3\"/><line x1=\"70\" y1=\"70\" x2=\"90\" y2=\"70\"/><line x1=\"150\" y1=\"70\" x2=\"170\" y2=\"70\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">にているところ</text></svg>"
+  },
+  "etymology": "similar(似ている:ラテン語 similis=似た:simulate と同じ根) + -ity → 似ていること=類似点",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the state of being similar; a feature that two things share."
+    }
+  ],
+  "cautions": [
+    "similarity(類似点)⇔ difference(相違点)",
+    "similarities between A and B=AとBの類似点",
+    "be similar to A=Aに似ている",
+    "similarly=同様に"
+  ],
+  "patterns": [
+    {
+      "form": "similarities between A and B",
+      "meaning": "AとBの類似点"
+    },
+    {
+      "form": "be similar to A",
+      "meaning": "Aに似ている"
+    },
+    {
+      "form": "similarly",
+      "meaning": "同様に"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "類似点",
+      "en": "There are many similarities between the two languages.",
+      "ja": "その2つの言語には多くの類似点がある。"
+    },
+    {
+      "source": "original",
+      "label": "似ている",
+      "en": "Your bag is similar to mine.",
+      "ja": "あなたのかばんは私のに似ている。"
+    },
+    {
+      "source": "original",
+      "label": "同様に",
+      "en": "Similarly, cats need exercise.",
+      "ja": "同様に、ネコも運動が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "比べる",
+      "en": "Compare the similarities and differences.",
+      "ja": "類似点と相違点を比べなさい。"
+    },
+    {
+      "source": "original",
+      "label": "驚く",
+      "en": "I was surprised by the similarity between them.",
+      "ja": "2人がよく似ていることに驚いた。"
+    },
+    {
+      "source": "original",
+      "label": "一致",
+      "en": "There is a striking similarity in their stories.",
+      "ja": "彼らの話は驚くほど一致している。"
+    }
+  ],
+  "check_points": [
+    "similar to の前置詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "similarities and differences が英作文・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2385
+    }
+  ]
+}

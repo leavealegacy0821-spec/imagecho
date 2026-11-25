@@ -1,0 +1,93 @@
+{
+  "word": "absolutely",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˈæbsəluːtli/",
+  "core_image": {
+    "text": "まったく完全に・(返事)そのとおり!",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"70\" width=\"160\" height=\"20\"/><rect x=\"40\" y=\"70\" width=\"160\" height=\"20\" stroke-dasharray=\"1 1\"/><polyline points=\"90,40 110,56 150,24\"/></g><text x=\"120\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まったく</text></svg>"
+  },
+  "etymology": "absolute(完全な:ラテン語 absolvere=解き放つ → 何にも縛られない) + -ly → まったく・完全に",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "completely; (in answers) yes, certainly."
+    }
+  ],
+  "cautions": [
+    "absolutely + 強い形容詞(amazing・delicious・impossible)=まったく(very はつけにくい語と)",
+    "返事の Absolutely!=そのとおり!/Absolutely not!=絶対ちがう",
+    "absolute=絶対的な",
+    "completely・totally と近い"
+  ],
+  "patterns": [
+    {
+      "form": "absolutely + 形容詞",
+      "meaning": "まったく〜"
+    },
+    {
+      "form": "Absolutely!",
+      "meaning": "そのとおり!"
+    },
+    {
+      "form": "Absolutely not!",
+      "meaning": "絶対だめ!"
+    },
+    {
+      "form": "absolute",
+      "meaning": "絶対的な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "まったく",
+      "en": "The view was absolutely amazing.",
+      "ja": "ながめはまったくすばらしかった。"
+    },
+    {
+      "source": "original",
+      "label": "返事",
+      "en": "\"Do you agree?\" \"Absolutely!\"",
+      "ja": "「賛成?」「もちろん!」"
+    },
+    {
+      "source": "original",
+      "label": "絶対だめ",
+      "en": "\"Can I go?\" \"Absolutely not!\"",
+      "ja": "「行っていい?」「絶対だめ!」"
+    },
+    {
+      "source": "original",
+      "label": "不可能",
+      "en": "It's absolutely impossible.",
+      "ja": "それは絶対に不可能だ。"
+    },
+    {
+      "source": "original",
+      "label": "完全に",
+      "en": "I'm absolutely sure.",
+      "ja": "完全に確信している。"
+    },
+    {
+      "source": "original",
+      "label": "絶対的",
+      "en": "The king had absolute power.",
+      "ja": "王は絶対的な権力をもっていた。"
+    }
+  ],
+  "check_points": [
+    "返事の Absolutely! の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "会話で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2378
+    }
+  ]
+}

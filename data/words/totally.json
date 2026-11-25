@@ -1,0 +1,89 @@
+{
+  "word": "totally",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˈtoʊtəli/",
+  "core_image": {
+    "text": "全部まるごと(すっかり)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"44\"/><circle cx=\"120\" cy=\"80\" r=\"38\" stroke-dasharray=\"1 2\"/><line x1=\"76\" y1=\"80\" x2=\"164\" y2=\"80\"/><line x1=\"120\" y1=\"36\" x2=\"120\" y2=\"124\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぜんぶ</text></svg>"
+  },
+  "etymology": "total(全体の:ラテン語 totus=全部) + -ly → 全部まるごと・すっかり",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "completely."
+    }
+  ],
+  "cautions": [
+    "totally=completely=まったく(口語でよく使う)",
+    "I totally agree.=まったく同感",
+    "total=合計(の)",
+    "not totally=完全に〜ではない"
+  ],
+  "patterns": [
+    {
+      "form": "totally + 形容詞",
+      "meaning": "まったく〜"
+    },
+    {
+      "form": "totally agree",
+      "meaning": "まったく同感"
+    },
+    {
+      "form": "total",
+      "meaning": "合計"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "すっかり",
+      "en": "I totally forgot!",
+      "ja": "すっかり忘れてた!"
+    },
+    {
+      "source": "original",
+      "label": "同感",
+      "en": "I totally agree with you.",
+      "ja": "まったく同感だ。"
+    },
+    {
+      "source": "original",
+      "label": "まったく",
+      "en": "That's totally different.",
+      "ja": "それはまったくちがう。"
+    },
+    {
+      "source": "original",
+      "label": "合計",
+      "en": "The total cost was 5,000 yen.",
+      "ja": "合計金額は5000円だった。"
+    },
+    {
+      "source": "original",
+      "label": "部分否定",
+      "en": "I'm not totally sure.",
+      "ja": "完全には確信がない。"
+    },
+    {
+      "source": "original",
+      "label": "完全に",
+      "en": "The town was totally destroyed.",
+      "ja": "その町は完全に破壊された。"
+    }
+  ],
+  "check_points": [
+    "total の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "会話で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2379
+    }
+  ]
+}
