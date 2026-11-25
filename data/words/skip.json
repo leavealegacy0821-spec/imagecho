@@ -1,0 +1,98 @@
+{
+  "word": "skip",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/skɪp/",
+  "core_image": {
+    "text": "軽くはずんで、ぴょんととばす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><path d=\"M90 130 Q110 110 130 130 Q150 110 170 130\" stroke-dasharray=\"3 3\"/><rect x=\"104\" y=\"20\" width=\"20\" height=\"20\"/><rect x=\"134\" y=\"20\" width=\"20\" height=\"20\"/><rect x=\"164\" y=\"20\" width=\"20\" height=\"20\"/><line x1=\"134\" y1=\"20\" x2=\"154\" y2=\"40\"/><line x1=\"154\" y1=\"20\" x2=\"134\" y2=\"40\"/></g><text x=\"200\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">とばす</text></svg>"
+  },
+  "etymology": "中英語 skippen(軽く跳ぶ) → スキップする・軽くはずむ → (順番の1つを)ぴょんととばす → (食事・授業を)抜かす・サボる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move forward with small jumps; to not do something you usually do; to miss out part of something."
+    },
+    {
+      "pos": "名詞",
+      "text": "a small jump."
+    }
+  ],
+  "cautions": [
+    "活用 skip - skipped - skipped",
+    "skip=(一部を)とばす・抜かす(skip breakfast=朝食を抜く・skip class=授業をサボる)",
+    "skip over A=Aをとばして読む",
+    "miss=(うっかり)のがす/skip=(わざと)とばす"
+  ],
+  "patterns": [
+    {
+      "form": "skip breakfast",
+      "meaning": "朝食を抜く"
+    },
+    {
+      "form": "skip class",
+      "meaning": "授業をサボる"
+    },
+    {
+      "form": "skip A",
+      "meaning": "Aをとばす"
+    },
+    {
+      "form": "skip rope",
+      "meaning": "なわとびをする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "抜く",
+      "en": "You shouldn't skip breakfast.",
+      "ja": "朝食を抜くべきではない。"
+    },
+    {
+      "source": "original",
+      "label": "とばす",
+      "en": "Let's skip this question and go on.",
+      "ja": "この問題はとばして先へ進もう。"
+    },
+    {
+      "source": "original",
+      "label": "サボる",
+      "en": "He skipped class yesterday.",
+      "ja": "彼は昨日授業をサボった。"
+    },
+    {
+      "source": "original",
+      "label": "スキップ",
+      "en": "The girl skipped happily down the street.",
+      "ja": "女の子はうれしそうにスキップして通りを進んだ。"
+    },
+    {
+      "source": "original",
+      "label": "なわとび",
+      "en": "The children were skipping rope in the yard.",
+      "ja": "子どもたちは庭でなわとびをしていた。"
+    },
+    {
+      "source": "original",
+      "label": "心臓",
+      "en": "My heart skipped a beat.",
+      "ja": "心臓がどきっとした。"
+    }
+  ],
+  "check_points": [
+    "skip breakfast の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "skip breakfast / class が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1742
+    }
+  ]
+}

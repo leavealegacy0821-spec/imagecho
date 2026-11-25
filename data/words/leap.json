@@ -1,0 +1,103 @@
+{
+  "word": "leap",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/liːp/",
+  "core_image": {
+    "text": "大きく弧をえがいて、遠くへ跳ぶ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M30 140 Q120 10 210 140\" stroke-dasharray=\"4 4\"/><circle cx=\"120\" cy=\"56\" r=\"10\"/><line x1=\"112\" y1=\"64\" x2=\"96\" y2=\"80\"/><line x1=\"128\" y1=\"64\" x2=\"146\" y2=\"80\"/></g><text x=\"40\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひとっ跳び</text></svg>"
+  },
+  "etymology": "古い英語 hlēapan(跳ぶ・走る) → 大きく遠くへ跳ぶ → (心臓が)はね上がる・(数・技術が)飛躍する → a leap year=うるう年(曜日が1つ跳ぶ)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to jump high or a long way; to move or act suddenly."
+    },
+    {
+      "pos": "名詞",
+      "text": "a long or high jump; a sudden large increase or change."
+    }
+  ],
+  "cautions": [
+    "活用 leap - leapt [leaped] - leapt [leaped]",
+    "jump=跳ぶ(広い)/leap=大きく遠くへ・勢いよく跳ぶ、また「飛躍」",
+    "a giant leap=大きな飛躍",
+    "Look before you leap.=跳ぶ前に見よ(転ばぬ先の杖)"
+  ],
+  "patterns": [
+    {
+      "form": "leap over A",
+      "meaning": "Aを跳び越える"
+    },
+    {
+      "form": "leap at A",
+      "meaning": "Aに飛びつく"
+    },
+    {
+      "form": "a leap in A",
+      "meaning": "Aの飛躍"
+    },
+    {
+      "form": "by leaps and bounds",
+      "meaning": "とんとん拍子に・急速に"
+    },
+    {
+      "form": "a leap year",
+      "meaning": "うるう年"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "大きく跳ぶ",
+      "en": "The deer leapt over the stream.",
+      "ja": "シカが小川をひとっ跳びで越えた。"
+    },
+    {
+      "source": "original",
+      "label": "飛躍",
+      "en": "That's one small step for man, one giant leap for mankind.",
+      "ja": "これは1人の人間には小さな一歩だが、人類にとっては大きな飛躍だ。"
+    },
+    {
+      "source": "original",
+      "label": "急速に",
+      "en": "Her English improved by leaps and bounds.",
+      "ja": "彼女の英語は急速に上達した。"
+    },
+    {
+      "source": "original",
+      "label": "ことわざ",
+      "en": "Look before you leap.",
+      "ja": "跳ぶ前によく見よ(転ばぬ先の杖)。"
+    },
+    {
+      "source": "original",
+      "label": "はねる",
+      "en": "My heart leapt when I saw the result.",
+      "ja": "結果を見て胸がおどった。"
+    },
+    {
+      "source": "original",
+      "label": "うるう年",
+      "en": "2028 is a leap year.",
+      "ja": "2028年はうるう年だ。"
+    }
+  ],
+  "check_points": [
+    "leap の活用(leapt)を言えるか",
+    "by leaps and bounds の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "by leaps and bounds、a leap year が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1740
+    }
+  ]
+}

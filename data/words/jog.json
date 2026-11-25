@@ -1,0 +1,98 @@
+{
+  "word": "jog",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/dʒɑːɡ/",
+  "core_image": {
+    "text": "ゆっくりしたペースで、とんとん走る・軽くつつく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"110\" y1=\"100\" x2=\"190\" y2=\"100\"/><polyline points=\"183,96.2 190,100 183,103.8\"/><line x1=\"40\" y1=\"90\" x2=\"60\" y2=\"90\" stroke-dasharray=\"2 3\"/></g><text x=\"150\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">とっとっ</text></svg>"
+  },
+  "etymology": "中英語 joggen(ゆさぶる・軽くつつく) → (体をゆすりながら)ゆっくり走る=ジョギングする → (記憶を)軽くつつく=思い出させる(jog A's memory)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to run slowly for exercise; to push or knock something lightly."
+    },
+    {
+      "pos": "名詞",
+      "text": "a slow run for exercise."
+    }
+  ],
+  "cautions": [
+    "活用 jog - jogged - jogged",
+    "run=走る/jog=健康のためにゆっくり走る/sprint=全速力",
+    "jog A's memory=Aの記憶をよびさます",
+    "go jogging / go for a jog=ジョギングに行く"
+  ],
+  "patterns": [
+    {
+      "form": "go jogging",
+      "meaning": "ジョギングに行く"
+    },
+    {
+      "form": "go for a jog",
+      "meaning": "ジョギングに行く"
+    },
+    {
+      "form": "jog A's memory",
+      "meaning": "Aの記憶をよびさます"
+    },
+    {
+      "form": "jog A's elbow",
+      "meaning": "Aのひじを軽くつつく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ジョギング",
+      "en": "I go jogging in the park every morning.",
+      "ja": "毎朝公園でジョギングをする。"
+    },
+    {
+      "source": "original",
+      "label": "思い出させる",
+      "en": "This photo might jog your memory.",
+      "ja": "この写真で思い出すかもしれない。"
+    },
+    {
+      "source": "original",
+      "label": "ゆっくり走る",
+      "en": "He jogged slowly to the station.",
+      "ja": "彼は駅までゆっくり走った。"
+    },
+    {
+      "source": "original",
+      "label": "軽くつつく",
+      "en": "Someone jogged my elbow and I spilled my drink.",
+      "ja": "誰かにひじをつつかれて飲み物をこぼした。"
+    },
+    {
+      "source": "original",
+      "label": "ジョギングに",
+      "en": "Let's go for a jog.",
+      "ja": "ジョギングに行こう。"
+    },
+    {
+      "source": "original",
+      "label": "運動",
+      "en": "Jogging is good for your heart.",
+      "ja": "ジョギングは心臓によい。"
+    }
+  ],
+  "check_points": [
+    "jog A's memory の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "jog one's memory が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1743
+    }
+  ]
+}

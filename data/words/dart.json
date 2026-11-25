@@ -1,0 +1,98 @@
+{
+  "word": "dart",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/dɑːrt/",
+  "core_image": {
+    "text": "矢のように、さっとすばやく動く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"40\" y1=\"80\" x2=\"180\" y2=\"80\"/><polygon points=\"180,72 200,80 180,88\"/><line x1=\"40\" y1=\"80\" x2=\"28\" y2=\"70\"/><line x1=\"40\" y1=\"80\" x2=\"28\" y2=\"90\"/><line x1=\"52\" y1=\"80\" x2=\"40\" y2=\"70\"/><line x1=\"52\" y1=\"80\" x2=\"40\" y2=\"90\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さっ</text></svg>"
+  },
+  "etymology": "古フランス語 dart(投げやり) → 小さな投げ矢(ダーツ) → (矢のように)さっとすばやく動く → (視線を)さっと投げる(dart a glance)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a small pointed object thrown in a game; a sudden quick movement."
+    },
+    {
+      "pos": "動詞",
+      "text": "to move suddenly and quickly; to look quickly at something."
+    }
+  ],
+  "cautions": [
+    "dash=全力でばっと突進/dart=矢のようにさっとすばやく(小さい動き・方向転換)",
+    "dart across [into] A=Aをさっと横切る[に飛びこむ]",
+    "dart a glance at A=Aにさっと目をやる",
+    "(遊び)ダーツ"
+  ],
+  "patterns": [
+    {
+      "form": "dart across A",
+      "meaning": "Aをさっと横切る"
+    },
+    {
+      "form": "dart into A",
+      "meaning": "Aにさっと飛びこむ"
+    },
+    {
+      "form": "dart a glance at A",
+      "meaning": "Aにさっと目をやる"
+    },
+    {
+      "form": "play darts",
+      "meaning": "ダーツをする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "さっと横切る",
+      "en": "A cat darted across the road.",
+      "ja": "ネコが道をさっと横切った。"
+    },
+    {
+      "source": "original",
+      "label": "飛びこむ",
+      "en": "The boy darted into the shop.",
+      "ja": "男の子は店にさっと飛びこんだ。"
+    },
+    {
+      "source": "original",
+      "label": "目をやる",
+      "en": "She darted a glance at the clock.",
+      "ja": "彼女は時計にさっと目をやった。"
+    },
+    {
+      "source": "original",
+      "label": "すばやく",
+      "en": "Fish darted around in the water.",
+      "ja": "魚が水の中をすいすい動き回った。"
+    },
+    {
+      "source": "original",
+      "label": "ダーツ",
+      "en": "We played darts at the party.",
+      "ja": "パーティーでダーツをした。"
+    },
+    {
+      "source": "original",
+      "label": "矢",
+      "en": "He threw a dart at the board.",
+      "ja": "彼は的にダーツを投げた。"
+    }
+  ],
+  "check_points": [
+    "dash と dart のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1748
+    }
+  ]
+}

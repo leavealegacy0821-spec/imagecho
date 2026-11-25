@@ -1,0 +1,98 @@
+{
+  "word": "tiptoe",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈtɪptoʊ/",
+  "core_image": {
+    "text": "音を立てないように、つま先でそっと歩く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"110\" cy=\"50\" r=\"10\"/><line x1=\"110\" y1=\"60\" x2=\"110\" y2=\"104\"/><line x1=\"110\" y1=\"104\" x2=\"100\" y2=\"136\"/><line x1=\"110\" y1=\"104\" x2=\"122\" y2=\"136\"/><line x1=\"98\" y1=\"136\" x2=\"102\" y2=\"140\"/><line x1=\"120\" y1=\"136\" x2=\"124\" y2=\"140\"/><line x1=\"110\" y1=\"74\" x2=\"96\" y2=\"64\"/><line x1=\"96\" y1=\"64\" x2=\"104\" y2=\"56\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そーっと</text></svg>"
+  },
+  "etymology": "tip(先) + toe(足の指) → つま先 → つま先立ちで(on tiptoe) → (音を立てないように)つま先でそっと歩く",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to walk quietly on your toes."
+    },
+    {
+      "pos": "名詞",
+      "text": "(on tiptoe) standing or walking on your toes."
+    }
+  ],
+  "cautions": [
+    "creep=しのび寄る/tiptoe=つま先でそっと(起こさないように)",
+    "on tiptoe(s)=つま先立ちで",
+    "tiptoe around A=Aを(気をつかって)避ける",
+    "活用 tiptoe - tiptoed"
+  ],
+  "patterns": [
+    {
+      "form": "tiptoe into [out of] A",
+      "meaning": "Aにそっと入る[から出る]"
+    },
+    {
+      "form": "on tiptoe",
+      "meaning": "つま先立ちで"
+    },
+    {
+      "form": "stand on tiptoe",
+      "meaning": "背のびする"
+    },
+    {
+      "form": "tiptoe around A",
+      "meaning": "Aを慎重に避ける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "そっと",
+      "en": "She tiptoed out of the room so as not to wake the baby.",
+      "ja": "赤ちゃんを起こさないように彼女はつま先でそっと部屋を出た。"
+    },
+    {
+      "source": "original",
+      "label": "背のび",
+      "en": "He stood on tiptoe to see the parade.",
+      "ja": "彼はパレードを見ようと背のびした。"
+    },
+    {
+      "source": "original",
+      "label": "しのび足",
+      "en": "I tiptoed into the kitchen at midnight.",
+      "ja": "夜中に私はしのび足で台所に入った。"
+    },
+    {
+      "source": "original",
+      "label": "避ける",
+      "en": "We tiptoed around the subject of money.",
+      "ja": "私たちはお金の話題をそっと避けた。"
+    },
+    {
+      "source": "original",
+      "label": "つま先立ちで",
+      "en": "The dancer moved on tiptoe.",
+      "ja": "ダンサーはつま先立ちで動いた。"
+    },
+    {
+      "source": "original",
+      "label": "こっそり",
+      "en": "The kids tiptoed downstairs to see their presents.",
+      "ja": "子どもたちはプレゼントを見にそっと階段を降りた。"
+    }
+  ],
+  "check_points": [
+    "on tiptoe の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1746
+    }
+  ]
+}

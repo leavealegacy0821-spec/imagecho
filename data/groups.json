@@ -2330,7 +2330,7 @@
     },
     {
       "title": "使い分け:歩く・走る・はう",
-      "note": "walk=片足ずつ地につけて歩く(ふつう) ／ stroll=のんびりぶらぶら ／ stride=足を大きく広げてずんずん(strode) ／ march=足並みをそろえて行進 ／ stagger=ふらついてよろよろ ／ limp=片足をかばってひょこひょこ ／ wander=あてもなくさまよう ／ crawl=手とひざで地面をはう ／ creep=音を立てずそろそろしのび寄る(crept) ／ run=走る ／ dash=ばっと勢いよく短く突進 ／ sprint=短い距離を全速力で ／ rush=勢いよく突進する",
+      "note": "walk=片足ずつ地につけて歩く(ふつう) ／ stroll=のんびりぶらぶら ／ stride=足を大きく広げてずんずん(strode) ／ march=足並みをそろえて行進 ／ stagger=ふらついてよろよろ ／ limp=片足をかばってひょこひょこ ／ wander=あてもなくさまよう ／ crawl=手とひざで地面をはう ／ creep=音を立てずそろそろしのび寄る(crept) ／ run=走る ／ dash=ばっと勢いよく短く突進 ／ sprint=短い距離を全速力で ／ rush=勢いよく突進する ／ jog=ゆっくりのペースでとんとん走る ／ stumble=足が引っかかってつまずく(stumble across=偶然見つける) ／ trudge=重い足どりでとぼとぼ ／ tiptoe=音を立てずつま先でそっと ／ wade=水の中を押し分けてじゃぶじゃぶ ／ dart=矢のようにさっとすばやく",
       "words": [
         "walk",
         "stroll",
@@ -2344,7 +2344,13 @@
         "run",
         "dash",
         "sprint",
-        "rush"
+        "rush",
+        "jog",
+        "stumble",
+        "trudge",
+        "tiptoe",
+        "wade",
+        "dart"
       ]
     },
     {
@@ -3022,6 +3028,16 @@
         "crouch",
         "squat",
         "stoop"
+      ]
+    },
+    {
+      "title": "使い分け:跳ぶ・はねる",
+      "note": "jump=足でけってぱっと跳ぶ(広い) ／ leap=大きく弧をえがいて遠くへ・飛躍(leapt) ／ hop=片足・小さくぴょんぴょん ／ skip=軽くはずむ・ぴょんととばす(抜かす) ／ bounce=当たってぽんとはね返る",
+      "words": [
+        "jump",
+        "leap",
+        "hop",
+        "skip"
       ]
     },
     {

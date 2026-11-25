@@ -1,0 +1,98 @@
+{
+  "word": "jump",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/dʒʌmp/",
+  "core_image": {
+    "text": "足で地面をけって、ぱっと跳び上がる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"30\" r=\"10\"/><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"84\"/><line x1=\"120\" y1=\"84\" x2=\"110\" y2=\"118\"/><line x1=\"120\" y1=\"84\" x2=\"130\" y2=\"118\"/><path d=\"M100 140 Q120 120 140 140\" stroke-dasharray=\"3 3\"/><line x1=\"160\" y1=\"130\" x2=\"160\" y2=\"80\"/><polyline points=\"156.2,87 160,80 163.8,87\"/></g><text x=\"60\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぴょん</text></svg>"
+  },
+  "etymology": "足でけって跳ぶ → (びっくりして)飛び上がる → (数量が)はね上がる → jump to conclusions=結論を急ぐ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to push yourself off the ground with your legs; to move suddenly because of surprise; to increase suddenly."
+    },
+    {
+      "pos": "名詞",
+      "text": "an act of jumping; a sudden increase."
+    }
+  ],
+  "cautions": [
+    "jump=跳ぶ(いちばん広い)/leap=大きく遠くへ跳ぶ/hop=片足・小さくぴょん/skip=スキップ・とばす",
+    "jump to conclusions=早合点する",
+    "jump at A=A(機会)に飛びつく",
+    "prices jumped=物価がはね上がった"
+  ],
+  "patterns": [
+    {
+      "form": "jump over A",
+      "meaning": "Aを跳び越える"
+    },
+    {
+      "form": "jump at A",
+      "meaning": "Aに飛びつく"
+    },
+    {
+      "form": "jump to conclusions",
+      "meaning": "早合点する"
+    },
+    {
+      "form": "a jump in A",
+      "meaning": "Aの急増"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "跳び越える",
+      "en": "The dog jumped over the fence.",
+      "ja": "犬が柵を跳び越えた。"
+    },
+    {
+      "source": "original",
+      "label": "飛びつく",
+      "en": "She jumped at the chance to study abroad.",
+      "ja": "彼女は留学のチャンスに飛びついた。"
+    },
+    {
+      "source": "original",
+      "label": "早合点",
+      "en": "Don't jump to conclusions.",
+      "ja": "早合点するな。"
+    },
+    {
+      "source": "original",
+      "label": "飛び上がる",
+      "en": "I jumped when the phone rang.",
+      "ja": "電話が鳴って私は飛び上がった。"
+    },
+    {
+      "source": "original",
+      "label": "はね上がる",
+      "en": "Sales jumped by 20 percent.",
+      "ja": "売上が20%はね上がった。"
+    },
+    {
+      "source": "original",
+      "label": "急増",
+      "en": "There was a big jump in prices.",
+      "ja": "物価が大きくはね上がった。"
+    }
+  ],
+  "check_points": [
+    "jump at A と jump to conclusions の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "jump to conclusions、jump at the chance が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1739
+    }
+  ]
+}

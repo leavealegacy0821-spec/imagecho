@@ -1,0 +1,93 @@
+{
+  "word": "trudge",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/trʌdʒ/",
+  "core_image": {
+    "text": "重い足どりで、とぼとぼ歩く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"100\" cy=\"66\" r=\"10\"/><line x1=\"102\" y1=\"76\" x2=\"110\" y2=\"110\"/><line x1=\"110\" y1=\"110\" x2=\"100\" y2=\"140\"/><line x1=\"110\" y1=\"110\" x2=\"122\" y2=\"140\"/><line x1=\"106\" y1=\"88\" x2=\"96\" y2=\"110\"/><rect x=\"112\" y=\"80\" width=\"24\" height=\"26\"/><path d=\"M60 128 L64 140 M150 128 L154 140\" stroke-dasharray=\"2 2\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">とぼとぼ</text></svg>"
+  },
+  "etymology": "(疲れて・雪の中を)重い足どりで歩く → (名詞)長くつらい道のり",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to walk slowly with heavy steps because you are tired or the ground is difficult."
+    },
+    {
+      "pos": "名詞",
+      "text": "a long tiring walk."
+    }
+  ],
+  "cautions": [
+    "stroll=のんびりぶらぶら/trudge=疲れて重い足どりでとぼとぼ",
+    "trudge through the snow=雪の中を重い足どりで歩く",
+    "stagger=ふらふらよろめく/trudge=足が重い"
+  ],
+  "patterns": [
+    {
+      "form": "trudge through A",
+      "meaning": "Aの中を重い足どりで歩く"
+    },
+    {
+      "form": "trudge home",
+      "meaning": "とぼとぼ帰る"
+    },
+    {
+      "form": "trudge up A",
+      "meaning": "Aを重い足どりで登る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "とぼとぼ",
+      "en": "We trudged home after the long match.",
+      "ja": "長い試合のあと、私たちはとぼとぼ家に帰った。"
+    },
+    {
+      "source": "original",
+      "label": "雪の中",
+      "en": "They trudged through the deep snow.",
+      "ja": "彼らは深い雪の中を重い足どりで歩いた。"
+    },
+    {
+      "source": "original",
+      "label": "登る",
+      "en": "We trudged up the hill with heavy bags.",
+      "ja": "重いかばんをもって私たちは丘を登った。"
+    },
+    {
+      "source": "original",
+      "label": "足が重い",
+      "en": "I trudged to school in the rain.",
+      "ja": "雨の中、重い足どりで学校へ向かった。"
+    },
+    {
+      "source": "original",
+      "label": "つらい道のり",
+      "en": "It was a long trudge back to the hotel.",
+      "ja": "ホテルまで戻るのは長くつらい道のりだった。"
+    },
+    {
+      "source": "original",
+      "label": "疲れて",
+      "en": "The tired soldiers trudged on.",
+      "ja": "疲れた兵士たちは重い足どりで進み続けた。"
+    }
+  ],
+  "check_points": [
+    "stroll と trudge のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1745
+    }
+  ]
+}

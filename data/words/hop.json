@@ -1,0 +1,98 @@
+{
+  "word": "hop",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/hɑːp/",
+  "core_image": {
+    "text": "片足や両足で、ぴょんと小さく跳ぶ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"130\" r=\"6\"/><path d=\"M66 126 Q86 100 106 126\" stroke-dasharray=\"3 3\"/><circle cx=\"110\" cy=\"130\" r=\"6\"/><path d=\"M116 126 Q136 100 156 126\" stroke-dasharray=\"3 3\"/><circle cx=\"160\" cy=\"130\" r=\"6\"/></g><text x=\"110\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぴょんぴょん</text></svg>"
+  },
+  "etymology": "古い英語 hoppian(はねる・おどる) → 片足でぴょんと跳ぶ・(鳥・ウサギが)ぴょんぴょん跳ねる → (乗り物に)ひょいと乗る・(場所を)ちょっと移る",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to jump on one foot; (of a bird or animal) to move by jumping; to get on or off a vehicle quickly."
+    },
+    {
+      "pos": "名詞",
+      "text": "a short jump; a short trip."
+    }
+  ],
+  "cautions": [
+    "活用 hop - hopped - hopped(p を重ねる)",
+    "jump=跳ぶ/hop=片足で、または小さくぴょんぴょん",
+    "hop on [in] A=A(乗り物)にひょいと乗る",
+    "hope(望む)とつづりを混同しない(hoping と hopping)"
+  ],
+  "patterns": [
+    {
+      "form": "hop on one leg",
+      "meaning": "片足でけんけんする"
+    },
+    {
+      "form": "hop on [in] A",
+      "meaning": "Aにひょいと乗る"
+    },
+    {
+      "form": "hop off A",
+      "meaning": "Aからひょいと降りる"
+    },
+    {
+      "form": "a short hop",
+      "meaning": "ひとっ飛び(短い移動)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "けんけん",
+      "en": "The children hopped on one leg.",
+      "ja": "子どもたちは片足でけんけんした。"
+    },
+    {
+      "source": "original",
+      "label": "ぴょんぴょん",
+      "en": "A rabbit hopped across the road.",
+      "ja": "ウサギが道をぴょんぴょん横切った。"
+    },
+    {
+      "source": "original",
+      "label": "ひょいと乗る",
+      "en": "Hop in! I'll drive you home.",
+      "ja": "乗って!家まで送るよ。"
+    },
+    {
+      "source": "original",
+      "label": "降りる",
+      "en": "He hopped off the bus.",
+      "ja": "彼はバスからひょいと降りた。"
+    },
+    {
+      "source": "original",
+      "label": "つづり",
+      "en": "She was hopping around the room with joy.",
+      "ja": "彼女はうれしくて部屋の中を跳ね回っていた。"
+    },
+    {
+      "source": "original",
+      "label": "短い移動",
+      "en": "It's just a short hop from Tokyo to Osaka by plane.",
+      "ja": "飛行機なら東京から大阪はひとっ飛びだ。"
+    }
+  ],
+  "check_points": [
+    "hopping と hoping のちがいがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "hopping / hoping のつづりが出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1741
+    }
+  ]
+}
