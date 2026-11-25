@@ -1,0 +1,98 @@
+{
+  "word": "job",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/dʒɑːb/",
+  "core_image": {
+    "text": "お金をもらってする、ひとまとまりの仕事",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"100\" y2=\"84\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><rect x=\"104\" y=\"76\" width=\"40\" height=\"30\"/><line x1=\"116\" y1=\"76\" x2=\"116\" y2=\"70\"/><line x1=\"132\" y1=\"76\" x2=\"132\" y2=\"70\"/><line x1=\"116\" y1=\"70\" x2=\"132\" y2=\"70\"/></g><text x=\"180\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">勤め口</text></svg>"
+  },
+  "etymology": "ひとまとまりの仕事 → 勤め口・職(数えられる) → (やるべき)役目・務め(It's my job to …) → いい仕事ぶり(Good job!)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the regular work that you do for money; a particular piece of work; a responsibility or duty."
+    }
+  ],
+  "cautions": [
+    "work=仕事(不可算・広い)/job=1つの勤め口・ひと仕事(可算:a job, two jobs)",
+    "get [find] a job / lose one's job / a part-time job",
+    "It's A's job to do=〜するのはAの役目だ",
+    "do a good job=うまくやる(Good job!=よくやった)"
+  ],
+  "patterns": [
+    {
+      "form": "get a job",
+      "meaning": "職を得る"
+    },
+    {
+      "form": "lose one's job",
+      "meaning": "職を失う"
+    },
+    {
+      "form": "a part-time job",
+      "meaning": "アルバイト"
+    },
+    {
+      "form": "It's A's job to do",
+      "meaning": "〜するのはAの役目だ"
+    },
+    {
+      "form": "do a good job",
+      "meaning": "うまくやる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "職",
+      "en": "My brother got a job at a bank.",
+      "ja": "兄は銀行に就職した。"
+    },
+    {
+      "source": "original",
+      "label": "職を失う",
+      "en": "Many people lost their jobs during the crisis.",
+      "ja": "その危機の間、多くの人が職を失った。"
+    },
+    {
+      "source": "original",
+      "label": "アルバイト",
+      "en": "I have a part-time job at a convenience store.",
+      "ja": "コンビニでアルバイトをしている。"
+    },
+    {
+      "source": "original",
+      "label": "役目",
+      "en": "It's the teacher's job to keep students safe.",
+      "ja": "生徒の安全を守るのは先生の役目だ。"
+    },
+    {
+      "source": "original",
+      "label": "よくやった",
+      "en": "You did a great job on the presentation.",
+      "ja": "発表、とてもよくできていたよ。"
+    },
+    {
+      "source": "original",
+      "label": "ひと仕事",
+      "en": "Painting the house was a big job.",
+      "ja": "家のペンキ塗りは大仕事だった。"
+    }
+  ],
+  "check_points": [
+    "work と job の可算・不可算のちがいを言えるか",
+    "It's A's job to do の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "work(不可算)と job(可算)の区別が文法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1151
+    }
+  ]
+}

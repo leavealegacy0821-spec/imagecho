@@ -1,0 +1,98 @@
+{
+  "word": "task",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/tæsk/",
+  "core_image": {
+    "text": "割り当てられた、やるべき一つの作業",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"30\" width=\"120\" height=\"100\"/><rect x=\"74\" y=\"46\" width=\"12\" height=\"12\"/><polyline points=\"76,52 80,56 86,48\"/><line x1=\"96\" y1=\"52\" x2=\"160\" y2=\"52\"/><rect x=\"74\" y=\"72\" width=\"12\" height=\"12\"/><line x1=\"96\" y1=\"78\" x2=\"160\" y2=\"78\"/><rect x=\"74\" y=\"98\" width=\"12\" height=\"12\"/><line x1=\"96\" y1=\"104\" x2=\"160\" y2=\"104\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やること</text></svg>"
+  },
+  "etymology": "ラテン語 taxa(税として課されたもの。tax と同じ根) → 課された仕事・割り当て → (やるべき)作業・課題・任務 → take A to task=Aをしかる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a piece of work that must be done, especially a difficult or unpleasant one."
+    }
+  ],
+  "cautions": [
+    "job=仕事(勤め口・ひと仕事)/task=割り当てられた一つの作業・課題(具体的・しばしば大変)",
+    "a difficult [simple] task=難しい[単純な]作業",
+    "perform [carry out] a task=作業を行う",
+    "take A to task (for B)=(Bのことで)Aをしかる"
+  ],
+  "patterns": [
+    {
+      "form": "a task",
+      "meaning": "作業・課題"
+    },
+    {
+      "form": "perform a task",
+      "meaning": "作業をこなす"
+    },
+    {
+      "form": "the task of doing",
+      "meaning": "〜するという仕事"
+    },
+    {
+      "form": "take A to task",
+      "meaning": "Aをしかる"
+    },
+    {
+      "form": "multitask",
+      "meaning": "同時にいくつもこなす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "作業",
+      "en": "Robots can perform simple tasks in factories.",
+      "ja": "ロボットは工場で単純な作業をこなせる。"
+    },
+    {
+      "source": "original",
+      "label": "仕事",
+      "en": "Cleaning the whole house is a difficult task.",
+      "ja": "家じゅうの掃除は大変な仕事だ。"
+    },
+    {
+      "source": "original",
+      "label": "仕事",
+      "en": "I was given the task of writing the report.",
+      "ja": "私は報告書を書く仕事を任された。"
+    },
+    {
+      "source": "original",
+      "label": "しかる",
+      "en": "The coach took the players to task for being lazy.",
+      "ja": "コーチは怠けた選手たちをしかった。"
+    },
+    {
+      "source": "original",
+      "label": "課題",
+      "en": "Finish each task before moving on to the next.",
+      "ja": "次へ進む前にそれぞれの課題を終わらせなさい。"
+    },
+    {
+      "source": "original",
+      "label": "同時にこなす",
+      "en": "Many people try to multitask, but it is not efficient.",
+      "ja": "多くの人がいくつものことを同時にこなそうとするが、効率的ではない。"
+    }
+  ],
+  "check_points": [
+    "job と task のちがいを言えるか",
+    "take A to task の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "task(作業・課題)が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1155
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "mission",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈmɪʃn/",
+  "core_image": {
+    "text": "使命をおびて、遠くへ送り出される務め",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"62\" y2=\"96\"/><line x1=\"70\" y1=\"80\" x2=\"180\" y2=\"80\"/><polyline points=\"173,76.2 180,80 173,83.8\"/><polygon points=\"190,40 194,52 206,52 196,60 200,72 190,64 180,72 184,60 174,52 186,52\"/></g><text x=\"124\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">送り出す</text></svg>"
+  },
+  "etymology": "ラテン語 mittere(送る。send:mission・transmit・permit と同じ根) → 送り出すこと → (特別な目的で)派遣された仕事=任務・使命 → 使節団・伝道(missionary=宣教師)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an important official job that someone is sent somewhere to do; a strong feeling that you must do something; a group sent to another country."
+    }
+  ],
+  "cautions": [
+    "task=作業/mission=特別な目的で送り出されて果たす任務・使命(重大さ・目的意識が強い)",
+    "a mission to the moon=月への飛行任務/a rescue mission=救出任務",
+    "one's mission in life=人生の使命",
+    "mission statement=(会社などの)理念・目的の宣言"
+  ],
+  "patterns": [
+    {
+      "form": "a mission to A",
+      "meaning": "Aへの任務・派遣"
+    },
+    {
+      "form": "on a mission",
+      "meaning": "任務で"
+    },
+    {
+      "form": "a rescue mission",
+      "meaning": "救出作戦"
+    },
+    {
+      "form": "A's mission in life",
+      "meaning": "Aの人生の使命"
+    },
+    {
+      "form": "accomplish a mission",
+      "meaning": "任務を果たす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "任務",
+      "en": "The astronauts completed their mission to the space station.",
+      "ja": "宇宙飛行士たちは宇宙ステーションでの任務を果たした。"
+    },
+    {
+      "source": "original",
+      "label": "救出作戦",
+      "en": "A rescue mission was sent to the mountain.",
+      "ja": "山へ救出隊が送られた。"
+    },
+    {
+      "source": "original",
+      "label": "使命",
+      "en": "Her mission in life is to help poor children.",
+      "ja": "彼女の人生の使命は貧しい子どもたちを助けることだ。"
+    },
+    {
+      "source": "original",
+      "label": "任務で",
+      "en": "He went to China on a special mission.",
+      "ja": "彼は特別な任務を帯びて中国へ行った。"
+    },
+    {
+      "source": "original",
+      "label": "使節団",
+      "en": "A trade mission visited Japan last month.",
+      "ja": "先月、貿易使節団が日本を訪れた。"
+    },
+    {
+      "source": "original",
+      "label": "宣教師",
+      "en": "The school was built by missionaries.",
+      "ja": "その学校は宣教師たちによって建てられた。"
+    }
+  ],
+  "check_points": [
+    "task と mission のちがいを言えるか",
+    "mission の mit(送る)のつながりがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "mission(任務・使命)が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1160
+    }
+  ]
+}

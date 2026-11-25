@@ -1,0 +1,98 @@
+{
+  "word": "employment",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ɪmˈplɔɪmənt/",
+  "core_image": {
+    "text": "雇われて、仕事の中に組みこまれている状態",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"110\" y=\"50\" width=\"100\" height=\"90\"/><line x1=\"110\" y1=\"80\" x2=\"210\" y2=\"80\"/><line x1=\"110\" y1=\"110\" x2=\"210\" y2=\"110\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"90\" x2=\"104\" y2=\"90\"/><polyline points=\"97,86.2 104,90 97,93.8\"/></g><text x=\"60\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">雇われる</text></svg>"
+  },
+  "etymology": "employ(雇う。em=中へ+ploy=折りこむ:仕事の中に組みこむ)の名詞 → 雇うこと・雇われていること=雇用・就職 → unemployment=失業",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the fact of having a paid job; the act of giving someone a job; the number of people who have jobs."
+    }
+  ],
+  "cautions": [
+    "employ=雇う/employer=雇い主/employee=従業員/employment=雇用・勤め",
+    "unemployment=失業・失業率(the unemployment rate)は長文・グラフで最頻出",
+    "find employment=職を得る(=find a job の堅い言い方)",
+    "full-time [part-time] employment=常勤[非常勤]の仕事"
+  ],
+  "patterns": [
+    {
+      "form": "find employment",
+      "meaning": "職を得る"
+    },
+    {
+      "form": "the employment rate",
+      "meaning": "就業率"
+    },
+    {
+      "form": "unemployment",
+      "meaning": "失業"
+    },
+    {
+      "form": "the unemployment rate",
+      "meaning": "失業率"
+    },
+    {
+      "form": "employment opportunities",
+      "meaning": "雇用の機会"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "職を得る",
+      "en": "He found employment at a local factory.",
+      "ja": "彼は地元の工場で職を得た。"
+    },
+    {
+      "source": "original",
+      "label": "雇用",
+      "en": "The new factory will create employment for 500 people.",
+      "ja": "新しい工場で500人分の雇用が生まれる。"
+    },
+    {
+      "source": "original",
+      "label": "失業率",
+      "en": "The unemployment rate rose to 5 percent.",
+      "ja": "失業率は5%に上がった。"
+    },
+    {
+      "source": "original",
+      "label": "雇用の機会",
+      "en": "Young people in rural areas have few employment opportunities.",
+      "ja": "地方の若者には雇用の機会が少ない。"
+    },
+    {
+      "source": "original",
+      "label": "従業員",
+      "en": "The company has 300 employees.",
+      "ja": "その会社には300人の従業員がいる。"
+    },
+    {
+      "source": "original",
+      "label": "雇い主",
+      "en": "My employer pays for my train ticket.",
+      "ja": "雇い主が電車代を払ってくれる。"
+    }
+  ],
+  "check_points": [
+    "employer と employee のちがいを言えるか",
+    "unemployment rate の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "unemployment(失業率)、employer / employee の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1157
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "assignment",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/əˈsaɪnmənt/",
+  "core_image": {
+    "text": "しるしを付けて、割り振られた仕事・課題",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"80\" y2=\"70\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"96\"/><rect x=\"84\" y=\"60\" width=\"30\" height=\"20\"/><line x1=\"120\" y1=\"70\" x2=\"150\" y2=\"70\"/><polyline points=\"143,66.2 150,70 143,73.8\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"168\" y2=\"96\"/><line x1=\"180\" y1=\"74\" x2=\"192\" y2=\"96\"/></g><text x=\"110\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">割り振る</text></svg>"
+  },
+  "etymology": "assign(割り当てる。as=〜へ+sign=しるし:しるしを付けて振り分ける)の名詞 → 割り当てられた仕事 → (学校の)宿題・課題/(仕事の)任務・派遣",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a piece of work given to someone as part of their studies or job; the act of giving someone a job or task."
+    }
+  ],
+  "cautions": [
+    "homework=宿題(不可算)/assignment=割り当てられた個々の課題・レポート(可算)",
+    "be on assignment=任務・派遣中である(記者など)",
+    "assign A to B / assign B A=AをBに割り当てる",
+    "task とも近いが、assignment は「(誰かから)割り振られた」点を強調"
+  ],
+  "patterns": [
+    {
+      "form": "an assignment",
+      "meaning": "課題"
+    },
+    {
+      "form": "hand in an assignment",
+      "meaning": "課題を提出する"
+    },
+    {
+      "form": "give A an assignment",
+      "meaning": "Aに課題を出す"
+    },
+    {
+      "form": "be on assignment",
+      "meaning": "任務中である"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "課題",
+      "en": "I have to finish my English assignment by Friday.",
+      "ja": "金曜までに英語の課題を終えなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "提出する",
+      "en": "Please hand in your assignments at the end of class.",
+      "ja": "授業の終わりに課題を提出してください。"
+    },
+    {
+      "source": "original",
+      "label": "課題を出す",
+      "en": "The teacher gave us a difficult assignment.",
+      "ja": "先生は私たちに難しい課題を出した。"
+    },
+    {
+      "source": "original",
+      "label": "任務",
+      "en": "The journalist was sent to Africa on assignment.",
+      "ja": "その記者は取材任務でアフリカへ派遣された。"
+    },
+    {
+      "source": "original",
+      "label": "仕事",
+      "en": "Her first assignment was to interview the mayor.",
+      "ja": "彼女の最初の仕事は市長へのインタビューだった。"
+    },
+    {
+      "source": "original",
+      "label": "割り当てる",
+      "en": "Each student was assigned a different topic.",
+      "ja": "生徒はそれぞれ別のテーマを割り当てられた。"
+    }
+  ],
+  "check_points": [
+    "homework と assignment の可算・不可算がわかるか",
+    "assign との関係がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "assignment(課題)、hand in が会話・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1159
+    }
+  ]
+}

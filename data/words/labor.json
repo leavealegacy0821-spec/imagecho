@@ -1,0 +1,103 @@
+{
+  "word": "labor",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈleɪbər/",
+  "core_image": {
+    "text": "体を使って、骨折ってする労働",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"100\" y2=\"56\"/><line x1=\"70\" y1=\"74\" x2=\"96\" y2=\"68\"/><line x1=\"96\" y1=\"40\" x2=\"136\" y2=\"100\"/><polygon points=\"130,100 150,96 146,116\"/><rect x=\"150\" y=\"116\" width=\"50\" height=\"24\"/></g><text x=\"180\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">骨折る</text></svg>"
+  },
+  "etymology": "ラテン語 labor(骨折り・苦労) → 体を使う苦しい仕事=労働 → 労働者たち・労働力 → (女性の)出産の苦しみ=陣痛 → laborious=骨の折れる/laboratory=作業する場所=実験室",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "work, especially physical work; workers as a group; the process of giving birth."
+    },
+    {
+      "pos": "動詞",
+      "text": "to work hard; to try very hard to do something."
+    }
+  ],
+  "cautions": [
+    "work=仕事(広い)/labor=骨の折れる(体の)労働・労働力(不可算)",
+    "labor shortage=人手不足/cheap labor=安い労働力/manual labor=肉体労働",
+    "be in labor=陣痛が始まっている(出産)",
+    "イギリス英語は labour。laboratory(実験室)も同じ根"
+  ],
+  "patterns": [
+    {
+      "form": "manual labor",
+      "meaning": "肉体労働"
+    },
+    {
+      "form": "a labor shortage",
+      "meaning": "人手不足"
+    },
+    {
+      "form": "cheap labor",
+      "meaning": "安い労働力"
+    },
+    {
+      "form": "be in labor",
+      "meaning": "陣痛中である"
+    },
+    {
+      "form": "labor to do",
+      "meaning": "懸命に〜しようとする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "労働",
+      "en": "Farming involves a lot of hard labor.",
+      "ja": "農業には多くの重労働がともなう。"
+    },
+    {
+      "source": "original",
+      "label": "人手不足",
+      "en": "Japan is facing a serious labor shortage.",
+      "ja": "日本は深刻な人手不足に直面している。"
+    },
+    {
+      "source": "original",
+      "label": "労働力",
+      "en": "Some companies moved their factories abroad to use cheap labor.",
+      "ja": "安い労働力を使うために工場を海外に移した会社もある。"
+    },
+    {
+      "source": "original",
+      "label": "陣痛",
+      "en": "My aunt was in labor for ten hours.",
+      "ja": "おばは10時間陣痛が続いた。"
+    },
+    {
+      "source": "original",
+      "label": "懸命に",
+      "en": "He labored to finish the work before the deadline.",
+      "ja": "彼は締め切り前に仕事を終えようと懸命に働いた。"
+    },
+    {
+      "source": "original",
+      "label": "骨の折れる",
+      "en": "Copying the old documents by hand was laborious.",
+      "ja": "古い書類を手で写すのは骨の折れる作業だった。"
+    }
+  ],
+  "check_points": [
+    "labor shortage の意味を言えるか",
+    "be in labor の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "labor shortage、cheap labor が社会系の長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1156
+    }
+  ]
+}

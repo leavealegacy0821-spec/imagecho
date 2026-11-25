@@ -1,0 +1,94 @@
+{
+  "word": "occupation",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˌɑːkjuˈpeɪʃn/",
+  "core_image": {
+    "text": "時間と身を占めている、職業という枠",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"30\" width=\"160\" height=\"100\"/><rect x=\"40\" y=\"30\" width=\"110\" height=\"100\"/><line x1=\"60\" y1=\"60\" x2=\"130\" y2=\"60\"/><line x1=\"60\" y1=\"80\" x2=\"130\" y2=\"80\"/><line x1=\"60\" y1=\"100\" x2=\"110\" y2=\"100\"/></g><text x=\"176\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">占める</text></svg>"
+  },
+  "etymology": "occupy(占める。oc=すっかり+cupy=つかむ)の名詞 → (時間・身を)占めているもの=職業 → (場所・国の)占領・占有",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a job or profession (a formal word, often used on forms); the act of taking control of a place."
+    }
+  ],
+  "cautions": [
+    "job=勤め口(日常)/occupation=職業(書類・正式な場面で使う「職業欄」の語)",
+    "Occupation: student=職業:学生(申込書など)",
+    "(軍による)占領の意味もある:the occupation of the country",
+    "動詞 occupy=占める・占領する/be occupied with A=Aで忙しい"
+  ],
+  "patterns": [
+    {
+      "form": "A's occupation",
+      "meaning": "Aの職業"
+    },
+    {
+      "form": "by occupation",
+      "meaning": "職業は"
+    },
+    {
+      "form": "the occupation of A",
+      "meaning": "Aの占領"
+    },
+    {
+      "form": "an occupation",
+      "meaning": "職業"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "職業",
+      "en": "Please write your name, age and occupation.",
+      "ja": "名前・年齢・職業を書いてください。"
+    },
+    {
+      "source": "original",
+      "label": "職業は",
+      "en": "He is a lawyer by occupation.",
+      "ja": "彼は職業は弁護士だ。"
+    },
+    {
+      "source": "original",
+      "label": "職業",
+      "en": "Nursing is a demanding occupation.",
+      "ja": "看護はきつい職業だ。"
+    },
+    {
+      "source": "original",
+      "label": "占領",
+      "en": "The occupation of the city lasted five years.",
+      "ja": "その都市の占領は5年続いた。"
+    },
+    {
+      "source": "original",
+      "label": "職業",
+      "en": "What is your father's occupation?",
+      "ja": "お父さんのご職業は何ですか。"
+    },
+    {
+      "source": "original",
+      "label": "仕事",
+      "en": "Fishing has been the main occupation of the village for centuries.",
+      "ja": "漁業は何世紀もの間その村の主な仕事だった。"
+    }
+  ],
+  "check_points": [
+    "job と occupation のちがいを言えるか",
+    "occupation の「占領」の意味がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "職業(正式)と占領の訳し分けが出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1152
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "chore",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/tʃɔːr/",
+  "core_image": {
+    "text": "毎日くり返す、ちょっと面倒な雑用",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"100\" y2=\"80\"/><line x1=\"70\" y1=\"74\" x2=\"96\" y2=\"96\"/><line x1=\"96\" y1=\"60\" x2=\"120\" y2=\"136\"/><line x1=\"112\" y1=\"136\" x2=\"132\" y2=\"136\"/><path d=\"M150 80 a20 20 0 1 1 0 0.1\"/></g><text x=\"190\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">毎日の雑用</text></svg>"
+  },
+  "etymology": "古い英語 cierr(ちょっとした仕事・用事) → 日々の決まった雑用 → household chores=家事 → (口語)面倒な仕事",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a task that you do regularly, often at home; a boring or unpleasant task."
+    }
+  ],
+  "cautions": [
+    "task=割り当てられた作業/chore=(家などで)毎日くり返すちょっとした雑用",
+    "household chores [housework]=家事(housework は不可算、chores は可算)",
+    "do the chores=家事をする",
+    "a chore=面倒なこと(It's a real chore.)"
+  ],
+  "patterns": [
+    {
+      "form": "household chores",
+      "meaning": "家事"
+    },
+    {
+      "form": "do the chores",
+      "meaning": "家事をする"
+    },
+    {
+      "form": "share the chores",
+      "meaning": "家事を分担する"
+    },
+    {
+      "form": "a chore",
+      "meaning": "面倒な仕事"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "家事",
+      "en": "My brother and I share the household chores.",
+      "ja": "兄と私は家事を分担している。"
+    },
+    {
+      "source": "original",
+      "label": "家事をする",
+      "en": "I have to do the chores before I go out.",
+      "ja": "出かける前に家事をしなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "雑用",
+      "en": "Washing the dishes is my least favorite chore.",
+      "ja": "皿洗いはいちばん嫌いな家事だ。"
+    },
+    {
+      "source": "original",
+      "label": "面倒なこと",
+      "en": "Writing reports every day is a real chore.",
+      "ja": "毎日報告書を書くのは本当に面倒だ。"
+    },
+    {
+      "source": "original",
+      "label": "家事",
+      "en": "Children should help with chores at home.",
+      "ja": "子どもは家の手伝いをするべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "雑用",
+      "en": "Robots may do many daily chores in the future.",
+      "ja": "将来、ロボットが日々の多くの雑用をするかもしれない。"
+    }
+  ],
+  "check_points": [
+    "household chores の意味を言えるか",
+    "chores と housework の可算・不可算がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "household chores が長文・英作文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1158
+    }
+  ]
+}

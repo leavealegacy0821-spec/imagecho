@@ -1,0 +1,94 @@
+{
+  "word": "profession",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/prəˈfeʃn/",
+  "core_image": {
+    "text": "専門の知識を、人前で誓って身につけた職",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"100\" y2=\"56\"/><line x1=\"120\" y1=\"74\" x2=\"140\" y2=\"90\"/><rect x=\"40\" y=\"40\" width=\"40\" height=\"50\"/><line x1=\"48\" y1=\"54\" x2=\"72\" y2=\"54\"/><line x1=\"48\" y1=\"66\" x2=\"72\" y2=\"66\"/><line x1=\"48\" y1=\"78\" x2=\"64\" y2=\"78\"/></g><text x=\"190\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">専門職</text></svg>"
+  },
+  "etymology": "profess(公言する。pro=前で+fess=言う:confess と同じ) の名詞 → (誓いを)公に宣言すること → 誓いを立てて就く仕事 → 専門的な知識を要する職業(医師・弁護士・教師) → professional=専門職の・プロの",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a type of job that needs special training or skill, especially one that needs a high level of education; the people who do it."
+    }
+  ],
+  "cautions": [
+    "job=仕事(一般)/profession=専門知識・資格が必要な職業(the medical [legal] profession)",
+    "by profession=職業は(=by occupation)",
+    "professional=専門職の・プロの(⇔ amateur)",
+    "the profession=その職業の人々(全体)"
+  ],
+  "patterns": [
+    {
+      "form": "the medical profession",
+      "meaning": "医療職・医師たち"
+    },
+    {
+      "form": "by profession",
+      "meaning": "職業は"
+    },
+    {
+      "form": "enter a profession",
+      "meaning": "ある職業に就く"
+    },
+    {
+      "form": "professional",
+      "meaning": "専門の・プロの"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "専門職",
+      "en": "Teaching is a rewarding profession.",
+      "ja": "教職はやりがいのある専門職だ。"
+    },
+    {
+      "source": "original",
+      "label": "職業は",
+      "en": "She is a doctor by profession.",
+      "ja": "彼女は職業は医師だ。"
+    },
+    {
+      "source": "original",
+      "label": "医療職",
+      "en": "The medical profession is facing a shortage of nurses.",
+      "ja": "医療界は看護師不足に直面している。"
+    },
+    {
+      "source": "original",
+      "label": "就く",
+      "en": "He decided to enter the legal profession.",
+      "ja": "彼は法律の仕事に就くことに決めた。"
+    },
+    {
+      "source": "original",
+      "label": "プロの",
+      "en": "You should ask for professional advice.",
+      "ja": "専門家の助言を求めるべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "プロ",
+      "en": "He became a professional soccer player.",
+      "ja": "彼はプロのサッカー選手になった。"
+    }
+  ],
+  "check_points": [
+    "job と profession のちがいを言えるか",
+    "by profession の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "profession / professional が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1153
+    }
+  ]
+}
