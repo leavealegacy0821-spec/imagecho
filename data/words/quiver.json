@@ -1,0 +1,95 @@
+{
+  "word": "quiver",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈkwɪvər/",
+  "core_image": {
+    "text": "唇や葉が、かすかにぴくぴくふるえる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"70\" y1=\"140\" x2=\"70\" y2=\"70\"/><path d=\"M70 70 Q50 50 70 30 Q90 50 70 70\"/><line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"36\"/><path d=\"M44 44 L40 48 L44 52\"/><path d=\"M96 44 L100 48 L96 52\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"156\" y2=\"100\"/><line x1=\"170\" y1=\"74\" x2=\"184\" y2=\"100\"/><path d=\"M164 57 Q167 55 170 57 Q173 55 176 57\"/></g><text x=\"70\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぴくぴく</text><text x=\"214\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">唇</text></svg>"
+  },
+  "etymology": "古い英語 cwifer(すばやい) → すばやく小刻みに動く → (唇・葉・声・弓の弦が)かすかにふるえる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to shake slightly with small, quick movements, often because of strong emotion."
+    },
+    {
+      "pos": "名詞",
+      "text": "a slight trembling movement or sound."
+    }
+  ],
+  "cautions": [
+    "主語は「細いもの・小さいもの」(唇・まぶた・葉・声・ひげ)が多い",
+    "tremble=体全体が小刻みに/quiver=一部分がかすかにぴくぴく(感情をこらえている感じ)",
+    "quiver with emotion / rage=感情・怒りでふるえる",
+    "名詞 quiver には別語源で「矢筒」の意味もある"
+  ],
+  "patterns": [
+    {
+      "form": "A's lips quiver",
+      "meaning": "唇がふるえる"
+    },
+    {
+      "form": "quiver with A",
+      "meaning": "Aでふるえる"
+    },
+    {
+      "form": "a quiver of A",
+      "meaning": "かすかなAのふるえ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "唇",
+      "en": "Her lips quivered, and she began to cry.",
+      "ja": "彼女の唇がふるえ、泣き出した。"
+    },
+    {
+      "source": "original",
+      "label": "葉",
+      "en": "The leaves quivered in the gentle breeze.",
+      "ja": "そよ風に葉がかすかにふるえた。"
+    },
+    {
+      "source": "original",
+      "label": "感情",
+      "en": "His voice quivered with emotion as he thanked everyone.",
+      "ja": "みんなにお礼を言うとき、彼の声は感情でふるえた。"
+    },
+    {
+      "source": "original",
+      "label": "動物",
+      "en": "The rabbit sat still, its nose quivering.",
+      "ja": "ウサギは鼻をぴくぴくさせてじっと座っていた。"
+    },
+    {
+      "source": "original",
+      "label": "弓の弦",
+      "en": "The arrow hit the target and quivered there.",
+      "ja": "矢は的に当たり、そこでふるえていた。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "I felt a quiver of excitement as the curtain rose.",
+      "ja": "幕が上がると、私はかすかな興奮のふるえを感じた。"
+    }
+  ],
+  "check_points": [
+    "quiver の主語になりやすいもの(唇・葉など)を言えるか",
+    "tremble と quiver のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文で「唇・声がふるえる」の意味で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1982
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "word": "quake",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/kweɪk/",
+  "core_image": {
+    "text": "大地や建物が、ぐらぐらと大きくゆれる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"70\" width=\"44\" height=\"70\"/><line x1=\"52\" y1=\"84\" x2=\"62\" y2=\"84\"/><line x1=\"52\" y1=\"104\" x2=\"62\" y2=\"104\"/><path d=\"M90 74 L96 80 L90 86\"/><path d=\"M34 74 L28 80 L34 86\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><polyline points=\"170,74 156,62 152,48\"/><polyline points=\"170,74 184,62 188,48\"/><path d=\"M110 140 L120 132 L130 140 L140 132 L150 140\"/></g><text x=\"62\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぐらぐら</text></svg>"
+  },
+  "etymology": "古い英語 cwacian(ゆれる) → 大地や建物が大きくゆれる → (人が恐怖で)がたがたふるえる → earthquake=大地のゆれ=地震",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "(of the ground or a building) to shake violently; (of a person) to shake because of fear."
+    },
+    {
+      "pos": "名詞",
+      "text": "an earthquake."
+    }
+  ],
+  "cautions": [
+    "earthquake の quake=ゆれる。名詞 quake だけで「地震」の意味になる",
+    "shake=ゆさぶる(一般)/quake=地面・建物が大きくゆれる・人がこわくてがたがたふるえる",
+    "quake with fear=恐怖でがたがたふるえる(tremble より大げさ)",
+    "quake in one's boots=(こわくて)びくびくする"
+  ],
+  "patterns": [
+    {
+      "form": "quake with fear",
+      "meaning": "恐怖でがたがたふるえる"
+    },
+    {
+      "form": "the ground quakes",
+      "meaning": "地面がゆれる"
+    },
+    {
+      "form": "quake in one's boots",
+      "meaning": "びくびくする"
+    },
+    {
+      "form": "a major quake",
+      "meaning": "大地震"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "地面",
+      "en": "The ground quaked as the volcano erupted.",
+      "ja": "火山が噴火すると地面がぐらぐらゆれた。"
+    },
+    {
+      "source": "original",
+      "label": "建物",
+      "en": "The whole house quaked when the train went by.",
+      "ja": "電車が通ると家全体がゆれた。"
+    },
+    {
+      "source": "original",
+      "label": "恐怖",
+      "en": "The children quaked with fear during the storm.",
+      "ja": "嵐の間、子どもたちは恐怖でがたがたふるえていた。"
+    },
+    {
+      "source": "original",
+      "label": "びくびく",
+      "en": "The players were quaking in their boots before the final.",
+      "ja": "決勝の前、選手たちはびくびくしていた。"
+    },
+    {
+      "source": "original",
+      "label": "名詞(地震)",
+      "en": "The quake destroyed hundreds of buildings.",
+      "ja": "その地震で何百もの建物が壊れた。"
+    },
+    {
+      "source": "original",
+      "label": "earthquake",
+      "en": "Japan has many earthquakes every year.",
+      "ja": "日本では毎年たくさんの地震が起きる。"
+    }
+  ],
+  "check_points": [
+    "名詞 quake の意味(地震)を言えるか",
+    "quake と shake のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で名詞 quake(=地震)として出ることが多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1983
+    }
+  ]
+}

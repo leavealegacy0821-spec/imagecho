@@ -1,0 +1,99 @@
+{
+  "word": "ridicule",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈrɪdɪkjuːl/",
+  "core_image": {
+    "text": "指をさして、みんなで笑いものにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"108\" y2=\"100\"/><line x1=\"120\" y1=\"74\" x2=\"132\" y2=\"100\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><polyline points=\"40,74 66,70 80,66\"/><line x1=\"40\" y1=\"74\" x2=\"30\" y2=\"100\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><polyline points=\"200,74 174,70 160,66\"/><line x1=\"200\" y1=\"74\" x2=\"210\" y2=\"100\"/></g><text x=\"40\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ははは</text><text x=\"200\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ははは</text></svg>"
+  },
+  "etymology": "ラテン語 ridere(笑う。ridiculous=ばかげた と同じ根) → 笑う対象にする → あざ笑う・嘲笑(名詞)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to laugh at someone or something in an unkind way and make them seem stupid."
+    },
+    {
+      "pos": "名詞",
+      "text": "unkind words or actions that make someone or something look stupid."
+    }
+  ],
+  "cautions": [
+    "ridiculous(ばかげた)と同じ根。ridicule=笑いものにする",
+    "名詞 ridicule は不可算(be an object of ridicule=物笑いの種になる)",
+    "mock=まねてあざける/ridicule=考え・人を公然と笑いものにする/scorn=見下して相手にしない",
+    "face ridicule=笑いものにされる(新しい考え・発明が最初はばかにされた、という長文の定番)"
+  ],
+  "patterns": [
+    {
+      "form": "ridicule A",
+      "meaning": "Aを笑いものにする"
+    },
+    {
+      "form": "be ridiculed",
+      "meaning": "笑いものにされる"
+    },
+    {
+      "form": "face ridicule",
+      "meaning": "嘲笑を受ける"
+    },
+    {
+      "form": "an object of ridicule",
+      "meaning": "物笑いの種"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "笑いものにする",
+      "en": "They ridiculed his idea at the meeting.",
+      "ja": "彼らは会議で彼の考えを笑いものにした。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "At first, the scientist was ridiculed by other researchers.",
+      "ja": "最初、その科学者はほかの研究者たちに笑いものにされた。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "His new theory faced ridicule for many years.",
+      "ja": "彼の新しい理論は何年も嘲笑を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "恐れ",
+      "en": "Many students are afraid of ridicule, so they don't ask questions.",
+      "ja": "笑われるのがこわくて、質問しない学生が多い。"
+    },
+    {
+      "source": "original",
+      "label": "物笑いの種",
+      "en": "The poor plan became an object of ridicule.",
+      "ja": "そのお粗末な計画は物笑いの種になった。"
+    },
+    {
+      "source": "original",
+      "label": "ridiculous",
+      "en": "It's ridiculous to pay so much for a T-shirt.",
+      "ja": "Tシャツ1枚にそんなに払うのはばかげている。"
+    }
+  ],
+  "check_points": [
+    "ridicule と ridiculous のつながりを言えるか",
+    "名詞 ridicule が不可算であることを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文で「(新しい考えが)嘲笑された」の流れで出る。ridiculous との関係も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1986
+    }
+  ]
+}

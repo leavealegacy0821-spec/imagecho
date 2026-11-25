@@ -1,0 +1,95 @@
+{
+  "word": "tease",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/tiːz/",
+  "core_image": {
+    "text": "ちょっかいを出して、相手をいじる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"80\" y1=\"74\" x2=\"68\" y2=\"100\"/><polyline points=\"80,74 104,80 120,74\"/><line x1=\"120\" y1=\"74\" x2=\"128\" y2=\"70\"/><circle cx=\"160\" cy=\"52\" r=\"10\"/><line x1=\"160\" y1=\"62\" x2=\"160\" y2=\"106\"/><line x1=\"160\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"160\" y1=\"74\" x2=\"148\" y2=\"100\"/><line x1=\"160\" y1=\"74\" x2=\"172\" y2=\"100\"/></g><text x=\"80\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ねえねえ</text><text x=\"200\" y=\"32\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もう!</text></svg>"
+  },
+  "etymology": "古い英語 tǣsan(羊毛などをくしですいてほぐす) → 何度も引っかいていじる → しつこくちょっかいを出す → からかう・じらす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to laugh at someone or say unkind or joking things about them, either in a friendly way or to annoy them."
+    },
+    {
+      "pos": "名詞",
+      "text": "a person who likes to tease others; something done as a joke."
+    }
+  ],
+  "cautions": [
+    "tease A about B=BのことでAをからかう(about に注意。mock A for B と比べる)",
+    "tease は親しみのある軽いからかいも含む。mock=まねてばかにする/ridicule=笑いものにする",
+    "動物を「いじめる・じらす」の意味もある(Don't tease the dog.)",
+    "be teased=からかわれる(受け身でよく出る)"
+  ],
+  "patterns": [
+    {
+      "form": "tease A about B",
+      "meaning": "BのことでAをからかう"
+    },
+    {
+      "form": "be teased",
+      "meaning": "からかわれる"
+    },
+    {
+      "form": "only teasing",
+      "meaning": "からかっているだけ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "からかう",
+      "en": "My brother always teases me about my hair.",
+      "ja": "兄はいつも私の髪のことをからかう。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "He was teased at school because he was short.",
+      "ja": "彼は背が低いので学校でからかわれた。"
+    },
+    {
+      "source": "original",
+      "label": "冗談",
+      "en": "Don't get angry. I'm only teasing.",
+      "ja": "怒らないで。からかっているだけだよ。"
+    },
+    {
+      "source": "original",
+      "label": "動物",
+      "en": "Stop teasing the cat!",
+      "ja": "ネコをいじめるのはやめなさい!"
+    },
+    {
+      "source": "original",
+      "label": "親しみ",
+      "en": "She likes to tease her friends in a friendly way.",
+      "ja": "彼女は友だちを親しげにからかうのが好きだ。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "He is such a tease.",
+      "ja": "彼は本当にからかうのが好きだ。"
+    }
+  ],
+  "check_points": [
+    "tease A about B の前置詞を言えるか",
+    "tease と mock のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "tease A about B の形と、受け身 be teased が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1985
+    }
+  ]
+}

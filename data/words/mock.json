@@ -1,0 +1,99 @@
+{
+  "word": "mock",
+  "pos": [
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/mɑːk/",
+  "core_image": {
+    "text": "人のまねをして、笑いものにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"100\"/><line x1=\"60\" y1=\"74\" x2=\"72\" y2=\"100\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><polyline points=\"170,74 150,70 146,56\"/><polyline points=\"170,74 190,70 194,56\"/><path d=\"M140 40 L146 34 L152 40\"/><path d=\"M188 40 L194 34 L200 40\"/></g><text x=\"170\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まね!</text><text x=\"60\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くやしい</text></svg>"
+  },
+  "etymology": "古いフランス語 mocquer(あざける) → 人のまねをしてからかう → ばかにする → (まねて作った)にせの・模擬の(mock exam=模擬試験)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to laugh at someone or something in an unkind way, often by copying them."
+    },
+    {
+      "pos": "形容詞",
+      "text": "not real, but made to look or seem real; done as practice."
+    }
+  ],
+  "cautions": [
+    "mock A=Aをばかにする(他動詞。mock at A とは言わないのがふつう)",
+    "まねをしてからかう感じ。tease=親しみのある軽いからかい/ridicule=みんなで笑いものに/scorn=見下して相手にしない",
+    "形容詞 mock=にせの・模擬の(a mock exam=模擬試験、mock surprise=驚いたふり)",
+    "名詞 mockery=あざけり・物笑いの種"
+  ],
+  "patterns": [
+    {
+      "form": "mock A",
+      "meaning": "Aをばかにする"
+    },
+    {
+      "form": "mock A for B",
+      "meaning": "BのことでAをばかにする"
+    },
+    {
+      "form": "a mock exam",
+      "meaning": "模擬試験"
+    },
+    {
+      "form": "make a mockery of A",
+      "meaning": "Aを茶番にする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ばかにする",
+      "en": "The other boys mocked him for his accent.",
+      "ja": "ほかの少年たちは彼のなまりをばかにした。"
+    },
+    {
+      "source": "original",
+      "label": "まね",
+      "en": "She mocked her teacher's way of speaking.",
+      "ja": "彼女は先生の話し方をまねてからかった。"
+    },
+    {
+      "source": "original",
+      "label": "考え",
+      "en": "Don't mock other people's dreams.",
+      "ja": "他人の夢をばかにしてはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "模擬",
+      "en": "We have a mock exam next week.",
+      "ja": "来週、模擬試験がある。"
+    },
+    {
+      "source": "original",
+      "label": "ふり",
+      "en": "He raised his hands in mock surprise.",
+      "ja": "彼は驚いたふりをして両手を上げた。"
+    },
+    {
+      "source": "original",
+      "label": "mockery",
+      "en": "The unfair trial made a mockery of justice.",
+      "ja": "その不公平な裁判は正義を茶番にした。"
+    }
+  ],
+  "check_points": [
+    "形容詞 mock の意味(模擬の)を言えるか",
+    "mock と tease のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "動詞「あざける」と形容詞「模擬の」の2つの意味が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1984
+    }
+  ]
+}

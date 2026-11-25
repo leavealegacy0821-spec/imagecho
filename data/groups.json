@@ -512,7 +512,7 @@
     },
     {
       "title": "使い分け:やめる・終える",
-      "note": "stop=動きを止める ／ cease=(堅)ある状態が終わる ／ quit=すっぱりやめる ／ end=終わりにする ／ conclude=締めくくる ／ abolish=制度をなくす ／ finish=最後まで行きついて終える(finish doing) ／ complete=欠けなく満たして完成させる ／ terminate=境目で正式に打ち切る",
+      "note": "stop=動きを止める ／ cease=(堅)ある状態が終わる ／ quit=すっぱりやめる ／ end=終わりにする ／ conclude=締めくくる ／ abolish=制度をなくす ／ finish=最後まで行きついて終える(finish doing) ／ complete=欠けなく満たして完成させる ／ terminate=境目で正式に打ち切る ／ halt=号令でぴたっと止まる(come to a halt)",
       "words": [
         "stop",
         "cease",
@@ -522,7 +522,8 @@
         "abolish",
         "finish",
         "complete",
-        "terminate"
+        "terminate",
+        "halt"
       ]
     },
     {
@@ -3456,6 +3457,30 @@
         "moon",
         "star",
         "planet"
+      ]
+    },
+    {
+      "title": "使い分け:震える",
+      "note": "tremble=怖さ・興奮で体や声が小刻みにふるえ続ける ／ shiver=寒さで体がぶるぶるふるえる ／ shudder=ぞっとして一瞬ぶるっと身ぶるい ／ quiver=唇・葉などがかすかにぴくぴく ／ quake=大地・建物がぐらぐら大きくゆれる ／ shake=左右・上下にゆさぶる(いちばん広い)",
+      "words": [
+        "tremble",
+        "shiver",
+        "shudder",
+        "quiver",
+        "quake",
+        "shake"
+      ]
+    },
+    {
+      "title": "使い分け:ばかにする・からかう",
+      "note": "mock=まねをして笑いものにする ／ tease=ちょっかいを出していじる(親しみもある) ／ ridicule=指さしてみんなで笑いものにする ／ scorn=見下して鼻であしらう(態度に出す) ／ despise=上から見下して心でさげすむ ／ sneer=口のはしをゆがめてふんとばかにする",
+      "words": [
+        "mock",
+        "tease",
+        "ridicule",
+        "scorn",
+        "despise",
+        "sneer"
       ]
     },
     {
