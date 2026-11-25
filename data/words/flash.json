@@ -1,0 +1,103 @@
+{
+  "word": "flash",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/flæʃ/",
+  "core_image": {
+    "text": "ぴかっと、一瞬だけ強く光る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"120,20 100,70 124,70 104,130\"/><line x1=\"70\" y1=\"50\" x2=\"84\" y2=\"56\"/><line x1=\"70\" y1=\"90\" x2=\"86\" y2=\"86\"/><line x1=\"150\" y1=\"50\" x2=\"138\" y2=\"56\"/><line x1=\"152\" y1=\"90\" x2=\"136\" y2=\"86\"/></g><text x=\"190\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぴかっ</text></svg>"
+  },
+  "etymology": "中英語 flashen(水がばしゃっとはねる。音をまねた語) → 一瞬ぱっと光る → (考えが)ひらめく・(画像が)さっと出る → (名詞)閃光・一瞬(in a flash)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to shine brightly for a very short time; to appear or move very quickly."
+    },
+    {
+      "pos": "名詞",
+      "text": "a sudden bright light; a very short time."
+    }
+  ],
+  "cautions": [
+    "shine=光り続ける/flash=一瞬だけぴかっと光る",
+    "in a flash=一瞬で/a flash of lightning=稲光",
+    "A flashes through B's mind=AがBの頭をよぎる",
+    "flashlight=(米)懐中電灯"
+  ],
+  "patterns": [
+    {
+      "form": "A flashes",
+      "meaning": "Aがぴかっと光る"
+    },
+    {
+      "form": "flash A at B",
+      "meaning": "AをBに向けて光らせる"
+    },
+    {
+      "form": "in a flash",
+      "meaning": "一瞬で"
+    },
+    {
+      "form": "a flash of A",
+      "meaning": "一瞬のA"
+    },
+    {
+      "form": "flash through A's mind",
+      "meaning": "Aの頭をよぎる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ぴかっと光る",
+      "en": "Lightning flashed across the sky.",
+      "ja": "稲妻が空にぴかっと光った。"
+    },
+    {
+      "source": "original",
+      "label": "一瞬で",
+      "en": "The weekend went by in a flash.",
+      "ja": "週末はあっという間に過ぎた。"
+    },
+    {
+      "source": "original",
+      "label": "よぎる",
+      "en": "An idea flashed through my mind.",
+      "ja": "ある考えが頭をよぎった。"
+    },
+    {
+      "source": "original",
+      "label": "ひらめき",
+      "en": "She had a sudden flash of inspiration.",
+      "ja": "彼女に突然ひらめきが来た。"
+    },
+    {
+      "source": "original",
+      "label": "点滅する",
+      "en": "The warning light was flashing.",
+      "ja": "警告灯が点滅していた。"
+    },
+    {
+      "source": "original",
+      "label": "フラッシュ",
+      "en": "No flash photography, please.",
+      "ja": "フラッシュ撮影はご遠慮ください。"
+    }
+  ],
+  "check_points": [
+    "in a flash の意味を言えるか",
+    "flash through A's mind の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "in a flash、flash through one's mind が熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1315
+    }
+  ]
+}

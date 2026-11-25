@@ -1,0 +1,98 @@
+{
+  "word": "blaze",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/bleɪz/",
+  "core_image": {
+    "text": "ごうごうと、激しく燃え上がる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M80 140 Q60 100 90 70 Q90 100 110 90 Q100 50 130 20 Q130 60 150 70 Q170 80 160 140 Z\"/><line x1=\"70\" y1=\"140\" x2=\"170\" y2=\"140\"/></g><text x=\"200\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ごうごう</text></svg>"
+  },
+  "etymology": "古い英語 blæse(たいまつ・炎) → 激しく燃え上がる炎 → (名詞)大火事 → (光・色が)まばゆく輝く → (怒りで目が)燃える",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to burn brightly and strongly; to shine very brightly."
+    },
+    {
+      "pos": "名詞",
+      "text": "a large fire that is difficult to control; a very bright light or color."
+    }
+  ],
+  "cautions": [
+    "burn=燃える(広い)/blaze=ごうごうと激しく燃える・まばゆく輝く",
+    "名詞 a blaze=(大きな)火事(新聞の見出しで多い)",
+    "in a blaze of A=Aのまぶしい中で(in a blaze of glory=栄光に包まれて)",
+    "blazing=燃えるような・焼けつく(blazing sun)"
+  ],
+  "patterns": [
+    {
+      "form": "A blazes",
+      "meaning": "Aが燃え上がる"
+    },
+    {
+      "form": "a blaze",
+      "meaning": "大火事"
+    },
+    {
+      "form": "blazing",
+      "meaning": "燃えるような"
+    },
+    {
+      "form": "in a blaze of glory",
+      "meaning": "栄光に包まれて"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "燃え上がる",
+      "en": "A fire was blazing in the fireplace.",
+      "ja": "暖炉で火がごうごうと燃えていた。"
+    },
+    {
+      "source": "original",
+      "label": "火事",
+      "en": "Firefighters fought the blaze for hours.",
+      "ja": "消防士は何時間もその火事と戦った。"
+    },
+    {
+      "source": "original",
+      "label": "焼けつく",
+      "en": "We walked under the blazing sun.",
+      "ja": "私たちは焼けつく太陽の下を歩いた。"
+    },
+    {
+      "source": "original",
+      "label": "燃える",
+      "en": "His eyes blazed with anger.",
+      "ja": "彼の目は怒りで燃えていた。"
+    },
+    {
+      "source": "original",
+      "label": "輝く",
+      "en": "The garden was a blaze of color.",
+      "ja": "庭は色とりどりの花で輝いていた。"
+    },
+    {
+      "source": "original",
+      "label": "栄光に包まれて",
+      "en": "He retired in a blaze of glory.",
+      "ja": "彼は栄光に包まれて引退した。"
+    }
+  ],
+  "check_points": [
+    "名詞 blaze(火事)がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "blaze(火事)が時事の長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1318
+    }
+  ]
+}

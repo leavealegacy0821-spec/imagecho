@@ -1,0 +1,94 @@
+{
+  "word": "glitter",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈɡlɪtər/",
+  "core_image": {
+    "text": "金属や宝石が、ちかちかと反射して光る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon points=\"90,60 110,40 130,40 150,60 120,110\"/><line x1=\"90\" y1=\"60\" x2=\"150\" y2=\"60\"/><line x1=\"70\" y1=\"40\" x2=\"80\" y2=\"46\"/><line x1=\"170\" y1=\"40\" x2=\"160\" y2=\"46\"/><line x1=\"120\" y1=\"20\" x2=\"120\" y2=\"30\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ちかちか</text></svg>"
+  },
+  "etymology": "古いノルド語 glitra(きらめく) → 反射して小さくちかちか光る → きらびやかに見える → 名詞 glitter(きらめき・(飾りの)ラメ)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to shine brightly with many small flashes of reflected light."
+    },
+    {
+      "pos": "名詞",
+      "text": "bright light from many small flashes; tiny shiny pieces used for decoration."
+    }
+  ],
+  "cautions": [
+    "sparkle=きらきらまたたく(生き生き)/glitter=(金属・宝石・ガラスが)反射してちかちか光る(ときに派手・見かけ倒し)",
+    "All that glitters is not gold.=光るもの必ずしも金ならず(見かけで判断するな)",
+    "glitter with A=Aできらめく",
+    "名詞 glitter=ラメ"
+  ],
+  "patterns": [
+    {
+      "form": "A glitters",
+      "meaning": "Aがきらめく"
+    },
+    {
+      "form": "glitter with A",
+      "meaning": "Aできらめく"
+    },
+    {
+      "form": "All that glitters is not gold.",
+      "meaning": "光るもの必ずしも金ならず"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "きらめく",
+      "en": "The jewels glittered in the light.",
+      "ja": "宝石は光を受けてきらめいた。"
+    },
+    {
+      "source": "original",
+      "label": "光るもの",
+      "en": "All that glitters is not gold.",
+      "ja": "光るもの必ずしも金ならず。"
+    },
+    {
+      "source": "original",
+      "label": "きらめく",
+      "en": "The city glittered with lights at night.",
+      "ja": "夜、街は明かりできらめいていた。"
+    },
+    {
+      "source": "original",
+      "label": "ラメ",
+      "en": "The card was decorated with gold glitter.",
+      "ja": "カードは金色のラメで飾られていた。"
+    },
+    {
+      "source": "original",
+      "label": "ぎらぎら",
+      "en": "His eyes glittered with anger.",
+      "ja": "彼の目は怒りでぎらぎらしていた。"
+    },
+    {
+      "source": "original",
+      "label": "きらきら",
+      "en": "Snow glittered in the morning sun.",
+      "ja": "朝日に雪がきらきら光った。"
+    }
+  ],
+  "check_points": [
+    "All that glitters is not gold. の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "ことわざで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1314
+    }
+  ]
+}

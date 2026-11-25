@@ -1,0 +1,99 @@
+{
+  "word": "shine",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ʃaɪn/",
+  "core_image": {
+    "text": "光を放って、明るく照らす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"80\" cy=\"60\" r=\"20\"/><line x1=\"80\" y1=\"28\" x2=\"80\" y2=\"16\"/><line x1=\"80\" y1=\"92\" x2=\"80\" y2=\"104\"/><line x1=\"48\" y1=\"60\" x2=\"36\" y2=\"60\"/><line x1=\"112\" y1=\"60\" x2=\"124\" y2=\"60\"/><line x1=\"102\" y1=\"82\" x2=\"190\" y2=\"130\"/><line x1=\"96\" y1=\"88\" x2=\"160\" y2=\"140\"/></g><text x=\"180\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">照らす</text></svg>"
+  },
+  "etymology": "古い英語 scīnan(光る) → 光を放つ・輝く → (物が)ぴかぴかに光る → (人が)すぐれて目立つ(shine at A) → (他動詞・規則変化)磨く(shine shoes)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give out bright light; to be bright because light is reflected; to be very good at something."
+    },
+    {
+      "pos": "名詞",
+      "text": "the brightness of a surface."
+    }
+  ],
+  "cautions": [
+    "活用 shine - shone - shone(光る)/shine - shined(磨く・照らす)",
+    "shine at [in] A=Aで秀でる",
+    "rain or shine=晴れても雨でも",
+    "glow=ぼうっと光る/sparkle=きらきら光る/flash=ぴかっと光る"
+  ],
+  "patterns": [
+    {
+      "form": "A shines",
+      "meaning": "Aが輝く"
+    },
+    {
+      "form": "shine A on B",
+      "meaning": "AをBに当てる"
+    },
+    {
+      "form": "shine at A",
+      "meaning": "Aで秀でる"
+    },
+    {
+      "form": "rain or shine",
+      "meaning": "晴雨にかかわらず"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "輝く",
+      "en": "The sun was shining brightly.",
+      "ja": "太陽が明るく輝いていた。"
+    },
+    {
+      "source": "original",
+      "label": "当てる",
+      "en": "He shone a flashlight on the map.",
+      "ja": "彼は地図に懐中電灯を当てた。"
+    },
+    {
+      "source": "original",
+      "label": "秀でる",
+      "en": "She really shines at math.",
+      "ja": "彼女は数学で本当にずば抜けている。"
+    },
+    {
+      "source": "original",
+      "label": "晴雨にかかわらず",
+      "en": "The event will be held rain or shine.",
+      "ja": "行事は晴雨にかかわらず行われる。"
+    },
+    {
+      "source": "original",
+      "label": "輝く",
+      "en": "Her eyes shone with happiness.",
+      "ja": "彼女の目は幸せに輝いていた。"
+    },
+    {
+      "source": "original",
+      "label": "つや",
+      "en": "The floor had a beautiful shine.",
+      "ja": "床は美しいつやがあった。"
+    }
+  ],
+  "check_points": [
+    "shine の2つの活用(shone / shined)がわかるか",
+    "rain or shine の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "活用 shone、shine at が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1311
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "word": "glow",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɡloʊ/",
+  "core_image": {
+    "text": "炎を出さずに、ぼうっと温かく光る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polygon points=\"100,140 110,110 130,110 140,140\"/><circle cx=\"120\" cy=\"100\" r=\"12\"/><circle cx=\"120\" cy=\"100\" r=\"24\" stroke-dasharray=\"3 5\"/><circle cx=\"120\" cy=\"100\" r=\"36\" stroke-dasharray=\"3 7\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぼうっと</text></svg>"
+  },
+  "etymology": "古い英語 glōwan(赤く燃える) → 炎を出さず熱で光る → ぼうっと(温かく)光る → (顔が)ほてる・(喜びで)輝く",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give out a soft steady light, especially without flames; (of a face) to look warm or happy."
+    },
+    {
+      "pos": "名詞",
+      "text": "a soft steady light; a feeling of warmth or happiness."
+    }
+  ],
+  "cautions": [
+    "shine=明るく光を放つ/glow=炎なしで、やわらかくぼうっと光る(炭火・夕焼け・ほてった顔)",
+    "glow with A=A(喜び・健康)で輝く",
+    "a warm glow=ほのかな温かさ・満足感",
+    "glow-in-the-dark=暗いところで光る"
+  ],
+  "patterns": [
+    {
+      "form": "A glows",
+      "meaning": "Aがぼうっと光る"
+    },
+    {
+      "form": "glow with A",
+      "meaning": "A(喜び)で輝く"
+    },
+    {
+      "form": "a warm glow",
+      "meaning": "ぬくもり"
+    },
+    {
+      "form": "the glow of A",
+      "meaning": "Aの輝き"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ぼうっと光る",
+      "en": "The fire was still glowing in the morning.",
+      "ja": "朝になっても火はまだ赤くくすぶっていた。"
+    },
+    {
+      "source": "original",
+      "label": "光る",
+      "en": "The stars glow in the dark.",
+      "ja": "星は暗闇でぼうっと光る。"
+    },
+    {
+      "source": "original",
+      "label": "輝く",
+      "en": "Her face glowed with happiness.",
+      "ja": "彼女の顔は幸せで輝いていた。"
+    },
+    {
+      "source": "original",
+      "label": "ぬくもり",
+      "en": "I felt a warm glow when she thanked me.",
+      "ja": "彼女にお礼を言われて心がぽっと温かくなった。"
+    },
+    {
+      "source": "original",
+      "label": "輝き",
+      "en": "We watched the glow of the sunset.",
+      "ja": "私たちは夕焼けの輝きをながめた。"
+    },
+    {
+      "source": "original",
+      "label": "夜光",
+      "en": "The watch has glow-in-the-dark hands.",
+      "ja": "その時計の針は夜光塗料で光る。"
+    }
+  ],
+  "check_points": [
+    "shine と glow のちがいを言えるか",
+    "glow with A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "光の動詞の使い分けで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1312
+    }
+  ]
+}
