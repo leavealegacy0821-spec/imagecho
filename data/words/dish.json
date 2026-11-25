@@ -1,0 +1,99 @@
+{
+  "word": "dish",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/dɪʃ/",
+  "core_image": {
+    "text": "料理を盛る皿・皿にのった1品の料理",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"120\" cy=\"100\" rx=\"70\" ry=\"18\"/><ellipse cx=\"120\" cy=\"96\" rx=\"44\" ry=\"10\"/><path d=\"M96 92 Q120 70 144 92\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">1品</text></svg>"
+  },
+  "etymology": "ラテン語 discus(円盤。disk・desk と同じ根) → 平らな皿 → 皿に盛った1品の料理 → do the dishes=(食後の)皿洗いをする",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a shallow container for serving food; food prepared in a particular way as part of a meal; (the dishes) all the plates and bowls after a meal."
+    },
+    {
+      "pos": "動詞",
+      "text": "(dish out/up) to serve food; to give out something."
+    }
+  ],
+  "cautions": [
+    "plate=1人用の平らな皿/dish=料理を盛る大皿・(料理としての)1品",
+    "do [wash] the dishes=皿洗いをする",
+    "a main dish=メインの料理/a side dish=つけ合わせ",
+    "meal=1回の食事/dish=その中の1品"
+  ],
+  "patterns": [
+    {
+      "form": "a main [side] dish",
+      "meaning": "メイン料理[つけ合わせ]"
+    },
+    {
+      "form": "do the dishes",
+      "meaning": "皿洗いをする"
+    },
+    {
+      "form": "a local dish",
+      "meaning": "郷土料理"
+    },
+    {
+      "form": "dish out A",
+      "meaning": "Aを分配する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "1品",
+      "en": "Sushi is a famous Japanese dish.",
+      "ja": "すしは有名な日本料理だ。"
+    },
+    {
+      "source": "original",
+      "label": "皿洗い",
+      "en": "It's your turn to do the dishes.",
+      "ja": "皿洗いは君の番だよ。"
+    },
+    {
+      "source": "original",
+      "label": "郷土料理",
+      "en": "Try the local dishes when you travel.",
+      "ja": "旅行したら郷土料理を食べてみて。"
+    },
+    {
+      "source": "original",
+      "label": "つけ合わせ",
+      "en": "Salad is served as a side dish.",
+      "ja": "サラダはつけ合わせとして出される。"
+    },
+    {
+      "source": "original",
+      "label": "大皿",
+      "en": "Put the salad in a large dish.",
+      "ja": "サラダを大皿に盛ってください。"
+    },
+    {
+      "source": "original",
+      "label": "配る",
+      "en": "He was dishing out advice to everyone.",
+      "ja": "彼はみんなに助言を配って回っていた。"
+    }
+  ],
+  "check_points": [
+    "do the dishes の意味を言えるか",
+    "meal と dish のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "do the dishes、a Japanese dish が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1779
+    }
+  ]
+}

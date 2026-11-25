@@ -1,0 +1,89 @@
+{
+  "word": "nutrient",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈnuːtriənt/",
+  "core_image": {
+    "text": "体を養う、ひとつひとつの栄養素",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"120\" y1=\"140\" x2=\"120\" y2=\"70\"/><path d=\"M120 90 Q100 70 90 80 Q100 90 120 90\"/><path d=\"M120 80 Q140 60 150 70 Q140 80 120 80\"/><circle cx=\"90\" cy=\"150\" r=\"3\"/><circle cx=\"120\" cy=\"154\" r=\"3\"/><circle cx=\"150\" cy=\"150\" r=\"3\"/><line x1=\"120\" y1=\"156\" x2=\"120\" y2=\"142\"/><polyline points=\"116.2,149 120,142 123.8,149\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">栄養素</text></svg>"
+  },
+  "etymology": "ラテン語 nutrire(養う。nutrition と同じ根) + -ent(〜するもの) → 養うもの → (体・植物を養う)栄養素・養分",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a substance that people, animals and plants need to live and grow."
+    }
+  ],
+  "cautions": [
+    "nutrition=栄養(をとること)・数えない/nutrient=栄養素・養分(数えられる:nutrients)",
+    "protein・vitamin・mineral などが nutrients",
+    "植物の「養分」にも使う",
+    "essential nutrients=必須栄養素"
+  ],
+  "patterns": [
+    {
+      "form": "essential nutrients",
+      "meaning": "必須栄養素"
+    },
+    {
+      "form": "absorb nutrients",
+      "meaning": "栄養素を吸収する"
+    },
+    {
+      "form": "nutrients in the soil",
+      "meaning": "土の中の養分"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "栄養素",
+      "en": "Vegetables are full of important nutrients.",
+      "ja": "野菜には大切な栄養素がたくさんある。"
+    },
+    {
+      "source": "original",
+      "label": "養分",
+      "en": "Plants take in nutrients from the soil.",
+      "ja": "植物は土から養分を取りこむ。"
+    },
+    {
+      "source": "original",
+      "label": "吸収",
+      "en": "The body absorbs nutrients in the intestines.",
+      "ja": "体は腸で栄養素を吸収する。"
+    },
+    {
+      "source": "original",
+      "label": "必須",
+      "en": "Children need all the essential nutrients.",
+      "ja": "子どもにはすべての必須栄養素が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "失う",
+      "en": "Boiling vegetables can destroy some nutrients.",
+      "ja": "野菜をゆでると栄養素が一部こわれることがある。"
+    },
+    {
+      "source": "original",
+      "label": "海",
+      "en": "The ocean currents carry nutrients to the fish.",
+      "ja": "海流が魚に養分を運ぶ。"
+    }
+  ],
+  "check_points": [
+    "nutrition と nutrient のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文で nutrients が頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1786
+    }
+  ]
+}

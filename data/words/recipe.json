@@ -1,0 +1,89 @@
+{
+  "word": "recipe",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈresəpi/",
+  "core_image": {
+    "text": "料理の作り方を順に書いた手順・秘けつ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"70\" y=\"20\" width=\"100\" height=\"120\"/><line x1=\"84\" y1=\"40\" x2=\"156\" y2=\"40\"/><circle cx=\"88\" cy=\"60\" r=\"3\"/><line x1=\"96\" y1=\"60\" x2=\"156\" y2=\"60\"/><circle cx=\"88\" cy=\"80\" r=\"3\"/><line x1=\"96\" y1=\"80\" x2=\"156\" y2=\"80\"/><circle cx=\"88\" cy=\"100\" r=\"3\"/><line x1=\"96\" y1=\"100\" x2=\"140\" y2=\"100\"/></g><text x=\"210\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手順</text></svg>"
+  },
+  "etymology": "ラテン語 recipe(「取れ」という命令の形:recipere=受け取る。receive と同じ根)→ 薬の処方の書き出しの言葉 → 処方・作り方 → 料理の作り方 → (成功の)秘けつ(a recipe for)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a set of instructions for cooking a dish; a way of achieving something."
+    }
+  ],
+  "cautions": [
+    "発音 /ˈresəpi/(レシピ:最後の e も読む)",
+    "a recipe for A=Aの作り方・Aの秘けつ・Aを招くもと",
+    "a recipe for disaster=失敗のもと",
+    "receipt(領収書)とつづり・発音を混同しない"
+  ],
+  "patterns": [
+    {
+      "form": "a recipe for A",
+      "meaning": "Aの作り方・秘けつ・もと"
+    },
+    {
+      "form": "follow a recipe",
+      "meaning": "レシピどおりに作る"
+    },
+    {
+      "form": "a recipe for disaster",
+      "meaning": "大失敗のもと"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "作り方",
+      "en": "Can you give me the recipe for this cake?",
+      "ja": "このケーキの作り方を教えてくれる?"
+    },
+    {
+      "source": "original",
+      "label": "レシピどおり",
+      "en": "I followed the recipe exactly.",
+      "ja": "レシピどおりに作った。"
+    },
+    {
+      "source": "original",
+      "label": "秘けつ",
+      "en": "Hard work is the recipe for success.",
+      "ja": "努力が成功の秘けつだ。"
+    },
+    {
+      "source": "original",
+      "label": "失敗のもと",
+      "en": "Driving when you are tired is a recipe for disaster.",
+      "ja": "疲れて運転するのは大事故のもとだ。"
+    },
+    {
+      "source": "original",
+      "label": "家庭の味",
+      "en": "This recipe was handed down from my grandmother.",
+      "ja": "このレシピは祖母から伝わったものだ。"
+    },
+    {
+      "source": "original",
+      "label": "料理本",
+      "en": "The book has over 100 recipes.",
+      "ja": "その本には100以上のレシピが載っている。"
+    }
+  ],
+  "check_points": [
+    "a recipe for disaster の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a recipe for success / disaster が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1780
+    }
+  ]
+}

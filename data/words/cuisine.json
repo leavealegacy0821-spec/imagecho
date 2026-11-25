@@ -1,0 +1,89 @@
+{
+  "word": "cuisine",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/kwɪˈziːn/",
+  "core_image": {
+    "text": "その国・店ならではの、料理のしかた",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"70\" cy=\"110\" rx=\"40\" ry=\"10\"/><ellipse cx=\"170\" cy=\"110\" rx=\"40\" ry=\"10\"/><path d=\"M50 106 Q70 86 90 106\"/><path d=\"M150 106 L170 90 L190 106\"/><rect x=\"100\" y=\"30\" width=\"40\" height=\"30\"/><line x1=\"100\" y1=\"45\" x2=\"140\" y2=\"45\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">〜料理</text></svg>"
+  },
+  "etymology": "フランス語 cuisine(台所。ラテン語 coquina:cook・kitchen と同じ根) → 台所 → (その国・地方・店の)料理のしかた・料理",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a style of cooking, especially of a particular country or region; the food cooked in a particular way."
+    }
+  ],
+  "cautions": [
+    "dish=1品の料理/cuisine=(国・地域・店の)料理全体・料理法(Japanese cuisine=和食)",
+    "フランス語から:発音 /kwɪˈziːn/",
+    "food より改まった言い方",
+    "cooking=料理すること・料理"
+  ],
+  "patterns": [
+    {
+      "form": "Japanese [French] cuisine",
+      "meaning": "日本[フランス]料理"
+    },
+    {
+      "form": "local cuisine",
+      "meaning": "郷土料理"
+    },
+    {
+      "form": "haute cuisine",
+      "meaning": "高級料理"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "和食",
+      "en": "Japanese cuisine is famous for its fresh ingredients.",
+      "ja": "和食は新鮮な材料で有名だ。"
+    },
+    {
+      "source": "original",
+      "label": "郷土料理",
+      "en": "We enjoyed the local cuisine in Okinawa.",
+      "ja": "沖縄で郷土料理を楽しんだ。"
+    },
+    {
+      "source": "original",
+      "label": "料理のしかた",
+      "en": "Italian cuisine uses a lot of tomatoes.",
+      "ja": "イタリア料理はトマトをたくさん使う。"
+    },
+    {
+      "source": "original",
+      "label": "世界遺産",
+      "en": "Washoku, traditional Japanese cuisine, was added to UNESCO's list in 2013.",
+      "ja": "和食は2013年にユネスコの無形文化遺産に登録された。"
+    },
+    {
+      "source": "original",
+      "label": "店",
+      "en": "The restaurant serves Chinese cuisine.",
+      "ja": "そのレストランは中華料理を出す。"
+    },
+    {
+      "source": "original",
+      "label": "特徴",
+      "en": "Each region has its own cuisine.",
+      "ja": "それぞれの地方に独自の料理がある。"
+    }
+  ],
+  "check_points": [
+    "dish と cuisine のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "Japanese cuisine が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1782
+    }
+  ]
+}

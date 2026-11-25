@@ -1,0 +1,89 @@
+{
+  "word": "ingredient",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ɪnˈɡriːdiənt/",
+  "core_image": {
+    "text": "料理やものの中に入る、材料・要素",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M60 80 Q60 130 120 130 Q180 130 180 80 Z\"/><line x1=\"50\" y1=\"80\" x2=\"190\" y2=\"80\"/><line x1=\"60\" y1=\"30\" x2=\"100\" y2=\"70\"/><polyline points=\"97.7,62.3 100,70 92.3,67.7\"/><line x1=\"120\" y1=\"20\" x2=\"120\" y2=\"70\"/><polyline points=\"123.8,63 120,70 116.2,63\"/><line x1=\"180\" y1=\"30\" x2=\"140\" y2=\"70\"/><polyline points=\"147.7,67.7 140,70 142.3,62.3\"/></g><text x=\"40\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">材料</text></svg>"
+  },
+  "etymology": "ラテン語 ingredi(in-=中へ + gradi=歩む:grade・progress と同じ根) → 中に入っていくもの → (料理・薬の)材料・成分 → (成功などの)要素",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "one of the foods used to make a dish; one of the parts of something successful."
+    }
+  ],
+  "cautions": [
+    "ingredient=料理の材料・成分(数えられる)/material=物を作る素材・資料",
+    "a key ingredient (of [in] A)=(Aの)重要な要素",
+    "component=機械などの部品",
+    "element=構成する要素(広い)"
+  ],
+  "patterns": [
+    {
+      "form": "the ingredients for A",
+      "meaning": "Aの材料"
+    },
+    {
+      "form": "a key ingredient in A",
+      "meaning": "Aの重要な要素"
+    },
+    {
+      "form": "natural ingredients",
+      "meaning": "天然の成分"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "材料",
+      "en": "The ingredients for this soup are very simple.",
+      "ja": "このスープの材料はとても簡単だ。"
+    },
+    {
+      "source": "original",
+      "label": "要素",
+      "en": "Trust is a key ingredient in friendship.",
+      "ja": "信頼は友情の大切な要素だ。"
+    },
+    {
+      "source": "original",
+      "label": "成分",
+      "en": "This shampoo is made with natural ingredients.",
+      "ja": "このシャンプーは天然の成分で作られている。"
+    },
+    {
+      "source": "original",
+      "label": "そろえる",
+      "en": "Mix all the ingredients in a bowl.",
+      "ja": "材料をすべてボウルで混ぜてください。"
+    },
+    {
+      "source": "original",
+      "label": "秘訣",
+      "en": "Hard work is the main ingredient of success.",
+      "ja": "努力が成功の一番の要素だ。"
+    },
+    {
+      "source": "original",
+      "label": "表示",
+      "en": "Check the list of ingredients on the package.",
+      "ja": "包装の原材料表示を確認して。"
+    }
+  ],
+  "check_points": [
+    "ingredient と material のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "a key ingredient が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1781
+    }
+  ]
+}

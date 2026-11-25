@@ -1,0 +1,89 @@
+{
+  "word": "protein",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈproʊtiːn/",
+  "core_image": {
+    "text": "体をつくる、いちばんもとになる栄養素",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><ellipse cx=\"40\" cy=\"124\" rx=\"12\" ry=\"16\"/><path d=\"M64 126 Q84 110 104 126 Q84 142 64 126 Z\"/><line x1=\"104\" y1=\"126\" x2=\"112\" y2=\"118\"/><line x1=\"104\" y1=\"126\" x2=\"112\" y2=\"134\"/><line x1=\"120\" y1=\"110\" x2=\"160\" y2=\"90\"/><polyline points=\"152,89.7 160,90 155.4,96.6\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/></g><text x=\"90\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">体をつくる</text></svg>"
+  },
+  "etymology": "ギリシャ語 prōteios(第一の・もっとも大切な) → 生きものにとって第一の物質 → たんぱく質",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a substance found in meat, fish, eggs and beans that the body needs to grow and stay healthy."
+    }
+  ],
+  "cautions": [
+    "protein=たんぱく質(肉・魚・卵・豆)/carbohydrate=炭水化物/fat=脂肪",
+    "be rich in protein=たんぱく質が豊富だ",
+    "high-protein food=高たんぱくの食品",
+    "発音 /ˈproʊtiːn/(プロウティーン)"
+  ],
+  "patterns": [
+    {
+      "form": "be rich in protein",
+      "meaning": "たんぱく質が豊富だ"
+    },
+    {
+      "form": "a source of protein",
+      "meaning": "たんぱく源"
+    },
+    {
+      "form": "high-protein",
+      "meaning": "高たんぱくの"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "豊富",
+      "en": "Eggs are rich in protein.",
+      "ja": "卵はたんぱく質が豊富だ。"
+    },
+    {
+      "source": "original",
+      "label": "たんぱく源",
+      "en": "Beans are a good source of protein.",
+      "ja": "豆はよいたんぱく源だ。"
+    },
+    {
+      "source": "original",
+      "label": "体をつくる",
+      "en": "Protein helps build muscles.",
+      "ja": "たんぱく質は筋肉をつくるのを助ける。"
+    },
+    {
+      "source": "original",
+      "label": "高たんぱく",
+      "en": "Athletes often eat high-protein food.",
+      "ja": "運動選手はよく高たんぱくの食品を食べる。"
+    },
+    {
+      "source": "original",
+      "label": "3大栄養素",
+      "en": "Protein, fat and carbohydrates are the main nutrients.",
+      "ja": "たんぱく質・脂肪・炭水化物が主な栄養素だ。"
+    },
+    {
+      "source": "original",
+      "label": "不足",
+      "en": "A lack of protein can slow children's growth.",
+      "ja": "たんぱく質が不足すると子どもの成長が遅れることがある。"
+    }
+  ],
+  "check_points": [
+    "rich in protein の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で栄養の話題として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1787
+    }
+  ]
+}
