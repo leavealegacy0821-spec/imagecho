@@ -1,0 +1,93 @@
+{
+  "word": "relationship",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/rɪˈleɪʃnʃɪp/",
+  "core_image": {
+    "text": "人と人・物と物をむすぶ、つながりのあり方",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><path d=\"M74 60 Q120 30 166 60\"/><path d=\"M74 74 Q120 96 166 74\" stroke-dasharray=\"4 4\"/></g><text x=\"120\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">つながり</text></svg>"
+  },
+  "etymology": "relation(関係。relate=関係づける)+ship(状態・あり方) → 関係のあり方 → (人と人の)関係・間柄・(恋愛の)交際 → (物事の)関連",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the way in which two or more people or things are connected or behave toward each other; a romantic connection."
+    }
+  ],
+  "cautions": [
+    "relation=関係(物事の関連・(複数で)国家間の関係)/relationship=人と人の関係・つきあい方",
+    "a relationship between A and B=AとBの関係",
+    "have a good relationship with A=Aとよい関係にある",
+    "be in a relationship=つきあっている"
+  ],
+  "patterns": [
+    {
+      "form": "a relationship between A and B",
+      "meaning": "AとBの関係"
+    },
+    {
+      "form": "have a good relationship with A",
+      "meaning": "Aとよい関係だ"
+    },
+    {
+      "form": "be in a relationship",
+      "meaning": "交際中だ"
+    },
+    {
+      "form": "build a relationship",
+      "meaning": "関係を築く"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "関係",
+      "en": "I have a good relationship with my parents.",
+      "ja": "両親とはよい関係だ。"
+    },
+    {
+      "source": "original",
+      "label": "関係",
+      "en": "There is a close relationship between diet and health.",
+      "ja": "食生活と健康には密接な関係がある。"
+    },
+    {
+      "source": "original",
+      "label": "関係を築く",
+      "en": "It takes time to build a relationship of trust.",
+      "ja": "信頼関係を築くには時間がかかる。"
+    },
+    {
+      "source": "original",
+      "label": "つきあっている",
+      "en": "Are you in a relationship?",
+      "ja": "誰かとつきあってる?"
+    },
+    {
+      "source": "original",
+      "label": "関係",
+      "en": "The relationship between the two countries has improved.",
+      "ja": "両国の関係は改善した。"
+    },
+    {
+      "source": "original",
+      "label": "間柄",
+      "en": "What's your relationship to him?",
+      "ja": "彼とはどういう間柄ですか。"
+    }
+  ],
+  "check_points": [
+    "a relationship between A and B の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "relationship が長文で非常に多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1609
+    }
+  ]
+}

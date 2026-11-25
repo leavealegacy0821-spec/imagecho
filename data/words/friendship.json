@@ -1,0 +1,93 @@
+{
+  "word": "friendship",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈfrendʃɪp/",
+  "core_image": {
+    "text": "友だちどうしの、心のつながり",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><circle cx=\"160\" cy=\"52\" r=\"10\"/><line x1=\"160\" y1=\"62\" x2=\"160\" y2=\"106\"/><line x1=\"160\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"80\" y1=\"74\" x2=\"120\" y2=\"80\"/><line x1=\"160\" y1=\"74\" x2=\"120\" y2=\"80\"/><path d=\"M110 30 Q120 20 130 30 Q140 20 150 30 Q150 44 130 56 Q110 44 110 30\" transform=\"translate(-10 0)\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">友情</text></svg>"
+  },
+  "etymology": "friend(友だち。古い英語 frēond=愛する人)+ship(状態) → 友だちであること → 友情・交友関係",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a relationship between friends; the feelings that friends have for each other."
+    }
+  ],
+  "cautions": [
+    "relationship=関係(広い)/friendship=友人どうしの友情",
+    "form [make] a friendship=友情を結ぶ",
+    "a close friendship=親しい友情",
+    "friendly=親しみやすい(-ly で形容詞)"
+  ],
+  "patterns": [
+    {
+      "form": "a close friendship",
+      "meaning": "親しい友情"
+    },
+    {
+      "form": "form a friendship",
+      "meaning": "友情を結ぶ"
+    },
+    {
+      "form": "friendship with A",
+      "meaning": "Aとの友情"
+    },
+    {
+      "form": "friendly",
+      "meaning": "親しみやすい"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "友情",
+      "en": "Their friendship lasted for fifty years.",
+      "ja": "彼らの友情は50年続いた。"
+    },
+    {
+      "source": "original",
+      "label": "友情を結ぶ",
+      "en": "They formed a friendship at summer camp.",
+      "ja": "彼らはサマーキャンプで友だちになった。"
+    },
+    {
+      "source": "original",
+      "label": "友情",
+      "en": "Nothing is more important than friendship.",
+      "ja": "友情ほど大切なものはない。"
+    },
+    {
+      "source": "original",
+      "label": "交友",
+      "en": "His friendship with the president helped his career.",
+      "ja": "大統領との交友が彼の出世を助けた。"
+    },
+    {
+      "source": "original",
+      "label": "親しみやすい",
+      "en": "The people here are very friendly.",
+      "ja": "ここの人たちはとても親しみやすい。"
+    },
+    {
+      "source": "original",
+      "label": "友好",
+      "en": "The two nations signed a treaty of friendship.",
+      "ja": "両国は友好条約を結んだ。"
+    }
+  ],
+  "check_points": [
+    "friendly が形容詞であることがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "friendship が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1610
+    }
+  ]
+}

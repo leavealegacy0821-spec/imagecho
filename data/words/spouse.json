@@ -1,0 +1,89 @@
+{
+  "word": "spouse",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/spaʊs/",
+  "core_image": {
+    "text": "結婚を約束しあった、相手",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"90\" y1=\"74\" x2=\"120\" y2=\"84\"/><line x1=\"150\" y1=\"74\" x2=\"120\" y2=\"84\"/><circle cx=\"110\" cy=\"30\" r=\"8\"/><circle cx=\"124\" cy=\"30\" r=\"8\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">配偶者</text></svg>"
+  },
+  "etymology": "ラテン語 sponsus(婚約した人。spondere=約束する:respond・responsible と同じ根) → 結婚を約束した相手 → 配偶者(夫または妻)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a husband or wife (a formal word)."
+    }
+  ],
+  "cautions": [
+    "husband・wife の男女を区別しない堅い言い方(書類など)",
+    "partner=(結婚していない恋人も含む)パートナー",
+    "spouse and children=配偶者と子ども",
+    "spondere=約束する(respond も同じ根)"
+  ],
+  "patterns": [
+    {
+      "form": "a spouse",
+      "meaning": "配偶者"
+    },
+    {
+      "form": "one's spouse",
+      "meaning": "〜の配偶者"
+    },
+    {
+      "form": "spouses",
+      "meaning": "夫婦の双方"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "配偶者",
+      "en": "Please write the name of your spouse.",
+      "ja": "配偶者の名前を記入してください。"
+    },
+    {
+      "source": "original",
+      "label": "配偶者",
+      "en": "Employees and their spouses are invited.",
+      "ja": "社員とその配偶者が招待されている。"
+    },
+    {
+      "source": "original",
+      "label": "配偶者",
+      "en": "She lost her spouse last year.",
+      "ja": "彼女は昨年夫を亡くした。"
+    },
+    {
+      "source": "original",
+      "label": "夫婦",
+      "en": "Both spouses must sign the document.",
+      "ja": "夫婦両方が書類に署名しなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "配偶者",
+      "en": "Many people choose a spouse with similar values.",
+      "ja": "多くの人は価値観の似た相手を配偶者に選ぶ。"
+    },
+    {
+      "source": "original",
+      "label": "配偶者",
+      "en": "Your spouse can come with you.",
+      "ja": "配偶者の同伴が可能です。"
+    }
+  ],
+  "check_points": [
+    "spouse の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "書類・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1617
+    }
+  ]
+}

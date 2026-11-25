@@ -1,0 +1,93 @@
+{
+  "word": "enemy",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈenəmi/",
+  "core_image": {
+    "text": "友ではなく、こちらに敵対する相手",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"84\" y2=\"60\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"156\" y2=\"60\"/><polyline points=\"110,56 120,46 130,56 120,66 110,56\"/></g><text x=\"120\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">敵</text></svg>"
+  },
+  "etymology": "ラテン語 inimicus(in=〜ない+amicus=友:amicable と同じ根) → 友でない者 → 敵・かたき → (〜にとっての)害になるもの",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a person who hates you or wants to harm you; a country fighting another country; something that harms something else."
+    }
+  ],
+  "cautions": [
+    "friend(味方)⇔ enemy(敵)",
+    "make enemies=敵をつくる",
+    "the enemy=(戦争の)敵軍(単数・複数扱い)",
+    "比ゆ:A is the enemy of B=AはBの大敵だ"
+  ],
+  "patterns": [
+    {
+      "form": "make enemies",
+      "meaning": "敵をつくる"
+    },
+    {
+      "form": "the enemy",
+      "meaning": "敵軍"
+    },
+    {
+      "form": "a natural enemy",
+      "meaning": "天敵"
+    },
+    {
+      "form": "A is the enemy of B",
+      "meaning": "AはBの敵だ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "敵",
+      "en": "He made many enemies in his life.",
+      "ja": "彼は生涯で多くの敵をつくった。"
+    },
+    {
+      "source": "original",
+      "label": "敵軍",
+      "en": "The enemy attacked at night.",
+      "ja": "敵軍は夜に攻撃してきた。"
+    },
+    {
+      "source": "original",
+      "label": "天敵",
+      "en": "Snakes are a natural enemy of frogs.",
+      "ja": "ヘビはカエルの天敵だ。"
+    },
+    {
+      "source": "original",
+      "label": "大敵",
+      "en": "Laziness is the enemy of success.",
+      "ja": "怠けは成功の大敵だ。"
+    },
+    {
+      "source": "original",
+      "label": "敵",
+      "en": "They used to be friends, but now they are enemies.",
+      "ja": "彼らはかつては友だちだったが、今は敵同士だ。"
+    },
+    {
+      "source": "original",
+      "label": "敵",
+      "en": "The country was at war with its enemies.",
+      "ja": "その国は敵国と戦争中だった。"
+    }
+  ],
+  "check_points": [
+    "make enemies の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "enemy、natural enemy が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1618
+    }
+  ]
+}

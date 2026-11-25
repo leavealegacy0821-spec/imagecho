@@ -1,0 +1,89 @@
+{
+  "word": "sibling",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈsɪblɪŋ/",
+  "core_image": {
+    "text": "同じ親から生まれた、きょうだい",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"14\" r=\"6\"/><circle cx=\"140\" cy=\"14\" r=\"6\"/><line x1=\"130\" y1=\"20\" x2=\"130\" y2=\"30\"/><line x1=\"70\" y1=\"30\" x2=\"190\" y2=\"30\"/><line x1=\"70\" y1=\"30\" x2=\"70\" y2=\"40\"/><line x1=\"190\" y1=\"30\" x2=\"190\" y2=\"40\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><circle cx=\"130\" cy=\"52\" r=\"10\"/><line x1=\"130\" y1=\"62\" x2=\"130\" y2=\"106\"/><line x1=\"130\" y1=\"106\" x2=\"120\" y2=\"140\"/><line x1=\"130\" y1=\"106\" x2=\"140\" y2=\"140\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/></g><text x=\"40\" y=\"16\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">きょうだい</text></svg>"
+  },
+  "etymology": "古い英語 sibling(親族) → (近年ふたたび使われて)同じ親をもつ兄弟姉妹 → sibling rivalry=きょうだい間の張り合い",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a brother or sister."
+    }
+  ],
+  "cautions": [
+    "brother・sister の男女を区別しない言い方(堅い)",
+    "Do you have any siblings?=きょうだいはいますか",
+    "sibling rivalry=きょうだいげんか・張り合い",
+    "日本語の「兄・弟」のような上下は older / younger で表す"
+  ],
+  "patterns": [
+    {
+      "form": "siblings",
+      "meaning": "兄弟姉妹"
+    },
+    {
+      "form": "older [younger] siblings",
+      "meaning": "年上[年下]のきょうだい"
+    },
+    {
+      "form": "sibling rivalry",
+      "meaning": "きょうだい間の張り合い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "きょうだい",
+      "en": "Do you have any siblings?",
+      "ja": "きょうだいはいる?"
+    },
+    {
+      "source": "original",
+      "label": "きょうだい",
+      "en": "I have two siblings, a brother and a sister.",
+      "ja": "兄と姉が1人ずついる。"
+    },
+    {
+      "source": "original",
+      "label": "張り合い",
+      "en": "Sibling rivalry is common in large families.",
+      "ja": "大家族ではきょうだい間の張り合いがよくある。"
+    },
+    {
+      "source": "original",
+      "label": "年下のきょうだい",
+      "en": "She often looks after her younger siblings.",
+      "ja": "彼女はよく年下のきょうだいの面倒を見る。"
+    },
+    {
+      "source": "original",
+      "label": "きょうだい",
+      "en": "Siblings often share the same interests.",
+      "ja": "きょうだいは同じ趣味をもつことが多い。"
+    },
+    {
+      "source": "original",
+      "label": "一人っ子",
+      "en": "He is an only child with no siblings.",
+      "ja": "彼はきょうだいのいない一人っ子だ。"
+    }
+  ],
+  "check_points": [
+    "sibling の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "sibling が会話・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1616
+    }
+  ]
+}

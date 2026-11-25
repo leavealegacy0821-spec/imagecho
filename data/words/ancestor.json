@@ -1,0 +1,89 @@
+{
+  "word": "ancestor",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈænsestər/",
+  "core_image": {
+    "text": "自分より前を歩いていった、先祖",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"70\" r=\"8\" stroke-dasharray=\"3 3\"/><line x1=\"40\" y1=\"78\" x2=\"40\" y2=\"140\" stroke-dasharray=\"3 3\"/><circle cx=\"100\" cy=\"66\" r=\"9\" stroke-dasharray=\"3 3\"/><line x1=\"100\" y1=\"75\" x2=\"100\" y2=\"140\" stroke-dasharray=\"3 3\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"120\" y1=\"40\" x2=\"60\" y2=\"40\"/><polyline points=\"67,43.8 60,40 67,36.2\"/></g><text x=\"100\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">前の人たち</text></svg>"
+  },
+  "etymology": "ante(前に)+cedere(行く。precede・proceed と同じ根) → 前を行った人 → 先祖・祖先 → (動植物・機械の)原型 → descendant(子孫)と対",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a person in your family who lived a long time before you; an earlier form of something."
+    }
+  ],
+  "cautions": [
+    "ancestor(先祖)⇔ descendant(子孫)",
+    "one's ancestors=先祖(ふつう複数形)",
+    "ancestral=先祖伝来の(ancestral home)",
+    "前を行った人:ante(前)+cede(行く)"
+  ],
+  "patterns": [
+    {
+      "form": "one's ancestors",
+      "meaning": "先祖"
+    },
+    {
+      "form": "a common ancestor",
+      "meaning": "共通の祖先"
+    },
+    {
+      "form": "ancestral",
+      "meaning": "先祖代々の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "先祖",
+      "en": "My ancestors came from Kyushu.",
+      "ja": "私の先祖は九州出身だ。"
+    },
+    {
+      "source": "original",
+      "label": "共通の祖先",
+      "en": "Humans and apes share a common ancestor.",
+      "ja": "人間と類人猿には共通の祖先がいる。"
+    },
+    {
+      "source": "original",
+      "label": "先祖代々の",
+      "en": "They still live in their ancestral home.",
+      "ja": "彼らは今も先祖代々の家に住んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "原型",
+      "en": "The abacus is an ancestor of the computer.",
+      "ja": "そろばんはコンピューターの原型だ。"
+    },
+    {
+      "source": "original",
+      "label": "先祖",
+      "en": "We visit our ancestors' graves in summer.",
+      "ja": "夏には先祖の墓参りに行く。"
+    },
+    {
+      "source": "original",
+      "label": "子孫(descendant)",
+      "en": "He is a descendant of a famous samurai.",
+      "ja": "彼は有名な侍の子孫だ。"
+    }
+  ],
+  "check_points": [
+    "ancestor と descendant の対がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "ancestor が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1615
+    }
+  ]
+}
