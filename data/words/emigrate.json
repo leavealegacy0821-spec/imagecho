@@ -1,0 +1,93 @@
+{
+  "word": "emigrate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈemɪɡreɪt/",
+  "core_image": {
+    "text": "自分の国から、外の国へ出ていって住む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"20\" y=\"30\" width=\"80\" height=\"116\"/><rect x=\"140\" y=\"30\" width=\"80\" height=\"116\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"70\" x2=\"160\" y2=\"70\"/><polyline points=\"153,66.2 160,70 153,73.8\"/></g><text x=\"60\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">自分の国</text></svg>"
+  },
+  "etymology": "e-(=ex 外へ) + migrare(移る:migrate と同じ根) → 外へ移る → (自分の国から)よその国へ移り住む=移住する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to leave your own country to live in another country."
+    }
+  ],
+  "cautions": [
+    "emigrate=(自国から)外国へ出ていく(from 〜 / to 〜)/immigrate=(外国から)この国に入ってくる(to [into] 〜)",
+    "migrate=(鳥・人が)季節や仕事で移動する",
+    "emigrant=(出ていく)移民/emigration=(国外への)移住",
+    "e-=外へ/im-=中へ で見分ける"
+  ],
+  "patterns": [
+    {
+      "form": "emigrate from A to B",
+      "meaning": "AからBへ移住する"
+    },
+    {
+      "form": "emigrate to A",
+      "meaning": "Aへ移住する"
+    },
+    {
+      "form": "emigration",
+      "meaning": "国外への移住"
+    },
+    {
+      "form": "an emigrant",
+      "meaning": "(出ていく)移民"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "移住する",
+      "en": "His family emigrated from Japan to Brazil.",
+      "ja": "彼の家族は日本からブラジルへ移住した。"
+    },
+    {
+      "source": "original",
+      "label": "外国へ",
+      "en": "Many young people want to emigrate to Canada.",
+      "ja": "多くの若者がカナダへの移住を望んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "移住",
+      "en": "Emigration from the country increased after the war.",
+      "ja": "戦争のあと、その国からの移住が増えた。"
+    },
+    {
+      "source": "original",
+      "label": "移民",
+      "en": "Japanese emigrants built new lives in Hawaii.",
+      "ja": "日本人移民はハワイで新しい生活を築いた。"
+    },
+    {
+      "source": "original",
+      "label": "出ていく",
+      "en": "She emigrated when she was twenty.",
+      "ja": "彼女は20歳のときに外国へ移住した。"
+    },
+    {
+      "source": "original",
+      "label": "理由",
+      "en": "Many people emigrated to escape poverty.",
+      "ja": "多くの人が貧しさから逃れるために国を出た。"
+    }
+  ],
+  "check_points": [
+    "emigrate と immigrate のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "emigrate / immigrate の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1757
+    }
+  ]
+}

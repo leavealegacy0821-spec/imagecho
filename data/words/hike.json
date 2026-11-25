@@ -1,0 +1,98 @@
+{
+  "word": "hike",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/haɪk/",
+  "core_image": {
+    "text": "山や野を、長く歩く・(値段を)ぐいと上げる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"120,140 180,60 240,140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><rect x=\"60\" y=\"64\" width=\"14\" height=\"22\"/><line x1=\"96\" y1=\"80\" x2=\"104\" y2=\"140\"/></g><text x=\"180\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">山歩き</text></svg>"
+  },
+  "etymology": "野山を長く歩く=ハイキングする → (別の使い方)(値段・税を)ぐいと大幅に上げる(price hike)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to go for a long walk in the countryside or mountains; to increase prices or taxes suddenly."
+    },
+    {
+      "pos": "名詞",
+      "text": "a long walk in the countryside; a large increase in prices."
+    }
+  ],
+  "cautions": [
+    "walk=歩く/hike=野山を(楽しみとして)長く歩く/trek=何日もかけて苦労して歩く",
+    "go hiking=ハイキングに行く",
+    "a price hike=値上げ(新聞でよく使う)",
+    "hike up=(服を)たくし上げる"
+  ],
+  "patterns": [
+    {
+      "form": "go hiking",
+      "meaning": "ハイキングに行く"
+    },
+    {
+      "form": "go on a hike",
+      "meaning": "ハイキングに行く"
+    },
+    {
+      "form": "a price hike",
+      "meaning": "値上げ"
+    },
+    {
+      "form": "hike A",
+      "meaning": "A(値段)を上げる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ハイキング",
+      "en": "We went hiking in the mountains.",
+      "ja": "私たちは山へハイキングに行った。"
+    },
+    {
+      "source": "original",
+      "label": "長く歩く",
+      "en": "They hiked 20 kilometers in one day.",
+      "ja": "彼らは1日で20キロ歩いた。"
+    },
+    {
+      "source": "original",
+      "label": "値上げ",
+      "en": "People are angry about the tax hike.",
+      "ja": "人々は増税に怒っている。"
+    },
+    {
+      "source": "original",
+      "label": "上げる",
+      "en": "The company hiked its prices again.",
+      "ja": "その会社はまた値上げした。"
+    },
+    {
+      "source": "original",
+      "label": "山道",
+      "en": "The hike to the top took three hours.",
+      "ja": "頂上までの山歩きは3時間かかった。"
+    },
+    {
+      "source": "original",
+      "label": "ハイカー",
+      "en": "The trail is popular with hikers.",
+      "ja": "その道はハイカーに人気だ。"
+    }
+  ],
+  "check_points": [
+    "a price hike の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a price hike が時事で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1755
+    }
+  ]
+}

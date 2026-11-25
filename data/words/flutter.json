@@ -1,0 +1,94 @@
+{
+  "word": "flutter",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈflʌtər/",
+  "core_image": {
+    "text": "小きざみに、ぱたぱたひらひらする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M100 80 L80 50 L70 70 Z\"/><path d=\"M100 80 L80 110 L70 90 Z\"/><path d=\"M100 80 L120 50 L130 70 Z\"/><path d=\"M100 80 L120 110 L130 90 Z\"/><line x1=\"100\" y1=\"60\" x2=\"100\" y2=\"100\"/><path d=\"M150 60 Q160 70 150 80 Q160 90 150 100\" stroke-dasharray=\"2 2\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひらひら</text></svg>"
+  },
+  "etymology": "古い英語 floterian(水に浮いてゆれる。float と同じ仲間) → (羽・旗が)小きざみにぱたぱた動く・ひらひら舞う → (胸が)どきどきする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move quickly and lightly up and down or from side to side; (of the heart) to beat fast because of excitement."
+    },
+    {
+      "pos": "名詞",
+      "text": "a quick light movement; a state of nervous excitement."
+    }
+  ],
+  "cautions": [
+    "fly=飛ぶ/flutter=羽を小きざみにぱたぱた・ひらひら舞う(チョウ・旗・木の葉)",
+    "My heart fluttered.=胸がどきどきした",
+    "flutter one's eyelashes=まつげをぱちぱちさせる",
+    "hover=空中に止まる"
+  ],
+  "patterns": [
+    {
+      "form": "A flutters",
+      "meaning": "Aがひらひら舞う"
+    },
+    {
+      "form": "flutter in the wind",
+      "meaning": "風にはためく"
+    },
+    {
+      "form": "A's heart flutters",
+      "meaning": "胸がどきどきする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ひらひら",
+      "en": "Butterflies fluttered among the flowers.",
+      "ja": "チョウが花の間をひらひら舞った。"
+    },
+    {
+      "source": "original",
+      "label": "はためく",
+      "en": "The flags fluttered in the wind.",
+      "ja": "旗が風にはためいた。"
+    },
+    {
+      "source": "original",
+      "label": "舞い落ちる",
+      "en": "Leaves fluttered to the ground.",
+      "ja": "木の葉がひらひらと地面に舞い落ちた。"
+    },
+    {
+      "source": "original",
+      "label": "どきどき",
+      "en": "My heart fluttered when she smiled at me.",
+      "ja": "彼女が私にほほえんで胸がどきどきした。"
+    },
+    {
+      "source": "original",
+      "label": "ぱたぱた",
+      "en": "The bird fluttered its wings.",
+      "ja": "鳥が羽をぱたぱたさせた。"
+    },
+    {
+      "source": "original",
+      "label": "そわそわ",
+      "en": "She was in a flutter before the interview.",
+      "ja": "彼女は面接の前でそわそわしていた。"
+    }
+  ],
+  "check_points": [
+    "fly と flutter のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1750
+    }
+  ]
+}

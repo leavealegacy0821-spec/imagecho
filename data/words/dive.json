@@ -1,0 +1,98 @@
+{
+  "word": "dive",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/daɪv/",
+  "core_image": {
+    "text": "頭から、まっさかさまに飛びこむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 120 Q40 112 70 120 T130 120 T190 120 T240 120\"/><rect x=\"20\" y=\"40\" width=\"50\" height=\"8\"/><path d=\"M70 40 Q120 20 150 110\" stroke-dasharray=\"4 4\"/><polygon points=\"144,104 152,118 158,102\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ざぶん</text></svg>"
+  },
+  "etymology": "古い英語 dȳfan(ひたす・沈む) → 頭から水に飛びこむ・もぐる → (急に)飛びこむ・突っこむ(dive into) → (値段が)急落する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to jump into water head first; to swim under water; to move quickly downward; (of prices) to fall suddenly."
+    },
+    {
+      "pos": "名詞",
+      "text": "a jump into water; a sudden fall."
+    }
+  ],
+  "cautions": [
+    "活用 dive - dived [(米)dove] - dived",
+    "dive into A=Aに飛びこむ・(仕事など)に没頭する",
+    "prices dived=値段が急落した",
+    "skydiving / scuba diving=スカイダイビング・スキューバダイビング"
+  ],
+  "patterns": [
+    {
+      "form": "dive into A",
+      "meaning": "Aに飛びこむ・打ちこむ"
+    },
+    {
+      "form": "dive for A",
+      "meaning": "Aを取ろうと飛びつく"
+    },
+    {
+      "form": "go diving",
+      "meaning": "ダイビングに行く"
+    },
+    {
+      "form": "take a dive",
+      "meaning": "急落する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "飛びこむ",
+      "en": "He dived into the pool.",
+      "ja": "彼はプールに飛びこんだ。"
+    },
+    {
+      "source": "original",
+      "label": "もぐる",
+      "en": "We went diving to see the coral.",
+      "ja": "サンゴを見にダイビングに行った。"
+    },
+    {
+      "source": "original",
+      "label": "飛びつく",
+      "en": "The goalkeeper dived for the ball.",
+      "ja": "キーパーはボールに飛びついた。"
+    },
+    {
+      "source": "original",
+      "label": "打ちこむ",
+      "en": "She dived into her new job.",
+      "ja": "彼女は新しい仕事に打ちこんだ。"
+    },
+    {
+      "source": "original",
+      "label": "急落",
+      "en": "Stock prices took a dive.",
+      "ja": "株価が急落した。"
+    },
+    {
+      "source": "original",
+      "label": "急降下",
+      "en": "The eagle dived toward the water.",
+      "ja": "ワシが水面に向かって急降下した。"
+    }
+  ],
+  "check_points": [
+    "dive into A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "dive into が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1753
+    }
+  ]
+}

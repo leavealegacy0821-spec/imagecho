@@ -1,0 +1,89 @@
+{
+  "word": "hover",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈhʌvər/",
+  "core_image": {
+    "text": "空中の1か所に、ふわっと止まっている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><ellipse cx=\"120\" cy=\"60\" rx=\"30\" ry=\"10\"/><line x1=\"90\" y1=\"44\" x2=\"150\" y2=\"44\"/><line x1=\"120\" y1=\"44\" x2=\"120\" y2=\"50\"/><line x1=\"120\" y1=\"80\" x2=\"120\" y2=\"130\" stroke-dasharray=\"3 4\"/></g><text x=\"190\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふわっ</text></svg>"
+  },
+  "etymology": "中英語 hoveren(空中にとどまる) → 空中の1か所にふわっと止まる → (人が)そばをうろうろする・(数値が)あたりを行ったり来たりする → (マウスを)上にのせる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stay in one place in the air; to stay near someone or something; (of a number) to stay around a certain level."
+    }
+  ],
+  "cautions": [
+    "fly=飛んで移動/hover=移動せず空中の1か所にとどまる",
+    "hover around A=A(数値)の前後を行き来する",
+    "hover over A=Aの上空にとどまる・(人が)Aのそばをうろつく",
+    "(パソコン)カーソルを上にのせる"
+  ],
+  "patterns": [
+    {
+      "form": "hover over A",
+      "meaning": "Aの上空にとどまる"
+    },
+    {
+      "form": "hover around A",
+      "meaning": "A前後を推移する・Aのそばをうろうろ"
+    },
+    {
+      "form": "hover between A and B",
+      "meaning": "AとBの間をさまよう"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "空中に止まる",
+      "en": "A helicopter hovered over the building.",
+      "ja": "ヘリコプターがビルの上空に止まっていた。"
+    },
+    {
+      "source": "original",
+      "label": "推移する",
+      "en": "The temperature hovered around zero.",
+      "ja": "気温は0度前後を推移した。"
+    },
+    {
+      "source": "original",
+      "label": "うろうろ",
+      "en": "The waiter kept hovering near our table.",
+      "ja": "ウエーターが私たちのテーブルのそばをうろうろしていた。"
+    },
+    {
+      "source": "original",
+      "label": "さまよう",
+      "en": "He hovered between life and death.",
+      "ja": "彼は生死の境をさまよった。"
+    },
+    {
+      "source": "original",
+      "label": "ハチドリ",
+      "en": "Hummingbirds can hover in the air.",
+      "ja": "ハチドリは空中で止まっていられる。"
+    },
+    {
+      "source": "original",
+      "label": "カーソル",
+      "en": "Hover your mouse over the icon.",
+      "ja": "アイコンにマウスを合わせてください。"
+    }
+  ],
+  "check_points": [
+    "hover around A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "グラフ問題で hover around が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1751
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "trek",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/trek/",
+  "core_image": {
+    "text": "長く苦しい道のりを、何日もかけて歩く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"80,140 110,100 140,124 170,70 200,110 230,84\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><rect x=\"22\" y=\"64\" width=\"12\" height=\"20\"/><line x1=\"70\" y1=\"40\" x2=\"200\" y2=\"40\"/><polyline points=\"193,36.2 200,40 193,43.8\"/></g><text x=\"120\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">何日も</text></svg>"
+  },
+  "etymology": "南アフリカのオランダ語 trekken(牛車で旅する・引く) → 牛車で長い旅をする → (山・荒れ地を)何日もかけて苦労して歩く → (遠くまで)わざわざ出かける",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make a long, difficult journey, especially on foot."
+    },
+    {
+      "pos": "名詞",
+      "text": "a long difficult journey on foot."
+    }
+  ],
+  "cautions": [
+    "hike=楽しみとして野山を歩く/trek=長くきつい道のりを(何日も)歩く",
+    "go trekking=トレッキングに行く",
+    "trek to A=わざわざAまで出かける(口語)",
+    "journey=長い旅(手段を問わない)"
+  ],
+  "patterns": [
+    {
+      "form": "trek through A",
+      "meaning": "Aを苦労して歩く"
+    },
+    {
+      "form": "go trekking",
+      "meaning": "トレッキングに行く"
+    },
+    {
+      "form": "a long trek",
+      "meaning": "長くきつい道のり"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "何日も",
+      "en": "They trekked through the jungle for a week.",
+      "ja": "彼らは1週間ジャングルを歩き続けた。"
+    },
+    {
+      "source": "original",
+      "label": "トレッキング",
+      "en": "We went trekking in Nepal.",
+      "ja": "私たちはネパールへトレッキングに行った。"
+    },
+    {
+      "source": "original",
+      "label": "道のり",
+      "en": "It's a long trek to the nearest village.",
+      "ja": "いちばん近い村まで長い道のりだ。"
+    },
+    {
+      "source": "original",
+      "label": "わざわざ",
+      "en": "I trekked all the way to the store, but it was closed.",
+      "ja": "わざわざ店まで行ったのに閉まっていた。"
+    },
+    {
+      "source": "original",
+      "label": "きつい",
+      "en": "The trek across the desert was dangerous.",
+      "ja": "砂漠を横断する旅は危険だった。"
+    },
+    {
+      "source": "original",
+      "label": "移動",
+      "en": "The animals trek hundreds of kilometers every year.",
+      "ja": "その動物たちは毎年何百キロも移動する。"
+    }
+  ],
+  "check_points": [
+    "hike と trek のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1756
+    }
+  ]
+}

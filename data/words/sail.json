@@ -1,0 +1,98 @@
+{
+  "word": "sail",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/seɪl/",
+  "core_image": {
+    "text": "帆に風を受けて、すいすい進む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 120 Q40 112 70 120 T130 120 T190 120 T240 120\"/><path d=\"M80 110 L160 110 L150 124 L90 124 Z\"/><line x1=\"120\" y1=\"30\" x2=\"120\" y2=\"110\"/><polygon points=\"120,34 120,100 168,100\"/><line x1=\"20\" y1=\"60\" x2=\"60\" y2=\"60\" stroke-dasharray=\"5 5\"/><polyline points=\"53,56.2 60,60 53,63.8\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">帆</text></svg>"
+  },
+  "etymology": "古い英語 segl(帆) → 帆 → 帆船で行く・航海する → (船が)出航する(sail for) → (人・物が)すいすい楽に進む(sail through)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a large piece of cloth on a boat that catches the wind."
+    },
+    {
+      "pos": "動詞",
+      "text": "to travel on water in a ship; to start a journey by ship; to move quickly and smoothly."
+    }
+  ],
+  "cautions": [
+    "sail for A=Aに向けて出航する",
+    "set sail (for A)=(Aへ)出帆する",
+    "sail through A=A(試験など)を楽々こなす",
+    "sale(販売)と同じ発音"
+  ],
+  "patterns": [
+    {
+      "form": "sail for A",
+      "meaning": "Aに向けて出航する"
+    },
+    {
+      "form": "set sail",
+      "meaning": "出帆する"
+    },
+    {
+      "form": "sail through A",
+      "meaning": "Aを楽々こなす"
+    },
+    {
+      "form": "go sailing",
+      "meaning": "ヨットに乗りに行く"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "航海",
+      "en": "The ship sailed across the Atlantic.",
+      "ja": "その船は大西洋を横断した。"
+    },
+    {
+      "source": "original",
+      "label": "出航",
+      "en": "The boat sails for Okinawa tomorrow.",
+      "ja": "その船は明日沖縄に向けて出航する。"
+    },
+    {
+      "source": "original",
+      "label": "楽々",
+      "en": "She sailed through the exam.",
+      "ja": "彼女は試験を楽々と通った。"
+    },
+    {
+      "source": "original",
+      "label": "帆",
+      "en": "The wind filled the sails.",
+      "ja": "風が帆をふくらませた。"
+    },
+    {
+      "source": "original",
+      "label": "ヨット",
+      "en": "We went sailing on the lake.",
+      "ja": "湖にヨットに乗りに行った。"
+    },
+    {
+      "source": "original",
+      "label": "すいすい",
+      "en": "The ball sailed over the fence.",
+      "ja": "ボールはフェンスをすいすい越えていった。"
+    }
+  ],
+  "check_points": [
+    "sail through A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "set sail、sail through が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1754
+    }
+  ]
+}

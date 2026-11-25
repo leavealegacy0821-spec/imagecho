@@ -2002,7 +2002,7 @@
     },
     {
       "title": "使い分け:旅",
-      "note": "travel=遠くへ移ること一般(不可算) ／ trip=行って帰るひと回りの旅(可算) ／ journey=長い道のりそのもの ／ tour=あちこちぐるりと見物 ／ voyage=海・宇宙を渡る長旅 ／ excursion=いつもの所から出る短い遠足 ／ expedition=目的をもった探検・遠征 ／ flight=空のひとっ飛び・便",
+      "note": "travel=遠くへ移ること一般(不可算) ／ trip=行って帰るひと回りの旅(可算) ／ journey=長い道のりそのもの ／ tour=あちこちぐるりと見物 ／ voyage=海・宇宙を渡る長旅 ／ excursion=いつもの所から出る短い遠足 ／ expedition=目的をもった探検・遠征 ／ flight=空のひとっ飛び・便 ／ hike=野山を楽しみとして長く歩く・(値段を)ぐいと上げる ／ trek=長くきつい道のりを何日もかけて歩く",
       "words": [
         "travel",
         "trip",
@@ -2011,18 +2011,22 @@
         "voyage",
         "excursion",
         "expedition",
-        "flight"
+        "flight",
+        "hike",
+        "trek"
       ]
     },
     {
       "title": "使い分け:移る・移り住む",
-      "note": "move=動く・引っ越す(広い) ／ shift=位置をずらす ／ migrate=群れで遠くへ移り住む(渡り鳥・移住) ／ commute=毎日通う ／ settle=住みついて落ち着く",
+      "note": "move=動く・引っ越す(広い) ／ shift=位置をずらす ／ migrate=群れで遠くへ移り住む(渡り鳥・移住) ／ commute=毎日通う ／ settle=住みついて落ち着く ／ emigrate=自分の国から外へ出ていって住む(e-=外へ) ／ immigrate=よその国からこの国へ入ってきて住む(im-=中へ)",
       "words": [
         "move",
         "shift",
         "migrate",
         "commute",
-        "settle"
+        "settle",
+        "emigrate",
+        "immigrate"
       ]
     },
     {
@@ -3032,12 +3036,24 @@
     },
     {
       "title": "使い分け:跳ぶ・はねる",
-      "note": "jump=足でけってぱっと跳ぶ(広い) ／ leap=大きく弧をえがいて遠くへ・飛躍(leapt) ／ hop=片足・小さくぴょんぴょん ／ skip=軽くはずむ・ぴょんととばす(抜かす) ／ bounce=当たってぽんとはね返る",
+      "note": "jump=足でけってぱっと跳ぶ(広い) ／ leap=大きく弧をえがいて遠くへ・飛躍(leapt) ／ hop=片足・小さくぴょんぴょん ／ skip=軽くはずむ・ぴょんととばす(抜かす)",
       "words": [
         "jump",
         "leap",
         "hop",
         "skip"
+      ]
+    },
+    {
+      "title": "使い分け:飛ぶ・泳ぐ",
+      "note": "fly=空中をすーっと移動(flew, flown)・時が飛ぶように過ぎる ／ flutter=小きざみにぱたぱたひらひら ／ hover=移動せず空中の1か所にふわっと止まる ／ swim=水の中を手足で進む(swam, swum) ／ dive=頭からまっさかさまに飛びこむ ／ sail=帆に風を受けて進む・楽々こなす",
+      "words": [
+        "fly",
+        "flutter",
+        "hover",
+        "swim",
+        "dive",
+        "sail"
       ]
     },
     {

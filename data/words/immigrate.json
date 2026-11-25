@@ -1,0 +1,93 @@
+{
+  "word": "immigrate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈɪmɪɡreɪt/",
+  "core_image": {
+    "text": "よその国から、この国へ入ってきて住む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"20\" y=\"30\" width=\"80\" height=\"116\"/><rect x=\"140\" y=\"30\" width=\"80\" height=\"116\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"80\" y1=\"70\" x2=\"160\" y2=\"70\"/><polyline points=\"153,66.2 160,70 153,73.8\"/></g><text x=\"180\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">この国</text></svg>"
+  },
+  "etymology": "im-(=in 中へ) + migrare(移る:migrate と同じ根) → 中へ移る → (外国から)この国へ移り住む",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to come to live permanently in a country that is not your own."
+    }
+  ],
+  "cautions": [
+    "immigrate=(外国から)入ってくる(to [into] 〜)/emigrate=(自国から)出ていく(from 〜)",
+    "immigrant=(入ってくる)移民/immigration=(国内への)移住・入国管理",
+    "immigration control=出入国管理",
+    "e-=外へ/im-=中へ"
+  ],
+  "patterns": [
+    {
+      "form": "immigrate to [into] A",
+      "meaning": "Aへ移住してくる"
+    },
+    {
+      "form": "immigration",
+      "meaning": "移住・入国審査"
+    },
+    {
+      "form": "an immigrant",
+      "meaning": "(入ってくる)移民"
+    },
+    {
+      "form": "illegal immigrants",
+      "meaning": "不法移民"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "移住してくる",
+      "en": "His grandparents immigrated to the United States in 1920.",
+      "ja": "彼の祖父母は1920年にアメリカへ移住してきた。"
+    },
+    {
+      "source": "original",
+      "label": "移民",
+      "en": "The city has a large immigrant population.",
+      "ja": "その都市には移民が多い。"
+    },
+    {
+      "source": "original",
+      "label": "入国審査",
+      "en": "We went through immigration at the airport.",
+      "ja": "空港で入国審査を通った。"
+    },
+    {
+      "source": "original",
+      "label": "移民政策",
+      "en": "Immigration is a major political issue.",
+      "ja": "移民は大きな政治問題だ。"
+    },
+    {
+      "source": "original",
+      "label": "受け入れ",
+      "en": "Canada welcomes many immigrants every year.",
+      "ja": "カナダは毎年多くの移民を受け入れている。"
+    },
+    {
+      "source": "original",
+      "label": "対比",
+      "en": "They emigrated from Italy and immigrated to Argentina.",
+      "ja": "彼らはイタリアから出てアルゼンチンに移住した。"
+    }
+  ],
+  "check_points": [
+    "immigrant と emigrant のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "immigrant、immigration が長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1758
+    }
+  ]
+}
