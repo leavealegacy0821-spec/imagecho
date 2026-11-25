@@ -1,0 +1,94 @@
+{
+  "word": "greet",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɡriːt/",
+  "core_image": {
+    "text": "顔を合わせたその場で、声や身ぶりであいさつする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 88,60 92,44\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"100\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><polyline points=\"170,74 152,60 148,44\"/><line x1=\"170\" y1=\"74\" x2=\"182\" y2=\"100\"/></g><text x=\"120\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やあ!</text></svg>"
+  },
+  "etymology": "古英語 gretan(話しかける・呼びかける) → 会った人に声をかける → ①あいさつする・迎える ②(知らせ・物事を)ある態度で受けとめる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say hello to someone or welcome them; to react to something in a particular way."
+    }
+  ],
+  "cautions": [
+    "greet A=Aにあいさつする(他動詞。greet to A は×)",
+    "greet A with B=AをBで迎える(greet the news with joy=知らせを喜んで受けとめる)",
+    "受け身 be greeted with A=Aで迎えられる(The plan was greeted with criticism.=計画は批判を受けた)",
+    "名詞 greeting=あいさつ(Season's Greetings)。welcome=喜んで迎える/greet=あいさつする(喜んでいるとは限らない)"
+  ],
+  "patterns": [
+    {
+      "form": "greet A",
+      "meaning": "Aにあいさつする"
+    },
+    {
+      "form": "greet A with B",
+      "meaning": "AをBで迎える"
+    },
+    {
+      "form": "be greeted with A",
+      "meaning": "Aで迎えられる・受けとめられる"
+    },
+    {
+      "form": "exchange greetings",
+      "meaning": "あいさつを交わす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "あいさつ",
+      "en": "He greeted me with a big smile.",
+      "ja": "彼は満面の笑みで私にあいさつした。"
+    },
+    {
+      "source": "original",
+      "label": "迎える",
+      "en": "The children ran to the door to greet their father.",
+      "ja": "子どもたちは父親を迎えに玄関へ走った。"
+    },
+    {
+      "source": "original",
+      "label": "受けとめる",
+      "en": "The news was greeted with cheers.",
+      "ja": "その知らせは歓声で迎えられた。"
+    },
+    {
+      "source": "original",
+      "label": "批判",
+      "en": "The new tax was greeted with strong opposition.",
+      "ja": "新しい税は強い反対を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The two leaders exchanged greetings before the meeting.",
+      "ja": "両首脳は会談の前にあいさつを交わした。"
+    },
+    {
+      "source": "original",
+      "label": "文化",
+      "en": "In Japan, people often greet each other by bowing.",
+      "ja": "日本では人々はおじぎをしてあいさつすることが多い。"
+    }
+  ],
+  "check_points": [
+    "greet が他動詞(to が要らない)ことを言えるか",
+    "be greeted with A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "greet A(前置詞なし)の語法と、be greeted with A(〜で受けとめられる)が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2001
+    }
+  ]
+}

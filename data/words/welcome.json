@@ -1,0 +1,108 @@
+{
+  "word": "welcome",
+  "pos": [
+    "動詞",
+    "名詞",
+    "形容詞"
+  ],
+  "ipa": "/ˈwelkəm/",
+  "core_image": {
+    "text": "来た人を、両手を広げてうれしく迎え入れる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><polyline points=\"150,74 128,62 118,50\"/><polyline points=\"150,74 172,62 182,50\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"98\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"98\"/><line x1=\"82\" y1=\"120\" x2=\"120\" y2=\"120\"/><polyline points=\"113,116.2 120,120 113,123.8\"/></g><text x=\"205\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ようこそ</text></svg>"
+  },
+  "etymology": "古英語 wil(望みどおりの)+ cuma(来る人) → 来てくれてうれしい人 → ①歓迎する ②(提案・変化などを)喜んで受け入れる ③(形容詞)ありがたい・自由に〜してよい",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to greet someone in a friendly way when they arrive; to be pleased about something and accept it."
+    },
+    {
+      "pos": "名詞",
+      "text": "the way people greet someone when they arrive."
+    },
+    {
+      "pos": "形容詞",
+      "text": "pleased to have something; allowed to do or take something freely."
+    }
+  ],
+  "cautions": [
+    "welcome は動詞・名詞・形容詞にもなる。You're welcome.=どういたしまして",
+    "be welcome to do=自由に〜してよい(You are welcome to use my bike.)",
+    "welcome a proposal / change=提案・変化を歓迎する(人以外も目的語にできる)",
+    "invite=呼ぶ/welcome=来た人をうれしく迎える/greet=顔を合わせてあいさつする"
+  ],
+  "patterns": [
+    {
+      "form": "welcome A to B",
+      "meaning": "AをBに迎える"
+    },
+    {
+      "form": "welcome A (proposal など)",
+      "meaning": "Aを歓迎する・喜んで受け入れる"
+    },
+    {
+      "form": "be welcome to do",
+      "meaning": "自由に〜してよい"
+    },
+    {
+      "form": "a warm welcome",
+      "meaning": "温かい歓迎"
+    },
+    {
+      "form": "a welcome change",
+      "meaning": "ありがたい変化"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "迎える",
+      "en": "The host family welcomed me at the airport.",
+      "ja": "ホストファミリーが空港で私を迎えてくれた。"
+    },
+    {
+      "source": "original",
+      "label": "to B",
+      "en": "Welcome to our school!",
+      "ja": "私たちの学校へようこそ!"
+    },
+    {
+      "source": "original",
+      "label": "受け入れる",
+      "en": "Most students welcomed the new rule.",
+      "ja": "ほとんどの生徒は新しい規則を歓迎した。"
+    },
+    {
+      "source": "original",
+      "label": "自由に",
+      "en": "You are welcome to join us anytime.",
+      "ja": "いつでも気軽に参加してください。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The team received a warm welcome from the fans.",
+      "ja": "チームはファンから温かい歓迎を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "形容詞",
+      "en": "The rain was a welcome relief after the long dry season.",
+      "ja": "長い乾季のあとの雨はありがたい救いだった。"
+    }
+  ],
+  "check_points": [
+    "be welcome to do の意味を言えるか",
+    "invite と welcome のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be welcome to do(自由に〜してよい)や a welcome change が会話・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2000
+    }
+  ]
+}

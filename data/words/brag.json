@@ -1,0 +1,94 @@
+{
+  "word": "brag",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/bræɡ/",
+  "core_image": {
+    "text": "胸をそらせて、自分のことを大声でふいてまわる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><polyline points=\"90,74 70,66 76,80\"/><polyline points=\"90,74 116,58 130,44\"/><line x1=\"108\" y1=\"40\" x2=\"150\" y2=\"22\"/><polyline points=\"142,21.2 150,22 145.1,28.3\"/><line x1=\"108\" y1=\"50\" x2=\"160\" y2=\"50\"/><polyline points=\"153,46.2 160,50 153,53.8\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"188\" y2=\"98\"/><line x1=\"200\" y1=\"74\" x2=\"212\" y2=\"98\"/></g><text x=\"40\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すごいだろ</text></svg>"
+  },
+  "etymology": "胸をそらせて大きな声を出す → 自分のことを大げさに言いふらす → 自慢する(くだけた語で、いやみな響き)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to talk too proudly about yourself or what you have done (informal)."
+    }
+  ],
+  "cautions": [
+    "brag about / of A=Aのことを自慢する(about がふつう)/brag that 〜=〜だと自慢する",
+    "boast=自慢する(やや改まった語で、「(誇れるものを)持っている」の意味もある:The town boasts a fine park.)/brag=くだけた語で、いやみな自慢",
+    "過去形 bragged・-ing 形 bragging(g を重ねる)",
+    "名詞 bragging rights=自慢できる権利(勝った側が自慢できること)"
+  ],
+  "patterns": [
+    {
+      "form": "brag about A",
+      "meaning": "Aを自慢する"
+    },
+    {
+      "form": "brag that 〜",
+      "meaning": "〜だと自慢する"
+    },
+    {
+      "form": "without bragging",
+      "meaning": "自慢せずに"
+    },
+    {
+      "form": "bragging rights",
+      "meaning": "自慢できる権利"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "about",
+      "en": "He is always bragging about his new phone.",
+      "ja": "彼はいつも新しいスマホを自慢している。"
+    },
+    {
+      "source": "original",
+      "label": "that",
+      "en": "She bragged that she had never lost a game.",
+      "ja": "彼女は試合で負けたことがないと自慢した。"
+    },
+    {
+      "source": "original",
+      "label": "よくない",
+      "en": "Nobody likes people who brag about their grades.",
+      "ja": "成績を自慢する人はだれにも好かれない。"
+    },
+    {
+      "source": "original",
+      "label": "without",
+      "en": "I'm not bragging, but I finished the marathon in three hours.",
+      "ja": "自慢するわけではないけれど、マラソンを3時間で走りきったんだ。"
+    },
+    {
+      "source": "original",
+      "label": "権利",
+      "en": "The winning team earned bragging rights for a year.",
+      "ja": "勝ったチームは1年間自慢できる権利を得た。"
+    },
+    {
+      "source": "original",
+      "label": "boast",
+      "en": "The town boasts a beautiful castle, and the locals love to brag about it.",
+      "ja": "その町には美しい城があり、地元の人はそれを自慢するのが大好きだ。"
+    }
+  ],
+  "check_points": [
+    "brag about A の前置詞を言えるか",
+    "boast と brag のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "brag about A と boast of / about A の使い分けが語彙問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2008
+    }
+  ]
+}

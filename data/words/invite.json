@@ -1,0 +1,98 @@
+{
+  "word": "invite",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈvaɪt/",
+  "core_image": {
+    "text": "こちらへどうぞと、手まねきして呼びこむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><polyline points=\"170,74 150,70 140,58\"/><line x1=\"170\" y1=\"74\" x2=\"184\" y2=\"100\"/><polyline points=\"40,140 40,80 100,80 100,140\"/><line x1=\"70\" y1=\"80\" x2=\"70\" y2=\"140\"/><line x1=\"136\" y1=\"96\" x2=\"108\" y2=\"96\" stroke-dasharray=\"5 5\"/><polyline points=\"115,99.8 108,96 115,92.2\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どうぞ</text></svg>"
+  },
+  "etymology": "ラテン語 invitare(招く・さそう) → 人をこちらへ呼びこむ → ①招待する ②(〜するよう)ていねいに頼む ③(意見・批判・危険などを)招く・引き起こす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to ask someone to come to a party, meal, etc.; to ask someone formally to do something; to make something, especially something bad, more likely to happen."
+    }
+  ],
+  "cautions": [
+    "invite A to B=AをBに招待する(to に注意)/invite A to do=Aに〜するよう(ていねいに)勧める・頼む",
+    "「招く=よくないことを呼びこむ」の意味もある(invite criticism=批判を招く)",
+    "invite=来てほしいと呼びこむ/welcome=来た人を喜んで迎え入れる/greet=会ったときにあいさつする",
+    "名詞 invitation=招待・招待状(an invitation to the party)"
+  ],
+  "patterns": [
+    {
+      "form": "invite A to B",
+      "meaning": "AをBに招待する"
+    },
+    {
+      "form": "invite A to do",
+      "meaning": "Aに〜するよう勧める"
+    },
+    {
+      "form": "invite A in / over",
+      "meaning": "Aを家の中へ・家に招く"
+    },
+    {
+      "form": "invite criticism / trouble",
+      "meaning": "批判・面倒を招く"
+    },
+    {
+      "form": "by invitation only",
+      "meaning": "招待者のみ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "to B",
+      "en": "She invited me to her birthday party.",
+      "ja": "彼女は私を誕生日パーティーに招待してくれた。"
+    },
+    {
+      "source": "original",
+      "label": "over",
+      "en": "Why don't we invite our neighbors over for dinner?",
+      "ja": "近所の人たちを夕食に招いてはどうだろう。"
+    },
+    {
+      "source": "original",
+      "label": "to do",
+      "en": "The teacher invited the students to ask questions.",
+      "ja": "先生は生徒たちに質問するよう勧めた。"
+    },
+    {
+      "source": "original",
+      "label": "意見",
+      "en": "The city is inviting opinions on the new park plan.",
+      "ja": "市は新しい公園の計画について意見を募っている。"
+    },
+    {
+      "source": "original",
+      "label": "招く",
+      "en": "Leaving your bike unlocked is inviting trouble.",
+      "ja": "自転車に鍵をかけないでおくのは、面倒を招くようなものだ。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "I was invited to speak at the ceremony.",
+      "ja": "私は式典でスピーチをするよう頼まれた。"
+    }
+  ],
+  "check_points": [
+    "invite A to do の意味(〜するよう勧める)を言えるか",
+    "invite trouble の「招く」の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "invite A to do の型と、「(よくないことを)招く」の意味が長文・語法問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1999
+    }
+  ]
+}

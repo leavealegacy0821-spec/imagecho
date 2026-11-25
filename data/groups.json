@@ -297,14 +297,15 @@
     },
     {
       "title": "使い分け:説得する",
-      "note": "persuade=説いて行動させる ／ convince=説いて信じさせる ／ induce=誘い込んでさせる ／ dissuade=説いてやめさせる ／ prompt=きっかけを与える ／ tempt=誘惑する",
+      "note": "persuade=説いて行動させる ／ convince=説いて信じさせる ／ induce=誘い込んでさせる ／ dissuade=説いてやめさせる ／ prompt=きっかけを与える ／ tempt=誘惑する ／ coax=やさしく根気よくなだめてその気にさせる",
       "words": [
         "persuade",
         "convince",
         "induce",
         "dissuade",
         "prompt",
-        "tempt"
+        "tempt",
+        "coax"
       ]
     },
     {
@@ -423,7 +424,7 @@
     },
     {
       "title": "使い分け:心を乱す・怒らせる",
-      "note": "bother=小さく面倒をかける ／ disturb=静けさ・秩序を乱す ／ upset=ひっくり返して動揺させる ／ offend=気分を害する ／ provoke=わざと怒りをかき立てる ／ trouble=悩ませる ／ annoy=小さなことでいらっとさせる ／ irritate=神経・肌にさわってじりじりさせる ／ frustrate=思うようにいかずいらだたせる",
+      "note": "bother=小さく面倒をかける ／ disturb=静けさ・秩序を乱す ／ upset=ひっくり返して動揺させる ／ offend=気分を害する ／ provoke=わざと怒りをかき立てる ／ trouble=悩ませる ／ annoy=小さなことでいらっとさせる ／ irritate=神経・肌にさわってじりじりさせる ／ frustrate=思うようにいかずいらだたせる ／ insult=わざと失礼なことを言ってばかにする",
       "words": [
         "bother",
         "disturb",
@@ -434,7 +435,26 @@
         "embarrass",
         "annoy",
         "irritate",
-        "frustrate"
+        "frustrate",
+        "insult"
+      ]
+    },
+    {
+      "title": "使い分け:招く・迎える",
+      "note": "invite=こちらへどうぞと呼びこむ ／ welcome=来た人を両手を広げて喜んで迎える ／ greet=顔を合わせてあいさつする(喜びとは限らない)",
+      "words": [
+        "invite",
+        "welcome",
+        "greet"
+      ]
+    },
+    {
+      "title": "使い分け:うらやむ・ねたむ",
+      "note": "envy=人の持っているものを横目で見てほしがる ／ jealous=自分のものを取られまいと胸を燃やす・ねたむ ／ resent=された事をかみしめて腹を立てる",
+      "words": [
+        "envy",
+        "jealous",
+        "resent"
       ]
     },
     {
@@ -640,7 +660,7 @@
     },
     {
       "title": "使い分け:反対する・争う",
-      "note": "oppose=向かい合って反対する ／ object=異議を唱える(object to) ／ dispute=言い争う・異を唱える ／ contradict=言うことが食い違う ／ compete=競い合う ／ contend=争う ／ clash=ぶつかり合う ／ conflict=対立する ／ collide=物どうしが激突する・(意見が)ぶつかる",
+      "note": "oppose=向かい合って反対する ／ object=異議を唱える(object to) ／ dispute=言い争う・異を唱える ／ contradict=言うことが食い違う ／ compete=競い合う ／ contend=争う ／ clash=ぶつかり合う ／ conflict=対立する ／ collide=物どうしが激突する・(意見が)ぶつかる ／ grumble=小声でぶつぶつ不平を言いつづける",
       "words": [
         "oppose",
         "object",
@@ -652,7 +672,8 @@
         "clash",
         "conflict",
         "complain",
-        "collide"
+        "collide",
+        "grumble"
       ]
     },
     {
@@ -1478,14 +1499,15 @@
     },
     {
       "title": "使い分け:誇り・謙虚",
-      "note": "proud=誇りに思う ／ boast=自慢する ／ vain=うぬぼれた・むだな ／ modest=控えめな ／ humble=へりくだった・質素な ／ ashamed=恥じている",
+      "note": "proud=誇りに思う ／ boast=自慢する ／ vain=うぬぼれた・むだな ／ modest=控えめな ／ humble=へりくだった・質素な ／ ashamed=恥じている ／ brag=(くだけた語)いやみに自慢してまわる",
       "words": [
         "proud",
         "boast",
         "vain",
         "modest",
         "humble",
-        "ashamed"
+        "ashamed",
+        "brag"
       ]
     },
     {
@@ -1624,13 +1646,15 @@
     },
     {
       "title": "使い分け:危険にさらされた",
-      "note": "risk=危険・危険を冒す ／ threaten=脅かす ／ vulnerable=傷つきやすい ／ expose=さらす ／ warn=警告する",
+      "note": "risk=危険・危険を冒す ／ threaten=脅かす ／ vulnerable=傷つきやすい ／ expose=さらす ／ warn=警告する ／ caution=慎重にと注意をうながす・用心 ／ alert=目を見ひらいて身がまえている・警報",
       "words": [
         "risk",
         "threaten",
         "vulnerable",
         "expose",
-        "warn"
+        "warn",
+        "caution",
+        "alert"
       ]
     },
     {

@@ -1,0 +1,94 @@
+{
+  "word": "coax",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/koʊks/",
+  "core_image": {
+    "text": "やさしい声で、少しずつ手を引いてその気にさせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><polyline points=\"90,74 112,82 130,82\"/><line x1=\"90\" y1=\"74\" x2=\"78\" y2=\"98\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"132\" y2=\"82\"/><line x1=\"150\" y1=\"74\" x2=\"164\" y2=\"98\"/><line x1=\"146\" y1=\"26\" x2=\"100\" y2=\"26\"/><polyline points=\"107,29.8 100,26 107,22.2\"/></g><text x=\"196\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ね、おいで</text></svg>"
+  },
+  "etymology": "やさしい声で根気よく言い聞かせる → 少しずつその気にさせて〜させる → (笑顔・情報などを)うまく引き出す → (機械などを)うまくあやつって動かす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to persuade someone gently and patiently to do something."
+    }
+  ],
+  "cautions": [
+    "coax A into doing / coax A to do=Aをなだめすかして〜させる",
+    "coax A out of B=AをなだめてBから出させる(coax the cat out of the box)",
+    "persuade=理由を説いてその気にさせる/coax=やさしく根気よくなだめてその気にさせる/force=力ずくで",
+    "coax A out of B は「AからBを(うまく)引き出す」の意味にもなる(coax a smile out of him)"
+  ],
+  "patterns": [
+    {
+      "form": "coax A into doing",
+      "meaning": "Aをなだめて〜させる"
+    },
+    {
+      "form": "coax A to do",
+      "meaning": "Aをなだめて〜させる"
+    },
+    {
+      "form": "coax A out of B",
+      "meaning": "AをなだめてBから出す"
+    },
+    {
+      "form": "coax B from A",
+      "meaning": "AからBをうまく引き出す"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "into",
+      "en": "She coaxed her little brother into eating his vegetables.",
+      "ja": "彼女は弟をなだめすかして野菜を食べさせた。"
+    },
+    {
+      "source": "original",
+      "label": "out of",
+      "en": "We finally coaxed the cat out of the box.",
+      "ja": "私たちはやっとのことで猫を箱から出した。"
+    },
+    {
+      "source": "original",
+      "label": "to do",
+      "en": "He coaxed the shy girl to sing a song.",
+      "ja": "彼は恥ずかしがりの女の子をなだめて歌を歌わせた。"
+    },
+    {
+      "source": "original",
+      "label": "引き出す",
+      "en": "The comedian coaxed a smile from the serious judge.",
+      "ja": "その芸人はまじめな審査員から笑顔を引き出した。"
+    },
+    {
+      "source": "original",
+      "label": "物",
+      "en": "He coaxed the old engine back to life.",
+      "ja": "彼はうまくいじって古いエンジンを再びかけた。"
+    },
+    {
+      "source": "original",
+      "label": "persuade",
+      "en": "You can't force him; you have to coax him.",
+      "ja": "彼に無理じいはできない。なだめてその気にさせるしかない。"
+    }
+  ],
+  "check_points": [
+    "coax A into doing の意味を言えるか",
+    "persuade と coax のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "coax A into doing が persuade / talk A into doing と並んで語法問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2005
+    }
+  ]
+}
