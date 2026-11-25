@@ -1,0 +1,94 @@
+{
+  "word": "information",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˌɪnfərˈmeɪʃn/",
+  "core_image": {
+    "text": "形を与えて伝える、知らせの中身",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><rect x=\"100\" y=\"50\" width=\"40\" height=\"30\"/><line x1=\"108\" y1=\"60\" x2=\"132\" y2=\"60\"/><line x1=\"108\" y1=\"70\" x2=\"126\" y2=\"70\"/><line x1=\"70\" y1=\"66\" x2=\"96\" y2=\"66\"/><polyline points=\"89,62.2 96,66 89,69.8\"/><line x1=\"144\" y1=\"66\" x2=\"170\" y2=\"66\"/><polyline points=\"163,62.2 170,66 163,69.8\"/></g><text x=\"120\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">伝わる中身</text></svg>"
+  },
+  "etymology": "inform(知らせる。in=中に+form=形:心に形を与える)の名詞 → 知らせること → 情報・知らせ → information technology(IT)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "facts or details about something."
+    }
+  ],
+  "cautions": [
+    "information は不可算(× an information, × informations)。1つは a piece of information",
+    "information on [about] A=Aについての情報",
+    "knowledge=学んだ知識/information=伝えられる事実・情報",
+    "inform A of B=AにBを知らせる"
+  ],
+  "patterns": [
+    {
+      "form": "information about [on] A",
+      "meaning": "Aについての情報"
+    },
+    {
+      "form": "a piece of information",
+      "meaning": "1つの情報"
+    },
+    {
+      "form": "for your information",
+      "meaning": "ご参考までに"
+    },
+    {
+      "form": "information technology",
+      "meaning": "情報技術"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "情報",
+      "en": "Can you give me some information about the school?",
+      "ja": "その学校について情報をいただけますか。"
+    },
+    {
+      "source": "original",
+      "label": "1つの情報",
+      "en": "That's a useful piece of information.",
+      "ja": "それは役に立つ情報だ。"
+    },
+    {
+      "source": "original",
+      "label": "ご参考までに",
+      "en": "For your information, the meeting has been moved to Friday.",
+      "ja": "ご参考までに、会議は金曜に変更になりました。"
+    },
+    {
+      "source": "original",
+      "label": "情報",
+      "en": "The internet gives us a lot of information.",
+      "ja": "インターネットはたくさんの情報を与えてくれる。"
+    },
+    {
+      "source": "original",
+      "label": "情報",
+      "en": "Personal information must be kept safe.",
+      "ja": "個人情報は安全に守られなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "知らせる",
+      "en": "Please inform us of any changes.",
+      "ja": "変更があればお知らせください。"
+    }
+  ],
+  "check_points": [
+    "information が不可算であることがわかるか",
+    "a piece of information の形がわかるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "不可算名詞の代表(× informations)として文法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1240
+    }
+  ]
+}

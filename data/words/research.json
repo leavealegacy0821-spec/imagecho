@@ -1,0 +1,103 @@
+{
+  "word": "research",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈriːsɜːrtʃ/",
+  "core_image": {
+    "text": "何度もくり返し探して、くわしく調べる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"70\" width=\"40\" height=\"70\"/><rect x=\"74\" y=\"70\" width=\"40\" height=\"70\"/><rect x=\"118\" y=\"70\" width=\"40\" height=\"70\"/><circle cx=\"180\" cy=\"60\" r=\"16\"/><line x1=\"191\" y1=\"71\" x2=\"206\" y2=\"86\"/></g><text x=\"94\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くり返し探す</text></svg>"
+  },
+  "etymology": "re(くり返し)+search(探す) → 何度も探す → (学術的な)研究・調査 → (動詞)研究する・調べる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "careful study of a subject to discover new facts or information."
+    },
+    {
+      "pos": "動詞",
+      "text": "to study something carefully to find out new facts."
+    }
+  ],
+  "cautions": [
+    "research は不可算(× a research, × researches)。数えるときは a piece of research / a study",
+    "do [carry out / conduct] research on [into] A=Aについて研究する",
+    "study=(1件の)研究・調査(可算)/research=研究(活動・全体)",
+    "researcher=研究者"
+  ],
+  "patterns": [
+    {
+      "form": "do research on A",
+      "meaning": "Aを研究する"
+    },
+    {
+      "form": "carry out research into A",
+      "meaning": "Aの調査を行う"
+    },
+    {
+      "form": "scientific research",
+      "meaning": "科学研究"
+    },
+    {
+      "form": "research shows that …",
+      "meaning": "研究によると…"
+    },
+    {
+      "form": "a researcher",
+      "meaning": "研究者"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "研究する",
+      "en": "She is doing research on climate change.",
+      "ja": "彼女は気候変動について研究している。"
+    },
+    {
+      "source": "original",
+      "label": "研究によると",
+      "en": "Research shows that reading improves vocabulary.",
+      "ja": "研究によると読書は語彙を増やす。"
+    },
+    {
+      "source": "original",
+      "label": "科学研究",
+      "en": "The government spends a lot on scientific research.",
+      "ja": "政府は科学研究に多くのお金を使っている。"
+    },
+    {
+      "source": "original",
+      "label": "調査",
+      "en": "Before buying a car, do some research online.",
+      "ja": "車を買う前にネットで少し調べなさい。"
+    },
+    {
+      "source": "original",
+      "label": "研究者",
+      "en": "Researchers found a new way to treat the disease.",
+      "ja": "研究者たちはその病気の新しい治療法を見つけた。"
+    },
+    {
+      "source": "original",
+      "label": "研究する",
+      "en": "He researched the history of his town.",
+      "ja": "彼は自分の町の歴史を調べた。"
+    }
+  ],
+  "check_points": [
+    "research が不可算であることがわかるか",
+    "do research on A の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "不可算(× researches)、research shows that が文法・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1231
+    }
+  ]
+}

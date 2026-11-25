@@ -1,0 +1,99 @@
+{
+  "word": "sample",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈsæmpl/",
+  "core_image": {
+    "text": "全体から取り出して見せる、ひとつの見本",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"40\" width=\"100\" height=\"90\"/><circle cx=\"50\" cy=\"60\" r=\"6\"/><circle cx=\"70\" cy=\"60\" r=\"6\"/><circle cx=\"90\" cy=\"60\" r=\"6\"/><circle cx=\"110\" cy=\"60\" r=\"6\"/><circle cx=\"50\" cy=\"84\" r=\"6\"/><circle cx=\"70\" cy=\"84\" r=\"6\"/><circle cx=\"110\" cy=\"84\" r=\"6\"/><circle cx=\"50\" cy=\"108\" r=\"6\"/><circle cx=\"70\" cy=\"108\" r=\"6\"/><circle cx=\"90\" cy=\"108\" r=\"6\"/><circle cx=\"110\" cy=\"108\" r=\"6\"/><line x1=\"96\" y1=\"84\" x2=\"170\" y2=\"84\"/><polyline points=\"163,80.2 170,84 163,87.8\"/><circle cx=\"184\" cy=\"84\" r=\"8\"/></g><text x=\"180\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見本</text></svg>"
+  },
+  "etymology": "example(例・見本)の短くなった形 → 全体を代表して取り出したもの → 見本・試供品 → (調査の)標本・サンプル → (動詞)試食する・抽出して調べる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a small amount of something that shows what the rest is like; a group of people or things chosen from a larger group for a study."
+    },
+    {
+      "pos": "動詞",
+      "text": "to taste or try something; to choose a group from a larger group for a study."
+    }
+  ],
+  "cautions": [
+    "example=(説明のための)例/sample=全体から取り出した見本・試供品・標本",
+    "a free sample=無料の試供品/a blood sample=血液のサンプル",
+    "調査の「標本」:a sample of 500 people=500人を対象とした標本",
+    "動詞 sample=試食する"
+  ],
+  "patterns": [
+    {
+      "form": "a free sample",
+      "meaning": "試供品"
+    },
+    {
+      "form": "a blood sample",
+      "meaning": "血液のサンプル"
+    },
+    {
+      "form": "a sample of A",
+      "meaning": "Aの見本・標本"
+    },
+    {
+      "form": "sample A",
+      "meaning": "Aを試食する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "試供品",
+      "en": "The shop was giving out free samples of cheese.",
+      "ja": "その店はチーズの試供品を配っていた。"
+    },
+    {
+      "source": "original",
+      "label": "サンプル",
+      "en": "The nurse took a blood sample.",
+      "ja": "看護師は血液を採取した。"
+    },
+    {
+      "source": "original",
+      "label": "標本",
+      "en": "The survey used a sample of 1,000 people.",
+      "ja": "その調査は1000人の標本を用いた。"
+    },
+    {
+      "source": "original",
+      "label": "見本",
+      "en": "Could you send me a sample of your work?",
+      "ja": "作品の見本を送っていただけますか。"
+    },
+    {
+      "source": "original",
+      "label": "試食する",
+      "en": "You can sample local food at the market.",
+      "ja": "市場で地元の食べ物を試食できる。"
+    },
+    {
+      "source": "original",
+      "label": "サンプル",
+      "en": "Scientists collected soil samples from the field.",
+      "ja": "科学者たちは畑の土のサンプルを集めた。"
+    }
+  ],
+  "check_points": [
+    "example と sample のちがいを言えるか",
+    "free sample の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "調査の sample、free sample が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1238
+    }
+  ]
+}

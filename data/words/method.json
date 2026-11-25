@@ -1,0 +1,94 @@
+{
+  "word": "method",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈmeθəd/",
+  "core_image": {
+    "text": "あとについてたどる、決まった道すじ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"20\" y=\"60\" width=\"40\" height=\"30\"/><rect x=\"100\" y=\"60\" width=\"40\" height=\"30\"/><rect x=\"180\" y=\"60\" width=\"40\" height=\"30\"/><line x1=\"60\" y1=\"75\" x2=\"100\" y2=\"75\"/><polyline points=\"93,71.2 100,75 93,78.8\"/><line x1=\"140\" y1=\"75\" x2=\"180\" y2=\"75\"/><polyline points=\"173,71.2 180,75 173,78.8\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">決まった手順</text></svg>"
+  },
+  "etymology": "ギリシャ語 methodos(meta=あとに+hodos=道) → 道をたどること → 決まった手順・方法・やり方 → methodical=きちんとした",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a particular way of doing something, especially a planned and organized way."
+    }
+  ],
+  "cautions": [
+    "way=やり方(最も広い)/means=手段/method=手順の決まった(組織的な)方法",
+    "a method of [for] doing=〜する方法",
+    "teaching methods=教授法/scientific method=科学的方法",
+    "technique=(専門的な)技術・こつ"
+  ],
+  "patterns": [
+    {
+      "form": "a method of doing",
+      "meaning": "〜する方法"
+    },
+    {
+      "form": "a method for A",
+      "meaning": "Aの方法"
+    },
+    {
+      "form": "teaching methods",
+      "meaning": "教授法"
+    },
+    {
+      "form": "the scientific method",
+      "meaning": "科学的方法"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "方法",
+      "en": "This is a new method of teaching English.",
+      "ja": "これは英語を教える新しい方法だ。"
+    },
+    {
+      "source": "original",
+      "label": "方法",
+      "en": "What is the best method for losing weight?",
+      "ja": "やせるのに最もよい方法は何ですか。"
+    },
+    {
+      "source": "original",
+      "label": "手法",
+      "en": "Scientists use the scientific method to test ideas.",
+      "ja": "科学者は考えを確かめるのに科学的方法を使う。"
+    },
+    {
+      "source": "original",
+      "label": "方法",
+      "en": "Traditional methods of farming are still used.",
+      "ja": "伝統的な農法が今も使われている。"
+    },
+    {
+      "source": "original",
+      "label": "手順",
+      "en": "Please follow the method carefully.",
+      "ja": "手順にきちんと従ってください。"
+    },
+    {
+      "source": "original",
+      "label": "きちんとした",
+      "en": "She is a very methodical worker.",
+      "ja": "彼女はとてもきちんと仕事をする人だ。"
+    }
+  ],
+  "check_points": [
+    "way・means・method のちがいを言えるか",
+    "a method of doing の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "方法を表す名詞の使い分けが語彙で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1235
+    }
+  ]
+}

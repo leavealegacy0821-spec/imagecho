@@ -1205,13 +1205,15 @@
     },
     {
       "title": "使い分け:方法・やり方",
-      "note": "way=やり方(最も広い) ／ means=手段 ／ manner=様子・仕方 ／ fashion=〜な仕方(in a 〜 fashion) ／ approach=取り組み方",
+      "note": "way=やり方(最も広い) ／ means=手段 ／ manner=様子・仕方 ／ fashion=〜な仕方(in a 〜 fashion) ／ approach=取り組み方 ／ method=あとについてたどる決まった手順 ／ technique=専門的なわざ・こつ",
       "words": [
         "way",
         "means",
         "manner",
         "fashion",
-        "approach"
+        "approach",
+        "method",
+        "technique"
       ]
     },
     {
@@ -2060,6 +2062,39 @@
         "contaminate",
         "waste",
         "spoil"
+      ]
+    },
+    {
+      "title": "使い分け:研究・実験",
+      "note": "research=くり返し探してくわしく調べる研究(不可算) ／ study=1件の研究・調査(可算) ／ experiment=実際にやって試す実験 ／ survey=全体を見渡す調査 ／ data=集めた事実・数値 ／ sample=全体から取り出した見本・標本",
+      "words": [
+        "research",
+        "study",
+        "experiment",
+        "survey",
+        "data",
+        "sample"
+      ]
+    },
+    {
+      "title": "使い分け:見つける・作り出す",
+      "note": "find=見つける(日常) ／ discover=おおいを取ってもとからあったものを発見 ／ invent=なかったものを新しく発明 ／ detect=隠れたものを見つけ出す ／ devise=工夫して考え出す",
+      "words": [
+        "find",
+        "discover",
+        "invent",
+        "detect",
+        "devise"
+      ]
+    },
+    {
+      "title": "使い分け:知識・情報・技術",
+      "note": "knowledge=学んで頭にたまった知(不可算) ／ information=形を与えて伝える知らせの中身(不可算) ／ technique=手で覚えたわざ・こつ ／ technology=わざを学問にまとめた科学技術",
+      "words": [
+        "knowledge",
+        "information",
+        "technique",
+        "technology"
       ]
     },
     {

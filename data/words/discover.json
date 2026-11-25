@@ -1,0 +1,94 @@
+{
+  "word": "discover",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈskʌvər/",
+  "core_image": {
+    "text": "おおいを取って、そこにあったものを見つけ出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"90\" y=\"100\" width=\"60\" height=\"40\"/><polyline points=\"80,90 120,60 170,80\"/><circle cx=\"120\" cy=\"120\" r=\"8\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"80\" y2=\"88\"/></g><text x=\"190\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">おおいを取る</text></svg>"
+  },
+  "etymology": "dis(取り去る)+cover(おおう) → おおいを取る → (もとからあったものを)発見する → (知らなかった事実に)気づく・わかる → 名詞 discovery",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to find something that was hidden or that nobody knew about before; to learn a fact you did not know."
+    }
+  ],
+  "cautions": [
+    "invent=(なかったものを)発明する/discover=(もとからあったものを)発見する",
+    "find=見つける(日常)/discover=初めて見つけ出す・知る",
+    "discover that …=…ということがわかる",
+    "名詞 discovery=発見"
+  ],
+  "patterns": [
+    {
+      "form": "discover A",
+      "meaning": "Aを発見する"
+    },
+    {
+      "form": "discover that …",
+      "meaning": "…だとわかる"
+    },
+    {
+      "form": "make a discovery",
+      "meaning": "発見をする"
+    },
+    {
+      "form": "be discovered",
+      "meaning": "発見される"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "発見する",
+      "en": "Who discovered penicillin?",
+      "ja": "ペニシリンを発見したのは誰ですか。"
+    },
+    {
+      "source": "original",
+      "label": "わかる",
+      "en": "I discovered that my wallet was missing.",
+      "ja": "財布がなくなっていることに気づいた。"
+    },
+    {
+      "source": "original",
+      "label": "発見",
+      "en": "Scientists made an important discovery.",
+      "ja": "科学者たちは重要な発見をした。"
+    },
+    {
+      "source": "original",
+      "label": "発見される",
+      "en": "A new planet was discovered last year.",
+      "ja": "昨年、新しい惑星が発見された。"
+    },
+    {
+      "source": "original",
+      "label": "発明する(invent)",
+      "en": "Edison invented the light bulb.",
+      "ja": "エジソンは電球を発明した。"
+    },
+    {
+      "source": "original",
+      "label": "知る",
+      "en": "She discovered a love of music in high school.",
+      "ja": "彼女は高校で音楽の楽しさに目覚めた。"
+    }
+  ],
+  "check_points": [
+    "discover と invent のちがいを言えるか",
+    "discover that … の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "discover / invent の区別が語彙で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1233
+    }
+  ]
+}

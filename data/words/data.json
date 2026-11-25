@@ -1,0 +1,93 @@
+{
+  "word": "data",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈdeɪtə/",
+  "core_image": {
+    "text": "与えられた事実を、集めた数字や記録",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"30\" width=\"160\" height=\"100\"/><line x1=\"40\" y1=\"55\" x2=\"200\" y2=\"55\"/><line x1=\"40\" y1=\"80\" x2=\"200\" y2=\"80\"/><line x1=\"40\" y1=\"105\" x2=\"200\" y2=\"105\"/><line x1=\"100\" y1=\"30\" x2=\"100\" y2=\"130\"/><line x1=\"150\" y1=\"30\" x2=\"150\" y2=\"130\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">集めた事実</text></svg>"
+  },
+  "etymology": "ラテン語 datum(与えられたもの。date・donate と同じ「与える」根)の複数形 → (議論の出発点として)与えられた事実 → 資料・データ",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "facts or information, especially numbers, collected for study or used by a computer."
+    }
+  ],
+  "cautions": [
+    "もとは datum の複数形。今は不可算(this data is)・複数(these data are)の両方あり",
+    "collect [analyze] data=データを集める[分析する]",
+    "information=情報(広い)/data=数値などの集めた事実・資料",
+    "a piece of data=1つのデータ"
+  ],
+  "patterns": [
+    {
+      "form": "collect data",
+      "meaning": "データを集める"
+    },
+    {
+      "form": "analyze data",
+      "meaning": "データを分析する"
+    },
+    {
+      "form": "data on A",
+      "meaning": "Aについてのデータ"
+    },
+    {
+      "form": "according to the data",
+      "meaning": "データによると"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "データ",
+      "en": "The scientists collected data from 1,000 students.",
+      "ja": "科学者たちは1000人の生徒からデータを集めた。"
+    },
+    {
+      "source": "original",
+      "label": "データ",
+      "en": "The data shows that sales are rising.",
+      "ja": "データは売上が伸びていることを示している。"
+    },
+    {
+      "source": "original",
+      "label": "データ",
+      "en": "We need more data on sleeping habits.",
+      "ja": "睡眠習慣についてもっとデータが必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "データによると",
+      "en": "According to the data, the population is decreasing.",
+      "ja": "データによると人口は減少している。"
+    },
+    {
+      "source": "original",
+      "label": "データ",
+      "en": "Personal data must be protected.",
+      "ja": "個人データは守られなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "資料",
+      "en": "The report is based on data from the government.",
+      "ja": "その報告書は政府の資料にもとづいている。"
+    }
+  ],
+  "check_points": [
+    "data が単数扱い・複数扱いどちらもあることがわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "グラフ・研究の長文で非常に多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1234
+    }
+  ]
+}

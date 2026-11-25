@@ -1,0 +1,98 @@
+{
+  "word": "knowledge",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈnɑːlɪdʒ/",
+  "core_image": {
+    "text": "学んだり経験したりして、頭にたまった知",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"84\" y2=\"96\"/><rect x=\"130\" y=\"110\" width=\"80\" height=\"12\"/><rect x=\"134\" y=\"98\" width=\"72\" height=\"12\"/><rect x=\"138\" y=\"86\" width=\"64\" height=\"12\"/><rect x=\"142\" y=\"74\" width=\"56\" height=\"12\"/><rect x=\"130\" y=\"122\" width=\"80\" height=\"18\"/></g><text x=\"170\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">たまった知</text></svg>"
+  },
+  "etymology": "know(知る)+ledge(状態) → 知っていること → 知識・学識 → 承知・認識(to my knowledge=私の知る限り)。※k は発音しない",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the information, understanding and skills that you get through learning or experience; awareness of a fact."
+    }
+  ],
+  "cautions": [
+    "knowledge は不可算(× a knowledge, × knowledges)。a good knowledge of A は例外的に a を付ける",
+    "information=(個々の)情報/knowledge=学んでたまった知識・理解",
+    "to (the best of) my knowledge=私の知る限り/without A's knowledge=Aに知られずに",
+    "k と w は読まない(ナリッジ)"
+  ],
+  "patterns": [
+    {
+      "form": "knowledge of A",
+      "meaning": "Aの知識"
+    },
+    {
+      "form": "a good knowledge of A",
+      "meaning": "Aのしっかりした知識"
+    },
+    {
+      "form": "to my knowledge",
+      "meaning": "私の知る限り"
+    },
+    {
+      "form": "without A's knowledge",
+      "meaning": "Aに知られずに"
+    },
+    {
+      "form": "common knowledge",
+      "meaning": "周知のこと"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "知識",
+      "en": "He has a wide knowledge of history.",
+      "ja": "彼は歴史について幅広い知識をもっている。"
+    },
+    {
+      "source": "original",
+      "label": "知識",
+      "en": "Knowledge is power.",
+      "ja": "知識は力なり。"
+    },
+    {
+      "source": "original",
+      "label": "私の知る限り",
+      "en": "To my knowledge, he has never been abroad.",
+      "ja": "私の知る限り、彼は外国へ行ったことがない。"
+    },
+    {
+      "source": "original",
+      "label": "知られずに",
+      "en": "She left the house without her parents' knowledge.",
+      "ja": "彼女は両親に知られずに家を出た。"
+    },
+    {
+      "source": "original",
+      "label": "周知のこと",
+      "en": "It is common knowledge that smoking is harmful.",
+      "ja": "喫煙が有害なのは周知のことだ。"
+    },
+    {
+      "source": "original",
+      "label": "知識",
+      "en": "Reading helps you gain knowledge.",
+      "ja": "読書は知識を得る助けになる。"
+    }
+  ],
+  "check_points": [
+    "knowledge が不可算であることがわかるか",
+    "to my knowledge の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "不可算、to my knowledge が文法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1239
+    }
+  ]
+}

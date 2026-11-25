@@ -1,0 +1,99 @@
+{
+  "word": "experiment",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ɪkˈsperɪmənt/",
+  "core_image": {
+    "text": "本当かどうか、実際にやって試してみる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon points=\"100,40 100,80 70,130 170,130 140,80 140,40\"/><line x1=\"94\" y1=\"40\" x2=\"146\" y2=\"40\"/><line x1=\"80\" y1=\"112\" x2=\"160\" y2=\"112\"/><circle cx=\"110\" cy=\"122\" r=\"3\"/><circle cx=\"130\" cy=\"118\" r=\"3\"/><circle cx=\"120\" cy=\"28\" r=\"4\"/><circle cx=\"128\" cy=\"16\" r=\"3\"/></g><text x=\"200\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">試してみる</text></svg>"
+  },
+  "etymology": "ラテン語 experiri(試す。experience・expert と同じ根) → 試してみること → (科学の)実験 → (新しいことの)試み → (動詞)実験する・試す",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a scientific test done to find out if something is true; a new activity tried to see what happens."
+    },
+    {
+      "pos": "動詞",
+      "text": "to do a scientific test; to try a new idea or method."
+    }
+  ],
+  "cautions": [
+    "experience=経験/experiment=試してみる実験(同じ「試す」の根)",
+    "do [carry out / conduct] an experiment=実験をする(× make は不自然)",
+    "experiment on [with] A=Aで実験する",
+    "experimental=実験的な"
+  ],
+  "patterns": [
+    {
+      "form": "do an experiment",
+      "meaning": "実験をする"
+    },
+    {
+      "form": "an experiment on A",
+      "meaning": "Aを使った実験"
+    },
+    {
+      "form": "experiment with A",
+      "meaning": "Aを試してみる"
+    },
+    {
+      "form": "experimental",
+      "meaning": "実験的な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "実験",
+      "en": "We did an experiment in science class.",
+      "ja": "理科の授業で実験をした。"
+    },
+    {
+      "source": "original",
+      "label": "実験",
+      "en": "Experiments on animals are controversial.",
+      "ja": "動物実験については議論が分かれている。"
+    },
+    {
+      "source": "original",
+      "label": "試してみる",
+      "en": "The chef likes to experiment with new recipes.",
+      "ja": "そのシェフは新しいレシピを試すのが好きだ。"
+    },
+    {
+      "source": "original",
+      "label": "試み",
+      "en": "The four-day school week is an experiment.",
+      "ja": "週4日制の学校は1つの試みだ。"
+    },
+    {
+      "source": "original",
+      "label": "実験的な",
+      "en": "The drug is still at an experimental stage.",
+      "ja": "その薬はまだ実験段階だ。"
+    },
+    {
+      "source": "original",
+      "label": "実験",
+      "en": "The results of the experiment were surprising.",
+      "ja": "実験の結果は驚くべきものだった。"
+    }
+  ],
+  "check_points": [
+    "experience と experiment のちがいを言えるか",
+    "do an experiment の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "experiment / experience の区別、do an experiment が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1232
+    }
+  ]
+}
