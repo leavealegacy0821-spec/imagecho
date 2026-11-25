@@ -1,0 +1,103 @@
+{
+  "word": "brown",
+  "pos": [
+    "形容詞",
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/braʊn/",
+  "core_image": {
+    "text": "土や木の幹の色(茶色)・こんがり焼く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"110\" y=\"70\" width=\"20\" height=\"70\"/><circle cx=\"120\" cy=\"50\" r=\"30\" stroke-dasharray=\"4 3\"/><ellipse cx=\"60\" cy=\"130\" rx=\"30\" ry=\"10\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ちゃいろ</text></svg>"
+  },
+  "etymology": "古い英語 brūn(暗い色・茶色) → 茶色 → (日焼けで)浅黒い → (動詞)こんがり焼く",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "having the color of earth or wood; having skin darkened by the sun."
+    },
+    {
+      "pos": "名詞",
+      "text": "the color brown."
+    },
+    {
+      "pos": "動詞",
+      "text": "to cook food until it is brown."
+    }
+  ],
+  "cautions": [
+    "brown=茶色(日本語の「茶色」より広い)",
+    "brown rice=玄米",
+    "brown sugar=黒砂糖",
+    "brown A=Aをこんがり焼く"
+  ],
+  "patterns": [
+    {
+      "form": "brown rice",
+      "meaning": "玄米"
+    },
+    {
+      "form": "brown sugar",
+      "meaning": "黒砂糖"
+    },
+    {
+      "form": "brown A",
+      "meaning": "Aに焼き色をつける"
+    },
+    {
+      "form": "brown bread",
+      "meaning": "黒パン"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "茶色",
+      "en": "The dog has brown eyes.",
+      "ja": "その犬は茶色い目をしている。"
+    },
+    {
+      "source": "original",
+      "label": "玄米",
+      "en": "Brown rice is good for your health.",
+      "ja": "玄米は健康によい。"
+    },
+    {
+      "source": "original",
+      "label": "焼き色",
+      "en": "Brown the onions in a pan.",
+      "ja": "玉ねぎをフライパンで炒めて焼き色をつけて。"
+    },
+    {
+      "source": "original",
+      "label": "日焼け",
+      "en": "He came back from Okinawa very brown.",
+      "ja": "彼は沖縄から真っ黒に日焼けして帰ってきた。"
+    },
+    {
+      "source": "original",
+      "label": "紅葉",
+      "en": "The leaves turned brown and fell.",
+      "ja": "葉が茶色くなって落ちた。"
+    },
+    {
+      "source": "original",
+      "label": "紙袋",
+      "en": "I put the bread in a brown paper bag.",
+      "ja": "パンを茶色の紙袋に入れた。"
+    }
+  ],
+  "check_points": [
+    "brown rice の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "基本語として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2276
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "red",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/red/",
+  "core_image": {
+    "text": "血や火の色(赤)・赤字・危険",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"80\" cy=\"80\" r=\"30\"/><path d=\"M160 50 Q180 80 160 110 Q140 80 160 50 Z\"/><path d=\"M60 40 L70 50 M100 40 L90 50\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あか</text></svg>"
+  },
+  "etymology": "古い英語 rēad(赤) → 赤 → (怒り・はずかしさで)顔が赤い → 赤字(in the red)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "having the color of blood or fire; (of a face) pink because of anger or embarrassment."
+    },
+    {
+      "pos": "名詞",
+      "text": "the color red; (in the red) owing money."
+    }
+  ],
+  "cautions": [
+    "in the red=赤字で(⇔in the black=黒字で)",
+    "turn red=(顔が)赤くなる",
+    "catch A red-handed=Aを現行犯でつかまえる",
+    "red tape=お役所仕事"
+  ],
+  "patterns": [
+    {
+      "form": "turn red",
+      "meaning": "赤くなる"
+    },
+    {
+      "form": "in the red",
+      "meaning": "赤字で"
+    },
+    {
+      "form": "catch A red-handed",
+      "meaning": "Aを現行犯でつかまえる"
+    },
+    {
+      "form": "red tape",
+      "meaning": "お役所仕事"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "赤い",
+      "en": "She wore a red dress.",
+      "ja": "彼女は赤いドレスを着ていた。"
+    },
+    {
+      "source": "original",
+      "label": "赤くなる",
+      "en": "He turned red with embarrassment.",
+      "ja": "彼ははずかしくて真っ赤になった。"
+    },
+    {
+      "source": "original",
+      "label": "赤字",
+      "en": "The company is in the red.",
+      "ja": "その会社は赤字だ。"
+    },
+    {
+      "source": "original",
+      "label": "現行犯",
+      "en": "The thief was caught red-handed.",
+      "ja": "泥棒は現行犯でつかまった。"
+    },
+    {
+      "source": "original",
+      "label": "お役所仕事",
+      "en": "There is too much red tape.",
+      "ja": "お役所的な手続きが多すぎる。"
+    },
+    {
+      "source": "original",
+      "label": "信号",
+      "en": "Stop at a red light.",
+      "ja": "赤信号では止まりなさい。"
+    }
+  ],
+  "check_points": [
+    "in the red の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "in the red、red-handed が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2269
+    }
+  ]
+}

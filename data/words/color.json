@@ -1,0 +1,98 @@
+{
+  "word": "color",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈkʌlər/",
+  "core_image": {
+    "text": "目に見える色あい・(色をつけて)ゆがめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"80\" cy=\"70\" r=\"26\"/><circle cx=\"120\" cy=\"70\" r=\"26\" stroke-dasharray=\"4 3\"/><circle cx=\"100\" cy=\"104\" r=\"26\" stroke-dasharray=\"1 3\"/><rect x=\"160\" y=\"60\" width=\"50\" height=\"60\"/><line x1=\"160\" y1=\"80\" x2=\"210\" y2=\"80\"/><line x1=\"160\" y1=\"100\" x2=\"210\" y2=\"100\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いろ</text></svg>"
+  },
+  "etymology": "ラテン語 color(色) → 色・色あい → (色をつけて)ゆがめる・影響する(color one's view)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the appearance of something as red, blue, green, etc.; interest or excitement."
+    },
+    {
+      "pos": "動詞",
+      "text": "to put color on something; to influence someone's opinion."
+    }
+  ],
+  "cautions": [
+    "(英)colour",
+    "What color is A?=Aは何色?",
+    "colorful=色とりどりの・生き生きした",
+    "color A's judgment=Aの判断をゆがめる"
+  ],
+  "patterns": [
+    {
+      "form": "What color is A?",
+      "meaning": "Aは何色?"
+    },
+    {
+      "form": "colorful",
+      "meaning": "色あざやかな"
+    },
+    {
+      "form": "in color",
+      "meaning": "カラーで"
+    },
+    {
+      "form": "color A's view",
+      "meaning": "Aの見方に影響する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "何色",
+      "en": "What color is your bag?",
+      "ja": "あなたのかばんは何色?"
+    },
+    {
+      "source": "original",
+      "label": "色とりどり",
+      "en": "The garden is full of colorful flowers.",
+      "ja": "庭は色とりどりの花でいっぱいだ。"
+    },
+    {
+      "source": "original",
+      "label": "ぬる",
+      "en": "The children colored the pictures.",
+      "ja": "子どもたちは絵に色をぬった。"
+    },
+    {
+      "source": "original",
+      "label": "影響",
+      "en": "His past experience colored his opinion.",
+      "ja": "過去の経験が彼の意見に影響した。"
+    },
+    {
+      "source": "original",
+      "label": "顔色",
+      "en": "The color came back to her face.",
+      "ja": "彼女の顔に血の気がもどった。"
+    },
+    {
+      "source": "original",
+      "label": "人種",
+      "en": "People of all colors live here.",
+      "ja": "ここにはあらゆる肌の色の人が住んでいる。"
+    }
+  ],
+  "check_points": [
+    "What color is A? を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "colorful が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2268
+    }
+  ]
+}

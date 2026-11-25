@@ -1,0 +1,102 @@
+{
+  "word": "black",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/blæk/",
+  "core_image": {
+    "text": "光のない真っ黒・暗い・不正な",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"30\" width=\"160\" height=\"110\"/><circle cx=\"170\" cy=\"60\" r=\"14\"/><path d=\"M60 120 L80 100 L100 120\"/><line x1=\"40\" y1=\"30\" x2=\"200\" y2=\"140\" stroke-dasharray=\"2 4\"/></g><text x=\"120\" y=\"152\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くろ</text></svg>"
+  },
+  "etymology": "古い英語 blæc(黒い・暗い) → 黒 → 暗い・不吉な・不正な(black market)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "having the darkest color, like the night sky; without milk; very bad or angry."
+    },
+    {
+      "pos": "名詞",
+      "text": "the color black."
+    }
+  ],
+  "cautions": [
+    "black coffee=ブラックコーヒー(ミルクなし)",
+    "in the black=黒字で(⇔in the red)",
+    "the black market=やみ市場",
+    "black out=気を失う・停電する"
+  ],
+  "patterns": [
+    {
+      "form": "black coffee",
+      "meaning": "ブラックコーヒー"
+    },
+    {
+      "form": "in the black",
+      "meaning": "黒字で"
+    },
+    {
+      "form": "the black market",
+      "meaning": "やみ市場"
+    },
+    {
+      "form": "black out",
+      "meaning": "気を失う・停電"
+    },
+    {
+      "form": "black and white",
+      "meaning": "白黒"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "黒",
+      "en": "He was dressed in black.",
+      "ja": "彼は黒い服を着ていた。"
+    },
+    {
+      "source": "original",
+      "label": "コーヒー",
+      "en": "I take my coffee black.",
+      "ja": "コーヒーはブラックで飲む。"
+    },
+    {
+      "source": "original",
+      "label": "黒字",
+      "en": "The company is back in the black.",
+      "ja": "その会社は黒字にもどった。"
+    },
+    {
+      "source": "original",
+      "label": "やみ",
+      "en": "Tickets were sold on the black market.",
+      "ja": "チケットがやみで売られていた。"
+    },
+    {
+      "source": "original",
+      "label": "停電",
+      "en": "The whole city blacked out.",
+      "ja": "町じゅうが停電した。"
+    },
+    {
+      "source": "original",
+      "label": "白黒",
+      "en": "It's an old black-and-white movie.",
+      "ja": "それは昔の白黒映画だ。"
+    }
+  ],
+  "check_points": [
+    "in the black の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "in the black / red が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2274
+    }
+  ]
+}

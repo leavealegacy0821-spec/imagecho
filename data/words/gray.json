@@ -1,0 +1,98 @@
+{
+  "word": "gray",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/ɡreɪ/",
+  "core_image": {
+    "text": "黒と白のあいだの灰色・どんより・どっちつかず",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M40 70 Q40 40 76 46 Q92 16 126 30 Q160 16 170 50 Q200 54 192 76 L54 76 Q36 76 40 70 Z\" stroke-dasharray=\"4 3\"/><line x1=\"70\" y1=\"90\" x2=\"66\" y2=\"110\"/><line x1=\"110\" y1=\"90\" x2=\"106\" y2=\"110\"/><line x1=\"150\" y1=\"90\" x2=\"146\" y2=\"110\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">はいいろ</text></svg>"
+  },
+  "etymology": "古い英語 grǣg(灰色) → 灰色 → (天気が)どんよりした・(髪が)白髪まじりの → (白黒つかない)あいまいな",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "having a color between black and white; (of hair) turning white; (of weather) cloudy and dull."
+    },
+    {
+      "pos": "名詞",
+      "text": "the color gray."
+    }
+  ],
+  "cautions": [
+    "(英)grey",
+    "a gray area=白黒はっきりしない領域・グレーゾーン",
+    "go gray=白髪になる",
+    "gray matter=(口語)頭脳"
+  ],
+  "patterns": [
+    {
+      "form": "a gray sky",
+      "meaning": "どんよりした空"
+    },
+    {
+      "form": "a gray area",
+      "meaning": "グレーゾーン"
+    },
+    {
+      "form": "go gray",
+      "meaning": "白髪になる"
+    },
+    {
+      "form": "gray hair",
+      "meaning": "白髪"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "灰色",
+      "en": "The sky was gray all day.",
+      "ja": "一日中空はどんよりしていた。"
+    },
+    {
+      "source": "original",
+      "label": "白髪",
+      "en": "My father is going gray.",
+      "ja": "父は白髪がふえてきた。"
+    },
+    {
+      "source": "original",
+      "label": "あいまい",
+      "en": "This rule is a gray area.",
+      "ja": "この規則はグレーゾーンだ。"
+    },
+    {
+      "source": "original",
+      "label": "頭脳",
+      "en": "Use your gray matter!",
+      "ja": "頭を使え!"
+    },
+    {
+      "source": "original",
+      "label": "ねずみ色",
+      "en": "He wore a gray suit.",
+      "ja": "彼はグレーのスーツを着ていた。"
+    },
+    {
+      "source": "original",
+      "label": "英",
+      "en": "In Britain, it is spelled \"grey.\"",
+      "ja": "イギリスでは grey とつづる。"
+    }
+  ],
+  "check_points": [
+    "a gray area の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2275
+    }
+  ]
+}

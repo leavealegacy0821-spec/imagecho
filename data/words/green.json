@@ -1,0 +1,98 @@
+{
+  "word": "green",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/ɡriːn/",
+  "core_image": {
+    "text": "草木の色(緑)・未熟な・環境にやさしい",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M30 140 L36 110 L40 140 L48 116 L52 140\"/><line x1=\"120\" y1=\"140\" x2=\"120\" y2=\"70\"/><circle cx=\"120\" cy=\"56\" r=\"30\"/><path d=\"M180 140 L186 112 L190 140\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">みどり</text></svg>"
+  },
+  "etymology": "古い英語 grēne(緑:grow・grass と同じ仲間) → 緑 → (育ちかけの)未熟な → (自然の)環境にやさしい",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "having the color of grass; not experienced; relating to protecting the environment; jealous."
+    },
+    {
+      "pos": "名詞",
+      "text": "the color green; an area of grass."
+    }
+  ],
+  "cautions": [
+    "green=未熟な・青二才の(a green worker)",
+    "green with envy=ひどくうらやましがって",
+    "go green=環境にやさしくする",
+    "give A the green light=Aに許可を与える"
+  ],
+  "patterns": [
+    {
+      "form": "green with envy",
+      "meaning": "ひどくうらやんで"
+    },
+    {
+      "form": "go green",
+      "meaning": "環境に配慮する"
+    },
+    {
+      "form": "give A the green light",
+      "meaning": "Aにゴーサインを出す"
+    },
+    {
+      "form": "green energy",
+      "meaning": "環境にやさしいエネルギー"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "緑",
+      "en": "The leaves turn green in spring.",
+      "ja": "春には葉が緑になる。"
+    },
+    {
+      "source": "original",
+      "label": "うらやむ",
+      "en": "She was green with envy.",
+      "ja": "彼女はひどくうらやましがった。"
+    },
+    {
+      "source": "original",
+      "label": "環境",
+      "en": "Our school is trying to go green.",
+      "ja": "私たちの学校は環境にやさしい取り組みをしている。"
+    },
+    {
+      "source": "original",
+      "label": "許可",
+      "en": "The boss gave us the green light.",
+      "ja": "上司がゴーサインを出してくれた。"
+    },
+    {
+      "source": "original",
+      "label": "未熟",
+      "en": "He is still green at his job.",
+      "ja": "彼はまだ仕事に不慣れだ。"
+    },
+    {
+      "source": "original",
+      "label": "ことわざ",
+      "en": "The grass is always greener on the other side.",
+      "ja": "隣の芝生は青い。"
+    }
+  ],
+  "check_points": [
+    "give A the green light の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "go green、green light が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2271
+    }
+  ]
+}
