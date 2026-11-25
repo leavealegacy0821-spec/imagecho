@@ -1,0 +1,98 @@
+{
+  "word": "therapy",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈθerəpi/",
+  "core_image": {
+    "text": "そばで世話をして、少しずつ回復させる療法",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"100\" y2=\"80\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"110\" y2=\"80\"/><line x1=\"150\" y1=\"74\" x2=\"164\" y2=\"96\"/><path d=\"M100 30 Q110 20 120 30 Q130 20 140 30 Q140 44 120 56 Q100 44 100 30\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">療法</text></svg>"
+  },
+  "etymology": "ギリシャ語 therapeia(仕えること・世話) → 病人の世話 → (薬・手術以外もふくむ)療法・治療 → 心理療法(カウンセリング) → therapist=療法士",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "treatment that helps someone feel better or grow stronger, especially after an illness; treatment of mental problems by talking."
+    }
+  ],
+  "cautions": [
+    "treatment=治療(広い)/therapy=特定の方法による(長い)療法(physical therapy, speech therapy)",
+    "be in therapy=心理療法を受けている",
+    "therapist=療法士・セラピスト",
+    "music [art] therapy=音楽[芸術]療法"
+  ],
+  "patterns": [
+    {
+      "form": "physical therapy",
+      "meaning": "理学療法"
+    },
+    {
+      "form": "speech therapy",
+      "meaning": "言語療法"
+    },
+    {
+      "form": "be in therapy",
+      "meaning": "カウンセリングを受けている"
+    },
+    {
+      "form": "music therapy",
+      "meaning": "音楽療法"
+    },
+    {
+      "form": "a therapist",
+      "meaning": "療法士"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "理学療法",
+      "en": "After the accident, he needed months of physical therapy.",
+      "ja": "事故のあと、彼は何か月もの理学療法が必要だった。"
+    },
+    {
+      "source": "original",
+      "label": "言語療法",
+      "en": "Speech therapy helped the child speak clearly.",
+      "ja": "言語療法のおかげでその子ははっきり話せるようになった。"
+    },
+    {
+      "source": "original",
+      "label": "療法",
+      "en": "Music therapy can reduce stress.",
+      "ja": "音楽療法はストレスを減らすことができる。"
+    },
+    {
+      "source": "original",
+      "label": "カウンセリング",
+      "en": "She has been in therapy for a year.",
+      "ja": "彼女は1年間カウンセリングを受けている。"
+    },
+    {
+      "source": "original",
+      "label": "療法士",
+      "en": "The therapist taught me some breathing exercises.",
+      "ja": "療法士が呼吸の練習を教えてくれた。"
+    },
+    {
+      "source": "original",
+      "label": "療法",
+      "en": "The new cancer therapy has shown good results.",
+      "ja": "新しいがん療法はよい結果を出している。"
+    }
+  ],
+  "check_points": [
+    "treatment と therapy のちがいを言えるか",
+    "physical therapy の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "therapy が医療系の長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1219
+    }
+  ]
+}

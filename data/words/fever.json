@@ -1,0 +1,98 @@
+{
+  "word": "fever",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈfiːvər/",
+  "core_image": {
+    "text": "体の中が燃えるように、熱くなる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"110\" y=\"20\" width=\"20\" height=\"90\"/><circle cx=\"120\" cy=\"118\" r=\"16\"/><line x1=\"120\" y1=\"60\" x2=\"120\" y2=\"110\"/><line x1=\"130\" y1=\"40\" x2=\"140\" y2=\"40\"/><line x1=\"130\" y1=\"60\" x2=\"140\" y2=\"60\"/><line x1=\"130\" y1=\"80\" x2=\"140\" y2=\"80\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">熱が出る</text></svg>"
+  },
+  "etymology": "ラテン語 febris(熱) → (病気の)熱・発熱 → 熱病 → (比ゆ)熱狂(World Cup fever)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a high body temperature caused by illness; a state of great excitement."
+    }
+  ],
+  "cautions": [
+    "have a fever=熱がある(a を付ける)/run a fever=熱を出す",
+    "a high [slight] fever=高熱[微熱]",
+    "hay fever=花粉症",
+    "比ゆ:〜熱・熱狂(gold fever)"
+  ],
+  "patterns": [
+    {
+      "form": "have a fever",
+      "meaning": "熱がある"
+    },
+    {
+      "form": "a high fever",
+      "meaning": "高熱"
+    },
+    {
+      "form": "a slight fever",
+      "meaning": "微熱"
+    },
+    {
+      "form": "hay fever",
+      "meaning": "花粉症"
+    },
+    {
+      "form": "A fever",
+      "meaning": "A熱(熱狂)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "熱がある",
+      "en": "I have a fever and a sore throat.",
+      "ja": "熱があってのどが痛い。"
+    },
+    {
+      "source": "original",
+      "label": "高熱",
+      "en": "The child had a high fever last night.",
+      "ja": "その子は昨夜高熱を出した。"
+    },
+    {
+      "source": "original",
+      "label": "花粉症",
+      "en": "Many people suffer from hay fever in spring.",
+      "ja": "春には多くの人が花粉症に苦しむ。"
+    },
+    {
+      "source": "original",
+      "label": "熱",
+      "en": "Her fever went down after taking the medicine.",
+      "ja": "薬を飲んだら彼女の熱は下がった。"
+    },
+    {
+      "source": "original",
+      "label": "熱狂",
+      "en": "The whole country was gripped by World Cup fever.",
+      "ja": "国じゅうがワールドカップ熱に包まれた。"
+    },
+    {
+      "source": "original",
+      "label": "微熱",
+      "en": "You have a slight fever, so take it easy.",
+      "ja": "微熱があるから無理しないで。"
+    }
+  ],
+  "check_points": [
+    "have a fever の a を付けられるか",
+    "hay fever の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "have a fever、hay fever が会話で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1217
+    }
+  ]
+}

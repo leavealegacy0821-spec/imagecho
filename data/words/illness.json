@@ -1,0 +1,98 @@
+{
+  "word": "illness",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈɪlnəs/",
+  "core_image": {
+    "text": "体の調子が悪い、病気でいる状態",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"100\" width=\"160\" height=\"12\"/><line x1=\"44\" y1=\"112\" x2=\"44\" y2=\"140\"/><line x1=\"196\" y1=\"112\" x2=\"196\" y2=\"140\"/><circle cx=\"64\" cy=\"88\" r=\"10\"/><line x1=\"74\" y1=\"94\" x2=\"180\" y2=\"94\"/><path d=\"M80 90 Q130 70 180 90\"/></g><text x=\"130\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">寝こむ</text></svg>"
+  },
+  "etymology": "ill(病気の・悪い)+ness(状態) → 病気である状態 → 病気・病気の期間",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the state of being ill; a particular type or period of illness."
+    }
+  ],
+  "cautions": [
+    "disease=名前・原因のある特定の病気/illness=病気である状態・期間(本人の体験として)",
+    "a serious [long] illness=重い[長い]病気",
+    "mental illness=心の病",
+    "ill=(体調が)悪い(補語で使う:be ill)、sick=病気の(名詞の前でも)"
+  ],
+  "patterns": [
+    {
+      "form": "a serious illness",
+      "meaning": "重い病気"
+    },
+    {
+      "form": "a long illness",
+      "meaning": "長患い"
+    },
+    {
+      "form": "mental illness",
+      "meaning": "心の病"
+    },
+    {
+      "form": "due to illness",
+      "meaning": "病気のため"
+    },
+    {
+      "form": "recover from an illness",
+      "meaning": "病気から回復する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "重い病気",
+      "en": "She is recovering from a serious illness.",
+      "ja": "彼女は重い病気から回復しつつある。"
+    },
+    {
+      "source": "original",
+      "label": "病気のため",
+      "en": "He was absent from school due to illness.",
+      "ja": "彼は病気のため学校を休んだ。"
+    },
+    {
+      "source": "original",
+      "label": "長患い",
+      "en": "After a long illness, my grandmother passed away.",
+      "ja": "長患いの末、祖母は亡くなった。"
+    },
+    {
+      "source": "original",
+      "label": "心の病",
+      "en": "Mental illness is nothing to be ashamed of.",
+      "ja": "心の病は恥ずかしいことではない。"
+    },
+    {
+      "source": "original",
+      "label": "病気",
+      "en": "Stress can cause illness.",
+      "ja": "ストレスは病気の原因になりうる。"
+    },
+    {
+      "source": "original",
+      "label": "病気の",
+      "en": "She was ill in bed for a week.",
+      "ja": "彼女は1週間病気で寝ていた。"
+    }
+  ],
+  "check_points": [
+    "disease と illness のちがいを言えるか",
+    "ill と sick の使い方のちがいがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "illness / disease / sickness の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1213
+    }
+  ]
+}

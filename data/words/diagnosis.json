@@ -1,0 +1,94 @@
+{
+  "word": "diagnosis",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˌdaɪəɡˈnoʊsɪs/",
+  "core_image": {
+    "text": "すみずみまで見通して、病気を見分ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"90\" y2=\"70\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><circle cx=\"104\" cy=\"66\" r=\"12\"/><line x1=\"112\" y1=\"74\" x2=\"124\" y2=\"86\"/><rect x=\"140\" y=\"50\" width=\"70\" height=\"60\"/><line x1=\"150\" y1=\"64\" x2=\"200\" y2=\"64\"/><line x1=\"150\" y1=\"80\" x2=\"200\" y2=\"80\"/><polyline points=\"150,96 160,90 170,100 180,92 200,96\"/></g><text x=\"170\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見分ける</text></svg>"
+  },
+  "etymology": "ギリシャ語 diagnōsis(dia=通して・すみずみまで+gnōsis=知ること:know と同じ根) → 見通して知ること → (病気の)診断 → (問題の)原因の判断 → diagnose=診断する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the act of discovering what illness a person has by examining them; a judgment about the cause of a problem."
+    }
+  ],
+  "cautions": [
+    "examine=診察する(過程)/diagnosis=(その結果)何の病気かを判断すること=診断",
+    "make a diagnosis=診断を下す/early diagnosis=早期診断",
+    "動詞 diagnose:be diagnosed with A=Aと診断される(with に注意)",
+    "複数形 diagnoses"
+  ],
+  "patterns": [
+    {
+      "form": "make a diagnosis",
+      "meaning": "診断を下す"
+    },
+    {
+      "form": "early diagnosis",
+      "meaning": "早期診断"
+    },
+    {
+      "form": "be diagnosed with A",
+      "meaning": "Aと診断される"
+    },
+    {
+      "form": "a diagnosis of A",
+      "meaning": "Aという診断"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "診断を下す",
+      "en": "The doctor made a diagnosis after several tests.",
+      "ja": "医師はいくつか検査をしたあと診断を下した。"
+    },
+    {
+      "source": "original",
+      "label": "早期診断",
+      "en": "Early diagnosis is important for treating cancer.",
+      "ja": "がんの治療には早期診断が大切だ。"
+    },
+    {
+      "source": "original",
+      "label": "と診断される",
+      "en": "He was diagnosed with diabetes last year.",
+      "ja": "彼は昨年糖尿病と診断された。"
+    },
+    {
+      "source": "original",
+      "label": "診断",
+      "en": "The diagnosis was a simple cold.",
+      "ja": "診断はただのかぜだった。"
+    },
+    {
+      "source": "original",
+      "label": "原因を判断する",
+      "en": "The mechanic diagnosed the problem with the engine.",
+      "ja": "整備士はエンジンの不具合の原因を突き止めた。"
+    },
+    {
+      "source": "original",
+      "label": "診断",
+      "en": "AI can help doctors with diagnosis.",
+      "ja": "AIは医師の診断を助けることができる。"
+    }
+  ],
+  "check_points": [
+    "be diagnosed with A の型を言えるか",
+    "examine と diagnosis のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be diagnosed with、early diagnosis が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1220
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "health",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/helθ/",
+  "core_image": {
+    "text": "体と心がまるごと、損なわれずにいる状態",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"100\" y2=\"54\"/><line x1=\"120\" y1=\"74\" x2=\"140\" y2=\"54\"/><circle cx=\"120\" cy=\"80\" r=\"56\" stroke-dasharray=\"5 5\"/></g><text x=\"200\" y=\"18\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まるごと元気</text></svg>"
+  },
+  "etymology": "古い英語 hǣlth(まるごと無事なこと。whole・heal・holy と同じ根) → 体が損なわれていない状態 → 健康(状態) → 健康状態(good [poor] health) → healthy=健康な・健康によい",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the condition of a person's body or mind; the state of being well and free from illness."
+    }
+  ],
+  "cautions": [
+    "health は不可算(× a health)。be in good [poor] health=健康である[ない]",
+    "healthy=健康な・健康によい(healthy food)/healthful も「健康によい」",
+    "mental health=心の健康/public health=公衆衛生",
+    "be good [bad] for one's health=健康によい[悪い]"
+  ],
+  "patterns": [
+    {
+      "form": "be in good health",
+      "meaning": "健康である"
+    },
+    {
+      "form": "be good for one's health",
+      "meaning": "健康によい"
+    },
+    {
+      "form": "mental health",
+      "meaning": "心の健康"
+    },
+    {
+      "form": "public health",
+      "meaning": "公衆衛生"
+    },
+    {
+      "form": "healthy",
+      "meaning": "健康な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "健康",
+      "en": "My grandfather is still in good health at 90.",
+      "ja": "祖父は90歳でまだ健康だ。"
+    },
+    {
+      "source": "original",
+      "label": "健康によい",
+      "en": "Walking is good for your health.",
+      "ja": "歩くことは健康によい。"
+    },
+    {
+      "source": "original",
+      "label": "健康",
+      "en": "Smoking damages your health.",
+      "ja": "喫煙は健康を損なう。"
+    },
+    {
+      "source": "original",
+      "label": "心の健康",
+      "en": "Mental health is as important as physical health.",
+      "ja": "心の健康は体の健康と同じくらい大切だ。"
+    },
+    {
+      "source": "original",
+      "label": "公衆衛生",
+      "en": "The virus became a major public health problem.",
+      "ja": "そのウイルスは公衆衛生上の大問題になった。"
+    },
+    {
+      "source": "original",
+      "label": "健康によい",
+      "en": "Eating a healthy breakfast helps you concentrate.",
+      "ja": "健康によい朝食をとると集中しやすくなる。"
+    }
+  ],
+  "check_points": [
+    "health が不可算であることがわかるか",
+    "healthy の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "in good health、be good for one's health が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1211
+    }
+  ]
+}

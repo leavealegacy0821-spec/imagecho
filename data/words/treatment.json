@@ -1,0 +1,98 @@
+{
+  "word": "treatment",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈtriːtmənt/",
+  "core_image": {
+    "text": "手をかけて扱うこと、病気の手当て",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"100\" width=\"140\" height=\"12\"/><line x1=\"44\" y1=\"112\" x2=\"44\" y2=\"140\"/><line x1=\"176\" y1=\"112\" x2=\"176\" y2=\"140\"/><circle cx=\"60\" cy=\"88\" r=\"10\"/><line x1=\"70\" y1=\"94\" x2=\"170\" y2=\"94\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"160\" y2=\"86\"/></g><text x=\"110\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手当てする</text></svg>"
+  },
+  "etymology": "treat(扱う・手当てする。ラテン語 tractare=引っぱる・扱う:tractor と同じ根)+ment → 扱い方・待遇 → 治療・手当て → (物の)処理",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "something done to cure an illness or injury; the way you behave toward someone; a process to protect or clean something."
+    }
+  ],
+  "cautions": [
+    "cure=治すこと(結果・完治)/treatment=治療(過程・方法)。treatment が必ず cure になるとは限らない",
+    "receive [get] treatment=治療を受ける/treatment for A=Aの治療",
+    "「扱い・待遇」の意味も:special treatment=特別扱い",
+    "water treatment=浄水処理"
+  ],
+  "patterns": [
+    {
+      "form": "treatment for A",
+      "meaning": "Aの治療"
+    },
+    {
+      "form": "receive treatment",
+      "meaning": "治療を受ける"
+    },
+    {
+      "form": "medical treatment",
+      "meaning": "医療"
+    },
+    {
+      "form": "special treatment",
+      "meaning": "特別扱い"
+    },
+    {
+      "form": "under treatment",
+      "meaning": "治療中"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "治療",
+      "en": "There is no effective treatment for the disease yet.",
+      "ja": "その病気にはまだ有効な治療法がない。"
+    },
+    {
+      "source": "original",
+      "label": "治療を受ける",
+      "en": "He is receiving treatment in the hospital.",
+      "ja": "彼は病院で治療を受けている。"
+    },
+    {
+      "source": "original",
+      "label": "医療",
+      "en": "Everyone should have access to medical treatment.",
+      "ja": "誰もが医療を受けられるべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "特別扱い",
+      "en": "Famous people shouldn't get special treatment.",
+      "ja": "有名人が特別扱いされるべきではない。"
+    },
+    {
+      "source": "original",
+      "label": "扱い",
+      "en": "The treatment of animals in the zoo has improved.",
+      "ja": "動物園での動物の扱いはよくなった。"
+    },
+    {
+      "source": "original",
+      "label": "浄水処理",
+      "en": "The water goes through treatment before we drink it.",
+      "ja": "水は飲む前に浄水処理される。"
+    }
+  ],
+  "check_points": [
+    "cure と treatment のちがいを言えるか",
+    "special treatment の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "treatment for、medical treatment が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1218
+    }
+  ]
+}

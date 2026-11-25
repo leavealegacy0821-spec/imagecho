@@ -1,0 +1,103 @@
+{
+  "word": "ache",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/eɪk/",
+  "core_image": {
+    "text": "じわじわと続く、にぶい痛み",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"112\" y2=\"54\"/><line x1=\"120\" y1=\"74\" x2=\"128\" y2=\"54\"/><path d=\"M96 40 q-6 6 0 12 q6 6 0 12\"/><path d=\"M144 40 q6 6 0 12 q-6 6 0 12\"/></g><text x=\"190\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ずきずき</text></svg>"
+  },
+  "etymology": "古い英語 acan(痛む) → じわじわ続く痛み → headache・stomachache などの「〜の痛み」 → (動詞)痛む/ache for A=Aを切望する。※ch は /k/",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a continuous pain that is not sharp or very strong."
+    },
+    {
+      "pos": "動詞",
+      "text": "to feel a continuous dull pain; to want something very much."
+    }
+  ],
+  "cautions": [
+    "pain=痛み(広い・鋭い痛みも)/ache=じわじわ続くにぶい痛み(headache, toothache)",
+    "ch は /k/(エイク)",
+    "My head aches.=頭が痛い(=I have a headache.)",
+    "ache for A [to do]=Aを[〜したいと]切望する"
+  ],
+  "patterns": [
+    {
+      "form": "have a headache",
+      "meaning": "頭痛がする"
+    },
+    {
+      "form": "have a stomachache",
+      "meaning": "腹痛がする"
+    },
+    {
+      "form": "A aches",
+      "meaning": "Aが痛む"
+    },
+    {
+      "form": "aches and pains",
+      "meaning": "体のあちこちの痛み"
+    },
+    {
+      "form": "ache for A",
+      "meaning": "Aを切望する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "頭痛",
+      "en": "I have a terrible headache.",
+      "ja": "ひどい頭痛がする。"
+    },
+    {
+      "source": "original",
+      "label": "痛む",
+      "en": "My legs ached after the long walk.",
+      "ja": "長く歩いたあと脚が痛んだ。"
+    },
+    {
+      "source": "original",
+      "label": "歯痛",
+      "en": "He went to the dentist because of a toothache.",
+      "ja": "歯が痛くて彼は歯医者に行った。"
+    },
+    {
+      "source": "original",
+      "label": "あちこちの痛み",
+      "en": "My grandmother complains of aches and pains.",
+      "ja": "祖母は体のあちこちが痛いとこぼしている。"
+    },
+    {
+      "source": "original",
+      "label": "痛む",
+      "en": "My heart ached when I heard the sad news.",
+      "ja": "悲しい知らせを聞いて胸が痛んだ。"
+    },
+    {
+      "source": "original",
+      "label": "切望する",
+      "en": "She was aching to see her family again.",
+      "ja": "彼女は家族にまた会いたくてたまらなかった。"
+    }
+  ],
+  "check_points": [
+    "pain と ache のちがいを言えるか",
+    "ache の発音(ch=/k/)がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "headache など、発音が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1216
+    }
+  ]
+}

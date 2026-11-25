@@ -1,0 +1,103 @@
+{
+  "word": "wound",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/wuːnd/",
+  "core_image": {
+    "text": "刃物や武器で切られた、傷口",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M40 90 Q120 60 200 90 Q120 120 40 90\"/><line x1=\"100\" y1=\"78\" x2=\"140\" y2=\"100\"/><line x1=\"104\" y1=\"74\" x2=\"110\" y2=\"80\"/><line x1=\"134\" y1=\"96\" x2=\"140\" y2=\"104\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">切り傷</text></svg>"
+  },
+  "etymology": "古い英語 wund(傷) → (刃物・銃などによる)傷・けが → (心の)傷 → (動詞)傷つける(be wounded=負傷する)。※発音 /wuːnd/(wind の過去 wound /waʊnd/ とは別)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an injury to the body, especially one made by a knife or gun; emotional pain."
+    },
+    {
+      "pos": "動詞",
+      "text": "to injure someone, especially with a weapon; to hurt someone's feelings."
+    }
+  ],
+  "cautions": [
+    "injure=(事故で)けがをさせる/wound=(刃物・銃・戦闘で)傷を負わせる",
+    "be wounded=(戦闘などで)負傷する/be injured=(事故で)けがをする",
+    "発音 /wuːnd/。wind(巻く)の過去形 wound /waʊnd/ と区別",
+    "比ゆ:心の傷(old wounds)"
+  ],
+  "patterns": [
+    {
+      "form": "a deep wound",
+      "meaning": "深い傷"
+    },
+    {
+      "form": "a gunshot wound",
+      "meaning": "銃創"
+    },
+    {
+      "form": "be wounded",
+      "meaning": "負傷する"
+    },
+    {
+      "form": "heal a wound",
+      "meaning": "傷を治す"
+    },
+    {
+      "form": "open old wounds",
+      "meaning": "古傷をえぐる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "傷",
+      "en": "The doctor cleaned the wound carefully.",
+      "ja": "医者は傷口を丁寧に洗った。"
+    },
+    {
+      "source": "original",
+      "label": "負傷する",
+      "en": "Two soldiers were wounded in the battle.",
+      "ja": "その戦闘で兵士が2人負傷した。"
+    },
+    {
+      "source": "original",
+      "label": "深い傷",
+      "en": "He had a deep wound on his leg.",
+      "ja": "彼は脚に深い傷を負っていた。"
+    },
+    {
+      "source": "original",
+      "label": "傷が治る",
+      "en": "The wound healed in two weeks.",
+      "ja": "傷は2週間で治った。"
+    },
+    {
+      "source": "original",
+      "label": "心の傷",
+      "en": "Time heals all wounds.",
+      "ja": "時はすべての傷をいやす。"
+    },
+    {
+      "source": "original",
+      "label": "傷つける",
+      "en": "His cruel words wounded her deeply.",
+      "ja": "彼のひどい言葉は彼女を深く傷つけた。"
+    }
+  ],
+  "check_points": [
+    "injure と wound のちがいを言えるか",
+    "wound の発音が2通りあることがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be wounded と be injured の区別、発音が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1215
+    }
+  ]
+}

@@ -1053,7 +1053,7 @@
     },
     {
       "title": "使い分け:傷つける・損なう",
-      "note": "hurt=痛める(体・心) ／ injure=事故でけがさせる ／ harm=害を与える ／ damage=物に損害を与える ／ impair=はたらきを弱める ／ spoil=台無しにする ／ ruin=めちゃくちゃにする ／ undermine=下から掘ってじわじわ弱める",
+      "note": "hurt=痛める(体・心) ／ injure=事故でけがさせる ／ harm=害を与える ／ damage=物に損害を与える ／ impair=はたらきを弱める ／ spoil=台無しにする ／ ruin=めちゃくちゃにする ／ undermine=下から掘ってじわじわ弱める ／ wound=刃物・武器で切られた傷(be wounded)",
       "words": [
         "hurt",
         "injure",
@@ -1062,7 +1062,8 @@
         "impair",
         "spoil",
         "ruin",
-        "undermine"
+        "undermine",
+        "wound"
       ]
     },
     {
@@ -2011,6 +2012,31 @@
         "budget",
         "fund",
         "tax"
+      ]
+    },
+    {
+      "title": "使い分け:病気・症状",
+      "note": "health=体と心がまるごと無事な状態 ／ illness=調子が悪く病気でいる状態・期間 ／ disease=名前・原因のある特定の病気 ／ symptom=病気といっしょに表に出るしるし ／ fever=体が燃えるように熱い ／ ache=じわじわ続くにぶい痛み ／ pain=痛み(広い)",
+      "words": [
+        "health",
+        "illness",
+        "disease",
+        "symptom",
+        "fever",
+        "ache",
+        "pain"
+      ]
+    },
+    {
+      "title": "使い分け:治す・診る",
+      "note": "examine=細かく調べて診察する ／ diagnosis=見通して病気を見分ける診断 ／ treatment=手をかけて扱う治療(過程) ／ therapy=そばで世話して回復させる療法 ／ cure=すっかり治す(結果) ／ remedy=悪い所を治す手立て",
+      "words": [
+        "examine",
+        "diagnosis",
+        "treatment",
+        "therapy",
+        "cure",
+        "remedy"
       ]
     },
     {

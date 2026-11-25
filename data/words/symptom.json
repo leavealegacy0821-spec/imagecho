@@ -1,0 +1,94 @@
+{
+  "word": "symptom",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈsɪmptəm/",
+  "core_image": {
+    "text": "病気といっしょに表に出てくる、しるし",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"108\" y2=\"56\"/><line x1=\"120\" y1=\"74\" x2=\"136\" y2=\"96\"/><line x1=\"100\" y1=\"34\" x2=\"94\" y2=\"28\"/><line x1=\"140\" y1=\"34\" x2=\"146\" y2=\"28\"/><line x1=\"120\" y1=\"28\" x2=\"120\" y2=\"20\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">表に出るしるし</text></svg>"
+  },
+  "etymology": "ギリシャ語 symptōma(sym=いっしょに+ptōma=落ちること) → (病気と)いっしょに起こるもの → 症状 → (悪いことの)兆候",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a change in your body or mind that shows you have an illness; a sign that something bad exists."
+    }
+  ],
+  "cautions": [
+    "disease=病気そのもの/symptom=病気によって表に出る症状(熱・せきなど)",
+    "symptoms of A=Aの症状/have [show] symptoms=症状がある",
+    "比ゆ:a symptom of A=A(悪い状態)の表れ・兆候",
+    "sign=兆候・しるし(広い)"
+  ],
+  "patterns": [
+    {
+      "form": "symptoms of A",
+      "meaning": "Aの症状"
+    },
+    {
+      "form": "have symptoms",
+      "meaning": "症状がある"
+    },
+    {
+      "form": "common symptoms",
+      "meaning": "よくある症状"
+    },
+    {
+      "form": "a symptom of A",
+      "meaning": "Aの兆候"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "症状",
+      "en": "Fever and coughing are common symptoms of a cold.",
+      "ja": "熱とせきはかぜのよくある症状だ。"
+    },
+    {
+      "source": "original",
+      "label": "症状がある",
+      "en": "If you have any symptoms, please stay home.",
+      "ja": "何か症状があれば、家にいてください。"
+    },
+    {
+      "source": "original",
+      "label": "症状",
+      "en": "The symptoms disappeared after a few days.",
+      "ja": "症状は数日で消えた。"
+    },
+    {
+      "source": "original",
+      "label": "兆候",
+      "en": "Rising crime is a symptom of social problems.",
+      "ja": "犯罪の増加は社会問題の表れだ。"
+    },
+    {
+      "source": "original",
+      "label": "症状",
+      "en": "Some people show no symptoms at all.",
+      "ja": "まったく症状が出ない人もいる。"
+    },
+    {
+      "source": "original",
+      "label": "症状",
+      "en": "Tell the doctor about all your symptoms.",
+      "ja": "症状をすべて医者に伝えなさい。"
+    }
+  ],
+  "check_points": [
+    "disease と symptom のちがいを言えるか",
+    "symptom の比ゆ(兆候)がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "symptoms of A が医療系の長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1214
+    }
+  ]
+}
