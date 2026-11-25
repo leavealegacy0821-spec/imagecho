@@ -1,0 +1,98 @@
+{
+  "word": "nose",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/noʊz/",
+  "core_image": {
+    "text": "顔の前につき出た鼻・かぎ分ける力",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M120 30 L120 90 Q120 110 100 110 Q90 110 92 100\"/><path d=\"M120 90 Q130 110 148 104\"/><circle cx=\"108\" cy=\"104\" r=\"3\"/><circle cx=\"134\" cy=\"104\" r=\"3\"/><path d=\"M60 100 Q70 90 60 80\" stroke-dasharray=\"2 3\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くんくん</text></svg>"
+  },
+  "etymology": "古い英語 nosu(鼻) → 鼻 → においをかぎ分ける力・かんのよさ(a nose for) → (鼻先のように)前につき出た部分",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the part of the face above the mouth used for breathing and smelling; an ability to find things."
+    },
+    {
+      "pos": "動詞",
+      "text": "to move forward slowly and carefully; (nose around) to look for something secret."
+    }
+  ],
+  "cautions": [
+    "have a nose for A=Aをかぎつける才能がある",
+    "blow one's nose=鼻をかむ",
+    "under A's nose=Aの目の前で(気づかないうちに)",
+    "look down one's nose at A=Aを見下す"
+  ],
+  "patterns": [
+    {
+      "form": "blow one's nose",
+      "meaning": "鼻をかむ"
+    },
+    {
+      "form": "have a nose for A",
+      "meaning": "Aをかぎつける才能がある"
+    },
+    {
+      "form": "under A's nose",
+      "meaning": "Aのすぐ目の前で"
+    },
+    {
+      "form": "look down one's nose at A",
+      "meaning": "Aを見下す"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "鼻をかむ",
+      "en": "Blow your nose with a tissue.",
+      "ja": "ティッシュで鼻をかみなさい。"
+    },
+    {
+      "source": "original",
+      "label": "かぎつける",
+      "en": "Reporters have a nose for news.",
+      "ja": "記者はニュースをかぎつける才能がある。"
+    },
+    {
+      "source": "original",
+      "label": "目の前で",
+      "en": "The thief stole it right under our noses.",
+      "ja": "泥棒は私たちのすぐ目の前でそれを盗んだ。"
+    },
+    {
+      "source": "original",
+      "label": "見下す",
+      "en": "She looks down her nose at poor people.",
+      "ja": "彼女は貧しい人を見下している。"
+    },
+    {
+      "source": "original",
+      "label": "鼻血",
+      "en": "My nose is bleeding.",
+      "ja": "鼻血が出ている。"
+    },
+    {
+      "source": "original",
+      "label": "のぞき回る",
+      "en": "Stop nosing around in my room!",
+      "ja": "私の部屋をかぎ回らないで!"
+    }
+  ],
+  "check_points": [
+    "blow one's nose の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "blow one's nose が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2041
+    }
+  ]
+}

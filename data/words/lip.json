@@ -1,0 +1,89 @@
+{
+  "word": "lip",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/lɪp/",
+  "core_image": {
+    "text": "口のまわりのふち(くちびる)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M60 80 Q90 56 120 70 Q150 56 180 80 Q120 92 60 80 Z\"/><path d=\"M60 80 Q120 124 180 80 Q120 92 60 80 Z\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くちびる</text></svg>"
+  },
+  "etymology": "古い英語 lippa(くちびる) → くちびる → (器の)ふち",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "either of the two soft edges around the mouth; the edge of a container."
+    }
+  ],
+  "cautions": [
+    "lips=上下のくちびる(ふつう複数形)",
+    "lip service=口先だけの約束・お世辞",
+    "bite one's lip=(言いたいのを)ぐっとこらえる",
+    "My lips are sealed.=絶対に言わない"
+  ],
+  "patterns": [
+    {
+      "form": "bite one's lip",
+      "meaning": "ぐっとこらえる"
+    },
+    {
+      "form": "pay lip service to A",
+      "meaning": "Aを口先だけで支持する"
+    },
+    {
+      "form": "My lips are sealed.",
+      "meaning": "口外しない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "くちびる",
+      "en": "Her lips were dry from the cold.",
+      "ja": "寒さで彼女のくちびるはかさかさだった。"
+    },
+    {
+      "source": "original",
+      "label": "こらえる",
+      "en": "I bit my lip and said nothing.",
+      "ja": "私はぐっとこらえて何も言わなかった。"
+    },
+    {
+      "source": "original",
+      "label": "口先だけ",
+      "en": "The government only pays lip service to the problem.",
+      "ja": "政府はその問題に口先だけで取り組んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "口外しない",
+      "en": "Don't worry. My lips are sealed.",
+      "ja": "心配しないで。絶対言わないから。"
+    },
+    {
+      "source": "original",
+      "label": "リップ",
+      "en": "She put on lip balm.",
+      "ja": "彼女はリップクリームをぬった。"
+    },
+    {
+      "source": "original",
+      "label": "読唇",
+      "en": "He can read lips.",
+      "ja": "彼はくちびるの動きを読める。"
+    }
+  ],
+  "check_points": [
+    "lip service の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "lip service が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2043
+    }
+  ]
+}

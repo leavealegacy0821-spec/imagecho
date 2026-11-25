@@ -1,0 +1,93 @@
+{
+  "word": "neck",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/nek/",
+  "core_image": {
+    "text": "頭と胴をつなぐ細い首",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"40\" r=\"20\"/><line x1=\"112\" y1=\"60\" x2=\"112\" y2=\"84\"/><line x1=\"128\" y1=\"60\" x2=\"128\" y2=\"84\"/><path d=\"M70 100 Q90 84 112 84 M128 84 Q150 84 170 100\"/></g><text x=\"200\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くび</text></svg>"
+  },
+  "etymology": "古い英語 hnecca(首) → 首 → (びんの)首・細くなった部分 → neck and neck=(競走で)首と首を並べて=互角で",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the part of the body between the head and the shoulders; the narrow part of a bottle."
+    }
+  ],
+  "cautions": [
+    "neck and neck=互角で・接戦で",
+    "up to one's neck in A=Aに首までつかって(忙しい・困った)",
+    "a pain in the neck=やっかいなもの・人",
+    "stick one's neck out=あえて危険をおかす"
+  ],
+  "patterns": [
+    {
+      "form": "neck and neck",
+      "meaning": "互角で"
+    },
+    {
+      "form": "a pain in the neck",
+      "meaning": "やっかいなもの"
+    },
+    {
+      "form": "up to one's neck in A",
+      "meaning": "Aにどっぷりつかって"
+    },
+    {
+      "form": "stick one's neck out",
+      "meaning": "危ない橋をわたる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "互角",
+      "en": "The two runners were neck and neck.",
+      "ja": "2人の走者は互角だった。"
+    },
+    {
+      "source": "original",
+      "label": "やっかい",
+      "en": "This homework is a pain in the neck.",
+      "ja": "この宿題はほんとうにやっかいだ。"
+    },
+    {
+      "source": "original",
+      "label": "首まで",
+      "en": "I'm up to my neck in work.",
+      "ja": "仕事で首が回らない。"
+    },
+    {
+      "source": "original",
+      "label": "危ない橋",
+      "en": "He stuck his neck out to help me.",
+      "ja": "彼は危険をおかして私を助けてくれた。"
+    },
+    {
+      "source": "original",
+      "label": "首",
+      "en": "Giraffes have very long necks.",
+      "ja": "キリンはとても首が長い。"
+    },
+    {
+      "source": "original",
+      "label": "びん",
+      "en": "Hold the bottle by the neck.",
+      "ja": "びんの首の部分を持って。"
+    }
+  ],
+  "check_points": [
+    "neck and neck の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a pain in the neck が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2045
+    }
+  ]
+}
