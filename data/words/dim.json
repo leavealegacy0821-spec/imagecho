@@ -1,0 +1,98 @@
+{
+  "word": "dim",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/dɪm/",
+  "core_image": {
+    "text": "光が弱く、ぼんやりうす暗い",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"110\" y=\"90\" width=\"20\" height=\"50\"/><path d=\"M120 86 Q112 74 120 62 Q128 74 120 86\"/><circle cx=\"120\" cy=\"74\" r=\"40\" stroke-dasharray=\"2 6\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">うす暗い</text></svg>"
+  },
+  "etymology": "古い英語 dimm(暗い・ぼんやりした) → (光が)うす暗い → (記憶・見通しが)かすかな・ぼんやりした → (動詞)うす暗くする(dim the lights)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not bright; not clear; (of memories) not easy to remember."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make a light less bright; to become less bright."
+    }
+  ],
+  "cautions": [
+    "dark=暗い(光がない)/dim=光が弱くてうす暗い・ぼんやりした",
+    "a dim light=うす暗い明かり/a dim memory=かすかな記憶",
+    "dim the lights=明かりを落とす",
+    "take a dim view of A=Aを快く思わない"
+  ],
+  "patterns": [
+    {
+      "form": "a dim light",
+      "meaning": "うす暗い明かり"
+    },
+    {
+      "form": "a dim memory",
+      "meaning": "かすかな記憶"
+    },
+    {
+      "form": "dim the lights",
+      "meaning": "明かりを落とす"
+    },
+    {
+      "form": "take a dim view of A",
+      "meaning": "Aを快く思わない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "うす暗い",
+      "en": "The room was lit by a dim light.",
+      "ja": "部屋はうす暗い明かりに照らされていた。"
+    },
+    {
+      "source": "original",
+      "label": "かすかな",
+      "en": "I have only a dim memory of my grandfather.",
+      "ja": "祖父のことはかすかにしか覚えていない。"
+    },
+    {
+      "source": "original",
+      "label": "明かりを落とす",
+      "en": "They dimmed the lights before the movie started.",
+      "ja": "映画が始まる前に明かりが落とされた。"
+    },
+    {
+      "source": "original",
+      "label": "快く思わない",
+      "en": "My parents take a dim view of video games.",
+      "ja": "両親はテレビゲームを快く思っていない。"
+    },
+    {
+      "source": "original",
+      "label": "うす暗い",
+      "en": "It was too dim to read.",
+      "ja": "うす暗くて本が読めなかった。"
+    },
+    {
+      "source": "original",
+      "label": "ぼんやり",
+      "en": "The shape of the mountain was dim in the fog.",
+      "ja": "霧で山の形がぼんやりしていた。"
+    }
+  ],
+  "check_points": [
+    "dark と dim のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "dim light、dim memory が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1543
+    }
+  ]
+}

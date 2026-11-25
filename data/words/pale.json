@@ -1,0 +1,99 @@
+{
+  "word": "pale",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/peɪl/",
+  "core_image": {
+    "text": "色がうすくぬけて、青白い",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"70\" r=\"30\" stroke-dasharray=\"3 3\"/><circle cx=\"110\" cy=\"66\" r=\"3\"/><circle cx=\"130\" cy=\"66\" r=\"3\"/><path d=\"M110 84 Q120 80 130 84\"/><line x1=\"120\" y1=\"100\" x2=\"120\" y2=\"140\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">青白い</text></svg>"
+  },
+  "etymology": "ラテン語 pallidus(青白い) → (顔が)青白い・(色が)うすい → (動詞)青ざめる・見劣りする(pale in comparison)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "(of a person's face) having less color than usual because of illness or fear; (of a color) light."
+    },
+    {
+      "pos": "動詞",
+      "text": "to become pale; to seem less important when compared with something else."
+    }
+  ],
+  "cautions": [
+    "pale=(顔が)青白い・(色が)うすい(pale blue=淡い青)",
+    "turn [go] pale=青ざめる",
+    "pale in comparison (with A)=(Aと比べると)見劣りする",
+    "dim=(光が)うす暗い"
+  ],
+  "patterns": [
+    {
+      "form": "turn pale",
+      "meaning": "青ざめる"
+    },
+    {
+      "form": "look pale",
+      "meaning": "顔色が悪い"
+    },
+    {
+      "form": "pale blue",
+      "meaning": "淡い青"
+    },
+    {
+      "form": "pale in comparison",
+      "meaning": "見劣りする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "顔色が悪い",
+      "en": "You look pale. Are you OK?",
+      "ja": "顔色が悪いよ。大丈夫?"
+    },
+    {
+      "source": "original",
+      "label": "青ざめる",
+      "en": "She turned pale when she heard the news.",
+      "ja": "その知らせを聞いて彼女は青ざめた。"
+    },
+    {
+      "source": "original",
+      "label": "淡い",
+      "en": "He was wearing a pale blue shirt.",
+      "ja": "彼は淡い青のシャツを着ていた。"
+    },
+    {
+      "source": "original",
+      "label": "見劣りする",
+      "en": "My problems pale in comparison with hers.",
+      "ja": "私の悩みなんて彼女のと比べたら大したことない。"
+    },
+    {
+      "source": "original",
+      "label": "青白い",
+      "en": "The sick boy had a pale face.",
+      "ja": "病気の少年は青白い顔をしていた。"
+    },
+    {
+      "source": "original",
+      "label": "うすい",
+      "en": "The walls were painted a pale yellow.",
+      "ja": "壁は淡い黄色にぬられていた。"
+    }
+  ],
+  "check_points": [
+    "turn pale の意味を言えるか",
+    "pale in comparison の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "turn pale が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1542
+    }
+  ]
+}

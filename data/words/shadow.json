@@ -1,0 +1,99 @@
+{
+  "word": "shadow",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈʃædoʊ/",
+  "core_image": {
+    "text": "光がさえぎられてできる、形のある影",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"30\" r=\"12\"/><circle cx=\"100\" cy=\"52\" r=\"10\"/><line x1=\"100\" y1=\"62\" x2=\"100\" y2=\"106\"/><line x1=\"100\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"100\" y1=\"106\" x2=\"110\" y2=\"140\"/><polygon points=\"100,140 110,140 200,128 196,120\"/></g><text x=\"180\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くっきり影</text></svg>"
+  },
+  "etymology": "古い英語 sceadu(かげ。shade と同じ語の別の形) → 物の形をした影 → (不安・悲しみの)暗いかげ・(疑いの)かげ → (動詞)影のようにつけ回す・尾行する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a dark shape made when something blocks the light; a small amount of something; sadness."
+    },
+    {
+      "pos": "動詞",
+      "text": "to follow someone secretly."
+    }
+  ],
+  "cautions": [
+    "shade=日の当たらない日かげ(場所)/shadow=光がさえぎられてできる形のある影",
+    "cast a shadow (over A)=(Aに)影を落とす・暗いかげを投げかける",
+    "without [beyond] a shadow of (a) doubt=少しの疑いもなく",
+    "動詞 shadow=尾行する"
+  ],
+  "patterns": [
+    {
+      "form": "cast a shadow",
+      "meaning": "影を落とす"
+    },
+    {
+      "form": "in the shadow of A",
+      "meaning": "Aのかげで・Aに隠れて"
+    },
+    {
+      "form": "without a shadow of doubt",
+      "meaning": "疑いの余地なく"
+    },
+    {
+      "form": "shadow A",
+      "meaning": "Aを尾行する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "影",
+      "en": "The tree cast a long shadow on the grass.",
+      "ja": "木が芝生に長い影を落としていた。"
+    },
+    {
+      "source": "original",
+      "label": "影を落とす",
+      "en": "The accident cast a shadow over the festival.",
+      "ja": "その事故は祭りに暗い影を落とした。"
+    },
+    {
+      "source": "original",
+      "label": "疑いの余地なく",
+      "en": "He is, without a shadow of doubt, the best player.",
+      "ja": "疑いの余地なく彼が最高の選手だ。"
+    },
+    {
+      "source": "original",
+      "label": "かげで",
+      "en": "She lived in the shadow of her famous sister.",
+      "ja": "彼女は有名な姉のかげに隠れて生きてきた。"
+    },
+    {
+      "source": "original",
+      "label": "尾行する",
+      "en": "The detective shadowed the man for days.",
+      "ja": "刑事は何日もその男を尾行した。"
+    },
+    {
+      "source": "original",
+      "label": "影",
+      "en": "Children like to play with their shadows.",
+      "ja": "子どもは自分の影で遊ぶのが好きだ。"
+    }
+  ],
+  "check_points": [
+    "shade と shadow のちがいを言えるか",
+    "cast a shadow の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "shade / shadow の区別、cast a shadow が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1546
+    }
+  ]
+}

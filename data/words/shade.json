@@ -1,0 +1,99 @@
+{
+  "word": "shade",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ʃeɪd/",
+  "core_image": {
+    "text": "光がさえぎられた、すずしい日かげ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"30\" r=\"12\"/><line x1=\"130\" y1=\"140\" x2=\"130\" y2=\"70\"/><ellipse cx=\"130\" cy=\"56\" rx=\"50\" ry=\"26\"/><polygon points=\"90,140 180,140 170,120 100,120\" stroke-dasharray=\"4 4\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">日かげ</text></svg>"
+  },
+  "etymology": "古い英語 sceadu(かげ。shadow と同じ語) → 日の当たらない場所=日かげ → 光をさえぎるもの(lampshade・ブラインド) → (色の)濃淡・色合い → (意味の)微妙な差",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an area that is darker and cooler because the sun cannot reach it; a type of a color; something that blocks light."
+    },
+    {
+      "pos": "動詞",
+      "text": "to protect something from direct light."
+    }
+  ],
+  "cautions": [
+    "shadow=形のある影/shade=日の当たらない日かげ(場所・不可算)",
+    "in the shade=日かげで(⇔ in the sun)",
+    "a shade of blue=青の色合い/shades of meaning=意味の微妙な差",
+    "shady=日かげの多い・いかがわしい"
+  ],
+  "patterns": [
+    {
+      "form": "in the shade",
+      "meaning": "日かげで"
+    },
+    {
+      "form": "a shade of A",
+      "meaning": "Aの色合い"
+    },
+    {
+      "form": "shades of meaning",
+      "meaning": "意味のニュアンス"
+    },
+    {
+      "form": "shade A from B",
+      "meaning": "AをBからさえぎる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "日かげ",
+      "en": "Let's sit in the shade of that tree.",
+      "ja": "あの木の日かげに座ろう。"
+    },
+    {
+      "source": "original",
+      "label": "日かげ",
+      "en": "It was 35 degrees in the shade.",
+      "ja": "日かげでも35度あった。"
+    },
+    {
+      "source": "original",
+      "label": "色合い",
+      "en": "The wall was painted a light shade of green.",
+      "ja": "壁は淡い緑の色合いにぬられていた。"
+    },
+    {
+      "source": "original",
+      "label": "さえぎる",
+      "en": "She shaded her eyes from the sun.",
+      "ja": "彼女は日差しから目をさえぎった。"
+    },
+    {
+      "source": "original",
+      "label": "ニュアンス",
+      "en": "Words can have different shades of meaning.",
+      "ja": "言葉には微妙な意味の差があることがある。"
+    },
+    {
+      "source": "original",
+      "label": "日よけ",
+      "en": "Pull down the shade.",
+      "ja": "日よけを下ろして。"
+    }
+  ],
+  "check_points": [
+    "in the shade の意味を言えるか",
+    "shade と shadow のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "in the shade、shade / shadow の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1547
+    }
+  ]
+}

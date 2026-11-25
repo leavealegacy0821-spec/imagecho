@@ -1,0 +1,103 @@
+{
+  "word": "dark",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/dɑːrk/",
+  "core_image": {
+    "text": "光がとどかず、まっくら",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"30\" width=\"180\" height=\"100\"/><line x1=\"40\" y1=\"40\" x2=\"200\" y2=\"120\"/><line x1=\"40\" y1=\"60\" x2=\"180\" y2=\"130\"/><line x1=\"60\" y1=\"30\" x2=\"200\" y2=\"100\"/><path d=\"M160 50 A16 16 0 1 0 176 70 A12 12 0 1 1 160 50\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まっくら</text></svg>"
+  },
+  "etymology": "古い英語 deorc(暗い) → 光がない・暗い → (色が)濃い・(髪・目が)黒っぽい → (気分・時代が)暗い・陰うつな → (名詞)暗やみ(in the dark=暗い所で・何も知らされずに)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "with little or no light; (of a color) close to black; sad or without hope."
+    },
+    {
+      "pos": "名詞",
+      "text": "the lack of light."
+    }
+  ],
+  "cautions": [
+    "dim=うす暗い/dark=光がなく暗い(最も広い)",
+    "get [grow] dark=暗くなる/after dark=日が暮れてから",
+    "dark blue=濃い青/dark hair=黒っぽい髪",
+    "be in the dark (about A)=(Aについて)何も知らされていない"
+  ],
+  "patterns": [
+    {
+      "form": "get dark",
+      "meaning": "暗くなる"
+    },
+    {
+      "form": "after dark",
+      "meaning": "日が暮れてから"
+    },
+    {
+      "form": "in the dark",
+      "meaning": "暗い所で・知らされずに"
+    },
+    {
+      "form": "dark blue",
+      "meaning": "濃い青"
+    },
+    {
+      "form": "the dark side of A",
+      "meaning": "Aの暗い面"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "暗くなる",
+      "en": "It gets dark early in winter.",
+      "ja": "冬は早く暗くなる。"
+    },
+    {
+      "source": "original",
+      "label": "日が暮れてから",
+      "en": "Don't go out alone after dark.",
+      "ja": "日が暮れてからひとりで外出しないで。"
+    },
+    {
+      "source": "original",
+      "label": "知らされていない",
+      "en": "We were kept in the dark about the plan.",
+      "ja": "私たちはその計画について何も知らされていなかった。"
+    },
+    {
+      "source": "original",
+      "label": "濃い",
+      "en": "He wore a dark blue suit.",
+      "ja": "彼は濃紺のスーツを着ていた。"
+    },
+    {
+      "source": "original",
+      "label": "暗い面",
+      "en": "The movie shows the dark side of the city.",
+      "ja": "その映画は都市の暗い面を描いている。"
+    },
+    {
+      "source": "original",
+      "label": "暗やみ",
+      "en": "The child is afraid of the dark.",
+      "ja": "その子は暗やみをこわがる。"
+    }
+  ],
+  "check_points": [
+    "in the dark の2つの意味を言えるか",
+    "after dark の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "after dark、be in the dark が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1544
+    }
+  ]
+}
