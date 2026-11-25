@@ -1,0 +1,98 @@
+{
+  "word": "skin",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/skɪn/",
+  "core_image": {
+    "text": "体や果物の外側をおおう皮・はだ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"100\" cy=\"80\" r=\"40\"/><circle cx=\"100\" cy=\"80\" r=\"34\" stroke-dasharray=\"3 3\"/><path d=\"M140 80 Q170 70 180 90 Q170 110 140 96\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かわ</text></svg>"
+  },
+  "etymology": "古いノルド語 skinn(動物の皮) → 皮・皮ふ → はだ・(果物の)皮 → (動詞)皮をはぐ",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the natural outer layer of a person's or animal's body; the outer layer of a fruit."
+    },
+    {
+      "pos": "動詞",
+      "text": "to remove the skin from something."
+    }
+  ],
+  "cautions": [
+    "skin=皮ふ・(動物・果物の)皮/peel=(果物の)むいた皮・むく",
+    "by the skin of one's teeth=間一髪で",
+    "thick-skinned=(批判に)鈍感な・図太い",
+    "skin and bones=やせこけて"
+  ],
+  "patterns": [
+    {
+      "form": "dry skin",
+      "meaning": "かさかさのはだ"
+    },
+    {
+      "form": "by the skin of one's teeth",
+      "meaning": "かろうじて"
+    },
+    {
+      "form": "thick-skinned",
+      "meaning": "図太い"
+    },
+    {
+      "form": "skin and bones",
+      "meaning": "がりがり"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "はだ",
+      "en": "Use this cream if you have dry skin.",
+      "ja": "はだがかさかさならこのクリームを使って。"
+    },
+    {
+      "source": "original",
+      "label": "日焼け",
+      "en": "Protect your skin from the sun.",
+      "ja": "日ざしからはだを守りなさい。"
+    },
+    {
+      "source": "original",
+      "label": "図太い",
+      "en": "You need to be thick-skinned to be a politician.",
+      "ja": "政治家になるには図太くなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "がりがり",
+      "en": "The stray dog was skin and bones.",
+      "ja": "その野良犬はがりがりにやせていた。"
+    },
+    {
+      "source": "original",
+      "label": "皮",
+      "en": "Potato skins are full of vitamins.",
+      "ja": "じゃがいもの皮にはビタミンがたっぷりある。"
+    },
+    {
+      "source": "original",
+      "label": "肌の色",
+      "en": "People of all skin colors live here.",
+      "ja": "ここにはあらゆる肌の色の人が住んでいる。"
+    }
+  ],
+  "check_points": [
+    "thick-skinned の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2056
+    }
+  ]
+}

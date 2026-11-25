@@ -1,0 +1,112 @@
+{
+  "word": "back",
+  "pos": [
+    "名詞",
+    "副詞",
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/bæk/",
+  "core_image": {
+    "text": "うしろ側・もとの所へもどる・うしろから支える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"140\" y1=\"90\" x2=\"100\" y2=\"90\"/><polyline points=\"107,93.8 100,90 107,86.2\"/><path d=\"M170 140 L170 60 Q190 60 190 80 L190 140\"/></g><text x=\"170\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">うしろ</text></svg>"
+  },
+  "etymology": "古い英語 bæc(背中) → 背中・うしろ → (うしろへ)もどって(副詞) → (うしろから)支える(動詞)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the part of the body from the neck to the bottom; the part of something furthest from the front."
+    },
+    {
+      "pos": "副詞",
+      "text": "to or toward the place where someone or something was before; in return."
+    },
+    {
+      "pos": "動詞",
+      "text": "to support someone; to move backward."
+    },
+    {
+      "pos": "形容詞",
+      "text": "at the back; from the past."
+    }
+  ],
+  "cautions": [
+    "(副詞)come back=もどる/call back=折り返し電話する/pay back=返す",
+    "(動詞)back A (up)=Aを支持する・(データを)バックアップする",
+    "behind A's back=Aのいない所で",
+    "back down=引き下がる"
+  ],
+  "patterns": [
+    {
+      "form": "come back",
+      "meaning": "もどる"
+    },
+    {
+      "form": "back A up",
+      "meaning": "Aを支持する"
+    },
+    {
+      "form": "behind A's back",
+      "meaning": "Aのいない所で"
+    },
+    {
+      "form": "back down",
+      "meaning": "引き下がる"
+    },
+    {
+      "form": "back and forth",
+      "meaning": "行ったり来たり"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "もどる",
+      "en": "I'll be back in ten minutes.",
+      "ja": "10分でもどります。"
+    },
+    {
+      "source": "original",
+      "label": "支持",
+      "en": "My parents backed me up.",
+      "ja": "両親は私を支えてくれた。"
+    },
+    {
+      "source": "original",
+      "label": "陰で",
+      "en": "Don't talk about him behind his back.",
+      "ja": "彼のいない所で悪口を言うな。"
+    },
+    {
+      "source": "original",
+      "label": "引き下がる",
+      "en": "He refused to back down.",
+      "ja": "彼は引き下がろうとしなかった。"
+    },
+    {
+      "source": "original",
+      "label": "背中",
+      "en": "My back hurts.",
+      "ja": "背中が痛い。"
+    },
+    {
+      "source": "original",
+      "label": "行ったり来たり",
+      "en": "He walked back and forth.",
+      "ja": "彼は行ったり来たりした。"
+    }
+  ],
+  "check_points": [
+    "back A up の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "back up、behind one's back が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2052
+    }
+  ]
+}
