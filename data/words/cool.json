@@ -1,0 +1,98 @@
+{
+  "word": "cool",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/kuːl/",
+  "core_image": {
+    "text": "ほどよく冷えて、すっとさわやか",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M30 70 q20 -14 40 0 t40 0 t40 0 t40 0\"/><path d=\"M30 100 q20 -14 40 0 t40 0 t40 0 t40 0\"/><polygon points=\"190,30 196,42 190,54 184,42\"/></g><text x=\"100\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すっと涼しい</text></svg>"
+  },
+  "etymology": "古い英語 cōl(涼しい。cold と同じ根) → ほどよく冷たい・涼しい → (態度が)冷静な・冷淡な → (口語)かっこいい・いいね → (動詞)冷やす・冷める",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "slightly cold in a pleasant way; calm; (informal) fashionable or good."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make something cooler; to become cooler."
+    }
+  ],
+  "cautions": [
+    "cold=冷たい・寒い(強い)/cool=涼しい・ほどよく冷えた(⇔ warm)",
+    "keep [stay] cool=冷静でいる",
+    "(口語)cool=かっこいい・いいね",
+    "cool down=冷める・落ち着く"
+  ],
+  "patterns": [
+    {
+      "form": "a cool breeze",
+      "meaning": "涼しい風"
+    },
+    {
+      "form": "keep cool",
+      "meaning": "冷静でいる"
+    },
+    {
+      "form": "cool down",
+      "meaning": "冷める・落ち着く"
+    },
+    {
+      "form": "That's cool.",
+      "meaning": "いいね"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "涼しい",
+      "en": "A cool breeze was blowing from the sea.",
+      "ja": "海から涼しい風が吹いていた。"
+    },
+    {
+      "source": "original",
+      "label": "冷静",
+      "en": "Keep cool and don't panic.",
+      "ja": "冷静に、あわてないで。"
+    },
+    {
+      "source": "original",
+      "label": "冷ます",
+      "en": "Let the cake cool before cutting it.",
+      "ja": "切る前にケーキを冷ましてください。"
+    },
+    {
+      "source": "original",
+      "label": "落ち着く",
+      "en": "Wait until he cools down.",
+      "ja": "彼が落ち着くまで待とう。"
+    },
+    {
+      "source": "original",
+      "label": "かっこいい",
+      "en": "Your new shoes are really cool!",
+      "ja": "君の新しい靴、すごくかっこいいね!"
+    },
+    {
+      "source": "original",
+      "label": "冷淡な",
+      "en": "She gave me a cool reply.",
+      "ja": "彼女はそっけない返事をした。"
+    }
+  ],
+  "check_points": [
+    "cool の意味(涼しい・冷静・かっこいい)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "keep cool、cool down が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1393
+    }
+  ]
+}

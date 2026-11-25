@@ -1,0 +1,97 @@
+{
+  "word": "melt",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/melt/",
+  "core_image": {
+    "text": "熱で固いものが、とろりととける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"60\" y=\"40\" width=\"40\" height=\"40\"/><line x1=\"110\" y1=\"60\" x2=\"140\" y2=\"60\"/><polyline points=\"133,56.2 140,60 133,63.8\"/><path d=\"M150 70 Q160 40 170 70 L180 110 Q160 120 140 110 Z\"/><path d=\"M130 130 Q160 120 200 130\"/><circle cx=\"200\" cy=\"30\" r=\"12\"/></g><text x=\"80\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">とろり</text></svg>"
+  },
+  "etymology": "古い英語 meltan(とける) → (熱で)とける・とかす → (感情が)やわらぐ・(心が)とける → melt away=(だんだん)消えてゆく",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to change from a solid to a liquid because of heat; to become softer in feeling."
+    }
+  ],
+  "cautions": [
+    "melt=(熱で固体が)とける(氷・雪・チョコ)/dissolve=(液体の中に)とける(砂糖・塩)",
+    "melt away=消え去る",
+    "melt A's heart=Aの心をなごませる",
+    "melting point=融点"
+  ],
+  "patterns": [
+    {
+      "form": "A melts",
+      "meaning": "Aがとける"
+    },
+    {
+      "form": "melt A",
+      "meaning": "Aをとかす"
+    },
+    {
+      "form": "melt away",
+      "meaning": "消え去る"
+    },
+    {
+      "form": "melt A's heart",
+      "meaning": "Aの心をなごませる"
+    },
+    {
+      "form": "the melting point",
+      "meaning": "融点"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "とける",
+      "en": "The snow melted in the sun.",
+      "ja": "日差しで雪がとけた。"
+    },
+    {
+      "source": "original",
+      "label": "とかす",
+      "en": "Melt the butter in a pan.",
+      "ja": "フライパンでバターをとかしてください。"
+    },
+    {
+      "source": "original",
+      "label": "消え去る",
+      "en": "My worries melted away when I saw her smile.",
+      "ja": "彼女の笑顔を見て心配が消え去った。"
+    },
+    {
+      "source": "original",
+      "label": "なごませる",
+      "en": "The puppy's eyes melted my heart.",
+      "ja": "子犬の目に心がなごんだ。"
+    },
+    {
+      "source": "original",
+      "label": "とける",
+      "en": "Arctic ice is melting because of global warming.",
+      "ja": "地球温暖化で北極の氷がとけている。"
+    },
+    {
+      "source": "original",
+      "label": "とける(dissolve)",
+      "en": "Sugar dissolves in water.",
+      "ja": "砂糖は水にとける。"
+    }
+  ],
+  "check_points": [
+    "melt と dissolve のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "melt / dissolve の区別、氷の融解が環境系で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1399
+    }
+  ]
+}

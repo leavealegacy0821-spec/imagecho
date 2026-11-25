@@ -1,0 +1,102 @@
+{
+  "word": "boil",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/bɔɪl/",
+  "core_image": {
+    "text": "ぐつぐつと泡を立てて、煮え立つ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M70 70 L70 120 L170 120 L170 70\"/><line x1=\"60\" y1=\"70\" x2=\"180\" y2=\"70\"/><circle cx=\"96\" cy=\"90\" r=\"6\"/><circle cx=\"120\" cy=\"84\" r=\"8\"/><circle cx=\"146\" cy=\"92\" r=\"6\"/><path d=\"M100 60 q6 -10 0 -20\"/><path d=\"M140 60 q6 -10 0 -20\"/><line x1=\"90\" y1=\"128\" x2=\"150\" y2=\"128\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぐつぐつ</text></svg>"
+  },
+  "etymology": "ラテン語 bullire(泡立つ) → 煮え立つ・沸騰する → ゆでる → (怒りで)煮えくり返る → boil down to A=結局Aになる(煮詰まる)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "(of a liquid) to reach the temperature at which it becomes gas; to cook something in boiling water; to be very angry."
+    },
+    {
+      "pos": "名詞",
+      "text": "the point at which liquid boils."
+    }
+  ],
+  "cautions": [
+    "boil=沸騰する・ゆでる/heat=温める(広い)",
+    "boiled eggs=ゆで卵/boiling water=熱湯",
+    "boil down to A=要するにAということになる(長文で頻出)",
+    "boil with rage=怒りで煮えくり返る"
+  ],
+  "patterns": [
+    {
+      "form": "A boils",
+      "meaning": "Aが沸騰する"
+    },
+    {
+      "form": "boil A",
+      "meaning": "Aをゆでる・沸かす"
+    },
+    {
+      "form": "boiled eggs",
+      "meaning": "ゆで卵"
+    },
+    {
+      "form": "boil down to A",
+      "meaning": "結局Aということになる"
+    },
+    {
+      "form": "boiling hot",
+      "meaning": "うだるように暑い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "沸騰する",
+      "en": "Water boils at 100°C.",
+      "ja": "水は100度で沸騰する。"
+    },
+    {
+      "source": "original",
+      "label": "ゆでる",
+      "en": "Boil the eggs for ten minutes.",
+      "ja": "卵を10分ゆでてください。"
+    },
+    {
+      "source": "original",
+      "label": "沸かす",
+      "en": "I'll boil some water for tea.",
+      "ja": "お茶のためにお湯を沸かすね。"
+    },
+    {
+      "source": "original",
+      "label": "結局",
+      "en": "The problem boils down to money.",
+      "ja": "その問題は結局お金のことだ。"
+    },
+    {
+      "source": "original",
+      "label": "うだるように",
+      "en": "It's boiling hot today.",
+      "ja": "今日はうだるように暑い。"
+    },
+    {
+      "source": "original",
+      "label": "煮えくり返る",
+      "en": "He was boiling with anger.",
+      "ja": "彼は怒りで煮えくり返っていた。"
+    }
+  ],
+  "check_points": [
+    "boil down to A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "boil down to が熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1398
+    }
+  ]
+}

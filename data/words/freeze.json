@@ -1,0 +1,103 @@
+{
+  "word": "freeze",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/friːz/",
+  "core_image": {
+    "text": "冷えて、かちかちに固まる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"80\" y=\"50\" width=\"80\" height=\"60\"/><line x1=\"90\" y1=\"60\" x2=\"150\" y2=\"100\"/><line x1=\"150\" y1=\"60\" x2=\"90\" y2=\"100\"/><polygon points=\"40,30 44,40 54,40 46,46 50,56 40,50 30,56 34,46 26,40 36,40\"/><polygon points=\"200,100 204,110 214,110 206,116 210,126 200,120 190,126 194,116 186,110 196,110\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かちかち</text></svg>"
+  },
+  "etymology": "古い英語 frēosan(凍る) → 凍る・凍らせる → (恐怖で)体が固まる・動けなくなる → (賃金・資産を)凍結する → 活用 freeze - froze - frozen",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to become hard and turn to ice because of cold; to stop moving suddenly; to keep prices or wages at a fixed level."
+    },
+    {
+      "pos": "名詞",
+      "text": "a period of very cold weather; a fixed level of prices or wages."
+    }
+  ],
+  "cautions": [
+    "活用 freeze - froze - frozen",
+    "freeze to death=凍死する",
+    "(恐怖で)その場で固まる:She froze when she saw the bear.",
+    "freeze wages [prices]=賃金[物価]を凍結する/freezing=凍えるほど寒い"
+  ],
+  "patterns": [
+    {
+      "form": "A freezes",
+      "meaning": "Aが凍る"
+    },
+    {
+      "form": "freeze to death",
+      "meaning": "凍死する"
+    },
+    {
+      "form": "freeze A",
+      "meaning": "Aを凍らせる・凍結する"
+    },
+    {
+      "form": "frozen food",
+      "meaning": "冷凍食品"
+    },
+    {
+      "form": "freezing",
+      "meaning": "凍えるほど寒い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "凍る",
+      "en": "Water freezes at 0°C.",
+      "ja": "水は0度で凍る。"
+    },
+    {
+      "source": "original",
+      "label": "凍結する",
+      "en": "The lake froze over in January.",
+      "ja": "1月に湖が一面に凍った。"
+    },
+    {
+      "source": "original",
+      "label": "固まる",
+      "en": "She froze with fear.",
+      "ja": "彼女は恐怖で体が固まった。"
+    },
+    {
+      "source": "original",
+      "label": "冷凍食品",
+      "en": "We bought some frozen food.",
+      "ja": "冷凍食品を買った。"
+    },
+    {
+      "source": "original",
+      "label": "凍えるほど寒い",
+      "en": "It's freezing outside!",
+      "ja": "外は凍えるほど寒い!"
+    },
+    {
+      "source": "original",
+      "label": "凍結する",
+      "en": "The company froze wages for a year.",
+      "ja": "その会社は1年間賃金を凍結した。"
+    }
+  ],
+  "check_points": [
+    "freeze の活用を言えるか",
+    "freezing の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "活用 froze/frozen、freezing が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1397
+    }
+  ]
+}
