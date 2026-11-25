@@ -1,0 +1,98 @@
+{
+  "word": "gentle",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈdʒentl/",
+  "core_image": {
+    "text": "力を入れすぎず、そっとやさしい",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"110\" y2=\"86\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><ellipse cx=\"140\" cy=\"128\" rx=\"24\" ry=\"12\"/><circle cx=\"160\" cy=\"114\" r=\"8\"/><path d=\"M110 86 Q130 90 140 112\"/></g><text x=\"180\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そっと</text></svg>"
+  },
+  "etymology": "ラテン語 gentilis(同じ一族の・家柄のよい。gentleman と同じ「生まれ・家柄」の根) → 育ちのよい → 穏やかな・やさしい → (力・動き・坂が)おだやかな・ゆるやかな",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "calm and kind; not strong or violent; (of a slope) not steep."
+    }
+  ],
+  "cautions": [
+    "kind=親切な(行い)/gentle=(態度・動き・声が)穏やかでやさしい",
+    "be gentle with A=Aをやさしく扱う",
+    "a gentle breeze [slope]=そよ風[ゆるやかな坂]",
+    "gently=そっと・やさしく"
+  ],
+  "patterns": [
+    {
+      "form": "be gentle with A",
+      "meaning": "Aをやさしく扱う"
+    },
+    {
+      "form": "a gentle voice",
+      "meaning": "やさしい声"
+    },
+    {
+      "form": "a gentle breeze",
+      "meaning": "そよ風"
+    },
+    {
+      "form": "a gentle slope",
+      "meaning": "ゆるやかな坂"
+    },
+    {
+      "form": "gently",
+      "meaning": "そっと"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "やさしく扱う",
+      "en": "Be gentle with the baby.",
+      "ja": "赤ちゃんはやさしく扱ってね。"
+    },
+    {
+      "source": "original",
+      "label": "やさしい",
+      "en": "She spoke in a gentle voice.",
+      "ja": "彼女はやさしい声で話した。"
+    },
+    {
+      "source": "original",
+      "label": "そよ風",
+      "en": "A gentle breeze was blowing.",
+      "ja": "そよ風が吹いていた。"
+    },
+    {
+      "source": "original",
+      "label": "ゆるやかな",
+      "en": "The path has a gentle slope.",
+      "ja": "その小道はゆるやかな坂になっている。"
+    },
+    {
+      "source": "original",
+      "label": "そっと",
+      "en": "He gently closed the door.",
+      "ja": "彼はそっとドアを閉めた。"
+    },
+    {
+      "source": "original",
+      "label": "おとなしい",
+      "en": "Our dog is big but very gentle.",
+      "ja": "うちの犬は大きいけれどとてもおとなしい。"
+    }
+  ],
+  "check_points": [
+    "kind と gentle のちがいを言えるか",
+    "gently の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "gentle の訳し分け(やさしい・ゆるやかな)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1241
+    }
+  ]
+}

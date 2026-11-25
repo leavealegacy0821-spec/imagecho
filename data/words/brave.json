@@ -1,0 +1,99 @@
+{
+  "word": "brave",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/breɪv/",
+  "core_image": {
+    "text": "怖さに負けず、前へ踏み出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"96\" y2=\"56\"/><line x1=\"70\" y1=\"74\" x2=\"84\" y2=\"96\"/><path d=\"M220 140 L220 50 Q190 30 160 50 L150 70 L170 66 L156 90 L180 80 L170 110 L200 100 L200 140 Z\"/><line x1=\"90\" y1=\"110\" x2=\"140\" y2=\"110\"/><polyline points=\"133,106.2 140,110 133,113.8\"/></g><text x=\"110\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">立ち向かう</text></svg>"
+  },
+  "etymology": "イタリア語 bravo(勇ましい・すばらしい。「ブラボー」と同じ) → 恐れずに立ち向かう → 勇敢な → (動詞)(危険・悪天候に)勇敢に立ち向かう",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "willing to do dangerous or difficult things without showing fear."
+    },
+    {
+      "pos": "動詞",
+      "text": "to deal with a difficult or dangerous situation."
+    }
+  ],
+  "cautions": [
+    "brave=怖くても勇気を出す(勇敢な)/bold=大胆な(ときにずうずうしい)",
+    "It is brave of A to do=〜するとはAは勇敢だ",
+    "動詞 brave the cold [storm]=寒さ[嵐]をものともせず出かける",
+    "名詞 bravery=勇気(=courage)"
+  ],
+  "patterns": [
+    {
+      "form": "a brave A",
+      "meaning": "勇敢なA"
+    },
+    {
+      "form": "It is brave of A to do",
+      "meaning": "〜するとはAは勇敢だ"
+    },
+    {
+      "form": "brave the storm",
+      "meaning": "嵐をものともしない"
+    },
+    {
+      "form": "bravery",
+      "meaning": "勇気"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "勇敢な",
+      "en": "The brave firefighter saved the child.",
+      "ja": "勇敢な消防士がその子を救った。"
+    },
+    {
+      "source": "original",
+      "label": "勇敢だ",
+      "en": "It was brave of you to tell the truth.",
+      "ja": "本当のことを言うなんて君は勇気があるね。"
+    },
+    {
+      "source": "original",
+      "label": "勇気を出す",
+      "en": "Be brave and try again.",
+      "ja": "勇気を出してもう一度やってごらん。"
+    },
+    {
+      "source": "original",
+      "label": "ものともせず",
+      "en": "Thousands of fans braved the rain to see the concert.",
+      "ja": "何千人ものファンが雨をものともせずコンサートに来た。"
+    },
+    {
+      "source": "original",
+      "label": "勇気",
+      "en": "He received a medal for bravery.",
+      "ja": "彼は勇敢さをたたえて勲章を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "勇敢な",
+      "en": "She made a brave decision to start her own company.",
+      "ja": "彼女は自分の会社を始めるという勇気ある決断をした。"
+    }
+  ],
+  "check_points": [
+    "It is brave of A to do の型を言えるか",
+    "動詞 brave の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "It is brave of A to do が文法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1249
+    }
+  ]
+}
