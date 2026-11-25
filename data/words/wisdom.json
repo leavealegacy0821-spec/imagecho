@@ -1,0 +1,93 @@
+{
+  "word": "wisdom",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈwɪzdəm/",
+  "core_image": {
+    "text": "経験を積んで身についた、正しく判断する知恵",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"60\" r=\"12\"/><path d=\"M110 70 Q120 90 130 70\"/><line x1=\"120\" y1=\"72\" x2=\"120\" y2=\"110\"/><line x1=\"120\" y1=\"110\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"110\" x2=\"130\" y2=\"140\"/><line x1=\"140\" y1=\"80\" x2=\"150\" y2=\"140\"/><line x1=\"120\" y1=\"84\" x2=\"144\" y2=\"80\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">知恵</text></svg>"
+  },
+  "etymology": "wise(賢い)+dom(状態。kingdom・freedom と同じ) → 賢いこと → (経験にもとづく)知恵・分別・英知",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the ability to make good decisions based on knowledge and experience."
+    }
+  ],
+  "cautions": [
+    "knowledge=知識/intelligence=知能(頭のよさ)/wisdom=経験から得た正しく判断する知恵",
+    "have the wisdom to do=〜するだけの分別がある",
+    "wisdom tooth=親知らず",
+    "conventional wisdom=一般通念"
+  ],
+  "patterns": [
+    {
+      "form": "the wisdom to do",
+      "meaning": "〜する分別"
+    },
+    {
+      "form": "words of wisdom",
+      "meaning": "名言・知恵のことば"
+    },
+    {
+      "form": "conventional wisdom",
+      "meaning": "一般通念"
+    },
+    {
+      "form": "a wisdom tooth",
+      "meaning": "親知らず"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "知恵",
+      "en": "Old people often have great wisdom.",
+      "ja": "お年寄りはしばしば深い知恵をもっている。"
+    },
+    {
+      "source": "original",
+      "label": "分別",
+      "en": "He had the wisdom to say nothing.",
+      "ja": "彼には何も言わないだけの分別があった。"
+    },
+    {
+      "source": "original",
+      "label": "知恵のことば",
+      "en": "My grandmother shared some words of wisdom with me.",
+      "ja": "祖母が私に人生の知恵を教えてくれた。"
+    },
+    {
+      "source": "original",
+      "label": "一般通念",
+      "en": "Conventional wisdom says that breakfast is important.",
+      "ja": "一般には朝食が大切だと言われている。"
+    },
+    {
+      "source": "original",
+      "label": "親知らず",
+      "en": "I had my wisdom tooth pulled out.",
+      "ja": "親知らずを抜いた。"
+    },
+    {
+      "source": "original",
+      "label": "知恵",
+      "en": "Knowledge comes, but wisdom lingers.",
+      "ja": "知識は来るが、知恵は残る。"
+    }
+  ],
+  "check_points": [
+    "knowledge・intelligence・wisdom のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "wisdom、conventional wisdom が評論で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1470
+    }
+  ]
+}

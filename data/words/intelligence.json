@@ -1,0 +1,94 @@
+{
+  "word": "intelligence",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ɪnˈtelɪdʒəns/",
+  "core_image": {
+    "text": "物事の間を読みとって、理解し考える力",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"120\" cy=\"76\" rx=\"60\" ry=\"40\"/><path d=\"M90 60 Q110 50 130 66 Q150 80 160 64\"/><path d=\"M80 86 Q100 96 120 84 Q140 72 160 90\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">考える力</text></svg>"
+  },
+  "etymology": "inter(間を)+legere(読む・選ぶ) → 間を読みとる・見分ける → 知能・知性 → (国家の)情報・諜報(intelligence agency) → intelligent=知的な",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the ability to learn, understand and think; secret information about an enemy."
+    }
+  ],
+  "cautions": [
+    "knowledge=知識(たまったもの)/intelligence=理解し考える力(知能)/wisdom=経験にもとづく判断力",
+    "artificial intelligence (AI)=人工知能",
+    "intelligent=知的な・頭のよい/intellectual=知的な・知識人",
+    "(国家の)情報機関:intelligence agency"
+  ],
+  "patterns": [
+    {
+      "form": "artificial intelligence",
+      "meaning": "人工知能"
+    },
+    {
+      "form": "high intelligence",
+      "meaning": "高い知能"
+    },
+    {
+      "form": "intelligent",
+      "meaning": "頭のよい"
+    },
+    {
+      "form": "an intelligence agency",
+      "meaning": "情報機関"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "人工知能",
+      "en": "Artificial intelligence is changing many industries.",
+      "ja": "人工知能は多くの産業を変えつつある。"
+    },
+    {
+      "source": "original",
+      "label": "知能",
+      "en": "Dolphins are known for their high intelligence.",
+      "ja": "イルカは知能が高いことで知られている。"
+    },
+    {
+      "source": "original",
+      "label": "頭のよい",
+      "en": "She is an intelligent and kind student.",
+      "ja": "彼女は頭がよくて優しい生徒だ。"
+    },
+    {
+      "source": "original",
+      "label": "知能",
+      "en": "Intelligence is not only about test scores.",
+      "ja": "知能はテストの点数だけで決まるものではない。"
+    },
+    {
+      "source": "original",
+      "label": "情報",
+      "en": "The army gathered intelligence about the enemy.",
+      "ja": "軍は敵について情報を集めた。"
+    },
+    {
+      "source": "original",
+      "label": "知能",
+      "en": "Some scientists study animal intelligence.",
+      "ja": "動物の知能を研究している科学者もいる。"
+    }
+  ],
+  "check_points": [
+    "knowledge と intelligence のちがいを言えるか",
+    "artificial intelligence の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "artificial intelligence、intelligent が長文で多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1469
+    }
+  ]
+}

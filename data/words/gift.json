@@ -1,0 +1,93 @@
+{
+  "word": "gift",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ɡɪft/",
+  "core_image": {
+    "text": "与えられたもの(贈り物・天からの才能)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"70\" y=\"70\" width=\"100\" height=\"60\"/><line x1=\"120\" y1=\"70\" x2=\"120\" y2=\"130\"/><line x1=\"70\" y1=\"96\" x2=\"170\" y2=\"96\"/><path d=\"M120 70 Q100 50 90 64 Q100 72 120 70 Q140 50 150 64 Q140 72 120 70\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もらったもの</text></svg>"
+  },
+  "etymology": "give(与える)と同じ根 → 与えられたもの=贈り物 → (神・天から与えられた)才能 → gifted=天賦の才のある",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "something you give to someone; a natural ability to do something."
+    }
+  ],
+  "cautions": [
+    "present=(日常の)プレゼント/gift=贈り物(やや正式)・天から与えられた才能",
+    "have a gift for A=Aの才能がある(=talent)",
+    "gifted=才能に恵まれた(a gifted child=天才児)",
+    "a gift from A=Aからの贈り物"
+  ],
+  "patterns": [
+    {
+      "form": "a gift for A",
+      "meaning": "Aへの贈り物・Aの才能"
+    },
+    {
+      "form": "have a gift for A",
+      "meaning": "Aの才能がある"
+    },
+    {
+      "form": "gifted",
+      "meaning": "才能に恵まれた"
+    },
+    {
+      "form": "a free gift",
+      "meaning": "おまけ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "贈り物",
+      "en": "Thank you for the lovely gift.",
+      "ja": "すてきな贈り物をありがとう。"
+    },
+    {
+      "source": "original",
+      "label": "才能",
+      "en": "She has a gift for languages.",
+      "ja": "彼女には語学の才能がある。"
+    },
+    {
+      "source": "original",
+      "label": "才能に恵まれた",
+      "en": "The school has a program for gifted children.",
+      "ja": "その学校には才能に恵まれた子のための課程がある。"
+    },
+    {
+      "source": "original",
+      "label": "おまけ",
+      "en": "You get a free gift with every purchase.",
+      "ja": "購入ごとにおまけがもらえる。"
+    },
+    {
+      "source": "original",
+      "label": "お土産",
+      "en": "I bought gifts for my family in Kyoto.",
+      "ja": "京都で家族にお土産を買った。"
+    },
+    {
+      "source": "original",
+      "label": "天からの贈り物",
+      "en": "Good health is a gift.",
+      "ja": "健康は天からの贈り物だ。"
+    }
+  ],
+  "check_points": [
+    "gift の2つの意味(贈り物・才能)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "have a gift for、gifted が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1464
+    }
+  ]
+}
