@@ -1,0 +1,103 @@
+{
+  "word": "walk",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/wɔːk/",
+  "core_image": {
+    "text": "片足ずつ地面につけて、歩いて進む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"100\" cy=\"60\" r=\"10\"/><line x1=\"100\" y1=\"70\" x2=\"100\" y2=\"110\"/><line x1=\"100\" y1=\"110\" x2=\"88\" y2=\"140\"/><line x1=\"100\" y1=\"110\" x2=\"114\" y2=\"140\"/><line x1=\"100\" y1=\"80\" x2=\"86\" y2=\"98\"/><line x1=\"100\" y1=\"80\" x2=\"114\" y2=\"96\"/><line x1=\"130\" y1=\"120\" x2=\"200\" y2=\"120\"/><polyline points=\"193,116.2 200,120 193,123.8\"/></g><text x=\"170\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">てくてく</text></svg>"
+  },
+  "etymology": "古い英語 wealcan(転がる・ぶらつく) → 足で歩く → (犬を)散歩させる・(人を)歩いて送る → (名詞)散歩・歩く道のり",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move along by putting one foot in front of the other; to take an animal for a walk; to go with someone on foot."
+    },
+    {
+      "pos": "名詞",
+      "text": "a journey on foot, especially for pleasure."
+    }
+  ],
+  "cautions": [
+    "walk=歩く(最も広い・ふつうの速さ)",
+    "go for a walk / take a walk=散歩する",
+    "walk A home=Aを家まで歩いて送る/walk the dog=犬を散歩させる",
+    "It is a 10-minute walk from A.=Aから歩いて10分だ"
+  ],
+  "patterns": [
+    {
+      "form": "walk to A",
+      "meaning": "Aへ歩いて行く"
+    },
+    {
+      "form": "go for a walk",
+      "meaning": "散歩に行く"
+    },
+    {
+      "form": "walk the dog",
+      "meaning": "犬を散歩させる"
+    },
+    {
+      "form": "walk A home",
+      "meaning": "Aを家まで送る"
+    },
+    {
+      "form": "a X-minute walk",
+      "meaning": "歩いてX分"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "歩いて行く",
+      "en": "I walk to school every day.",
+      "ja": "毎日歩いて学校へ行く。"
+    },
+    {
+      "source": "original",
+      "label": "散歩",
+      "en": "Let's go for a walk in the park.",
+      "ja": "公園に散歩に行こう。"
+    },
+    {
+      "source": "original",
+      "label": "散歩させる",
+      "en": "I walk the dog every morning.",
+      "ja": "毎朝犬を散歩させている。"
+    },
+    {
+      "source": "original",
+      "label": "送る",
+      "en": "He walked her home after the party.",
+      "ja": "彼はパーティーのあと彼女を家まで送った。"
+    },
+    {
+      "source": "original",
+      "label": "歩いて",
+      "en": "The station is a five-minute walk from here.",
+      "ja": "駅はここから歩いて5分だ。"
+    },
+    {
+      "source": "original",
+      "label": "歩く",
+      "en": "The baby learned to walk at one year old.",
+      "ja": "赤ちゃんは1歳で歩けるようになった。"
+    }
+  ],
+  "check_points": [
+    "walk A home の意味を言えるか",
+    "a five-minute walk の形がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "walk A home、a X-minute walk が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1321
+    }
+  ]
+}

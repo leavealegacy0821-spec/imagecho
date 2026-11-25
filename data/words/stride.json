@@ -1,0 +1,98 @@
+{
+  "word": "stride",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/straɪd/",
+  "core_image": {
+    "text": "足を大きく広げて、ずんずん歩く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"110\" cy=\"50\" r=\"10\"/><line x1=\"110\" y1=\"60\" x2=\"110\" y2=\"100\"/><line x1=\"110\" y1=\"100\" x2=\"76\" y2=\"140\"/><line x1=\"110\" y1=\"100\" x2=\"146\" y2=\"140\"/><line x1=\"110\" y1=\"72\" x2=\"90\" y2=\"88\"/><line x1=\"110\" y1=\"72\" x2=\"130\" y2=\"86\"/><line x1=\"76\" y1=\"150\" x2=\"146\" y2=\"150\" stroke-dasharray=\"5 5\"/><polyline points=\"139,146.2 146,150 139,153.8\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">大またで</text></svg>"
+  },
+  "etymology": "古い英語 strīdan(大またで歩く) → 大またで力強く歩く → (名詞)大また・歩幅 → (進歩の)大きな一歩(make great strides)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to walk somewhere quickly with long steps."
+    },
+    {
+      "pos": "名詞",
+      "text": "a long step; progress toward something."
+    }
+  ],
+  "cautions": [
+    "活用 stride - strode - stridden",
+    "walk=歩く/stride=自信をもって大またでずんずん歩く",
+    "make great strides=大きく進歩する(長文で頻出)",
+    "take A in one's stride=Aを難なくこなす"
+  ],
+  "patterns": [
+    {
+      "form": "stride into A",
+      "meaning": "Aにずかずか入る"
+    },
+    {
+      "form": "make great strides",
+      "meaning": "大きく進歩する"
+    },
+    {
+      "form": "take A in one's stride",
+      "meaning": "Aを難なくこなす"
+    },
+    {
+      "form": "get into one's stride",
+      "meaning": "調子が出る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ずんずん歩く",
+      "en": "He strode into the room and sat down.",
+      "ja": "彼はずかずかと部屋に入ってきて座った。"
+    },
+    {
+      "source": "original",
+      "label": "大きく進歩する",
+      "en": "Medicine has made great strides in recent years.",
+      "ja": "医学は近年大きく進歩した。"
+    },
+    {
+      "source": "original",
+      "label": "難なくこなす",
+      "en": "She took the difficult test in her stride.",
+      "ja": "彼女は難しいテストを難なくこなした。"
+    },
+    {
+      "source": "original",
+      "label": "大また",
+      "en": "He walked with long strides.",
+      "ja": "彼は大またで歩いた。"
+    },
+    {
+      "source": "original",
+      "label": "調子が出る",
+      "en": "The team got into its stride in the second half.",
+      "ja": "チームは後半に調子が出てきた。"
+    },
+    {
+      "source": "original",
+      "label": "大またで歩く",
+      "en": "The soldiers strode across the field.",
+      "ja": "兵士たちは野原を大またで横切った。"
+    }
+  ],
+  "check_points": [
+    "make great strides の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "make great strides が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1323
+    }
+  ]
+}

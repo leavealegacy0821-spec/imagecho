@@ -1,0 +1,103 @@
+{
+  "word": "limp",
+  "pos": [
+    "動詞",
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/lɪmp/",
+  "core_image": {
+    "text": "片足をかばって、ひょこひょこ歩く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"110\" cy=\"56\" r=\"10\"/><line x1=\"110\" y1=\"66\" x2=\"114\" y2=\"106\"/><line x1=\"114\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"114\" y1=\"106\" x2=\"126\" y2=\"126\"/><line x1=\"126\" y1=\"126\" x2=\"122\" y2=\"138\"/><line x1=\"112\" y1=\"80\" x2=\"96\" y2=\"96\"/><line x1=\"112\" y1=\"80\" x2=\"130\" y2=\"92\"/><circle cx=\"126\" cy=\"122\" r=\"6\" stroke-dasharray=\"2 2\"/></g><text x=\"180\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">足をかばう</text></svg>"
+  },
+  "etymology": "(足が)不自由に歩く、という古い語から → 片足をひきずって歩く → (船・飛行機が)のろのろ進む → (形容詞・別系統)ぐったりした・しおれた",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to walk with difficulty because one leg is hurt; (of a vehicle or organization) to move or continue slowly with difficulty."
+    },
+    {
+      "pos": "形容詞",
+      "text": "not firm or stiff; without energy."
+    },
+    {
+      "pos": "名詞",
+      "text": "a way of walking with difficulty."
+    }
+  ],
+  "cautions": [
+    "stagger=(体全体が)よろよろ/limp=(片足を痛めて)足を引きずって歩く",
+    "walk with a limp=足を引きずって歩く",
+    "形容詞 limp=ぐったりした・しおれた(a limp handshake)",
+    "比ゆ:limp along=(経済などが)やっと持ちこたえる"
+  ],
+  "patterns": [
+    {
+      "form": "limp to A",
+      "meaning": "足を引きずってAへ行く"
+    },
+    {
+      "form": "walk with a limp",
+      "meaning": "足を引きずって歩く"
+    },
+    {
+      "form": "limp along",
+      "meaning": "どうにか持ちこたえる"
+    },
+    {
+      "form": "go limp",
+      "meaning": "ぐったりする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "足を引きずる",
+      "en": "He limped off the field after the injury.",
+      "ja": "けがのあと、彼は足を引きずってグラウンドを出た。"
+    },
+    {
+      "source": "original",
+      "label": "足を引きずって歩く",
+      "en": "She walks with a slight limp.",
+      "ja": "彼女は少し足を引きずって歩く。"
+    },
+    {
+      "source": "original",
+      "label": "どうにか持ちこたえる",
+      "en": "The economy limped along for years.",
+      "ja": "経済は何年もどうにか持ちこたえていた。"
+    },
+    {
+      "source": "original",
+      "label": "ぐったりする",
+      "en": "The child went limp in her arms.",
+      "ja": "子どもは彼女の腕の中でぐったりした。"
+    },
+    {
+      "source": "original",
+      "label": "しおれた",
+      "en": "The flowers were limp from the heat.",
+      "ja": "花は暑さでしおれていた。"
+    },
+    {
+      "source": "original",
+      "label": "足を引きずる",
+      "en": "The dog limped home with a hurt paw.",
+      "ja": "犬は足をけがしてびっこを引きながら帰ってきた。"
+    }
+  ],
+  "check_points": [
+    "stagger と limp のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "歩き方の動詞の使い分けで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1328
+    }
+  ]
+}

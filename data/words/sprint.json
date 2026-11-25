@@ -1,0 +1,98 @@
+{
+  "word": "sprint",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/sprɪnt/",
+  "core_image": {
+    "text": "短い距離を、全速力で走りぬく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"110\" cy=\"50\" r=\"10\"/><line x1=\"112\" y1=\"60\" x2=\"100\" y2=\"100\"/><line x1=\"100\" y1=\"100\" x2=\"126\" y2=\"120\"/><line x1=\"126\" y1=\"120\" x2=\"118\" y2=\"140\"/><line x1=\"100\" y1=\"100\" x2=\"78\" y2=\"132\"/><line x1=\"106\" y1=\"74\" x2=\"130\" y2=\"64\"/><line x1=\"106\" y1=\"74\" x2=\"86\" y2=\"88\"/><line x1=\"160\" y1=\"40\" x2=\"160\" y2=\"140\"/><line x1=\"40\" y1=\"60\" x2=\"70\" y2=\"60\"/><line x1=\"36\" y1=\"80\" x2=\"70\" y2=\"80\"/></g><text x=\"200\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">全速力</text></svg>"
+  },
+  "etymology": "古いノルド語 spretta(ぱっと跳び出す) → 全力で走る → 短距離を全速力で走る → (名詞)短距離走・スパート",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to run very fast for a short distance."
+    },
+    {
+      "pos": "名詞",
+      "text": "a short fast race; a short period of great effort."
+    }
+  ],
+  "cautions": [
+    "run=走る/dash=急いでばっと突進/sprint=短い距離を全速力で走る(競技・ラストスパート)",
+    "sprint for A=Aに向けて全速力で走る",
+    "a sprinter=短距離走者",
+    "比ゆ:a final sprint=最後の追いこみ"
+  ],
+  "patterns": [
+    {
+      "form": "sprint to A",
+      "meaning": "Aまで全速力で走る"
+    },
+    {
+      "form": "sprint for A",
+      "meaning": "Aへ向けて全力で走る"
+    },
+    {
+      "form": "a 100-meter sprint",
+      "meaning": "100メートル走"
+    },
+    {
+      "form": "a sprinter",
+      "meaning": "短距離走者"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "全速力で走る",
+      "en": "He sprinted to the finish line.",
+      "ja": "彼はゴールまで全速力で走った。"
+    },
+    {
+      "source": "original",
+      "label": "短距離走",
+      "en": "She won the 200-meter sprint.",
+      "ja": "彼女は200メートル走で優勝した。"
+    },
+    {
+      "source": "original",
+      "label": "全力で走る",
+      "en": "I sprinted for the bus but missed it.",
+      "ja": "バスに向かって全力で走ったが、乗り遅れた。"
+    },
+    {
+      "source": "original",
+      "label": "短距離走者",
+      "en": "Usain Bolt was a famous sprinter.",
+      "ja": "ウサイン・ボルトは有名な短距離走者だった。"
+    },
+    {
+      "source": "original",
+      "label": "追いこみ",
+      "en": "The project is in its final sprint.",
+      "ja": "その事業は最後の追いこみに入っている。"
+    },
+    {
+      "source": "original",
+      "label": "ダッシュ",
+      "en": "The coach told us to do ten sprints.",
+      "ja": "コーチは私たちにダッシュを10本するよう言った。"
+    }
+  ],
+  "check_points": [
+    "dash と sprint のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "走り方の動詞の使い分けで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1330
+    }
+  ]
+}

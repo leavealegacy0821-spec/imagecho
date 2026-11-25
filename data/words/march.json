@@ -1,0 +1,98 @@
+{
+  "word": "march",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/mɑːrtʃ/",
+  "core_image": {
+    "text": "足並みをそろえて、きっちり進む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><circle cx=\"100\" cy=\"52\" r=\"10\"/><line x1=\"100\" y1=\"62\" x2=\"100\" y2=\"106\"/><line x1=\"100\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"100\" y1=\"106\" x2=\"110\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"94\"/><line x1=\"100\" y1=\"74\" x2=\"90\" y2=\"94\"/><line x1=\"150\" y1=\"74\" x2=\"140\" y2=\"94\"/><line x1=\"180\" y1=\"100\" x2=\"226\" y2=\"100\"/><polyline points=\"219,96.2 226,100 219,103.8\"/></g><text x=\"100\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ざっざっ</text></svg>"
+  },
+  "etymology": "古いフランス語 marcher(足で踏む) → 足並みをそろえて歩く=行進する → (デモで)行進する → (ずかずかと)歩いていく → (名詞)行進・デモ行進・進展",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to walk with regular steps, like soldiers; to walk somewhere in a determined way; to walk in a protest."
+    },
+    {
+      "pos": "名詞",
+      "text": "an organized walk by soldiers or protesters; steady progress."
+    }
+  ],
+  "cautions": [
+    "walk=歩く/march=(兵士のように)足並みをそろえて行進する・(怒って)ずかずか歩く",
+    "march against A=Aに反対してデモ行進する",
+    "the march of time [progress]=時[進歩]の歩み",
+    "月の March(3月)とは別語源"
+  ],
+  "patterns": [
+    {
+      "form": "march to A",
+      "meaning": "Aへ行進する"
+    },
+    {
+      "form": "march against A",
+      "meaning": "Aに抗議してデモ行進する"
+    },
+    {
+      "form": "march off",
+      "meaning": "ずかずか立ち去る"
+    },
+    {
+      "form": "the march of A",
+      "meaning": "Aの進展"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "行進する",
+      "en": "The soldiers marched through the town.",
+      "ja": "兵士たちは町を行進した。"
+    },
+    {
+      "source": "original",
+      "label": "デモ行進",
+      "en": "Thousands of people marched against the war.",
+      "ja": "何千人もの人々が戦争に反対してデモ行進した。"
+    },
+    {
+      "source": "original",
+      "label": "ずかずか",
+      "en": "She marched out of the room without a word.",
+      "ja": "彼女はひと言も言わずにずかずかと部屋を出ていった。"
+    },
+    {
+      "source": "original",
+      "label": "行進",
+      "en": "The band led the march.",
+      "ja": "バンドが行進の先頭に立った。"
+    },
+    {
+      "source": "original",
+      "label": "進歩",
+      "en": "Nothing can stop the march of science.",
+      "ja": "科学の進歩は何ものにも止められない。"
+    },
+    {
+      "source": "original",
+      "label": "行進する",
+      "en": "The students marched onto the field.",
+      "ja": "生徒たちはグラウンドに行進して入った。"
+    }
+  ],
+  "check_points": [
+    "march の意味(行進・デモ・ずかずか)がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "march against(デモ)が社会系で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1324
+    }
+  ]
+}

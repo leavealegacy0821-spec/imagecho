@@ -1,0 +1,93 @@
+{
+  "word": "stagger",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈstæɡər/",
+  "core_image": {
+    "text": "足もとがふらついて、よろよろ歩く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"100\" cy=\"56\" r=\"10\"/><line x1=\"100\" y1=\"66\" x2=\"110\" y2=\"104\"/><line x1=\"110\" y1=\"104\" x2=\"96\" y2=\"140\"/><line x1=\"110\" y1=\"104\" x2=\"126\" y2=\"138\"/><line x1=\"104\" y1=\"78\" x2=\"84\" y2=\"70\"/><line x1=\"104\" y1=\"78\" x2=\"128\" y2=\"90\"/><path d=\"M150 120 Q160 100 170 120 Q180 140 190 120\" stroke-dasharray=\"3 4\"/></g><text x=\"180\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">よろよろ</text></svg>"
+  },
+  "etymology": "古いノルド語 stakra(押されてよろめく) → よろめく・よろよろ歩く → (人を)びっくりさせる(staggering=驚くべき) → (時間を)ずらす(staggered hours=時差出勤)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to walk or move unsteadily, as if you are going to fall; to shock someone very much; to arrange things so that they do not happen at the same time."
+    }
+  ],
+  "cautions": [
+    "walk=歩く/stagger=(疲れ・けが・酒で)よろよろ歩く",
+    "staggering=驚くほどの(a staggering amount=驚くほどの量)",
+    "be staggered by A=Aにひどく驚く",
+    "stagger working hours=勤務時間をずらす(時差出勤)"
+  ],
+  "patterns": [
+    {
+      "form": "stagger to A",
+      "meaning": "よろよろとAへ行く"
+    },
+    {
+      "form": "be staggered by A",
+      "meaning": "Aにひどく驚く"
+    },
+    {
+      "form": "staggering",
+      "meaning": "驚くべき"
+    },
+    {
+      "form": "stagger working hours",
+      "meaning": "時差出勤にする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "よろよろ歩く",
+      "en": "The injured man staggered to the door.",
+      "ja": "けがをした男はよろよろとドアまで歩いた。"
+    },
+    {
+      "source": "original",
+      "label": "よろめく",
+      "en": "She staggered under the weight of the box.",
+      "ja": "彼女は箱の重さによろめいた。"
+    },
+    {
+      "source": "original",
+      "label": "驚くべき",
+      "en": "The company made a staggering profit.",
+      "ja": "その会社は驚くほどの利益をあげた。"
+    },
+    {
+      "source": "original",
+      "label": "ひどく驚く",
+      "en": "I was staggered by the price.",
+      "ja": "その値段にひどく驚いた。"
+    },
+    {
+      "source": "original",
+      "label": "時差出勤",
+      "en": "The company staggers working hours to avoid crowded trains.",
+      "ja": "その会社は満員電車を避けるため時差出勤を取り入れている。"
+    },
+    {
+      "source": "original",
+      "label": "よろめく",
+      "en": "He staggered and almost fell.",
+      "ja": "彼はよろめいて、あやうく倒れそうになった。"
+    }
+  ],
+  "check_points": [
+    "staggering の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "staggering(驚くべき)が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1325
+    }
+  ]
+}

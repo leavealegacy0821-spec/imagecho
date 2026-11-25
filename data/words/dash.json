@@ -1,0 +1,103 @@
+{
+  "word": "dash",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/dæʃ/",
+  "core_image": {
+    "text": "ばっと勢いよく、短く突進する",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"56\" r=\"10\"/><line x1=\"118\" y1=\"66\" x2=\"110\" y2=\"104\"/><line x1=\"110\" y1=\"104\" x2=\"134\" y2=\"128\"/><line x1=\"110\" y1=\"104\" x2=\"90\" y2=\"132\"/><line x1=\"114\" y1=\"80\" x2=\"136\" y2=\"70\"/><line x1=\"114\" y1=\"80\" x2=\"94\" y2=\"92\"/><line x1=\"40\" y1=\"70\" x2=\"80\" y2=\"70\"/><line x1=\"46\" y1=\"90\" x2=\"80\" y2=\"90\"/><line x1=\"40\" y1=\"110\" x2=\"76\" y2=\"110\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ダッシュ</text></svg>"
+  },
+  "etymology": "中英語 dasshen(打ちつける。勢いを表す語) → 勢いよくぶつける・投げつける → 突進する・急いで行く → (希望を)打ち砕く(dash A's hopes) → (名詞)短距離走・ダッシュ記号(—)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to go somewhere very quickly; to hit or throw something with force; to destroy hopes."
+    },
+    {
+      "pos": "名詞",
+      "text": "a quick run; a short race; a small amount; the mark (—)."
+    }
+  ],
+  "cautions": [
+    "run=走る(広い)/dash=急いで短い距離をばっと突進する",
+    "dash to A=Aへ急いで行く/make a dash for A=Aへ駆け出す",
+    "dash A's hopes=Aの希望を打ち砕く",
+    "a dash of A=少量のA(料理)"
+  ],
+  "patterns": [
+    {
+      "form": "dash to A",
+      "meaning": "Aへ急いで行く"
+    },
+    {
+      "form": "make a dash for A",
+      "meaning": "Aへ駆け出す"
+    },
+    {
+      "form": "dash A's hopes",
+      "meaning": "Aの希望を打ち砕く"
+    },
+    {
+      "form": "a dash of A",
+      "meaning": "少量のA"
+    },
+    {
+      "form": "the 100-meter dash",
+      "meaning": "100メートル走"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "急いで行く",
+      "en": "I dashed to the station to catch the train.",
+      "ja": "電車に間に合うよう駅へ急いだ。"
+    },
+    {
+      "source": "original",
+      "label": "駆け出す",
+      "en": "When the rain started, we made a dash for the car.",
+      "ja": "雨が降りだしたので、車へ駆け出した。"
+    },
+    {
+      "source": "original",
+      "label": "打ち砕く",
+      "en": "The injury dashed his hopes of winning.",
+      "ja": "けがで彼の優勝の望みは断たれた。"
+    },
+    {
+      "source": "original",
+      "label": "少量の",
+      "en": "Add a dash of salt.",
+      "ja": "塩を少々加えてください。"
+    },
+    {
+      "source": "original",
+      "label": "走",
+      "en": "He won the 100-meter dash.",
+      "ja": "彼は100メートル走で優勝した。"
+    },
+    {
+      "source": "original",
+      "label": "急いで行く",
+      "en": "I have to dash. See you later!",
+      "ja": "急いで行かなきゃ。またね!"
+    }
+  ],
+  "check_points": [
+    "dash A's hopes の意味を言えるか",
+    "a dash of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "dash A's hopes、make a dash for が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1329
+    }
+  ]
+}

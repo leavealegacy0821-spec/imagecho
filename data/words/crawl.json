@@ -1,0 +1,99 @@
+{
+  "word": "crawl",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/krɔːl/",
+  "core_image": {
+    "text": "手とひざをついて、地面をはって進む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"104\" r=\"10\"/><line x1=\"80\" y1=\"110\" x2=\"140\" y2=\"112\"/><line x1=\"90\" y1=\"110\" x2=\"86\" y2=\"140\"/><line x1=\"130\" y1=\"112\" x2=\"140\" y2=\"140\"/><line x1=\"140\" y1=\"112\" x2=\"156\" y2=\"140\"/><line x1=\"66\" y1=\"130\" x2=\"30\" y2=\"130\"/><polyline points=\"37,133.8 30,130 37,126.2\"/></g><text x=\"150\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">はいはい</text></svg>"
+  },
+  "etymology": "古いノルド語 krafla(手でかき分けて進む) → 手とひざではう → (車・時間が)のろのろ進む → (場所が)A でうじゃうじゃしている(be crawling with A) → (名詞)クロール(泳ぎ方)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move along on your hands and knees; (of traffic or time) to move very slowly; to be full of insects or people."
+    },
+    {
+      "pos": "名詞",
+      "text": "a very slow speed; a way of swimming."
+    }
+  ],
+  "cautions": [
+    "creep=(人に気づかれないよう)そっとしのび足で進む/crawl=手とひざで(体を低くして)はう",
+    "赤ちゃんの「はいはい」は crawl",
+    "be crawling with A=Aでうじゃうじゃしている",
+    "traffic crawls=車がのろのろ進む"
+  ],
+  "patterns": [
+    {
+      "form": "crawl on A",
+      "meaning": "Aをはう"
+    },
+    {
+      "form": "crawl along",
+      "meaning": "のろのろ進む"
+    },
+    {
+      "form": "be crawling with A",
+      "meaning": "Aでうじゃうじゃしている"
+    },
+    {
+      "form": "at a crawl",
+      "meaning": "のろのろと"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "はいはいする",
+      "en": "The baby is starting to crawl.",
+      "ja": "赤ちゃんがはいはいし始めている。"
+    },
+    {
+      "source": "original",
+      "label": "はう",
+      "en": "He crawled under the table to get the ball.",
+      "ja": "彼はボールを取ろうとテーブルの下にはって入った。"
+    },
+    {
+      "source": "original",
+      "label": "のろのろ進む",
+      "en": "The traffic was crawling along the highway.",
+      "ja": "高速道路で車がのろのろ進んでいた。"
+    },
+    {
+      "source": "original",
+      "label": "うじゃうじゃ",
+      "en": "The kitchen was crawling with ants.",
+      "ja": "台所はアリでうじゃうじゃしていた。"
+    },
+    {
+      "source": "original",
+      "label": "のろのろ",
+      "en": "Time seemed to crawl during the boring lecture.",
+      "ja": "退屈な講義の間、時間がのろのろ進むように思えた。"
+    },
+    {
+      "source": "original",
+      "label": "クロール",
+      "en": "She swims the crawl very fast.",
+      "ja": "彼女はクロールを泳ぐのがとても速い。"
+    }
+  ],
+  "check_points": [
+    "crawl と creep のちがいを言えるか",
+    "be crawling with A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "crawl / creep の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1326
+    }
+  ]
+}
