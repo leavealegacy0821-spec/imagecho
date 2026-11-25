@@ -1,0 +1,103 @@
+{
+  "word": "before",
+  "pos": [
+    "前置詞",
+    "接続詞",
+    "副詞"
+  ],
+  "ipa": "/bɪˈfɔːr/",
+  "core_image": {
+    "text": "(時間・順番で)〜より前に",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"80\" x2=\"220\" y2=\"80\"/><line x1=\"140\" y1=\"70\" x2=\"140\" y2=\"90\"/><circle cx=\"80\" cy=\"80\" r=\"8\"/><line x1=\"130\" y1=\"50\" x2=\"90\" y2=\"50\"/><polyline points=\"97,53.8 90,50 97,46.2\"/></g><text x=\"140\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ある時</text><text x=\"80\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">前</text></svg>"
+  },
+  "etymology": "古い英語 beforan(be-=そばに + foran=前に) → 前に(場所) → (時間で)前に",
+  "en_definitions": [
+    {
+      "pos": "前置詞",
+      "text": "earlier than; in front of."
+    },
+    {
+      "pos": "接続詞",
+      "text": "earlier than the time when."
+    },
+    {
+      "pos": "副詞",
+      "text": "at an earlier time."
+    }
+  ],
+  "cautions": [
+    "before S V=〜する前に(未来のことでも現在形)",
+    "ago=(今から)〜前/before=(その時から)〜前・以前に(過去完了と)",
+    "It will be long before ...=〜するのは当分先だ",
+    "It was not long before ...=まもなく〜した"
+  ],
+  "patterns": [
+    {
+      "form": "before doing",
+      "meaning": "〜する前に"
+    },
+    {
+      "form": "before S V",
+      "meaning": "SがVする前に"
+    },
+    {
+      "form": "It was not long before ...",
+      "meaning": "まもなく〜した"
+    },
+    {
+      "form": "the day before",
+      "meaning": "その前日"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "前に",
+      "en": "Wash your hands before eating.",
+      "ja": "食べる前に手を洗いなさい。"
+    },
+    {
+      "source": "original",
+      "label": "現在形",
+      "en": "Finish your homework before your mother comes home.",
+      "ja": "お母さんが帰ってくる前に宿題を終えなさい。"
+    },
+    {
+      "source": "original",
+      "label": "まもなく",
+      "en": "It was not long before he fell asleep.",
+      "ja": "まもなく彼は眠ってしまった。"
+    },
+    {
+      "source": "original",
+      "label": "以前",
+      "en": "I have seen this movie before.",
+      "ja": "この映画は以前見たことがある。"
+    },
+    {
+      "source": "original",
+      "label": "前日",
+      "en": "He had arrived the day before.",
+      "ja": "彼はその前日に着いていた。"
+    },
+    {
+      "source": "original",
+      "label": "当分先",
+      "en": "It will be a long time before we meet again.",
+      "ja": "また会えるのはずっと先になるだろう。"
+    }
+  ],
+  "check_points": [
+    "It was not long before ... の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "before + 現在形、It was not long before が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2155
+    }
+  ]
+}

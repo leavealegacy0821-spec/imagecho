@@ -1,0 +1,93 @@
+{
+  "word": "always",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˈɔːlweɪz/",
+  "core_image": {
+    "text": "いつでも必ず(100%)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"80\" x2=\"220\" y2=\"80\"/><circle cx=\"40\" cy=\"80\" r=\"8\"/><circle cx=\"40\" cy=\"80\" r=\"4\"/><circle cx=\"80\" cy=\"80\" r=\"8\"/><circle cx=\"80\" cy=\"80\" r=\"4\"/><circle cx=\"120\" cy=\"80\" r=\"8\"/><circle cx=\"120\" cy=\"80\" r=\"4\"/><circle cx=\"160\" cy=\"80\" r=\"8\"/><circle cx=\"160\" cy=\"80\" r=\"4\"/><circle cx=\"200\" cy=\"80\" r=\"8\"/><circle cx=\"200\" cy=\"80\" r=\"4\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いつも 100%</text></svg>"
+  },
+  "etymology": "all(すべての) + way(道)+ -s → すべての道で → いつでも",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "at all times; every time; forever."
+    }
+  ],
+  "cautions": [
+    "頻度:always(100%)> usually > often > sometimes > rarely / seldom > never(0%)",
+    "位置:一般動詞の前・be動詞のあと(I always walk / He is always late)",
+    "not always=いつも〜とはかぎらない(部分否定)",
+    "進行形+always=いつも〜ばかりしている(不満)"
+  ],
+  "patterns": [
+    {
+      "form": "always",
+      "meaning": "いつも"
+    },
+    {
+      "form": "not always",
+      "meaning": "いつも〜とはかぎらない"
+    },
+    {
+      "form": "as always",
+      "meaning": "いつものように"
+    },
+    {
+      "form": "be always doing",
+      "meaning": "いつも〜ばかりしている"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "いつも",
+      "en": "I always get up at six.",
+      "ja": "私はいつも6時に起きる。"
+    },
+    {
+      "source": "original",
+      "label": "be動詞のあと",
+      "en": "He is always late.",
+      "ja": "彼はいつも遅刻する。"
+    },
+    {
+      "source": "original",
+      "label": "部分否定",
+      "en": "The rich are not always happy.",
+      "ja": "金持ちがいつも幸せとはかぎらない。"
+    },
+    {
+      "source": "original",
+      "label": "不満",
+      "en": "She is always complaining.",
+      "ja": "彼女はいつも文句ばかり言っている。"
+    },
+    {
+      "source": "original",
+      "label": "いつものように",
+      "en": "As always, she was very kind.",
+      "ja": "いつものように彼女はとても親切だった。"
+    },
+    {
+      "source": "original",
+      "label": "永遠に",
+      "en": "I will always remember this day.",
+      "ja": "この日をいつまでも忘れない。"
+    }
+  ],
+  "check_points": [
+    "not always(部分否定)の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "頻度の副詞の位置、not always が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2149
+    }
+  ]
+}

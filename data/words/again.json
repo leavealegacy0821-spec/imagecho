@@ -1,0 +1,93 @@
+{
+  "word": "again",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/əˈɡen/",
+  "core_image": {
+    "text": "もう一度・もとの状態にもどって",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"40\"/><line x1=\"156\" y1=\"60\" x2=\"160\" y2=\"76\"/><polyline points=\"162,68.3 160,76 154.6,70.1\"/><circle cx=\"120\" cy=\"40\" r=\"6\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もういちど</text></svg>"
+  },
+  "etymology": "古い英語 ongēan(〜に向かって・もどって:against と同じ仲間) → もとへもどって → もう一度・再び",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "one more time; back to a previous state or place."
+    }
+  ],
+  "cautions": [
+    "again=もう一度・(もとの状態に)もどって(get well again)",
+    "again and again=何度も",
+    "(every) now and again=ときどき",
+    "once again=もう一度・改めて"
+  ],
+  "patterns": [
+    {
+      "form": "again and again",
+      "meaning": "何度も"
+    },
+    {
+      "form": "once again",
+      "meaning": "もう一度"
+    },
+    {
+      "form": "now and again",
+      "meaning": "ときどき"
+    },
+    {
+      "form": "never again",
+      "meaning": "二度と〜ない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "もう一度",
+      "en": "Could you say that again?",
+      "ja": "もう一度言ってもらえますか。"
+    },
+    {
+      "source": "original",
+      "label": "何度も",
+      "en": "I read the letter again and again.",
+      "ja": "その手紙を何度も読み返した。"
+    },
+    {
+      "source": "original",
+      "label": "もとに",
+      "en": "I hope you get well again soon.",
+      "ja": "早くまた元気になりますように。"
+    },
+    {
+      "source": "original",
+      "label": "ときどき",
+      "en": "I see him now and again.",
+      "ja": "ときどき彼を見かける。"
+    },
+    {
+      "source": "original",
+      "label": "二度と",
+      "en": "Never again will I eat there.",
+      "ja": "あそこでは二度と食べない。"
+    },
+    {
+      "source": "original",
+      "label": "改めて",
+      "en": "Once again, thank you all.",
+      "ja": "改めて皆さんありがとう。"
+    }
+  ],
+  "check_points": [
+    "again and again の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "again and again、now and again が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2154
+    }
+  ]
+}

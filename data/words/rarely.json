@@ -1,0 +1,89 @@
+{
+  "word": "rarely",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˈrerli/",
+  "core_image": {
+    "text": "めったに〜しない(ほとんど0)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"80\" x2=\"220\" y2=\"80\"/><circle cx=\"40\" cy=\"80\" r=\"8\"/><circle cx=\"80\" cy=\"80\" r=\"8\"/><circle cx=\"120\" cy=\"80\" r=\"8\"/><circle cx=\"120\" cy=\"80\" r=\"4\"/><circle cx=\"160\" cy=\"80\" r=\"8\"/><circle cx=\"200\" cy=\"80\" r=\"8\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">めったに…ない</text></svg>"
+  },
+  "etymology": "rare(まれな:ラテン語 rarus=まばらな) + -ly → まれに・めったに〜ない",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "not often; almost never."
+    }
+  ],
+  "cautions": [
+    "rarely=seldom=めったに〜ない(否定の意味をもつ:not はいらない)",
+    "Rarely do I ...=(倒置)めったに〜しない",
+    "hardly / scarcely=ほとんど〜ない(程度)",
+    "rare=まれな・(肉が)生焼けの"
+  ],
+  "patterns": [
+    {
+      "form": "rarely",
+      "meaning": "めったに〜ない"
+    },
+    {
+      "form": "Rarely do S V",
+      "meaning": "(倒置)めったに〜しない"
+    },
+    {
+      "form": "rare",
+      "meaning": "まれな"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "めったに",
+      "en": "My father rarely gets angry.",
+      "ja": "父はめったに怒らない。"
+    },
+    {
+      "source": "original",
+      "label": "倒置",
+      "en": "Rarely do we see such snow in Tokyo.",
+      "ja": "東京でこんな雪はめったに見ない。"
+    },
+    {
+      "source": "original",
+      "label": "まれな",
+      "en": "It is rare to see a rainbow at night.",
+      "ja": "夜に虹を見るのはまれだ。"
+    },
+    {
+      "source": "original",
+      "label": "seldom",
+      "en": "He seldom eats breakfast.",
+      "ja": "彼はめったに朝食を食べない。"
+    },
+    {
+      "source": "original",
+      "label": "not 不要",
+      "en": "She rarely watches TV.",
+      "ja": "彼女はめったにテレビを見ない(not はつけない)。"
+    },
+    {
+      "source": "original",
+      "label": "珍しい",
+      "en": "This is a rare bird.",
+      "ja": "これは珍しい鳥だ。"
+    }
+  ],
+  "check_points": [
+    "rarely に not をつけないことがわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "rarely / seldom、倒置が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2153
+    }
+  ]
+}
