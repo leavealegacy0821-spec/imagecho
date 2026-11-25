@@ -1,0 +1,89 @@
+{
+  "word": "completely",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/kəmˈpliːtli/",
+  "core_image": {
+    "text": "すっかり全部(完全に)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"44\"/><circle cx=\"120\" cy=\"80\" r=\"38\" stroke-dasharray=\"2 2\"/><polyline points=\"96,80 112,96 146,62\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かんぜん</text></svg>"
+  },
+  "etymology": "complete(完全な:ラテン語 complere=いっぱいに満たす) + -ly → すっかり・完全に",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "totally; in every way."
+    }
+  ],
+  "cautions": [
+    "completely=totally=entirely=完全に",
+    "partly=部分的に",
+    "not completely=完全には〜ない(部分否定)",
+    "complete=完全な・完成させる"
+  ],
+  "patterns": [
+    {
+      "form": "completely + 形容詞",
+      "meaning": "完全に〜"
+    },
+    {
+      "form": "not completely",
+      "meaning": "完全に〜とはかぎらない"
+    },
+    {
+      "form": "complete A",
+      "meaning": "Aを完成させる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "すっかり",
+      "en": "I completely forgot about it.",
+      "ja": "すっかり忘れていた。"
+    },
+    {
+      "source": "original",
+      "label": "完全に",
+      "en": "The building was completely destroyed.",
+      "ja": "その建物は完全にこわされた。"
+    },
+    {
+      "source": "original",
+      "label": "まったく",
+      "en": "You're completely right.",
+      "ja": "まったくあなたの言う通りだ。"
+    },
+    {
+      "source": "original",
+      "label": "部分否定",
+      "en": "I don't completely agree.",
+      "ja": "完全に賛成というわけではない。"
+    },
+    {
+      "source": "original",
+      "label": "完成",
+      "en": "Complete the form and send it.",
+      "ja": "用紙に記入して送ってください。"
+    },
+    {
+      "source": "original",
+      "label": "totally",
+      "en": "I totally agree with you.",
+      "ja": "まったく同感だ。"
+    }
+  ],
+  "check_points": [
+    "not completely(部分否定)の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "部分否定が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2373
+    }
+  ]
+}

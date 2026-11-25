@@ -1,0 +1,89 @@
+{
+  "word": "extremely",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ɪkˈstriːmli/",
+  "core_image": {
+    "text": "はしの限界まで(きわめて)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"70\" width=\"180\" height=\"20\"/><rect x=\"30\" y=\"70\" width=\"178\" height=\"20\" stroke-dasharray=\"2 2\"/><line x1=\"30\" y1=\"50\" x2=\"206\" y2=\"50\"/><polyline points=\"199,46.2 206,50 199,53.8\"/><line x1=\"210\" y1=\"40\" x2=\"210\" y2=\"100\"/></g><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">げんかいまで</text></svg>"
+  },
+  "etymology": "extreme(いちばんはしの:ラテン語 extremus=いちばん外の) + -ly → 極端に・きわめて",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "very; to a very great degree."
+    }
+  ],
+  "cautions": [
+    "very < extremely(とても強い)",
+    "extreme=極端な・(the extremes)両極端",
+    "go to extremes=極端に走る",
+    "absolutely=まったく(very をつけられない語と)"
+  ],
+  "patterns": [
+    {
+      "form": "extremely + 形容詞",
+      "meaning": "きわめて〜"
+    },
+    {
+      "form": "extreme",
+      "meaning": "極端な"
+    },
+    {
+      "form": "go to extremes",
+      "meaning": "極端に走る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "きわめて",
+      "en": "The test was extremely difficult.",
+      "ja": "テストはきわめてむずかしかった。"
+    },
+    {
+      "source": "original",
+      "label": "とても",
+      "en": "I'm extremely sorry.",
+      "ja": "本当に申しわけありません。"
+    },
+    {
+      "source": "original",
+      "label": "極端",
+      "en": "Avoid extreme diets.",
+      "ja": "極端なダイエットは避けなさい。"
+    },
+    {
+      "source": "original",
+      "label": "極端に走る",
+      "en": "He tends to go to extremes.",
+      "ja": "彼は極端に走りがちだ。"
+    },
+    {
+      "source": "original",
+      "label": "天気",
+      "en": "The weather was extremely hot.",
+      "ja": "天気はものすごく暑かった。"
+    },
+    {
+      "source": "original",
+      "label": "危険",
+      "en": "This area is extremely dangerous.",
+      "ja": "この地域はきわめて危険だ。"
+    }
+  ],
+  "check_points": [
+    "extreme の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "extreme が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2372
+    }
+  ]
+}

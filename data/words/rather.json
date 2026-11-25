@@ -1,0 +1,94 @@
+{
+  "word": "rather",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˈræðər/",
+  "core_image": {
+    "text": "(予想より)けっこう・むしろ(こちらを選ぶ)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"50\" width=\"60\" height=\"60\"/><line x1=\"44\" y1=\"54\" x2=\"96\" y2=\"106\"/><circle cx=\"170\" cy=\"80\" r=\"30\"/><line x1=\"110\" y1=\"80\" x2=\"136\" y2=\"80\"/><polyline points=\"129,76.2 136,80 129,83.8\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">むしろ</text></svg>"
+  },
+  "etymology": "古い英語 hraþor(より早く:rathe=早い の比較級) → より早く → より進んで・むしろ → かなり",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "fairly or to some degree (often unexpectedly); more willingly."
+    }
+  ],
+  "cautions": [
+    "rather A than B=BよりむしろA",
+    "would rather do (than do)=(〜より)むしろ〜したい",
+    "rather=(よくないことに)かなり・やや(rather cold)",
+    "or rather=いやむしろ"
+  ],
+  "patterns": [
+    {
+      "form": "A rather than B",
+      "meaning": "BよりむしろA"
+    },
+    {
+      "form": "would rather do",
+      "meaning": "むしろ〜したい"
+    },
+    {
+      "form": "or rather",
+      "meaning": "いやむしろ"
+    },
+    {
+      "form": "rather + 形容詞",
+      "meaning": "かなり・やや"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "むしろ",
+      "en": "I'd rather stay home than go out.",
+      "ja": "出かけるよりむしろ家にいたい。"
+    },
+    {
+      "source": "original",
+      "label": "より",
+      "en": "He is a writer rather than a teacher.",
+      "ja": "彼は先生というよりむしろ作家だ。"
+    },
+    {
+      "source": "original",
+      "label": "けっこう",
+      "en": "It's rather cold today.",
+      "ja": "今日はけっこう寒い。"
+    },
+    {
+      "source": "original",
+      "label": "いやむしろ",
+      "en": "I'll call you tomorrow, or rather on Monday.",
+      "ja": "明日、いや月曜に電話するね。"
+    },
+    {
+      "source": "original",
+      "label": "したくない",
+      "en": "I'd rather not talk about it.",
+      "ja": "その話はしたくない。"
+    },
+    {
+      "source": "original",
+      "label": "意外",
+      "en": "The book was rather interesting.",
+      "ja": "その本は思ったよりおもしろかった。"
+    }
+  ],
+  "check_points": [
+    "would rather do の意味を言えるか",
+    "A rather than B の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "would rather、A rather than B が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2369
+    }
+  ]
+}

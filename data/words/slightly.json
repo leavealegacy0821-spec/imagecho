@@ -1,0 +1,89 @@
+{
+  "word": "slightly",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˈslaɪtli/",
+  "core_image": {
+    "text": "ほんの少しだけ(わずかに)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"60\" width=\"60\" height=\"60\"/><rect x=\"140\" y=\"56\" width=\"64\" height=\"64\"/><line x1=\"106\" y1=\"90\" x2=\"134\" y2=\"90\"/><polyline points=\"127,86.2 134,90 127,93.8\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ちょっとだけ</text></svg>"
+  },
+  "etymology": "slight(わずかな:もとは「なめらかな・細い」) + -ly → わずかに",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "a little; not very much."
+    }
+  ],
+  "cautions": [
+    "slightly=少しだけ(a little と同じ:比較級も強める)",
+    "slightly better=少しよい",
+    "slight=わずかな(a slight change)",
+    "not in the slightest=少しも〜ない"
+  ],
+  "patterns": [
+    {
+      "form": "slightly + 形容詞/比較級",
+      "meaning": "わずかに〜"
+    },
+    {
+      "form": "slight",
+      "meaning": "わずかな"
+    },
+    {
+      "form": "not in the slightest",
+      "meaning": "少しも〜ない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "少し",
+      "en": "I'm slightly tired.",
+      "ja": "少し疲れている。"
+    },
+    {
+      "source": "original",
+      "label": "比較級",
+      "en": "This one is slightly cheaper.",
+      "ja": "こちらのほうが少し安い。"
+    },
+    {
+      "source": "original",
+      "label": "わずかな",
+      "en": "There was a slight change in the plan.",
+      "ja": "計画にわずかな変更があった。"
+    },
+    {
+      "source": "original",
+      "label": "少しも",
+      "en": "I'm not in the slightest worried.",
+      "ja": "少しも心配していない。"
+    },
+    {
+      "source": "original",
+      "label": "変化",
+      "en": "Prices rose slightly last month.",
+      "ja": "先月物価がわずかに上がった。"
+    },
+    {
+      "source": "original",
+      "label": "ほんの",
+      "en": "The two pictures are slightly different.",
+      "ja": "その2枚の絵はほんの少しちがう。"
+    }
+  ],
+  "check_points": [
+    "not in the slightest の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "グラフ問題(rise slightly)で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2374
+    }
+  ]
+}

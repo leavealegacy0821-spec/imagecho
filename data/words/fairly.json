@@ -1,0 +1,89 @@
+{
+  "word": "fairly",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˈferli/",
+  "core_image": {
+    "text": "まあまあ・公平に",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"70\" width=\"160\" height=\"20\"/><rect x=\"40\" y=\"70\" width=\"96\" height=\"20\" stroke-dasharray=\"2 2\"/><line x1=\"120\" y1=\"110\" x2=\"120\" y2=\"140\"/><line x1=\"90\" y1=\"110\" x2=\"150\" y2=\"110\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まあまあ</text></svg>"
+  },
+  "etymology": "fair(公平な・まあまあの) + -ly → 公平に → (ほどほどに)まあまあ",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "more than a little but not very; in a fair and honest way."
+    }
+  ],
+  "cautions": [
+    "程度:fairly(まあまあ)< quite(かなり)< very",
+    "fairly=公平に(treat A fairly)",
+    "fairly はよい意味の形容詞とよく使う",
+    "fair=公平な"
+  ],
+  "patterns": [
+    {
+      "form": "fairly + 形容詞",
+      "meaning": "まあまあ〜"
+    },
+    {
+      "form": "treat A fairly",
+      "meaning": "Aを公平に扱う"
+    },
+    {
+      "form": "fairly well",
+      "meaning": "まあまあうまく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "まあまあ",
+      "en": "I speak English fairly well.",
+      "ja": "英語はまあまあ話せる。"
+    },
+    {
+      "source": "original",
+      "label": "公平に",
+      "en": "The teacher treats all students fairly.",
+      "ja": "その先生はすべての生徒を公平に扱う。"
+    },
+    {
+      "source": "original",
+      "label": "ほどほど",
+      "en": "It's a fairly easy test.",
+      "ja": "それはまあまあ簡単なテストだ。"
+    },
+    {
+      "source": "original",
+      "label": "程度",
+      "en": "The room was fairly clean.",
+      "ja": "部屋はまあまあきれいだった。"
+    },
+    {
+      "source": "original",
+      "label": "比べる",
+      "en": "It's fairly good, but not very good.",
+      "ja": "まあまあいいが、とてもいいわけではない。"
+    },
+    {
+      "source": "original",
+      "label": "正々堂々",
+      "en": "They won the game fairly.",
+      "ja": "彼らは正々堂々と勝った。"
+    }
+  ],
+  "check_points": [
+    "fairly と quite と very の程度の差を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "程度の副詞の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2370
+    }
+  ]
+}

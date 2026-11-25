@@ -1,0 +1,103 @@
+{
+  "word": "enough",
+  "pos": [
+    "形容詞",
+    "副詞",
+    "代名詞"
+  ],
+  "ipa": "/ɪˈnʌf/",
+  "core_image": {
+    "text": "必要な分に届いている(じゅうぶん)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"80\" y=\"30\" width=\"80\" height=\"100\"/><line x1=\"70\" y1=\"60\" x2=\"170\" y2=\"60\" stroke-dasharray=\"4 4\"/><rect x=\"80\" y=\"56\" width=\"80\" height=\"74\" stroke-dasharray=\"2 2\"/></g><text x=\"200\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">たりてる</text></svg>"
+  },
+  "etymology": "古い英語 genōg(じゅうぶんな) → 足りる・じゅうぶんな",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "as much or as many as needed."
+    },
+    {
+      "pos": "副詞",
+      "text": "to the necessary degree."
+    },
+    {
+      "pos": "代名詞",
+      "text": "as much as is needed."
+    }
+  ],
+  "cautions": [
+    "enough + 名詞=じゅうぶんな〜(enough money)",
+    "形容詞 + enough=じゅうぶん〜(old enough:後ろに置く)",
+    "形容詞 + enough to do=〜するのにじゅうぶん…",
+    "発音 /ɪˈnʌf/(gh=f)"
+  ],
+  "patterns": [
+    {
+      "form": "enough A",
+      "meaning": "じゅうぶんなA"
+    },
+    {
+      "form": "形容詞 + enough",
+      "meaning": "じゅうぶん〜"
+    },
+    {
+      "form": "... enough to do",
+      "meaning": "〜するのにじゅうぶん…"
+    },
+    {
+      "form": "That's enough.",
+      "meaning": "もうたくさんだ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "We have enough time.",
+      "ja": "時間はじゅうぶんある。"
+    },
+    {
+      "source": "original",
+      "label": "語順",
+      "en": "He is old enough to drive.",
+      "ja": "彼は運転できる年齢だ。"
+    },
+    {
+      "source": "original",
+      "label": "不足",
+      "en": "I don't have enough money.",
+      "ja": "お金が足りない。"
+    },
+    {
+      "source": "original",
+      "label": "もうたくさん",
+      "en": "That's enough! Stop it.",
+      "ja": "もうたくさんだ!やめなさい。"
+    },
+    {
+      "source": "original",
+      "label": "じゅうぶん",
+      "en": "Is this big enough?",
+      "ja": "これでじゅうぶん大きい?"
+    },
+    {
+      "source": "original",
+      "label": "発音",
+      "en": "\"Enough\" ends with an \"f\" sound.",
+      "ja": "enough は「フ」の音で終わる。"
+    }
+  ],
+  "check_points": [
+    "old enough to do の語順を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "形容詞 + enough to do の語順が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2371
+    }
+  ]
+}

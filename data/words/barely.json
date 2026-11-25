@@ -1,0 +1,88 @@
+{
+  "word": "barely",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˈberli/",
+  "core_image": {
+    "text": "かろうじて(ぎりぎり届く)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"100\" y1=\"30\" x2=\"220\" y2=\"30\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"122\" y1=\"72\" x2=\"142\" y2=\"31\"/><line x1=\"20\" y1=\"140\" x2=\"220\" y2=\"140\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぎりぎり</text></svg>"
+  },
+  "etymology": "bare(はだかの・ぎりぎりの) + -ly → ぎりぎりで・かろうじて",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "only just; almost not."
+    }
+  ],
+  "cautions": [
+    "barely=かろうじて〜する(なんとか届く)/hardly=ほとんど〜ない(否定の意味が強い)",
+    "barely enough=ぎりぎり足りる",
+    "bare=はだかの・必要最低限の"
+  ],
+  "patterns": [
+    {
+      "form": "barely + 動詞",
+      "meaning": "かろうじて〜する"
+    },
+    {
+      "form": "barely enough",
+      "meaning": "ぎりぎり足りる"
+    },
+    {
+      "form": "barely ever",
+      "meaning": "ほとんど〜ない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "かろうじて",
+      "en": "I barely passed the test.",
+      "ja": "かろうじてテストに合格した。"
+    },
+    {
+      "source": "original",
+      "label": "ぎりぎり",
+      "en": "We had barely enough money.",
+      "ja": "お金はぎりぎりしかなかった。"
+    },
+    {
+      "source": "original",
+      "label": "ほとんど",
+      "en": "I could barely hear him.",
+      "ja": "彼の声はほとんど聞こえなかった。"
+    },
+    {
+      "source": "original",
+      "label": "やっと",
+      "en": "He was barely able to walk.",
+      "ja": "彼はやっと歩ける状態だった。"
+    },
+    {
+      "source": "original",
+      "label": "hardly と",
+      "en": "I hardly know him.",
+      "ja": "彼のことはほとんど知らない。"
+    },
+    {
+      "source": "original",
+      "label": "時間",
+      "en": "She barely had time to eat.",
+      "ja": "彼女は食べる時間もほとんどなかった。"
+    }
+  ],
+  "check_points": [
+    "barely と hardly のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "barely / hardly が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2375
+    }
+  ]
+}
