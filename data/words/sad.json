@@ -1,0 +1,93 @@
+{
+  "word": "sad",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/sæd/",
+  "core_image": {
+    "text": "心が重く沈んで、かなしい",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"60\" r=\"20\"/><circle cx=\"112\" cy=\"56\" r=\"3\"/><circle cx=\"128\" cy=\"56\" r=\"3\"/><path d=\"M108 72 Q120 64 132 72\"/><line x1=\"112\" y1=\"60\" x2=\"110\" y2=\"70\"/><line x1=\"120\" y1=\"80\" x2=\"120\" y2=\"140\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かなしい</text></svg>"
+  },
+  "etymology": "古い英語 sæd(満ち足りた・もう十分な) → 重く疲れた → 心が沈んだ・悲しい → (物事が)悲しい・残念な",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "unhappy; making you feel unhappy; very bad or unacceptable."
+    }
+  ],
+  "cautions": [
+    "sad=悲しい(最も広い)/unhappy=不満・不幸せ/miserable=みじめでたまらない/depressed=気分が落ちこんだ",
+    "be sad to do=〜して悲しい",
+    "It is sad that …=…とは悲しい・残念だ",
+    "sadly=悲しいことに/sadness=悲しみ"
+  ],
+  "patterns": [
+    {
+      "form": "be sad to do",
+      "meaning": "〜して悲しい"
+    },
+    {
+      "form": "It is sad that …",
+      "meaning": "…は悲しいことだ"
+    },
+    {
+      "form": "a sad story",
+      "meaning": "悲しい話"
+    },
+    {
+      "form": "sadly",
+      "meaning": "悲しいことに"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "悲しい",
+      "en": "I was sad to hear the news.",
+      "ja": "その知らせを聞いて悲しかった。"
+    },
+    {
+      "source": "original",
+      "label": "悲しい",
+      "en": "It's a sad story.",
+      "ja": "それは悲しい話だ。"
+    },
+    {
+      "source": "original",
+      "label": "残念な",
+      "en": "It is sad that so many animals are dying out.",
+      "ja": "これほど多くの動物が絶滅しているのは悲しいことだ。"
+    },
+    {
+      "source": "original",
+      "label": "悲しいことに",
+      "en": "Sadly, the old shop closed down.",
+      "ja": "悲しいことに、その古い店は閉店した。"
+    },
+    {
+      "source": "original",
+      "label": "悲しそう",
+      "en": "Why do you look so sad?",
+      "ja": "どうしてそんなに悲しそうなの?"
+    },
+    {
+      "source": "original",
+      "label": "悲しみ",
+      "en": "She couldn't hide her sadness.",
+      "ja": "彼女は悲しみを隠せなかった。"
+    }
+  ],
+  "check_points": [
+    "sad・unhappy・miserable のちがいがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be sad to do が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1673
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "depressed",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/dɪˈprest/",
+  "core_image": {
+    "text": "気持ちが下へ押しさげられて、落ちこんだ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"110\" y2=\"92\"/><line x1=\"120\" y1=\"74\" x2=\"130\" y2=\"92\"/><line x1=\"120\" y1=\"6\" x2=\"120\" y2=\"36\"/><polyline points=\"123.8,29 120,36 116.2,29\"/><line x1=\"80\" y1=\"6\" x2=\"160\" y2=\"6\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">落ちこむ</text></svg>"
+  },
+  "etymology": "depress(de=下へ+press=押す)の過去分詞 → 下へ押しさげられた → 気分が落ちこんだ・憂うつな → (経済が)不景気の → depression=うつ病・不況",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "very unhappy and without hope; (of an area or economy) without enough jobs or business."
+    }
+  ],
+  "cautions": [
+    "sad=悲しい(一時的)/depressed=気分がひどく落ちこんだ(長く続く・うつ状態)",
+    "depressed=(人が)落ちこんだ/depressing=(物事が)気をめいらせる",
+    "feel depressed=落ちこむ",
+    "depression=うつ病・不況(the Great Depression=大恐慌)"
+  ],
+  "patterns": [
+    {
+      "form": "feel depressed",
+      "meaning": "落ちこむ"
+    },
+    {
+      "form": "be depressed about A",
+      "meaning": "Aで落ちこんでいる"
+    },
+    {
+      "form": "depressing",
+      "meaning": "気がめいる"
+    },
+    {
+      "form": "depression",
+      "meaning": "うつ病・不況"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "落ちこんだ",
+      "en": "He felt depressed after losing his job.",
+      "ja": "失業して彼は落ちこんだ。"
+    },
+    {
+      "source": "original",
+      "label": "気がめいる",
+      "en": "The news was very depressing.",
+      "ja": "そのニュースはとても気がめいるものだった。"
+    },
+    {
+      "source": "original",
+      "label": "落ちこんでいる",
+      "en": "She is depressed about her exam results.",
+      "ja": "彼女は試験の結果で落ちこんでいる。"
+    },
+    {
+      "source": "original",
+      "label": "うつ病",
+      "en": "Depression is a serious illness.",
+      "ja": "うつ病は深刻な病気だ。"
+    },
+    {
+      "source": "original",
+      "label": "不況",
+      "en": "The Great Depression began in 1929.",
+      "ja": "大恐慌は1929年に始まった。"
+    },
+    {
+      "source": "original",
+      "label": "不景気な",
+      "en": "It is an economically depressed area.",
+      "ja": "そこは経済的に落ちこんだ地域だ。"
+    }
+  ],
+  "check_points": [
+    "depressed と depressing の使い分けができるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "depressed / depressing、depression が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1676
+    }
+  ]
+}

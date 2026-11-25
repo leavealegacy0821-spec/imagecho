@@ -1,0 +1,89 @@
+{
+  "word": "lonely",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈloʊnli/",
+  "core_image": {
+    "text": "ひとりぼっちで、さびしい",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"110\" y2=\"94\"/><line x1=\"120\" y1=\"74\" x2=\"130\" y2=\"94\"/><circle cx=\"190\" cy=\"34\" r=\"12\"/><path d=\"M184 30 A12 12 0 1 0 196 42\"/><line x1=\"30\" y1=\"140\" x2=\"70\" y2=\"140\"/></g><text x=\"50\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひとりさびしい</text></svg>"
+  },
+  "etymology": "lone(ひとりの。alone の短縮)+ly → ひとりぼっちの → さびしい・孤独な → (場所が)人里離れた",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "unhappy because you are alone or have no friends; (of a place) far from other places."
+    }
+  ],
+  "cautions": [
+    "alone=ひとりで(状態・さびしさなし)/lonely=ひとりでさびしい(気持ち)",
+    "-ly で終わるが形容詞",
+    "feel lonely=さびしく思う",
+    "loneliness=孤独"
+  ],
+  "patterns": [
+    {
+      "form": "feel lonely",
+      "meaning": "さびしく思う"
+    },
+    {
+      "form": "a lonely place",
+      "meaning": "人里離れた場所"
+    },
+    {
+      "form": "loneliness",
+      "meaning": "孤独"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "さびしい",
+      "en": "She felt lonely after her friends moved away.",
+      "ja": "友達が引っ越して彼女はさびしくなった。"
+    },
+    {
+      "source": "original",
+      "label": "ひとり(alone)",
+      "en": "I live alone, but I'm not lonely.",
+      "ja": "ひとり暮らしだけど、さびしくはない。"
+    },
+    {
+      "source": "original",
+      "label": "人里離れた",
+      "en": "They live in a lonely house in the mountains.",
+      "ja": "彼らは山の中の人里離れた家に住んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "孤独",
+      "en": "Loneliness is a problem for many elderly people.",
+      "ja": "孤独は多くのお年寄りの問題だ。"
+    },
+    {
+      "source": "original",
+      "label": "さびしい",
+      "en": "It was a long, lonely night.",
+      "ja": "長くさびしい夜だった。"
+    },
+    {
+      "source": "original",
+      "label": "孤独な",
+      "en": "He was a lonely child.",
+      "ja": "彼は孤独な子どもだった。"
+    }
+  ],
+  "check_points": [
+    "alone と lonely のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "alone / lonely の区別が文法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1677
+    }
+  ]
+}

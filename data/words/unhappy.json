@@ -1,0 +1,89 @@
+{
+  "word": "unhappy",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ʌnˈhæpi/",
+  "core_image": {
+    "text": "満ち足りず、不満で幸せでない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"106\" y2=\"94\"/><line x1=\"120\" y1=\"74\" x2=\"134\" y2=\"94\"/><path d=\"M114 58 Q120 54 126 58\"/><rect x=\"160\" y=\"80\" width=\"40\" height=\"40\"/><line x1=\"166\" y1=\"86\" x2=\"194\" y2=\"114\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">不満</text></svg>"
+  },
+  "etymology": "un(〜ない)+happy(幸せな) → 幸せでない・不幸な → (物事に)不満な(unhappy with A)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not happy; not satisfied with something."
+    }
+  ],
+  "cautions": [
+    "sad=悲しい/unhappy=幸せでない・不満がある(状態が続く)",
+    "be unhappy with [about] A=Aに不満だ",
+    "an unhappy childhood=不幸な子ども時代",
+    "unhappiness=不幸・不満"
+  ],
+  "patterns": [
+    {
+      "form": "be unhappy with A",
+      "meaning": "Aに不満だ"
+    },
+    {
+      "form": "an unhappy childhood",
+      "meaning": "不幸な子ども時代"
+    },
+    {
+      "form": "unhappiness",
+      "meaning": "不幸"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "不満",
+      "en": "He is unhappy with his job.",
+      "ja": "彼は仕事に不満がある。"
+    },
+    {
+      "source": "original",
+      "label": "不幸な",
+      "en": "She had an unhappy childhood.",
+      "ja": "彼女は不幸な子ども時代を送った。"
+    },
+    {
+      "source": "original",
+      "label": "不満",
+      "en": "Many customers were unhappy about the price.",
+      "ja": "多くの客がその値段に不満だった。"
+    },
+    {
+      "source": "original",
+      "label": "幸せでない",
+      "en": "You look unhappy. What's wrong?",
+      "ja": "うかない顔をしているね。どうしたの?"
+    },
+    {
+      "source": "original",
+      "label": "不満",
+      "en": "The workers were unhappy with the new rules.",
+      "ja": "労働者たちは新しい規則に不満だった。"
+    },
+    {
+      "source": "original",
+      "label": "不幸",
+      "en": "Money can't cure unhappiness.",
+      "ja": "お金で不幸は治せない。"
+    }
+  ],
+  "check_points": [
+    "be unhappy with A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be unhappy with が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1674
+    }
+  ]
+}

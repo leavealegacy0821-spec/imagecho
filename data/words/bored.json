@@ -1,0 +1,93 @@
+{
+  "word": "bored",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/bɔːrd/",
+  "core_image": {
+    "text": "おもしろくなくて、あきあきしている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"112\" y2=\"54\"/><line x1=\"120\" y1=\"74\" x2=\"134\" y2=\"94\"/><line x1=\"114\" y1=\"58\" x2=\"126\" y2=\"58\"/><path d=\"M160 40 l10 0 l-10 10 l10 0\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">たいくつ</text></svg>"
+  },
+  "etymology": "bore(退屈させる)の過去分詞 → 退屈させられた → (人が)退屈した・あきた → boring=(物事が)退屈な",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "tired and unhappy because something is not interesting."
+    }
+  ],
+  "cautions": [
+    "bored=(人が)退屈した/boring=(物事が)退屈な(使い分け頻出)",
+    "be bored with A=Aにあきている",
+    "get bored=退屈する",
+    "boredom=退屈"
+  ],
+  "patterns": [
+    {
+      "form": "be bored with A",
+      "meaning": "Aにあきている"
+    },
+    {
+      "form": "get bored",
+      "meaning": "退屈する"
+    },
+    {
+      "form": "boring",
+      "meaning": "退屈な"
+    },
+    {
+      "form": "boredom",
+      "meaning": "退屈"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "退屈",
+      "en": "I'm bored. Let's go out.",
+      "ja": "退屈だなあ。出かけよう。"
+    },
+    {
+      "source": "original",
+      "label": "あきている",
+      "en": "He got bored with the game.",
+      "ja": "彼はそのゲームにあきた。"
+    },
+    {
+      "source": "original",
+      "label": "退屈な",
+      "en": "The movie was so boring.",
+      "ja": "その映画はとても退屈だった。"
+    },
+    {
+      "source": "original",
+      "label": "退屈して",
+      "en": "The children were bored during the long drive.",
+      "ja": "長いドライブで子どもたちは退屈していた。"
+    },
+    {
+      "source": "original",
+      "label": "退屈",
+      "en": "Some people eat out of boredom.",
+      "ja": "退屈で何かを食べてしまう人もいる。"
+    },
+    {
+      "source": "original",
+      "label": "退屈な(boring)",
+      "en": "The teacher's talk was boring.",
+      "ja": "先生の話は退屈だった。"
+    }
+  ],
+  "check_points": [
+    "bored と boring の使い分けができるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "bored / boring(-ed/-ing)が文法で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1678
+    }
+  ]
+}
