@@ -1,0 +1,102 @@
+{
+  "word": "fear",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/fɪr/",
+  "core_image": {
+    "text": "危険を感じて、身がすくむこわさ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"64\" r=\"10\"/><line x1=\"80\" y1=\"74\" x2=\"72\" y2=\"108\"/><line x1=\"72\" y1=\"108\" x2=\"60\" y2=\"140\"/><line x1=\"72\" y1=\"108\" x2=\"80\" y2=\"140\"/><line x1=\"78\" y1=\"84\" x2=\"64\" y2=\"70\"/><line x1=\"78\" y1=\"84\" x2=\"62\" y2=\"92\"/><path d=\"M220 140 L220 60 Q190 40 160 60 L150 80 L170 76 L156 100 L180 90 L170 120 L200 110 L200 140 Z\"/></g><text x=\"110\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こわい</text></svg>"
+  },
+  "etymology": "古い英語 fǣr(危険・災難) → 危険への恐れ → 恐怖・不安 → (動詞)恐れる・心配する(I fear that …=…ではないかと心配だ)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the bad feeling you have when you think you are in danger or something bad will happen."
+    },
+    {
+      "pos": "動詞",
+      "text": "to be afraid of someone or something; to worry that something bad will happen."
+    }
+  ],
+  "cautions": [
+    "fear=恐怖(広い)/dread=これから起こることへの恐れ/anxiety=不安",
+    "for fear of A [that …]=Aを恐れて・…しないように",
+    "in fear=おびえて",
+    "fear for A=Aの身を案じる"
+  ],
+  "patterns": [
+    {
+      "form": "fear of A",
+      "meaning": "Aへの恐れ"
+    },
+    {
+      "form": "for fear of A",
+      "meaning": "Aを恐れて"
+    },
+    {
+      "form": "for fear that …",
+      "meaning": "…しないように"
+    },
+    {
+      "form": "in fear",
+      "meaning": "おびえて"
+    },
+    {
+      "form": "fear for A",
+      "meaning": "Aの身を案じる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "恐怖",
+      "en": "She has a fear of heights.",
+      "ja": "彼女は高所恐怖症だ。"
+    },
+    {
+      "source": "original",
+      "label": "恐れて",
+      "en": "He didn't speak for fear of making mistakes.",
+      "ja": "彼は間違えるのを恐れて話さなかった。"
+    },
+    {
+      "source": "original",
+      "label": "おびえて",
+      "en": "The children were shaking in fear.",
+      "ja": "子どもたちはおびえて震えていた。"
+    },
+    {
+      "source": "original",
+      "label": "身を案じる",
+      "en": "We feared for his safety.",
+      "ja": "私たちは彼の身の安全を案じた。"
+    },
+    {
+      "source": "original",
+      "label": "心配する",
+      "en": "I fear that we may be too late.",
+      "ja": "間に合わないのではないかと心配だ。"
+    },
+    {
+      "source": "original",
+      "label": "恐れ",
+      "en": "There is no fear of rain today.",
+      "ja": "今日は雨の心配はない。"
+    }
+  ],
+  "check_points": [
+    "for fear of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "for fear of、fear of が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1456
+    }
+  ]
+}

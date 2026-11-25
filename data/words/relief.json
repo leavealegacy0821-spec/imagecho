@@ -1,0 +1,98 @@
+{
+  "word": "relief",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/rɪˈliːf/",
+  "core_image": {
+    "text": "重い荷が下りて、ほっとする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"104\" y2=\"96\"/><line x1=\"120\" y1=\"74\" x2=\"136\" y2=\"96\"/><rect x=\"40\" y=\"110\" width=\"40\" height=\"30\"/><line x1=\"76\" y1=\"60\" x2=\"60\" y2=\"104\"/><polyline points=\"66,98.7 60,104 58.8,96.1\"/><path d=\"M140 46 q10 -6 20 0\"/></g><text x=\"190\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ほっ</text></svg>"
+  },
+  "etymology": "relieve(軽くする。re=再び+lev=持ち上げる:lever と同じ根)の名詞 → 重荷を取り除くこと → 安心・ほっとすること → (苦痛の)軽減 → (被災者への)救援",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the feeling of happiness when something bad stops or does not happen; the reduction of pain; help given to people in need."
+    }
+  ],
+  "cautions": [
+    "relieve=(苦痛・重荷を)取り除く(動詞)/relief=安心・軽減・救援(名詞)",
+    "to A's relief=Aがほっとしたことに/What a relief!=ほっとした!",
+    "pain relief=痛み止め/disaster relief=災害救援",
+    "relieved=(人が)ほっとした"
+  ],
+  "patterns": [
+    {
+      "form": "to A's relief",
+      "meaning": "Aがほっとしたことに"
+    },
+    {
+      "form": "What a relief!",
+      "meaning": "ほっとした!"
+    },
+    {
+      "form": "a sigh of relief",
+      "meaning": "安堵のため息"
+    },
+    {
+      "form": "pain relief",
+      "meaning": "痛みの緩和"
+    },
+    {
+      "form": "disaster relief",
+      "meaning": "災害救援"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ほっとした",
+      "en": "To my relief, nobody was hurt.",
+      "ja": "ほっとしたことに、けが人はいなかった。"
+    },
+    {
+      "source": "original",
+      "label": "ほっとした",
+      "en": "\"The test is canceled.\" \"What a relief!\"",
+      "ja": "「テスト中止だって」「ほっとした!」"
+    },
+    {
+      "source": "original",
+      "label": "安堵のため息",
+      "en": "She breathed a sigh of relief.",
+      "ja": "彼女は安堵のため息をついた。"
+    },
+    {
+      "source": "original",
+      "label": "救援",
+      "en": "Disaster relief was sent to the area.",
+      "ja": "その地域に災害救援物資が送られた。"
+    },
+    {
+      "source": "original",
+      "label": "緩和",
+      "en": "This medicine gives quick relief from headaches.",
+      "ja": "この薬は頭痛をすぐにやわらげる。"
+    },
+    {
+      "source": "original",
+      "label": "ほっとした",
+      "en": "I was relieved to hear the news.",
+      "ja": "その知らせを聞いてほっとした。"
+    }
+  ],
+  "check_points": [
+    "to A's relief の意味を言えるか",
+    "relieve と relief の品詞がわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "to A's relief、a sigh of relief が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1458
+    }
+  ]
+}

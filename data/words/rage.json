@@ -1,0 +1,103 @@
+{
+  "word": "rage",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/reɪdʒ/",
+  "core_image": {
+    "text": "おさえきれない、激しい怒りのあらし",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"100\" y2=\"50\"/><line x1=\"120\" y1=\"74\" x2=\"140\" y2=\"50\"/><path d=\"M60 100 Q70 60 90 80 Q90 40 110 30\"/><path d=\"M180 100 Q170 60 150 80 Q150 40 130 30\"/></g><text x=\"190\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">激怒</text></svg>"
+  },
+  "etymology": "ラテン語 rabies(狂気・狂犬病) → 狂ったような激しい怒り・激怒 → (動詞)激怒する・(嵐・戦争・病気が)荒れ狂う → (名詞)大流行(the rage)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a feeling of extreme anger that is difficult to control."
+    },
+    {
+      "pos": "動詞",
+      "text": "to feel or show great anger; (of a storm, fire, war) to continue in a violent way."
+    }
+  ],
+  "cautions": [
+    "anger=怒り(広い)/rage=おさえきれない激しい怒り",
+    "fly into a rage=激怒する/in a rage=かっとなって",
+    "動詞:The storm raged all night.=嵐が一晩中荒れ狂った",
+    "be all the rage=大流行している"
+  ],
+  "patterns": [
+    {
+      "form": "fly into a rage",
+      "meaning": "激怒する"
+    },
+    {
+      "form": "in a rage",
+      "meaning": "激怒して"
+    },
+    {
+      "form": "A rages",
+      "meaning": "Aが荒れ狂う"
+    },
+    {
+      "form": "be all the rage",
+      "meaning": "大流行している"
+    },
+    {
+      "form": "road rage",
+      "meaning": "あおり運転"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "激怒する",
+      "en": "He flew into a rage when he saw the damage.",
+      "ja": "その損害を見て彼は激怒した。"
+    },
+    {
+      "source": "original",
+      "label": "激怒して",
+      "en": "She threw the letter away in a rage.",
+      "ja": "彼女は激怒して手紙を捨てた。"
+    },
+    {
+      "source": "original",
+      "label": "荒れ狂う",
+      "en": "The storm raged throughout the night.",
+      "ja": "嵐は一晩中荒れ狂った。"
+    },
+    {
+      "source": "original",
+      "label": "続く",
+      "en": "The war raged for five years.",
+      "ja": "戦争は5年間続いた。"
+    },
+    {
+      "source": "original",
+      "label": "大流行",
+      "en": "These shoes are all the rage among teenagers.",
+      "ja": "この靴は10代の間で大流行している。"
+    },
+    {
+      "source": "original",
+      "label": "あおり運転",
+      "en": "Road rage is a serious problem.",
+      "ja": "あおり運転は深刻な問題だ。"
+    }
+  ],
+  "check_points": [
+    "fly into a rage の意味を言えるか",
+    "be all the rage の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "fly into a rage、rage(荒れ狂う)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1455
+    }
+  ]
+}

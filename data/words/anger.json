@@ -1,0 +1,99 @@
+{
+  "word": "anger",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈæŋɡər/",
+  "core_image": {
+    "text": "むかっとこみ上げる、怒りの気持ち",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"104\" y2=\"90\"/><line x1=\"120\" y1=\"74\" x2=\"136\" y2=\"90\"/><line x1=\"112\" y1=\"46\" x2=\"118\" y2=\"50\"/><line x1=\"128\" y1=\"46\" x2=\"122\" y2=\"50\"/><path d=\"M90 30 l6 -8 l6 8\"/><path d=\"M140 30 l6 -8 l6 8\"/></g><text x=\"190\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">むかっ</text></svg>"
+  },
+  "etymology": "古いノルド語 angr(苦しみ・悩み) → 胸をしめつけられる苦しさ → 怒り → angry=怒った",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a strong feeling of being upset or annoyed."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make someone angry."
+    }
+  ],
+  "cautions": [
+    "anger=怒り(広い)/rage=激しい激怒/annoyance=いらだち(軽い)",
+    "in anger=怒って",
+    "with anger=怒りで(shake with anger)",
+    "angry=怒った(be angry with 人 / at [about] 物事)"
+  ],
+  "patterns": [
+    {
+      "form": "in anger",
+      "meaning": "怒って"
+    },
+    {
+      "form": "with anger",
+      "meaning": "怒りで"
+    },
+    {
+      "form": "express anger",
+      "meaning": "怒りを表す"
+    },
+    {
+      "form": "angry",
+      "meaning": "怒った"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "怒って",
+      "en": "He left the room in anger.",
+      "ja": "彼は怒って部屋を出ていった。"
+    },
+    {
+      "source": "original",
+      "label": "怒りで",
+      "en": "Her face turned red with anger.",
+      "ja": "彼女の顔は怒りで赤くなった。"
+    },
+    {
+      "source": "original",
+      "label": "怒り",
+      "en": "It is important to control your anger.",
+      "ja": "怒りをコントロールすることが大切だ。"
+    },
+    {
+      "source": "original",
+      "label": "怒った",
+      "en": "My mother was angry with me for lying.",
+      "ja": "母は私がうそをついたことに怒っていた。"
+    },
+    {
+      "source": "original",
+      "label": "怒り",
+      "en": "There was anger over the tax increase.",
+      "ja": "増税に対して怒りの声があがった。"
+    },
+    {
+      "source": "original",
+      "label": "怒らせる",
+      "en": "His rude words angered everyone.",
+      "ja": "彼の失礼な言葉はみんなを怒らせた。"
+    }
+  ],
+  "check_points": [
+    "anger と rage のちがいを言えるか",
+    "be angry with / at のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "in anger、be angry with が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1454
+    }
+  ]
+}

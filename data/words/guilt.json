@@ -1,0 +1,98 @@
+{
+  "word": "guilt",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ɡɪlt/",
+  "core_image": {
+    "text": "悪いことをしたと、心がとがめる気持ち(と罪)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"92\"/><line x1=\"70\" y1=\"74\" x2=\"80\" y2=\"92\"/><rect x=\"150\" y=\"60\" width=\"50\" height=\"40\"/><line x1=\"160\" y1=\"70\" x2=\"190\" y2=\"90\"/><line x1=\"190\" y1=\"70\" x2=\"160\" y2=\"90\"/></g><text x=\"110\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">心がとがめる</text></svg>"
+  },
+  "etymology": "古い英語 gylt(罪・罰金) → (法律上の)罪・有罪 → 悪いことをしたという罪悪感 → guilty=有罪の・やましい",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the unhappy feeling of having done something wrong; the fact of having broken a law."
+    }
+  ],
+  "cautions": [
+    "shame=恥(人目・誇りの問題)/guilt=罪悪感・(法律上の)罪(良心の問題)",
+    "feel guilt=罪悪感を感じる/a sense of guilt=罪の意識",
+    "guilty=有罪の・やましい(feel guilty about A=Aに罪悪感を感じる)",
+    "⇔ innocence(無罪)"
+  ],
+  "patterns": [
+    {
+      "form": "feel guilt",
+      "meaning": "罪悪感を感じる"
+    },
+    {
+      "form": "a sense of guilt",
+      "meaning": "罪の意識"
+    },
+    {
+      "form": "feel guilty about A",
+      "meaning": "Aに罪悪感をもつ"
+    },
+    {
+      "form": "be found guilty",
+      "meaning": "有罪とされる"
+    },
+    {
+      "form": "admit one's guilt",
+      "meaning": "罪を認める"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "罪悪感",
+      "en": "She felt guilt for not visiting her grandmother.",
+      "ja": "彼女は祖母を訪ねなかったことに罪悪感を感じた。"
+    },
+    {
+      "source": "original",
+      "label": "罪の意識",
+      "en": "He was troubled by a sense of guilt.",
+      "ja": "彼は罪の意識に悩まされていた。"
+    },
+    {
+      "source": "original",
+      "label": "やましい",
+      "en": "I feel guilty about eating so much cake.",
+      "ja": "ケーキを食べすぎて罪悪感がある。"
+    },
+    {
+      "source": "original",
+      "label": "有罪",
+      "en": "The man was found guilty of theft.",
+      "ja": "その男は窃盗で有罪となった。"
+    },
+    {
+      "source": "original",
+      "label": "罪を認める",
+      "en": "He finally admitted his guilt.",
+      "ja": "彼はついに罪を認めた。"
+    },
+    {
+      "source": "original",
+      "label": "無罪(innocence)",
+      "en": "The evidence proved her innocence.",
+      "ja": "証拠が彼女の無罪を証明した。"
+    }
+  ],
+  "check_points": [
+    "shame と guilt のちがいを言えるか",
+    "feel guilty about A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "feel guilty、be found guilty が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1460
+    }
+  ]
+}

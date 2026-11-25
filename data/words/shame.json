@@ -1,0 +1,103 @@
+{
+  "word": "shame",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ʃeɪm/",
+  "core_image": {
+    "text": "自分のしたことが恥ずかしく、顔を伏せたくなる気持ち",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"66\" r=\"10\"/><line x1=\"120\" y1=\"76\" x2=\"120\" y2=\"110\"/><line x1=\"120\" y1=\"110\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"110\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"84\" x2=\"110\" y2=\"70\"/><line x1=\"120\" y1=\"84\" x2=\"130\" y2=\"70\"/><path d=\"M100 50 Q120 40 140 50\" stroke-dasharray=\"3 3\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">はずかしい</text></svg>"
+  },
+  "etymology": "古い英語 scamu(恥・不名誉) → (悪いことをした)恥ずかしさ・恥 → 残念なこと(It's a shame that …) → ashamed=恥じている",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the bad feeling you have when you have done something wrong or embarrassing; a situation that makes you feel disappointed."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make someone feel ashamed."
+    }
+  ],
+  "cautions": [
+    "embarrassment=(人前で)きまりの悪さ/shame=(道徳的に悪いことをした)恥・恥じる気持ち",
+    "It's a shame (that) …=…とは残念だ(=It's a pity)",
+    "What a shame!=残念!",
+    "Shame on you!=恥を知れ/ashamed=恥じている"
+  ],
+  "patterns": [
+    {
+      "form": "feel shame",
+      "meaning": "恥ずかしく思う"
+    },
+    {
+      "form": "It's a shame that …",
+      "meaning": "…とは残念だ"
+    },
+    {
+      "form": "What a shame!",
+      "meaning": "残念!"
+    },
+    {
+      "form": "Shame on you!",
+      "meaning": "恥を知れ"
+    },
+    {
+      "form": "be ashamed of A",
+      "meaning": "Aを恥じる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "残念",
+      "en": "It's a shame that you can't come to the party.",
+      "ja": "君がパーティーに来られないのは残念だ。"
+    },
+    {
+      "source": "original",
+      "label": "残念",
+      "en": "\"It rained all weekend.\" \"What a shame!\"",
+      "ja": "「週末ずっと雨だったよ」「残念だったね!」"
+    },
+    {
+      "source": "original",
+      "label": "恥",
+      "en": "He felt deep shame for lying to his friend.",
+      "ja": "彼は友達にうそをついたことを深く恥じた。"
+    },
+    {
+      "source": "original",
+      "label": "恥を知れ",
+      "en": "Shame on you for laughing at her!",
+      "ja": "彼女を笑うなんて恥を知りなさい!"
+    },
+    {
+      "source": "original",
+      "label": "恥じている",
+      "en": "I'm ashamed of what I said.",
+      "ja": "自分の言ったことを恥じている。"
+    },
+    {
+      "source": "original",
+      "label": "恥をかかせる",
+      "en": "His bad behavior shamed the whole family.",
+      "ja": "彼の悪い行いは家族全員に恥をかかせた。"
+    }
+  ],
+  "check_points": [
+    "It's a shame that … の意味を言えるか",
+    "embarrassment と shame のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "It's a shame that、What a shame! が会話で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1459
+    }
+  ]
+}

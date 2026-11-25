@@ -1,0 +1,93 @@
+{
+  "word": "anxiety",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/æŋˈzaɪəti/",
+  "core_image": {
+    "text": "先のことが気になって、胸がしめつけられる不安",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"78\" y2=\"56\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><circle cx=\"160\" cy=\"60\" r=\"24\" stroke-dasharray=\"4 4\"/><path d=\"M152 52 q8 -8 16 0 q0 8 -8 10 l0 6\"/><circle cx=\"160\" cy=\"74\" r=\"2\"/></g><text x=\"160\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">不安</text></svg>"
+  },
+  "etymology": "anxious(不安な。ラテン語 angere=しめつける:anguish=苦悩 と同じ根)の名詞 → 胸をしめつけられるような心配=不安・懸念 → (〜したいという)切望",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the feeling of being very worried about something that may happen; a strong wish to do something."
+    }
+  ],
+  "cautions": [
+    "fear=恐怖/worry=心配(日常)/anxiety=(先のことへの)不安・懸念(長く続く)",
+    "anxiety about [over] A=Aについての不安",
+    "anxious=不安な・切望している(be anxious to do=〜したがっている)",
+    "social anxiety=対人不安"
+  ],
+  "patterns": [
+    {
+      "form": "anxiety about A",
+      "meaning": "Aへの不安"
+    },
+    {
+      "form": "cause anxiety",
+      "meaning": "不安を引き起こす"
+    },
+    {
+      "form": "with anxiety",
+      "meaning": "不安で"
+    },
+    {
+      "form": "anxious",
+      "meaning": "不安な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "不安",
+      "en": "Many students feel anxiety about exams.",
+      "ja": "多くの生徒が試験に不安を感じている。"
+    },
+    {
+      "source": "original",
+      "label": "不安を引き起こす",
+      "en": "Changes at work can cause anxiety.",
+      "ja": "職場の変化は不安を引き起こすことがある。"
+    },
+    {
+      "source": "original",
+      "label": "不安で",
+      "en": "She waited for the results with anxiety.",
+      "ja": "彼女は不安な気持ちで結果を待った。"
+    },
+    {
+      "source": "original",
+      "label": "不安",
+      "en": "Exercise can help reduce anxiety.",
+      "ja": "運動は不安をやわらげるのに役立つ。"
+    },
+    {
+      "source": "original",
+      "label": "心配な",
+      "en": "I'm anxious about my grandmother's health.",
+      "ja": "祖母の健康が心配だ。"
+    },
+    {
+      "source": "original",
+      "label": "切望",
+      "en": "In his anxiety to win, he made mistakes.",
+      "ja": "勝ちたい一心で、彼はミスをした。"
+    }
+  ],
+  "check_points": [
+    "worry と anxiety のちがいがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "anxiety が心理系の長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1457
+    }
+  ]
+}
