@@ -1,0 +1,88 @@
+{
+  "word": "typhoon",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/taɪˈfuːn/",
+  "core_image": {
+    "text": "太平洋で生まれる、うずを巻く大嵐(台風)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M120 80 Q130 70 140 80 Q146 100 120 104 Q90 104 90 80 Q94 50 130 50 Q170 54 170 86 Q166 124 120 128 Q70 128 66 80\"/><circle cx=\"120\" cy=\"84\" r=\"4\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぐるぐる</text></svg>"
+  },
+  "etymology": "太平洋の暴風 → 台風(東アジアの言葉から英語に入った)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a violent tropical storm in the western Pacific Ocean."
+    }
+  ],
+  "cautions": [
+    "typhoon=(北西太平洋の)台風/hurricane=(大西洋の)ハリケーン/cyclone=(インド洋の)サイクロン:みな同じ種類の嵐",
+    "A typhoon is approaching.=台風が近づいている",
+    "storm=嵐(広い)"
+  ],
+  "patterns": [
+    {
+      "form": "a typhoon hits A",
+      "meaning": "台風がAをおそう"
+    },
+    {
+      "form": "a typhoon is approaching",
+      "meaning": "台風が接近中"
+    },
+    {
+      "form": "typhoon season",
+      "meaning": "台風の季節"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "台風",
+      "en": "A big typhoon is approaching Okinawa.",
+      "ja": "大きな台風が沖縄に近づいている。"
+    },
+    {
+      "source": "original",
+      "label": "おそう",
+      "en": "The typhoon hit Kyushu last night.",
+      "ja": "台風は昨夜九州をおそった。"
+    },
+    {
+      "source": "original",
+      "label": "休校",
+      "en": "School was closed because of the typhoon.",
+      "ja": "台風のため学校は休校になった。"
+    },
+    {
+      "source": "original",
+      "label": "季節",
+      "en": "September is typhoon season in Japan.",
+      "ja": "日本では9月は台風の季節だ。"
+    },
+    {
+      "source": "original",
+      "label": "ハリケーン",
+      "en": "A typhoon is the same kind of storm as a hurricane.",
+      "ja": "台風はハリケーンと同じ種類の嵐だ。"
+    },
+    {
+      "source": "original",
+      "label": "被害",
+      "en": "The typhoon caused heavy damage.",
+      "ja": "台風は大きな被害をもたらした。"
+    }
+  ],
+  "check_points": [
+    "typhoon と hurricane のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で自然災害の話題として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1988
+    }
+  ]
+}

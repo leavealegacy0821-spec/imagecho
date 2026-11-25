@@ -1,0 +1,93 @@
+{
+  "word": "gravity",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈɡrævəti/",
+  "core_image": {
+    "text": "下へぐっと引っぱる重さ(重力)・重大さ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"40\" r=\"12\"/><line x1=\"120\" y1=\"56\" x2=\"120\" y2=\"128\"/><polyline points=\"123.8,121 120,128 116.2,121\"/><line x1=\"100\" y1=\"80\" x2=\"100\" y2=\"100\" stroke-dasharray=\"2 3\"/><line x1=\"140\" y1=\"80\" x2=\"140\" y2=\"100\" stroke-dasharray=\"2 3\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひっぱる</text></svg>"
+  },
+  "etymology": "ラテン語 gravis(重い:grave=重大な・grief と同じ根) → 重さ・重々しさ → 重力 → (事態の)重大さ",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the force that makes things fall toward the earth; seriousness."
+    }
+  ],
+  "cautions": [
+    "gravity=重力・(事態の)重大さ",
+    "the law of gravity=重力の法則",
+    "the gravity of the situation=事態の重大さ",
+    "grave=重大な・墓"
+  ],
+  "patterns": [
+    {
+      "form": "the force of gravity",
+      "meaning": "重力"
+    },
+    {
+      "form": "the law of gravity",
+      "meaning": "重力の法則"
+    },
+    {
+      "form": "the gravity of A",
+      "meaning": "Aの重大さ"
+    },
+    {
+      "form": "zero gravity",
+      "meaning": "無重力"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "重力",
+      "en": "Gravity pulls everything toward the ground.",
+      "ja": "重力はすべてのものを地面へ引っぱる。"
+    },
+    {
+      "source": "original",
+      "label": "法則",
+      "en": "Newton discovered the law of gravity.",
+      "ja": "ニュートンは重力の法則を発見した。"
+    },
+    {
+      "source": "original",
+      "label": "重大さ",
+      "en": "He didn't understand the gravity of the situation.",
+      "ja": "彼は事態の重大さがわかっていなかった。"
+    },
+    {
+      "source": "original",
+      "label": "無重力",
+      "en": "Astronauts float in zero gravity.",
+      "ja": "宇宙飛行士は無重力の中でうかぶ。"
+    },
+    {
+      "source": "original",
+      "label": "月",
+      "en": "Gravity on the moon is weaker than on Earth.",
+      "ja": "月の重力は地球より弱い。"
+    },
+    {
+      "source": "original",
+      "label": "りんご",
+      "en": "An apple fell because of gravity.",
+      "ja": "重力のためにりんごが落ちた。"
+    }
+  ],
+  "check_points": [
+    "the gravity of the situation の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "重力・重大さの2つの意味が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1983
+    }
+  ]
+}

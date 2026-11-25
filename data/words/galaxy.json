@@ -1,0 +1,84 @@
+{
+  "word": "galaxy",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈɡæləksi/",
+  "core_image": {
+    "text": "たくさんの星がうずを巻いて集まった銀河",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M120 80 Q140 60 160 80 Q170 110 130 116 Q80 116 80 80 Q84 40 130 36 Q190 36 196 86 Q196 136 130 140\"/><circle cx=\"120\" cy=\"80\" r=\"4\"/></g><text x=\"50\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">うず</text></svg>"
+  },
+  "etymology": "ギリシャ語 galaxias(乳の:gala=乳 → 天の川を「乳の道」と見た) → 天の川(the Milky Way) → 銀河",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a very large group of stars; (the Galaxy) the Milky Way."
+    }
+  ],
+  "cautions": [
+    "the Milky Way=天の川・(わたしたちの)銀河",
+    "a galaxy of A=きらびやかな(有名人の)集まり",
+    "universe=宇宙全体/galaxy=その中の星の大集団"
+  ],
+  "patterns": [
+    {
+      "form": "the Milky Way galaxy",
+      "meaning": "天の川銀河"
+    },
+    {
+      "form": "a galaxy of stars",
+      "meaning": "スターの勢ぞろい"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "銀河",
+      "en": "Our solar system is in the Milky Way galaxy.",
+      "ja": "太陽系は天の川銀河にある。"
+    },
+    {
+      "source": "original",
+      "label": "数",
+      "en": "There are billions of galaxies in the universe.",
+      "ja": "宇宙には何十億もの銀河がある。"
+    },
+    {
+      "source": "original",
+      "label": "勢ぞろい",
+      "en": "A galaxy of stars attended the event.",
+      "ja": "スターたちがそのイベントに勢ぞろいした。"
+    },
+    {
+      "source": "original",
+      "label": "遠い",
+      "en": "The light from that galaxy left it millions of years ago.",
+      "ja": "あの銀河からの光は何百万年も前に出たものだ。"
+    },
+    {
+      "source": "original",
+      "label": "形",
+      "en": "Many galaxies have a spiral shape.",
+      "ja": "多くの銀河はうずまきの形をしている。"
+    },
+    {
+      "source": "original",
+      "label": "天の川",
+      "en": "We could see the Milky Way from the mountain.",
+      "ja": "山から天の川が見えた。"
+    }
+  ],
+  "check_points": [
+    "the Milky Way の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で宇宙の話題として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1981
+    }
+  ]
+}

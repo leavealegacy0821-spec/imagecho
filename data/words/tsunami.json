@@ -1,0 +1,88 @@
+{
+  "word": "tsunami",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/tsuːˈnɑːmi/",
+  "core_image": {
+    "text": "地震などで起きる、押し寄せる巨大な波",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M10 140 Q60 140 90 80 Q110 30 150 40 Q130 50 130 70 Q140 100 200 110\"/><rect x=\"200\" y=\"110\" width=\"20\" height=\"30\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ざぶーん</text></svg>"
+  },
+  "etymology": "日本語「津波(港の波)」がそのまま英語に → 地震などで起きる巨大な波",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a very large wave caused by an earthquake under the sea."
+    }
+  ],
+  "cautions": [
+    "日本語から入った語:発音 /tsuːˈnɑːmi/(英語では /suːˈnɑːmi/ とも)",
+    "a tsunami warning=津波警報",
+    "比ゆ的に「押し寄せる大量の〜」(a tsunami of emails)"
+  ],
+  "patterns": [
+    {
+      "form": "a tsunami warning",
+      "meaning": "津波警報"
+    },
+    {
+      "form": "be hit by a tsunami",
+      "meaning": "津波におそわれる"
+    },
+    {
+      "form": "a tsunami of A",
+      "meaning": "押し寄せる大量のA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "津波",
+      "en": "The town was hit by a tsunami.",
+      "ja": "その町は津波におそわれた。"
+    },
+    {
+      "source": "original",
+      "label": "警報",
+      "en": "A tsunami warning was issued after the earthquake.",
+      "ja": "地震のあと津波警報が出された。"
+    },
+    {
+      "source": "original",
+      "label": "避難",
+      "en": "People ran to higher ground to escape the tsunami.",
+      "ja": "人々は津波から逃げるため高台へ走った。"
+    },
+    {
+      "source": "original",
+      "label": "日本語",
+      "en": "\"Tsunami\" comes from Japanese.",
+      "ja": "tsunami は日本語から来た語だ。"
+    },
+    {
+      "source": "original",
+      "label": "大量",
+      "en": "I came back to a tsunami of emails.",
+      "ja": "もどってくるとメールが山のように届いていた。"
+    },
+    {
+      "source": "original",
+      "label": "被害",
+      "en": "The tsunami destroyed many houses.",
+      "ja": "津波で多くの家がこわされた。"
+    }
+  ],
+  "check_points": [
+    "tsunami が日本語由来だと知っているか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で自然災害の話題として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1987
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "word": "volcano",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/vɑːlˈkeɪnoʊ/",
+  "core_image": {
+    "text": "地下の火がふき出す山(火山)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"30,140 100,50 140,50 210,140\"/><path d=\"M110 50 Q104 30 114 20 M130 50 Q138 30 128 14\"/><path d=\"M100 50 L90 70 M140 50 L150 66\" stroke-dasharray=\"2 3\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふき出す</text></svg>"
+  },
+  "etymology": "ローマ神話の火の神 Vulcan(ウルカヌス) → (イタリア語)火の神の山 → 火山",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a mountain with a hole at the top through which hot melted rock, gas and ash come out."
+    }
+  ],
+  "cautions": [
+    "an active volcano=活火山",
+    "volcanic=火山の(volcanic ash=火山灰)",
+    "erupt=噴火する/eruption=噴火",
+    "複数形 volcanoes / volcanos"
+  ],
+  "patterns": [
+    {
+      "form": "an active volcano",
+      "meaning": "活火山"
+    },
+    {
+      "form": "a volcano erupts",
+      "meaning": "火山が噴火する"
+    },
+    {
+      "form": "volcanic ash",
+      "meaning": "火山灰"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "火山",
+      "en": "Mt. Fuji is a volcano.",
+      "ja": "富士山は火山だ。"
+    },
+    {
+      "source": "original",
+      "label": "活火山",
+      "en": "Japan has more than 100 active volcanoes.",
+      "ja": "日本には100以上の活火山がある。"
+    },
+    {
+      "source": "original",
+      "label": "噴火",
+      "en": "The volcano erupted last year.",
+      "ja": "その火山は昨年噴火した。"
+    },
+    {
+      "source": "original",
+      "label": "火山灰",
+      "en": "Volcanic ash covered the town.",
+      "ja": "火山灰が町をおおった。"
+    },
+    {
+      "source": "original",
+      "label": "温泉",
+      "en": "Hot springs are often found near volcanoes.",
+      "ja": "温泉は火山の近くによくある。"
+    },
+    {
+      "source": "original",
+      "label": "休火山",
+      "en": "This volcano has been quiet for centuries.",
+      "ja": "この火山は何百年も静かだ。"
+    }
+  ],
+  "check_points": [
+    "volcanic の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で自然災害の話題として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1984
+    }
+  ]
+}

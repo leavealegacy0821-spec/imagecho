@@ -1,0 +1,94 @@
+{
+  "word": "orbit",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈɔːrbɪt/",
+  "core_image": {
+    "text": "まわりをぐるりと回り続ける道すじ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"20\"/><ellipse cx=\"120\" cy=\"80\" rx=\"90\" ry=\"40\" stroke-dasharray=\"4 4\"/><circle cx=\"210\" cy=\"80\" r=\"6\"/><line x1=\"200\" y1=\"50\" x2=\"180\" y2=\"44\"/><polyline points=\"185.6,49.7 180,44 187.8,42.3\"/></g><text x=\"40\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">きどう</text></svg>"
+  },
+  "etymology": "ラテン語 orbita(車輪の跡:orbis=輪) → 車輪の通った道すじ → (天体の)軌道 → 軌道を回る",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the curved path of a planet or object around a star or planet; an area of influence."
+    },
+    {
+      "pos": "動詞",
+      "text": "to move in a curved path around a planet or star."
+    }
+  ],
+  "cautions": [
+    "orbit A=Aのまわりを回る(他動詞)",
+    "in orbit=軌道上で",
+    "put A into orbit=Aを軌道に乗せる",
+    "revolve around=まわりを回る(同じ意味)"
+  ],
+  "patterns": [
+    {
+      "form": "orbit A",
+      "meaning": "Aのまわりを回る"
+    },
+    {
+      "form": "in orbit",
+      "meaning": "軌道上で"
+    },
+    {
+      "form": "put A into orbit",
+      "meaning": "Aを軌道に乗せる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "回る",
+      "en": "The moon orbits the earth.",
+      "ja": "月は地球のまわりを回っている。"
+    },
+    {
+      "source": "original",
+      "label": "軌道上",
+      "en": "The satellite is now in orbit.",
+      "ja": "その人工衛星は今、軌道上にある。"
+    },
+    {
+      "source": "original",
+      "label": "軌道に乗せる",
+      "en": "The rocket put a satellite into orbit.",
+      "ja": "ロケットが人工衛星を軌道に乗せた。"
+    },
+    {
+      "source": "original",
+      "label": "1周",
+      "en": "It takes the earth a year to orbit the sun.",
+      "ja": "地球が太陽を1周するのに1年かかる。"
+    },
+    {
+      "source": "original",
+      "label": "軌道",
+      "en": "The orbit of Mars is longer than Earth's.",
+      "ja": "火星の軌道は地球のより長い。"
+    },
+    {
+      "source": "original",
+      "label": "影響圏",
+      "en": "The small country fell into the orbit of its powerful neighbor.",
+      "ja": "その小国は強大な隣国の影響下に入った。"
+    }
+  ],
+  "check_points": [
+    "orbit A(他動詞)の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で宇宙の話題として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1982
+    }
+  ]
+}

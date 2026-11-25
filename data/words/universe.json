@@ -1,0 +1,89 @@
+{
+  "word": "universe",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈjuːnɪvɜːrs/",
+  "core_image": {
+    "text": "すべてをひとまとめにした、宇宙・全世界",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"70\" stroke-dasharray=\"4 4\"/><circle cx=\"90\" cy=\"60\" r=\"8\"/><circle cx=\"150\" cy=\"90\" r=\"5\"/><circle cx=\"110\" cy=\"110\" r=\"3\"/><circle cx=\"160\" cy=\"50\" r=\"3\"/><circle cx=\"70\" cy=\"100\" r=\"4\"/></g><text x=\"210\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すべて</text></svg>"
+  },
+  "etymology": "ラテン語 universum(uni-=ひとつ + versum=回された → ひとつにまとめられたもの) → 万物・宇宙 → universal=すべての・普遍的な",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "everything that exists, including all the stars and planets; a particular world or area of activity."
+    }
+  ],
+  "cautions": [
+    "universe=万物をふくむ宇宙全体/space=(地球の外の)宇宙空間/galaxy=銀河",
+    "in the universe=宇宙で",
+    "universal=普遍的な・全員の",
+    "university=(すべての学問を集めた)大学(同じ根)"
+  ],
+  "patterns": [
+    {
+      "form": "in the universe",
+      "meaning": "宇宙で"
+    },
+    {
+      "form": "the origin of the universe",
+      "meaning": "宇宙の起源"
+    },
+    {
+      "form": "universal",
+      "meaning": "普遍的な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "宇宙",
+      "en": "The universe is about 13.8 billion years old.",
+      "ja": "宇宙はおよそ138億年前に生まれた。"
+    },
+    {
+      "source": "original",
+      "label": "起源",
+      "en": "Scientists study the origin of the universe.",
+      "ja": "科学者たちは宇宙の起源を研究している。"
+    },
+    {
+      "source": "original",
+      "label": "ひとりぼっち",
+      "en": "Are we alone in the universe?",
+      "ja": "宇宙に私たちだけなのだろうか。"
+    },
+    {
+      "source": "original",
+      "label": "普遍的",
+      "en": "Music is a universal language.",
+      "ja": "音楽は世界共通の言語だ。"
+    },
+    {
+      "source": "original",
+      "label": "世界",
+      "en": "In her own little universe, she is the queen.",
+      "ja": "彼女だけの小さな世界では、彼女は女王だ。"
+    },
+    {
+      "source": "original",
+      "label": "広がる",
+      "en": "The universe is still expanding.",
+      "ja": "宇宙は今も広がり続けている。"
+    }
+  ],
+  "check_points": [
+    "universe と space のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "universal が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1980
+    }
+  ]
+}
