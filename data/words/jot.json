@@ -1,0 +1,94 @@
+{
+  "word": "jot",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/dʒɑːt/",
+  "core_image": {
+    "text": "忘れないように、さっと短くメモする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"70\" y=\"30\" width=\"80\" height=\"100\"/><line x1=\"84\" y1=\"56\" x2=\"120\" y2=\"56\"/><line x1=\"84\" y1=\"76\" x2=\"110\" y2=\"76\"/><line x1=\"150\" y1=\"100\" x2=\"200\" y2=\"60\"/><path d=\"M60 20 L50 10 M170 20 L180 10\"/></g><text x=\"200\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さっと</text></svg>"
+  },
+  "etymology": "ギリシャ語 iōta(いちばん小さい文字 ι) → ほんのわずか(not a jot) → (少しだけ)さっと書きとめる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "(jot down) to write something quickly so that you remember it."
+    },
+    {
+      "pos": "名詞",
+      "text": "(not a jot) not even a small amount."
+    }
+  ],
+  "cautions": [
+    "活用 jot - jotted - jotted",
+    "jot A down=Aをさっとメモする(down とセットが多い)",
+    "scribble=ぞんざいになぐり書き/jot=短くさっとメモ",
+    "not a jot=少しも〜ない"
+  ],
+  "patterns": [
+    {
+      "form": "jot A down",
+      "meaning": "Aを書きとめる"
+    },
+    {
+      "form": "jot down notes",
+      "meaning": "メモをとる"
+    },
+    {
+      "form": "not a jot",
+      "meaning": "少しも〜ない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "メモ",
+      "en": "Let me jot down your number.",
+      "ja": "電話番号をメモさせて。"
+    },
+    {
+      "source": "original",
+      "label": "書きとめる",
+      "en": "I jotted down a few ideas.",
+      "ja": "アイデアをいくつか書きとめた。"
+    },
+    {
+      "source": "original",
+      "label": "メモをとる",
+      "en": "He jotted down notes as she spoke.",
+      "ja": "彼女が話す間、彼はメモをとった。"
+    },
+    {
+      "source": "original",
+      "label": "手帳",
+      "en": "Jot it down in your notebook.",
+      "ja": "手帳に書きとめておいて。"
+    },
+    {
+      "source": "original",
+      "label": "少しも",
+      "en": "It doesn't matter one jot.",
+      "ja": "少しもかまわない。"
+    },
+    {
+      "source": "original",
+      "label": "すぐに",
+      "en": "I always jot down my dreams in the morning.",
+      "ja": "私はいつも朝、見た夢をメモする。"
+    }
+  ],
+  "check_points": [
+    "jot down の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "jot down が熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1891
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "read",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/riːd/",
+  "core_image": {
+    "text": "書かれた文字から、意味を読みとる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M40 50 L120 60 L200 50 L200 130 L120 140 L40 130 Z\"/><line x1=\"120\" y1=\"60\" x2=\"120\" y2=\"140\"/><line x1=\"56\" y1=\"76\" x2=\"104\" y2=\"80\"/><line x1=\"56\" y1=\"96\" x2=\"104\" y2=\"100\"/><line x1=\"136\" y1=\"80\" x2=\"184\" y2=\"76\"/><line x1=\"136\" y1=\"100\" x2=\"184\" y2=\"96\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">読みとる</text></svg>"
+  },
+  "etymology": "古い英語 rǣdan(助言する・解き明かす:riddle と同じ仲間) → (なぞ・しるしを)解き明かす → 文字を読む → (計器が)〜を示す",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to look at words and understand them; to say written words aloud; (of a sign or measuring device) to show information."
+    }
+  ],
+  "cautions": [
+    "活用 read - read /red/ - read /red/(つづりは同じ・発音が変わる)",
+    "read A B / read B to A=AにBを読んで聞かせる",
+    "The sign reads \"Stop.\"=看板には「止まれ」とある",
+    "read between the lines=行間を読む"
+  ],
+  "patterns": [
+    {
+      "form": "read A B",
+      "meaning": "AにBを読んで聞かせる"
+    },
+    {
+      "form": "read about A",
+      "meaning": "Aについて読む"
+    },
+    {
+      "form": "read between the lines",
+      "meaning": "行間を読む"
+    },
+    {
+      "form": "A reads ...",
+      "meaning": "Aには…と書いてある"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "読む",
+      "en": "I read the newspaper every morning.",
+      "ja": "毎朝新聞を読む。"
+    },
+    {
+      "source": "original",
+      "label": "読んで聞かせる",
+      "en": "My mother read me a story every night.",
+      "ja": "母は毎晩私にお話を読んでくれた。"
+    },
+    {
+      "source": "original",
+      "label": "書いてある",
+      "en": "The sign reads \"No Entry.\"",
+      "ja": "看板には「立入禁止」と書いてある。"
+    },
+    {
+      "source": "original",
+      "label": "行間",
+      "en": "You have to read between the lines.",
+      "ja": "行間を読まなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "過去形",
+      "en": "I read that book last year.",
+      "ja": "その本は去年読んだ。"
+    },
+    {
+      "source": "original",
+      "label": "示す",
+      "en": "The thermometer read 35 degrees.",
+      "ja": "温度計は35度を示していた。"
+    }
+  ],
+  "check_points": [
+    "read の過去形の発音を言えるか",
+    "The sign reads ... の意味がわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "read の発音、A reads 〜(〜と書いてある)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1895
+    }
+  ]
+}

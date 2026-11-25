@@ -1,0 +1,89 @@
+{
+  "word": "recite",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈsaɪt/",
+  "core_image": {
+    "text": "覚えたものを、声に出してすらすら言う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><path d=\"M100 50 Q110 40 120 50\"/><path d=\"M110 40 Q124 28 138 40\"/><path d=\"M120 30 Q140 16 160 30\"/><rect x=\"160\" y=\"70\" width=\"50\" height=\"40\" stroke-dasharray=\"3 3\"/></g><text x=\"190\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">暗唱</text></svg>"
+  },
+  "etymology": "ラテン語 recitare(re-=もう一度 + citare=呼び出す:cite と同じ根) → もう一度声に出して読みあげる → 暗唱する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say a poem or piece of writing aloud from memory; to list things."
+    }
+  ],
+  "cautions": [
+    "read aloud=(見ながら)音読する/recite=(覚えたものを)暗唱する",
+    "recite a poem=詩を暗唱する",
+    "recitation=暗唱/recital=独奏会",
+    "cite=引用する(同じ根)"
+  ],
+  "patterns": [
+    {
+      "form": "recite a poem",
+      "meaning": "詩を暗唱する"
+    },
+    {
+      "form": "recite A from memory",
+      "meaning": "Aをそらで言う"
+    },
+    {
+      "form": "recital",
+      "meaning": "リサイタル"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "暗唱",
+      "en": "She recited a poem in front of the class.",
+      "ja": "彼女はクラスの前で詩を暗唱した。"
+    },
+    {
+      "source": "original",
+      "label": "そらで",
+      "en": "He can recite the whole speech from memory.",
+      "ja": "彼はそのスピーチ全部をそらで言える。"
+    },
+    {
+      "source": "original",
+      "label": "並べ立てる",
+      "en": "She recited a long list of complaints.",
+      "ja": "彼女は不満を長々と並べ立てた。"
+    },
+    {
+      "source": "original",
+      "label": "お経",
+      "en": "The monks were reciting prayers.",
+      "ja": "僧たちがお経を唱えていた。"
+    },
+    {
+      "source": "original",
+      "label": "音読",
+      "en": "We read the passage aloud, and then recited it.",
+      "ja": "その文章を音読して、それから暗唱した。"
+    },
+    {
+      "source": "original",
+      "label": "リサイタル",
+      "en": "I went to her piano recital.",
+      "ja": "彼女のピアノリサイタルに行った。"
+    }
+  ],
+  "check_points": [
+    "read aloud と recite のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "recite が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1896
+    }
+  ]
+}

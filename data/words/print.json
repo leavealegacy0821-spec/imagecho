@@ -1,0 +1,98 @@
+{
+  "word": "print",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/prɪnt/",
+  "core_image": {
+    "text": "ぎゅっと押しつけて、文字や形を写す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"30\" width=\"120\" height=\"40\"/><rect x=\"70\" y=\"70\" width=\"100\" height=\"10\"/><rect x=\"80\" y=\"80\" width=\"80\" height=\"50\"/><line x1=\"92\" y1=\"96\" x2=\"148\" y2=\"96\"/><line x1=\"92\" y1=\"110\" x2=\"140\" y2=\"110\"/></g><text x=\"210\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">印刷</text></svg>"
+  },
+  "etymology": "ラテン語 premere(押す:press と同じ根) → 押しつけた跡 → 印刷する・(足・指の)跡(footprint) → 活字体で書く",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to produce words or pictures on paper with a machine; to write without joining the letters."
+    },
+    {
+      "pos": "名詞",
+      "text": "letters printed on a page; a mark made by pressing."
+    }
+  ],
+  "cautions": [
+    "print=印刷する・(ブロック体で)書く",
+    "in print=出版されている/out of print=絶版の",
+    "the small [fine] print=(契約書の)小さな文字・細則",
+    "footprint=足あと・fingerprint=指紋"
+  ],
+  "patterns": [
+    {
+      "form": "print A out",
+      "meaning": "Aを印刷する"
+    },
+    {
+      "form": "in print",
+      "meaning": "出版されて"
+    },
+    {
+      "form": "out of print",
+      "meaning": "絶版の"
+    },
+    {
+      "form": "the small print",
+      "meaning": "細則"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "印刷",
+      "en": "Can you print out this document?",
+      "ja": "この書類を印刷してくれる?"
+    },
+    {
+      "source": "original",
+      "label": "絶版",
+      "en": "The book is now out of print.",
+      "ja": "その本は今は絶版だ。"
+    },
+    {
+      "source": "original",
+      "label": "細則",
+      "en": "Always read the small print.",
+      "ja": "いつも細かい文字まで読みなさい。"
+    },
+    {
+      "source": "original",
+      "label": "ブロック体",
+      "en": "Please print your name clearly.",
+      "ja": "名前をはっきり活字体で書いてください。"
+    },
+    {
+      "source": "original",
+      "label": "足あと",
+      "en": "We found footprints in the snow.",
+      "ja": "雪の上に足あとを見つけた。"
+    },
+    {
+      "source": "original",
+      "label": "出版",
+      "en": "Her first novel was printed in 1990.",
+      "ja": "彼女の最初の小説は1990年に出版された。"
+    }
+  ],
+  "check_points": [
+    "out of print の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "out of print、fingerprint が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1894
+    }
+  ]
+}

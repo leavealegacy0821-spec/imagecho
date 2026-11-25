@@ -1,0 +1,98 @@
+{
+  "word": "paint",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/peɪnt/",
+  "core_image": {
+    "text": "絵の具やペンキを、ぬってえがく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"30\" width=\"120\" height=\"100\"/><path d=\"M60 110 Q80 60 100 90 Q120 120 140 70\"/><line x1=\"170\" y1=\"40\" x2=\"200\" y2=\"120\"/><path d=\"M164 30 L176 30 L174 46 L166 46 Z\"/></g><text x=\"210\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぬる</text></svg>"
+  },
+  "etymology": "ラテン語 pingere(色をぬる・えがく:picture・pigment と同じ根) → 色をぬる・ペンキをぬる → 絵の具で絵をかく",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to put paint on a surface; to make a picture using paint; to describe something in a particular way."
+    },
+    {
+      "pos": "名詞",
+      "text": "a colored liquid that is put on a surface."
+    }
+  ],
+  "cautions": [
+    "draw=(鉛筆・ペンで)線をかく/paint=絵の具でかく・(壁を)ペンキでぬる",
+    "paint A B=AをB色にぬる(paint the wall white)",
+    "Wet Paint=ペンキぬりたて",
+    "paint a picture of A=Aを(言葉で)描写する"
+  ],
+  "patterns": [
+    {
+      "form": "paint A B",
+      "meaning": "AをB(色)にぬる"
+    },
+    {
+      "form": "paint a picture",
+      "meaning": "絵をかく"
+    },
+    {
+      "form": "Wet Paint",
+      "meaning": "ペンキぬりたて"
+    },
+    {
+      "form": "painting",
+      "meaning": "絵画"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ぬる",
+      "en": "We painted the fence white.",
+      "ja": "私たちはさくを白くぬった。"
+    },
+    {
+      "source": "original",
+      "label": "絵をかく",
+      "en": "She paints pictures of flowers.",
+      "ja": "彼女は花の絵をかく。"
+    },
+    {
+      "source": "original",
+      "label": "ぬりたて",
+      "en": "Be careful—wet paint!",
+      "ja": "気をつけて、ペンキぬりたて!"
+    },
+    {
+      "source": "original",
+      "label": "絵画",
+      "en": "This painting is by Monet.",
+      "ja": "この絵はモネの作品だ。"
+    },
+    {
+      "source": "original",
+      "label": "描写",
+      "en": "The book paints a picture of life in the 1920s.",
+      "ja": "その本は1920年代の生活をえがいている。"
+    },
+    {
+      "source": "original",
+      "label": "対比",
+      "en": "He drew the outline in pencil and then painted it.",
+      "ja": "彼は鉛筆で輪郭をかき、それから色をぬった。"
+    }
+  ],
+  "check_points": [
+    "draw と paint のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "paint A B(第5文型)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1893
+    }
+  ]
+}

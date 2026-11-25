@@ -1,0 +1,93 @@
+{
+  "word": "write",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/raɪt/",
+  "core_image": {
+    "text": "ペンで文字をきざんで、言葉を残す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"30\" width=\"120\" height=\"110\"/><line x1=\"56\" y1=\"56\" x2=\"140\" y2=\"56\"/><line x1=\"56\" y1=\"76\" x2=\"140\" y2=\"76\"/><path d=\"M56 96 Q70 90 84 96 T112 96\"/><line x1=\"120\" y1=\"110\" x2=\"200\" y2=\"40\"/><polygon points=\"120,110 124,100 130,106\"/></g><text x=\"200\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かきかき</text></svg>"
+  },
+  "etymology": "古い英語 wrītan(ひっかく・きざむ:昔は石や木に文字をきざんだ) → 文字を書く → (本・手紙・曲を)書く",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make letters or words on paper or a screen; to create a book, letter, song, etc."
+    }
+  ],
+  "cautions": [
+    "活用 write - wrote - written",
+    "write=文字・文章を書く/draw=(線で)絵をかく/paint=絵の具でかく",
+    "write to A=Aに手紙を書く",
+    "write down A=Aを書きとめる"
+  ],
+  "patterns": [
+    {
+      "form": "write to A",
+      "meaning": "Aに手紙を書く"
+    },
+    {
+      "form": "write A down",
+      "meaning": "Aを書きとめる"
+    },
+    {
+      "form": "write A B",
+      "meaning": "AにBを書き送る"
+    },
+    {
+      "form": "in writing",
+      "meaning": "書面で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "書く",
+      "en": "Write your name at the top of the page.",
+      "ja": "ページの上に名前を書きなさい。"
+    },
+    {
+      "source": "original",
+      "label": "手紙",
+      "en": "I wrote to my grandmother last week.",
+      "ja": "先週、祖母に手紙を書いた。"
+    },
+    {
+      "source": "original",
+      "label": "書きとめる",
+      "en": "Write down the phone number.",
+      "ja": "電話番号を書きとめて。"
+    },
+    {
+      "source": "original",
+      "label": "本",
+      "en": "She has written three novels.",
+      "ja": "彼女は小説を3冊書いている。"
+    },
+    {
+      "source": "original",
+      "label": "書面",
+      "en": "Please send your answer in writing.",
+      "ja": "回答は書面で送ってください。"
+    },
+    {
+      "source": "original",
+      "label": "書き送る",
+      "en": "He wrote me a long letter.",
+      "ja": "彼は私に長い手紙を書いてくれた。"
+    }
+  ],
+  "check_points": [
+    "write の活用(wrote, written)を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "活用、write down が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1889
+    }
+  ]
+}

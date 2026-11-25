@@ -1,0 +1,93 @@
+{
+  "word": "sketch",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/sketʃ/",
+  "core_image": {
+    "text": "細かくせずに、ざっとえがく下絵",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"30\" width=\"160\" height=\"100\"/><path d=\"M60 110 L100 60 L130 90 L150 70 L180 110\" stroke-dasharray=\"4 3\"/><circle cx=\"160\" cy=\"54\" r=\"10\" stroke-dasharray=\"3 3\"/></g><text x=\"120\" y=\"150\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ざっと</text></svg>"
+  },
+  "etymology": "ギリシャ語 schedios(その場で・即席の) → (イタリア語)schizzo=下書き → ざっとえがいた絵・下絵 → (計画・話の)概略 → 寸劇",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a simple quick drawing; a short description; a short funny play."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make a quick drawing; to describe something briefly."
+    }
+  ],
+  "cautions": [
+    "draw=線で絵をかく/sketch=細かくせずざっと下絵・スケッチ/paint=絵の具でかく",
+    "sketch out A=Aの概略を述べる",
+    "a rough sketch=ラフな下書き"
+  ],
+  "patterns": [
+    {
+      "form": "make a sketch of A",
+      "meaning": "Aをスケッチする"
+    },
+    {
+      "form": "sketch out A",
+      "meaning": "Aの概略を示す"
+    },
+    {
+      "form": "a rough sketch",
+      "meaning": "おおまかな下絵"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "スケッチ",
+      "en": "She made a quick sketch of the old church.",
+      "ja": "彼女はその古い教会をさっとスケッチした。"
+    },
+    {
+      "source": "original",
+      "label": "概略",
+      "en": "He sketched out his plan for the festival.",
+      "ja": "彼は文化祭の計画の概略を説明した。"
+    },
+    {
+      "source": "original",
+      "label": "下絵",
+      "en": "The artist drew a rough sketch first.",
+      "ja": "その画家はまずおおまかな下絵をかいた。"
+    },
+    {
+      "source": "original",
+      "label": "写生",
+      "en": "We sketched flowers in the garden.",
+      "ja": "私たちは庭で花を写生した。"
+    },
+    {
+      "source": "original",
+      "label": "寸劇",
+      "en": "The students performed a funny sketch.",
+      "ja": "生徒たちはおもしろい寸劇をした。"
+    },
+    {
+      "source": "original",
+      "label": "人物",
+      "en": "The police released a sketch of the suspect.",
+      "ja": "警察は容疑者の似顔絵を公開した。"
+    }
+  ],
+  "check_points": [
+    "sketch out の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "sketch out が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1892
+    }
+  ]
+}
