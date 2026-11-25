@@ -1,0 +1,103 @@
+{
+  "word": "wait",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/weɪt/",
+  "core_image": {
+    "text": "来るものに目を向けたまま、その場で待つ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"84\" y2=\"96\"/><circle cx=\"170\" cy=\"50\" r=\"22\"/><line x1=\"170\" y1=\"50\" x2=\"170\" y2=\"34\"/><line x1=\"170\" y1=\"50\" x2=\"182\" y2=\"56\"/><line x1=\"150\" y1=\"100\" x2=\"96\" y2=\"100\" stroke-dasharray=\"5 5\"/><polyline points=\"103,103.8 96,100 103,96.2\"/></g><text x=\"170\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">その場で待つ</text></svg>"
+  },
+  "etymology": "古いフランス語 waitier(見張る。watch・wake と同じ根) → 見張って待ち受ける → 待つ → (給仕が客のそばで)待つ=給仕する(waiter)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stay where you are or not do something until something happens or someone comes."
+    },
+    {
+      "pos": "名詞",
+      "text": "a period of time when you wait."
+    }
+  ],
+  "cautions": [
+    "wait for A=Aを待つ(for が要る)/await A=Aを待つ(他動詞・堅い)",
+    "wait for A to do=Aが〜するのを待つ",
+    "can't wait to do=〜するのが待ちきれない",
+    "wait on A=Aに給仕する・仕える"
+  ],
+  "patterns": [
+    {
+      "form": "wait for A",
+      "meaning": "Aを待つ"
+    },
+    {
+      "form": "wait for A to do",
+      "meaning": "Aが〜するのを待つ"
+    },
+    {
+      "form": "can't wait to do",
+      "meaning": "〜するのが待ちきれない"
+    },
+    {
+      "form": "keep A waiting",
+      "meaning": "Aを待たせる"
+    },
+    {
+      "form": "a long wait",
+      "meaning": "長い待ち時間"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "待つ",
+      "en": "I'm waiting for the bus.",
+      "ja": "バスを待っている。"
+    },
+    {
+      "source": "original",
+      "label": "するのを待つ",
+      "en": "We waited for the rain to stop.",
+      "ja": "雨がやむのを待った。"
+    },
+    {
+      "source": "original",
+      "label": "待ちきれない",
+      "en": "I can't wait to see you.",
+      "ja": "会えるのが待ちきれない。"
+    },
+    {
+      "source": "original",
+      "label": "待たせる",
+      "en": "Sorry to keep you waiting.",
+      "ja": "お待たせしてすみません。"
+    },
+    {
+      "source": "original",
+      "label": "待ち時間",
+      "en": "There was a long wait at the hospital.",
+      "ja": "病院で長く待たされた。"
+    },
+    {
+      "source": "original",
+      "label": "待ち受ける(await)",
+      "en": "A big surprise awaited us at home.",
+      "ja": "家では大きな驚きが私たちを待ち受けていた。"
+    }
+  ],
+  "check_points": [
+    "wait for A(for が要る)がわかるか",
+    "keep A waiting の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "wait for / await の区別、keep A waiting が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1269
+    }
+  ]
+}

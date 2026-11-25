@@ -1,0 +1,98 @@
+{
+  "word": "finish",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈfɪnɪʃ/",
+  "core_image": {
+    "text": "最後まで行きついて、終わりにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"30\" y1=\"100\" x2=\"150\" y2=\"100\"/><polyline points=\"143,96.2 150,100 143,103.8\"/><line x1=\"170\" y1=\"40\" x2=\"170\" y2=\"140\"/><line x1=\"170\" y1=\"40\" x2=\"200\" y2=\"40\"/><line x1=\"170\" y1=\"60\" x2=\"200\" y2=\"60\"/><line x1=\"200\" y1=\"40\" x2=\"200\" y2=\"60\"/></g><text x=\"80\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">最後まで</text></svg>"
+  },
+  "etymology": "ラテン語 finis(終わり・境。final・finite・fine と同じ根) → 終わりにする → (仕事・食事を)終える・仕上げる → (名詞)終わり・仕上げ・ゴール",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to complete something; to come to an end."
+    },
+    {
+      "pos": "名詞",
+      "text": "the end of something; the last part of a race."
+    }
+  ],
+  "cautions": [
+    "finish doing=〜し終える(× finish to do。動名詞だけ)",
+    "end=終わる(状態)/finish=(自分がやっていたことを)やり終える",
+    "complete=欠けずにすべてそろえて完了する(堅い)",
+    "finish off=片づける・平らげる"
+  ],
+  "patterns": [
+    {
+      "form": "finish doing",
+      "meaning": "〜し終える"
+    },
+    {
+      "form": "finish A",
+      "meaning": "Aを終える"
+    },
+    {
+      "form": "finish off A",
+      "meaning": "Aを平らげる"
+    },
+    {
+      "form": "from start to finish",
+      "meaning": "最初から最後まで"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "し終える",
+      "en": "Have you finished doing your homework?",
+      "ja": "宿題はやり終えた?"
+    },
+    {
+      "source": "original",
+      "label": "終える",
+      "en": "I finished the book in one day.",
+      "ja": "その本を1日で読み終えた。"
+    },
+    {
+      "source": "original",
+      "label": "終わる",
+      "en": "The game finished at nine.",
+      "ja": "試合は9時に終わった。"
+    },
+    {
+      "source": "original",
+      "label": "平らげる",
+      "en": "He finished off the whole cake.",
+      "ja": "彼はケーキを丸ごと平らげた。"
+    },
+    {
+      "source": "original",
+      "label": "ゴール",
+      "en": "She finished first in the race.",
+      "ja": "彼女はそのレースで1位でゴールした。"
+    },
+    {
+      "source": "original",
+      "label": "仕上げ",
+      "en": "The furniture has a beautiful finish.",
+      "ja": "その家具は仕上げが美しい。"
+    }
+  ],
+  "check_points": [
+    "finish doing(× to do)がわかるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "finish doing(動名詞のみ)が文法で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1265
+    }
+  ]
+}

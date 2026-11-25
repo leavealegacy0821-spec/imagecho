@@ -1,0 +1,103 @@
+{
+  "word": "start",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/stɑːrt/",
+  "core_image": {
+    "text": "ぱっと動き出して、スタートを切る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"60\" y1=\"140\" x2=\"60\" y2=\"100\"/><circle cx=\"100\" cy=\"52\" r=\"10\"/><line x1=\"100\" y1=\"62\" x2=\"100\" y2=\"106\"/><line x1=\"100\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"100\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"100\" y1=\"74\" x2=\"120\" y2=\"60\"/><line x1=\"100\" y1=\"74\" x2=\"84\" y2=\"88\"/><line x1=\"130\" y1=\"100\" x2=\"210\" y2=\"100\"/><polyline points=\"203,96.2 210,100 203,103.8\"/><line x1=\"40\" y1=\"60\" x2=\"50\" y2=\"70\"/></g><text x=\"170\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぱっと動き出す</text></svg>"
+  },
+  "etymology": "古い英語 styrtan(ぱっと跳び上がる。startle と同じ根) → ぱっと動き出す → 始める・始まる → 出発する/(機械を)始動させる・(会社を)起こす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to begin doing something; to begin to happen; to make a machine begin to work; to create a business."
+    },
+    {
+      "pos": "名詞",
+      "text": "the beginning of something; a sudden movement."
+    }
+  ],
+  "cautions": [
+    "begin とほぼ同じ「始める」。start だけ:出発する(start for A)、機械をかける(start the car)、事業を起こす(start a business)",
+    "start to do / start doing=〜し始める",
+    "from start to finish=最初から最後まで",
+    "get a good start=よいスタートを切る"
+  ],
+  "patterns": [
+    {
+      "form": "start to do",
+      "meaning": "〜し始める"
+    },
+    {
+      "form": "start A",
+      "meaning": "Aを始める・起動する"
+    },
+    {
+      "form": "start a business",
+      "meaning": "事業を起こす"
+    },
+    {
+      "form": "start for A",
+      "meaning": "Aへ向けて出発する"
+    },
+    {
+      "form": "from start to finish",
+      "meaning": "最初から最後まで"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "始める",
+      "en": "Let's start the meeting.",
+      "ja": "会議を始めよう。"
+    },
+    {
+      "source": "original",
+      "label": "エンジンをかける",
+      "en": "I couldn't start the car this morning.",
+      "ja": "今朝は車のエンジンがかからなかった。"
+    },
+    {
+      "source": "original",
+      "label": "起業する",
+      "en": "She started her own business at 25.",
+      "ja": "彼女は25歳で起業した。"
+    },
+    {
+      "source": "original",
+      "label": "出発する",
+      "en": "We started for Kyoto early in the morning.",
+      "ja": "私たちは朝早く京都へ出発した。"
+    },
+    {
+      "source": "original",
+      "label": "最初から最後まで",
+      "en": "The movie was exciting from start to finish.",
+      "ja": "その映画は最初から最後までわくわくした。"
+    },
+    {
+      "source": "original",
+      "label": "し始める",
+      "en": "The baby started crying.",
+      "ja": "赤ちゃんが泣き始めた。"
+    }
+  ],
+  "check_points": [
+    "begin と start のちがいを言えるか",
+    "start a business の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "start と begin の使い分けが語法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1262
+    }
+  ]
+}

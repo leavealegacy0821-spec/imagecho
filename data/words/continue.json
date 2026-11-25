@@ -1,0 +1,97 @@
+{
+  "word": "continue",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈtɪnjuː/",
+  "core_image": {
+    "text": "切れずにつながったまま、ずっと続ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"80\" x2=\"220\" y2=\"80\"/><circle cx=\"60\" cy=\"80\" r=\"6\"/><circle cx=\"100\" cy=\"80\" r=\"6\"/><circle cx=\"140\" cy=\"80\" r=\"6\"/><circle cx=\"180\" cy=\"80\" r=\"6\"/><line x1=\"180\" y1=\"110\" x2=\"220\" y2=\"110\"/><polyline points=\"213,106.2 220,110 213,113.8\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">つながって続く</text></svg>"
+  },
+  "etymology": "con(共に)+tinue(保つ・つかむ。contain と同じ根) → つながりを保つ → 続ける・続く → (中断のあと)再開する → continuous=途切れない",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to keep doing something without stopping; to start again after stopping; to go further."
+    }
+  ],
+  "cautions": [
+    "continue to do / continue doing=〜し続ける(どちらも可)",
+    "continue with A=Aを続ける",
+    "To be continued=次回に続く",
+    "continuous=途切れない/continual=くり返し起こる"
+  ],
+  "patterns": [
+    {
+      "form": "continue to do",
+      "meaning": "〜し続ける"
+    },
+    {
+      "form": "continue doing",
+      "meaning": "〜し続ける"
+    },
+    {
+      "form": "continue with A",
+      "meaning": "Aを続ける"
+    },
+    {
+      "form": "To be continued",
+      "meaning": "つづく"
+    },
+    {
+      "form": "continuous",
+      "meaning": "途切れない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "し続ける",
+      "en": "The rain continued to fall all day.",
+      "ja": "雨は一日中降り続いた。"
+    },
+    {
+      "source": "original",
+      "label": "続ける",
+      "en": "Please continue with your work.",
+      "ja": "どうぞ作業を続けてください。"
+    },
+    {
+      "source": "original",
+      "label": "続く",
+      "en": "The meeting continued until late at night.",
+      "ja": "会議は夜遅くまで続いた。"
+    },
+    {
+      "source": "original",
+      "label": "再開する",
+      "en": "After a short break, the speaker continued.",
+      "ja": "短い休憩のあと、話し手は話を再開した。"
+    },
+    {
+      "source": "original",
+      "label": "途切れない",
+      "en": "The machine needs a continuous supply of power.",
+      "ja": "その機械には途切れない電力の供給が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "続く",
+      "en": "Prices will continue to rise.",
+      "ja": "物価は上がり続けるだろう。"
+    }
+  ],
+  "check_points": [
+    "continue to do / doing の両方が使えることがわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "continue to do / doing が語法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1268
+    }
+  ]
+}

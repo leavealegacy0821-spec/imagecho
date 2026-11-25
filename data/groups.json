@@ -494,7 +494,7 @@
     },
     {
       "title": "使い分け:続く・続ける",
-      "note": "persist=しつこく続ける・続く ／ last=(期間)もつ ／ proceed=前へ進めていく ／ resume=中断したあと再開する ／ sustain=下から支えて続けさせる ／ remain=残る・〜のままでいる",
+      "note": "persist=しつこく続ける・続く ／ last=(期間)もつ ／ proceed=前へ進めていく ／ resume=中断したあと再開する ／ sustain=下から支えて続けさせる ／ remain=残る・〜のままでいる ／ continue=切れずにつながったまま続ける",
       "words": [
         "persist",
         "last",
@@ -502,19 +502,23 @@
         "resume",
         "sustain",
         "remain",
-        "maintain"
+        "maintain",
+        "continue"
       ]
     },
     {
       "title": "使い分け:やめる・終える",
-      "note": "stop=動きを止める ／ cease=(堅)ある状態が終わる ／ quit=すっぱりやめる ／ end=終わりにする ／ conclude=締めくくる ／ abolish=制度をなくす",
+      "note": "stop=動きを止める ／ cease=(堅)ある状態が終わる ／ quit=すっぱりやめる ／ end=終わりにする ／ conclude=締めくくる ／ abolish=制度をなくす ／ finish=最後まで行きついて終える(finish doing) ／ complete=欠けなく満たして完成させる ／ terminate=境目で正式に打ち切る",
       "words": [
         "stop",
         "cease",
         "quit",
         "end",
         "conclude",
-        "abolish"
+        "abolish",
+        "finish",
+        "complete",
+        "terminate"
       ]
     },
     {
@@ -2148,6 +2152,28 @@
         "lazy",
         "stubborn",
         "arrogant"
+      ]
+    },
+    {
+      "title": "使い分け:始める",
+      "note": "begin=何もない所から最初の一歩(began ／ begun) ／ start=ぱっと動き出す(出発・機械・起業も) ／ commence=正式におごそかに開始 ／ initiate=口火を切って始めさせる ／ launch=勢いよく送り出す",
+      "words": [
+        "begin",
+        "start",
+        "commence",
+        "initiate",
+        "launch"
+      ]
+    },
+    {
+      "title": "使い分け:待つ・とどまる",
+      "note": "wait=来るものに目を向けてその場で待つ(wait for) ／ await=(他動詞)待ち受ける ／ stay=よそへ行かずその場・状態にとどまる ／ remain=(堅く)残る・〜のままである ／ linger=名残惜しくぐずぐず残る",
+      "words": [
+        "wait",
+        "await",
+        "stay",
+        "remain",
+        "linger"
       ]
     },
     {

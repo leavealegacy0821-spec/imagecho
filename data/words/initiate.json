@@ -1,0 +1,98 @@
+{
+  "word": "initiate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪˈnɪʃieɪt/",
+  "core_image": {
+    "text": "中へ入る口火を切って、物事を始めさせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"80\" y2=\"80\"/><line x1=\"80\" y1=\"80\" x2=\"90\" y2=\"70\"/><circle cx=\"96\" cy=\"64\" r=\"4\"/><line x1=\"100\" y1=\"60\" x2=\"104\" y2=\"54\"/><polyline points=\"110,90 150,90 190,90\"/><circle cx=\"196\" cy=\"90\" r=\"8\"/></g><text x=\"150\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">口火を切る</text></svg>"
+  },
+  "etymology": "ラテン語 initium(始まり。in=中へ+ire=行く:initial と同じ根) → 中へ入らせる → (計画・交渉を)始める・口火を切る → (人を団体に)入会させる・手ほどきする → 名詞 initiative(率先・主導権)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make something begin, especially a plan or process; to introduce someone to an activity or group."
+    }
+  ],
+  "cautions": [
+    "begin=始める(広い)/initiate=(計画・交渉・改革などを)自分から言い出して始めさせる(堅い)",
+    "initiate A into B=AをBに入会させる・手ほどきする",
+    "名詞 initiative:take the initiative=率先して行う(長文で頻出)",
+    "initial=最初の"
+  ],
+  "patterns": [
+    {
+      "form": "initiate A",
+      "meaning": "A(計画)を始める"
+    },
+    {
+      "form": "initiate talks",
+      "meaning": "話し合いを始める"
+    },
+    {
+      "form": "initiate A into B",
+      "meaning": "AをBに入会させる"
+    },
+    {
+      "form": "take the initiative",
+      "meaning": "率先して行う"
+    },
+    {
+      "form": "on one's own initiative",
+      "meaning": "自分から進んで"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "始める",
+      "en": "The government initiated a new program to help farmers.",
+      "ja": "政府は農家を支援する新しい計画を始めた。"
+    },
+    {
+      "source": "original",
+      "label": "開始する",
+      "en": "The two countries initiated peace talks.",
+      "ja": "両国は和平交渉を開始した。"
+    },
+    {
+      "source": "original",
+      "label": "手ほどきする",
+      "en": "My uncle initiated me into fishing.",
+      "ja": "おじが私に釣りの手ほどきをしてくれた。"
+    },
+    {
+      "source": "original",
+      "label": "率先して行う",
+      "en": "She took the initiative and organized the event.",
+      "ja": "彼女は率先してその行事を企画した。"
+    },
+    {
+      "source": "original",
+      "label": "自分から進んで",
+      "en": "He cleaned the classroom on his own initiative.",
+      "ja": "彼は自分から進んで教室を掃除した。"
+    },
+    {
+      "source": "original",
+      "label": "始める",
+      "en": "Who initiated the fight?",
+      "ja": "誰がけんかを始めたの?"
+    }
+  ],
+  "check_points": [
+    "take the initiative の意味を言えるか",
+    "begin と initiate のちがいがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "take the initiative が熟語・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1264
+    }
+  ]
+}

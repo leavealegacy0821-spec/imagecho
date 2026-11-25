@@ -1,0 +1,103 @@
+{
+  "word": "complete",
+  "pos": [
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/kəmˈpliːt/",
+  "core_image": {
+    "text": "すっかり満たして、欠けたところをなくす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"80\" cy=\"80\" r=\"34\"/><path d=\"M80 80 L80 46 A34 34 0 0 1 114 80 Z\"/><line x1=\"124\" y1=\"80\" x2=\"150\" y2=\"80\"/><polyline points=\"143,76.2 150,80 143,83.8\"/><circle cx=\"190\" cy=\"80\" r=\"34\"/><line x1=\"190\" y1=\"46\" x2=\"190\" y2=\"114\"/><line x1=\"156\" y1=\"80\" x2=\"224\" y2=\"80\"/></g><text x=\"190\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">欠けなし</text></svg>"
+  },
+  "etymology": "com(すっかり)+plete(満たす。plenty・supply と同じ根) → すっかり満たす → 完成させる・やりとげる(動詞) → 完全な・まったくの(形容詞) → completely=完全に",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to finish making or doing something; to write all the information on a form."
+    },
+    {
+      "pos": "形容詞",
+      "text": "having all the necessary parts; finished; total."
+    }
+  ],
+  "cautions": [
+    "finish=やり終える(日常)/complete=欠けずにすべて仕上げる(堅い・正式)",
+    "complete a form=用紙に全部記入する",
+    "形容詞:a complete stranger=まったく見知らぬ人/complete with A=Aがついた",
+    "completely=完全に・すっかり"
+  ],
+  "patterns": [
+    {
+      "form": "complete A",
+      "meaning": "Aを完成させる"
+    },
+    {
+      "form": "complete a form",
+      "meaning": "用紙に記入する"
+    },
+    {
+      "form": "a complete A",
+      "meaning": "完全な・まったくのA"
+    },
+    {
+      "form": "completely",
+      "meaning": "完全に"
+    },
+    {
+      "form": "incomplete",
+      "meaning": "不完全な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "完成させる",
+      "en": "The new stadium will be completed next year.",
+      "ja": "新しい競技場は来年完成する。"
+    },
+    {
+      "source": "original",
+      "label": "記入する",
+      "en": "Please complete this form.",
+      "ja": "この用紙に記入してください。"
+    },
+    {
+      "source": "original",
+      "label": "終える",
+      "en": "She completed the course in two years.",
+      "ja": "彼女はその課程を2年で修了した。"
+    },
+    {
+      "source": "original",
+      "label": "まったくの",
+      "en": "He was a complete stranger to me.",
+      "ja": "彼は私にとってまったく見知らぬ人だった。"
+    },
+    {
+      "source": "original",
+      "label": "完全に",
+      "en": "I completely forgot about the meeting.",
+      "ja": "会議のことを完全に忘れていた。"
+    },
+    {
+      "source": "original",
+      "label": "不完全な",
+      "en": "The report is still incomplete.",
+      "ja": "その報告書はまだ不完全だ。"
+    }
+  ],
+  "check_points": [
+    "finish と complete のちがいを言えるか",
+    "a complete stranger の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "completely、complete a form が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1266
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "word": "commence",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kəˈmens/",
+  "core_image": {
+    "text": "正式に、おごそかに始める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"80\" y=\"50\" width=\"80\" height=\"90\"/><line x1=\"120\" y1=\"50\" x2=\"120\" y2=\"140\"/><line x1=\"80\" y1=\"30\" x2=\"160\" y2=\"30\"/><line x1=\"100\" y1=\"30\" x2=\"100\" y2=\"50\"/><line x1=\"140\" y1=\"30\" x2=\"140\" y2=\"50\"/></g><text x=\"200\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">正式に開始</text></svg>"
+  },
+  "etymology": "ラテン語 com(すっかり)+initiare(始める。initial と同じ根) → 正式に始める・開始する → commencement=(大学の)卒業式(新しい人生の始まり)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to begin something (a formal word)."
+    }
+  ],
+  "cautions": [
+    "begin・start の堅い言い方(式典・法律・公式行事)",
+    "commence doing [to do]=〜を開始する",
+    "commencement=開始/(米)卒業式",
+    "日常会話では begin / start を使う"
+  ],
+  "patterns": [
+    {
+      "form": "commence A",
+      "meaning": "Aを開始する"
+    },
+    {
+      "form": "commence doing",
+      "meaning": "〜し始める"
+    },
+    {
+      "form": "commencement",
+      "meaning": "開始・卒業式"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "開始する",
+      "en": "The ceremony will commence at 10 a.m.",
+      "ja": "式典は午前10時に開始します。"
+    },
+    {
+      "source": "original",
+      "label": "開始する",
+      "en": "Construction of the new bridge commenced last month.",
+      "ja": "新しい橋の建設が先月始まった。"
+    },
+    {
+      "source": "original",
+      "label": "開始する",
+      "en": "The trial commenced on Monday.",
+      "ja": "裁判は月曜に始まった。"
+    },
+    {
+      "source": "original",
+      "label": "始める",
+      "en": "The plane commenced its descent.",
+      "ja": "飛行機は降下を始めた。"
+    },
+    {
+      "source": "original",
+      "label": "卒業式",
+      "en": "Her parents attended the commencement ceremony.",
+      "ja": "彼女の両親は卒業式に出席した。"
+    },
+    {
+      "source": "original",
+      "label": "始める",
+      "en": "Work will commence as soon as the money is ready.",
+      "ja": "資金が整い次第、作業を開始する。"
+    }
+  ],
+  "check_points": [
+    "begin と commence の使う場面のちがいがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "begin / start の堅い言い換えとして出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1263
+    }
+  ]
+}
