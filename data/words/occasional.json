@@ -1,0 +1,93 @@
+{
+  "word": "occasional",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/əˈkeɪʒənl/",
+  "core_image": {
+    "text": "ときどき、ぽつりぽつりと起こる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"80\" x2=\"220\" y2=\"80\"/><line x1=\"46\" y1=\"66\" x2=\"46\" y2=\"94\"/><line x1=\"120\" y1=\"66\" x2=\"120\" y2=\"94\"/><line x1=\"146\" y1=\"66\" x2=\"146\" y2=\"94\"/><line x1=\"206\" y1=\"66\" x2=\"206\" y2=\"94\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ときどき</text></svg>"
+  },
+  "etymology": "occasion(折・機会。oc=〜へ+cas=落ちる:たまたまめぐってくる時) → 折々の → ときどきの・たまの → occasionally=ときどき・たまに",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "happening sometimes but not often or regularly."
+    }
+  ],
+  "cautions": [
+    "frequent=しばしば/occasional=ときどき・たまの(規則的でない)",
+    "occasionally=ときどき(sometimes より頻度が低め)",
+    "an occasional visitor=たまに来る人/occasional rain=ときどき雨",
+    "the occasional A=たまにあるA"
+  ],
+  "patterns": [
+    {
+      "form": "an occasional A",
+      "meaning": "たまのA"
+    },
+    {
+      "form": "occasional rain",
+      "meaning": "ときどき雨"
+    },
+    {
+      "form": "occasionally",
+      "meaning": "ときどき"
+    },
+    {
+      "form": "the occasional A",
+      "meaning": "たまにあるA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ときどき",
+      "en": "The forecast says cloudy with occasional rain.",
+      "ja": "予報では曇りときどき雨だ。"
+    },
+    {
+      "source": "original",
+      "label": "たまの",
+      "en": "I enjoy an occasional cup of coffee.",
+      "ja": "たまに飲むコーヒーが楽しみだ。"
+    },
+    {
+      "source": "original",
+      "label": "ときどき",
+      "en": "We occasionally go to the movies together.",
+      "ja": "私たちはときどき一緒に映画に行く。"
+    },
+    {
+      "source": "original",
+      "label": "たまに",
+      "en": "He is an occasional visitor to our shop.",
+      "ja": "彼はたまに店に来るお客さんだ。"
+    },
+    {
+      "source": "original",
+      "label": "たまにある",
+      "en": "Apart from the occasional mistake, his work was perfect.",
+      "ja": "たまのミスを除けば、彼の仕事は完璧だった。"
+    },
+    {
+      "source": "original",
+      "label": "ときどき",
+      "en": "I occasionally see her at the station.",
+      "ja": "駅でときどき彼女を見かける。"
+    }
+  ],
+  "check_points": [
+    "occasionally と frequently の頻度のちがいがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "occasionally、occasional rain が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1132
+    }
+  ]
+}

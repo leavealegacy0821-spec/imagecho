@@ -1,0 +1,99 @@
+{
+  "word": "frequent",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/ˈfriːkwənt/",
+  "core_image": {
+    "text": "間をあけずに、何度もくり返す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"80\" x2=\"220\" y2=\"80\"/><line x1=\"36\" y1=\"66\" x2=\"36\" y2=\"94\"/><line x1=\"56\" y1=\"66\" x2=\"56\" y2=\"94\"/><line x1=\"76\" y1=\"66\" x2=\"76\" y2=\"94\"/><line x1=\"96\" y1=\"66\" x2=\"96\" y2=\"94\"/><line x1=\"116\" y1=\"66\" x2=\"116\" y2=\"94\"/><line x1=\"136\" y1=\"66\" x2=\"136\" y2=\"94\"/><line x1=\"156\" y1=\"66\" x2=\"156\" y2=\"94\"/><line x1=\"176\" y1=\"66\" x2=\"176\" y2=\"94\"/><line x1=\"196\" y1=\"66\" x2=\"196\" y2=\"94\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">たびたび</text></svg>"
+  },
+  "etymology": "ラテン語 frequens(ぎっしり詰まった・混み合った) → 間があかずにくり返す → たびたびの・頻繁な → (動詞・発音は後ろ強勢)(場所に)よく行く → 名詞 frequency(頻度・周波数)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "happening often; doing something often."
+    },
+    {
+      "pos": "動詞",
+      "text": "to go to a place often."
+    }
+  ],
+  "cautions": [
+    "frequent=くり返しが多い(often の形容詞版)。a frequent visitor=よく来る人",
+    "frequently=しばしば(=often)",
+    "名詞 frequency=頻度・周波数(with increasing frequency=ますます頻繁に)",
+    "動詞 frequent A=Aによく行く(発音は後ろに強勢)"
+  ],
+  "patterns": [
+    {
+      "form": "a frequent A",
+      "meaning": "頻繁なA・よく〜する人"
+    },
+    {
+      "form": "frequently",
+      "meaning": "しばしば"
+    },
+    {
+      "form": "frequent A",
+      "meaning": "Aによく行く"
+    },
+    {
+      "form": "the frequency of A",
+      "meaning": "Aの頻度"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "頻繁な",
+      "en": "Earthquakes are frequent in Japan.",
+      "ja": "日本では地震がよく起こる。"
+    },
+    {
+      "source": "original",
+      "label": "よく来る人",
+      "en": "He is a frequent visitor to the library.",
+      "ja": "彼は図書館によく来る。"
+    },
+    {
+      "source": "original",
+      "label": "しばしば",
+      "en": "This word is frequently used in conversation.",
+      "ja": "この語は会話でしばしば使われる。"
+    },
+    {
+      "source": "original",
+      "label": "たびたびの",
+      "en": "I'm tired of his frequent complaints.",
+      "ja": "彼のたびたびの文句にはうんざりだ。"
+    },
+    {
+      "source": "original",
+      "label": "頻度",
+      "en": "The frequency of heavy rain has increased.",
+      "ja": "大雨の頻度が増えている。"
+    },
+    {
+      "source": "original",
+      "label": "よく行く",
+      "en": "Students frequent the café near the school.",
+      "ja": "生徒たちは学校近くのカフェによく行く。"
+    }
+  ],
+  "check_points": [
+    "frequently=often がわかるか",
+    "名詞 frequency の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "frequently、frequency が長文・グラフで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1131
+    }
+  ]
+}

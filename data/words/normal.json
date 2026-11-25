@@ -1,0 +1,103 @@
+{
+  "word": "normal",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/ˈnɔːrml/",
+  "core_image": {
+    "text": "物差しの基準どおりで、ふつうの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"80\" x2=\"220\" y2=\"80\" stroke-dasharray=\"6 6\"/><polyline points=\"20,84 60,78 100,82 140,78 180,82 220,80\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">基準どおり</text></svg>"
+  },
+  "etymology": "ラテン語 norma(大工の直角定規・基準) → 基準に合った → ふつうの・標準の・正常な → (名詞)return to normal=元に戻る → abnormal=異常な",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "usual, ordinary and expected."
+    },
+    {
+      "pos": "名詞",
+      "text": "the usual state or level."
+    }
+  ],
+  "cautions": [
+    "ordinary=ありふれた/normal=基準どおりで正常な(⇔ abnormal=異常な)",
+    "return [get back] to normal=平常に戻る(名詞の用法)",
+    "above [below] normal=平年[平常]より上[下]",
+    "normally=ふつうは・正常に"
+  ],
+  "patterns": [
+    {
+      "form": "It is normal (for A) to do",
+      "meaning": "(Aが)〜するのはふつうだ"
+    },
+    {
+      "form": "return to normal",
+      "meaning": "平常に戻る"
+    },
+    {
+      "form": "above [below] normal",
+      "meaning": "平年より上[下]"
+    },
+    {
+      "form": "normally",
+      "meaning": "ふつうは"
+    },
+    {
+      "form": "abnormal",
+      "meaning": "異常な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ふつう",
+      "en": "It's normal to feel nervous before an exam.",
+      "ja": "試験の前に緊張するのはふつうのことだ。"
+    },
+    {
+      "source": "original",
+      "label": "平常に戻る",
+      "en": "Life slowly returned to normal after the storm.",
+      "ja": "嵐のあと、生活はゆっくりと平常に戻った。"
+    },
+    {
+      "source": "original",
+      "label": "平年より",
+      "en": "Temperatures this summer were above normal.",
+      "ja": "今年の夏は気温が平年より高かった。"
+    },
+    {
+      "source": "original",
+      "label": "ふつうは",
+      "en": "I normally walk to school.",
+      "ja": "ふだんは歩いて学校へ行く。"
+    },
+    {
+      "source": "original",
+      "label": "正常な",
+      "en": "The test results were normal.",
+      "ja": "検査結果は正常だった。"
+    },
+    {
+      "source": "original",
+      "label": "異常な",
+      "en": "The doctor found something abnormal in the X-ray.",
+      "ja": "医者はレントゲンに異常を見つけた。"
+    }
+  ],
+  "check_points": [
+    "return to normal の意味を言えるか",
+    "normal と ordinary のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "return to normal、above normal、abnormal が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1140
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "rare",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/rer/",
+  "core_image": {
+    "text": "まばらで、めったに出会えない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"20\" y=\"30\" width=\"200\" height=\"100\"/><circle cx=\"170\" cy=\"60\" r=\"6\"/></g><text x=\"90\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まばら</text></svg>"
+  },
+  "etymology": "ラテン語 rarus(すき間の多い・まばらな) → めったにない・珍しい → (肉が)生焼けの(別語源) → rarely=めったに〜ない",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not happening or found very often; (of meat) cooked only a little."
+    }
+  ],
+  "cautions": [
+    "rare=めったにない・珍しい(rare animals, a rare chance)",
+    "rarely=めったに〜ない(否定語の扱い:文頭に出すと倒置 Rarely does he …)",
+    "It is rare for A to do=Aが〜するのは珍しい",
+    "(ステーキの)rare=レア(生焼け)"
+  ],
+  "patterns": [
+    {
+      "form": "a rare A",
+      "meaning": "珍しいA"
+    },
+    {
+      "form": "It is rare for A to do",
+      "meaning": "Aが〜するのは珍しい"
+    },
+    {
+      "form": "rarely",
+      "meaning": "めったに〜ない"
+    },
+    {
+      "form": "in rare cases",
+      "meaning": "まれに"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "珍しい",
+      "en": "The panda is a rare animal.",
+      "ja": "パンダは珍しい動物だ。"
+    },
+    {
+      "source": "original",
+      "label": "珍しい",
+      "en": "It is rare for him to be late.",
+      "ja": "彼が遅刻するのは珍しい。"
+    },
+    {
+      "source": "original",
+      "label": "めったに〜ない",
+      "en": "My father rarely watches TV.",
+      "ja": "父はめったにテレビを見ない。"
+    },
+    {
+      "source": "original",
+      "label": "めったに〜ない",
+      "en": "Rarely have I seen such a beautiful sunset.",
+      "ja": "こんなに美しい夕日はめったに見たことがない。"
+    },
+    {
+      "source": "original",
+      "label": "まれに",
+      "en": "In rare cases, the medicine can cause side effects.",
+      "ja": "まれにその薬は副作用を起こすことがある。"
+    },
+    {
+      "source": "original",
+      "label": "レア",
+      "en": "I'd like my steak rare, please.",
+      "ja": "ステーキはレアでお願いします。"
+    }
+  ],
+  "check_points": [
+    "rarely の意味と倒置を言えるか",
+    "It is rare for A to do の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "rarely(否定語・倒置)が文法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1133
+    }
+  ]
+}

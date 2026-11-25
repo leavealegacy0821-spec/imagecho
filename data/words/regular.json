@@ -1,0 +1,103 @@
+{
+  "word": "regular",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/ˈreɡjələr/",
+  "core_image": {
+    "text": "物差しを当てたように、決まった間かくで",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"80\" x2=\"220\" y2=\"80\"/><line x1=\"40\" y1=\"66\" x2=\"40\" y2=\"94\"/><line x1=\"80\" y1=\"66\" x2=\"80\" y2=\"94\"/><line x1=\"120\" y1=\"66\" x2=\"120\" y2=\"94\"/><line x1=\"160\" y1=\"66\" x2=\"160\" y2=\"94\"/><line x1=\"200\" y1=\"66\" x2=\"200\" y2=\"94\"/><line x1=\"40\" y1=\"110\" x2=\"80\" y2=\"110\" stroke-dasharray=\"5 5\"/><polyline points=\"73,106.2 80,110 73,113.8\"/><line x1=\"80\" y1=\"110\" x2=\"120\" y2=\"110\" stroke-dasharray=\"5 5\"/><polyline points=\"113,106.2 120,110 113,113.8\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">きっちり同じ間かく</text></svg>"
+  },
+  "etymology": "ラテン語 regula(物差し・規則。rule・regulate と同じ根) → 物差しに合った → 規則正しい・定期的な → いつもの・常連の(名詞:常連客) → 正規の・ふつうの(regular size)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "happening at times that are the same distance apart; done often; normal or usual; officially accepted."
+    },
+    {
+      "pos": "名詞",
+      "text": "a person who often goes to a particular shop or restaurant."
+    }
+  ],
+  "cautions": [
+    "frequent=回数が多い/regular=間かくが決まっている・定期的な(regular exercise / meetings)",
+    "at regular intervals=一定の間かくで",
+    "名詞 a regular=常連客",
+    "regularly=定期的に・きちんと/regular size=ふつうサイズ"
+  ],
+  "patterns": [
+    {
+      "form": "regular exercise",
+      "meaning": "定期的な運動"
+    },
+    {
+      "form": "at regular intervals",
+      "meaning": "一定の間かくで"
+    },
+    {
+      "form": "on a regular basis",
+      "meaning": "定期的に"
+    },
+    {
+      "form": "regularly",
+      "meaning": "定期的に"
+    },
+    {
+      "form": "a regular",
+      "meaning": "常連"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "定期的な",
+      "en": "Regular exercise is good for your health.",
+      "ja": "定期的な運動は健康によい。"
+    },
+    {
+      "source": "original",
+      "label": "一定の間かくで",
+      "en": "The buses leave at regular intervals.",
+      "ja": "バスは一定の間かくで出発する。"
+    },
+    {
+      "source": "original",
+      "label": "定期的に",
+      "en": "We meet on a regular basis to discuss the project.",
+      "ja": "私たちは計画について話し合うため定期的に会っている。"
+    },
+    {
+      "source": "original",
+      "label": "きちんと",
+      "en": "You should see a dentist regularly.",
+      "ja": "定期的に歯医者に行くべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "常連",
+      "en": "He is one of the regulars at this restaurant.",
+      "ja": "彼はこのレストランの常連の一人だ。"
+    },
+    {
+      "source": "original",
+      "label": "ふつうの",
+      "en": "I'd like a regular coffee, please.",
+      "ja": "ふつうサイズのコーヒーをください。"
+    }
+  ],
+  "check_points": [
+    "frequent と regular のちがいを言えるか",
+    "at regular intervals の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "regular exercise、on a regular basis、regularly が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1138
+    }
+  ]
+}

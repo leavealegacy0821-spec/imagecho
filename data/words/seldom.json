@@ -1,0 +1,90 @@
+{
+  "word": "seldom",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˈseldəm/",
+  "core_image": {
+    "text": "めったにない、ほとんど起こらない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"80\" x2=\"220\" y2=\"80\"/><line x1=\"160\" y1=\"66\" x2=\"160\" y2=\"94\"/></g><text x=\"90\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">めったにない</text></svg>"
+  },
+  "etymology": "古い英語 seldan(まれに) → めったに〜ない(rarely とほぼ同じ。やや堅い・書き言葉)",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "not often; almost never."
+    }
+  ],
+  "cautions": [
+    "seldom=rarely=めったに〜ない(否定の意味をもつので not は付けない)",
+    "文頭に出すと倒置:Seldom does she complain.",
+    "seldom, if ever=たとえあるとしてもめったに〜ない",
+    "位置は一般動詞の前・be動詞/助動詞の後(always と同じ位置)"
+  ],
+  "patterns": [
+    {
+      "form": "seldom do",
+      "meaning": "めったに〜しない"
+    },
+    {
+      "form": "Seldom does S V",
+      "meaning": "めったに…しない(倒置)"
+    },
+    {
+      "form": "seldom, if ever",
+      "meaning": "めったに〜ない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "めったに〜ない",
+      "en": "My grandfather seldom goes out these days.",
+      "ja": "祖父は最近めったに外出しない。"
+    },
+    {
+      "source": "original",
+      "label": "めったに〜ない",
+      "en": "She is seldom late for school.",
+      "ja": "彼女はめったに学校に遅れない。"
+    },
+    {
+      "source": "original",
+      "label": "倒置",
+      "en": "Seldom does he speak in class.",
+      "ja": "彼は授業中めったに発言しない。"
+    },
+    {
+      "source": "original",
+      "label": "たとえあっても",
+      "en": "He seldom, if ever, eats breakfast.",
+      "ja": "彼は朝食をとることがあるとしてもめったにない。"
+    },
+    {
+      "source": "original",
+      "label": "めったに〜ない",
+      "en": "It seldom snows in this city.",
+      "ja": "この町ではめったに雪が降らない。"
+    },
+    {
+      "source": "original",
+      "label": "めったに〜ない",
+      "en": "We seldom see each other now.",
+      "ja": "今ではめったに会わない。"
+    }
+  ],
+  "check_points": [
+    "seldom に not を付けないことがわかるか",
+    "Seldom does S V の倒置ができるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "否定語としての扱い・倒置・seldom, if ever が文法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1134
+    }
+  ]
+}
