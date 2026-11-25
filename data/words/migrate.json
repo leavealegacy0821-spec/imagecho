@@ -1,0 +1,98 @@
+{
+  "word": "migrate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈmaɪɡreɪt/",
+  "core_image": {
+    "text": "すみかを変えて、群れで遠くへ移り住む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M40 60 l10 -6 l10 6\"/><path d=\"M70 50 l10 -6 l10 6\"/><path d=\"M60 80 l10 -6 l10 6\"/><path d=\"M100 66 l10 -6 l10 6\"/><line x1=\"130\" y1=\"70\" x2=\"210\" y2=\"70\"/><polyline points=\"203,66.2 210,70 203,73.8\"/></g><text x=\"120\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">群れで移る</text></svg>"
+  },
+  "etymology": "ラテン語 migrare(移り住む) → (鳥・動物が季節ごとに)渡る・移動する → (人が仕事などで)移住する → immigrate=(外から)移住してくる/emigrate=(外へ)移住していく",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "(of birds or animals) to travel to a different place at the same time each year; (of people) to move to live or work in another place."
+    }
+  ],
+  "cautions": [
+    "move=引っ越す(個人)/migrate=(鳥の群れ・多くの人が)遠くへ移り住む",
+    "immigrate to A=Aへ(移民として)入ってくる/emigrate from A=Aから出ていく",
+    "名詞 migration=移住・渡り/migrant=移住者・出稼ぎ労働者",
+    "migrate from A to B=AからBへ移動する"
+  ],
+  "patterns": [
+    {
+      "form": "migrate to A",
+      "meaning": "Aへ移動する"
+    },
+    {
+      "form": "migrate from A to B",
+      "meaning": "AからBへ移る"
+    },
+    {
+      "form": "migrating birds",
+      "meaning": "渡り鳥"
+    },
+    {
+      "form": "migration",
+      "meaning": "移住・渡り"
+    },
+    {
+      "form": "migrant workers",
+      "meaning": "出稼ぎ労働者"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "渡る",
+      "en": "Many birds migrate south in winter.",
+      "ja": "多くの鳥は冬に南へ渡る。"
+    },
+    {
+      "source": "original",
+      "label": "移り住む",
+      "en": "Many young people migrate from rural areas to cities.",
+      "ja": "多くの若者が地方から都市へ移り住む。"
+    },
+    {
+      "source": "original",
+      "label": "移住",
+      "en": "The migration of people to cities is increasing.",
+      "ja": "都市への人々の移住が増えている。"
+    },
+    {
+      "source": "original",
+      "label": "出稼ぎ労働者",
+      "en": "Migrant workers play an important role in the economy.",
+      "ja": "出稼ぎ労働者は経済で重要な役割を果たしている。"
+    },
+    {
+      "source": "original",
+      "label": "移住した",
+      "en": "His family immigrated to Canada when he was a child.",
+      "ja": "彼の家族は彼が子どものころカナダへ移住した。"
+    },
+    {
+      "source": "original",
+      "label": "渡り",
+      "en": "Scientists study the migration of whales.",
+      "ja": "科学者はクジラの回遊を研究している。"
+    }
+  ],
+  "check_points": [
+    "immigrate と emigrate のちがいを言えるか",
+    "migrate と move のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "migration、immigrate / emigrate の区別が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1189
+    }
+  ]
+}

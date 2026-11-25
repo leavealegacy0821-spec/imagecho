@@ -727,7 +727,7 @@
     },
     {
       "title": "使い分け:運ぶ・伝える",
-      "note": "carry=持って運ぶ ／ bring=こちらへ持ってくる ／ take=向こうへ持っていく ／ convey=(意味・物を)運んで伝える ／ transmit=(電波・病気を)送り伝える ／ transfer=別の場所へ移す ／ deliver=送り届ける",
+      "note": "carry=持って運ぶ ／ bring=こちらへ持ってくる ／ take=向こうへ持っていく ／ convey=(意味・物を)運んで伝える ／ transmit=(電波・病気を)送り伝える ／ transfer=別の場所へ移す ／ deliver=送り届ける ／ transport=乗り物でまとめて輸送する",
       "words": [
         "carry",
         "bring",
@@ -735,7 +735,8 @@
         "convey",
         "transmit",
         "transfer",
-        "deliver"
+        "deliver",
+        "transport"
       ]
     },
     {
@@ -1946,6 +1947,31 @@
         "translate",
         "interpret",
         "convey"
+      ]
+    },
+    {
+      "title": "使い分け:旅",
+      "note": "travel=遠くへ移ること一般(不可算) ／ trip=行って帰るひと回りの旅(可算) ／ journey=長い道のりそのもの ／ tour=あちこちぐるりと見物 ／ voyage=海・宇宙を渡る長旅 ／ excursion=いつもの所から出る短い遠足 ／ expedition=目的をもった探検・遠征 ／ flight=空のひとっ飛び・便",
+      "words": [
+        "travel",
+        "trip",
+        "journey",
+        "tour",
+        "voyage",
+        "excursion",
+        "expedition",
+        "flight"
+      ]
+    },
+    {
+      "title": "使い分け:移る・移り住む",
+      "note": "move=動く・引っ越す(広い) ／ shift=位置をずらす ／ migrate=群れで遠くへ移り住む(渡り鳥・移住) ／ commute=毎日通う ／ settle=住みついて落ち着く",
+      "words": [
+        "move",
+        "shift",
+        "migrate",
+        "commute",
+        "settle"
       ]
     },
     {

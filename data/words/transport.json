@@ -1,0 +1,99 @@
+{
+  "word": "transport",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈtrænspɔːrt/",
+  "core_image": {
+    "text": "向こう側へ、物や人をまとめて運ぶ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"90\" width=\"110\" height=\"40\"/><rect x=\"150\" y=\"104\" width=\"40\" height=\"26\"/><circle cx=\"70\" cy=\"134\" r=\"8\"/><circle cx=\"170\" cy=\"134\" r=\"8\"/><rect x=\"50\" y=\"70\" width=\"30\" height=\"20\"/><rect x=\"90\" y=\"70\" width=\"30\" height=\"20\"/><line x1=\"196\" y1=\"110\" x2=\"226\" y2=\"110\"/><polyline points=\"219,106.2 226,110 219,113.8\"/></g><text x=\"110\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">運ぶ</text></svg>"
+  },
+  "etymology": "trans(向こうへ)+port(運ぶ。import・export・portable と同じ根) → 向こうへ運ぶ → 輸送する(動詞・後ろ強勢) → 輸送・交通機関(名詞・前強勢) → transportation(米)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a system for carrying people or goods; the activity of carrying people or goods."
+    },
+    {
+      "pos": "動詞",
+      "text": "to take goods or people from one place to another in a vehicle."
+    }
+  ],
+  "cautions": [
+    "carry=持って運ぶ(広い)/transport=(乗り物で大量に)輸送する",
+    "public transport(英)=public transportation(米)=公共交通機関",
+    "名詞と動詞で強勢が変わる(名詞は前、動詞は後ろ)",
+    "be transported to A=Aへ運ばれる"
+  ],
+  "patterns": [
+    {
+      "form": "transport A to B",
+      "meaning": "AをBへ輸送する"
+    },
+    {
+      "form": "public transport",
+      "meaning": "公共交通機関"
+    },
+    {
+      "form": "a means of transport",
+      "meaning": "交通手段"
+    },
+    {
+      "form": "be transported",
+      "meaning": "運ばれる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "輸送する",
+      "en": "Trucks transport food from farms to cities.",
+      "ja": "トラックは農場から都市へ食料を運ぶ。"
+    },
+    {
+      "source": "original",
+      "label": "公共交通機関",
+      "en": "Public transport in Tokyo is very convenient.",
+      "ja": "東京の公共交通機関はとても便利だ。"
+    },
+    {
+      "source": "original",
+      "label": "交通手段",
+      "en": "The bicycle is a cheap means of transport.",
+      "ja": "自転車は安い交通手段だ。"
+    },
+    {
+      "source": "original",
+      "label": "運ばれる",
+      "en": "The injured were transported to the hospital by helicopter.",
+      "ja": "負傷者はヘリコプターで病院へ運ばれた。"
+    },
+    {
+      "source": "original",
+      "label": "輸送",
+      "en": "The cost of transport has risen.",
+      "ja": "輸送費が上がった。"
+    },
+    {
+      "source": "original",
+      "label": "交通",
+      "en": "Transportation in the city has improved.",
+      "ja": "その市の交通は改善された。"
+    }
+  ],
+  "check_points": [
+    "public transport の意味を言えるか",
+    "carry と transport のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "public transport(ation)、means of transport が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1190
+    }
+  ]
+}

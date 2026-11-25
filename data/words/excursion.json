@@ -1,0 +1,93 @@
+{
+  "word": "excursion",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ɪkˈskɜːrʒn/",
+  "core_image": {
+    "text": "いつもの道から外へ走り出る、短い遠足",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"20\" y1=\"110\" x2=\"220\" y2=\"110\"/><path d=\"M80 110 Q120 40 160 110\" stroke-dasharray=\"5 5\"/><circle cx=\"120\" cy=\"60\" r=\"6\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ちょっと外へ</text></svg>"
+  },
+  "etymology": "ex(外へ)+cur(走る。current・course と同じ根) → 外へ走り出ること → (いつもの所から出る)小旅行・遠足 → (話の)脱線",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a short journey made for pleasure, often by a group of people."
+    }
+  ],
+  "cautions": [
+    "trip=行って帰る旅(広い)/excursion=団体での短い小旅行・遠足(日帰りが多い)",
+    "go on an excursion=遠足に行く",
+    "a school excursion=学校の遠足",
+    "ex(外へ)+cur(走る):current(流れ)と同じ根"
+  ],
+  "patterns": [
+    {
+      "form": "go on an excursion",
+      "meaning": "遠足に行く"
+    },
+    {
+      "form": "an excursion to A",
+      "meaning": "Aへの小旅行"
+    },
+    {
+      "form": "a day excursion",
+      "meaning": "日帰りの小旅行"
+    },
+    {
+      "form": "a school excursion",
+      "meaning": "遠足"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "遠足",
+      "en": "We went on an excursion to the zoo.",
+      "ja": "私たちは動物園へ遠足に行った。"
+    },
+    {
+      "source": "original",
+      "label": "小旅行",
+      "en": "The hotel offers excursions to nearby islands.",
+      "ja": "そのホテルは近くの島への小旅行を用意している。"
+    },
+    {
+      "source": "original",
+      "label": "日帰り",
+      "en": "We joined a day excursion to the lake.",
+      "ja": "湖への日帰りツアーに参加した。"
+    },
+    {
+      "source": "original",
+      "label": "遠足",
+      "en": "The school excursion was canceled because of rain.",
+      "ja": "学校の遠足は雨で中止になった。"
+    },
+    {
+      "source": "original",
+      "label": "小旅行",
+      "en": "The museum visit was a pleasant excursion.",
+      "ja": "博物館見学は楽しい小旅行だった。"
+    },
+    {
+      "source": "original",
+      "label": "遠出",
+      "en": "On Sunday we made a short excursion to the beach.",
+      "ja": "日曜日に海岸へちょっと遠出した。"
+    }
+  ],
+  "check_points": [
+    "trip と excursion のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "go on an excursion が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1186
+    }
+  ]
+}

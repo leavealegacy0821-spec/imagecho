@@ -1,0 +1,103 @@
+{
+  "word": "trip",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/trɪp/",
+  "core_image": {
+    "text": "出かけて戻ってくる、ひと回りの短い旅",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"20\" y=\"100\" width=\"40\" height=\"40\"/><polygon points=\"16,100 40,80 64,100\"/><path d=\"M60 110 Q130 30 200 110\"/><path d=\"M200 120 Q130 60 60 120\" stroke-dasharray=\"4 4\"/><circle cx=\"200\" cy=\"110\" r=\"6\"/></g><text x=\"130\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">行って帰る</text></svg>"
+  },
+  "etymology": "古いフランス語 triper(軽く跳ねる・つまずく) → 軽やかな足どり → 行って帰る短い旅・出張 → (動詞)つまずく(trip over A)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a journey to a place and back again, often for a short time."
+    },
+    {
+      "pos": "動詞",
+      "text": "to hit your foot on something and fall or almost fall."
+    }
+  ],
+  "cautions": [
+    "travel=旅行すること(不可算)/trip=行って帰る1回の旅(可算・短め)/journey=(長い)道のり",
+    "take [go on] a trip=旅行に出る/a business trip=出張/a school trip=修学旅行",
+    "動詞 trip (over A)=(Aに)つまずく",
+    "a day trip=日帰り旅行/a round trip=往復旅行"
+  ],
+  "patterns": [
+    {
+      "form": "take a trip to A",
+      "meaning": "Aへ旅行する"
+    },
+    {
+      "form": "go on a trip",
+      "meaning": "旅行に行く"
+    },
+    {
+      "form": "a business trip",
+      "meaning": "出張"
+    },
+    {
+      "form": "a school trip",
+      "meaning": "修学旅行"
+    },
+    {
+      "form": "trip over A",
+      "meaning": "Aにつまずく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "旅行",
+      "en": "We took a trip to Okinawa last summer.",
+      "ja": "去年の夏、沖縄へ旅行した。"
+    },
+    {
+      "source": "original",
+      "label": "出張",
+      "en": "My father is on a business trip to Osaka.",
+      "ja": "父は大阪へ出張中だ。"
+    },
+    {
+      "source": "original",
+      "label": "修学旅行",
+      "en": "Our school trip is to Hiroshima.",
+      "ja": "私たちの修学旅行は広島だ。"
+    },
+    {
+      "source": "original",
+      "label": "日帰り旅行",
+      "en": "Let's go on a day trip to the mountains.",
+      "ja": "山へ日帰り旅行に行こう。"
+    },
+    {
+      "source": "original",
+      "label": "つまずく",
+      "en": "I tripped over a stone and fell.",
+      "ja": "石につまずいて転んだ。"
+    },
+    {
+      "source": "original",
+      "label": "往復",
+      "en": "How much is a round trip ticket?",
+      "ja": "往復切符はいくらですか。"
+    }
+  ],
+  "check_points": [
+    "travel と trip のちがいを言えるか",
+    "trip over A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "trip(可算)と travel(不可算)、business trip が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1182
+    }
+  ]
+}

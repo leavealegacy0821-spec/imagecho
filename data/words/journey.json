@@ -1,0 +1,102 @@
+{
+  "word": "journey",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈdʒɜːrni/",
+  "core_image": {
+    "text": "一日がかりで進む、長い道のりそのもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M50 136 Q76 100 106 120 Q140 150 170 90 Q190 50 220 40\"/><circle cx=\"30\" cy=\"52\" r=\"10\"/><line x1=\"30\" y1=\"62\" x2=\"30\" y2=\"106\"/><line x1=\"30\" y1=\"106\" x2=\"20\" y2=\"140\"/><line x1=\"30\" y1=\"106\" x2=\"40\" y2=\"140\"/></g><text x=\"150\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">長い道のり</text></svg>"
+  },
+  "etymology": "古いフランス語 journee(一日・一日の旅。ラテン語 diurnus=一日の:journal と同じ根) → 一日かけて進む道のり → (長い)旅・旅程 → (人生・心の)歩み・道のり",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an act of traveling from one place to another, especially over a long distance; a long process of change."
+    },
+    {
+      "pos": "動詞",
+      "text": "to travel, especially a long distance."
+    }
+  ],
+  "cautions": [
+    "trip=行って帰る旅(目的地中心)/journey=A地点からB地点への移動そのもの・長い道のり(片道でも)",
+    "a long [two-hour] journey=長い[2時間の]道のり",
+    "比ゆ:life's journey=人生の旅/a journey of self-discovery",
+    "journal(日誌)と同じ「1日」の根"
+  ],
+  "patterns": [
+    {
+      "form": "a long journey",
+      "meaning": "長旅"
+    },
+    {
+      "form": "make a journey",
+      "meaning": "旅をする"
+    },
+    {
+      "form": "on the journey",
+      "meaning": "道中で"
+    },
+    {
+      "form": "the journey to A",
+      "meaning": "Aまでの道のり"
+    },
+    {
+      "form": "a journey of A",
+      "meaning": "Aの旅・過程"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "長旅",
+      "en": "It was a long journey across the desert.",
+      "ja": "砂漠を横断する長い旅だった。"
+    },
+    {
+      "source": "original",
+      "label": "道のり",
+      "en": "The journey to school takes about an hour.",
+      "ja": "学校までの道のりは約1時間かかる。"
+    },
+    {
+      "source": "original",
+      "label": "道中",
+      "en": "We stopped for lunch on the journey.",
+      "ja": "道中で昼食をとった。"
+    },
+    {
+      "source": "original",
+      "label": "旅",
+      "en": "They made the journey on foot.",
+      "ja": "彼らは歩いてその旅をした。"
+    },
+    {
+      "source": "original",
+      "label": "歩み",
+      "en": "Learning a language is a long journey.",
+      "ja": "言語の習得は長い道のりだ。"
+    },
+    {
+      "source": "original",
+      "label": "旅",
+      "en": "Have a safe journey!",
+      "ja": "気をつけて行ってらっしゃい!"
+    }
+  ],
+  "check_points": [
+    "trip と journey のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "trip / travel / journey / tour の使い分けが語彙で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1183
+    }
+  ]
+}

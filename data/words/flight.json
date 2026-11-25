@@ -1,0 +1,98 @@
+{
+  "word": "flight",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/flaɪt/",
+  "core_image": {
+    "text": "空を飛んでいく、ひとっ飛び(と、逃げ去ること)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon points=\"40,80 180,70 200,80 180,90\"/><polygon points=\"110,74 90,40 120,74\"/><polygon points=\"110,86 90,120 120,86\"/><line x1=\"30\" y1=\"60\" x2=\"10\" y2=\"60\"/><line x1=\"30\" y1=\"100\" x2=\"10\" y2=\"100\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">飛ぶ</text></svg>"
+  },
+  "etymology": "fly(飛ぶ)の名詞 → 飛ぶこと・飛行 → 飛行機の便・空の旅 → (階段の)ひと続き/flee(逃げる)の名詞でもある → 逃走(take flight)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a journey in a plane; a plane that makes a particular journey; the act of flying; the act of escaping."
+    }
+  ],
+  "cautions": [
+    "flight=飛行機の便・空の旅(a flight to London / Flight 123)",
+    "book a flight=便を予約する/a direct [connecting] flight=直行[乗り継ぎ]便",
+    "flee(逃げる)の名詞:take flight=逃げ出す",
+    "a flight of stairs=ひと続きの階段"
+  ],
+  "patterns": [
+    {
+      "form": "a flight to A",
+      "meaning": "A行きの便"
+    },
+    {
+      "form": "book a flight",
+      "meaning": "便を予約する"
+    },
+    {
+      "form": "a direct flight",
+      "meaning": "直行便"
+    },
+    {
+      "form": "take flight",
+      "meaning": "逃げ出す"
+    },
+    {
+      "form": "a flight of stairs",
+      "meaning": "ひと続きの階段"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "便",
+      "en": "I booked a flight to Hawaii.",
+      "ja": "ハワイ行きの便を予約した。"
+    },
+    {
+      "source": "original",
+      "label": "空の旅",
+      "en": "How was your flight?",
+      "ja": "空の旅はどうだった?"
+    },
+    {
+      "source": "original",
+      "label": "直行便",
+      "en": "There is no direct flight from here to Paris.",
+      "ja": "ここからパリへの直行便はない。"
+    },
+    {
+      "source": "original",
+      "label": "飛行",
+      "en": "The Wright brothers made the first flight in 1903.",
+      "ja": "ライト兄弟は1903年に初飛行を成功させた。"
+    },
+    {
+      "source": "original",
+      "label": "逃げ出す",
+      "en": "The birds took flight when they heard the gun.",
+      "ja": "銃声を聞いて鳥たちは飛び立って逃げた。"
+    },
+    {
+      "source": "original",
+      "label": "ひと続きの階段",
+      "en": "She climbed three flights of stairs.",
+      "ja": "彼女は階段を3階分のぼった。"
+    }
+  ],
+  "check_points": [
+    "flight の「便」の意味を言えるか",
+    "take flight の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "book a flight など会話・旅行の場面で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1188
+    }
+  ]
+}

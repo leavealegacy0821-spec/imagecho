@@ -1,0 +1,103 @@
+{
+  "word": "tour",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/tʊr/",
+  "core_image": {
+    "text": "あちこち回って、ぐるりと見物する旅",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M120 40 A60 40 0 1 1 119 40\"/><circle cx=\"60\" cy=\"80\" r=\"6\"/><circle cx=\"120\" cy=\"40\" r=\"6\"/><circle cx=\"180\" cy=\"80\" r=\"6\"/><circle cx=\"120\" cy=\"120\" r=\"6\"/></g><text x=\"120\" y=\"82\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぐるり</text></svg>"
+  },
+  "etymology": "古いフランス語 tour(回ること。turn と同じ根) → ぐるりと回る → 見物して回る旅行・ツアー → (建物の)見学/(演奏の)巡業 → tourist=観光客/tourism=観光業",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a journey for pleasure in which you visit several different places; a short visit around a building; a series of performances in different places."
+    },
+    {
+      "pos": "動詞",
+      "text": "to travel around a place."
+    }
+  ],
+  "cautions": [
+    "trip=行って帰る旅/tour=いくつもの場所をぐるりと回る観光・見学",
+    "a guided tour=ガイドつきの見学/on tour=巡業中",
+    "tourist=観光客/tourism=観光業(長文で頻出)",
+    "動詞 tour A=Aを見て回る"
+  ],
+  "patterns": [
+    {
+      "form": "a tour of A",
+      "meaning": "Aの見学・周遊"
+    },
+    {
+      "form": "go on a tour",
+      "meaning": "ツアーに出かける"
+    },
+    {
+      "form": "a guided tour",
+      "meaning": "ガイドつき見学"
+    },
+    {
+      "form": "on tour",
+      "meaning": "巡業中"
+    },
+    {
+      "form": "tour A",
+      "meaning": "Aを見て回る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "周遊",
+      "en": "We went on a bus tour of the city.",
+      "ja": "私たちは市内のバスツアーに参加した。"
+    },
+    {
+      "source": "original",
+      "label": "見学",
+      "en": "The museum offers free guided tours.",
+      "ja": "その博物館は無料のガイドつき見学を行っている。"
+    },
+    {
+      "source": "original",
+      "label": "巡業中",
+      "en": "The band is on tour in Asia.",
+      "ja": "そのバンドはアジアで公演ツアー中だ。"
+    },
+    {
+      "source": "original",
+      "label": "見て回る",
+      "en": "They toured Europe for a month.",
+      "ja": "彼らはひと月かけてヨーロッパを回った。"
+    },
+    {
+      "source": "original",
+      "label": "観光客",
+      "en": "The town is full of tourists in summer.",
+      "ja": "夏、その町は観光客でいっぱいだ。"
+    },
+    {
+      "source": "original",
+      "label": "観光業",
+      "en": "Tourism is important to the local economy.",
+      "ja": "観光業は地元経済にとって重要だ。"
+    }
+  ],
+  "check_points": [
+    "trip と tour のちがいを言えるか",
+    "tourism の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "tourist / tourism が長文で多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1184
+    }
+  ]
+}

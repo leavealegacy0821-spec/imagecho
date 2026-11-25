@@ -1,0 +1,103 @@
+{
+  "word": "travel",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈtrævl/",
+  "core_image": {
+    "text": "遠くへ移って、あちこち動いていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"70\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"36\" y2=\"94\"/><rect x=\"66\" y=\"96\" width=\"20\" height=\"26\"/><path d=\"M90 60 Q150 20 210 60\" stroke-dasharray=\"5 5\"/></g><text x=\"160\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">遠くへ動く</text></svg>"
+  },
+  "etymology": "travail(苦労・骨折り)と同じ語 → 昔の旅は骨の折れるもの → 旅行する → (光・音・知らせが)伝わる・進む → (名詞)旅行すること(不可算・一般)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to go from one place to another, especially over a long distance; (of light, sound, news) to move."
+    },
+    {
+      "pos": "名詞",
+      "text": "the activity of traveling."
+    }
+  ],
+  "cautions": [
+    "名詞 travel=旅行すること一般(不可算)。1回の旅行は a trip(× a travel)",
+    "travels=(長い)旅行・旅行記(Gulliver's Travels)",
+    "光・音・知らせが「伝わる」:Light travels faster than sound.",
+    "travel abroad=海外旅行をする(abroad は副詞:× to abroad)"
+  ],
+  "patterns": [
+    {
+      "form": "travel to A",
+      "meaning": "Aへ旅行する"
+    },
+    {
+      "form": "travel abroad",
+      "meaning": "海外旅行する"
+    },
+    {
+      "form": "travel by A",
+      "meaning": "A(交通手段)で移動する"
+    },
+    {
+      "form": "A travels",
+      "meaning": "A(光・音)が伝わる"
+    },
+    {
+      "form": "air travel",
+      "meaning": "空の旅"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "旅行する",
+      "en": "I want to travel around Europe someday.",
+      "ja": "いつかヨーロッパを旅して回りたい。"
+    },
+    {
+      "source": "original",
+      "label": "海外旅行",
+      "en": "More young people travel abroad than before.",
+      "ja": "以前より多くの若者が海外旅行をする。"
+    },
+    {
+      "source": "original",
+      "label": "移動する",
+      "en": "We traveled by train from Tokyo to Kyoto.",
+      "ja": "東京から京都まで電車で移動した。"
+    },
+    {
+      "source": "original",
+      "label": "伝わる",
+      "en": "Light travels faster than sound.",
+      "ja": "光は音より速く伝わる。"
+    },
+    {
+      "source": "original",
+      "label": "伝わる",
+      "en": "News travels fast in a small town.",
+      "ja": "小さな町では知らせがすぐに広まる。"
+    },
+    {
+      "source": "original",
+      "label": "旅行",
+      "en": "Space travel may become common in the future.",
+      "ja": "将来、宇宙旅行は当たり前になるかもしれない。"
+    }
+  ],
+  "check_points": [
+    "a travel と言わないことがわかるか",
+    "travel abroad の形がわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "travel(不可算)と trip の区別、travel abroad が文法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1181
+    }
+  ]
+}

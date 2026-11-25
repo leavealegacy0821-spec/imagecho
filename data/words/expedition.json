@@ -1,0 +1,93 @@
+{
+  "word": "expedition",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˌekspəˈdɪʃn/",
+  "core_image": {
+    "text": "足を外へ踏み出して、目的をもって行く探検",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"100,140 150,50 200,140\"/><line x1=\"150\" y1=\"50\" x2=\"150\" y2=\"30\"/><polygon points=\"150,30 170,36 150,42\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"64\" y2=\"60\"/><line x1=\"64\" y1=\"60\" x2=\"64\" y2=\"140\"/></g><text x=\"80\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">探検</text></svg>"
+  },
+  "etymology": "ex(外へ)+ped(足。pedal・pedestrian と同じ根) → 足かせを外す・送り出す → 目的をもった遠征・探検(隊)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an organized journey made by a group of people for a particular purpose, such as exploring; the people who make it."
+    }
+  ],
+  "cautions": [
+    "trip=旅(広い)/expedition=探検・調査など目的をもった組織的な遠征(またはその隊)",
+    "an expedition to the South Pole=南極探検",
+    "go on an expedition=探検に出る",
+    "a shopping expedition=(おどけて)買い物遠征"
+  ],
+  "patterns": [
+    {
+      "form": "an expedition to A",
+      "meaning": "Aへの探検"
+    },
+    {
+      "form": "go on an expedition",
+      "meaning": "探検に出る"
+    },
+    {
+      "form": "lead an expedition",
+      "meaning": "探検隊を率いる"
+    },
+    {
+      "form": "a scientific expedition",
+      "meaning": "学術調査隊"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "探検",
+      "en": "He went on an expedition to the North Pole.",
+      "ja": "彼は北極探検に出かけた。"
+    },
+    {
+      "source": "original",
+      "label": "探検隊を率いる",
+      "en": "She led an expedition to climb Mt. Everest.",
+      "ja": "彼女はエベレスト登頂をめざす遠征隊を率いた。"
+    },
+    {
+      "source": "original",
+      "label": "調査隊",
+      "en": "A scientific expedition was sent to study the volcano.",
+      "ja": "その火山を調べるために学術調査隊が送られた。"
+    },
+    {
+      "source": "original",
+      "label": "探検隊",
+      "en": "The expedition reached the top after three weeks.",
+      "ja": "探検隊は3週間後に頂上に到達した。"
+    },
+    {
+      "source": "original",
+      "label": "探検",
+      "en": "The expedition was dangerous but successful.",
+      "ja": "その探検は危険だったが成功した。"
+    },
+    {
+      "source": "original",
+      "label": "買い物遠征",
+      "en": "We went on a shopping expedition to the big city.",
+      "ja": "私たちは大都市へ買い物に遠征した。"
+    }
+  ],
+  "check_points": [
+    "trip と expedition のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "探検・調査の expedition が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1187
+    }
+  ]
+}
