@@ -1,0 +1,93 @@
+{
+  "word": "angry",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈæŋɡri/",
+  "core_image": {
+    "text": "むかっとして、怒っている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"40\"/><line x1=\"98\" y1=\"62\" x2=\"114\" y2=\"70\"/><line x1=\"142\" y1=\"62\" x2=\"126\" y2=\"70\"/><circle cx=\"106\" cy=\"76\" r=\"3\"/><circle cx=\"134\" cy=\"76\" r=\"3\"/><path d=\"M104 102 Q120 92 136 102\"/><path d=\"M160 30 L166 40 L176 34 M168 46 L178 40\"/></g><text x=\"40\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">むかっ</text></svg>"
+  },
+  "etymology": "anger(怒り:古いノルド語 angr=悲しみ・苦しみ) + -y → 怒った",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "having strong feelings of displeasure about something or someone."
+    }
+  ],
+  "cautions": [
+    "be angry with [at] 人=人に怒っている/be angry about [at] 事=事に怒っている",
+    "angry=怒っている(ふつう)/furious=激怒/mad=(米・口語)怒った",
+    "get angry=怒る",
+    "anger=(名詞)怒り"
+  ],
+  "patterns": [
+    {
+      "form": "be angry with A",
+      "meaning": "A(人)に怒っている"
+    },
+    {
+      "form": "be angry about A",
+      "meaning": "A(事)に怒っている"
+    },
+    {
+      "form": "get angry",
+      "meaning": "怒る"
+    },
+    {
+      "form": "make A angry",
+      "meaning": "Aを怒らせる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "人に",
+      "en": "My mother was angry with me for coming home late.",
+      "ja": "帰りが遅くなって母は私に怒っていた。"
+    },
+    {
+      "source": "original",
+      "label": "事に",
+      "en": "People are angry about the tax increase.",
+      "ja": "人々は増税に怒っている。"
+    },
+    {
+      "source": "original",
+      "label": "怒る",
+      "en": "Don't get angry. It was an accident.",
+      "ja": "怒らないで。わざとじゃないんだ。"
+    },
+    {
+      "source": "original",
+      "label": "怒らせる",
+      "en": "His rude words made her angry.",
+      "ja": "彼の失礼な言葉が彼女を怒らせた。"
+    },
+    {
+      "source": "original",
+      "label": "怒り",
+      "en": "She couldn't hide her anger.",
+      "ja": "彼女は怒りを隠せなかった。"
+    },
+    {
+      "source": "original",
+      "label": "声",
+      "en": "I heard angry voices next door.",
+      "ja": "隣から怒った声が聞こえた。"
+    }
+  ],
+  "check_points": [
+    "angry with と angry about の使い分けを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be angry with 人 / about 事 が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1829
+    }
+  ]
+}

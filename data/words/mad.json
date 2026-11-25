@@ -1,0 +1,97 @@
+{
+  "word": "mad",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/mæd/",
+  "core_image": {
+    "text": "頭に血がのぼって、正気をなくした",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"40\"/><path d=\"M100 70 a6 6 0 1 1 1 0\"/><path d=\"M140 70 a6 6 0 1 1 1 0\"/><path d=\"M104 100 Q112 94 120 100 Q128 106 136 100\"/><path d=\"M80 40 L70 30 M160 40 L170 30 M120 36 L120 22\"/></g><text x=\"40\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">カッ</text></svg>"
+  },
+  "etymology": "古い英語 gemǣd(正気でない) → 気が狂った → (正気を失うほど)怒った(米)・(〜に)夢中な(mad about)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "(informal) very angry; mentally ill; very foolish; (mad about) liking something very much."
+    }
+  ],
+  "cautions": [
+    "(米口語)mad=怒った(be mad at A=Aに怒っている)",
+    "be mad about A=Aに夢中だ(be crazy about と同じ)",
+    "go mad=気が狂う・ひどく怒る",
+    "like mad=猛烈に"
+  ],
+  "patterns": [
+    {
+      "form": "be mad at A",
+      "meaning": "Aに怒っている"
+    },
+    {
+      "form": "be mad about A",
+      "meaning": "Aに夢中だ"
+    },
+    {
+      "form": "go mad",
+      "meaning": "気が狂う・かっとなる"
+    },
+    {
+      "form": "drive A mad",
+      "meaning": "Aをいらいらさせる"
+    },
+    {
+      "form": "like mad",
+      "meaning": "猛烈に"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "怒っている",
+      "en": "Are you still mad at me?",
+      "ja": "まだ私のこと怒ってる?"
+    },
+    {
+      "source": "original",
+      "label": "夢中",
+      "en": "She is mad about soccer.",
+      "ja": "彼女はサッカーに夢中だ。"
+    },
+    {
+      "source": "original",
+      "label": "いらいら",
+      "en": "The noise is driving me mad.",
+      "ja": "その音で頭がおかしくなりそうだ。"
+    },
+    {
+      "source": "original",
+      "label": "猛烈に",
+      "en": "We ran like mad to catch the train.",
+      "ja": "電車に乗るために必死で走った。"
+    },
+    {
+      "source": "original",
+      "label": "ばかげた",
+      "en": "You're mad to go out in this storm.",
+      "ja": "この嵐の中出かけるなんてどうかしている。"
+    },
+    {
+      "source": "original",
+      "label": "かっとなる",
+      "en": "My father will go mad when he sees this.",
+      "ja": "これを見たら父はかんかんになるだろう。"
+    }
+  ],
+  "check_points": [
+    "be mad at と be mad about のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be mad about、drive A mad が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1831
+    }
+  ]
+}

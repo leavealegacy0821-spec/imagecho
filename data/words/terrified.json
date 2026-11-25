@@ -1,0 +1,93 @@
+{
+  "word": "terrified",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈterɪfaɪd/",
+  "core_image": {
+    "text": "恐怖で、身がすくんで動けない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"100\" cy=\"80\" r=\"34\"/><circle cx=\"88\" cy=\"72\" r=\"7\"/><circle cx=\"112\" cy=\"72\" r=\"7\"/><circle cx=\"88\" cy=\"72\" r=\"2\"/><circle cx=\"112\" cy=\"72\" r=\"2\"/><ellipse cx=\"100\" cy=\"98\" rx=\"8\" ry=\"10\"/><path d=\"M50 60 Q46 80 50 100 M150 60 Q154 80 150 100\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひいっ</text></svg>"
+  },
+  "etymology": "terrify(おびえさせる:ラテン語 terrere=こわがらせる。terror・terrible と同じ根) の過去分詞 → ひどくこわがった",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "very frightened."
+    }
+  ],
+  "cautions": [
+    "scared < frightened < terrified(いちばん強い恐怖)",
+    "be terrified of A=Aがひどくこわい",
+    "terrifying=(物事が)ぞっとするほど恐ろしい",
+    "terror=恐怖・テロ/terrible=ひどい"
+  ],
+  "patterns": [
+    {
+      "form": "be terrified of A",
+      "meaning": "Aがひどくこわい"
+    },
+    {
+      "form": "be terrified to do",
+      "meaning": "こわくて〜できない"
+    },
+    {
+      "form": "terrifying",
+      "meaning": "身の毛もよだつ"
+    },
+    {
+      "form": "terror",
+      "meaning": "恐怖"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ひどくこわい",
+      "en": "I'm terrified of heights.",
+      "ja": "高い所がひどくこわい。"
+    },
+    {
+      "source": "original",
+      "label": "身がすくむ",
+      "en": "The terrified passengers screamed.",
+      "ja": "恐怖にかられた乗客たちが悲鳴をあげた。"
+    },
+    {
+      "source": "original",
+      "label": "恐ろしい",
+      "en": "It was a terrifying moment.",
+      "ja": "身の毛もよだつ瞬間だった。"
+    },
+    {
+      "source": "original",
+      "label": "恐怖",
+      "en": "The people ran away in terror.",
+      "ja": "人々は恐怖にかられて逃げた。"
+    },
+    {
+      "source": "original",
+      "label": "できない",
+      "en": "She was terrified to open the letter.",
+      "ja": "彼女はこわくてその手紙を開けられなかった。"
+    },
+    {
+      "source": "original",
+      "label": "こわくて",
+      "en": "Terrified of failing, she studied all night.",
+      "ja": "失敗がこわくて、彼女は徹夜で勉強した。"
+    }
+  ],
+  "check_points": [
+    "scared / frightened / terrified の強さの順を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "terrified / terrifying、terror が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1835
+    }
+  ]
+}

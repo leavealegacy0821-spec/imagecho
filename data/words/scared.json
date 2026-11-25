@@ -1,0 +1,93 @@
+{
+  "word": "scared",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/skerd/",
+  "core_image": {
+    "text": "こわくて、びくびくしている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"100\" cy=\"80\" r=\"34\"/><circle cx=\"88\" cy=\"74\" r=\"5\"/><circle cx=\"112\" cy=\"74\" r=\"5\"/><ellipse cx=\"100\" cy=\"96\" rx=\"6\" ry=\"8\"/><path d=\"M60 60 L54 54 M140 60 L146 54\"/><path d=\"M150 100 Q160 90 170 100 Q180 110 190 100\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">びくびく</text></svg>"
+  },
+  "etymology": "scare(こわがらせる:古いノルド語 skirra=おびえさせる) の過去分詞 → こわがらされた → こわがっている",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "frightened or afraid."
+    }
+  ],
+  "cautions": [
+    "afraid=こわい(名詞の前に置かない)/scared=こわがっている(口語・名詞の前にも置ける)/frightened=(急に)ぎょっとしておびえた/terrified=恐怖で身がすくむ",
+    "be scared of A=Aがこわい",
+    "be scared to do=こわくて〜できない",
+    "scary=(物事が)こわい"
+  ],
+  "patterns": [
+    {
+      "form": "be scared of A",
+      "meaning": "Aがこわい"
+    },
+    {
+      "form": "be scared to do",
+      "meaning": "こわくて〜できない"
+    },
+    {
+      "form": "scared stiff",
+      "meaning": "こわくて身がすくんで"
+    },
+    {
+      "form": "scare A",
+      "meaning": "Aをこわがらせる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "こわい",
+      "en": "I'm scared of spiders.",
+      "ja": "クモがこわい。"
+    },
+    {
+      "source": "original",
+      "label": "できない",
+      "en": "She was too scared to say anything.",
+      "ja": "彼女はこわくて何も言えなかった。"
+    },
+    {
+      "source": "original",
+      "label": "こわがらせる",
+      "en": "You scared me! I didn't hear you come in.",
+      "ja": "びっくりさせないで!入ってきたのに気づかなかった。"
+    },
+    {
+      "source": "original",
+      "label": "名詞の前",
+      "en": "A scared child was crying in the corner.",
+      "ja": "おびえた子どもが隅で泣いていた。"
+    },
+    {
+      "source": "original",
+      "label": "身がすくむ",
+      "en": "I was scared stiff during the earthquake.",
+      "ja": "地震の間、私はこわくて身がすくんだ。"
+    },
+    {
+      "source": "original",
+      "label": "不安",
+      "en": "I'm scared that I might fail the exam.",
+      "ja": "試験に落ちるんじゃないかと不安だ。"
+    }
+  ],
+  "check_points": [
+    "scared と scary のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be scared of、scared / scary が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1833
+    }
+  ]
+}

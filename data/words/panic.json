@@ -1,0 +1,98 @@
+{
+  "word": "panic",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈpænɪk/",
+  "core_image": {
+    "text": "恐怖で頭が真っ白、あわてふためく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"70\" y1=\"100\" x2=\"30\" y2=\"120\"/><polyline points=\"38,120.3 30,120 34.6,113.4\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"190\" y1=\"100\" x2=\"230\" y2=\"120\"/><polyline points=\"225.4,113.4 230,120 222,120.3\"/><path d=\"M100 40 L110 30 L120 44 L130 28 L140 40\"/></g><text x=\"120\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">わあっ</text></svg>"
+  },
+  "etymology": "ギリシャ語 panikos(牧神パンの:パンが人々に突然の恐怖を起こすと考えられた) → 突然の大きな恐怖 → (動詞)あわてふためく",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a sudden strong feeling of fear that makes you act without thinking."
+    },
+    {
+      "pos": "動詞",
+      "text": "to suddenly feel so frightened that you cannot think clearly."
+    }
+  ],
+  "cautions": [
+    "活用 panic - panicked - panicked(k を入れる)",
+    "in (a) panic=あわてて",
+    "Don't panic.=落ち着いて",
+    "panic buying=買いだめ騒ぎ"
+  ],
+  "patterns": [
+    {
+      "form": "in (a) panic",
+      "meaning": "あわてふためいて"
+    },
+    {
+      "form": "Don't panic.",
+      "meaning": "あわてないで"
+    },
+    {
+      "form": "panic attack",
+      "meaning": "パニック発作"
+    },
+    {
+      "form": "panic buying",
+      "meaning": "買いだめ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "あわてないで",
+      "en": "Don't panic. Everything will be fine.",
+      "ja": "あわてないで。大丈夫だから。"
+    },
+    {
+      "source": "original",
+      "label": "あわてて",
+      "en": "People ran out of the building in panic.",
+      "ja": "人々はあわてて建物から逃げ出した。"
+    },
+    {
+      "source": "original",
+      "label": "あわてふためく",
+      "en": "She panicked when she couldn't find her passport.",
+      "ja": "パスポートが見つからず彼女はパニックになった。"
+    },
+    {
+      "source": "original",
+      "label": "買いだめ",
+      "en": "The news caused panic buying.",
+      "ja": "その知らせで買いだめ騒ぎが起きた。"
+    },
+    {
+      "source": "original",
+      "label": "発作",
+      "en": "He had a panic attack on the train.",
+      "ja": "彼は電車でパニック発作を起こした。"
+    },
+    {
+      "source": "original",
+      "label": "混乱",
+      "en": "There was panic in the streets.",
+      "ja": "通りは大混乱になった。"
+    }
+  ],
+  "check_points": [
+    "panic の過去形(panicked)を書けるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "活用 panicked が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1838
+    }
+  ]
+}

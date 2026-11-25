@@ -1,0 +1,93 @@
+{
+  "word": "horror",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈhɔːrər/",
+  "core_image": {
+    "text": "身の毛がよだつ、ぞっとする恐怖",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"34\"/><line x1=\"100\" y1=\"60\" x2=\"96\" y2=\"40\"/><line x1=\"112\" y1=\"54\" x2=\"110\" y2=\"34\"/><line x1=\"128\" y1=\"54\" x2=\"130\" y2=\"34\"/><line x1=\"140\" y1=\"60\" x2=\"144\" y2=\"40\"/><circle cx=\"108\" cy=\"78\" r=\"5\"/><circle cx=\"132\" cy=\"78\" r=\"5\"/><ellipse cx=\"120\" cy=\"100\" rx=\"6\" ry=\"8\"/></g><text x=\"200\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぞっ</text></svg>"
+  },
+  "etymology": "ラテン語 horrere(毛が逆立つ・ぞっとする) → 身の毛がよだつ恐怖 → horrible=恐ろしい・horrify=ぞっとさせる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a strong feeling of fear and shock; something very terrible."
+    }
+  ],
+  "cautions": [
+    "fear=恐怖(広い)/terror=激しい恐怖/horror=ぞっとする恐怖と嫌悪(見てショックを受ける)",
+    "in horror=ぞっとして",
+    "to A's horror=Aがぞっとしたことに",
+    "horror movie=ホラー映画/horrible=ひどい・恐ろしい"
+  ],
+  "patterns": [
+    {
+      "form": "in horror",
+      "meaning": "ぞっとして"
+    },
+    {
+      "form": "to A's horror",
+      "meaning": "Aがぞっとしたことに"
+    },
+    {
+      "form": "a horror movie",
+      "meaning": "ホラー映画"
+    },
+    {
+      "form": "horrible",
+      "meaning": "恐ろしい・ひどい"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ぞっとして",
+      "en": "She watched in horror as the car crashed.",
+      "ja": "車が衝突するのを彼女はぞっとして見ていた。"
+    },
+    {
+      "source": "original",
+      "label": "ぞっとしたことに",
+      "en": "To my horror, I found a snake in my bag.",
+      "ja": "ぞっとしたことに、かばんの中にヘビがいた。"
+    },
+    {
+      "source": "original",
+      "label": "ホラー映画",
+      "en": "I don't like horror movies.",
+      "ja": "ホラー映画は好きではない。"
+    },
+    {
+      "source": "original",
+      "label": "惨状",
+      "en": "The horrors of war must never be forgotten.",
+      "ja": "戦争の惨禍を決して忘れてはならない。"
+    },
+    {
+      "source": "original",
+      "label": "ひどい",
+      "en": "What a horrible day!",
+      "ja": "なんてひどい日だ!"
+    },
+    {
+      "source": "original",
+      "label": "ぞっとさせる",
+      "en": "We were horrified by the news.",
+      "ja": "その知らせに私たちはぞっとした。"
+    }
+  ],
+  "check_points": [
+    "to my horror の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "to one's horror、horrible が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1837
+    }
+  ]
+}

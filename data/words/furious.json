@@ -1,0 +1,93 @@
+{
+  "word": "furious",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈfjʊriəs/",
+  "core_image": {
+    "text": "かんかんに怒って、荒れくるう",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"86\" r=\"34\"/><line x1=\"100\" y1=\"72\" x2=\"114\" y2=\"80\"/><line x1=\"140\" y1=\"72\" x2=\"126\" y2=\"80\"/><path d=\"M106 104 L134 104\"/><path d=\"M100 50 Q96 36 104 24 M120 46 Q116 30 124 18 M140 50 Q136 36 144 24\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かんかん</text></svg>"
+  },
+  "etymology": "fury(激しい怒り:ラテン語 furia=狂気・激怒) + -ous(〜に満ちた) → 激怒した → (風・速さが)猛烈な",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "extremely angry; very fast or strong."
+    }
+  ],
+  "cautions": [
+    "angry=怒っている/furious=かんかんに激怒(very furious は不自然)",
+    "be furious with 人 / about [at] 事",
+    "at a furious pace=猛烈なペースで",
+    "fury=激怒"
+  ],
+  "patterns": [
+    {
+      "form": "be furious with A",
+      "meaning": "A(人)に激怒している"
+    },
+    {
+      "form": "be furious about A",
+      "meaning": "A(事)に激怒している"
+    },
+    {
+      "form": "at a furious pace",
+      "meaning": "猛烈なペースで"
+    },
+    {
+      "form": "fury",
+      "meaning": "激怒"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "激怒",
+      "en": "Dad was furious with me for breaking the window.",
+      "ja": "窓を割って父はかんかんだった。"
+    },
+    {
+      "source": "original",
+      "label": "事に",
+      "en": "She was furious about the decision.",
+      "ja": "彼女はその決定に激怒した。"
+    },
+    {
+      "source": "original",
+      "label": "猛烈",
+      "en": "They worked at a furious pace.",
+      "ja": "彼らは猛烈なペースで働いた。"
+    },
+    {
+      "source": "original",
+      "label": "激怒",
+      "en": "He shouted in fury.",
+      "ja": "彼は激怒して叫んだ。"
+    },
+    {
+      "source": "original",
+      "label": "嵐",
+      "en": "A furious storm hit the coast.",
+      "ja": "猛烈な嵐が海岸をおそった。"
+    },
+    {
+      "source": "original",
+      "label": "怒りくるう",
+      "en": "The fans were furious when the game was canceled.",
+      "ja": "試合が中止になりファンは怒りくるった。"
+    }
+  ],
+  "check_points": [
+    "angry と furious の強さのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "furious、fury が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1830
+    }
+  ]
+}
