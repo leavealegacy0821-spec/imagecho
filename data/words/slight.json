@@ -1,0 +1,108 @@
+{
+  "word": "slight",
+  "pos": [
+    "形容詞",
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/slaɪt/",
+  "core_image": {
+    "text": "細くて軽い、ほんのわずかな",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"20\" y1=\"100\" x2=\"220\" y2=\"100\"/><line x1=\"20\" y1=\"94\" x2=\"220\" y2=\"94\"/><path d=\"M110 94 Q120 90 130 94\"/></g><text x=\"120\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ほんの少し</text></svg>"
+  },
+  "etymology": "古い英語(すらりと細い) → 細くて軽い・取るに足りない → (程度・量が)わずかな・ちょっとした → (動詞)軽んじる・無視する → not in the slightest=少しも〜ない",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "small in size, amount or degree; (of a person) thin and delicate."
+    },
+    {
+      "pos": "動詞",
+      "text": "to treat someone rudely by ignoring them."
+    },
+    {
+      "pos": "名詞",
+      "text": "a rude action that shows no respect."
+    }
+  ],
+  "cautions": [
+    "small=小さい(大きさ)/slight=(程度・量が)わずかな(a slight change / fever / difference)",
+    "not (…) in the slightest=少しも〜ない(=not at all)",
+    "slightly=わずかに・少し(slightly better)",
+    "動詞 slight=軽んじる(feel slighted=軽く扱われたと感じる)"
+  ],
+  "patterns": [
+    {
+      "form": "a slight A",
+      "meaning": "わずかなA"
+    },
+    {
+      "form": "a slight change",
+      "meaning": "わずかな変化"
+    },
+    {
+      "form": "not in the slightest",
+      "meaning": "少しも〜ない"
+    },
+    {
+      "form": "slightly",
+      "meaning": "わずかに"
+    },
+    {
+      "form": "feel slighted",
+      "meaning": "軽く扱われたと感じる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "わずかな",
+      "en": "There was a slight change in the plan.",
+      "ja": "計画にわずかな変更があった。"
+    },
+    {
+      "source": "original",
+      "label": "微熱",
+      "en": "I have a slight fever.",
+      "ja": "少し熱がある。"
+    },
+    {
+      "source": "original",
+      "label": "少しも〜ない",
+      "en": "I'm not in the slightest interested in his story.",
+      "ja": "彼の話には少しも興味がない。"
+    },
+    {
+      "source": "original",
+      "label": "わずかに",
+      "en": "This year's sales were slightly higher than last year's.",
+      "ja": "今年の売上は昨年よりわずかに多かった。"
+    },
+    {
+      "source": "original",
+      "label": "軽んじる",
+      "en": "She felt slighted when nobody asked her opinion.",
+      "ja": "誰も意見を聞いてくれず、彼女は軽んじられたと感じた。"
+    },
+    {
+      "source": "original",
+      "label": "ちょっとした",
+      "en": "There is a slight difference between the two words.",
+      "ja": "その2つの語にはちょっとした違いがある。"
+    }
+  ],
+  "check_points": [
+    "not in the slightest の意味を言えるか",
+    "slightly の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "not in the slightest、slightly(わずかに)がグラフ・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1098
+    }
+  ]
+}

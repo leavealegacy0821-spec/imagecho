@@ -1,0 +1,94 @@
+{
+  "word": "trivial",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈtrɪviəl/",
+  "core_image": {
+    "text": "道ばたの話のような、取るに足りない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"20\" y1=\"100\" x2=\"100\" y2=\"100\"/><line x1=\"100\" y1=\"100\" x2=\"180\" y2=\"60\"/><line x1=\"100\" y1=\"100\" x2=\"180\" y2=\"140\"/><circle cx=\"150\" cy=\"96\" r=\"3\"/><circle cx=\"160\" cy=\"104\" r=\"2\"/><circle cx=\"140\" cy=\"108\" r=\"2\"/></g><text x=\"60\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">取るに足りない</text></svg>"
+  },
+  "etymology": "ラテン語 trivium(tri=3つ+via=道=三差路) → 三差路でかわす世間話 → ありふれた・取るに足りない・ささいな → 名詞 trivia(雑学・ささいなこと)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not important or serious; not worth considering."
+    }
+  ],
+  "cautions": [
+    "slight=量・程度がわずか/trivial=重要でない・ささいな(問題・ことがら)",
+    "a trivial matter [mistake]=ささいなこと[ミス]",
+    "反対:important, significant, serious",
+    "名詞 trivia=雑学(trivia quiz)"
+  ],
+  "patterns": [
+    {
+      "form": "a trivial matter",
+      "meaning": "ささいなこと"
+    },
+    {
+      "form": "a trivial mistake",
+      "meaning": "ささいなミス"
+    },
+    {
+      "form": "seem trivial",
+      "meaning": "取るに足りないように思える"
+    },
+    {
+      "form": "trivia",
+      "meaning": "雑学"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ささいな",
+      "en": "They had a fight over a trivial matter.",
+      "ja": "彼らはささいなことでけんかした。"
+    },
+    {
+      "source": "original",
+      "label": "取るに足りない",
+      "en": "It may seem trivial, but it's important to me.",
+      "ja": "取るに足りないことに思えるかもしれないが、私には大切なことだ。"
+    },
+    {
+      "source": "original",
+      "label": "ささいな",
+      "en": "Don't worry about such trivial mistakes.",
+      "ja": "そんなささいなミスは気にするな。"
+    },
+    {
+      "source": "original",
+      "label": "くだらない",
+      "en": "We wasted the meeting on trivial details.",
+      "ja": "会議をくだらない細かい点に費やしてしまった。"
+    },
+    {
+      "source": "original",
+      "label": "ささいな",
+      "en": "Even trivial changes can make a big difference.",
+      "ja": "ささいな変化でも大きな違いを生むことがある。"
+    },
+    {
+      "source": "original",
+      "label": "雑学",
+      "en": "My brother loves trivia quizzes.",
+      "ja": "兄は雑学クイズが大好きだ。"
+    }
+  ],
+  "check_points": [
+    "slight と trivial のちがいを言えるか",
+    "反対語(significant など)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「ささいな」の言い換え(=minor, unimportant)が語彙問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1099
+    }
+  ]
+}

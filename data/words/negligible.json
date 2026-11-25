@@ -1,0 +1,94 @@
+{
+  "word": "negligible",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈneɡlɪdʒəbl/",
+  "core_image": {
+    "text": "無視してもかまわないほど、ごくわずか",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"40\" width=\"40\" height=\"100\"/><rect x=\"100\" y=\"70\" width=\"40\" height=\"70\"/><line x1=\"160\" y1=\"138\" x2=\"200\" y2=\"138\"/></g><text x=\"180\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ほぼゼロ</text></svg>"
+  },
+  "etymology": "neglect(無視する・おろそかにする)+ible(〜できる) → 無視できる → (量・影響・違いが)ごくわずかで問題にならない",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "so small that it is not important or not worth considering."
+    }
+  ],
+  "cautions": [
+    "neglect(無視する)+ible(できる)=無視できるほどわずかな",
+    "negligible effect [difference / risk]=ごくわずかな影響[違い/危険](グラフ・研究の長文)",
+    "negligent=怠慢な(neglect の別の形容詞)と区別",
+    "trivial=ささいな(重要性)/negligible=ごくわずか(量)"
+  ],
+  "patterns": [
+    {
+      "form": "a negligible effect",
+      "meaning": "ごくわずかな影響"
+    },
+    {
+      "form": "a negligible difference",
+      "meaning": "ごくわずかな違い"
+    },
+    {
+      "form": "be negligible",
+      "meaning": "ごくわずかである"
+    },
+    {
+      "form": "negligible risk",
+      "meaning": "ごくわずかな危険"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ごくわずかな",
+      "en": "The new rule had a negligible effect on sales.",
+      "ja": "新しい規則は売上にほとんど影響しなかった。"
+    },
+    {
+      "source": "original",
+      "label": "ごくわずかな",
+      "en": "The difference in price is negligible.",
+      "ja": "値段の違いはごくわずかだ。"
+    },
+    {
+      "source": "original",
+      "label": "ほとんどない",
+      "en": "The risk of infection is negligible.",
+      "ja": "感染の危険はほとんどない。"
+    },
+    {
+      "source": "original",
+      "label": "ごくわずか",
+      "en": "The amount of sugar in this drink is negligible.",
+      "ja": "この飲み物に含まれる砂糖はごくわずかだ。"
+    },
+    {
+      "source": "original",
+      "label": "無視できる",
+      "en": "Scientists say the damage to the environment was negligible.",
+      "ja": "科学者によると環境への被害は無視できる程度だった。"
+    },
+    {
+      "source": "original",
+      "label": "怠慢な(negligent)",
+      "en": "The driver was found negligent in causing the accident.",
+      "ja": "運転手は事故を起こしたことについて過失があったと判断された。"
+    }
+  ],
+  "check_points": [
+    "negligible と negligent のちがいを言えるか",
+    "negligible effect の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "negligible / negligent の区別、「ごくわずかな」の言い換えが出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1100
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "tiny",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈtaɪni/",
+  "core_image": {
+    "text": "指先にのるほど、とても小さい",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"110\" y2=\"70\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"96\"/><circle cx=\"114\" cy=\"66\" r=\"2\"/></g><text x=\"170\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ちっちゃい</text></svg>"
+  },
+  "etymology": "中英語 tine(ほんの少し)+y → ごく小さい・ちっちゃい(small・little より強く、かわいらしさを伴うこともある)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "extremely small."
+    }
+  ],
+  "cautions": [
+    "small < tiny:tiny は「とても小さい」",
+    "量・程度にも:a tiny amount [percentage]=ごくわずかな量[割合]",
+    "反対:huge, enormous",
+    "minute(/maɪˈnjuːt/ 微小な)は tiny より堅い・科学的"
+  ],
+  "patterns": [
+    {
+      "form": "a tiny A",
+      "meaning": "とても小さいA"
+    },
+    {
+      "form": "a tiny amount of A",
+      "meaning": "ごくわずかなA"
+    },
+    {
+      "form": "a tiny bit",
+      "meaning": "ほんの少し"
+    },
+    {
+      "form": "tiny little A",
+      "meaning": "ちっちゃなA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "とても小さい",
+      "en": "The baby has tiny fingers.",
+      "ja": "赤ちゃんの指はとても小さい。"
+    },
+    {
+      "source": "original",
+      "label": "小さな",
+      "en": "They live in a tiny apartment in the city.",
+      "ja": "彼らは都会の小さなアパートに住んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "ごくわずか",
+      "en": "Only a tiny amount of salt is needed.",
+      "ja": "塩はほんの少しでいい。"
+    },
+    {
+      "source": "original",
+      "label": "ほんの少し",
+      "en": "I'm a tiny bit nervous.",
+      "ja": "ほんの少し緊張している。"
+    },
+    {
+      "source": "original",
+      "label": "ごくわずかな",
+      "en": "A tiny percentage of people have this disease.",
+      "ja": "この病気にかかるのはごくわずかな割合の人だ。"
+    },
+    {
+      "source": "original",
+      "label": "小さな",
+      "en": "A tiny insect landed on my arm.",
+      "ja": "小さな虫が腕にとまった。"
+    }
+  ],
+  "check_points": [
+    "tiny と small の強さのちがいがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "small・slight・minute との言い換えが出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1097
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "huge",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/hjuːdʒ/",
+  "core_image": {
+    "text": "見上げるほど、ずっしり大きい",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"100\" y=\"20\" width=\"110\" height=\"120\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"62\" y2=\"96\"/></g><text x=\"56\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見上げる</text></svg>"
+  },
+  "etymology": "古いフランス語 ahuge(とても大きい) → 大きさ・量・程度がとても大きい(日常で最もよく使う「巨大な」) → (成功・問題が)ものすごい",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "extremely large in size, amount or degree."
+    }
+  ],
+  "cautions": [
+    "big・large の強い版で、日常でいちばんよく使う「巨大な・ばく大な」",
+    "物の大きさにも、量・程度(a huge success, a huge problem)にも使える",
+    "huge は「とても大きい」の意味をもつので very huge とは言わない(really huge は口語で可)",
+    "類義:enormous=ふつうをはるかに超えた/vast=(広さが)果てしない"
+  ],
+  "patterns": [
+    {
+      "form": "a huge A",
+      "meaning": "巨大なA"
+    },
+    {
+      "form": "a huge amount of A",
+      "meaning": "ばく大な量のA"
+    },
+    {
+      "form": "a huge number of A",
+      "meaning": "ものすごい数のA"
+    },
+    {
+      "form": "a huge success",
+      "meaning": "大成功"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "巨大な",
+      "en": "A huge ship came into the harbor.",
+      "ja": "巨大な船が港に入ってきた。"
+    },
+    {
+      "source": "original",
+      "label": "大成功",
+      "en": "The concert was a huge success.",
+      "ja": "そのコンサートは大成功だった。"
+    },
+    {
+      "source": "original",
+      "label": "ばく大な",
+      "en": "The project cost a huge amount of money.",
+      "ja": "その計画にはばく大なお金がかかった。"
+    },
+    {
+      "source": "original",
+      "label": "ものすごい",
+      "en": "There was a huge crowd in front of the station.",
+      "ja": "駅前にはものすごい人だかりがあった。"
+    },
+    {
+      "source": "original",
+      "label": "大きな",
+      "en": "Climate change is a huge problem for the world.",
+      "ja": "気候変動は世界にとって大きな問題だ。"
+    },
+    {
+      "source": "original",
+      "label": "とても大きい",
+      "en": "Their house is huge.",
+      "ja": "彼らの家はとても大きい。"
+    }
+  ],
+  "check_points": [
+    "huge が量・程度にも使えることがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a huge amount / number of、類義語(enormous, vast)との言い換えが出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1091
+    }
+  ]
+}
