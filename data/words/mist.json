@@ -1,0 +1,94 @@
+{
+  "word": "mist",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/mɪst/",
+  "core_image": {
+    "text": "ふんわり立つ、うすい霧・もや",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"20,140 80,70 140,140\"/><polyline points=\"100,140 160,60 220,140\"/><path d=\"M10 100 Q60 90 110 100 T210 100\" stroke-dasharray=\"3 5\"/><path d=\"M30 116 Q80 106 130 116 T230 116\" stroke-dasharray=\"3 5\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぼんやり</text></svg>"
+  },
+  "etymology": "古い英語 mist(かすみ・うす暗さ) → うすい霧・もや → (目の)くもり(涙で) → (鏡・ガラスが)くもる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a thin cloud of very small drops of water in the air."
+    },
+    {
+      "pos": "動詞",
+      "text": "to become covered with very small drops of water."
+    }
+  ],
+  "cautions": [
+    "fog=こい霧(前が見えない)/mist=うすい霧・もや(山・湖に)",
+    "misty=もやのかかった",
+    "mist up=(ガラスが)くもる",
+    "(目が)涙でくもる"
+  ],
+  "patterns": [
+    {
+      "form": "morning mist",
+      "meaning": "朝もや"
+    },
+    {
+      "form": "misty",
+      "meaning": "もやのかかった"
+    },
+    {
+      "form": "mist up",
+      "meaning": "くもる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "もや",
+      "en": "A light mist covered the lake.",
+      "ja": "うすいもやが湖をおおっていた。"
+    },
+    {
+      "source": "original",
+      "label": "朝もや",
+      "en": "The mountains were hidden in the morning mist.",
+      "ja": "山は朝もやにかくれていた。"
+    },
+    {
+      "source": "original",
+      "label": "くもる",
+      "en": "My glasses misted up when I came inside.",
+      "ja": "中に入るとめがねがくもった。"
+    },
+    {
+      "source": "original",
+      "label": "涙",
+      "en": "Her eyes misted over.",
+      "ja": "彼女の目は涙でうるんだ。"
+    },
+    {
+      "source": "original",
+      "label": "もやのかかった",
+      "en": "It was a misty day in London.",
+      "ja": "ロンドンのもやのかかった日だった。"
+    },
+    {
+      "source": "original",
+      "label": "霧吹き",
+      "en": "Mist the plants with water.",
+      "ja": "植物に霧吹きで水をかけて。"
+    }
+  ],
+  "check_points": [
+    "fog と mist のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "描写文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1954
+    }
+  ]
+}

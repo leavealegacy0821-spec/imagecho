@@ -1,0 +1,98 @@
+{
+  "word": "breeze",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/briːz/",
+  "core_image": {
+    "text": "ここちよく吹く、そよ風",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"160\" y1=\"140\" x2=\"160\" y2=\"80\"/><path d=\"M160 80 Q140 70 150 60 Q170 56 172 72 Q180 80 160 80\"/><path d=\"M20 60 Q60 50 100 60\"/><path d=\"M30 80 Q70 70 110 80\"/><path d=\"M20 100 Q60 90 100 100\"/></g><text x=\"60\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そよそよ</text></svg>"
+  },
+  "etymology": "スペイン語 briza(北東の風) → (英語で)海からの風 → ここちよいそよ風 → (動詞)すいすい楽に進む(breeze through)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a light, pleasant wind; (informal) something very easy to do."
+    },
+    {
+      "pos": "動詞",
+      "text": "to move quickly and confidently; (breeze through) to do something easily."
+    }
+  ],
+  "cautions": [
+    "wind=風(広い)/breeze=ここちよいそよ風/gust=突風",
+    "a gentle [cool] breeze=おだやかな[すずしい]そよ風",
+    "It's a breeze.=楽勝だ",
+    "breeze through A=Aを楽々こなす"
+  ],
+  "patterns": [
+    {
+      "form": "a gentle breeze",
+      "meaning": "おだやかなそよ風"
+    },
+    {
+      "form": "a sea breeze",
+      "meaning": "海風"
+    },
+    {
+      "form": "It's a breeze.",
+      "meaning": "楽勝だ"
+    },
+    {
+      "form": "breeze through A",
+      "meaning": "Aを楽々こなす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "そよ風",
+      "en": "A cool breeze came in through the window.",
+      "ja": "すずしいそよ風が窓から入ってきた。"
+    },
+    {
+      "source": "original",
+      "label": "海風",
+      "en": "We enjoyed the sea breeze on the beach.",
+      "ja": "浜辺で海風を楽しんだ。"
+    },
+    {
+      "source": "original",
+      "label": "楽勝",
+      "en": "The test was a breeze.",
+      "ja": "テストは楽勝だった。"
+    },
+    {
+      "source": "original",
+      "label": "楽々",
+      "en": "She breezed through the interview.",
+      "ja": "彼女は面接を楽々こなした。"
+    },
+    {
+      "source": "original",
+      "label": "ゆれる",
+      "en": "The leaves moved gently in the breeze.",
+      "ja": "木の葉がそよ風にやさしくゆれた。"
+    },
+    {
+      "source": "original",
+      "label": "すいすい",
+      "en": "He breezed into the room.",
+      "ja": "彼はさっそうと部屋に入ってきた。"
+    }
+  ],
+  "check_points": [
+    "It's a breeze. の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "描写文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1957
+    }
+  ]
+}

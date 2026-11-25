@@ -1,0 +1,93 @@
+{
+  "word": "fog",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/fɔːɡ/",
+  "core_image": {
+    "text": "地面近くに立ちこめる、こい霧",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"150\" y=\"80\" width=\"40\" height=\"60\"/><line x1=\"20\" y1=\"70\" x2=\"220\" y2=\"70\" stroke-dasharray=\"10 6\"/><line x1=\"10\" y1=\"90\" x2=\"230\" y2=\"90\" stroke-dasharray=\"14 6\"/><line x1=\"20\" y1=\"110\" x2=\"220\" y2=\"110\" stroke-dasharray=\"10 6\"/><line x1=\"10\" y1=\"128\" x2=\"230\" y2=\"128\" stroke-dasharray=\"14 6\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見えない</text></svg>"
+  },
+  "etymology": "こい霧 → (頭の)もやもや(in a fog=頭がぼうっとして)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "thick cloud near the ground that makes it difficult to see."
+    }
+  ],
+  "cautions": [
+    "fog=前が見えないほどのこい霧/mist=うすい霧・もや/smog=スモッグ(煙+霧)",
+    "thick [dense] fog=こい霧",
+    "foggy=霧の深い",
+    "in a fog=頭がぼうっとして"
+  ],
+  "patterns": [
+    {
+      "form": "thick fog",
+      "meaning": "こい霧"
+    },
+    {
+      "form": "foggy",
+      "meaning": "霧の深い"
+    },
+    {
+      "form": "in a fog",
+      "meaning": "ぼうっとして"
+    },
+    {
+      "form": "the fog lifts",
+      "meaning": "霧が晴れる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "こい霧",
+      "en": "The airport was closed because of thick fog.",
+      "ja": "こい霧のため空港が閉鎖された。"
+    },
+    {
+      "source": "original",
+      "label": "霧の深い",
+      "en": "It was a foggy morning.",
+      "ja": "霧の深い朝だった。"
+    },
+    {
+      "source": "original",
+      "label": "晴れる",
+      "en": "The fog lifted by noon.",
+      "ja": "昼までに霧が晴れた。"
+    },
+    {
+      "source": "original",
+      "label": "ぼうっと",
+      "en": "I'm in a fog this morning.",
+      "ja": "今朝は頭がぼうっとしている。"
+    },
+    {
+      "source": "original",
+      "label": "運転",
+      "en": "Drive slowly in the fog.",
+      "ja": "霧の中ではゆっくり運転しなさい。"
+    },
+    {
+      "source": "original",
+      "label": "見えない",
+      "en": "The bridge disappeared into the fog.",
+      "ja": "橋は霧の中に消えた。"
+    }
+  ],
+  "check_points": [
+    "fog と mist のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "fog / mist の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1953
+    }
+  ]
+}

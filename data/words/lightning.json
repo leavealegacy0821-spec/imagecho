@@ -1,0 +1,93 @@
+{
+  "word": "lightning",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈlaɪtnɪŋ/",
+  "core_image": {
+    "text": "空を走る、ぴかっという稲妻の光",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M60 50 Q60 30 90 34 Q104 16 130 26 Q160 20 166 44 Q186 50 176 62 L70 62 Q54 62 60 50 Z\"/><polyline points=\"120,62 100,100 124,100 100,146\"/><path d=\"M80 80 L70 76 M150 84 L164 80\"/></g><text x=\"190\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぴかっ</text></svg>"
+  },
+  "etymology": "lighten(光らせる:light=光) の名詞 → ぱっと光ること → 稲妻・電光 → like lightning=電光石火で",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a flash of bright light in the sky during a storm."
+    }
+  ],
+  "cautions": [
+    "lightning=稲妻(光)・数えない/thunder=雷鳴(音)",
+    "lightening(明るくすること)とつづりを混同しない",
+    "be struck by lightning=雷に打たれる",
+    "like lightning=電光石火で"
+  ],
+  "patterns": [
+    {
+      "form": "a flash of lightning",
+      "meaning": "稲光"
+    },
+    {
+      "form": "be struck by lightning",
+      "meaning": "雷に打たれる"
+    },
+    {
+      "form": "like lightning",
+      "meaning": "電光石火で"
+    },
+    {
+      "form": "lightning-fast",
+      "meaning": "ものすごく速い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "稲光",
+      "en": "A flash of lightning lit up the sky.",
+      "ja": "稲光が空を照らした。"
+    },
+    {
+      "source": "original",
+      "label": "落雷",
+      "en": "The tree was struck by lightning.",
+      "ja": "その木に雷が落ちた。"
+    },
+    {
+      "source": "original",
+      "label": "電光石火",
+      "en": "He ran like lightning.",
+      "ja": "彼は電光石火のように走った。"
+    },
+    {
+      "source": "original",
+      "label": "順番",
+      "en": "Lightning comes before thunder.",
+      "ja": "稲妻は雷鳴より先に来る。"
+    },
+    {
+      "source": "original",
+      "label": "速い",
+      "en": "She has lightning-fast reflexes.",
+      "ja": "彼女は反射神経がものすごく速い。"
+    },
+    {
+      "source": "original",
+      "label": "ことわざ",
+      "en": "Lightning never strikes twice in the same place.",
+      "ja": "同じ場所に雷は二度落ちない(同じ不運は二度起きない)。"
+    }
+  ],
+  "check_points": [
+    "lightning のつづり(e がない)を書けるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "thunder / lightning、つづりが出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1956
+    }
+  ]
+}

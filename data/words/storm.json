@@ -1,0 +1,98 @@
+{
+  "word": "storm",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/stɔːrm/",
+  "core_image": {
+    "text": "風と雨がはげしく荒れくるう嵐",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M60 50 Q60 30 90 34 Q104 16 130 26 Q160 20 166 44 Q186 50 176 62 L70 62 Q54 62 60 50 Z\"/><polyline points=\"120,62 106,92 124,92 108,124\"/><line x1=\"70\" y1=\"76\" x2=\"60\" y2=\"110\"/><line x1=\"160\" y1=\"76\" x2=\"150\" y2=\"110\"/><path d=\"M180 100 Q200 90 220 100 M176 120 Q196 110 216 120\"/></g><text x=\"40\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ごうごう</text></svg>"
+  },
+  "etymology": "古い英語 storm(嵐) → 嵐・暴風雨 → (感情・抗議の)嵐 → (動詞)嵐のようにどっと突進する・怒って出ていく(storm out)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "very bad weather with strong winds and rain; a strong reaction of anger or excitement."
+    },
+    {
+      "pos": "動詞",
+      "text": "to attack a place suddenly; to go somewhere quickly and angrily."
+    }
+  ],
+  "cautions": [
+    "storm=嵐(広い)/typhoon=台風/hurricane=ハリケーン",
+    "a storm of protest=抗議の嵐",
+    "storm out (of A)=怒って(Aから)飛び出す",
+    "take A by storm=Aを熱狂させる・一気に攻略する"
+  ],
+  "patterns": [
+    {
+      "form": "a heavy storm",
+      "meaning": "激しい嵐"
+    },
+    {
+      "form": "a storm of A",
+      "meaning": "A(抗議・拍手)の嵐"
+    },
+    {
+      "form": "storm out",
+      "meaning": "怒って出ていく"
+    },
+    {
+      "form": "take A by storm",
+      "meaning": "Aを熱狂させる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "嵐",
+      "en": "The storm knocked down many trees.",
+      "ja": "嵐で多くの木が倒れた。"
+    },
+    {
+      "source": "original",
+      "label": "抗議",
+      "en": "The decision caused a storm of protest.",
+      "ja": "その決定は抗議の嵐を巻き起こした。"
+    },
+    {
+      "source": "original",
+      "label": "飛び出す",
+      "en": "She stormed out of the room.",
+      "ja": "彼女は怒って部屋を飛び出した。"
+    },
+    {
+      "source": "original",
+      "label": "熱狂",
+      "en": "The band took Japan by storm.",
+      "ja": "そのバンドは日本中を熱狂させた。"
+    },
+    {
+      "source": "original",
+      "label": "嵐の前",
+      "en": "It was the calm before the storm.",
+      "ja": "それは嵐の前の静けさだった。"
+    },
+    {
+      "source": "original",
+      "label": "突入",
+      "en": "Police stormed the building.",
+      "ja": "警察がその建物に突入した。"
+    }
+  ],
+  "check_points": [
+    "storm out の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a storm of protest が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1951
+    }
+  ]
+}
