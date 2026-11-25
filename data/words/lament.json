@@ -1,0 +1,99 @@
+{
+  "word": "lament",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ləˈment/",
+  "core_image": {
+    "text": "失ったものや悪くなったことを、声に出して嘆く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><polyline points=\"120,74 100,56 94,36\"/><polyline points=\"120,74 140,56 146,36\"/></g><text x=\"204\" y=\"42\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ああ…</text></svg>"
+  },
+  "etymology": "ラテン語 lamentum(嘆き・泣き叫ぶこと) → 声を上げて嘆く → ①(動詞)嘆く・悲しむ・残念がる ②(名詞)嘆き・哀歌",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to express sadness or regret about something."
+    },
+    {
+      "pos": "名詞",
+      "text": "an expression of sadness; a sad song or poem."
+    }
+  ],
+  "cautions": [
+    "lament A / lament that S V=Aを(〜ということを)嘆く(他動詞が基本。lament over / for A も可)",
+    "mourn=人の死を悼む/lament=失ったもの・悪くなった状態を言葉にして嘆く(改まった語)/regret=自分のしたことを後悔する",
+    "評論文では「(伝統・自然・地元の店)の衰退を嘆く」の形が多い",
+    "形容詞 lamentable=嘆かわしい・ひどい"
+  ],
+  "patterns": [
+    {
+      "form": "lament A",
+      "meaning": "Aを嘆く"
+    },
+    {
+      "form": "lament that S V",
+      "meaning": "〜ということを嘆く"
+    },
+    {
+      "form": "lament the decline of A",
+      "meaning": "Aの衰退を嘆く"
+    },
+    {
+      "form": "a lament for A",
+      "meaning": "Aへの嘆き・哀歌"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "伝統",
+      "en": "The old man lamented the loss of traditional values.",
+      "ja": "その老人は昔ながらの価値観が失われたことを嘆いた。"
+    },
+    {
+      "source": "original",
+      "label": "that",
+      "en": "Many people lament that children no longer play outside.",
+      "ja": "子どもが外で遊ばなくなったことを嘆く人は多い。"
+    },
+    {
+      "source": "original",
+      "label": "自分",
+      "en": "She lamented her lack of education.",
+      "ja": "彼女は自分に教育が足りないことを嘆いた。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The poem is a lament for a lost love.",
+      "ja": "その詩は失った恋への嘆きの歌だ。"
+    },
+    {
+      "source": "original",
+      "label": "衰退",
+      "en": "Critics lamented the decline of local shops.",
+      "ja": "評論家たちは地元の商店の衰退を嘆いた。"
+    },
+    {
+      "source": "original",
+      "label": "せりふ",
+      "en": "\"If only I had studied harder,\" he lamented.",
+      "ja": "「もっと勉強していればなあ」と彼は嘆いた。"
+    }
+  ],
+  "check_points": [
+    "lament that S V の形を言えるか",
+    "mourn・lament・regret のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "評論文で lament the decline / loss of A、lament that S V が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2026
+    }
+  ]
+}

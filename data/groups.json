@@ -473,7 +473,7 @@
     },
     {
       "title": "使い分け:望む",
-      "note": "want=欠けていてほしい ／ wish=かなわないことを思う ／ hope=実現しそうなことを望む ／ long for=遠くのものを長く望む ／ eager=〜したくてたまらない ／ keen=熱心で〜したがる ／ willing=頼まれれば〜する ／ desire=手の届かないものを強く求める(改まった語) ／ ambition=高い目標をめざして上へ進む大望",
+      "note": "want=欠けていてほしい ／ wish=かなわないことを思う ／ hope=実現しそうなことを望む ／ long for=遠くのものを長く望む ／ eager=〜したくてたまらない ／ keen=熱心で〜したがる ／ willing=頼まれれば〜する ／ desire=手の届かないものを強く求める(改まった語) ／ ambition=高い目標をめざして上へ進む大望 ／ crave=からだや心が今すぐどうしてもほしがる ／ yearn=遠く手の届かないものに思いこがれる",
       "words": [
         "want",
         "wish",
@@ -484,7 +484,9 @@
         "willing",
         "anxious",
         "desire",
-        "ambition"
+        "ambition",
+        "crave",
+        "yearn"
       ]
     },
     {
@@ -1058,7 +1060,7 @@
     },
     {
       "title": "使い分け:遅らせる・延ばす",
-      "note": "delay=予定より遅らせる ／ postpone=後の日に延期する ／ suspend=一時停止する(つるしておく) ／ prolong=長引かせる ／ linger=ぐずぐず残る ／ hesitate=ためらう",
+      "note": "delay=予定より遅らせる ／ postpone=後の日に延期する ／ suspend=一時停止する(つるしておく) ／ prolong=長引かせる ／ linger=ぐずぐず残る ／ hesitate=ためらう ／ defer=決定・支払いなどを正式に先へ運んでおく(defer to A=Aにゆだねる)",
       "words": [
         "delay",
         "postpone",
@@ -1066,7 +1068,8 @@
         "prolong",
         "linger",
         "hesitate",
-        "await"
+        "await",
+        "defer"
       ]
     },
     {
@@ -1165,14 +1168,16 @@
     },
     {
       "title": "使い分け:避ける・逃れる",
-      "note": "avoid=近づかないようにする ／ escape=束縛から逃れる ／ flee=危険から逃げる ／ steer clear of=かじを切って避ける ／ spare=(手間・害を)免れさせる ／ evade=するりとかわして逃れる(責任・税)",
+      "note": "avoid=近づかないようにする ／ escape=束縛から逃れる ／ flee=危険から逃げる ／ steer clear of=かじを切って避ける ／ spare=(手間・害を)免れさせる ／ evade=するりとかわして逃れる(責任・税) ／ dodge=来たものをひょいと身をかわしてよける ／ elude=追う手や理解・記憶からつかまらずに抜け出す(The answer eludes me.)",
       "words": [
         "avoid",
         "escape",
         "flee",
         "steer",
         "spare",
-        "evade"
+        "evade",
+        "dodge",
+        "elude"
       ]
     },
     {
@@ -3043,7 +3048,7 @@
     },
     {
       "title": "使い分け:回る・ころがる・ゆれる・はねる",
-      "note": "rotate=軸を中心にぐるりと回転・交代 ／ spin=その場でくるくる速く ／ roll=まるいものがころころ転がる・巻く ／ tumble=ころげ落ちる・急落 ／ swing=つり下がってぶらんぶらん・ふる ／ bounce=当たってぽんとはね返る ／ shake=左右・上下に小きざみにゆさぶる(shook, shaken)",
+      "note": "rotate=軸を中心にぐるりと回転・交代 ／ spin=その場でくるくる速く ／ roll=まるいものがころころ転がる・巻く ／ tumble=ころげ落ちる・急落 ／ swing=つり下がってぶらんぶらん・ふる ／ bounce=当たってぽんとはね返る ／ shake=左右・上下に小きざみにゆさぶる(shook, shaken) ／ revolve=中心のまわりをぐるりと回る(公転) ／ whirl=うずを巻くように勢いよくぐるぐる回る",
       "words": [
         "rotate",
         "spin",
@@ -3051,7 +3056,9 @@
         "tumble",
         "swing",
         "bounce",
-        "shake"
+        "shake",
+        "revolve",
+        "whirl"
       ]
     },
     {
@@ -3531,6 +3538,26 @@
         "scorn",
         "despise",
         "sneer"
+      ]
+    },
+    {
+      "title": "使い分け:悲しむ・嘆く",
+      "note": "mourn=人の死を思い静かに深く悲しむ(悼む) ／ lament=失ったもの・悪くなったことを声や言葉に出して嘆く ／ regret=自分のしたことをふり返って悔やむ",
+      "words": [
+        "mourn",
+        "lament",
+        "regret"
+      ]
+    },
+    {
+      "title": "使い分け:使う・利用する",
+      "note": "use=使う(いちばん広い) ／ utilize=手もとのものを役に立つように使いこなす(かたい語) ／ employ=方法・技術を用いる・人を雇う ／ apply=当てはめて使う ／ exploit=資源を開発して使う・人を食い物にする",
+      "words": [
+        "use",
+        "utilize",
+        "employ",
+        "apply",
+        "exploit"
       ]
     },
     {
