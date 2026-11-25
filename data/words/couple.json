@@ -1,0 +1,94 @@
+{
+  "word": "couple",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈkʌpl/",
+  "core_image": {
+    "text": "2つ(2人)のつながり・2,3の",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"90\" y1=\"80\" x2=\"150\" y2=\"80\"/><path d=\"M114 40 Q120 30 126 40 Q120 50 114 40\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふたり</text></svg>"
+  },
+  "etymology": "ラテン語 copula(つなぐもの) → 結びつけた2つ → 夫婦・恋人・2つ",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "two people who are married or in a relationship; two or a few things."
+    },
+    {
+      "pos": "動詞",
+      "text": "to join two things."
+    }
+  ],
+  "cautions": [
+    "a couple of A=2つの・2,3の(はっきり2でないことも)",
+    "a married couple=夫婦",
+    "pair=(2つで1組の)対/couple=(結びついた)2人・2,3の",
+    "coupled with A=Aと相まって"
+  ],
+  "patterns": [
+    {
+      "form": "a couple of A",
+      "meaning": "2,3のA"
+    },
+    {
+      "form": "a married couple",
+      "meaning": "夫婦"
+    },
+    {
+      "form": "coupled with A",
+      "meaning": "Aと相まって"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "2,3の",
+      "en": "I'll be back in a couple of days.",
+      "ja": "2,3日でもどります。"
+    },
+    {
+      "source": "original",
+      "label": "夫婦",
+      "en": "A young couple lives next door.",
+      "ja": "となりに若い夫婦が住んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "カップル",
+      "en": "They make a nice couple.",
+      "ja": "2人はお似合いだ。"
+    },
+    {
+      "source": "original",
+      "label": "相まって",
+      "en": "Low pay, coupled with long hours, made workers unhappy.",
+      "ja": "安い給料に長時間労働が重なり、労働者は不満だった。"
+    },
+    {
+      "source": "original",
+      "label": "少し",
+      "en": "I have a couple of questions.",
+      "ja": "2,3質問があります。"
+    },
+    {
+      "source": "original",
+      "label": "2人",
+      "en": "The couple got married last year.",
+      "ja": "その2人は去年結婚した。"
+    }
+  ],
+  "check_points": [
+    "a couple of の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "a couple of、coupled with が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2311
+    }
+  ]
+}

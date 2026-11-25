@@ -1,0 +1,94 @@
+{
+  "word": "dozen",
+  "pos": [
+    "名詞",
+    "形容詞"
+  ],
+  "ipa": "/ˈdʌzn/",
+  "core_image": {
+    "text": "12個ひとまとまり(ダース)・たくさん",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"50\" width=\"160\" height=\"60\"/><circle cx=\"60\" cy=\"66\" r=\"8\"/><circle cx=\"86\" cy=\"66\" r=\"8\"/><circle cx=\"112\" cy=\"66\" r=\"8\"/><circle cx=\"138\" cy=\"66\" r=\"8\"/><circle cx=\"164\" cy=\"66\" r=\"8\"/><circle cx=\"186\" cy=\"66\" r=\"6\"/><circle cx=\"60\" cy=\"94\" r=\"8\"/><circle cx=\"86\" cy=\"94\" r=\"8\"/><circle cx=\"112\" cy=\"94\" r=\"8\"/><circle cx=\"138\" cy=\"94\" r=\"8\"/><circle cx=\"164\" cy=\"94\" r=\"8\"/><circle cx=\"186\" cy=\"94\" r=\"6\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">12こ</text></svg>"
+  },
+  "etymology": "ラテン語 duodecim(duo=2 + decem=10 → 12) → 12個1組",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a group of twelve; (dozens) a lot."
+    },
+    {
+      "pos": "形容詞",
+      "text": "twelve."
+    }
+  ],
+  "cautions": [
+    "a dozen eggs=卵1ダース(of をつけない)",
+    "two dozen eggs=2ダース(dozens にしない)",
+    "dozens of A=何十ものA・たくさんのA",
+    "half a dozen=半ダース・6つ"
+  ],
+  "patterns": [
+    {
+      "form": "a dozen A",
+      "meaning": "1ダースのA"
+    },
+    {
+      "form": "dozens of A",
+      "meaning": "何十ものA"
+    },
+    {
+      "form": "half a dozen",
+      "meaning": "6つ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ダース",
+      "en": "I bought a dozen eggs.",
+      "ja": "卵を1ダース買った。"
+    },
+    {
+      "source": "original",
+      "label": "2ダース",
+      "en": "We need two dozen pencils.",
+      "ja": "鉛筆が2ダース必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "たくさん",
+      "en": "Dozens of people came to see the show.",
+      "ja": "何十人もの人がショーを見に来た。"
+    },
+    {
+      "source": "original",
+      "label": "6つ",
+      "en": "There are half a dozen apples in the box.",
+      "ja": "箱にりんごが6つある。"
+    },
+    {
+      "source": "original",
+      "label": "何度も",
+      "en": "I've told you dozens of times!",
+      "ja": "何十回も言ったでしょ!"
+    },
+    {
+      "source": "original",
+      "label": "語源",
+      "en": "A dozen is twelve.",
+      "ja": "1ダースは12だ。"
+    }
+  ],
+  "check_points": [
+    "two dozen に s がつかないことがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "dozens of が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2312
+    }
+  ]
+}

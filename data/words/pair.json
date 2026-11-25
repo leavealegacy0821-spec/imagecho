@@ -1,0 +1,98 @@
+{
+  "word": "pair",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/per/",
+  "core_image": {
+    "text": "2つで1組になるもの(一対)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M40 120 L40 70 Q40 50 60 50 L60 120 Z\"/><path d=\"M70 120 L70 70 Q70 50 90 50 L90 120 Z\"/><circle cx=\"160\" cy=\"80\" r=\"20\"/><circle cx=\"200\" cy=\"80\" r=\"20\"/><line x1=\"180\" y1=\"80\" x2=\"180\" y2=\"80\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひとくみ</text></svg>"
+  },
+  "etymology": "ラテン語 paria(同じものの組:par=等しい) → 2つ1組 → (動詞)組にする",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "two things of the same kind used together; two people doing something together."
+    },
+    {
+      "pos": "動詞",
+      "text": "to put people or things into groups of two."
+    }
+  ],
+  "cautions": [
+    "a pair of A=1組のA(2つで1つ:shoes・glasses・scissors・jeans)",
+    "in pairs=2人1組で",
+    "pair up=ペアになる",
+    "couple=2人(恋人・夫婦)・2つ3つ"
+  ],
+  "patterns": [
+    {
+      "form": "a pair of A",
+      "meaning": "1組のA"
+    },
+    {
+      "form": "in pairs",
+      "meaning": "2人1組で"
+    },
+    {
+      "form": "pair up with A",
+      "meaning": "Aと組む"
+    },
+    {
+      "form": "two pairs of A",
+      "meaning": "2組のA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "1足",
+      "en": "I bought a pair of shoes.",
+      "ja": "くつを1足買った。"
+    },
+    {
+      "source": "original",
+      "label": "はさみ",
+      "en": "Do you have a pair of scissors?",
+      "ja": "はさみはありますか。"
+    },
+    {
+      "source": "original",
+      "label": "2人1組",
+      "en": "Work in pairs.",
+      "ja": "2人1組で作業しなさい。"
+    },
+    {
+      "source": "original",
+      "label": "組む",
+      "en": "I paired up with my friend.",
+      "ja": "友達とペアを組んだ。"
+    },
+    {
+      "source": "original",
+      "label": "2組",
+      "en": "He has two pairs of glasses.",
+      "ja": "彼はめがねを2つもっている。"
+    },
+    {
+      "source": "original",
+      "label": "ジーンズ",
+      "en": "These jeans are a perfect pair for summer.",
+      "ja": "このジーンズは夏にぴったりだ。"
+    }
+  ],
+  "check_points": [
+    "a pair of がつく語(shoes など)を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "a pair of、in pairs が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2310
+    }
+  ]
+}

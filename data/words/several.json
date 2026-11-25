@@ -1,0 +1,94 @@
+{
+  "word": "several",
+  "pos": [
+    "形容詞",
+    "代名詞"
+  ],
+  "ipa": "/ˈsevrəl/",
+  "core_image": {
+    "text": "2,3より多いいくつか(数個)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"50\" cy=\"80\" r=\"12\"/><circle cx=\"84\" cy=\"70\" r=\"12\"/><circle cx=\"118\" cy=\"86\" r=\"12\"/><circle cx=\"152\" cy=\"72\" r=\"12\"/><circle cx=\"186\" cy=\"84\" r=\"12\"/></g><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いくつか</text></svg>"
+  },
+  "etymology": "ラテン語 separ(別々の:separate と同じ根) → 別々の → (別々の)いくつかの",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "more than two but not many."
+    },
+    {
+      "pos": "代名詞",
+      "text": "some, but not many."
+    }
+  ],
+  "cautions": [
+    "a couple of(2,3)< several(いくつか・3〜7くらい)< many",
+    "several + 複数名詞(数える名詞)",
+    "several times=何度か",
+    "several of A=Aのうちのいくつか"
+  ],
+  "patterns": [
+    {
+      "form": "several times",
+      "meaning": "何度か"
+    },
+    {
+      "form": "several of A",
+      "meaning": "Aのいくつか"
+    },
+    {
+      "form": "for several years",
+      "meaning": "数年間"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "数個",
+      "en": "I have several questions.",
+      "ja": "質問がいくつかある。"
+    },
+    {
+      "source": "original",
+      "label": "何度か",
+      "en": "I've been there several times.",
+      "ja": "そこへは何度か行ったことがある。"
+    },
+    {
+      "source": "original",
+      "label": "数年",
+      "en": "He lived in London for several years.",
+      "ja": "彼は数年ロンドンに住んでいた。"
+    },
+    {
+      "source": "original",
+      "label": "うち",
+      "en": "Several of my friends came.",
+      "ja": "友達の何人かが来た。"
+    },
+    {
+      "source": "original",
+      "label": "何人か",
+      "en": "Several people were injured.",
+      "ja": "何人かがけがをした。"
+    },
+    {
+      "source": "original",
+      "label": "比べる",
+      "en": "A couple means two, but several means more.",
+      "ja": "a couple は2、several はもう少し多い。"
+    }
+  ],
+  "check_points": [
+    "a couple of と several のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "several times が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2313
+    }
+  ]
+}
