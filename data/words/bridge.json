@@ -1,0 +1,98 @@
+{
+  "word": "bridge",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/brɪdʒ/",
+  "core_image": {
+    "text": "へだたりの上にかけわたす橋",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 110 Q40 100 70 110 T130 110 T190 110 T240 110\"/><line x1=\"10\" y1=\"70\" x2=\"230\" y2=\"70\"/><path d=\"M40 110 Q120 40 200 110\"/><line x1=\"40\" y1=\"70\" x2=\"40\" y2=\"110\"/><line x1=\"200\" y1=\"70\" x2=\"200\" y2=\"110\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かけわたす</text></svg>"
+  },
+  "etymology": "古い英語 brycg(橋) → 橋 → (人と人・国と国の)橋わたし → (動詞)橋をかける・(差・溝を)うめる(bridge the gap)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a structure built over a river or road so people can cross it; something that connects two things."
+    },
+    {
+      "pos": "動詞",
+      "text": "to reduce the difference between two things."
+    }
+  ],
+  "cautions": [
+    "cross a bridge=橋を渡る",
+    "bridge the gap between A and B=AとBの差をうめる",
+    "burn one's bridges=退路を断つ",
+    "cross that bridge when we come to it=その時になったら考える"
+  ],
+  "patterns": [
+    {
+      "form": "cross a bridge",
+      "meaning": "橋を渡る"
+    },
+    {
+      "form": "bridge the gap",
+      "meaning": "差をうめる"
+    },
+    {
+      "form": "a bridge between A and B",
+      "meaning": "AとBの橋わたし"
+    },
+    {
+      "form": "burn one's bridges",
+      "meaning": "退路を断つ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "橋",
+      "en": "We crossed the bridge over the river.",
+      "ja": "川にかかる橋を渡った。"
+    },
+    {
+      "source": "original",
+      "label": "差をうめる",
+      "en": "We need to bridge the gap between rich and poor.",
+      "ja": "貧富の差をうめる必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "橋わたし",
+      "en": "Music can be a bridge between cultures.",
+      "ja": "音楽は文化の橋わたしになりうる。"
+    },
+    {
+      "source": "original",
+      "label": "その時",
+      "en": "We'll cross that bridge when we come to it.",
+      "ja": "そのことはその時になったら考えよう。"
+    },
+    {
+      "source": "original",
+      "label": "退路",
+      "en": "Don't burn your bridges with your old company.",
+      "ja": "前の会社との関係を断ってはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "建設",
+      "en": "They built a new bridge across the bay.",
+      "ja": "湾に新しい橋がかけられた。"
+    }
+  ],
+  "check_points": [
+    "bridge the gap の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "bridge the gap が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2077
+    }
+  ]
+}

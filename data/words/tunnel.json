@@ -1,0 +1,93 @@
+{
+  "word": "tunnel",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈtʌnl/",
+  "core_image": {
+    "text": "山や地下をくりぬいた、通りぬける穴",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M10 140 Q60 40 120 40 Q180 40 230 140\"/><path d=\"M90 140 L90 110 Q90 86 120 86 Q150 86 150 110 L150 140\"/><line x1=\"40\" y1=\"128\" x2=\"84\" y2=\"128\"/><polyline points=\"77,124.2 84,128 77,131.8\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くりぬく</text></svg>"
+  },
+  "etymology": "古フランス語 tonnel(たる) → 筒状のもの → 地下や山をくりぬいた通路 → (動詞)穴をほって進む",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a passage that goes under the ground or through a hill."
+    },
+    {
+      "pos": "動詞",
+      "text": "to dig a tunnel."
+    }
+  ],
+  "cautions": [
+    "go through a tunnel=トンネルを通りぬける",
+    "the light at the end of the tunnel=苦しい状況の出口・希望の光",
+    "tunnel vision=視野がせまいこと"
+  ],
+  "patterns": [
+    {
+      "form": "go through a tunnel",
+      "meaning": "トンネルを通る"
+    },
+    {
+      "form": "the light at the end of the tunnel",
+      "meaning": "苦境の先の希望"
+    },
+    {
+      "form": "tunnel vision",
+      "meaning": "視野のせまさ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "トンネル",
+      "en": "The train went through a long tunnel.",
+      "ja": "電車は長いトンネルを通りぬけた。"
+    },
+    {
+      "source": "original",
+      "label": "希望",
+      "en": "At last we can see the light at the end of the tunnel.",
+      "ja": "ついに苦しい状況の出口が見えてきた。"
+    },
+    {
+      "source": "original",
+      "label": "視野",
+      "en": "He has tunnel vision about his goal.",
+      "ja": "彼は目標ばかり見て視野がせまい。"
+    },
+    {
+      "source": "original",
+      "label": "ほる",
+      "en": "The prisoners tunneled out of the prison.",
+      "ja": "囚人たちはトンネルをほって脱獄した。"
+    },
+    {
+      "source": "original",
+      "label": "海底",
+      "en": "The tunnel runs under the sea.",
+      "ja": "そのトンネルは海底を通っている。"
+    },
+    {
+      "source": "original",
+      "label": "動物",
+      "en": "Moles dig tunnels underground.",
+      "ja": "モグラは地下にトンネルをほる。"
+    }
+  ],
+  "check_points": [
+    "the light at the end of the tunnel の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2078
+    }
+  ]
+}

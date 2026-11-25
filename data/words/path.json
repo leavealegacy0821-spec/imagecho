@@ -1,0 +1,93 @@
+{
+  "word": "path",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/pæθ/",
+  "core_image": {
+    "text": "人がふみ固めた細い小道・進む道すじ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M20 140 Q80 120 100 100 Q120 80 180 70 Q210 66 230 50\" stroke-dasharray=\"6 4\"/><polygon points=\"30,140 44,110 58,140\"/><polygon points=\"180,140 194,110 208,140\"/><circle cx=\"100\" cy=\"12\" r=\"10\"/><line x1=\"100\" y1=\"22\" x2=\"100\" y2=\"66\"/><line x1=\"100\" y1=\"66\" x2=\"90\" y2=\"100\"/><line x1=\"100\" y1=\"66\" x2=\"110\" y2=\"100\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こみち</text></svg>"
+  },
+  "etymology": "古い英語 pæþ(小道) → 人が歩いてできた小道 → (進む)道すじ・進路(career path)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a narrow way for walking; a line along which something moves; a way of doing something."
+    }
+  ],
+  "cautions": [
+    "path=人が歩いてできた細い小道・(人生の)進路/road=車の道",
+    "a path to A=Aへの道すじ",
+    "cross paths (with A)=(Aと)出会う",
+    "the path of a storm=嵐の進路"
+  ],
+  "patterns": [
+    {
+      "form": "a path through A",
+      "meaning": "Aを通る小道"
+    },
+    {
+      "form": "a career path",
+      "meaning": "進路"
+    },
+    {
+      "form": "cross paths with A",
+      "meaning": "Aと出会う"
+    },
+    {
+      "form": "the path of A",
+      "meaning": "Aの進路"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "小道",
+      "en": "We followed a narrow path through the forest.",
+      "ja": "森の中の細い小道をたどった。"
+    },
+    {
+      "source": "original",
+      "label": "進路",
+      "en": "She chose a different career path.",
+      "ja": "彼女は別の進路を選んだ。"
+    },
+    {
+      "source": "original",
+      "label": "出会う",
+      "en": "Our paths crossed again ten years later.",
+      "ja": "10年後に私たちはまた出会った。"
+    },
+    {
+      "source": "original",
+      "label": "進路(嵐)",
+      "en": "The town was in the path of the typhoon.",
+      "ja": "その町は台風の進路に当たっていた。"
+    },
+    {
+      "source": "original",
+      "label": "道すじ",
+      "en": "Education is a path to a better life.",
+      "ja": "教育はよりよい生活への道すじだ。"
+    },
+    {
+      "source": "original",
+      "label": "ふみ固める",
+      "en": "The deer made a path through the grass.",
+      "ja": "シカが草をふみ分けて道を作った。"
+    }
+  ],
+  "check_points": [
+    "path と road のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "career path が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2074
+    }
+  ]
+}

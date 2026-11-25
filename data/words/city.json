@@ -1,0 +1,93 @@
+{
+  "word": "city",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈsɪti/",
+  "core_image": {
+    "text": "人と建物が密集した、大きな都市",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"20\" y=\"60\" width=\"30\" height=\"80\"/><rect x=\"56\" y=\"30\" width=\"30\" height=\"110\"/><rect x=\"92\" y=\"70\" width=\"26\" height=\"70\"/><rect x=\"124\" y=\"20\" width=\"34\" height=\"120\"/><rect x=\"164\" y=\"50\" width=\"28\" height=\"90\"/><rect x=\"198\" y=\"80\" width=\"26\" height=\"60\"/></g><text x=\"120\" y=\"10\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">都市</text></svg>"
+  },
+  "etymology": "ラテン語 civitas(市民の集まり:civil・citizen と同じ根) → 都市 → (the city)都市の住民全体",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a large and important town; all the people who live in a city."
+    }
+  ],
+  "cautions": [
+    "village(村)< town(町)< city(都市)の順に大きい",
+    "in the city=都会で/in the country=田舎で",
+    "city hall=市役所",
+    "citizen=市民(同じ根)"
+  ],
+  "patterns": [
+    {
+      "form": "a big city",
+      "meaning": "大都市"
+    },
+    {
+      "form": "city life",
+      "meaning": "都会の生活"
+    },
+    {
+      "form": "city hall",
+      "meaning": "市役所"
+    },
+    {
+      "form": "the city center",
+      "meaning": "都心"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "都市",
+      "en": "Tokyo is one of the largest cities in the world.",
+      "ja": "東京は世界最大級の都市の1つだ。"
+    },
+    {
+      "source": "original",
+      "label": "都会",
+      "en": "I prefer city life to country life.",
+      "ja": "田舎の生活より都会の生活がいい。"
+    },
+    {
+      "source": "original",
+      "label": "市役所",
+      "en": "She works at city hall.",
+      "ja": "彼女は市役所で働いている。"
+    },
+    {
+      "source": "original",
+      "label": "都心",
+      "en": "The hotel is in the city center.",
+      "ja": "そのホテルは都心にある。"
+    },
+    {
+      "source": "original",
+      "label": "住民",
+      "en": "The whole city celebrated the victory.",
+      "ja": "町中の人々が勝利を祝った。"
+    },
+    {
+      "source": "original",
+      "label": "首都",
+      "en": "Paris is the capital city of France.",
+      "ja": "パリはフランスの首都だ。"
+    }
+  ],
+  "check_points": [
+    "village / town / city の大きさの順を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "city life など長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2069
+    }
+  ]
+}
