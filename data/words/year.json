@@ -1,0 +1,97 @@
+{
+  "word": "year",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/jɪr/",
+  "core_image": {
+    "text": "季節がひと回りする1年・(years)長い年月",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"50\" stroke-dasharray=\"4 4\"/><circle cx=\"120\" cy=\"30\" r=\"8\"/><circle cx=\"170\" cy=\"80\" r=\"8\"/><circle cx=\"120\" cy=\"130\" r=\"8\"/><circle cx=\"70\" cy=\"80\" r=\"8\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">1ねん</text></svg>"
+  },
+  "etymology": "古い英語 gēar(年・季節) → 1年 → (years)何年も・年齢",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a period of twelve months; (years) a long time; a level in school."
+    }
+  ],
+  "cautions": [
+    "years=長い年月(for years=何年も)",
+    "A years old=A歳",
+    "all year round=1年じゅう",
+    "school year=学年"
+  ],
+  "patterns": [
+    {
+      "form": "for years",
+      "meaning": "何年も"
+    },
+    {
+      "form": "A years old",
+      "meaning": "A歳"
+    },
+    {
+      "form": "all year round",
+      "meaning": "1年じゅう"
+    },
+    {
+      "form": "year after year",
+      "meaning": "毎年毎年"
+    },
+    {
+      "form": "the school year",
+      "meaning": "学年"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "何年も",
+      "en": "I haven't seen him for years.",
+      "ja": "何年も彼に会っていない。"
+    },
+    {
+      "source": "original",
+      "label": "年齢",
+      "en": "My sister is fifteen years old.",
+      "ja": "妹は15歳だ。"
+    },
+    {
+      "source": "original",
+      "label": "1年じゅう",
+      "en": "You can swim there all year round.",
+      "ja": "そこでは1年じゅう泳げる。"
+    },
+    {
+      "source": "original",
+      "label": "毎年",
+      "en": "Year after year, the festival attracts more visitors.",
+      "ja": "毎年その祭りの来場者は増えている。"
+    },
+    {
+      "source": "original",
+      "label": "学年",
+      "en": "He is in his second year of high school.",
+      "ja": "彼は高校2年生だ。"
+    },
+    {
+      "source": "original",
+      "label": "新年",
+      "en": "Happy New Year!",
+      "ja": "明けましておめでとう!"
+    }
+  ],
+  "check_points": [
+    "for years の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "all year round が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2164
+    }
+  ]
+}

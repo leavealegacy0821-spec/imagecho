@@ -1,0 +1,93 @@
+{
+  "word": "month",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/mʌnθ/",
+  "core_image": {
+    "text": "月が満ち欠けするひと回り(1か月)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"30\" width=\"160\" height=\"110\"/><line x1=\"40\" y1=\"54\" x2=\"200\" y2=\"54\"/><line x1=\"40\" y1=\"76\" x2=\"200\" y2=\"76\"/><line x1=\"40\" y1=\"98\" x2=\"200\" y2=\"98\"/><line x1=\"40\" y1=\"120\" x2=\"200\" y2=\"120\"/><path d=\"M110 46 A8 8 0 1 0 110 34 A6 6 0 1 1 110 46 Z\"/></g><text x=\"210\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">1かげつ</text></svg>"
+  },
+  "etymology": "古い英語 mōnaþ(月:moon と同じ根 → 月の満ち欠けで1か月) → 1か月",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "one of the twelve periods into which a year is divided; a period of about four weeks."
+    }
+  ],
+  "cautions": [
+    "month(1か月)と moon(月)は同じ根",
+    "a month ago=1か月前",
+    "monthly=毎月の・月刊の",
+    "for months=何か月も"
+  ],
+  "patterns": [
+    {
+      "form": "once a month",
+      "meaning": "月1回"
+    },
+    {
+      "form": "for months",
+      "meaning": "何か月も"
+    },
+    {
+      "form": "monthly",
+      "meaning": "毎月の"
+    },
+    {
+      "form": "last month",
+      "meaning": "先月"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "月1回",
+      "en": "I get a haircut once a month.",
+      "ja": "月に1回散髪する。"
+    },
+    {
+      "source": "original",
+      "label": "何か月",
+      "en": "It took months to finish the project.",
+      "ja": "その計画を終えるのに何か月もかかった。"
+    },
+    {
+      "source": "original",
+      "label": "毎月",
+      "en": "The monthly rent is 60,000 yen.",
+      "ja": "家賃は月6万円だ。"
+    },
+    {
+      "source": "original",
+      "label": "先月",
+      "en": "We moved here last month.",
+      "ja": "先月ここに引っ越してきた。"
+    },
+    {
+      "source": "original",
+      "label": "月刊",
+      "en": "I read a monthly magazine.",
+      "ja": "月刊誌を読んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "年に",
+      "en": "There are twelve months in a year.",
+      "ja": "1年は12か月だ。"
+    }
+  ],
+  "check_points": [
+    "monthly の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "monthly が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2163
+    }
+  ]
+}
