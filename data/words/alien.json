@@ -1,0 +1,99 @@
+{
+  "word": "alien",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/ˈeɪliən/",
+  "core_image": {
+    "text": "まったく別の世界から来た、異質なもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"60\" r=\"22\"/><ellipse cx=\"110\" cy=\"58\" rx=\"6\" ry=\"9\"/><ellipse cx=\"130\" cy=\"58\" rx=\"6\" ry=\"9\"/><line x1=\"110\" y1=\"38\" x2=\"100\" y2=\"24\"/><line x1=\"130\" y1=\"38\" x2=\"140\" y2=\"24\"/><ellipse cx=\"120\" cy=\"120\" rx=\"50\" ry=\"14\"/></g><text x=\"200\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">異質</text></svg>"
+  },
+  "etymology": "ラテン語 alienus(他人の・よその。alius=ほかの) → よその・なじみのない → 外国人(法律用語)・宇宙人 → alienate=疎外する",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "strange and not familiar; from another country or planet."
+    },
+    {
+      "pos": "名詞",
+      "text": "a creature from another planet; a person who is not a citizen of the country where they live (formal)."
+    }
+  ],
+  "cautions": [
+    "foreign=外国の(ふつう)/alien=まったく異質でなじめない・宇宙人",
+    "be alien to A=Aにとって異質だ・相いれない",
+    "an illegal alien=不法滞在者(法律用語)",
+    "alienate=遠ざける・疎外する"
+  ],
+  "patterns": [
+    {
+      "form": "be alien to A",
+      "meaning": "Aにとって異質だ"
+    },
+    {
+      "form": "an alien culture",
+      "meaning": "異質な文化"
+    },
+    {
+      "form": "aliens from space",
+      "meaning": "宇宙人"
+    },
+    {
+      "form": "alienate A",
+      "meaning": "Aを疎外する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "異質だ",
+      "en": "Violence is alien to his nature.",
+      "ja": "暴力は彼の性格とは相いれない。"
+    },
+    {
+      "source": "original",
+      "label": "なじめない",
+      "en": "At first the culture seemed completely alien to me.",
+      "ja": "最初その文化はまったくなじめないものに思えた。"
+    },
+    {
+      "source": "original",
+      "label": "宇宙人",
+      "en": "The movie is about aliens from Mars.",
+      "ja": "その映画は火星から来た宇宙人の話だ。"
+    },
+    {
+      "source": "original",
+      "label": "外来",
+      "en": "Alien species can harm local wildlife.",
+      "ja": "外来種は地元の野生生物に害を与えることがある。"
+    },
+    {
+      "source": "original",
+      "label": "遠ざける",
+      "en": "His rude words alienated his friends.",
+      "ja": "失礼な言葉で彼は友人たちを遠ざけてしまった。"
+    },
+    {
+      "source": "original",
+      "label": "外国人",
+      "en": "Resident aliens must carry ID cards.",
+      "ja": "在留外国人は身分証を携帯しなければならない。"
+    }
+  ],
+  "check_points": [
+    "foreign と alien のちがいを言えるか",
+    "alien species の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "alien species、be alien to が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1554
+    }
+  ]
+}

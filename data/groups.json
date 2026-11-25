@@ -1420,12 +1420,16 @@
     },
     {
       "title": "使い分け:奇妙な・珍しい",
-      "note": "odd=ふつうと違って変な ／ peculiar=独特で変わった・特有の ／ curious=好奇心をそそる・好奇心が強い ／ novel=目新しい",
+      "note": "odd=ふつうと違って変な ／ peculiar=独特で変わった・特有の ／ curious=好奇心をそそる・好奇心が強い ／ novel=目新しい ／ strange=自分の世界の外の見なれない・へんな(広い) ／ weird=説明がつかずぞわっとするほど変 ／ bizarre=ふつうを飛びこえたとっぴさ ／ eccentric=中心からはずれた風変わりな人",
       "words": [
         "odd",
         "peculiar",
         "curious",
-        "novel"
+        "novel",
+        "strange",
+        "weird",
+        "bizarre",
+        "eccentric"
       ]
     },
     {
@@ -2686,6 +2690,27 @@
       "words": [
         "shadow",
         "shade"
+      ]
+    },
+    {
+      "title": "使い分け:よその・知らない",
+      "note": "foreign=自分の国・なかまの外から来た(g黙字) ／ alien=まったく別の世界の異質なもの・宇宙人 ／ exotic=遠い国のめずらしく魅力的な ／ unknown=まだ誰にも知られていない・無名の ／ strange=見なれない・へんな",
+      "words": [
+        "foreign",
+        "alien",
+        "exotic",
+        "unknown",
+        "strange"
+      ]
+    },
+    {
+      "title": "使い分け:並外れた",
+      "note": "remarkable=思わずしるしを付けたくなるほど目立ってすぐれた ／ extraordinary=ふつうの外に出た並外れた ／ brilliant=ずばぬけてすばらしい ／ tremendous=身ぶるいするほどものすごい",
+      "words": [
+        "remarkable",
+        "extraordinary",
+        "brilliant",
+        "tremendous"
       ]
     },
     {

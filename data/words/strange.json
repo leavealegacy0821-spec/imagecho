@@ -1,0 +1,94 @@
+{
+  "word": "strange",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/streɪndʒ/",
+  "core_image": {
+    "text": "自分の知る世界の外にある、見なれない・へんな",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"96\"/><polygon points=\"160,60 190,90 170,130 140,110 130,80\"/><path d=\"M90 40 q0 -10 10 -10 q10 0 10 8 q0 6 -10 8 l0 4\"/></g><text x=\"170\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">へんな</text></svg>"
+  },
+  "etymology": "古いフランス語 estrange(ラテン語 extraneus=外の:extra と同じ根) → 外から来た・見知らぬ → 見なれない・不思議な・奇妙な → stranger=見知らぬ人",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "unusual or surprising; not known or familiar."
+    }
+  ],
+  "cautions": [
+    "odd=ふつうとちがって変/strange=見なれず不思議・奇妙(最も広い)/weird=気味悪いほど変(口語)",
+    "It is strange that …=…とは不思議だ",
+    "strange to say=不思議なことに",
+    "stranger=見知らぬ人・(その土地に)不案内な人"
+  ],
+  "patterns": [
+    {
+      "form": "a strange A",
+      "meaning": "奇妙なA"
+    },
+    {
+      "form": "It is strange that …",
+      "meaning": "…とは不思議だ"
+    },
+    {
+      "form": "strange to say",
+      "meaning": "不思議なことに"
+    },
+    {
+      "form": "a stranger",
+      "meaning": "見知らぬ人"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "奇妙な",
+      "en": "I heard a strange noise last night.",
+      "ja": "昨夜、奇妙な物音が聞こえた。"
+    },
+    {
+      "source": "original",
+      "label": "不思議だ",
+      "en": "It's strange that she hasn't called yet.",
+      "ja": "彼女がまだ電話してこないのは変だ。"
+    },
+    {
+      "source": "original",
+      "label": "不思議なことに",
+      "en": "Strange to say, I wasn't nervous at all.",
+      "ja": "不思議なことに、まったく緊張しなかった。"
+    },
+    {
+      "source": "original",
+      "label": "見知らぬ",
+      "en": "I woke up in a strange room.",
+      "ja": "見知らぬ部屋で目を覚ました。"
+    },
+    {
+      "source": "original",
+      "label": "見知らぬ人",
+      "en": "Don't talk to strangers.",
+      "ja": "知らない人と話してはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "不案内",
+      "en": "Sorry, I'm a stranger here.",
+      "ja": "すみません、このあたりは不案内なんです。"
+    }
+  ],
+  "check_points": [
+    "It is strange that … の意味を言えるか",
+    "stranger の2つの意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "stranger(見知らぬ人・不案内な人)が会話で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1549
+    }
+  ]
+}

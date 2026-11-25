@@ -1,0 +1,98 @@
+{
+  "word": "unknown",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/ˌʌnˈnoʊn/",
+  "core_image": {
+    "text": "まだだれにも知られていない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"70\" y=\"40\" width=\"100\" height=\"80\" stroke-dasharray=\"5 5\"/><path d=\"M110 64 q0 -12 12 -12 q12 0 12 10 q0 8 -12 12 l0 8\"/><circle cx=\"122\" cy=\"96\" r=\"3\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">知られていない</text></svg>"
+  },
+  "etymology": "un(〜ない)+known(知られた。know の過去分詞) → 知られていない・未知の・無名の → (名詞)未知のもの(the unknown)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not known or familiar; not famous."
+    },
+    {
+      "pos": "名詞",
+      "text": "something that is not known; a person who is not famous."
+    }
+  ],
+  "cautions": [
+    "strange=見なれない/unknown=(事実・人が)知られていない・未知の・無名の",
+    "for unknown reasons=理由は不明だが",
+    "be unknown to A=Aに知られていない",
+    "fear of the unknown=未知のものへの恐れ"
+  ],
+  "patterns": [
+    {
+      "form": "for unknown reasons",
+      "meaning": "理由は不明だが"
+    },
+    {
+      "form": "an unknown artist",
+      "meaning": "無名の画家"
+    },
+    {
+      "form": "be unknown to A",
+      "meaning": "Aに知られていない"
+    },
+    {
+      "form": "the unknown",
+      "meaning": "未知のもの"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "不明",
+      "en": "The cause of the fire is still unknown.",
+      "ja": "火事の原因はまだわかっていない。"
+    },
+    {
+      "source": "original",
+      "label": "無名の",
+      "en": "The painting was done by an unknown artist.",
+      "ja": "その絵は無名の画家によって描かれた。"
+    },
+    {
+      "source": "original",
+      "label": "理由は不明",
+      "en": "For unknown reasons, the meeting was canceled.",
+      "ja": "理由は不明だが、会議は中止になった。"
+    },
+    {
+      "source": "original",
+      "label": "未知のもの",
+      "en": "Many people have a fear of the unknown.",
+      "ja": "多くの人は未知のものを恐れる。"
+    },
+    {
+      "source": "original",
+      "label": "知られていない",
+      "en": "The island was unknown to Europeans until 1600.",
+      "ja": "その島は1600年までヨーロッパ人に知られていなかった。"
+    },
+    {
+      "source": "original",
+      "label": "未知の",
+      "en": "Scientists discovered an unknown species of fish.",
+      "ja": "科学者たちは未知の種の魚を発見した。"
+    }
+  ],
+  "check_points": [
+    "the unknown の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "unknown が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1556
+    }
+  ]
+}
