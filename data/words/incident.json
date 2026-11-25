@@ -1,0 +1,94 @@
+{
+  "word": "incident",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈɪnsɪdənt/",
+  "core_image": {
+    "text": "ふと身の上に落ちてきた、ひとつの出来事",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"20\" y1=\"100\" x2=\"220\" y2=\"100\"/><circle cx=\"120\" cy=\"100\" r=\"8\"/><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"88\"/><polyline points=\"123.8,81 120,88 116.2,81\"/></g><text x=\"180\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひとつの出来事</text></svg>"
+  },
+  "etymology": "in(上に)+cid(落ちる。accident と同じ根) → 身の上に落ちてくること → (ちょっとした・ある)出来事・事件 → (国際的な)紛争・事変",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "something that happens, especially something unusual, violent or unpleasant."
+    }
+  ],
+  "cautions": [
+    "event=(大きな・予定された)出来事・行事/incident=(ある時に起きた)ひとつの出来事・事件(しばしば不快な)",
+    "accident=事故(けが・損害)/incident=事件・もめごと",
+    "without incident=何事もなく",
+    "形容詞 incidental=付随的な/incidentally=ちなみに"
+  ],
+  "patterns": [
+    {
+      "form": "an incident",
+      "meaning": "出来事・事件"
+    },
+    {
+      "form": "without incident",
+      "meaning": "何事もなく"
+    },
+    {
+      "form": "a violent incident",
+      "meaning": "暴力事件"
+    },
+    {
+      "form": "incidentally",
+      "meaning": "ちなみに"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "事件",
+      "en": "The police are investigating the incident.",
+      "ja": "警察はその事件を調べている。"
+    },
+    {
+      "source": "original",
+      "label": "何事もなく",
+      "en": "The plane landed without incident.",
+      "ja": "飛行機は何事もなく着陸した。"
+    },
+    {
+      "source": "original",
+      "label": "出来事",
+      "en": "I still remember a funny incident from my school days.",
+      "ja": "学生時代のおかしな出来事を今でも覚えている。"
+    },
+    {
+      "source": "original",
+      "label": "暴力事件",
+      "en": "There were several violent incidents after the game.",
+      "ja": "試合後、暴力事件がいくつか起きた。"
+    },
+    {
+      "source": "original",
+      "label": "ちなみに",
+      "en": "Incidentally, have you seen my keys?",
+      "ja": "ちなみに、私の鍵を見なかった?"
+    },
+    {
+      "source": "original",
+      "label": "もめごと",
+      "en": "The incident caused tension between the two countries.",
+      "ja": "その出来事は両国間に緊張をもたらした。"
+    }
+  ],
+  "check_points": [
+    "accident と incident のちがいを言えるか",
+    "without incident の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "without incident、incidentally が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1199
+    }
+  ]
+}

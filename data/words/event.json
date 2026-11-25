@@ -1,0 +1,98 @@
+{
+  "word": "event",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ɪˈvent/",
+  "core_image": {
+    "text": "外へ出てきた、目立つ出来事や催し",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"60\" y=\"80\" width=\"120\" height=\"60\"/><polyline points=\"60,80 80,60 100,80 120,60 140,80 160,60 180,80\"/><line x1=\"40\" y1=\"50\" x2=\"50\" y2=\"60\"/><line x1=\"200\" y1=\"50\" x2=\"190\" y2=\"60\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">目立つ出来事</text></svg>"
+  },
+  "etymology": "e(外へ)+vent(来る。invent・prevent・adventure と同じ根) → 外へ出てくること → (重要な)出来事 → 行事・催し・(競技の)種目 → in the event of A=万一Aの場合は",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "something that happens, especially something important; a planned social occasion; a race or competition."
+    }
+  ],
+  "cautions": [
+    "incident=(ふと起きた)ひとつの事件/event=目立つ重要な出来事・予定された行事",
+    "in the event of A=万一Aの場合は(=in case of A)/in any event=とにかく",
+    "current events=時事問題/a sports event=スポーツ大会",
+    "eventually=結局・最終的に(長文で頻出)"
+  ],
+  "patterns": [
+    {
+      "form": "a major event",
+      "meaning": "大きな出来事"
+    },
+    {
+      "form": "a school event",
+      "meaning": "学校行事"
+    },
+    {
+      "form": "in the event of A",
+      "meaning": "万一Aの場合は"
+    },
+    {
+      "form": "in any event",
+      "meaning": "いずれにせよ"
+    },
+    {
+      "form": "eventually",
+      "meaning": "結局"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "出来事",
+      "en": "The Moon landing was one of the greatest events in history.",
+      "ja": "月面着陸は歴史上最大の出来事の一つだった。"
+    },
+    {
+      "source": "original",
+      "label": "行事",
+      "en": "The school festival is the biggest event of the year.",
+      "ja": "文化祭は1年で最大の行事だ。"
+    },
+    {
+      "source": "original",
+      "label": "万一の場合",
+      "en": "In the event of fire, use the stairs.",
+      "ja": "万一火事の場合は階段を使ってください。"
+    },
+    {
+      "source": "original",
+      "label": "いずれにせよ",
+      "en": "In any event, we have to finish by Friday.",
+      "ja": "いずれにせよ金曜までに終えなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "種目",
+      "en": "She won two events at the swimming competition.",
+      "ja": "彼女は水泳大会で2種目優勝した。"
+    },
+    {
+      "source": "original",
+      "label": "結局",
+      "en": "Eventually, he agreed to our plan.",
+      "ja": "結局、彼は私たちの計画に賛成した。"
+    }
+  ],
+  "check_points": [
+    "in the event of A の意味を言えるか",
+    "eventually の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "in the event of、eventually が熟語・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1200
+    }
+  ]
+}

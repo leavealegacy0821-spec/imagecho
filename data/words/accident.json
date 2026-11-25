@@ -1,0 +1,98 @@
+{
+  "word": "accident",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈæksɪdənt/",
+  "core_image": {
+    "text": "思いがけず、ふりかかってきた出来事",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"100\" width=\"60\" height=\"30\"/><circle cx=\"54\" cy=\"132\" r=\"8\"/><circle cx=\"86\" cy=\"132\" r=\"8\"/><rect x=\"140\" y=\"100\" width=\"60\" height=\"30\"/><circle cx=\"154\" cy=\"132\" r=\"8\"/><circle cx=\"186\" cy=\"132\" r=\"8\"/><line x1=\"116\" y1=\"90\" x2=\"124\" y2=\"80\"/><line x1=\"112\" y1=\"106\" x2=\"128\" y2=\"106\"/></g><text x=\"120\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">思いがけず</text></svg>"
+  },
+  "etymology": "ac(〜へ)+cid(落ちる。incident・coincide と同じ根) → 身の上にふりかかる → 思いがけない出来事 → 事故 → by accident=偶然に → accidental=偶然の",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an unpleasant event that happens unexpectedly and causes injury or damage; something that happens by chance."
+    }
+  ],
+  "cautions": [
+    "incident=(ちょっとした)出来事・事件/accident=思いがけない出来事・事故(けが・損害)",
+    "by accident=偶然に(=by chance)/(意図せず)うっかり",
+    "a traffic [car] accident=交通事故",
+    "accidentally=偶然に・うっかり"
+  ],
+  "patterns": [
+    {
+      "form": "a traffic accident",
+      "meaning": "交通事故"
+    },
+    {
+      "form": "have an accident",
+      "meaning": "事故にあう"
+    },
+    {
+      "form": "by accident",
+      "meaning": "偶然に"
+    },
+    {
+      "form": "It was no accident that …",
+      "meaning": "…は偶然ではなかった"
+    },
+    {
+      "form": "accidentally",
+      "meaning": "うっかり"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "交通事故",
+      "en": "He was injured in a traffic accident.",
+      "ja": "彼は交通事故でけがをした。"
+    },
+    {
+      "source": "original",
+      "label": "偶然に",
+      "en": "I met an old friend by accident at the station.",
+      "ja": "駅で偶然に昔の友達に会った。"
+    },
+    {
+      "source": "original",
+      "label": "事故",
+      "en": "Most accidents happen at home.",
+      "ja": "たいていの事故は家の中で起こる。"
+    },
+    {
+      "source": "original",
+      "label": "偶然ではない",
+      "en": "It was no accident that she won.",
+      "ja": "彼女が勝ったのは偶然ではなかった。"
+    },
+    {
+      "source": "original",
+      "label": "うっかり",
+      "en": "I accidentally deleted the file.",
+      "ja": "うっかりファイルを消してしまった。"
+    },
+    {
+      "source": "original",
+      "label": "事故",
+      "en": "Sorry, it was an accident.",
+      "ja": "ごめん、わざとじゃないんだ。"
+    }
+  ],
+  "check_points": [
+    "by accident の意味を言えるか",
+    "accident と incident のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "by accident(=by chance)が熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1198
+    }
+  ]
+}

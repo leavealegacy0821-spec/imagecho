@@ -1,0 +1,103 @@
+{
+  "word": "hazard",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈhæzərd/",
+  "core_image": {
+    "text": "思わぬ害が起こりうる、危険のもと",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"90\" y=\"100\" width=\"60\" height=\"40\"/><polygon points=\"120,40 150,90 90,90\"/><line x1=\"120\" y1=\"56\" x2=\"120\" y2=\"76\"/><circle cx=\"120\" cy=\"84\" r=\"2\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">危険のもと</text></svg>"
+  },
+  "etymology": "古いフランス語 hasard(さいころ遊び・運まかせ) → 運によって起こる危険 → 害を起こしうるもの=危険(物)・危険要因 → (動詞)思い切って言う(hazard a guess) → hazardous=有害な",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "something that may be dangerous or cause harm."
+    },
+    {
+      "pos": "動詞",
+      "text": "to say something that is only a guess."
+    }
+  ],
+  "cautions": [
+    "danger=危険(状態)/hazard=害を起こしうる具体的なもの・要因(health hazard / fire hazard)",
+    "a hazard to A=Aにとって危険なもの",
+    "hazardous=有害な・危険な(hazardous waste=有害廃棄物)",
+    "hazard a guess=当てずっぽうで言ってみる"
+  ],
+  "patterns": [
+    {
+      "form": "a health hazard",
+      "meaning": "健康に害を与えるもの"
+    },
+    {
+      "form": "a fire hazard",
+      "meaning": "火災の原因になるもの"
+    },
+    {
+      "form": "a hazard to A",
+      "meaning": "Aへの危険"
+    },
+    {
+      "form": "hazardous",
+      "meaning": "有害な"
+    },
+    {
+      "form": "hazard a guess",
+      "meaning": "当てずっぽうに言う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "健康に害",
+      "en": "Smoking is a serious health hazard.",
+      "ja": "喫煙は健康に深刻な害をもたらす。"
+    },
+    {
+      "source": "original",
+      "label": "火災の原因",
+      "en": "These old wires are a fire hazard.",
+      "ja": "この古い電線は火事の原因になりかねない。"
+    },
+    {
+      "source": "original",
+      "label": "危険",
+      "en": "Ice on the road is a hazard to drivers.",
+      "ja": "路面の氷はドライバーにとって危険だ。"
+    },
+    {
+      "source": "original",
+      "label": "有害な",
+      "en": "Hazardous waste must be disposed of carefully.",
+      "ja": "有害廃棄物は慎重に処分しなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "当てずっぽうに",
+      "en": "I don't know the answer, but I'll hazard a guess.",
+      "ja": "答えはわからないけど、当てずっぽうに言ってみるよ。"
+    },
+    {
+      "source": "original",
+      "label": "災害",
+      "en": "The map shows areas at risk from natural hazards.",
+      "ja": "その地図は自然災害の危険がある地域を示している。"
+    }
+  ],
+  "check_points": [
+    "danger と hazard のちがいを言えるか",
+    "hazardous の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "health hazard、hazardous waste が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1192
+    }
+  ]
+}

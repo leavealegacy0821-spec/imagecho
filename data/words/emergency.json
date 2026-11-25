@@ -1,0 +1,98 @@
+{
+  "word": "emergency",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ɪˈmɜːrdʒənsi/",
+  "core_image": {
+    "text": "思いがけず浮かび上がった、すぐ手当てが要る事態",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"80\" y=\"70\" width=\"80\" height=\"50\"/><line x1=\"120\" y1=\"80\" x2=\"120\" y2=\"110\"/><line x1=\"105\" y1=\"95\" x2=\"135\" y2=\"95\"/><circle cx=\"110\" cy=\"124\" r=\"10\"/><circle cx=\"150\" cy=\"124\" r=\"10\"/><line x1=\"120\" y1=\"70\" x2=\"120\" y2=\"56\"/><line x1=\"110\" y1=\"50\" x2=\"104\" y2=\"42\"/><line x1=\"130\" y1=\"50\" x2=\"136\" y2=\"42\"/></g><text x=\"200\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すぐ手当て</text></svg>"
+  },
+  "etymology": "emerge(浮かび上がる。e=外へ+merge=沈む)の名詞 → 思いがけず浮かび上がった事態 → (すぐ対応が要る)緊急事態・非常時",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a sudden serious and dangerous situation that needs immediate action."
+    }
+  ],
+  "cautions": [
+    "crisis=重大な局面(長く続くことも)/emergency=突然起きてすぐ対処が必要な緊急事態",
+    "in an emergency=緊急の場合は/in case of emergency=非常時には",
+    "emergency exit [room / call]=非常口[救急室/緊急通報]",
+    "a state of emergency=緊急事態宣言"
+  ],
+  "patterns": [
+    {
+      "form": "in an emergency",
+      "meaning": "緊急時に"
+    },
+    {
+      "form": "in case of emergency",
+      "meaning": "非常の際は"
+    },
+    {
+      "form": "an emergency exit",
+      "meaning": "非常口"
+    },
+    {
+      "form": "a state of emergency",
+      "meaning": "緊急事態"
+    },
+    {
+      "form": "emergency services",
+      "meaning": "救急・消防・警察"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "緊急時",
+      "en": "In an emergency, call 119.",
+      "ja": "緊急時には119番に電話しなさい。"
+    },
+    {
+      "source": "original",
+      "label": "非常の際",
+      "en": "In case of emergency, break the glass.",
+      "ja": "非常の際はガラスを割ってください。"
+    },
+    {
+      "source": "original",
+      "label": "非常口",
+      "en": "Where is the emergency exit?",
+      "ja": "非常口はどこですか。"
+    },
+    {
+      "source": "original",
+      "label": "緊急事態",
+      "en": "The government declared a state of emergency.",
+      "ja": "政府は緊急事態を宣言した。"
+    },
+    {
+      "source": "original",
+      "label": "救急室",
+      "en": "He was taken to the emergency room.",
+      "ja": "彼は救急室に運ばれた。"
+    },
+    {
+      "source": "original",
+      "label": "緊急事態",
+      "en": "The pilot had to make an emergency landing.",
+      "ja": "パイロットは緊急着陸しなければならなかった。"
+    }
+  ],
+  "check_points": [
+    "in case of emergency の意味を言えるか",
+    "emerge との関係がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "in an emergency、emergency exit が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1195
+    }
+  ]
+}

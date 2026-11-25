@@ -1,0 +1,98 @@
+{
+  "word": "threat",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/θret/",
+  "core_image": {
+    "text": "押し迫ってきて、おびやかすもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"72\" y2=\"96\"/><path d=\"M220 140 L220 50 Q190 30 160 50 L150 70 L170 66 L156 90 L180 80 L170 110 L200 100 L200 140 Z\"/><line x1=\"146\" y1=\"80\" x2=\"96\" y2=\"80\"/><polyline points=\"103,83.8 96,80 103,76.2\"/></g><text x=\"110\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">おびやかす</text></svg>"
+  },
+  "etymology": "古い英語 thrēat(押し迫ること・群れ) → 押し迫ってくる危険 → おどし・脅迫 → 脅威・(悪いことの)きざし → threaten=おびやかす",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a statement that you will hurt someone if they do not do what you want; a person or thing that may cause damage or danger; the possibility of something bad happening."
+    }
+  ],
+  "cautions": [
+    "danger=危険(状態)/threat=外から押し迫っておびやかすもの・脅威(a threat to A)",
+    "a threat to A=Aへの脅威(前置詞 to)",
+    "under threat=おびやかされて/a threat of A=Aのおそれ",
+    "動詞 threaten=おびやかす・おどす"
+  ],
+  "patterns": [
+    {
+      "form": "a threat to A",
+      "meaning": "Aへの脅威"
+    },
+    {
+      "form": "under threat",
+      "meaning": "おびやかされて"
+    },
+    {
+      "form": "the threat of A",
+      "meaning": "Aのおそれ"
+    },
+    {
+      "form": "make a threat",
+      "meaning": "おどす"
+    },
+    {
+      "form": "pose a threat to A",
+      "meaning": "Aに脅威を与える"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "脅威",
+      "en": "Climate change is a serious threat to our planet.",
+      "ja": "気候変動は地球にとって深刻な脅威だ。"
+    },
+    {
+      "source": "original",
+      "label": "おびやかされて",
+      "en": "Many species are under threat of extinction.",
+      "ja": "多くの種が絶滅の危機にさらされている。"
+    },
+    {
+      "source": "original",
+      "label": "おそれ",
+      "en": "The threat of war worried everyone.",
+      "ja": "戦争のおそれがみんなを不安にさせた。"
+    },
+    {
+      "source": "original",
+      "label": "脅威を与える",
+      "en": "The new virus poses a threat to public health.",
+      "ja": "新しいウイルスは公衆衛生に脅威を与える。"
+    },
+    {
+      "source": "original",
+      "label": "おどし",
+      "en": "He received threats by phone.",
+      "ja": "彼は電話でおどしを受けた。"
+    },
+    {
+      "source": "original",
+      "label": "おびやかす",
+      "en": "Pollution threatens wildlife in the river.",
+      "ja": "汚染が川の野生生物をおびやかしている。"
+    }
+  ],
+  "check_points": [
+    "a threat to A の型を言えるか",
+    "pose a threat の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "a threat to、pose a threat、under threat が長文で多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1193
+    }
+  ]
+}
