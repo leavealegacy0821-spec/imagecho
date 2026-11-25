@@ -1,0 +1,94 @@
+{
+  "word": "gradual",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈɡrædʒuəl/",
+  "core_image": {
+    "text": "階段を一段ずつ、少しずつ進む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"20,140 20,128 50,128 50,116 80,116 80,104 110,104 110,92 140,92 140,80 170,80 170,68 200,68\"/></g><text x=\"70\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">一段ずつ</text></svg>"
+  },
+  "etymology": "ラテン語 gradus(一歩・段。grade・graduate・degree と同じ根) → 一段ずつの → 少しずつの・ゆるやかな → gradually=しだいに・徐々に",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "happening slowly over a long period of time; (of a slope) not steep."
+    }
+  ],
+  "cautions": [
+    "sudden(突然の)の反対:gradual=少しずつの・ゆるやかな",
+    "gradually=しだいに(長文・グラフで最頻出の副詞の一つ)",
+    "a gradual increase [decline]=ゆるやかな増加[減少]",
+    "a gradual slope=ゆるやかな坂(⇔ steep)"
+  ],
+  "patterns": [
+    {
+      "form": "a gradual increase",
+      "meaning": "ゆるやかな増加"
+    },
+    {
+      "form": "a gradual change",
+      "meaning": "少しずつの変化"
+    },
+    {
+      "form": "a gradual slope",
+      "meaning": "ゆるやかな坂"
+    },
+    {
+      "form": "gradually",
+      "meaning": "しだいに"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ゆるやかな",
+      "en": "There has been a gradual increase in temperatures.",
+      "ja": "気温がゆるやかに上昇している。"
+    },
+    {
+      "source": "original",
+      "label": "しだいに",
+      "en": "My English is gradually improving.",
+      "ja": "私の英語はしだいに上達している。"
+    },
+    {
+      "source": "original",
+      "label": "少しずつの",
+      "en": "Learning a language is a gradual process.",
+      "ja": "言語の習得は少しずつ進む過程だ。"
+    },
+    {
+      "source": "original",
+      "label": "しだいに",
+      "en": "The sky gradually became dark.",
+      "ja": "空はしだいに暗くなった。"
+    },
+    {
+      "source": "original",
+      "label": "ゆるやかな",
+      "en": "The path has a gentle, gradual slope.",
+      "ja": "その小道はゆるやかな坂になっている。"
+    },
+    {
+      "source": "original",
+      "label": "徐々に",
+      "en": "The patient made a gradual recovery.",
+      "ja": "患者は徐々に回復した。"
+    }
+  ],
+  "check_points": [
+    "gradually の意味を言えるか",
+    "gradual の反対語(sudden)を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "gradually が長文・グラフで非常によく出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1126
+    }
+  ]
+}

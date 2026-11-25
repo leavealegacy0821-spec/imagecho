@@ -1,0 +1,103 @@
+{
+  "word": "slow",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/sloʊ/",
+  "core_image": {
+    "text": "時間をかけて、ゆっくり進む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M120 140 Q120 110 150 110 Q180 110 180 140\"/><circle cx=\"190\" cy=\"124\" r=\"8\"/><line x1=\"194\" y1=\"116\" x2=\"198\" y2=\"106\"/><line x1=\"40\" y1=\"100\" x2=\"100\" y2=\"100\" stroke-dasharray=\"5 5\"/><polyline points=\"93,96.2 100,100 93,103.8\"/></g><text x=\"70\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ゆっくり</text></svg>"
+  },
+  "etymology": "古い英語 slāw(にぶい・のろい) → 動きが遅い・ゆっくりした → (時計が)遅れている → (頭の回転が)にぶい → (動詞)slow down=速度を落とす・ペースを落とす",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not moving or happening quickly; (of a clock) showing a time earlier than the correct time."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make something go more slowly; to become slower."
+    }
+  ],
+  "cautions": [
+    "slow down=速度を落とす・(経済が)減速する/slow A down=Aを遅らせる",
+    "be slow to do=なかなか〜しない(be quick to do の反対)",
+    "My watch is five minutes slow.=時計が5分遅れている(fast=進んでいる)",
+    "slowly=ゆっくり"
+  ],
+  "patterns": [
+    {
+      "form": "slow down",
+      "meaning": "速度を落とす"
+    },
+    {
+      "form": "slow A down",
+      "meaning": "Aを遅らせる"
+    },
+    {
+      "form": "be slow to do",
+      "meaning": "なかなか〜しない"
+    },
+    {
+      "form": "A is X minutes slow",
+      "meaning": "Aが X分遅れている"
+    },
+    {
+      "form": "slowly",
+      "meaning": "ゆっくり"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "速度を落とす",
+      "en": "Slow down! You're driving too fast.",
+      "ja": "スピードを落として!飛ばしすぎだよ。"
+    },
+    {
+      "source": "original",
+      "label": "減速する",
+      "en": "The economy is slowing down.",
+      "ja": "経済が減速している。"
+    },
+    {
+      "source": "original",
+      "label": "なかなか〜しない",
+      "en": "The government was slow to respond to the problem.",
+      "ja": "政府はその問題になかなか対応しなかった。"
+    },
+    {
+      "source": "original",
+      "label": "遅れている",
+      "en": "My watch is five minutes slow.",
+      "ja": "私の時計は5分遅れている。"
+    },
+    {
+      "source": "original",
+      "label": "ゆっくり",
+      "en": "Please speak more slowly.",
+      "ja": "もっとゆっくり話してください。"
+    },
+    {
+      "source": "original",
+      "label": "遅い",
+      "en": "The internet connection is very slow today.",
+      "ja": "今日はネットの接続がとても遅い。"
+    }
+  ],
+  "check_points": [
+    "slow down の意味を言えるか",
+    "時計が「遅れている」の言い方がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "slow down、be slow to do が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1127
+    }
+  ]
+}

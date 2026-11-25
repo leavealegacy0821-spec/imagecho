@@ -1,0 +1,103 @@
+{
+  "word": "hurry",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈhɜːri/",
+  "core_image": {
+    "text": "時間に追われて、あわてて急ぐ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"90\" y1=\"74\" x2=\"110\" y2=\"62\"/><line x1=\"90\" y1=\"74\" x2=\"70\" y2=\"86\"/><circle cx=\"190\" cy=\"50\" r=\"22\"/><line x1=\"190\" y1=\"50\" x2=\"190\" y2=\"34\"/><line x1=\"190\" y1=\"50\" x2=\"200\" y2=\"58\"/><line x1=\"40\" y1=\"80\" x2=\"66\" y2=\"80\"/><line x1=\"44\" y1=\"96\" x2=\"66\" y2=\"96\"/></g><text x=\"190\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あわてて</text></svg>"
+  },
+  "etymology": "時間に追われてあわてて動く → 急ぐ・あわてる → (人を)急がせる → (名詞)急ぎ・あわてること(in a hurry)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move or do something quickly because there is not much time; to make someone do something more quickly."
+    },
+    {
+      "pos": "名詞",
+      "text": "the need to do something quickly."
+    }
+  ],
+  "cautions": [
+    "hurry=時間が足りなくてあわてて急ぐ(気持ちのあせり)/rush=勢いよく突進する",
+    "in a hurry=急いで・あわてて/be in no hurry to do=〜を急いでいない",
+    "Hurry up!=急いで!/hurry A=Aをせかす",
+    "hasten=(堅)早める・急ぐ"
+  ],
+  "patterns": [
+    {
+      "form": "hurry (up)",
+      "meaning": "急ぐ"
+    },
+    {
+      "form": "hurry to A",
+      "meaning": "Aへ急いで行く"
+    },
+    {
+      "form": "in a hurry",
+      "meaning": "急いで"
+    },
+    {
+      "form": "be in no hurry to do",
+      "meaning": "〜を急いでいない"
+    },
+    {
+      "form": "There is no hurry.",
+      "meaning": "急ぐ必要はない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "急ぐ",
+      "en": "Hurry up, or we'll miss the bus.",
+      "ja": "急いで、バスに乗り遅れるよ。"
+    },
+    {
+      "source": "original",
+      "label": "急いで行く",
+      "en": "She hurried to the station.",
+      "ja": "彼女は駅へ急いだ。"
+    },
+    {
+      "source": "original",
+      "label": "急いで",
+      "en": "He left in a hurry and forgot his phone.",
+      "ja": "彼は急いで出かけてスマホを忘れた。"
+    },
+    {
+      "source": "original",
+      "label": "急いでいない",
+      "en": "I'm in no hurry. Take your time.",
+      "ja": "急いでないから、ゆっくりでいいよ。"
+    },
+    {
+      "source": "original",
+      "label": "急ぐ必要はない",
+      "en": "There's no hurry. You can finish it tomorrow.",
+      "ja": "急ぐ必要はないよ。明日終わらせればいい。"
+    },
+    {
+      "source": "original",
+      "label": "せかす",
+      "en": "Don't hurry me. I'm thinking.",
+      "ja": "せかさないで。考えているんだから。"
+    }
+  ],
+  "check_points": [
+    "in a hurry の意味を言えるか",
+    "hurry と rush のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "in a hurry、be in no hurry、Hurry up が会話で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1128
+    }
+  ]
+}

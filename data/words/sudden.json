@@ -1,0 +1,94 @@
+{
+  "word": "sudden",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈsʌdn/",
+  "core_image": {
+    "text": "前ぶれなく、いきなり起こる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"20\" y1=\"110\" x2=\"120\" y2=\"110\"/><line x1=\"120\" y1=\"110\" x2=\"120\" y2=\"40\"/><line x1=\"120\" y1=\"40\" x2=\"220\" y2=\"40\"/><polyline points=\"140,96 150,84 160,96\"/></g><text x=\"60\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いきなり</text></svg>"
+  },
+  "etymology": "ラテン語 subitaneus(sub=下から+ire=行く:不意にこっそり来る) → 前ぶれなく起こる → 急な・突然の → all of a sudden=突然に",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "happening quickly and unexpectedly."
+    }
+  ],
+  "cautions": [
+    "sudden=予想していないときに急に起こる(sudden death, a sudden change)",
+    "all of a sudden=突然(=suddenly)",
+    "abrupt=急に(途中で)ぷつりと切れる・ぶっきらぼうな",
+    "suddenly=突然・急に"
+  ],
+  "patterns": [
+    {
+      "form": "a sudden A",
+      "meaning": "突然のA"
+    },
+    {
+      "form": "a sudden change",
+      "meaning": "急な変化"
+    },
+    {
+      "form": "all of a sudden",
+      "meaning": "突然"
+    },
+    {
+      "form": "suddenly",
+      "meaning": "突然"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "突然の",
+      "en": "The sudden noise woke the baby.",
+      "ja": "突然の物音で赤ちゃんが目を覚ました。"
+    },
+    {
+      "source": "original",
+      "label": "急な",
+      "en": "There was a sudden change in the weather.",
+      "ja": "天気が急に変わった。"
+    },
+    {
+      "source": "original",
+      "label": "突然",
+      "en": "All of a sudden, the lights went out.",
+      "ja": "突然、明かりが消えた。"
+    },
+    {
+      "source": "original",
+      "label": "突然",
+      "en": "She suddenly started to cry.",
+      "ja": "彼女は突然泣きだした。"
+    },
+    {
+      "source": "original",
+      "label": "急死",
+      "en": "His sudden death shocked everyone.",
+      "ja": "彼の急死にみんながショックを受けた。"
+    },
+    {
+      "source": "original",
+      "label": "急な",
+      "en": "I had to cancel the trip because of a sudden illness.",
+      "ja": "急な病気で旅行を取りやめなければならなかった。"
+    }
+  ],
+  "check_points": [
+    "all of a sudden の意味を言えるか",
+    "sudden と abrupt のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "all of a sudden が熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1124
+    }
+  ]
+}
