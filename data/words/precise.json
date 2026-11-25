@@ -1,0 +1,98 @@
+{
+  "word": "precise",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/prɪˈsaɪs/",
+  "core_image": {
+    "text": "余分を切り落として、細部まできっちり",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"30\" y1=\"120\" x2=\"210\" y2=\"120\"/><line x1=\"30\" y1=\"112\" x2=\"30\" y2=\"128\"/><line x1=\"48\" y1=\"116\" x2=\"48\" y2=\"124\"/><line x1=\"66\" y1=\"116\" x2=\"66\" y2=\"124\"/><line x1=\"84\" y1=\"116\" x2=\"84\" y2=\"124\"/><line x1=\"102\" y1=\"112\" x2=\"102\" y2=\"128\"/><line x1=\"120\" y1=\"116\" x2=\"120\" y2=\"124\"/><line x1=\"138\" y1=\"116\" x2=\"138\" y2=\"124\"/><line x1=\"156\" y1=\"116\" x2=\"156\" y2=\"124\"/><line x1=\"174\" y1=\"112\" x2=\"174\" y2=\"128\"/><line x1=\"138\" y1=\"60\" x2=\"138\" y2=\"110\"/><polyline points=\"141.8,103 138,110 134.2,103\"/></g><text x=\"80\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">細部まできっちり</text></svg>"
+  },
+  "etymology": "pre(前を)+cise(切る。scissors・decide と同じ根) → 前を切りそろえた → 余分のない・ぴったりの → 細部まで正確な・ちょうどの → precisely=まさに・正確に",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "exact and accurate in every detail; very careful about small details."
+    }
+  ],
+  "cautions": [
+    "accurate=事実に合っている/precise=細部・数値がきっちり(量・時刻・ことば)/exact=少しのずれもない",
+    "at that precise moment=まさにその瞬間に",
+    "precisely=正確に/(返事で)まさにそのとおり",
+    "名詞 precision=精密さ(precision instruments=精密機器)"
+  ],
+  "patterns": [
+    {
+      "form": "precise instructions",
+      "meaning": "詳しく正確な指示"
+    },
+    {
+      "form": "at the precise moment",
+      "meaning": "まさにその瞬間に"
+    },
+    {
+      "form": "to be precise",
+      "meaning": "正確に言えば"
+    },
+    {
+      "form": "precisely",
+      "meaning": "正確に・まさに"
+    },
+    {
+      "form": "with precision",
+      "meaning": "精密に"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "正確な",
+      "en": "The doctor gave me precise instructions.",
+      "ja": "医者は私に細かく正確な指示を出した。"
+    },
+    {
+      "source": "original",
+      "label": "まさにその瞬間",
+      "en": "At that precise moment, the phone rang.",
+      "ja": "まさにその瞬間に電話が鳴った。"
+    },
+    {
+      "source": "original",
+      "label": "正確に言えば",
+      "en": "He arrived late — 25 minutes late, to be precise.",
+      "ja": "彼は遅れて来た。正確に言えば25分遅れだ。"
+    },
+    {
+      "source": "original",
+      "label": "正確に",
+      "en": "I can't remember precisely what she said.",
+      "ja": "彼女が何と言ったか正確には思い出せない。"
+    },
+    {
+      "source": "original",
+      "label": "まさにそのとおり",
+      "en": "\"So you think we should wait?\" \"Precisely.\"",
+      "ja": "「じゃあ待つべきだと思うの?」「まさにそのとおり」"
+    },
+    {
+      "source": "original",
+      "label": "精密に",
+      "en": "The parts were made with great precision.",
+      "ja": "部品は非常に精密に作られていた。"
+    }
+  ],
+  "check_points": [
+    "to be precise の意味を言えるか",
+    "precisely の2つの使い方を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "to be precise、precisely、名詞 precision が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1112
+    }
+  ]
+}

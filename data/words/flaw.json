@@ -1,0 +1,94 @@
+{
+  "word": "flaw",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/flɔː/",
+  "core_image": {
+    "text": "全体の中にある、小さなひび・きず",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"40\" width=\"160\" height=\"80\"/><polyline points=\"120,40 126,56 116,70 124,86\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">小さなひび</text></svg>"
+  },
+  "etymology": "中英語 flaw(はがれたかけら・薄片) → 表面のひび・きず → (計画・議論・性格の)欠点・欠陥 → flawless=欠点のない・完璧な",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a mistake or weakness that makes something less than perfect; a crack in something."
+    }
+  ],
+  "cautions": [
+    "fault=責任のある欠点・過失/flaw=全体の中の小さなひび・欠点(議論・計画・性格・宝石)/defect=製品などの欠陥(不具合)",
+    "a flaw in A=Aの欠点(前置詞は in)",
+    "a fatal flaw=致命的な欠陥",
+    "flawless=完璧な(a flawless performance)"
+  ],
+  "patterns": [
+    {
+      "form": "a flaw in A",
+      "meaning": "Aの欠点"
+    },
+    {
+      "form": "a fatal flaw",
+      "meaning": "致命的な欠陥"
+    },
+    {
+      "form": "a character flaw",
+      "meaning": "性格上の欠点"
+    },
+    {
+      "form": "flawless",
+      "meaning": "完璧な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "欠点",
+      "en": "There is a serious flaw in your argument.",
+      "ja": "君の議論には重大な欠点がある。"
+    },
+    {
+      "source": "original",
+      "label": "きず",
+      "en": "The diamond has a small flaw.",
+      "ja": "そのダイヤモンドには小さなきずがある。"
+    },
+    {
+      "source": "original",
+      "label": "欠点",
+      "en": "Everyone has flaws.",
+      "ja": "誰にでも欠点はある。"
+    },
+    {
+      "source": "original",
+      "label": "致命的な欠陥",
+      "en": "The plan had a fatal flaw.",
+      "ja": "その計画には致命的な欠陥があった。"
+    },
+    {
+      "source": "original",
+      "label": "完璧な",
+      "en": "She gave a flawless performance.",
+      "ja": "彼女は完璧な演技を見せた。"
+    },
+    {
+      "source": "original",
+      "label": "弱点",
+      "en": "Impatience is his biggest flaw.",
+      "ja": "せっかちなのが彼の最大の弱点だ。"
+    }
+  ],
+  "check_points": [
+    "a flaw in A の型を言えるか",
+    "flaw・fault・defect のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a flaw in the argument、flawless が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1119
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "word": "defect",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈdiːfekt/",
+  "core_image": {
+    "text": "あるべき部分が、欠けて足りない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"40\" width=\"70\" height=\"80\"/><rect x=\"130\" y=\"40\" width=\"70\" height=\"80\"/><polygon points=\"170,40 200,40 200,70\"/><line x1=\"170\" y1=\"40\" x2=\"200\" y2=\"70\" stroke-dasharray=\"3 3\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">欠けている</text></svg>"
+  },
+  "etymology": "de(離れて)+fect(作る・する。effect・perfect と同じ根) → 作りから離れる・欠ける → (製品・体の)欠陥・不具合 → (動詞)(国・党を)捨てて離れる=亡命する・離反する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a fault in something or in the way it has been made."
+    },
+    {
+      "pos": "動詞",
+      "text": "to leave your country or group and join another one."
+    }
+  ],
+  "cautions": [
+    "flaw=全体の中の小さなきず/defect=製品・体の機能的な欠陥(a defect in the engine / a birth defect)",
+    "形容詞 defective=欠陥のある(defective products)",
+    "動詞 defect to A=Aへ亡命する・寝返る(発音は後ろに強勢)",
+    "deficient=不足した、とつづりが似るので注意"
+  ],
+  "patterns": [
+    {
+      "form": "a defect in A",
+      "meaning": "Aの欠陥"
+    },
+    {
+      "form": "a birth defect",
+      "meaning": "先天的な障害"
+    },
+    {
+      "form": "defective A",
+      "meaning": "欠陥のあるA"
+    },
+    {
+      "form": "defect to A",
+      "meaning": "Aへ亡命する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "欠陥",
+      "en": "The car was recalled because of a defect in the brakes.",
+      "ja": "その車はブレーキの欠陥のため回収された。"
+    },
+    {
+      "source": "original",
+      "label": "欠陥のある",
+      "en": "The store will replace defective products.",
+      "ja": "その店は欠陥品を交換してくれる。"
+    },
+    {
+      "source": "original",
+      "label": "障害",
+      "en": "The baby was born with a heart defect.",
+      "ja": "その赤ちゃんは心臓に障害をもって生まれた。"
+    },
+    {
+      "source": "original",
+      "label": "亡命する",
+      "en": "The athlete defected to another country.",
+      "ja": "その選手は他国へ亡命した。"
+    },
+    {
+      "source": "original",
+      "label": "欠陥",
+      "en": "Every product is checked for defects before shipping.",
+      "ja": "すべての製品は出荷前に欠陥がないか検査される。"
+    },
+    {
+      "source": "original",
+      "label": "欠点",
+      "en": "A lack of planning was the main defect of the project.",
+      "ja": "計画不足がその事業の主な欠点だった。"
+    }
+  ],
+  "check_points": [
+    "defective の意味を言えるか",
+    "flaw と defect のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "製品の「欠陥」、defective が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1120
+    }
+  ]
+}

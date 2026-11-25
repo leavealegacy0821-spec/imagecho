@@ -1,0 +1,98 @@
+{
+  "word": "false",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/fɔːls/",
+  "core_image": {
+    "text": "見かけだけで、中身が本当でない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"40\" width=\"120\" height=\"80\"/><line x1=\"60\" y1=\"40\" x2=\"180\" y2=\"120\"/><line x1=\"180\" y1=\"40\" x2=\"60\" y2=\"120\"/></g><text x=\"200\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">うそ</text></svg>"
+  },
+  "etymology": "ラテン語 falsus(だまされた。fail・fault と同じ根) → 本当でない・まちがった → にせの・人工の(false teeth) → (人が)不誠実な",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not true or correct; not real; not sincere."
+    }
+  ],
+  "cautions": [
+    "wrong=まちがった(広い)/false=(情報・陳述が)事実でない・うその・にせの",
+    "true or false=正誤問題(T/F)",
+    "false teeth=入れ歯/a false alarm=誤報",
+    "名詞 falsehood=うそ/動詞 falsify=偽造する"
+  ],
+  "patterns": [
+    {
+      "form": "false information",
+      "meaning": "うその情報"
+    },
+    {
+      "form": "true or false",
+      "meaning": "正しいか誤りか"
+    },
+    {
+      "form": "a false alarm",
+      "meaning": "誤報"
+    },
+    {
+      "form": "false teeth",
+      "meaning": "入れ歯"
+    },
+    {
+      "form": "under a false name",
+      "meaning": "偽名で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "うその",
+      "en": "Don't spread false information on the internet.",
+      "ja": "ネットでうその情報を広めてはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "誤り",
+      "en": "Decide whether each sentence is true or false.",
+      "ja": "それぞれの文が正しいか誤りかを判断しなさい。"
+    },
+    {
+      "source": "original",
+      "label": "誤報",
+      "en": "The fire alarm turned out to be a false alarm.",
+      "ja": "火災警報は誤報だとわかった。"
+    },
+    {
+      "source": "original",
+      "label": "入れ歯",
+      "en": "My grandfather wears false teeth.",
+      "ja": "祖父は入れ歯をしている。"
+    },
+    {
+      "source": "original",
+      "label": "偽名",
+      "en": "He stayed at the hotel under a false name.",
+      "ja": "彼は偽名でホテルに泊まった。"
+    },
+    {
+      "source": "original",
+      "label": "見せかけの",
+      "en": "Don't be fooled by his false smile.",
+      "ja": "彼の作り笑いにだまされるな。"
+    }
+  ],
+  "check_points": [
+    "wrong と false のちがいを言えるか",
+    "a false alarm の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "true or false、false information が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1118
+    }
+  ]
+}

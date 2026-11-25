@@ -1,0 +1,103 @@
+{
+  "word": "wrong",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/rɔːŋ/",
+  "core_image": {
+    "text": "まっすぐから、ねじれてずれている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"40\" y1=\"120\" x2=\"200\" y2=\"40\" stroke-dasharray=\"6 6\"/><path d=\"M40 120 Q100 100 120 120 Q150 150 200 120\"/></g><text x=\"90\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ずれている</text></svg>"
+  },
+  "etymology": "古い英語(ねじれた・曲がった。wring=しぼる と同じ根) → まっすぐでない → まちがった・正しくない → (道徳的に)悪い → (機械・体の)調子が悪い(What's wrong?)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not correct; not morally right; not working properly; not suitable."
+    },
+    {
+      "pos": "名詞",
+      "text": "behavior that is not morally right."
+    }
+  ],
+  "cautions": [
+    "What's wrong (with A)?=(Aは)どうしたの?(調子・具合が悪い)",
+    "something is wrong with A=Aはどこかおかしい",
+    "go wrong=(計画・機械が)うまくいかなくなる",
+    "名詞 right and wrong=善悪(tell right from wrong)"
+  ],
+  "patterns": [
+    {
+      "form": "the wrong A",
+      "meaning": "まちがったA"
+    },
+    {
+      "form": "What's wrong with A?",
+      "meaning": "Aはどうしたの?"
+    },
+    {
+      "form": "go wrong",
+      "meaning": "うまくいかなくなる"
+    },
+    {
+      "form": "be wrong about A",
+      "meaning": "Aについて思いちがいをしている"
+    },
+    {
+      "form": "right and wrong",
+      "meaning": "善悪"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "まちがった",
+      "en": "I took the wrong train.",
+      "ja": "私はまちがった電車に乗ってしまった。"
+    },
+    {
+      "source": "original",
+      "label": "どうしたの",
+      "en": "What's wrong? You look pale.",
+      "ja": "どうしたの?顔色が悪いよ。"
+    },
+    {
+      "source": "original",
+      "label": "おかしい",
+      "en": "Something is wrong with my computer.",
+      "ja": "パソコンの調子がどこかおかしい。"
+    },
+    {
+      "source": "original",
+      "label": "うまくいかなくなる",
+      "en": "Everything went wrong on the first day of the trip.",
+      "ja": "旅行の初日は何もかもうまくいかなかった。"
+    },
+    {
+      "source": "original",
+      "label": "思いちがい",
+      "en": "I was wrong about him. He is very kind.",
+      "ja": "彼のことを誤解していた。とても親切な人だ。"
+    },
+    {
+      "source": "original",
+      "label": "善悪",
+      "en": "Children must learn the difference between right and wrong.",
+      "ja": "子どもは善悪の区別を学ばなければならない。"
+    }
+  ],
+  "check_points": [
+    "What's wrong with A? の意味を言えるか",
+    "go wrong の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "What's wrong with、go wrong、be wrong about が会話・熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1117
+    }
+  ]
+}

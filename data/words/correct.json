@@ -1,0 +1,103 @@
+{
+  "word": "correct",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/kəˈrekt/",
+  "core_image": {
+    "text": "まっすぐに直して、正しい形にする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"30,100 60,70 90,110 120,60\"/><line x1=\"130\" y1=\"84\" x2=\"160\" y2=\"84\"/><polyline points=\"153,80.2 160,84 153,87.8\"/><line x1=\"170\" y1=\"84\" x2=\"220\" y2=\"84\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まっすぐ正す</text></svg>"
+  },
+  "etymology": "cor(すっかり)+rect(まっすぐ。direct・rectangle と同じ根) → まっすぐにする → (誤りを)正す・訂正する(動詞) → まっすぐな=正しい・誤りのない(形容詞) → (ふるまいが)適切な",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "accurate or true, without any mistakes; suitable for a particular situation."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make something right or accurate; to show the mistakes in something."
+    }
+  ],
+  "cautions": [
+    "形容詞 correct=正しい(答え・事実)/right=正しい(より口語・善悪にも)",
+    "動詞 correct=誤りを直す・添削する(correct mistakes / correct an essay)",
+    "politically correct=差別的でない(言葉づかい)",
+    "名詞 correction=訂正/correctly=正しく"
+  ],
+  "patterns": [
+    {
+      "form": "the correct answer",
+      "meaning": "正しい答え"
+    },
+    {
+      "form": "be correct",
+      "meaning": "正しい"
+    },
+    {
+      "form": "correct A",
+      "meaning": "Aを訂正する・添削する"
+    },
+    {
+      "form": "correct me if I'm wrong",
+      "meaning": "間違っていたら訂正して"
+    },
+    {
+      "form": "correctly",
+      "meaning": "正しく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "正しい",
+      "en": "Choose the correct answer from the four options.",
+      "ja": "4つの選択肢から正しい答えを選びなさい。"
+    },
+    {
+      "source": "original",
+      "label": "正しい",
+      "en": "You are correct. The meeting is on Friday.",
+      "ja": "あなたの言うとおりです。会議は金曜です。"
+    },
+    {
+      "source": "original",
+      "label": "添削する",
+      "en": "The teacher corrected my English essay.",
+      "ja": "先生は私の英作文を添削してくれた。"
+    },
+    {
+      "source": "original",
+      "label": "直す",
+      "en": "Please correct any mistakes you find.",
+      "ja": "見つけた間違いは直してください。"
+    },
+    {
+      "source": "original",
+      "label": "間違っていたら",
+      "en": "Correct me if I'm wrong, but isn't this your umbrella?",
+      "ja": "間違っていたらごめんなさい、これはあなたの傘ではありませんか。"
+    },
+    {
+      "source": "original",
+      "label": "正しく",
+      "en": "Make sure you spell the name correctly.",
+      "ja": "名前のつづりを正しく書くようにしなさい。"
+    }
+  ],
+  "check_points": [
+    "動詞 correct の意味を言えるか",
+    "correct と accurate のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "動詞の「訂正する・添削する」、correctly が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1114
+    }
+  ]
+}

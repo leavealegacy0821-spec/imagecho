@@ -1,0 +1,103 @@
+{
+  "word": "exact",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/ɪɡˈzækt/",
+  "core_image": {
+    "text": "少しのずれもなく、ぴったり一致する",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"40\" width=\"60\" height=\"60\"/><rect x=\"120\" y=\"40\" width=\"60\" height=\"60\" stroke-dasharray=\"4 4\"/><line x1=\"150\" y1=\"120\" x2=\"126\" y2=\"72\"/><polyline points=\"125.7,80 126,72 132.6,76.6\"/></g><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ずれゼロ</text></svg>"
+  },
+  "etymology": "ex(外へ)+act(追い立てる) → (きっちり)取り立てる・要求する(動詞) → きっちり仕上げた → 少しのずれもない・正確な(形容詞) → exactly=ちょうど・まさに",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "correct in every detail; completely accurate."
+    },
+    {
+      "pos": "動詞",
+      "text": "to demand and get something, often by force."
+    }
+  ],
+  "cautions": [
+    "exact=少しのずれもない(数・時刻・語句・一致)。the exact same=まったく同じ",
+    "exactly=ちょうど/(返事で)そのとおり/not exactly=必ずしも〜ではない(遠回しな否定)",
+    "precise と近いが、exact は「一致」、precise は「細部のきっちりさ」",
+    "動詞 exact A (from B)=(Bから)Aを強く求める(堅い)"
+  ],
+  "patterns": [
+    {
+      "form": "the exact A",
+      "meaning": "まさにそのA"
+    },
+    {
+      "form": "the exact same A",
+      "meaning": "まったく同じA"
+    },
+    {
+      "form": "exactly",
+      "meaning": "ちょうど・まさに"
+    },
+    {
+      "form": "not exactly",
+      "meaning": "必ずしも〜ではない"
+    },
+    {
+      "form": "exact A from B",
+      "meaning": "BからAを取り立てる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "正確な",
+      "en": "What is the exact time now?",
+      "ja": "今の正確な時刻は何時ですか。"
+    },
+    {
+      "source": "original",
+      "label": "まったく同じ",
+      "en": "She was wearing the exact same dress as me.",
+      "ja": "彼女は私とまったく同じドレスを着ていた。"
+    },
+    {
+      "source": "original",
+      "label": "ちょうど",
+      "en": "The train arrived at exactly 9 o'clock.",
+      "ja": "電車はちょうど9時に着いた。"
+    },
+    {
+      "source": "original",
+      "label": "そのとおり",
+      "en": "\"You mean we have to start again?\" \"Exactly.\"",
+      "ja": "「最初からやり直しってこと?」「そのとおり」"
+    },
+    {
+      "source": "original",
+      "label": "必ずしも〜ではない",
+      "en": "He's not exactly rich, but he's comfortable.",
+      "ja": "彼は金持ちというわけではないが、暮らしには困っていない。"
+    },
+    {
+      "source": "original",
+      "label": "覚えている",
+      "en": "I can't remember his exact words.",
+      "ja": "彼の言った言葉をそのままには思い出せない。"
+    }
+  ],
+  "check_points": [
+    "not exactly の意味を言えるか",
+    "exact と precise のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "exactly、not exactly(部分否定的な言い方)が会話で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1113
+    }
+  ]
+}

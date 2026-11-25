@@ -1552,11 +1552,14 @@
     },
     {
       "title": "使い分け:欠点・誤り",
-      "note": "fault=責任のある欠点 ／ mistake=判断の誤り ／ blame=責任",
+      "note": "fault=責任のある欠点 ／ mistake=判断の誤り ／ blame=責任 ／ error=正しい道からさまよい出た誤り(計算・機械) ／ flaw=全体の中の小さなひび・欠点 ／ defect=あるべき部分が欠けた欠陥(製品・体)",
       "words": [
         "fault",
         "mistake",
-        "blame"
+        "blame",
+        "error",
+        "flaw",
+        "defect"
       ]
     },
     {
@@ -1758,6 +1761,26 @@
         "major",
         "basic",
         "fundamental"
+      ]
+    },
+    {
+      "title": "使い分け:正しい・正確な",
+      "note": "correct=まっすぐ直した=誤りがない ／ right=正しい(口語・善悪にも) ／ accurate=手間をかけて事実にぴたり合う ／ precise=余分を切って細部まできっちり ／ exact=少しのずれもなく一致 ／ proper=その場にふさわしい本来の形",
+      "words": [
+        "correct",
+        "accurate",
+        "precise",
+        "exact",
+        "proper",
+        "right"
+      ]
+    },
+    {
+      "title": "使い分け:まちがった・うその",
+      "note": "wrong=まっすぐからねじれてずれた(広い) ／ false=見かけだけで事実でない・にせの",
+      "words": [
+        "wrong",
+        "false"
       ]
     },
     {
