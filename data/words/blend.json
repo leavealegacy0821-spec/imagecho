@@ -1,0 +1,99 @@
+{
+  "word": "blend",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/blend/",
+  "core_image": {
+    "text": "なめらかにまぜて、ひとつに調和させる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M40 60 Q80 40 120 60 T200 60\"/><path d=\"M40 100 Q80 80 120 100 T200 100\" stroke-dasharray=\"4 4\"/><path d=\"M120 60 Q130 80 120 100\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">なめらかにとけあう</text></svg>"
+  },
+  "etymology": "古いノルド語 blanda(まぜる) → まぜ合わせる → (なめらかに)調和させる・とけこむ(blend in) → (名詞)ブレンド・調和したまぜ合わせ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to mix things together so they become smooth or combined; to look or sound good together."
+    },
+    {
+      "pos": "名詞",
+      "text": "a mixture of different things that combine well."
+    }
+  ],
+  "cautions": [
+    "mix=まぜる(広い・ごちゃまぜも)/blend=なめらかにまぜて調和させる(色・味・文化)",
+    "blend A with B=AとBをうまく合わせる",
+    "blend in (with A)=(Aに)とけこむ・目立たない",
+    "a blend of A and B=AとBがうまく合わさったもの"
+  ],
+  "patterns": [
+    {
+      "form": "blend A with B",
+      "meaning": "AとBをまぜ合わせる"
+    },
+    {
+      "form": "blend in with A",
+      "meaning": "Aにとけこむ"
+    },
+    {
+      "form": "a blend of A and B",
+      "meaning": "AとBの調和"
+    },
+    {
+      "form": "blend together",
+      "meaning": "とけあう"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "まぜ合わせる",
+      "en": "Blend the butter and sugar until smooth.",
+      "ja": "バターと砂糖をなめらかになるまでまぜてください。"
+    },
+    {
+      "source": "original",
+      "label": "とけこむ",
+      "en": "The new student quickly blended in with the class.",
+      "ja": "転校生はすぐにクラスにとけこんだ。"
+    },
+    {
+      "source": "original",
+      "label": "調和",
+      "en": "The design is a blend of old and new.",
+      "ja": "そのデザインは古いものと新しいものの調和だ。"
+    },
+    {
+      "source": "original",
+      "label": "とけあう",
+      "en": "The colors blend together beautifully.",
+      "ja": "色が美しくとけあっている。"
+    },
+    {
+      "source": "original",
+      "label": "ブレンド",
+      "en": "This coffee is a blend of three kinds of beans.",
+      "ja": "このコーヒーは3種類の豆のブレンドだ。"
+    },
+    {
+      "source": "original",
+      "label": "とけこむ",
+      "en": "The animal's fur blends with the snow.",
+      "ja": "その動物の毛は雪にとけこむ。"
+    }
+  ],
+  "check_points": [
+    "mix と blend のちがいを言えるか",
+    "blend in の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "blend in、a blend of が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1447
+    }
+  ]
+}

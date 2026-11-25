@@ -1,0 +1,93 @@
+{
+  "word": "divide",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈvaɪd/",
+  "core_image": {
+    "text": "ひとつのものを、いくつかに分ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"50\"/><line x1=\"120\" y1=\"30\" x2=\"120\" y2=\"130\"/><line x1=\"70\" y1=\"80\" x2=\"170\" y2=\"80\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">分割</text></svg>"
+  },
+  "etymology": "ラテン語 dividere(di=離して+videre=分ける) → (1つのものを)分ける・分割する → (数を)割る → (意見が)分かれる・対立させる → 名詞 division",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to separate into parts or groups; to share something; to calculate how many times one number contains another; to cause people to disagree."
+    }
+  ],
+  "cautions": [
+    "separate=くっついたものを引き離す/divide=1つのものを部分に分ける",
+    "divide A into B=AをBに分ける/divide A by B=AをBで割る",
+    "be divided over A=Aで意見が分かれる",
+    "名詞 division=分割・部門・割り算"
+  ],
+  "patterns": [
+    {
+      "form": "divide A into B",
+      "meaning": "AをBに分ける"
+    },
+    {
+      "form": "divide A by B",
+      "meaning": "AをBで割る"
+    },
+    {
+      "form": "divide A between B",
+      "meaning": "AをBで分け合う"
+    },
+    {
+      "form": "be divided over A",
+      "meaning": "Aで意見が分かれる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "分ける",
+      "en": "The teacher divided the class into four groups.",
+      "ja": "先生はクラスを4つのグループに分けた。"
+    },
+    {
+      "source": "original",
+      "label": "割る",
+      "en": "10 divided by 2 is 5.",
+      "ja": "10割る2は5だ。"
+    },
+    {
+      "source": "original",
+      "label": "分け合う",
+      "en": "They divided the money between them.",
+      "ja": "彼らはそのお金を分け合った。"
+    },
+    {
+      "source": "original",
+      "label": "意見が分かれる",
+      "en": "People are divided over the new law.",
+      "ja": "新しい法律について人々の意見は分かれている。"
+    },
+    {
+      "source": "original",
+      "label": "分かれる",
+      "en": "The road divides here.",
+      "ja": "道はここで分かれている。"
+    },
+    {
+      "source": "original",
+      "label": "部門",
+      "en": "She works in the sales division.",
+      "ja": "彼女は営業部門で働いている。"
+    }
+  ],
+  "check_points": [
+    "divide A into B と divide A by B の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "divide A into B、be divided over が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1449
+    }
+  ]
+}

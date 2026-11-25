@@ -1,0 +1,94 @@
+{
+  "word": "connect",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kəˈnekt/",
+  "core_image": {
+    "text": "ふたつのものを、線や道でつなぐ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"60\" width=\"50\" height=\"40\"/><rect x=\"160\" y=\"60\" width=\"50\" height=\"40\"/><line x1=\"80\" y1=\"80\" x2=\"160\" y2=\"80\"/><circle cx=\"80\" cy=\"80\" r=\"4\"/><circle cx=\"160\" cy=\"80\" r=\"4\"/></g><text x=\"120\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">つなぐ</text></svg>"
+  },
+  "etymology": "con(共に)+nect(結ぶ。nexus と同じ根) → いっしょに結ぶ → つなぐ・接続する → (人と人を)つなぐ・(心が)通じ合う → 名詞 connection(つながり・関係・乗り継ぎ)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to join two things together; to link people or ideas; to make a connection to the internet or a phone line."
+    }
+  ],
+  "cautions": [
+    "join=くっつけて1つにする/connect=(線・道・回線で)つなぐ・接続する/link=関連づける",
+    "connect A to [with] B=AをBにつなぐ",
+    "be connected with A=Aと関係がある",
+    "connection=つながり・(交通の)乗り継ぎ"
+  ],
+  "patterns": [
+    {
+      "form": "connect A to B",
+      "meaning": "AをBにつなぐ"
+    },
+    {
+      "form": "be connected with A",
+      "meaning": "Aと関係がある"
+    },
+    {
+      "form": "connect to the internet",
+      "meaning": "インターネットに接続する"
+    },
+    {
+      "form": "in connection with A",
+      "meaning": "Aに関連して"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "つなぐ",
+      "en": "Connect the printer to your computer.",
+      "ja": "プリンターをパソコンにつないでください。"
+    },
+    {
+      "source": "original",
+      "label": "関係がある",
+      "en": "The police think the two crimes are connected.",
+      "ja": "警察は2つの犯罪には関係があると考えている。"
+    },
+    {
+      "source": "original",
+      "label": "接続する",
+      "en": "I can't connect to the Wi-Fi.",
+      "ja": "Wi-Fiにつながらない。"
+    },
+    {
+      "source": "original",
+      "label": "結ぶ",
+      "en": "The tunnel connects the two cities.",
+      "ja": "そのトンネルは2つの都市を結んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "心が通じ合う",
+      "en": "Music helps people connect with each other.",
+      "ja": "音楽は人と人が心を通わせる助けになる。"
+    },
+    {
+      "source": "original",
+      "label": "関連して",
+      "en": "He was arrested in connection with the robbery.",
+      "ja": "彼はその強盗事件に関連して逮捕された。"
+    }
+  ],
+  "check_points": [
+    "connect A to B の型を言えるか",
+    "in connection with A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be connected with、connection が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1442
+    }
+  ]
+}

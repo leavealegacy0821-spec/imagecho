@@ -1,0 +1,99 @@
+{
+  "word": "separate",
+  "pos": [
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/ˈsepəreɪt/",
+  "core_image": {
+    "text": "くっついていたものを、離して分ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"60\" width=\"50\" height=\"40\"/><rect x=\"150\" y=\"60\" width=\"50\" height=\"40\"/><line x1=\"114\" y1=\"80\" x2=\"94\" y2=\"80\"/><polyline points=\"101,83.8 94,80 101,76.2\"/><line x1=\"126\" y1=\"80\" x2=\"146\" y2=\"80\"/><polyline points=\"139,76.2 146,80 139,83.8\"/><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"120\" stroke-dasharray=\"4 4\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">離す</text></svg>"
+  },
+  "etymology": "se(離れて)+parare(準備する・整える) → 離して整える → 分ける・引き離す(動詞) → 別々の・離れた(形容詞・発音 /ˈseprət/) → 名詞 separation",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to divide into parts; to move apart; (of a couple) to stop living together."
+    },
+    {
+      "pos": "形容詞",
+      "text": "different; not joined or connected."
+    }
+  ],
+  "cautions": [
+    "divide=(1つのものを)部分に分ける/separate=(くっついている・まざっている)ものを引き離す",
+    "separate A from B=AをBから引き離す",
+    "形容詞 separate=別々の(発音は /ˈseprət/)",
+    "separately=別々に"
+  ],
+  "patterns": [
+    {
+      "form": "separate A from B",
+      "meaning": "AをBから引き離す"
+    },
+    {
+      "form": "separate A into B",
+      "meaning": "AをBに分ける"
+    },
+    {
+      "form": "separate rooms",
+      "meaning": "別々の部屋"
+    },
+    {
+      "form": "separately",
+      "meaning": "別々に"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "分ける",
+      "en": "Separate the eggs into whites and yolks.",
+      "ja": "卵を白身と黄身に分けてください。"
+    },
+    {
+      "source": "original",
+      "label": "引き離す",
+      "en": "The mother was separated from her child in the crowd.",
+      "ja": "母親は人ごみで子どもとはぐれた。"
+    },
+    {
+      "source": "original",
+      "label": "別々の",
+      "en": "The twins have separate bedrooms.",
+      "ja": "双子は別々の寝室をもっている。"
+    },
+    {
+      "source": "original",
+      "label": "別居する",
+      "en": "His parents separated last year.",
+      "ja": "彼の両親は昨年別居した。"
+    },
+    {
+      "source": "original",
+      "label": "別々に",
+      "en": "Please pay separately.",
+      "ja": "お支払いは別々にお願いします。"
+    },
+    {
+      "source": "original",
+      "label": "分ける",
+      "en": "Separate the trash into burnable and non-burnable.",
+      "ja": "ごみを燃えるものと燃えないものに分けなさい。"
+    }
+  ],
+  "check_points": [
+    "separate A from B の型を言えるか",
+    "divide と separate のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "separate A from B、形容詞の発音が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1448
+    }
+  ]
+}

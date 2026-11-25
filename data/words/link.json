@@ -1,0 +1,99 @@
+{
+  "word": "link",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/lɪŋk/",
+  "core_image": {
+    "text": "くさりの輪のように、つながりをつくる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"70\" cy=\"80\" rx=\"30\" ry=\"18\"/><ellipse cx=\"120\" cy=\"80\" rx=\"30\" ry=\"18\"/><ellipse cx=\"170\" cy=\"80\" rx=\"30\" ry=\"18\"/></g><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">つながり</text></svg>"
+  },
+  "etymology": "くさりの輪 → 輪・つなぎ → (2つのものの)つながり・関連 → (動詞)結びつける・関連づける → (ネットの)リンク",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a connection between two things or people; one ring of a chain; a connection between websites."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make a connection between two things."
+    }
+  ],
+  "cautions": [
+    "connect=(線・道でつないで)接続する/link=(関係・関連を)結びつける・関連づける(原因と結果など)",
+    "a link between A and B=AとBの関連(長文で頻出)",
+    "be linked to [with] A=Aと関連している",
+    "click on the link=リンクをクリックする"
+  ],
+  "patterns": [
+    {
+      "form": "a link between A and B",
+      "meaning": "AとBの関連"
+    },
+    {
+      "form": "be linked to A",
+      "meaning": "Aと関連している"
+    },
+    {
+      "form": "link A to [with] B",
+      "meaning": "AをBと結びつける"
+    },
+    {
+      "form": "click on a link",
+      "meaning": "リンクをクリックする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "関連",
+      "en": "There is a link between smoking and cancer.",
+      "ja": "喫煙とがんには関連がある。"
+    },
+    {
+      "source": "original",
+      "label": "関連している",
+      "en": "Lack of sleep is linked to poor health.",
+      "ja": "睡眠不足は健康不良と関連している。"
+    },
+    {
+      "source": "original",
+      "label": "結ぶ",
+      "en": "A new bridge links the island to the mainland.",
+      "ja": "新しい橋が島と本土を結んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "リンク",
+      "en": "Click on the link to read more.",
+      "ja": "続きを読むにはリンクをクリックしてください。"
+    },
+    {
+      "source": "original",
+      "label": "つながり",
+      "en": "The two countries have strong trade links.",
+      "ja": "両国は強い貿易のつながりがある。"
+    },
+    {
+      "source": "original",
+      "label": "輪",
+      "en": "A chain is only as strong as its weakest link.",
+      "ja": "くさりはいちばん弱い輪の強さしかない。"
+    }
+  ],
+  "check_points": [
+    "a link between A and B の意味を言えるか",
+    "be linked to A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "a link between、be linked to が研究系の長文で多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1441
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "join",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dʒɔɪn/",
+  "core_image": {
+    "text": "くっついて、仲間・ひとつのものに加わる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><circle cx=\"100\" cy=\"52\" r=\"10\"/><line x1=\"100\" y1=\"62\" x2=\"100\" y2=\"106\"/><line x1=\"100\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"100\" y1=\"106\" x2=\"110\" y2=\"140\"/><circle cx=\"140\" cy=\"52\" r=\"10\"/><line x1=\"140\" y1=\"62\" x2=\"140\" y2=\"106\"/><line x1=\"140\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"140\" y1=\"106\" x2=\"150\" y2=\"140\"/><circle cx=\"200\" cy=\"62\" r=\"10\"/><line x1=\"200\" y1=\"72\" x2=\"200\" y2=\"116\"/><line x1=\"200\" y1=\"116\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"116\" x2=\"210\" y2=\"140\"/><line x1=\"188\" y1=\"90\" x2=\"160\" y2=\"90\"/><polyline points=\"167,93.8 160,90 167,86.2\"/></g><text x=\"100\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">加わる</text></svg>"
+  },
+  "etymology": "ラテン語 jungere(結びつける。junction・joint と同じ根) → くっつける・つなぎ合わせる → (団体・人に)加わる・参加する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to become a member of a group; to do something together with someone; to connect two things."
+    }
+  ],
+  "cautions": [
+    "join A=Aに加わる(他動詞:× join to A)。participate in A=Aに参加する",
+    "join A in B=AといっしょにBをする",
+    "join the army=入隊する/join hands=手をつなぐ・協力する",
+    "connect=(線で)つなぐ/join=くっつけて1つにする"
+  ],
+  "patterns": [
+    {
+      "form": "join A",
+      "meaning": "Aに加わる"
+    },
+    {
+      "form": "join A in doing",
+      "meaning": "Aといっしょに〜する"
+    },
+    {
+      "form": "join hands",
+      "meaning": "手を取り合う"
+    },
+    {
+      "form": "join A to [and] B",
+      "meaning": "AとBをつなぐ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "加わる",
+      "en": "Would you like to join us for lunch?",
+      "ja": "いっしょにお昼どう?"
+    },
+    {
+      "source": "original",
+      "label": "入る",
+      "en": "She joined the tennis club.",
+      "ja": "彼女はテニス部に入った。"
+    },
+    {
+      "source": "original",
+      "label": "いっしょに",
+      "en": "Please join me in welcoming our guest.",
+      "ja": "ゲストをいっしょに歓迎しましょう。"
+    },
+    {
+      "source": "original",
+      "label": "手を取り合う",
+      "en": "Countries must join hands to fight climate change.",
+      "ja": "気候変動と戦うために国々は手を取り合わなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "つなぐ",
+      "en": "Join the two pieces of wood with glue.",
+      "ja": "2枚の板をのりでくっつけて。"
+    },
+    {
+      "source": "original",
+      "label": "合流する",
+      "en": "The river joins the sea here.",
+      "ja": "その川はここで海に注ぐ。"
+    }
+  ],
+  "check_points": [
+    "join A(× join to A)がわかるか",
+    "participate in との形のちがいがわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "join は他動詞(× join to)が文法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1443
+    }
+  ]
+}
