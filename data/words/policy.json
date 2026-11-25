@@ -1,0 +1,97 @@
+{
+  "word": "policy",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈpɑːləsi/",
+  "core_image": {
+    "text": "国や組織が決めた、行動の方針",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"80\" y=\"50\" width=\"80\" height=\"90\"/><polygon points=\"74,50 120,20 166,50\"/><line x1=\"96\" y1=\"70\" x2=\"144\" y2=\"70\"/><line x1=\"96\" y1=\"90\" x2=\"144\" y2=\"90\"/><line x1=\"96\" y1=\"110\" x2=\"130\" y2=\"110\"/></g><text x=\"200\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">方針</text></svg>"
+  },
+  "etymology": "ギリシャ語 politeia(国家の運営。police・politics と同じ「都市国家 polis」の根) → 国の治め方 → (政府・会社の)政策・方針 → (別語源)保険証券(insurance policy)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a set of ideas or plans agreed by a government, company or organization; a document that shows an insurance agreement."
+    }
+  ],
+  "cautions": [
+    "plan=計画(具体的)/policy=(政府・組織の)基本方針・政策",
+    "foreign [economic] policy=外交[経済]政策",
+    "company policy=会社の方針/Honesty is the best policy.=正直は最良の策",
+    "insurance policy=保険証券(別語源)"
+  ],
+  "patterns": [
+    {
+      "form": "foreign policy",
+      "meaning": "外交政策"
+    },
+    {
+      "form": "economic policy",
+      "meaning": "経済政策"
+    },
+    {
+      "form": "company policy",
+      "meaning": "会社の方針"
+    },
+    {
+      "form": "a policy on A",
+      "meaning": "Aに関する方針"
+    },
+    {
+      "form": "the best policy",
+      "meaning": "最善の策"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "政策",
+      "en": "The government announced a new economic policy.",
+      "ja": "政府は新しい経済政策を発表した。"
+    },
+    {
+      "source": "original",
+      "label": "方針",
+      "en": "It is company policy not to give refunds.",
+      "ja": "返金しないのが会社の方針だ。"
+    },
+    {
+      "source": "original",
+      "label": "最善の策",
+      "en": "Honesty is the best policy.",
+      "ja": "正直は最良の策。"
+    },
+    {
+      "source": "original",
+      "label": "外交政策",
+      "en": "The country's foreign policy has changed.",
+      "ja": "その国の外交政策は変わった。"
+    },
+    {
+      "source": "original",
+      "label": "方針",
+      "en": "The school has a strict policy on phones.",
+      "ja": "その学校は携帯電話について厳しい方針をとっている。"
+    },
+    {
+      "source": "original",
+      "label": "保険証券",
+      "en": "Keep your insurance policy in a safe place.",
+      "ja": "保険証券は安全な場所に保管しなさい。"
+    }
+  ],
+  "check_points": [
+    "plan と policy のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "policy が社会・政治の長文で多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1478
+    }
+  ]
+}

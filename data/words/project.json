@@ -1,0 +1,99 @@
+{
+  "word": "project",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈprɑːdʒekt/",
+  "core_image": {
+    "text": "前へ投げ出すように、思い描いて進める大きな計画",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"90\" width=\"40\" height=\"50\"/><rect x=\"90\" y=\"70\" width=\"40\" height=\"70\" stroke-dasharray=\"4 4\"/><rect x=\"140\" y=\"50\" width=\"40\" height=\"90\" stroke-dasharray=\"4 4\"/><line x1=\"30\" y1=\"40\" x2=\"200\" y2=\"40\"/><polyline points=\"193,36.2 200,40 193,43.8\"/></g><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">前へ進める計画</text></svg>"
+  },
+  "etymology": "pro(前へ)+ject(投げる。reject・inject と同じ根) → 前へ投げ出す → (前もって思い描いた)計画・事業・研究課題 → (動詞・後ろ強勢)見積もる・投影する・突き出る",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a large planned piece of work; a piece of research done by students."
+    },
+    {
+      "pos": "動詞",
+      "text": "to calculate what will happen in the future; to show a film or image on a screen; to stick out."
+    }
+  ],
+  "cautions": [
+    "plan=予定・計画(広い)/project=目的のある大がかりな事業・研究課題",
+    "a research [school] project=研究課題[学校の課題]",
+    "動詞(後ろ強勢)project=予測する(be projected to do=〜すると予測される)",
+    "projector=映写機"
+  ],
+  "patterns": [
+    {
+      "form": "a research project",
+      "meaning": "研究プロジェクト"
+    },
+    {
+      "form": "carry out a project",
+      "meaning": "事業を行う"
+    },
+    {
+      "form": "be projected to do",
+      "meaning": "〜すると予測される"
+    },
+    {
+      "form": "project A onto B",
+      "meaning": "AをBに映す"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "事業",
+      "en": "The project will take three years to finish.",
+      "ja": "その事業は完了まで3年かかる。"
+    },
+    {
+      "source": "original",
+      "label": "課題",
+      "en": "We did a group project on climate change.",
+      "ja": "私たちは気候変動についてグループ課題に取り組んだ。"
+    },
+    {
+      "source": "original",
+      "label": "予測される",
+      "en": "The population is projected to fall by 20%.",
+      "ja": "人口は20%減ると予測されている。"
+    },
+    {
+      "source": "original",
+      "label": "映す",
+      "en": "The teacher projected the photo onto the screen.",
+      "ja": "先生はその写真をスクリーンに映した。"
+    },
+    {
+      "source": "original",
+      "label": "研究",
+      "en": "She is working on a research project.",
+      "ja": "彼女は研究プロジェクトに取り組んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "突き出る",
+      "en": "A rock projected from the cliff.",
+      "ja": "岩が崖から突き出ていた。"
+    }
+  ],
+  "check_points": [
+    "plan と project のちがいを言えるか",
+    "be projected to do の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be projected to do がグラフ・時事で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1474
+    }
+  ]
+}

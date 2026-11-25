@@ -1,0 +1,93 @@
+{
+  "word": "strategy",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈstrætədʒi/",
+  "core_image": {
+    "text": "大きな目的のために練った、全体の作戦",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"30\" width=\"180\" height=\"100\"/><circle cx=\"60\" cy=\"100\" r=\"6\"/><circle cx=\"80\" cy=\"60\" r=\"6\"/><circle cx=\"120\" cy=\"90\" r=\"6\"/><polygon points=\"180,50 186,60 174,60\"/><line x1=\"66\" y1=\"96\" x2=\"170\" y2=\"58\" stroke-dasharray=\"5 5\"/><polyline points=\"162.1,56.8 170,58 164.7,64\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">全体の作戦</text></svg>"
+  },
+  "etymology": "ギリシャ語 stratēgos(軍の指揮官) → 将軍の術=戦略 → (目的を達成するための)長期的な戦略・計画 → strategic=戦略的な",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a plan designed to achieve a particular long-term aim; the skill of planning in war or business."
+    }
+  ],
+  "cautions": [
+    "tactic=その場その場の具体的な作戦・手/strategy=大きな目的のための全体的・長期的な戦略",
+    "a strategy for doing=〜するための戦略",
+    "marketing [business] strategy=販売[経営]戦略",
+    "strategic=戦略上重要な"
+  ],
+  "patterns": [
+    {
+      "form": "a strategy for A",
+      "meaning": "Aの戦略"
+    },
+    {
+      "form": "a marketing strategy",
+      "meaning": "販売戦略"
+    },
+    {
+      "form": "develop a strategy",
+      "meaning": "戦略を立てる"
+    },
+    {
+      "form": "strategic",
+      "meaning": "戦略的な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "戦略",
+      "en": "The company needs a new strategy to increase sales.",
+      "ja": "その会社は売上を伸ばす新しい戦略が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "作戦",
+      "en": "What's your strategy for passing the exam?",
+      "ja": "試験に受かるための作戦は何?"
+    },
+    {
+      "source": "original",
+      "label": "戦略を立てる",
+      "en": "The government developed a strategy to fight poverty.",
+      "ja": "政府は貧困と戦う戦略を立てた。"
+    },
+    {
+      "source": "original",
+      "label": "販売戦略",
+      "en": "Their marketing strategy targets young people.",
+      "ja": "彼らの販売戦略は若者をねらっている。"
+    },
+    {
+      "source": "original",
+      "label": "戦略的な",
+      "en": "The island has a strategic location.",
+      "ja": "その島は戦略上重要な位置にある。"
+    },
+    {
+      "source": "original",
+      "label": "戦略",
+      "en": "Chess is a game of strategy.",
+      "ja": "チェスは戦略のゲームだ。"
+    }
+  ],
+  "check_points": [
+    "strategy と tactic のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "strategy が経済・評論で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1476
+    }
+  ]
+}

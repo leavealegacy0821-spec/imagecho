@@ -1,0 +1,93 @@
+{
+  "word": "tactic",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈtæktɪk/",
+  "core_image": {
+    "text": "その場で目的に向けて打つ、具体的な手",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"30\" width=\"180\" height=\"100\"/><circle cx=\"80\" cy=\"80\" r=\"8\"/><line x1=\"90\" y1=\"80\" x2=\"140\" y2=\"60\"/><polyline points=\"132.1,59 140,60 134.9,66.2\"/><circle cx=\"150\" cy=\"56\" r=\"6\"/><line x1=\"140\" y1=\"90\" x2=\"160\" y2=\"110\"/><line x1=\"160\" y1=\"90\" x2=\"140\" y2=\"110\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">具体的な手</text></svg>"
+  },
+  "etymology": "ギリシャ語 taktikē(並べる術。軍隊を配置する技) → 戦術 → (目的のための)具体的な手段・やり口(ふつう複数形 tactics)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a method that you use to achieve something, especially in a game, war or business."
+    }
+  ],
+  "cautions": [
+    "strategy=全体の長期的な戦略/tactic(s)=その場で使う具体的な作戦・手口",
+    "ふつう複数形 tactics:change tactics=作戦を変える",
+    "scare tactics=おどしの手口/delaying tactics=引き延ばし戦術",
+    "tactical=戦術上の"
+  ],
+  "patterns": [
+    {
+      "form": "change tactics",
+      "meaning": "作戦を変える"
+    },
+    {
+      "form": "a clever tactic",
+      "meaning": "うまい手"
+    },
+    {
+      "form": "scare tactics",
+      "meaning": "おどしの手口"
+    },
+    {
+      "form": "tactical",
+      "meaning": "戦術上の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "作戦",
+      "en": "The coach changed tactics in the second half.",
+      "ja": "監督は後半に作戦を変えた。"
+    },
+    {
+      "source": "original",
+      "label": "手",
+      "en": "Asking questions is a good tactic for learning.",
+      "ja": "質問するのは学ぶためのよい手だ。"
+    },
+    {
+      "source": "original",
+      "label": "手口",
+      "en": "The company used scare tactics to sell insurance.",
+      "ja": "その会社はおどしの手口で保険を売った。"
+    },
+    {
+      "source": "original",
+      "label": "戦術",
+      "en": "Their tactics won them the game.",
+      "ja": "彼らの戦術が勝利をもたらした。"
+    },
+    {
+      "source": "original",
+      "label": "戦術上の",
+      "en": "It was a tactical mistake.",
+      "ja": "それは戦術上のミスだった。"
+    },
+    {
+      "source": "original",
+      "label": "作戦",
+      "en": "We need new tactics to deal with the problem.",
+      "ja": "その問題に対処する新しい作戦が必要だ。"
+    }
+  ],
+  "check_points": [
+    "strategy と tactic のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "tactics が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1477
+    }
+  ]
+}

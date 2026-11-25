@@ -1,0 +1,103 @@
+{
+  "word": "plan",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/plæn/",
+  "core_image": {
+    "text": "これからのことを、平らな紙に描いた段取り",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"30\" width=\"160\" height=\"100\"/><line x1=\"60\" y1=\"60\" x2=\"100\" y2=\"60\"/><line x1=\"100\" y1=\"60\" x2=\"100\" y2=\"100\"/><line x1=\"100\" y1=\"100\" x2=\"170\" y2=\"100\"/><line x1=\"160\" y1=\"100\" x2=\"180\" y2=\"100\"/><polyline points=\"173,96.2 180,100 173,103.8\"/><circle cx=\"60\" cy=\"60\" r=\"4\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">段取り</text></svg>"
+  },
+  "etymology": "ラテン語 planus(平らな。plain・plane と同じ根) → 平面に描いた図・設計図 → 計画・予定 → (動詞)計画する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "something you intend to do and how you will do it; a drawing of a building or machine."
+    },
+    {
+      "pos": "動詞",
+      "text": "to decide what you will do and how."
+    }
+  ],
+  "cautions": [
+    "plan=予定・計画(広い・日常)/project=大きな事業・課題/scheme=(英)公の計画・(米)たくらみ",
+    "plan to do / plan on doing=〜するつもりだ",
+    "make plans=計画を立てる/go according to plan=予定どおりに進む",
+    "plan ahead=前もって計画する"
+  ],
+  "patterns": [
+    {
+      "form": "plan to do",
+      "meaning": "〜するつもりだ"
+    },
+    {
+      "form": "make plans",
+      "meaning": "計画を立てる"
+    },
+    {
+      "form": "go according to plan",
+      "meaning": "予定どおりに進む"
+    },
+    {
+      "form": "plan ahead",
+      "meaning": "前もって計画する"
+    },
+    {
+      "form": "a plan for A",
+      "meaning": "Aの計画"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "つもり",
+      "en": "I plan to visit Kyoto next month.",
+      "ja": "来月京都を訪れるつもりだ。"
+    },
+    {
+      "source": "original",
+      "label": "予定",
+      "en": "Do you have any plans for the weekend?",
+      "ja": "週末の予定はある?"
+    },
+    {
+      "source": "original",
+      "label": "予定どおり",
+      "en": "Everything went according to plan.",
+      "ja": "すべて予定どおりに進んだ。"
+    },
+    {
+      "source": "original",
+      "label": "前もって",
+      "en": "It's important to plan ahead.",
+      "ja": "前もって計画することが大切だ。"
+    },
+    {
+      "source": "original",
+      "label": "計画",
+      "en": "The city has a plan for a new park.",
+      "ja": "市は新しい公園の計画をもっている。"
+    },
+    {
+      "source": "original",
+      "label": "見取り図",
+      "en": "The architect showed us the plans for the house.",
+      "ja": "建築家は私たちに家の設計図を見せた。"
+    }
+  ],
+  "check_points": [
+    "plan to do の意味を言えるか",
+    "go according to plan の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "plan to do、according to plan が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1473
+    }
+  ]
+}

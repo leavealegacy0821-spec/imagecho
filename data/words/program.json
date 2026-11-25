@@ -1,0 +1,98 @@
+{
+  "word": "program",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈproʊɡræm/",
+  "core_image": {
+    "text": "前もって書き出した、順序立てた予定表",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"30\" width=\"120\" height=\"100\"/><line x1=\"76\" y1=\"50\" x2=\"164\" y2=\"50\"/><line x1=\"76\" y1=\"70\" x2=\"164\" y2=\"70\"/><line x1=\"76\" y1=\"90\" x2=\"164\" y2=\"90\"/><line x1=\"76\" y1=\"110\" x2=\"140\" y2=\"110\"/><circle cx=\"70\" cy=\"50\" r=\"2\"/><circle cx=\"70\" cy=\"70\" r=\"2\"/><circle cx=\"70\" cy=\"90\" r=\"2\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">予定表</text></svg>"
+  },
+  "etymology": "pro(前もって)+gram(書いたもの。telegram・grammar と同じ根) → 前もって書き出したもの → (番組・行事の)プログラム → (政府の)計画・事業 → (コンピューターの)プログラム",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a plan of activities to achieve something; a television or radio show; a set of instructions for a computer."
+    },
+    {
+      "pos": "動詞",
+      "text": "to write instructions for a computer; to plan something."
+    }
+  ],
+  "cautions": [
+    "project=大がかりな事業/program=順序立てた一連の計画・番組・コンピューターのプログラム",
+    "a TV program=テレビ番組/an exchange program=交換留学制度",
+    "be programmed to do=〜するよう組みこまれている",
+    "イギリス英語は programme(コンピューターは program)"
+  ],
+  "patterns": [
+    {
+      "form": "a TV program",
+      "meaning": "テレビ番組"
+    },
+    {
+      "form": "an exchange program",
+      "meaning": "交換留学制度"
+    },
+    {
+      "form": "a training program",
+      "meaning": "研修計画"
+    },
+    {
+      "form": "be programmed to do",
+      "meaning": "〜するよう組みこまれている"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "番組",
+      "en": "What's your favorite TV program?",
+      "ja": "好きなテレビ番組は何?"
+    },
+    {
+      "source": "original",
+      "label": "制度",
+      "en": "She went to America on an exchange program.",
+      "ja": "彼女は交換留学制度でアメリカへ行った。"
+    },
+    {
+      "source": "original",
+      "label": "計画",
+      "en": "The government started a program to help poor families.",
+      "ja": "政府は貧しい家庭を支援する計画を始めた。"
+    },
+    {
+      "source": "original",
+      "label": "プログラムを組む",
+      "en": "He programmed the robot to clean the floor.",
+      "ja": "彼は床を掃除するようロボットのプログラムを組んだ。"
+    },
+    {
+      "source": "original",
+      "label": "組みこまれている",
+      "en": "Birds are programmed to fly south in winter.",
+      "ja": "鳥は冬に南へ飛ぶよう本能に組みこまれている。"
+    },
+    {
+      "source": "original",
+      "label": "研修",
+      "en": "New workers go through a training program.",
+      "ja": "新入社員は研修を受ける。"
+    }
+  ],
+  "check_points": [
+    "project と program のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "exchange program、TV program が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1475
+    }
+  ]
+}

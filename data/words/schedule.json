@@ -1,0 +1,103 @@
+{
+  "word": "schedule",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈskedʒuːl/",
+  "core_image": {
+    "text": "いつ何をするかを、時間に並べた予定表",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"30\" width=\"160\" height=\"100\"/><line x1=\"40\" y1=\"50\" x2=\"200\" y2=\"50\"/><line x1=\"72\" y1=\"30\" x2=\"72\" y2=\"130\"/><line x1=\"104\" y1=\"30\" x2=\"104\" y2=\"130\"/><line x1=\"136\" y1=\"30\" x2=\"136\" y2=\"130\"/><line x1=\"168\" y1=\"30\" x2=\"168\" y2=\"130\"/><rect x=\"76\" y=\"60\" width=\"24\" height=\"20\"/><rect x=\"140\" y=\"90\" width=\"24\" height=\"20\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">時間の予定表</text></svg>"
+  },
+  "etymology": "ラテン語 schedula(小さな紙片) → 一覧表 → 時間割・予定表・スケジュール → (動詞)予定に入れる(be scheduled to do)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a plan that lists the times when things will happen; a list of times for buses or trains."
+    },
+    {
+      "pos": "動詞",
+      "text": "to arrange for something to happen at a particular time."
+    }
+  ],
+  "cautions": [
+    "plan=計画/schedule=時間に並べた予定(表)/agenda=議題",
+    "on schedule=予定どおりに/ahead of [behind] schedule=予定より早く[遅れて]",
+    "be scheduled to do [for A]=〜する[Aに]予定だ",
+    "a busy [tight] schedule=忙しい予定"
+  ],
+  "patterns": [
+    {
+      "form": "on schedule",
+      "meaning": "予定どおりに"
+    },
+    {
+      "form": "behind schedule",
+      "meaning": "予定より遅れて"
+    },
+    {
+      "form": "ahead of schedule",
+      "meaning": "予定より早く"
+    },
+    {
+      "form": "be scheduled to do",
+      "meaning": "〜する予定だ"
+    },
+    {
+      "form": "a busy schedule",
+      "meaning": "忙しい予定"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "予定どおり",
+      "en": "The train arrived on schedule.",
+      "ja": "電車は予定どおりに到着した。"
+    },
+    {
+      "source": "original",
+      "label": "遅れて",
+      "en": "The construction is behind schedule.",
+      "ja": "工事は予定より遅れている。"
+    },
+    {
+      "source": "original",
+      "label": "予定だ",
+      "en": "The meeting is scheduled for 3 p.m.",
+      "ja": "会議は午後3時の予定だ。"
+    },
+    {
+      "source": "original",
+      "label": "予定",
+      "en": "I have a busy schedule this week.",
+      "ja": "今週は予定がつまっている。"
+    },
+    {
+      "source": "original",
+      "label": "予定より早く",
+      "en": "We finished the project ahead of schedule.",
+      "ja": "私たちは予定より早く事業を終えた。"
+    },
+    {
+      "source": "original",
+      "label": "時刻表",
+      "en": "Check the bus schedule before you leave.",
+      "ja": "出かける前にバスの時刻表を確認して。"
+    }
+  ],
+  "check_points": [
+    "on schedule / behind schedule の意味を言えるか",
+    "be scheduled to do の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "on / behind / ahead of schedule、be scheduled to が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1480
+    }
+  ]
+}

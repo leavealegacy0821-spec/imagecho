@@ -1,0 +1,93 @@
+{
+  "word": "goal",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ɡoʊl/",
+  "core_image": {
+    "text": "走っていった先にある、めざす終点",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"100\" x2=\"170\" y2=\"100\"/><polyline points=\"163,96.2 170,100 163,103.8\"/><line x1=\"180\" y1=\"40\" x2=\"180\" y2=\"140\"/><line x1=\"220\" y1=\"40\" x2=\"220\" y2=\"140\"/><line x1=\"180\" y1=\"40\" x2=\"220\" y2=\"40\"/></g><text x=\"110\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">めざす先</text></svg>"
+  },
+  "etymology": "中英語 gol(境界・限界) → 競走の終点・ゴール → (球技の)ゴール・得点 → (努力の)目標",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "something you want to achieve; the area where you try to put the ball in some sports; a point scored."
+    }
+  ],
+  "cautions": [
+    "aim=ねらい/target=具体的な数値目標・標的/goal=努力してたどり着きたい最終目標",
+    "achieve [reach] a goal=目標を達成する",
+    "set a goal=目標を立てる",
+    "score a goal=得点する"
+  ],
+  "patterns": [
+    {
+      "form": "achieve a goal",
+      "meaning": "目標を達成する"
+    },
+    {
+      "form": "set a goal",
+      "meaning": "目標を立てる"
+    },
+    {
+      "form": "a long-term goal",
+      "meaning": "長期目標"
+    },
+    {
+      "form": "score a goal",
+      "meaning": "得点する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "目標",
+      "en": "My goal is to become a doctor.",
+      "ja": "私の目標は医者になることだ。"
+    },
+    {
+      "source": "original",
+      "label": "目標を達成する",
+      "en": "She worked hard to achieve her goal.",
+      "ja": "彼女は目標を達成するために一生懸命努力した。"
+    },
+    {
+      "source": "original",
+      "label": "目標を立てる",
+      "en": "Set a clear goal before you start.",
+      "ja": "始める前にはっきりした目標を立てなさい。"
+    },
+    {
+      "source": "original",
+      "label": "得点する",
+      "en": "He scored two goals in the game.",
+      "ja": "彼はその試合で2得点した。"
+    },
+    {
+      "source": "original",
+      "label": "長期目標",
+      "en": "Our long-term goal is to reduce waste by half.",
+      "ja": "私たちの長期目標はごみを半分に減らすことだ。"
+    },
+    {
+      "source": "original",
+      "label": "目標",
+      "en": "What are your goals for this year?",
+      "ja": "今年の目標は何?"
+    }
+  ],
+  "check_points": [
+    "aim・target・goal のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "achieve a goal が長文・英作文で多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1471
+    }
+  ]
+}

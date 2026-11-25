@@ -1,0 +1,94 @@
+{
+  "word": "agenda",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/əˈdʒendə/",
+  "core_image": {
+    "text": "これからやるべきことを並べた、議題の一覧",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"30\" width=\"120\" height=\"100\"/><line x1=\"76\" y1=\"50\" x2=\"88\" y2=\"50\"/><line x1=\"96\" y1=\"50\" x2=\"164\" y2=\"50\"/><line x1=\"76\" y1=\"74\" x2=\"88\" y2=\"74\"/><line x1=\"96\" y1=\"74\" x2=\"164\" y2=\"74\"/><line x1=\"76\" y1=\"98\" x2=\"88\" y2=\"98\"/><line x1=\"96\" y1=\"98\" x2=\"150\" y2=\"98\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">議題</text></svg>"
+  },
+  "etymology": "ラテン語 agenda(なされるべきこと。agere=する:act・agent と同じ根の複数形) → やるべきことのリスト → 会議の議題 → (政治の)課題・もくろみ(hidden agenda=隠れた意図)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a list of things to be discussed at a meeting; things that need to be done or considered."
+    }
+  ],
+  "cautions": [
+    "schedule=時間の予定表/agenda=会議の議題・取り組むべき課題",
+    "on the agenda=議題にのぼって・予定に入って",
+    "top of the agenda=最優先課題",
+    "a hidden agenda=隠れたねらい"
+  ],
+  "patterns": [
+    {
+      "form": "on the agenda",
+      "meaning": "議題にのぼって"
+    },
+    {
+      "form": "the first item on the agenda",
+      "meaning": "最初の議題"
+    },
+    {
+      "form": "top of the agenda",
+      "meaning": "最優先課題"
+    },
+    {
+      "form": "a hidden agenda",
+      "meaning": "隠れた意図"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "議題",
+      "en": "What's on the agenda for today's meeting?",
+      "ja": "今日の会議の議題は何ですか。"
+    },
+    {
+      "source": "original",
+      "label": "最初の議題",
+      "en": "The first item on the agenda is the budget.",
+      "ja": "最初の議題は予算だ。"
+    },
+    {
+      "source": "original",
+      "label": "最優先課題",
+      "en": "Climate change is at the top of the agenda.",
+      "ja": "気候変動が最優先課題だ。"
+    },
+    {
+      "source": "original",
+      "label": "隠れた意図",
+      "en": "I think he has a hidden agenda.",
+      "ja": "彼には隠れたねらいがあると思う。"
+    },
+    {
+      "source": "original",
+      "label": "課題",
+      "en": "Education is high on the government's agenda.",
+      "ja": "教育は政府の重要課題だ。"
+    },
+    {
+      "source": "original",
+      "label": "予定",
+      "en": "Shopping is on the agenda for Saturday.",
+      "ja": "土曜は買い物の予定が入っている。"
+    }
+  ],
+  "check_points": [
+    "schedule と agenda のちがいを言えるか",
+    "on the agenda の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "agenda が時事・会議の場面で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1479
+    }
+  ]
+}

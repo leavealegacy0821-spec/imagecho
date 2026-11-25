@@ -1,0 +1,103 @@
+{
+  "word": "target",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈtɑːrɡɪt/",
+  "core_image": {
+    "text": "ねらいを定めた、まとの中心",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"150\" cy=\"80\" r=\"44\"/><circle cx=\"150\" cy=\"80\" r=\"28\"/><circle cx=\"150\" cy=\"80\" r=\"10\"/><line x1=\"30\" y1=\"80\" x2=\"136\" y2=\"80\"/><polyline points=\"129,76.2 136,80 129,83.8\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ねらう的</text></svg>"
+  },
+  "etymology": "古いフランス語 targe(小さな盾)+et → 小さな盾形の的 → 標的・まと → (達成すべき)目標(数値) → (動詞)ねらう・対象にする",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an object or place you try to hit; a result you try to achieve; a person or group that something is aimed at."
+    },
+    {
+      "pos": "動詞",
+      "text": "to aim at someone or something; to direct something at a particular group."
+    }
+  ],
+  "cautions": [
+    "goal=最終目標/target=具体的な数値目標・標的・(広告などの)対象",
+    "meet [reach] a target=目標を達成する",
+    "be the target of A=Aの的になる(criticism など)",
+    "target A at B=AをBに向ける(The ad targets young people.)"
+  ],
+  "patterns": [
+    {
+      "form": "hit the target",
+      "meaning": "的に当てる"
+    },
+    {
+      "form": "meet a target",
+      "meaning": "目標を達成する"
+    },
+    {
+      "form": "a target audience",
+      "meaning": "対象とする層"
+    },
+    {
+      "form": "be the target of A",
+      "meaning": "Aの的になる"
+    },
+    {
+      "form": "target A",
+      "meaning": "Aをねらう"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "的",
+      "en": "The arrow hit the target.",
+      "ja": "矢は的に当たった。"
+    },
+    {
+      "source": "original",
+      "label": "目標",
+      "en": "We met our sales target this month.",
+      "ja": "今月は売上目標を達成した。"
+    },
+    {
+      "source": "original",
+      "label": "対象",
+      "en": "The target audience for this book is teenagers.",
+      "ja": "この本の対象読者は10代だ。"
+    },
+    {
+      "source": "original",
+      "label": "的になる",
+      "en": "The politician became the target of criticism.",
+      "ja": "その政治家は批判の的になった。"
+    },
+    {
+      "source": "original",
+      "label": "ねらう",
+      "en": "The ad targets young women.",
+      "ja": "その広告は若い女性をねらっている。"
+    },
+    {
+      "source": "original",
+      "label": "目標",
+      "en": "The government set a target of reducing emissions by 50%.",
+      "ja": "政府は排出量を50%削減する目標を立てた。"
+    }
+  ],
+  "check_points": [
+    "goal と target のちがいを言えるか",
+    "target audience の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "target(数値目標・対象)が経済・時事で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1472
+    }
+  ]
+}
