@@ -1,0 +1,94 @@
+{
+  "word": "enjoy",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈdʒɔɪ/",
+  "core_image": {
+    "text": "その中に入って楽しむ・(よいものを)享受する",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><path d=\"M100 40 Q120 60 140 40\"/><path d=\"M60 50 L70 60 M60 80 L72 80 M180 50 L170 60 M180 80 L168 80\"/></g><text x=\"200\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">たのしい</text></svg>"
+  },
+  "etymology": "en-(中に) + joy(喜び) → 喜びの中に入る → 楽しむ → (権利・よいものを)もっている・享受する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to get pleasure from something; to have something good."
+    }
+  ],
+  "cautions": [
+    "enjoy doing(to do ×)=〜して楽しむ",
+    "enjoy oneself=楽しく過ごす(enjoy だけで終わらない:目的語が必要)",
+    "enjoy good health=健康に恵まれている",
+    "enjoyable=楽しい"
+  ],
+  "patterns": [
+    {
+      "form": "enjoy doing",
+      "meaning": "〜して楽しむ"
+    },
+    {
+      "form": "enjoy oneself",
+      "meaning": "楽しく過ごす"
+    },
+    {
+      "form": "enjoy A",
+      "meaning": "Aを楽しむ・享受する"
+    },
+    {
+      "form": "enjoyable",
+      "meaning": "楽しい"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "楽しむ",
+      "en": "I enjoyed watching the game.",
+      "ja": "試合を見て楽しんだ。"
+    },
+    {
+      "source": "original",
+      "label": "過ごす",
+      "en": "We enjoyed ourselves at the party.",
+      "ja": "パーティーで楽しく過ごした。"
+    },
+    {
+      "source": "original",
+      "label": "めしあがれ",
+      "en": "Enjoy your meal!",
+      "ja": "どうぞめしあがれ!"
+    },
+    {
+      "source": "original",
+      "label": "恵まれる",
+      "en": "My grandfather enjoys good health.",
+      "ja": "祖父は健康に恵まれている。"
+    },
+    {
+      "source": "original",
+      "label": "楽しい",
+      "en": "It was an enjoyable trip.",
+      "ja": "楽しい旅行だった。"
+    },
+    {
+      "source": "original",
+      "label": "享受",
+      "en": "Japan enjoys a high standard of living.",
+      "ja": "日本は高い生活水準を享受している。"
+    }
+  ],
+  "check_points": [
+    "enjoy の後ろが doing になることがわかるか",
+    "enjoy oneself の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "enjoy doing、enjoy oneself が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2251
+    }
+  ]
+}

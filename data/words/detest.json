@@ -1,0 +1,84 @@
+{
+  "word": "detest",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈtest/",
+  "core_image": {
+    "text": "見るのもいやなほど、ひどく嫌う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><path d=\"M50 64 Q60 58 70 64\"/><circle cx=\"170\" cy=\"80\" r=\"16\"/><line x1=\"84\" y1=\"80\" x2=\"140\" y2=\"80\"/><polyline points=\"133,76.2 140,80 133,83.8\"/><line x1=\"150\" y1=\"50\" x2=\"190\" y2=\"110\"/><line x1=\"190\" y1=\"50\" x2=\"150\" y2=\"110\"/></g><text x=\"110\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぞっとする</text></svg>"
+  },
+  "etymology": "ラテン語 detestari(de-=はなれて + testari=証言する → 神を証人にしてのろう) → 強く嫌う",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to hate someone or something very much."
+    }
+  ],
+  "cautions": [
+    "hate より強く改まった語(=loathe)",
+    "detest doing=〜するのがひどくいやだ",
+    "detestable=ひどくいやな"
+  ],
+  "patterns": [
+    {
+      "form": "detest A",
+      "meaning": "Aをひどく嫌う"
+    },
+    {
+      "form": "detest doing",
+      "meaning": "〜するのが心底いや"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ひどく嫌う",
+      "en": "I detest dishonest people.",
+      "ja": "うそをつく人は心底嫌いだ。"
+    },
+    {
+      "source": "original",
+      "label": "心底いや",
+      "en": "She detests being told what to do.",
+      "ja": "彼女は指図されるのが心底いやだ。"
+    },
+    {
+      "source": "original",
+      "label": "強い",
+      "en": "He detested the cold winters.",
+      "ja": "彼は寒い冬が大嫌いだった。"
+    },
+    {
+      "source": "original",
+      "label": "にくむ",
+      "en": "The people detested the cruel king.",
+      "ja": "人々は残酷な王をひどくにくんだ。"
+    },
+    {
+      "source": "original",
+      "label": "改まった",
+      "en": "Most students detest cheating.",
+      "ja": "たいていの学生は不正行為をひどく嫌う。"
+    },
+    {
+      "source": "original",
+      "label": "比べる",
+      "en": "I don't just dislike it—I detest it.",
+      "ja": "好きでないどころか、大嫌いだ。"
+    }
+  ],
+  "check_points": [
+    "hate と detest の強さのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2255
+    }
+  ]
+}

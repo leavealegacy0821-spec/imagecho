@@ -1,0 +1,94 @@
+{
+  "word": "favorite",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/ˈfeɪvərɪt/",
+  "core_image": {
+    "text": "いちばん好きな(お気に入り)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"70\" width=\"30\" height=\"40\"/><rect x=\"100\" y=\"70\" width=\"30\" height=\"40\"/><polygon points=\"170,6 178,28 200,28 182,42 190,64 170,50 150,64 158,42 140,28 162,28\"/><rect x=\"155\" y=\"70\" width=\"30\" height=\"40\"/></g><text x=\"170\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いちばん</text></svg>"
+  },
+  "etymology": "favor(好意・ひいき) + -ite → ひいきの → いちばん好きな・お気に入り",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "liked more than others."
+    },
+    {
+      "pos": "名詞",
+      "text": "a person or thing liked more than others; the team expected to win."
+    }
+  ],
+  "cautions": [
+    "(英)favourite",
+    "favorite=いちばん好きな(most favorite とは言わない)",
+    "the favorite=優勝候補",
+    "favor=好意・(do A a favor=Aの頼みを聞く)"
+  ],
+  "patterns": [
+    {
+      "form": "one's favorite A",
+      "meaning": "いちばん好きなA"
+    },
+    {
+      "form": "the favorite",
+      "meaning": "優勝候補"
+    },
+    {
+      "form": "a favorite of A",
+      "meaning": "Aのお気に入り"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "好きな",
+      "en": "What is your favorite food?",
+      "ja": "いちばん好きな食べ物は何?"
+    },
+    {
+      "source": "original",
+      "label": "お気に入り",
+      "en": "This song is my favorite.",
+      "ja": "この歌が私のお気に入りだ。"
+    },
+    {
+      "source": "original",
+      "label": "優勝候補",
+      "en": "Our team is the favorite to win.",
+      "ja": "私たちのチームは優勝候補だ。"
+    },
+    {
+      "source": "original",
+      "label": "人気",
+      "en": "He is a favorite of the teachers.",
+      "ja": "彼は先生たちのお気に入りだ。"
+    },
+    {
+      "source": "original",
+      "label": "most は×",
+      "en": "Blue is my favorite color.",
+      "ja": "青が私のいちばん好きな色だ。"
+    },
+    {
+      "source": "original",
+      "label": "頼み",
+      "en": "Can you do me a favor?",
+      "ja": "お願いがあるんだけど。"
+    }
+  ],
+  "check_points": [
+    "most favorite と言わない理由を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "favorite の用法が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2252
+    }
+  ]
+}
