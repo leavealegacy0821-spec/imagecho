@@ -1,0 +1,94 @@
+{
+  "word": "notion",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈnoʊʃn/",
+  "core_image": {
+    "text": "ぼんやりと心にいだいている考え",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"84\" y2=\"96\"/><ellipse cx=\"160\" cy=\"44\" rx=\"50\" ry=\"24\" stroke-dasharray=\"5 5\"/><circle cx=\"104\" cy=\"56\" r=\"3\"/><circle cx=\"94\" cy=\"48\" r=\"2\"/></g><text x=\"160\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぼんやり</text></svg>"
+  },
+  "etymology": "ラテン語 notio(知ること。note・notice・know と同じ根) → 心の中でぼんやり知っていること → 考え・観念・思いこみ → (ばかげた)気まぐれな考え",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an idea, belief or opinion, often one that is not clear or not correct."
+    }
+  ],
+  "cautions": [
+    "concept=はっきりした概念/notion=ぼんやりとした考え・思いこみ(しばしば誤った・古い)",
+    "the notion that …=…という考え(同格の that)",
+    "have no notion of A=Aがまったくわからない(堅い)",
+    "a traditional notion=昔からの考え方"
+  ],
+  "patterns": [
+    {
+      "form": "the notion that …",
+      "meaning": "…という考え"
+    },
+    {
+      "form": "the notion of A",
+      "meaning": "Aという考え・観念"
+    },
+    {
+      "form": "have no notion of A",
+      "meaning": "Aがまったくわからない"
+    },
+    {
+      "form": "reject the notion",
+      "meaning": "その考えを否定する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "考え",
+      "en": "The notion that girls are bad at math is simply wrong.",
+      "ja": "女の子は数学が苦手だという考えはまったくの誤りだ。"
+    },
+    {
+      "source": "original",
+      "label": "観念",
+      "en": "Different cultures have different notions of beauty.",
+      "ja": "文化によって美の観念はちがう。"
+    },
+    {
+      "source": "original",
+      "label": "考え方",
+      "en": "The notion of working from home has become common.",
+      "ja": "在宅勤務という考え方は一般的になった。"
+    },
+    {
+      "source": "original",
+      "label": "思いこみ",
+      "en": "He has a strange notion that everyone dislikes him.",
+      "ja": "彼はみんなに嫌われているという妙な思いこみをもっている。"
+    },
+    {
+      "source": "original",
+      "label": "わからない",
+      "en": "She had no notion of what was happening.",
+      "ja": "彼女は何が起きているのかまったくわからなかった。"
+    },
+    {
+      "source": "original",
+      "label": "否定する",
+      "en": "Scientists rejected the notion that the earth was flat.",
+      "ja": "科学者たちは地球が平らだという考えを否定した。"
+    }
+  ],
+  "check_points": [
+    "the notion that … の型を言えるか",
+    "concept と notion のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "the notion that …(同格)が評論で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1143
+    }
+  ]
+}

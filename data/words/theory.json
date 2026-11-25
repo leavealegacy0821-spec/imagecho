@@ -1,0 +1,94 @@
+{
+  "word": "theory",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈθiːəri/",
+  "core_image": {
+    "text": "筋道を立てて、まとめ上げた説明",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"80\" y=\"20\" width=\"80\" height=\"24\"/><line x1=\"120\" y1=\"44\" x2=\"120\" y2=\"60\"/><line x1=\"70\" y1=\"60\" x2=\"170\" y2=\"60\"/><line x1=\"70\" y1=\"60\" x2=\"70\" y2=\"76\"/><line x1=\"170\" y1=\"60\" x2=\"170\" y2=\"76\"/><rect x=\"40\" y=\"76\" width=\"60\" height=\"24\"/><rect x=\"140\" y=\"76\" width=\"60\" height=\"24\"/></g><text x=\"120\" y=\"132\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">筋道立てた説明</text></svg>"
+  },
+  "etymology": "ギリシャ語 theoria(ながめること・考察。theater と同じ「見る」根) → じっくり見て考えたこと → 理論・学説 → in theory=理論上は(⇔ in practice=実際には)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a set of ideas that explains something; an idea that has not yet been proved."
+    }
+  ],
+  "cautions": [
+    "hypothesis=これから確かめる仮説/theory=証拠で支えられ筋道立った理論(または説)",
+    "in theory=理論上は(⇔ in practice=実際には)という対比が頻出",
+    "the theory of evolution [relativity]=進化論[相対性理論]",
+    "形容詞 theoretical=理論上の"
+  ],
+  "patterns": [
+    {
+      "form": "a theory of A",
+      "meaning": "Aの理論"
+    },
+    {
+      "form": "the theory that …",
+      "meaning": "…という説"
+    },
+    {
+      "form": "in theory",
+      "meaning": "理論上は"
+    },
+    {
+      "form": "put forward a theory",
+      "meaning": "説を唱える"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "理論",
+      "en": "Darwin's theory of evolution changed science.",
+      "ja": "ダーウィンの進化論は科学を変えた。"
+    },
+    {
+      "source": "original",
+      "label": "理論上は",
+      "en": "In theory, the plan should work, but in practice it's difficult.",
+      "ja": "理論上は計画はうまくいくはずだが、実際には難しい。"
+    },
+    {
+      "source": "original",
+      "label": "説",
+      "en": "There is a theory that the dinosaurs died out because of a meteor.",
+      "ja": "恐竜は隕石のせいで絶滅したという説がある。"
+    },
+    {
+      "source": "original",
+      "label": "説を唱える",
+      "en": "She put forward a new theory about language learning.",
+      "ja": "彼女は言語習得について新しい説を唱えた。"
+    },
+    {
+      "source": "original",
+      "label": "理論",
+      "en": "We studied music theory in class.",
+      "ja": "授業で音楽理論を学んだ。"
+    },
+    {
+      "source": "original",
+      "label": "理論上の",
+      "en": "The danger is only theoretical.",
+      "ja": "その危険は理論上のものにすぎない。"
+    }
+  ],
+  "check_points": [
+    "in theory と in practice の対比がわかるか",
+    "theory と hypothesis のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "in theory / in practice の対比、the theory that が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1144
+    }
+  ]
+}

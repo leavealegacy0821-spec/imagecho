@@ -1,0 +1,98 @@
+{
+  "word": "evidence",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈevɪdəns/",
+  "core_image": {
+    "text": "はっきり目に見える形で、事実を示すもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"70\" width=\"40\" height=\"40\"/><polyline points=\"48,90 58,100 74,80\"/><rect x=\"100\" y=\"70\" width=\"40\" height=\"40\"/><polyline points=\"108,90 118,100 134,80\"/><line x1=\"150\" y1=\"90\" x2=\"196\" y2=\"90\"/><polyline points=\"189,86.2 196,90 189,93.8\"/><circle cx=\"210\" cy=\"90\" r=\"10\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">目に見える根拠</text></svg>"
+  },
+  "etymology": "e(外へ・はっきり)+vid(見る。video・evident と同じ根) → はっきり見えるもの → 証拠・根拠・形跡 → 不可算名詞(a piece of evidence)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "facts, signs or objects that make you believe that something is true."
+    }
+  ],
+  "cautions": [
+    "evidence は不可算(× an evidence, × evidences)。1つは a piece of evidence",
+    "proof=決定的な証明/evidence=(複数集まって)そう信じさせる根拠・証拠",
+    "evidence that … / evidence of [for] A=…という[Aの]証拠",
+    "There is no evidence that …=…という証拠はない(長文の定番)"
+  ],
+  "patterns": [
+    {
+      "form": "evidence of [for] A",
+      "meaning": "Aの証拠"
+    },
+    {
+      "form": "evidence that …",
+      "meaning": "…という証拠"
+    },
+    {
+      "form": "There is no evidence that …",
+      "meaning": "…という証拠はない"
+    },
+    {
+      "form": "a piece of evidence",
+      "meaning": "1つの証拠"
+    },
+    {
+      "form": "scientific evidence",
+      "meaning": "科学的根拠"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "証拠",
+      "en": "The police found evidence of a break-in.",
+      "ja": "警察は侵入の形跡を見つけた。"
+    },
+    {
+      "source": "original",
+      "label": "証拠はない",
+      "en": "There is no evidence that the drug is harmful.",
+      "ja": "その薬が有害だという証拠はない。"
+    },
+    {
+      "source": "original",
+      "label": "科学的根拠",
+      "en": "There is strong scientific evidence for climate change.",
+      "ja": "気候変動には強い科学的根拠がある。"
+    },
+    {
+      "source": "original",
+      "label": "1つの証拠",
+      "en": "This letter is an important piece of evidence.",
+      "ja": "この手紙は重要な証拠の1つだ。"
+    },
+    {
+      "source": "original",
+      "label": "根拠",
+      "en": "What evidence do you have for that claim?",
+      "ja": "その主張にはどんな根拠があるの?"
+    },
+    {
+      "source": "original",
+      "label": "証拠",
+      "en": "Growing evidence suggests that sleep affects learning.",
+      "ja": "睡眠が学習に影響することを示す証拠が増えている。"
+    }
+  ],
+  "check_points": [
+    "evidence が不可算であることがわかるか",
+    "evidence と proof のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "不可算(a piece of evidence)、evidence that が文法・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1149
+    }
+  ]
+}

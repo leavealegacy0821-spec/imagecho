@@ -1,0 +1,98 @@
+{
+  "word": "idea",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/aɪˈdiːə/",
+  "core_image": {
+    "text": "頭の中に、ぱっと浮かんだ形",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"84\" y2=\"96\"/><circle cx=\"130\" cy=\"40\" r=\"14\"/><line x1=\"124\" y1=\"54\" x2=\"136\" y2=\"54\"/><line x1=\"125\" y1=\"60\" x2=\"135\" y2=\"60\"/><line x1=\"130\" y1=\"16\" x2=\"130\" y2=\"22\"/><line x1=\"150\" y1=\"24\" x2=\"146\" y2=\"28\"/><line x1=\"110\" y1=\"24\" x2=\"114\" y2=\"28\"/></g><text x=\"190\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぱっと浮かぶ</text></svg>"
+  },
+  "etymology": "ギリシャ語 idea(見た形・姿。video・vision と同じ「見る」根) → 心に見える形 → 考え・思いつき・アイデア → 理解・見当(have no idea)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a thought or plan about what to do; an opinion or belief; knowledge or understanding of something."
+    }
+  ],
+  "cautions": [
+    "have no idea (wh-)=まったくわからない(=don't know at all)",
+    "That's a good idea.=それはいい考えだ/get the idea=要点がわかる",
+    "the idea of doing=〜するという考え(×the idea to do は限定的)",
+    "concept=物事の根本的な概念(抽象)/idea=頭に浮かんだ考え(日常・広い)"
+  ],
+  "patterns": [
+    {
+      "form": "have an idea",
+      "meaning": "考えがある"
+    },
+    {
+      "form": "have no idea wh-",
+      "meaning": "…がまったくわからない"
+    },
+    {
+      "form": "the idea of doing",
+      "meaning": "〜するという考え"
+    },
+    {
+      "form": "get the idea",
+      "meaning": "わかる"
+    },
+    {
+      "form": "a good idea",
+      "meaning": "いい考え"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "考え",
+      "en": "I have an idea. Let's have a picnic.",
+      "ja": "いい考えがある。ピクニックに行こう。"
+    },
+    {
+      "source": "original",
+      "label": "まったくわからない",
+      "en": "I have no idea where he went.",
+      "ja": "彼がどこへ行ったのかまったくわからない。"
+    },
+    {
+      "source": "original",
+      "label": "という考え",
+      "en": "I like the idea of living by the sea.",
+      "ja": "海のそばで暮らすという考えが気に入っている。"
+    },
+    {
+      "source": "original",
+      "label": "わかる",
+      "en": "Don't worry, you'll soon get the idea.",
+      "ja": "心配しないで、すぐに要領がわかるよ。"
+    },
+    {
+      "source": "original",
+      "label": "見当",
+      "en": "Do you have any idea how much it costs?",
+      "ja": "それがいくらするか見当がつく?"
+    },
+    {
+      "source": "original",
+      "label": "意見",
+      "en": "We exchanged ideas about the school festival.",
+      "ja": "私たちは文化祭について意見を交わした。"
+    }
+  ],
+  "check_points": [
+    "have no idea の意味を言えるか",
+    "the idea of doing の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "have no idea、the idea of doing が会話・語法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1141
+    }
+  ]
+}

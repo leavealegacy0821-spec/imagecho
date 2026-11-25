@@ -1,0 +1,94 @@
+{
+  "word": "assumption",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/əˈsʌmpʃn/",
+  "core_image": {
+    "text": "確かめずに、当然のこととして取りこんだ前提",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"110\" width=\"160\" height=\"30\" stroke-dasharray=\"5 5\"/><rect x=\"70\" y=\"70\" width=\"100\" height=\"40\"/><polygon points=\"70,70 120,40 170,70\"/></g><text x=\"180\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">確かめない前提</text></svg>"
+  },
+  "etymology": "assume(当然と思う。as=〜へ+sume=取る)の名詞 → 証拠なしに取りこんだ考え=仮定・思いこみ・前提 → (責任・地位を)引き受けること",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "something that you accept as true without question or proof; the act of taking power or responsibility."
+    }
+  ],
+  "cautions": [
+    "assume=証拠なしに当然と思う → assumption=思いこみ・前提",
+    "on the assumption that …=…という前提で/make an assumption=決めつける",
+    "hypothesis=検証するための仮説/assumption=(しばしば無意識の)前提・思いこみ",
+    "the assumption of power=権力の掌握"
+  ],
+  "patterns": [
+    {
+      "form": "make an assumption",
+      "meaning": "思いこむ・前提にする"
+    },
+    {
+      "form": "on the assumption that …",
+      "meaning": "…という前提で"
+    },
+    {
+      "form": "the assumption that …",
+      "meaning": "…という思いこみ"
+    },
+    {
+      "form": "a false assumption",
+      "meaning": "まちがった前提"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "決めつける",
+      "en": "Don't make assumptions about people based on their appearance.",
+      "ja": "見た目で人を決めつけてはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "前提で",
+      "en": "We planned the event on the assumption that it wouldn't rain.",
+      "ja": "雨は降らないという前提で行事を計画した。"
+    },
+    {
+      "source": "original",
+      "label": "思いこみ",
+      "en": "The assumption that money brings happiness is not always true.",
+      "ja": "お金が幸せをもたらすという思いこみは必ずしも正しくない。"
+    },
+    {
+      "source": "original",
+      "label": "まちがった前提",
+      "en": "His argument is based on a false assumption.",
+      "ja": "彼の主張はまちがった前提にもとづいている。"
+    },
+    {
+      "source": "original",
+      "label": "仮定",
+      "en": "Our calculation rests on several assumptions.",
+      "ja": "私たちの計算はいくつかの仮定に立っている。"
+    },
+    {
+      "source": "original",
+      "label": "掌握",
+      "en": "The general's assumption of power shocked the nation.",
+      "ja": "将軍の権力掌握は国民に衝撃を与えた。"
+    }
+  ],
+  "check_points": [
+    "on the assumption that … の意味を言えるか",
+    "assume との関係がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "assumption(前提・思いこみ)が評論・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1148
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "hypothesis",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/haɪˈpɑːθəsɪs/",
+  "core_image": {
+    "text": "下に置いて土台にする、まだ確かめていない仮の説",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"70\" y=\"30\" width=\"100\" height=\"40\" stroke-dasharray=\"5 5\"/><line x1=\"120\" y1=\"70\" x2=\"120\" y2=\"96\"/><polyline points=\"100,96 120,116 140,96\"/><rect x=\"80\" y=\"120\" width=\"80\" height=\"24\"/></g><text x=\"200\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">仮の説</text></svg>"
+  },
+  "etymology": "ギリシャ語 hypo(下に)+thesis(置くこと) → 議論の下に置く土台 → 仮説・仮定 → 実験・観察で確かめる(test a hypothesis) → 複数形 hypotheses",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an idea that is suggested as a possible explanation but has not yet been proved."
+    }
+  ],
+  "cautions": [
+    "hypothesis=まだ確かめていない仮説(実験で検証する)/theory=ある程度支持された理論",
+    "test [support / reject] a hypothesis=仮説を検証する[支持する/退ける]",
+    "複数形 hypotheses/形容詞 hypothetical=仮定の",
+    "the hypothesis that …=…という仮説"
+  ],
+  "patterns": [
+    {
+      "form": "a hypothesis",
+      "meaning": "仮説"
+    },
+    {
+      "form": "the hypothesis that …",
+      "meaning": "…という仮説"
+    },
+    {
+      "form": "test a hypothesis",
+      "meaning": "仮説を検証する"
+    },
+    {
+      "form": "support the hypothesis",
+      "meaning": "仮説を裏づける"
+    },
+    {
+      "form": "hypothetical",
+      "meaning": "仮定の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "仮説",
+      "en": "Scientists form a hypothesis and then test it.",
+      "ja": "科学者は仮説を立て、それを検証する。"
+    },
+    {
+      "source": "original",
+      "label": "仮説",
+      "en": "The results supported the hypothesis that exercise improves memory.",
+      "ja": "結果は、運動が記憶力を高めるという仮説を裏づけた。"
+    },
+    {
+      "source": "original",
+      "label": "仮説を退ける",
+      "en": "The new data forced them to reject their hypothesis.",
+      "ja": "新しいデータのせいで彼らは仮説を捨てざるを得なかった。"
+    },
+    {
+      "source": "original",
+      "label": "仮説",
+      "en": "Several hypotheses have been proposed to explain the event.",
+      "ja": "その出来事を説明するためにいくつもの仮説が出されている。"
+    },
+    {
+      "source": "original",
+      "label": "仮定の",
+      "en": "Let's consider a hypothetical situation.",
+      "ja": "仮定の状況を考えてみよう。"
+    },
+    {
+      "source": "original",
+      "label": "仮説を検証する",
+      "en": "We designed an experiment to test our hypothesis.",
+      "ja": "私たちは仮説を検証する実験を計画した。"
+    }
+  ],
+  "check_points": [
+    "hypothesis と theory のちがいを言えるか",
+    "複数形 hypotheses を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "科学系の長文で test / support a hypothesis が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1145
+    }
+  ]
+}

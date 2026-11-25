@@ -1,0 +1,98 @@
+{
+  "word": "opinion",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/əˈpɪnjən/",
+  "core_image": {
+    "text": "自分にはこう見えるという、ひとつの考え",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"96\"/><path d=\"M84 40 Q84 22 130 22 Q176 22 176 40 Q176 58 130 58 Q108 58 96 54 L82 62 L88 50 Q84 46 84 40\"/></g><text x=\"130\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">私はこう思う</text></svg>"
+  },
+  "etymology": "ラテン語 opinio(思うこと・推測) → 自分にはこう思えるという考え → 意見・見解 → (世間の)評価・評判(public opinion=世論)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "your feelings or thoughts about somebody or something, rather than a fact; what people in general think."
+    }
+  ],
+  "cautions": [
+    "fact(事実)と opinion(意見)の対比が長文・設問で頻出",
+    "in my opinion=私の考えでは/have a high [low] opinion of A=Aを高く[低く]評価している",
+    "public opinion=世論/a difference of opinion=意見の相違",
+    "view=見方(広く)/opinion=個人の意見・判断"
+  ],
+  "patterns": [
+    {
+      "form": "in my opinion",
+      "meaning": "私の考えでは"
+    },
+    {
+      "form": "A's opinion of [about, on] B",
+      "meaning": "BについてのAの意見"
+    },
+    {
+      "form": "have a high opinion of A",
+      "meaning": "Aを高く評価する"
+    },
+    {
+      "form": "public opinion",
+      "meaning": "世論"
+    },
+    {
+      "form": "a matter of opinion",
+      "meaning": "見解の問題"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "意見",
+      "en": "In my opinion, the plan is too risky.",
+      "ja": "私の考えでは、その計画は危険すぎる。"
+    },
+    {
+      "source": "original",
+      "label": "意見",
+      "en": "What's your opinion of the new teacher?",
+      "ja": "新しい先生のことどう思う?"
+    },
+    {
+      "source": "original",
+      "label": "高く評価する",
+      "en": "The manager has a high opinion of her work.",
+      "ja": "部長は彼女の仕事を高く評価している。"
+    },
+    {
+      "source": "original",
+      "label": "世論",
+      "en": "Public opinion is against the new tax.",
+      "ja": "世論は新しい税に反対している。"
+    },
+    {
+      "source": "original",
+      "label": "見解の問題",
+      "en": "Whether the movie is good is a matter of opinion.",
+      "ja": "その映画がよいかどうかは見方の問題だ。"
+    },
+    {
+      "source": "original",
+      "label": "事実と意見",
+      "en": "Try to separate facts from opinions.",
+      "ja": "事実と意見を区別するようにしなさい。"
+    }
+  ],
+  "check_points": [
+    "fact と opinion の区別がわかるか",
+    "have a high opinion of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "fact / opinion の区別、in my opinion、public opinion が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1146
+    }
+  ]
+}

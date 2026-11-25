@@ -1,0 +1,94 @@
+{
+  "word": "concept",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈkɑːnsept/",
+  "core_image": {
+    "text": "ばらばらの例をまとめて取り込んだ、抽象的な考え",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"40\" cy=\"40\" r=\"8\"/><circle cx=\"40\" cy=\"80\" r=\"8\"/><circle cx=\"40\" cy=\"120\" r=\"8\"/><line x1=\"56\" y1=\"40\" x2=\"140\" y2=\"74\"/><polyline points=\"134.9,67.8 140,74 132.1,74.9\"/><line x1=\"56\" y1=\"80\" x2=\"140\" y2=\"80\"/><polyline points=\"133,76.2 140,80 133,83.8\"/><line x1=\"56\" y1=\"120\" x2=\"140\" y2=\"86\"/><polyline points=\"132.1,85.1 140,86 134.9,92.2\"/><rect x=\"150\" y=\"56\" width=\"60\" height=\"48\"/></g><text x=\"180\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まとめた考え</text></svg>"
+  },
+  "etymology": "con(すっかり)+cept(取る。conceive と同じ根) → 頭の中にすっかり取り込んだもの → 概念・考え方 → (商品・計画の)基本となる考え(コンセプト)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a general idea or principle; an idea of how something is or should be."
+    }
+  ],
+  "cautions": [
+    "idea=思いつき・考え(広い)/concept=多くの例をまとめた一般的・抽象的な概念",
+    "the concept of A=Aという概念(the concept of time [freedom])",
+    "conceive(考え出す・心にいだく)の名詞は conception もある",
+    "形容詞 conceptual=概念的な"
+  ],
+  "patterns": [
+    {
+      "form": "the concept of A",
+      "meaning": "Aという概念"
+    },
+    {
+      "form": "a basic concept",
+      "meaning": "基本概念"
+    },
+    {
+      "form": "grasp the concept",
+      "meaning": "概念をつかむ"
+    },
+    {
+      "form": "a new concept",
+      "meaning": "新しい考え方"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "概念",
+      "en": "The concept of time is hard to explain.",
+      "ja": "時間という概念は説明しにくい。"
+    },
+    {
+      "source": "original",
+      "label": "概念",
+      "en": "It took me a while to grasp the concept.",
+      "ja": "その概念をつかむのにしばらくかかった。"
+    },
+    {
+      "source": "original",
+      "label": "考え方",
+      "en": "The café is based on a new concept.",
+      "ja": "そのカフェは新しい考え方にもとづいている。"
+    },
+    {
+      "source": "original",
+      "label": "概念",
+      "en": "Children learn the concept of numbers at an early age.",
+      "ja": "子どもは幼いうちに数の概念を身につける。"
+    },
+    {
+      "source": "original",
+      "label": "考え",
+      "en": "Freedom is an important concept in democracy.",
+      "ja": "自由は民主主義の大切な考えだ。"
+    },
+    {
+      "source": "original",
+      "label": "基本概念",
+      "en": "This chapter explains the basic concepts of economics.",
+      "ja": "この章は経済学の基本概念を説明している。"
+    }
+  ],
+  "check_points": [
+    "idea と concept のちがいを言えるか",
+    "the concept of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "the concept of A が評論・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1142
+    }
+  ]
+}
