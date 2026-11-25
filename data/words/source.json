@@ -1,0 +1,93 @@
+{
+  "word": "source",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/sɔːrs/",
+  "core_image": {
+    "text": "水がわき出るように、ものが出てくるもと",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"30,140 60,80 90,140\"/><circle cx=\"60\" cy=\"96\" r=\"4\"/><path d=\"M64 100 Q120 120 220 116\"/><path d=\"M64 108 Q120 130 220 126\"/></g><text x=\"150\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">わき出るもと</text></svg>"
+  },
+  "etymology": "古いフランス語 sourse(わき出る。ラテン語 surgere=立ち上がる:surge・resource と同じ根) → 泉・水源 → (物事の)源・原因 → (情報の)出どころ・情報源",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the place something comes from; a person, book, etc. that provides information; the start of a river."
+    }
+  ],
+  "cautions": [
+    "origin=物事が始まった起源/source=(水・エネルギー・情報・お金が)わき出てくるもと",
+    "a source of A=Aの源(a source of energy [income])",
+    "a reliable source=確かな情報源/sources say …=関係筋によると",
+    "resource=資源(同じ根)"
+  ],
+  "patterns": [
+    {
+      "form": "a source of A",
+      "meaning": "Aの源"
+    },
+    {
+      "form": "a source of income",
+      "meaning": "収入源"
+    },
+    {
+      "form": "a reliable source",
+      "meaning": "確かな情報源"
+    },
+    {
+      "form": "the source of a river",
+      "meaning": "川の源"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "源",
+      "en": "The sun is our main source of energy.",
+      "ja": "太陽は私たちの主なエネルギー源だ。"
+    },
+    {
+      "source": "original",
+      "label": "収入源",
+      "en": "Tourism is the town's main source of income.",
+      "ja": "観光は町の主な収入源だ。"
+    },
+    {
+      "source": "original",
+      "label": "情報源",
+      "en": "The reporter refused to name his source.",
+      "ja": "記者は情報源を明かすのを拒んだ。"
+    },
+    {
+      "source": "original",
+      "label": "原因",
+      "en": "The source of the problem is still unclear.",
+      "ja": "問題の原因はまだはっきりしない。"
+    },
+    {
+      "source": "original",
+      "label": "水源",
+      "en": "The river has its source in the mountains.",
+      "ja": "その川は山に水源がある。"
+    },
+    {
+      "source": "original",
+      "label": "源",
+      "en": "Children are a source of joy.",
+      "ja": "子どもは喜びのもとだ。"
+    }
+  ],
+  "check_points": [
+    "a source of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "source of energy / income が長文で多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1630
+    }
+  ]
+}

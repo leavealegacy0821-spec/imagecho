@@ -1,0 +1,93 @@
+{
+  "word": "beginning",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/bɪˈɡɪnɪŋ/",
+  "core_image": {
+    "text": "流れがスタートする、最初のところ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"40\" y1=\"80\" x2=\"220\" y2=\"80\"/><line x1=\"40\" y1=\"60\" x2=\"40\" y2=\"100\"/><circle cx=\"40\" cy=\"80\" r=\"6\"/><line x1=\"60\" y1=\"60\" x2=\"140\" y2=\"60\"/><polyline points=\"133,56.2 140,60 133,63.8\"/></g><text x=\"100\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">最初のところ</text></svg>"
+  },
+  "etymology": "begin(始める)+ing → 始まること・始まり・最初の部分 → beginnings=(ささやかな)起こり",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the first part of something; the time when something starts."
+    }
+  ],
+  "cautions": [
+    "start=始まり(広い)/beginning=最初の部分・始まり",
+    "at the beginning of A=Aの初めに(at に注意)",
+    "from beginning to end=最初から最後まで",
+    "in the beginning=最初は(のちに変わったことを含む)"
+  ],
+  "patterns": [
+    {
+      "form": "at the beginning of A",
+      "meaning": "Aの初めに"
+    },
+    {
+      "form": "from beginning to end",
+      "meaning": "最初から最後まで"
+    },
+    {
+      "form": "in the beginning",
+      "meaning": "初めは"
+    },
+    {
+      "form": "the beginning of the end",
+      "meaning": "終わりの始まり"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "初めに",
+      "en": "We moved here at the beginning of April.",
+      "ja": "4月の初めにここへ引っ越してきた。"
+    },
+    {
+      "source": "original",
+      "label": "最初から最後まで",
+      "en": "I read the book from beginning to end.",
+      "ja": "その本を最初から最後まで読んだ。"
+    },
+    {
+      "source": "original",
+      "label": "初めは",
+      "en": "In the beginning, I didn't like him.",
+      "ja": "初めは彼のことが好きではなかった。"
+    },
+    {
+      "source": "original",
+      "label": "始まり",
+      "en": "This is just the beginning.",
+      "ja": "これはほんの始まりにすぎない。"
+    },
+    {
+      "source": "original",
+      "label": "終わりの始まり",
+      "en": "It was the beginning of the end for the company.",
+      "ja": "それはその会社にとって終わりの始まりだった。"
+    },
+    {
+      "source": "original",
+      "label": "起こり",
+      "en": "The company grew from humble beginnings.",
+      "ja": "その会社はささやかな始まりから成長した。"
+    }
+  ],
+  "check_points": [
+    "at the beginning of A の前置詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "at the beginning of、in the beginning が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1634
+    }
+  ]
+}

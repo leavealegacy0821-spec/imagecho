@@ -1,0 +1,94 @@
+{
+  "word": "basis",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈbeɪsɪs/",
+  "core_image": {
+    "text": "考えや行動が立っている、よりどころ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"110\" width=\"160\" height=\"20\"/><polygon points=\"80,110 120,40 160,110\"/><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"110\" stroke-dasharray=\"3 3\"/></g><text x=\"200\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">よりどころ</text></svg>"
+  },
+  "etymology": "ギリシャ語 basis(足場・踏み台。base と同じ根) → 土台 → (判断・考えの)根拠・基準・よりどころ → (〜の)方式(on a daily basis)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the most important facts or ideas from which something develops; the way or reason something is done."
+    }
+  ],
+  "cautions": [
+    "foundation=建物・制度の土台/basis=(判断・考え・行動の)根拠・基準",
+    "on the basis of A=Aにもとづいて",
+    "on a daily [regular] basis=毎日[定期的に](頻出)",
+    "複数形 bases(/ˈbeɪsiːz/)"
+  ],
+  "patterns": [
+    {
+      "form": "on the basis of A",
+      "meaning": "Aにもとづいて"
+    },
+    {
+      "form": "on a daily basis",
+      "meaning": "毎日"
+    },
+    {
+      "form": "on a regular basis",
+      "meaning": "定期的に"
+    },
+    {
+      "form": "the basis for A",
+      "meaning": "Aの根拠"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "にもとづいて",
+      "en": "Students are chosen on the basis of their grades.",
+      "ja": "生徒は成績にもとづいて選ばれる。"
+    },
+    {
+      "source": "original",
+      "label": "毎日",
+      "en": "I use a computer on a daily basis.",
+      "ja": "私は毎日コンピューターを使う。"
+    },
+    {
+      "source": "original",
+      "label": "定期的に",
+      "en": "We meet on a regular basis.",
+      "ja": "私たちは定期的に会っている。"
+    },
+    {
+      "source": "original",
+      "label": "根拠",
+      "en": "There is no scientific basis for the claim.",
+      "ja": "その主張には科学的根拠がない。"
+    },
+    {
+      "source": "original",
+      "label": "もと",
+      "en": "The novel is the basis for the movie.",
+      "ja": "その小説が映画のもとになっている。"
+    },
+    {
+      "source": "original",
+      "label": "方式",
+      "en": "She works on a part-time basis.",
+      "ja": "彼女はパートタイムで働いている。"
+    }
+  ],
+  "check_points": [
+    "on the basis of A の意味を言えるか",
+    "on a daily basis の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "on the basis of、on a regular basis が長文で多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1636
+    }
+  ]
+}

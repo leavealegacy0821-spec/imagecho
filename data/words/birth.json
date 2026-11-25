@@ -1,0 +1,98 @@
+{
+  "word": "birth",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/bɜːrθ/",
+  "core_image": {
+    "text": "この世に生まれ出ること、物事の誕生",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"120\" cy=\"90\" rx=\"40\" ry=\"30\"/><path d=\"M90 76 L110 86 L100 96 L120 106\"/><circle cx=\"120\" cy=\"50\" r=\"10\"/><line x1=\"104\" y1=\"40\" x2=\"96\" y2=\"32\"/><line x1=\"136\" y1=\"40\" x2=\"144\" y2=\"32\"/></g><text x=\"200\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">誕生</text></svg>"
+  },
+  "etymology": "古いノルド語 byrth(生まれ。bear=産む と同じ根) → 生まれること・出生 → (物事の)誕生・始まり → 生まれ・家柄",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the time when a baby is born; the beginning of something; a person's family origin."
+    }
+  ],
+  "cautions": [
+    "give birth to A=Aを産む・Aを生み出す",
+    "by birth=生まれは(Japanese by birth)",
+    "the birth rate=出生率(長文で頻出)",
+    "birthday=誕生日/birthplace=出生地"
+  ],
+  "patterns": [
+    {
+      "form": "give birth to A",
+      "meaning": "Aを産む"
+    },
+    {
+      "form": "at birth",
+      "meaning": "生まれたときに"
+    },
+    {
+      "form": "by birth",
+      "meaning": "生まれは"
+    },
+    {
+      "form": "the birth rate",
+      "meaning": "出生率"
+    },
+    {
+      "form": "the birth of A",
+      "meaning": "Aの誕生"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "産む",
+      "en": "She gave birth to a baby girl.",
+      "ja": "彼女は女の子を産んだ。"
+    },
+    {
+      "source": "original",
+      "label": "出生率",
+      "en": "Japan's birth rate is very low.",
+      "ja": "日本の出生率はとても低い。"
+    },
+    {
+      "source": "original",
+      "label": "誕生",
+      "en": "The birth of the internet changed the world.",
+      "ja": "インターネットの誕生が世界を変えた。"
+    },
+    {
+      "source": "original",
+      "label": "生まれは",
+      "en": "He is French by birth.",
+      "ja": "彼は生まれはフランス人だ。"
+    },
+    {
+      "source": "original",
+      "label": "生まれたとき",
+      "en": "The baby weighed 3 kg at birth.",
+      "ja": "その赤ちゃんは生まれたとき3キロだった。"
+    },
+    {
+      "source": "original",
+      "label": "生み出す",
+      "en": "The war gave birth to many new ideas.",
+      "ja": "その戦争は多くの新しい考えを生み出した。"
+    }
+  ],
+  "check_points": [
+    "give birth to A の意味を言えるか",
+    "birth rate の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "give birth to、birth rate が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1633
+    }
+  ]
+}

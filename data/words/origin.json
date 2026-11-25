@@ -1,0 +1,94 @@
+{
+  "word": "origin",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈɔːrɪdʒɪn/",
+  "core_image": {
+    "text": "物事が立ちのぼってくる、そもそもの始まり",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"120\" r=\"8\"/><path d=\"M48 116 Q100 90 140 70 Q180 50 220 30\" stroke-dasharray=\"4 4\"/><line x1=\"180\" y1=\"50\" x2=\"220\" y2=\"30\"/><polyline points=\"212,29.7 220,30 215.4,36.6\"/></g><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そもそもの始まり</text></svg>"
+  },
+  "etymology": "ラテン語 origo(始まり。oriri=立ちのぼる・太陽が昇る:orient=東 と同じ根) → 立ちのぼる起点 → 起源・由来・出身 → original=最初の・独創的な/originate=始まる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the beginning or cause of something; the country, race or social class that a person comes from."
+    }
+  ],
+  "cautions": [
+    "source=(水・情報が)わき出るもと/origin=物事が始まった起源・(人の)生まれ・出身",
+    "the origin of A=Aの起源/of Japanese origin=日本生まれの",
+    "originate in [from] A=Aに起源をもつ",
+    "original=最初の・独創的な"
+  ],
+  "patterns": [
+    {
+      "form": "the origin of A",
+      "meaning": "Aの起源"
+    },
+    {
+      "form": "of A origin",
+      "meaning": "A生まれの"
+    },
+    {
+      "form": "originate in A",
+      "meaning": "Aで始まる"
+    },
+    {
+      "form": "original",
+      "meaning": "最初の・独創的な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "起源",
+      "en": "The origin of the custom is unknown.",
+      "ja": "その習慣の起源はわかっていない。"
+    },
+    {
+      "source": "original",
+      "label": "起源",
+      "en": "Scientists study the origin of life.",
+      "ja": "科学者は生命の起源を研究している。"
+    },
+    {
+      "source": "original",
+      "label": "出身",
+      "en": "She is of Chinese origin.",
+      "ja": "彼女は中国系だ。"
+    },
+    {
+      "source": "original",
+      "label": "始まる",
+      "en": "The game originated in England.",
+      "ja": "その競技はイギリスで生まれた。"
+    },
+    {
+      "source": "original",
+      "label": "独創的な",
+      "en": "He has many original ideas.",
+      "ja": "彼には独創的な考えがたくさんある。"
+    },
+    {
+      "source": "original",
+      "label": "原語",
+      "en": "The word is of Greek origin.",
+      "ja": "その語はギリシャ語に由来する。"
+    }
+  ],
+  "check_points": [
+    "origin と source のちがいを言えるか",
+    "originate in A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "origin、originate、original が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1629
+    }
+  ]
+}

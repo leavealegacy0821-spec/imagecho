@@ -1,0 +1,103 @@
+{
+  "word": "root",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ruːt/",
+  "core_image": {
+    "text": "地中に張って、すべてを下から支える根っこ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"120\" y1=\"140\" x2=\"120\" y2=\"60\"/><circle cx=\"120\" cy=\"50\" r=\"20\"/><path d=\"M120 140 Q100 150 80 156\"/><path d=\"M120 140 Q140 150 160 156\"/><path d=\"M120 140 L120 158\"/></g><text x=\"190\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">根っこ</text></svg>"
+  },
+  "etymology": "古いノルド語 rót(根) → 植物の根 → (問題の)根本原因 → (人の)ルーツ・出自 → (動詞)根づく・根づかせる(be rooted in A)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the part of a plant under the ground; the main cause of a problem; (roots) your family origins."
+    },
+    {
+      "pos": "動詞",
+      "text": "to grow roots; to have a strong connection with something."
+    }
+  ],
+  "cautions": [
+    "origin=起源/root=根・根本原因・(人の)ルーツ",
+    "the root of the problem=問題の根本",
+    "be rooted in A=Aに根ざしている",
+    "take root=根づく・定着する/grassroots=草の根の"
+  ],
+  "patterns": [
+    {
+      "form": "the root of A",
+      "meaning": "Aの根本"
+    },
+    {
+      "form": "be rooted in A",
+      "meaning": "Aに根ざす"
+    },
+    {
+      "form": "take root",
+      "meaning": "根づく"
+    },
+    {
+      "form": "one's roots",
+      "meaning": "ルーツ"
+    },
+    {
+      "form": "root cause",
+      "meaning": "根本原因"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "根本",
+      "en": "Money is the root of the problem.",
+      "ja": "お金が問題の根本だ。"
+    },
+    {
+      "source": "original",
+      "label": "根ざす",
+      "en": "The festival is rooted in old traditions.",
+      "ja": "その祭りは古い伝統に根ざしている。"
+    },
+    {
+      "source": "original",
+      "label": "根づく",
+      "en": "The new idea slowly took root.",
+      "ja": "新しい考えはゆっくり根づいた。"
+    },
+    {
+      "source": "original",
+      "label": "ルーツ",
+      "en": "He went to Italy to find his roots.",
+      "ja": "彼は自分のルーツを探しにイタリアへ行った。"
+    },
+    {
+      "source": "original",
+      "label": "根",
+      "en": "The tree has deep roots.",
+      "ja": "その木は根が深い。"
+    },
+    {
+      "source": "original",
+      "label": "根本原因",
+      "en": "We need to find the root cause.",
+      "ja": "根本原因を見つける必要がある。"
+    }
+  ],
+  "check_points": [
+    "be rooted in A の意味を言えるか",
+    "take root の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "root cause、be rooted in が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1631
+    }
+  ]
+}
