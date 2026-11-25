@@ -1,0 +1,94 @@
+{
+  "word": "verge",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/vɜːrdʒ/",
+  "core_image": {
+    "text": "今にも〜しそうな、ぎりぎりのへり",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"40,140 40,110 160,110 160,140\"/><circle cx=\"150\" cy=\"22\" r=\"10\"/><line x1=\"150\" y1=\"32\" x2=\"150\" y2=\"76\"/><line x1=\"150\" y1=\"76\" x2=\"140\" y2=\"110\"/><line x1=\"150\" y1=\"76\" x2=\"160\" y2=\"110\"/><line x1=\"176\" y1=\"116\" x2=\"176\" y2=\"136\"/><polyline points=\"179.8,129 176,136 172.2,129\"/></g><text x=\"40\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">今にも</text></svg>"
+  },
+  "etymology": "へり・ふち → 道路のわきの草地 → (on the verge of)〜する寸前",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the edge of something; the point at which something is about to happen; a strip of grass beside a road."
+    },
+    {
+      "pos": "動詞",
+      "text": "(verge on) to be very close to a particular state."
+    }
+  ],
+  "cautions": [
+    "on the verge of A [doing]=今にもAしそうで(tears, success などよいことにも)",
+    "brink=破滅寸前の印象が強い/verge=単に「寸前」",
+    "verge on A=Aに近い(border on と同じ)",
+    "(英)道路わきの草地"
+  ],
+  "patterns": [
+    {
+      "form": "on the verge of A",
+      "meaning": "Aの寸前で"
+    },
+    {
+      "form": "on the verge of doing",
+      "meaning": "今にも〜しそうで"
+    },
+    {
+      "form": "verge on A",
+      "meaning": "Aに近い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "今にも泣きそう",
+      "en": "She was on the verge of tears.",
+      "ja": "彼女は今にも泣きだしそうだった。"
+    },
+    {
+      "source": "original",
+      "label": "寸前",
+      "en": "The team is on the verge of winning the title.",
+      "ja": "チームは優勝目前だ。"
+    },
+    {
+      "source": "original",
+      "label": "近い",
+      "en": "His confidence verges on arrogance.",
+      "ja": "彼の自信はごう慢に近い。"
+    },
+    {
+      "source": "original",
+      "label": "一歩手前",
+      "en": "I was on the verge of giving up.",
+      "ja": "私はあきらめる寸前だった。"
+    },
+    {
+      "source": "original",
+      "label": "崩壊寸前",
+      "en": "The old bridge is on the verge of collapse.",
+      "ja": "その古い橋は崩れる寸前だ。"
+    },
+    {
+      "source": "original",
+      "label": "草地",
+      "en": "Don't park on the grass verge.",
+      "ja": "道路わきの草地に車をとめないで。"
+    }
+  ],
+  "check_points": [
+    "on the verge of と on the brink of のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "on the verge of tears が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1714
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "border",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈbɔːrdər/",
+  "core_image": {
+    "text": "2つの国・地域が接する、へりの線",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"120\" y1=\"30\" x2=\"120\" y2=\"140\" stroke-dasharray=\"6 4\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"90\" x2=\"150\" y2=\"90\"/><polyline points=\"143,86.2 150,90 143,93.8\"/></g><text x=\"150\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">国境</text></svg>"
+  },
+  "etymology": "古フランス語 bordure(へり。bord=ふち) → ものの へり・ふち飾り → 国と国が接する線=国境 → (動詞)〜に接する・(〜に)近い(border on)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the line that divides two countries or areas; a strip around the edge of something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to be next to another country or area; (border on) to be almost the same as."
+    }
+  ],
+  "cautions": [
+    "border=国境・(実際に越える)へり/boundary=(土地・分野の)境界線・限界",
+    "cross the border=国境を越える",
+    "border on A=Aに接する・ほとんどAだ(border on madness=狂気に近い)",
+    "ふち飾りの意味もある(a white border=白いふち)"
+  ],
+  "patterns": [
+    {
+      "form": "cross the border",
+      "meaning": "国境を越える"
+    },
+    {
+      "form": "on the border",
+      "meaning": "国境で"
+    },
+    {
+      "form": "border A",
+      "meaning": "Aに接する"
+    },
+    {
+      "form": "border on A",
+      "meaning": "Aに近い・ほとんどAだ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "国境",
+      "en": "They crossed the border into Canada.",
+      "ja": "彼らは国境を越えてカナダに入った。"
+    },
+    {
+      "source": "original",
+      "label": "接する",
+      "en": "France borders Spain.",
+      "ja": "フランスはスペインと接している。"
+    },
+    {
+      "source": "original",
+      "label": "ほとんど〜",
+      "en": "His behavior bordered on rudeness.",
+      "ja": "彼の態度は失礼すれすれだった。"
+    },
+    {
+      "source": "original",
+      "label": "ふち",
+      "en": "The photo had a white border.",
+      "ja": "写真には白いふちがあった。"
+    },
+    {
+      "source": "original",
+      "label": "国境地帯",
+      "en": "The town is near the border.",
+      "ja": "その町は国境の近くにある。"
+    },
+    {
+      "source": "original",
+      "label": "国境を越えて",
+      "en": "Pollution does not stop at borders.",
+      "ja": "汚染は国境で止まらない。"
+    }
+  ],
+  "check_points": [
+    "border on A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "border と boundary の区別、border on が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1709
+    }
+  ]
+}

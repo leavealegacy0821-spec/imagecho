@@ -1,0 +1,93 @@
+{
+  "word": "boundary",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈbaʊndri/",
+  "core_image": {
+    "text": "ここまで、という境の線・限界",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"120\" y1=\"30\" x2=\"120\" y2=\"140\"/><line x1=\"110\" y1=\"30\" x2=\"130\" y2=\"30\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"160\" y1=\"60\" x2=\"200\" y2=\"100\"/><line x1=\"200\" y1=\"60\" x2=\"160\" y2=\"100\"/></g><text x=\"60\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ここまで</text></svg>"
+  },
+  "etymology": "bound(境界・限界=out of bounds の bound) + -ary(もの) → 土地・地域を分ける境界線 → (知識・行動の)限界・(人との)線引き",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a line that marks the edge of an area; a limit of a subject or an activity."
+    }
+  ],
+  "cautions": [
+    "border=国境/boundary=土地や区域・分野の境目、また「越えてはいけない限界」",
+    "push the boundaries of A=Aの限界を広げる",
+    "set boundaries=(人間関係で)線を引く",
+    "limit=量・程度の限度/boundary=線としての境"
+  ],
+  "patterns": [
+    {
+      "form": "the boundary between A and B",
+      "meaning": "AとBの境界"
+    },
+    {
+      "form": "push the boundaries",
+      "meaning": "限界を広げる"
+    },
+    {
+      "form": "beyond the boundaries of A",
+      "meaning": "Aの範囲を超えて"
+    },
+    {
+      "form": "set boundaries",
+      "meaning": "線引きをする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "境界",
+      "en": "The river forms the boundary between the two towns.",
+      "ja": "その川が2つの町の境界になっている。"
+    },
+    {
+      "source": "original",
+      "label": "限界を広げる",
+      "en": "Science keeps pushing the boundaries of knowledge.",
+      "ja": "科学は知識の限界を広げ続けている。"
+    },
+    {
+      "source": "original",
+      "label": "境目",
+      "en": "The boundary between fact and fiction is not always clear.",
+      "ja": "事実と作り話の境目はいつもはっきりしているわけではない。"
+    },
+    {
+      "source": "original",
+      "label": "線引き",
+      "en": "It is important to set boundaries with friends.",
+      "ja": "友達との間に線を引くことは大切だ。"
+    },
+    {
+      "source": "original",
+      "label": "範囲を超えて",
+      "en": "That question is beyond the boundaries of this course.",
+      "ja": "その質問はこの講座の範囲を超えている。"
+    },
+    {
+      "source": "original",
+      "label": "敷地",
+      "en": "The fence marks the boundary of the school.",
+      "ja": "フェンスが学校の敷地の境を示している。"
+    }
+  ],
+  "check_points": [
+    "border と boundary のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文で「境界・限界」として頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1710
+    }
+  ]
+}

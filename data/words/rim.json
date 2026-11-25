@@ -1,0 +1,94 @@
+{
+  "word": "rim",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/rɪm/",
+  "core_image": {
+    "text": "まるい器のまわりの、ふち",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"120\" cy=\"50\" rx=\"60\" ry=\"14\"/><path d=\"M60 50 L80 130 L160 130 L180 50\"/><ellipse cx=\"120\" cy=\"50\" rx=\"66\" ry=\"18\" stroke-dasharray=\"3 3\"/></g><text x=\"200\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふち</text></svg>"
+  },
+  "etymology": "古い英語 rima(へり・ふち) → まるいもののふち(カップ・めがね・車輪) → (大きな地域の)周縁(the Pacific Rim)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the outside edge of something round, such as a cup, glasses or a wheel."
+    },
+    {
+      "pos": "動詞",
+      "text": "to form an edge around something."
+    }
+  ],
+  "cautions": [
+    "edge=一般的なへり/rim=まるいもののふち",
+    "the rim of a cup=カップのふち",
+    "the Pacific Rim=環太平洋地域",
+    "brim=(帽子のつば・コップの)ふち(filled to the brim=なみなみと)"
+  ],
+  "patterns": [
+    {
+      "form": "the rim of A",
+      "meaning": "Aのふち"
+    },
+    {
+      "form": "the Pacific Rim",
+      "meaning": "環太平洋地域"
+    },
+    {
+      "form": "be rimmed with A",
+      "meaning": "Aでふちどられている"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ふち",
+      "en": "There was lipstick on the rim of the cup.",
+      "ja": "カップのふちに口紅がついていた。"
+    },
+    {
+      "source": "original",
+      "label": "めがね",
+      "en": "He wears glasses with black rims.",
+      "ja": "彼は黒ぶちのめがねをかけている。"
+    },
+    {
+      "source": "original",
+      "label": "環太平洋",
+      "en": "Japan is part of the Pacific Rim.",
+      "ja": "日本は環太平洋地域の一部だ。"
+    },
+    {
+      "source": "original",
+      "label": "ふちどる",
+      "en": "Her eyes were rimmed with tears.",
+      "ja": "彼女の目は涙でうるんでいた。"
+    },
+    {
+      "source": "original",
+      "label": "車輪",
+      "en": "The rim of the wheel was bent.",
+      "ja": "車輪のリムが曲がっていた。"
+    },
+    {
+      "source": "original",
+      "label": "火口",
+      "en": "We walked along the rim of the volcano.",
+      "ja": "私たちは火山の火口のふちを歩いた。"
+    }
+  ],
+  "check_points": [
+    "the Pacific Rim の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "the Pacific Rim が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1712
+    }
+  ]
+}

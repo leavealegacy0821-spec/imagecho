@@ -1,0 +1,89 @@
+{
+  "word": "brink",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/brɪŋk/",
+  "core_image": {
+    "text": "がけっぷち、落ちる寸前のふち",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"20,110 140,110 140,160\"/><circle cx=\"120\" cy=\"22\" r=\"10\"/><line x1=\"120\" y1=\"32\" x2=\"120\" y2=\"76\"/><line x1=\"120\" y1=\"76\" x2=\"110\" y2=\"110\"/><line x1=\"120\" y1=\"76\" x2=\"130\" y2=\"110\"/><line x1=\"160\" y1=\"116\" x2=\"160\" y2=\"156\"/><polyline points=\"163.8,149 160,156 156.2,149\"/></g><text x=\"40\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">がけっぷち</text></svg>"
+  },
+  "etymology": "中英語 brink(がけのふち。北欧の言葉から) → がけ・川のふち → (悪いこと・大事なことが起きる)寸前(on the brink of)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the edge of a steep place; the point at which something bad or exciting is about to happen."
+    }
+  ],
+  "cautions": [
+    "verge=〜しかけている(よい・悪い両方)/brink=破滅・大事件の寸前(悪いことが多い)",
+    "on the brink of A=Aの寸前で(A=war, collapse, extinction など)",
+    "be driven to the brink=ぎりぎりまで追いこまれる",
+    "edge・verge と同じく on the 〜 of の型"
+  ],
+  "patterns": [
+    {
+      "form": "on the brink of A",
+      "meaning": "Aの寸前で"
+    },
+    {
+      "form": "bring A to the brink of B",
+      "meaning": "AをB寸前に追いこむ"
+    },
+    {
+      "form": "step back from the brink",
+      "meaning": "がけっぷちから引き返す"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "寸前",
+      "en": "The species is on the brink of extinction.",
+      "ja": "その種は絶滅寸前だ。"
+    },
+    {
+      "source": "original",
+      "label": "戦争寸前",
+      "en": "The two countries were on the brink of war.",
+      "ja": "両国は戦争寸前だった。"
+    },
+    {
+      "source": "original",
+      "label": "追いこむ",
+      "en": "The crisis brought the company to the brink of collapse.",
+      "ja": "危機で会社は倒産寸前に追いこまれた。"
+    },
+    {
+      "source": "original",
+      "label": "引き返す",
+      "en": "Both sides stepped back from the brink.",
+      "ja": "双方がぎりぎりのところで引き返した。"
+    },
+    {
+      "source": "original",
+      "label": "がけのふち",
+      "en": "He stood on the brink of the cliff.",
+      "ja": "彼はがけのふちに立っていた。"
+    },
+    {
+      "source": "original",
+      "label": "大発見",
+      "en": "Scientists are on the brink of a major discovery.",
+      "ja": "科学者たちは大発見の一歩手前にいる。"
+    }
+  ],
+  "check_points": [
+    "on the brink of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "on the brink of extinction が長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1713
+    }
+  ]
+}

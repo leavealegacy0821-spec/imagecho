@@ -1,0 +1,89 @@
+{
+  "word": "frontier",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/frʌnˈtɪr/",
+  "core_image": {
+    "text": "その先は未知、という最前線",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"110\" y1=\"20\" x2=\"110\" y2=\"140\"/><path d=\"M140 100 Q160 70 180 100 Q200 70 220 100\" stroke-dasharray=\"3 3\"/><line x1=\"80\" y1=\"80\" x2=\"104\" y2=\"80\"/><polyline points=\"97,76.2 104,80 97,83.8\"/></g><text x=\"170\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">未知</text></svg>"
+  },
+  "etymology": "古フランス語 frontiere(前に向いた所。front=額・前) → 敵と向き合う国の前線・国境地帯 → (アメリカ開拓の)辺境 → (知識・科学の)最先端",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a border between two countries; the edge of land that has been settled; the limit of what is known in a subject."
+    }
+  ],
+  "cautions": [
+    "border=国境の線/frontier=その向こうが未知・未開の最前線",
+    "the frontiers of science=科学の最先端",
+    "(米)開拓地の西の果て(the Frontier)",
+    "frontier spirit=開拓者精神"
+  ],
+  "patterns": [
+    {
+      "form": "the frontiers of A",
+      "meaning": "Aの最先端"
+    },
+    {
+      "form": "a new frontier",
+      "meaning": "新しい開拓分野"
+    },
+    {
+      "form": "frontier spirit",
+      "meaning": "開拓者精神"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "最先端",
+      "en": "She works at the frontiers of medical science.",
+      "ja": "彼女は医学の最先端で働いている。"
+    },
+    {
+      "source": "original",
+      "label": "新分野",
+      "en": "Space is the final frontier.",
+      "ja": "宇宙は最後の未開の地だ。"
+    },
+    {
+      "source": "original",
+      "label": "辺境",
+      "en": "Many settlers moved to the western frontier.",
+      "ja": "多くの入植者が西の辺境へ移った。"
+    },
+    {
+      "source": "original",
+      "label": "開拓者精神",
+      "en": "The frontier spirit shaped American culture.",
+      "ja": "開拓者精神はアメリカの文化を形づくった。"
+    },
+    {
+      "source": "original",
+      "label": "国境地帯",
+      "en": "Soldiers guarded the frontier.",
+      "ja": "兵士たちが国境地帯を守った。"
+    },
+    {
+      "source": "original",
+      "label": "未知",
+      "en": "AI is opening up new frontiers in research.",
+      "ja": "AIは研究に新しい分野を切り開いている。"
+    }
+  ],
+  "check_points": [
+    "the frontiers of science の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で「最先端・未開の地」として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1711
+    }
+  ]
+}

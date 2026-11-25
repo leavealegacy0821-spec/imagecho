@@ -1,0 +1,94 @@
+{
+  "word": "fringe",
+  "pos": [
+    "名詞",
+    "形容詞"
+  ],
+  "ipa": "/frɪndʒ/",
+  "core_image": {
+    "text": "中心からはずれた、へりのふさ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"30\" width=\"120\" height=\"70\"/><line x1=\"70\" y1=\"100\" x2=\"70\" y2=\"120\"/><line x1=\"90\" y1=\"100\" x2=\"90\" y2=\"120\"/><line x1=\"110\" y1=\"100\" x2=\"110\" y2=\"120\"/><line x1=\"130\" y1=\"100\" x2=\"130\" y2=\"120\"/><line x1=\"150\" y1=\"100\" x2=\"150\" y2=\"120\"/><line x1=\"170\" y1=\"100\" x2=\"170\" y2=\"120\"/></g><text x=\"200\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">へり</text></svg>"
+  },
+  "etymology": "古フランス語 frenge(ふさ) → 布のへりのふさ飾り → (英)前髪 → ものの外側・へり → 中心からはずれた・少数派の(fringe groups)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a decorative edge of hanging threads; the outer edge of an area; the less important or less accepted part of a group."
+    },
+    {
+      "pos": "形容詞",
+      "text": "not part of the main group; not generally accepted."
+    }
+  ],
+  "cautions": [
+    "edge=へり/fringe=中心から遠いへり、とくに「主流でない・少数派の」",
+    "on the fringe(s) of A=Aのはずれで・周辺で",
+    "fringe benefits=(給料以外の)付加給付",
+    "(英)前髪=(米)bangs"
+  ],
+  "patterns": [
+    {
+      "form": "on the fringe(s) of A",
+      "meaning": "Aのはずれで"
+    },
+    {
+      "form": "a fringe group",
+      "meaning": "少数派の集団"
+    },
+    {
+      "form": "fringe benefits",
+      "meaning": "付加給付"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "はずれ",
+      "en": "They live on the fringes of the city.",
+      "ja": "彼らは町のはずれに住んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "少数派",
+      "en": "It was only a fringe group with extreme views.",
+      "ja": "それは極端な考えをもつ一部の集団にすぎなかった。"
+    },
+    {
+      "source": "original",
+      "label": "付加給付",
+      "en": "The job has good fringe benefits.",
+      "ja": "その仕事は福利厚生がよい。"
+    },
+    {
+      "source": "original",
+      "label": "周辺",
+      "en": "He stayed on the fringe of the conversation.",
+      "ja": "彼は会話の輪のはしにいた。"
+    },
+    {
+      "source": "original",
+      "label": "前髪",
+      "en": "She had her fringe cut short.",
+      "ja": "彼女は前髪を短く切ってもらった。"
+    },
+    {
+      "source": "original",
+      "label": "ふさ",
+      "en": "The scarf has a fringe at each end.",
+      "ja": "そのスカーフは両はしにふさがついている。"
+    }
+  ],
+  "check_points": [
+    "fringe の「主流でない」という意味がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "on the fringes of、fringe benefits が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1715
+    }
+  ]
+}

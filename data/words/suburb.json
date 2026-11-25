@@ -1,0 +1,89 @@
+{
+  "word": "suburb",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈsʌbɜːrb/",
+  "core_image": {
+    "text": "都市のすぐ外の、住宅地",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"20\" y=\"40\" width=\"30\" height=\"100\"/><rect x=\"56\" y=\"60\" width=\"26\" height=\"80\"/><rect x=\"130\" y=\"110\" width=\"26\" height=\"30\"/><polyline points=\"128,110 143,94 158,110\"/><rect x=\"180\" y=\"110\" width=\"26\" height=\"30\"/><polyline points=\"178,110 193,94 208,110\"/></g><text x=\"140\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">住宅地</text></svg>"
+  },
+  "etymology": "ラテン語 suburbium(sub=下・近く + urbs=都市。urban と同じ根) → 都市のすぐそば → (都会に通う人が住む)郊外の住宅地",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an area where people live that is outside the center of a city."
+    }
+  ],
+  "cautions": [
+    "outskirts=町はずれ(へり)/suburb=都市の周りの住宅地(通勤する人が住む)",
+    "in the suburbs=郊外に(複数形+in)",
+    "suburban=郊外の/urban=都市の/rural=田舎の",
+    "commute from the suburbs=郊外から通勤する"
+  ],
+  "patterns": [
+    {
+      "form": "in the suburbs",
+      "meaning": "郊外に"
+    },
+    {
+      "form": "a suburb of A",
+      "meaning": "Aの郊外の町"
+    },
+    {
+      "form": "suburban",
+      "meaning": "郊外の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "郊外に",
+      "en": "We live in the suburbs of Osaka.",
+      "ja": "私たちは大阪の郊外に住んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "郊外の町",
+      "en": "Kawasaki is a suburb of Tokyo.",
+      "ja": "川崎は東京の郊外の町だ。"
+    },
+    {
+      "source": "original",
+      "label": "通勤",
+      "en": "Many people commute from the suburbs.",
+      "ja": "多くの人が郊外から通勤している。"
+    },
+    {
+      "source": "original",
+      "label": "郊外の",
+      "en": "Suburban life is quieter than city life.",
+      "ja": "郊外の生活は都会の生活より静かだ。"
+    },
+    {
+      "source": "original",
+      "label": "広がる",
+      "en": "The suburbs have grown rapidly since the 1960s.",
+      "ja": "1960年代以来、郊外は急速に広がった。"
+    },
+    {
+      "source": "original",
+      "label": "対比",
+      "en": "Urban areas are more crowded than the suburbs.",
+      "ja": "都市部は郊外より混んでいる。"
+    }
+  ],
+  "check_points": [
+    "in the suburbs と on the outskirts の前置詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "suburb / urban / rural の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1717
+    }
+  ]
+}
