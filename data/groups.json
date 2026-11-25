@@ -2393,7 +2393,7 @@
     },
     {
       "title": "使い分け:触れる・たたく",
-      "note": "touch=触れる(広い) ／ stroke=手でさっとなでる ／ rub=押しつけてこする ／ scratch=つめでひっかく ／ pat=手のひらでぽんぽん ／ tap=指先でとんとん ／ poke=指や棒の先でつんとつつく ／ pinch=親指と人さし指できゅっとつまむ ／ knock=こぶしでこつんと打つ",
+      "note": "touch=触れる(広い) ／ stroke=手でさっとなでる ／ rub=押しつけてこする ／ scratch=つめでひっかく ／ pat=手のひらでぽんぽん ／ tap=指先でとんとん ／ poke=指や棒の先でつんとつつく ／ pinch=親指と人さし指できゅっとつまむ ／ knock=こぶしでこつんと打つ ／ kick=足でぽんとける(kick off=始める) ／ punch=にぎりこぶしでばしっとなぐる ／ slap=手のひらでぴしゃりとたたく ／ clap=両手を打ち合わせてぱちぱち ／ smash=強くたたきつけてこなごなに ／ bump=うっかりごつんとぶつかる(bump into=ばったり会う) ／ nudge=ひじでそっとつついてうながす ／ tickle=こちょこちょくすぐる",
       "words": [
         "touch",
         "stroke",
@@ -2403,7 +2403,15 @@
         "tap",
         "poke",
         "pinch",
-        "knock"
+        "knock",
+        "kick",
+        "punch",
+        "slap",
+        "clap",
+        "smash",
+        "bump",
+        "nudge",
+        "tickle"
       ]
     },
     {
@@ -2984,14 +2992,15 @@
     },
     {
       "title": "使い分け:回る・ころがる・ゆれる・はねる",
-      "note": "rotate=軸を中心にぐるりと回転・交代 ／ spin=その場でくるくる速く ／ roll=まるいものがころころ転がる・巻く ／ tumble=ころげ落ちる・急落 ／ swing=つり下がってぶらんぶらん・ふる ／ bounce=当たってぽんとはね返る",
+      "note": "rotate=軸を中心にぐるりと回転・交代 ／ spin=その場でくるくる速く ／ roll=まるいものがころころ転がる・巻く ／ tumble=ころげ落ちる・急落 ／ swing=つり下がってぶらんぶらん・ふる ／ bounce=当たってぽんとはね返る ／ shake=左右・上下に小きざみにゆさぶる(shook, shaken)",
       "words": [
         "rotate",
         "spin",
         "roll",
         "tumble",
         "swing",
-        "bounce"
+        "bounce",
+        "shake"
       ]
     },
     {
@@ -3055,12 +3064,13 @@
     },
     {
       "title": "使い分け:かがむ・ひざまずく",
-      "note": "kneel=ひざを床につく(knelt) ／ crouch=ひざを深く曲げ身を低く構える ／ squat=お尻を落としてしゃがみこむ ／ stoop=上体を前にかがめる・(stoop to)身を落とす",
+      "note": "kneel=ひざを床につく(knelt) ／ crouch=ひざを深く曲げ身を低く構える ／ squat=お尻を落としてしゃがみこむ ／ stoop=上体を前にかがめる・(stoop to)身を落とす ／ sit=腰をおろしてすわる(sat/seat=すわらせる)",
       "words": [
         "kneel",
         "crouch",
         "squat",
-        "stoop"
+        "stoop",
+        "sit"
       ]
     },
     {

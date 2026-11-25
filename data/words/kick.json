@@ -1,0 +1,102 @@
+{
+  "word": "kick",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/kɪk/",
+  "core_image": {
+    "text": "足でぽんとける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"50\" r=\"12\"/><line x1=\"80\" y1=\"62\" x2=\"84\" y2=\"100\"/><line x1=\"84\" y1=\"100\" x2=\"76\" y2=\"140\"/><line x1=\"84\" y1=\"100\" x2=\"124\" y2=\"112\"/><line x1=\"82\" y1=\"74\" x2=\"60\" y2=\"88\"/><line x1=\"82\" y1=\"74\" x2=\"104\" y2=\"80\"/><circle cx=\"140\" cy=\"112\" r=\"10\"/><line x1=\"156\" y1=\"110\" x2=\"210\" y2=\"90\"/><polyline points=\"202.1,88.8 210,90 204.7,96\"/></g><text x=\"190\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぽーん</text></svg>"
+  },
+  "etymology": "中英語 kiken(ける) → 足でける → (習慣を)やめる(kick the habit) → (名詞)けること・(口語)スリル(for kicks)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to hit something with your foot; to stop a bad habit."
+    },
+    {
+      "pos": "名詞",
+      "text": "an act of kicking; (informal) a feeling of excitement."
+    }
+  ],
+  "cautions": [
+    "kick=足でける/punch=こぶしでなぐる/slap=手のひらでたたく",
+    "kick off=(試合を)始める・キックオフ",
+    "kick the habit=悪い習慣をやめる",
+    "kick A out=Aを追い出す"
+  ],
+  "patterns": [
+    {
+      "form": "kick A",
+      "meaning": "Aをける"
+    },
+    {
+      "form": "kick off",
+      "meaning": "始まる・始める"
+    },
+    {
+      "form": "kick the habit",
+      "meaning": "悪習をやめる"
+    },
+    {
+      "form": "kick A out",
+      "meaning": "Aを追い出す"
+    },
+    {
+      "form": "for kicks",
+      "meaning": "おもしろ半分に"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ける",
+      "en": "He kicked the ball into the goal.",
+      "ja": "彼はボールをけってゴールに入れた。"
+    },
+    {
+      "source": "original",
+      "label": "始まる",
+      "en": "The game kicks off at 7.",
+      "ja": "試合は7時に始まる。"
+    },
+    {
+      "source": "original",
+      "label": "やめる",
+      "en": "He finally kicked the smoking habit.",
+      "ja": "彼はついにたばこをやめた。"
+    },
+    {
+      "source": "original",
+      "label": "追い出す",
+      "en": "He was kicked out of the club.",
+      "ja": "彼はクラブから追い出された。"
+    },
+    {
+      "source": "original",
+      "label": "スリル",
+      "en": "They did it just for kicks.",
+      "ja": "彼らはおもしろ半分でそれをやった。"
+    },
+    {
+      "source": "original",
+      "label": "後悔",
+      "en": "I could kick myself for missing the bus.",
+      "ja": "バスに乗りおくれて自分がいやになる。"
+    }
+  ],
+  "check_points": [
+    "kick off の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "kick off、kick the habit が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1919
+    }
+  ]
+}

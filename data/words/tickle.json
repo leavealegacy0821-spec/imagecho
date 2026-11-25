@@ -1,0 +1,98 @@
+{
+  "word": "tickle",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈtɪkl/",
+  "core_image": {
+    "text": "こちょこちょくすぐる・おもしろがらせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"100\" cy=\"70\" r=\"30\"/><path d=\"M86 64 Q90 58 94 64\"/><path d=\"M106 64 Q110 58 114 64\"/><path d=\"M88 80 Q100 92 112 80\"/><path d=\"M150 90 L160 80 L170 90 L180 80 L190 90\"/><path d=\"M60 40 L50 30 M140 40 L150 30\"/></g><text x=\"180\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こちょこちょ</text></svg>"
+  },
+  "etymology": "中英語 tikelen(くすぐる) → くすぐる・むずむずさせる → (心を)くすぐる=おもしろがらせる(be tickled pink)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to touch someone lightly to make them laugh; to cause a slightly uncomfortable feeling; to amuse."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of tickling; a slightly uncomfortable feeling."
+    }
+  ],
+  "cautions": [
+    "tickle=くすぐる・(のどが)むずむずする・おもしろがらせる",
+    "be tickled (pink)=とても喜ぶ",
+    "ticklish=くすぐったがりの",
+    "a tickle in one's throat=のどのむずむず"
+  ],
+  "patterns": [
+    {
+      "form": "tickle A",
+      "meaning": "Aをくすぐる"
+    },
+    {
+      "form": "be tickled (pink)",
+      "meaning": "大喜びする"
+    },
+    {
+      "form": "ticklish",
+      "meaning": "くすぐったがりの"
+    },
+    {
+      "form": "a tickle in the throat",
+      "meaning": "のどのむずむず"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "くすぐる",
+      "en": "My sister tickled me until I laughed.",
+      "ja": "姉は私が笑うまでくすぐった。"
+    },
+    {
+      "source": "original",
+      "label": "くすぐったい",
+      "en": "Are you ticklish?",
+      "ja": "くすぐったがり?"
+    },
+    {
+      "source": "original",
+      "label": "むずむず",
+      "en": "I have a tickle in my throat.",
+      "ja": "のどがむずむずする。"
+    },
+    {
+      "source": "original",
+      "label": "大喜び",
+      "en": "She was tickled pink by the present.",
+      "ja": "彼女はプレゼントに大喜びした。"
+    },
+    {
+      "source": "original",
+      "label": "おもしろがらせる",
+      "en": "The joke tickled me.",
+      "ja": "その冗談がおかしかった。"
+    },
+    {
+      "source": "original",
+      "label": "羽",
+      "en": "The feather tickled my nose.",
+      "ja": "羽が鼻をくすぐった。"
+    }
+  ],
+  "check_points": [
+    "be tickled pink の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1926
+    }
+  ]
+}

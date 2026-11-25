@@ -1,0 +1,94 @@
+{
+  "word": "nudge",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/nʌdʒ/",
+  "core_image": {
+    "text": "ひじでそっとつついて、うながす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><circle cx=\"160\" cy=\"52\" r=\"10\"/><line x1=\"160\" y1=\"62\" x2=\"160\" y2=\"106\"/><line x1=\"160\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"106\" x2=\"170\" y2=\"140\"/><polyline points=\"80,74 104,86 132,80\"/><path d=\"M136 70 L142 64 M136 84 L144 86\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">つんつん</text></svg>"
+  },
+  "etymology": "ひじでそっとつつく → (気づかせるために)軽くうながす・(行動を)そっと後押しする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to push someone gently with your elbow; to encourage someone gently to do something."
+    },
+    {
+      "pos": "名詞",
+      "text": "a gentle push; gentle encouragement."
+    }
+  ],
+  "cautions": [
+    "poke=指先でつつく/nudge=ひじでそっとつつく・(行動を)軽く後押しする",
+    "nudge A to do [toward A]=Aに〜するようそっとうながす",
+    "give A a nudge=Aをひじでつつく・Aに気づかせる",
+    "nudge theory=ナッジ理論(行動経済学)"
+  ],
+  "patterns": [
+    {
+      "form": "nudge A",
+      "meaning": "Aをひじでつつく"
+    },
+    {
+      "form": "nudge A toward B",
+      "meaning": "AをBのほうへそっと導く"
+    },
+    {
+      "form": "give A a nudge",
+      "meaning": "Aをそっとつつく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "つつく",
+      "en": "She nudged me and pointed at the door.",
+      "ja": "彼女は私をひじでつついてドアを指さした。"
+    },
+    {
+      "source": "original",
+      "label": "うながす",
+      "en": "My teacher nudged me to try the contest.",
+      "ja": "先生はそのコンテストに出るようそっと後押ししてくれた。"
+    },
+    {
+      "source": "original",
+      "label": "気づかせる",
+      "en": "Give him a nudge if he falls asleep.",
+      "ja": "彼が眠ったらつついて起こして。"
+    },
+    {
+      "source": "original",
+      "label": "導く",
+      "en": "Small changes can nudge people toward healthier choices.",
+      "ja": "小さな工夫が人をより健康的な選択へと導くことがある。"
+    },
+    {
+      "source": "original",
+      "label": "じわり",
+      "en": "Prices nudged up last month.",
+      "ja": "先月、物価がじわりと上がった。"
+    },
+    {
+      "source": "original",
+      "label": "押す",
+      "en": "He nudged the door open with his foot.",
+      "ja": "彼は足でドアをそっと押しあけた。"
+    }
+  ],
+  "check_points": [
+    "poke と nudge のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文(行動経済学)で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1925
+    }
+  ]
+}

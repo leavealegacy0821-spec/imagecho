@@ -1,0 +1,98 @@
+{
+  "word": "smash",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/smæʃ/",
+  "core_image": {
+    "text": "強くたたきつけて、こなごなにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polygon points=\"100,140 110,110 130,116 140,140\"/><polygon points=\"60,130 70,124 74,136\"/><polygon points=\"170,128 180,122 186,134\"/><polygon points=\"150,100 160,96 162,108\"/><polygon points=\"80,100 86,92 94,102\"/><line x1=\"120\" y1=\"30\" x2=\"120\" y2=\"90\"/><polyline points=\"123.8,83 120,90 116.2,83\"/></g><text x=\"190\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ガシャン</text></svg>"
+  },
+  "etymology": "強くたたきつけてこわす → (記録を)大きく破る・大ヒット(smash hit)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to break something into many pieces with force; to hit something very hard; to break a record easily."
+    },
+    {
+      "pos": "名詞",
+      "text": "an act or sound of smashing; a very successful film or song."
+    }
+  ],
+  "cautions": [
+    "break=こわす(広い)/smash=強くたたきつけてこなごなに/shatter=ガラスなどがこなごなに飛び散る",
+    "smash a record=記録を大きく破る",
+    "a smash hit=大ヒット",
+    "smash into A=Aに激しくぶつかる"
+  ],
+  "patterns": [
+    {
+      "form": "smash A",
+      "meaning": "Aをたたきこわす"
+    },
+    {
+      "form": "smash into A",
+      "meaning": "Aに激突する"
+    },
+    {
+      "form": "smash a record",
+      "meaning": "記録を大きく破る"
+    },
+    {
+      "form": "a smash hit",
+      "meaning": "大ヒット"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "たたきこわす",
+      "en": "The thief smashed the window.",
+      "ja": "泥棒は窓をたたき割った。"
+    },
+    {
+      "source": "original",
+      "label": "激突",
+      "en": "The car smashed into a wall.",
+      "ja": "車は壁に激突した。"
+    },
+    {
+      "source": "original",
+      "label": "大ヒット",
+      "en": "The movie was a smash hit.",
+      "ja": "その映画は大ヒットだった。"
+    },
+    {
+      "source": "original",
+      "label": "記録",
+      "en": "She smashed the world record.",
+      "ja": "彼女は世界記録を大きく塗りかえた。"
+    },
+    {
+      "source": "original",
+      "label": "こなごな",
+      "en": "The plate fell and smashed on the floor.",
+      "ja": "皿が落ちて床でこなごなになった。"
+    },
+    {
+      "source": "original",
+      "label": "テニス",
+      "en": "He hit a powerful smash.",
+      "ja": "彼は強烈なスマッシュを打った。"
+    }
+  ],
+  "check_points": [
+    "a smash hit の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a smash hit、smash a record が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1923
+    }
+  ]
+}

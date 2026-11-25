@@ -1,0 +1,98 @@
+{
+  "word": "punch",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/pʌntʃ/",
+  "core_image": {
+    "text": "にぎりこぶしで、ばしっとなぐる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"60\" cy=\"60\" r=\"12\"/><line x1=\"60\" y1=\"72\" x2=\"60\" y2=\"120\"/><line x1=\"60\" y1=\"84\" x2=\"120\" y2=\"80\"/><circle cx=\"128\" cy=\"80\" r=\"10\"/><path d=\"M146 66 L156 56 M150 80 L164 80 M146 94 L156 104\"/><rect x=\"170\" y=\"50\" width=\"40\" height=\"70\"/></g><text x=\"100\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ばしっ</text></svg>"
+  },
+  "etymology": "中英語 punchen(突く・穴をあける) → こぶしで突く=なぐる → (穴あけ器で)穴をあける → (名詞)パンチ・迫力",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to hit someone or something hard with your closed hand; to make a hole in something; to press a key or button."
+    },
+    {
+      "pos": "名詞",
+      "text": "a hit with the closed hand; a tool for making holes; a drink made from fruit juice."
+    }
+  ],
+  "cautions": [
+    "punch=こぶしでなぐる/slap=手のひらでぴしゃり/hit=打つ(広い)",
+    "punch A in the face [stomach]=Aの顔[おなか]をなぐる(in the+体の部分)",
+    "punch a hole=穴をあける",
+    "pack a punch=迫力がある"
+  ],
+  "patterns": [
+    {
+      "form": "punch A in the face",
+      "meaning": "Aの顔をなぐる"
+    },
+    {
+      "form": "punch a hole in A",
+      "meaning": "Aに穴をあける"
+    },
+    {
+      "form": "punch in",
+      "meaning": "(数字を)打ちこむ"
+    },
+    {
+      "form": "pack a punch",
+      "meaning": "迫力がある"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "なぐる",
+      "en": "He punched the man in the face.",
+      "ja": "彼はその男の顔をなぐった。"
+    },
+    {
+      "source": "original",
+      "label": "穴",
+      "en": "Punch two holes in the paper.",
+      "ja": "紙に穴を2つあけて。"
+    },
+    {
+      "source": "original",
+      "label": "打ちこむ",
+      "en": "Punch in your password.",
+      "ja": "パスワードを打ちこんで。"
+    },
+    {
+      "source": "original",
+      "label": "迫力",
+      "en": "The speech was short but packed a punch.",
+      "ja": "そのスピーチは短いが迫力があった。"
+    },
+    {
+      "source": "original",
+      "label": "パンチ",
+      "en": "The boxer threw a punch.",
+      "ja": "ボクサーはパンチをくり出した。"
+    },
+    {
+      "source": "original",
+      "label": "飲み物",
+      "en": "We drank fruit punch at the party.",
+      "ja": "パーティーでフルーツポンチを飲んだ。"
+    }
+  ],
+  "check_points": [
+    "punch A in the face の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "動詞+人+in the+体の部分 の型が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1920
+    }
+  ]
+}

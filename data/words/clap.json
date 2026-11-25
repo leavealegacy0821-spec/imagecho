@@ -1,0 +1,98 @@
+{
+  "word": "clap",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/klæp/",
+  "core_image": {
+    "text": "両手を打ち合わせて、ぱちぱち鳴らす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M90 60 L110 40 L120 50 L104 90 L80 100 Z\"/><path d=\"M150 60 L130 40 L120 50 L136 90 L160 100 Z\"/><path d=\"M110 24 L114 14 M120 22 L120 10 M130 24 L126 14\"/></g><text x=\"200\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぱちぱち</text></svg>"
+  },
+  "etymology": "古い英語 clæppan(ぱんと打つ:音をまねた語) → 手をたたく・拍手する → (雷が)とどろく(a clap of thunder)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to hit your hands together to show approval or to get attention."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act or sound of clapping; a sudden loud noise."
+    }
+  ],
+  "cautions": [
+    "clap=手をたたく(clap one's hands)/applaud=拍手かっさいする(改まった)",
+    "活用 clap - clapped - clapped",
+    "a clap of thunder=雷鳴",
+    "give A a clap=Aに拍手を送る"
+  ],
+  "patterns": [
+    {
+      "form": "clap one's hands",
+      "meaning": "手をたたく"
+    },
+    {
+      "form": "give A a clap",
+      "meaning": "Aに拍手を送る"
+    },
+    {
+      "form": "a clap of thunder",
+      "meaning": "雷鳴"
+    },
+    {
+      "form": "applaud",
+      "meaning": "拍手かっさいする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "拍手",
+      "en": "Everyone clapped at the end of the song.",
+      "ja": "歌が終わるとみんな拍手した。"
+    },
+    {
+      "source": "original",
+      "label": "手をたたく",
+      "en": "Clap your hands to the music.",
+      "ja": "音楽に合わせて手をたたこう。"
+    },
+    {
+      "source": "original",
+      "label": "拍手を送る",
+      "en": "Let's give her a big clap!",
+      "ja": "彼女に大きな拍手を!"
+    },
+    {
+      "source": "original",
+      "label": "雷",
+      "en": "We heard a loud clap of thunder.",
+      "ja": "大きな雷鳴が聞こえた。"
+    },
+    {
+      "source": "original",
+      "label": "注意をひく",
+      "en": "The teacher clapped to get our attention.",
+      "ja": "先生は手をたたいて私たちの注意をひいた。"
+    },
+    {
+      "source": "original",
+      "label": "かっさい",
+      "en": "The audience applauded loudly.",
+      "ja": "観客は大きな拍手を送った。"
+    }
+  ],
+  "check_points": [
+    "clap と applaud のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "clap one's hands が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1922
+    }
+  ]
+}

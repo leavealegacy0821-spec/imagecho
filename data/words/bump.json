@@ -1,0 +1,98 @@
+{
+  "word": "bump",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/bʌmp/",
+  "core_image": {
+    "text": "うっかり、ごつんとぶつかる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><rect x=\"90\" y=\"40\" width=\"20\" height=\"100\"/><path d=\"M80 40 L76 30 M86 36 L88 26\"/><path d=\"M140 140 Q160 120 180 140\"/></g><text x=\"180\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ごつん</text></svg>"
+  },
+  "etymology": "ごつんという音をまねた語 → (うっかり)ぶつかる → (ぶつかってできた)こぶ・(道の)でこぼこ → bump into=ばったり出会う",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to hit something by accident; (bump into) to meet someone by chance."
+    },
+    {
+      "pos": "名詞",
+      "text": "a raised area on a surface; a swelling on the body; the sound of hitting."
+    }
+  ],
+  "cautions": [
+    "hit=打つ・当たる(広い)/bump=うっかりごつんとぶつかる",
+    "bump into A=Aにぶつかる・Aにばったり会う(run into と同じ)",
+    "a bump on the head=頭のこぶ",
+    "a bumpy road=でこぼこ道"
+  ],
+  "patterns": [
+    {
+      "form": "bump into A",
+      "meaning": "Aにぶつかる・ばったり会う"
+    },
+    {
+      "form": "bump A on B",
+      "meaning": "AをBにぶつける"
+    },
+    {
+      "form": "a bump on the head",
+      "meaning": "頭のこぶ"
+    },
+    {
+      "form": "bumpy",
+      "meaning": "でこぼこの"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ばったり",
+      "en": "I bumped into an old friend at the station.",
+      "ja": "駅で昔の友達にばったり会った。"
+    },
+    {
+      "source": "original",
+      "label": "ぶつける",
+      "en": "I bumped my head on the door.",
+      "ja": "ドアに頭をぶつけた。"
+    },
+    {
+      "source": "original",
+      "label": "こぶ",
+      "en": "He has a bump on his head.",
+      "ja": "彼は頭にこぶがある。"
+    },
+    {
+      "source": "original",
+      "label": "でこぼこ",
+      "en": "It was a bumpy ride.",
+      "ja": "でこぼこ道でゆれがひどかった。"
+    },
+    {
+      "source": "original",
+      "label": "ぶつかる",
+      "en": "The two cars bumped into each other.",
+      "ja": "2台の車が軽くぶつかった。"
+    },
+    {
+      "source": "original",
+      "label": "道",
+      "en": "Be careful—there's a bump in the road.",
+      "ja": "気をつけて、道にでこぼこがある。"
+    }
+  ],
+  "check_points": [
+    "bump into A の2つの意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "bump into(=run into)が熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1924
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "word": "shake",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ʃeɪk/",
+  "core_image": {
+    "text": "左右・上下に、小きざみにゆさぶる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"100\" y=\"40\" width=\"40\" height=\"70\"/><path d=\"M84 50 L76 50 M84 70 L72 70 M84 90 L76 90 M156 50 L164 50 M156 70 L168 70 M156 90 L164 90\"/><line x1=\"120\" y1=\"110\" x2=\"120\" y2=\"140\"/></g><text x=\"40\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぶるぶる</text></svg>"
+  },
+  "etymology": "古い英語 sceacan(ゆさぶる) → ゆする・ふる → (体・声が)ふるえる → (心を)動揺させる → shake hands=握手する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move something quickly up and down or from side to side; to tremble; to upset or shock someone."
+    },
+    {
+      "pos": "名詞",
+      "text": "an act of shaking; a milkshake."
+    }
+  ],
+  "cautions": [
+    "活用 shake - shook - shaken",
+    "shake hands (with A)=(Aと)握手する(hands は複数)",
+    "shake one's head=首を横にふる(いいえ)",
+    "be shaken=動揺する"
+  ],
+  "patterns": [
+    {
+      "form": "shake hands with A",
+      "meaning": "Aと握手する"
+    },
+    {
+      "form": "shake one's head",
+      "meaning": "首を横にふる"
+    },
+    {
+      "form": "shake A up",
+      "meaning": "Aをゆさぶる・刷新する"
+    },
+    {
+      "form": "be shaken by A",
+      "meaning": "Aに動揺する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "握手",
+      "en": "He shook hands with the new student.",
+      "ja": "彼は転校生と握手した。"
+    },
+    {
+      "source": "original",
+      "label": "首をふる",
+      "en": "She shook her head and said no.",
+      "ja": "彼女は首を横にふって断った。"
+    },
+    {
+      "source": "original",
+      "label": "ふる",
+      "en": "Shake the bottle before you open it.",
+      "ja": "開ける前にびんをふってください。"
+    },
+    {
+      "source": "original",
+      "label": "ゆれる",
+      "en": "The house shook during the earthquake.",
+      "ja": "地震で家がゆれた。"
+    },
+    {
+      "source": "original",
+      "label": "動揺",
+      "en": "We were shaken by the news.",
+      "ja": "私たちはその知らせに動揺した。"
+    },
+    {
+      "source": "original",
+      "label": "ふるえる",
+      "en": "His voice was shaking with fear.",
+      "ja": "彼の声は恐怖でふるえていた。"
+    }
+  ],
+  "check_points": [
+    "shake の活用(shook, shaken)を言えるか",
+    "shake hands の hands がわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "shake hands with、活用が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1927
+    }
+  ]
+}

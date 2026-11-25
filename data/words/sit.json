@@ -1,0 +1,94 @@
+{
+  "word": "sit",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/sɪt/",
+  "core_image": {
+    "text": "腰をおろして、すわる・じっと置かれている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"100\" y=\"100\" width=\"60\" height=\"10\"/><line x1=\"104\" y1=\"110\" x2=\"104\" y2=\"140\"/><line x1=\"156\" y1=\"110\" x2=\"156\" y2=\"140\"/><line x1=\"156\" y1=\"100\" x2=\"156\" y2=\"50\"/><circle cx=\"124\" cy=\"50\" r=\"12\"/><line x1=\"124\" y1=\"62\" x2=\"128\" y2=\"100\"/><line x1=\"128\" y1=\"100\" x2=\"96\" y2=\"100\"/><line x1=\"96\" y1=\"100\" x2=\"96\" y2=\"140\"/><line x1=\"126\" y1=\"74\" x2=\"106\" y2=\"90\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すわる</text></svg>"
+  },
+  "etymology": "古い英語 sittan(すわる:set・seat と同じ仲間) → すわる → (物が)置かれている・(じっと)ある → (試験を)受ける(英)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be in a position with your weight on your bottom; to be in a particular place; (sit for) to take an exam."
+    }
+  ],
+  "cautions": [
+    "活用 sit - sat - sat",
+    "sit down=すわる/seat=(他動詞)すわらせる:be seated=すわっている",
+    "sit up=(寝ずに)起きている・背すじをのばす",
+    "sit for an exam=(英)試験を受ける"
+  ],
+  "patterns": [
+    {
+      "form": "sit down",
+      "meaning": "すわる"
+    },
+    {
+      "form": "sit on [in] A",
+      "meaning": "Aにすわる"
+    },
+    {
+      "form": "sit up",
+      "meaning": "起きている・背すじをのばす"
+    },
+    {
+      "form": "sit still",
+      "meaning": "じっとすわっている"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "すわる",
+      "en": "Please sit down.",
+      "ja": "おすわりください。"
+    },
+    {
+      "source": "original",
+      "label": "いす",
+      "en": "She sat in the armchair and read.",
+      "ja": "彼女はひじかけいすにすわって読書した。"
+    },
+    {
+      "source": "original",
+      "label": "じっと",
+      "en": "The children couldn't sit still.",
+      "ja": "子どもたちはじっとすわっていられなかった。"
+    },
+    {
+      "source": "original",
+      "label": "起きている",
+      "en": "We sat up all night talking.",
+      "ja": "私たちは話しこんで徹夜した。"
+    },
+    {
+      "source": "original",
+      "label": "置かれている",
+      "en": "The old book sat on the shelf for years.",
+      "ja": "その古い本は何年も棚に置かれたままだった。"
+    },
+    {
+      "source": "original",
+      "label": "seat と",
+      "en": "Please sit back and stay seated.",
+      "ja": "深くすわって、席を立たないでください(seated=すわった状態)。"
+    }
+  ],
+  "check_points": [
+    "sit の活用(sat)を言えるか",
+    "sit と seat の型のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "sit / seat(be seated)の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1928
+    }
+  ]
+}
