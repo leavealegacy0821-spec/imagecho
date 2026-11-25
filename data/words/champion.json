@@ -1,0 +1,102 @@
+{
+  "word": "champion",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈtʃæmpiən/",
+  "core_image": {
+    "text": "戦いの場で勝ちぬいた、いちばんの人",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"90\" y=\"100\" width=\"60\" height=\"40\"/><rect x=\"40\" y=\"116\" width=\"50\" height=\"24\"/><rect x=\"150\" y=\"122\" width=\"50\" height=\"18\"/><circle cx=\"120\" cy=\"12\" r=\"10\"/><line x1=\"120\" y1=\"22\" x2=\"120\" y2=\"66\"/><line x1=\"120\" y1=\"66\" x2=\"110\" y2=\"100\"/><line x1=\"120\" y1=\"66\" x2=\"130\" y2=\"100\"/><line x1=\"120\" y1=\"34\" x2=\"104\" y2=\"10\"/><line x1=\"120\" y1=\"34\" x2=\"136\" y2=\"10\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">優勝者</text></svg>"
+  },
+  "etymology": "ラテン語 campus(野原・戦場。camp・campaign と同じ根) → 戦場で戦う闘士 → 勝ちぬいた者=優勝者・チャンピオン → (主義・人の)擁護者 → championship=選手権",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a person or team that has won a competition; a person who supports a cause."
+    },
+    {
+      "pos": "動詞",
+      "text": "to publicly support a cause or person."
+    }
+  ],
+  "cautions": [
+    "winner=勝者(1回の勝ち)/champion=大会・選手権を勝ちぬいた優勝者",
+    "the world champion=世界チャンピオン",
+    "a champion of A=Aの擁護者",
+    "championship=選手権(大会)"
+  ],
+  "patterns": [
+    {
+      "form": "the world champion",
+      "meaning": "世界チャンピオン"
+    },
+    {
+      "form": "the defending champion",
+      "meaning": "前回優勝者"
+    },
+    {
+      "form": "a champion of A",
+      "meaning": "Aの擁護者"
+    },
+    {
+      "form": "champion A",
+      "meaning": "Aを擁護する"
+    },
+    {
+      "form": "championship",
+      "meaning": "選手権"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "優勝者",
+      "en": "She became the world champion at 18.",
+      "ja": "彼女は18歳で世界チャンピオンになった。"
+    },
+    {
+      "source": "original",
+      "label": "前回優勝",
+      "en": "The defending champion lost in the first round.",
+      "ja": "前回優勝者は1回戦で敗れた。"
+    },
+    {
+      "source": "original",
+      "label": "擁護者",
+      "en": "He is a champion of human rights.",
+      "ja": "彼は人権の擁護者だ。"
+    },
+    {
+      "source": "original",
+      "label": "擁護する",
+      "en": "She has championed the cause of women's education.",
+      "ja": "彼女は女子教育の大義を推し進めてきた。"
+    },
+    {
+      "source": "original",
+      "label": "選手権",
+      "en": "Japan won the championship.",
+      "ja": "日本が選手権を制した。"
+    },
+    {
+      "source": "original",
+      "label": "チャンピオン",
+      "en": "The champions celebrated with their fans.",
+      "ja": "優勝チームはファンと喜び合った。"
+    }
+  ],
+  "check_points": [
+    "winner と champion のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "champion、championship が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1668
+    }
+  ]
+}

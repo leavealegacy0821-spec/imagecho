@@ -1,0 +1,93 @@
+{
+  "word": "victory",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈvɪktəri/",
+  "core_image": {
+    "text": "戦い・試合で、相手に打ち勝つこと",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"100\" y2=\"44\"/><line x1=\"120\" y1=\"74\" x2=\"140\" y2=\"44\"/><line x1=\"60\" y1=\"40\" x2=\"70\" y2=\"50\"/><line x1=\"180\" y1=\"40\" x2=\"170\" y2=\"50\"/></g><text x=\"190\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">勝利</text></svg>"
+  },
+  "etymology": "ラテン語 victoria(勝利。vincere=勝つ:convince・invincible と同じ根) → 戦い・試合での勝利 → victorious=勝利を得た",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "success in a war, competition, game or election."
+    }
+  ],
+  "cautions": [
+    "win=勝つ(動詞)/victory=勝利(名詞)/triumph=大勝利・大成功(喜びが大きい)",
+    "win a victory=勝利をおさめる",
+    "a victory over [against] A=Aに対する勝利",
+    "⇔ defeat(敗北)"
+  ],
+  "patterns": [
+    {
+      "form": "win a victory",
+      "meaning": "勝利をおさめる"
+    },
+    {
+      "form": "a victory over A",
+      "meaning": "Aに対する勝利"
+    },
+    {
+      "form": "an easy victory",
+      "meaning": "楽勝"
+    },
+    {
+      "form": "victorious",
+      "meaning": "勝利した"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "勝利",
+      "en": "The team celebrated its victory.",
+      "ja": "チームは勝利を祝った。"
+    },
+    {
+      "source": "original",
+      "label": "勝利をおさめる",
+      "en": "They won a great victory in the final.",
+      "ja": "彼らは決勝で大勝利をおさめた。"
+    },
+    {
+      "source": "original",
+      "label": "勝利",
+      "en": "It was an easy victory for Japan.",
+      "ja": "日本の楽勝だった。"
+    },
+    {
+      "source": "original",
+      "label": "対する勝利",
+      "en": "Our victory over the champions surprised everyone.",
+      "ja": "王者に対する私たちの勝利はみんなを驚かせた。"
+    },
+    {
+      "source": "original",
+      "label": "勝利した",
+      "en": "The victorious army returned home.",
+      "ja": "勝利した軍隊は帰国した。"
+    },
+    {
+      "source": "original",
+      "label": "勝利",
+      "en": "The election result was a victory for the young candidate.",
+      "ja": "選挙結果は若い候補者の勝利だった。"
+    }
+  ],
+  "check_points": [
+    "victory over A の前置詞がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "victory over、win a victory が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1659
+    }
+  ]
+}

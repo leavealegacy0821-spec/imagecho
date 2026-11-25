@@ -1,0 +1,97 @@
+{
+  "word": "loss",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/lɔːs/",
+  "core_image": {
+    "text": "もっていたものを、なくしてしまうこと",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"80\" y2=\"90\"/><circle cx=\"150\" cy=\"110\" r=\"10\" stroke-dasharray=\"3 3\"/><line x1=\"90\" y1=\"96\" x2=\"140\" y2=\"108\" stroke-dasharray=\"5 5\"/><polyline points=\"134.1,102.6 140,108 132.3,110.1\"/><line x1=\"180\" y1=\"60\" x2=\"200\" y2=\"80\"/><line x1=\"200\" y1=\"60\" x2=\"180\" y2=\"80\"/></g><text x=\"150\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">なくす</text></svg>"
+  },
+  "etymology": "lose(失う)の名詞 → 失うこと・紛失 → (お金の)損失(⇔ profit) → (人の)死・喪失 → (試合の)負け → be at a loss=途方にくれている",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the fact of no longer having something; money lost by a business; the death of a person; failure to win a game."
+    }
+  ],
+  "cautions": [
+    "lose=失う(動詞)/loss=喪失・損失・負け(名詞)",
+    "be at a loss (for words)=途方にくれる(言葉につまる)",
+    "make a loss=赤字を出す(⇔ make a profit)",
+    "weight loss=体重の減少/a sense of loss=喪失感"
+  ],
+  "patterns": [
+    {
+      "form": "be at a loss",
+      "meaning": "途方にくれる"
+    },
+    {
+      "form": "a loss of A",
+      "meaning": "Aの喪失"
+    },
+    {
+      "form": "make a loss",
+      "meaning": "損失を出す"
+    },
+    {
+      "form": "weight loss",
+      "meaning": "減量"
+    },
+    {
+      "form": "a sense of loss",
+      "meaning": "喪失感"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "途方にくれる",
+      "en": "I was at a loss what to do.",
+      "ja": "どうしたらいいか途方にくれた。"
+    },
+    {
+      "source": "original",
+      "label": "言葉につまる",
+      "en": "She was at a loss for words.",
+      "ja": "彼女は言葉につまった。"
+    },
+    {
+      "source": "original",
+      "label": "損失",
+      "en": "The company made a big loss last year.",
+      "ja": "その会社は昨年大きな損失を出した。"
+    },
+    {
+      "source": "original",
+      "label": "喪失",
+      "en": "The loss of his job was hard for him.",
+      "ja": "失業は彼にとってつらかった。"
+    },
+    {
+      "source": "original",
+      "label": "死",
+      "en": "We were sad at the loss of our dog.",
+      "ja": "犬を亡くして私たちは悲しかった。"
+    },
+    {
+      "source": "original",
+      "label": "負け",
+      "en": "It was the team's third loss in a row.",
+      "ja": "それはチームの3連敗だった。"
+    }
+  ],
+  "check_points": [
+    "be at a loss の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be at a loss が熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1663
+    }
+  ]
+}

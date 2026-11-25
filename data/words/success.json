@@ -1,0 +1,93 @@
+{
+  "word": "success",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/səkˈses/",
+  "core_image": {
+    "text": "あとに続いてうまくいき、望みどおりになる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"30,130 70,110 110,90 150,60 190,30\"/><polygon points=\"190,30 186,44 200,40\"/><line x1=\"190\" y1=\"20\" x2=\"190\" y2=\"30\"/></g><text x=\"90\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">うまくいく</text></svg>"
+  },
+  "etymology": "succeed(suc=下から・あとに+cedere=行く:あとに続く→うまくいく)の名詞 → うまくいくこと=成功 → 成功した人・もの(a success) → successful=成功した",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the achievement of something you wanted; a person or thing that achieves fame or results."
+    }
+  ],
+  "cautions": [
+    "succeed=成功する・あとを継ぐ/success=成功(名詞)/successful=成功した/successive=連続する(使い分け頻出)",
+    "a success=成功したもの・人(The party was a big success.)",
+    "success in doing=〜することでの成功",
+    "⇔ failure"
+  ],
+  "patterns": [
+    {
+      "form": "success in A",
+      "meaning": "Aでの成功"
+    },
+    {
+      "form": "a big success",
+      "meaning": "大成功"
+    },
+    {
+      "form": "the key to success",
+      "meaning": "成功のかぎ"
+    },
+    {
+      "form": "successful",
+      "meaning": "成功した"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "成功",
+      "en": "Hard work is the key to success.",
+      "ja": "努力が成功のかぎだ。"
+    },
+    {
+      "source": "original",
+      "label": "大成功",
+      "en": "The party was a big success.",
+      "ja": "パーティーは大成功だった。"
+    },
+    {
+      "source": "original",
+      "label": "成功",
+      "en": "I wish you success in your new job.",
+      "ja": "新しい仕事での成功を祈っています。"
+    },
+    {
+      "source": "original",
+      "label": "成功した",
+      "en": "She is a successful businesswoman.",
+      "ja": "彼女は成功した実業家だ。"
+    },
+    {
+      "source": "original",
+      "label": "成功する",
+      "en": "He succeeded in passing the exam.",
+      "ja": "彼は試験に合格することができた。"
+    },
+    {
+      "source": "original",
+      "label": "連続した",
+      "en": "It rained for three successive days.",
+      "ja": "3日連続で雨が降った。"
+    }
+  ],
+  "check_points": [
+    "success / successful / successive の区別ができるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "successful / successive の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1661
+    }
+  ]
+}

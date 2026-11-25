@@ -1,0 +1,102 @@
+{
+  "word": "contest",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈkɑːntest/",
+  "core_image": {
+    "text": "証人を立てて、どちらが上かを争う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"90\" y=\"100\" width=\"60\" height=\"40\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"80\" y2=\"60\"/><line x1=\"180\" y1=\"74\" x2=\"160\" y2=\"60\"/><polygon points=\"120,40 124,52 136,52 126,60 130,72 120,64 110,72 114,60 104,52 116,52\"/></g><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">争う</text></svg>"
+  },
+  "etymology": "con(共に)+testari(証人に立てる:test・testify と同じ根) → 証人を立てて争う → (名詞)コンテスト・競争・争い → (動詞・後ろ強勢)争う・異議を唱える",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a competition in which people try to win; a struggle for power."
+    },
+    {
+      "pos": "動詞",
+      "text": "to compete for something; to say formally that something is wrong."
+    }
+  ],
+  "cautions": [
+    "competition=競争・大会(広い)/contest=(審査員が判定する)コンテスト・(地位をめぐる)争い",
+    "a speech [beauty] contest=弁論大会[美人コンテスト]",
+    "動詞(後ろ強勢):contest a decision=決定に異議を唱える",
+    "contestant=出場者"
+  ],
+  "patterns": [
+    {
+      "form": "a speech contest",
+      "meaning": "弁論大会"
+    },
+    {
+      "form": "enter a contest",
+      "meaning": "コンテストに出る"
+    },
+    {
+      "form": "a contest for A",
+      "meaning": "Aをめぐる争い"
+    },
+    {
+      "form": "contest A",
+      "meaning": "Aに異議を唱える"
+    },
+    {
+      "form": "a contestant",
+      "meaning": "出場者"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "大会",
+      "en": "He won the speech contest.",
+      "ja": "彼は弁論大会で優勝した。"
+    },
+    {
+      "source": "original",
+      "label": "争い",
+      "en": "The election was a close contest.",
+      "ja": "その選挙は接戦だった。"
+    },
+    {
+      "source": "original",
+      "label": "異議を唱える",
+      "en": "The player contested the referee's decision.",
+      "ja": "その選手は審判の判定に異議を唱えた。"
+    },
+    {
+      "source": "original",
+      "label": "出場者",
+      "en": "There were 50 contestants in the contest.",
+      "ja": "そのコンテストには50人の出場者がいた。"
+    },
+    {
+      "source": "original",
+      "label": "争い",
+      "en": "It was a contest for power.",
+      "ja": "それは権力争いだった。"
+    },
+    {
+      "source": "original",
+      "label": "コンテスト",
+      "en": "I entered a photo contest.",
+      "ja": "写真コンテストに応募した。"
+    }
+  ],
+  "check_points": [
+    "competition と contest のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "speech contest、contest(異議)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1666
+    }
+  ]
+}

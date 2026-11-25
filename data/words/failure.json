@@ -1,0 +1,97 @@
+{
+  "word": "failure",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈfeɪljər/",
+  "core_image": {
+    "text": "うまくいかずに、ねらいからはずれること",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"30,40 70,60 110,80 150,110 190,130\"/><line x1=\"180\" y1=\"20\" x2=\"200\" y2=\"40\"/><line x1=\"200\" y1=\"20\" x2=\"180\" y2=\"40\"/></g><text x=\"80\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">うまくいかない</text></svg>"
+  },
+  "etymology": "fail(失敗する。ラテン語 fallere=だます・欠く:false・fault と同じ根)+ure → 失敗 → (機械・臓器の)故障・不全 → (〜し)そこなうこと(failure to do)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a lack of success; a person or thing that is not successful; the fact of not doing something you should do; the stopping of a machine or organ."
+    }
+  ],
+  "cautions": [
+    "fail=失敗する(動詞)/failure=失敗(名詞)/a failure=失敗作・失敗者",
+    "failure to do=〜しないこと・〜しそこなうこと",
+    "heart failure=心不全/power failure=停電",
+    "⇔ success"
+  ],
+  "patterns": [
+    {
+      "form": "end in failure",
+      "meaning": "失敗に終わる"
+    },
+    {
+      "form": "failure to do",
+      "meaning": "〜しないこと"
+    },
+    {
+      "form": "a power failure",
+      "meaning": "停電"
+    },
+    {
+      "form": "heart failure",
+      "meaning": "心不全"
+    },
+    {
+      "form": "a complete failure",
+      "meaning": "完全な失敗"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "失敗",
+      "en": "The plan ended in failure.",
+      "ja": "その計画は失敗に終わった。"
+    },
+    {
+      "source": "original",
+      "label": "失敗",
+      "en": "Failure is the mother of success.",
+      "ja": "失敗は成功のもと。"
+    },
+    {
+      "source": "original",
+      "label": "しないこと",
+      "en": "His failure to call worried me.",
+      "ja": "彼が電話してこなかったので心配した。"
+    },
+    {
+      "source": "original",
+      "label": "停電",
+      "en": "There was a power failure last night.",
+      "ja": "昨夜停電があった。"
+    },
+    {
+      "source": "original",
+      "label": "失敗作",
+      "en": "The movie was a complete failure.",
+      "ja": "その映画は完全な失敗作だった。"
+    },
+    {
+      "source": "original",
+      "label": "心不全",
+      "en": "He died of heart failure.",
+      "ja": "彼は心不全で亡くなった。"
+    }
+  ],
+  "check_points": [
+    "failure to do の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "failure to do が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1664
+    }
+  ]
+}

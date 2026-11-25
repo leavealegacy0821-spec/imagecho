@@ -1,0 +1,98 @@
+{
+  "word": "defeat",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/dɪˈfiːt/",
+  "core_image": {
+    "text": "相手を打ちくずして負かす・打ち負かされる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"86\" y2=\"56\"/><circle cx=\"160\" cy=\"124\" r=\"10\"/><line x1=\"170\" y1=\"128\" x2=\"210\" y2=\"134\"/><line x1=\"176\" y1=\"130\" x2=\"180\" y2=\"140\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">打ち負かす</text></svg>"
+  },
+  "etymology": "古いフランス語 desfait(こわされた。des=反対に+faire=作る) → 打ちくずす → (相手を)負かす・破る → (名詞)敗北(⇔ victory) → (計画を)くじく",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "failure to win a game, war or election."
+    },
+    {
+      "pos": "動詞",
+      "text": "to win against someone in a game, war or election; to make a plan fail."
+    }
+  ],
+  "cautions": [
+    "動詞 defeat A=Aを負かす(=beat)/名詞 defeat=敗北",
+    "suffer a defeat=敗北する",
+    "admit defeat=負けを認める",
+    "victory(勝利)⇔ defeat(敗北)"
+  ],
+  "patterns": [
+    {
+      "form": "defeat A",
+      "meaning": "Aを負かす"
+    },
+    {
+      "form": "suffer a defeat",
+      "meaning": "敗北する"
+    },
+    {
+      "form": "admit defeat",
+      "meaning": "負けを認める"
+    },
+    {
+      "form": "be defeated",
+      "meaning": "負ける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "負かす",
+      "en": "Japan defeated Germany 2-1.",
+      "ja": "日本はドイツを2対1で破った。"
+    },
+    {
+      "source": "original",
+      "label": "敗北",
+      "en": "The team suffered a heavy defeat.",
+      "ja": "チームは大敗した。"
+    },
+    {
+      "source": "original",
+      "label": "負けを認める",
+      "en": "He refused to admit defeat.",
+      "ja": "彼は負けを認めようとしなかった。"
+    },
+    {
+      "source": "original",
+      "label": "負ける",
+      "en": "The government was defeated in the election.",
+      "ja": "政府は選挙で敗れた。"
+    },
+    {
+      "source": "original",
+      "label": "くじく",
+      "en": "The bad weather defeated our plans.",
+      "ja": "悪天候で私たちの計画はくじかれた。"
+    },
+    {
+      "source": "original",
+      "label": "敗北",
+      "en": "Defeat taught them an important lesson.",
+      "ja": "敗北から彼らは大切な教訓を学んだ。"
+    }
+  ],
+  "check_points": [
+    "defeat の動詞・名詞の使い方がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "defeat A、suffer a defeat が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1662
+    }
+  ]
+}

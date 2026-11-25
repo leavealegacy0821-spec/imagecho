@@ -1,0 +1,104 @@
+{
+  "word": "rival",
+  "pos": [
+    "名詞",
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/ˈraɪvl/",
+  "core_image": {
+    "text": "同じ川をはさんで、きそい合う相手",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"70\" y2=\"60\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"170\" y2=\"60\"/><path d=\"M100 140 Q110 80 120 140 Q130 80 140 140\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">好敵手</text></svg>"
+  },
+  "etymology": "ラテン語 rivalis(同じ川 rivus を使う人どうし) → 水をめぐって争う隣人 → 競争相手・ライバル → (動詞)〜に匹敵する → rivalry=競争・張り合い",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a person, team or company competing with another."
+    },
+    {
+      "pos": "動詞",
+      "text": "to be as good as someone or something."
+    },
+    {
+      "pos": "形容詞",
+      "text": "competing."
+    }
+  ],
+  "cautions": [
+    "enemy=敵(憎しみ)/rival=同じものを求めて張り合う好敵手・競争相手",
+    "be without rival=並ぶものがない",
+    "動詞 rival A=Aに匹敵する(=match)",
+    "rivalry=張り合い・対抗意識"
+  ],
+  "patterns": [
+    {
+      "form": "a rival",
+      "meaning": "ライバル"
+    },
+    {
+      "form": "a rival team",
+      "meaning": "ライバルチーム"
+    },
+    {
+      "form": "rival A",
+      "meaning": "Aに匹敵する"
+    },
+    {
+      "form": "rivalry",
+      "meaning": "張り合い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ライバル",
+      "en": "The two teams have been rivals for years.",
+      "ja": "その2チームは長年のライバルだ。"
+    },
+    {
+      "source": "original",
+      "label": "ライバル会社",
+      "en": "A rival company launched a cheaper product.",
+      "ja": "ライバル会社がもっと安い製品を出した。"
+    },
+    {
+      "source": "original",
+      "label": "匹敵する",
+      "en": "Few cities can rival Paris for beauty.",
+      "ja": "美しさでパリに匹敵する都市は少ない。"
+    },
+    {
+      "source": "original",
+      "label": "張り合い",
+      "en": "There is a strong rivalry between the brothers.",
+      "ja": "兄弟の間には強い対抗意識がある。"
+    },
+    {
+      "source": "original",
+      "label": "ライバル",
+      "en": "She beat her main rival in the final.",
+      "ja": "彼女は決勝で最大のライバルを破った。"
+    },
+    {
+      "source": "original",
+      "label": "並ぶものがない",
+      "en": "His skill is without rival.",
+      "ja": "彼の腕前は並ぶものがない。"
+    }
+  ],
+  "check_points": [
+    "enemy と rival のちがいを言えるか",
+    "rival A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "rival、rivalry が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1667
+    }
+  ]
+}
