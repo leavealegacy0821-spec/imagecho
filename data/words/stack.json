@@ -1,0 +1,98 @@
+{
+  "word": "stack",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/stæk/",
+  "core_image": {
+    "text": "同じ形のものを、きちんと積み重ねる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"90\" y=\"116\" width=\"60\" height=\"24\"/><rect x=\"90\" y=\"92\" width=\"60\" height=\"24\"/><rect x=\"90\" y=\"68\" width=\"60\" height=\"24\"/><rect x=\"90\" y=\"44\" width=\"60\" height=\"24\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">きちんと</text></svg>"
+  },
+  "etymology": "古いノルド語 stakkr(干し草の山) → 干し草の山 → (同じ形のものを)きちんと積み重ねた山 → 積み重ねる → (be stacked with=)ぎっしり詰まっている",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a neat pile of things of the same shape placed on top of each other."
+    },
+    {
+      "pos": "動詞",
+      "text": "to arrange things in a neat pile."
+    }
+  ],
+  "cautions": [
+    "pile=無造作に積んだ山/stack=同じ形のものをきちんと積んだ山",
+    "a stack of A=Aの山・たくさんのA",
+    "stack up=積み重ねる・(比べて)匹敵する",
+    "The odds are stacked against A.=Aにはひどく不利だ"
+  ],
+  "patterns": [
+    {
+      "form": "a stack of A",
+      "meaning": "Aの山"
+    },
+    {
+      "form": "stack A up",
+      "meaning": "Aを積み重ねる"
+    },
+    {
+      "form": "be stacked with A",
+      "meaning": "Aがぎっしり詰まっている"
+    },
+    {
+      "form": "the odds are stacked against A",
+      "meaning": "Aに不利だ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "きちんと積む",
+      "en": "Please stack the chairs after class.",
+      "ja": "授業のあと、いすを積み重ねてください。"
+    },
+    {
+      "source": "original",
+      "label": "山",
+      "en": "There is a stack of plates on the table.",
+      "ja": "テーブルに皿が積み重ねてある。"
+    },
+    {
+      "source": "original",
+      "label": "ぎっしり",
+      "en": "The shelves were stacked with books.",
+      "ja": "棚には本がぎっしり詰まっていた。"
+    },
+    {
+      "source": "original",
+      "label": "不利",
+      "en": "The odds were stacked against them.",
+      "ja": "彼らには勝ち目がほとんどなかった。"
+    },
+    {
+      "source": "original",
+      "label": "比べる",
+      "en": "How does our team stack up against theirs?",
+      "ja": "うちのチームは向こうと比べてどうだろう。"
+    },
+    {
+      "source": "original",
+      "label": "たくさん",
+      "en": "I have stacks of homework.",
+      "ja": "宿題が山ほどある。"
+    }
+  ],
+  "check_points": [
+    "pile と stack のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a stack of、the odds are stacked against が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1706
+    }
+  ]
+}

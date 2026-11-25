@@ -1,0 +1,98 @@
+{
+  "word": "snatch",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/snætʃ/",
+  "core_image": {
+    "text": "すきをついて、さっとひったくる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><rect x=\"96\" y=\"80\" width=\"20\" height=\"16\"/><line x1=\"140\" y1=\"86\" x2=\"120\" y2=\"86\"/><polyline points=\"127,89.8 120,86 127,82.2\"/></g><text x=\"100\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さっと</text></svg>"
+  },
+  "etymology": "中英語 snacchen(さっとつかむ) → 人の手から素早くひったくる → (機会・時間を)さっとつかむ(snatch a nap) → (名詞)ひったくり・断片",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to take something quickly and often rudely or violently; to take an opportunity quickly."
+    },
+    {
+      "pos": "名詞",
+      "text": "a short part of a conversation or song."
+    }
+  ],
+  "cautions": [
+    "grab=ぱっとつかむ/snatch=人の手からすきをついてひったくる",
+    "snatch A from B=BからAをひったくる",
+    "snatch a nap [some sleep]=わずかな時間で眠る",
+    "a snatch of conversation=会話の断片"
+  ],
+  "patterns": [
+    {
+      "form": "snatch A from B",
+      "meaning": "BからAをひったくる"
+    },
+    {
+      "form": "snatch A away",
+      "meaning": "Aを奪い去る"
+    },
+    {
+      "form": "snatch a nap",
+      "meaning": "ひと眠りする"
+    },
+    {
+      "form": "a snatch of A",
+      "meaning": "Aの断片"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ひったくる",
+      "en": "A man snatched her bag and ran away.",
+      "ja": "男が彼女のバッグをひったくって逃げた。"
+    },
+    {
+      "source": "original",
+      "label": "from",
+      "en": "He snatched the letter from my hand.",
+      "ja": "彼は私の手から手紙をひったくった。"
+    },
+    {
+      "source": "original",
+      "label": "奪い去る",
+      "en": "Victory was snatched away in the last minute.",
+      "ja": "最後の1分で勝利が奪い去られた。"
+    },
+    {
+      "source": "original",
+      "label": "ひと眠り",
+      "en": "I snatched a nap on the train.",
+      "ja": "電車でひと眠りした。"
+    },
+    {
+      "source": "original",
+      "label": "断片",
+      "en": "I heard snatches of their conversation.",
+      "ja": "彼らの会話がとぎれとぎれに聞こえた。"
+    },
+    {
+      "source": "original",
+      "label": "ひったくり",
+      "en": "Bag snatching is common in this area.",
+      "ja": "この地域ではひったくりが多い。"
+    }
+  ],
+  "check_points": [
+    "grab と snatch のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "snatch A from B が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1708
+    }
+  ]
+}

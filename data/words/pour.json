@@ -1,0 +1,97 @@
+{
+  "word": "pour",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/pɔːr/",
+  "core_image": {
+    "text": "容器を傾けて、どっと注ぐ・流れ出る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon points=\"60,40 110,30 120,60 70,70\"/><path d=\"M118 58 Q140 70 140 110\"/><path d=\"M128 62 Q150 76 148 110\"/><rect x=\"120\" y=\"110\" width=\"50\" height=\"30\"/></g><text x=\"40\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どっと</text></svg>"
+  },
+  "etymology": "(容器から液体を)注ぐ → (雨が)どしゃぶりに降る → (人・物が)どっと押し寄せる → (気持ち・お金を)注ぎこむ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make a liquid flow from a container; to rain heavily; to come or go in large numbers."
+    }
+  ],
+  "cautions": [
+    "spill=うっかりこぼす/pour=わざと注ぐ・どっと流れる",
+    "It is pouring (down).=どしゃぶりだ",
+    "pour in=どっと押し寄せる・殺到する",
+    "pour A into B=AをBに注ぐ(お金・努力にも)"
+  ],
+  "patterns": [
+    {
+      "form": "pour A into B",
+      "meaning": "AをBに注ぐ"
+    },
+    {
+      "form": "pour A B / pour B for A",
+      "meaning": "AにBを注いであげる"
+    },
+    {
+      "form": "It is pouring.",
+      "meaning": "どしゃぶりだ"
+    },
+    {
+      "form": "pour in",
+      "meaning": "殺到する"
+    },
+    {
+      "form": "pour out A",
+      "meaning": "Aを打ち明ける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "注ぐ",
+      "en": "She poured some milk into the glass.",
+      "ja": "彼女はグラスに牛乳を注いだ。"
+    },
+    {
+      "source": "original",
+      "label": "注いであげる",
+      "en": "Can I pour you some tea?",
+      "ja": "お茶を注ぎましょうか。"
+    },
+    {
+      "source": "original",
+      "label": "どしゃぶり",
+      "en": "It's pouring outside.",
+      "ja": "外はどしゃぶりだ。"
+    },
+    {
+      "source": "original",
+      "label": "殺到する",
+      "en": "Letters poured in from all over the country.",
+      "ja": "全国から手紙が殺到した。"
+    },
+    {
+      "source": "original",
+      "label": "どっと出る",
+      "en": "People poured out of the stadium.",
+      "ja": "人々がスタジアムからどっと出てきた。"
+    },
+    {
+      "source": "original",
+      "label": "注ぎこむ",
+      "en": "He poured all his energy into the project.",
+      "ja": "彼はその計画に全力を注いだ。"
+    }
+  ],
+  "check_points": [
+    "It never rains but it pours.(降ればどしゃぶり=悪いことは重なる)を知っているか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "pour in、It never rains but it pours. が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1699
+    }
+  ]
+}

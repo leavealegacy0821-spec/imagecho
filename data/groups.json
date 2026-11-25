@@ -1117,14 +1117,16 @@
     },
     {
       "title": "使い分け:捕まえる・つかむ",
-      "note": "catch=動くものをとらえる ／ capture=逃げるものを捕らえる ／ seize=急にぐいとつかむ ／ grasp=しっかりにぎる・理解する ／ grip=強くにぎりしめる ／ arrest=逮捕する",
+      "note": "catch=動くものをとらえる ／ capture=逃げるものを捕らえる ／ seize=急にぐいとつかむ ／ grasp=しっかりにぎる・理解する ／ grip=強くにぎりしめる ／ arrest=逮捕する ／ grab=手をのばしてぱっとつかむ ／ snatch=人の手からすきをついてひったくる",
       "words": [
         "catch",
         "capture",
         "seize",
         "grasp",
         "grip",
-        "arrest"
+        "arrest",
+        "grab",
+        "snatch"
       ]
     },
     {
@@ -2426,14 +2428,19 @@
     },
     {
       "title": "使い分け:水の動き",
-      "note": "soak=液体にひたしてしみこませる ／ drip=しずくがぽたぽた落ちる ／ leak=すき間からもれ出る ／ splash=ばしゃっとはね散らす ／ flood=あふれて一面をのみこむ ／ pour=どっと注ぐ・降る ／ flow=途切れず流れる ／ immerse=すっぽりひたす・没頭させる",
+      "note": "soak=液体にひたしてしみこませる ／ drip=しずくがぽたぽた落ちる ／ leak=すき間からもれ出る ／ splash=ばしゃっとはね散らす ／ flood=あふれて一面をのみこむ ／ pour=どっと注ぐ・降る ／ flow=途切れず流れる ／ immerse=すっぽりひたす・没頭させる ／ pour=容器を傾けてどっと注ぐ(わざと) ／ spill=うっかりふちからこぼす ／ flow=とぎれずなめらかに流れつづける ／ stream=細い流れ・次々と続く流れ ／ sprinkle=上からぱらぱら少しずつふりかける",
       "words": [
         "soak",
         "drip",
         "leak",
         "splash",
         "flood",
-        "immerse"
+        "immerse",
+        "pour",
+        "spill",
+        "flow",
+        "stream",
+        "sprinkle"
       ]
     },
     {
@@ -2952,6 +2959,15 @@
         "slip",
         "glide",
         "float"
+      ]
+    },
+    {
+      "title": "使い分け:使い分け:積む・山",
+      "note": "pile=無造作にどさっと積み重なった山 ／ heap=ごちゃっと盛り上がった大きな山 ／ stack=同じ形のものをきちんと積み重ねる",
+      "words": [
+        "pile",
+        "heap",
+        "stack"
       ]
     },
     {

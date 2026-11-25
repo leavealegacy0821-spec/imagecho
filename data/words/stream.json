@@ -1,0 +1,98 @@
+{
+  "word": "stream",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/striːm/",
+  "core_image": {
+    "text": "細い流れが、とぎれず続く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M20 140 Q60 110 100 120 T200 90\"/><path d=\"M30 140 Q70 124 110 132 T210 104\"/><line x1=\"130\" y1=\"112\" x2=\"190\" y2=\"94\"/><polyline points=\"182.2,92.3 190,94 184.4,99.7\"/><circle cx=\"60\" cy=\"60\" r=\"12\"/></g><text x=\"110\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">小川</text></svg>"
+  },
+  "etymology": "古い英語 strēam(流れ) → 小川・細い流れ → (人・車・言葉の)とぎれない流れ(a stream of) → どっと流れる → (ネットで)ストリーミング配信する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a small narrow river; a continuous flow of people, things or liquid."
+    },
+    {
+      "pos": "動詞",
+      "text": "to flow continuously; to play video or sound on the Internet while it is being sent."
+    }
+  ],
+  "cautions": [
+    "river=川/stream=小川・細い流れ/brook=小川(文語的)",
+    "a stream of A=次々と続くA",
+    "stream video=動画を配信する・見る",
+    "mainstream=主流"
+  ],
+  "patterns": [
+    {
+      "form": "a stream of A",
+      "meaning": "Aの絶え間ない流れ"
+    },
+    {
+      "form": "stream down A",
+      "meaning": "Aを流れ落ちる"
+    },
+    {
+      "form": "stream A",
+      "meaning": "Aをストリーミング配信する"
+    },
+    {
+      "form": "mainstream",
+      "meaning": "主流"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "小川",
+      "en": "We crossed a small stream.",
+      "ja": "私たちは小川を渡った。"
+    },
+    {
+      "source": "original",
+      "label": "次々と",
+      "en": "A stream of cars passed by.",
+      "ja": "車が次々と通り過ぎた。"
+    },
+    {
+      "source": "original",
+      "label": "流れ落ちる",
+      "en": "Tears streamed down his face.",
+      "ja": "涙が彼の顔を流れ落ちた。"
+    },
+    {
+      "source": "original",
+      "label": "配信する",
+      "en": "The concert was streamed live online.",
+      "ja": "コンサートはネットで生配信された。"
+    },
+    {
+      "source": "original",
+      "label": "どっと",
+      "en": "Sunlight streamed in through the window.",
+      "ja": "日の光が窓からさしこんだ。"
+    },
+    {
+      "source": "original",
+      "label": "主流",
+      "en": "His ideas became part of the mainstream.",
+      "ja": "彼の考えは主流の一部になった。"
+    }
+  ],
+  "check_points": [
+    "a stream of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a stream of、mainstream が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1702
+    }
+  ]
+}

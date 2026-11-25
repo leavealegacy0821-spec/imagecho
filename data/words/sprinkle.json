@@ -1,0 +1,98 @@
+{
+  "word": "sprinkle",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈsprɪŋkl/",
+  "core_image": {
+    "text": "上からぱらぱらと、少しずつふりかける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"96\" y=\"20\" width=\"40\" height=\"40\"/><line x1=\"96\" y1=\"60\" x2=\"136\" y2=\"60\"/><circle cx=\"104\" cy=\"80\" r=\"2\"/><circle cx=\"120\" cy=\"90\" r=\"2\"/><circle cx=\"132\" cy=\"78\" r=\"2\"/><circle cx=\"112\" cy=\"104\" r=\"2\"/><circle cx=\"128\" cy=\"108\" r=\"2\"/><ellipse cx=\"118\" cy=\"130\" rx=\"50\" ry=\"10\"/></g><text x=\"180\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぱらぱら</text></svg>"
+  },
+  "etymology": "中英語 sprenkelen(ふりまく) → (粉・水を)ぱらぱらふりかける → (雨が)ぱらつく → (名詞)少量・スプリンクラー(sprinkler)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to scatter small drops or pieces over something; to rain lightly."
+    },
+    {
+      "pos": "名詞",
+      "text": "a small amount of something scattered."
+    }
+  ],
+  "cautions": [
+    "scatter=あちこちにばらまく/sprinkle=上から少しずつふりかける",
+    "sprinkle A on [over] B=AをBにふりかける",
+    "sprinkle B with A=BにAをふりかける(型が2つある)",
+    "It's sprinkling.=雨がぱらついている"
+  ],
+  "patterns": [
+    {
+      "form": "sprinkle A on B",
+      "meaning": "AをBにふりかける"
+    },
+    {
+      "form": "sprinkle B with A",
+      "meaning": "BにAをふりかける"
+    },
+    {
+      "form": "a sprinkle of A",
+      "meaning": "少量のA"
+    },
+    {
+      "form": "a sprinkler",
+      "meaning": "スプリンクラー"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ふりかける",
+      "en": "Sprinkle some salt on the vegetables.",
+      "ja": "野菜に塩を少しふりかけてください。"
+    },
+    {
+      "source": "original",
+      "label": "型2",
+      "en": "She sprinkled the cake with sugar.",
+      "ja": "彼女はケーキに砂糖をふりかけた。"
+    },
+    {
+      "source": "original",
+      "label": "ぱらつく",
+      "en": "It started to sprinkle.",
+      "ja": "雨がぱらつき始めた。"
+    },
+    {
+      "source": "original",
+      "label": "水をまく",
+      "en": "He sprinkled water on the plants.",
+      "ja": "彼は植物に水をまいた。"
+    },
+    {
+      "source": "original",
+      "label": "ちりばめる",
+      "en": "His speech was sprinkled with jokes.",
+      "ja": "彼のスピーチには冗談がちりばめられていた。"
+    },
+    {
+      "source": "original",
+      "label": "少量",
+      "en": "Add a sprinkle of cheese.",
+      "ja": "チーズを少しかけて。"
+    }
+  ],
+  "check_points": [
+    "sprinkle A on B と sprinkle B with A を言いかえられるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "A on B / B with A の型が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1703
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "word": "pile",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/paɪl/",
+  "core_image": {
+    "text": "無造作に、どさっと積み重なった山",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polygon points=\"60,140 100,100 140,104 180,140\"/><line x1=\"80\" y1=\"122\" x2=\"150\" y2=\"118\"/><line x1=\"96\" y1=\"108\" x2=\"140\" y2=\"110\"/><rect x=\"104\" y=\"88\" width=\"24\" height=\"14\"/></g><text x=\"180\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どさっ</text></svg>"
+  },
+  "etymology": "ラテン語 pila(柱・積み重ね) → 積み重ねたもの・山 → 山積みにする(pile up) → (仕事・問題が)たまる → a pile of=たくさんの",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a group of things put on top of each other, often untidily; a large amount."
+    },
+    {
+      "pos": "動詞",
+      "text": "to put things on top of each other; to increase in amount."
+    }
+  ],
+  "cautions": [
+    "stack=きちんと積み重ねた山/pile=無造作に積み上がった山/heap=どさっとした大きな山",
+    "pile up=(仕事・問題が)たまる",
+    "a pile of [piles of] A=山ほどのA",
+    "pile into A=Aにどっと押しかける"
+  ],
+  "patterns": [
+    {
+      "form": "a pile of A",
+      "meaning": "Aの山・山ほどのA"
+    },
+    {
+      "form": "pile up",
+      "meaning": "たまる・積み上げる"
+    },
+    {
+      "form": "pile A on B",
+      "meaning": "AをBに積む"
+    },
+    {
+      "form": "pile into A",
+      "meaning": "Aにどっと乗りこむ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "山",
+      "en": "There is a pile of books on my desk.",
+      "ja": "机の上に本が山になっている。"
+    },
+    {
+      "source": "original",
+      "label": "たまる",
+      "en": "My homework is piling up.",
+      "ja": "宿題がたまってきている。"
+    },
+    {
+      "source": "original",
+      "label": "積む",
+      "en": "He piled the dishes in the sink.",
+      "ja": "彼は流しに皿を積み上げた。"
+    },
+    {
+      "source": "original",
+      "label": "山ほど",
+      "en": "I have piles of work to do.",
+      "ja": "やるべき仕事が山ほどある。"
+    },
+    {
+      "source": "original",
+      "label": "乗りこむ",
+      "en": "We all piled into the car.",
+      "ja": "私たちはどっと車に乗りこんだ。"
+    },
+    {
+      "source": "original",
+      "label": "事故",
+      "en": "There was a big pile-up on the highway.",
+      "ja": "高速道路で多重衝突事故があった。"
+    }
+  ],
+  "check_points": [
+    "pile up の意味を言えるか",
+    "pile と stack のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "pile up、a pile of が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1704
+    }
+  ]
+}

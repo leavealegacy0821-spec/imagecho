@@ -1,0 +1,98 @@
+{
+  "word": "flow",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/floʊ/",
+  "core_image": {
+    "text": "止まらずに、なめらかに流れつづける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 60 Q60 40 120 60 T230 60\"/><path d=\"M10 100 Q60 80 120 100 T230 100\"/><line x1=\"60\" y1=\"80\" x2=\"180\" y2=\"80\"/><polyline points=\"173,76.2 180,80 173,83.8\"/></g><text x=\"110\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さらさら</text></svg>"
+  },
+  "etymology": "古い英語 flōwan(流れる。float・flood と同じ仲間) → (水が)なめらかに流れる → (人・車・お金・情報が)とぎれず流れる → (名詞)流れ・流通",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move along smoothly and continuously; (of people, money, ideas) to move from one place to another without stopping."
+    },
+    {
+      "pos": "名詞",
+      "text": "a steady continuous movement of something."
+    }
+  ],
+  "cautions": [
+    "活用 flow - flowed - flowed(fly-flew-flown と混同しない)",
+    "flow=とぎれずなめらかに流れる/pour=どっと注ぐ/drip=ぽたぽた",
+    "the flow of traffic [information]=交通[情報]の流れ",
+    "go with the flow=流れに身を任せる"
+  ],
+  "patterns": [
+    {
+      "form": "flow into A",
+      "meaning": "Aに流れこむ"
+    },
+    {
+      "form": "flow from A",
+      "meaning": "Aから流れ出る・生じる"
+    },
+    {
+      "form": "the flow of A",
+      "meaning": "Aの流れ"
+    },
+    {
+      "form": "go with the flow",
+      "meaning": "流れに任せる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "流れこむ",
+      "en": "The river flows into the Pacific Ocean.",
+      "ja": "その川は太平洋に流れこむ。"
+    },
+    {
+      "source": "original",
+      "label": "流れ",
+      "en": "The police controlled the flow of traffic.",
+      "ja": "警察が交通の流れを整理した。"
+    },
+    {
+      "source": "original",
+      "label": "流れる",
+      "en": "Blood flows through our bodies.",
+      "ja": "血液は体の中を流れている。"
+    },
+    {
+      "source": "original",
+      "label": "とぎれず",
+      "en": "Conversation flowed easily at dinner.",
+      "ja": "夕食では会話がはずんだ。"
+    },
+    {
+      "source": "original",
+      "label": "情報の流れ",
+      "en": "The Internet has changed the flow of information.",
+      "ja": "インターネットは情報の流れを変えた。"
+    },
+    {
+      "source": "original",
+      "label": "任せる",
+      "en": "Don't worry so much. Just go with the flow.",
+      "ja": "そんなに心配しないで。流れに任せればいい。"
+    }
+  ],
+  "check_points": [
+    "flow の過去形(flowed)を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "flow と fly(flew, flown)の活用の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1701
+    }
+  ]
+}
