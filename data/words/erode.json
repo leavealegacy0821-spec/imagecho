@@ -1,0 +1,98 @@
+{
+  "word": "erode",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪˈroʊd/",
+  "core_image": {
+    "text": "外側から少しずつ、かじり取られて削れる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M40 140 L40 50 L120 50 Q108 66 124 80 Q108 96 126 110 Q112 124 130 140\"/><line x1=\"212\" y1=\"80\" x2=\"150\" y2=\"80\"/><polyline points=\"157,83.8 150,80 157,76.2\"/><line x1=\"212\" y1=\"112\" x2=\"152\" y2=\"112\"/><polyline points=\"159,115.8 152,112 159,108.2\"/><circle cx=\"142\" cy=\"134\" r=\"2\"/><circle cx=\"150\" cy=\"128\" r=\"2\"/></g><text x=\"190\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">けずる</text></svg>"
+  },
+  "etymology": "ラテン語 e(外へ)+ rodere(かじる。rodent=ネズミなどのげっ歯類 と同じ根) → かじり取る → (水・風が岩や土を)少しずつ削る・浸食する → (信頼・権利・価値を)じわじわむしばむ・低下させる → 名詞 erosion=浸食・低下",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "(of water, wind, etc.) to gradually damage and remove the surface of rock or soil; to gradually make something weaker or less."
+    }
+  ],
+  "cautions": [
+    "一気に壊すのではなく「少しずつ・じわじわ」削る(gradually と相性がよい)",
+    "他動詞も自動詞もある:The sea eroded the cliffs.(海が崖を削った)/ The cliffs are eroding.(崖が削れている)",
+    "比ゆで erode trust / confidence / support=信頼・自信・支持をむしばむ(長文の頻出)",
+    "名詞 erosion=浸食(soil erosion=土壌の浸食)"
+  ],
+  "patterns": [
+    {
+      "form": "erode A",
+      "meaning": "Aを(少しずつ)削る・むしばむ"
+    },
+    {
+      "form": "A erode",
+      "meaning": "Aが削れる・弱まる"
+    },
+    {
+      "form": "be eroded by A",
+      "meaning": "Aに浸食される"
+    },
+    {
+      "form": "erode trust / confidence",
+      "meaning": "信頼・自信をむしばむ"
+    },
+    {
+      "form": "soil erosion",
+      "meaning": "土壌の浸食"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "削る",
+      "en": "Over thousands of years, the river eroded the rock and formed a deep valley.",
+      "ja": "何千年もかけて川が岩を削り、深い谷を作った。"
+    },
+    {
+      "source": "original",
+      "label": "be eroded by A",
+      "en": "The coastline is being eroded by the waves.",
+      "ja": "海岸線は波によって浸食されつつある。"
+    },
+    {
+      "source": "original",
+      "label": "自動詞",
+      "en": "Without trees, the soil on the hills quickly eroded.",
+      "ja": "木がなくなって、丘の土はすぐに削られていった。"
+    },
+    {
+      "source": "original",
+      "label": "むしばむ",
+      "en": "Repeated lies eroded the public's trust in the government.",
+      "ja": "くり返されたうそが政府への国民の信頼をむしばんだ。"
+    },
+    {
+      "source": "original",
+      "label": "低下させる",
+      "en": "Rising prices are eroding the value of our savings.",
+      "ja": "物価の上昇が私たちの貯金の価値を目減りさせている。"
+    },
+    {
+      "source": "original",
+      "label": "erosion(名詞)",
+      "en": "Planting grass can help prevent soil erosion.",
+      "ja": "草を植えることは土壌の浸食を防ぐのに役立つ。"
+    }
+  ],
+  "check_points": [
+    "erode の「少しずつ」というニュアンスを言えるか",
+    "erode trust の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "環境の長文で erosion、評論で erode trust(信頼をむしばむ)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1071
+    }
+  ]
+}

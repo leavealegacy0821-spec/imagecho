@@ -1,0 +1,98 @@
+{
+  "word": "deviate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈdiːvieɪt/",
+  "core_image": {
+    "text": "決まった道から、横へそれていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"100\" x2=\"220\" y2=\"100\"/><line x1=\"100\" y1=\"100\" x2=\"196\" y2=\"42\"/><polyline points=\"188,42.3 196,42 192,48.9\"/><circle cx=\"100\" cy=\"100\" r=\"3\"/></g><text x=\"196\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">それる</text><text x=\"60\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">決まった道</text></svg>"
+  },
+  "etymology": "ラテン語 de(離れて)+ via(道。via=…経由で と同じ根) → 道から離れる → (予定・計画・規則・標準から)それる・はずれる(deviate from A) → 名詞 deviation=逸脱・ずれ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to do something that is different from what is usual, expected or planned."
+    }
+  ],
+  "cautions": [
+    "自動詞:deviate from A=Aからそれる・はずれる(前置詞 from がほぼ必ず来る)",
+    "A には「予定・計画・規則・標準・道」などが来る(deviate from the plan / the norm)",
+    "名詞 deviation=逸脱、standard deviation=標準偏差(数学)",
+    "via(…経由で)・obvious(道の前にある=明らかな)と同じ「道」の根"
+  ],
+  "patterns": [
+    {
+      "form": "deviate from A",
+      "meaning": "Aからそれる・はずれる"
+    },
+    {
+      "form": "deviate from the plan",
+      "meaning": "計画からはずれる"
+    },
+    {
+      "form": "deviate from the norm",
+      "meaning": "標準からはずれる"
+    },
+    {
+      "form": "deviation from A",
+      "meaning": "Aからの逸脱"
+    },
+    {
+      "form": "standard deviation",
+      "meaning": "標準偏差"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "それる",
+      "en": "The plane had to deviate from its usual route because of the storm.",
+      "ja": "嵐のため、飛行機はいつもの航路からそれなければならなかった。"
+    },
+    {
+      "source": "original",
+      "label": "計画からはずれる",
+      "en": "We should not deviate from the original plan.",
+      "ja": "最初の計画からはずれるべきではない。"
+    },
+    {
+      "source": "original",
+      "label": "規則からはずれる",
+      "en": "Players who deviate from the rules will be punished.",
+      "ja": "規則からはずれた選手は罰せられる。"
+    },
+    {
+      "source": "original",
+      "label": "標準からはずれる",
+      "en": "His behavior deviated from what society expected.",
+      "ja": "彼の行動は社会が期待するものからはずれていた。"
+    },
+    {
+      "source": "original",
+      "label": "deviation(名詞)",
+      "en": "Any deviation from the schedule must be reported.",
+      "ja": "予定からのずれは必ず報告しなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "ずれる",
+      "en": "The results deviated only slightly from our predictions.",
+      "ja": "結果は私たちの予測からわずかにずれただけだった。"
+    }
+  ],
+  "check_points": [
+    "deviate のあとに来る前置詞を言えるか",
+    "名詞形 deviation の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "deviate from A の前置詞と、名詞 deviation が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1078
+    }
+  ]
+}

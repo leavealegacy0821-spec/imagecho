@@ -1,0 +1,94 @@
+{
+  "word": "immerse",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪˈmɜːrs/",
+  "core_image": {
+    "text": "中へどっぷりと、ひたしこむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"60,40 60,140 180,140 180,40\"/><path d=\"M60 70 Q75 62 90 70 Q105 78 120 70 Q135 62 150 70 Q165 78 180 70\"/><circle cx=\"120\" cy=\"110\" r=\"16\"/><line x1=\"120\" y1=\"14\" x2=\"120\" y2=\"88\"/><polyline points=\"123.8,81 120,88 116.2,81\"/></g><text x=\"210\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どっぷり</text></svg>"
+  },
+  "etymology": "ラテン語 in(中に)+ mergere(ひたす・沈める。merge=溶けこむ・合併する と同じ根) → 中にひたす → (液体に)ひたす・沈める → (be immersed in A / immerse oneself in A)Aにどっぷりつかる=没頭する → 名詞 immersion=ひたすこと・没頭",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to put something or someone completely under the surface of a liquid; to become or make someone completely involved in something."
+    }
+  ],
+  "cautions": [
+    "immerse A in B=AをBにひたす(前置詞 in)",
+    "be immersed in A / immerse oneself in A=Aに没頭する(be absorbed in A と同じ意味。入試ではこちらが中心)",
+    "名詞 immersion=没頭/an immersion program=(外国語の)没入型学習",
+    "merge(溶けこむ)・emerge(外に出てくる)と同じ「ひたす・沈む」の根"
+  ],
+  "patterns": [
+    {
+      "form": "immerse A in B",
+      "meaning": "AをBにひたす"
+    },
+    {
+      "form": "be immersed in A",
+      "meaning": "Aに没頭している"
+    },
+    {
+      "form": "immerse oneself in A",
+      "meaning": "Aに没頭する"
+    },
+    {
+      "form": "immersion",
+      "meaning": "ひたすこと・没頭"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ひたす",
+      "en": "Immerse the vegetables in boiling water for one minute.",
+      "ja": "野菜を沸騰したお湯に1分間ひたしてください。"
+    },
+    {
+      "source": "original",
+      "label": "be immersed in A",
+      "en": "She was so immersed in her book that she didn't hear me.",
+      "ja": "彼女は本に夢中で、私の声が聞こえなかった。"
+    },
+    {
+      "source": "original",
+      "label": "immerse oneself in A",
+      "en": "He immersed himself in his research for months.",
+      "ja": "彼は何か月も研究に没頭した。"
+    },
+    {
+      "source": "original",
+      "label": "どっぷりつかる",
+      "en": "Living abroad lets you immerse yourself in another culture.",
+      "ja": "海外に住むと別の文化にどっぷりつかることができる。"
+    },
+    {
+      "source": "original",
+      "label": "沈める",
+      "en": "The old bridge was completely immersed in the flood.",
+      "ja": "古い橋は洪水ですっかり水に沈んだ。"
+    },
+    {
+      "source": "original",
+      "label": "immersion(名詞)",
+      "en": "An immersion program is a fast way to learn a language.",
+      "ja": "没入型の学習は言語を身につける速い方法だ。"
+    }
+  ],
+  "check_points": [
+    "be immersed in A の意味を言えるか",
+    "同じ意味の be absorbed in A を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be immersed in A=没頭する が be absorbed in A の言い換えで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1079
+    }
+  ]
+}

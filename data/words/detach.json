@@ -1,0 +1,98 @@
+{
+  "word": "detach",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈtætʃ/",
+  "core_image": {
+    "text": "くっついていたものを、引きはがして離す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"60\" width=\"70\" height=\"40\"/><rect x=\"134\" y=\"60\" width=\"40\" height=\"40\"/><line x1=\"180\" y1=\"80\" x2=\"222\" y2=\"80\"/><polyline points=\"215,76.2 222,80 215,83.8\"/><line x1=\"106\" y1=\"66\" x2=\"126\" y2=\"66\"/><line x1=\"106\" y1=\"94\" x2=\"126\" y2=\"94\"/></g><text x=\"120\" y=\"42\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">引きはがす</text></svg>"
+  },
+  "etymology": "古いフランス語 de(離して)+ tache(くぎ・留め具。attach=くっつける と同じ根) → 留め具をはずす → (部品・紙を)取りはずす・切り離す → (心を)引き離す=距離をおく → 形容詞 detached=(感情に)とらわれない・客観的な/一戸建ての",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to remove something from something larger that it is joined to; to stop being involved with someone or something."
+    }
+  ],
+  "cautions": [
+    "detach A from B=AをBから取りはずす(attach A to B=AをBにくっつける の反対。前置詞 from)",
+    "detach oneself from A=Aから距離をおく・離れる",
+    "detached=(感情に)とらわれない・冷静な(a detached view=客観的な見方)/a detached house=一戸建て",
+    "名詞 detachment=分離・無関心・客観性"
+  ],
+  "patterns": [
+    {
+      "form": "detach A from B",
+      "meaning": "AをBから取りはずす"
+    },
+    {
+      "form": "detach oneself from A",
+      "meaning": "Aから距離をおく"
+    },
+    {
+      "form": "be detached from A",
+      "meaning": "Aから切り離されている"
+    },
+    {
+      "form": "detached",
+      "meaning": "冷静な・客観的な/一戸建ての"
+    },
+    {
+      "form": "detachment",
+      "meaning": "分離・客観性"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "取りはずす",
+      "en": "You can detach the hood from the jacket.",
+      "ja": "そのジャケットはフードを取りはずせる。"
+    },
+    {
+      "source": "original",
+      "label": "切り離す",
+      "en": "Detach the form along the dotted line and send it to us.",
+      "ja": "点線に沿って用紙を切り取り、当社に送ってください。"
+    },
+    {
+      "source": "original",
+      "label": "距離をおく",
+      "en": "He tried to detach himself from his family's business.",
+      "ja": "彼は家業から距離をおこうとした。"
+    },
+    {
+      "source": "original",
+      "label": "be detached from A",
+      "en": "Many young people feel detached from politics.",
+      "ja": "多くの若者は政治から切り離されていると感じている。"
+    },
+    {
+      "source": "original",
+      "label": "detached(冷静な)",
+      "en": "A good judge must take a detached view of the case.",
+      "ja": "よい裁判官はその事件を客観的に見なければならない。"
+    },
+    {
+      "source": "original",
+      "label": "detached(一戸建て)",
+      "en": "They live in a large detached house near the park.",
+      "ja": "彼らは公園の近くの大きな一戸建てに住んでいる。"
+    }
+  ],
+  "check_points": [
+    "detach A from B の反対の型を言えるか",
+    "形容詞 detached の意味を2つ言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "attach との対、形容詞 detached(客観的な)が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1077
+    }
+  ]
+}
