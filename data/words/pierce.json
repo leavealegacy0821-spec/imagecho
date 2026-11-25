@@ -1,0 +1,93 @@
+{
+  "word": "pierce",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/pɪrs/",
+  "core_image": {
+    "text": "とがった先で、つき通して穴をあける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"100\" y=\"40\" width=\"20\" height=\"80\"/><line x1=\"30\" y1=\"80\" x2=\"180\" y2=\"80\"/><polygon points=\"180,74 196,80 180,86\"/><line x1=\"96\" y1=\"76\" x2=\"90\" y2=\"70\"/><line x1=\"124\" y1=\"76\" x2=\"130\" y2=\"70\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">つき通す</text></svg>"
+  },
+  "etymology": "古いフランス語 percer(突き通す) → とがったもので穴をあける・突き刺す → (光・声が)つき抜ける → piercing=突き刺すような(鋭い)・ピアス",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make a hole in something with a sharp point; (of light or sound) to suddenly be seen or heard through something."
+    }
+  ],
+  "cautions": [
+    "stab=(刃物で)突き刺す/pierce=とがった先でつき通して穴をあける",
+    "have one's ears pierced=耳にピアスの穴をあける",
+    "比ゆ:A light pierced the darkness.=光が闇をつき抜けた",
+    "piercing=(目・声が)鋭い・突き刺すような"
+  ],
+  "patterns": [
+    {
+      "form": "pierce A",
+      "meaning": "Aに穴をあける"
+    },
+    {
+      "form": "have one's ears pierced",
+      "meaning": "耳にピアスの穴をあける"
+    },
+    {
+      "form": "pierce the darkness",
+      "meaning": "闇をつき抜ける"
+    },
+    {
+      "form": "piercing",
+      "meaning": "鋭い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "突き刺す",
+      "en": "The arrow pierced the target.",
+      "ja": "矢が的に突き刺さった。"
+    },
+    {
+      "source": "original",
+      "label": "穴をあける",
+      "en": "She had her ears pierced when she was 18.",
+      "ja": "彼女は18歳のときに耳にピアスの穴をあけた。"
+    },
+    {
+      "source": "original",
+      "label": "つき抜ける",
+      "en": "A beam of light pierced the darkness.",
+      "ja": "一筋の光が闇をつき抜けた。"
+    },
+    {
+      "source": "original",
+      "label": "鋭い",
+      "en": "He had piercing blue eyes.",
+      "ja": "彼は鋭い青い目をしていた。"
+    },
+    {
+      "source": "original",
+      "label": "突き刺す",
+      "en": "A nail pierced the tire.",
+      "ja": "くぎがタイヤに刺さった。"
+    },
+    {
+      "source": "original",
+      "label": "つんざく",
+      "en": "A scream pierced the silence.",
+      "ja": "悲鳴が静けさをつんざいた。"
+    }
+  ],
+  "check_points": [
+    "pierce の使い方(穴をあける・つき抜ける)がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "pierce、piercing が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1290
+    }
+  ]
+}

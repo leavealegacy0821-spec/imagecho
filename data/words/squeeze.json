@@ -1,0 +1,103 @@
+{
+  "word": "squeeze",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/skwiːz/",
+  "core_image": {
+    "text": "両側からぎゅっと、しぼるように押す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"26\"/><line x1=\"50\" y1=\"80\" x2=\"90\" y2=\"80\"/><polyline points=\"83,76.2 90,80 83,83.8\"/><line x1=\"190\" y1=\"80\" x2=\"150\" y2=\"80\"/><polyline points=\"157,83.8 150,80 157,76.2\"/><line x1=\"120\" y1=\"108\" x2=\"120\" y2=\"120\"/><circle cx=\"120\" cy=\"128\" r=\"4\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぎゅっ</text></svg>"
+  },
+  "etymology": "両側から押しつける → (果汁を)しぼる → (せまい所に)押しこむ・割りこむ → (お金・時間を)やりくりする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to press something firmly from the sides; to get liquid out of something by pressing it; to force something into a small space."
+    },
+    {
+      "pos": "名詞",
+      "text": "an act of pressing; a situation with not enough money or space."
+    }
+  ],
+  "cautions": [
+    "press=押す/squeeze=両側からぎゅっとしぼる・せまい所に押しこむ",
+    "squeeze A out of B=BからAをしぼり出す",
+    "squeeze into A=Aにぎゅうぎゅうに入る・割りこむ",
+    "squeeze A in=A(予定)を何とか入れる"
+  ],
+  "patterns": [
+    {
+      "form": "squeeze A",
+      "meaning": "Aをぎゅっとしぼる・握る"
+    },
+    {
+      "form": "squeeze A out of B",
+      "meaning": "BからAをしぼり出す"
+    },
+    {
+      "form": "squeeze into A",
+      "meaning": "Aにぎゅうぎゅうに入る"
+    },
+    {
+      "form": "squeeze A in",
+      "meaning": "A(予定)を押しこむ"
+    },
+    {
+      "form": "a tight squeeze",
+      "meaning": "すし詰め"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "しぼる",
+      "en": "Squeeze some lemon juice onto the fish.",
+      "ja": "魚にレモン汁を少ししぼってください。"
+    },
+    {
+      "source": "original",
+      "label": "握る",
+      "en": "She squeezed my hand to show she was nervous.",
+      "ja": "彼女は緊張していることを伝えようと私の手をぎゅっと握った。"
+    },
+    {
+      "source": "original",
+      "label": "ぎゅうぎゅうに入る",
+      "en": "Six of us squeezed into the small car.",
+      "ja": "私たち6人は小さな車にぎゅうぎゅうに乗りこんだ。"
+    },
+    {
+      "source": "original",
+      "label": "予定を入れる",
+      "en": "The doctor can squeeze you in at 3 o'clock.",
+      "ja": "先生は3時なら何とか診てくれるそうです。"
+    },
+    {
+      "source": "original",
+      "label": "しぼり出す",
+      "en": "He squeezed the last bit of toothpaste out of the tube.",
+      "ja": "彼は歯みがき粉を最後までしぼり出した。"
+    },
+    {
+      "source": "original",
+      "label": "すし詰め",
+      "en": "It was a tight squeeze in the elevator.",
+      "ja": "エレベーターはすし詰めだった。"
+    }
+  ],
+  "check_points": [
+    "squeeze into A の意味を言えるか",
+    "press と squeeze のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "squeeze(しぼる・押しこむ)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1288
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "word": "slice",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/slaɪs/",
+  "core_image": {
+    "text": "刃をすっと入れて、薄く平らに切る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"60\" width=\"80\" height=\"60\"/><line x1=\"140\" y1=\"60\" x2=\"140\" y2=\"120\"/><line x1=\"150\" y1=\"60\" x2=\"150\" y2=\"120\"/><line x1=\"160\" y1=\"60\" x2=\"160\" y2=\"120\"/><line x1=\"170\" y1=\"60\" x2=\"170\" y2=\"120\"/><line x1=\"140\" y1=\"60\" x2=\"170\" y2=\"60\"/><line x1=\"140\" y1=\"120\" x2=\"170\" y2=\"120\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">薄く切る</text></svg>"
+  },
+  "etymology": "古いフランス語 esclice(薄い一切れ) → (パン・肉の)薄切り・一切れ → (動詞)薄く切る → (利益などの)分け前(a slice of the profits)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a thin flat piece cut from something; a part of something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to cut something into thin flat pieces."
+    }
+  ],
+  "cautions": [
+    "chop=ざくざく刻む/slice=刃をすっと引いて薄く平らに切る",
+    "a slice of bread [pizza]=パン[ピザ]1切れ(不可算名詞を数える)",
+    "slice A thin(ly)=Aを薄く切る",
+    "比ゆ:a slice of life=人生の一断面/a slice of the market=市場の一部"
+  ],
+  "patterns": [
+    {
+      "form": "a slice of A",
+      "meaning": "Aの1切れ"
+    },
+    {
+      "form": "slice A",
+      "meaning": "Aを薄く切る"
+    },
+    {
+      "form": "slice A into B",
+      "meaning": "AをBに薄く切り分ける"
+    },
+    {
+      "form": "a slice of the profits",
+      "meaning": "利益の分け前"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "1切れ",
+      "en": "Would you like a slice of cake?",
+      "ja": "ケーキを1切れいかが?"
+    },
+    {
+      "source": "original",
+      "label": "薄く切る",
+      "en": "Slice the tomatoes thinly.",
+      "ja": "トマトを薄く切ってください。"
+    },
+    {
+      "source": "original",
+      "label": "1枚",
+      "en": "I had two slices of toast for breakfast.",
+      "ja": "朝食にトーストを2枚食べた。"
+    },
+    {
+      "source": "original",
+      "label": "切り分ける",
+      "en": "She sliced the bread into eight pieces.",
+      "ja": "彼女はパンを8枚に切り分けた。"
+    },
+    {
+      "source": "original",
+      "label": "分け前",
+      "en": "Everyone wants a slice of the profits.",
+      "ja": "誰もが利益の分け前をほしがる。"
+    },
+    {
+      "source": "original",
+      "label": "一断面",
+      "en": "The film shows a slice of life in a small town.",
+      "ja": "その映画は小さな町の暮らしの一断面を描いている。"
+    }
+  ],
+  "check_points": [
+    "a slice of A の使い方がわかるか",
+    "chop と slice のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a slice of(不可算名詞の数え方)が文法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1282
+    }
+  ]
+}

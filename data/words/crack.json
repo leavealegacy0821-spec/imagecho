@@ -1,0 +1,103 @@
+{
+  "word": "crack",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/kræk/",
+  "core_image": {
+    "text": "パキッと、細いひびが入る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"50\" y=\"40\" width=\"140\" height=\"90\"/><polyline points=\"120,40 112,60 126,76 114,96 124,114 118,130\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">パキッとひび</text></svg>"
+  },
+  "etymology": "古い英語 cracian(バキッと鳴る。音をまねた語) → ひびが入る・割れる → (問題・暗号を)解く(crack a code) → (冗談を)飛ばす(crack a joke) → (名詞)割れ目・すき間",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a thin line where something is broken but not into pieces; a sudden loud sharp sound."
+    },
+    {
+      "pos": "動詞",
+      "text": "to break so that a line appears on the surface; to solve a difficult problem; to tell a joke."
+    }
+  ],
+  "cautions": [
+    "break=壊れる(広い)/crack=割れずにひびが入る・パキッと割る",
+    "crack a joke=冗談を言う/crack a code=暗号を解く",
+    "crack down on A=Aを厳しく取り締まる",
+    "名詞 a crack in A=Aのひび"
+  ],
+  "patterns": [
+    {
+      "form": "a crack in A",
+      "meaning": "Aのひび"
+    },
+    {
+      "form": "crack A",
+      "meaning": "Aにひびを入れる・割る"
+    },
+    {
+      "form": "crack a joke",
+      "meaning": "冗談を言う"
+    },
+    {
+      "form": "crack a code",
+      "meaning": "暗号を解く"
+    },
+    {
+      "form": "crack down on A",
+      "meaning": "Aを取り締まる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ひび",
+      "en": "There is a crack in the window.",
+      "ja": "窓にひびが入っている。"
+    },
+    {
+      "source": "original",
+      "label": "割る",
+      "en": "Crack two eggs into the bowl.",
+      "ja": "卵を2つボウルに割り入れてください。"
+    },
+    {
+      "source": "original",
+      "label": "冗談を言う",
+      "en": "He likes to crack jokes in class.",
+      "ja": "彼は授業中に冗談を言うのが好きだ。"
+    },
+    {
+      "source": "original",
+      "label": "解く",
+      "en": "Scientists finally cracked the code.",
+      "ja": "科学者たちはついに暗号を解いた。"
+    },
+    {
+      "source": "original",
+      "label": "取り締まる",
+      "en": "The police are cracking down on drunk driving.",
+      "ja": "警察は飲酒運転を厳しく取り締まっている。"
+    },
+    {
+      "source": "original",
+      "label": "ひびが入る",
+      "en": "The ice cracked under his feet.",
+      "ja": "足もとの氷にひびが入った。"
+    }
+  ],
+  "check_points": [
+    "crack a joke の意味を言えるか",
+    "crack down on の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "crack down on、crack a joke が熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1284
+    }
+  ]
+}

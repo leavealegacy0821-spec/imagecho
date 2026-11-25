@@ -1,0 +1,99 @@
+{
+  "word": "chop",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/tʃɑːp/",
+  "core_image": {
+    "text": "刃をふり下ろして、ざくざく切る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"110\" width=\"160\" height=\"10\"/><line x1=\"120\" y1=\"30\" x2=\"120\" y2=\"90\"/><polygon points=\"104,86 136,86 130,104 110,104\"/><rect x=\"70\" y=\"100\" width=\"16\" height=\"10\"/><rect x=\"90\" y=\"100\" width=\"16\" height=\"10\"/><rect x=\"140\" y=\"100\" width=\"16\" height=\"10\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ざくざく</text></svg>"
+  },
+  "etymology": "中英語 choppen(たたき切る) → 刃をふり下ろして切る → (野菜を)刻む・(木を)たたき割る → chop down=切り倒す",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to cut something into pieces with a knife or an axe."
+    },
+    {
+      "pos": "名詞",
+      "text": "a thick piece of meat with a bone in it."
+    }
+  ],
+  "cautions": [
+    "cut=切る(広い)/chop=刃をふり下ろしてざくざく切る・刻む",
+    "chop A up=Aを細かく刻む/chop down a tree=木を切り倒す",
+    "chop A into pieces=Aをぶつ切りにする",
+    "名詞 a pork chop=骨つきの豚肉"
+  ],
+  "patterns": [
+    {
+      "form": "chop A",
+      "meaning": "Aを刻む"
+    },
+    {
+      "form": "chop A up",
+      "meaning": "Aを細かく刻む"
+    },
+    {
+      "form": "chop down A",
+      "meaning": "Aを切り倒す"
+    },
+    {
+      "form": "chop A into pieces",
+      "meaning": "Aをぶつ切りにする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "刻む",
+      "en": "Chop the onions into small pieces.",
+      "ja": "玉ねぎを細かく刻んでください。"
+    },
+    {
+      "source": "original",
+      "label": "切り倒す",
+      "en": "They chopped down the old tree.",
+      "ja": "彼らは古い木を切り倒した。"
+    },
+    {
+      "source": "original",
+      "label": "たたき割る",
+      "en": "My grandfather chopped wood for the fire.",
+      "ja": "祖父は火にくべる薪を割った。"
+    },
+    {
+      "source": "original",
+      "label": "刻む",
+      "en": "She chopped up some vegetables for the soup.",
+      "ja": "彼女はスープ用の野菜を刻んだ。"
+    },
+    {
+      "source": "original",
+      "label": "ぶつ切り",
+      "en": "Chop the chicken into bite-sized pieces.",
+      "ja": "鶏肉をひと口大に切ってください。"
+    },
+    {
+      "source": "original",
+      "label": "骨つき肉",
+      "en": "I had a pork chop for dinner.",
+      "ja": "夕食に骨つきの豚肉を食べた。"
+    }
+  ],
+  "check_points": [
+    "cut と chop のちがいを言えるか",
+    "chop down の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "料理・森林の文脈で chop が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1281
+    }
+  ]
+}

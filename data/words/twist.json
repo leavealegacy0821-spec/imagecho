@@ -1,0 +1,103 @@
+{
+  "word": "twist",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/twɪst/",
+  "core_image": {
+    "text": "両端を反対に回して、ねじる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M30 70 Q60 50 90 70 T150 70 T210 70\"/><path d=\"M30 90 Q60 110 90 90 T150 90 T210 90\"/><line x1=\"30\" y1=\"40\" x2=\"60\" y2=\"40\"/><polyline points=\"53,36.2 60,40 53,43.8\"/><line x1=\"210\" y1=\"120\" x2=\"180\" y2=\"120\"/><polyline points=\"187,123.8 180,120 187,116.2\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ねじる</text></svg>"
+  },
+  "etymology": "古い英語 -twist(2本のより糸。two・twin と同じ「2」の根) → 2本をより合わせる → ねじる・ひねる → (足首を)くじく → (話の意味を)ゆがめる → (名詞)ねじれ・意外な展開",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to turn something around and around; to bend something into a different shape; to injure a joint by turning it suddenly; to change the meaning of words."
+    },
+    {
+      "pos": "名詞",
+      "text": "a turn; an unexpected change in a story or situation."
+    }
+  ],
+  "cautions": [
+    "turn=回す(広い)/twist=両端を逆に回してねじる・ひねる",
+    "twist one's ankle=足首をくじく(=sprain)",
+    "twist A's words=Aのことばをねじ曲げる",
+    "名詞 a twist=(物語の)意外な展開(a plot twist)"
+  ],
+  "patterns": [
+    {
+      "form": "twist A",
+      "meaning": "Aをねじる"
+    },
+    {
+      "form": "twist one's ankle",
+      "meaning": "足首をくじく"
+    },
+    {
+      "form": "twist A's words",
+      "meaning": "Aのことばを曲解する"
+    },
+    {
+      "form": "a twist",
+      "meaning": "意外な展開"
+    },
+    {
+      "form": "twists and turns",
+      "meaning": "曲がりくねり・紆余曲折"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ねじる",
+      "en": "Twist the lid to open the jar.",
+      "ja": "ふたをひねってびんを開けてください。"
+    },
+    {
+      "source": "original",
+      "label": "くじく",
+      "en": "I twisted my ankle while playing soccer.",
+      "ja": "サッカーをしていて足首をくじいた。"
+    },
+    {
+      "source": "original",
+      "label": "ねじ曲げる",
+      "en": "Don't twist my words.",
+      "ja": "私の言ったことをねじ曲げないで。"
+    },
+    {
+      "source": "original",
+      "label": "意外な展開",
+      "en": "The story has a surprising twist at the end.",
+      "ja": "その話は最後に意外などんでん返しがある。"
+    },
+    {
+      "source": "original",
+      "label": "紆余曲折",
+      "en": "The road has many twists and turns.",
+      "ja": "その道はくねくねと曲がっている。"
+    },
+    {
+      "source": "original",
+      "label": "身をよじる",
+      "en": "She twisted around to look behind her.",
+      "ja": "彼女は身をよじって後ろを見た。"
+    }
+  ],
+  "check_points": [
+    "twist one's ankle の意味を言えるか",
+    "名詞 twist(意外な展開)がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "twist one's ankle、plot twist が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1289
+    }
+  ]
+}

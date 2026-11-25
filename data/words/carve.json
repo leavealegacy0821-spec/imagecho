@@ -1,0 +1,93 @@
+{
+  "word": "carve",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kɑːrv/",
+  "core_image": {
+    "text": "刃で少しずつ削って、形を刻み出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"80\" y=\"30\" width=\"80\" height=\"110\"/><circle cx=\"120\" cy=\"66\" r=\"16\"/><path d=\"M104 104 Q120 120 136 104\"/><line x1=\"180\" y1=\"50\" x2=\"150\" y2=\"80\"/><polygon points=\"146,78 156,84 150,90\"/></g><text x=\"40\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">刻み出す</text></svg>"
+  },
+  "etymology": "古い英語 ceorfan(切る・刻む) → 刃で削って形を作る=彫る・彫刻する → (肉を)切り分ける → carve out=(努力で地位を)切り開く",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make an object or pattern by cutting wood or stone; to cut cooked meat into pieces."
+    }
+  ],
+  "cautions": [
+    "cut=切る/carve=(木・石を)削って形を彫る・(焼いた肉を)切り分ける",
+    "carve A out of [from] B=BからAを彫り出す",
+    "carve one's name on A=Aに名前を刻む",
+    "carve out a career=キャリアを切り開く"
+  ],
+  "patterns": [
+    {
+      "form": "carve A out of B",
+      "meaning": "BからAを彫り出す"
+    },
+    {
+      "form": "carve A on B",
+      "meaning": "BにAを刻む"
+    },
+    {
+      "form": "carve the meat",
+      "meaning": "肉を切り分ける"
+    },
+    {
+      "form": "carve out A",
+      "meaning": "A(地位)を切り開く"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "彫る",
+      "en": "The statue was carved out of a single stone.",
+      "ja": "その像は1つの石から彫り出された。"
+    },
+    {
+      "source": "original",
+      "label": "刻む",
+      "en": "Someone carved their name on the tree.",
+      "ja": "誰かが木に名前を刻んでいた。"
+    },
+    {
+      "source": "original",
+      "label": "切り分ける",
+      "en": "My father carved the turkey at dinner.",
+      "ja": "夕食で父が七面鳥を切り分けた。"
+    },
+    {
+      "source": "original",
+      "label": "彫刻",
+      "en": "The temple is famous for its wood carvings.",
+      "ja": "その寺は木彫りで有名だ。"
+    },
+    {
+      "source": "original",
+      "label": "切り開く",
+      "en": "She carved out a successful career in music.",
+      "ja": "彼女は音楽で成功の道を切り開いた。"
+    },
+    {
+      "source": "original",
+      "label": "削る",
+      "en": "The river carved a deep valley over millions of years.",
+      "ja": "川は何百万年もかけて深い谷を削った。"
+    }
+  ],
+  "check_points": [
+    "carve A out of B の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "carve(彫る)が文化・自然の長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1283
+    }
+  ]
+}

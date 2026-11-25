@@ -1,0 +1,99 @@
+{
+  "word": "crush",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/krʌʃ/",
+  "core_image": {
+    "text": "上から強い力で、ぐしゃっと押しつぶす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"80\" y=\"30\" width=\"80\" height=\"40\"/><line x1=\"120\" y1=\"74\" x2=\"120\" y2=\"108\"/><polyline points=\"123.8,101 120,108 116.2,101\"/><polyline points=\"70,140 90,118 110,130 130,116 150,128 170,140\"/></g><text x=\"200\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぐしゃっ</text></svg>"
+  },
+  "etymology": "古いフランス語 croissir(砕く・ぶつける) → 押しつぶす・砕く → (反乱・相手を)鎮圧する・打ちのめす → (名詞)押し合い・群衆/(口語)夢中・片思い(have a crush on A)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to press something so hard that it breaks or is damaged; to defeat someone completely."
+    },
+    {
+      "pos": "名詞",
+      "text": "a crowd of people pressed together; a strong feeling of love for someone, usually not lasting."
+    }
+  ],
+  "cautions": [
+    "press=押す/squeeze=両側からぎゅっとしぼる/crush=強い力でぐしゃっとつぶす",
+    "be crushed=(人・車が)押しつぶされる・(気持ちが)打ちのめされる",
+    "crush a rebellion=反乱を鎮圧する",
+    "have a crush on A=Aに(片思いで)夢中だ"
+  ],
+  "patterns": [
+    {
+      "form": "crush A",
+      "meaning": "Aを押しつぶす"
+    },
+    {
+      "form": "be crushed",
+      "meaning": "押しつぶされる・打ちのめされる"
+    },
+    {
+      "form": "crush a rebellion",
+      "meaning": "反乱を鎮圧する"
+    },
+    {
+      "form": "have a crush on A",
+      "meaning": "Aに夢中だ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "押しつぶす",
+      "en": "The car was crushed by a falling tree.",
+      "ja": "車は倒れてきた木につぶされた。"
+    },
+    {
+      "source": "original",
+      "label": "砕く",
+      "en": "Crush the garlic before adding it.",
+      "ja": "ニンニクはつぶしてから加えてください。"
+    },
+    {
+      "source": "original",
+      "label": "鎮圧する",
+      "en": "The army crushed the rebellion.",
+      "ja": "軍は反乱を鎮圧した。"
+    },
+    {
+      "source": "original",
+      "label": "打ちのめされる",
+      "en": "He was crushed when she said no.",
+      "ja": "彼女に断られて彼は打ちのめされた。"
+    },
+    {
+      "source": "original",
+      "label": "夢中",
+      "en": "She has a crush on her classmate.",
+      "ja": "彼女はクラスメートに夢中だ。"
+    },
+    {
+      "source": "original",
+      "label": "押し合い",
+      "en": "There was a crush of people at the gate.",
+      "ja": "門のところで人々が押し合っていた。"
+    }
+  ],
+  "check_points": [
+    "press・squeeze・crush のちがいを言えるか",
+    "have a crush on A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be crushed、have a crush on が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1287
+    }
+  ]
+}
