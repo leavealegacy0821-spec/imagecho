@@ -1,0 +1,99 @@
+{
+  "word": "vow",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/vaʊ/",
+  "core_image": {
+    "text": "胸に手を当て、自分(や神)にかたく誓う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><polyline points=\"120,76 104,86 116,80\"/><line x1=\"120\" y1=\"76\" x2=\"136\" y2=\"100\"/><path d=\"M120 24 C112 12 98 22 120 36 C142 22 128 12 120 24\"/></g><text x=\"192\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">心に誓う</text></svg>"
+  },
+  "etymology": "ラテン語 votum(誓い・願い:vote=投票 と同じ根) → 神への誓い → (心の中で)かたく誓う・誓い",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make a serious promise to yourself or to someone else, often to God."
+    },
+    {
+      "pos": "名詞",
+      "text": "a serious promise, especially one made in a religious ceremony."
+    }
+  ],
+  "cautions": [
+    "vow to do / vow that 〜=〜すると誓う",
+    "pledge=人前で公に約束/vow=心の中・神の前でかたく誓う(決意の強さ)",
+    "名詞 marriage vows=結婚の誓い",
+    "make a vow / take a vow=誓いを立てる"
+  ],
+  "patterns": [
+    {
+      "form": "vow to do",
+      "meaning": "〜すると誓う"
+    },
+    {
+      "form": "vow that 〜",
+      "meaning": "〜と誓う"
+    },
+    {
+      "form": "make a vow",
+      "meaning": "誓いを立てる"
+    },
+    {
+      "form": "marriage vows",
+      "meaning": "結婚の誓い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "誓う",
+      "en": "He vowed to become a doctor someday.",
+      "ja": "彼はいつか医者になると心に誓った。"
+    },
+    {
+      "source": "original",
+      "label": "that 節",
+      "en": "She vowed that she would never give up.",
+      "ja": "彼女は決してあきらめないと誓った。"
+    },
+    {
+      "source": "original",
+      "label": "仕返し",
+      "en": "The team vowed revenge after the defeat.",
+      "ja": "チームは敗戦のあと雪辱を誓った。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "I made a vow to read one book a week.",
+      "ja": "私は週に1冊本を読むと誓いを立てた。"
+    },
+    {
+      "source": "original",
+      "label": "結婚",
+      "en": "The couple exchanged vows at the church.",
+      "ja": "2人は教会で結婚の誓いを交わした。"
+    },
+    {
+      "source": "original",
+      "label": "破る",
+      "en": "He broke his vow and started gambling again.",
+      "ja": "彼は誓いを破ってまたギャンブルを始めた。"
+    }
+  ],
+  "check_points": [
+    "vow to do の意味を言えるか",
+    "pledge と vow のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文・伝記で「〜すると誓う」の意味で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1920
+    }
+  ]
+}

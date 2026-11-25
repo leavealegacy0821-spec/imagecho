@@ -1,0 +1,94 @@
+{
+  "word": "swear",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/swer/",
+  "core_image": {
+    "text": "手を挙げ「本当だ」と神にかけて言い切る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"100\" cy=\"52\" r=\"10\"/><line x1=\"100\" y1=\"62\" x2=\"100\" y2=\"106\"/><line x1=\"100\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"100\" y1=\"106\" x2=\"110\" y2=\"140\"/><polyline points=\"100,74 76,60 72,38\"/><line x1=\"72\" y1=\"38\" x2=\"66\" y2=\"30\"/><line x1=\"72\" y1=\"38\" x2=\"74\" y2=\"28\"/><line x1=\"100\" y1=\"74\" x2=\"130\" y2=\"90\"/><rect x=\"128\" y=\"86\" width=\"40\" height=\"14\"/></g><text x=\"178\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">誓います!</text></svg>"
+  },
+  "etymology": "古い英語 swerian(誓いを立てる) → 神にかけて誓う → (本当だと)断言する → 神の名をみだりに口にする → ののしる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to promise or state very seriously that something is true; to use rude or offensive words."
+    }
+  ],
+  "cautions": [
+    "活用 swear - swore - sworn",
+    "swear to do / swear that 〜=〜すると誓う・〜だと断言する",
+    "swear at A=Aをののしる(at が付くと「悪口を言う」)",
+    "pledge=公に約束/vow=心にかたく誓う/swear=「本当だ」と強く言い切る(誓いの言葉)"
+  ],
+  "patterns": [
+    {
+      "form": "swear that 〜",
+      "meaning": "〜だと誓う・断言する"
+    },
+    {
+      "form": "swear to do",
+      "meaning": "〜すると誓う"
+    },
+    {
+      "form": "swear at A",
+      "meaning": "Aをののしる"
+    },
+    {
+      "form": "be sworn in",
+      "meaning": "就任の宣誓をする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "断言",
+      "en": "I swear I didn't take your money.",
+      "ja": "誓って君のお金は取っていない。"
+    },
+    {
+      "source": "original",
+      "label": "to do",
+      "en": "He swore to tell the truth in court.",
+      "ja": "彼は法廷で真実を述べると誓った。"
+    },
+    {
+      "source": "original",
+      "label": "that 節",
+      "en": "She swore that she had never seen the man before.",
+      "ja": "彼女はその男を一度も見たことがないと誓った。"
+    },
+    {
+      "source": "original",
+      "label": "ののしる",
+      "en": "The angry driver swore at the cyclist.",
+      "ja": "怒った運転手は自転車の人をののしった。"
+    },
+    {
+      "source": "original",
+      "label": "悪い言葉",
+      "en": "You shouldn't swear in front of children.",
+      "ja": "子どもの前で汚い言葉を使ってはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "宣誓",
+      "en": "The new president was sworn in yesterday.",
+      "ja": "新大統領はきのう就任の宣誓をした。"
+    }
+  ],
+  "check_points": [
+    "swear の活用(swore, sworn)を言えるか",
+    "swear at A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "活用と、「誓う」と「ののしる」の2つの意味が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1921
+    }
+  ]
+}

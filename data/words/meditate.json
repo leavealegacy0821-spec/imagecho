@@ -1,0 +1,90 @@
+{
+  "word": "meditate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈmedɪteɪt/",
+  "core_image": {
+    "text": "心を静めて、1つのことに思いをこらす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"78\" r=\"10\"/><line x1=\"120\" y1=\"88\" x2=\"120\" y2=\"122\"/><polyline points=\"86,140 120,122 154,140\"/><polyline points=\"120,100 102,114 104,130\"/><polyline points=\"120,100 138,114 136,130\"/><path d=\"M94 58 Q120 38 146 58\"/></g><text x=\"120\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しーん</text></svg>"
+  },
+  "etymology": "ラテン語 meditari(じっくり考える・心の中でくり返す) → 深く思いをこらす → 瞑想する・(計画などを)もくろむ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to spend time sitting quietly and calming your mind; to think seriously about something for a long time."
+    }
+  ],
+  "cautions": [
+    "meditate on (upon) A=Aについて深く考える(on が付く)",
+    "目的語なしで「瞑想する」の意味が多い",
+    "ponder=迷いながら量る/meditate=心を静めて1つに集中する/contemplate=じっと見つめるように考える・〜しようと考える",
+    "名詞 meditation=瞑想・熟考"
+  ],
+  "patterns": [
+    {
+      "form": "meditate",
+      "meaning": "瞑想する"
+    },
+    {
+      "form": "meditate on A",
+      "meaning": "Aについて深く考える"
+    },
+    {
+      "form": "meditation",
+      "meaning": "瞑想"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "瞑想",
+      "en": "She meditates for ten minutes every morning.",
+      "ja": "彼女は毎朝10分間瞑想する。"
+    },
+    {
+      "source": "original",
+      "label": "on",
+      "en": "He meditated on the meaning of his dream.",
+      "ja": "彼は夢の意味について深く考えた。"
+    },
+    {
+      "source": "original",
+      "label": "心を静める",
+      "en": "Meditating can help you reduce stress.",
+      "ja": "瞑想はストレスを減らすのに役立つ。"
+    },
+    {
+      "source": "original",
+      "label": "upon",
+      "en": "The old monk meditated upon life and death.",
+      "ja": "年老いた僧は生と死について思いをこらした。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "Meditation has become popular among busy workers.",
+      "ja": "瞑想は忙しい働き手の間で人気になっている。"
+    },
+    {
+      "source": "original",
+      "label": "静かな所で",
+      "en": "I went to the quiet garden to meditate.",
+      "ja": "私は瞑想するために静かな庭へ行った。"
+    }
+  ],
+  "check_points": [
+    "meditate on A の意味を言えるか",
+    "ponder と meditate のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "健康・心理の長文で meditation(瞑想)とともに出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1923
+    }
+  ]
+}
