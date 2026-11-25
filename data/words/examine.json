@@ -1,0 +1,98 @@
+{
+  "word": "examine",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪɡˈzæmɪn/",
+  "core_image": {
+    "text": "一つずつ、細かく手にとって調べる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"100\" y2=\"80\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"98\"/><circle cx=\"120\" cy=\"80\" r=\"18\"/><line x1=\"133\" y1=\"93\" x2=\"150\" y2=\"112\"/><rect x=\"160\" y=\"110\" width=\"40\" height=\"30\"/></g><text x=\"180\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">細かく調べる</text></svg>"
+  },
+  "etymology": "ラテン語 examinare(てんびんの針で重さを正確にはかる) → 細かく正確に調べる → (物・資料を)詳しく調べる/(医者が患者を)診察する/(学生を)試験する(exam=examination)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to look at something carefully to learn more about it; (of a doctor) to look at a person's body to check their health; to test someone's knowledge."
+    }
+  ],
+  "cautions": [
+    "investigate=真相・原因を突き止める調査/inspect=決まりどおりか点検/examine=対象を細かく調べる",
+    "医者が「診察する」:The doctor examined the patient.",
+    "examination(試験・検査・診察)を短くしたのが exam",
+    "examine A for B=Bがないか(あるか)Aを調べる"
+  ],
+  "patterns": [
+    {
+      "form": "examine A",
+      "meaning": "Aを詳しく調べる"
+    },
+    {
+      "form": "examine A carefully",
+      "meaning": "Aを注意深く調べる"
+    },
+    {
+      "form": "examine A for B",
+      "meaning": "Bがないかと思ってAを調べる"
+    },
+    {
+      "form": "be examined by a doctor",
+      "meaning": "医者に診察される"
+    },
+    {
+      "form": "a medical examination",
+      "meaning": "健康診断"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "詳しく調べる",
+      "en": "The scientists examined the rock samples under a microscope.",
+      "ja": "科学者たちは岩石の標本を顕微鏡で詳しく調べた。"
+    },
+    {
+      "source": "original",
+      "label": "診察する",
+      "en": "The doctor examined my throat.",
+      "ja": "医者は私ののどを診察した。"
+    },
+    {
+      "source": "original",
+      "label": "調べる",
+      "en": "The police examined the car for fingerprints.",
+      "ja": "警察は指紋がないかと車を調べた。"
+    },
+    {
+      "source": "original",
+      "label": "検討する",
+      "en": "We need to examine the problem from different angles.",
+      "ja": "その問題をさまざまな角度から検討する必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "試験",
+      "en": "All students must take the final examination.",
+      "ja": "全生徒が期末試験を受けなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "健康診断",
+      "en": "I have a medical examination next week.",
+      "ja": "来週健康診断がある。"
+    }
+  ],
+  "check_points": [
+    "examine と investigate・inspect のちがいを言えるか",
+    "examine が「診察する」になることがわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「詳しく調べる・検討する・診察する」の訳し分け、類義語との区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1042
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "hide",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/haɪd/",
+  "core_image": {
+    "text": "物かげに入れて、見えないようにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"110\" y=\"70\" width=\"60\" height=\"70\"/><circle cx=\"196\" cy=\"52\" r=\"10\"/><line x1=\"196\" y1=\"62\" x2=\"196\" y2=\"106\"/><line x1=\"196\" y1=\"106\" x2=\"186\" y2=\"140\"/><line x1=\"196\" y1=\"106\" x2=\"206\" y2=\"140\"/><circle cx=\"96\" cy=\"92\" r=\"10\"/><line x1=\"96\" y1=\"102\" x2=\"96\" y2=\"140\"/><line x1=\"186\" y1=\"74\" x2=\"176\" y2=\"90\"/></g><text x=\"60\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かげに隠す</text></svg>"
+  },
+  "etymology": "古い英語 hȳdan(隠す) → 物かげに入れて見えなくする → (物・人を)隠す/(自分が)隠れる → (気持ち・事実を)隠す・秘密にする → (名詞)野鳥観察用の隠れ小屋",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to put something where it cannot be seen or found; to go where no one can see or find you; to keep a feeling or fact secret."
+    },
+    {
+      "pos": "名詞",
+      "text": "a place where people hide to watch animals or birds."
+    }
+  ],
+  "cautions": [
+    "活用 hide - hid - hidden(hidden=隠された・隠れた、は形容詞としてもよく出る)",
+    "hide A from B=AをBから隠す(from を落とさない)",
+    "conceal は「意図して(堅く)隠す」。hide は日常語で、自分が隠れる自動詞にも使える",
+    "hide one's feelings=気持ちを隠す/a hidden meaning=隠された意味"
+  ],
+  "patterns": [
+    {
+      "form": "hide A",
+      "meaning": "Aを隠す"
+    },
+    {
+      "form": "hide A from B",
+      "meaning": "AをBから隠す"
+    },
+    {
+      "form": "hide (oneself)",
+      "meaning": "隠れる"
+    },
+    {
+      "form": "hide one's feelings",
+      "meaning": "気持ちを隠す"
+    },
+    {
+      "form": "a hidden A",
+      "meaning": "隠されたA"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "隠す",
+      "en": "She hid the present under the bed.",
+      "ja": "彼女はプレゼントをベッドの下に隠した。"
+    },
+    {
+      "source": "original",
+      "label": "隠れる",
+      "en": "The cat hid behind the sofa when the guests came.",
+      "ja": "客が来ると猫はソファの後ろに隠れた。"
+    },
+    {
+      "source": "original",
+      "label": "隠す",
+      "en": "He tried to hide the truth from his parents.",
+      "ja": "彼は本当のことを両親に隠そうとした。"
+    },
+    {
+      "source": "original",
+      "label": "気持ちを隠す",
+      "en": "She couldn't hide her disappointment.",
+      "ja": "彼女は落胆を隠せなかった。"
+    },
+    {
+      "source": "original",
+      "label": "隠された",
+      "en": "The poem has a hidden meaning.",
+      "ja": "その詩には隠された意味がある。"
+    },
+    {
+      "source": "original",
+      "label": "隠れる",
+      "en": "There is nowhere to hide in this empty room.",
+      "ja": "このがらんとした部屋には隠れる場所がない。"
+    }
+  ],
+  "check_points": [
+    "hide の活用(hid, hidden)を言えるか",
+    "hide と conceal のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "活用 hid / hidden、hide A from B、hidden(隠れた)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1041
+    }
+  ]
+}

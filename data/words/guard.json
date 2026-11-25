@@ -1,0 +1,103 @@
+{
+  "word": "guard",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɡɑːrd/",
+  "core_image": {
+    "text": "そばに立って見張り、危険から守る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"80\" y1=\"74\" x2=\"100\" y2=\"60\"/><line x1=\"100\" y1=\"60\" x2=\"100\" y2=\"140\"/><line x1=\"80\" y1=\"74\" x2=\"66\" y2=\"96\"/><rect x=\"140\" y=\"90\" width=\"50\" height=\"50\"/><polygon points=\"136,90 165,66 194,90\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見張って守る</text></svg>"
+  },
+  "etymology": "古いフランス語 garder(見張る。ward・warn と同じ根) → そばで見張る → (人・場所を)守る・警備する → (逃げないよう)見張る → (名詞)警備員・番人/守り・用心(on guard)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to protect a person or place from danger or attack; to watch a prisoner so that they do not escape."
+    },
+    {
+      "pos": "名詞",
+      "text": "a person whose job is to protect a place or watch prisoners; the state of being ready to protect yourself."
+    }
+  ],
+  "cautions": [
+    "protect=おおって害から守る/defend=攻撃をはね返す/guard=そばで見張って守る",
+    "guard against A=Aを警戒する・Aに用心する(against を伴う)",
+    "be on (one's) guard=用心している/off guard=油断して(catch A off guard=Aの不意をつく)",
+    "名詞 guard=警備員(a security guard)"
+  ],
+  "patterns": [
+    {
+      "form": "guard A",
+      "meaning": "Aを守る・見張る"
+    },
+    {
+      "form": "guard against A",
+      "meaning": "Aを警戒する"
+    },
+    {
+      "form": "be on (one's) guard",
+      "meaning": "用心している"
+    },
+    {
+      "form": "catch A off guard",
+      "meaning": "Aの不意をつく"
+    },
+    {
+      "form": "a security guard",
+      "meaning": "警備員"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "守る",
+      "en": "Two soldiers guarded the gate of the palace.",
+      "ja": "2人の兵士が宮殿の門を守っていた。"
+    },
+    {
+      "source": "original",
+      "label": "見張る",
+      "en": "The prisoners were guarded day and night.",
+      "ja": "囚人たちは昼も夜も見張られていた。"
+    },
+    {
+      "source": "original",
+      "label": "用心する",
+      "en": "Wash your hands often to guard against colds.",
+      "ja": "かぜに用心してこまめに手を洗いなさい。"
+    },
+    {
+      "source": "original",
+      "label": "用心している",
+      "en": "Be on your guard against pickpockets in the crowd.",
+      "ja": "人混みではすりに用心しなさい。"
+    },
+    {
+      "source": "original",
+      "label": "不意をつく",
+      "en": "The sudden question caught me off guard.",
+      "ja": "突然の質問に不意をつかれた。"
+    },
+    {
+      "source": "original",
+      "label": "警備員",
+      "en": "The security guard checked my bag.",
+      "ja": "警備員が私のかばんを調べた。"
+    }
+  ],
+  "check_points": [
+    "guard against A の意味を言えるか",
+    "catch A off guard の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "guard against、on guard / off guard が熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1043
+    }
+  ]
+}

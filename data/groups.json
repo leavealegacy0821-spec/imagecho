@@ -3,7 +3,7 @@
   "groups": [
     {
       "title": "使い分け:見る",
-      "note": "see=自然に目に入る ／ look=自分から目を向ける ／ watch=動きを目で追う ／ stare=じっと見つめる ／ glance=ちらっと見る ／ observe=注意して観察する ／ witness=その場で目撃する",
+      "note": "see=自然に目に入る ／ look=自分から目を向ける ／ watch=動きを目で追う ／ stare=じっと見つめる ／ glance=ちらっと見る ／ observe=注意して観察する ／ witness=その場で目撃する ／ gaze=うっとり長く見つめる ／ glimpse=(たまたま)一瞬ちらりと見える",
       "words": [
         "see",
         "look",
@@ -11,7 +11,10 @@
         "stare",
         "glance",
         "observe",
-        "witness"
+        "witness",
+        "gaze",
+        "glimpse",
+        "survey"
       ]
     },
     {
@@ -93,12 +96,13 @@
     },
     {
       "title": "使い分け:隠す",
-      "note": "conceal=意図して見えないようにする ／ disguise=別の姿に見せかける ／ withhold=渡さず手元に止める ／ suppress=力で押さえ込む",
+      "note": "conceal=意図して見えないようにする ／ disguise=別の姿に見せかける ／ withhold=渡さず手元に止める ／ suppress=力で押さえ込む ／ hide=物かげに入れて見えなくする(日常語・隠れる も)",
       "words": [
         "conceal",
         "disguise",
         "withhold",
-        "suppress"
+        "suppress",
+        "hide"
       ]
     },
     {
@@ -172,13 +176,16 @@
     },
     {
       "title": "使い分け:調べる",
-      "note": "investigate=原因・真相を突き止める ／ inspect=細かく点検する ／ explore=未知を探って回る ／ check=合っているか確かめる",
+      "note": "investigate=原因・真相を突き止める ／ inspect=細かく点検する ／ explore=未知を探って回る ／ check=合っているか確かめる ／ examine=一つずつ細かく調べる ／ analyze=ばらばらに分けてしくみを明らかにする ／ survey=全体を見渡して調べる(アンケート調査)",
       "words": [
         "investigate",
         "inspect",
         "explore",
         "check",
-        "observe"
+        "observe",
+        "examine",
+        "analyze",
+        "survey"
       ]
     },
     {
@@ -1052,13 +1059,16 @@
     },
     {
       "title": "使い分け:守る",
-      "note": "protect=おおって害から守る ／ defend=攻撃をはね返して守る ／ preserve=元のまま保存する ／ conserve=むだにせず大切に保つ ／ secure=安全を確保する",
+      "note": "protect=おおって害から守る ／ defend=攻撃をはね返して守る ／ preserve=元のまま保存する ／ conserve=むだにせず大切に保つ ／ secure=安全を確保する ／ guard=そばに立って見張って守る ／ shelter=屋根のように上からかばう ／ shield=盾をかざして正面からさえぎる",
       "words": [
         "protect",
         "defend",
         "preserve",
         "conserve",
-        "secure"
+        "secure",
+        "guard",
+        "shelter",
+        "shield"
       ]
     },
     {
@@ -1561,6 +1571,14 @@
         "capacity",
         "faculty",
         "potential"
+      ]
+    },
+    {
+      "title": "使い分け:聞く",
+      "note": "hear=(自然に)耳に入る・聞こえる ／ listen=(自分から)耳を向けて聞く",
+      "words": [
+        "hear",
+        "listen"
       ]
     },
     {

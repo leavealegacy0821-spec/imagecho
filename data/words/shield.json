@@ -1,0 +1,99 @@
+{
+  "word": "shield",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ʃiːld/",
+  "core_image": {
+    "text": "盾を前にかざして、攻撃をさえぎる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"100\" y2=\"80\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><path d=\"M104 56 L132 56 L132 92 Q118 112 104 92 Z\"/><line x1=\"210\" y1=\"76\" x2=\"142\" y2=\"76\"/><polyline points=\"149,79.8 142,76 149,72.2\"/><line x1=\"210\" y1=\"100\" x2=\"142\" y2=\"92\"/><polyline points=\"148.5,96.6 142,92 149.4,89\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さえぎる</text></svg>"
+  },
+  "etymology": "古い英語 scield(盾) → 体の前にかざす盾 → (攻撃・害を)さえぎって守るもの → (動詞)(光・危険・批判から)かばう・保護する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a large flat object that soldiers carried to protect themselves; something that protects a person or thing from harm."
+    },
+    {
+      "pos": "動詞",
+      "text": "to protect someone or something from harm or danger."
+    }
+  ],
+  "cautions": [
+    "shield A from B=AをBからさえぎって守る(from を伴う)",
+    "protect=守る(最も広い)/shelter=屋根のように上からかばう/shield=前に盾をかざして正面から来るものをさえぎる",
+    "比ゆ:shield A from criticism [the truth]=Aを批判[真実]から守る・かばう",
+    "名詞 a shield against A=Aに対する防御"
+  ],
+  "patterns": [
+    {
+      "form": "shield A from B",
+      "meaning": "AをBから守る"
+    },
+    {
+      "form": "shield one's eyes",
+      "meaning": "目を手でおおう"
+    },
+    {
+      "form": "a shield against A",
+      "meaning": "Aへの防御"
+    },
+    {
+      "form": "use A as a shield",
+      "meaning": "Aを盾にする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "盾",
+      "en": "The soldier raised his shield to stop the arrows.",
+      "ja": "兵士は矢を防ぐために盾をかかげた。"
+    },
+    {
+      "source": "original",
+      "label": "目をおおう",
+      "en": "She shielded her eyes from the bright sun.",
+      "ja": "彼女はまぶしい日差しから手で目をかばった。"
+    },
+    {
+      "source": "original",
+      "label": "守る",
+      "en": "Sunscreen shields your skin from harmful rays.",
+      "ja": "日焼け止めは有害な光線から肌を守る。"
+    },
+    {
+      "source": "original",
+      "label": "かばう",
+      "en": "The parents tried to shield their children from the bad news.",
+      "ja": "両親は子どもたちを悪い知らせから守ろうとした。"
+    },
+    {
+      "source": "original",
+      "label": "防御",
+      "en": "The ozone layer acts as a shield against ultraviolet light.",
+      "ja": "オゾン層は紫外線に対する盾の役目をしている。"
+    },
+    {
+      "source": "original",
+      "label": "盾にする",
+      "en": "The robber used a hostage as a shield.",
+      "ja": "強盗は人質を盾にした。"
+    }
+  ],
+  "check_points": [
+    "shield A from B の意味を言えるか",
+    "shelter と shield のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "shield A from B が長文・言い換え(=protect)で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1050
+    }
+  ]
+}

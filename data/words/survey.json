@@ -1,0 +1,103 @@
+{
+  "word": "survey",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈsɜːrveɪ/",
+  "core_image": {
+    "text": "上から全体を、ぐるりと見渡す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"20,140 70,112 120,140\"/><circle cx=\"70\" cy=\"24\" r=\"10\"/><line x1=\"70\" y1=\"34\" x2=\"70\" y2=\"78\"/><line x1=\"70\" y1=\"78\" x2=\"60\" y2=\"112\"/><line x1=\"70\" y1=\"78\" x2=\"80\" y2=\"112\"/><line x1=\"70\" y1=\"46\" x2=\"56\" y2=\"60\"/><line x1=\"70\" y1=\"46\" x2=\"84\" y2=\"60\"/><line x1=\"90\" y1=\"40\" x2=\"200\" y2=\"100\" stroke-dasharray=\"5 5\"/><polyline points=\"195.7,93.3 200,100 192,100\"/><rect x=\"160\" y=\"110\" width=\"20\" height=\"30\"/><rect x=\"190\" y=\"100\" width=\"20\" height=\"40\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見渡す</text></svg>"
+  },
+  "etymology": "sur(上から。surface・surpass と同じ)+vey(見る) → 上から全体を見渡す → (状況・土地を)調べる・測量する → (多くの人に質問して)全体の傾向を調べる=調査・アンケート",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a set of questions that you ask a large number of people to find out what they think or do; an act of looking at or examining something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to ask a large number of people questions; to look carefully at the whole of something."
+    }
+  ],
+  "cautions": [
+    "長文では名詞 survey=(アンケート)調査 が最頻出(conduct [carry out] a survey)",
+    "According to a recent survey, …=最近の調査によれば(グラフ・長文の定番)",
+    "動詞 survey=(全体を)見渡す・(人々を)調査する。examine は細部を、survey は全体を見る",
+    "名詞と動詞で強勢の位置が変わる(名詞は前、動詞は後ろ)"
+  ],
+  "patterns": [
+    {
+      "form": "conduct a survey",
+      "meaning": "調査を行う"
+    },
+    {
+      "form": "a survey of A",
+      "meaning": "Aを対象にした調査"
+    },
+    {
+      "form": "according to a survey",
+      "meaning": "調査によると"
+    },
+    {
+      "form": "survey A",
+      "meaning": "Aを見渡す・調査する"
+    },
+    {
+      "form": "be surveyed",
+      "meaning": "調査を受ける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "調査",
+      "en": "The school conducted a survey of students' sleeping habits.",
+      "ja": "学校は生徒の睡眠習慣についての調査を行った。"
+    },
+    {
+      "source": "original",
+      "label": "調査によると",
+      "en": "According to a recent survey, most teenagers own a smartphone.",
+      "ja": "最近の調査によると、10代のほとんどがスマートフォンを持っている。"
+    },
+    {
+      "source": "original",
+      "label": "調査する",
+      "en": "Over 1,000 people were surveyed for the report.",
+      "ja": "その報告書のために1000人以上が調査を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "見渡す",
+      "en": "From the top of the hill, he surveyed the whole town.",
+      "ja": "丘の上から彼は町全体を見渡した。"
+    },
+    {
+      "source": "original",
+      "label": "調べる",
+      "en": "The workers surveyed the damage after the earthquake.",
+      "ja": "作業員たちは地震のあとの被害を調べた。"
+    },
+    {
+      "source": "original",
+      "label": "測量",
+      "en": "A land survey was carried out before building the road.",
+      "ja": "道路を作る前に土地の測量が行われた。"
+    }
+  ],
+  "check_points": [
+    "conduct a survey の意味を言えるか",
+    "survey と examine のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "名詞「(アンケート)調査」が長文・グラフ問題で非常によく出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1047
+    }
+  ]
+}

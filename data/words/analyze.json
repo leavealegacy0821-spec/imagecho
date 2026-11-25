@@ -1,0 +1,98 @@
+{
+  "word": "analyze",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈænəlaɪz/",
+  "core_image": {
+    "text": "ばらばらに分けて、しくみを明らかにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"50\" cy=\"80\" r=\"24\"/><line x1=\"82\" y1=\"80\" x2=\"120\" y2=\"80\"/><polyline points=\"113,76.2 120,80 113,83.8\"/><circle cx=\"150\" cy=\"56\" r=\"10\"/><circle cx=\"190\" cy=\"56\" r=\"10\"/><circle cx=\"150\" cy=\"104\" r=\"10\"/><circle cx=\"190\" cy=\"104\" r=\"10\"/></g><text x=\"170\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">分けて調べる</text></svg>"
+  },
+  "etymology": "ギリシャ語 analysis(ana=すっかり+lysis=ほどく) → 全体をほどいて部分に分ける → (データ・物質・文を)分析する → (原因・意味を)細かく検討する → 名詞 analysis(分析)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to examine something in detail by separating it into parts, in order to understand or explain it."
+    }
+  ],
+  "cautions": [
+    "examine=細かく調べる/analyze=部分に分けて、しくみ・原因を明らかにする",
+    "名詞 analysis(複数形 analyses)/analyst=分析する人/analytical=分析的な",
+    "イギリス英語のつづりは analyse",
+    "analyze data [results]=データ[結果]を分析する(研究・グラフの長文で頻出)"
+  ],
+  "patterns": [
+    {
+      "form": "analyze A",
+      "meaning": "Aを分析する"
+    },
+    {
+      "form": "analyze data",
+      "meaning": "データを分析する"
+    },
+    {
+      "form": "carefully analyze A",
+      "meaning": "Aを注意深く分析する"
+    },
+    {
+      "form": "an analysis of A",
+      "meaning": "Aの分析"
+    },
+    {
+      "form": "in the final analysis",
+      "meaning": "結局のところ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "分析する",
+      "en": "The researchers analyzed data from 500 schools.",
+      "ja": "研究者たちは500校のデータを分析した。"
+    },
+    {
+      "source": "original",
+      "label": "分析する",
+      "en": "Scientists analyzed the water to find out what was in it.",
+      "ja": "科学者たちは何が入っているかを知るために水を分析した。"
+    },
+    {
+      "source": "original",
+      "label": "分析する",
+      "en": "The coach analyzed the video of the game.",
+      "ja": "コーチは試合の映像を分析した。"
+    },
+    {
+      "source": "original",
+      "label": "分析",
+      "en": "A careful analysis of the results showed a clear pattern.",
+      "ja": "結果を注意深く分析すると、はっきりした傾向が見えた。"
+    },
+    {
+      "source": "original",
+      "label": "検討する",
+      "en": "We need to analyze why the plan failed.",
+      "ja": "計画がなぜ失敗したのかを分析する必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "結局のところ",
+      "en": "In the final analysis, it was a question of money.",
+      "ja": "結局のところ、それはお金の問題だった。"
+    }
+  ],
+  "check_points": [
+    "analysis の複数形(analyses)を言えるか",
+    "analyze と examine のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "analyze data、名詞 analysis が研究系の長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1048
+    }
+  ]
+}

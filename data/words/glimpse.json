@@ -1,0 +1,99 @@
+{
+  "word": "glimpse",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ɡlɪmps/",
+  "core_image": {
+    "text": "ほんの一瞬、ちらりと目に入る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"62\" y2=\"96\"/><rect x=\"130\" y=\"60\" width=\"60\" height=\"80\"/><line x1=\"160\" y1=\"60\" x2=\"160\" y2=\"140\"/><circle cx=\"175\" cy=\"88\" r=\"6\"/><line x1=\"64\" y1=\"54\" x2=\"120\" y2=\"74\" stroke-dasharray=\"5 5\"/><polyline points=\"114.7,68 120,74 112.1,75.3\"/></g><text x=\"90\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ちらりと見える</text></svg>"
+  },
+  "etymology": "中英語 glimsen(ちらっと光る。glimmer=ちらちら光る と同じ仲間) → 一瞬ちらっと見える → ちらりと見ること → (物事の)一端・垣間見ること(a glimpse of A)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a very quick and incomplete look at someone or something; a short experience that helps you understand something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to see someone or something for a moment only."
+    }
+  ],
+  "cautions": [
+    "glance=(自分から)ちらっと目をやる/glimpse=(たまたま)ちらっと見える",
+    "catch [get] a glimpse of A=Aがちらっと見える(名詞の型が最頻出)",
+    "a glimpse of [into] A=Aの一端・Aを垣間見ること(比ゆ:a glimpse into the future)",
+    "glance at A(自動詞)と glimpse A(他動詞)の形のちがいに注意"
+  ],
+  "patterns": [
+    {
+      "form": "catch a glimpse of A",
+      "meaning": "Aがちらっと見える"
+    },
+    {
+      "form": "get a glimpse of A",
+      "meaning": "Aをちらっと見る"
+    },
+    {
+      "form": "a glimpse into A",
+      "meaning": "Aの一端・垣間見ること"
+    },
+    {
+      "form": "glimpse A",
+      "meaning": "Aをちらっと見る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ちらっと見える",
+      "en": "I caught a glimpse of the famous actor as he got into the car.",
+      "ja": "その有名な俳優が車に乗り込むのがちらっと見えた。"
+    },
+    {
+      "source": "original",
+      "label": "ちらっと見る",
+      "en": "We got a glimpse of the sea from the train window.",
+      "ja": "電車の窓から海がちらっと見えた。"
+    },
+    {
+      "source": "original",
+      "label": "垣間見る",
+      "en": "The museum offers a glimpse into life 200 years ago.",
+      "ja": "その博物館では200年前の暮らしを垣間見ることができる。"
+    },
+    {
+      "source": "original",
+      "label": "一端",
+      "en": "The book gives us a glimpse of the writer's childhood.",
+      "ja": "その本は作家の子ども時代の一端を見せてくれる。"
+    },
+    {
+      "source": "original",
+      "label": "ちらっと見る",
+      "en": "She glimpsed a face at the window.",
+      "ja": "彼女は窓に人の顔をちらりと見た。"
+    },
+    {
+      "source": "original",
+      "label": "ちらっと見る",
+      "en": "I only glimpsed him for a moment in the crowd.",
+      "ja": "人混みの中で彼をほんの一瞬見かけただけだ。"
+    }
+  ],
+  "check_points": [
+    "catch a glimpse of A の意味を言えるか",
+    "glance と glimpse のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "catch a glimpse of、glance との区別が熟語・語法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1046
+    }
+  ]
+}
