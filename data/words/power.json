@@ -1,0 +1,103 @@
+{
+  "word": "power",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈpaʊər/",
+  "core_image": {
+    "text": "何かを動かし、思いどおりにできる力",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"40\"/><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"80\"/><path d=\"M100 50 A30 30 0 1 0 140 50\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">動かす力</text></svg>"
+  },
+  "etymology": "古いフランス語 poeir(できる。ラテン語 posse=できる:possible・potential と同じ根) → できる力・能力 → (人・国を動かす)権力・支配力 → (電気・機械の)動力・電力",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the ability to control people or events; energy that can be used to make machines work; political control."
+    },
+    {
+      "pos": "動詞",
+      "text": "to supply energy to a machine."
+    }
+  ],
+  "cautions": [
+    "strength=(体の)強さ/power=人・物事を動かす力・権力・電力",
+    "come to [take] power=政権につく/in power=政権の座にある",
+    "do everything in one's power=できるかぎりのことをする",
+    "a power cut [outage]=停電/solar power=太陽光発電"
+  ],
+  "patterns": [
+    {
+      "form": "come to power",
+      "meaning": "政権につく"
+    },
+    {
+      "form": "in power",
+      "meaning": "権力の座に"
+    },
+    {
+      "form": "do everything in one's power",
+      "meaning": "全力を尽くす"
+    },
+    {
+      "form": "a power cut",
+      "meaning": "停電"
+    },
+    {
+      "form": "be powered by A",
+      "meaning": "Aで動く"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "政権につく",
+      "en": "The party came to power in 2012.",
+      "ja": "その政党は2012年に政権についた。"
+    },
+    {
+      "source": "original",
+      "label": "全力",
+      "en": "I'll do everything in my power to help you.",
+      "ja": "あなたを助けるためにできるかぎりのことをします。"
+    },
+    {
+      "source": "original",
+      "label": "停電",
+      "en": "There was a power cut during the storm.",
+      "ja": "嵐の間に停電があった。"
+    },
+    {
+      "source": "original",
+      "label": "太陽光発電",
+      "en": "Solar power is clean energy.",
+      "ja": "太陽光発電はクリーンなエネルギーだ。"
+    },
+    {
+      "source": "original",
+      "label": "で動く",
+      "en": "This car is powered by electricity.",
+      "ja": "この車は電気で動く。"
+    },
+    {
+      "source": "original",
+      "label": "力",
+      "en": "Knowledge is power.",
+      "ja": "知識は力なり。"
+    }
+  ],
+  "check_points": [
+    "come to power の意味を言えるか",
+    "power cut の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "come to power、solar power が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1586
+    }
+  ]
+}

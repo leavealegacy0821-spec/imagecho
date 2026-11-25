@@ -1314,14 +1314,16 @@
     },
     {
       "title": "使い分け:権力・影響力",
-      "note": "authority=決める権限 ／ influence=影響力 ／ sway=支配力 ／ dominate=支配する ／ command=命令・指揮 ／ rule=支配・規則",
+      "note": "authority=決める権限 ／ influence=影響力 ／ sway=支配力 ／ dominate=支配する ／ command=命令・指揮 ／ rule=支配・規則 ／ power=人や物事を動かす力・権力・電力 ／ control=手綱をにぎって管理・制御する",
       "words": [
         "authority",
         "influence",
         "sway",
         "dominate",
         "command",
-        "rule"
+        "rule",
+        "power",
+        "control"
       ]
     },
     {
@@ -2746,6 +2748,21 @@
         "victim",
         "innocent",
         "guilty"
+      ]
+    },
+    {
+      "title": "使い分け:政治・自由",
+      "note": "government=国のかじを取って治める政府 ／ govern=かじを取るように治める・左右する ／ politics=国の運営をめぐる政治の営み(単数扱い) ／ policy=政策 ／ democracy=民衆みんなが力をもつ民主主義 ／ dictator=ひとりで命じる独裁者 ／ freedom=しばられず思いどおりにできる自由(広い) ／ liberty=権利としての自由(堅い) ／ independence=ぶら下がらず自分で立つ独立・自立",
+      "words": [
+        "government",
+        "govern",
+        "politics",
+        "policy",
+        "democracy",
+        "dictator",
+        "freedom",
+        "liberty",
+        "independence"
       ]
     },
     {

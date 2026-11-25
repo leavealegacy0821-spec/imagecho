@@ -1,0 +1,93 @@
+{
+  "word": "government",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈɡʌvərnmənt/",
+  "core_image": {
+    "text": "国のかじを取って、治める人たちとしくみ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"60\" y=\"70\" width=\"120\" height=\"70\"/><polygon points=\"50,70 120,30 190,70\"/><line x1=\"80\" y1=\"80\" x2=\"80\" y2=\"140\"/><line x1=\"105\" y1=\"80\" x2=\"105\" y2=\"140\"/><line x1=\"135\" y1=\"80\" x2=\"135\" y2=\"140\"/><line x1=\"160\" y1=\"80\" x2=\"160\" y2=\"140\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">治める</text></svg>"
+  },
+  "etymology": "govern(かじを取る・治める)+ment → 治めること → 政府・政権 → 政治の形態(democratic government)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the group of people who control a country; the system used to control a country."
+    }
+  ],
+  "cautions": [
+    "government=国を治める政府(単数・複数どちらの扱いも)",
+    "the Japanese government=日本政府/local government=地方自治体",
+    "politics=政治(活動)/government=政府(組織)",
+    "govern=治める/governor=知事"
+  ],
+  "patterns": [
+    {
+      "form": "the government",
+      "meaning": "政府"
+    },
+    {
+      "form": "local government",
+      "meaning": "地方自治体"
+    },
+    {
+      "form": "government policy",
+      "meaning": "政府の方針"
+    },
+    {
+      "form": "form a government",
+      "meaning": "政府を組織する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "政府",
+      "en": "The government announced a new plan.",
+      "ja": "政府は新しい計画を発表した。"
+    },
+    {
+      "source": "original",
+      "label": "地方自治体",
+      "en": "Local governments provide many services.",
+      "ja": "地方自治体は多くのサービスを提供している。"
+    },
+    {
+      "source": "original",
+      "label": "政府",
+      "en": "The government is trying to reduce taxes.",
+      "ja": "政府は減税しようとしている。"
+    },
+    {
+      "source": "original",
+      "label": "政治形態",
+      "en": "Democracy is a form of government.",
+      "ja": "民主主義は政治形態の一つだ。"
+    },
+    {
+      "source": "original",
+      "label": "政府の",
+      "en": "Government spending has increased.",
+      "ja": "政府の支出が増えた。"
+    },
+    {
+      "source": "original",
+      "label": "政権",
+      "en": "The new government took power in May.",
+      "ja": "新政権は5月に発足した。"
+    }
+  ],
+  "check_points": [
+    "government と politics のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "government が社会系の長文で多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1579
+    }
+  ]
+}

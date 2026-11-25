@@ -1,0 +1,102 @@
+{
+  "word": "control",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/kənˈtroʊl/",
+  "core_image": {
+    "text": "手綱をにぎって、思うとおりに動かす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"100\" y2=\"80\"/><line x1=\"100\" y1=\"80\" x2=\"160\" y2=\"100\"/><ellipse cx=\"180\" cy=\"110\" rx=\"30\" ry=\"14\"/><circle cx=\"208\" cy=\"96\" r=\"8\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手綱をにぎる</text></svg>"
+  },
+  "etymology": "古いフランス語 contrerolle(照合用の帳簿。contra=反対+rotulus=巻物) → 帳簿を照らし合わせて確かめる → 管理する・支配する・制御する → (感情を)おさえる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the power to decide how something happens; the ability to stay calm."
+    },
+    {
+      "pos": "動詞",
+      "text": "to have power over a person, situation or machine; to limit something."
+    }
+  ],
+  "cautions": [
+    "control=手綱をにぎって管理・支配・制御する(日本語の「チェック」の意味ではない)",
+    "under control=制御されて/out of control=制御不能で",
+    "take control of A=Aの主導権を握る",
+    "control oneself=自制する/remote control=リモコン"
+  ],
+  "patterns": [
+    {
+      "form": "control A",
+      "meaning": "Aを管理する・おさえる"
+    },
+    {
+      "form": "under control",
+      "meaning": "制御されて"
+    },
+    {
+      "form": "out of control",
+      "meaning": "手に負えない"
+    },
+    {
+      "form": "take control of A",
+      "meaning": "Aを掌握する"
+    },
+    {
+      "form": "control oneself",
+      "meaning": "自制する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "制御されて",
+      "en": "The fire is now under control.",
+      "ja": "火事は今では鎮火に向かっている。"
+    },
+    {
+      "source": "original",
+      "label": "手に負えない",
+      "en": "The car went out of control.",
+      "ja": "車は制御がきかなくなった。"
+    },
+    {
+      "source": "original",
+      "label": "おさえる",
+      "en": "Try to control your anger.",
+      "ja": "怒りをおさえるようにしなさい。"
+    },
+    {
+      "source": "original",
+      "label": "掌握する",
+      "en": "The army took control of the city.",
+      "ja": "軍がその都市を掌握した。"
+    },
+    {
+      "source": "original",
+      "label": "管理",
+      "en": "The government controls prices.",
+      "ja": "政府は物価を管理している。"
+    },
+    {
+      "source": "original",
+      "label": "リモコン",
+      "en": "Where is the remote control?",
+      "ja": "リモコンはどこ?"
+    }
+  ],
+  "check_points": [
+    "under control / out of control の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "under control、out of control が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1587
+    }
+  ]
+}

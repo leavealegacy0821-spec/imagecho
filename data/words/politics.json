@@ -1,0 +1,93 @@
+{
+  "word": "politics",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈpɑːlətɪks/",
+  "core_image": {
+    "text": "都市・国の運営をめぐる、政治の営み",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"56\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"166\" y2=\"56\"/><rect x=\"100\" y=\"20\" width=\"40\" height=\"16\"/></g><text x=\"196\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">政治</text></svg>"
+  },
+  "etymology": "ギリシャ語 politikos(都市国家 polis の。police・policy と同じ根) → 都市国家の運営 → 政治・政治活動 → 政治学 → political=政治の/politician=政治家",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "activities involved in getting and using power in a country or society; the study of government."
+    }
+  ],
+  "cautions": [
+    "-s で終わるが単数扱いが基本(Politics is …)",
+    "government=政府(組織)/politics=政治(活動)/policy=政策",
+    "political=政治の/politician=政治家",
+    "office politics=職場の駆け引き"
+  ],
+  "patterns": [
+    {
+      "form": "go into politics",
+      "meaning": "政界に入る"
+    },
+    {
+      "form": "be interested in politics",
+      "meaning": "政治に関心がある"
+    },
+    {
+      "form": "political",
+      "meaning": "政治の"
+    },
+    {
+      "form": "a politician",
+      "meaning": "政治家"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "政治",
+      "en": "Many young people are not interested in politics.",
+      "ja": "多くの若者は政治に関心がない。"
+    },
+    {
+      "source": "original",
+      "label": "政界に入る",
+      "en": "He went into politics after university.",
+      "ja": "彼は大学卒業後に政界に入った。"
+    },
+    {
+      "source": "original",
+      "label": "政治",
+      "en": "Politics is a difficult job.",
+      "ja": "政治は大変な仕事だ。"
+    },
+    {
+      "source": "original",
+      "label": "政治の",
+      "en": "The country is facing a political crisis.",
+      "ja": "その国は政治的危機に直面している。"
+    },
+    {
+      "source": "original",
+      "label": "政治家",
+      "en": "She is a famous politician.",
+      "ja": "彼女は有名な政治家だ。"
+    },
+    {
+      "source": "original",
+      "label": "駆け引き",
+      "en": "I don't like office politics.",
+      "ja": "職場の駆け引きは好きじゃない。"
+    }
+  ],
+  "check_points": [
+    "politics が単数扱いなことがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "politics / political / politician が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1581
+    }
+  ]
+}
