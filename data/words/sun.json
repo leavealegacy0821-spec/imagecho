@@ -1,0 +1,98 @@
+{
+  "word": "sun",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/sʌn/",
+  "core_image": {
+    "text": "空で光と熱を送る、太陽・日なた",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"30\"/><line x1=\"120\" y1=\"20\" x2=\"120\" y2=\"36\"/><line x1=\"120\" y1=\"124\" x2=\"120\" y2=\"140\"/><line x1=\"60\" y1=\"80\" x2=\"76\" y2=\"80\"/><line x1=\"164\" y1=\"80\" x2=\"180\" y2=\"80\"/><line x1=\"78\" y1=\"38\" x2=\"90\" y2=\"50\"/><line x1=\"150\" y1=\"110\" x2=\"162\" y2=\"122\"/><line x1=\"162\" y1=\"38\" x2=\"150\" y2=\"50\"/><line x1=\"90\" y1=\"110\" x2=\"78\" y2=\"122\"/></g><text x=\"210\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">たいよう</text></svg>"
+  },
+  "etymology": "古い英語 sunne(太陽:Sunday=太陽の日) → 太陽 → 日光・日なた(in the sun)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the star that gives the earth light and heat; light and heat from the sun."
+    },
+    {
+      "pos": "動詞",
+      "text": "(sun oneself) to sit or lie in the sunshine."
+    }
+  ],
+  "cautions": [
+    "the sun(ふつう the をつける)",
+    "in the sun=日なたで/out of the sun=日かげで",
+    "sunny=晴れた・陽気な",
+    "The sun rises in the east.=(from ではなく in)"
+  ],
+  "patterns": [
+    {
+      "form": "the sun",
+      "meaning": "太陽"
+    },
+    {
+      "form": "in the sun",
+      "meaning": "日なたで"
+    },
+    {
+      "form": "the rising sun",
+      "meaning": "朝日"
+    },
+    {
+      "form": "sunny",
+      "meaning": "よく晴れた"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "東から",
+      "en": "The sun rises in the east.",
+      "ja": "太陽は東から昇る。"
+    },
+    {
+      "source": "original",
+      "label": "日なた",
+      "en": "The cat is sleeping in the sun.",
+      "ja": "ネコが日なたで眠っている。"
+    },
+    {
+      "source": "original",
+      "label": "晴れ",
+      "en": "It's sunny today.",
+      "ja": "今日はよく晴れている。"
+    },
+    {
+      "source": "original",
+      "label": "日焼け",
+      "en": "Don't stay in the sun too long.",
+      "ja": "長く日に当たりすぎないで。"
+    },
+    {
+      "source": "original",
+      "label": "しずむ",
+      "en": "The sun set behind the mountains.",
+      "ja": "太陽が山のかげにしずんだ。"
+    },
+    {
+      "source": "original",
+      "label": "エネルギー",
+      "en": "Plants use energy from the sun.",
+      "ja": "植物は太陽のエネルギーを使う。"
+    }
+  ],
+  "check_points": [
+    "The sun rises in the east. の前置詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "rise in the east(前置詞)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1975
+    }
+  ]
+}

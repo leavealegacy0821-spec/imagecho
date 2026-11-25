@@ -1,0 +1,89 @@
+{
+  "word": "ocean",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈoʊʃn/",
+  "core_image": {
+    "text": "大陸をへだてる、果てしない大海",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 70 Q40 60 70 70 T130 70 T190 70 T240 70\"/><path d=\"M10 100 Q40 90 70 100 T130 100 T190 100 T240 100\"/><path d=\"M10 130 Q40 120 70 130 T130 130 T190 130 T240 130\"/><line x1=\"30\" y1=\"30\" x2=\"210\" y2=\"30\" stroke-dasharray=\"5 5\"/><polyline points=\"203,26.2 210,30 203,33.8\"/></g><text x=\"120\" y=\"150\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">果てしない</text></svg>"
+  },
+  "etymology": "ギリシャ語 Ōkeanos(大地をとりまく大河の神) → 世界をとりまく大海 → 大洋(the Pacific Ocean)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the very large area of salt water that covers most of the earth; one of its five main parts."
+    }
+  ],
+  "cautions": [
+    "ocean=大陸をへだてる大洋(Pacific・Atlantic など)/sea=海(ocean の一部・陸に近い海も)",
+    "(米)では海全般を ocean ともいう",
+    "the Pacific Ocean=太平洋",
+    "an ocean of A=ばく大なA"
+  ],
+  "patterns": [
+    {
+      "form": "the Pacific Ocean",
+      "meaning": "太平洋"
+    },
+    {
+      "form": "the ocean floor",
+      "meaning": "海底"
+    },
+    {
+      "form": "ocean currents",
+      "meaning": "海流"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "大洋",
+      "en": "Japan faces the Pacific Ocean.",
+      "ja": "日本は太平洋に面している。"
+    },
+    {
+      "source": "original",
+      "label": "海底",
+      "en": "Scientists explore the ocean floor.",
+      "ja": "科学者たちは海底を探査している。"
+    },
+    {
+      "source": "original",
+      "label": "汚染",
+      "en": "Plastic is polluting the oceans.",
+      "ja": "プラスチックが海を汚している。"
+    },
+    {
+      "source": "original",
+      "label": "海流",
+      "en": "Ocean currents carry warm water north.",
+      "ja": "海流が暖かい水を北へ運ぶ。"
+    },
+    {
+      "source": "original",
+      "label": "横断",
+      "en": "They sailed across the Atlantic Ocean.",
+      "ja": "彼らは大西洋を船で横断した。"
+    },
+    {
+      "source": "original",
+      "label": "生き物",
+      "en": "The ocean is home to millions of species.",
+      "ja": "海には何百万もの種がすんでいる。"
+    }
+  ],
+  "check_points": [
+    "ocean と sea のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で環境の話題として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1969
+    }
+  ]
+}
