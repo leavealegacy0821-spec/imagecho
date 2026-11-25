@@ -1,0 +1,97 @@
+{
+  "word": "territory",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈterətɔːri/",
+  "core_image": {
+    "text": "これは自分のものだと、支配する土地",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"40\" y1=\"140\" x2=\"40\" y2=\"40\"/><polygon points=\"40,40 80,52 40,64\"/><rect x=\"40\" y=\"70\" width=\"160\" height=\"70\" stroke-dasharray=\"6 4\"/></g><text x=\"150\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">自分の土地</text></svg>"
+  },
+  "etymology": "ラテン語 terra(土地・大地。terrain・Mediterranean と同じ根)+tory(場所) → 支配する土地 → 領土・なわばり → (知識・活動の)領域",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "land that is controlled by a particular country or ruler; an area that an animal thinks belongs to it; an area of knowledge or experience."
+    }
+  ],
+  "cautions": [
+    "area=場所(広い)/territory=国・動物が自分のものとして支配する領土・なわばり",
+    "territorial=領土の/territorial waters=領海",
+    "unknown [new] territory=未知の領域",
+    "比ゆ:come with the territory=つきものである"
+  ],
+  "patterns": [
+    {
+      "form": "enemy territory",
+      "meaning": "敵の領土"
+    },
+    {
+      "form": "an animal's territory",
+      "meaning": "動物のなわばり"
+    },
+    {
+      "form": "new territory",
+      "meaning": "未知の領域"
+    },
+    {
+      "form": "territorial",
+      "meaning": "領土の"
+    },
+    {
+      "form": "come with the territory",
+      "meaning": "つきものである"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "領土",
+      "en": "The island is part of Japanese territory.",
+      "ja": "その島は日本の領土の一部だ。"
+    },
+    {
+      "source": "original",
+      "label": "なわばり",
+      "en": "Cats mark their territory.",
+      "ja": "猫は自分のなわばりにしるしをつける。"
+    },
+    {
+      "source": "original",
+      "label": "未知の領域",
+      "en": "Living abroad was new territory for me.",
+      "ja": "外国暮らしは私にとって未知の領域だった。"
+    },
+    {
+      "source": "original",
+      "label": "領海",
+      "en": "The ship entered territorial waters.",
+      "ja": "その船は領海に入った。"
+    },
+    {
+      "source": "original",
+      "label": "敵の領土",
+      "en": "The soldiers moved deep into enemy territory.",
+      "ja": "兵士たちは敵の領土深くに進んだ。"
+    },
+    {
+      "source": "original",
+      "label": "つきもの",
+      "en": "Stress comes with the territory when you're a manager.",
+      "ja": "管理職にはストレスがつきものだ。"
+    }
+  ],
+  "check_points": [
+    "territory の意味(領土・なわばり)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "territory が国際・動物の長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1427
+    }
+  ]
+}

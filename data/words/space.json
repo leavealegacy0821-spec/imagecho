@@ -1,0 +1,103 @@
+{
+  "word": "space",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/speɪs/",
+  "core_image": {
+    "text": "何も入っていない、ひろがりのある空間",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"40\" width=\"160\" height=\"90\" stroke-dasharray=\"6 6\"/><circle cx=\"196\" cy=\"30\" r=\"6\"/><circle cx=\"30\" cy=\"140\" r=\"4\"/></g><text x=\"120\" y=\"86\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あいた空間</text></svg>"
+  },
+  "etymology": "ラテン語 spatium(広がり・距離) → あいている所・余地 → 空間 → 宇宙(outer space) → (時間の)間(in the space of A=Aの間に) → spacious=広々とした",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an empty area; the area beyond the earth where the stars and planets are; a period of time."
+    },
+    {
+      "pos": "動詞",
+      "text": "to arrange things with spaces between them."
+    }
+  ],
+  "cautions": [
+    "place=特定の場所/space=何もないひろがり・余地(不可算が多い)/room=(人・物が入る)余地",
+    "space=宇宙(無冠詞:travel in space)",
+    "take up space=場所をとる/parking space=駐車スペース",
+    "in [within] the space of A=Aの間に"
+  ],
+  "patterns": [
+    {
+      "form": "space for A",
+      "meaning": "Aのための場所"
+    },
+    {
+      "form": "in space",
+      "meaning": "宇宙で"
+    },
+    {
+      "form": "take up space",
+      "meaning": "場所をとる"
+    },
+    {
+      "form": "a parking space",
+      "meaning": "駐車スペース"
+    },
+    {
+      "form": "in the space of A",
+      "meaning": "Aの間に"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "場所",
+      "en": "There isn't enough space for a piano in this room.",
+      "ja": "この部屋にはピアノを置く場所がない。"
+    },
+    {
+      "source": "original",
+      "label": "宇宙",
+      "en": "She dreams of traveling in space.",
+      "ja": "彼女は宇宙旅行を夢見ている。"
+    },
+    {
+      "source": "original",
+      "label": "場所をとる",
+      "en": "This sofa takes up too much space.",
+      "ja": "このソファは場所をとりすぎる。"
+    },
+    {
+      "source": "original",
+      "label": "駐車スペース",
+      "en": "I couldn't find a parking space.",
+      "ja": "駐車スペースが見つからなかった。"
+    },
+    {
+      "source": "original",
+      "label": "の間に",
+      "en": "Everything changed in the space of a year.",
+      "ja": "1年の間にすべてが変わった。"
+    },
+    {
+      "source": "original",
+      "label": "空ける",
+      "en": "Space the plants 30 cm apart.",
+      "ja": "植物を30センチ間隔に植えなさい。"
+    }
+  ],
+  "check_points": [
+    "place と space のちがいを言えるか",
+    "space(宇宙)が無冠詞なことがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "space(宇宙・余地)の訳し分けが出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1422
+    }
+  ]
+}

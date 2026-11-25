@@ -1,0 +1,93 @@
+{
+  "word": "district",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈdɪstrɪkt/",
+  "core_image": {
+    "text": "線を引いて分けられた、町の中の区",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"30\" width=\"180\" height=\"100\"/><line x1=\"90\" y1=\"30\" x2=\"90\" y2=\"130\"/><line x1=\"150\" y1=\"30\" x2=\"150\" y2=\"130\"/><line x1=\"30\" y1=\"80\" x2=\"210\" y2=\"80\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">区切った区域</text></svg>"
+  },
+  "etymology": "ラテン語 districtus(dis=離して+stringere=しばる:strict と同じ根) → 治める範囲を区切る → 行政区・地区 → (特徴のある)地域(a shopping district)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an area of a town or country, especially one with official borders or particular features."
+    }
+  ],
+  "cautions": [
+    "area=場所(広い)/district=(行政上・特徴で)区切られた地区・区",
+    "a shopping [business] district=商店街[ビジネス街]",
+    "a school district=学区",
+    "region より小さく、町の一部のイメージ"
+  ],
+  "patterns": [
+    {
+      "form": "a shopping district",
+      "meaning": "商店街"
+    },
+    {
+      "form": "a business district",
+      "meaning": "ビジネス街"
+    },
+    {
+      "form": "a school district",
+      "meaning": "学区"
+    },
+    {
+      "form": "the A district",
+      "meaning": "A地区"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "商店街",
+      "en": "Ginza is a famous shopping district.",
+      "ja": "銀座は有名な商店街だ。"
+    },
+    {
+      "source": "original",
+      "label": "ビジネス街",
+      "en": "He works in the business district.",
+      "ja": "彼はビジネス街で働いている。"
+    },
+    {
+      "source": "original",
+      "label": "学区",
+      "en": "Which school district do you live in?",
+      "ja": "どの学区に住んでいますか。"
+    },
+    {
+      "source": "original",
+      "label": "地区",
+      "en": "The old district has narrow streets.",
+      "ja": "その旧地区には細い通りがある。"
+    },
+    {
+      "source": "original",
+      "label": "地区",
+      "en": "The city is divided into ten districts.",
+      "ja": "その市は10の地区に分かれている。"
+    },
+    {
+      "source": "original",
+      "label": "地方",
+      "en": "The Lake District is popular with hikers.",
+      "ja": "湖水地方はハイカーに人気がある。"
+    }
+  ],
+  "check_points": [
+    "area・region・district のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "shopping district などで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1425
+    }
+  ]
+}

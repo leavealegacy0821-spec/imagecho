@@ -1,0 +1,103 @@
+{
+  "word": "site",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/saɪt/",
+  "core_image": {
+    "text": "何かがある・あった・できる、その用地",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"60\" y=\"80\" width=\"120\" height=\"60\" stroke-dasharray=\"5 5\"/><line x1=\"200\" y1=\"140\" x2=\"200\" y2=\"60\"/><line x1=\"200\" y1=\"60\" x2=\"150\" y2=\"60\"/><line x1=\"150\" y1=\"60\" x2=\"150\" y2=\"76\"/><rect x=\"144\" y=\"76\" width=\"12\" height=\"10\"/></g><text x=\"80\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">用地</text></svg>"
+  },
+  "etymology": "ラテン語 situs(置かれた場所。situation と同じ根) → (建物・出来事の)場所・用地 → 遺跡(historic site) → (インターネットの)サイト",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a place where something is, was or will be built; a place where something happened; a website."
+    },
+    {
+      "pos": "動詞",
+      "text": "to build or put something in a particular place."
+    }
+  ],
+  "cautions": [
+    "place=場所(広い)/site=建設用地・遺跡・現場など特定の用途のある場所",
+    "a construction [building] site=建設現場/a historic site=史跡",
+    "on site=現場で",
+    "website=ウェブサイト/sight(光景)・cite(引用する)と同音"
+  ],
+  "patterns": [
+    {
+      "form": "a construction site",
+      "meaning": "建設現場"
+    },
+    {
+      "form": "a historic site",
+      "meaning": "史跡"
+    },
+    {
+      "form": "a World Heritage Site",
+      "meaning": "世界遺産"
+    },
+    {
+      "form": "on site",
+      "meaning": "現場で"
+    },
+    {
+      "form": "a website",
+      "meaning": "ウェブサイト"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "建設現場",
+      "en": "Workers must wear helmets on the construction site.",
+      "ja": "作業員は建設現場でヘルメットをかぶらなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "史跡",
+      "en": "Nara has many historic sites.",
+      "ja": "奈良には多くの史跡がある。"
+    },
+    {
+      "source": "original",
+      "label": "世界遺産",
+      "en": "Mt. Fuji is a World Heritage Site.",
+      "ja": "富士山は世界遺産だ。"
+    },
+    {
+      "source": "original",
+      "label": "用地",
+      "en": "This is the site of the new school.",
+      "ja": "ここが新しい学校の用地だ。"
+    },
+    {
+      "source": "original",
+      "label": "現場で",
+      "en": "A doctor was on site to help.",
+      "ja": "医師が現場で手当てに当たった。"
+    },
+    {
+      "source": "original",
+      "label": "サイト",
+      "en": "Visit our website for more information.",
+      "ja": "詳しくはウェブサイトをご覧ください。"
+    }
+  ],
+  "check_points": [
+    "site・sight・cite の区別ができるか",
+    "historic site の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "site / sight / cite の同音語、World Heritage Site が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1428
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "zone",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/zoʊn/",
+  "core_image": {
+    "text": "目的・特徴で帯のように区切った区域",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"30\" width=\"180\" height=\"100\"/><rect x=\"30\" y=\"60\" width=\"180\" height=\"40\" stroke-dasharray=\"5 5\"/><line x1=\"60\" y1=\"80\" x2=\"80\" y2=\"80\"/><line x1=\"160\" y1=\"80\" x2=\"180\" y2=\"80\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">帯状の区域</text></svg>"
+  },
+  "etymology": "ギリシャ語 zōnē(帯・ベルト) → 地球を帯状に分けた地帯(the tropical zone) → (特定の目的の)区域・ゾーン",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an area that has a particular feature or purpose, or that is different from the areas around it."
+    }
+  ],
+  "cautions": [
+    "area=場所(広い)/zone=特定の目的・特徴で区切られた区域(規則がある)",
+    "a time zone=時間帯(時差の区域)",
+    "a danger [war] zone=危険[戦闘]地帯",
+    "a no-parking zone=駐車禁止区域/comfort zone=居心地のよい領域"
+  ],
+  "patterns": [
+    {
+      "form": "a time zone",
+      "meaning": "時間帯"
+    },
+    {
+      "form": "a danger zone",
+      "meaning": "危険地帯"
+    },
+    {
+      "form": "a no-parking zone",
+      "meaning": "駐車禁止区域"
+    },
+    {
+      "form": "one's comfort zone",
+      "meaning": "居心地のよい領域"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "時間帯",
+      "en": "Japan and Korea are in the same time zone.",
+      "ja": "日本と韓国は同じ時間帯にある。"
+    },
+    {
+      "source": "original",
+      "label": "地帯",
+      "en": "The area near the volcano is a danger zone.",
+      "ja": "火山の近くは危険地帯だ。"
+    },
+    {
+      "source": "original",
+      "label": "区域",
+      "en": "This is a no-parking zone.",
+      "ja": "ここは駐車禁止区域だ。"
+    },
+    {
+      "source": "original",
+      "label": "居心地のよい領域",
+      "en": "Try stepping out of your comfort zone.",
+      "ja": "慣れた範囲から一歩踏み出してみよう。"
+    },
+    {
+      "source": "original",
+      "label": "地帯",
+      "en": "Palm trees grow in the tropical zone.",
+      "ja": "ヤシは熱帯で育つ。"
+    },
+    {
+      "source": "original",
+      "label": "区域",
+      "en": "The school is in a quiet residential zone.",
+      "ja": "その学校は静かな住宅区域にある。"
+    }
+  ],
+  "check_points": [
+    "a time zone の意味を言えるか",
+    "comfort zone の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "time zone、comfort zone が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1426
+    }
+  ]
+}

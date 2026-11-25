@@ -1,0 +1,93 @@
+{
+  "word": "area",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈeriə/",
+  "core_image": {
+    "text": "まわりと区切られた、ある広さの場所",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"30\" width=\"180\" height=\"100\"/><path d=\"M60 50 L150 46 L180 90 L120 116 L56 100 Z\" stroke-dasharray=\"4 4\"/></g><text x=\"116\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ある広さ</text></svg>"
+  },
+  "etymology": "ラテン語 area(空き地・広場) → ある広さの場所・地域 → 面積 → (研究・活動の)分野・領域",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a part of a place, town or country; the size of a surface; a subject or range of activity."
+    }
+  ],
+  "cautions": [
+    "area=区切られたある広さの場所(最も広い・日常)/region=地理・文化でまとまる広い地域/district=行政の区",
+    "面積:The area of the room is 20 m².",
+    "分野:an area of research=研究分野",
+    "in this area=この地域で・この分野で"
+  ],
+  "patterns": [
+    {
+      "form": "in the area",
+      "meaning": "この辺りで"
+    },
+    {
+      "form": "a residential area",
+      "meaning": "住宅地"
+    },
+    {
+      "form": "the area of A",
+      "meaning": "Aの面積"
+    },
+    {
+      "form": "an area of A",
+      "meaning": "Aの分野"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "地域",
+      "en": "There are many good restaurants in this area.",
+      "ja": "この辺りにはいいレストランがたくさんある。"
+    },
+    {
+      "source": "original",
+      "label": "住宅地",
+      "en": "We live in a quiet residential area.",
+      "ja": "私たちは静かな住宅地に住んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "面積",
+      "en": "What is the area of this field?",
+      "ja": "この畑の面積はどれくらいですか。"
+    },
+    {
+      "source": "original",
+      "label": "分野",
+      "en": "Her main area of research is genetics.",
+      "ja": "彼女の主な研究分野は遺伝学だ。"
+    },
+    {
+      "source": "original",
+      "label": "区域",
+      "en": "Smoking is not allowed in this area.",
+      "ja": "この区域は禁煙だ。"
+    },
+    {
+      "source": "original",
+      "label": "地域",
+      "en": "Rural areas are losing young people.",
+      "ja": "地方では若者が減っている。"
+    }
+  ],
+  "check_points": [
+    "area の意味(地域・面積・分野)を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "rural area、area of research が長文で多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1423
+    }
+  ]
+}

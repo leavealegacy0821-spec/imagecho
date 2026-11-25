@@ -1,0 +1,103 @@
+{
+  "word": "place",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/pleɪs/",
+  "core_image": {
+    "text": "ものや人が、そこにある一点・位置",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polygon points=\"120,40 134,70 120,100 106,70\"/><circle cx=\"120\" cy=\"64\" r=\"6\"/><line x1=\"120\" y1=\"100\" x2=\"120\" y2=\"140\"/><line x1=\"80\" y1=\"140\" x2=\"160\" y2=\"140\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">その場所</text></svg>"
+  },
+  "etymology": "ラテン語 platea(広い通り・広場。plaza と同じ根) → 広場 → 場所・所 → 位置・順位(first place) → (動詞)置く・(注文を)出す",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a particular position, area, building, town, etc.; a position in a race or competition."
+    },
+    {
+      "pos": "動詞",
+      "text": "to put something in a particular position; to give an order."
+    }
+  ],
+  "cautions": [
+    "place=特定の場所・位置(最も広い)/space=あいている空間",
+    "take place=(行事が)行われる・起こる(頻出)",
+    "in place of A=Aの代わりに/out of place=場違いで",
+    "動詞 place an order=注文する/place A on B=AをBに置く"
+  ],
+  "patterns": [
+    {
+      "form": "take place",
+      "meaning": "行われる"
+    },
+    {
+      "form": "in place of A",
+      "meaning": "Aの代わりに"
+    },
+    {
+      "form": "out of place",
+      "meaning": "場違いで"
+    },
+    {
+      "form": "first place",
+      "meaning": "1位"
+    },
+    {
+      "form": "place an order",
+      "meaning": "注文する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "行われる",
+      "en": "The festival takes place every August.",
+      "ja": "その祭りは毎年8月に行われる。"
+    },
+    {
+      "source": "original",
+      "label": "場所",
+      "en": "This is a nice place for a picnic.",
+      "ja": "ここはピクニックにいい場所だ。"
+    },
+    {
+      "source": "original",
+      "label": "の代わりに",
+      "en": "You can use honey in place of sugar.",
+      "ja": "砂糖の代わりにはちみつを使ってもいい。"
+    },
+    {
+      "source": "original",
+      "label": "場違い",
+      "en": "I felt out of place at the party.",
+      "ja": "そのパーティーでは場違いな気がした。"
+    },
+    {
+      "source": "original",
+      "label": "1位",
+      "en": "She won first place in the contest.",
+      "ja": "彼女はコンテストで1位になった。"
+    },
+    {
+      "source": "original",
+      "label": "置く",
+      "en": "Place the books on the shelf.",
+      "ja": "本を棚に置いてください。"
+    }
+  ],
+  "check_points": [
+    "take place の意味を言えるか",
+    "in place of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "take place、in place of が熟語で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1421
+    }
+  ]
+}

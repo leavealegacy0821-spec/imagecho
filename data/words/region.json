@@ -1,0 +1,94 @@
+{
+  "word": "region",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈriːdʒən/",
+  "core_image": {
+    "text": "土地や文化でまとまった、広い地方",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 60 Q60 30 120 40 Q180 30 220 70 Q200 130 120 120 Q40 130 20 60 Z\"/><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"120\" stroke-dasharray=\"4 4\"/><circle cx=\"70\" cy=\"80\" r=\"4\"/><circle cx=\"170\" cy=\"86\" r=\"4\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まとまった地方</text></svg>"
+  },
+  "etymology": "ラテン語 regio(境界・方角。regere=まっすぐ導く・治める:rule・regular と同じ根) → 治められる範囲 → 地方・地域 → (体の)部位 → in the region of A=約A",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a large area of a country or the world, with particular features; a part of the body."
+    }
+  ],
+  "cautions": [
+    "area=ある広さの場所(広い)/region=気候・文化・地理でまとまる広い地方(the Kanto region)",
+    "in the region of A=約A(=about)",
+    "regional=地方の(regional differences)",
+    "(体の)部位:the lower back region"
+  ],
+  "patterns": [
+    {
+      "form": "the A region",
+      "meaning": "A地方"
+    },
+    {
+      "form": "in the region of A",
+      "meaning": "約A"
+    },
+    {
+      "form": "regional",
+      "meaning": "地方の"
+    },
+    {
+      "form": "a mountainous region",
+      "meaning": "山岳地帯"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "地方",
+      "en": "Tokyo is in the Kanto region.",
+      "ja": "東京は関東地方にある。"
+    },
+    {
+      "source": "original",
+      "label": "地方",
+      "en": "The Arctic region is getting warmer.",
+      "ja": "北極地方は温暖化している。"
+    },
+    {
+      "source": "original",
+      "label": "約",
+      "en": "The project cost in the region of 2 million dollars.",
+      "ja": "その計画には約200万ドルかかった。"
+    },
+    {
+      "source": "original",
+      "label": "地方の",
+      "en": "There are many regional differences in food.",
+      "ja": "食べ物には地方ごとの違いが多い。"
+    },
+    {
+      "source": "original",
+      "label": "地帯",
+      "en": "Tea is grown in the mountainous region.",
+      "ja": "その山岳地帯ではお茶が栽培されている。"
+    },
+    {
+      "source": "original",
+      "label": "部位",
+      "en": "He felt pain in the chest region.",
+      "ja": "彼は胸のあたりに痛みを感じた。"
+    }
+  ],
+  "check_points": [
+    "area と region のちがいを言えるか",
+    "in the region of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "region、regional が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1424
+    }
+  ]
+}
