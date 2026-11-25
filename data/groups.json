@@ -449,7 +449,7 @@
     },
     {
       "title": "使い分け:望む",
-      "note": "want=欠けていてほしい ／ wish=かなわないことを思う ／ hope=実現しそうなことを望む ／ long for=遠くのものを長く望む ／ eager=〜したくてたまらない ／ keen=熱心で〜したがる ／ willing=頼まれれば〜する",
+      "note": "want=欠けていてほしい ／ wish=かなわないことを思う ／ hope=実現しそうなことを望む ／ long for=遠くのものを長く望む ／ eager=〜したくてたまらない ／ keen=熱心で〜したがる ／ willing=頼まれれば〜する ／ desire=手の届かないものを強く求める(改まった語) ／ ambition=高い目標をめざして上へ進む大望",
       "words": [
         "want",
         "wish",
@@ -458,7 +458,9 @@
         "eager",
         "keen",
         "willing",
-        "anxious"
+        "anxious",
+        "desire",
+        "ambition"
       ]
     },
     {
@@ -1247,7 +1249,7 @@
     },
     {
       "title": "使い分け:目的・意図",
-      "note": "purpose=何のためかという目的 ／ aim=ねらい ／ objective=達成目標 ／ end=最終目的 ／ object=目的・対象 ／ point=要点・意味",
+      "note": "purpose=何のためかという目的 ／ aim=ねらい ／ objective=達成目標 ／ end=最終目的 ／ object=目的・対象 ／ point=要点・意味 ／ intention=心の中で向けている「つもり」(have no intention of doing)",
       "words": [
         "purpose",
         "aim",
@@ -1255,7 +1257,17 @@
         "end",
         "object",
         "point",
-        "intend"
+        "intend",
+        "intention"
+      ]
+    },
+    {
+      "title": "使い分け:動機・衝動",
+      "note": "motive=内側から人を行動へ動かすわけ(犯罪の動機・下心) ／ incentive=外からぶら下げるごほうび・励み ／ impulse=考えるより先に突き動かす一瞬の力(on impulse)",
+      "words": [
+        "motive",
+        "incentive",
+        "impulse"
       ]
     },
     {
@@ -2616,7 +2628,7 @@
     },
     {
       "title": "使い分け:気持ち(名詞)",
-      "note": "joy=胸がはずむ大きな喜び ／ relief=重荷が下りてほっとする安心 ／ sorrow=心にのしかかる深い悲しみ ／ grief=大切な人を失った悲嘆 ／ anger=むかっとこみ上げる怒り ／ rage=おさえきれない激しい怒り ／ fear=危険を感じて身がすくむ恐怖 ／ anxiety=先のことで胸がしめつけられる不安 ／ shame=したことを恥じる気持ち(It's a shame=残念) ／ guilt=悪いことをしたと心がとがめる罪悪感・罪",
+      "note": "joy=胸がはずむ大きな喜び ／ relief=重荷が下りてほっとする安心 ／ sorrow=心にのしかかる深い悲しみ ／ grief=大切な人を失った悲嘆 ／ anger=むかっとこみ上げる怒り ／ rage=おさえきれない激しい怒り ／ fear=危険を感じて身がすくむ恐怖 ／ anxiety=先のことで胸がしめつけられる不安 ／ shame=したことを恥じる気持ち(It's a shame=残念) ／ guilt=悪いことをしたと心がとがめる罪悪感・罪 ／ emotion=心をゆさぶってわき上がる感情(理性と対) ／ feeling=心や体でじかに感じたもの(予感・感覚も) ／ passion=身を焦がすほど燃える情熱・熱中 ／ sentiment=考えとまざったしみじみした気持ち・世論",
       "words": [
         "joy",
         "relief",
@@ -2627,7 +2639,11 @@
         "fear",
         "anxiety",
         "shame",
-        "guilt"
+        "guilt",
+        "emotion",
+        "feeling",
+        "passion",
+        "sentiment"
       ]
     },
     {

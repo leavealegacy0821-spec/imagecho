@@ -1,0 +1,94 @@
+{
+  "word": "intention",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ɪnˈtenʃən/",
+  "core_image": {
+    "text": "心の中で、ある方向へ向けている「つもり」",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"100\"/><line x1=\"60\" y1=\"74\" x2=\"72\" y2=\"100\"/><circle cx=\"190\" cy=\"80\" r=\"22\"/><circle cx=\"190\" cy=\"80\" r=\"11\"/><circle cx=\"190\" cy=\"80\" r=\"2\"/><line x1=\"76\" y1=\"50\" x2=\"166\" y2=\"74\" stroke-dasharray=\"5 5\"/><polyline points=\"160.2,68.5 166,74 158.2,75.9\"/></g><text x=\"112\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">つもり</text></svg>"
+  },
+  "etymology": "in-(〜の方へ)+ tendere(のばす。tend・intend と同じ根) → 心をある方向へのばすこと → 意図・つもり",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "what you plan or mean to do."
+    }
+  ],
+  "cautions": [
+    "intention of doing / to do=〜するつもり(have no intention of doing=〜するつもりは全くない が定番)",
+    "with the intention of doing=〜するつもりで(with the purpose of doing とほぼ同じ)",
+    "purpose=何のためかという目的/intention=本人の心の中の「つもり」(実行するかは別)",
+    "形容詞 intentional=故意の(⇔ accidental)。動詞は intend(intend to do)"
+  ],
+  "patterns": [
+    {
+      "form": "have no intention of doing",
+      "meaning": "〜するつもりは全くない"
+    },
+    {
+      "form": "with the intention of doing",
+      "meaning": "〜するつもりで"
+    },
+    {
+      "form": "good intentions",
+      "meaning": "善意"
+    },
+    {
+      "form": "A's intention to do",
+      "meaning": "〜しようというAの意図"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "全く〜ない",
+      "en": "I have no intention of giving up now.",
+      "ja": "今あきらめるつもりはまったくない。"
+    },
+    {
+      "source": "original",
+      "label": "with",
+      "en": "He went to Tokyo with the intention of finding a job.",
+      "ja": "彼は仕事を見つけるつもりで東京へ行った。"
+    },
+    {
+      "source": "original",
+      "label": "to do",
+      "en": "The company announced its intention to build a new factory.",
+      "ja": "その会社は新工場を建てる意向を発表した。"
+    },
+    {
+      "source": "original",
+      "label": "善意",
+      "en": "She acted with good intentions, but the result was terrible.",
+      "ja": "彼女は善意で行動したが、結果はひどかった。"
+    },
+    {
+      "source": "original",
+      "label": "意図",
+      "en": "It was never my intention to hurt you.",
+      "ja": "あなたを傷つけるつもりなど少しもなかった。"
+    },
+    {
+      "source": "original",
+      "label": "形容詞",
+      "en": "The referee decided the foul was intentional.",
+      "ja": "審判はその反則を故意だと判断した。"
+    }
+  ],
+  "check_points": [
+    "have no intention of doing の意味を言えるか",
+    "intentional の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "have no intention of doing / with the intention of doing が熟語・英作文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1995
+    }
+  ]
+}

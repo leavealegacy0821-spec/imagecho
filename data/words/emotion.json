@@ -1,0 +1,98 @@
+{
+  "word": "emotion",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ɪˈmoʊʃən/",
+  "core_image": {
+    "text": "心の中から外へわき上がり、心をゆさぶる気持ち",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"106\" y2=\"100\"/><line x1=\"120\" y1=\"74\" x2=\"134\" y2=\"100\"/><circle cx=\"120\" cy=\"84\" r=\"5\"/><line x1=\"112\" y1=\"78\" x2=\"70\" y2=\"44\"/><polyline points=\"73,51.4 70,44 77.9,45.4\"/><line x1=\"128\" y1=\"78\" x2=\"170\" y2=\"44\"/><polyline points=\"162.1,45.4 170,44 167,51.4\"/><path d=\"M60 70 Q66 64 72 70 Q78 76 84 70\"/><path d=\"M156 70 Q162 64 168 70 Q174 76 180 70\"/></g><text x=\"120\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">わき上がる</text></svg>"
+  },
+  "etymology": "ラテン語 e-(外へ)+ movere(動かす。move・motion と同じ根) → 心を外へ動かすもの → 心をゆさぶる強い気持ち → 感情・情緒",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a strong feeling such as love, fear, or anger; the part of a person's character that consists of feelings."
+    }
+  ],
+  "cautions": [
+    "emotion=心が大きくゆさぶられる「感情」(喜び・怒り・恐れなど)。理性(reason)と対にされる",
+    "feeling=感じとった気持ち・感覚(おだやかなものも、体の感覚も)/passion=燃えるような激しい感情・熱中/sentiment=考えと結びついた気持ち・意見",
+    "show / hide one's emotions=感情を表に出す/隠す(数えられる名詞で複数形が多い)",
+    "形容詞 emotional=感情の・感情的な(an emotional speech=感動的なスピーチ)"
+  ],
+  "patterns": [
+    {
+      "form": "express one's emotions",
+      "meaning": "感情を表す"
+    },
+    {
+      "form": "hide one's emotions",
+      "meaning": "感情を隠す"
+    },
+    {
+      "form": "with emotion",
+      "meaning": "感情をこめて・感極まって"
+    },
+    {
+      "form": "emotion and reason",
+      "meaning": "感情と理性"
+    },
+    {
+      "form": "mixed emotions",
+      "meaning": "複雑な気持ち"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "表す",
+      "en": "Some children find it hard to express their emotions in words.",
+      "ja": "気持ちをことばで表すのが苦手な子どももいる。"
+    },
+    {
+      "source": "original",
+      "label": "隠す",
+      "en": "He tried to hide his emotions, but his eyes were full of tears.",
+      "ja": "彼は感情を隠そうとしたが、目は涙でいっぱいだった。"
+    },
+    {
+      "source": "original",
+      "label": "with",
+      "en": "Her voice was shaking with emotion when she won the prize.",
+      "ja": "賞を取ったとき、彼女の声は感極まってふるえていた。"
+    },
+    {
+      "source": "original",
+      "label": "理性",
+      "en": "We should not let emotion take over from reason.",
+      "ja": "感情に理性をのっとらせてはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "複雑",
+      "en": "I left my hometown with mixed emotions.",
+      "ja": "私は複雑な気持ちで故郷を離れた。"
+    },
+    {
+      "source": "original",
+      "label": "形容詞",
+      "en": "Music can have a strong emotional effect on listeners.",
+      "ja": "音楽は聞き手の心に強い影響を与えることがある。"
+    }
+  ],
+  "check_points": [
+    "emotion と feeling のちがいを言えるか",
+    "emotional の意味(感情の・感情的な)を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "評論で「感情 ⇔ 理性」の対比として出る。emotional(感情的な)も頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1989
+    }
+  ]
+}

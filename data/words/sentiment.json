@@ -1,0 +1,94 @@
+{
+  "word": "sentiment",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈsentəmənt/",
+  "core_image": {
+    "text": "考えとまざった、しみじみした気持ち",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70,74 92,86 110,84\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"100\"/><rect x=\"110\" y=\"70\" width=\"28\" height=\"32\"/><circle cx=\"124\" cy=\"82\" r=\"5\"/><line x1=\"124\" y1=\"87\" x2=\"124\" y2=\"98\"/><circle cx=\"88\" cy=\"36\" r=\"3\"/><circle cx=\"100\" cy=\"26\" r=\"4\"/><ellipse cx=\"140\" cy=\"22\" rx=\"28\" ry=\"12\"/></g><text x=\"192\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しみじみ</text></svg>"
+  },
+  "etymology": "ラテン語 sentire(感じる。sense・sentence と同じ根) → 感じ方 → ①(考えをふくむ)気持ち・心情 ②(ある事への)意見・感想 ③感傷・情にもろいこと",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a feeling or opinion, especially one based on emotions; feelings of pity, love, or sadness that may be too strong."
+    }
+  ],
+  "cautions": [
+    "emotion=その場でわき上がる感情/sentiment=考えと結びついた、ある程度つづく気持ち・意見",
+    "public sentiment=世論・国民感情、anti-war sentiment=反戦の気運(「意見・風潮」の意味で評論に出る)",
+    "There is no room for sentiment in 〜=〜に感傷の入る余地はない",
+    "形容詞 sentimental=感傷的な・思い出のある(sentimental value=思い出としての価値)"
+  ],
+  "patterns": [
+    {
+      "form": "public sentiment",
+      "meaning": "世論・国民感情"
+    },
+    {
+      "form": "anti-A sentiment",
+      "meaning": "反Aの気運"
+    },
+    {
+      "form": "share A's sentiments",
+      "meaning": "Aと同じ気持ちだ"
+    },
+    {
+      "form": "sentimental value",
+      "meaning": "思い出としての価値"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "世論",
+      "en": "Public sentiment turned against the new tax.",
+      "ja": "世論は新しい税に反対の方向へ傾いた。"
+    },
+    {
+      "source": "original",
+      "label": "気運",
+      "en": "There was strong anti-war sentiment among young people.",
+      "ja": "若者の間には強い反戦の気運があった。"
+    },
+    {
+      "source": "original",
+      "label": "同じ気持ち",
+      "en": "I share your sentiments about the plan.",
+      "ja": "その計画については私もあなたと同じ気持ちだ。"
+    },
+    {
+      "source": "original",
+      "label": "感傷",
+      "en": "Business decisions should be made without sentiment.",
+      "ja": "ビジネスの決断は感傷ぬきで下すべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "思い出",
+      "en": "This old watch has great sentimental value to me.",
+      "ja": "この古い時計は私にとって思い出の品として大切だ。"
+    },
+    {
+      "source": "original",
+      "label": "心情",
+      "en": "The letter expressed her sentiments of gratitude.",
+      "ja": "その手紙には彼女の感謝の心情がつづられていた。"
+    }
+  ],
+  "check_points": [
+    "public sentiment の意味を言えるか",
+    "sentimental value の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "評論で「世論・気運」の意味(public sentiment)で出る。sentimental も頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1992
+    }
+  ]
+}
