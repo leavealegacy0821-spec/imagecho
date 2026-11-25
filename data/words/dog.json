@@ -1,0 +1,94 @@
+{
+  "word": "dog",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/dɔːɡ/",
+  "core_image": {
+    "text": "人になつく犬・しつこくついて回る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><ellipse cx=\"110\" cy=\"96\" rx=\"36\" ry=\"16\"/><circle cx=\"156\" cy=\"80\" r=\"14\"/><path d=\"M160 68 L168 56 L170 72\"/><line x1=\"86\" y1=\"110\" x2=\"86\" y2=\"140\"/><line x1=\"134\" y1=\"110\" x2=\"134\" y2=\"140\"/><path d=\"M74 90 Q60 70 66 60\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いぬ</text></svg>"
+  },
+  "etymology": "古い英語 docga(犬) → 犬 → (動詞)犬のようにしつこくついて回る・(問題が)つきまとう",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a common animal kept as a pet or for work."
+    },
+    {
+      "pos": "動詞",
+      "text": "(of a problem) to cause trouble for a long time; to follow someone closely."
+    }
+  ],
+  "cautions": [
+    "puppy=子犬",
+    "walk the dog=犬を散歩させる",
+    "be dogged by A=Aにつきまとわれる",
+    "It's raining cats and dogs.=どしゃぶりだ(古い言い方)"
+  ],
+  "patterns": [
+    {
+      "form": "walk the dog",
+      "meaning": "犬を散歩させる"
+    },
+    {
+      "form": "be dogged by A",
+      "meaning": "Aにつきまとわれる"
+    },
+    {
+      "form": "a guide dog",
+      "meaning": "盲導犬"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "犬",
+      "en": "I have a dog named Pochi.",
+      "ja": "ポチという名前の犬を飼っている。"
+    },
+    {
+      "source": "original",
+      "label": "散歩",
+      "en": "I walk the dog every morning.",
+      "ja": "毎朝犬を散歩させる。"
+    },
+    {
+      "source": "original",
+      "label": "つきまとう",
+      "en": "His career was dogged by injuries.",
+      "ja": "彼の選手生活はけがにつきまとわれた。"
+    },
+    {
+      "source": "original",
+      "label": "盲導犬",
+      "en": "Guide dogs help blind people.",
+      "ja": "盲導犬は目の不自由な人を助ける。"
+    },
+    {
+      "source": "original",
+      "label": "子犬",
+      "en": "The puppy is only two months old.",
+      "ja": "その子犬はまだ生後2か月だ。"
+    },
+    {
+      "source": "original",
+      "label": "ほえる",
+      "en": "The dog barked at the mailman.",
+      "ja": "犬が郵便配達人にほえた。"
+    }
+  ],
+  "check_points": [
+    "be dogged by A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2193
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "horse",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/hɔːrs/",
+  "core_image": {
+    "text": "人を乗せて走る馬",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><ellipse cx=\"110\" cy=\"84\" rx=\"44\" ry=\"18\"/><path d=\"M150 76 L170 40 L186 46 L172 80\"/><line x1=\"80\" y1=\"100\" x2=\"76\" y2=\"140\"/><line x1=\"96\" y1=\"100\" x2=\"96\" y2=\"140\"/><line x1=\"130\" y1=\"100\" x2=\"130\" y2=\"140\"/><line x1=\"146\" y1=\"100\" x2=\"150\" y2=\"140\"/><path d=\"M66 80 Q50 90 54 110\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">うま</text></svg>"
+  },
+  "etymology": "古い英語 hors(馬) → 馬 → horsepower=馬力",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a large animal that people ride or use for pulling things."
+    }
+  ],
+  "cautions": [
+    "ride a horse=馬に乗る/on horseback=馬に乗って",
+    "horsepower=馬力",
+    "straight from the horse's mouth=当事者から直接(聞いた)",
+    "hoarse(声がかれた)と同じ発音"
+  ],
+  "patterns": [
+    {
+      "form": "ride a horse",
+      "meaning": "馬に乗る"
+    },
+    {
+      "form": "on horseback",
+      "meaning": "馬に乗って"
+    },
+    {
+      "form": "horsepower",
+      "meaning": "馬力"
+    },
+    {
+      "form": "from the horse's mouth",
+      "meaning": "本人から直接"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "乗る",
+      "en": "Can you ride a horse?",
+      "ja": "馬に乗れる?"
+    },
+    {
+      "source": "original",
+      "label": "馬に乗って",
+      "en": "They traveled on horseback.",
+      "ja": "彼らは馬に乗って旅した。"
+    },
+    {
+      "source": "original",
+      "label": "直接",
+      "en": "I heard it straight from the horse's mouth.",
+      "ja": "それは本人から直接聞いた。"
+    },
+    {
+      "source": "original",
+      "label": "馬力",
+      "en": "The engine has 200 horsepower.",
+      "ja": "そのエンジンは200馬力だ。"
+    },
+    {
+      "source": "original",
+      "label": "競馬",
+      "en": "Horse racing is popular in England.",
+      "ja": "イギリスでは競馬が人気だ。"
+    },
+    {
+      "source": "original",
+      "label": "引く",
+      "en": "In the past, horses pulled carts.",
+      "ja": "昔は馬が荷車を引いた。"
+    }
+  ],
+  "check_points": [
+    "ride a horse の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2195
+    }
+  ]
+}

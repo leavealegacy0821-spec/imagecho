@@ -1,0 +1,89 @@
+{
+  "word": "bird",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/bɜːrd/",
+  "core_image": {
+    "text": "羽で空を飛ぶ鳥",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"110\" cy=\"90\" rx=\"34\" ry=\"20\"/><circle cx=\"150\" cy=\"74\" r=\"12\"/><polygon points=\"160,72 174,76 160,80\"/><path d=\"M100 80 Q80 50 60 60 Q80 70 96 86\"/><line x1=\"100\" y1=\"110\" x2=\"100\" y2=\"130\"/><line x1=\"116\" y1=\"110\" x2=\"116\" y2=\"130\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">とり</text></svg>"
+  },
+  "etymology": "古い英語 bridd(ひな鳥) → 鳥",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an animal with feathers and wings that usually can fly."
+    }
+  ],
+  "cautions": [
+    "bird=鳥(広い)",
+    "kill two birds with one stone=一石二鳥",
+    "Birds of a feather flock together.=類は友を呼ぶ",
+    "early bird=早起きの人"
+  ],
+  "patterns": [
+    {
+      "form": "kill two birds with one stone",
+      "meaning": "一石二鳥"
+    },
+    {
+      "form": "Birds of a feather flock together.",
+      "meaning": "類は友を呼ぶ"
+    },
+    {
+      "form": "a bird's-eye view",
+      "meaning": "鳥瞰図・全体像"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "鳥",
+      "en": "Birds were singing in the trees.",
+      "ja": "鳥が木でさえずっていた。"
+    },
+    {
+      "source": "original",
+      "label": "一石二鳥",
+      "en": "Walking to school kills two birds with one stone.",
+      "ja": "歩いて通学すれば一石二鳥だ。"
+    },
+    {
+      "source": "original",
+      "label": "類は友",
+      "en": "Birds of a feather flock together.",
+      "ja": "類は友を呼ぶ。"
+    },
+    {
+      "source": "original",
+      "label": "全体像",
+      "en": "This map gives a bird's-eye view of the city.",
+      "ja": "この地図で町全体が見わたせる。"
+    },
+    {
+      "source": "original",
+      "label": "渡り鳥",
+      "en": "Some birds fly south for the winter.",
+      "ja": "冬に南へ渡る鳥もいる。"
+    },
+    {
+      "source": "original",
+      "label": "巣",
+      "en": "The bird built a nest in the tree.",
+      "ja": "鳥が木に巣を作った。"
+    }
+  ],
+  "check_points": [
+    "kill two birds with one stone の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "ことわざで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2190
+    }
+  ]
+}

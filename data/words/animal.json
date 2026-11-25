@@ -1,0 +1,98 @@
+{
+  "word": "animal",
+  "pos": [
+    "名詞",
+    "形容詞"
+  ],
+  "ipa": "/ˈænɪml/",
+  "core_image": {
+    "text": "息をして自分で動く生き物(動物)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><ellipse cx=\"110\" cy=\"96\" rx=\"40\" ry=\"20\"/><circle cx=\"160\" cy=\"80\" r=\"14\"/><line x1=\"84\" y1=\"112\" x2=\"84\" y2=\"140\"/><line x1=\"136\" y1=\"112\" x2=\"136\" y2=\"140\"/><path d=\"M70 92 Q56 80 60 70\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どうぶつ</text></svg>"
+  },
+  "etymology": "ラテン語 anima(息・いのち) → 息をするもの → 動物",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a living thing that can move and breathe, such as a dog; any living creature that is not a plant."
+    },
+    {
+      "pos": "形容詞",
+      "text": "relating to the body, not the mind."
+    }
+  ],
+  "cautions": [
+    "animal=動物(広い:人間をふくむことも)/creature=生き物",
+    "wild animals=野生動物/farm animals=家畜",
+    "animal rights=動物の権利",
+    "anima(息)から animate=生き生きさせる"
+  ],
+  "patterns": [
+    {
+      "form": "wild animals",
+      "meaning": "野生動物"
+    },
+    {
+      "form": "farm animals",
+      "meaning": "家畜"
+    },
+    {
+      "form": "animal rights",
+      "meaning": "動物の権利"
+    },
+    {
+      "form": "a social animal",
+      "meaning": "社会的動物"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "動物",
+      "en": "Elephants are the largest land animals.",
+      "ja": "ゾウは最大の陸上動物だ。"
+    },
+    {
+      "source": "original",
+      "label": "野生",
+      "en": "Many wild animals live in the forest.",
+      "ja": "その森には多くの野生動物がすむ。"
+    },
+    {
+      "source": "original",
+      "label": "家畜",
+      "en": "Cows and pigs are farm animals.",
+      "ja": "牛や豚は家畜だ。"
+    },
+    {
+      "source": "original",
+      "label": "社会的",
+      "en": "Humans are social animals.",
+      "ja": "人間は社会的動物だ。"
+    },
+    {
+      "source": "original",
+      "label": "権利",
+      "en": "She works for animal rights.",
+      "ja": "彼女は動物の権利のために活動している。"
+    },
+    {
+      "source": "original",
+      "label": "実験",
+      "en": "They do not test their products on animals.",
+      "ja": "その会社は動物実験をしていない。"
+    }
+  ],
+  "check_points": [
+    "animal の語源(息)がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2189
+    }
+  ]
+}

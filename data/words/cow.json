@@ -1,0 +1,98 @@
+{
+  "word": "cow",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/kaʊ/",
+  "core_image": {
+    "text": "乳をとるために飼うめ牛",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"60\" y=\"70\" width=\"100\" height=\"40\"/><circle cx=\"176\" cy=\"80\" r=\"16\"/><path d=\"M168 64 L164 54 M184 64 L188 54\"/><line x1=\"70\" y1=\"110\" x2=\"70\" y2=\"140\"/><line x1=\"90\" y1=\"110\" x2=\"90\" y2=\"140\"/><line x1=\"130\" y1=\"110\" x2=\"130\" y2=\"140\"/><line x1=\"150\" y1=\"110\" x2=\"150\" y2=\"140\"/><circle cx=\"96\" cy=\"86\" r=\"6\"/><circle cx=\"130\" cy=\"92\" r=\"8\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">うし</text></svg>"
+  },
+  "etymology": "古い英語 cū(め牛) → め牛・乳牛 → (動詞)おどしてすくませる(be cowed)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a large female farm animal kept for milk or meat."
+    },
+    {
+      "pos": "動詞",
+      "text": "to frighten someone into doing what you want."
+    }
+  ],
+  "cautions": [
+    "cow=め牛(乳牛)/bull=お牛/ox=(去勢した)お牛/cattle=牛(全体・複数扱い)",
+    "beef=牛肉(動物と肉で語がちがう)",
+    "be cowed=おじけづく",
+    "till the cows come home=いつまでも"
+  ],
+  "patterns": [
+    {
+      "form": "milk a cow",
+      "meaning": "牛の乳をしぼる"
+    },
+    {
+      "form": "cattle",
+      "meaning": "牛(全体)"
+    },
+    {
+      "form": "be cowed",
+      "meaning": "おじけづく"
+    },
+    {
+      "form": "till the cows come home",
+      "meaning": "いつまでも"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "乳牛",
+      "en": "The farmer has thirty cows.",
+      "ja": "その農家は牛を30頭飼っている。"
+    },
+    {
+      "source": "original",
+      "label": "乳しぼり",
+      "en": "We tried milking a cow.",
+      "ja": "牛の乳しぼりをしてみた。"
+    },
+    {
+      "source": "original",
+      "label": "牛全体",
+      "en": "The cattle were grazing in the field.",
+      "ja": "牛たちが牧場で草を食べていた。"
+    },
+    {
+      "source": "original",
+      "label": "牛肉",
+      "en": "Beef comes from cows.",
+      "ja": "牛肉は牛からとれる。"
+    },
+    {
+      "source": "original",
+      "label": "おじけづく",
+      "en": "The people were cowed by the soldiers.",
+      "ja": "人々は兵士たちにおびえすくんだ。"
+    },
+    {
+      "source": "original",
+      "label": "いつまでも",
+      "en": "You can argue till the cows come home, but I won't change my mind.",
+      "ja": "いつまで言い争っても、私の考えは変わらない。"
+    }
+  ],
+  "check_points": [
+    "cow / bull / cattle / beef のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "cattle(複数扱い)、動物と肉の語のちがいが出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2196
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "word": "insect",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈɪnsekt/",
+  "core_image": {
+    "text": "体がくびれて足が6本の虫(昆虫)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"80\" cy=\"80\" r=\"10\"/><ellipse cx=\"110\" cy=\"80\" rx=\"14\" ry=\"10\"/><ellipse cx=\"150\" cy=\"80\" rx=\"22\" ry=\"14\"/><line x1=\"104\" y1=\"90\" x2=\"94\" y2=\"110\"/><line x1=\"110\" y1=\"90\" x2=\"110\" y2=\"112\"/><line x1=\"116\" y1=\"90\" x2=\"126\" y2=\"110\"/><line x1=\"104\" y1=\"70\" x2=\"94\" y2=\"50\"/><line x1=\"110\" y1=\"70\" x2=\"110\" y2=\"48\"/><line x1=\"116\" y1=\"70\" x2=\"126\" y2=\"50\"/><line x1=\"76\" y1=\"70\" x2=\"66\" y2=\"56\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こんちゅう</text></svg>"
+  },
+  "etymology": "ラテン語 insectum(in-=中に + secare=切る → 切れこみの入ったもの:section と同じ根) → 体にくびれのある虫=昆虫",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a small animal with six legs and a body divided into three parts."
+    }
+  ],
+  "cautions": [
+    "insect=昆虫(6本足)/bug=(口語)虫・(コンピューターの)不具合/worm=ミミズなど足のない虫",
+    "spider は8本足なので insect ではない",
+    "insect bites=虫さされ"
+  ],
+  "patterns": [
+    {
+      "form": "insect bites",
+      "meaning": "虫さされ"
+    },
+    {
+      "form": "an insect repellent",
+      "meaning": "虫よけ"
+    },
+    {
+      "form": "bug",
+      "meaning": "虫(口語)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "昆虫",
+      "en": "Ants and bees are insects.",
+      "ja": "アリやハチは昆虫だ。"
+    },
+    {
+      "source": "original",
+      "label": "8本足",
+      "en": "A spider is not an insect because it has eight legs.",
+      "ja": "クモは足が8本なので昆虫ではない。"
+    },
+    {
+      "source": "original",
+      "label": "虫さされ",
+      "en": "I have insect bites all over my legs.",
+      "ja": "脚じゅう虫さされだらけだ。"
+    },
+    {
+      "source": "original",
+      "label": "虫よけ",
+      "en": "Use insect repellent in the forest.",
+      "ja": "森では虫よけを使いなさい。"
+    },
+    {
+      "source": "original",
+      "label": "数",
+      "en": "There are more than a million kinds of insects.",
+      "ja": "昆虫は100万種以上いる。"
+    },
+    {
+      "source": "original",
+      "label": "口語",
+      "en": "There's a bug on your shirt.",
+      "ja": "シャツに虫がついてるよ。"
+    }
+  ],
+  "check_points": [
+    "insect と bug のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で生物の話題として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2192
+    }
+  ]
+}
