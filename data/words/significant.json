@@ -1,0 +1,98 @@
+{
+  "word": "significant",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/sɪɡˈnɪfɪkənt/",
+  "core_image": {
+    "text": "しるしとして、はっきり意味をもつ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"20,120 60,116 100,112 140,110 160,60 200,50\"/><circle cx=\"160\" cy=\"60\" r=\"10\"/><line x1=\"140\" y1=\"30\" x2=\"154\" y2=\"50\"/><polyline points=\"153.1,42 154,50 146.8,46.4\"/></g><text x=\"80\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">意味のある変化</text></svg>"
+  },
+  "etymology": "sign(しるし)+fic(作る) → しるしになる・意味を示す → 重要な意味をもつ → (数量が)無視できないほど大きい・(統計的に)有意な → 名詞 significance",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "large or important enough to have an effect or be noticed; having a special meaning."
+    }
+  ],
+  "cautions": [
+    "important=大切な(広い)/significant=意味がある・影響が無視できない(変化・数量にも使う)",
+    "a significant increase [difference]=かなりの増加[大きな違い](グラフ・研究の長文で最頻出)",
+    "significantly=かなり・著しく",
+    "反対:insignificant=取るに足りない"
+  ],
+  "patterns": [
+    {
+      "form": "a significant A",
+      "meaning": "重要な・かなりのA"
+    },
+    {
+      "form": "a significant increase in A",
+      "meaning": "Aの大幅な増加"
+    },
+    {
+      "form": "play a significant role in A",
+      "meaning": "Aで重要な役割を果たす"
+    },
+    {
+      "form": "significantly",
+      "meaning": "かなり・著しく"
+    },
+    {
+      "form": "the significance of A",
+      "meaning": "Aの重要性・意味"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "かなりの",
+      "en": "There has been a significant increase in the number of tourists.",
+      "ja": "観光客の数がかなり増えている。"
+    },
+    {
+      "source": "original",
+      "label": "重要な",
+      "en": "Social media plays a significant role in our lives.",
+      "ja": "SNSは私たちの生活で重要な役割を果たしている。"
+    },
+    {
+      "source": "original",
+      "label": "大きな",
+      "en": "There was no significant difference between the two groups.",
+      "ja": "2つのグループに大きな違いはなかった。"
+    },
+    {
+      "source": "original",
+      "label": "著しく",
+      "en": "Prices have risen significantly this year.",
+      "ja": "今年は物価が著しく上がった。"
+    },
+    {
+      "source": "original",
+      "label": "意味",
+      "en": "Few people understood the significance of the discovery.",
+      "ja": "その発見の意味を理解した人はほとんどいなかった。"
+    },
+    {
+      "source": "original",
+      "label": "意味ありげな",
+      "en": "She gave me a significant look.",
+      "ja": "彼女は意味ありげに私を見た。"
+    }
+  ],
+  "check_points": [
+    "a significant increase の意味を言えるか",
+    "significantly の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "「かなりの・重要な」の訳し分け、significantly がグラフ・長文で多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1102
+    }
+  ]
+}

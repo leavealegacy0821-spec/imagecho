@@ -1,0 +1,98 @@
+{
+  "word": "urgent",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈɜːrdʒənt/",
+  "core_image": {
+    "text": "後ろから強く押されて、今すぐ必要",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"140\" y2=\"90\"/><line x1=\"120\" y1=\"74\" x2=\"104\" y2=\"94\"/><line x1=\"40\" y1=\"80\" x2=\"96\" y2=\"80\"/><polyline points=\"89,76.2 96,80 89,83.8\"/><line x1=\"40\" y1=\"100\" x2=\"96\" y2=\"100\"/><polyline points=\"89,96.2 96,100 89,103.8\"/><circle cx=\"190\" cy=\"50\" r=\"22\"/><line x1=\"190\" y1=\"50\" x2=\"190\" y2=\"36\"/><line x1=\"190\" y1=\"50\" x2=\"202\" y2=\"56\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">急がないと</text></svg>"
+  },
+  "etymology": "ラテン語 urgere(強く押す・せき立てる。urge と同じ) → せき立てるような → 緊急の・差し迫った → 名詞 urgency(緊急性)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "needing attention or action immediately."
+    }
+  ],
+  "cautions": [
+    "important=大切な/urgent=急いで対応しなければならない(時間のせっぱつまり)",
+    "be in urgent need of A=Aを緊急に必要としている",
+    "It is urgent that S (should) 原形=…することが急を要する",
+    "urgently=緊急に/a sense of urgency=危機感"
+  ],
+  "patterns": [
+    {
+      "form": "an urgent A",
+      "meaning": "緊急のA"
+    },
+    {
+      "form": "be in urgent need of A",
+      "meaning": "Aを緊急に必要としている"
+    },
+    {
+      "form": "It is urgent that S (should) 原形",
+      "meaning": "…が急を要する"
+    },
+    {
+      "form": "urgently",
+      "meaning": "緊急に"
+    },
+    {
+      "form": "a sense of urgency",
+      "meaning": "危機感"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "緊急の",
+      "en": "I have an urgent message for you.",
+      "ja": "あなたに緊急の伝言があります。"
+    },
+    {
+      "source": "original",
+      "label": "緊急に必要",
+      "en": "The refugees are in urgent need of food and water.",
+      "ja": "難民たちは食料と水を緊急に必要としている。"
+    },
+    {
+      "source": "original",
+      "label": "急を要する",
+      "en": "Climate change is an urgent problem.",
+      "ja": "気候変動は急を要する問題だ。"
+    },
+    {
+      "source": "original",
+      "label": "緊急に",
+      "en": "Doctors are urgently needed in the area.",
+      "ja": "その地域では医師が緊急に必要とされている。"
+    },
+    {
+      "source": "original",
+      "label": "危機感",
+      "en": "There is no sense of urgency in the government.",
+      "ja": "政府には危機感がない。"
+    },
+    {
+      "source": "original",
+      "label": "急を要する",
+      "en": "It is urgent that the bridge (should) be repaired.",
+      "ja": "橋の修理は急を要する。"
+    }
+  ],
+  "check_points": [
+    "be in urgent need of A の意味を言えるか",
+    "urgent と important のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "urgent need、a sense of urgency が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1108
+    }
+  ]
+}

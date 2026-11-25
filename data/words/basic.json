@@ -1,0 +1,103 @@
+{
+  "word": "basic",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/ˈbeɪsɪk/",
+  "core_image": {
+    "text": "いちばん下の、出発点になる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"110\" width=\"160\" height=\"30\"/><rect x=\"80\" y=\"80\" width=\"80\" height=\"30\" stroke-dasharray=\"4 4\"/><rect x=\"100\" y=\"50\" width=\"40\" height=\"30\" stroke-dasharray=\"4 4\"/></g><text x=\"120\" y=\"128\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ここから</text></svg>"
+  },
+  "etymology": "base(土台)+ic → 土台の・基本の → 初歩的な・必要最低限の(basic needs) → (名詞)the basics=基本・基礎",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "forming the main or simplest part of something; simple and without extra things."
+    },
+    {
+      "pos": "名詞",
+      "text": "(the basics) the simplest and most important facts or skills."
+    }
+  ],
+  "cautions": [
+    "basic=初歩・出発点となる(やさしい・最低限)/fundamental=土台・根本にある(深い・重大な)",
+    "basic needs=(衣食住など)最低限必要なもの",
+    "back to basics=基本に立ち返る",
+    "basically=基本的に・要するに(口語でよく使う)"
+  ],
+  "patterns": [
+    {
+      "form": "basic A",
+      "meaning": "基本的なA"
+    },
+    {
+      "form": "basic needs",
+      "meaning": "基本的な必需品"
+    },
+    {
+      "form": "be basic to A",
+      "meaning": "Aの基本だ"
+    },
+    {
+      "form": "the basics of A",
+      "meaning": "Aの基本"
+    },
+    {
+      "form": "basically",
+      "meaning": "基本的に・要するに"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "基本的な",
+      "en": "Everyone should learn basic first aid.",
+      "ja": "誰もが基本的な応急手当を学ぶべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "最低限の",
+      "en": "Food and shelter are basic human needs.",
+      "ja": "食べ物と住まいは人間に最低限必要なものだ。"
+    },
+    {
+      "source": "original",
+      "label": "基本",
+      "en": "Let's start with the basics.",
+      "ja": "基本から始めよう。"
+    },
+    {
+      "source": "original",
+      "label": "簡素な",
+      "en": "The hotel room was very basic.",
+      "ja": "ホテルの部屋はとても簡素だった。"
+    },
+    {
+      "source": "original",
+      "label": "基本的に",
+      "en": "Basically, I agree with you.",
+      "ja": "基本的には君に賛成だ。"
+    },
+    {
+      "source": "original",
+      "label": "初歩的な",
+      "en": "I only have a basic knowledge of French.",
+      "ja": "フランス語は初歩的な知識しかない。"
+    }
+  ],
+  "check_points": [
+    "basic と fundamental のちがいを言えるか",
+    "basic needs の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "basic needs、basically、fundamental との区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1110
+    }
+  ]
+}
