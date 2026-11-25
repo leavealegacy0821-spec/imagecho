@@ -845,14 +845,17 @@
     },
     {
       "title": "使い分け:直す・改める",
-      "note": "revise=見直して手を入れる ／ reform=制度の形を作り直す ／ refine=磨いて洗練する ／ improve=よりよくする ／ remedy=悪い点を治す ／ cure=病気を治す",
+      "note": "revise=見直して手を入れる ／ reform=制度の形を作り直す ／ refine=磨いて洗練する ／ improve=よりよくする ／ remedy=悪い点を治す ／ cure=病気を治す ／ repair=こわれた機械・建物を元どおりに修理する ／ mend=やぶれた服などをつくろう ／ renovate=古い建物を新しくよみがえらせる(リフォーム)",
       "words": [
         "revise",
         "reform",
         "refine",
         "improve",
         "remedy",
-        "cure"
+        "cure",
+        "repair",
+        "mend",
+        "renovate"
       ]
     },
     {
@@ -2647,6 +2650,20 @@
         "rigid",
         "flexible",
         "fragile"
+      ]
+    },
+    {
+      "title": "使い分け:作る・建てる",
+      "note": "make=作る(最も広い) ／ build=材料を積み重ねて作り上げる(built) ／ construct=部品を組み合わせて建造する(堅い) ／ erect=まっすぐ上に立てて建てる ／ manufacture=工場で同じ製品を大量に作る ／ create=今までなかったものを新しく生み出す ／ design=前もって形やしくみを設計する ／ fabricate=組み立てて作る・でっちあげる",
+      "words": [
+        "make",
+        "build",
+        "construct",
+        "erect",
+        "manufacture",
+        "create",
+        "design",
+        "fabricate"
       ]
     },
     {

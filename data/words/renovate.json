@@ -1,0 +1,93 @@
+{
+  "word": "renovate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈrenəveɪt/",
+  "core_image": {
+    "text": "古い建物に手を入れて、新しくよみがえらせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"80\" width=\"60\" height=\"60\" stroke-dasharray=\"4 4\"/><polygon points=\"26,80 60,56 94,80\" stroke-dasharray=\"4 4\"/><line x1=\"100\" y1=\"110\" x2=\"130\" y2=\"110\"/><polyline points=\"123,106.2 130,110 123,113.8\"/><rect x=\"140\" y=\"80\" width=\"60\" height=\"60\"/><polygon points=\"136,80 170,56 204,80\"/><line x1=\"214\" y1=\"60\" x2=\"222\" y2=\"54\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">新しくする</text></svg>"
+  },
+  "etymology": "re(再び)+novus(新しい。novel・innovate と同じ根) → 再び新しくする → (建物・部屋を)改装する・修復する → 名詞 renovation(リフォーム)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to repair and improve an old building so that it is in good condition again."
+    }
+  ],
+  "cautions": [
+    "repair=壊れた所を直す/renovate=古い建物全体に手を入れて新しくよみがえらせる(リフォーム)",
+    "renovate a house [hotel]=家[ホテル]を改装する",
+    "名詞 renovation=改装(英語の reform は「改革」でリフォームの意味はない)",
+    "innovate=革新する(同じ nov の根)"
+  ],
+  "patterns": [
+    {
+      "form": "renovate A",
+      "meaning": "Aを改装する"
+    },
+    {
+      "form": "be renovated",
+      "meaning": "改装される"
+    },
+    {
+      "form": "renovation",
+      "meaning": "改装"
+    },
+    {
+      "form": "under renovation",
+      "meaning": "改装中"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "改装する",
+      "en": "They renovated the old house.",
+      "ja": "彼らは古い家を改装した。"
+    },
+    {
+      "source": "original",
+      "label": "改装される",
+      "en": "The hotel was renovated last year.",
+      "ja": "そのホテルは昨年改装された。"
+    },
+    {
+      "source": "original",
+      "label": "改装中",
+      "en": "The museum is closed for renovation.",
+      "ja": "博物館は改装のため休館している。"
+    },
+    {
+      "source": "original",
+      "label": "修復する",
+      "en": "The castle was carefully renovated.",
+      "ja": "その城は丁寧に修復された。"
+    },
+    {
+      "source": "original",
+      "label": "リフォーム",
+      "en": "We are planning a kitchen renovation.",
+      "ja": "台所のリフォームを計画している。"
+    },
+    {
+      "source": "original",
+      "label": "改革(reform)",
+      "en": "The government plans to reform the tax system.",
+      "ja": "政府は税制を改革する計画だ。"
+    }
+  ],
+  "check_points": [
+    "renovate と reform のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "renovate(リフォーム)と reform(改革)の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1538
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "manufacture",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˌmænjuˈfæktʃər/",
+  "core_image": {
+    "text": "工場で、同じ製品をたくさん作る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"80\" width=\"80\" height=\"60\"/><polygon points=\"30,80 50,60 70,80 90,60 110,80\"/><rect x=\"40\" y=\"40\" width=\"10\" height=\"30\"/><line x1=\"110\" y1=\"120\" x2=\"220\" y2=\"120\"/><rect x=\"130\" y=\"104\" width=\"16\" height=\"16\"/><rect x=\"160\" y=\"104\" width=\"16\" height=\"16\"/><rect x=\"190\" y=\"104\" width=\"16\" height=\"16\"/></g><text x=\"170\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">大量に作る</text></svg>"
+  },
+  "etymology": "ラテン語 manu(手で。manual・manuscript と同じ根)+factura(作ること:factory と同じ根) → 手で作ること → (今は)工場で機械で大量に製造する → manufacturer=製造業者",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make goods in large quantities, usually in a factory using machines."
+    },
+    {
+      "pos": "名詞",
+      "text": "the process of making goods in large quantities."
+    }
+  ],
+  "cautions": [
+    "make=作る(広い)/produce=生産する/manufacture=工場で製品を大量に製造する",
+    "もとは「手(manu)で作る」→ 今は機械で大量生産",
+    "manufacturer=メーカー・製造業者",
+    "manufacturing industry=製造業"
+  ],
+  "patterns": [
+    {
+      "form": "manufacture A",
+      "meaning": "Aを製造する"
+    },
+    {
+      "form": "a car manufacturer",
+      "meaning": "自動車メーカー"
+    },
+    {
+      "form": "the manufacturing industry",
+      "meaning": "製造業"
+    },
+    {
+      "form": "be manufactured in A",
+      "meaning": "A(場所)で製造される"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "製造する",
+      "en": "The company manufactures cars and trucks.",
+      "ja": "その会社は乗用車とトラックを製造している。"
+    },
+    {
+      "source": "original",
+      "label": "製造される",
+      "en": "These shoes are manufactured in Vietnam.",
+      "ja": "この靴はベトナムで製造されている。"
+    },
+    {
+      "source": "original",
+      "label": "メーカー",
+      "en": "Toyota is a famous car manufacturer.",
+      "ja": "トヨタは有名な自動車メーカーだ。"
+    },
+    {
+      "source": "original",
+      "label": "製造業",
+      "en": "The manufacturing industry is important to Japan.",
+      "ja": "製造業は日本にとって重要だ。"
+    },
+    {
+      "source": "original",
+      "label": "製造",
+      "en": "The manufacture of plastic uses a lot of oil.",
+      "ja": "プラスチックの製造には多くの石油が使われる。"
+    },
+    {
+      "source": "original",
+      "label": "製造する",
+      "en": "The factory manufactures 1,000 phones a day.",
+      "ja": "その工場は1日に1000台の電話を製造している。"
+    }
+  ],
+  "check_points": [
+    "manufacture の語のつくり(manu=手)がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "manufacturer、manufacturing が経済系の長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1531
+    }
+  ]
+}

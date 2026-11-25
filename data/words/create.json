@@ -1,0 +1,98 @@
+{
+  "word": "create",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kriˈeɪt/",
+  "core_image": {
+    "text": "今までなかったものを、新しく生み出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"120\" cy=\"80\" r=\"20\"/><line x1=\"120\" y1=\"44\" x2=\"120\" y2=\"30\"/><line x1=\"120\" y1=\"116\" x2=\"120\" y2=\"130\"/><line x1=\"84\" y1=\"80\" x2=\"70\" y2=\"80\"/><line x1=\"156\" y1=\"80\" x2=\"170\" y2=\"80\"/><line x1=\"96\" y1=\"56\" x2=\"86\" y2=\"46\"/><line x1=\"144\" y1=\"56\" x2=\"154\" y2=\"46\"/><line x1=\"96\" y1=\"104\" x2=\"86\" y2=\"114\"/><line x1=\"144\" y1=\"104\" x2=\"154\" y2=\"114\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">生み出す</text></svg>"
+  },
+  "etymology": "ラテン語 creare(生み出す・育てる。increase・recreation と同じ「育つ」根) → (なかったものを)生み出す・創造する → (状況を)引き起こす → creative=創造的な/creature=生き物(作られたもの)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make something new or original that did not exist before; to cause a situation."
+    }
+  ],
+  "cautions": [
+    "make=作る(広い)/create=今までにない新しいものを生み出す・創造する",
+    "create jobs [problems]=雇用を生む[問題を引き起こす]",
+    "creative=創造的な/creativity=創造力",
+    "creature=生き物(作られたもの)"
+  ],
+  "patterns": [
+    {
+      "form": "create A",
+      "meaning": "Aを生み出す"
+    },
+    {
+      "form": "create jobs",
+      "meaning": "雇用を生む"
+    },
+    {
+      "form": "create a problem",
+      "meaning": "問題を引き起こす"
+    },
+    {
+      "form": "creative",
+      "meaning": "創造的な"
+    },
+    {
+      "form": "creativity",
+      "meaning": "創造力"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "生み出す",
+      "en": "The new factory will create 500 jobs.",
+      "ja": "新しい工場は500人の雇用を生む。"
+    },
+    {
+      "source": "original",
+      "label": "創作する",
+      "en": "She created a beautiful painting.",
+      "ja": "彼女は美しい絵を創作した。"
+    },
+    {
+      "source": "original",
+      "label": "引き起こす",
+      "en": "His comment created a lot of problems.",
+      "ja": "彼の発言は多くの問題を引き起こした。"
+    },
+    {
+      "source": "original",
+      "label": "作成する",
+      "en": "You need to create a password.",
+      "ja": "パスワードを作成する必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "創造的な",
+      "en": "Children are very creative.",
+      "ja": "子どもはとても創造力が豊かだ。"
+    },
+    {
+      "source": "original",
+      "label": "創造力",
+      "en": "This job requires creativity.",
+      "ja": "この仕事には創造力が必要だ。"
+    }
+  ],
+  "check_points": [
+    "make と create のちがいを言えるか",
+    "create jobs の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "create jobs、creative / creativity が長文で多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1532
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "construct",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈstrʌkt/",
+  "core_image": {
+    "text": "部品をきっちり組み合わせて、建造する",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"40\" y1=\"140\" x2=\"40\" y2=\"30\"/><line x1=\"40\" y1=\"30\" x2=\"150\" y2=\"30\"/><line x1=\"130\" y1=\"30\" x2=\"130\" y2=\"60\"/><rect x=\"120\" y=\"60\" width=\"20\" height=\"14\"/><rect x=\"100\" y=\"100\" width=\"80\" height=\"40\"/><line x1=\"100\" y1=\"120\" x2=\"180\" y2=\"120\"/></g><text x=\"190\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">建造する</text></svg>"
+  },
+  "etymology": "con(共に)+struct(積み上げる。structure・destroy・instruct と同じ根) → いっしょに積み上げる → (建物・道路・橋を)建設する → (文・理論を)組み立てる → 名詞 construction",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to build something such as a road, bridge or building; to form something by putting different parts together."
+    }
+  ],
+  "cautions": [
+    "build=建てる(日常)/construct=(大きな建物・道路を)計画的に建設する(堅い)・(文・理論を)組み立てる",
+    "under construction=建設中/a construction site=建設現場",
+    "constructive=建設的な(constructive criticism)",
+    "destroy(破壊する)と同じ struct の根"
+  ],
+  "patterns": [
+    {
+      "form": "construct A",
+      "meaning": "Aを建設する"
+    },
+    {
+      "form": "under construction",
+      "meaning": "建設中"
+    },
+    {
+      "form": "construct a sentence",
+      "meaning": "文を組み立てる"
+    },
+    {
+      "form": "constructive",
+      "meaning": "建設的な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "建設する",
+      "en": "The bridge was constructed in 1990.",
+      "ja": "その橋は1990年に建設された。"
+    },
+    {
+      "source": "original",
+      "label": "建設中",
+      "en": "A new stadium is under construction.",
+      "ja": "新しい競技場が建設中だ。"
+    },
+    {
+      "source": "original",
+      "label": "組み立てる",
+      "en": "Construct a sentence using these words.",
+      "ja": "これらの語を使って文を作りなさい。"
+    },
+    {
+      "source": "original",
+      "label": "建設現場",
+      "en": "Be careful near the construction site.",
+      "ja": "建設現場の近くでは気をつけて。"
+    },
+    {
+      "source": "original",
+      "label": "建設的な",
+      "en": "Thank you for your constructive comments.",
+      "ja": "建設的なご意見をありがとうございます。"
+    },
+    {
+      "source": "original",
+      "label": "組み立てる",
+      "en": "The scientist constructed a new theory.",
+      "ja": "その科学者は新しい理論を組み立てた。"
+    }
+  ],
+  "check_points": [
+    "build と construct のちがいを言えるか",
+    "under construction の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "under construction、constructive が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1530
+    }
+  ]
+}

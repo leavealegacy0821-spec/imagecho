@@ -1,0 +1,98 @@
+{
+  "word": "design",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/dɪˈzaɪn/",
+  "core_image": {
+    "text": "しるしを描いて、前もって形や計画を決める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"30\" width=\"160\" height=\"100\"/><rect x=\"70\" y=\"60\" width=\"60\" height=\"50\" stroke-dasharray=\"4 4\"/><polygon points=\"64,60 100,40 136,60\" stroke-dasharray=\"4 4\"/><line x1=\"150\" y1=\"110\" x2=\"190\" y2=\"50\"/><polygon points=\"146,116 152,104 158,110\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">設計</text></svg>"
+  },
+  "etymology": "de(下に・外に)+sign(しるし) → しるしを描く → 図案・設計(図) → (目的をもって)計画する(be designed to do=〜するよう作られている) → designer=デザイナー",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a drawing or plan that shows how something will be made; the way something is made or arranged; a pattern."
+    },
+    {
+      "pos": "動詞",
+      "text": "to plan and draw how something will be made; to make something for a particular purpose."
+    }
+  ],
+  "cautions": [
+    "plan=計画/design=形・しくみを前もって設計する・図案",
+    "be designed to do [for A]=〜するよう[A向けに]作られている(頻出)",
+    "by design=意図的に(⇔ by accident)",
+    "デザイン=見た目だけでなく「設計」全体"
+  ],
+  "patterns": [
+    {
+      "form": "design A",
+      "meaning": "Aを設計する"
+    },
+    {
+      "form": "be designed to do",
+      "meaning": "〜するよう作られている"
+    },
+    {
+      "form": "be designed for A",
+      "meaning": "A向けに作られている"
+    },
+    {
+      "form": "by design",
+      "meaning": "意図的に"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "設計する",
+      "en": "He designed the new library.",
+      "ja": "彼が新しい図書館を設計した。"
+    },
+    {
+      "source": "original",
+      "label": "作られている",
+      "en": "This app is designed to help students learn words.",
+      "ja": "このアプリは生徒が単語を覚えるのを助けるよう作られている。"
+    },
+    {
+      "source": "original",
+      "label": "向けに",
+      "en": "These chairs are designed for children.",
+      "ja": "このいすは子ども向けに作られている。"
+    },
+    {
+      "source": "original",
+      "label": "デザイン",
+      "en": "I like the design of your bag.",
+      "ja": "君のかばんのデザインいいね。"
+    },
+    {
+      "source": "original",
+      "label": "意図的に",
+      "en": "Was it by accident or by design?",
+      "ja": "それは偶然だったの、それとも意図的?"
+    },
+    {
+      "source": "original",
+      "label": "模様",
+      "en": "The plate has a beautiful flower design.",
+      "ja": "その皿には美しい花の模様がある。"
+    }
+  ],
+  "check_points": [
+    "be designed to do の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be designed to do が長文で多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1533
+    }
+  ]
+}

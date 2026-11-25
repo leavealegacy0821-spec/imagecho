@@ -1,0 +1,93 @@
+{
+  "word": "mend",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/mend/",
+  "core_image": {
+    "text": "やぶれたところを、つくろって直す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"40\" width=\"120\" height=\"90\"/><path d=\"M100 70 L140 100\"/><line x1=\"106\" y1=\"66\" x2=\"112\" y2=\"80\"/><line x1=\"116\" y1=\"72\" x2=\"122\" y2=\"86\"/><line x1=\"126\" y1=\"80\" x2=\"132\" y2=\"94\"/><line x1=\"180\" y1=\"30\" x2=\"150\" y2=\"60\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">つくろう</text></svg>"
+  },
+  "etymology": "amend(改める)の a が落ちた形 → 欠点を直す → (服・靴・道具を)つくろう・繕う → (関係を)修復する → mend one's ways=行いを改める",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to repair something that is broken or torn, especially clothes; to improve a bad situation."
+    }
+  ],
+  "cautions": [
+    "repair=(機械・建物を)修理する/mend=(服・靴・くつしたなどを)つくろう(手作業の小さな直し)",
+    "mend fences=関係を修復する",
+    "mend one's ways=行いを改める",
+    "be on the mend=(病気・けがが)快方に向かっている"
+  ],
+  "patterns": [
+    {
+      "form": "mend A",
+      "meaning": "Aをつくろう"
+    },
+    {
+      "form": "mend fences",
+      "meaning": "仲直りする"
+    },
+    {
+      "form": "mend one's ways",
+      "meaning": "行いを改める"
+    },
+    {
+      "form": "be on the mend",
+      "meaning": "快方に向かう"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "つくろう",
+      "en": "My grandmother mended the hole in my sock.",
+      "ja": "祖母が靴下の穴をつくろってくれた。"
+    },
+    {
+      "source": "original",
+      "label": "直す",
+      "en": "Can you mend this broken toy?",
+      "ja": "この壊れたおもちゃ、直せる?"
+    },
+    {
+      "source": "original",
+      "label": "仲直り",
+      "en": "It's time to mend fences with your brother.",
+      "ja": "そろそろお兄さんと仲直りするときだよ。"
+    },
+    {
+      "source": "original",
+      "label": "行いを改める",
+      "en": "He promised to mend his ways.",
+      "ja": "彼は行いを改めると約束した。"
+    },
+    {
+      "source": "original",
+      "label": "快方に向かう",
+      "en": "My cold is on the mend.",
+      "ja": "かぜはよくなってきている。"
+    },
+    {
+      "source": "original",
+      "label": "修復する",
+      "en": "The two countries are trying to mend their relationship.",
+      "ja": "両国は関係を修復しようとしている。"
+    }
+  ],
+  "check_points": [
+    "repair と mend のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "mend fences、mend one's ways が熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1537
+    }
+  ]
+}
