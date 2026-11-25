@@ -1,0 +1,89 @@
+{
+  "word": "broke",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/broʊk/",
+  "core_image": {
+    "text": "お金が一銭もなく、すっからかん",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"70\" y=\"60\" width=\"100\" height=\"60\"/><line x1=\"70\" y1=\"80\" x2=\"170\" y2=\"80\"/><path d=\"M120 120 L120 140\" stroke-dasharray=\"3 3\"/><path d=\"M190 50 Q200 60 190 70\"/><line x1=\"40\" y1=\"40\" x2=\"60\" y2=\"60\"/><line x1=\"60\" y1=\"40\" x2=\"40\" y2=\"60\"/></g><text x=\"180\" y=\"150\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すっからかん</text></svg>"
+  },
+  "etymology": "break(こわす)の古い過去分詞 → こわれた → (商売が)つぶれた → (口語)お金が一銭もない・破産した",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "(informal) having no money."
+    }
+  ],
+  "cautions": [
+    "poor=貧しい(暮らしぶり)/broke=(今)お金がない・すっからかん(口語・一時的なことも)",
+    "go broke=破産する",
+    "flat [stone] broke=まったくの無一文",
+    "形容詞として補語に使う(a broke man より I'm broke)"
+  ],
+  "patterns": [
+    {
+      "form": "be broke",
+      "meaning": "お金がない"
+    },
+    {
+      "form": "go broke",
+      "meaning": "破産する"
+    },
+    {
+      "form": "flat broke",
+      "meaning": "まったくの無一文"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "すっからかん",
+      "en": "I can't go out tonight. I'm broke.",
+      "ja": "今夜は出かけられない。お金がないんだ。"
+    },
+    {
+      "source": "original",
+      "label": "破産する",
+      "en": "The company went broke last year.",
+      "ja": "その会社は昨年つぶれた。"
+    },
+    {
+      "source": "original",
+      "label": "無一文",
+      "en": "I was flat broke at the end of the month.",
+      "ja": "月末にはまったくの無一文だった。"
+    },
+    {
+      "source": "original",
+      "label": "使いすぎ",
+      "en": "He spent all his money and was broke.",
+      "ja": "彼はお金を全部使ってすっからかんになった。"
+    },
+    {
+      "source": "original",
+      "label": "学生",
+      "en": "Students are often broke.",
+      "ja": "学生はたいていお金がない。"
+    },
+    {
+      "source": "original",
+      "label": "過去形と",
+      "en": "He broke the window, and now he is broke.",
+      "ja": "彼は窓を割って(弁償で)今はすっからかんだ。"
+    }
+  ],
+  "check_points": [
+    "I'm broke. の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "会話で I'm broke. が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1815
+    }
+  ]
+}

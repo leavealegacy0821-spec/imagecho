@@ -1,0 +1,98 @@
+{
+  "word": "poor",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/pʊr/",
+  "core_image": {
+    "text": "足りなくて、とぼしい・かわいそうな",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M70 130 Q60 70 120 60 Q180 70 170 130 Z\"/><path d=\"M100 60 L110 40 L130 40 L140 60\"/><path d=\"M100 100 L140 100\" stroke-dasharray=\"3 3\"/><path d=\"M190 60 Q200 70 190 80\"/></g><text x=\"200\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">からっぽ</text></svg>"
+  },
+  "etymology": "ラテン語 pauper(少ししか生まない → 貧しい) → 貧しい → (質・量が)とぼしい・へたな → (気の毒で)かわいそうな",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "having little money; of low quality; not good at something; deserving pity."
+    }
+  ],
+  "cautions": [
+    "poor=お金・量・質が足りない(いちばん広い)/needy=生活に困っている",
+    "be poor at A=Aがへただ(be good at の反対)",
+    "poor health=体が弱い・poor eyesight=視力が悪い",
+    "Poor thing!=かわいそうに(名詞の前で「気の毒な」)"
+  ],
+  "patterns": [
+    {
+      "form": "the poor",
+      "meaning": "貧しい人々"
+    },
+    {
+      "form": "be poor at A",
+      "meaning": "Aがへただ"
+    },
+    {
+      "form": "poor health",
+      "meaning": "弱い体"
+    },
+    {
+      "form": "poor A",
+      "meaning": "かわいそうなA"
+    },
+    {
+      "form": "poverty",
+      "meaning": "貧困"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "貧しい",
+      "en": "Many poor families cannot afford medicine.",
+      "ja": "多くの貧しい家庭は薬を買う余裕がない。"
+    },
+    {
+      "source": "original",
+      "label": "へた",
+      "en": "I'm poor at math.",
+      "ja": "数学が苦手だ。"
+    },
+    {
+      "source": "original",
+      "label": "弱い",
+      "en": "He has been in poor health for years.",
+      "ja": "彼は何年も体が弱い。"
+    },
+    {
+      "source": "original",
+      "label": "かわいそう",
+      "en": "The poor dog was left in the rain.",
+      "ja": "かわいそうに、その犬は雨の中に置きざりにされた。"
+    },
+    {
+      "source": "original",
+      "label": "質が悪い",
+      "en": "The food was poor and expensive.",
+      "ja": "料理はまずくて高かった。"
+    },
+    {
+      "source": "original",
+      "label": "貧困",
+      "en": "Many children live in poverty.",
+      "ja": "多くの子どもが貧困の中で暮らしている。"
+    }
+  ],
+  "check_points": [
+    "be poor at A の意味を言えるか",
+    "poor dog の poor の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be poor at、poverty、poor health が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1813
+    }
+  ]
+}
