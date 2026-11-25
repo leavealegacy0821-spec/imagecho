@@ -1,0 +1,85 @@
+{
+  "word": "although",
+  "pos": [
+    "接続詞"
+  ],
+  "ipa": "/ɔːlˈðoʊ/",
+  "core_image": {
+    "text": "〜だけれども(前提を認めつつ反対へ)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"50\" width=\"70\" height=\"50\"/><line x1=\"104\" y1=\"76\" x2=\"136\" y2=\"76\"/><polyline points=\"129,72.2 136,76 129,79.8\"/><rect x=\"140\" y=\"50\" width=\"70\" height=\"50\"/><line x1=\"150\" y1=\"60\" x2=\"200\" y2=\"90\"/></g><text x=\"65\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">〜だけれど</text><text x=\"175\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">反対</text></svg>"
+  },
+  "etymology": "all(まったく) + though(〜だけれども) → たとえ〜でも・〜だけれども",
+  "en_definitions": [
+    {
+      "pos": "接続詞",
+      "text": "despite the fact that."
+    }
+  ],
+  "cautions": [
+    "although S V=〜だけれども(though より少し改まった)",
+    "although の文に but はつけない(Although ..., but ... ×)",
+    "despite / in spite of + 名詞=〜にもかかわらず(後ろは名詞)",
+    "even though=〜であるのに(より強い)"
+  ],
+  "patterns": [
+    {
+      "form": "Although S V, S V",
+      "meaning": "〜だけれども…"
+    },
+    {
+      "form": "S V although S V",
+      "meaning": "…、〜だけれど"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "だけれど",
+      "en": "Although it was cold, we went swimming.",
+      "ja": "寒かったけれど泳ぎに行った。"
+    },
+    {
+      "source": "original",
+      "label": "but 不要",
+      "en": "Although he is rich, he is not happy.",
+      "ja": "彼は金持ちだが幸せではない。"
+    },
+    {
+      "source": "original",
+      "label": "後ろ",
+      "en": "I like him, although he can be rude.",
+      "ja": "失礼なときもあるけれど、彼が好きだ。"
+    },
+    {
+      "source": "original",
+      "label": "名詞なら",
+      "en": "Despite the cold, we went swimming.",
+      "ja": "寒さにもかかわらず泳ぎに行った。"
+    },
+    {
+      "source": "original",
+      "label": "事実",
+      "en": "Although she was tired, she kept working.",
+      "ja": "疲れていたが、彼女は働き続けた。"
+    },
+    {
+      "source": "original",
+      "label": "even though",
+      "en": "Even though it was late, he called me.",
+      "ja": "遅かったのに、彼は電話してきた。"
+    }
+  ],
+  "check_points": [
+    "although と despite の後ろの形のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "although / despite の書きかえが出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2339
+    }
+  ]
+}

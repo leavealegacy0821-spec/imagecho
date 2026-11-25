@@ -1,0 +1,89 @@
+{
+  "word": "instead",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ɪnˈsted/",
+  "core_image": {
+    "text": "その代わりに(別のほうを)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"50\" width=\"60\" height=\"60\"/><line x1=\"44\" y1=\"54\" x2=\"96\" y2=\"106\"/><line x1=\"96\" y1=\"54\" x2=\"44\" y2=\"106\"/><line x1=\"110\" y1=\"80\" x2=\"140\" y2=\"80\"/><polyline points=\"133,76.2 140,80 133,83.8\"/><circle cx=\"180\" cy=\"80\" r=\"30\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かわりに</text></svg>"
+  },
+  "etymology": "in(〜に) + stead(場所・代わり) → その場所に → 代わりに",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "in place of someone or something."
+    }
+  ],
+  "cautions": [
+    "instead=(副詞)その代わりに",
+    "instead of A [doing]=Aの[〜する]代わりに(前置詞句)",
+    "instead of の後ろは名詞・動名詞",
+    "rather than=〜よりむしろ"
+  ],
+  "patterns": [
+    {
+      "form": "instead",
+      "meaning": "その代わりに"
+    },
+    {
+      "form": "instead of A",
+      "meaning": "Aの代わりに"
+    },
+    {
+      "form": "instead of doing",
+      "meaning": "〜する代わりに"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "代わりに",
+      "en": "I didn't go out. Instead, I stayed home.",
+      "ja": "出かけなかった。代わりに家にいた。"
+    },
+    {
+      "source": "original",
+      "label": "instead of",
+      "en": "I drank tea instead of coffee.",
+      "ja": "コーヒーの代わりにお茶を飲んだ。"
+    },
+    {
+      "source": "original",
+      "label": "動名詞",
+      "en": "Instead of watching TV, read a book.",
+      "ja": "テレビを見る代わりに本を読みなさい。"
+    },
+    {
+      "source": "original",
+      "label": "人",
+      "en": "Can you go instead of me?",
+      "ja": "私の代わりに行ってくれる?"
+    },
+    {
+      "source": "original",
+      "label": "文末",
+      "en": "We had no milk, so I used cream instead.",
+      "ja": "牛乳がなかったので、代わりにクリームを使った。"
+    },
+    {
+      "source": "original",
+      "label": "むしろ",
+      "en": "I'd walk rather than take the bus.",
+      "ja": "バスに乗るよりむしろ歩きたい。"
+    }
+  ],
+  "check_points": [
+    "instead of doing の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "instead of doing が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2344
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "while",
+  "pos": [
+    "接続詞",
+    "名詞"
+  ],
+  "ipa": "/waɪl/",
+  "core_image": {
+    "text": "〜しているあいだ・(いっぽう)〜なのに",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"60\" x2=\"220\" y2=\"60\"/><line x1=\"20\" y1=\"100\" x2=\"220\" y2=\"100\"/><rect x=\"60\" y=\"50\" width=\"100\" height=\"20\" stroke-dasharray=\"3 3\"/><rect x=\"60\" y=\"90\" width=\"100\" height=\"20\"/></g><text x=\"110\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">〜のあいだ</text></svg>"
+  },
+  "etymology": "古い英語 hwīl(時間・ひととき) → (〜する)あいだ → (対比)いっぽう〜",
+  "en_definitions": [
+    {
+      "pos": "接続詞",
+      "text": "during the time that; although; whereas."
+    },
+    {
+      "pos": "名詞",
+      "text": "a period of time."
+    }
+  ],
+  "cautions": [
+    "while S V=〜しているあいだ(during + 名詞)",
+    "while=いっぽう〜(対比)",
+    "for a while=しばらく",
+    "once in a while=ときどき・worth while=〜する価値がある"
+  ],
+  "patterns": [
+    {
+      "form": "while doing",
+      "meaning": "〜しながら"
+    },
+    {
+      "form": "for a while",
+      "meaning": "しばらく"
+    },
+    {
+      "form": "once in a while",
+      "meaning": "ときどき"
+    },
+    {
+      "form": "while S V (対比)",
+      "meaning": "いっぽう〜"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "あいだ",
+      "en": "While I was sleeping, someone called.",
+      "ja": "私が寝ている間に誰かが電話してきた。"
+    },
+    {
+      "source": "original",
+      "label": "しながら",
+      "en": "Don't use your phone while driving.",
+      "ja": "運転しながら携帯を使うな。"
+    },
+    {
+      "source": "original",
+      "label": "対比",
+      "en": "I like dogs, while my sister likes cats.",
+      "ja": "私は犬が好きだが、姉はネコが好きだ。"
+    },
+    {
+      "source": "original",
+      "label": "しばらく",
+      "en": "Let's rest for a while.",
+      "ja": "しばらく休もう。"
+    },
+    {
+      "source": "original",
+      "label": "ときどき",
+      "en": "I eat out once in a while.",
+      "ja": "ときどき外食する。"
+    },
+    {
+      "source": "original",
+      "label": "during と",
+      "en": "I slept during the movie.",
+      "ja": "映画の間ずっと寝ていた(名詞なら during)。"
+    }
+  ],
+  "check_points": [
+    "while と during のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "while / during の区別、対比の while が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2341
+    }
+  ]
+}

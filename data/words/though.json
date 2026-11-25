@@ -1,0 +1,99 @@
+{
+  "word": "though",
+  "pos": [
+    "接続詞",
+    "副詞"
+  ],
+  "ipa": "/ðoʊ/",
+  "core_image": {
+    "text": "〜だけれども・(文末で)でもね",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"50\" width=\"70\" height=\"50\"/><line x1=\"104\" y1=\"76\" x2=\"136\" y2=\"76\"/><polyline points=\"129,72.2 136,76 129,79.8\"/><rect x=\"140\" y=\"50\" width=\"70\" height=\"50\"/><path d=\"M160 64 Q175 54 190 64\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">〜だけど</text></svg>"
+  },
+  "etymology": "古いノルド語 þó(それでも) → 〜だけれども → (副詞)でも・やっぱり",
+  "en_definitions": [
+    {
+      "pos": "接続詞",
+      "text": "despite the fact that."
+    },
+    {
+      "pos": "副詞",
+      "text": "however (used at the end of a sentence)."
+    }
+  ],
+  "cautions": [
+    "though=although(口語的)",
+    "(副詞)文末の though=でもね・やっぱり",
+    "as though=まるで〜のように(=as if)",
+    "even though=〜なのに"
+  ],
+  "patterns": [
+    {
+      "form": "Though S V",
+      "meaning": "〜だけれども"
+    },
+    {
+      "form": "..., though.",
+      "meaning": "(文末)でもね"
+    },
+    {
+      "form": "as though",
+      "meaning": "まるで〜のように"
+    },
+    {
+      "form": "even though",
+      "meaning": "〜なのに"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "だけれど",
+      "en": "Though he is young, he is very wise.",
+      "ja": "若いけれど彼はとても賢い。"
+    },
+    {
+      "source": "original",
+      "label": "文末",
+      "en": "It's expensive. I like it, though.",
+      "ja": "高い。でも気に入ってるんだ。"
+    },
+    {
+      "source": "original",
+      "label": "まるで",
+      "en": "He talks as though he knows everything.",
+      "ja": "彼はまるで何でも知っているかのように話す。"
+    },
+    {
+      "source": "original",
+      "label": "なのに",
+      "en": "Even though I studied hard, I failed.",
+      "ja": "一生けんめい勉強したのに落ちた。"
+    },
+    {
+      "source": "original",
+      "label": "会話",
+      "en": "\"It's raining.\" \"It's warm, though.\"",
+      "ja": "「雨だね」「でも暖かいね」"
+    },
+    {
+      "source": "original",
+      "label": "事実",
+      "en": "Though it was late, the shop was still open.",
+      "ja": "遅かったが、店はまだ開いていた。"
+    }
+  ],
+  "check_points": [
+    "文末の though の意味を言えるか",
+    "as though の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "as though、文末の though が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2340
+    }
+  ]
+}

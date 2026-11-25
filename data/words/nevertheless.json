@@ -1,0 +1,85 @@
+{
+  "word": "nevertheless",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/ˌnevərðəˈles/",
+  "core_image": {
+    "text": "それでもなお(前のことに負けずに)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"60\" width=\"40\" height=\"80\"/><circle cx=\"140\" cy=\"52\" r=\"10\"/><line x1=\"140\" y1=\"62\" x2=\"140\" y2=\"106\"/><line x1=\"140\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"140\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"80\" x2=\"210\" y2=\"80\"/><polyline points=\"203,76.2 210,80 203,83.8\"/><path d=\"M100 60 L120 70 L100 80\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">それでもなお</text></svg>"
+  },
+  "etymology": "never(決して〜ない) + the + less(より少なく) → 決してより少なくはならない → それでもなお",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "despite what has just been said."
+    }
+  ],
+  "cautions": [
+    "nevertheless=nonetheless=それでもなお(改まった・however より強い)",
+    "however と同じく副詞(文をつなげない)",
+    "all the same=それでも(口語)",
+    "still=それでも"
+  ],
+  "patterns": [
+    {
+      "form": "Nevertheless, ...",
+      "meaning": "それでもなお…"
+    },
+    {
+      "form": "..., but nevertheless ...",
+      "meaning": "だがそれでも…"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "それでも",
+      "en": "The test was hard. Nevertheless, she passed.",
+      "ja": "テストはむずかしかった。それでも彼女は合格した。"
+    },
+    {
+      "source": "original",
+      "label": "それでもなお",
+      "en": "He was tired; nevertheless, he kept running.",
+      "ja": "彼は疲れていたが、それでも走り続けた。"
+    },
+    {
+      "source": "original",
+      "label": "しかし",
+      "en": "The plan is risky but nevertheless worth trying.",
+      "ja": "その計画は危険だがそれでもやってみる価値はある。"
+    },
+    {
+      "source": "original",
+      "label": "nonetheless",
+      "en": "It was raining. Nonetheless, the game continued.",
+      "ja": "雨が降っていた。それでも試合は続いた。"
+    },
+    {
+      "source": "original",
+      "label": "口語",
+      "en": "It was cold, but we enjoyed it all the same.",
+      "ja": "寒かったが、それでも楽しかった。"
+    },
+    {
+      "source": "original",
+      "label": "論説",
+      "en": "Nevertheless, the problem remains.",
+      "ja": "それでもなお、その問題は残っている。"
+    }
+  ],
+  "check_points": [
+    "nevertheless の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文の論理マーカーとして出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2343
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "word": "however",
+  "pos": [
+    "副詞"
+  ],
+  "ipa": "/haʊˈevər/",
+  "core_image": {
+    "text": "前とは反対の話へ切りかえる(しかし)・どんなに〜でも",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"60\" x2=\"110\" y2=\"60\"/><polyline points=\"103,56.2 110,60 103,63.8\"/><path d=\"M110 60 Q130 60 130 80 Q130 100 110 100\"/><line x1=\"110\" y1=\"100\" x2=\"30\" y2=\"100\"/><polyline points=\"37,103.8 30,100 37,96.2\"/><line x1=\"150\" y1=\"40\" x2=\"150\" y2=\"120\"/></g><text x=\"200\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しかし</text></svg>"
+  },
+  "etymology": "how(どのように) + ever(〜でも) → どんなに〜でも → (それでも)しかし",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "used to introduce a statement that contrasts with something said before; in whatever way or to whatever degree."
+    }
+  ],
+  "cautions": [
+    "however=しかし(副詞:文と文をつなげない→ピリオドかセミコロンのあとで使う)",
+    "but=しかし(接続詞:文をつなぐ)",
+    "however + 形容詞 + S V=どんなに〜でも(No matter how)",
+    "文頭・文中(コンマではさむ)・文末に置ける"
+  ],
+  "patterns": [
+    {
+      "form": "However, ...",
+      "meaning": "しかし…"
+    },
+    {
+      "form": "S, however, V",
+      "meaning": "しかし〜は…"
+    },
+    {
+      "form": "however + 形容詞 + S V",
+      "meaning": "どんなに〜でも"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "しかし",
+      "en": "It was raining. However, we went out.",
+      "ja": "雨だった。しかし、私たちは出かけた。"
+    },
+    {
+      "source": "original",
+      "label": "文中",
+      "en": "This plan, however, has some problems.",
+      "ja": "しかしこの計画にはいくつか問題がある。"
+    },
+    {
+      "source": "original",
+      "label": "どんなに",
+      "en": "However hard I try, I can't do it.",
+      "ja": "どんなにがんばってもできない。"
+    },
+    {
+      "source": "original",
+      "label": "but と",
+      "en": "It was raining, but we went out.",
+      "ja": "雨だったが、私たちは出かけた。"
+    },
+    {
+      "source": "original",
+      "label": "どんなふうに",
+      "en": "You can do it however you like.",
+      "ja": "好きなようにやっていいよ。"
+    },
+    {
+      "source": "original",
+      "label": "文末",
+      "en": "He said he would come. He didn't, however.",
+      "ja": "彼は来ると言った。しかし来なかった。"
+    }
+  ],
+  "check_points": [
+    "however と but の文法上のちがいを言えるか",
+    "however + 形容詞の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "however(副詞)/ but(接続詞)、譲歩の however が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2338
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "word": "whereas",
+  "pos": [
+    "接続詞"
+  ],
+  "ipa": "/werˈæz/",
+  "core_image": {
+    "text": "(2つを並べて)いっぽう〜は",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"50\" width=\"70\" height=\"60\"/><circle cx=\"175\" cy=\"80\" r=\"32\"/><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"120\" stroke-dasharray=\"4 4\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いっぽう</text></svg>"
+  },
+  "etymology": "where(〜のところで) + as(〜のように) → 〜であるのに対して=いっぽう",
+  "en_definitions": [
+    {
+      "pos": "接続詞",
+      "text": "used to compare two facts and show they are different."
+    }
+  ],
+  "cautions": [
+    "whereas=いっぽう〜(はっきりした対比・改まった)",
+    "while にも同じ使い方がある",
+    "A, whereas B=Aだが、いっぽうBだ",
+    "on the other hand=いっぽうでは(副詞句)"
+  ],
+  "patterns": [
+    {
+      "form": "S V, whereas S V",
+      "meaning": "〜だが、いっぽう…"
+    },
+    {
+      "form": "Whereas S V, S V",
+      "meaning": "〜であるのに対し…"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "いっぽう",
+      "en": "Some people like summer, whereas others prefer winter.",
+      "ja": "夏が好きな人もいれば、いっぽう冬が好きな人もいる。"
+    },
+    {
+      "source": "original",
+      "label": "対比",
+      "en": "He is tall, whereas his brother is short.",
+      "ja": "彼は背が高いが、弟は低い。"
+    },
+    {
+      "source": "original",
+      "label": "文頭",
+      "en": "Whereas cats sleep a lot, dogs need more exercise.",
+      "ja": "ネコはよく眠るのに対し、犬はもっと運動が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "データ",
+      "en": "Sales rose in Asia, whereas they fell in Europe.",
+      "ja": "アジアでは売上が伸びたが、ヨーロッパでは落ちた。"
+    },
+    {
+      "source": "original",
+      "label": "他方",
+      "en": "On the other hand, the cost is high.",
+      "ja": "他方で、費用は高い。"
+    },
+    {
+      "source": "original",
+      "label": "比べる",
+      "en": "Water boils at 100°C, whereas alcohol boils at 78°C.",
+      "ja": "水は100度で沸騰するのに対し、アルコールは78度で沸騰する。"
+    }
+  ],
+  "check_points": [
+    "whereas の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文で対比として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2342
+    }
+  ]
+}

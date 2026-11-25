@@ -1,0 +1,94 @@
+{
+  "word": "besides",
+  "pos": [
+    "副詞",
+    "前置詞"
+  ],
+  "ipa": "/bɪˈsaɪdz/",
+  "core_image": {
+    "text": "そのうえ・〜のほかに(つけ加える)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"60\" width=\"50\" height=\"50\"/><line x1=\"110\" y1=\"85\" x2=\"130\" y2=\"85\"/><line x1=\"120\" y1=\"75\" x2=\"120\" y2=\"95\"/><rect x=\"150\" y=\"60\" width=\"50\" height=\"50\" stroke-dasharray=\"3 3\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そのうえ</text></svg>"
+  },
+  "etymology": "beside(〜のそばに) + -s(副詞をつくる) → そばに加えて → そのうえ・〜のほかに",
+  "en_definitions": [
+    {
+      "pos": "副詞",
+      "text": "also; in addition."
+    },
+    {
+      "pos": "前置詞",
+      "text": "in addition to; apart from."
+    }
+  ],
+  "cautions": [
+    "besides=そのうえ・〜のほかに(加える)/beside=〜のそばに(s なし)",
+    "besides A=Aに加えて(=in addition to A)",
+    "except A=A以外は(のぞく)",
+    "moreover / furthermore=さらに(改まった)"
+  ],
+  "patterns": [
+    {
+      "form": "besides A",
+      "meaning": "Aのほかに"
+    },
+    {
+      "form": "Besides, ...",
+      "meaning": "そのうえ…"
+    },
+    {
+      "form": "beside A",
+      "meaning": "Aのそばに"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "そのうえ",
+      "en": "I'm too tired to go. Besides, it's raining.",
+      "ja": "疲れすぎて行けない。それに雨も降っている。"
+    },
+    {
+      "source": "original",
+      "label": "ほかに",
+      "en": "Besides English, she speaks French.",
+      "ja": "英語のほかに彼女はフランス語も話す。"
+    },
+    {
+      "source": "original",
+      "label": "そばに",
+      "en": "She sat beside me.",
+      "ja": "彼女は私のそばにすわった。"
+    },
+    {
+      "source": "original",
+      "label": "のぞく",
+      "en": "Everyone came except Ken.",
+      "ja": "ケン以外はみんな来た。"
+    },
+    {
+      "source": "original",
+      "label": "加えて",
+      "en": "Who else came besides you?",
+      "ja": "あなたのほかに誰が来たの?"
+    },
+    {
+      "source": "original",
+      "label": "理由",
+      "en": "I don't want to go. Besides, I have no money.",
+      "ja": "行きたくない。そのうえお金もない。"
+    }
+  ],
+  "check_points": [
+    "besides と beside のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "besides / beside / except の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2347
+    }
+  ]
+}
