@@ -1,0 +1,102 @@
+{
+  "word": "smell",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/smel/",
+  "core_image": {
+    "text": "鼻で感じとる、におい(よくも悪くも)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"96\"/><ellipse cx=\"160\" cy=\"120\" rx=\"30\" ry=\"10\"/><path d=\"M150 108 q-6 -10 0 -20 q6 -10 0 -20\"/><path d=\"M170 108 q-6 -10 0 -20 q6 -10 0 -20\"/><line x1=\"140\" y1=\"70\" x2=\"76\" y2=\"52\" stroke-dasharray=\"5 5\"/><polyline points=\"81.7,57.6 76,52 83.8,50.2\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くんくん</text></svg>"
+  },
+  "etymology": "中英語 smellen(においがする) → においをかぐ・においがする(smell + 形容詞) → (名詞)におい・嗅覚 → 活用 smelled / smelt",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to notice or recognize something using your nose; to have a particular smell."
+    },
+    {
+      "pos": "名詞",
+      "text": "the quality that people notice with their nose; the ability to smell."
+    }
+  ],
+  "cautions": [
+    "smell=におい(よい・悪いどちらも・最も広い)",
+    "smell + 形容詞=〜のにおいがする(It smells good.)/smell of [like] A=Aのにおいがする",
+    "a sense of smell=嗅覚",
+    "scent・aroma・fragrance=よいにおい/odor・stink=いやなにおい"
+  ],
+  "patterns": [
+    {
+      "form": "smell + 形容詞",
+      "meaning": "〜なにおいがする"
+    },
+    {
+      "form": "smell of A",
+      "meaning": "Aのにおいがする"
+    },
+    {
+      "form": "smell A",
+      "meaning": "Aのにおいをかぐ"
+    },
+    {
+      "form": "a sense of smell",
+      "meaning": "嗅覚"
+    },
+    {
+      "form": "a bad smell",
+      "meaning": "いやなにおい"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "においがする",
+      "en": "This soup smells delicious.",
+      "ja": "このスープはおいしそうなにおいがする。"
+    },
+    {
+      "source": "original",
+      "label": "のにおいがする",
+      "en": "His jacket smelled of smoke.",
+      "ja": "彼の上着はたばこのにおいがした。"
+    },
+    {
+      "source": "original",
+      "label": "においをかぐ",
+      "en": "Smell this flower.",
+      "ja": "この花のにおいをかいでごらん。"
+    },
+    {
+      "source": "original",
+      "label": "嗅覚",
+      "en": "Dogs have a very good sense of smell.",
+      "ja": "犬はとても鼻がきく。"
+    },
+    {
+      "source": "original",
+      "label": "におい",
+      "en": "There's a strange smell in the kitchen.",
+      "ja": "台所で妙なにおいがする。"
+    },
+    {
+      "source": "original",
+      "label": "かぎつける",
+      "en": "I can smell trouble.",
+      "ja": "面倒なことになりそうな予感がする。"
+    }
+  ],
+  "check_points": [
+    "smell + 形容詞 の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "smell + 形容詞(SVC)が文法で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1559
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "word": "sour",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/saʊər/",
+  "core_image": {
+    "text": "すっぱくて、顔がきゅっとなる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"80\" cy=\"80\" r=\"26\"/><line x1=\"80\" y1=\"54\" x2=\"80\" y2=\"106\"/><line x1=\"54\" y1=\"80\" x2=\"106\" y2=\"80\"/><circle cx=\"170\" cy=\"76\" r=\"24\"/><line x1=\"160\" y1=\"70\" x2=\"166\" y2=\"66\"/><line x1=\"180\" y1=\"70\" x2=\"174\" y2=\"66\"/><path d=\"M162 88 Q170 84 178 88\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すっぱい</text></svg>"
+  },
+  "etymology": "古い英語 sūr(すっぱい) → すっぱい → (牛乳が)腐ってすっぱい → (人・関係が)不機嫌な・気まずい → (動詞)悪くなる(sour relations)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "having a sharp taste like lemon; (of milk) not fresh; unfriendly or bad-tempered."
+    },
+    {
+      "pos": "動詞",
+      "text": "to become worse or unfriendly."
+    }
+  ],
+  "cautions": [
+    "sweet(甘い)・bitter(苦い)・salty(塩からい)・sour(すっぱい)",
+    "go [turn] sour=(牛乳が)すっぱくなる・(関係が)悪くなる",
+    "sour grapes=負け惜しみ(イソップ)",
+    "a sour face=不機嫌な顔"
+  ],
+  "patterns": [
+    {
+      "form": "taste sour",
+      "meaning": "すっぱい味がする"
+    },
+    {
+      "form": "go sour",
+      "meaning": "すっぱくなる・悪くなる"
+    },
+    {
+      "form": "sour grapes",
+      "meaning": "負け惜しみ"
+    },
+    {
+      "form": "a sour face",
+      "meaning": "不機嫌な顔"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "すっぱい",
+      "en": "Lemons are very sour.",
+      "ja": "レモンはとてもすっぱい。"
+    },
+    {
+      "source": "original",
+      "label": "すっぱくなる",
+      "en": "The milk has gone sour.",
+      "ja": "牛乳がすっぱくなっている。"
+    },
+    {
+      "source": "original",
+      "label": "悪くなる",
+      "en": "Their friendship turned sour.",
+      "ja": "彼らの友情は気まずくなった。"
+    },
+    {
+      "source": "original",
+      "label": "負け惜しみ",
+      "en": "He said he didn't want the prize, but it was just sour grapes.",
+      "ja": "彼は賞なんていらないと言ったが、ただの負け惜しみだった。"
+    },
+    {
+      "source": "original",
+      "label": "不機嫌な",
+      "en": "She gave me a sour look.",
+      "ja": "彼女は不機嫌な顔で私を見た。"
+    },
+    {
+      "source": "original",
+      "label": "悪化する",
+      "en": "Relations between the two countries have soured.",
+      "ja": "両国の関係は悪化した。"
+    }
+  ],
+  "check_points": [
+    "go sour の意味を言えるか",
+    "sour grapes の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "go sour、sour grapes が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1568
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "sweet",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/swiːt/",
+  "core_image": {
+    "text": "砂糖のように甘く、心地よい",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"80\" y=\"60\" width=\"80\" height=\"60\"/><polygon points=\"80,60 120,40 160,60\"/><circle cx=\"120\" cy=\"90\" r=\"10\"/><path d=\"M60 40 Q50 30 60 20\"/><path d=\"M180 40 Q190 30 180 20\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あまい</text></svg>"
+  },
+  "etymology": "古い英語 swēte(甘い・心地よい) → 甘い → (香り・声・音が)心地よい → (人・態度が)やさしい・かわいい → (名詞)甘いもの・お菓子",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "tasting of sugar; pleasant; kind and nice; (of a smell) pleasant."
+    },
+    {
+      "pos": "名詞",
+      "text": "a piece of candy (British); a dessert."
+    }
+  ],
+  "cautions": [
+    "sweet=甘い(味)・心地よい・やさしい",
+    "It's sweet of you to do=〜してくれるなんて優しいね",
+    "have a sweet tooth=甘いものが好きだ",
+    "sweets=(英)お菓子/sweet dreams=おやすみ(よい夢を)"
+  ],
+  "patterns": [
+    {
+      "form": "taste sweet",
+      "meaning": "甘い味がする"
+    },
+    {
+      "form": "have a sweet tooth",
+      "meaning": "甘党だ"
+    },
+    {
+      "form": "It's sweet of A to do",
+      "meaning": "〜するとはAは優しい"
+    },
+    {
+      "form": "a sweet voice",
+      "meaning": "美しい声"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "甘い",
+      "en": "This cake is too sweet for me.",
+      "ja": "このケーキは私には甘すぎる。"
+    },
+    {
+      "source": "original",
+      "label": "甘党",
+      "en": "My father has a sweet tooth.",
+      "ja": "父は甘党だ。"
+    },
+    {
+      "source": "original",
+      "label": "優しい",
+      "en": "It's sweet of you to help me.",
+      "ja": "手伝ってくれるなんて優しいね。"
+    },
+    {
+      "source": "original",
+      "label": "甘い香り",
+      "en": "The flowers have a sweet smell.",
+      "ja": "その花は甘い香りがする。"
+    },
+    {
+      "source": "original",
+      "label": "かわいい",
+      "en": "What a sweet little dog!",
+      "ja": "なんてかわいい小さな犬だろう!"
+    },
+    {
+      "source": "original",
+      "label": "お菓子",
+      "en": "Don't eat too many sweets.",
+      "ja": "お菓子を食べすぎないで。"
+    }
+  ],
+  "check_points": [
+    "have a sweet tooth の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "have a sweet tooth が熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1567
+    }
+  ]
+}

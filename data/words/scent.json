@@ -1,0 +1,98 @@
+{
+  "word": "scent",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/sent/",
+  "core_image": {
+    "text": "ふわりとただよう、ほのかなよいにおい",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"80\" y1=\"140\" x2=\"80\" y2=\"90\"/><circle cx=\"80\" cy=\"80\" r=\"10\"/><path d=\"M96 74 Q120 60 140 70 Q160 80 180 64\" stroke-dasharray=\"3 4\"/><path d=\"M96 90 Q120 80 140 90 Q160 100 190 86\" stroke-dasharray=\"3 4\"/></g><text x=\"170\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ほのか</text></svg>"
+  },
+  "etymology": "古いフランス語 sentir(感じる。sense と同じ根。c はあとで付いたつづり) → 感じとるにおい → ほのかなよい香り・(動物の)においの跡 → (動詞)かぎつける",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a pleasant smell; the smell that an animal leaves; perfume."
+    },
+    {
+      "pos": "動詞",
+      "text": "to smell something; to make something smell pleasant."
+    }
+  ],
+  "cautions": [
+    "smell=におい(広い)/scent=ほのかなよい香り・動物が残すにおいの跡",
+    "the scent of A=Aの香り(花・香水)",
+    "be on the scent of A=Aを追っている/throw A off the scent=Aを巻く",
+    "c は発音しない(cent・sent と同音)"
+  ],
+  "patterns": [
+    {
+      "form": "the scent of A",
+      "meaning": "Aの香り"
+    },
+    {
+      "form": "a sweet scent",
+      "meaning": "甘い香り"
+    },
+    {
+      "form": "pick up the scent",
+      "meaning": "においをかぎつける"
+    },
+    {
+      "form": "throw A off the scent",
+      "meaning": "Aの追跡をかわす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "香り",
+      "en": "The room was filled with the scent of roses.",
+      "ja": "部屋はバラの香りに満ちていた。"
+    },
+    {
+      "source": "original",
+      "label": "においの跡",
+      "en": "The dog followed the scent of the rabbit.",
+      "ja": "犬はウサギのにおいの跡を追った。"
+    },
+    {
+      "source": "original",
+      "label": "香り",
+      "en": "I love the scent of fresh coffee.",
+      "ja": "いれたてのコーヒーの香りが大好きだ。"
+    },
+    {
+      "source": "original",
+      "label": "かぎつける",
+      "en": "The police dog picked up the scent.",
+      "ja": "警察犬がにおいをかぎつけた。"
+    },
+    {
+      "source": "original",
+      "label": "巻く",
+      "en": "The thief threw the police off the scent.",
+      "ja": "泥棒は警察の追跡をかわした。"
+    },
+    {
+      "source": "original",
+      "label": "香水",
+      "en": "She wears a light scent.",
+      "ja": "彼女はほのかな香水をつけている。"
+    }
+  ],
+  "check_points": [
+    "smell と scent のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "scent(香り)が物語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1560
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "word": "stink",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/stɪŋk/",
+  "core_image": {
+    "text": "鼻がまがるほど、ひどくくさい",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M80 130 L84 90 L156 90 L160 130 Z\"/><path d=\"M100 84 l-6 -10 l6 -10 l-6 -10\"/><path d=\"M120 84 l-6 -10 l6 -10 l-6 -10\"/><path d=\"M140 84 l-6 -10 l6 -10 l-6 -10\"/><circle cx=\"210\" cy=\"52\" r=\"10\"/><line x1=\"210\" y1=\"62\" x2=\"210\" y2=\"106\"/><line x1=\"210\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"210\" y1=\"106\" x2=\"220\" y2=\"140\"/><line x1=\"210\" y1=\"74\" x2=\"200\" y2=\"62\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くさっ</text></svg>"
+  },
+  "etymology": "古い英語 stincan(においがする) → ひどいにおいがする・悪臭を放つ → (口語)ひどい・最低だ(The plan stinks.) → 活用 stink - stank - stunk",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to have a very bad smell; (informal) to be very bad."
+    },
+    {
+      "pos": "名詞",
+      "text": "a very bad smell; a lot of trouble or complaints."
+    }
+  ],
+  "cautions": [
+    "smell=におい(広い)/odor=(不快な)におい/stink=ひどい悪臭(口語・強い)",
+    "stink of A=Aのひどいにおいがする",
+    "(口語)It stinks!=最悪だ",
+    "make [raise] a stink=大騒ぎして文句を言う"
+  ],
+  "patterns": [
+    {
+      "form": "stink of A",
+      "meaning": "Aのひどいにおいがする"
+    },
+    {
+      "form": "A stinks",
+      "meaning": "Aはひどい・最悪だ"
+    },
+    {
+      "form": "make a stink",
+      "meaning": "大騒ぎして抗議する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "くさい",
+      "en": "This room stinks of cigarettes.",
+      "ja": "この部屋はたばこくさい。"
+    },
+    {
+      "source": "original",
+      "label": "くさい",
+      "en": "The garbage really stinks.",
+      "ja": "ごみが本当にくさい。"
+    },
+    {
+      "source": "original",
+      "label": "最悪",
+      "en": "The weather stinks today.",
+      "ja": "今日の天気は最悪だ。"
+    },
+    {
+      "source": "original",
+      "label": "大騒ぎ",
+      "en": "She made a stink about the noise.",
+      "ja": "彼女は騒音について大騒ぎで抗議した。"
+    },
+    {
+      "source": "original",
+      "label": "悪臭",
+      "en": "What's that stink?",
+      "ja": "このひどいにおいは何?"
+    },
+    {
+      "source": "original",
+      "label": "くさかった",
+      "en": "His socks stank after the game.",
+      "ja": "試合のあと彼の靴下はくさかった。"
+    }
+  ],
+  "check_points": [
+    "stink of A の意味を言えるか",
+    "stink の活用を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "会話・物語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1564
+    }
+  ]
+}

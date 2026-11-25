@@ -1,0 +1,93 @@
+{
+  "word": "fragrance",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈfreɪɡrəns/",
+  "core_image": {
+    "text": "花や香水からただよう、あまく上品な香り",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"120\" y1=\"140\" x2=\"120\" y2=\"90\"/><circle cx=\"120\" cy=\"80\" r=\"8\"/><ellipse cx=\"120\" cy=\"66\" rx=\"6\" ry=\"9\"/><ellipse cx=\"134\" cy=\"80\" rx=\"9\" ry=\"6\"/><ellipse cx=\"106\" cy=\"80\" rx=\"9\" ry=\"6\"/><path d=\"M140 60 Q160 50 180 56\" stroke-dasharray=\"3 3\"/><path d=\"M100 60 Q80 50 60 56\" stroke-dasharray=\"3 3\"/></g><text x=\"190\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">芳香</text></svg>"
+  },
+  "etymology": "ラテン語 fragrare(香る) → 芳香・よい香り → (商品の)香水・香料 → fragrant=香りのよい",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a pleasant smell, especially of flowers; a perfume."
+    }
+  ],
+  "cautions": [
+    "scent=ほのかな香り/aroma=食べ物の香り/fragrance=花・香水のあまく上品な芳香",
+    "fragrant=香りのよい",
+    "fragrance-free=無香料",
+    "odor=(いやな)におい"
+  ],
+  "patterns": [
+    {
+      "form": "the fragrance of A",
+      "meaning": "Aの芳香"
+    },
+    {
+      "form": "a sweet fragrance",
+      "meaning": "甘い香り"
+    },
+    {
+      "form": "fragrant",
+      "meaning": "香りのよい"
+    },
+    {
+      "form": "fragrance-free",
+      "meaning": "無香料の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "芳香",
+      "en": "The fragrance of the roses filled the garden.",
+      "ja": "バラの芳香が庭に満ちていた。"
+    },
+    {
+      "source": "original",
+      "label": "香水",
+      "en": "She bought a new fragrance.",
+      "ja": "彼女は新しい香水を買った。"
+    },
+    {
+      "source": "original",
+      "label": "香りのよい",
+      "en": "These lilies are very fragrant.",
+      "ja": "このユリはとても香りがよい。"
+    },
+    {
+      "source": "original",
+      "label": "無香料",
+      "en": "I use fragrance-free soap.",
+      "ja": "私は無香料のせっけんを使っている。"
+    },
+    {
+      "source": "original",
+      "label": "甘い香り",
+      "en": "The flower has a sweet fragrance.",
+      "ja": "その花は甘い香りがする。"
+    },
+    {
+      "source": "original",
+      "label": "香り",
+      "en": "The shampoo has a light fragrance.",
+      "ja": "そのシャンプーはほのかな香りがする。"
+    }
+  ],
+  "check_points": [
+    "fragrance と odor のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "fragrance / fragrant が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1563
+    }
+  ]
+}

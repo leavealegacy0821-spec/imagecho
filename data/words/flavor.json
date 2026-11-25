@@ -1,0 +1,98 @@
+{
+  "word": "flavor",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈfleɪvər/",
+  "core_image": {
+    "text": "その食べ物ならではの、味わい",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M60 70 Q120 130 180 70 Z\"/><line x1=\"60\" y1=\"70\" x2=\"180\" y2=\"70\"/><circle cx=\"100\" cy=\"60\" r=\"8\"/><circle cx=\"130\" cy=\"56\" r=\"8\"/><polygon points=\"150,62 160,50 168,62\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">味わい</text></svg>"
+  },
+  "etymology": "古いフランス語 flaor(におい) → においと味をあわせた風味 → (食べ物の)味・味わい・フレーバー → (物事の)趣・特色",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "how food or drink tastes; a particular quality or feeling."
+    },
+    {
+      "pos": "動詞",
+      "text": "to add something to food to give it a particular taste."
+    }
+  ],
+  "cautions": [
+    "taste=味(感覚・広い)/flavor=その食べ物ならではの風味・(アイスなどの)味の種類",
+    "What flavor do you want?=何味がいい?",
+    "flavor A with B=AをBで味つけする",
+    "比ゆ:the flavor of the city=その都市の雰囲気・趣"
+  ],
+  "patterns": [
+    {
+      "form": "a strong flavor",
+      "meaning": "濃い味"
+    },
+    {
+      "form": "What flavor ...?",
+      "meaning": "何味?"
+    },
+    {
+      "form": "flavor A with B",
+      "meaning": "AをBで味つけする"
+    },
+    {
+      "form": "the flavor of A",
+      "meaning": "Aの趣"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "味",
+      "en": "What flavor of ice cream do you like?",
+      "ja": "アイスは何味が好き?"
+    },
+    {
+      "source": "original",
+      "label": "風味",
+      "en": "This tomato has a lot of flavor.",
+      "ja": "このトマトは風味が豊かだ。"
+    },
+    {
+      "source": "original",
+      "label": "味つけする",
+      "en": "The soup is flavored with garlic.",
+      "ja": "そのスープはニンニクで味つけされている。"
+    },
+    {
+      "source": "original",
+      "label": "濃い味",
+      "en": "I like food with a strong flavor.",
+      "ja": "味の濃い食べ物が好きだ。"
+    },
+    {
+      "source": "original",
+      "label": "趣",
+      "en": "The town has a European flavor.",
+      "ja": "その町はヨーロッパふうの趣がある。"
+    },
+    {
+      "source": "original",
+      "label": "風味",
+      "en": "Herbs add flavor to the dish.",
+      "ja": "ハーブが料理に風味を加える。"
+    }
+  ],
+  "check_points": [
+    "taste と flavor のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "flavor が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1566
+    }
+  ]
+}
