@@ -1,0 +1,94 @@
+{
+  "word": "beach",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/biːtʃ/",
+  "core_image": {
+    "text": "人が遊べる、砂や小石の浜辺",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 70 Q40 60 70 70 T130 70 T190 70 T240 70\"/><path d=\"M10 100 Q120 80 240 100\"/><circle cx=\"60\" cy=\"120\" r=\"2\"/><circle cx=\"100\" cy=\"124\" r=\"2\"/><circle cx=\"150\" cy=\"118\" r=\"2\"/><line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"96\"/><path d=\"M160 104 Q190 76 220 104 Z\"/></g><text x=\"60\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">砂浜</text></svg>"
+  },
+  "etymology": "砂や小石の浜辺 → (動詞)(船・クジラを)浜に乗り上げる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an area of sand or small stones next to the sea or a lake."
+    },
+    {
+      "pos": "動詞",
+      "text": "to pull a boat onto the beach."
+    }
+  ],
+  "cautions": [
+    "coast=海岸地方/shore=水ぎわ/beach=遊べる砂浜",
+    "on the beach=浜辺で(on を使う)",
+    "beech(ブナの木)と同じ発音",
+    "go to the beach=海水浴に行く"
+  ],
+  "patterns": [
+    {
+      "form": "on the beach",
+      "meaning": "浜辺で"
+    },
+    {
+      "form": "go to the beach",
+      "meaning": "海に行く"
+    },
+    {
+      "form": "a sandy beach",
+      "meaning": "砂浜"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "浜辺で",
+      "en": "We played volleyball on the beach.",
+      "ja": "浜辺でバレーボールをした。"
+    },
+    {
+      "source": "original",
+      "label": "海に行く",
+      "en": "Let's go to the beach this weekend.",
+      "ja": "今週末、海に行こう。"
+    },
+    {
+      "source": "original",
+      "label": "砂浜",
+      "en": "The island has beautiful sandy beaches.",
+      "ja": "その島にはきれいな砂浜がある。"
+    },
+    {
+      "source": "original",
+      "label": "ごみ拾い",
+      "en": "Volunteers cleaned up the beach.",
+      "ja": "ボランティアが浜辺のごみ拾いをした。"
+    },
+    {
+      "source": "original",
+      "label": "日光浴",
+      "en": "People were lying on the beach.",
+      "ja": "人々が浜辺で寝そべっていた。"
+    },
+    {
+      "source": "original",
+      "label": "打ち上げ",
+      "en": "The boat was beached on the sand.",
+      "ja": "ボートは砂浜に引き上げられた。"
+    }
+  ],
+  "check_points": [
+    "coast / shore / beach のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "on the beach が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1968
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "hill",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/hɪl/",
+  "core_image": {
+    "text": "なだらかにもり上がった、丘・坂",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M20 140 Q120 60 220 140\"/><circle cx=\"120\" cy=\"12\" r=\"10\"/><line x1=\"120\" y1=\"22\" x2=\"120\" y2=\"66\"/><line x1=\"120\" y1=\"66\" x2=\"110\" y2=\"100\"/><line x1=\"120\" y1=\"66\" x2=\"130\" y2=\"100\"/><line x1=\"40\" y1=\"100\" x2=\"60\" y2=\"90\" stroke-dasharray=\"2 3\"/></g><text x=\"200\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">なだらか</text></svg>"
+  },
+  "etymology": "古い英語 hyll(丘) → 丘・小山 → 坂・坂道 → over the hill=(口語)盛りを過ぎた",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an area of land that is higher than the land around it but smaller than a mountain; a slope."
+    }
+  ],
+  "cautions": [
+    "mountain=高い山/hill=なだらかな丘・坂(歩いて登れる)",
+    "up [down] the hill=坂を上って[下って]",
+    "over the hill=盛りを過ぎた",
+    "hilly=丘の多い"
+  ],
+  "patterns": [
+    {
+      "form": "climb a hill",
+      "meaning": "丘に登る"
+    },
+    {
+      "form": "up [down] the hill",
+      "meaning": "坂を上って[下って]"
+    },
+    {
+      "form": "on a hill",
+      "meaning": "丘の上に"
+    },
+    {
+      "form": "hilly",
+      "meaning": "起伏の多い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "丘",
+      "en": "Our school stands on a hill.",
+      "ja": "私たちの学校は丘の上に建っている。"
+    },
+    {
+      "source": "original",
+      "label": "坂",
+      "en": "I rode my bike down the hill.",
+      "ja": "自転車で坂を下った。"
+    },
+    {
+      "source": "original",
+      "label": "登る",
+      "en": "We walked up the hill to see the view.",
+      "ja": "景色を見に丘を登った。"
+    },
+    {
+      "source": "original",
+      "label": "起伏",
+      "en": "It's a hilly area, so cycling is hard.",
+      "ja": "起伏の多い地域なので自転車はきつい。"
+    },
+    {
+      "source": "original",
+      "label": "盛りを過ぎた",
+      "en": "He thinks he's over the hill at 40.",
+      "ja": "彼は40で自分はもう盛りを過ぎたと思っている。"
+    },
+    {
+      "source": "original",
+      "label": "対比",
+      "en": "It's not a mountain, just a small hill.",
+      "ja": "山ではなく、ただの小さな丘だ。"
+    }
+  ],
+  "check_points": [
+    "hill と mountain のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "描写文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1960
+    }
+  ]
+}

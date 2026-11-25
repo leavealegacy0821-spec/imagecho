@@ -1,0 +1,93 @@
+{
+  "word": "forest",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈfɔːrɪst/",
+  "core_image": {
+    "text": "木が広く深くしげる、大きな森",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polygon points=\"30,140 50,80 70,140\"/><polygon points=\"60,140 84,60 108,140\"/><polygon points=\"100,140 124,70 148,140\"/><polygon points=\"140,140 164,56 188,140\"/><polygon points=\"180,140 200,84 220,140\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">広く深い</text></svg>"
+  },
+  "etymology": "ラテン語 foris(外の) → (囲いの外の)王の狩り場 → 広く深い森・森林",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a large area of land covered with trees."
+    }
+  ],
+  "cautions": [
+    "wood(s)=(人里近くの)小さめの森・林/forest=広く深い大森林/jungle=熱帯の密林",
+    "rain forest=熱帯雨林",
+    "deforestation=森林破壊",
+    "can't see the forest for the trees=木を見て森を見ず"
+  ],
+  "patterns": [
+    {
+      "form": "in the forest",
+      "meaning": "森の中で"
+    },
+    {
+      "form": "a rain forest",
+      "meaning": "熱帯雨林"
+    },
+    {
+      "form": "deforestation",
+      "meaning": "森林破壊"
+    },
+    {
+      "form": "forest fire",
+      "meaning": "森林火災"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "森",
+      "en": "We got lost in the forest.",
+      "ja": "森で道に迷った。"
+    },
+    {
+      "source": "original",
+      "label": "熱帯雨林",
+      "en": "The Amazon rain forest is shrinking.",
+      "ja": "アマゾンの熱帯雨林は縮小している。"
+    },
+    {
+      "source": "original",
+      "label": "森林破壊",
+      "en": "Deforestation is a serious problem.",
+      "ja": "森林破壊は深刻な問題だ。"
+    },
+    {
+      "source": "original",
+      "label": "山火事",
+      "en": "A forest fire destroyed thousands of trees.",
+      "ja": "森林火災で何千本もの木が焼けた。"
+    },
+    {
+      "source": "original",
+      "label": "ことわざ",
+      "en": "You can't see the forest for the trees.",
+      "ja": "木を見て森を見ず。"
+    },
+    {
+      "source": "original",
+      "label": "国土",
+      "en": "About two-thirds of Japan is covered by forest.",
+      "ja": "日本の約3分の2は森林におおわれている。"
+    }
+  ],
+  "check_points": [
+    "wood と forest のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "rain forest、deforestation が長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1963
+    }
+  ]
+}

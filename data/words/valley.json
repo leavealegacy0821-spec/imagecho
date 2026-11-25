@@ -1,0 +1,89 @@
+{
+  "word": "valley",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈvæli/",
+  "core_image": {
+    "text": "山と山の間に、低くくぼんだ谷",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"10,40 90,130 150,130 230,40\"/><path d=\"M90 130 Q120 120 150 130\" stroke-dasharray=\"3 3\"/><rect x=\"110\" y=\"114\" width=\"14\" height=\"14\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くぼみ</text></svg>"
+  },
+  "etymology": "ラテン語 vallis(谷) → 山と山の間の低地・谷 → (川の)流域(the Nile Valley)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an area of low land between hills or mountains, often with a river."
+    }
+  ],
+  "cautions": [
+    "valley=山の間の広めの低地・谷(川・村があることも)/canyon=深い峡谷",
+    "in the valley=谷間に",
+    "the Silicon Valley=シリコンバレー",
+    "peaks and valleys=山と谷(好不調の波)"
+  ],
+  "patterns": [
+    {
+      "form": "in the valley",
+      "meaning": "谷間で"
+    },
+    {
+      "form": "a river valley",
+      "meaning": "川の流れる谷"
+    },
+    {
+      "form": "peaks and valleys",
+      "meaning": "浮き沈み"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "谷間",
+      "en": "A small village lies in the valley.",
+      "ja": "小さな村が谷間にある。"
+    },
+    {
+      "source": "original",
+      "label": "川",
+      "en": "A river runs through the valley.",
+      "ja": "川が谷を流れている。"
+    },
+    {
+      "source": "original",
+      "label": "見下ろす",
+      "en": "We looked down on the valley from the top.",
+      "ja": "頂上から谷を見下ろした。"
+    },
+    {
+      "source": "original",
+      "label": "流域",
+      "en": "Ancient people lived in the Nile Valley.",
+      "ja": "古代の人々はナイル川流域に住んでいた。"
+    },
+    {
+      "source": "original",
+      "label": "浮き沈み",
+      "en": "Life has its peaks and valleys.",
+      "ja": "人生には浮き沈みがある。"
+    },
+    {
+      "source": "original",
+      "label": "IT",
+      "en": "Silicon Valley is home to many tech companies.",
+      "ja": "シリコンバレーには多くのIT企業がある。"
+    }
+  ],
+  "check_points": [
+    "valley の位置関係がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "描写文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1961
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "coast",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/koʊst/",
+  "core_image": {
+    "text": "陸から見た、海ぞいの長い線",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 40 Q60 60 50 90 Q40 120 80 150\"/><path d=\"M60 40 Q100 60 90 90 Q80 120 120 150\" stroke-dasharray=\"4 4\"/><rect x=\"150\" y=\"60\" width=\"16\" height=\"16\"/><rect x=\"170\" y=\"90\" width=\"16\" height=\"16\"/></g><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">海ぞい</text></svg>"
+  },
+  "etymology": "ラテン語 costa(わき腹・あばら:coast は陸の「わき」) → 陸のふち・海岸地方 → (動詞)(わきを流れるように)惰性ですーっと進む",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the land next to the sea."
+    },
+    {
+      "pos": "動詞",
+      "text": "to move without using power; to succeed without much effort."
+    }
+  ],
+  "cautions": [
+    "coast=(地図で見る)海岸地方・海ぞいの地域/shore=(水ぎわの)岸/beach=砂浜",
+    "on the coast=海岸ぞいに",
+    "The coast is clear.=(見つかる心配がなく)今がチャンスだ",
+    "coast along=惰性で進む・楽にやっていく"
+  ],
+  "patterns": [
+    {
+      "form": "on the coast",
+      "meaning": "海ぞいに"
+    },
+    {
+      "form": "along the coast",
+      "meaning": "海岸にそって"
+    },
+    {
+      "form": "the west coast",
+      "meaning": "西海岸"
+    },
+    {
+      "form": "The coast is clear.",
+      "meaning": "邪魔者はいない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "海ぞい",
+      "en": "The town is on the east coast.",
+      "ja": "その町は東海岸にある。"
+    },
+    {
+      "source": "original",
+      "label": "そって",
+      "en": "We drove along the coast.",
+      "ja": "海岸ぞいにドライブした。"
+    },
+    {
+      "source": "original",
+      "label": "今がチャンス",
+      "en": "The coast is clear—let's go!",
+      "ja": "誰もいない、今だ!"
+    },
+    {
+      "source": "original",
+      "label": "惰性",
+      "en": "The bike coasted down the hill.",
+      "ja": "自転車は坂を惰性で下った。"
+    },
+    {
+      "source": "original",
+      "label": "楽に",
+      "en": "He coasted through school without studying.",
+      "ja": "彼は勉強せずに楽に学校を卒業した。"
+    },
+    {
+      "source": "original",
+      "label": "海岸地方",
+      "en": "The coast was hit by a tsunami.",
+      "ja": "その沿岸は津波に襲われた。"
+    }
+  ],
+  "check_points": [
+    "coast と shore と beach のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "on the coast が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1966
+    }
+  ]
+}

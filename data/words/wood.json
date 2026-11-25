@@ -1,0 +1,93 @@
+{
+  "word": "wood",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/wʊd/",
+  "core_image": {
+    "text": "切った木の材料・(人里近くの)林",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"110\" width=\"80\" height=\"20\"/><circle cx=\"30\" cy=\"120\" r=\"10\"/><circle cx=\"30\" cy=\"120\" r=\"4\"/><polygon points=\"140,140 156,90 172,140\"/><polygon points=\"170,140 186,96 202,140\"/></g><text x=\"70\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">木材</text><text x=\"180\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">林</text></svg>"
+  },
+  "etymology": "古い英語 wudu(木・森) → 木材・材木 → (the woods)林・森",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the hard material that trees are made of; (the woods) an area with many trees, smaller than a forest."
+    }
+  ],
+  "cautions": [
+    "wood=木材(数えない:a piece of wood)/tree=(生えている)木",
+    "the woods=林・小さめの森(複数形で)/forest=大森林",
+    "wooden=木製の",
+    "touch wood=(英)うまくいきますように"
+  ],
+  "patterns": [
+    {
+      "form": "made of wood",
+      "meaning": "木でできた"
+    },
+    {
+      "form": "a piece of wood",
+      "meaning": "木切れ1つ"
+    },
+    {
+      "form": "in the woods",
+      "meaning": "林の中で"
+    },
+    {
+      "form": "wooden",
+      "meaning": "木製の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "木材",
+      "en": "This table is made of wood.",
+      "ja": "このテーブルは木でできている。"
+    },
+    {
+      "source": "original",
+      "label": "木切れ",
+      "en": "He picked up a piece of wood.",
+      "ja": "彼は木切れを1つ拾った。"
+    },
+    {
+      "source": "original",
+      "label": "林",
+      "en": "We went for a walk in the woods.",
+      "ja": "林へ散歩に行った。"
+    },
+    {
+      "source": "original",
+      "label": "木製",
+      "en": "I bought a wooden box.",
+      "ja": "木製の箱を買った。"
+    },
+    {
+      "source": "original",
+      "label": "まき",
+      "en": "They burned wood to keep warm.",
+      "ja": "彼らは暖をとるためにまきを燃やした。"
+    },
+    {
+      "source": "original",
+      "label": "対比",
+      "en": "A tree is alive, but wood is not.",
+      "ja": "木(tree)は生きているが、木材(wood)は生きていない。"
+    }
+  ],
+  "check_points": [
+    "tree と wood のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "be made of wood、数えない名詞として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1964
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "shore",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ʃɔːr/",
+  "core_image": {
+    "text": "水と陸が接する、水ぎわの岸",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 100 Q40 90 70 100 T130 100\"/><path d=\"M130 100 L240 100\"/><path d=\"M130 100 Q150 110 240 120\" stroke-dasharray=\"3 3\"/><circle cx=\"190\" cy=\"12\" r=\"10\"/><line x1=\"190\" y1=\"22\" x2=\"190\" y2=\"66\"/><line x1=\"190\" y1=\"66\" x2=\"180\" y2=\"100\"/><line x1=\"190\" y1=\"66\" x2=\"200\" y2=\"100\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">水ぎわ</text></svg>"
+  },
+  "etymology": "中英語 schore(岸) → 海・湖・川の水ぎわの岸",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the land along the edge of the sea, a lake or a wide river."
+    }
+  ],
+  "cautions": [
+    "coast=(陸から見た)海岸地方/shore=(水から見た)水ぎわの岸(湖・川にも)",
+    "on the shore=岸辺に",
+    "ashore=岸へ・陸に(go ashore=上陸する)",
+    "offshore=沖の"
+  ],
+  "patterns": [
+    {
+      "form": "on the shore",
+      "meaning": "岸辺に"
+    },
+    {
+      "form": "the shore of A",
+      "meaning": "Aの岸"
+    },
+    {
+      "form": "go ashore",
+      "meaning": "上陸する"
+    },
+    {
+      "form": "offshore",
+      "meaning": "沖合の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "岸辺",
+      "en": "We walked along the shore of the lake.",
+      "ja": "湖の岸辺を歩いた。"
+    },
+    {
+      "source": "original",
+      "label": "上陸",
+      "en": "The sailors went ashore.",
+      "ja": "船員たちは上陸した。"
+    },
+    {
+      "source": "original",
+      "label": "打ち寄せる",
+      "en": "Waves broke on the shore.",
+      "ja": "波が岸に打ち寄せた。"
+    },
+    {
+      "source": "original",
+      "label": "沖合",
+      "en": "There are many fishing boats offshore.",
+      "ja": "沖合にたくさんの漁船がいる。"
+    },
+    {
+      "source": "original",
+      "label": "泳いで",
+      "en": "He swam back to the shore.",
+      "ja": "彼は岸まで泳いでもどった。"
+    },
+    {
+      "source": "original",
+      "label": "打ち上げられる",
+      "en": "A whale was washed up on the shore.",
+      "ja": "クジラが岸に打ち上げられた。"
+    }
+  ],
+  "check_points": [
+    "coast と shore のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "描写文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1967
+    }
+  ]
+}
