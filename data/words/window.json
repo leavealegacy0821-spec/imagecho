@@ -1,0 +1,93 @@
+{
+  "word": "window",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈwɪndoʊ/",
+  "core_image": {
+    "text": "光や風を通す、かべの開き口(窓)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"30\" width=\"120\" height=\"100\"/><line x1=\"120\" y1=\"30\" x2=\"120\" y2=\"130\"/><line x1=\"60\" y1=\"80\" x2=\"180\" y2=\"80\"/><circle cx=\"200\" cy=\"30\" r=\"12\"/><line x1=\"190\" y1=\"46\" x2=\"150\" y2=\"60\"/><polyline points=\"157.9,61.3 150,60 155.4,54.1\"/></g><text x=\"40\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まど</text></svg>"
+  },
+  "etymology": "古いノルド語 vindauga(vindr=風 + auga=目 → 風の目) → 窓",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an opening in a wall with glass that lets in light and air; an area on a computer screen; a short period of time for doing something."
+    }
+  ],
+  "cautions": [
+    "wind(風)+ eye(目)=風の目→窓",
+    "window shopping=(買わずに)見て回ること",
+    "a window of opportunity=好機の短い時間",
+    "(パソコンの)ウインドウ"
+  ],
+  "patterns": [
+    {
+      "form": "open the window",
+      "meaning": "窓を開ける"
+    },
+    {
+      "form": "look out (of) the window",
+      "meaning": "窓の外を見る"
+    },
+    {
+      "form": "window shopping",
+      "meaning": "ウインドーショッピング"
+    },
+    {
+      "form": "a window of opportunity",
+      "meaning": "好機"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "窓",
+      "en": "Open the window. It's hot.",
+      "ja": "窓を開けて。暑いよ。"
+    },
+    {
+      "source": "original",
+      "label": "外を見る",
+      "en": "She looked out of the window.",
+      "ja": "彼女は窓の外を見た。"
+    },
+    {
+      "source": "original",
+      "label": "見て回る",
+      "en": "We went window shopping.",
+      "ja": "ウインドーショッピングに行った。"
+    },
+    {
+      "source": "original",
+      "label": "好機",
+      "en": "We have a small window of opportunity.",
+      "ja": "チャンスは短い間しかない。"
+    },
+    {
+      "source": "original",
+      "label": "割る",
+      "en": "The ball broke the window.",
+      "ja": "ボールが窓を割った。"
+    },
+    {
+      "source": "original",
+      "label": "画面",
+      "en": "Close the window on your screen.",
+      "ja": "画面のウインドウを閉じて。"
+    }
+  ],
+  "check_points": [
+    "window の語源(風の目)がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a window of opportunity が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2222
+    }
+  ]
+}
