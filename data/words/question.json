@@ -1,0 +1,103 @@
+{
+  "word": "question",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈkwestʃən/",
+  "core_image": {
+    "text": "答えを求めて、たずねること",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"80\" y2=\"54\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"96\"/><path d=\"M130 40 q0 -16 16 -16 q16 0 16 14 q0 10 -16 16 l0 10\"/><circle cx=\"146\" cy=\"78\" r=\"3\"/></g><text x=\"150\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">たずねる</text></svg>"
+  },
+  "etymology": "ラテン語 quaerere(求める・たずねる。quest・request と同じ根) → 答えを求めること=質問 → (論じるべき)問題 → 疑い(beyond question=疑いなく) → (動詞)質問する・疑う",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a sentence that asks for information; a matter that needs to be discussed; doubt."
+    },
+    {
+      "pos": "動詞",
+      "text": "to ask someone questions; to have doubts about something."
+    }
+  ],
+  "cautions": [
+    "problem=困ったこと(解決すべき)/question=たずねること・論じるべき問題・疑い",
+    "ask (A) a question=(Aに)質問する(× ask a question to A は避ける)",
+    "out of the question=問題外・不可能/beyond question=疑いなく",
+    "動詞 question=尋問する・疑問を投げかける"
+  ],
+  "patterns": [
+    {
+      "form": "ask A a question",
+      "meaning": "Aに質問する"
+    },
+    {
+      "form": "answer a question",
+      "meaning": "質問に答える"
+    },
+    {
+      "form": "out of the question",
+      "meaning": "問題外で"
+    },
+    {
+      "form": "beyond question",
+      "meaning": "疑いなく"
+    },
+    {
+      "form": "question A",
+      "meaning": "Aに質問する・Aを疑う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "質問",
+      "en": "Can I ask you a question?",
+      "ja": "質問してもいいですか。"
+    },
+    {
+      "source": "original",
+      "label": "問題外",
+      "en": "Going out in this storm is out of the question.",
+      "ja": "この嵐の中で出かけるなんて問題外だ。"
+    },
+    {
+      "source": "original",
+      "label": "疑いなく",
+      "en": "His honesty is beyond question.",
+      "ja": "彼の正直さは疑いようがない。"
+    },
+    {
+      "source": "original",
+      "label": "問題",
+      "en": "It's a question of time.",
+      "ja": "それは時間の問題だ。"
+    },
+    {
+      "source": "original",
+      "label": "尋問する",
+      "en": "The police questioned the man for hours.",
+      "ja": "警察はその男を何時間も尋問した。"
+    },
+    {
+      "source": "original",
+      "label": "疑問を投げかける",
+      "en": "Some scientists question this theory.",
+      "ja": "この説に疑問を投げかける科学者もいる。"
+    }
+  ],
+  "check_points": [
+    "out of the question の意味を言えるか",
+    "problem と question のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "out of the question、beyond question が熟語で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1481
+    }
+  ]
+}

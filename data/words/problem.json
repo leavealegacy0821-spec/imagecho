@@ -1,0 +1,94 @@
+{
+  "word": "problem",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈprɑːbləm/",
+  "core_image": {
+    "text": "前に投げ出された、解決すべき困りごと",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"62\" y2=\"58\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"96\"/><rect x=\"110\" y=\"80\" width=\"70\" height=\"60\"/><line x1=\"130\" y1=\"96\" x2=\"160\" y2=\"124\"/><line x1=\"160\" y1=\"96\" x2=\"130\" y2=\"124\"/></g><text x=\"150\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">困りごと</text></svg>"
+  },
+  "etymology": "ギリシャ語 problēma(pro=前に+ballein=投げる:前に投げ出されたもの) → 解くべき課題 → (困った)問題・やっかいなこと → (数学の)問題",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a situation that causes difficulty and needs to be dealt with; a question in math that needs an answer."
+    }
+  ],
+  "cautions": [
+    "question=たずねること/problem=解決すべき困りごと・(計算)問題",
+    "solve [deal with] a problem=問題を解決する[処理する]",
+    "No problem.=いいですよ・どういたしまして",
+    "have a problem with A=Aに問題がある・Aが気に入らない"
+  ],
+  "patterns": [
+    {
+      "form": "solve a problem",
+      "meaning": "問題を解決する"
+    },
+    {
+      "form": "have a problem with A",
+      "meaning": "Aに問題がある"
+    },
+    {
+      "form": "No problem.",
+      "meaning": "いいですよ"
+    },
+    {
+      "form": "the problem is that …",
+      "meaning": "問題は…ということだ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "解決する",
+      "en": "We need to solve this problem quickly.",
+      "ja": "この問題をすぐに解決する必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "いいですよ",
+      "en": "\"Can you help me?\" \"No problem.\"",
+      "ja": "「手伝ってくれる?」「いいよ」"
+    },
+    {
+      "source": "original",
+      "label": "問題",
+      "en": "The problem is that we don't have enough time.",
+      "ja": "問題は時間が足りないことだ。"
+    },
+    {
+      "source": "original",
+      "label": "問題がある",
+      "en": "I have a problem with my computer.",
+      "ja": "パソコンの調子が悪い。"
+    },
+    {
+      "source": "original",
+      "label": "問題",
+      "en": "Air pollution is a serious problem.",
+      "ja": "大気汚染は深刻な問題だ。"
+    },
+    {
+      "source": "original",
+      "label": "問題",
+      "en": "Solve the math problems on page 20.",
+      "ja": "20ページの数学の問題を解きなさい。"
+    }
+  ],
+  "check_points": [
+    "solve a problem の意味を言えるか",
+    "No problem. の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "problem の語法(solve / deal with)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1482
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "mystery",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈmɪstəri/",
+  "core_image": {
+    "text": "理由がわからず、包まれたままのなぞ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"40\" width=\"120\" height=\"80\"/><path d=\"M110 64 q0 -12 12 -12 q12 0 12 10 q0 8 -12 12 l0 8\"/><circle cx=\"122\" cy=\"96\" r=\"3\"/><path d=\"M50 30 Q120 10 190 30\" stroke-dasharray=\"4 4\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">なぞ</text></svg>"
+  },
+  "etymology": "ギリシャ語 mystērion(秘密の儀式。myein=目・口を閉じる) → 秘密・秘儀 → 説明のつかないこと=なぞ → 推理小説 → mysterious=なぞめいた",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "something that is difficult to understand or explain; a story about a crime that is solved at the end."
+    }
+  ],
+  "cautions": [
+    "puzzle=頭をひねるなぞ・パズル/mystery=原因がわからず説明がつかないなぞ・神秘",
+    "It is a mystery (to A) why …=なぜ…かは(Aには)なぞだ",
+    "a murder mystery=殺人ミステリー",
+    "mysterious=なぞめいた・不可思議な"
+  ],
+  "patterns": [
+    {
+      "form": "remain a mystery",
+      "meaning": "なぞのままだ"
+    },
+    {
+      "form": "It is a mystery why …",
+      "meaning": "なぜ…かはなぞだ"
+    },
+    {
+      "form": "solve a mystery",
+      "meaning": "なぞを解く"
+    },
+    {
+      "form": "mysterious",
+      "meaning": "なぞめいた"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "なぞ",
+      "en": "The cause of the fire remains a mystery.",
+      "ja": "火事の原因はなぞのままだ。"
+    },
+    {
+      "source": "original",
+      "label": "なぞ",
+      "en": "It's a mystery to me why she left.",
+      "ja": "彼女がなぜ去ったのか私にはなぞだ。"
+    },
+    {
+      "source": "original",
+      "label": "なぞを解く",
+      "en": "The detective solved the mystery.",
+      "ja": "探偵はなぞを解いた。"
+    },
+    {
+      "source": "original",
+      "label": "ミステリー",
+      "en": "I love reading murder mysteries.",
+      "ja": "殺人ミステリーを読むのが大好きだ。"
+    },
+    {
+      "source": "original",
+      "label": "なぞめいた",
+      "en": "A mysterious man appeared at the door.",
+      "ja": "なぞめいた男が戸口に現れた。"
+    },
+    {
+      "source": "original",
+      "label": "神秘",
+      "en": "Scientists are still exploring the mysteries of the universe.",
+      "ja": "科学者たちは今も宇宙の神秘を探っている。"
+    }
+  ],
+  "check_points": [
+    "puzzle と mystery のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "remain a mystery が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1485
+    }
+  ]
+}

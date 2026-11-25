@@ -1,0 +1,98 @@
+{
+  "word": "barrier",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈbæriər/",
+  "core_image": {
+    "text": "行き来をさえぎる、横にわたした柵・壁",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"40\" y1=\"90\" x2=\"200\" y2=\"90\"/><line x1=\"40\" y1=\"110\" x2=\"200\" y2=\"110\"/><line x1=\"60\" y1=\"80\" x2=\"60\" y2=\"140\"/><line x1=\"120\" y1=\"80\" x2=\"120\" y2=\"140\"/><line x1=\"180\" y1=\"80\" x2=\"180\" y2=\"140\"/></g><text x=\"120\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さえぎる柵</text></svg>"
+  },
+  "etymology": "古いフランス語 barriere(bar=横木 から) → 横木の柵・関所 → 行き来をさえぎるもの・障壁 → (理解・交流の)壁(language barrier)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a fence or wall that stops people from going somewhere; something that prevents people from doing something or communicating."
+    }
+  ],
+  "cautions": [
+    "obstacle=行く手のじゃま/barrier=行き来をさえぎる柵・(人と人の間の)見えない壁",
+    "a language barrier=言葉の壁/trade barriers=貿易障壁",
+    "a barrier to A=Aへの障壁",
+    "barrier-free=段差のない・バリアフリーの"
+  ],
+  "patterns": [
+    {
+      "form": "a language barrier",
+      "meaning": "言葉の壁"
+    },
+    {
+      "form": "a barrier to A",
+      "meaning": "Aへの障壁"
+    },
+    {
+      "form": "break down barriers",
+      "meaning": "壁を取りはらう"
+    },
+    {
+      "form": "trade barriers",
+      "meaning": "貿易障壁"
+    },
+    {
+      "form": "barrier-free",
+      "meaning": "段差のない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "言葉の壁",
+      "en": "The language barrier made it hard to make friends.",
+      "ja": "言葉の壁で友達をつくるのが難しかった。"
+    },
+    {
+      "source": "original",
+      "label": "柵",
+      "en": "Police put up barriers to keep the crowd back.",
+      "ja": "警察は群衆を下がらせるために柵を設けた。"
+    },
+    {
+      "source": "original",
+      "label": "壁を取りはらう",
+      "en": "Sports can break down barriers between cultures.",
+      "ja": "スポーツは文化間の壁を取りはらうことができる。"
+    },
+    {
+      "source": "original",
+      "label": "障壁",
+      "en": "High costs are a barrier to education for many.",
+      "ja": "多くの人にとって高い費用が教育への障壁になっている。"
+    },
+    {
+      "source": "original",
+      "label": "貿易障壁",
+      "en": "The two countries agreed to reduce trade barriers.",
+      "ja": "両国は貿易障壁を減らすことで合意した。"
+    },
+    {
+      "source": "original",
+      "label": "バリアフリー",
+      "en": "The station has been made barrier-free.",
+      "ja": "その駅はバリアフリーになった。"
+    }
+  ],
+  "check_points": [
+    "a language barrier の意味を言えるか",
+    "obstacle と barrier のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "language barrier、a barrier to が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1489
+    }
+  ]
+}

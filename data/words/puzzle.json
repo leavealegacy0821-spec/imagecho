@@ -1,0 +1,98 @@
+{
+  "word": "puzzle",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈpʌzl/",
+  "core_image": {
+    "text": "どうなっているのか、頭をひねらせるなぞ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"50\" width=\"50\" height=\"50\"/><rect x=\"120\" y=\"50\" width=\"50\" height=\"50\" stroke-dasharray=\"4 4\"/><circle cx=\"110\" cy=\"75\" r=\"8\"/><path d=\"M160 30 q0 -10 10 -10 q10 0 10 10 q0 6 -10 10 l0 6\"/></g><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">頭をひねる</text></svg>"
+  },
+  "etymology": "(語源ははっきりしない)まごつかせる → 頭を悩ませるもの=なぞ・難問 → パズル → (動詞)困惑させる → puzzled=当惑した",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a game or question that you have to think hard about to solve; something difficult to understand."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make someone confused because they cannot understand something."
+    }
+  ],
+  "cautions": [
+    "mystery=なぞ(説明がつかない)/puzzle=頭をひねるなぞ・パズル",
+    "be puzzled by [about] A=Aに当惑している",
+    "puzzling=不可解な",
+    "a jigsaw puzzle=ジグソーパズル"
+  ],
+  "patterns": [
+    {
+      "form": "solve a puzzle",
+      "meaning": "パズルを解く"
+    },
+    {
+      "form": "be puzzled by A",
+      "meaning": "Aに当惑する"
+    },
+    {
+      "form": "puzzling",
+      "meaning": "不可解な"
+    },
+    {
+      "form": "puzzle over A",
+      "meaning": "Aに頭を悩ませる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "パズル",
+      "en": "I like doing crossword puzzles.",
+      "ja": "クロスワードパズルをするのが好きだ。"
+    },
+    {
+      "source": "original",
+      "label": "当惑する",
+      "en": "She was puzzled by his strange behavior.",
+      "ja": "彼女は彼の奇妙なふるまいに当惑した。"
+    },
+    {
+      "source": "original",
+      "label": "なぞ",
+      "en": "How the pyramids were built is still a puzzle.",
+      "ja": "ピラミッドがどう作られたかは今もなぞだ。"
+    },
+    {
+      "source": "original",
+      "label": "頭を悩ませる",
+      "en": "He puzzled over the question for an hour.",
+      "ja": "彼はその問題に1時間頭を悩ませた。"
+    },
+    {
+      "source": "original",
+      "label": "不可解な",
+      "en": "The results of the experiment were puzzling.",
+      "ja": "実験結果は不可解だった。"
+    },
+    {
+      "source": "original",
+      "label": "困惑させる",
+      "en": "What puzzles me is why he didn't call.",
+      "ja": "わからないのは、なぜ彼が電話しなかったかだ。"
+    }
+  ],
+  "check_points": [
+    "be puzzled by A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "puzzled / puzzling の -ed/-ing が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1484
+    }
+  ]
+}

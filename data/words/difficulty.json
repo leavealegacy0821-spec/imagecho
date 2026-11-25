@@ -1,0 +1,93 @@
+{
+  "word": "difficulty",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈdɪfɪkəlti/",
+  "core_image": {
+    "text": "なかなか進めない、むずかしさ・苦労",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"20,140 60,140 60,110 100,110 100,80 140,80 140,50 180,50\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"56\" y2=\"60\"/></g><text x=\"180\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">苦労</text></svg>"
+  },
+  "etymology": "difficult(dis=〜ない+facilis=たやすい:facility と同じ根)の名詞 → たやすくないこと → むずかしさ・困難・苦労",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the fact of being hard to do or understand; a problem."
+    }
+  ],
+  "cautions": [
+    "have difficulty (in) doing=〜するのに苦労する(頻出・in は省略されることが多い)",
+    "with difficulty=苦労して(⇔ without difficulty=楽に)",
+    "be in difficulty [difficulties]=困っている",
+    "problem=問題(具体的)/difficulty=むずかしさ・困難"
+  ],
+  "patterns": [
+    {
+      "form": "have difficulty (in) doing",
+      "meaning": "〜するのに苦労する"
+    },
+    {
+      "form": "with difficulty",
+      "meaning": "苦労して"
+    },
+    {
+      "form": "without difficulty",
+      "meaning": "楽に"
+    },
+    {
+      "form": "be in difficulty",
+      "meaning": "困っている"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "苦労する",
+      "en": "I had difficulty finding the hotel.",
+      "ja": "ホテルを見つけるのに苦労した。"
+    },
+    {
+      "source": "original",
+      "label": "苦労して",
+      "en": "He climbed the stairs with difficulty.",
+      "ja": "彼はやっとのことで階段をのぼった。"
+    },
+    {
+      "source": "original",
+      "label": "楽に",
+      "en": "She passed the test without difficulty.",
+      "ja": "彼女は難なくテストに合格した。"
+    },
+    {
+      "source": "original",
+      "label": "困難",
+      "en": "The company is in financial difficulties.",
+      "ja": "その会社は経営難に陥っている。"
+    },
+    {
+      "source": "original",
+      "label": "むずかしさ",
+      "en": "The difficulty of the test surprised everyone.",
+      "ja": "テストのむずかしさにみんな驚いた。"
+    },
+    {
+      "source": "original",
+      "label": "苦労する",
+      "en": "Many old people have difficulty using smartphones.",
+      "ja": "多くのお年寄りはスマートフォンを使うのに苦労している。"
+    }
+  ],
+  "check_points": [
+    "have difficulty (in) doing の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "have difficulty (in) doing が文法で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1483
+    }
+  ]
+}

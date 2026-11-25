@@ -1,0 +1,93 @@
+{
+  "word": "setback",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈsetbæk/",
+  "core_image": {
+    "text": "進んでいたのに、うしろへ押し戻される",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"20,130 60,110 100,90 120,70\"/><line x1=\"120\" y1=\"70\" x2=\"150\" y2=\"100\"/><polyline points=\"147.7,92.3 150,100 142.3,97.7\"/><polyline points=\"150,100 190,80 220,60\" stroke-dasharray=\"4 4\"/></g><text x=\"80\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">押し戻される</text></svg>"
+  },
+  "etymology": "set back(うしろへ戻す・遅らせる)の名詞 → 進歩を押し戻すこと → つまずき・挫折・後退",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a problem that delays or stops progress or makes a situation worse."
+    }
+  ],
+  "cautions": [
+    "obstacle=前に立ちはだかる障害/setback=進んでいたのに押し戻されるつまずき・挫折",
+    "suffer [face] a setback=挫折する・つまずく",
+    "set A back=Aを遅らせる・(費用が)かかる(口語)",
+    "a temporary setback=一時的なつまずき"
+  ],
+  "patterns": [
+    {
+      "form": "suffer a setback",
+      "meaning": "つまずく"
+    },
+    {
+      "form": "a major setback",
+      "meaning": "大きな後退"
+    },
+    {
+      "form": "a temporary setback",
+      "meaning": "一時的なつまずき"
+    },
+    {
+      "form": "set A back",
+      "meaning": "Aを遅らせる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "つまずき",
+      "en": "The team suffered a setback when their best player was injured.",
+      "ja": "最高の選手がけがをして、チームはつまずいた。"
+    },
+    {
+      "source": "original",
+      "label": "後退",
+      "en": "The bad weather was a setback for the farmers.",
+      "ja": "悪天候は農家にとって痛手だった。"
+    },
+    {
+      "source": "original",
+      "label": "一時的なつまずき",
+      "en": "This is only a temporary setback.",
+      "ja": "これは一時的なつまずきにすぎない。"
+    },
+    {
+      "source": "original",
+      "label": "遅らせる",
+      "en": "The accident set the project back by six months.",
+      "ja": "その事故で事業は6か月遅れた。"
+    },
+    {
+      "source": "original",
+      "label": "挫折",
+      "en": "Don't give up after one setback.",
+      "ja": "一度の挫折であきらめるな。"
+    },
+    {
+      "source": "original",
+      "label": "後退",
+      "en": "The peace talks suffered a major setback.",
+      "ja": "和平交渉は大きく後退した。"
+    }
+  ],
+  "check_points": [
+    "suffer a setback の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "setback が時事・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1490
+    }
+  ]
+}
