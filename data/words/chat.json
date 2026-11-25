@@ -1,0 +1,98 @@
+{
+  "word": "chat",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/tʃæt/",
+  "core_image": {
+    "text": "気軽に、楽しくおしゃべりする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><path d=\"M76 40 Q96 24 116 40 Q96 50 80 46 L72 54 Z\"/><path d=\"M164 40 Q144 24 124 40 Q144 50 160 46 L168 54 Z\"/></g><text x=\"120\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">気軽に</text></svg>"
+  },
+  "etymology": "chatter(ぺちゃくちゃしゃべる)の短縮 → 気軽におしゃべりする → (ネットで)チャットする → (名詞)おしゃべり・雑談",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to talk in a friendly informal way; to exchange messages online."
+    },
+    {
+      "pos": "名詞",
+      "text": "a friendly informal conversation."
+    }
+  ],
+  "cautions": [
+    "talk=話す(広い)/chat=気軽に楽しくおしゃべりする",
+    "chat with A about B=AとBについておしゃべりする",
+    "have a chat=おしゃべりする/chat online=ネットでチャットする",
+    "gossip=うわさ話をする"
+  ],
+  "patterns": [
+    {
+      "form": "chat with A",
+      "meaning": "Aとおしゃべりする"
+    },
+    {
+      "form": "chat about A",
+      "meaning": "Aについて雑談する"
+    },
+    {
+      "form": "have a chat",
+      "meaning": "おしゃべりする"
+    },
+    {
+      "form": "chat online",
+      "meaning": "チャットする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "おしゃべりする",
+      "en": "We chatted over coffee for an hour.",
+      "ja": "私たちはコーヒーを飲みながら1時間おしゃべりした。"
+    },
+    {
+      "source": "original",
+      "label": "おしゃべり",
+      "en": "Let's have a chat after class.",
+      "ja": "授業のあとちょっと話そうよ。"
+    },
+    {
+      "source": "original",
+      "label": "雑談する",
+      "en": "They were chatting about the weekend.",
+      "ja": "彼らは週末について雑談していた。"
+    },
+    {
+      "source": "original",
+      "label": "チャットする",
+      "en": "I chat online with friends abroad.",
+      "ja": "海外の友達とネットでチャットしている。"
+    },
+    {
+      "source": "original",
+      "label": "話す",
+      "en": "Can I chat with you for a minute?",
+      "ja": "ちょっと話してもいい?"
+    },
+    {
+      "source": "original",
+      "label": "おしゃべり",
+      "en": "The teacher stopped the students' chat.",
+      "ja": "先生は生徒のおしゃべりをやめさせた。"
+    }
+  ],
+  "check_points": [
+    "talk と chat のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "会話で have a chat が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1331
+    }
+  ]
+}

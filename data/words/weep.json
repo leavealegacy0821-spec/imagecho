@@ -1,0 +1,90 @@
+{
+  "word": "weep",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/wiːp/",
+  "core_image": {
+    "text": "声をおさえて、静かに涙を流す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"112\" y2=\"56\"/><line x1=\"120\" y1=\"74\" x2=\"128\" y2=\"56\"/><path d=\"M110 60 q-2 6 0 10\"/><path d=\"M130 60 q2 6 0 10\"/><circle cx=\"108\" cy=\"76\" r=\"2\"/><circle cx=\"132\" cy=\"76\" r=\"2\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しくしく</text></svg>"
+  },
+  "etymology": "古い英語 wēpan(泣く・嘆く) → 涙を流して泣く(cry より文語的・静か) → 活用 weep - wept - wept",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to cry tears, especially quietly and for a long time (a literary word)."
+    }
+  ],
+  "cautions": [
+    "活用 weep - wept - wept",
+    "cry=声を出して泣く(日常)/weep=静かに涙を流して泣く(文語・長文・物語)",
+    "weep for [over] A=Aを思って泣く",
+    "weep with joy=うれし泣きする"
+  ],
+  "patterns": [
+    {
+      "form": "weep for A",
+      "meaning": "Aを思って泣く"
+    },
+    {
+      "form": "weep over A",
+      "meaning": "Aを嘆いて泣く"
+    },
+    {
+      "form": "weep with joy",
+      "meaning": "うれし泣きする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "泣く",
+      "en": "She wept when she heard of his death.",
+      "ja": "彼の死を聞いて彼女は涙を流した。"
+    },
+    {
+      "source": "original",
+      "label": "泣く",
+      "en": "The old man wept for his lost son.",
+      "ja": "老人は亡くした息子を思って泣いた。"
+    },
+    {
+      "source": "original",
+      "label": "うれし泣き",
+      "en": "The mother wept with joy when her son came home.",
+      "ja": "息子が帰ってきて母親はうれし泣きした。"
+    },
+    {
+      "source": "original",
+      "label": "しくしく泣く",
+      "en": "I could hear someone weeping in the next room.",
+      "ja": "隣の部屋で誰かがしくしく泣いているのが聞こえた。"
+    },
+    {
+      "source": "original",
+      "label": "嘆く",
+      "en": "There is no point weeping over the past.",
+      "ja": "過去を嘆いても仕方がない。"
+    },
+    {
+      "source": "original",
+      "label": "泣く",
+      "en": "The movie made everyone weep.",
+      "ja": "その映画にはみんな涙した。"
+    }
+  ],
+  "check_points": [
+    "weep の活用(wept)を言えるか",
+    "cry と weep のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "活用 wept、物語文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1340
+    }
+  ]
+}

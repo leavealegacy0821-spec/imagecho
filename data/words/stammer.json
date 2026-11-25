@@ -1,0 +1,94 @@
+{
+  "word": "stammer",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈstæmər/",
+  "core_image": {
+    "text": "ことばがつかえて、どもる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"84\" y2=\"96\"/><rect x=\"90\" y=\"40\" width=\"10\" height=\"14\"/><rect x=\"104\" y=\"40\" width=\"10\" height=\"14\"/><rect x=\"118\" y=\"40\" width=\"10\" height=\"14\"/><rect x=\"140\" y=\"40\" width=\"40\" height=\"14\"/></g><text x=\"150\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">つ、つかえる</text></svg>"
+  },
+  "etymology": "古い英語 stamerian(どもる) → ことばにつかえる → どもる・(緊張で)口ごもる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to speak with difficulty, repeating sounds, because of a speech problem or because you are nervous."
+    },
+    {
+      "pos": "名詞",
+      "text": "a speech problem in which you repeat sounds."
+    }
+  ],
+  "cautions": [
+    "stammer=緊張・障害で同じ音をくり返してどもる(=stutter)",
+    "stammer out A=Aをどもりながら言う",
+    "have a stammer=吃音がある",
+    "mumble=もごもご/stammer=つかえてくり返す"
+  ],
+  "patterns": [
+    {
+      "form": "stammer A",
+      "meaning": "Aをどもりながら言う"
+    },
+    {
+      "form": "stammer out an apology",
+      "meaning": "どもりながら謝る"
+    },
+    {
+      "form": "have a stammer",
+      "meaning": "吃音がある"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "どもる",
+      "en": "He stammered when he was nervous.",
+      "ja": "彼は緊張するとどもった。"
+    },
+    {
+      "source": "original",
+      "label": "どもりながら",
+      "en": "She stammered out an apology.",
+      "ja": "彼女はどもりながら謝った。"
+    },
+    {
+      "source": "original",
+      "label": "吃音",
+      "en": "The king had a stammer.",
+      "ja": "その王には吃音があった。"
+    },
+    {
+      "source": "original",
+      "label": "口ごもる",
+      "en": "\"I-I'm sorry,\" he stammered.",
+      "ja": "「ご、ごめんなさい」と彼は口ごもった。"
+    },
+    {
+      "source": "original",
+      "label": "どもる",
+      "en": "Speech therapy helped her stop stammering.",
+      "ja": "言語療法のおかげで彼女はどもらなくなった。"
+    },
+    {
+      "source": "original",
+      "label": "口ごもる",
+      "en": "I stammered a reply to the sudden question.",
+      "ja": "突然の質問に口ごもりながら答えた。"
+    }
+  ],
+  "check_points": [
+    "mumble と stammer のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "声の動詞の使い分けで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1336
+    }
+  ]
+}

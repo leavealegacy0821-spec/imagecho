@@ -1,0 +1,94 @@
+{
+  "word": "mutter",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈmʌtər/",
+  "core_image": {
+    "text": "不満そうに、口の中でぶつぶつ言う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"84\" y2=\"96\"/><path d=\"M84 58 q4 -4 8 0 t8 0 t8 0\"/><path d=\"M84 66 q4 -4 8 0 t8 0\"/></g><text x=\"170\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぶつぶつ</text></svg>"
+  },
+  "etymology": "中英語 moteren(低い声で言う。音をまねた語) → 口の中で低くつぶやく → (不満を)ぶつぶつ言う",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to speak quietly so that it is difficult to hear, especially when you are annoyed."
+    },
+    {
+      "pos": "名詞",
+      "text": "quiet words that are difficult to hear."
+    }
+  ],
+  "cautions": [
+    "murmur=低くやわらかい声でつぶやく(ざわめき)/mutter=不満・怒りを口の中でぶつぶつ言う/mumble=はっきりしない発音でもごもご言う",
+    "mutter about A=Aについてぶつぶつ言う",
+    "mutter to oneself=ひとりごとを言う",
+    "whisper=ささやく(相手に)"
+  ],
+  "patterns": [
+    {
+      "form": "mutter A",
+      "meaning": "Aをぶつぶつ言う"
+    },
+    {
+      "form": "mutter about A",
+      "meaning": "Aについてぶつぶつ言う"
+    },
+    {
+      "form": "mutter to oneself",
+      "meaning": "ひとりごとを言う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ぶつぶつ言う",
+      "en": "He muttered something about the bad weather.",
+      "ja": "彼は悪天候についてぶつぶつ何か言った。"
+    },
+    {
+      "source": "original",
+      "label": "ひとりごと",
+      "en": "She was muttering to herself as she worked.",
+      "ja": "彼女は作業しながらひとりごとを言っていた。"
+    },
+    {
+      "source": "original",
+      "label": "ぶつぶつ言う",
+      "en": "\"That's not fair,\" he muttered.",
+      "ja": "「ずるいよ」と彼はぶつぶつ言った。"
+    },
+    {
+      "source": "original",
+      "label": "不平",
+      "en": "There were mutters of complaint in the audience.",
+      "ja": "観客の中からぶつぶつ不平の声が上がった。"
+    },
+    {
+      "source": "original",
+      "label": "つぶやく",
+      "en": "He muttered an apology and left.",
+      "ja": "彼は小声で謝って立ち去った。"
+    },
+    {
+      "source": "original",
+      "label": "ぶつぶつ",
+      "en": "Stop muttering and speak clearly.",
+      "ja": "ぶつぶつ言わずにはっきり話しなさい。"
+    }
+  ],
+  "check_points": [
+    "murmur・mutter・mumble のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "声の動詞の使い分けで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1334
+    }
+  ]
+}

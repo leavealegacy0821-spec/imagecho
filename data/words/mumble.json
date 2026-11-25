@@ -1,0 +1,93 @@
+{
+  "word": "mumble",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈmʌmbl/",
+  "core_image": {
+    "text": "口をあまり開けずに、もごもご言う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"84\" y2=\"96\"/><ellipse cx=\"120\" cy=\"50\" rx=\"24\" ry=\"12\" stroke-dasharray=\"3 3\"/><line x1=\"110\" y1=\"50\" x2=\"130\" y2=\"50\"/></g><text x=\"180\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もごもご</text></svg>"
+  },
+  "etymology": "中英語 momelen(口を閉じたまま言う。音をまねた語) → もごもごはっきりしない言い方をする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to speak quietly without opening your mouth enough, so that words are hard to understand."
+    },
+    {
+      "pos": "名詞",
+      "text": "a quiet unclear way of speaking."
+    }
+  ],
+  "cautions": [
+    "mutter=不満でぶつぶつ/mumble=口を開けずにもごもごはっきりしない(不満とは限らない)",
+    "mumble an answer=もごもごと答える",
+    "speak clearly(はっきり話す)の反対"
+  ],
+  "patterns": [
+    {
+      "form": "mumble A",
+      "meaning": "Aをもごもご言う"
+    },
+    {
+      "form": "mumble an answer",
+      "meaning": "もごもごと答える"
+    },
+    {
+      "form": "in a mumble",
+      "meaning": "もごもごと"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "もごもご言う",
+      "en": "He mumbled something I couldn't understand.",
+      "ja": "彼は私にわからないことをもごもご言った。"
+    },
+    {
+      "source": "original",
+      "label": "もごもごと答える",
+      "en": "The shy boy mumbled an answer.",
+      "ja": "内気な少年はもごもごと答えた。"
+    },
+    {
+      "source": "original",
+      "label": "もごもご",
+      "en": "Don't mumble! Speak up.",
+      "ja": "もごもご言わないで、大きな声で話して。"
+    },
+    {
+      "source": "original",
+      "label": "もごもご",
+      "en": "She spoke in a low mumble.",
+      "ja": "彼女は低い声でもごもご話した。"
+    },
+    {
+      "source": "original",
+      "label": "つぶやく",
+      "en": "He mumbled \"thank you\" and took the box.",
+      "ja": "彼はぼそっと「ありがとう」と言って箱を受け取った。"
+    },
+    {
+      "source": "original",
+      "label": "もごもご",
+      "en": "The old man mumbled in his sleep.",
+      "ja": "老人は寝ながらもごもご言った。"
+    }
+  ],
+  "check_points": [
+    "mutter と mumble のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "声の動詞の使い分けで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1335
+    }
+  ]
+}

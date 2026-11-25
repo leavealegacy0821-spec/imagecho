@@ -1657,12 +1657,17 @@
     },
     {
       "title": "使い分け:声の出し方",
-      "note": "shout=大声を張り上げる ／ whisper=息だけでささやく ／ murmur=低い声でぼそぼそつぶやく ／ utter=声に出して言う",
+      "note": "shout=大声を張り上げる ／ whisper=息だけでささやく ／ murmur=低い声でぼそぼそつぶやく ／ utter=声に出して言う ／ mutter=不満そうに口の中でぶつぶつ ／ mumble=口を開けずにもごもご ／ stammer=ことばがつかえてどもる ／ yell=怒り・興奮でわっと大声 ／ scream=恐怖・痛みでキャーッと甲高く",
       "words": [
         "shout",
         "whisper",
         "murmur",
-        "utter"
+        "utter",
+        "mutter",
+        "mumble",
+        "stammer",
+        "yell",
+        "scream"
       ]
     },
     {
@@ -2302,6 +2307,18 @@
         "dash",
         "sprint",
         "rush"
+      ]
+    },
+    {
+      "title": "使い分け:しゃべる・泣く",
+      "note": "talk=話す(広い) ／ chat=気軽に楽しくおしゃべり ／ chatter=ぺちゃくちゃ止まらずしゃべる ／ gossip=他人のことをひそひそうわさ ／ cry=声をあげて泣く・叫ぶ ／ weep=声をおさえて静かに涙を流す(wept)",
+      "words": [
+        "talk",
+        "chat",
+        "chatter",
+        "gossip",
+        "cry",
+        "weep"
       ]
     },
     {

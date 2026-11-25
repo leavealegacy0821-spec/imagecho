@@ -1,0 +1,98 @@
+{
+  "word": "gossip",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈɡɑːsɪp/",
+  "core_image": {
+    "text": "ほかの人のことを、ひそひそうわさする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><circle cx=\"110\" cy=\"52\" r=\"10\"/><line x1=\"110\" y1=\"62\" x2=\"110\" y2=\"106\"/><line x1=\"110\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"110\" y1=\"106\" x2=\"120\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"78\" y2=\"60\"/><path d=\"M76 40 Q86 34 96 40\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"140\" y1=\"30\" x2=\"186\" y2=\"40\" stroke-dasharray=\"3 4\"/></g><text x=\"150\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">うわさ話</text></svg>"
+  },
+  "etymology": "古い英語 godsibb(神の前の親類=名付け親) → 親しい仲間 → 仲間内のおしゃべり → 他人のうわさ話・ゴシップ(をする人)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "conversation about other people's private lives, which may not be true; a person who enjoys doing this."
+    },
+    {
+      "pos": "動詞",
+      "text": "to talk about other people's private lives."
+    }
+  ],
+  "cautions": [
+    "chat=気軽なおしゃべり/gossip=他人の私生活についてのうわさ話(本当でないことも)",
+    "gossip は不可算(a piece of gossip=1つのうわさ)",
+    "gossip about A=Aのうわさ話をする",
+    "rumor=(広まる)うわさ"
+  ],
+  "patterns": [
+    {
+      "form": "gossip about A",
+      "meaning": "Aのうわさ話をする"
+    },
+    {
+      "form": "a piece of gossip",
+      "meaning": "1つのうわさ"
+    },
+    {
+      "form": "a gossip",
+      "meaning": "うわさ好きの人"
+    },
+    {
+      "form": "spread gossip",
+      "meaning": "うわさを広める"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "うわさ話",
+      "en": "Don't believe all the gossip you hear.",
+      "ja": "聞いたうわさ話を全部信じてはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "うわさ話をする",
+      "en": "They were gossiping about their neighbors.",
+      "ja": "彼らは近所の人のうわさ話をしていた。"
+    },
+    {
+      "source": "original",
+      "label": "うわさ好き",
+      "en": "She is a terrible gossip.",
+      "ja": "彼女はとてもうわさ好きだ。"
+    },
+    {
+      "source": "original",
+      "label": "うわさ",
+      "en": "Have you heard the latest gossip?",
+      "ja": "最新のうわさ聞いた?"
+    },
+    {
+      "source": "original",
+      "label": "ゴシップ",
+      "en": "The magazine is full of celebrity gossip.",
+      "ja": "その雑誌は有名人のゴシップでいっぱいだ。"
+    },
+    {
+      "source": "original",
+      "label": "うわさを広める",
+      "en": "It's wrong to spread gossip.",
+      "ja": "うわさを広めるのはよくない。"
+    }
+  ],
+  "check_points": [
+    "chat と gossip のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "gossip が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1332
+    }
+  ]
+}

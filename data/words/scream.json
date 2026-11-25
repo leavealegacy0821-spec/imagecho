@@ -1,0 +1,94 @@
+{
+  "word": "scream",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/skriːm/",
+  "core_image": {
+    "text": "恐怖や痛みで、キャーッと甲高く叫ぶ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"60\" r=\"12\"/><ellipse cx=\"80\" cy=\"64\" rx=\"3\" ry=\"4\"/><line x1=\"80\" y1=\"72\" x2=\"80\" y2=\"110\"/><line x1=\"80\" y1=\"110\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"110\" x2=\"90\" y2=\"140\"/><line x1=\"80\" y1=\"84\" x2=\"64\" y2=\"64\"/><line x1=\"80\" y1=\"84\" x2=\"96\" y2=\"64\"/><polyline points=\"110,40 120,50 130,36 140,52 150,38 160,54\"/></g><text x=\"180\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">キャーッ</text></svg>"
+  },
+  "etymology": "中英語 scremen(甲高く叫ぶ。音をまねた語の仲間) → (恐怖・痛み・興奮で)悲鳴をあげる → (名詞)悲鳴・金切り声",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make a loud high cry because you are afraid, hurt or excited."
+    },
+    {
+      "pos": "名詞",
+      "text": "a loud high cry."
+    }
+  ],
+  "cautions": [
+    "shout=大声で言う/yell=わっと大声/scream=(恐怖・痛み・興奮で)キャーッと甲高い悲鳴",
+    "scream with [in] fear [pain]=恐怖[痛み]で悲鳴をあげる",
+    "scream for help=悲鳴をあげて助けを求める",
+    "名詞 let out a scream=悲鳴をあげる"
+  ],
+  "patterns": [
+    {
+      "form": "scream with A",
+      "meaning": "Aで悲鳴をあげる"
+    },
+    {
+      "form": "scream for help",
+      "meaning": "悲鳴をあげて助けを求める"
+    },
+    {
+      "form": "let out a scream",
+      "meaning": "悲鳴をあげる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "悲鳴をあげる",
+      "en": "She screamed when she saw the snake.",
+      "ja": "ヘビを見て彼女は悲鳴をあげた。"
+    },
+    {
+      "source": "original",
+      "label": "悲鳴をあげる",
+      "en": "The children screamed with excitement on the roller coaster.",
+      "ja": "子どもたちはジェットコースターで歓声をあげた。"
+    },
+    {
+      "source": "original",
+      "label": "助けを求める",
+      "en": "We heard someone screaming for help.",
+      "ja": "誰かが悲鳴をあげて助けを求めているのが聞こえた。"
+    },
+    {
+      "source": "original",
+      "label": "悲鳴",
+      "en": "A loud scream came from the house.",
+      "ja": "その家から大きな悲鳴が聞こえた。"
+    },
+    {
+      "source": "original",
+      "label": "悲鳴をあげる",
+      "en": "He let out a scream of pain.",
+      "ja": "彼は痛くて悲鳴をあげた。"
+    },
+    {
+      "source": "original",
+      "label": "叫ぶ",
+      "en": "The baby screamed all night.",
+      "ja": "赤ちゃんは一晩中泣き叫んだ。"
+    }
+  ],
+  "check_points": [
+    "yell と scream のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "声の動詞の使い分けで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1338
+    }
+  ]
+}

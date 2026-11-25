@@ -1,0 +1,103 @@
+{
+  "word": "cry",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/kraɪ/",
+  "core_image": {
+    "text": "気持ちがあふれて、声をあげる(泣く)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"60\" r=\"20\"/><circle cx=\"112\" cy=\"56\" r=\"3\"/><circle cx=\"128\" cy=\"56\" r=\"3\"/><path d=\"M112 72 Q120 66 128 72\"/><line x1=\"110\" y1=\"62\" x2=\"108\" y2=\"76\"/><line x1=\"130\" y1=\"62\" x2=\"132\" y2=\"76\"/><line x1=\"120\" y1=\"80\" x2=\"120\" y2=\"140\"/></g><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">声をあげる</text></svg>"
+  },
+  "etymology": "古いフランス語 crier(叫ぶ) → 大声をあげる・叫ぶ → (悲しみ・痛みで)声をあげて泣く → (名詞)叫び声・泣き声 → a far cry from A=Aとは大違い",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to produce tears because you are sad or hurt; to shout loudly."
+    },
+    {
+      "pos": "名詞",
+      "text": "a loud sound expressing a feeling; a period of crying."
+    }
+  ],
+  "cautions": [
+    "cry=(声を出して)泣く・叫ぶ(日常)/weep=(静かに)涙を流して泣く(文語)/sob=しゃくり上げて泣く",
+    "cry for A=Aを求めて泣く・叫ぶ/cry over A=Aのことで嘆く",
+    "It's no use crying over spilt milk.=覆水盆に返らず",
+    "a far cry from A=Aとは大違い"
+  ],
+  "patterns": [
+    {
+      "form": "cry for A",
+      "meaning": "Aを求めて泣く"
+    },
+    {
+      "form": "cry over A",
+      "meaning": "Aを嘆く"
+    },
+    {
+      "form": "cry out",
+      "meaning": "叫ぶ"
+    },
+    {
+      "form": "a cry for help",
+      "meaning": "助けを求める叫び"
+    },
+    {
+      "form": "a far cry from A",
+      "meaning": "Aとは大違い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "泣く",
+      "en": "The baby cried all night.",
+      "ja": "赤ちゃんは一晩中泣いた。"
+    },
+    {
+      "source": "original",
+      "label": "泣く",
+      "en": "She cried when she heard the sad news.",
+      "ja": "悲しい知らせを聞いて彼女は泣いた。"
+    },
+    {
+      "source": "original",
+      "label": "叫ぶ",
+      "en": "He cried out in pain.",
+      "ja": "彼は痛みで叫んだ。"
+    },
+    {
+      "source": "original",
+      "label": "嘆く",
+      "en": "It's no use crying over spilt milk.",
+      "ja": "こぼれたミルクを嘆いてもむだだ(覆水盆に返らず)。"
+    },
+    {
+      "source": "original",
+      "label": "大違い",
+      "en": "The hotel was a far cry from what we expected.",
+      "ja": "ホテルは期待していたものとは大違いだった。"
+    },
+    {
+      "source": "original",
+      "label": "叫び",
+      "en": "We heard a cry for help.",
+      "ja": "助けを求める叫び声が聞こえた。"
+    }
+  ],
+  "check_points": [
+    "cry・weep・sob のちがいを言えるか",
+    "a far cry from A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a far cry from、ことわざで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1339
+    }
+  ]
+}
