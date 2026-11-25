@@ -1,0 +1,98 @@
+{
+  "word": "farm",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/fɑːrm/",
+  "core_image": {
+    "text": "作物や家畜を育てる農場",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"140\" y=\"80\" width=\"60\" height=\"60\"/><polygon points=\"136,80 170,50 204,80\"/><line x1=\"20\" y1=\"120\" x2=\"120\" y2=\"120\"/><line x1=\"20\" y1=\"130\" x2=\"120\" y2=\"130\"/><line x1=\"40\" y1=\"120\" x2=\"40\" y2=\"110\"/><line x1=\"70\" y1=\"120\" x2=\"70\" y2=\"110\"/><line x1=\"100\" y1=\"120\" x2=\"100\" y2=\"110\"/></g><text x=\"70\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">のうじょう</text></svg>"
+  },
+  "etymology": "ラテン語 firma(決まった支払い:firm と同じ根) → 決まった地代で借りた土地 → 農場 → (動詞)耕す",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an area of land used for growing crops or raising animals."
+    },
+    {
+      "pos": "動詞",
+      "text": "to grow crops or raise animals."
+    }
+  ],
+  "cautions": [
+    "farm=農場(作物・家畜)/field=畑・田",
+    "farmer=農家の人/farming=農業",
+    "on a farm=農場で(on を使う)",
+    "a fish farm=養殖場"
+  ],
+  "patterns": [
+    {
+      "form": "on a farm",
+      "meaning": "農場で"
+    },
+    {
+      "form": "farmer",
+      "meaning": "農家"
+    },
+    {
+      "form": "farming",
+      "meaning": "農業"
+    },
+    {
+      "form": "a dairy farm",
+      "meaning": "酪農場"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "農場",
+      "en": "My grandparents live on a farm.",
+      "ja": "祖父母は農場に住んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "農家",
+      "en": "Farmers work hard every day.",
+      "ja": "農家の人は毎日よく働く。"
+    },
+    {
+      "source": "original",
+      "label": "農業",
+      "en": "Farming is important for the country.",
+      "ja": "農業はその国にとって重要だ。"
+    },
+    {
+      "source": "original",
+      "label": "酪農",
+      "en": "They have a dairy farm with 50 cows.",
+      "ja": "彼らは牛50頭の酪農場を営んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "耕す",
+      "en": "His family has farmed this land for 200 years.",
+      "ja": "彼の家族は200年間この土地を耕してきた。"
+    },
+    {
+      "source": "original",
+      "label": "養殖",
+      "en": "The fish come from a fish farm.",
+      "ja": "その魚は養殖場から来ている。"
+    }
+  ],
+  "check_points": [
+    "on a farm の前置詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "on a farm、farming が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2113
+    }
+  ]
+}

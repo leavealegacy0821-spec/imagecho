@@ -1,0 +1,93 @@
+{
+  "word": "office",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈɔːfɪs/",
+  "core_image": {
+    "text": "事務をとる部屋・(公の)役職",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"30\" width=\"180\" height=\"110\"/><rect x=\"60\" y=\"90\" width=\"60\" height=\"10\"/><line x1=\"64\" y1=\"100\" x2=\"64\" y2=\"140\"/><line x1=\"116\" y1=\"100\" x2=\"116\" y2=\"140\"/><rect x=\"74\" y=\"66\" width=\"30\" height=\"24\"/><circle cx=\"160\" cy=\"70\" r=\"10\"/><line x1=\"160\" y1=\"80\" x2=\"160\" y2=\"120\"/></g><text x=\"120\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">じむしょ</text></svg>"
+  },
+  "etymology": "ラテン語 officium(務め・仕事:opus=仕事 + facere=する) → 務め・役目 → 務めをする場所=事務所 → (公の)職",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a room or building where people work at desks; an important job or position."
+    }
+  ],
+  "cautions": [
+    "office=事務所・会社(場所)/(公の)職務",
+    "in office=在職して・政権について",
+    "take office=就任する",
+    "officer=役人・警官/official=公式の"
+  ],
+  "patterns": [
+    {
+      "form": "go to the office",
+      "meaning": "会社に行く"
+    },
+    {
+      "form": "in office",
+      "meaning": "在職中で"
+    },
+    {
+      "form": "take office",
+      "meaning": "就任する"
+    },
+    {
+      "form": "a post office",
+      "meaning": "郵便局"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "会社",
+      "en": "My father goes to the office at eight.",
+      "ja": "父は8時に会社へ行く。"
+    },
+    {
+      "source": "original",
+      "label": "事務所",
+      "en": "Come to my office after class.",
+      "ja": "授業のあと私の部屋に来なさい。"
+    },
+    {
+      "source": "original",
+      "label": "就任",
+      "en": "The new president took office in January.",
+      "ja": "新大統領は1月に就任した。"
+    },
+    {
+      "source": "original",
+      "label": "在職",
+      "en": "The party has been in office for ten years.",
+      "ja": "その党は10年間政権についている。"
+    },
+    {
+      "source": "original",
+      "label": "郵便局",
+      "en": "Where is the nearest post office?",
+      "ja": "いちばん近い郵便局はどこですか。"
+    },
+    {
+      "source": "original",
+      "label": "窓口",
+      "en": "Ask at the ticket office.",
+      "ja": "切符売り場で聞いてください。"
+    }
+  ],
+  "check_points": [
+    "take office の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "take office、in office が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2111
+    }
+  ]
+}

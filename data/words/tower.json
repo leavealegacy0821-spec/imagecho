@@ -1,0 +1,94 @@
+{
+  "word": "tower",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈtaʊər/",
+  "core_image": {
+    "text": "細く高くそびえる塔・(〜より)はるかに高い",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polygon points=\"110,140 116,40 124,40 130,140\"/><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"16\"/><rect x=\"40\" y=\"110\" width=\"30\" height=\"30\"/><rect x=\"170\" y=\"116\" width=\"30\" height=\"24\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そびえる</text></svg>"
+  },
+  "etymology": "ラテン語 turris(塔) → 塔 → (動詞)高くそびえる・(tower over)はるかにしのぐ",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a tall narrow building or part of a building."
+    },
+    {
+      "pos": "動詞",
+      "text": "to be much taller than the things around; (tower over) to be much better than others."
+    }
+  ],
+  "cautions": [
+    "tower=細く高い塔(Tokyo Tower)",
+    "tower over A=Aより高くそびえる・Aをはるかにしのぐ",
+    "a tower of strength=たよりになる人",
+    "towering=そびえ立つ"
+  ],
+  "patterns": [
+    {
+      "form": "tower over A",
+      "meaning": "Aの上にそびえる・Aをしのぐ"
+    },
+    {
+      "form": "a tower of strength",
+      "meaning": "たよりになる人"
+    },
+    {
+      "form": "towering",
+      "meaning": "そびえ立つ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "塔",
+      "en": "We climbed to the top of the tower.",
+      "ja": "塔のてっぺんまでのぼった。"
+    },
+    {
+      "source": "original",
+      "label": "そびえる",
+      "en": "The castle towers over the town.",
+      "ja": "城が町の上にそびえている。"
+    },
+    {
+      "source": "original",
+      "label": "しのぐ",
+      "en": "He towers over the other players.",
+      "ja": "彼はほかの選手を圧倒している。"
+    },
+    {
+      "source": "original",
+      "label": "たより",
+      "en": "My mother was a tower of strength to us.",
+      "ja": "母は私たちにとってたよりになる存在だった。"
+    },
+    {
+      "source": "original",
+      "label": "背が高い",
+      "en": "The tall boy towered over his classmates.",
+      "ja": "その背の高い男の子は同級生よりずっと大きかった。"
+    },
+    {
+      "source": "original",
+      "label": "電波塔",
+      "en": "Tokyo Skytree is a broadcasting tower.",
+      "ja": "東京スカイツリーは電波塔だ。"
+    }
+  ],
+  "check_points": [
+    "tower over A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "tower over が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2110
+    }
+  ]
+}
