@@ -1,0 +1,103 @@
+{
+  "word": "dread",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/dred/",
+  "core_image": {
+    "text": "まだ来ないことを、前もってひどく恐れる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"62\" y2=\"96\"/><rect x=\"160\" y=\"50\" width=\"50\" height=\"60\"/><line x1=\"170\" y1=\"66\" x2=\"200\" y2=\"66\"/><line x1=\"170\" y1=\"80\" x2=\"200\" y2=\"80\"/><line x1=\"170\" y1=\"94\" x2=\"190\" y2=\"94\"/><line x1=\"150\" y1=\"80\" x2=\"70\" y2=\"70\" stroke-dasharray=\"5 5\"/><polyline points=\"76.5,74.7 70,70 77.4,67.1\"/></g><text x=\"110\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">来るのがこわい</text></svg>"
+  },
+  "etymology": "古い英語 drǣdan(恐れる) → これから起こることを前もってひどく恐れる・おびえて待つ → (名詞)恐怖・不安 → dreadful=恐ろしい・ひどい",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to feel very worried or afraid about something that is going to happen or might happen."
+    },
+    {
+      "pos": "名詞",
+      "text": "a strong feeling of fear about something that might happen."
+    }
+  ],
+  "cautions": [
+    "fear=恐れる(広い)/dread=これから起こることを前もって恐れる(試験・面接・手術など)",
+    "dread doing=〜するのが恐ろしい(動名詞をとる)/dread to think=考えるだけでも恐ろしい",
+    "in dread of A=Aを恐れて",
+    "dreadful=恐ろしい・ひどい(口語では「ひどい」の意味でよく使う)"
+  ],
+  "patterns": [
+    {
+      "form": "dread A",
+      "meaning": "Aを(前もって)ひどく恐れる"
+    },
+    {
+      "form": "dread doing",
+      "meaning": "〜するのがこわい"
+    },
+    {
+      "form": "I dread to think …",
+      "meaning": "…は考えるだけでも恐ろしい"
+    },
+    {
+      "form": "in dread of A",
+      "meaning": "Aを恐れて"
+    },
+    {
+      "form": "dreadful",
+      "meaning": "恐ろしい・ひどい"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "恐れる",
+      "en": "I dread the day of the exam results.",
+      "ja": "試験の結果発表の日がこわい。"
+    },
+    {
+      "source": "original",
+      "label": "〜するのがこわい",
+      "en": "She dreads going to the dentist.",
+      "ja": "彼女は歯医者に行くのがこわくてたまらない。"
+    },
+    {
+      "source": "original",
+      "label": "考えるだけでも",
+      "en": "I dread to think what would happen if the dam broke.",
+      "ja": "ダムが決壊したらどうなるか考えるだけでも恐ろしい。"
+    },
+    {
+      "source": "original",
+      "label": "恐怖",
+      "en": "He lived in dread of losing his job.",
+      "ja": "彼は仕事を失うのではとおびえて暮らしていた。"
+    },
+    {
+      "source": "original",
+      "label": "ひどい",
+      "en": "The weather was dreadful during our trip.",
+      "ja": "旅行中の天気はひどかった。"
+    },
+    {
+      "source": "original",
+      "label": "恐れていた",
+      "en": "The moment she had dreaded finally came.",
+      "ja": "彼女が恐れていた瞬間がついに来た。"
+    }
+  ],
+  "check_points": [
+    "dread doing の型を言えるか",
+    "fear と dread のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "dread doing、dreadful(ひどい)が語法・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1060
+    }
+  ]
+}

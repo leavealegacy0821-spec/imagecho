@@ -1,0 +1,94 @@
+{
+  "word": "annoy",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈnɔɪ/",
+  "core_image": {
+    "text": "小さなことで、何度もいらっとさせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"80\" y1=\"74\" x2=\"66\" y2=\"96\"/><line x1=\"80\" y1=\"74\" x2=\"94\" y2=\"96\"/><path d=\"M150 50 l6 -6 l6 6 l6 -6\"/><path d=\"M176 70 l6 -6 l6 6 l6 -6\"/><path d=\"M150 90 l6 -6 l6 6 l6 -6\"/><line x1=\"96\" y1=\"44\" x2=\"104\" y2=\"38\"/><line x1=\"100\" y1=\"52\" x2=\"110\" y2=\"50\"/></g><text x=\"170\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いらっ</text></svg>"
+  },
+  "etymology": "ラテン語 in odio(いやで) → 人をいやな気分にさせる → (小さなことで)いらいらさせる・うるさがらせる → be annoyed with [at] A=Aにいらいらする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone feel slightly angry, especially by doing something again and again."
+    }
+  ],
+  "cautions": [
+    "bother=手間をかけて面倒がらせる/annoy=くり返す小さなことでいらっとさせる/irritate=神経にさわってじりじりさせる",
+    "人が主語なら受け身:be annoyed with [at] 人 / at [about] 物事",
+    "annoying=(物事が)うるさい・いらいらさせる/annoyed=(人が)いらいらした",
+    "名詞 annoyance:to A's annoyance=Aがいらだったことに"
+  ],
+  "patterns": [
+    {
+      "form": "annoy A",
+      "meaning": "Aをいらいらさせる"
+    },
+    {
+      "form": "be annoyed with A",
+      "meaning": "A(人)にいらいらする"
+    },
+    {
+      "form": "be annoyed at [about] A",
+      "meaning": "A(物事)にいらいらする"
+    },
+    {
+      "form": "annoying",
+      "meaning": "うるさい・いらいらさせる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "いらいらさせる",
+      "en": "His constant complaining really annoys me.",
+      "ja": "彼がしょっちゅう文句を言うので本当にいらいらする。"
+    },
+    {
+      "source": "original",
+      "label": "いらいらする",
+      "en": "She was annoyed with her brother for reading her diary.",
+      "ja": "彼女は弟が日記を読んだことに腹を立てた。"
+    },
+    {
+      "source": "original",
+      "label": "いらいらする",
+      "en": "I'm annoyed at the delay.",
+      "ja": "遅れにはいらいらしている。"
+    },
+    {
+      "source": "original",
+      "label": "うるさい",
+      "en": "There is an annoying noise coming from the next room.",
+      "ja": "隣の部屋からうるさい音がする。"
+    },
+    {
+      "source": "original",
+      "label": "いらだったことに",
+      "en": "To my annoyance, the train was late again.",
+      "ja": "腹立たしいことに、電車はまた遅れた。"
+    },
+    {
+      "source": "original",
+      "label": "うるさがらせる",
+      "en": "The mosquito kept annoying me all night.",
+      "ja": "蚊が一晩じゅう私をうるさがらせた。"
+    }
+  ],
+  "check_points": [
+    "annoyed と annoying の使い分けができるか",
+    "be annoyed with と at の使い分けができるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "感情動詞の -ed/-ing、be annoyed with/at が文法・会話で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1056
+    }
+  ]
+}

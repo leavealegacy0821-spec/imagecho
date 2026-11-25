@@ -1,0 +1,94 @@
+{
+  "word": "irritate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈɪrɪteɪt/",
+  "core_image": {
+    "text": "神経や肌をこすって、じりじりさせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M40 110 Q120 70 200 110\"/><polyline points=\"90,70 96,82 102,70 108,82 114,70 120,82 126,70 132,82 138,70 144,82 150,70\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こすれてじりじり</text></svg>"
+  },
+  "etymology": "ラテン語 irritare(刺激する・かき立てる) → 刺激してじりじりさせる → (人を)いらだたせる → (肌・目・のどを)ひりひりさせる・炎症を起こす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone feel annoyed or impatient; to make part of your body painful or sore."
+    }
+  ],
+  "cautions": [
+    "annoy=いらっとさせる(日常)/irritate=神経にさわってじりじりさせる(より持続的)",
+    "体への意味:The smoke irritated my eyes.=煙で目がひりひりした(医療・化学の長文)",
+    "be irritated by [at] A=Aにいらだつ/irritating=いらだたしい",
+    "名詞 irritation=いらだち・炎症"
+  ],
+  "patterns": [
+    {
+      "form": "irritate A",
+      "meaning": "Aをいらだたせる"
+    },
+    {
+      "form": "be irritated by [at] A",
+      "meaning": "Aにいらだつ"
+    },
+    {
+      "form": "irritate the skin [eyes]",
+      "meaning": "肌[目]を刺激する"
+    },
+    {
+      "form": "irritating",
+      "meaning": "いらだたしい"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "いらだたせる",
+      "en": "His habit of tapping his pen irritated everyone.",
+      "ja": "ペンをコツコツたたく彼のくせはみんなをいらだたせた。"
+    },
+    {
+      "source": "original",
+      "label": "いらだつ",
+      "en": "She was irritated by the slow service.",
+      "ja": "彼女は対応の遅さにいらいらした。"
+    },
+    {
+      "source": "original",
+      "label": "刺激する",
+      "en": "Some soaps can irritate sensitive skin.",
+      "ja": "せっけんの中には敏感な肌を刺激するものもある。"
+    },
+    {
+      "source": "original",
+      "label": "ひりひりさせる",
+      "en": "The smoke irritated my eyes.",
+      "ja": "煙で目がひりひりした。"
+    },
+    {
+      "source": "original",
+      "label": "いらだたしい",
+      "en": "It is irritating when people talk during a movie.",
+      "ja": "映画の最中に人がしゃべるのはいらだたしい。"
+    },
+    {
+      "source": "original",
+      "label": "炎症",
+      "en": "This cream reduces skin irritation.",
+      "ja": "このクリームは肌の炎症をやわらげる。"
+    }
+  ],
+  "check_points": [
+    "irritate が体(肌・目)にも使えることがわかるか",
+    "annoy と irritate のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「いらだたせる」と「(肌などを)刺激する」の訳し分けが出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1057
+    }
+  ]
+}

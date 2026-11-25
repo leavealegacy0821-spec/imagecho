@@ -415,7 +415,7 @@
     },
     {
       "title": "使い分け:心を乱す・怒らせる",
-      "note": "bother=小さく面倒をかける ／ disturb=静けさ・秩序を乱す ／ upset=ひっくり返して動揺させる ／ offend=気分を害する ／ provoke=わざと怒りをかき立てる ／ trouble=悩ませる",
+      "note": "bother=小さく面倒をかける ／ disturb=静けさ・秩序を乱す ／ upset=ひっくり返して動揺させる ／ offend=気分を害する ／ provoke=わざと怒りをかき立てる ／ trouble=悩ませる ／ annoy=小さなことでいらっとさせる ／ irritate=神経・肌にさわってじりじりさせる ／ frustrate=思うようにいかずいらだたせる",
       "words": [
         "bother",
         "disturb",
@@ -423,7 +423,10 @@
         "offend",
         "provoke",
         "trouble",
-        "embarrass"
+        "embarrass",
+        "annoy",
+        "irritate",
+        "frustrate"
       ]
     },
     {
@@ -1579,6 +1582,36 @@
       "words": [
         "hear",
         "listen"
+      ]
+    },
+    {
+      "title": "使い分け:壊す",
+      "note": "break=力を加えて割る・折る(最も広い) ／ damage=傷をつける(直せる) ／ destroy=元に戻らないほど壊す ／ ruin=めちゃくちゃにして価値をなくす ／ demolish=建物を計画的に取り壊す",
+      "words": [
+        "break",
+        "damage",
+        "destroy",
+        "ruin",
+        "demolish"
+      ]
+    },
+    {
+      "title": "使い分け:驚かせる",
+      "note": "surprise=予想外で驚かせる ／ amaze=(よい意味で)目を見はらせる ／ astonish=信じられないほどぼうぜんとさせる ／ startle=急な音・動きでびくっとさせる(人が主語なら受け身)",
+      "words": [
+        "surprise",
+        "amaze",
+        "astonish",
+        "startle"
+      ]
+    },
+    {
+      "title": "使い分け:恐れる・怖がらせる",
+      "note": "afraid=怖がっている(状態) ／ frighten=急に恐怖を与える ／ dread=これから起こることを前もって恐れる",
+      "words": [
+        "afraid",
+        "frighten",
+        "dread"
       ]
     },
     {

@@ -1,0 +1,94 @@
+{
+  "word": "startle",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈstɑːrtl/",
+  "core_image": {
+    "text": "不意をついて、びくっと飛び上がらせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"150\" cy=\"40\" r=\"10\"/><line x1=\"150\" y1=\"50\" x2=\"150\" y2=\"94\"/><line x1=\"150\" y1=\"94\" x2=\"140\" y2=\"128\"/><line x1=\"150\" y1=\"94\" x2=\"160\" y2=\"128\"/><line x1=\"150\" y1=\"62\" x2=\"130\" y2=\"46\"/><line x1=\"150\" y1=\"62\" x2=\"170\" y2=\"46\"/><line x1=\"150\" y1=\"94\" x2=\"140\" y2=\"128\"/><line x1=\"150\" y1=\"94\" x2=\"160\" y2=\"128\"/><line x1=\"40\" y1=\"70\" x2=\"70\" y2=\"70\"/><line x1=\"44\" y1=\"56\" x2=\"70\" y2=\"62\"/><line x1=\"44\" y1=\"84\" x2=\"70\" y2=\"78\"/></g><text x=\"60\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">びくっ</text></svg>"
+  },
+  "etymology": "start(びくっと動く。「出発する」の start ももとは「飛び上がる」)+le(くり返し) → 不意をついてびくっとさせる → be startled by A=Aにびくっとする → startling=ぎょっとするような",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to suddenly surprise or slightly shock someone, so that they jump or feel afraid for a moment."
+    }
+  ],
+  "cautions": [
+    "surprise=予想外/startle=急な音・動きで一瞬びくっとさせる(体が反応する驚き)",
+    "人が主語なら受け身:be startled by A / be startled to do",
+    "startling=(数字・事実が)ぎょっとするような(startling results)",
+    "frighten は「怖がらせる」。startle は一瞬の驚き"
+  ],
+  "patterns": [
+    {
+      "form": "startle A",
+      "meaning": "Aをびくっとさせる"
+    },
+    {
+      "form": "be startled by A",
+      "meaning": "Aにびくっとする"
+    },
+    {
+      "form": "be startled to do",
+      "meaning": "〜してぎょっとする"
+    },
+    {
+      "form": "startling",
+      "meaning": "ぎょっとするような"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "びくっとさせる",
+      "en": "The loud bang startled the baby.",
+      "ja": "大きなバンという音に赤ちゃんはびくっとした。"
+    },
+    {
+      "source": "original",
+      "label": "びくっとする",
+      "en": "I was startled by a knock at the door.",
+      "ja": "ドアをノックする音にびくっとした。"
+    },
+    {
+      "source": "original",
+      "label": "ぎょっとする",
+      "en": "She was startled to see a snake in the garden.",
+      "ja": "彼女は庭でヘビを見てぎょっとした。"
+    },
+    {
+      "source": "original",
+      "label": "驚かせる",
+      "en": "Sorry, I didn't mean to startle you.",
+      "ja": "ごめん、驚かせるつもりはなかったんだ。"
+    },
+    {
+      "source": "original",
+      "label": "ぎょっとするような",
+      "en": "The report revealed some startling facts about plastic waste.",
+      "ja": "その報告はプラスチックごみについてぎょっとするような事実を明らかにした。"
+    },
+    {
+      "source": "original",
+      "label": "飛び立つ",
+      "en": "The birds were startled and flew away.",
+      "ja": "鳥たちは驚いて飛び去った。"
+    }
+  ],
+  "check_points": [
+    "startle と surprise のちがいを言えるか",
+    "startling の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be startled by、startling facts が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1055
+    }
+  ]
+}

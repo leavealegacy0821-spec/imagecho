@@ -1,0 +1,94 @@
+{
+  "word": "demolish",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈmɑːlɪʃ/",
+  "core_image": {
+    "text": "建物を、計画的に取り壊して平らにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"140\" y=\"60\" width=\"50\" height=\"80\"/><line x1=\"140\" y1=\"90\" x2=\"190\" y2=\"90\"/><line x1=\"140\" y1=\"115\" x2=\"190\" y2=\"115\"/><line x1=\"40\" y1=\"20\" x2=\"110\" y2=\"20\"/><line x1=\"100\" y1=\"20\" x2=\"120\" y2=\"60\"/><circle cx=\"124\" cy=\"70\" r=\"12\"/></g><text x=\"60\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">取り壊す</text></svg>"
+  },
+  "etymology": "de(下へ・反対に)+mol(積み上げたかたまり)→ 積み上げたものを下へ崩す → (古い建物を)取り壊す → (説・主張を)完全に論破する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to pull or knock down a building on purpose; to prove that an idea or argument is completely wrong."
+    }
+  ],
+  "cautions": [
+    "destroy=(事故・災害でも)壊れてなくなる/demolish=(人が計画して)建物を取り壊す",
+    "比ゆ:demolish an argument [a theory]=議論[説]を完全にくつがえす",
+    "名詞 demolition=取り壊し",
+    "be demolished to make way for A=Aを作るために取り壊される(長文の定番表現)"
+  ],
+  "patterns": [
+    {
+      "form": "demolish A",
+      "meaning": "A(建物)を取り壊す"
+    },
+    {
+      "form": "be demolished",
+      "meaning": "取り壊される"
+    },
+    {
+      "form": "demolish A's argument",
+      "meaning": "Aの議論を論破する"
+    },
+    {
+      "form": "the demolition of A",
+      "meaning": "Aの取り壊し"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "取り壊す",
+      "en": "The old school building will be demolished next year.",
+      "ja": "古い校舎は来年取り壊される。"
+    },
+    {
+      "source": "original",
+      "label": "取り壊す",
+      "en": "They demolished the factory to build a park.",
+      "ja": "彼らは公園を作るために工場を取り壊した。"
+    },
+    {
+      "source": "original",
+      "label": "取り壊される",
+      "en": "Many old houses were demolished to make way for the new road.",
+      "ja": "新しい道路を作るために多くの古い家が取り壊された。"
+    },
+    {
+      "source": "original",
+      "label": "論破する",
+      "en": "The lawyer demolished the witness's story.",
+      "ja": "弁護士は証人の話を完全にくつがえした。"
+    },
+    {
+      "source": "original",
+      "label": "くつがえす",
+      "en": "New evidence demolished the old theory.",
+      "ja": "新しい証拠が古い説をくつがえした。"
+    },
+    {
+      "source": "original",
+      "label": "取り壊し",
+      "en": "The demolition of the stadium took three months.",
+      "ja": "競技場の取り壊しには3か月かかった。"
+    }
+  ],
+  "check_points": [
+    "destroy と demolish のちがいを言えるか",
+    "demolish an argument の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "建物の「取り壊し」と、議論を「論破する」比ゆが長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1052
+    }
+  ]
+}

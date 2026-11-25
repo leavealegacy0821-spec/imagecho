@@ -1,0 +1,98 @@
+{
+  "word": "destroy",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈstrɔɪ/",
+  "core_image": {
+    "text": "組み上がったものを、元に戻らないほど壊す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"80\" width=\"50\" height=\"60\"/><polygon points=\"26,80 55,56 84,80\"/><line x1=\"96\" y1=\"104\" x2=\"140\" y2=\"104\"/><polyline points=\"133,100.2 140,104 133,107.8\"/><polyline points=\"150,140 160,124 172,132 182,118 196,128 210,140\"/><line x1=\"166\" y1=\"110\" x2=\"174\" y2=\"100\"/><line x1=\"196\" y1=\"108\" x2=\"204\" y2=\"98\"/></g><text x=\"170\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">跡形もなく</text></svg>"
+  },
+  "etymology": "de(反対に・下へ)+stroy(積み上げる。structure・construct の struct と同じ根) → 積み上げたものを逆に崩す → 建物・町を破壊する → (希望・関係・証拠を)台無しにする → 名詞 destruction(破壊)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to damage something so badly that it no longer exists or cannot be used or repaired."
+    }
+  ],
+  "cautions": [
+    "damage=傷をつける(直せる)/destroy=元に戻らないほど壊す/ruin=めちゃくちゃにして価値をなくす",
+    "比ゆ:destroy A's hopes [career]=Aの希望[経歴]を打ち砕く",
+    "名詞 destruction/形容詞 destructive(破壊的な)。反対は construct・construction",
+    "be destroyed by fire [the earthquake]=火事[地震]で破壊される(受け身でよく出る)"
+  ],
+  "patterns": [
+    {
+      "form": "destroy A",
+      "meaning": "Aを破壊する"
+    },
+    {
+      "form": "be destroyed by A",
+      "meaning": "Aで破壊される"
+    },
+    {
+      "form": "destroy A's hopes",
+      "meaning": "Aの希望を打ち砕く"
+    },
+    {
+      "form": "the destruction of A",
+      "meaning": "Aの破壊"
+    },
+    {
+      "form": "environmental destruction",
+      "meaning": "環境破壊"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "破壊する",
+      "en": "The old castle was destroyed by fire in 1800.",
+      "ja": "その古い城は1800年に火事で焼け落ちた。"
+    },
+    {
+      "source": "original",
+      "label": "破壊する",
+      "en": "The storm destroyed hundreds of houses.",
+      "ja": "嵐で何百もの家が壊された。"
+    },
+    {
+      "source": "original",
+      "label": "打ち砕く",
+      "en": "The injury destroyed his hopes of becoming a professional player.",
+      "ja": "けがで彼のプロ選手になる望みは打ち砕かれた。"
+    },
+    {
+      "source": "original",
+      "label": "処分する",
+      "en": "The criminal destroyed all the evidence.",
+      "ja": "犯人は証拠をすべて処分した。"
+    },
+    {
+      "source": "original",
+      "label": "破壊",
+      "en": "The destruction of the rain forests is a serious problem.",
+      "ja": "熱帯雨林の破壊は深刻な問題だ。"
+    },
+    {
+      "source": "original",
+      "label": "破壊的な",
+      "en": "The tsunami had a destructive power beyond our imagination.",
+      "ja": "その津波は想像を超える破壊力をもっていた。"
+    }
+  ],
+  "check_points": [
+    "damage と destroy のちがいを言えるか",
+    "名詞 destruction を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "destroy と damage・ruin の使い分け、名詞 destruction が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 1051
+    }
+  ]
+}
