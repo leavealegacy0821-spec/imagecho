@@ -1,0 +1,98 @@
+{
+  "word": "bank",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/bæŋk/",
+  "core_image": {
+    "text": "お金をあずける銀行・川の土手(もり上がった所)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"20\" y=\"60\" width=\"90\" height=\"80\"/><polygon points=\"14,60 65,30 116,60\"/><circle cx=\"65\" cy=\"96\" r=\"12\"/><path d=\"M130 140 Q150 100 180 100 L230 100\"/><path d=\"M130 140 L230 140\" stroke-dasharray=\"4 4\"/></g><text x=\"65\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぎんこう</text><text x=\"190\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どて</text></svg>"
+  },
+  "etymology": "(1)イタリア語 banca(両替商の台) → 銀行 ／ (2)北欧の言葉(土の盛り上がり) → 川の土手・岸(2つの別の語)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a business that keeps and lends money; the land along the side of a river; a store of something."
+    },
+    {
+      "pos": "動詞",
+      "text": "(bank on) to depend on someone or something."
+    }
+  ],
+  "cautions": [
+    "bank=銀行/(the bank of a river=)川の土手(語源がちがう別の語)",
+    "bank on A=Aをあてにする",
+    "a blood bank=血液銀行",
+    "bankrupt=破産した"
+  ],
+  "patterns": [
+    {
+      "form": "put money in the bank",
+      "meaning": "銀行にお金をあずける"
+    },
+    {
+      "form": "the bank of a river",
+      "meaning": "川岸"
+    },
+    {
+      "form": "bank on A",
+      "meaning": "Aをあてにする"
+    },
+    {
+      "form": "bankrupt",
+      "meaning": "破産した"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "銀行",
+      "en": "I put my money in the bank.",
+      "ja": "お金を銀行にあずけた。"
+    },
+    {
+      "source": "original",
+      "label": "川岸",
+      "en": "We sat on the bank of the river.",
+      "ja": "川岸にすわった。"
+    },
+    {
+      "source": "original",
+      "label": "あてにする",
+      "en": "You can bank on him.",
+      "ja": "彼はあてにしていいよ。"
+    },
+    {
+      "source": "original",
+      "label": "破産",
+      "en": "The company went bankrupt.",
+      "ja": "その会社は倒産した。"
+    },
+    {
+      "source": "original",
+      "label": "口座",
+      "en": "I opened a bank account.",
+      "ja": "銀行口座を開いた。"
+    },
+    {
+      "source": "original",
+      "label": "データ",
+      "en": "The library has a bank of computers.",
+      "ja": "図書館にはパソコンがずらりと並んでいる。"
+    }
+  ],
+  "check_points": [
+    "bank の2つの意味(銀行・土手)を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "bank(土手)の多義、bank on が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2126
+    }
+  ]
+}

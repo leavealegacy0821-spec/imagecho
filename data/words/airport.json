@@ -1,0 +1,89 @@
+{
+  "word": "airport",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈerpɔːrt/",
+  "core_image": {
+    "text": "飛行機が発着する空の港",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"10\" y1=\"130\" x2=\"230\" y2=\"130\" stroke-dasharray=\"10 6\"/><path d=\"M60 80 L150 70 L190 80 L150 88 Z\"/><line x1=\"120\" y1=\"74\" x2=\"110\" y2=\"56\"/><line x1=\"120\" y1=\"84\" x2=\"110\" y2=\"100\"/><line x1=\"196\" y1=\"70\" x2=\"230\" y2=\"50\"/><polyline points=\"222,50.3 230,50 225.9,56.9\"/></g><text x=\"60\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くうこう</text></svg>"
+  },
+  "etymology": "air(空) + port(港) → 空の港=空港",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a place where planes take off and land, with buildings for passengers."
+    }
+  ],
+  "cautions": [
+    "at the airport=空港で",
+    "pick A up at the airport=Aを空港まで迎えに行く",
+    "see A off at the airport=Aを空港で見送る",
+    "port=港/airport=空港"
+  ],
+  "patterns": [
+    {
+      "form": "at the airport",
+      "meaning": "空港で"
+    },
+    {
+      "form": "pick A up at the airport",
+      "meaning": "Aを空港に迎えに行く"
+    },
+    {
+      "form": "see A off at the airport",
+      "meaning": "Aを空港で見送る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "空港で",
+      "en": "We arrived at the airport two hours early.",
+      "ja": "2時間早く空港に着いた。"
+    },
+    {
+      "source": "original",
+      "label": "迎え",
+      "en": "I'll pick you up at the airport.",
+      "ja": "空港まで迎えに行くよ。"
+    },
+    {
+      "source": "original",
+      "label": "見送り",
+      "en": "My family saw me off at the airport.",
+      "ja": "家族が空港で見送ってくれた。"
+    },
+    {
+      "source": "original",
+      "label": "国際",
+      "en": "Narita is an international airport.",
+      "ja": "成田は国際空港だ。"
+    },
+    {
+      "source": "original",
+      "label": "手続き",
+      "en": "Check in at the airport counter.",
+      "ja": "空港のカウンターで手続きをしてください。"
+    },
+    {
+      "source": "original",
+      "label": "移動",
+      "en": "It takes an hour to get to the airport.",
+      "ja": "空港まで1時間かかる。"
+    }
+  ],
+  "check_points": [
+    "see A off の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "pick up / see off at the airport が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2120
+    }
+  ]
+}

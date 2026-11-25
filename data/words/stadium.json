@@ -1,0 +1,84 @@
+{
+  "word": "stadium",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈsteɪdiəm/",
+  "core_image": {
+    "text": "観客席にかこまれた大きな競技場",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"120\" cy=\"90\" rx=\"100\" ry=\"50\"/><ellipse cx=\"120\" cy=\"90\" rx=\"60\" ry=\"26\"/><line x1=\"120\" y1=\"64\" x2=\"120\" y2=\"116\"/><circle cx=\"120\" cy=\"90\" r=\"8\"/></g><text x=\"120\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">きょうぎじょう</text></svg>"
+  },
+  "etymology": "ギリシャ語 stadion(長さの単位・その長さの競走路) → 競技場",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a large sports field with rows of seats around it."
+    }
+  ],
+  "cautions": [
+    "stadium=観客席つきの大きな競技場/gym=体育館・ジム/field=グラウンド",
+    "発音 /ˈsteɪdiəm/(スタジアムではなくステイディアム)",
+    "複数形 stadiums(stadia も)"
+  ],
+  "patterns": [
+    {
+      "form": "a baseball stadium",
+      "meaning": "野球場"
+    },
+    {
+      "form": "a packed stadium",
+      "meaning": "満員のスタジアム"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "競技場",
+      "en": "The game was held at the national stadium.",
+      "ja": "試合は国立競技場で行われた。"
+    },
+    {
+      "source": "original",
+      "label": "満員",
+      "en": "The stadium was packed with fans.",
+      "ja": "スタジアムはファンで満員だった。"
+    },
+    {
+      "source": "original",
+      "label": "野球場",
+      "en": "Koshien is a famous baseball stadium.",
+      "ja": "甲子園は有名な野球場だ。"
+    },
+    {
+      "source": "original",
+      "label": "収容",
+      "en": "The stadium holds 50,000 people.",
+      "ja": "そのスタジアムは5万人を収容する。"
+    },
+    {
+      "source": "original",
+      "label": "建設",
+      "en": "A new stadium was built for the Olympics.",
+      "ja": "オリンピックのために新しい競技場が建てられた。"
+    },
+    {
+      "source": "original",
+      "label": "体育館",
+      "en": "We play basketball in the gym.",
+      "ja": "体育館でバスケをする。"
+    }
+  ],
+  "check_points": [
+    "stadium の発音を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "発音問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2128
+    }
+  ]
+}

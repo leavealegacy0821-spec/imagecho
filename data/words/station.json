@@ -1,0 +1,98 @@
+{
+  "word": "station",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈsteɪʃn/",
+  "core_image": {
+    "text": "決まった場所に立つ所(駅・署・局)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"70\" width=\"160\" height=\"40\"/><line x1=\"40\" y1=\"70\" x2=\"200\" y2=\"70\"/><rect x=\"60\" y=\"80\" width=\"20\" height=\"16\"/><rect x=\"100\" y=\"80\" width=\"20\" height=\"16\"/><rect x=\"140\" y=\"80\" width=\"20\" height=\"16\"/><circle cx=\"70\" cy=\"116\" r=\"6\"/><circle cx=\"170\" cy=\"116\" r=\"6\"/><line x1=\"20\" y1=\"130\" x2=\"220\" y2=\"130\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">えき</text></svg>"
+  },
+  "etymology": "ラテン語 statio(立っている所:stare=立つ:stand・status と同じ根) → 立ち止まる所・持ち場 → 駅・(消防・警察の)署・(テレビ・ラジオの)局 → (動詞)配置する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a place where trains or buses stop; a building for a public service; a company that broadcasts on TV or radio."
+    },
+    {
+      "pos": "動詞",
+      "text": "to send someone to work in a particular place."
+    }
+  ],
+  "cautions": [
+    "a train [bus] station=駅[バスターミナル]",
+    "a police [fire] station=警察署[消防署]",
+    "a TV station=テレビ局",
+    "be stationed in A=Aに配属されている"
+  ],
+  "patterns": [
+    {
+      "form": "at the station",
+      "meaning": "駅で"
+    },
+    {
+      "form": "a police station",
+      "meaning": "警察署"
+    },
+    {
+      "form": "a TV station",
+      "meaning": "テレビ局"
+    },
+    {
+      "form": "be stationed in A",
+      "meaning": "Aに配属されている"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "駅",
+      "en": "I'll meet you at the station.",
+      "ja": "駅で会おう。"
+    },
+    {
+      "source": "original",
+      "label": "警察署",
+      "en": "He was taken to the police station.",
+      "ja": "彼は警察署に連れていかれた。"
+    },
+    {
+      "source": "original",
+      "label": "局",
+      "en": "Which TV station shows the game?",
+      "ja": "どのテレビ局がその試合を放送するの?"
+    },
+    {
+      "source": "original",
+      "label": "配属",
+      "en": "Her father is stationed in Okinawa.",
+      "ja": "彼女の父は沖縄に配属されている。"
+    },
+    {
+      "source": "original",
+      "label": "ガソリン",
+      "en": "We stopped at a gas station.",
+      "ja": "ガソリンスタンドに寄った。"
+    },
+    {
+      "source": "original",
+      "label": "宇宙",
+      "en": "Astronauts live on the space station.",
+      "ja": "宇宙飛行士は宇宙ステーションで暮らす。"
+    }
+  ],
+  "check_points": [
+    "station の「署・局」の意味がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "police station、TV station が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2119
+    }
+  ]
+}
