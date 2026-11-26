@@ -1,0 +1,89 @@
+{
+  "word": "vacillate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈvæsəleɪt/",
+  "core_image": {
+    "text": "二つの考えの間を、ふりこのように行ったり来たりする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"80\" y1=\"20\" x2=\"160\" y2=\"20\"/><line x1=\"120\" y1=\"20\" x2=\"78\" y2=\"100\"/><circle cx=\"74\" cy=\"108\" r=\"10\"/><line x1=\"120\" y1=\"20\" x2=\"162\" y2=\"100\"/><circle cx=\"166\" cy=\"108\" r=\"10\"/><path d=\"M86 126 Q120 144 154 126\"/><polyline points=\"146 122 154 126 150 134\"/><polyline points=\"94 122 86 126 90 134\"/></g><text x=\"32\" y=\"108\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">A案</text><text x=\"208\" y=\"108\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">B案</text></svg>"
+  },
+  "etymology": "vacill(ゆれる・ぐらつく)+ -ate(〜する)→ 左右にゆれる → ①(二つの意見・気持ちの間で)迷い続ける ②(数値・気分が)ゆれ動く",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to keep changing your mind about something, especially between two choices."
+    }
+  ],
+  "cautions": [
+    "between A and B がつくことが多い:vacillate between hope and despair(希望と絶望の間でゆれる)",
+    "vacillate=二つの間で何度も考えが変わる(優柔不断の悪い含み)/waver=決めたことが一時ぐらつく/hesitate=行動の直前にためらう/fluctuate=数値が上下する",
+    "かたい語で、優柔不断を責める文脈で出やすい。名詞は vacillation"
+  ],
+  "patterns": [
+    {
+      "form": "vacillate between A and B",
+      "meaning": "AとBの間でゆれ動く"
+    },
+    {
+      "form": "vacillate over A",
+      "meaning": "Aについて迷い続ける"
+    },
+    {
+      "form": "vacillation",
+      "meaning": "優柔不断・迷い"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "between",
+      "en": "She vacillated between studying art and studying law.",
+      "ja": "彼女は美術を学ぶか法律を学ぶかで迷い続けた。"
+    },
+    {
+      "source": "original",
+      "label": "気持ちが",
+      "en": "He vacillated between hope and despair while waiting for the results.",
+      "ja": "結果を待つあいだ、彼は希望と絶望の間でゆれ動いた。"
+    },
+    {
+      "source": "original",
+      "label": "over",
+      "en": "The committee vacillated over the plan for months.",
+      "ja": "委員会は何か月もその計画について迷い続けた。"
+    },
+    {
+      "source": "original",
+      "label": "優柔不断",
+      "en": "The leader was criticized for vacillating on important issues.",
+      "ja": "その指導者は重要な問題で態度がぐらぐらすると批判された。"
+    },
+    {
+      "source": "original",
+      "label": "vacillation",
+      "en": "After much vacillation, they finally chose a name for the baby.",
+      "ja": "さんざん迷ったすえに、彼らはようやく赤ちゃんの名前を決めた。"
+    },
+    {
+      "source": "original",
+      "label": "fluctuate との比較",
+      "en": "Prices fluctuate every day, and the buyer vacillates each time.",
+      "ja": "値段は毎日上下し、買い手はそのたびに迷う。"
+    }
+  ],
+  "check_points": [
+    "vacillate と waver のちがいを言えるか",
+    "vacillate と fluctuate の主語のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "難関大の長文・語彙問題で「迷い続ける・優柔不断である」として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2467
+    }
+  ]
+}

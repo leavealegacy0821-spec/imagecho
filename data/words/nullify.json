@@ -1,0 +1,89 @@
+{
+  "word": "nullify",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈnʌlɪfaɪ/",
+  "core_image": {
+    "text": "効き目をゼロにして、なかったのと同じにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"50\" width=\"56\" height=\"70\"/><line x1=\"40\" y1=\"66\" x2=\"76\" y2=\"66\"/><line x1=\"40\" y1=\"80\" x2=\"76\" y2=\"80\"/><line x1=\"40\" y1=\"94\" x2=\"70\" y2=\"94\"/><line x1=\"98\" y1=\"85\" x2=\"132\" y2=\"85\"/><polyline points=\"125,81.2 132,85 125,88.8\"/><ellipse cx=\"176\" cy=\"85\" rx=\"26\" ry=\"34\"/></g><text x=\"58\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">効力</text><text x=\"176\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ゼロ</text></svg>"
+  },
+  "etymology": "null(ゼロ・何もない)+ -ify(〜にする)→ ゼロにする → ①(契約・判決などを)無効にする ②(効果を)打ち消す",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make something legally invalid; to cancel out the effect of something."
+    }
+  ],
+  "cautions": [
+    "2つの使い方:①法的に無効にする(nullify a contract / a vote)②効果を打ち消す(nullify the benefits)",
+    "nullify=効力をゼロにする(法律・効果どちらにも)/revoke=与えた許可を取り消す/offset=反対の力で相殺する(プラスマイナスゼロ)",
+    "null は「ゼロ・無効」:null and void(まったく無効な)"
+  ],
+  "patterns": [
+    {
+      "form": "nullify a contract / an election",
+      "meaning": "契約・選挙を無効にする"
+    },
+    {
+      "form": "nullify the effect of A",
+      "meaning": "Aの効果を打ち消す"
+    },
+    {
+      "form": "null and void",
+      "meaning": "まったく無効な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "契約を",
+      "en": "The court nullified the contract because it was signed under pressure.",
+      "ja": "その契約は圧力のもとで結ばれたので、裁判所は無効とした。"
+    },
+    {
+      "source": "original",
+      "label": "選挙を",
+      "en": "The election results were nullified after cheating was discovered.",
+      "ja": "不正が見つかったあと、選挙の結果は無効にされた。"
+    },
+    {
+      "source": "original",
+      "label": "効果を",
+      "en": "Eating a lot of snacks will nullify the benefits of exercise.",
+      "ja": "おやつをたくさん食べると運動の効果が帳消しになる。"
+    },
+    {
+      "source": "original",
+      "label": "努力を",
+      "en": "One careless mistake nullified all our hard work.",
+      "ja": "一つの不注意なまちがいが私たちの努力をすべて無にした。"
+    },
+    {
+      "source": "original",
+      "label": "null and void",
+      "en": "The agreement was declared null and void.",
+      "ja": "その合意はまったく無効だと宣言された。"
+    },
+    {
+      "source": "original",
+      "label": "revoke との比較",
+      "en": "The officials revoked his permit, which nullified every plan he had made.",
+      "ja": "役人が彼の許可を取り消したので、彼の立てた計画はすべて無効になった。"
+    }
+  ],
+  "check_points": [
+    "nullify の null の意味を言えるか",
+    "nullify の2つの使い方を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で「無効にする・打ち消す」として出る。void・invalid と一緒に覚える。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2462
+    }
+  ]
+}

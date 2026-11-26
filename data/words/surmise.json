@@ -1,0 +1,94 @@
+{
+  "word": "surmise",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/sərˈmaɪz/",
+  "core_image": {
+    "text": "わずかな手がかりの上に、考えをそっと乗せて推し量る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"86\" y2=\"60\"/><line x1=\"86\" y1=\"60\" x2=\"80\" y2=\"48\"/><line x1=\"70\" y1=\"74\" x2=\"54\" y2=\"94\"/><polyline points=\"140 140 140 120 154 120\"/><circle cx=\"170\" cy=\"134\" r=\"4\"/><circle cx=\"196\" cy=\"124\" r=\"3\"/><path d=\"M100 40 Q130 20 160 40\"/></g><text x=\"180\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手がかり</text><text x=\"132\" y=\"16\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">〜らしい</text></svg>"
+  },
+  "etymology": "sur(上に)+ mise(置く。mission・promise と同じ根)→ 手がかりの上に考えを置く → ①(わずかな証拠から)推測する ②(名詞)推測",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to guess that something is true, using only the information you have."
+    },
+    {
+      "pos": "名詞",
+      "text": "a guess."
+    }
+  ],
+  "cautions": [
+    "that 節をとることが多い:I surmised that she was upset.",
+    "surmise=少ない手がかりから(だいたい当たる)推し量る/conjecture=証拠不足の推測(はずれもふくむ)/guess=当てずっぽう(ふつうの語)/infer=論理的に推論する",
+    "文語的なかたい語。from A(Aから)をつけて手がかりを示す"
+  ],
+  "patterns": [
+    {
+      "form": "surmise that S V",
+      "meaning": "〜だと推測する"
+    },
+    {
+      "form": "surmise A from B",
+      "meaning": "BからAを推し量る"
+    },
+    {
+      "form": "as I surmised",
+      "meaning": "私が推測したとおり"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "that 節",
+      "en": "From her red eyes, I surmised that she had been crying.",
+      "ja": "赤い目から、彼女は泣いていたのだと私は推し量った。"
+    },
+    {
+      "source": "original",
+      "label": "from",
+      "en": "The detective surmised the thief's height from the footprints.",
+      "ja": "刑事は足あとから泥棒の身長を推し量った。"
+    },
+    {
+      "source": "original",
+      "label": "as I surmised",
+      "en": "As I had surmised, the shop was closed on Monday.",
+      "ja": "推測したとおり、その店は月曜日が休みだった。"
+    },
+    {
+      "source": "original",
+      "label": "手がかりが少ない",
+      "en": "We can only surmise what the ancient people believed.",
+      "ja": "古代の人々が何を信じていたかは推測するしかない。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "My surmise turned out to be correct.",
+      "ja": "私の推測は正しかったことがわかった。"
+    },
+    {
+      "source": "original",
+      "label": "conjecture との比較",
+      "en": "He surmised the answer from a single clue, while others were lost in conjecture.",
+      "ja": "ほかの人が憶測に迷っているあいだに、彼はたった一つの手がかりから答えを推し量った。"
+    }
+  ],
+  "check_points": [
+    "surmise の sur と mise の意味を言えるか",
+    "surmise と guess のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文や語彙問題で「推測する」として出る。guess の言いかえとして狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2464
+    }
+  ]
+}

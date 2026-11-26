@@ -1,0 +1,98 @@
+{
+  "word": "conjecture",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/kənˈdʒektʃər/",
+  "core_image": {
+    "text": "少ない手がかりを投げ合わせて、答えを当て推量する",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"76\" y2=\"58\"/><line x1=\"76\" y1=\"58\" x2=\"70\" y2=\"46\"/><line x1=\"60\" y1=\"74\" x2=\"44\" y2=\"94\"/><circle cx=\"96\" cy=\"30\" r=\"3\"/><circle cx=\"106\" cy=\"20\" r=\"4\"/><circle cx=\"124\" cy=\"14\" r=\"5\"/><circle cx=\"160\" cy=\"96\" r=\"5\"/><circle cx=\"186\" cy=\"110\" r=\"5\"/><circle cx=\"200\" cy=\"84\" r=\"5\"/><line x1=\"160\" y1=\"96\" x2=\"186\" y2=\"110\" stroke-dasharray=\"5 5\"/><polyline points=\"181.6,103.3 186,110 178,110\"/><line x1=\"186\" y1=\"110\" x2=\"200\" y2=\"84\" stroke-dasharray=\"5 5\"/><polyline points=\"193.3,88.4 200,84 200,92\"/></g><text x=\"180\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手がかり</text><text x=\"160\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">たぶん…</text></svg>"
+  },
+  "etymology": "con(いっしょに)+ ject(投げる。project・reject と同じ根)→ 手がかりを投げ合わせる → ①(名詞)推測・憶測 ②(動詞)推測する",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an opinion or idea formed without proof or enough information."
+    },
+    {
+      "pos": "動詞",
+      "text": "to form an opinion without proof."
+    }
+  ],
+  "cautions": [
+    "「証拠が足りない推測」という含みがある:This is pure conjecture.(ただの憶測だ)",
+    "conjecture=証拠不足のまま組み立てた推測/speculate=あれこれ推測をめぐらす/surmise=少ない手がかりからそっと推し量る/infer=証拠から論理的に推論する",
+    "名詞で使うことが多い。be a matter of conjecture(推測の域を出ない)"
+  ],
+  "patterns": [
+    {
+      "form": "pure / mere conjecture",
+      "meaning": "ただの憶測"
+    },
+    {
+      "form": "be a matter of conjecture",
+      "meaning": "推測の域を出ない"
+    },
+    {
+      "form": "conjecture that S V",
+      "meaning": "〜だと推測する"
+    },
+    {
+      "form": "conjecture about A",
+      "meaning": "Aについての推測"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "Their story about the missing money is pure conjecture.",
+      "ja": "消えたお金についての彼らの話はただの憶測だ。"
+    },
+    {
+      "source": "original",
+      "label": "推測の域",
+      "en": "Why the ancient city was abandoned remains a matter of conjecture.",
+      "ja": "その古代都市がなぜ捨てられたのかは、今も推測の域を出ない。"
+    },
+    {
+      "source": "original",
+      "label": "動詞",
+      "en": "Some scientists conjecture that life once existed on Mars.",
+      "ja": "かつて火星に生命がいたと推測する科学者もいる。"
+    },
+    {
+      "source": "original",
+      "label": "about",
+      "en": "There has been a lot of conjecture about the singer's next album.",
+      "ja": "その歌手の次のアルバムについていろいろな憶測が出ている。"
+    },
+    {
+      "source": "original",
+      "label": "数学",
+      "en": "The mathematician finally proved a conjecture that was 300 years old.",
+      "ja": "その数学者はついに300年前からの予想を証明した。"
+    },
+    {
+      "source": "original",
+      "label": "infer との比較",
+      "en": "Do not conjecture without evidence; infer from the facts you have.",
+      "ja": "証拠なしに憶測してはいけない。手元の事実から推論しなさい。"
+    }
+  ],
+  "check_points": [
+    "conjecture の ject の意味を言えるか",
+    "conjecture と infer のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で「推測・憶測」として出る。数学の「〜予想」(Goldbach's conjecture など)にも使う。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2463
+    }
+  ]
+}

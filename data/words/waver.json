@@ -1,0 +1,93 @@
+{
+  "word": "waver",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈweɪvər/",
+  "core_image": {
+    "text": "気持ちが波のように右へ左へゆれて、決まらない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"104\" y2=\"94\"/><line x1=\"120\" y1=\"74\" x2=\"136\" y2=\"94\"/><line x1=\"104\" y1=\"30\" x2=\"70\" y2=\"30\"/><polyline points=\"77,33.8 70,30 77,26.2\"/><line x1=\"136\" y1=\"30\" x2=\"170\" y2=\"30\"/><polyline points=\"163,26.2 170,30 163,33.8\"/><path d=\"M90 16 Q105 6 120 16 Q135 26 150 16\"/></g><text x=\"45\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やる?</text><text x=\"198\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やめる?</text></svg>"
+  },
+  "etymology": "wave(波・ゆれる)と同じ根 → 波のようにゆれる → ①(決心・気持ちが)ぐらつく・迷う ②(炎・声が)ゆらぐ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be unable to make a decision; to become weaker or less certain; to move or shake slightly."
+    }
+  ],
+  "cautions": [
+    "いったん決めたこと・支持が「ぐらつく」場面でよく出る:Her support never wavered.(彼女の支持は一度もゆらがなかった)",
+    "waver=決心がゆれてぐらつく/hesitate=やる直前にためらって止まる/falter=勢いが弱まってつまずく/vacillate=二つの間を何度も行ったり来たりする",
+    "waver between A and B(AとBの間で迷う)。unwavering=ゆるぎない"
+  ],
+  "patterns": [
+    {
+      "form": "waver between A and B",
+      "meaning": "AとBの間で迷う"
+    },
+    {
+      "form": "waver in one's decision / support",
+      "meaning": "決心・支持がぐらつく"
+    },
+    {
+      "form": "never waver",
+      "meaning": "決してゆるがない"
+    },
+    {
+      "form": "unwavering",
+      "meaning": "ゆるぎない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "迷う",
+      "en": "I wavered between going to college and getting a job.",
+      "ja": "私は大学へ行くか就職するかで迷った。"
+    },
+    {
+      "source": "original",
+      "label": "支持が",
+      "en": "Even after the defeat, the fans' support never wavered.",
+      "ja": "負けたあとでも、ファンの応援は決してゆるがなかった。"
+    },
+    {
+      "source": "original",
+      "label": "決心が",
+      "en": "He began to waver in his decision to quit the team.",
+      "ja": "彼はチームを辞めるという決心がぐらつき始めた。"
+    },
+    {
+      "source": "original",
+      "label": "声が",
+      "en": "Her voice wavered as she told the sad story.",
+      "ja": "悲しい話をするとき、彼女の声はふるえた。"
+    },
+    {
+      "source": "original",
+      "label": "unwavering",
+      "en": "She has an unwavering belief in her own ability.",
+      "ja": "彼女は自分の力をゆるぎなく信じている。"
+    },
+    {
+      "source": "original",
+      "label": "hesitate との比較",
+      "en": "He did not hesitate to say yes, but later his confidence began to waver.",
+      "ja": "彼はためらわずに「はい」と言ったが、あとで自信がぐらつき始めた。"
+    }
+  ],
+  "check_points": [
+    "waver と wave のつながりを言えるか",
+    "unwavering の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で「ぐらつく・迷う」として出る。unwavering が語彙問題で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2465
+    }
+  ]
+}

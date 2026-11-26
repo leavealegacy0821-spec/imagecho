@@ -136,14 +136,16 @@
     },
     {
       "title": "使い分け:予想する・推し量る",
-      "note": "predict=言葉で前もって言う ／ foresee=前もって見通す ／ anticipate=先回りして予期・備える ／ expect=当然来ると思って待つ ／ estimate=ざっと見積もる ／ speculate=根拠なしにあれこれ推測する",
+      "note": "predict=言葉で前もって言う ／ foresee=前もって見通す ／ anticipate=先回りして予期・備える ／ expect=当然来ると思って待つ ／ estimate=ざっと見積もる ／ speculate=根拠なしにあれこれ推測する ／ conjecture=証拠が足りないまま組み立てた憶測 ／ surmise=わずかな手がかりから静かに推し量る",
       "words": [
         "predict",
         "foresee",
         "anticipate",
         "expect",
         "estimate",
-        "speculate"
+        "speculate",
+        "conjecture",
+        "surmise"
       ]
     },
     {
@@ -3783,6 +3785,27 @@
         "sew",
         "stitch",
         "weave"
+      ]
+    },
+    {
+      "title": "使い分け:取り消す・撤回する",
+      "note": "revoke=一度与えた許可・免許を呼びもどして取り消す ／ retract=自分が出した発言を引っこめる ／ repeal=議会が法律を廃止する ／ renounce=持っている権利・地位を「いらない」と公に手放す ／ nullify=効力をゼロにして無効にする",
+      "words": [
+        "revoke",
+        "retract",
+        "repeal",
+        "renounce",
+        "nullify"
+      ]
+    },
+    {
+      "title": "使い分け:ためらう・ぐらつく",
+      "note": "hesitate=やる直前に足が止まる ／ waver=決めた気持ちが波のようにぐらつく ／ falter=勢いが落ちてよろめく ／ vacillate=二つの間をふりこのように行ったり来たりする",
+      "words": [
+        "hesitate",
+        "waver",
+        "falter",
+        "vacillate"
       ]
     },
     {

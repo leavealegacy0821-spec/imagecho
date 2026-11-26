@@ -1,0 +1,93 @@
+{
+  "word": "revoke",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈvoʊk/",
+  "core_image": {
+    "text": "一度出した許可を「やっぱりなし」と呼びもどす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"80\" y2=\"66\"/><line x1=\"50\" y1=\"74\" x2=\"36\" y2=\"96\"/><rect x=\"150\" y=\"70\" width=\"34\" height=\"24\"/><line x1=\"156\" y1=\"78\" x2=\"178\" y2=\"78\"/><line x1=\"156\" y1=\"86\" x2=\"172\" y2=\"86\"/><line x1=\"146\" y1=\"66\" x2=\"188\" y2=\"98\"/><line x1=\"188\" y1=\"66\" x2=\"146\" y2=\"98\"/><path d=\"M140 60 Q112 40 86 60\"/><polyline points=\"94 56 86 60 92 67\"/></g><text x=\"113\" y=\"32\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">呼びもどす</text><text x=\"205\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">免許・許可</text></svg>"
+  },
+  "etymology": "re(元へ)+ voke(呼ぶ。voice と同じ根)→ 出したものを呼びもどす → ①(免許・許可・権利を)取り消す・無効にする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to officially say that a law, permission, or right is no longer valid."
+    }
+  ],
+  "cautions": [
+    "目的語は license(免許)・permit(許可)・visa・right(権利)など、「公に与えたもの」がふつう",
+    "revoke=与えた許可・権利を公に取り消す/repeal=法律を廃止する/retract=自分の発言を引っこめる/cancel=予定・注文をとりやめる(ふつうの語)",
+    "名詞は revocation。irrevocable=取り消せない(an irrevocable decision 取り返しのつかない決定)"
+  ],
+  "patterns": [
+    {
+      "form": "revoke A",
+      "meaning": "A(許可・権利)を取り消す"
+    },
+    {
+      "form": "have one's license revoked",
+      "meaning": "免許を取り消される"
+    },
+    {
+      "form": "revocation",
+      "meaning": "取り消し"
+    },
+    {
+      "form": "irrevocable",
+      "meaning": "取り消せない・変更できない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "免許を",
+      "en": "His driver's license was revoked after the accident.",
+      "ja": "その事故のあと、彼の運転免許は取り消された。"
+    },
+    {
+      "source": "original",
+      "label": "許可を",
+      "en": "The city revoked the company's permit to build the factory.",
+      "ja": "市はその会社の工場建設の許可を取り消した。"
+    },
+    {
+      "source": "original",
+      "label": "権利を",
+      "en": "The new law revoked the right of citizens to own guns.",
+      "ja": "新しい法律は市民が銃を持つ権利を取り消した。"
+    },
+    {
+      "source": "original",
+      "label": "ビザを",
+      "en": "The student's visa was revoked because he stopped attending classes.",
+      "ja": "その学生は授業に出なくなったので、ビザを取り消された。"
+    },
+    {
+      "source": "original",
+      "label": "irrevocable",
+      "en": "Leaving my hometown was an irrevocable decision.",
+      "ja": "故郷を出たのは取り返しのつかない決定だった。"
+    },
+    {
+      "source": "original",
+      "label": "repeal との比較",
+      "en": "The government repealed the old law and revoked all the licenses issued under it.",
+      "ja": "政府は古い法律を廃止し、その法律のもとで出された免許をすべて取り消した。"
+    }
+  ],
+  "check_points": [
+    "revoke の voke が何の語と同じ根か言えるか",
+    "revoke と repeal のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "ニュース系の長文で「(免許・許可を)取り消す」として出る。irrevocable も語彙問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2458
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "retract",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈtrækt/",
+  "core_image": {
+    "text": "外へ出したものを、うしろへ引っこめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"40\" y2=\"94\"/><line x1=\"60\" y1=\"74\" x2=\"80\" y2=\"80\"/><rect x=\"128\" y=\"34\" width=\"56\" height=\"22\"/><line x1=\"136\" y1=\"45\" x2=\"176\" y2=\"45\"/><line x1=\"124\" y1=\"45\" x2=\"100\" y2=\"45\"/><polyline points=\"107,48.8 100,45 107,41.2\"/></g><text x=\"156\" y=\"76\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">言ったこと</text><text x=\"112\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">引っこめる</text></svg>"
+  },
+  "etymology": "re(うしろへ)+ tract(引く。tractor と同じ根)→ うしろへ引きもどす → ①(発言・約束を)撤回する ②(つめ・車輪などを)引っこめる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say that something you said earlier is not true or correct; to pull something back inside."
+    }
+  ],
+  "cautions": [
+    "いちばんよく出るのは「発言・主張・告白を撤回する」:retract a statement / a confession",
+    "retract=自分が出した発言を引っこめる/revoke=与えた許可を取り消す/withdraw=(申し出・お金・軍などを)引き下げる、のほうが広い",
+    "ネコのつめ・飛行機の車輪を「引っこめる」意味もある:A cat can retract its claws."
+  ],
+  "patterns": [
+    {
+      "form": "retract a statement / remark",
+      "meaning": "発言を撤回する"
+    },
+    {
+      "form": "retract a confession",
+      "meaning": "自白をひるがえす"
+    },
+    {
+      "form": "retract one's claws",
+      "meaning": "つめを引っこめる"
+    },
+    {
+      "form": "retraction",
+      "meaning": "撤回・取り消し(記事の訂正)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "発言を",
+      "en": "The politician retracted his statement the next day.",
+      "ja": "その政治家は翌日、自分の発言を撤回した。"
+    },
+    {
+      "source": "original",
+      "label": "自白を",
+      "en": "The suspect later retracted his confession.",
+      "ja": "容疑者はのちに自白をひるがえした。"
+    },
+    {
+      "source": "original",
+      "label": "主張を",
+      "en": "The scientist had to retract her claim when other researchers could not repeat the experiment.",
+      "ja": "ほかの研究者が実験を再現できなかったので、その科学者は主張を撤回しなければならなかった。"
+    },
+    {
+      "source": "original",
+      "label": "引っこめる",
+      "en": "Cats can retract their claws when they walk.",
+      "ja": "ネコは歩くときにつめを引っこめることができる。"
+    },
+    {
+      "source": "original",
+      "label": "retraction",
+      "en": "The newspaper printed a retraction of the false story.",
+      "ja": "新聞はそのうその記事の訂正(取り消し)を載せた。"
+    },
+    {
+      "source": "original",
+      "label": "withdraw との比較",
+      "en": "She retracted her angry words and withdrew her offer to help.",
+      "ja": "彼女は怒ったことばを撤回し、手伝うという申し出も取り下げた。"
+    }
+  ],
+  "check_points": [
+    "retract の tract の意味を言えるか",
+    "retract と revoke の目的語のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で「(発言を)撤回する」として出る。tract(引く)の語は attract・extract・distract と一緒に覚える。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2459
+    }
+  ]
+}

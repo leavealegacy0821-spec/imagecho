@@ -1,0 +1,94 @@
+{
+  "word": "repeal",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/rɪˈpiːl/",
+  "core_image": {
+    "text": "今ある法律を、公の手続きで消して元にもどす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"40\" width=\"60\" height=\"80\"/><line x1=\"50\" y1=\"56\" x2=\"90\" y2=\"56\"/><line x1=\"50\" y1=\"70\" x2=\"90\" y2=\"70\"/><line x1=\"50\" y1=\"84\" x2=\"90\" y2=\"84\"/><line x1=\"50\" y1=\"98\" x2=\"80\" y2=\"98\"/><line x1=\"36\" y1=\"36\" x2=\"104\" y2=\"124\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"160\" y2=\"66\"/><line x1=\"180\" y1=\"74\" x2=\"196\" y2=\"96\"/><line x1=\"156\" y1=\"66\" x2=\"112\" y2=\"66\"/><polyline points=\"119,69.8 112,66 119,62.2\"/></g><text x=\"70\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">法律</text><text x=\"134\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">廃止</text></svg>"
+  },
+  "etymology": "re(元へ)+ peal(呼ぶ。appeal と同じ根)→ 出したものを呼びもどして無しにする → ①(法律・制度を)廃止する ②(名詞)廃止",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to officially end a law."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of officially ending a law."
+    }
+  ],
+  "cautions": [
+    "目的語はほぼ「法律・規則・税」:repeal a law / an act / a tax",
+    "repeal=議会などが法律を廃止する/abolish=制度・習慣そのものをなくす(slavery, the death penalty)/revoke=与えた許可・権利を取り消す",
+    "appeal(訴える)とつづりが似ているが意味は別。名詞も同じ形:the repeal of the law"
+  ],
+  "patterns": [
+    {
+      "form": "repeal a law / an act",
+      "meaning": "法律を廃止する"
+    },
+    {
+      "form": "the repeal of A",
+      "meaning": "Aの廃止"
+    },
+    {
+      "form": "call for the repeal of A",
+      "meaning": "Aの廃止を求める"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "法律を",
+      "en": "Congress voted to repeal the law.",
+      "ja": "議会はその法律を廃止することを可決した。"
+    },
+    {
+      "source": "original",
+      "label": "税を",
+      "en": "The new government repealed the unpopular tax.",
+      "ja": "新政府は不人気な税を廃止した。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "Many citizens called for the repeal of the rule.",
+      "ja": "多くの市民がその規則の廃止を求めた。"
+    },
+    {
+      "source": "original",
+      "label": "歴史",
+      "en": "The ban on alcohol in the United States was repealed in 1933.",
+      "ja": "アメリカの禁酒法は1933年に廃止された。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "The law has not been repealed, but nobody follows it.",
+      "ja": "その法律は廃止されてはいないが、誰も守っていない。"
+    },
+    {
+      "source": "original",
+      "label": "abolish との比較",
+      "en": "To abolish slavery, the country first had to repeal the laws that protected it.",
+      "ja": "奴隷制をなくすために、その国はまずそれを守る法律を廃止しなければならなかった。"
+    }
+  ],
+  "check_points": [
+    "repeal の目的語になるものを言えるか",
+    "repeal と abolish のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "歴史・政治の長文で「(法律を)廃止する」として出る。abolish との区別に注意。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2460
+    }
+  ]
+}
