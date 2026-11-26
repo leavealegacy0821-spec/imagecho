@@ -1,0 +1,103 @@
+{
+  "word": "weave",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/wiːv/",
+  "core_image": {
+    "text": "縦の糸に横の糸を交互にくぐらせて、布を織りあげる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"60\" y1=\"30\" x2=\"60\" y2=\"130\"/><line x1=\"90\" y1=\"30\" x2=\"90\" y2=\"130\"/><line x1=\"120\" y1=\"30\" x2=\"120\" y2=\"130\"/><line x1=\"150\" y1=\"30\" x2=\"150\" y2=\"130\"/><line x1=\"180\" y1=\"30\" x2=\"180\" y2=\"130\"/><path d=\"M40 55 Q60 45 75 55 Q90 65 105 55 Q120 45 135 55 Q150 65 165 55 Q180 45 200 55\"/><path d=\"M40 80 Q60 90 75 80 Q90 70 105 80 Q120 90 135 80 Q150 70 165 80 Q180 90 200 80\"/><path d=\"M40 105 Q60 95 75 105 Q90 115 105 105 Q120 95 135 105 Q150 115 165 105 Q180 95 200 105\"/></g><text x=\"120\" y=\"150\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">縦と横を交互に</text></svg>"
+  },
+  "etymology": "古い英語 wefan(織る)から(web「くもの巣」と同じ根)→ 糸を交互にくぐらせて織る → ①(布・かごを)織る・編む ②(話・考えを)組み立てる・織りこむ ③(人・車の間を)縫うように進む",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make cloth or a basket by crossing threads or strips over and under each other; to move by going around things that are in the way."
+    },
+    {
+      "pos": "名詞",
+      "text": "the way in which threads are woven."
+    }
+  ],
+  "cautions": [
+    "活用は weave-wove-woven(織る)。「縫うように進む」の意味のときは weaved も使う",
+    "weave=糸を交互にくぐらせて布そのものを作る/sew=できた布を縫い合わせる/knit=毛糸を編む",
+    "weave A into B=AをBに織りこむ(比喩:話・考えを組みこむ)",
+    "weave through the crowd [traffic]=人ごみ[車の列]を縫うように進む"
+  ],
+  "patterns": [
+    {
+      "form": "weave A",
+      "meaning": "A(布・かご)を織る"
+    },
+    {
+      "form": "weave A into B",
+      "meaning": "AをBに織りこむ"
+    },
+    {
+      "form": "weave A from B",
+      "meaning": "BでAを編む"
+    },
+    {
+      "form": "weave through A",
+      "meaning": "Aを縫うように進む"
+    },
+    {
+      "form": "be woven",
+      "meaning": "織られている"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "織る",
+      "en": "The women weave cloth by hand in this village.",
+      "ja": "この村では女性たちが手で布を織る。"
+    },
+    {
+      "source": "original",
+      "label": "編む",
+      "en": "They wove baskets from long grass.",
+      "ja": "彼らは長い草でかごを編んだ。"
+    },
+    {
+      "source": "original",
+      "label": "過去分詞",
+      "en": "This carpet was woven in Turkey.",
+      "ja": "このじゅうたんはトルコで織られた。"
+    },
+    {
+      "source": "original",
+      "label": "組み立てる",
+      "en": "The author wove several stories into one novel.",
+      "ja": "作者はいくつかの話を1つの小説に織りこんだ。"
+    },
+    {
+      "source": "original",
+      "label": "進む",
+      "en": "The bike weaved through the heavy traffic.",
+      "ja": "バイクは渋滞の車の間を縫うように進んだ。"
+    },
+    {
+      "source": "original",
+      "label": "くもの巣",
+      "en": "A spider weaves its web in the corner of the room.",
+      "ja": "くもが部屋のすみに巣を張っている。"
+    }
+  ],
+  "check_points": [
+    "weave の活用(wove-woven)を言えるか",
+    "weave と sew のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "weave-wove-woven の活用と、weave A into B(織りこむ)の比喩が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2407
+    }
+  ]
+}

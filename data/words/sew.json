@@ -1,0 +1,94 @@
+{
+  "word": "sew",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/soʊ/",
+  "core_image": {
+    "text": "針と糸で、布と布を縫い合わせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"100\" x2=\"220\" y2=\"100\"/><line x1=\"20\" y1=\"112\" x2=\"220\" y2=\"112\"/><polyline points=\"40,92 60,118 80,92 100,118 120,92 140,118\"/><path d=\"M140 118 Q166 124 180 54\"/><line x1=\"170\" y1=\"76\" x2=\"196\" y2=\"30\"/><ellipse cx=\"194\" cy=\"36\" rx=\"3\" ry=\"6\"/></g><text x=\"70\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">針と糸</text><text x=\"70\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">縫い合わせる</text></svg>"
+  },
+  "etymology": "古い英語 seowian(縫う)から → 針と糸で布をつなぎ合わせる → ①縫う ②(sew on)(ボタン・布を)縫いつける ③(sew up)縫い合わせる・(試合・取引を)確実にものにする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to use a needle and thread to make stitches in cloth; to make or repair clothes in this way."
+    }
+  ],
+  "cautions": [
+    "発音は /soʊ/(so・sow「種をまく」と同じ音)。new のように /suː/ と読まない",
+    "過去分詞は sewn または sewed(sew-sewed-sewn)",
+    "sew=縫う作業全体/stitch=ひと針ひと針・縫い目/weave=糸を織って布を作る",
+    "sew a button on (A)=(Aに)ボタンを縫いつける"
+  ],
+  "patterns": [
+    {
+      "form": "sew A",
+      "meaning": "Aを縫う"
+    },
+    {
+      "form": "sew A on (B)",
+      "meaning": "A(ボタン)を(Bに)縫いつける"
+    },
+    {
+      "form": "sew up A",
+      "meaning": "Aを縫い合わせる・確実にする"
+    },
+    {
+      "form": "a sewing machine",
+      "meaning": "ミシン"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "縫う",
+      "en": "My grandmother sewed this dress for me.",
+      "ja": "祖母がこのドレスを縫ってくれた。"
+    },
+    {
+      "source": "original",
+      "label": "ボタン",
+      "en": "Can you sew this button on my shirt?",
+      "ja": "このボタンをシャツに縫いつけてくれる?"
+    },
+    {
+      "source": "original",
+      "label": "ミシン",
+      "en": "She makes her own clothes with a sewing machine.",
+      "ja": "彼女はミシンで自分の服を作る。"
+    },
+    {
+      "source": "original",
+      "label": "過去分詞",
+      "en": "The bag was sewn by hand.",
+      "ja": "そのかばんは手縫いだった。"
+    },
+    {
+      "source": "original",
+      "label": "縫い合わせる",
+      "en": "He sewed up the hole in his sock.",
+      "ja": "彼は靴下の穴を縫い合わせた。"
+    },
+    {
+      "source": "original",
+      "label": "確実",
+      "en": "A late goal sewed up the victory.",
+      "ja": "終盤のゴールで勝利が確実になった。"
+    }
+  ],
+  "check_points": [
+    "sew の発音を言えるか(sow と同音)",
+    "sew の過去分詞を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "発音問題(sew=/soʊ/)と、sew-sewed-sewn の活用が狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2405
+    }
+  ]
+}

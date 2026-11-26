@@ -1,0 +1,99 @@
+{
+  "word": "stitch",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/stɪtʃ/",
+  "core_image": {
+    "text": "針をひと刺しずつ通してできる、縫い目のひとつ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"30\" y1=\"80\" x2=\"50\" y2=\"80\"/><line x1=\"64\" y1=\"80\" x2=\"84\" y2=\"80\"/><line x1=\"98\" y1=\"80\" x2=\"118\" y2=\"80\"/><line x1=\"132\" y1=\"80\" x2=\"152\" y2=\"80\"/><line x1=\"166\" y1=\"80\" x2=\"186\" y2=\"80\"/><line x1=\"200\" y1=\"80\" x2=\"214\" y2=\"80\"/><line x1=\"108\" y1=\"100\" x2=\"108\" y2=\"86\"/><polyline points=\"104.2,93 108,86 111.8,93\"/></g><text x=\"120\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひと針ずつ</text><text x=\"108\" y=\"122\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">縫い目</text></svg>"
+  },
+  "etymology": "古い英語 stice(刺すこと・刺す痛み)から → 針をひと刺し通す → ①ひと針・縫い目 ②(傷を縫う)ひと針・(動詞)縫う ③(運動中の)わき腹の刺すような痛み ④(in stitches)腹をかかえて笑って",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a single movement of a needle and thread through cloth, or the line of thread it makes; a short piece of thread used to close a wound."
+    },
+    {
+      "pos": "動詞",
+      "text": "to sew something, or to close a wound with stitches."
+    }
+  ],
+  "cautions": [
+    "stitch=ひと針・縫い目(1つ1つ)/sew=縫う作業全体",
+    "傷を「何針縫う」は stitches を使う(He needed five stitches.=5針縫った)",
+    "be in stitches=腹をかかえて笑う。ことわざ A stitch in time saves nine.=早めの一針は九針を省く(手遅れになる前に)",
+    "have a stitch=(走って)わき腹が痛くなる"
+  ],
+  "patterns": [
+    {
+      "form": "need [get] stitches",
+      "meaning": "(傷を)縫ってもらう"
+    },
+    {
+      "form": "stitch A up",
+      "meaning": "Aを縫い合わせる"
+    },
+    {
+      "form": "be in stitches",
+      "meaning": "腹をかかえて笑う"
+    },
+    {
+      "form": "A stitch in time saves nine.",
+      "meaning": "早めの一針は九針を省く"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "傷",
+      "en": "He cut his hand and needed six stitches.",
+      "ja": "彼は手を切って6針縫った。"
+    },
+    {
+      "source": "original",
+      "label": "縫う",
+      "en": "The doctor stitched up the wound.",
+      "ja": "医者は傷口を縫い合わせた。"
+    },
+    {
+      "source": "original",
+      "label": "縫い目",
+      "en": "The stitches on this bag are very neat.",
+      "ja": "このかばんの縫い目はとてもきれいだ。"
+    },
+    {
+      "source": "original",
+      "label": "笑う",
+      "en": "His joke had the whole class in stitches.",
+      "ja": "彼の冗談でクラス全員が腹をかかえて笑った。"
+    },
+    {
+      "source": "original",
+      "label": "ことわざ",
+      "en": "Fix the roof now. A stitch in time saves nine.",
+      "ja": "今のうちに屋根を直しなさい。早めの一針は九針を省くよ。"
+    },
+    {
+      "source": "original",
+      "label": "痛み",
+      "en": "I got a stitch after running too fast.",
+      "ja": "速く走りすぎてわき腹が痛くなった。"
+    }
+  ],
+  "check_points": [
+    "stitch と sew のちがいを言えるか",
+    "be in stitches の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "need stitches(傷を縫う)が長文で、A stitch in time saves nine. がことわざ問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2406
+    }
+  ]
+}

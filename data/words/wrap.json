@@ -1,0 +1,103 @@
+{
+  "word": "wrap",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ræp/",
+  "core_image": {
+    "text": "ぐるりと巻きつけて、すっぽり包みこむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"80\" y=\"70\" width=\"80\" height=\"60\"/><line x1=\"120\" y1=\"70\" x2=\"120\" y2=\"130\"/><line x1=\"80\" y1=\"100\" x2=\"160\" y2=\"100\"/><path d=\"M120 70 Q100 50 92 62 Q100 72 120 70 Q140 50 148 62 Q140 72 120 70\"/><line x1=\"184\" y1=\"132\" x2=\"184\" y2=\"66\" stroke-dasharray=\"5 5\"/><polyline points=\"180.2,73 184,66 187.8,73\"/></g><text x=\"210\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">包む</text><text x=\"50\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぐるり</text></svg>"
+  },
+  "etymology": "中世英語 wrappen(巻きつける・包む)から → ぐるりと巻いて包みこむ → ①包む・くるむ ②(腕・布を)巻きつける ③(wrap up)まとめる・終わらせる ④(be wrapped up in)〜に夢中になる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to cover something completely in paper, cloth, etc.; to put something round something else."
+    },
+    {
+      "pos": "名詞",
+      "text": "a piece of material used for covering or wrapping something."
+    }
+  ],
+  "cautions": [
+    "w は発音しない /ræp/(write・wrong と同じ)。rap(たたく・ラップ音楽)と同じ音",
+    "wrap=紙・布でぐるりと包む/cover=上から覆う(下まで回りこまなくてよい)/pack=箱・かばんに詰める",
+    "wrap up=①しっかり着こむ ②(会議・仕事を)まとめて終える(Let's wrap up the meeting.)",
+    "be wrapped up in A=Aに夢中になって周りが見えない。wrapping paper=包装紙"
+  ],
+  "patterns": [
+    {
+      "form": "wrap A in B",
+      "meaning": "AをBで包む"
+    },
+    {
+      "form": "wrap A around B",
+      "meaning": "AをBに巻きつける"
+    },
+    {
+      "form": "wrap up A",
+      "meaning": "Aを終わらせる・まとめる"
+    },
+    {
+      "form": "wrap up (warm)",
+      "meaning": "暖かく着こむ"
+    },
+    {
+      "form": "be wrapped up in A",
+      "meaning": "Aに夢中である"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "包む",
+      "en": "She wrapped the present in colorful paper.",
+      "ja": "彼女はプレゼントをカラフルな紙で包んだ。"
+    },
+    {
+      "source": "original",
+      "label": "巻きつける",
+      "en": "He wrapped a towel around his neck.",
+      "ja": "彼は首にタオルを巻きつけた。"
+    },
+    {
+      "source": "original",
+      "label": "抱く",
+      "en": "The mother wrapped her arms around her baby.",
+      "ja": "母親は赤ちゃんを腕でしっかり抱いた。"
+    },
+    {
+      "source": "original",
+      "label": "終える",
+      "en": "Let's wrap up the meeting by five o'clock.",
+      "ja": "5時までに会議を終わらせよう。"
+    },
+    {
+      "source": "original",
+      "label": "着こむ",
+      "en": "Wrap up warm. It's freezing outside.",
+      "ja": "暖かく着こみなさい。外はひどく寒いよ。"
+    },
+    {
+      "source": "original",
+      "label": "夢中",
+      "en": "He was so wrapped up in his game that he didn't hear me.",
+      "ja": "彼はゲームに夢中で私の声が聞こえなかった。"
+    }
+  ],
+  "check_points": [
+    "wrap A in B / wrap A around B の型を言えるか",
+    "wrap up の2つの意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "wrap up(終える・まとめる)が会話・リスニングで、be wrapped up in(夢中)が長文で出る。w を読まない発音にも注意。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2401
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "tighten",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈtaɪtn/",
+  "core_image": {
+    "text": "ぎゅっと締めて、すきま・ゆるみをなくす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"120\" cy=\"80\" rx=\"22\" ry=\"40\"/><line x1=\"98\" y1=\"80\" x2=\"142\" y2=\"80\"/><line x1=\"30\" y1=\"80\" x2=\"88\" y2=\"80\"/><polyline points=\"81,76.2 88,80 81,83.8\"/><line x1=\"210\" y1=\"80\" x2=\"152\" y2=\"80\"/><polyline points=\"159,83.8 152,80 159,76.2\"/></g><text x=\"120\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぎゅっ</text><text x=\"120\" y=\"138\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すきまゼロ</text></svg>"
+  },
+  "etymology": "tight(きつい・すきまがない)+ en(〜にする)→ きつくしてすきまをなくす → ①(ねじ・ひもを)締める・きつくする ②(規則・管理を)厳しくする・強化する ③(筋肉・体が)こわばる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make something tighter or firmer; to make a rule or control stricter."
+    }
+  ],
+  "cautions": [
+    "tighten=今よりさらにきつくする(変化)/fasten=留め具で固定する",
+    "比喩の tighten security [rules / control]=警備[規則・管理]を強化する が評論・ニュースで頻出",
+    "tighten one's belt=ベルトを締める →(お金を)倹約する・切りつめる",
+    "反対は loosen(ゆるめる)。形容詞 tight=きつい、副詞 tightly"
+  ],
+  "patterns": [
+    {
+      "form": "tighten A",
+      "meaning": "Aを締める"
+    },
+    {
+      "form": "tighten security",
+      "meaning": "警備を強化する"
+    },
+    {
+      "form": "tighten rules on A",
+      "meaning": "Aの規則を厳しくする"
+    },
+    {
+      "form": "tighten one's belt",
+      "meaning": "倹約する"
+    },
+    {
+      "form": "A tightens",
+      "meaning": "Aがこわばる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ねじ",
+      "en": "He tightened the screws with a screwdriver.",
+      "ja": "彼はドライバーでねじを締めた。"
+    },
+    {
+      "source": "original",
+      "label": "くつ",
+      "en": "She tightened her shoelaces before the race.",
+      "ja": "彼女はレースの前にくつひもを締め直した。"
+    },
+    {
+      "source": "original",
+      "label": "警備",
+      "en": "Security was tightened at the airport after the incident.",
+      "ja": "その事件のあと、空港の警備が強化された。"
+    },
+    {
+      "source": "original",
+      "label": "規則",
+      "en": "The government tightened the rules on importing food.",
+      "ja": "政府は食品の輸入に関する規則を厳しくした。"
+    },
+    {
+      "source": "original",
+      "label": "倹約",
+      "en": "We had to tighten our belts after my father lost his job.",
+      "ja": "父が失業したあと、私たちは生活を切りつめなければならなかった。"
+    },
+    {
+      "source": "original",
+      "label": "こわばる",
+      "en": "His muscles tightened when he heard the noise.",
+      "ja": "その物音を聞いて彼の筋肉がこわばった。"
+    }
+  ],
+  "check_points": [
+    "tighten security の意味を言えるか",
+    "tighten one's belt の比喩の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "tighten security / regulations(強化する)が長文で出る。反意語 loosen とのセットで問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2399
+    }
+  ]
+}

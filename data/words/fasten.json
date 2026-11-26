@@ -1,0 +1,98 @@
+{
+  "word": "fasten",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈfæsn/",
+  "core_image": {
+    "text": "留め具をカチッとかけて、外れないよう固定する",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"80\" x2=\"100\" y2=\"80\"/><line x1=\"20\" y1=\"100\" x2=\"100\" y2=\"100\"/><rect x=\"100\" y=\"70\" width=\"30\" height=\"40\"/><line x1=\"115\" y1=\"70\" x2=\"115\" y2=\"110\"/><line x1=\"130\" y1=\"80\" x2=\"220\" y2=\"80\"/><line x1=\"130\" y1=\"100\" x2=\"220\" y2=\"100\"/></g><text x=\"115\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">カチッ</text><text x=\"115\" y=\"134\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">外れない</text></svg>"
+  },
+  "etymology": "古い英語 fæstnian(しっかり固定する。fast「しっかりした」と同じ根)→ 留め具でしっかり固定する → ①(ベルト・ボタン・ひもを)締める・留める ②(物を)固定する・くくりつける ③(目・注意を)じっと向ける",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to close or join the two parts of something; to fix something firmly in place."
+    }
+  ],
+  "cautions": [
+    "t は発音しない /ˈfæsn/(listen・castle と同じ)",
+    "fasten=留め具(バックル・ボタン・フック)で固定する/tie=ひもを結ぶ/tighten=さらにきつく締める",
+    "Fasten your seat belt.=シートベルトをお締めください(機内アナウンスの定番)",
+    "反対は unfasten(外す)。fasten A to B=AをBに固定する"
+  ],
+  "patterns": [
+    {
+      "form": "fasten A",
+      "meaning": "A(ベルト・ボタン)を締める"
+    },
+    {
+      "form": "fasten A to B",
+      "meaning": "AをBに固定する"
+    },
+    {
+      "form": "fasten one's seat belt",
+      "meaning": "シートベルトを締める"
+    },
+    {
+      "form": "fasten one's eyes on A",
+      "meaning": "Aをじっと見つめる"
+    },
+    {
+      "form": "unfasten A",
+      "meaning": "Aを外す"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ベルト",
+      "en": "Please fasten your seat belt before the plane takes off.",
+      "ja": "離陸前にシートベルトをお締めください。"
+    },
+    {
+      "source": "original",
+      "label": "ボタン",
+      "en": "He fastened the buttons of his coat because it was cold.",
+      "ja": "寒かったので彼はコートのボタンを留めた。"
+    },
+    {
+      "source": "original",
+      "label": "固定",
+      "en": "They fastened the sign to the wall with screws.",
+      "ja": "彼らは看板をねじで壁に固定した。"
+    },
+    {
+      "source": "original",
+      "label": "くくる",
+      "en": "The boxes were fastened together with rope.",
+      "ja": "箱はロープでいっしょにくくられていた。"
+    },
+    {
+      "source": "original",
+      "label": "目",
+      "en": "The child fastened her eyes on the cake.",
+      "ja": "その子はケーキをじっと見つめた。"
+    },
+    {
+      "source": "original",
+      "label": "外す",
+      "en": "He unfastened his helmet and took it off.",
+      "ja": "彼はヘルメットの留め具を外して脱いだ。"
+    }
+  ],
+  "check_points": [
+    "fasten の発音(t を読まない)を言えるか",
+    "fasten と tie のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "Fasten your seat belt. が会話・リスニングで出る。発音問題で t を読まない語として狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2398
+    }
+  ]
+}

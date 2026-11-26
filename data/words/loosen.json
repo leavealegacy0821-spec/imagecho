@@ -1,0 +1,98 @@
+{
+  "word": "loosen",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈluːsn/",
+  "core_image": {
+    "text": "締めつけをゆるめて、すきまを作る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"120\" cy=\"80\" rx=\"40\" ry=\"40\"/><ellipse cx=\"120\" cy=\"80\" rx=\"20\" ry=\"30\"/><line x1=\"166\" y1=\"80\" x2=\"214\" y2=\"80\"/><polyline points=\"207,76.2 214,80 207,83.8\"/><line x1=\"74\" y1=\"80\" x2=\"26\" y2=\"80\"/><polyline points=\"33,83.8 26,80 33,76.2\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ゆるっ</text><text x=\"120\" y=\"138\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すきまができる</text></svg>"
+  },
+  "etymology": "loose(ゆるい・はなれた)+ en(〜にする)→ ゆるくしてすきまを作る → ①(ねじ・ひも・ネクタイを)ゆるめる ②(規則・管理を)緩和する ③(体・筋肉を)ほぐす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make something less tight or less firmly fixed; to make rules or control less strict."
+    }
+  ],
+  "cautions": [
+    "loose /luːs/(ゆるい・形容詞)/loosen(ゆるめる・動詞)/lose /luːz/(失う)はつづり・発音が似ていて混同しやすい",
+    "loosen=締めつけを弱める/release=つかんでいたものを放す/relax=(緊張・規則を)ゆるめる",
+    "loosen one's grip [hold] on A=Aへの支配をゆるめる(比喩)",
+    "反対は tighten(締める)"
+  ],
+  "patterns": [
+    {
+      "form": "loosen A",
+      "meaning": "Aをゆるめる"
+    },
+    {
+      "form": "loosen one's tie",
+      "meaning": "ネクタイをゆるめる"
+    },
+    {
+      "form": "loosen rules",
+      "meaning": "規則を緩和する"
+    },
+    {
+      "form": "loosen one's grip on A",
+      "meaning": "Aへの支配をゆるめる"
+    },
+    {
+      "form": "loosen up",
+      "meaning": "体をほぐす・リラックスする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ネクタイ",
+      "en": "He loosened his tie as soon as he got home.",
+      "ja": "彼は家に着くとすぐネクタイをゆるめた。"
+    },
+    {
+      "source": "original",
+      "label": "ねじ",
+      "en": "Turn the screw to the left to loosen it.",
+      "ja": "ねじをゆるめるには左に回しなさい。"
+    },
+    {
+      "source": "original",
+      "label": "規則",
+      "en": "The school loosened its rules on hairstyles.",
+      "ja": "その学校は髪型についての規則を緩和した。"
+    },
+    {
+      "source": "original",
+      "label": "支配",
+      "en": "The king was forced to loosen his grip on power.",
+      "ja": "王は権力への支配をゆるめざるをえなかった。"
+    },
+    {
+      "source": "original",
+      "label": "ほぐす",
+      "en": "Do some light exercise to loosen up your muscles.",
+      "ja": "軽い運動をして筋肉をほぐしなさい。"
+    },
+    {
+      "source": "original",
+      "label": "ゆるい",
+      "en": "The screw was loose, so the shelf fell down.",
+      "ja": "ねじがゆるんでいたので棚が落ちた。"
+    }
+  ],
+  "check_points": [
+    "loose / loosen / lose のちがいを言えるか",
+    "loosen の反意語を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "loose と lose の区別が発音・語彙問題で狙われる。loosen は tighten との対で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2400
+    }
+  ]
+}

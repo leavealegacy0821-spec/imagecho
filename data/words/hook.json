@@ -1,0 +1,103 @@
+{
+  "word": "hook",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/hʊk/",
+  "core_image": {
+    "text": "曲がった先に引っかけて、つり下げて留める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"40\" y1=\"30\" x2=\"200\" y2=\"30\"/><path d=\"M120 30 L120 60 Q120 76 106 76 Q94 76 94 64\"/><line x1=\"104\" y1=\"76\" x2=\"80\" y2=\"100\"/><line x1=\"108\" y1=\"76\" x2=\"132\" y2=\"100\"/><rect x=\"70\" y=\"100\" width=\"72\" height=\"40\"/></g><text x=\"180\" y=\"72\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">引っかける</text></svg>"
+  },
+  "etymology": "古い英語 hōc(曲がったかぎ)から → 曲がった先に引っかける → ①かぎ・フック・釣り針 ②(動詞)引っかける・つるす ③(be hooked on)〜に夢中になる・やみつきになる ④(off the hook)責任・困難から解放されて",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a curved piece of metal or plastic used for hanging things on or catching fish."
+    },
+    {
+      "pos": "動詞",
+      "text": "to hang or fasten something with a hook; to catch a fish with a hook."
+    }
+  ],
+  "cautions": [
+    "hook=曲がった先に引っかける/pin=針で1点をさす/hang=つり下げる(状態)",
+    "be hooked on A=Aに夢中だ・やみつきだ(釣り針にかかって離れられない絵)",
+    "off the hook=①(人が)責任・罰を免れて ②(受話器が)外れて",
+    "hook up=(機器を)つなぐ"
+  ],
+  "patterns": [
+    {
+      "form": "hang A on a hook",
+      "meaning": "Aをフックにかける"
+    },
+    {
+      "form": "hook A to [onto] B",
+      "meaning": "AをBに引っかける"
+    },
+    {
+      "form": "be hooked on A",
+      "meaning": "Aに夢中だ"
+    },
+    {
+      "form": "let A off the hook",
+      "meaning": "Aを放免してやる"
+    },
+    {
+      "form": "hook up A",
+      "meaning": "A(機器)をつなぐ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "かける",
+      "en": "He hung his coat on the hook by the door.",
+      "ja": "彼はドアのそばのフックにコートをかけた。"
+    },
+    {
+      "source": "original",
+      "label": "引っかける",
+      "en": "She hooked the bag onto the back of the chair.",
+      "ja": "彼女はかばんをいすの背に引っかけた。"
+    },
+    {
+      "source": "original",
+      "label": "夢中",
+      "en": "My brother is hooked on video games.",
+      "ja": "弟はテレビゲームに夢中だ。"
+    },
+    {
+      "source": "original",
+      "label": "免れる",
+      "en": "The teacher let us off the hook this time.",
+      "ja": "先生は今回は私たちを大目に見てくれた。"
+    },
+    {
+      "source": "original",
+      "label": "釣る",
+      "en": "He felt a fish on his hook.",
+      "ja": "彼は釣り針に魚がかかったのを感じた。"
+    },
+    {
+      "source": "original",
+      "label": "つなぐ",
+      "en": "Can you hook up the printer to my computer?",
+      "ja": "プリンターを私のパソコンにつないでくれる?"
+    }
+  ],
+  "check_points": [
+    "be hooked on A の意味を言えるか",
+    "off the hook の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be hooked on(夢中・依存)が長文で、let A off the hook が会話で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2404
+    }
+  ]
+}

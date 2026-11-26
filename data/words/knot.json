@@ -1,0 +1,103 @@
+{
+  "word": "knot",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/nɑːt/",
+  "core_image": {
+    "text": "ひもが絡み合ってできた、かたい結び目",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 100 Q80 100 108 80 Q128 60 118 48 Q102 40 98 62 Q98 92 130 100 Q170 108 220 100\"/><line x1=\"138\" y1=\"58\" x2=\"148\" y2=\"50\"/><line x1=\"94\" y1=\"44\" x2=\"86\" y2=\"36\"/></g><text x=\"184\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぎゅっ</text><text x=\"120\" y=\"138\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">結び目</text></svg>"
+  },
+  "etymology": "古い英語 cnotta(結び目)から → ひもが絡んでできたかたまり → ①結び目 ②(動詞)結ぶ・結び目を作る ③(緊張で胃・筋肉の)しこり・こわばり ④(船・飛行機の速さの単位)ノット(ロープの結び目で速さを測ったことから)",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a join made by tying together pieces of string or rope; a unit for measuring the speed of ships and aircraft."
+    },
+    {
+      "pos": "動詞",
+      "text": "to tie a knot in something."
+    }
+  ],
+  "cautions": [
+    "k は発音しない /nɑːt/(not と同じ音。know・knee と同じ)",
+    "knot=結び目そのもの(かたまり)/tie=結ぶ動作/bow=ちょう結び",
+    "tie the knot=結婚する(くだけた言い方)",
+    "have a knot in one's stomach=(緊張で)胃がきゅっとなる"
+  ],
+  "patterns": [
+    {
+      "form": "tie a knot",
+      "meaning": "結び目を作る"
+    },
+    {
+      "form": "untie a knot",
+      "meaning": "結び目をほどく"
+    },
+    {
+      "form": "tie the knot",
+      "meaning": "結婚する"
+    },
+    {
+      "form": "a knot in one's stomach",
+      "meaning": "(緊張で)胃が締めつけられる感じ"
+    },
+    {
+      "form": "knot A",
+      "meaning": "Aを結ぶ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "結ぶ",
+      "en": "He tied a knot in the rope to make it stronger.",
+      "ja": "彼はロープを丈夫にするために結び目を作った。"
+    },
+    {
+      "source": "original",
+      "label": "ほどく",
+      "en": "I couldn't untie the knot in my shoelace.",
+      "ja": "くつひもの結び目がほどけなかった。"
+    },
+    {
+      "source": "original",
+      "label": "結婚",
+      "en": "My sister and her boyfriend finally tied the knot last spring.",
+      "ja": "姉と恋人はこの春ついに結婚した。"
+    },
+    {
+      "source": "original",
+      "label": "緊張",
+      "en": "I had a knot in my stomach before the interview.",
+      "ja": "面接の前、緊張で胃がきゅっとなった。"
+    },
+    {
+      "source": "original",
+      "label": "速さ",
+      "en": "The ship was moving at about 20 knots.",
+      "ja": "その船は約20ノットで進んでいた。"
+    },
+    {
+      "source": "original",
+      "label": "動詞",
+      "en": "She knotted the scarf around her neck.",
+      "ja": "彼女はスカーフを首に結んだ。"
+    }
+  ],
+  "check_points": [
+    "knot の発音(k を読まない)を言えるか",
+    "tie the knot の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "発音問題(黙字の k)と、tie the knot(結婚する)の慣用表現が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2402
+    }
+  ]
+}

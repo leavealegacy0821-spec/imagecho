@@ -1,0 +1,103 @@
+{
+  "word": "pin",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/pɪn/",
+  "core_image": {
+    "text": "細い針を1点にさして、そこに留める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"20\" width=\"160\" height=\"120\"/><rect x=\"85\" y=\"50\" width=\"70\" height=\"70\"/><rect x=\"110\" y=\"36\" width=\"20\" height=\"6\"/><path d=\"M113 42 L115 56 L125 56 L127 42\"/><line x1=\"120\" y1=\"56\" x2=\"120\" y2=\"72\"/></g><text x=\"120\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">1点で留める</text></svg>"
+  },
+  "etymology": "古い英語 pinn(釘・針)から → 細い針を1点にさして留める → ①ピン・留め針 ②(動詞)ピンで留める ③(人を)押さえつけて動けなくする ④(pin down)(原因・人の考えを)はっきり特定する ⑤(pin one's hopes on)〜に望みをかける",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a short thin piece of metal with a sharp point, used for holding things together."
+    },
+    {
+      "pos": "動詞",
+      "text": "to fasten something with a pin; to hold someone so that they cannot move; to identify something exactly."
+    }
+  ],
+  "cautions": [
+    "pin=針で1点を留める/fasten=留め具で固定/attach=くっつける(広い)",
+    "pin down=①押さえつける ②(原因・日時を)はっきりさせる(It's hard to pin down the cause.)",
+    "pin one's hopes on A=Aに望みをかける。pin the blame on A=Aに責任を負わせる",
+    "PIN(暗証番号)は Personal Identification Number の略で別の語"
+  ],
+  "patterns": [
+    {
+      "form": "pin A to [on] B",
+      "meaning": "AをBにピンで留める"
+    },
+    {
+      "form": "pin A down",
+      "meaning": "Aを押さえつける・特定する"
+    },
+    {
+      "form": "pin one's hopes on A",
+      "meaning": "Aに望みをかける"
+    },
+    {
+      "form": "pin the blame on A",
+      "meaning": "Aのせいにする"
+    },
+    {
+      "form": "be pinned under A",
+      "meaning": "Aの下敷きになる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "留める",
+      "en": "She pinned the notice to the board.",
+      "ja": "彼女はお知らせを掲示板にピンで留めた。"
+    },
+    {
+      "source": "original",
+      "label": "下敷き",
+      "en": "The driver was pinned under the car after the accident.",
+      "ja": "運転手は事故で車の下敷きになった。"
+    },
+    {
+      "source": "original",
+      "label": "特定",
+      "en": "Doctors could not pin down the cause of his illness.",
+      "ja": "医師たちは彼の病気の原因を特定できなかった。"
+    },
+    {
+      "source": "original",
+      "label": "望み",
+      "en": "The team pinned their hopes on the young player.",
+      "ja": "チームはその若い選手に望みをかけた。"
+    },
+    {
+      "source": "original",
+      "label": "責任",
+      "en": "Don't try to pin the blame on me.",
+      "ja": "私のせいにしようとしないで。"
+    },
+    {
+      "source": "original",
+      "label": "ピン",
+      "en": "She held her hair in place with a pin.",
+      "ja": "彼女はピンで髪を留めていた。"
+    }
+  ],
+  "check_points": [
+    "pin down の2つの意味を言えるか",
+    "pin one's hopes on A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "pin down(特定する)が長文で、pin one's hopes on が熟語問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2403
+    }
+  ]
+}
