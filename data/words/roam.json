@@ -1,0 +1,94 @@
+{
+  "word": "roam",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/roʊm/",
+  "core_image": {
+    "text": "目的地を決めず、広い所をあちこち歩きまわる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"56\" y2=\"90\"/><line x1=\"40\" y1=\"74\" x2=\"24\" y2=\"90\"/><path d=\"M62 110 C90 80 110 130 140 100 S190 70 210 104\"/><line x1=\"200\" y1=\"92\" x2=\"210\" y2=\"104\"/><polyline points=\"208.5,96.2 210,104 202.6,101.1\"/></g><text x=\"140\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あてもなく広く</text></svg>"
+  },
+  "etymology": "(古い英語 romen=歩きまわる から。語源ははっきりしない)→ 決まった道なしに広く歩く → ①歩きまわる・放浪する ②(roam A)A(場所)を歩きまわる ③(視線・考えが)さまよう ④(携帯電話)ローミング",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to walk or travel without a clear purpose or direction, often over a large area."
+    }
+  ],
+  "cautions": [
+    "自動詞 roam around/about A と他動詞 roam A(roam the streets)の両方がある",
+    "wander=ふらふら迷うように歩く(道からそれる感じ)/roam=広い範囲を自由に動きまわる(動物の群れにもよく使う)/stroll=のんびり散歩する",
+    "free to roam=自由に歩きまわれる",
+    "携帯電話の「ローミング」(roaming)=国外を動きまわっても使えること"
+  ],
+  "patterns": [
+    {
+      "form": "roam (around) A",
+      "meaning": "Aを歩きまわる"
+    },
+    {
+      "form": "roam the streets",
+      "meaning": "街をうろつく"
+    },
+    {
+      "form": "free to roam",
+      "meaning": "自由に動きまわって"
+    },
+    {
+      "form": "roaming",
+      "meaning": "(携帯の)ローミング"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "歩きまわる",
+      "en": "We roamed around the old town all afternoon.",
+      "ja": "私たちは午後ずっと旧市街を歩きまわった。"
+    },
+    {
+      "source": "original",
+      "label": "他動詞",
+      "en": "Gangs of teenagers roamed the streets at night.",
+      "ja": "夜になると十代の若者の集団が街をうろついた。"
+    },
+    {
+      "source": "original",
+      "label": "動物が",
+      "en": "Elephants roam freely in the national park.",
+      "ja": "その国立公園ではゾウが自由に歩きまわっている。"
+    },
+    {
+      "source": "original",
+      "label": "free to roam",
+      "en": "The children were free to roam the farm.",
+      "ja": "子どもたちは農場を自由に歩きまわってよかった。"
+    },
+    {
+      "source": "original",
+      "label": "視線が",
+      "en": "His eyes roamed around the room.",
+      "ja": "彼の視線は部屋の中をさまよった。"
+    },
+    {
+      "source": "original",
+      "label": "wander との比較",
+      "en": "The dog wandered off the path and roamed the hills for days.",
+      "ja": "犬は道からそれてしまい、何日も丘をうろつきまわった。"
+    }
+  ],
+  "check_points": [
+    "roam と wander のちがいを言えるか",
+    "roam を他動詞で使った例を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "動物・旅行の長文に出る。wander との言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2443
+    }
+  ]
+}

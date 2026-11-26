@@ -1,0 +1,99 @@
+{
+  "word": "throng",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/θrɔːŋ/",
+  "core_image": {
+    "text": "大勢の人が、一か所にどっと押し寄せる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><circle cx=\"110\" cy=\"52\" r=\"10\"/><line x1=\"110\" y1=\"62\" x2=\"110\" y2=\"106\"/><line x1=\"110\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"110\" y1=\"106\" x2=\"120\" y2=\"140\"/><circle cx=\"140\" cy=\"52\" r=\"10\"/><line x1=\"140\" y1=\"62\" x2=\"140\" y2=\"106\"/><line x1=\"140\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"140\" y1=\"106\" x2=\"150\" y2=\"140\"/><rect x=\"186\" y=\"30\" width=\"30\" height=\"110\"/><line x1=\"156\" y1=\"40\" x2=\"180\" y2=\"40\"/><polyline points=\"173,36.2 180,40 173,43.8\"/></g><text x=\"96\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どっと押し寄せる</text></svg>"
+  },
+  "etymology": "throng(古い英語 thrang=押し合う群衆。「押しつける」が元)→ ぎゅうぎゅうに押し合う人々 → ①(名)群衆・人ごみ ②(動)群がる・押し寄せる ③(be thronged with A)Aで混雑している",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a large crowd of people."
+    },
+    {
+      "pos": "動詞",
+      "text": "to go somewhere or be present in large numbers; to fill a place with a crowd."
+    }
+  ],
+  "cautions": [
+    "throng to A=Aに押し寄せる/throng A=A(場所)に群がる・あふれる",
+    "be thronged with A=Aでごった返す(swarm の be swarming with A と似た形)",
+    "crowd=人が集まって混んでいる(いちばんふつう)/throng=大勢が勢いよく押し寄せる(やや書き言葉)/swarm=虫のように動きまわって群がる",
+    "名詞は throngs of people=大勢の人々 と複数でもよく使う"
+  ],
+  "patterns": [
+    {
+      "form": "a throng of A",
+      "meaning": "Aの群れ"
+    },
+    {
+      "form": "throngs of people",
+      "meaning": "大勢の人々"
+    },
+    {
+      "form": "throng to A",
+      "meaning": "Aに押し寄せる"
+    },
+    {
+      "form": "be thronged with A",
+      "meaning": "Aで混雑している"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "A throng of fans waited outside the hotel.",
+      "ja": "大勢のファンがホテルの外で待っていた。"
+    },
+    {
+      "source": "original",
+      "label": "throng to",
+      "en": "Tourists throng to the beach every summer.",
+      "ja": "毎年夏になると観光客が浜辺に押し寄せる。"
+    },
+    {
+      "source": "original",
+      "label": "他動詞",
+      "en": "Shoppers thronged the streets before the holiday.",
+      "ja": "祝日の前には買い物客が通りにあふれた。"
+    },
+    {
+      "source": "original",
+      "label": "be thronged with",
+      "en": "The temple was thronged with visitors on New Year's Day.",
+      "ja": "元日、寺は参拝客でごった返していた。"
+    },
+    {
+      "source": "original",
+      "label": "throngs of",
+      "en": "Throngs of people gathered to watch the parade.",
+      "ja": "大勢の人々がパレードを見ようと集まった。"
+    },
+    {
+      "source": "original",
+      "label": "crowd との比較",
+      "en": "A small crowd at noon became a huge throng by evening.",
+      "ja": "昼には小さな人だかりだったのが、夕方には大群衆になっていた。"
+    }
+  ],
+  "check_points": [
+    "be thronged with A の意味を言えるか",
+    "throng と crowd のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で「群衆」「押し寄せる」として出る。crowd との言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2447
+    }
+  ]
+}

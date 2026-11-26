@@ -1,0 +1,99 @@
+{
+  "word": "swarm",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/swɔːrm/",
+  "core_image": {
+    "text": "小さな虫の群れが、ぶんぶんうずまいて押し寄せる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"120\" y1=\"20\" x2=\"120\" y2=\"64\"/><ellipse cx=\"120\" cy=\"90\" rx=\"18\" ry=\"26\"/><circle cx=\"84\" cy=\"60\" r=\"3\"/><circle cx=\"96\" cy=\"44\" r=\"3\"/><circle cx=\"148\" cy=\"48\" r=\"3\"/><circle cx=\"160\" cy=\"66\" r=\"3\"/><circle cx=\"86\" cy=\"96\" r=\"3\"/><circle cx=\"156\" cy=\"104\" r=\"3\"/><circle cx=\"74\" cy=\"80\" r=\"3\"/><circle cx=\"168\" cy=\"86\" r=\"3\"/><circle cx=\"100\" cy=\"124\" r=\"3\"/><circle cx=\"142\" cy=\"126\" r=\"3\"/></g><text x=\"42\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">わんさと</text><text x=\"204\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">群れ</text></svg>"
+  },
+  "etymology": "swarm(古い英語 swearm=ぶんぶんいう虫の群れ。擬音から)→ ぶんぶん群れて動く → ①(名)(虫の)群れ・大群/人の群れ ②(動)群がる・押し寄せる ③(be swarming with A)Aでいっぱいだ",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a large group of insects moving together; a large crowd of people."
+    },
+    {
+      "pos": "動詞",
+      "text": "to move together in a large group; (of a place) to be full of people or things."
+    }
+  ],
+  "cautions": [
+    "A swarm with B=AにBがうじゃうじゃいる(場所が主語):The beach was swarming with tourists.",
+    "B swarm A / B swarm into A=BがAに群がる・なだれこむ(群れが主語)",
+    "a swarm of bees=ハチの群れ(flock=鳥・羊の群れ、herd=牛などの群れ、school=魚の群れ)",
+    "crowd=人が集まってぎっしり/swarm=虫のように動きまわりながら群がる/throng=大勢がどっと押し寄せる"
+  ],
+  "patterns": [
+    {
+      "form": "a swarm of A",
+      "meaning": "Aの群れ"
+    },
+    {
+      "form": "A swarm with B",
+      "meaning": "AにBが群がっている"
+    },
+    {
+      "form": "swarm into A",
+      "meaning": "Aになだれこむ"
+    },
+    {
+      "form": "swarm around A",
+      "meaning": "Aのまわりに群がる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "A swarm of bees flew out of the tree.",
+      "ja": "ハチの群れが木から飛び出した。"
+    },
+    {
+      "source": "original",
+      "label": "場所が主語",
+      "en": "The station was swarming with commuters.",
+      "ja": "駅は通勤客でごった返していた。"
+    },
+    {
+      "source": "original",
+      "label": "群れが主語",
+      "en": "Fans swarmed around the singer's car.",
+      "ja": "ファンが歌手の車のまわりに群がった。"
+    },
+    {
+      "source": "original",
+      "label": "なだれこむ",
+      "en": "Shoppers swarmed into the store when the doors opened.",
+      "ja": "ドアが開くと買い物客が店になだれこんだ。"
+    },
+    {
+      "source": "original",
+      "label": "人の群れ",
+      "en": "A swarm of reporters was waiting outside the court.",
+      "ja": "裁判所の外では大勢の記者が待ちかまえていた。"
+    },
+    {
+      "source": "original",
+      "label": "crowd との比較",
+      "en": "A crowd gathered in the square, and soon reporters swarmed in.",
+      "ja": "広場に人だかりができ、まもなく記者たちがどっとやって来た。"
+    }
+  ],
+  "check_points": [
+    "be swarming with A の主語は何か言えるか",
+    "swarm / flock / herd のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be swarming with A の語法が問われる。動物の群れを表す語との区別も出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2446
+    }
+  ]
+}

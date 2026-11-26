@@ -1,0 +1,93 @@
+{
+  "word": "bewilder",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/bɪˈwɪldər/",
+  "core_image": {
+    "text": "道だらけの荒野で、どっちへ行けばいいかわからなくする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"102\" y2=\"58\"/><line x1=\"120\" y1=\"74\" x2=\"138\" y2=\"58\"/><line x1=\"98\" y1=\"40\" x2=\"48\" y2=\"18\"/><polyline points=\"52.9,24.3 48,18 56,17.3\"/><line x1=\"142\" y1=\"40\" x2=\"192\" y2=\"18\"/><polyline points=\"184,17.3 192,18 187.1,24.3\"/><line x1=\"100\" y1=\"96\" x2=\"50\" y2=\"108\"/><polyline points=\"57.7,110.1 50,108 55.9,102.6\"/><line x1=\"140\" y1=\"96\" x2=\"190\" y2=\"108\"/><polyline points=\"184.1,102.6 190,108 182.3,110.1\"/><path d=\"M113 24 Q120 12 127 22 Q128 28 120 31 L120 36\"/></g><text x=\"45\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どっち?</text><text x=\"196\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">迷う</text></svg>"
+  },
+  "etymology": "be(すっかり)+ wilder(荒野で迷わせる。wild、wilderness と同じ)→ 道のない荒野でまよわせる → ①(たくさんのことが一度に来て)途方にくれさせる・まごつかせる ②(be bewildered)当惑している",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to confuse someone, especially by giving them too many choices or too much information at once."
+    }
+  ],
+  "cautions": [
+    "人が主語なら be bewildered (by/at A)=(Aに)途方にくれる。もの・状況が主語なら bewildering(まごつかせるような)",
+    "confuse=頭の中をごちゃまぜにする(いちばん広い)/puzzle=答えの出ないなぞで首をかしげさせる/bewilder=多すぎる選択肢・情報で「どっちへ?」と迷わせる/baffle=どうしても理解できずお手上げにさせる/perplex=問題がからみ合ってすっきりしない",
+    "wild(荒れた)とつながると覚えると、「道のない所で迷う」という絵が浮かぶ"
+  ],
+  "patterns": [
+    {
+      "form": "be bewildered by A",
+      "meaning": "Aに途方にくれる"
+    },
+    {
+      "form": "a bewildering variety of A",
+      "meaning": "目がまわるほど多様なA"
+    },
+    {
+      "form": "bewilderment",
+      "meaning": "当惑・困惑"
+    },
+    {
+      "form": "look bewildered",
+      "meaning": "とまどった顔をする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "途方にくれる",
+      "en": "I was bewildered by the number of choices on the menu.",
+      "ja": "メニューの品数の多さに、どれにすればいいか途方にくれた。"
+    },
+    {
+      "source": "original",
+      "label": "まごつかせる",
+      "en": "The complicated subway map bewildered the tourists.",
+      "ja": "複雑な地下鉄の路線図に観光客たちはまごついた。"
+    },
+    {
+      "source": "original",
+      "label": "bewildering",
+      "en": "There is a bewildering variety of smartphones on the market.",
+      "ja": "市場には目がまわるほど多くの種類のスマートフォンがある。"
+    },
+    {
+      "source": "original",
+      "label": "look bewildered",
+      "en": "He looked bewildered when everyone suddenly started laughing.",
+      "ja": "みんなが急に笑い出したので、彼はとまどった顔をした。"
+    },
+    {
+      "source": "original",
+      "label": "bewilderment",
+      "en": "She stared at the letter in bewilderment.",
+      "ja": "彼女は当惑して手紙を見つめた。"
+    },
+    {
+      "source": "original",
+      "label": "confuse との比較",
+      "en": "The new rules confused some students and completely bewildered the new ones.",
+      "ja": "新しい規則は一部の生徒を混乱させ、新入生をすっかり途方にくれさせた。"
+    }
+  ],
+  "check_points": [
+    "be bewildered と bewildering の使い分けを言えるか",
+    "bewilder と confuse のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文の心情説明で「当惑した」として出る。bewildered / bewildering の区別が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2438
+    }
+  ]
+}

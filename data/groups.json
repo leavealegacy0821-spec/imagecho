@@ -183,7 +183,7 @@
     },
     {
       "title": "使い分け:調べる",
-      "note": "investigate=原因・真相を突き止める ／ inspect=細かく点検する ／ explore=未知を探って回る ／ check=合っているか確かめる ／ examine=一つずつ細かく調べる ／ analyze=ばらばらに分けてしくみを明らかにする ／ survey=全体を見渡して調べる(アンケート調査)",
+      "note": "investigate=原因・真相を突き止める ／ inspect=細かく点検する ／ explore=未知を探って回る ／ check=合っているか確かめる ／ examine=一つずつ細かく調べる ／ analyze=ばらばらに分けてしくみを明らかにする ／ survey=全体を見渡して調べる(アンケート調査) ／ probe=細い棒をさし入れて、隠れた奥まで探る ／ scan=視線を端から端へ走らせて、目当てのものを探す(ざっと目を通す)",
       "words": [
         "investigate",
         "inspect",
@@ -192,7 +192,9 @@
         "observe",
         "examine",
         "analyze",
-        "survey"
+        "survey",
+        "probe",
+        "scan"
       ]
     },
     {
@@ -789,6 +791,15 @@
         "store",
         "stock",
         "compile"
+      ]
+    },
+    {
+      "title": "使い分け:群がる",
+      "note": "crowd=人が集まってぎっしり混む(いちばんふつう) ／ swarm=小さな虫の群れのように、動きまわりながら群がる(be swarming with A) ／ throng=大勢の人が一か所にどっと押し寄せる(be thronged with A、やや書き言葉)",
+      "words": [
+        "crowd",
+        "swarm",
+        "throng"
       ]
     },
     {
@@ -1593,12 +1604,13 @@
     },
     {
       "title": "使い分け:ぶらつく・漂う",
-      "note": "wander=あてもなく歩き回る ／ drift=流れに任せて漂う ／ linger=名残惜しくぐずぐず残る ／ deviate=決まった道からそれる",
+      "note": "wander=あてもなく歩き回る ／ drift=流れに任せて漂う ／ linger=名残惜しくぐずぐず残る ／ deviate=決まった道からそれる ／ roam=目的地を決めず、広い範囲を自由に歩きまわる(動物の群れにも)",
       "words": [
         "wander",
         "drift",
         "linger",
-        "deviate"
+        "deviate",
+        "roam"
       ]
     },
     {
@@ -1772,6 +1784,17 @@
       ]
     },
     {
+      "title": "使い分け:当惑させる",
+      "note": "confuse=頭の中をごちゃまぜにする(いちばん広い) ／ puzzle=答えの出ないなぞで首をかしげさせる ／ bewilder=道だらけの荒野のように、多すぎる選択肢・情報で「どっち?」と迷わせる ／ baffle=考えが壁にぶつかり、どうしても理解できずお手上げにさせる ／ perplex=問題の糸がこんがらがって、すっきり解けずに悩ませる",
+      "words": [
+        "confuse",
+        "puzzle",
+        "bewilder",
+        "baffle",
+        "perplex"
+      ]
+    },
+    {
       "title": "使い分け:恐れる・怖がらせる",
       "note": "afraid=怖がっている(状態) ／ frighten=急に恐怖を与える ／ dread=これから起こることを前もって恐れる ／ scared=(人が)こわくてびくびく(口語) ／ frightened=急な恐怖にぎょっとしておびえた ／ terrified=恐怖で身がすくむ(いちばん強い) ／ scary=(物事が)人をこわがらせる ／ horror=身の毛がよだつぞっとする恐怖 ／ panic=恐怖で頭が真っ白、あわてふためく(panicked)",
       "words": [
@@ -1795,6 +1818,15 @@
         "amuse",
         "entertain",
         "thrill"
+      ]
+    },
+    {
+      "title": "使い分け:味わう",
+      "note": "taste=味をみる・〜の味がする ／ relish=好きなものを舌の上でころがすように大いに楽しむ(relish doing、これから起こることにも) ／ savor=ひと口ずつ、ゆっくり味をかみしめる(瞬間・勝利をかみしめるにも)",
+      "words": [
+        "taste",
+        "relish",
+        "savor"
       ]
     },
     {

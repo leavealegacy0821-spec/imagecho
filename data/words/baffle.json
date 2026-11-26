@@ -1,0 +1,94 @@
+{
+  "word": "baffle",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈbæfəl/",
+  "core_image": {
+    "text": "考えが壁にぶつかって、どうしても先へ進めない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"92\" y2=\"66\"/><line x1=\"70\" y1=\"74\" x2=\"50\" y2=\"90\"/><rect x=\"140\" y=\"30\" width=\"14\" height=\"110\"/><line x1=\"96\" y1=\"66\" x2=\"134\" y2=\"66\"/><polyline points=\"127,62.2 134,66 127,69.8\"/></g><text x=\"70\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">お手上げ</text><text x=\"196\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">行き止まり</text></svg>"
+  },
+  "etymology": "(はっきりした語源は不明)→ 考えが壁でさえぎられる → ①(人を)すっかり困惑させる・理解できなくさせる ②(be baffled)まったくわからない ③(名 baffle)流れや音をさえぎる板",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone completely unable to understand or explain something."
+    }
+  ],
+  "cautions": [
+    "be baffled by A=Aがさっぱりわからない。baffling=不可解な",
+    "科学者・専門家も説明できない「なぞ」によく使う:The phenomenon baffled scientists.",
+    "puzzle=首をかしげて考えこませる(まだ考える余地あり)/baffle=いくら考えても理解できずお手上げ/bewilder=選択肢や情報が多すぎて迷う",
+    "「困らせる・迷惑をかける」ではない(それは bother / annoy)"
+  ],
+  "patterns": [
+    {
+      "form": "A baffle B",
+      "meaning": "AがBを困惑させる"
+    },
+    {
+      "form": "be baffled by A",
+      "meaning": "Aがまったくわからない"
+    },
+    {
+      "form": "baffling",
+      "meaning": "不可解な"
+    },
+    {
+      "form": "completely baffled",
+      "meaning": "完全にお手上げで"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "専門家も",
+      "en": "The strange disease baffled doctors for years.",
+      "ja": "その奇妙な病気は何年もの間、医師たちを困惑させた。"
+    },
+    {
+      "source": "original",
+      "label": "be baffled by",
+      "en": "I was baffled by his sudden change of attitude.",
+      "ja": "彼の態度の急変がまったく理解できなかった。"
+    },
+    {
+      "source": "original",
+      "label": "baffling",
+      "en": "The disappearance of the ship remains a baffling mystery.",
+      "ja": "その船の失踪は今も不可解ななぞのままだ。"
+    },
+    {
+      "source": "original",
+      "label": "完全に",
+      "en": "The police are completely baffled by the case.",
+      "ja": "警察はその事件にまったくお手上げだ。"
+    },
+    {
+      "source": "original",
+      "label": "what baffles me",
+      "en": "What baffles me is why she never told anyone.",
+      "ja": "どうしてもわからないのは、なぜ彼女が誰にも言わなかったかだ。"
+    },
+    {
+      "source": "original",
+      "label": "puzzle との比較",
+      "en": "The question puzzled me at first, and the answer baffled me even more.",
+      "ja": "その問題に最初は首をかしげたが、答えを見てますますわけがわからなくなった。"
+    }
+  ],
+  "check_points": [
+    "baffle と puzzle のちがいを言えるか",
+    "baffling の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "科学・ミステリーの長文で「不可解な・困惑させる」として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2439
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "scan",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/skæn/",
+  "core_image": {
+    "text": "視線を、端から端へサーッと走らせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"74\" y2=\"80\"/><line x1=\"50\" y1=\"74\" x2=\"30\" y2=\"92\"/><rect x=\"110\" y=\"34\" width=\"100\" height=\"96\"/><line x1=\"122\" y1=\"62\" x2=\"198\" y2=\"62\"/><line x1=\"122\" y1=\"88\" x2=\"198\" y2=\"88\"/><line x1=\"122\" y1=\"112\" x2=\"198\" y2=\"112\"/><line x1=\"122\" y1=\"50\" x2=\"200\" y2=\"50\"/><polyline points=\"193,46.2 200,50 193,53.8\"/><line x1=\"122\" y1=\"76\" x2=\"200\" y2=\"76\"/><polyline points=\"193,72.2 200,76 193,79.8\"/><line x1=\"122\" y1=\"100\" x2=\"200\" y2=\"100\"/><polyline points=\"193,96.2 200,100 193,103.8\"/></g><text x=\"160\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">端から端へ</text></svg>"
+  },
+  "etymology": "scan(ラテン語 scandere=のぼる。詩の音節を一つずつたどる意味から)→ 一つずつ目でたどる → ①(探して)じっくり見渡す ②ざっと目を通す ③(機械で)走査する・スキャンする ④(名)スキャン・検査",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to look quickly through something to find information; to look carefully at an area to find something; to examine with a machine."
+    },
+    {
+      "pos": "名詞",
+      "text": "a medical examination using a machine; a quick look."
+    }
+  ],
+  "cautions": [
+    "正反対に見える2つの意味:「ざっと目を通す」(scan the newspaper)と「(目当てのものを探して)見渡す」(scan the horizon)。どちらも視線を端から端へ走らせる絵",
+    "scan A for B=Bを探してAを見渡す",
+    "skim=表面をすくうように要点だけ拾い読み/scan=特定の情報を探して目を走らせる(読解法の用語でもよく出る)",
+    "名詞:a brain scan=脳のスキャン検査"
+  ],
+  "patterns": [
+    {
+      "form": "scan A for B",
+      "meaning": "Bを探してAに目を走らせる"
+    },
+    {
+      "form": "scan the newspaper",
+      "meaning": "新聞にざっと目を通す"
+    },
+    {
+      "form": "scan the horizon",
+      "meaning": "水平線を見渡す"
+    },
+    {
+      "form": "a brain scan",
+      "meaning": "脳のスキャン検査"
+    },
+    {
+      "form": "scanner",
+      "meaning": "スキャナー"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "見渡す",
+      "en": "The guard scanned the crowd for suspicious people.",
+      "ja": "警備員は怪しい人物がいないかと群衆を見渡した。"
+    },
+    {
+      "source": "original",
+      "label": "ざっと目を通す",
+      "en": "I scanned the newspaper over breakfast.",
+      "ja": "朝食をとりながら新聞にざっと目を通した。"
+    },
+    {
+      "source": "original",
+      "label": "scan for",
+      "en": "She scanned the list for her name.",
+      "ja": "彼女は自分の名前を探してリストに目を走らせた。"
+    },
+    {
+      "source": "original",
+      "label": "機械で",
+      "en": "Please scan these documents and send them by email.",
+      "ja": "これらの書類をスキャンしてメールで送ってください。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The doctor ordered a brain scan.",
+      "ja": "医者は脳のスキャン検査を指示した。"
+    },
+    {
+      "source": "original",
+      "label": "skim との比較",
+      "en": "Skim the article for the main idea, then scan it for dates.",
+      "ja": "記事を拾い読みして要旨をつかみ、それから日付を探して目を走らせなさい。"
+    }
+  ],
+  "check_points": [
+    "scan の2つの意味(ざっと見る/見渡して探す)を言えるか",
+    "scan と skim のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "scan A for B の形と、「ざっと目を通す」の意味が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2442
+    }
+  ]
+}
