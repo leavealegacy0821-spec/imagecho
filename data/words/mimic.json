@@ -1,0 +1,98 @@
+{
+  "word": "mimic",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈmɪmɪk/",
+  "core_image": {
+    "text": "声やしぐさを、そっくりまねして演じる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"50\" y2=\"50\"/><line x1=\"70\" y1=\"74\" x2=\"82\" y2=\"98\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"190\" y2=\"50\"/><line x1=\"170\" y1=\"74\" x2=\"158\" y2=\"98\"/><line x1=\"95\" y1=\"40\" x2=\"145\" y2=\"40\" stroke-dasharray=\"5 5\"/><polyline points=\"138,36.2 145,40 138,43.8\"/></g><text x=\"120\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そっくりに</text></svg>"
+  },
+  "etymology": "mime(身ぶり劇)と同じ根(ギリシャ語 mimos=役者)→ 役者のように身ぶり・声をまねる → ①(口調・しぐさを)まねる(よくからかって) ②(生物が)擬態する ③(名詞)ものまねの上手な人",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to copy the way someone speaks or moves, often to make people laugh."
+    },
+    {
+      "pos": "名詞",
+      "text": "a person or animal that is good at copying the voice or actions of others."
+    }
+  ],
+  "cautions": [
+    "過去形・-ing形は k を足す:mimicked / mimicking(panic→panicked と同じ)",
+    "imitate=形・やり方をまねる(中立・広い)/mimic=声・しぐさをそっくりまねる(笑わせる・からかう)/emulate=尊敬して見習い、追いつこうとする",
+    "生物の擬態にも使う。名詞 mimicry(ものまね・擬態)"
+  ],
+  "patterns": [
+    {
+      "form": "mimic A",
+      "meaning": "A(人・声・しぐさ)をまねる"
+    },
+    {
+      "form": "mimicked / mimicking",
+      "meaning": "過去形・-ing形(k を足す)"
+    },
+    {
+      "form": "mimicry",
+      "meaning": "ものまね・擬態"
+    },
+    {
+      "form": "a good mimic",
+      "meaning": "ものまねがうまい人"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "口調を",
+      "en": "The boy mimicked his teacher's voice, and the whole class laughed.",
+      "ja": "少年が先生の声をまねすると、クラス中が笑った。"
+    },
+    {
+      "source": "original",
+      "label": "しぐさを",
+      "en": "Parrots can mimic human speech.",
+      "ja": "オウムは人のことばをまねることができる。"
+    },
+    {
+      "source": "original",
+      "label": "擬態する",
+      "en": "Some insects mimic leaves to hide from birds.",
+      "ja": "鳥から身を隠すため、葉に擬態する昆虫もいる。"
+    },
+    {
+      "source": "original",
+      "label": "まねて作る",
+      "en": "The robot is designed to mimic the movements of a human hand.",
+      "ja": "そのロボットは人の手の動きをまねるように作られている。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "She is a good mimic and can sound just like any famous actor.",
+      "ja": "彼女はものまねがうまく、どんな有名俳優にもそっくりな声が出せる。"
+    },
+    {
+      "source": "original",
+      "label": "imitate との比較",
+      "en": "Children imitate their parents' habits, and sometimes they mimic their parents' voices for fun.",
+      "ja": "子どもは親の習慣をまね、ときにはふざけて親の声をそっくりまねる。"
+    }
+  ],
+  "check_points": [
+    "mimic の過去形のつづりを言えるか",
+    "mimic と imitate のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文(生物の擬態・ロボット)で出る。mimicked のつづりが問われることも。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2473
+    }
+  ]
+}

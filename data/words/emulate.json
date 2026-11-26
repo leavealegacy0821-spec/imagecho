@@ -1,0 +1,93 @@
+{
+  "word": "emulate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈemjuleɪt/",
+  "core_image": {
+    "text": "あこがれの手本に追いつこうと、見習う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"130\" y=\"100\" width=\"80\" height=\"40\"/><circle cx=\"170\" cy=\"12\" r=\"10\"/><line x1=\"170\" y1=\"22\" x2=\"170\" y2=\"66\"/><line x1=\"170\" y1=\"66\" x2=\"160\" y2=\"100\"/><line x1=\"170\" y1=\"66\" x2=\"180\" y2=\"100\"/><line x1=\"170\" y1=\"34\" x2=\"186\" y2=\"56\"/><line x1=\"170\" y1=\"34\" x2=\"154\" y2=\"56\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"96\" y2=\"62\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"98\"/><line x1=\"100\" y1=\"92\" x2=\"124\" y2=\"72\"/><polyline points=\"116.2,73.5 124,72 121.1,79.4\"/></g><text x=\"66\" y=\"25\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">追いつきたい</text><text x=\"214\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手本</text></svg>"
+  },
+  "etymology": "ラテン語 aemulus(張り合う)→ 手本と張り合う → ①(尊敬する人・成功を)見習う・負けまいと努める ②(コンピュータが別の機種を)まねて動く",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to try to do something as well as someone you admire, by copying them."
+    }
+  ],
+  "cautions": [
+    "目的語は「尊敬する人・その成功・業績」。emulate one's father / the success of ~",
+    "imitate=形をまねる(中立)/mimic=そっくりまねる(からかいも)/emulate=尊敬して見習い、同じくらいになろうとする(ほめる意味)",
+    "名詞 emulation(見習うこと・張り合い)"
+  ],
+  "patterns": [
+    {
+      "form": "emulate A",
+      "meaning": "A(手本)を見習う・Aに負けまいと努める"
+    },
+    {
+      "form": "try to emulate ~",
+      "meaning": "~を見習おうとする"
+    },
+    {
+      "form": "emulate the success of ~",
+      "meaning": "~の成功にならう"
+    },
+    {
+      "form": "emulation",
+      "meaning": "見習うこと"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "人を",
+      "en": "He worked hard, hoping to emulate his older brother.",
+      "ja": "兄のようになりたいと願って、彼は懸命に努力した。"
+    },
+    {
+      "source": "original",
+      "label": "成功を",
+      "en": "Other countries have tried to emulate Japan's success in building safe railways.",
+      "ja": "ほかの国々は、安全な鉄道を作った日本の成功を見習おうとしてきた。"
+    },
+    {
+      "source": "original",
+      "label": "手本に",
+      "en": "Young players often emulate their favorite athletes.",
+      "ja": "若い選手はよく、好きな選手を手本にしてまねる。"
+    },
+    {
+      "source": "original",
+      "label": "手本にする",
+      "en": "She is a teacher whom many students want to emulate.",
+      "ja": "彼女は多くの生徒が見習いたいと思う先生だ。"
+    },
+    {
+      "source": "original",
+      "label": "機械が",
+      "en": "This software can emulate an old game console on a modern computer.",
+      "ja": "このソフトは、今のパソコンの上で古いゲーム機の動きを再現できる。"
+    },
+    {
+      "source": "original",
+      "label": "mimic との比較",
+      "en": "Instead of just mimicking the singer's style, try to emulate her hard work.",
+      "ja": "その歌手の歌い方をそっくりまねるだけでなく、彼女の努力を見習いなさい。"
+    }
+  ],
+  "check_points": [
+    "emulate の目的語にどんなものが来るか言えるか",
+    "emulate と mimic のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で「見習う」。imitate との言いかえ・ちがいで問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2474
+    }
+  ]
+}

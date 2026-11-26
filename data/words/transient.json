@@ -1,0 +1,94 @@
+{
+  "word": "transient",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/ˈtrænʃənt/",
+  "core_image": {
+    "text": "そばを通り過ぎて、すぐに消えていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><ellipse cx=\"40\" cy=\"34\" rx=\"18\" ry=\"10\"/><line x1=\"62\" y1=\"34\" x2=\"160\" y2=\"34\" stroke-dasharray=\"5 5\"/><polyline points=\"153,30.2 160,34 153,37.8\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"168\" y2=\"62\"/><line x1=\"190\" y1=\"74\" x2=\"204\" y2=\"100\"/></g><text x=\"110\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すぐ過ぎ去る</text></svg>"
+  },
+  "etymology": "trans(向こうへ・越えて)+ i(行く。exit の it と同じ根)+ ent(〜している)→ 通り過ぎて行く → ①一時的な・はかない ②(名詞)短期滞在者・流れ者",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "continuing for only a short time; passing quickly."
+    },
+    {
+      "pos": "名詞",
+      "text": "a person who stays in a place for only a short time."
+    }
+  ],
+  "cautions": [
+    "temporary より「すぐに過ぎ去って消える・はかない」感じが強い。transient pleasure=つかの間の喜び",
+    "transient=通り過ぎてすぐ消える/temporary=決まった間だけ仮に/permanent=ずっと残る",
+    "名詞 transience(はかなさ)。transit(通過・輸送)と同じ根"
+  ],
+  "patterns": [
+    {
+      "form": "transient pleasure / happiness",
+      "meaning": "つかの間の喜び・幸せ"
+    },
+    {
+      "form": "transient population",
+      "meaning": "一時滞在の人々"
+    },
+    {
+      "form": "transience",
+      "meaning": "はかなさ・一時性"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "つかの間の",
+      "en": "Fame can be transient; many stars are soon forgotten.",
+      "ja": "名声ははかないこともあり、多くのスターがすぐに忘れられる。"
+    },
+    {
+      "source": "original",
+      "label": "一時的な",
+      "en": "Most of these side effects are transient and disappear within a few days.",
+      "ja": "これらの副作用のほとんどは一時的で、数日で消える。"
+    },
+    {
+      "source": "original",
+      "label": "一時滞在の",
+      "en": "The town has a large transient population of tourists in summer.",
+      "ja": "その町には夏、一時滞在の観光客が大勢いる。"
+    },
+    {
+      "source": "original",
+      "label": "はかない",
+      "en": "The poem is about the transient beauty of cherry blossoms.",
+      "ja": "その詩は桜のはかない美しさをうたっている。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The shelter offers beds to transients who have nowhere to sleep.",
+      "ja": "その施設は、寝る場所のない一時滞在者にベッドを提供している。"
+    },
+    {
+      "source": "original",
+      "label": "permanent との比較",
+      "en": "Her interest in tennis was transient, but her love of music was permanent.",
+      "ja": "テニスへの興味はつかの間だったが、音楽への愛はずっと続いた。"
+    }
+  ],
+  "check_points": [
+    "transient の trans と i の意味を言えるか",
+    "transient と temporary のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "難関大の長文で「はかない・一時的な」。transience も文化論で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2470
+    }
+  ]
+}
