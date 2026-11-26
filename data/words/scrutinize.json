@@ -1,0 +1,98 @@
+{
+  "word": "scrutinize",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈskruːtənaɪz/",
+  "core_image": {
+    "text": "すみずみまで目をこらし、細かく調べ上げる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"94\" y2=\"80\"/><circle cx=\"104\" cy=\"84\" r=\"11\"/><rect x=\"130\" y=\"70\" width=\"70\" height=\"70\"/><line x1=\"140\" y1=\"84\" x2=\"190\" y2=\"84\"/><line x1=\"140\" y1=\"96\" x2=\"190\" y2=\"96\"/><line x1=\"140\" y1=\"108\" x2=\"190\" y2=\"108\"/><line x1=\"140\" y1=\"120\" x2=\"176\" y2=\"120\"/></g><text x=\"165\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すみずみまで</text><text x=\"120\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">じっくり調べる</text></svg>"
+  },
+  "etymology": "scrutiny(綿密な調査)+ ize(〜する)。scrutiny はラテン語 scrutari(ぼろくずの中まで探す)から → 小さなものも見のがさずに探す → ①(書類・顔・証拠を)細かく調べる・精査する ②じろじろ見つめる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to examine something very carefully in order to find out information or mistakes."
+    }
+  ],
+  "cautions": [
+    "examine=調べる(一般的)/inspect=基準に照らして点検する/scrutinize=細部まで一つ一つ念入りに精査する(いちばん細かい)",
+    "他動詞なので scrutinize A(× scrutinize into A)",
+    "名詞 scrutiny:under scrutiny=厳しい監視の目にさらされて、come under scrutiny=厳しく調べられる",
+    "アクセントは先頭 /ˈskruː/"
+  ],
+  "patterns": [
+    {
+      "form": "scrutinize A",
+      "meaning": "Aを細かく調べる"
+    },
+    {
+      "form": "scrutinize A for B",
+      "meaning": "Bがないか探してAを精査する"
+    },
+    {
+      "form": "scrutiny",
+      "meaning": "綿密な調査・監視"
+    },
+    {
+      "form": "under scrutiny",
+      "meaning": "厳しい監視を受けて"
+    },
+    {
+      "form": "come under scrutiny",
+      "meaning": "厳しく調べられる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "書類",
+      "en": "The lawyer scrutinized every line of the contract.",
+      "ja": "弁護士は契約書を一行一行念入りに調べた。"
+    },
+    {
+      "source": "original",
+      "label": "探す",
+      "en": "Scrutinize your answers for careless mistakes before you hand them in.",
+      "ja": "提出する前に、うっかりミスがないか答えを細かく見直しなさい。"
+    },
+    {
+      "source": "original",
+      "label": "顔",
+      "en": "She scrutinized his face to see if he was telling the truth.",
+      "ja": "彼が本当のことを言っているか、彼女はその顔をじっと見つめた。"
+    },
+    {
+      "source": "original",
+      "label": "証拠",
+      "en": "The police scrutinized the security camera footage.",
+      "ja": "警察は防犯カメラの映像を細かく調べた。"
+    },
+    {
+      "source": "original",
+      "label": "監視",
+      "en": "The company's use of personal data is now under scrutiny.",
+      "ja": "その会社の個人情報の扱いは、今厳しい監視を受けている。"
+    },
+    {
+      "source": "original",
+      "label": "厳しく調べられる",
+      "en": "The plan came under close scrutiny from experts.",
+      "ja": "その計画は専門家から厳しく調べられた。"
+    }
+  ],
+  "check_points": [
+    "scrutinize と examine・inspect のちがいを言えるか",
+    "under scrutiny の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で「精査する」の意味で出る。名詞 scrutiny(under scrutiny)が評論・ニュース英語で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2408
+    }
+  ]
+}

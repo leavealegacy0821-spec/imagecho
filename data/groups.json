@@ -3,7 +3,7 @@
   "groups": [
     {
       "title": "使い分け:見る",
-      "note": "see=自然に目に入る ／ look=自分から目を向ける ／ watch=動きを目で追う ／ stare=じっと見つめる ／ glance=ちらっと見る ／ observe=注意して観察する ／ witness=その場で目撃する ／ gaze=うっとり長く見つめる ／ glimpse=(たまたま)一瞬ちらりと見える ／ glare=怒ってぎらっとにらみつける",
+      "note": "see=自然に目に入る ／ look=自分から目を向ける ／ watch=動きを目で追う ／ stare=じっと見つめる ／ glance=ちらっと見る ／ observe=注意して観察する ／ witness=その場で目撃する ／ gaze=うっとり長く見つめる ／ glimpse=(たまたま)一瞬ちらりと見える ／ glare=怒ってぎらっとにらみつける ／ scrutinize=すみずみまで目をこらして念入りに調べる ／ peep=すき間からこっそり少しだけのぞく",
       "words": [
         "see",
         "look",
@@ -15,7 +15,9 @@
         "gaze",
         "glimpse",
         "survey",
-        "glare"
+        "glare",
+        "scrutinize",
+        "peep"
       ]
     },
     {
@@ -367,7 +369,7 @@
     },
     {
       "title": "使い分け:妨げる・防ぐ",
-      "note": "prevent=前に立ちはだかって起こらせない ／ hinder=じゃまして遅らせる ／ inhibit=内側から抑えて妨げる ／ deter=恐れさせて思いとどまらせる ／ discourage=やる気をくじく ／ restrain=手綱を引いて抑える ／ obstruct=前に置いてふさぐ",
+      "note": "prevent=前に立ちはだかって起こらせない ／ hinder=じゃまして遅らせる ／ inhibit=内側から抑えて妨げる ／ deter=恐れさせて思いとどまらせる ／ discourage=やる気をくじく ／ restrain=手綱を引いて抑える ／ obstruct=前に置いてふさぐ ／ impede=足かせのように進行を重くする ／ hamper=重荷がからんで動きをにぶらせる",
       "words": [
         "prevent",
         "hinder",
@@ -376,7 +378,9 @@
         "discourage",
         "restrain",
         "keep",
-        "obstruct"
+        "obstruct",
+        "impede",
+        "hamper"
       ]
     },
     {
@@ -405,7 +409,7 @@
     },
     {
       "title": "使い分け:ほめる・尊敬する",
-      "note": "praise=言葉でほめる ／ admire=心から感心する ／ compliment=面と向かってほめる ／ flatter=おだてる ／ respect=価値を認めて敬う ／ esteem=高く評価する ／ appreciate=よさがわかる",
+      "note": "praise=言葉でほめる ／ admire=心から感心する ／ compliment=面と向かってほめる ／ flatter=おだてる ／ respect=価値を認めて敬う ／ esteem=高く評価する ／ appreciate=よさがわかる ／ applaud=手をたたいて公にたたえる ／ commend=公式に評価して前へ推す",
       "words": [
         "praise",
         "admire",
@@ -413,7 +417,9 @@
         "flatter",
         "respect",
         "esteem",
-        "appreciate"
+        "appreciate",
+        "applaud",
+        "commend"
       ]
     },
     {
@@ -526,7 +532,7 @@
     },
     {
       "title": "使い分け:続く・続ける",
-      "note": "persist=しつこく続ける・続く ／ last=(期間)もつ ／ proceed=前へ進めていく ／ resume=中断したあと再開する ／ sustain=下から支えて続けさせる ／ remain=残る・〜のままでいる ／ continue=切れずにつながったまま続ける",
+      "note": "persist=しつこく続ける・続く ／ last=(期間)もつ ／ proceed=前へ進めていく ／ resume=中断したあと再開する ／ sustain=下から支えて続けさせる ／ remain=残る・〜のままでいる ／ continue=切れずにつながったまま続ける ／ persevere=困難に負けず最後までやり抜く",
       "words": [
         "persist",
         "last",
@@ -535,12 +541,13 @@
         "sustain",
         "remain",
         "maintain",
-        "continue"
+        "continue",
+        "persevere"
       ]
     },
     {
       "title": "使い分け:やめる・終える",
-      "note": "stop=動きを止める ／ cease=(堅)ある状態が終わる ／ quit=すっぱりやめる ／ end=終わりにする ／ conclude=締めくくる ／ abolish=制度をなくす ／ finish=最後まで行きついて終える(finish doing) ／ complete=欠けなく満たして完成させる ／ terminate=境目で正式に打ち切る ／ halt=号令でぴたっと止まる(come to a halt)",
+      "note": "stop=動きを止める ／ cease=(堅)ある状態が終わる ／ quit=すっぱりやめる ／ end=終わりにする ／ conclude=締めくくる ／ abolish=制度をなくす ／ finish=最後まで行きついて終える(finish doing) ／ complete=欠けなく満たして完成させる ／ terminate=境目で正式に打ち切る ／ halt=号令でぴたっと止まる(come to a halt) ／ pause=またすぐ続けるつもりで一瞬止まる",
       "words": [
         "stop",
         "cease",
@@ -551,7 +558,8 @@
         "finish",
         "complete",
         "terminate",
-        "halt"
+        "halt",
+        "pause"
       ]
     },
     {
@@ -2339,7 +2347,7 @@
     },
     {
       "title": "使い分け:切る・彫る",
-      "note": "cut=切る(広い) ／ chop=刃をふり下ろしてざくざく刻む ／ slice=すっと刃を入れて薄く平らに切る ／ carve=少しずつ削って形を刻み出す ／ split=二つに割る ／ tear=手で引き裂く ／ pierce=とがった先でつき通す ／ peel=外の皮をぺろりとはがす",
+      "note": "cut=切る(広い) ／ chop=刃をふり下ろしてざくざく刻む ／ slice=すっと刃を入れて薄く平らに切る ／ carve=少しずつ削って形を刻み出す ／ split=二つに割る ／ tear=手で引き裂く ／ pierce=とがった先でつき通す ／ peel=外の皮をぺろりとはがす ／ rip=力まかせにビリッと引き裂く ／ shred=細長い切れはしに細かく刻む",
       "words": [
         "cut",
         "chop",
@@ -2348,7 +2356,9 @@
         "split",
         "tear",
         "pierce",
-        "peel"
+        "peel",
+        "rip",
+        "shred"
       ]
     },
     {

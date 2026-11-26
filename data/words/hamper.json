@@ -1,0 +1,103 @@
+{
+  "word": "hamper",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈhæmpər/",
+  "core_image": {
+    "text": "重荷がからみついて、動きをにぶらせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"64\" y=\"50\" width=\"28\" height=\"40\"/><line x1=\"92\" y1=\"56\" x2=\"110\" y2=\"70\"/><circle cx=\"110\" cy=\"52\" r=\"10\"/><line x1=\"110\" y1=\"62\" x2=\"110\" y2=\"106\"/><line x1=\"110\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"110\" y1=\"106\" x2=\"120\" y2=\"140\"/><path d=\"M96 120 Q110 112 124 120 Q110 128 96 120\"/><line x1=\"132\" y1=\"96\" x2=\"172\" y2=\"96\" stroke-dasharray=\"5 5\"/><polyline points=\"165,92.2 172,96 165,99.8\"/></g><text x=\"78\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">重荷</text><text x=\"192\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">動きにくい</text></svg>"
+  },
+  "etymology": "からみつくもので手足の動きを封じる → ①(行動・進行・作業を)妨げる・じゃまする(受け身が多い)②(名詞・別の語)ふた付きの大きなかご(ピクニック用・洗濯物入れ)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make it difficult for someone to do something or for something to happen."
+    },
+    {
+      "pos": "名詞",
+      "text": "a large basket with a lid, used for carrying food or holding dirty clothes."
+    }
+  ],
+  "cautions": [
+    "be hampered by A=Aに妨げられる(悪天候・資金不足・けがなどが by の後ろに来る)。受け身でよく出る",
+    "hamper=重荷でにぶらせる(止まりはしない)/prevent=起こらないようにする/impede=進行を重くする(ほぼ同じ意味)",
+    "名詞 hamper(大かご)は別の語。a picnic hamper=ピクニック用のかご",
+    "hinder・impede・hamper は同意語として並んで出やすい"
+  ],
+  "patterns": [
+    {
+      "form": "hamper A",
+      "meaning": "Aを妨げる"
+    },
+    {
+      "form": "be hampered by A",
+      "meaning": "Aに妨げられる"
+    },
+    {
+      "form": "hamper efforts to do",
+      "meaning": "〜しようとする努力をじゃまする"
+    },
+    {
+      "form": "hamper progress",
+      "meaning": "進展を妨げる"
+    },
+    {
+      "form": "a picnic hamper",
+      "meaning": "ピクニック用のかご"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "The search was hampered by bad weather.",
+      "ja": "捜索は悪天候に妨げられた。"
+    },
+    {
+      "source": "original",
+      "label": "けが",
+      "en": "A knee injury hampered his performance in the final.",
+      "ja": "ひざのけがが決勝での彼の動きをにぶらせた。"
+    },
+    {
+      "source": "original",
+      "label": "努力",
+      "en": "A lack of funds hampered efforts to rebuild the town.",
+      "ja": "資金不足が町の再建の努力をじゃました。"
+    },
+    {
+      "source": "original",
+      "label": "服装",
+      "en": "Her long skirt hampered her movements.",
+      "ja": "長いスカートが彼女の動きをじゃました。"
+    },
+    {
+      "source": "original",
+      "label": "進展",
+      "en": "The language barrier hampered progress in the talks.",
+      "ja": "言葉の壁が話し合いの進展を妨げた。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "We packed sandwiches in a picnic hamper.",
+      "ja": "私たちはピクニック用のかごにサンドイッチを詰めた。"
+    }
+  ],
+  "check_points": [
+    "be hampered by の意味を言えるか",
+    "hamper の同意語を2つ言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be hampered by の受け身が長文に出る。hinder・impede との同意語選択で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2413
+    }
+  ]
+}

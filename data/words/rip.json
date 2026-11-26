@@ -1,0 +1,103 @@
+{
+  "word": "rip",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/rɪp/",
+  "core_image": {
+    "text": "力まかせにビリッと、勢いよく引き裂く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"110,40 50,40 50,120 110,120 104,104 114,88 104,72 114,56 110,40\"/><polyline points=\"130,40 190,40 190,120 130,120 124,104 134,88 124,72 134,56 130,40\"/><line x1=\"44\" y1=\"80\" x2=\"14\" y2=\"80\"/><polyline points=\"21,83.8 14,80 21,76.2\"/><line x1=\"196\" y1=\"80\" x2=\"226\" y2=\"80\"/><polyline points=\"219,76.2 226,80 219,83.8\"/></g><text x=\"120\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ビリッ</text><text x=\"120\" y=\"142\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">勢いよく裂く</text></svg>"
+  },
+  "etymology": "力を入れて一気に引っぱる → ①(紙・布を)ビリッと裂く・破る ②(rip off / out)むしり取る・はぎ取る ③(rip off)ぼったくる(名詞 rip-off=ぼったくり)④(名詞)裂け目",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to tear something quickly and with force; to remove something by pulling it roughly."
+    },
+    {
+      "pos": "名詞",
+      "text": "a long tear in cloth or paper."
+    }
+  ],
+  "cautions": [
+    "tear=裂く・破る(一般的)/rip=乱暴に勢いよく裂く/split=(縦に)割る・裂ける",
+    "rip - ripped - ripped(p を重ねる)",
+    "rip A open=Aを破って開ける、rip A up=Aをびりびりに破る、rip A off B=BからAをはぎ取る",
+    "rip A off=(人)からぼったくる。名詞 a rip-off=ぼったくり・高すぎる買い物(会話で頻出)"
+  ],
+  "patterns": [
+    {
+      "form": "rip A open",
+      "meaning": "Aを破って開ける"
+    },
+    {
+      "form": "rip A up",
+      "meaning": "Aをびりびりに破る"
+    },
+    {
+      "form": "rip A off (B)",
+      "meaning": "(Bから)Aをはぎ取る"
+    },
+    {
+      "form": "rip A off",
+      "meaning": "(人)からぼったくる"
+    },
+    {
+      "form": "a rip-off",
+      "meaning": "ぼったくり"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "裂く",
+      "en": "He ripped his jeans on a nail.",
+      "ja": "彼はくぎにひっかけてジーンズを裂いてしまった。"
+    },
+    {
+      "source": "original",
+      "label": "開ける",
+      "en": "The child ripped open the present.",
+      "ja": "その子はプレゼントの包みをビリッと破って開けた。"
+    },
+    {
+      "source": "original",
+      "label": "びりびり",
+      "en": "She ripped up the letter and threw it away.",
+      "ja": "彼女は手紙をびりびりに破って捨てた。"
+    },
+    {
+      "source": "original",
+      "label": "はぎ取る",
+      "en": "The strong wind ripped the roof off the house.",
+      "ja": "強い風が家の屋根をはぎ取った。"
+    },
+    {
+      "source": "original",
+      "label": "ぼったくり",
+      "en": "Ten dollars for a coffee? What a rip-off!",
+      "ja": "コーヒー1杯で10ドル?ぼったくりだ!"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "There is a rip in the sleeve of your shirt.",
+      "ja": "シャツのそでに裂け目があるよ。"
+    }
+  ],
+  "check_points": [
+    "rip と tear のちがいを言えるか",
+    "a rip-off の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "rip off / a rip-off(ぼったくり)が会話・リスニングで出る。rip open / rip up の型も物語文に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2416
+    }
+  ]
+}

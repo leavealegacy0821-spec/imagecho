@@ -1,0 +1,98 @@
+{
+  "word": "applaud",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈplɔːd/",
+  "core_image": {
+    "text": "手をたたいて、みんなの前でたたえる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"142\" y2=\"66\"/><line x1=\"120\" y1=\"74\" x2=\"142\" y2=\"72\"/><line x1=\"150\" y1=\"58\" x2=\"158\" y2=\"52\"/><line x1=\"152\" y1=\"69\" x2=\"162\" y2=\"69\"/><line x1=\"150\" y1=\"80\" x2=\"158\" y2=\"86\"/></g><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">パチパチ</text><text x=\"194\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">たたえる</text></svg>"
+  },
+  "etymology": "ap(ad=〜に向かって)+ plaud(手をたたく。explode「爆発する」も元は「拍手でやじり出す」で同じ根)→ 〜に向かって手をたたく → ①拍手する ②(行動・決定を)称賛する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to clap your hands to show that you enjoyed something; to praise someone or something publicly."
+    }
+  ],
+  "cautions": [
+    "名詞 applause は数えられない(a big round of applause=盛大な拍手。× applauses)",
+    "applaud A for B=BのことでAを称賛する(praise A for B・blame A for B と同じ型)",
+    "praise=言葉でほめる/applaud=拍手する・公に声をあげてたたえる/commend=公式に評価して推す",
+    "比喩で、決定・勇気・努力などをたたえるときにも使う(We applaud your decision.)"
+  ],
+  "patterns": [
+    {
+      "form": "applaud A",
+      "meaning": "Aに拍手する"
+    },
+    {
+      "form": "applaud A for B",
+      "meaning": "BのことでAを称賛する"
+    },
+    {
+      "form": "applause",
+      "meaning": "拍手(数えられない)"
+    },
+    {
+      "form": "a round of applause",
+      "meaning": "ひとしきりの拍手"
+    },
+    {
+      "form": "be loudly applauded",
+      "meaning": "盛大な拍手を受ける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "拍手",
+      "en": "The audience applauded loudly at the end of the concert.",
+      "ja": "コンサートの終わりに観客は盛大に拍手した。"
+    },
+    {
+      "source": "original",
+      "label": "for",
+      "en": "We applaud her for her courage.",
+      "ja": "私たちは彼女の勇気をたたえる。"
+    },
+    {
+      "source": "original",
+      "label": "決定",
+      "en": "Many people applauded the government's decision to ban plastic bags.",
+      "ja": "レジ袋を禁止するという政府の決定を多くの人が称賛した。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "The speech was warmly applauded.",
+      "ja": "そのスピーチは温かい拍手で迎えられた。"
+    },
+    {
+      "source": "original",
+      "label": "applause",
+      "en": "The singer bowed to a big round of applause.",
+      "ja": "歌手は盛大な拍手の中でおじぎをした。"
+    },
+    {
+      "source": "original",
+      "label": "立って",
+      "en": "Everyone stood up and applauded the winner.",
+      "ja": "全員が立ち上がって勝者に拍手を送った。"
+    }
+  ],
+  "check_points": [
+    "applause が数えられない名詞であることを言えるか",
+    "applaud A for B の型を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "名詞 applause の不可算(× applauses)が文法・語彙で狙われる。applaud A for B の型も出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2410
+    }
+  ]
+}

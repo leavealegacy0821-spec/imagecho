@@ -1,0 +1,103 @@
+{
+  "word": "peep",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/piːp/",
+  "core_image": {
+    "text": "すき間から、こっそり少しだけのぞく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"120\" y1=\"20\" x2=\"120\" y2=\"46\"/><line x1=\"120\" y1=\"58\" x2=\"120\" y2=\"140\"/><line x1=\"128\" y1=\"20\" x2=\"128\" y2=\"46\"/><line x1=\"128\" y1=\"58\" x2=\"128\" y2=\"140\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"104\" y1=\"52\" x2=\"196\" y2=\"52\" stroke-dasharray=\"5 5\"/><polyline points=\"189,48.2 196,52 189,55.8\"/><circle cx=\"206\" cy=\"52\" r=\"6\"/></g><text x=\"60\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こっそり</text><text x=\"178\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すき間から</text></svg>"
+  },
+  "etymology": "すき間や穴から、目を少しだけ出して見る → ①(こっそり・ちらっと)のぞく ②(太陽・花などが)少しだけ顔を出す ③(名詞)のぞき見・ひと目",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to look at something quickly and secretly, especially through a small opening."
+    },
+    {
+      "pos": "名詞",
+      "text": "a quick and often secret look at something."
+    }
+  ],
+  "cautions": [
+    "peep=すき間から人に知られずにのぞく/peer=見えにくいものを目をこらしてのぞきこむ/glance=ちらっと目をやる",
+    "peep at A(Aをのぞき見る)/peep through [into] A(Aを通して[の中を]のぞく)。前置詞とセットで使う",
+    "②の peep out [through]=(雲の間から太陽が)のぞく。人以外が主語になる",
+    "take [have] a peep at A=Aをちらっとのぞく"
+  ],
+  "patterns": [
+    {
+      "form": "peep at A",
+      "meaning": "Aをのぞき見る"
+    },
+    {
+      "form": "peep through A",
+      "meaning": "Aのすき間からのぞく"
+    },
+    {
+      "form": "peep into A",
+      "meaning": "Aの中をのぞく"
+    },
+    {
+      "form": "peep out",
+      "meaning": "(少し)顔を出す"
+    },
+    {
+      "form": "take a peep at A",
+      "meaning": "Aをちらっとのぞく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "すき間",
+      "en": "The boy peeped through the hole in the fence.",
+      "ja": "少年は塀の穴からのぞいた。"
+    },
+    {
+      "source": "original",
+      "label": "中を",
+      "en": "She peeped into the room to see if the baby was asleep.",
+      "ja": "赤ちゃんが眠っているか、彼女は部屋の中をそっとのぞいた。"
+    },
+    {
+      "source": "original",
+      "label": "こっそり",
+      "en": "Don't peep at the answers before you finish the test.",
+      "ja": "テストを終える前に答えをのぞき見してはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "顔を出す",
+      "en": "The sun peeped out from behind the clouds.",
+      "ja": "雲の陰から太陽が顔をのぞかせた。"
+    },
+    {
+      "source": "original",
+      "label": "芽",
+      "en": "Green shoots were peeping through the snow.",
+      "ja": "雪の間から緑の芽がのぞいていた。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "Can I take a quick peep at your notes?",
+      "ja": "あなたのノートをちょっと見てもいい?"
+    }
+  ],
+  "check_points": [
+    "peep と peer のちがいを言えるか",
+    "peep の後ろに来る前置詞を2つ言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "peep through / into の形で物語文に出る。peer・glance との意味のちがいが語彙問題で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2409
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "shred",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ʃred/",
+  "core_image": {
+    "text": "細長い切れはしに、こまかく刻みこむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"80\" y=\"20\" width=\"80\" height=\"40\"/><rect x=\"70\" y=\"64\" width=\"100\" height=\"16\"/><line x1=\"88\" y1=\"84\" x2=\"86\" y2=\"128\"/><line x1=\"100\" y1=\"84\" x2=\"102\" y2=\"132\"/><line x1=\"112\" y1=\"84\" x2=\"110\" y2=\"126\"/><line x1=\"124\" y1=\"84\" x2=\"126\" y2=\"134\"/><line x1=\"136\" y1=\"84\" x2=\"134\" y2=\"128\"/><line x1=\"148\" y1=\"84\" x2=\"150\" y2=\"130\"/></g><text x=\"204\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">細切れ</text><text x=\"40\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ずたずた</text></svg>"
+  },
+  "etymology": "古い英語 scread(切り取った細長い切れはし)から → 細長い切れはしにする → ①(紙・野菜を)細かく切り刻む・シュレッダーにかける ②(名詞)切れはし・断片 ③(a shred of+否定)ほんの少しの〜もない",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to cut or tear something into long thin pieces."
+    },
+    {
+      "pos": "名詞",
+      "text": "a small thin piece torn or cut off something; a very small amount."
+    }
+  ],
+  "cautions": [
+    "shred - shredded - shredded(d を重ねる。過去形に shred を使うこともある)",
+    "cut=切る(一般)/tear・rip=引き裂く/shred=細長い切れはしにたくさん刻む",
+    "not a shred of A=Aのかけらもない(not a shred of evidence=証拠がまったくない)。長文で頻出",
+    "tear A to shreds=Aをずたずたに裂く/(議論・作品を)こてんぱんにけなす。shredder=シュレッダー"
+  ],
+  "patterns": [
+    {
+      "form": "shred A",
+      "meaning": "Aを細かく刻む"
+    },
+    {
+      "form": "in shreds",
+      "meaning": "ずたずたになって"
+    },
+    {
+      "form": "tear A to shreds",
+      "meaning": "Aをずたずたにする"
+    },
+    {
+      "form": "not a shred of A",
+      "meaning": "Aのかけらもない"
+    },
+    {
+      "form": "shredder",
+      "meaning": "シュレッダー"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "シュレッダー",
+      "en": "Please shred these documents before you throw them away.",
+      "ja": "捨てる前にこの書類をシュレッダーにかけてください。"
+    },
+    {
+      "source": "original",
+      "label": "野菜",
+      "en": "Shred the cabbage and put it on the plate.",
+      "ja": "キャベツを千切りにして皿にのせなさい。"
+    },
+    {
+      "source": "original",
+      "label": "ずたずた",
+      "en": "The dog tore my homework to shreds.",
+      "ja": "犬が私の宿題をずたずたにした。"
+    },
+    {
+      "source": "original",
+      "label": "かけらもない",
+      "en": "There is not a shred of evidence that he stole the money.",
+      "ja": "彼がその金を盗んだという証拠はかけらもない。"
+    },
+    {
+      "source": "original",
+      "label": "in shreds",
+      "en": "After the storm, the flag was in shreds.",
+      "ja": "嵐のあと、旗はぼろぼろになっていた。"
+    },
+    {
+      "source": "original",
+      "label": "けなす",
+      "en": "The critics tore his new film to shreds.",
+      "ja": "批評家たちは彼の新作映画をこてんぱんにけなした。"
+    }
+  ],
+  "check_points": [
+    "not a shred of の意味を言えるか",
+    "shred と rip のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "not a shred of evidence(証拠がまったくない)が長文で出る。tear to shreds の比喩も狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2417
+    }
+  ]
+}

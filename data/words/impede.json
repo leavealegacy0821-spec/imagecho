@@ -1,0 +1,98 @@
+{
+  "word": "impede",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪmˈpiːd/",
+  "core_image": {
+    "text": "足かせをはめられたように、前へ進むのを重くする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"130\" cy=\"52\" r=\"10\"/><line x1=\"130\" y1=\"62\" x2=\"130\" y2=\"106\"/><line x1=\"130\" y1=\"106\" x2=\"120\" y2=\"140\"/><line x1=\"130\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"120\" y1=\"136\" x2=\"80\" y2=\"134\"/><circle cx=\"70\" cy=\"130\" r=\"10\"/><line x1=\"150\" y1=\"64\" x2=\"210\" y2=\"64\"/><polyline points=\"203,60.2 210,64 203,67.8\"/></g><text x=\"185\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">進めない</text><text x=\"70\" y=\"108\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">足かせ</text></svg>"
+  },
+  "etymology": "im(in=中に)+ pede(足。pedal・pedestrian と同じ根)→ 足を(かせの)中に入れる → 足を取られて進めない → (進行・動き・発達を)妨げる・遅らせる。反対の expedite(ex=外へ)=足かせを外す → 早める",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make it difficult for something to move forward or happen."
+    }
+  ],
+  "cautions": [
+    "prevent=起こらないように止める(完全)/hinder=じゃまして遅らせる/impede=足を取られたように進行を重くする(かたい語。完全に止めるとは限らない)",
+    "impede progress [development / traffic / growth] の形でよく使う",
+    "名詞 impediment=障害(a speech impediment=言語障害)",
+    "hamper とほぼ同じ意味。hamper は荷物・悪天候などの「重荷」で動きを鈍らせる感じ"
+  ],
+  "patterns": [
+    {
+      "form": "impede A",
+      "meaning": "Aを妨げる"
+    },
+    {
+      "form": "impede progress",
+      "meaning": "進歩を妨げる"
+    },
+    {
+      "form": "impede the flow of A",
+      "meaning": "Aの流れを妨げる"
+    },
+    {
+      "form": "be impeded by A",
+      "meaning": "Aによって妨げられる"
+    },
+    {
+      "form": "impediment",
+      "meaning": "障害"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "進歩",
+      "en": "A lack of money impeded the progress of the research.",
+      "ja": "資金不足が研究の進展を妨げた。"
+    },
+    {
+      "source": "original",
+      "label": "交通",
+      "en": "Fallen trees impeded traffic after the storm.",
+      "ja": "嵐のあと、倒木が交通の妨げになった。"
+    },
+    {
+      "source": "original",
+      "label": "発達",
+      "en": "Poor nutrition can impede a child's growth.",
+      "ja": "栄養不足は子どもの成長を妨げることがある。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "Rescue work was impeded by heavy snow.",
+      "ja": "救助活動は大雪に妨げられた。"
+    },
+    {
+      "source": "original",
+      "label": "流れ",
+      "en": "Rocks in the river impede the flow of water.",
+      "ja": "川の岩が水の流れを妨げている。"
+    },
+    {
+      "source": "original",
+      "label": "impediment",
+      "en": "Language was the biggest impediment to communication.",
+      "ja": "言葉が意思疎通のいちばんの障害だった。"
+    }
+  ],
+  "check_points": [
+    "impede の語源(足)を言えるか",
+    "impede と prevent のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "評論で「〜を妨げる」の意味で出る。同意語選択(hinder・hamper・obstruct)で狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2412
+    }
+  ]
+}
