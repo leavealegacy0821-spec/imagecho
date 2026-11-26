@@ -1,21 +1,5 @@
 // 下書き 221(使い分け:跳ぶ・歩く jump / leap / hop / skip / jog / stumble / trudge / tiptoe / wade / dart)
 module.exports = [
-{ w:'jump', pos:['動詞','名詞'], ipa:'/dʒʌmp/', core:'足で地面をけって、ぱっと跳び上がる',
-  svg:'{ground}{man 120 30}<path d="M100 140 Q120 120 140 140" stroke-dasharray="3 3"/>{arrow 160 130 160 80}',
-  lab:[[60,30,'ぴょん']],
-  ety:'足でけって跳ぶ → (びっくりして)飛び上がる → (数量が)はね上がる → jump to conclusions=結論を急ぐ',
-  def:[['動詞','to push yourself off the ground with your legs; to move suddenly because of surprise; to increase suddenly.'],['名詞','an act of jumping; a sudden increase.']],
-  cau:['jump=跳ぶ(いちばん広い)/leap=大きく遠くへ跳ぶ/hop=片足・小さくぴょん/skip=スキップ・とばす','jump to conclusions=早合点する','jump at A=A(機会)に飛びつく','prices jumped=物価がはね上がった'],
-  pat:[['jump over A','Aを跳び越える'],['jump at A','Aに飛びつく'],['jump to conclusions','早合点する'],['a jump in A','Aの急増']],
-  ex:[['跳び越える','The dog jumped over the fence.','犬が柵を跳び越えた。'],
-      ['飛びつく','She jumped at the chance to study abroad.','彼女は留学のチャンスに飛びついた。'],
-      ['早合点','Don\'t jump to conclusions.','早合点するな。'],
-      ['飛び上がる','I jumped when the phone rang.','電話が鳴って私は飛び上がった。'],
-      ['はね上がる','Sales jumped by 20 percent.','売上が20%はね上がった。'],
-      ['急増','There was a big jump in prices.','物価が大きくはね上がった。']],
-  chk:['jump at A と jump to conclusions の意味を言えるか'],
-  exam:['頻出','jump to conclusions、jump at the chance が出る。'] },
-
 { w:'leap', pos:['動詞','名詞'], ipa:'/liːp/', core:'大きく弧をえがいて、遠くへ跳ぶ',
   svg:'{ground}<path d="M30 140 Q120 10 210 140" stroke-dasharray="4 4"/><circle cx="120" cy="56" r="10"/><line x1="112" y1="64" x2="96" y2="80"/><line x1="128" y1="64" x2="146" y2="80"/>',
   lab:[[40,40,'ひとっ跳び']],

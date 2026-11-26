@@ -1,21 +1,5 @@
 // 下書き 223(使い分けを作る語:火の通し方 cook / bake / roast / grill / fry / toast / steam / stew / simmer / peel)
 module.exports = [
-{ w:'cook', pos:['動詞','名詞'], ipa:'/kʊk/', core:'火を使って、食べられるようにする',
-  svg:'<rect x="60" y="80" width="120" height="40"/><line x1="50" y1="80" x2="190" y2="80"/><line x1="180" y1="90" x2="220" y2="90"/><path d="M90 130 Q96 140 90 150 M120 130 Q126 140 120 150 M150 130 Q156 140 150 150"/><path d="M100 70 Q106 56 100 44 M140 70 Q146 56 140 44" stroke-dasharray="3 3"/>',
-  lab:[[40,30,'火を通す']],
-  ety:'ラテン語 coquus(料理人。cuisine・kitchen と同じ根) → 料理人 → (火を使って)料理する・煮たき焼きする → cook up=(話を)でっちあげる',
-  def:[['動詞','to prepare food by heating it; (of food) to be heated until ready.'],['名詞','a person who prepares food.']],
-  cau:['cook=火を使って料理する(サラダ・サンドイッチを作るは make)','cook A B / cook B for A=AにBを作ってあげる','(名詞)料理人:a good cook=料理がうまい人(cooker=調理器具)','cook up=(言いわけを)でっちあげる'],
-  pat:[['cook A B','AにBを料理してあげる'],['cook dinner','夕食を作る'],['a good cook','料理上手'],['cook up A','Aをでっちあげる']],
-  ex:[['料理する','My father cooks dinner on Sundays.','日曜日は父が夕食を作る。'],
-      ['作ってあげる','She cooked us a delicious meal.','彼女は私たちにおいしい料理を作ってくれた。'],
-      ['料理上手','My grandmother is a good cook.','祖母は料理がうまい。'],
-      ['火を通す','Cook the vegetables for five minutes.','野菜に5分間火を通してください。'],
-      ['make と','I made a sandwich, but I didn\'t cook anything.','サンドイッチは作ったが、火を使う料理はしなかった。'],
-      ['でっちあげる','He cooked up an excuse for being late.','彼は遅刻の言いわけをでっちあげた。']],
-  chk:['a good cook の意味を言えるか(cooker ではない)'],
-  exam:['頻出','a good cook(=料理上手)、cook A B が出る。'] },
-
 { w:'bake', pos:['動詞'], ipa:'/beɪk/', core:'オーブンの中で、まわりから熱して焼く',
   svg:'<rect x="60" y="40" width="120" height="90"/><rect x="74" y="56" width="92" height="60"/><path d="M96 100 Q120 80 144 100 Z"/><path d="M86 66 Q92 72 86 78 M154 66 Q160 72 154 78"/>',
   lab:[[210,30,'オーブン']],

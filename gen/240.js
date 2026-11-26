@@ -1,21 +1,5 @@
 // 下書き 240(使い分けを作る語:洗う・ふく・みがく wash / rinse / scrub / wipe / polish / brush / comb / mop / dust / bathe)
 module.exports = [
-{ w:'wash', pos:['動詞','名詞'], ipa:'/wɑːʃ/', core:'水を使って、よごれを洗い流す',
-  svg:'<path d="M60 90 L60 130 L180 130 L180 90"/><line x1="50" y1="90" x2="190" y2="90"/><line x1="140" y1="30" x2="140" y2="50"/><line x1="140" y1="30" x2="170" y2="30"/><path d="M140 56 L140 70 M136 62 L134 76 M144 62 L146 76" stroke-dasharray="2 3"/><circle cx="96" cy="104" r="6"/><circle cx="112" cy="110" r="4"/>',
-  lab:[[60,40,'ざぶざぶ']],
-  ety:'古い英語 wascan(洗う:water と同じ仲間) → 水で洗う → (波が)洗う・(水が)押し流す(wash away)',
-  def:[['動詞','to clean something with water and usually soap; (of water) to flow over or carry something away.'],['名詞','the act of washing; clothes that are being washed.']],
-  cau:['wash=水(と石けん)で洗う(広い)/rinse=水ですすぐ/scrub=ごしごしこする','wash the dishes [one\'s hands]=皿[手]を洗う','wash A away=Aを押し流す','in the wash=洗たく中で'],
-  pat:[['wash one\'s hands','手を洗う'],['wash the dishes','皿を洗う'],['wash A away','Aを押し流す'],['do the washing','洗たくをする']],
-  ex:[['手を洗う','Wash your hands before you eat.','食べる前に手を洗いなさい。'],
-      ['皿洗い','I\'ll wash the dishes tonight.','今夜は私が皿を洗うよ。'],
-      ['押し流す','The bridge was washed away by the flood.','橋は洪水で押し流された。'],
-      ['洗たく','My shirt is in the wash.','私のシャツは洗たく中だ。'],
-      ['洗たくをする','I do the washing on Sundays.','日曜日に洗たくをする。'],
-      ['波','Waves washed over the rocks.','波が岩を洗った。']],
-  chk:['wash A away の意味を言えるか'],
-  exam:['標準','wash away が出る。'] },
-
 { w:'rinse', pos:['動詞','名詞'], ipa:'/rɪns/', core:'きれいな水で、さっとすすぐ',
   svg:'<rect x="90" y="70" width="60" height="50"/><line x1="120" y1="20" x2="120" y2="60" stroke-dasharray="3 3"/><line x1="110" y1="24" x2="110" y2="60" stroke-dasharray="3 3"/><line x1="130" y1="24" x2="130" y2="60" stroke-dasharray="3 3"/><path d="M90 130 Q120 140 150 130"/>',
   lab:[[200,40,'さっと']],

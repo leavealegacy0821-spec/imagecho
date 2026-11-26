@@ -771,7 +771,7 @@
     },
     {
       "title": "使い分け:運ぶ・伝える",
-      "note": "carry=持って運ぶ ／ bring=こちらへ持ってくる ／ take=向こうへ持っていく ／ convey=(意味・物を)運んで伝える ／ transmit=(電波・病気を)送り伝える ／ transfer=別の場所へ移す ／ deliver=送り届ける ／ transport=乗り物でまとめて輸送する ／ send=手もとから相手のほうへ送り出す(sent)",
+      "note": "carry=持って運ぶ ／ bring=こちらへ持ってくる ／ take=向こうへ持っていく ／ convey=(意味・物を)運んで伝える ／ transmit=(電波・病気を)送り伝える ／ transfer=別の場所へ移す ／ deliver=送り届ける ／ transport=乗り物でまとめて輸送する",
       "words": [
         "carry",
         "bring",
@@ -780,8 +780,7 @@
         "transmit",
         "transfer",
         "deliver",
-        "transport",
-        "send"
+        "transport"
       ]
     },
     {
@@ -1085,7 +1084,7 @@
     },
     {
       "title": "使い分け:住む",
-      "note": "live=住む(最も広い) ／ inhabit=(他動詞)地域に住む ／ reside=(堅)居住する ／ dwell=(文)住む・くよくよ考える ／ occupy=場所を占める ／ lodge=泊まる・下宿する ／ settle=定住する",
+      "note": "inhabit=(他動詞)地域に住む ／ reside=(堅)居住する ／ dwell=(文)住む・くよくよ考える ／ occupy=場所を占める ／ lodge=泊まる・下宿する ／ settle=定住する",
       "words": [
         "inhabit",
         "reside",
@@ -1846,32 +1845,26 @@
     },
     {
       "title": "使い分け:大きい",
-      "note": "huge=見上げるほどずっしり大きい(日常) ／ vast=果てしなく広がる・ばく大な ／ enormous=ふつうの物差しをはるかに超える ／ immense=はかりきれないほど(抽象にも) ／ tremendous=身ぶるいするほどものすごい ／ massive=中身が詰まってどっしり・大規模な ／ big=見て感じてでかい・重大(口語) ／ large=サイズ・数量が客観的に大きい(large population) ／ great=ずばぬけて大きくすばらしい(a great deal of) ／ giant=けたちがいに大きいもの・巨人・大企業",
+      "note": "huge=見上げるほどずっしり大きい(日常) ／ vast=果てしなく広がる・ばく大な ／ enormous=ふつうの物差しをはるかに超える ／ immense=はかりきれないほど(抽象にも) ／ tremendous=身ぶるいするほどものすごい ／ massive=中身が詰まってどっしり・大規模な",
       "words": [
         "huge",
         "vast",
         "enormous",
         "immense",
         "tremendous",
-        "massive",
-        "big",
-        "large",
-        "great",
-        "giant"
+        "massive"
       ]
     },
     {
       "title": "使い分け:小さい・ささいな",
-      "note": "tiny=指先にのるほどとても小さい ／ minute=微小な(堅い) ／ slight=(程度・量が)ほんのわずか ／ trivial=重要でない・ささいな ／ negligible=無視してよいほどごくわずか ／ minor=小さいほうの・重大でない ／ small=サイズ・数量が客観的に小さい ／ little=小さくてかわいい・(a little)少しある/(little)ほとんどない",
+      "note": "tiny=指先にのるほどとても小さい ／ minute=微小な(堅い) ／ slight=(程度・量が)ほんのわずか ／ trivial=重要でない・ささいな ／ negligible=無視してよいほどごくわずか ／ minor=小さいほうの・重大でない",
       "words": [
         "tiny",
         "minute",
         "slight",
         "trivial",
         "negligible",
-        "minor",
-        "small",
-        "little"
+        "minor"
       ]
     },
     {
@@ -1953,7 +1946,7 @@
     },
     {
       "title": "使い分け:頻度",
-      "note": "always=いつも ／ usually=たいてい ／ frequent=間をあけず何度も ／ regular=決まった間かくで定期的に ／ occasional=ときどきぽつりぽつり ／ rare=まばらでめったにない ／ seldom=めったに〜ない(否定語)",
+      "note": "frequent=間をあけず何度も ／ regular=決まった間かくで定期的に ／ occasional=ときどきぽつりぽつり ／ rare=まばらでめったにない ／ seldom=めったに〜ない(否定語)",
       "words": [
         "frequent",
         "regular",
@@ -2777,14 +2770,13 @@
     },
     {
       "title": "使い分け:かたい・しなやか",
-      "note": "firm=しっかりしてぐらつかない ／ solid=中身が詰まってかたい ／ rigid=曲がらずこちこち(規則が融通のきかない) ／ flexible=しなやかに曲がる・融通がきく ／ fragile=こわれやすくもろい ／ soft=押すとふわっとへこむ・おだやか ／ stiff=こわばって曲がりにくい(a stiff neck=首のこり) ／ tight=すき間なくぎゅっとしまった(⇔loose)",
+      "note": "firm=しっかりしてぐらつかない ／ solid=中身が詰まってかたい ／ rigid=曲がらずこちこち(規則が融通のきかない) ／ flexible=しなやかに曲がる・融通がきく ／ fragile=こわれやすくもろい ／ stiff=こわばって曲がりにくい(a stiff neck=首のこり) ／ tight=すき間なくぎゅっとしまった(⇔loose)",
       "words": [
         "firm",
         "solid",
         "rigid",
         "flexible",
         "fragile",
-        "soft",
         "stiff",
         "tight"
       ]
@@ -2848,7 +2840,7 @@
     },
     {
       "title": "使い分け:におい・味",
-      "note": "smell=鼻で感じるにおい(広い・smell+形容詞) ／ sniff=くんくん短く吸ってかぐ ／ scent=ふわりとただようほのかなよい香り ／ aroma=食べ物から立ついい香り ／ fragrance=花・香水のあまく上品な芳香 ／ odor=はっきり感じるいやなにおい ／ stink=鼻がまがるほどの悪臭 ／ taste=味(感覚) ／ flavor=その食べ物ならではの風味 ／ sweet=あまい ／ sour=すっぱい ／ bitter=苦い ／ delicious=とてもおいしい(very はつけない) ／ tasty=しっかり味があってうまい(tasteful=上品な) ／ salty=しょっぱい ／ spicy=香辛料でぴりっと辛い",
+      "note": "smell=鼻で感じるにおい(広い・smell+形容詞) ／ sniff=くんくん短く吸ってかぐ ／ scent=ふわりとただようほのかなよい香り ／ aroma=食べ物から立ついい香り ／ fragrance=花・香水のあまく上品な芳香 ／ odor=はっきり感じるいやなにおい ／ stink=鼻がまがるほどの悪臭 ／ taste=味(感覚) ／ flavor=その食べ物ならではの風味 ／ sweet=あまい ／ sour=すっぱい ／ bitter=苦い ／ tasty=しっかり味があってうまい(tasteful=上品な) ／ salty=しょっぱい ／ spicy=香辛料でぴりっと辛い",
       "words": [
         "smell",
         "sniff",
@@ -2862,7 +2854,6 @@
         "sweet",
         "sour",
         "bitter",
-        "delicious",
         "tasty",
         "salty",
         "spicy"
@@ -2915,7 +2906,7 @@
     },
     {
       "title": "使い分け:客・人",
-      "note": "customer=店で買う客 ／ client=専門家に頼む依頼人 ／ consumer=商品を買って使い切る消費者 ／ guest=招かれた客・宿泊客 ／ passenger=乗客 ／ patient=患者",
+      "note": "customer=店で買う客 ／ client=専門家に頼む依頼人 ／ consumer=商品を買って使い切る消費者 ／ passenger=乗客 ／ patient=患者",
       "words": [
         "customer",
         "client",
@@ -3119,10 +3110,8 @@
     },
     {
       "title": "使い分け:笑う・顔をしかめる",
-      "note": "laugh=声を出してあははと笑う(laugh at) ／ smile=声を出さず口もとでにっこり ／ grin=歯を見せてにやっ ／ giggle=照れてくすくす ／ chuckle=口を閉じてくっくっ(満足げ) ／ sneer=口のはしをゆがめてふんとばかにする ／ frown=まゆを寄せてむっとしかめる(frown on=よく思わない)",
+      "note": "grin=歯を見せてにやっ ／ giggle=照れてくすくす ／ chuckle=口を閉じてくっくっ(満足げ) ／ sneer=口のはしをゆがめてふんとばかにする ／ frown=まゆを寄せてむっとしかめる(frown on=よく思わない)",
       "words": [
-        "laugh",
-        "smile",
         "grin",
         "giggle",
         "chuckle",
@@ -3143,20 +3132,18 @@
     },
     {
       "title": "使い分け:かがむ・ひざまずく",
-      "note": "kneel=ひざを床につく(knelt) ／ crouch=ひざを深く曲げ身を低く構える ／ squat=お尻を落としてしゃがみこむ ／ stoop=上体を前にかがめる・(stoop to)身を落とす ／ sit=腰をおろしてすわる(sat/seat=すわらせる)",
+      "note": "kneel=ひざを床につく(knelt) ／ crouch=ひざを深く曲げ身を低く構える ／ squat=お尻を落としてしゃがみこむ ／ stoop=上体を前にかがめる・(stoop to)身を落とす",
       "words": [
         "kneel",
         "crouch",
         "squat",
-        "stoop",
-        "sit"
+        "stoop"
       ]
     },
     {
       "title": "使い分け:跳ぶ・はねる",
-      "note": "jump=足でけってぱっと跳ぶ(広い) ／ leap=大きく弧をえがいて遠くへ・飛躍(leapt) ／ hop=片足・小さくぴょんぴょん ／ skip=軽くはずむ・ぴょんととばす(抜かす)",
+      "note": "leap=大きく弧をえがいて遠くへ・飛躍(leapt) ／ hop=片足・小さくぴょんぴょん ／ skip=軽くはずむ・ぴょんととばす(抜かす)",
       "words": [
-        "jump",
         "leap",
         "hop",
         "skip"
@@ -3164,21 +3151,18 @@
     },
     {
       "title": "使い分け:飛ぶ・泳ぐ",
-      "note": "fly=空中をすーっと移動(flew, flown)・時が飛ぶように過ぎる ／ flutter=小きざみにぱたぱたひらひら ／ hover=移動せず空中の1か所にふわっと止まる ／ swim=水の中を手足で進む(swam, swum) ／ dive=頭からまっさかさまに飛びこむ ／ sail=帆に風を受けて進む・楽々こなす",
+      "note": "flutter=小きざみにぱたぱたひらひら ／ hover=移動せず空中の1か所にふわっと止まる ／ dive=頭からまっさかさまに飛びこむ ／ sail=帆に風を受けて進む・楽々こなす",
       "words": [
-        "fly",
         "flutter",
         "hover",
-        "swim",
         "dive",
         "sail"
       ]
     },
     {
       "title": "使い分け:料理する(火の通し方)",
-      "note": "cook=火を使って食べられるようにする(a good cook=料理上手) ／ bake=パン・菓子をオーブンでまわりから焼く ／ roast=肉・豆を強い火でじっくり焼く ／ grill=網で直火じゅうじゅう ／ fry=熱い油でじゅっと焼く・揚げる ／ toast=パンをこんがり・乾杯 ／ steam=湯気で蒸す ／ stew=汁ごと長く煮こむ ／ simmer=沸騰寸前の弱火でふつふつ",
+      "note": "bake=パン・菓子をオーブンでまわりから焼く ／ roast=肉・豆を強い火でじっくり焼く ／ grill=網で直火じゅうじゅう ／ fry=熱い油でじゅっと焼く・揚げる ／ toast=パンをこんがり・乾杯 ／ steam=湯気で蒸す ／ stew=汁ごと長く煮こむ ／ simmer=沸騰寸前の弱火でふつふつ",
       "words": [
-        "cook",
         "bake",
         "roast",
         "grill",
@@ -3191,16 +3175,14 @@
     },
     {
       "title": "使い分け:空腹・食事",
-      "note": "hunger=(名詞)おなかがすいた状態・飢え ／ hungry=(形容詞)おなかがすいた・〜にうえた ／ starve=食べ物がなく死ぬほど飢える(I’m starving=ぺこぺこ) ／ famine=地域全体のききん ／ thirst=(名詞)のどのかわき ／ thirsty=(形容詞)のどがかわいた ／ appetite=食べたいと向かう気持ち(食欲) ／ meal=決まった時のひと区切りの食事 ／ snack=合間につまむ軽食 ／ diet=ふだんの食生活・食事制限",
+      "note": "hunger=(名詞)おなかがすいた状態・飢え ／ starve=食べ物がなく死ぬほど飢える(I’m starving=ぺこぺこ) ／ famine=地域全体のききん ／ thirst=(名詞)のどのかわき ／ thirsty=(形容詞)のどがかわいた ／ appetite=食べたいと向かう気持ち(食欲) ／ snack=合間につまむ軽食 ／ diet=ふだんの食生活・食事制限",
       "words": [
         "hunger",
-        "hungry",
         "starve",
         "famine",
         "thirst",
         "thirsty",
         "appetite",
-        "meal",
         "snack",
         "diet"
       ]
@@ -3251,22 +3233,19 @@
     },
     {
       "title": "使い分け:豊か・貧しい",
-      "note": "rich=中身がたっぷりで豊か(rich in=豊富) ／ wealthy=財産が多く裕福(a wealth of=豊富な) ／ affluent=(社会・地域に)お金があふれるほど流れこむ ／ prosperous=商売・国がぐんぐん栄えている ／ poor=足りずとぼしい・へた・かわいそうな ／ needy=生活に困って助けが必要な ／ broke=(口語)今お金がなくすっからかん",
+      "note": "wealthy=財産が多く裕福(a wealth of=豊富な) ／ affluent=(社会・地域に)お金があふれるほど流れこむ ／ prosperous=商売・国がぐんぐん栄えている ／ needy=生活に困って助けが必要な ／ broke=(口語)今お金がなくすっからかん",
       "words": [
-        "rich",
         "wealthy",
         "affluent",
         "prosperous",
-        "poor",
         "needy",
         "broke"
       ]
     },
     {
       "title": "使い分け:疲れる・眠い",
-      "note": "tired=力を使って疲れた(tired of=うんざり) ／ exhausted=力を出しつくしてへとへと ／ weary=長く続いて心も体も疲れはてた(wary=用心深い) ／ sleepy=まぶたが重くうとうと(asleep=眠っている) ／ fatigue=(名詞)積み重なってたまった疲れ",
+      "note": "exhausted=力を出しつくしてへとへと ／ weary=長く続いて心も体も疲れはてた(wary=用心深い) ／ sleepy=まぶたが重くうとうと(asleep=眠っている) ／ fatigue=(名詞)積み重なってたまった疲れ",
       "words": [
-        "tired",
         "exhausted",
         "weary",
         "sleepy",
@@ -3275,13 +3254,11 @@
     },
     {
       "title": "使い分け:静か・うるさい",
-      "note": "quiet=音も動きも少なくおだやか(quite=かなり) ／ silent=まったく音を出さず何も言わない ／ peaceful=争いがなくおだやか・平和的な ／ noisy=(場所・人が)いやな音でさわがしい ／ loud=音・声そのものが大きい(out loud=声に出して)",
+      "note": "silent=まったく音を出さず何も言わない ／ peaceful=争いがなくおだやか・平和的な ／ noisy=(場所・人が)いやな音でさわがしい",
       "words": [
-        "quiet",
         "silent",
         "peaceful",
-        "noisy",
-        "loud"
+        "noisy"
       ]
     },
     {
@@ -3322,83 +3299,38 @@
     },
     {
       "title": "使い分け:きれい・汚い・散らかる",
-      "note": "clean=よごれがなくすっきり ／ dirty=どろやよごれがついてきたない ／ filthy=ぞっとするほどひどくきたない ／ messy=物がごちゃごちゃに散らかった ／ tidy=物が決まった所にきちんと片づいた",
+      "note": "filthy=ぞっとするほどひどくきたない ／ messy=物がごちゃごちゃに散らかった ／ tidy=物が決まった所にきちんと片づいた",
       "words": [
-        "clean",
-        "dirty",
         "filthy",
         "messy",
         "tidy"
       ]
     },
     {
-      "title": "使い分け:高い・低い・深い",
-      "note": "tall=下から上へ細長く高い(人・木・ビル) ／ high=地面から離れて上のほう(山・棚・値段) ／ low=地面に近く下のほう(値段・声・気分) ／ deep=表面から下へ・奥へずっと深い",
-      "words": [
-        "tall",
-        "high",
-        "low",
-        "deep"
-      ]
-    },
-    {
       "title": "使い分け:からっぽ・いっぱい",
-      "note": "empty=中に何も入っていないからっぽ ／ vacant=(席・部屋・職が)使う人がいなくて空いている ／ blank=(紙・画面に)何も書かれていないまっ白 ／ full=もう入らないほどいっぱい(full of) ／ crowded=人がぎっしり集まってこみ合った(crowded with) ／ packed=すき間なくぎっしり詰めこまれた",
+      "note": "vacant=(席・部屋・職が)使う人がいなくて空いている ／ blank=(紙・画面に)何も書かれていないまっ白 ／ crowded=人がぎっしり集まってこみ合った(crowded with) ／ packed=すき間なくぎっしり詰めこまれた",
       "words": [
-        "empty",
         "vacant",
         "blank",
-        "full",
         "crowded",
         "packed"
       ]
     },
     {
-      "title": "使い分け:開ける・閉める",
-      "note": "open=閉じていたものが開いて中が見える・入れる(The shop is open.) ／ shut=ばたんとすき間なく閉じる(shut down=閉鎖) ／ lock=かぎをかけてがちゃりと閉じこめる",
-      "words": [
-        "open",
-        "shut",
-        "lock"
-      ]
-    },
-    {
-      "title": "使い分け:着く・たずねる・もどる",
-      "note": "arrive=目的の場所にたどり着く(at 地点 ／ in 町) ／ visit=会いに・見にわざわざ行く(visit A:to なし) ／ return=もとの場所・持ち主へくるりともどる・もどす ／ exit=中から外へ出ていく出口",
-      "words": [
-        "arrive",
-        "visit",
-        "return",
-        "exit"
-      ]
-    },
-    {
       "title": "使い分け:書く・描く・読む・歌う",
-      "note": "write=ペンで文字をきざんで言葉を残す(wrote, written) ／ scribble=急いでなぐり書き・落書き ／ jot=忘れないようさっと短くメモ(jot down) ／ sketch=細かくせずざっとえがく下絵 ／ paint=絵の具・ペンキでぬってえがく ／ print=押しつけて写す・印刷する ／ read=書かれた文字から意味を読みとる ／ recite=覚えたものを声に出してすらすら(暗唱) ／ sing=声に節をつけて歌う(sang, sung) ／ dance=音楽に合わせて体を動かす(dance to)",
+      "note": "scribble=急いでなぐり書き・落書き ／ jot=忘れないようさっと短くメモ(jot down) ／ sketch=細かくせずざっとえがく下絵 ／ recite=覚えたものを声に出してすらすら(暗唱)",
       "words": [
-        "write",
         "scribble",
         "jot",
         "sketch",
-        "paint",
-        "print",
-        "read",
-        "recite",
-        "sing",
-        "dance"
+        "recite"
       ]
     },
     {
       "title": "使い分け:生きる・死ぬ・殺す",
-      "note": "live=命があって日々を過ごす(動  ／ lɪv ／ ・形  ／ laɪv ／ ) ／ alive=今命があって生きている(名詞の前に置かない) ／ life=命・人生・生活(lives) ／ die=(動詞)命が尽きる(die of  ／  out) ／ dead=(形容詞)命がなく止まった(has been dead for) ／ death=(名詞)命の終わり ／ kill=命をうばう(be killed in 事故)・時間をつぶす ／ murder=人をわざと計画して殺す ／ fatal=死をまねく・取り返しがつかない(fate) ／ deadly=命をうばうほど危険な(-ly でも形容詞)",
+      "note": "lɪv ／ ・形  ／ laɪv ／ ) ／ alive=今命があって生きている(名詞の前に置かない) ／  out) ／ murder=人をわざと計画して殺す ／ fatal=死をまねく・取り返しがつかない(fate) ／ deadly=命をうばうほど危険な(-ly でも形容詞)",
       "words": [
-        "live",
         "alive",
-        "life",
-        "die",
-        "dead",
-        "death",
-        "kill",
         "murder",
         "fatal",
         "deadly"
@@ -3406,11 +3338,9 @@
     },
     {
       "title": "使い分け:戦う・攻める",
-      "note": "fight=相手とぶつかり合ってたたかう(fought)・けんか ／ battle=ある場所でのひとつの戦い・激しい闘い ／ war=国と国がぶつかる大きな戦争(break out) ／ combat=問題や敵と正面から打ち合う(combat crime) ／ attack=こちらから攻めかかる(attack A ／ an attack on A) ／ assault=いきなり飛びかかって暴力をふるう(暴行)",
+      "note": "battle=ある場所でのひとつの戦い・激しい闘い ／ combat=問題や敵と正面から打ち合う(combat crime) ／ attack=こちらから攻めかかる(attack A ／ an attack on A) ／ assault=いきなり飛びかかって暴力をふるう(暴行)",
       "words": [
-        "fight",
         "battle",
-        "war",
         "combat",
         "attack",
         "assault"
@@ -3418,12 +3348,10 @@
     },
     {
       "title": "使い分け:軍・武器・平和",
-      "note": "army=武器をもって集まった陸の大きな軍(an army of=大勢の) ／ soldier=軍に属して戦う兵士 ／ weapon=戦い傷つけるための道具 ／ peace=争いがなくおだやか(piece と同音)",
+      "note": "army=武器をもって集まった陸の大きな軍(an army of=大勢の) ／ weapon=戦い傷つけるための道具",
       "words": [
         "army",
-        "soldier",
-        "weapon",
-        "peace"
+        "weapon"
       ]
     },
     {
@@ -3463,9 +3391,8 @@
     },
     {
       "title": "使い分け:洗う・ふく・みがく",
-      "note": "wash=水でよごれを洗い流す ／ rinse=きれいな水でさっとすすぐ ／ scrub=力を入れてごしごしこする ／ wipe=布でさっとなでてふき取る(wipe out=全滅) ／ mop=モップで床をふく・後始末 ／ dust=ほこり(を払う) ／ polish=こすってつやを出す・みがき上げる ／ brush=ブラシでさっとはらう(brush one’s teeth) ／ comb=くしでとかす・くまなくさがす ／ bathe=体をひたして洗う(bath=名詞)",
+      "note": "rinse=きれいな水でさっとすすぐ ／ scrub=力を入れてごしごしこする ／ wipe=布でさっとなでてふき取る(wipe out=全滅) ／ mop=モップで床をふく・後始末 ／ dust=ほこり(を払う) ／ polish=こすってつやを出す・みがき上げる ／ brush=ブラシでさっとはらう(brush one’s teeth) ／ comb=くしでとかす・くまなくさがす ／ bathe=体をひたして洗う(bath=名詞)",
       "words": [
-        "wash",
         "rinse",
         "scrub",
         "wipe",
@@ -3479,15 +3406,11 @@
     },
     {
       "title": "使い分け:天気",
-      "note": "rain=空から水のつぶがざあざあ(heavy rain=大雨) ／ snow=しんしん降る白い氷のかけら ／ storm=風と雨がはげしく荒れくるう嵐 ／ cloud=空にもくもく浮かぶ水のかたまり ／ fog=地面近くのこい霧(前が見えない) ／ mist=うすい霧・もや ／ thunder=ゴロゴロという雷の音 ／ lightning=ぴかっと走る稲妻の光 ／ breeze=ここちよいそよ風(It’s a breeze=楽勝) ／ drought=雨が降らず大地がからから(干ばつ)",
+      "note": "storm=風と雨がはげしく荒れくるう嵐 ／ fog=地面近くのこい霧(前が見えない) ／ mist=うすい霧・もや ／ lightning=ぴかっと走る稲妻の光 ／ breeze=ここちよいそよ風(It’s a breeze=楽勝) ／ drought=雨が降らず大地がからから(干ばつ)",
       "words": [
-        "rain",
-        "snow",
         "storm",
-        "cloud",
         "fog",
         "mist",
-        "thunder",
         "lightning",
         "breeze",
         "drought"
@@ -3495,45 +3418,25 @@
     },
     {
       "title": "使い分け:山・谷・森",
-      "note": "mountain=高くそびえ立つ大きな山 ／ hill=なだらかにもり上がった丘・坂 ／ valley=山と山の間の低くくぼんだ谷 ／ cave=山や地面に口をあけたほら穴(cave in=屈服) ／ forest=木が広く深くしげる大きな森 ／ wood=切った木の材料(数えない)・(the woods)人里近くの林",
+      "note": "valley=山と山の間の低くくぼんだ谷 ／ cave=山や地面に口をあけたほら穴(cave in=屈服) ／ wood=切った木の材料(数えない)・(the woods)人里近くの林",
       "words": [
-        "mountain",
-        "hill",
         "valley",
         "cave",
-        "forest",
         "wood"
       ]
     },
     {
       "title": "使い分け:島・海辺",
-      "note": "island=まわりを水にかこまれた陸地(s は読まない) ／ coast=陸から見た海ぞいの地域(on the coast) ／ shore=水と陸が接する水ぎわの岸 ／ beach=人が遊べる砂や小石の浜辺",
+      "note": "coast=陸から見た海ぞいの地域(on the coast) ／ shore=水と陸が接する水ぎわの岸",
       "words": [
-        "island",
         "coast",
-        "shore",
-        "beach"
-      ]
-    },
-    {
-      "title": "使い分け:海・湖・川",
-      "note": "ocean=大陸をへだてる果てしない大海(大洋) ／ sea=陸に接して広がる塩水の海(at sea=途方にくれて) ／ lake=陸にかこまれた大きな水 ／ pond=庭や公園の小さな池 ／ river=山から海へ長く流れる川(stream=小川)",
-      "words": [
-        "ocean",
-        "sea",
-        "lake",
-        "pond",
-        "river"
+        "shore"
       ]
     },
     {
       "title": "使い分け:空・天体",
-      "note": "sky=頭の上いっぱいの空(in the sky) ／ sun=光と熱を送る太陽・日なた ／ moon=夜空で満ち欠けする月 ／ star=夜空できらきら光る恒星・スター(star in=主演) ／ planet=恒星のまわりを回る惑星(the planet=地球) ／ earth=わたしたちが立つ大地・地球(on earth=いったい) ／ universe=すべてをまとめた宇宙全体 ／ galaxy=星がうずを巻いて集まった銀河 ／ orbit=まわりをぐるりと回る道すじ(軌道) ／ gravity=下へ引っぱる重力・事態の重大さ",
+      "note": "planet=恒星のまわりを回る惑星(the planet=地球) ／ earth=わたしたちが立つ大地・地球(on earth=いったい) ／ universe=すべてをまとめた宇宙全体 ／ galaxy=星がうずを巻いて集まった銀河 ／ orbit=まわりをぐるりと回る道すじ(軌道) ／ gravity=下へ引っぱる重力・事態の重大さ",
       "words": [
-        "sky",
-        "sun",
-        "moon",
-        "star",
         "planet",
         "earth",
         "universe",
@@ -3598,451 +3501,66 @@
       ]
     },
     {
-      "title": "使い分け:体の部分(顔・上半身)",
-      "note": "eye=見る目・見る力(keep an eye on=見張る) ／ ear=聞く耳・聞き分ける力(play it by ear=臨機応変) ／ nose=つき出た鼻・かぎ分ける力 ／ mouth=食べ話す口・出入り口(word of mouth=口コミ) ／ lip=口のふち(lip service=口先だけ) ／ tooth=かむ歯(teeth・sweet tooth=甘党) ／ neck=頭と胴をつなぐ首(neck and neck=互角) ／ shoulder=肩・責任を負う ／ arm=腕・(arms)武器 ／ finger=手の指(toe=足の指)",
-      "words": [
-        "eye",
-        "ear",
-        "nose",
-        "mouth",
-        "lip",
-        "tooth",
-        "neck",
-        "shoulder",
-        "arm",
-        "finger"
-      ]
-    },
-    {
-      "title": "使い分け:体の部分(脚・体の中)",
-      "note": "leg=体をささえる脚・(旅の)区間(pull A’s leg=からかう) ／ foot=足首から先・いちばん下(feet・on foot=歩いて) ／ knee=脚のまん中で曲がるひざ ／ back=背中・うしろ・もとへ・うしろから支える ／ chest=あばらに守られた胸・大きな箱 ／ heart=心臓・気持ちのまん中(by heart=暗記) ／ brain=考える脳・頭のよさ ／ skin=外側をおおう皮・はだ ／ bone=ささえるかたい骨 ／ blood=めぐる血・血すじ ／ body=頭から足までのからだ・ひとかたまり(a body of) ／ muscle=のびちぢみする筋肉・力(c は読まない) ／ stomach=食べ物をためる胃・おなか ／ throat=口の奥ののど(sore throat)",
-      "words": [
-        "leg",
-        "foot",
-        "knee",
-        "back",
-        "chest",
-        "heart",
-        "brain",
-        "skin",
-        "bone",
-        "blood",
-        "body",
-        "muscle",
-        "stomach",
-        "throat"
-      ]
-    },
-    {
       "title": "使い分け:息・汗・せき",
-      "note": "breath=(名詞)すったりはいたりする息(out of breath) ／ breathe=(動詞)空気をすいこみはき出す( ／ briːð ／ ) ／ sweat=じわっと出る汗(No sweat=楽勝) ／ cough=のどからごほっと出すせき ／ sneeze=鼻がむずむずしてはくしょん",
+      "note": "breath=(名詞)すったりはいたりする息(out of breath) ／ breathe=(動詞)空気をすいこみはき出す( ／ briːð ／ )",
       "words": [
         "breath",
-        "breathe",
-        "sweat",
-        "cough",
-        "sneeze"
-      ]
-    },
-    {
-      "title": "使い分け:町・村",
-      "note": "city=人と建物が密集した大きな都市 ／ town=ほどほどの大きさの町(go to town=街へ) ／ village=田畑にかこまれた小さな村",
-      "words": [
-        "city",
-        "town",
-        "village"
-      ]
-    },
-    {
-      "title": "使い分け:道・橋",
-      "note": "street=家や店が並ぶ町の通り ／ road=車が走り場所を結ぶ道・道のり(the road to) ／ path=人がふみ固めた小道・進路 ／ lane=区切られた細い道・車線 ／ avenue=並木の大通り・手段 ／ bridge=へだたりにかけわたす橋(bridge the gap) ／ tunnel=山や地下をくりぬいた通り穴",
-      "words": [
-        "street",
-        "road",
-        "path",
-        "lane",
-        "avenue",
-        "bridge",
-        "tunnel"
+        "breathe"
       ]
     },
     {
       "title": "使い分け:年代",
-      "note": "baby=生まれたばかりの赤ちゃん ／ child=大人になる前の子ども(children・childish ／ childlike) ／ teenager=13〜19歳の10代 ／ youth=若い時期・若者たち(in one’s youth) ／ adult=育ちきった大人 ／ elderly=年をとった(old よりていねい・the elderly)",
+      "note": "childlike) ／ elderly=年をとった(old よりていねい・the elderly)",
       "words": [
-        "baby",
-        "child",
-        "teenager",
-        "youth",
-        "adult",
         "elderly"
       ]
     },
     {
-      "title": "使い分け:近所・客",
-      "note": "neighbor=すぐ近くに住む人・となりの国 ／ stranger=知らない人・不慣れな人(I’m a stranger here) ／ guest=招かれてもてなされる客・宿泊客 ／ host=客をむかえてもてなす主人・主催する",
-      "words": [
-        "neighbor",
-        "stranger",
-        "guest",
-        "host"
-      ]
-    },
-    {
-      "title": "使い分け:家族",
-      "note": "family=いっしょに暮らす家族・同じなかま(a large family) ／ parent=子を生み育てる親(parents=両親) ／ grandparent=親の親(祖父母) ／ husband=夫 ／ wife=妻(wives) ／ son=息子(sun と同音) ／ daughter=娘(gh は読まない) ／ uncle=父母の兄弟(おじ) ／ aunt=父母の姉妹(おば) ／ cousin=おじ・おばの子(いとこ)",
-      "words": [
-        "family",
-        "parent",
-        "grandparent",
-        "husband",
-        "wife",
-        "son",
-        "daughter",
-        "uncle",
-        "aunt",
-        "cousin"
-      ]
-    },
-    {
       "title": "使い分け:集団・組織の人",
-      "note": "group=ひとかたまりに集まった人や物 ／ team=同じ目的で力を合わせる組 ／ crew=船・飛行機をいっしょに動かす乗組員たち ／ staff=そこで働く職員全体(1人は a staff member) ／ member=集団の中のひとり(一員) ／ leader=先頭に立って導く人 ／ boss=職場で指図する上司(口語) ／ manager=仕事や人を管理する人(店長・監督) ／ employer=やとう側(-er) ／ employee=やとわれる側(-ee)",
+      "note": "employer=やとう側(-er) ／ employee=やとわれる側(-ee)",
       "words": [
-        "group",
-        "team",
-        "crew",
-        "staff",
-        "member",
-        "leader",
-        "boss",
-        "manager",
         "employer",
         "employee"
       ]
     },
     {
-      "title": "使い分け:建物・働く場所",
-      "note": "building=建てられたもの(建物・ビル) ／ tower=細く高くそびえる塔(tower over=しのぐ) ／ office=事務をとる部屋・公の役職(take office=就任) ／ factory=機械で大量に作る工場 ／ farm=作物や家畜を育てる農場(on a farm) ／ shop=物を売る店・買い物する ／ restaurant=お金をはらって食事をする店 ／ hotel=お金をはらって泊まる宿 ／ church=キリスト教の教会(go to church=礼拝) ／ temple=寺・神殿(shrine=神社)",
-      "words": [
-        "building",
-        "tower",
-        "office",
-        "factory",
-        "farm",
-        "shop",
-        "restaurant",
-        "hotel",
-        "church",
-        "temple"
-      ]
-    },
-    {
-      "title": "使い分け:公共の場所",
-      "note": "station=決まった場所に立つ所(駅・署・局) ／ airport=飛行機が発着する空の港 ／ port=船が出入りする港(町) ／ hospital=病気やけがを治す病院(be in hospital) ／ library=本を貸し出す図書館(bookstore=書店) ／ museum=貴重な物を見せる博物館・美術館 ／ park=囲われた緑地(公園)・車をとめる ／ bank=お金をあずける銀行・(別の語)川の土手 ／ prison=罪人を閉じこめる刑務所(go to prison) ／ stadium=観客席にかこまれた競技場",
-      "words": [
-        "station",
-        "airport",
-        "port",
-        "hospital",
-        "library",
-        "museum",
-        "park",
-        "bank",
-        "prison",
-        "stadium"
-      ]
-    },
-    {
       "title": "使い分け:時をあらわす副詞",
-      "note": "already=(肯定)思ったより早くもうすんでいる ／ yet=(否定)まだ・(疑問)もう・(have yet to)まだ〜ない ／ ever=今までに一度でも(Have you ever ...?) ／ never=一度も・決して〜ない ／ recently=ついこの間(過去形も可) ／ lately=このところずっと(現在完了) ／ ago=今から〜前(過去形のみ・before=その時から前) ／ soon=今からまもなく(as soon as) ／ early=時期・時刻が早い(fast=速度) ／ once=一度・かつて・いったん〜すると(at once=すぐ)",
+      "note": "recently=ついこの間(過去形も可) ／ lately=このところずっと(現在完了)",
       "words": [
-        "already",
-        "yet",
-        "ever",
-        "never",
         "recently",
-        "lately",
-        "ago",
-        "soon",
-        "early",
-        "once"
+        "lately"
       ]
     },
     {
       "title": "使い分け:頻度の副詞",
-      "note": "always=いつでも必ず100%(not always=部分否定) ／ usually=たいていいつも(as usual) ／ often=何度もよく(How often ...?) ／ sometimes=ときどき(sometime=いつか) ／ rarely=めったに〜ない(not はつけない) ／ again=もう一度・もとにもどって",
+      "note": "rarely=めったに〜ない(not はつけない)",
       "words": [
-        "always",
-        "usually",
-        "often",
-        "sometimes",
-        "rarely",
-        "again"
-      ]
-    },
-    {
-      "title": "使い分け:時の前置詞・接続詞",
-      "note": "before=〜より前に(It was not long before=まもなく) ／ after=〜のあとに・あとを追って(look after・take after) ／ since=ある時から今までずっと(現在完了)・〜なので ／ until=その時まではずっと(by=までに)",
-      "words": [
-        "before",
-        "after",
-        "since",
-        "until"
-      ]
-    },
-    {
-      "title": "使い分け:時間の区切り",
-      "note": "time=流れる時間・ある時点・〜回・〜倍(on time  ／  in time) ／ hour=60分(an hour) ／ day=1日・昼間(the other day=先日) ／ week=7日(weak と同音) ／ month=月の満ち欠けひと回り(moon と同じ根) ／ year=季節ひと回りの1年(for years=何年も) ／ morning=朝・午前(in the morning) ／ afternoon=正午のあとの午後 ／ evening=夕方〜寝るまで(Good evening) ／ night=暗い夜(at night)",
-      "words": [
-        "time",
-        "hour",
-        "day",
-        "week",
-        "month",
-        "year",
-        "morning",
-        "afternoon",
-        "evening",
-        "night"
-      ]
-    },
-    {
-      "title": "使い分け:過去・未来・休み",
-      "note": "past=通りすぎた時・場所(in the past・ten past five) ／ future=これからやってくる時(in the near future) ／ history=過去の出来事の流れ(historic=歴史的に重要な ／ historical=歴史の) ／ holiday=休みの日(米:祝日・英:休暇) ／ vacation=(米)長めの休暇 ／ weekend=週の終わりの土日 ／ today=今日・現代 ／ tomorrow=明日・将来 ／ yesterday=きのう(過去形と) ／ tonight=今夜(前置詞なし)",
-      "words": [
-        "past",
-        "future",
-        "history",
-        "holiday",
-        "vacation",
-        "weekend",
-        "today",
-        "tomorrow",
-        "yesterday",
-        "tonight"
-      ]
-    },
-    {
-      "title": "使い分け:乗り物",
-      "note": "car=自分で運転する乗用車・車両(get in a car) ／ bus=大勢を乗せる乗り合い車(get on a bus) ／ truck=荷物を運ぶ車(英 lorry) ／ taxi=お金をはらって乗せてもらう車 ／ bicycle=2輪をこぐ自転車(bi-=2) ／ subway=(米)地下鉄・(英)地下道 ／ plane=空を飛ぶ飛行機・平面 ／ ship=海をわたる大きな船・発送する ／ boat=小さな船(in the same boat) ／ traffic=道を行き来する車の流れ(heavy traffic・数えない)",
-      "words": [
-        "car",
-        "bus",
-        "truck",
-        "taxi",
-        "bicycle",
-        "subway",
-        "plane",
-        "ship",
-        "boat",
-        "traffic"
-      ]
-    },
-    {
-      "title": "使い分け:動物",
-      "note": "animal=息をして自分で動く生き物 ／ bird=羽で飛ぶ鳥(一石二鳥) ／ fish=水の中の魚(複数も fish)・さぐる ／ insect=6本足の昆虫(bug=口語) ／ dog=犬・つきまとう ／ cat=ネコ(let the cat out of the bag=秘密をもらす) ／ horse=人を乗せて走る馬 ／ cow=乳をとるめ牛(cattle=牛全体・beef=牛肉) ／ pig=ぶた(pork=豚肉) ／ sheep=群れで動く羊(複数も sheep)",
-      "words": [
-        "animal",
-        "bird",
-        "fish",
-        "insect",
-        "dog",
-        "cat",
-        "horse",
-        "cow",
-        "pig",
-        "sheep"
-      ]
-    },
-    {
-      "title": "使い分け:野生の動物",
-      "note": "lion=たてがみの百獣の王(the lion’s share=大部分) ／ tiger=しま模様の猛獣 ／ wolf=群れで狩るオオカミ(wolves・wolf down=がつがつ食う) ／ fox=ずる賢いキツネ ／ rabbit=長い耳のウサギ ／ mouse=小さなネズミ(mice)・マウス ／ snake=くねくねはうヘビ ／ whale=海の巨大なほ乳類 ／ elephant=長い鼻のゾウ(the elephant in the room) ／ monkey=木にのぼるサル(ape=類人猿)",
-      "words": [
-        "lion",
-        "tiger",
-        "wolf",
-        "fox",
-        "rabbit",
-        "mouse",
-        "snake",
-        "whale",
-        "elephant",
-        "monkey"
+        "rarely"
       ]
     },
     {
       "title": "使い分け:植物・作物",
-      "note": "tree=太い幹から枝を広げる木 ／ bush=低くこんもりしげるしげみ(beat around the bush=遠回し) ／ grass=地面をおおう草・芝生 ／ weed=じゃまな雑草(weed out=取りのぞく) ／ leaf=平たい葉・本の1枚(leaves) ／ flower=植物がひらく花 ／ bloom=花がぱっと開く(in full bloom=満開) ／ fruit=植物の実・成果(bear fruit) ／ vegetable=食べる野菜(vegetation=草木) ／ crop=畑で育てて収穫する作物(crop up=起こる)",
+      "note": "weed=じゃまな雑草(weed out=取りのぞく) ／ bloom=花がぱっと開く(in full bloom=満開) ／ crop=畑で育てて収穫する作物(crop up=起こる)",
       "words": [
-        "tree",
-        "bush",
-        "grass",
         "weed",
-        "leaf",
-        "flower",
         "bloom",
-        "fruit",
-        "vegetable",
         "crop"
       ]
     },
     {
-      "title": "使い分け:家・部屋",
-      "note": "house=人が住む建物(家)・収容する ／ home=心が落ち着く暮らしの場(go home・at home) ／ door=出入り口・とびら(answer the door=応対する) ／ window=光や風を通す窓(風の目) ／ wall=区切り守るかべ・障害 ／ floor=床・建物の階 ／ roof=いちばん上の屋根(roofs) ／ stairs=1段ずつ上がる階段(upstairs) ／ kitchen=料理をつくる台所(cook と同じ根)",
-      "words": [
-        "house",
-        "home",
-        "door",
-        "window",
-        "wall",
-        "floor",
-        "roof",
-        "stairs",
-        "kitchen"
-      ]
-    },
-    {
-      "title": "使い分け:家具・持ち物",
-      "note": "bed=横になって眠る寝床(go to bed)・川床 ／ chair=背もたれつきのいす・議長 ／ table=平らな台・一覧表(set the table) ／ desk=勉強・仕事のつくえ・受付 ／ box=四角い箱・(用紙の)欄(think outside the box) ／ bag=物を入れて運ぶ袋・かばん ／ key=かぎ・手がかり(the key to)・重要な ／ umbrella=さしてひろげる傘(umbra=かげ)・総称 ／ glasses=めがね(a pair of) ／ wallet=お札を入れるさいふ",
-      "words": [
-        "bed",
-        "chair",
-        "table",
-        "desk",
-        "box",
-        "bag",
-        "key",
-        "umbrella",
-        "glasses",
-        "wallet"
-      ]
-    },
-    {
       "title": "使い分け:服・身につけるもの",
-      "note": "clothes=体に着るもの全体(いつも複数・cloth=布・clothing=衣類) ／ dress=服を整えて着る(get dressed)・ドレス ／ shirt=えりとボタンのシャツ ／ jacket=短い上着・カバー ／ coat=外で着るコート・表面の層(a coat of paint) ／ uniform=みんな同じ形の制服・一様な ／ hat=つばのある帽子・役(wear two hats) ／ shoe=くつ(in A’s shoes=Aの立場で) ／ sock=くつ下 ／ pocket=服の小さな袋・ふところ(pocket money)",
+      "note": "uniform=みんな同じ形の制服・一様な",
       "words": [
-        "clothes",
-        "dress",
-        "shirt",
-        "jacket",
-        "coat",
-        "uniform",
-        "hat",
-        "shoe",
-        "sock",
-        "pocket"
+        "uniform"
       ]
     },
     {
       "title": "使い分け:好き・嫌い",
-      "note": "like=心がそちらに向く(好き)・〜のような(What is A like?) ／ love=心から大切に思う(fall in love) ／ adore=あがめるほど大好き(adorable) ／ enjoy=中に入って楽しむ(enjoy doing・enjoy oneself) ／ favorite=いちばん好きな(most はつけない) ／ dislike=好きになれない ／ hate=強くいやがる・にくむ(hatred) ／ detest=見るのもいやなほど嫌う ／ loathe=むかむかするほど嫌う(loath=気が進まない) ／ good=目的に合ってよい(good at ／ for ／ to・for good=永久に)",
+      "note": "adore=あがめるほど大好き(adorable) ／ detest=見るのもいやなほど嫌う ／ loathe=むかむかするほど嫌う(loath=気が進まない) ／ for ／ to・for good=永久に)",
       "words": [
-        "like",
-        "love",
         "adore",
-        "enjoy",
-        "favorite",
-        "dislike",
-        "hate",
         "detest",
-        "loathe",
-        "good"
-      ]
-    },
-    {
-      "title": "使い分け:基本の形容詞(よい悪い・新旧・同じ)",
-      "note": "bad=のぞましくない・へた(worse, worst・go bad=くさる) ／ new=今までになかった(be new to=不慣れ) ／ old=長い時間がたった・〜歳・昔からの ／ young=生まれて日が浅い(the young=若者) ／ same=ぴったり同じ(the same A as B) ／ different=ほかとちがう・いろいろな(different from) ／ true=事実に合う(come true=かなう) ／ real=想像でなく本当にある・本物 ／ ready=すぐ動ける用意ができた(ready for  ／  to do) ／ busy=することでいっぱい(busy doing・ ／ ˈbɪzi ／ )",
-      "words": [
-        "bad",
-        "new",
-        "old",
-        "young",
-        "same",
-        "different",
-        "true",
-        "real",
-        "ready",
-        "busy"
-      ]
-    },
-    {
-      "title": "使い分け:色(とその比ゆ)",
-      "note": "color=目に見える色あい・(見方に)影響する ／ red=血や火の赤・赤字(in the red)・現行犯(red-handed) ／ blue=空や海の青・ゆううつ(feel blue)・突然(out of the blue) ／ green=草木の緑・未熟・環境にやさしい・許可(green light) ／ yellow=黄色 ／ white=雪の白・青ざめた・悪意のない(white lie) ／ black=真っ黒・黒字(in the black)・やみ(black market) ／ gray=灰色・どんより・あいまい(gray area) ／ brown=土の茶色・こんがり焼く ／ purple=赤と青の紫(高貴な色)",
-      "words": [
-        "color",
-        "red",
-        "blue",
-        "green",
-        "yellow",
-        "white",
-        "black",
-        "gray",
-        "brown",
-        "purple"
-      ]
-    },
-    {
-      "title": "使い分け:学校",
-      "note": "student=学校で学ぶ人 ／ teacher=教える人 ／ classroom=授業をうける部屋(class=授業) ／ homework=家でやる勉強(数えない)・下調べ ／ textbook=教科書・お手本どおりの ／ notebook=書きこむノート(note=メモ)・ノートパソコン ／ pen=インクのペン(in pen) ／ pencil=消せる鉛筆(pencil in=仮に予定) ／ math=数学(英 maths) ／ science=観察と実験の科学(scientific)",
-      "words": [
-        "student",
-        "teacher",
-        "classroom",
-        "homework",
-        "textbook",
-        "notebook",
-        "pen",
-        "pencil",
-        "math",
-        "science"
-      ]
-    },
-    {
-      "title": "使い分け:芸術・スポーツ・趣味",
-      "note": "art=人がつくり出す美・わざ(artificial=人工の) ／ music=音を組み立てた音楽(数えない) ／ sport=ルールにそって体を動かして競う ／ soccer=(米)サッカー(英 football) ／ baseball=塁を回る野球 ／ tennis=ラケットで打ち合うテニス ／ player=競技・演奏をする人・主要な存在(a key player) ／ coach=目標へ運ぶ指導者・(英)長距離バス ／ fan=熱心な応援者・(別の語)うちわ ／ hobby=楽しみで続ける趣味",
-      "words": [
-        "art",
-        "music",
-        "sport",
-        "soccer",
-        "baseball",
-        "tennis",
-        "player",
-        "coach",
-        "fan",
-        "hobby"
-      ]
-    },
-    {
-      "title": "使い分け:行事・映像・写真",
-      "note": "club=同じ好みの人の会(部)・こん棒 ／ festival=みんなで祝う祭り・祭典 ／ concert=音楽の演奏会(concerted effort=一致協力) ／ song=声で歌う歌(sing=動詞) ／ movie=(米)動く絵=映画 ／ film=うすい膜・(英)映画・撮影する ／ video=録画・動画 ／ picture=絵・写真・イメージ(get the picture) ／ photo=光でかいた写真(photographer) ／ camera=光をとりこむカメラ(もとは部屋)",
-      "words": [
-        "club",
-        "festival",
-        "concert",
-        "song",
-        "movie",
-        "film",
-        "video",
-        "picture",
-        "photo",
-        "camera"
-      ]
-    },
-    {
-      "title": "使い分け:数・量",
-      "note": "half=2つに分けた片方(halves・half an hour) ／ double=2つ重なった・2倍(double as=兼ねる) ／ pair=2つで1組(a pair of shoes) ／ couple=結びついた2人・2,3の(a couple of) ／ dozen=12個(dozens of=何十もの) ／ several=2,3より多いいくつか ／ few=(数)a few=少しある ／ few=ほとんどない ／ many=(数)たくさん ／ much=(量)たくさん・much+比較級=ずっと ／ most=いちばん多く・most A=たいていの(most of the A)",
-      "words": [
-        "half",
-        "double",
-        "pair",
-        "couple",
-        "dozen",
-        "several",
-        "few",
-        "many",
-        "much",
-        "most"
+        "loathe"
       ]
     },
     {
@@ -4086,18 +3604,14 @@
     },
     {
       "title": "使い分け:つなぎ言葉(追加・結論・強調)",
-      "note": "therefore=理由から結論へ(それゆえ・so=接続詞) ／ moreover=そのうえさらに(改まった) ／ furthermore=さらにその先に(further=さらなる) ／ also=〜もまた(not only A but also B) ／ too=(文末)〜も・〜すぎる(too ... to do) ／ either=どちらか一方・(否定)〜も ／ neither=どちらも〜ない(Neither do I.) ／ indeed=本当に・実際(前を強める) ／ actually=(予想とちがって)実は ／ anyway=とにかく・それでも",
+      "note": "therefore=理由から結論へ(それゆえ・so=接続詞) ／ moreover=そのうえさらに(改まった) ／ furthermore=さらにその先に(further=さらなる) ／ neither=どちらも〜ない(Neither do I.) ／ indeed=本当に・実際(前を強める) ／ actually=(予想とちがって)実は",
       "words": [
         "therefore",
         "moreover",
         "furthermore",
-        "also",
-        "too",
-        "either",
         "neither",
         "indeed",
-        "actually",
-        "anyway"
+        "actually"
       ]
     },
     {
@@ -4118,12 +3632,11 @@
     },
     {
       "title": "使い分け:程度の副詞",
-      "note": "quite=思ったよりかなり・すっかり(quite a + 形 + 名) ／ rather=けっこう・むしろ(would rather・A rather than B) ／ fairly=まあまあ・公平に ／ enough=必要な分に届く(old enough to do) ／ extremely=はしの限界まで(きわめて) ／ completely=すっかり全部(not completely=部分否定) ／ slightly=ほんの少し ／ barely=かろうじて届く(hardly=ほとんど〜ない) ／ simply=ただ単に・簡単に・まったく ／ mostly=たいてい・大部分 ／ absolutely=まったく完全に・(返事)そのとおり! ／ totally=全部まるごと(口語) ／ entirely=欠けたところなく全部(not entirely=部分否定) ／ highly=(程度・評価が)高く(speak highly of・high=高さ) ／ somewhat=いくぶん・やや ／ merely=ただ〜にすぎない(not merely A but B)",
+      "note": "quite=思ったよりかなり・すっかり(quite a + 形 + 名) ／ rather=けっこう・むしろ(would rather・A rather than B) ／ fairly=まあまあ・公平に ／ extremely=はしの限界まで(きわめて) ／ completely=すっかり全部(not completely=部分否定) ／ slightly=ほんの少し ／ barely=かろうじて届く(hardly=ほとんど〜ない) ／ simply=ただ単に・簡単に・まったく ／ mostly=たいてい・大部分 ／ absolutely=まったく完全に・(返事)そのとおり! ／ totally=全部まるごと(口語) ／ entirely=欠けたところなく全部(not entirely=部分否定) ／ highly=(程度・評価が)高く(speak highly of・high=高さ) ／ somewhat=いくぶん・やや ／ merely=ただ〜にすぎない(not merely A but B)",
       "words": [
         "quite",
         "rather",
         "fairly",
-        "enough",
         "extremely",
         "completely",
         "slightly",

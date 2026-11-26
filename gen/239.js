@@ -142,21 +142,5 @@ module.exports = [
       ['動揺','We were shaken by the news.','私たちはその知らせに動揺した。'],
       ['ふるえる','His voice was shaking with fear.','彼の声は恐怖でふるえていた。']],
   chk:['shake の活用(shook, shaken)を言えるか','shake hands の hands がわかるか'],
-  exam:['頻出','shake hands with、活用が出る。'] },
-
-{ w:'sit', pos:['動詞'], ipa:'/sɪt/', core:'腰をおろして、すわる・じっと置かれている',
-  svg:'{ground}<rect x="100" y="100" width="60" height="10"/><line x1="104" y1="110" x2="104" y2="140"/><line x1="156" y1="110" x2="156" y2="140"/><line x1="156" y1="100" x2="156" y2="50"/><circle cx="124" cy="50" r="12"/><line x1="124" y1="62" x2="128" y2="100"/><line x1="128" y1="100" x2="96" y2="100"/><line x1="96" y1="100" x2="96" y2="140"/><line x1="126" y1="74" x2="106" y2="90"/>',
-  lab:[[200,40,'すわる']],
-  ety:'古い英語 sittan(すわる:set・seat と同じ仲間) → すわる → (物が)置かれている・(じっと)ある → (試験を)受ける(英)',
-  def:[['動詞','to be in a position with your weight on your bottom; to be in a particular place; (sit for) to take an exam.']],
-  cau:['活用 sit - sat - sat','sit down=すわる/seat=(他動詞)すわらせる:be seated=すわっている','sit up=(寝ずに)起きている・背すじをのばす','sit for an exam=(英)試験を受ける'],
-  pat:[['sit down','すわる'],['sit on [in] A','Aにすわる'],['sit up','起きている・背すじをのばす'],['sit still','じっとすわっている']],
-  ex:[['すわる','Please sit down.','おすわりください。'],
-      ['いす','She sat in the armchair and read.','彼女はひじかけいすにすわって読書した。'],
-      ['じっと','The children couldn\'t sit still.','子どもたちはじっとすわっていられなかった。'],
-      ['起きている','We sat up all night talking.','私たちは話しこんで徹夜した。'],
-      ['置かれている','The old book sat on the shelf for years.','その古い本は何年も棚に置かれたままだった。'],
-      ['seat と','Please sit back and stay seated.','深くすわって、席を立たないでください(seated=すわった状態)。']],
-  chk:['sit の活用(sat)を言えるか','sit と seat の型のちがいを言えるか'],
-  exam:['頻出','sit / seat(be seated)の区別が出る。'] }
+  exam:['頻出','shake hands with、活用が出る。'] }
 ];

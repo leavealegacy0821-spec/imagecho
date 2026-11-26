@@ -17,9 +17,25 @@ function lsSet(key, value) {
   try { localStorage.setItem(key, value); } catch (e) { /* 保存できなくても動かす */ }
 }
 
+// 新しい版を出したのに、ホーム画面のアプリが古い画面のままになるのを防ぐ。
+//  - 開いたとき・アプリに戻ってきたときに、新しい sw.js がないか確かめる
+//  - 新しい版が働き始めたら、画面を1回だけ読み直して新しい画面にする
 export function registerServiceWorker() {
   if (!('serviceWorker' in navigator)) return;
-  navigator.serviceWorker.register('sw.js').catch(() => { /* 登録できなくても通信があれば使える */ });
+  const hadController = !!navigator.serviceWorker.controller; // 初めて開いたときは読み直さない
+  let reloaded = false;
+  navigator.serviceWorker.addEventListener('controllerchange', () => {
+    if (!hadController || reloaded) return;
+    reloaded = true;
+    location.reload();
+  });
+  navigator.serviceWorker.register('sw.js', { updateViaCache: 'none' }).then((reg) => {
+    const check = () => reg.update().catch(() => {});
+    check();
+    document.addEventListener('visibilitychange', () => {
+      if (document.visibilityState === 'visible') check();
+    });
+  }).catch(() => { /* 登録できなくても通信があれば使える */ });
 }
 
 // 単語ファイルの場所(ファイル名は単語を小文字にしたもの)
