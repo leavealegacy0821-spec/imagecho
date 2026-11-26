@@ -1,0 +1,94 @@
+{
+  "word": "worsen",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈwɜːrsən/",
+  "core_image": {
+    "text": "今より、さらに悪い方へ転がる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"30,40 80,60 130,90 190,130\"/><line x1=\"150\" y1=\"108\" x2=\"190\" y2=\"130\"/><polyline points=\"185.7,123.3 190,130 182,130\"/><circle cx=\"80\" cy=\"50\" r=\"8\"/><circle cx=\"190\" cy=\"118\" r=\"8\"/></g><text x=\"60\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">今</text><text x=\"178\" y=\"82\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もっと悪く</text></svg>"
+  },
+  "etymology": "worse(より悪い。bad の比較級)+ en(〜にする)→ さらに悪い状態にする・なる → ①(自動詞)悪化する ②(他動詞)悪化させる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to become worse or to make something worse."
+    }
+  ],
+  "cautions": [
+    "自動詞も他動詞もある:The situation worsened.(悪化した)/The rain worsened the traffic.(悪化させた)",
+    "worsen=「悪くなる」の最もふつうの語。deteriorate=質が少しずつ落ちる(堅い)/aggravate・exacerbate=すでに悪いものをもっと悪くする",
+    "反対は improve(よくなる・よくする)",
+    "形容詞の比較級+en の型:widen・lessen・deepen と同じ作り"
+  ],
+  "patterns": [
+    {
+      "form": "A worsen",
+      "meaning": "Aが悪化する"
+    },
+    {
+      "form": "worsen A",
+      "meaning": "Aを悪化させる"
+    },
+    {
+      "form": "a worsening economy",
+      "meaning": "悪化しつつある経済"
+    },
+    {
+      "form": "improve",
+      "meaning": "よくなる(反対)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "悪化する(自動詞)",
+      "en": "The patient's condition worsened during the night.",
+      "ja": "患者の容体は夜のうちに悪化した。"
+    },
+    {
+      "source": "original",
+      "label": "悪化させる(他動詞)",
+      "en": "The heavy snow worsened the traffic jam.",
+      "ja": "大雪で渋滞がひどくなった。"
+    },
+    {
+      "source": "original",
+      "label": "関係",
+      "en": "Their relationship worsened after the argument.",
+      "ja": "その口論のあと、二人の関係は悪くなった。"
+    },
+    {
+      "source": "original",
+      "label": "worsening",
+      "en": "Many families are struggling with the worsening economy.",
+      "ja": "多くの家庭が悪化する景気に苦しんでいる。"
+    },
+    {
+      "source": "original",
+      "label": "天気",
+      "en": "The weather is expected to worsen this weekend.",
+      "ja": "週末は天気がくずれる見込みだ。"
+    },
+    {
+      "source": "original",
+      "label": "improve との対比",
+      "en": "Instead of improving, the situation only worsened.",
+      "ja": "状況はよくなるどころか、悪くなる一方だった。"
+    }
+  ],
+  "check_points": [
+    "worsen を自動詞・他動詞の両方で使えるか",
+    "worsen と deteriorate のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文で「悪化する」の意味で出る。worse+en の作りから意味を推測させる問題も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2418
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "exacerbate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪɡˈzæsərbeɪt/",
+  "core_image": {
+    "text": "火に油をそそいで、もっと激しくする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"90,140 100,110 110,124 120,90 130,120 140,104 150,140\"/><rect x=\"170\" y=\"30\" width=\"30\" height=\"20\"/><line x1=\"170\" y1=\"40\" x2=\"150\" y2=\"60\"/><line x1=\"152\" y1=\"66\" x2=\"146\" y2=\"78\"/><line x1=\"140\" y1=\"70\" x2=\"134\" y2=\"82\"/></g><text x=\"50\" y=\"96\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">問題の火</text><text x=\"190\" y=\"18\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">油をそそぐ</text></svg>"
+  },
+  "etymology": "ex(すっかり)+ acerb(とげとげしい・苦い。acid と同じ根)→ もっととげとげしくする → (問題・痛み・対立を)いっそう悪化させる・激化させる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make an already bad problem, situation or feeling much worse."
+    }
+  ],
+  "cautions": [
+    "他動詞:exacerbate A。aggravate とほぼ同じで、さらに堅い(評論・新聞で多い)",
+    "もともとある問題を「激しく」する感じ。worsen はふつうの語",
+    "反対は alleviate / mitigate(和らげる)",
+    "アクセントは /zǽ/。名詞 exacerbation"
+  ],
+  "patterns": [
+    {
+      "form": "exacerbate A",
+      "meaning": "Aを悪化させる"
+    },
+    {
+      "form": "exacerbate the problem",
+      "meaning": "問題をいっそう悪くする"
+    },
+    {
+      "form": "be exacerbated by A",
+      "meaning": "Aによって悪化する"
+    },
+    {
+      "form": "alleviate",
+      "meaning": "和らげる(反対)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "問題",
+      "en": "Cutting the budget will only exacerbate the problem.",
+      "ja": "予算を削っても問題を悪化させるだけだ。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "The water shortage was exacerbated by the hot summer.",
+      "ja": "水不足は暑い夏でいっそう深刻になった。"
+    },
+    {
+      "source": "original",
+      "label": "対立",
+      "en": "The president's speech exacerbated the conflict.",
+      "ja": "大統領の演説が対立をあおった。"
+    },
+    {
+      "source": "original",
+      "label": "痛み",
+      "en": "Stress can exacerbate the symptoms of the disease.",
+      "ja": "ストレスはその病気の症状を悪化させることがある。"
+    },
+    {
+      "source": "original",
+      "label": "格差",
+      "en": "Critics say the policy exacerbates inequality.",
+      "ja": "批判する人たちは、その政策が格差を広げると言う。"
+    },
+    {
+      "source": "original",
+      "label": "alleviate との対比",
+      "en": "The plan was meant to alleviate poverty, but it exacerbated it.",
+      "ja": "その計画は貧困を和らげるはずが、かえって悪化させた。"
+    }
+  ],
+  "check_points": [
+    "exacerbate の反対の意味の語を言えるか",
+    "aggravate とのちがい(堅さ)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "難関大の評論で出る。make worse・aggravate への言い換えが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2421
+    }
+  ]
+}

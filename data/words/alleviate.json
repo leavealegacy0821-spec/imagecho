@@ -1,0 +1,94 @@
+{
+  "word": "alleviate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈliːvieɪt/",
+  "core_image": {
+    "text": "のしかかる重荷を、持ち上げて軽くする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><rect x=\"90\" y=\"16\" width=\"60\" height=\"18\"/><line x1=\"120\" y1=\"74\" x2=\"100\" y2=\"40\"/><line x1=\"120\" y1=\"74\" x2=\"140\" y2=\"40\"/><line x1=\"170\" y1=\"40\" x2=\"170\" y2=\"10\"/><polyline points=\"166.2,17 170,10 173.8,17\"/><line x1=\"70\" y1=\"40\" x2=\"70\" y2=\"10\"/><polyline points=\"66.2,17 70,10 73.8,17\"/></g><text x=\"40\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">軽く</text><text x=\"200\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">楽に</text></svg>"
+  },
+  "etymology": "al(ad=〜に)+ lev(軽い・持ち上げる。lever、elevator、relieve と同じ)→ 軽くする → (痛み・苦しみ・問題を)和らげる・軽減する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make pain, suffering or a problem less severe."
+    }
+  ],
+  "cautions": [
+    "他動詞:alleviate A=(痛み・貧困・渋滞などを)和らげる。完全には取り除かない",
+    "relieve=重荷を取りのぞいてほっとさせる/alleviate=重さを軽くする(堅い)/ease=ゆるめて楽にする(口語的)",
+    "lev(軽い)は relieve・lever・elevator と同じ",
+    "反対は aggravate / exacerbate(悪化させる)"
+  ],
+  "patterns": [
+    {
+      "form": "alleviate pain",
+      "meaning": "痛みを和らげる"
+    },
+    {
+      "form": "alleviate poverty",
+      "meaning": "貧困を軽減する"
+    },
+    {
+      "form": "alleviate the problem",
+      "meaning": "問題を和らげる"
+    },
+    {
+      "form": "alleviation",
+      "meaning": "軽減"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "痛み",
+      "en": "This medicine will alleviate the pain.",
+      "ja": "この薬で痛みが和らぎます。"
+    },
+    {
+      "source": "original",
+      "label": "貧困",
+      "en": "The charity works to alleviate poverty in Africa.",
+      "ja": "その慈善団体はアフリカの貧困を減らそうと活動している。"
+    },
+    {
+      "source": "original",
+      "label": "渋滞",
+      "en": "A new bridge would help alleviate traffic congestion.",
+      "ja": "新しい橋ができれば渋滞の緩和に役立つだろう。"
+    },
+    {
+      "source": "original",
+      "label": "不安",
+      "en": "Talking to a friend can alleviate stress.",
+      "ja": "友人と話すとストレスが軽くなることがある。"
+    },
+    {
+      "source": "original",
+      "label": "不足",
+      "en": "The government imported rice to alleviate the food shortage.",
+      "ja": "政府は食料不足を和らげるために米を輸入した。"
+    },
+    {
+      "source": "original",
+      "label": "relieve との比較",
+      "en": "The pill alleviated the pain, and she was relieved.",
+      "ja": "薬で痛みが和らぎ、彼女はほっとした。"
+    }
+  ],
+  "check_points": [
+    "alleviate の lev が「軽い」であることを言えるか",
+    "alleviate と relieve のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「和らげる」の言い換え(=relieve, ease)として語彙・長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2422
+    }
+  ]
+}

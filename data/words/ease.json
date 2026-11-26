@@ -1,0 +1,103 @@
+{
+  "word": "ease",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/iːz/",
+  "core_image": {
+    "text": "きついものを、ゆるめて楽にする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M40 60 Q70 40 100 60 Q70 80 40 60\"/><path d=\"M140 60 Q180 20 220 60 Q180 100 140 60\"/><line x1=\"104\" y1=\"60\" x2=\"136\" y2=\"60\"/><polyline points=\"129,56.2 136,60 129,63.8\"/></g><text x=\"70\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">きつい</text><text x=\"200\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ゆるむ</text></svg>"
+  },
+  "etymology": "古フランス語 aise(ゆとり・楽さ。easy と同じ)→ ゆとりがある状態 → ①(名詞)容易さ・気楽さ ②(動詞)(痛み・緊張を)和らげる・ゆるめる ③そっと動かす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make pain, worry or a problem less severe; to move something slowly and carefully."
+    },
+    {
+      "pos": "名詞",
+      "text": "lack of difficulty; a relaxed state."
+    }
+  ],
+  "cautions": [
+    "with ease=easily(楽々と)。前置詞+抽象名詞=副詞の定番",
+    "at ease=くつろいで/ill at ease=落ち着かない(反対)",
+    "動詞:ease the pain(痛みを和らげる)、ease A into B=Aをそっと B に入れる、ease off=(雨・痛みが)おさまる",
+    "alleviate=堅い/ease=日常的。どちらも痛み・緊張に使う"
+  ],
+  "patterns": [
+    {
+      "form": "with ease",
+      "meaning": "楽々と(=easily)"
+    },
+    {
+      "form": "at ease",
+      "meaning": "くつろいで"
+    },
+    {
+      "form": "ill at ease",
+      "meaning": "落ち着かない"
+    },
+    {
+      "form": "ease the pain",
+      "meaning": "痛みを和らげる"
+    },
+    {
+      "form": "ease off",
+      "meaning": "おさまる・ゆるむ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "with ease",
+      "en": "She solved the difficult problem with ease.",
+      "ja": "彼女はその難問を楽々と解いた。"
+    },
+    {
+      "source": "original",
+      "label": "at ease",
+      "en": "The teacher's smile put the nervous students at ease.",
+      "ja": "先生の笑顔で緊張した生徒たちは気が楽になった。"
+    },
+    {
+      "source": "original",
+      "label": "ill at ease",
+      "en": "He felt ill at ease among strangers.",
+      "ja": "彼は知らない人たちの中で落ち着かなかった。"
+    },
+    {
+      "source": "original",
+      "label": "和らげる",
+      "en": "This medicine will help ease the pain.",
+      "ja": "この薬は痛みを和らげるのに役立つ。"
+    },
+    {
+      "source": "original",
+      "label": "緊張をゆるめる",
+      "en": "The talks eased tensions between the two countries.",
+      "ja": "その会談で両国の緊張がゆるんだ。"
+    },
+    {
+      "source": "original",
+      "label": "おさまる",
+      "en": "The rain finally eased off in the afternoon.",
+      "ja": "午後になってようやく雨が小降りになった。"
+    }
+  ],
+  "check_points": [
+    "with ease と at ease の意味を言えるか",
+    "動詞 ease の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "with ease=easily、at ease / ill at ease の熟語が定番。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2424
+    }
+  ]
+}

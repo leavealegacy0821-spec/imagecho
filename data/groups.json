@@ -807,7 +807,7 @@
     },
     {
       "title": "使い分け:増える・高める",
-      "note": "increase=数量が増える ／ expand=外へ広がって大きくなる ／ boost=下から押し上げる ／ accumulate=積み重なる ／ enhance=質・価値を高める ／ improve=よくする ／ swell=中からふくらむ(swollen) ／ enlarge=形はそのまま実際のサイズを大きくする ／ magnify=レンズで見た目を大きく見せる・大げさにする ／ amplify=音や力そのものを増幅する ／ intensify=激しさ・濃さを増す ／ strengthen=太く丈夫にしてくずれにくくする",
+      "note": "increase=数量が増える ／ expand=外へ広がって大きくなる ／ boost=下から押し上げる ／ accumulate=積み重なる ／ enhance=質・価値を高める ／ improve=よくする ／ swell=中からふくらむ(swollen) ／ enlarge=形はそのまま実際のサイズを大きくする ／ magnify=レンズで見た目を大きく見せる・大げさにする ／ amplify=音や力そのものを増幅する ／ intensify=激しさ・濃さを増す ／ strengthen=太く丈夫にしてくずれにくくする ／ enrich=中身をつぎ足して豊かにする(人生・文化・土)",
       "words": [
         "increase",
         "expand",
@@ -821,7 +821,8 @@
         "magnify",
         "amplify",
         "intensify",
-        "strengthen"
+        "strengthen",
+        "enrich"
       ]
     },
     {
@@ -842,6 +843,22 @@
         "lessen",
         "curtail",
         "lower"
+      ]
+    },
+    {
+      "title": "使い分け:悪化させる・和らげる",
+      "note": "worsen=今よりさらに悪い方へ(ふつうの語・自他両方) ／ deteriorate=質や状態が時間とともに少しずつ落ちる(主に自動詞) ／ aggravate=すでに悪いものに重みをのせてもっと悪くする ／ exacerbate=火に油をそそいで激しくする(いちばん堅い) ／ alleviate=のしかかる重荷を持ち上げて軽くする(痛み・貧困) ／ mitigate=衝撃をクッションで受け止めて被害の程度を小さくする ／ ease=きついものをゆるめて楽にする(日常的) ／ relieve=重荷を取りのぞいてほっとさせる ／ soothe=なでるようにしずめる ／ lessen=度合いを小さくする",
+      "words": [
+        "worsen",
+        "deteriorate",
+        "aggravate",
+        "exacerbate",
+        "alleviate",
+        "mitigate",
+        "ease",
+        "relieve",
+        "soothe",
+        "lessen"
       ]
     },
     {
@@ -910,13 +927,15 @@
     },
     {
       "title": "使い分け:取り戻す・元に戻す",
-      "note": "recover=失ったものを取り戻す・回復する ／ restore=元の状態に戻す ／ renew=新しくし直す・更新する ／ retrieve=取って戻ってくる ／ recall=呼び戻す・思い出す",
+      "note": "recover=失ったものを取り戻す・回復する ／ restore=元の状態に戻す ／ renew=新しくし直す・更新する ／ retrieve=取って戻ってくる ／ recall=呼び戻す・思い出す ／ revive=しおれたものに再び命を吹きこむ(意識・景気・伝統の復活) ／ refresh=疲れをとって、とれたての状態にもどす(気分・記憶)",
       "words": [
         "recover",
         "restore",
         "renew",
         "retrieve",
-        "recall"
+        "recall",
+        "revive",
+        "refresh"
       ]
     },
     {
