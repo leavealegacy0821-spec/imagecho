@@ -292,3 +292,37 @@ body {
 .entry.slide-next { animation: slide-from-right .22s ease-out; }
 .entry.slide-prev { animation: slide-from-left .22s ease-out; }
 @media (prefers-reduced-motion: reduce) { .entry.slide-next, .entry.slide-prev { animation: none; } }
+
+/* ───────── 自分のまとまり ───────── */
+.mine-hint { padding: 14px 2px 0; font-size: 13px; color: var(--grey); }
+.mine-new { padding-top: 14px; text-align: center; }
+.mine-home .flow-g-note { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-family: var(--en); font-size: 14px; }
+.mine-head { align-items: center; gap: 12px; }
+.mine-title { flex: 1; min-width: 0; padding: 4px 0; border: 0; border-bottom: 1px dashed var(--hair); background: transparent; color: var(--ink); font-family: var(--min); font-size: 26px; font-weight: 600; letter-spacing: 0.04em; }
+.mine-title:focus { outline: none; border-bottom: 1px solid var(--gold); }
+.mine-add { display: flex; gap: 10px; align-items: stretch; margin-top: 6px; }
+.mine-input { flex: 1; min-width: 0; padding: 10px 12px; border: 1px solid var(--hair); background: transparent; color: var(--ink); font-family: var(--en), var(--min); font-size: 18px; line-height: 1.4; resize: vertical; caret-color: var(--gold); }
+.mine-input:focus { outline: none; border-color: var(--gold); }
+.mine-input::placeholder { color: #7b7566; font-family: var(--min); font-size: 14px; }
+.mine-sugg { list-style: none; margin: 0; padding: 0; }
+.mine-sugg-btn { display: flex; gap: 10px; align-items: baseline; width: 100%; min-height: 44px; padding: 8px 4px; border: 0; border-bottom: 1px solid var(--hair); background: transparent; color: var(--ink); text-align: left; cursor: pointer; font-family: var(--en); font-size: 18px; }
+.mine-sugg-btn:active { background: var(--wash); }
+.mine-sugg-core { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-family: var(--min); font-size: 12px; color: var(--grey); }
+.mine-msg { min-height: 1em; padding: 8px 2px; font-size: 13px; color: var(--gold); }
+.mine-msg:empty { padding: 0; }
+.mine-rows { list-style: none; margin: 0; padding: 0; }
+.mine-row { display: flex; align-items: center; }
+.mine-row .row { flex: 1; min-width: 0; }
+.mine-del { flex: none; min-width: 52px; min-height: 44px; margin-left: 6px; border: 1px solid var(--hair); background: transparent; color: var(--grey); font-family: var(--min); font-size: 12px; cursor: pointer; }
+.mine-del:active { background: var(--wash); color: var(--ink); }
+.mine-foot { padding-top: 36px; text-align: center; }
+.mine-remove { border-color: var(--hair); color: var(--grey); }
+.mine-pick { margin-top: 10px; }
+.mine-pick-btn { min-height: 40px; padding: 0 14px; border: 1px solid var(--hair); background: transparent; color: var(--gold); font-family: var(--min); font-size: 13px; cursor: pointer; }
+.mine-pick-btn[aria-expanded="true"] { border-color: var(--gold); }
+.mine-pick-list { list-style: none; margin: 8px 0 0; padding: 0; border-top: 1px solid var(--hair); }
+.mine-pick-g { display: flex; gap: 10px; align-items: center; width: 100%; min-height: 44px; padding: 6px 4px; border: 0; border-bottom: 1px solid var(--hair); background: transparent; color: var(--ink); font-family: var(--min); font-size: 14px; text-align: left; cursor: pointer; }
+.mine-pick-g:active { background: var(--wash); }
+.mine-pick-check { flex: none; width: 20px; height: 20px; border: 1px solid var(--gold); color: var(--gold); display: inline-flex; align-items: center; justify-content: center; font-size: 13px; }
+.mine-pick-g[aria-pressed="true"] .mine-pick-check { background: var(--gold); color: var(--paper); }
+.mine-pick-g--new { color: var(--gold); padding-left: 34px; }

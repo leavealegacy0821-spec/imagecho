@@ -5,6 +5,8 @@
 //   #/word/<単語>?list=<id>   単語詳細(単語集から来たとき)
 //   #/word/<単語>?q=<検索語>  単語詳細(検索から来たとき)
 //   #/search?q=<検索語>       検索
+//   #/mine/<id>               自分のまとまり(自分で選んだ単語だけ)
+//   #/word/<単語>?mine=<id>   単語詳細(自分のまとまりから来たとき)
 
 import { initSpeech, speak, stopSpeech } from './speech.js';
 import { registerServiceWorker, loadIndex, wordUrl, syncWords } from './offline.js';
@@ -168,6 +170,47 @@ function setMark(word, kind) {
   }
 }
 
+// ───────── 自分のまとまり(自分で選んだ単語だけを集めたもの。端末内に保存) ─────────
+
+const MINE_KEY = 'imagecho:mine';
+let mine = [];
+try { mine = JSON.parse(localStorage.getItem(MINE_KEY)) || []; } catch (e) { mine = []; }
+if (!Array.isArray(mine)) mine = [];
+
+function saveMine() {
+  try {
+    localStorage.setItem(MINE_KEY, JSON.stringify(mine));
+  } catch (e) {
+    toast('まとまりを保存できませんでした');
+  }
+}
+const mineById = (id) => mine.find((g) => g.id === String(id)) || null;
+// 解説のある単語だけを、入れた順に
+const mineItems = (g) => g.words.map((x) => byWord.get(x)).filter(Boolean).map((w) => ({ w }));
+
+function newMine() {
+  let n = mine.length + 1;
+  while (mine.some((g) => g.title === '自分のまとまり ' + n)) n += 1;
+  const g = { id: Date.now().toString(36), title: '自分のまとまり ' + n, words: [] };
+  mine.push(g);
+  saveMine();
+  return g;
+}
+// 文字列から単語を取り出して足す。足せた語・すでに入っていた語・解説の無い語を返す
+function addToMine(g, text) {
+  const added = [], dup = [], unknown = [];
+  for (const raw of String(text).split(/[\s,、，・/／]+/)) {
+    const key = raw.trim().toLowerCase().replace(/^[^a-z]+|[^a-z]+$/g, '');
+    if (!key) continue;
+    if (!byWord.has(key)) { if (!unknown.includes(raw.trim())) unknown.push(raw.trim()); continue; }
+    if (g.words.includes(key)) { if (!dup.includes(key)) dup.push(key); continue; }
+    g.words.push(key);
+    added.push(key);
+  }
+  if (added.length) saveMine();
+  return { added, dup, unknown };
+}
+
 // ───────── 画面の切り替え ─────────
 
 let cur = { id: null, hash: '', from: null }; // 今の画面
@@ -191,6 +234,7 @@ function parseHash() {
   const params = new URLSearchParams(qi < 0 ? '' : raw.slice(qi + 1));
   const seg = path.split('/').filter(Boolean).map(safeDecode);
   if (seg[0] === 'list' && seg[1]) return { name: 'list', id: seg[1] };
+  if (seg[0] === 'mine' && seg[1]) return { name: 'mine', id: seg[1] };
   if (seg[0] === 'word' && seg[1]) return { name: 'word', word: seg.slice(1).join('/'), params };
   if (seg[0] === 'search') return { name: 'home', q: params.get('q') || '' };
   return { name: 'home', q: '' };
@@ -220,7 +264,7 @@ function route() {
     $pager.hidden = true;
     document.body.classList.remove('has-pager');
     $sync.classList.remove('is-hidden');
-    const rows = r.name === 'list' ? renderList(r) : renderHome(r.q);
+    const rows = r.name === 'list' ? renderList(r) : r.name === 'mine' ? renderMine(r) : renderHome(r.q);
     window.scrollTo(0, y);
     if (rows) rows.draw(); // 戻した位置の行をすぐ描く
     // 詳細から戻ってきたとき、最後に見ていた単語が画面の外なら見える位置まで動かす
@@ -340,7 +384,23 @@ function renderHome(q) {
             h('span', { class: 'flow-g-note' }, g.note),
             h('span', { class: 'flow-g-size' }, g.size + ' 語'))))))
       : '';
+    const mineBlock = h('section', { class: 'block mine-home' },
+      h('h2', { class: 'block-h' }, h('span', null, '自分のまとまり'), h('span', { class: 'block-h-side' }, mine.length + ' まとまり')),
+      mine.length
+        ? h('ul', { class: 'flow-groups' }, mine.map((g) => {
+          const items = mineItems(g);
+          return h('li', null, h('a', { class: 'flow-g', href: '#/mine/' + enc(g.id) },
+            h('span', { class: 'flow-g-title' }, g.title),
+            h('span', { class: 'flow-g-note', lang: 'en' }, items.map((it) => it.w.word).join(', ') || 'まだ単語がありません'),
+            h('span', { class: 'flow-g-size' }, items.length + ' 語')));
+        }))
+        : h('p', { class: 'mine-hint' }, '覚えたい単語を自分で選んで、自分だけのまとまりを作れます。'),
+      h('p', { class: 'mine-new' }, h('button', {
+        type: 'button', class: 'plain-btn',
+        onclick: () => { const g = newMine(); location.hash = '#/mine/' + enc(g.id) + '?new=1'; },
+      }, '＋ 新しいまとまりを作る')));
     $view.replaceChildren(
+      mineBlock,
       flowBlock,
       h('section', { class: 'block' },
         h('h2', { class: 'block-h' }, h('span', null, '単語集'), h('span', { class: 'block-h-side' }, lists.length + ' 冊')),
@@ -412,12 +472,165 @@ function renderList(r) {
   return showRows(rows);
 }
 
+// ───────── 画面5:自分のまとまり ─────────
+
+function renderMine(r) {
+  $masthead.hidden = true;
+  if ($q.value) { $q.value = ''; $qClear.hidden = true; }
+  const g = mineById(r.id);
+  const crumb = h('nav', { class: 'crumb' }, backLink('#/', '単語集'));
+  if (!g) {
+    $view.replaceChildren(crumb, note('このまとまりは見つかりません。'));
+    return null;
+  }
+  document.title = g.title + ' — 単語イメージ帳';
+  const isNew = new URLSearchParams(normHash().split('?')[1] || '').has('new');
+  const items = mineItems(g);
+  const missing = g.words.filter((x) => !byWord.has(x));
+
+  // 名前(その場で書き換えられる)
+  const title = h('input', {
+    class: 'mine-title', type: 'text', value: g.title, maxlength: '40', 'aria-label': 'まとまりの名前',
+    enterkeyhint: 'done', autocomplete: 'off',
+  });
+  const saveTitle = () => {
+    const t = title.value.trim();
+    if (!t) { title.value = g.title; return; }
+    if (t !== g.title) { g.title = t; saveMine(); document.title = t + ' — 単語イメージ帳'; }
+  };
+  title.addEventListener('change', saveTitle);
+  title.addEventListener('blur', saveTitle);
+  title.addEventListener('keydown', (e) => { if (e.key === 'Enter') { e.preventDefault(); title.blur(); } });
+
+  // 単語を足す(いくつでも。スペース・カンマ・改行で区切る)
+  const box = h('textarea', {
+    class: 'mine-input', rows: '2', placeholder: '単語を入力(例:hide conceal disguise)',
+    autocapitalize: 'off', autocorrect: 'off', spellcheck: 'false', lang: 'en', 'aria-label': '足す単語',
+  });
+  const msg = h('p', { class: 'mine-msg', role: 'status' });
+  const form = h('form', { class: 'mine-add', autocomplete: 'off' }, box,
+    h('button', { type: 'submit', class: 'plain-btn' }, '足す'));
+  form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const res = addToMine(g, box.value);
+    const parts = [];
+    if (res.added.length) parts.push(res.added.length + ' 語を足しました');
+    if (res.dup.length) parts.push('もう入っている:' + res.dup.join(', '));
+    if (res.unknown.length) parts.push('解説がまだ無い語:' + res.unknown.join(', '));
+    if (!parts.length) return;
+    if (res.added.length) {
+      if (cleanupView) { cleanupView(); cleanupView = null; }
+      renderMine(r);
+      const m = $view.querySelector('.mine-msg');
+      if (m) m.textContent = parts.join(' ／ ');
+      const b = $view.querySelector('.mine-input');
+      if (b && res.unknown.length) b.value = res.unknown.join(' ');
+    } else {
+      msg.textContent = parts.join(' ／ ');
+    }
+  });
+
+  // 入力しながら候補を出す(最後に打っている語で検索)
+  const sugg = h('ul', { class: 'mine-sugg' });
+  box.addEventListener('input', () => {
+    const last = box.value.split(/[\s,、，・/／]+/).pop().trim().toLowerCase();
+    if (last.length < 2) { sugg.replaceChildren(); return; }
+    const hits = search(last).filter((it) => /^[a-z]/.test(last) ? it.w._lw.startsWith(last) : true).slice(0, 6);
+    sugg.replaceChildren(...hits.map((it) => h('li', null, h('button', {
+      type: 'button', class: 'mine-sugg-btn',
+      onclick: () => {
+        const parts = box.value.split(/([\s,、，・/／]+)/);
+        parts[parts.length - 1] = it.w.word;
+        box.value = parts.join('') + ' ';
+        sugg.replaceChildren();
+        box.focus();
+      },
+    }, h('span', { lang: 'en' }, it.w.word), h('span', { class: 'mine-sugg-core' }, it.w.core || '')))));
+  });
+
+  const list = h('ul', { class: 'mine-rows' }, items.map((it, i) => h('li', { class: 'mine-row' },
+    h('a', { class: 'row', href: '#/word/' + enc(it.w.word) + '?mine=' + enc(g.id) },
+      h('span', { class: 'row-no' }, String(i + 1)),
+      h('span', { class: 'row-main' },
+        h('span', { class: 'row-line' }, h('span', { class: 'row-word', lang: 'en' }, it.w.word)),
+        h('span', { class: 'row-core' }, it.w.core || ''))),
+    h('button', {
+      type: 'button', class: 'mine-del', 'aria-label': it.w.word + ' をまとまりから外す',
+      onclick: () => {
+        g.words = g.words.filter((x) => x !== it.w._lw);
+        saveMine();
+        const y = window.scrollY;
+        renderMine(r);
+        window.scrollTo(0, y);
+      },
+    }, '外す'))));
+
+  $view.replaceChildren(...[crumb,
+    h('header', { class: 'list-head mine-head' }, title,
+      h('p', { class: 'list-count' }, h('b', null, fmt(items.length)), ' 語')),
+    items.length
+      ? h('a', { class: 'flow-start', href: '#/word/' + enc(items[0].w.word) + '?mine=' + enc(g.id) },
+        h('span', { class: 'flow-start-label' }, 'このまとまりをめくる'),
+        h('span', { class: 'flow-start-word', lang: 'en' }, items[0].w.word))
+      : null,
+    form, sugg, msg,
+    items.length ? list : note('まだ単語がありません。上の欄に単語を入れて「足す」を押してください。単語の詳細ページからも足せます。'),
+    missing.length ? h('p', { class: 'fine' }, '解説が見つからない語(表示していません):' + missing.join(', ')) : null,
+    h('p', { class: 'mine-foot' }, h('button', {
+      type: 'button', class: 'plain-btn mine-remove',
+      onclick: () => {
+        if (!confirm('「' + g.title + '」を消しますか?(単語の解説は消えません)')) return;
+        mine = mine.filter((x) => x !== g);
+        saveMine();
+        location.replace('#/');
+      },
+    }, 'このまとまりを消す'))].filter(Boolean));
+  if (isNew) { title.focus(); title.select(); }
+  return null;
+}
+
+// 単語詳細の「自分のまとまりに入れる」パネル
+function minePanel(word) {
+  const key = String(word).toLowerCase();
+  const wrap = h('div', { class: 'mine-pick' });
+  const draw = (open) => {
+    const inCount = mine.filter((g) => g.words.includes(key)).length;
+    const toggle = h('button', {
+      type: 'button', class: 'mine-pick-btn', 'aria-expanded': String(open),
+      onclick: () => draw(!open),
+    }, inCount ? '自分のまとまり(' + inCount + ')' : '＋ 自分のまとまりに入れる');
+    const body = open ? h('ul', { class: 'mine-pick-list' },
+      mine.map((g) => {
+        const on = g.words.includes(key);
+        return h('li', null, h('button', {
+          type: 'button', class: 'mine-pick-g', 'aria-pressed': String(on),
+          onclick: () => {
+            if (on) g.words = g.words.filter((x) => x !== key); else g.words.push(key);
+            saveMine();
+            draw(true);
+          },
+        }, h('span', { class: 'mine-pick-check', 'aria-hidden': 'true' }, on ? '✓' : ''), g.title));
+      }),
+      h('li', null, h('button', {
+        type: 'button', class: 'mine-pick-g mine-pick-g--new',
+        onclick: () => { const g = newMine(); g.words.push(key); saveMine(); draw(true); toast('「' + g.title + '」を作って入れました'); },
+      }, '＋ 新しいまとまりを作って入れる'))) : null;
+    wrap.replaceChildren(toggle, body);
+  };
+  draw(false);
+  return wrap;
+}
+
 // ───────── 画面3:単語詳細 ─────────
 
 // 前後移動の並び。単語集から来たらその番号順、検索から来たら検索結果の順
 function sequenceFor(params, entry) {
   if (params.has('flow')) {
     return { items: flow, flow: true, hrefFor: flowHref, back: '#/', label: 'めくって覚える' };
+  }
+  if (params.has('mine')) {
+    const g = mineById(params.get('mine'));
+    if (g) return { items: mineItems(g), suffix: '?mine=' + enc(g.id), back: '#/mine/' + enc(g.id), label: g.title };
   }
   if (params.has('q')) {
     const q = params.get('q');
@@ -631,7 +844,7 @@ async function renderWord(r, y) {
   const svg = buildSvg(core.svg, core.text);
 
   const slide = slideDir; slideDir = '';
-  $view.replaceChildren(crumb, groupBar, h('article', { class: 'entry' + (slide ? ' slide-' + slide : '') },
+  $view.replaceChildren(...[crumb, groupBar].filter(Boolean), h('article', { class: 'entry' + (slide ? ' slide-' + slide : '') },
     // 01 見出し
     h('header', { class: 'head' },
       h('p', { class: 'sec-h' }, h('span', { class: 'sec-no' }, '01'), '見出し'),
@@ -643,7 +856,8 @@ async function renderWord(r, y) {
         h('span', { class: 'ipa', lang: 'en' }, d.ipa || '')),
       h('p', { class: 'head-refs' },
         h('span', null, refs.map((l) => l.name + ' ' + l.number).join('・')),
-        h('span', { class: 'mark-badge', id: 'mark-badge' }, markBadge(key)))),
+        h('span', { class: 'mark-badge', id: 'mark-badge' }, markBadge(key))),
+      minePanel(d.word)),
 
     // 02 核となるイメージ(線画＋一言を大きく)
     sec(2, '核となるイメージ',
