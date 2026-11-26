@@ -1,0 +1,98 @@
+{
+  "word": "imperative",
+  "pos": [
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/ɪmˈperətɪv/",
+  "core_image": {
+    "text": "命令のように、今すぐどうしてもやらねばならない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"100\" y2=\"60\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"100\"/><line x1=\"104\" y1=\"40\" x2=\"104\" y2=\"70\"/><circle cx=\"104\" cy=\"80\" r=\"2\"/><line x1=\"112\" y1=\"60\" x2=\"168\" y2=\"60\"/><polyline points=\"161,56.2 168,60 161,63.8\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"176\" y2=\"100\"/><line x1=\"190\" y1=\"74\" x2=\"204\" y2=\"100\"/></g><text x=\"150\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">今すぐ必ず</text></svg>"
+  },
+  "etymology": "im(中へ)+ per(用意する・命じる。ラテン語 imperare=命令する。emperor・empire と同じ根)+ ative → 命令の → ①(形)どうしても必要な・急を要する ②(名)絶対に必要なこと・(文法)命令法",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "extremely important and needing to be done or dealt with immediately."
+    },
+    {
+      "pos": "名詞",
+      "text": "something that must be done; (grammar) the form of a verb that gives an order."
+    }
+  ],
+  "cautions": [
+    "It is imperative that S (should) 原形 / It is imperative to do の形が頻出。that 節では動詞の原形(仮定法現在)",
+    "imperative=命令のように今すぐ欠かせない(緊急さ)/essential=本質的に欠かせない/necessary=必要な(一般)/mandatory=規則で義務の",
+    "名詞で the imperative mood=命令法、a moral imperative=道徳上の至上命令"
+  ],
+  "patterns": [
+    {
+      "form": "It is imperative that S (should) 原形",
+      "meaning": "Sがぜひ〜することが必要だ"
+    },
+    {
+      "form": "It is imperative to do",
+      "meaning": "〜することが急務だ"
+    },
+    {
+      "form": "imperative for 人",
+      "meaning": "人にとって欠かせない"
+    },
+    {
+      "form": "moral / economic imperative",
+      "meaning": "道徳上・経済上どうしても必要なこと"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "that 節",
+      "en": "It is imperative that he see a doctor at once.",
+      "ja": "彼はすぐに医者に診てもらう必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "to do",
+      "en": "It is imperative to act now before the situation gets worse.",
+      "ja": "状況が悪化する前に、今行動することが急務だ。"
+    },
+    {
+      "source": "original",
+      "label": "欠かせない",
+      "en": "A good night's sleep is imperative for students before an exam.",
+      "ja": "試験前の学生にとって、十分な睡眠は欠かせない。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "Reducing carbon emissions has become a global imperative.",
+      "ja": "炭素排出の削減は世界的に必ずやらねばならないことになった。"
+    },
+    {
+      "source": "original",
+      "label": "文法",
+      "en": "\"Open the window\" is a sentence in the imperative.",
+      "ja": "\"Open the window\" は命令法の文だ。"
+    },
+    {
+      "source": "original",
+      "label": "necessary との比較",
+      "en": "It is necessary to save money, but it is imperative to pay this bill today.",
+      "ja": "貯金は必要だが、この請求書を今日払うことは何がなんでも必要だ。"
+    }
+  ],
+  "check_points": [
+    "It is imperative that 節の動詞の形を言えるか",
+    "imperative と emperor の共通する根を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "文法問題で It is imperative that S 原形(仮定法現在)。長文で「緊急に必要な」。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2487
+    }
+  ]
+}

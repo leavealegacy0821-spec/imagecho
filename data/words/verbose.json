@@ -1,0 +1,89 @@
+{
+  "word": "verbose",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/vɜːrˈboʊs/",
+  "core_image": {
+    "text": "言葉があふれ出て、止まらずくどい",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"60\" y2=\"62\"/><line x1=\"40\" y1=\"74\" x2=\"54\" y2=\"100\"/><line x1=\"54\" y1=\"46\" x2=\"90\" y2=\"30\"/><polyline points=\"82,29.3 90,30 85.1,36.4\"/><line x1=\"56\" y1=\"52\" x2=\"96\" y2=\"52\"/><polyline points=\"89,48.2 96,52 89,55.8\"/><line x1=\"54\" y1=\"58\" x2=\"90\" y2=\"74\"/><polyline points=\"85.1,67.6 90,74 82,74.7\"/><polyline points=\"104 30 114 24 124 30 134 24 144 30 154 24 164 30 174 24 184 30 194 24 204 30\"/><polyline points=\"108 52 118 46 128 52 138 46 148 52 158 46 168 52 178 46 188 52 198 46 208 52\"/><polyline points=\"104 74 114 68 124 74 134 68 144 74 154 68 164 74 174 68 184 74\"/></g><text x=\"150\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">言葉が多すぎ</text></svg>"
+  },
+  "etymology": "verb(言葉。verbal・proverb と同じ根)+ ose(〜でいっぱいの)→ 言葉でいっぱいの → (人・文章が)言葉数が多すぎる・くどい・冗長な",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "using or containing more words than are needed."
+    }
+  ],
+  "cautions": [
+    "悪い意味(けなす語)。「よくしゃべる」だけの talkative とちがい、「言葉が多すぎて要点がぼやける」こと",
+    "verbose=言葉が多すぎてくどい/concise=むだを切って要点だけ(反対語)/redundant=同じことのくり返し・余分",
+    "名詞 verbosity(冗長さ)。verbal(言葉の・口頭の)と混同しない"
+  ],
+  "patterns": [
+    {
+      "form": "verbose writer / style",
+      "meaning": "くどい書き手・冗長な文体"
+    },
+    {
+      "form": "verbose explanation",
+      "meaning": "くどい説明"
+    },
+    {
+      "form": "verbosity",
+      "meaning": "冗長さ・くどさ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "くどい",
+      "en": "The speech was so verbose that many people fell asleep.",
+      "ja": "その演説はあまりにくどかったので、多くの人が眠ってしまった。"
+    },
+    {
+      "source": "original",
+      "label": "冗長な文体",
+      "en": "Some old novels are written in a verbose style.",
+      "ja": "昔の小説の中には冗長な文体で書かれたものがある。"
+    },
+    {
+      "source": "original",
+      "label": "くどい説明",
+      "en": "Avoid verbose explanations; just tell me the main point.",
+      "ja": "くどい説明はやめて、要点だけ言ってほしい。"
+    },
+    {
+      "source": "original",
+      "label": "人について",
+      "en": "He is a verbose speaker who never uses one word when ten will do.",
+      "ja": "彼は、一言ですむところを十言も使うくどい話し手だ。"
+    },
+    {
+      "source": "original",
+      "label": "verbosity",
+      "en": "The editor cut the verbosity from the first draft.",
+      "ja": "編集者は初稿のくどい部分を削った。"
+    },
+    {
+      "source": "original",
+      "label": "concise との比較",
+      "en": "Good writing is concise, not verbose.",
+      "ja": "よい文章は簡潔で、くどくない。"
+    }
+  ],
+  "check_points": [
+    "verbose の verb の意味を言えるか",
+    "verbose の反対語を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "難関大の長文・語彙問題で「冗長な」。concise との対比で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2481
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "word": "succinct",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/səkˈsɪŋkt/",
+  "core_image": {
+    "text": "帯をきゅっと締めたように、ひきしまって短い",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"100\" y2=\"96\"/><line x1=\"120\" y1=\"74\" x2=\"140\" y2=\"96\"/><ellipse cx=\"120\" cy=\"100\" rx=\"16\" ry=\"5\"/><line x1=\"66\" y1=\"100\" x2=\"98\" y2=\"100\"/><polyline points=\"91,96.2 98,100 91,103.8\"/><line x1=\"174\" y1=\"100\" x2=\"142\" y2=\"100\"/><polyline points=\"149,103.8 142,100 149,96.2\"/></g><text x=\"56\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">きゅっと締める</text><text x=\"190\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ずばり</text></svg>"
+  },
+  "etymology": "sub(下から)+ cinct(帯を締める。ラテン語 cingere)→ 帯を締めて服をたくし上げた・ひきしまった → (言葉が)簡潔な・ずばり要点をついた",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "expressed clearly and in a few words."
+    }
+  ],
+  "cautions": [
+    "concise とほぼ同じ「簡潔な」だが、succinct は「短い一言でずばり言い当てる」引きしまった感じ。どちらもほめる意味",
+    "succinct=ひきしまってずばり/concise=むだを切って要点だけ/terse=短すぎてそっけない",
+    "つづりに注意:succ-inct(c が2つ)。発音は「サクシンクト」。副詞 succinctly"
+  ],
+  "patterns": [
+    {
+      "form": "succinct summary / answer",
+      "meaning": "簡潔な要約・答え"
+    },
+    {
+      "form": "put it succinctly",
+      "meaning": "簡潔に言う・ずばり言う"
+    },
+    {
+      "form": "succinctly",
+      "meaning": "簡潔に・ずばりと"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "簡潔な",
+      "en": "The teacher asked us for a succinct answer, not a long essay.",
+      "ja": "先生は長い作文ではなく、簡潔な答えを求めた。"
+    },
+    {
+      "source": "original",
+      "label": "ずばり",
+      "en": "His succinct comment summed up the whole problem.",
+      "ja": "彼のずばりとした一言が問題全体をまとめていた。"
+    },
+    {
+      "source": "original",
+      "label": "put it succinctly",
+      "en": "To put it succinctly, we need more time and more money.",
+      "ja": "簡潔に言えば、私たちにはもっと時間とお金が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "succinctly",
+      "en": "She explained the rules succinctly before the game began.",
+      "ja": "試合が始まる前に、彼女はルールを手短に説明した。"
+    },
+    {
+      "source": "original",
+      "label": "要約",
+      "en": "The report ends with a succinct summary of the main findings.",
+      "ja": "報告書は主な発見の簡潔な要約で終わっている。"
+    },
+    {
+      "source": "original",
+      "label": "terse との比較",
+      "en": "A succinct reply sounds smart, but a terse one can sound rude.",
+      "ja": "簡潔な返事は賢く聞こえるが、そっけない返事は失礼に聞こえることがある。"
+    }
+  ],
+  "check_points": [
+    "succinct のつづりを書けるか",
+    "succinct と terse のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "難関大の長文・語彙問題で concise の言いかえとして出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2479
+    }
+  ]
+}

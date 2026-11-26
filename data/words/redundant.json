@@ -1,0 +1,93 @@
+{
+  "word": "redundant",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/rɪˈdʌndənt/",
+  "core_image": {
+    "text": "あふれてこぼれ、もう要らない余りになる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M90 70 L90 120 L140 120 L140 70\"/><line x1=\"90\" y1=\"78\" x2=\"140\" y2=\"78\"/><path d=\"M140 72 C150 80 150 96 154 110\"/><path d=\"M90 72 C80 80 80 96 76 110\"/><line x1=\"160\" y1=\"30\" x2=\"130\" y2=\"60\" stroke-dasharray=\"5 5\"/><polyline points=\"137.7,57.7 130,60 132.3,52.3\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"180\" y2=\"60\"/><line x1=\"200\" y1=\"74\" x2=\"214\" y2=\"100\"/></g><text x=\"50\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あふれた余り</text></svg>"
+  },
+  "etymology": "re(くり返し・もどって)+ und(波。abundant の und と同じ根)→ 波があふれ返る → ①余分な・むだな ②(語句が)重複した ③(英)(人が)余剰になって解雇された",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not needed or useful because there is already enough; (British) having lost a job because no longer needed."
+    }
+  ],
+  "cautions": [
+    "「余分な・重複した」が中心。redundant expression=重複表現(例:return back)",
+    "イギリス英語の be made redundant=(人員整理で)解雇される。fired(悪いことをしてクビ)とちがい、本人の落ち度ではない",
+    "redundant=あふれて要らない余り/verbose=言葉が多すぎてくどい/unnecessary=必要ない(一般)。名詞 redundancy(余剰・人員整理)"
+  ],
+  "patterns": [
+    {
+      "form": "redundant word / expression",
+      "meaning": "余分な語・重複表現"
+    },
+    {
+      "form": "be made redundant",
+      "meaning": "(人員整理で)解雇される"
+    },
+    {
+      "form": "redundancy",
+      "meaning": "余剰・人員整理"
+    },
+    {
+      "form": "become redundant",
+      "meaning": "不要になる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "重複した",
+      "en": "\"Return back\" is redundant, because \"return\" already means \"go back.\"",
+      "ja": "\"return back\" は重複表現だ。return だけで「もどる」の意味があるからだ。"
+    },
+    {
+      "source": "original",
+      "label": "余分な",
+      "en": "Delete any redundant words to make your essay shorter.",
+      "ja": "余分な語を消して、作文を短くしなさい。"
+    },
+    {
+      "source": "original",
+      "label": "解雇される",
+      "en": "When the factory closed, 300 workers were made redundant.",
+      "ja": "その工場が閉鎖されたとき、300人の労働者が解雇された。"
+    },
+    {
+      "source": "original",
+      "label": "不要になる",
+      "en": "Many old skills have become redundant because of computers.",
+      "ja": "コンピューターのために、多くの古い技能が不要になった。"
+    },
+    {
+      "source": "original",
+      "label": "redundancy",
+      "en": "The company announced 50 redundancies last month.",
+      "ja": "その会社は先月50人の人員削減を発表した。"
+    },
+    {
+      "source": "original",
+      "label": "verbose との比較",
+      "en": "His essay was not only verbose but full of redundant phrases.",
+      "ja": "彼の作文はくどいだけでなく、重複した言い回しだらけだった。"
+    }
+  ],
+  "check_points": [
+    "redundant の und の意味を言えるか",
+    "be made redundant の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文・英作文の指導で「余分な・重複した」。英国の記事では be made redundant(解雇される)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2482
+    }
+  ]
+}

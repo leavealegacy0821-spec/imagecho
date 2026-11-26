@@ -1,0 +1,93 @@
+{
+  "word": "mandatory",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈmændətɔːri/",
+  "core_image": {
+    "text": "上から「必ずせよ」と手で命じられている",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"20\" y=\"110\" width=\"70\" height=\"30\"/><circle cx=\"55\" cy=\"22\" r=\"10\"/><line x1=\"55\" y1=\"32\" x2=\"55\" y2=\"76\"/><line x1=\"55\" y1=\"76\" x2=\"45\" y2=\"110\"/><line x1=\"55\" y1=\"76\" x2=\"65\" y2=\"110\"/><line x1=\"55\" y1=\"44\" x2=\"78\" y2=\"32\"/><line x1=\"55\" y1=\"44\" x2=\"40\" y2=\"66\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"166\" y2=\"98\"/><line x1=\"180\" y1=\"74\" x2=\"194\" y2=\"98\"/><line x1=\"86\" y1=\"36\" x2=\"158\" y2=\"62\"/><polyline points=\"152.7,56 158,62 150.1,63.2\"/></g><text x=\"140\" y=\"18\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">必ずせよ</text></svg>"
+  },
+  "etymology": "mand(手に託す・命じる。command・demand と同じ根)+ atory(〜の性質の)→ 命令による → (法律・規則で)義務の・強制の・必須の",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "required by law or rules; that must be done."
+    }
+  ],
+  "cautions": [
+    "反対語は optional(任意の)。It is mandatory for 人 to do / It is mandatory that S (should) 原形 の形",
+    "mandatory=法や規則で上から命じられた(公の決まり)/compulsory=やらずにすまない(必修・義務教育)/obligatory=義務として・礼儀としてしなければならない",
+    "名詞 mandate(命令・権限)。voluntary(自発的な)とも反対"
+  ],
+  "patterns": [
+    {
+      "form": "mandatory for 人",
+      "meaning": "人にとって義務の"
+    },
+    {
+      "form": "It is mandatory to do / that S (should) 原形",
+      "meaning": "〜することが義務だ"
+    },
+    {
+      "form": "mandatory retirement age",
+      "meaning": "定年"
+    },
+    {
+      "form": "mandatory subject / course",
+      "meaning": "必修科目"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "義務の",
+      "en": "Wearing a seat belt is mandatory in this country.",
+      "ja": "この国ではシートベルトの着用が義務だ。"
+    },
+    {
+      "source": "original",
+      "label": "人にとって",
+      "en": "Attendance at the meeting is mandatory for all staff.",
+      "ja": "その会議への出席は全職員に義務づけられている。"
+    },
+    {
+      "source": "original",
+      "label": "that 節",
+      "en": "It is mandatory that every visitor show an ID card.",
+      "ja": "訪問者は全員身分証を見せることが義務づけられている。"
+    },
+    {
+      "source": "original",
+      "label": "定年",
+      "en": "The mandatory retirement age at that company is 65.",
+      "ja": "その会社の定年は65歳だ。"
+    },
+    {
+      "source": "original",
+      "label": "必修",
+      "en": "English is a mandatory subject in most high schools.",
+      "ja": "ほとんどの高校で英語は必修科目だ。"
+    },
+    {
+      "source": "original",
+      "label": "optional との比較",
+      "en": "The first two questions are mandatory, but the last one is optional.",
+      "ja": "最初の2問は必須だが、最後の1問は任意だ。"
+    }
+  ],
+  "check_points": [
+    "mandatory の mand の意味を言えるか",
+    "mandatory の反対語を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文・語彙問題で「義務の・必須の」。compulsory / obligatory との言いかえ、optional との対比で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2484
+    }
+  ]
+}
