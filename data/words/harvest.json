@@ -1,0 +1,103 @@
+{
+  "word": "harvest",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈhɑːrvɪst/",
+  "core_image": {
+    "text": "実ったものを刈り取って、一度に集める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"40\" y1=\"140\" x2=\"40\" y2=\"96\"/><line x1=\"56\" y1=\"140\" x2=\"56\" y2=\"96\"/><line x1=\"72\" y1=\"140\" x2=\"72\" y2=\"96\"/><ellipse cx=\"40\" cy=\"90\" rx=\"4\" ry=\"8\"/><ellipse cx=\"56\" cy=\"90\" rx=\"4\" ry=\"8\"/><ellipse cx=\"72\" cy=\"90\" rx=\"4\" ry=\"8\"/><line x1=\"90\" y1=\"110\" x2=\"140\" y2=\"110\"/><polyline points=\"133,106.2 140,110 133,113.8\"/><rect x=\"150\" y=\"108\" width=\"60\" height=\"32\"/><line x1=\"160\" y1=\"108\" x2=\"166\" y2=\"92\"/><line x1=\"180\" y1=\"108\" x2=\"180\" y2=\"90\"/><line x1=\"200\" y1=\"108\" x2=\"194\" y2=\"92\"/></g><text x=\"115\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">刈る</text><text x=\"180\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">集める</text></svg>"
+  },
+  "etymology": "古い英語 hærfest(秋・刈り入れの季節)から → 実ったものを刈り取って集める → ①収穫・取り入れ ②収穫高 ③(努力の)成果・報い ④(動詞)収穫する・(臓器・データなどを)取り出す・集める",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the time of year when crops are cut and collected; the amount of crops collected."
+    },
+    {
+      "pos": "動詞",
+      "text": "to cut and collect crops; to collect something for use."
+    }
+  ],
+  "cautions": [
+    "harvest=実ったものを刈り取って集める(終わり)/sow=種をまく(始まり)/crop=作物そのもの",
+    "a good [poor] harvest=豊作[不作](a big harvest より good / poor が自然)",
+    "比喩で「(努力の)成果」:reap the harvest of A=Aの成果を手にする",
+    "動詞で harvest energy / data=エネルギー・データを集めて利用する(評論で出る)"
+  ],
+  "patterns": [
+    {
+      "form": "a good harvest",
+      "meaning": "豊作"
+    },
+    {
+      "form": "a poor harvest",
+      "meaning": "不作"
+    },
+    {
+      "form": "harvest A",
+      "meaning": "A(作物)を収穫する"
+    },
+    {
+      "form": "harvest time",
+      "meaning": "収穫期"
+    },
+    {
+      "form": "harvest energy",
+      "meaning": "エネルギーを取り出す"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "豊作",
+      "en": "We had a good harvest of apples this year.",
+      "ja": "今年はりんごが豊作だった。"
+    },
+    {
+      "source": "original",
+      "label": "不作",
+      "en": "A poor harvest caused food prices to rise.",
+      "ja": "不作のせいで食料の値段が上がった。"
+    },
+    {
+      "source": "original",
+      "label": "収穫",
+      "en": "The farmers are busy harvesting rice.",
+      "ja": "農家の人たちは米の収穫でいそがしい。"
+    },
+    {
+      "source": "original",
+      "label": "季節",
+      "en": "Autumn is the harvest season in Japan.",
+      "ja": "日本では秋が収穫の季節だ。"
+    },
+    {
+      "source": "original",
+      "label": "成果",
+      "en": "The team finally enjoyed the harvest of years of hard work.",
+      "ja": "そのチームはついに長年の努力の成果を味わった。"
+    },
+    {
+      "source": "original",
+      "label": "エネルギー",
+      "en": "Solar panels harvest energy from sunlight.",
+      "ja": "太陽光パネルは日光からエネルギーを取り出す。"
+    }
+  ],
+  "check_points": [
+    "a good / poor harvest(豊作・不作)を言えるか",
+    "harvest・sow・crop のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "豊作・不作の表現と、食料・農業の長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2397
+    }
+  ]
+}

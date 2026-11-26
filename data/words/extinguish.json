@@ -1,0 +1,94 @@
+{
+  "word": "extinguish",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪkˈstɪŋɡwɪʃ/",
+  "core_image": {
+    "text": "燃えている火を押さえこんで、消してしまう",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M170 138 Q150 116 162 90 Q170 104 178 96 Q190 118 170 138 Z\"/><rect x=\"50\" y=\"90\" width=\"22\" height=\"50\"/><line x1=\"72\" y1=\"96\" x2=\"96\" y2=\"92\"/><line x1=\"100\" y1=\"94\" x2=\"150\" y2=\"110\" stroke-dasharray=\"5 5\"/><polyline points=\"144.5,104.2 150,110 142.1,111.5\"/></g><text x=\"170\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">消す</text></svg>"
+  },
+  "etymology": "ex(すっかり)+ stinguere(消す。ラテン語) → すっかり消す → ①(火・明かりを)消す ②(希望・感情・権利を)消し去る・失わせる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make a fire or light stop burning; to destroy a feeling or an idea."
+    }
+  ],
+  "cautions": [
+    "extinguish=かたい語で「(火を)消し止める」。日常は put out(put out a fire)",
+    "比喩で extinguish hope=希望を打ち砕く(destroy に近い)",
+    "fire extinguisher=消火器",
+    "つづりと発音に注意:distinguish(区別する)と形が似ているが意味は別"
+  ],
+  "patterns": [
+    {
+      "form": "extinguish A",
+      "meaning": "A(火・明かり)を消す"
+    },
+    {
+      "form": "extinguish a fire",
+      "meaning": "火事を消し止める"
+    },
+    {
+      "form": "extinguish hope",
+      "meaning": "希望を打ち砕く"
+    },
+    {
+      "form": "a fire extinguisher",
+      "meaning": "消火器"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "火事",
+      "en": "Firefighters extinguished the fire in an hour.",
+      "ja": "消防士は1時間で火を消し止めた。"
+    },
+    {
+      "source": "original",
+      "label": "消火器",
+      "en": "Every floor has a fire extinguisher.",
+      "ja": "どの階にも消火器がある。"
+    },
+    {
+      "source": "original",
+      "label": "たばこ",
+      "en": "Please extinguish your cigarette before you enter.",
+      "ja": "中に入る前にたばこの火を消してください。"
+    },
+    {
+      "source": "original",
+      "label": "希望",
+      "en": "The bad news extinguished our hopes of winning.",
+      "ja": "その悪い知らせで、勝つ望みは消えてしまった。"
+    },
+    {
+      "source": "original",
+      "label": "明かり",
+      "en": "All the lights in the house were extinguished.",
+      "ja": "家の明かりはすべて消されていた。"
+    },
+    {
+      "source": "original",
+      "label": "言いかえ",
+      "en": "It took them a long time to put out the fire.",
+      "ja": "彼らが火を消すのに長い時間がかかった。"
+    }
+  ],
+  "check_points": [
+    "extinguish = put out を言えるか",
+    "extinguish と distinguish を区別できるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "put out との言いかえ、fire extinguisher(消火器)が長文・語彙問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2393
+    }
+  ]
+}

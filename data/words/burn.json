@@ -1,0 +1,113 @@
+{
+  "word": "burn",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/bɜːrn/",
+  "core_image": {
+    "text": "火がついて、燃えながら形が減っていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"70\" y=\"124\" width=\"90\" height=\"16\"/><path d=\"M115 122 Q84 96 106 52 Q114 76 124 64 Q146 96 115 122 Z\"/><path d=\"M115 118 Q102 104 112 84 Q118 98 122 92 Q130 106 115 118 Z\"/></g><text x=\"196\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">燃える</text></svg>"
+  },
+  "etymology": "古い英語 brinnan / bærnan(燃える・燃やす)から → 火がついて燃え、物が減っていく → ①燃える・燃やす ②(料理を)焦がす ③やけどする・日焼けする ④(エネルギー・脂肪を)燃やす・消費する ⑤(感情が)燃える",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be on fire; to destroy or damage something with fire or heat; to use fuel or energy."
+    },
+    {
+      "pos": "名詞",
+      "text": "an injury caused by fire or heat."
+    }
+  ],
+  "cautions": [
+    "過去形・過去分詞は burned / burnt の両方(burnt はイギリス英語や形容詞 burnt toast に多い)",
+    "burn=燃えて物がなくなっていく(作用全体)/flame=目に見える炎/ignite=火をつける最初の瞬間",
+    "burn down=(建物が)全焼する/burn up=燃え尽きる/burn out=燃え尽きる・(人が)疲れ果てる(burnout=燃え尽き症候群)",
+    "burn calories [fat]=カロリー[脂肪]を燃やす。burn one's hand=手をやけどする"
+  ],
+  "patterns": [
+    {
+      "form": "A burns",
+      "meaning": "Aが燃える"
+    },
+    {
+      "form": "burn A",
+      "meaning": "Aを燃やす・焦がす"
+    },
+    {
+      "form": "burn down",
+      "meaning": "全焼する"
+    },
+    {
+      "form": "burn calories",
+      "meaning": "カロリーを消費する"
+    },
+    {
+      "form": "burn oneself",
+      "meaning": "やけどする"
+    },
+    {
+      "form": "be burning to do",
+      "meaning": "〜したくてたまらない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "燃える",
+      "en": "Dry wood burns easily.",
+      "ja": "乾いた木はよく燃える。"
+    },
+    {
+      "source": "original",
+      "label": "全焼",
+      "en": "The old house burned down in the fire.",
+      "ja": "その古い家は火事で全焼した。"
+    },
+    {
+      "source": "original",
+      "label": "焦がす",
+      "en": "I burned the toast this morning.",
+      "ja": "けさトーストを焦がしてしまった。"
+    },
+    {
+      "source": "original",
+      "label": "やけど",
+      "en": "Be careful not to burn yourself on the pan.",
+      "ja": "フライパンでやけどしないように気をつけて。"
+    },
+    {
+      "source": "original",
+      "label": "消費",
+      "en": "Walking for an hour burns about 200 calories.",
+      "ja": "1時間歩くと約200キロカロリーを消費する。"
+    },
+    {
+      "source": "original",
+      "label": "燃料",
+      "en": "Cars burn gasoline to produce energy.",
+      "ja": "車はガソリンを燃やしてエネルギーを生む。"
+    },
+    {
+      "source": "original",
+      "label": "感情",
+      "en": "She was burning with anger.",
+      "ja": "彼女は怒りに燃えていた。"
+    }
+  ],
+  "check_points": [
+    "burn down / burn out のちがいを言えるか",
+    "burn calories の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "burn down(全焼)・burnout(燃え尽き)が長文で、burn calories が健康の話題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2388
+    }
+  ]
+}

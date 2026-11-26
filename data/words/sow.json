@@ -1,0 +1,94 @@
+{
+  "word": "sow",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/soʊ/",
+  "core_image": {
+    "text": "種を手でぱらぱらと一面にまく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"76\" x2=\"96\" y2=\"70\"/><line x1=\"60\" y1=\"80\" x2=\"44\" y2=\"104\"/><circle cx=\"110\" cy=\"84\" r=\"2\"/><circle cx=\"122\" cy=\"100\" r=\"2\"/><circle cx=\"132\" cy=\"116\" r=\"2\"/><circle cx=\"116\" cy=\"118\" r=\"2\"/><circle cx=\"144\" cy=\"132\" r=\"2\"/><circle cx=\"126\" cy=\"134\" r=\"2\"/></g><text x=\"190\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぱらぱら</text></svg>"
+  },
+  "etymology": "古い英語 sawan(種をまく)から → 種を一面にまく → ①(種を)まく ②(畑に)種をまく ③(比喩)(疑い・不和・争いの種を)まく・植えつける",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to plant or spread seeds in the ground; to start a feeling or problem that will develop later."
+    }
+  ],
+  "cautions": [
+    "活用:sow - sowed - sown [sowed]。発音 /soʊ/ で sew(縫う)と同じ音",
+    "sow=種をまく(始まり)/harvest=実りを刈り取る(終わり)/plant=苗や種を植える一般",
+    "sow the seeds of A=Aの種をまく・Aの原因を作る(比喩で頻出)",
+    "ことわざ As you sow, so shall you reap.=まいた種は自分で刈り取る(自業自得)"
+  ],
+  "patterns": [
+    {
+      "form": "sow A",
+      "meaning": "A(種)をまく"
+    },
+    {
+      "form": "sow A with B",
+      "meaning": "A(畑)にB(種)をまく"
+    },
+    {
+      "form": "sow the seeds of A",
+      "meaning": "Aの種をまく・Aの原因を作る"
+    },
+    {
+      "form": "sow doubt",
+      "meaning": "疑いを植えつける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "種",
+      "en": "Farmers sow rice in spring.",
+      "ja": "農家は春に米の種をまく。"
+    },
+    {
+      "source": "original",
+      "label": "畑",
+      "en": "He sowed the field with wheat.",
+      "ja": "彼は畑に小麦の種をまいた。"
+    },
+    {
+      "source": "original",
+      "label": "比喩",
+      "en": "His careless words sowed the seeds of conflict.",
+      "ja": "彼の不注意なことばが争いの種をまいた。"
+    },
+    {
+      "source": "original",
+      "label": "疑い",
+      "en": "The rumor sowed doubt in their minds.",
+      "ja": "そのうわさは彼らの心に疑いを植えつけた。"
+    },
+    {
+      "source": "original",
+      "label": "ことわざ",
+      "en": "As you sow, so shall you reap.",
+      "ja": "まいた種は自分で刈り取ることになる。"
+    },
+    {
+      "source": "original",
+      "label": "完了",
+      "en": "The seeds have already been sown.",
+      "ja": "種はもうまかれている。"
+    }
+  ],
+  "check_points": [
+    "sow - sowed - sown と sew との同音を言えるか",
+    "sow the seeds of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "sow / sew / so の同音、sow the seeds of A(〜の種をまく)が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2396
+    }
+  ]
+}

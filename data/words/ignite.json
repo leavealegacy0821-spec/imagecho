@@ -1,0 +1,94 @@
+{
+  "word": "ignite",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪɡˈnaɪt/",
+  "core_image": {
+    "text": "最初の火をつけて、燃え始めさせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"140\" y=\"110\" width=\"50\" height=\"30\"/><line x1=\"40\" y1=\"124\" x2=\"110\" y2=\"100\"/><circle cx=\"114\" cy=\"98\" r=\"4\"/><line x1=\"122\" y1=\"92\" x2=\"130\" y2=\"86\"/><line x1=\"124\" y1=\"100\" x2=\"134\" y2=\"100\"/><line x1=\"118\" y1=\"88\" x2=\"120\" y2=\"78\"/></g><text x=\"165\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">火がつく</text></svg>"
+  },
+  "etymology": "ラテン語 ignis(火)+ ite(〜にする) → 火をつける → ①点火する・(燃料が)発火する ②(争い・議論・関心・感情に)火をつける・引き起こす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to start to burn; to make something start to burn; to cause strong feelings or a conflict to begin."
+    }
+  ],
+  "cautions": [
+    "ignite=「燃え始める瞬間」に注目/burn=燃え続けて減っていく",
+    "比喩で「(論争・関心を)引き起こす」(ignite a debate / ignite interest)が評論で頻出。spark とほぼ同じ使い方",
+    "名詞 ignition=点火・(車の)イグニッション",
+    "自動詞(Gas ignites easily.)にも他動詞にもなる"
+  ],
+  "patterns": [
+    {
+      "form": "ignite A",
+      "meaning": "Aに火をつける"
+    },
+    {
+      "form": "A ignites",
+      "meaning": "Aが発火する"
+    },
+    {
+      "form": "ignite a debate",
+      "meaning": "論争に火をつける"
+    },
+    {
+      "form": "ignite one's interest in A",
+      "meaning": "Aへの関心を呼び起こす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "点火",
+      "en": "He used a match to ignite the gas.",
+      "ja": "彼はマッチでガスに火をつけた。"
+    },
+    {
+      "source": "original",
+      "label": "発火",
+      "en": "The fuel ignited and exploded.",
+      "ja": "燃料が発火して爆発した。"
+    },
+    {
+      "source": "original",
+      "label": "論争",
+      "en": "The new law ignited a heated debate.",
+      "ja": "その新しい法律は激しい論争に火をつけた。"
+    },
+    {
+      "source": "original",
+      "label": "関心",
+      "en": "A science teacher ignited her interest in space.",
+      "ja": "ある理科の先生が彼女の宇宙への関心に火をつけた。"
+    },
+    {
+      "source": "original",
+      "label": "争い",
+      "en": "The incident ignited a war between the two countries.",
+      "ja": "その事件が2国間の戦争を引き起こした。"
+    },
+    {
+      "source": "original",
+      "label": "エンジン",
+      "en": "The ignition key was still in the car.",
+      "ja": "エンジンのかぎは車にさしたままだった。"
+    }
+  ],
+  "check_points": [
+    "ignite の比喩(論争・関心に火をつける)を言えるか",
+    "ignite と burn のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "評論で「(論争・関心を)引き起こす」の意味で出る。spark・trigger との言いかえに注意。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2390
+    }
+  ]
+}

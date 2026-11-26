@@ -1,0 +1,103 @@
+{
+  "word": "flame",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/fleɪm/",
+  "core_image": {
+    "text": "ゆらゆら立ちのぼる、目に見える炎の舌",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M120 140 Q80 110 104 60 Q112 84 120 70 Q126 40 120 20 Q156 60 148 100 Q146 124 120 140 Z\"/><line x1=\"96\" y1=\"146\" x2=\"144\" y2=\"146\"/></g><text x=\"60\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ゆらゆら</text><text x=\"190\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">炎</text></svg>"
+  },
+  "etymology": "ラテン語 flamma(炎)→ 目に見えてゆらぐ炎 → ①炎 ②(in flames)炎に包まれて ③(感情の)燃え上がり・情熱 ④(an old flame)昔の恋人 ⑤(動詞)炎を上げて燃える・(顔が)赤くなる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a hot bright stream of burning gas that comes from something that is on fire."
+    },
+    {
+      "pos": "動詞",
+      "text": "to burn with a bright flame; (of the face) to become red."
+    }
+  ],
+  "cautions": [
+    "flame=目に見える一つひとつの炎/fire=火・火事全体/blaze=大きく燃えさかる火",
+    "in flames=炎に包まれて(The car was in flames.)/burst into flames=ぱっと燃え上がる",
+    "an old flame=昔の恋人(炎=恋の情熱から)",
+    "形容詞 flammable=燃えやすい(inflammable も同じ意味なので注意)"
+  ],
+  "patterns": [
+    {
+      "form": "in flames",
+      "meaning": "炎に包まれて"
+    },
+    {
+      "form": "burst into flames",
+      "meaning": "ぱっと燃え上がる"
+    },
+    {
+      "form": "the flame of a candle",
+      "meaning": "ろうそくの炎"
+    },
+    {
+      "form": "an old flame",
+      "meaning": "昔の恋人"
+    },
+    {
+      "form": "fan the flames",
+      "meaning": "(争い・感情を)あおる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ろうそく",
+      "en": "The flame of the candle moved in the wind.",
+      "ja": "ろうそくの炎が風でゆらいだ。"
+    },
+    {
+      "source": "original",
+      "label": "炎上",
+      "en": "When the firefighters arrived, the building was already in flames.",
+      "ja": "消防士が着いたとき、建物はすでに炎に包まれていた。"
+    },
+    {
+      "source": "original",
+      "label": "燃え上がる",
+      "en": "The car hit the wall and burst into flames.",
+      "ja": "車は壁にぶつかってぱっと燃え上がった。"
+    },
+    {
+      "source": "original",
+      "label": "あおる",
+      "en": "His angry words only fanned the flames of the argument.",
+      "ja": "彼の怒った言葉は口論をあおっただけだった。"
+    },
+    {
+      "source": "original",
+      "label": "恋人",
+      "en": "She met an old flame at the party.",
+      "ja": "彼女はパーティーで昔の恋人に会った。"
+    },
+    {
+      "source": "original",
+      "label": "燃えやすい",
+      "en": "Keep flammable materials away from the stove.",
+      "ja": "燃えやすいものはこんろから離しておきなさい。"
+    }
+  ],
+  "check_points": [
+    "flame と fire のちがいを言えるか",
+    "in flames / burst into flames の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "in flames・burst into flames が長文で、flammable = inflammable が語彙問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2389
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "spark",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/spɑːrk/",
+  "core_image": {
+    "text": "パッと飛び散る小さな火花が、大きな火のきっかけになる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"120\" y1=\"80\" x2=\"120\" y2=\"52\"/><line x1=\"120\" y1=\"80\" x2=\"140\" y2=\"60\"/><line x1=\"120\" y1=\"80\" x2=\"148\" y2=\"80\"/><line x1=\"120\" y1=\"80\" x2=\"140\" y2=\"100\"/><line x1=\"120\" y1=\"80\" x2=\"100\" y2=\"100\"/><line x1=\"120\" y1=\"80\" x2=\"92\" y2=\"80\"/><line x1=\"120\" y1=\"80\" x2=\"100\" y2=\"60\"/><line x1=\"120\" y1=\"80\" x2=\"120\" y2=\"108\"/><line x1=\"150\" y1=\"116\" x2=\"200\" y2=\"136\" stroke-dasharray=\"5 5\"/><polyline points=\"194.9,129.8 200,136 192.1,137\"/></g><text x=\"196\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">パッ</text><text x=\"60\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">きっかけ</text></svg>"
+  },
+  "etymology": "古い英語 spearca(火花)から → パッと飛ぶ小さな火花 → ①火花 ②(才能・興味などの)ひらめき・きざし ③(動詞)(議論・抗議・関心を)引き起こす・きっかけになる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a very small burning piece that flies out from a fire or from hitting stones together; a small amount of a quality or feeling."
+    },
+    {
+      "pos": "動詞",
+      "text": "to cause something to start or develop, especially suddenly."
+    }
+  ],
+  "cautions": [
+    "動詞 spark=「小さなきっかけで大きなこと(抗議・議論・関心)を引き起こす」。spark off A とも言う",
+    "spark=小さなきっかけ/cause=原因全般/trigger=引き金を引くように一気に起こす",
+    "a spark of hope [interest]=かすかな希望[興味]のきざし",
+    "sparkle=キラキラ輝く(別の語。光るまとまり)"
+  ],
+  "patterns": [
+    {
+      "form": "spark A",
+      "meaning": "Aを引き起こす"
+    },
+    {
+      "form": "spark off A",
+      "meaning": "Aのきっかけになる"
+    },
+    {
+      "form": "spark a debate",
+      "meaning": "議論を巻き起こす"
+    },
+    {
+      "form": "a spark of A",
+      "meaning": "かすかなA(希望・興味)"
+    },
+    {
+      "form": "spark one's interest",
+      "meaning": "興味をかき立てる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "火花",
+      "en": "Sparks flew from the fire.",
+      "ja": "たき火から火花が飛んだ。"
+    },
+    {
+      "source": "original",
+      "label": "抗議",
+      "en": "The price rise sparked protests across the country.",
+      "ja": "値上げは全国で抗議を引き起こした。"
+    },
+    {
+      "source": "original",
+      "label": "議論",
+      "en": "His comment sparked a lively debate in class.",
+      "ja": "彼の発言はクラスで活発な議論を巻き起こした。"
+    },
+    {
+      "source": "original",
+      "label": "興味",
+      "en": "A trip to the museum sparked his interest in history.",
+      "ja": "博物館への見学が彼の歴史への興味をかき立てた。"
+    },
+    {
+      "source": "original",
+      "label": "希望",
+      "en": "There was still a spark of hope in her eyes.",
+      "ja": "彼女の目にはまだかすかな希望の光があった。"
+    },
+    {
+      "source": "original",
+      "label": "火事",
+      "en": "A single spark can start a forest fire.",
+      "ja": "たった1つの火花が山火事を起こすこともある。"
+    }
+  ],
+  "check_points": [
+    "動詞 spark の意味(引き起こす)を言えるか",
+    "spark と trigger のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文で「(抗議・議論を)引き起こす」の意味でよく出る。cause / trigger への言いかえ問題に注意。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2391
+    }
+  ]
+}
