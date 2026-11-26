@@ -1,0 +1,89 @@
+{
+  "word": "disprove",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪsˈpruːv/",
+  "core_image": {
+    "text": "まちがいだと証明して、説をたおす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"84\" y2=\"74\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"98\"/><line x1=\"90\" y1=\"74\" x2=\"140\" y2=\"100\"/><polyline points=\"135.5,93.4 140,100 132,100.2\"/><polygon points=\"130 140 146 140 206 92 196 80\"/></g><text x=\"100\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">証拠で</text><text x=\"175\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">説がたおれる</text></svg>"
+  },
+  "etymology": "dis(反対に)+ prove(証明する)→ 反対のことを証明する → ①(説・主張が)まちがいだと証明する ②(うわさ・思いこみを)打ち消す",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to show that something is not true by giving proof."
+    }
+  ],
+  "cautions": [
+    "prove の反対=「まちがいだと証明する」。disapprove(よしとしない)とつづりが似ているので混同しない",
+    "disprove=まちがいだと証明する(結果に重点)/refute=証拠で論破する(行為)/deny=違うと言う(証明しなくてもよい)",
+    "科学の考え方:理論は prove できなくても disprove はできる、という文脈で出る。名詞 disproof"
+  ],
+  "patterns": [
+    {
+      "form": "disprove A",
+      "meaning": "A がまちがいだと証明する"
+    },
+    {
+      "form": "disprove a theory / myth",
+      "meaning": "理論・俗説の誤りを証明する"
+    },
+    {
+      "form": "prove or disprove",
+      "meaning": "正しいか誤りかを証明する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "誤りを証明する",
+      "en": "New evidence disproved the theory that the city was built by the Romans.",
+      "ja": "新しい証拠が、その都市はローマ人が建てたという説の誤りを証明した。"
+    },
+    {
+      "source": "original",
+      "label": "俗説を打ち消す",
+      "en": "Studies have disproved the myth that reading in dim light hurts your eyes.",
+      "ja": "暗い所で読むと目が悪くなるという俗説は、研究によって否定されている。"
+    },
+    {
+      "source": "original",
+      "label": "prove or disprove",
+      "en": "More data is needed to prove or disprove the idea.",
+      "ja": "その考えが正しいか誤りかを示すには、もっとデータが必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "科学の考え方",
+      "en": "A good scientific theory must be one that can be disproved.",
+      "ja": "よい科学の理論は、誤りだと証明できる可能性があるものでなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "疑いを晴らす",
+      "en": "He was able to disprove the charges against him.",
+      "ja": "彼は自分にかけられた容疑の誤りを証明することができた。"
+    },
+    {
+      "source": "original",
+      "label": "disapprove との比較",
+      "en": "My parents disapprove of my plan, but they cannot disprove my reasons.",
+      "ja": "両親は私の計画をよく思っていないが、私の理由がまちがいだとは証明できない。"
+    }
+  ],
+  "check_points": [
+    "disprove と disapprove のちがいを言えるか",
+    "disprove と deny のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "科学論の長文で「(説の)誤りを証明する」。disapprove とのつづりのまぎらわしさが語彙問題でねらわれる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2503
+    }
+  ]
+}

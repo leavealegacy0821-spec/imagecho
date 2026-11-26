@@ -1,0 +1,107 @@
+{
+  "word": "duplicate",
+  "pos": [
+    "動詞",
+    "名詞",
+    "形容詞"
+  ],
+  "ipa": "/ˈduːplɪkeɪt/",
+  "core_image": {
+    "text": "同じものをもう1つ作って、そっくり2つにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"60\" width=\"44\" height=\"56\"/><line x1=\"38\" y1=\"74\" x2=\"66\" y2=\"74\"/><line x1=\"38\" y1=\"86\" x2=\"66\" y2=\"86\"/><line x1=\"38\" y1=\"98\" x2=\"58\" y2=\"98\"/><line x1=\"84\" y1=\"88\" x2=\"122\" y2=\"88\"/><polyline points=\"115,84.2 122,88 115,91.8\"/><rect x=\"132\" y=\"60\" width=\"40\" height=\"56\"/><line x1=\"139\" y1=\"74\" x2=\"165\" y2=\"74\"/><line x1=\"139\" y1=\"86\" x2=\"165\" y2=\"86\"/><line x1=\"139\" y1=\"98\" x2=\"157\" y2=\"98\"/><rect x=\"180\" y=\"60\" width=\"40\" height=\"56\"/><line x1=\"187\" y1=\"74\" x2=\"213\" y2=\"74\"/><line x1=\"187\" y1=\"86\" x2=\"213\" y2=\"86\"/><line x1=\"187\" y1=\"98\" x2=\"205\" y2=\"98\"/></g><text x=\"52\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もと</text><text x=\"176\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そっくり2つ</text></svg>"
+  },
+  "etymology": "du(2つ。dual・double と同じ根)+ plic(折る・重ねる)+ ate(〜にする)→ 2つに折り重ねる → ①(書類・鍵などを)そっくり写す・複製する ②(むだに)同じことをくり返す ③(名)写し・控え ④(形)まったく同じの",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make an exact copy of something, or to do something again unnecessarily."
+    },
+    {
+      "pos": "名詞",
+      "text": "something that is exactly the same as something else."
+    },
+    {
+      "pos": "形容詞",
+      "text": "exactly like something else."
+    }
+  ],
+  "cautions": [
+    "動詞と名詞・形容詞で発音がちがう(動:デュープリケイト/名・形:デュープリカット)。アクセント・発音問題でねらわれる",
+    "duplicate=形をそっくり写して2つにする/replicate=同じ手順で同じ結果をもう一度出す/reproduce=もう一度生み出す(複製・再現・繁殖)",
+    "「むだに同じことをする」の意味もある(duplicate the work of others=人の仕事と重複する)。in duplicate(正副2通で)"
+  ],
+  "patterns": [
+    {
+      "form": "duplicate A",
+      "meaning": "A を複製する・写す"
+    },
+    {
+      "form": "duplicate a key",
+      "meaning": "合い鍵を作る"
+    },
+    {
+      "form": "duplicate effort / work",
+      "meaning": "(むだに)重複した努力・仕事をする"
+    },
+    {
+      "form": "in duplicate",
+      "meaning": "正副2通で"
+    },
+    {
+      "form": "a duplicate of A",
+      "meaning": "A の写し・控え"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "複製する",
+      "en": "Could you duplicate this document for everyone at the meeting?",
+      "ja": "会議の全員のためにこの書類を複製してもらえますか。"
+    },
+    {
+      "source": "original",
+      "label": "合い鍵",
+      "en": "I had my house key duplicated in case I lost it.",
+      "ja": "なくしたときのために、家の合い鍵を作ってもらった。"
+    },
+    {
+      "source": "original",
+      "label": "重複する",
+      "en": "The two teams were duplicating each other's work without knowing it.",
+      "ja": "2つのチームは知らないうちにお互いの仕事を重複してやっていた。"
+    },
+    {
+      "source": "original",
+      "label": "in duplicate",
+      "en": "Please fill out the form in duplicate.",
+      "ja": "その用紙は正副2通で記入してください。"
+    },
+    {
+      "source": "original",
+      "label": "名詞 写し",
+      "en": "Keep a duplicate of the receipt for your records.",
+      "ja": "記録用にレシートの控えをとっておきなさい。"
+    },
+    {
+      "source": "original",
+      "label": "形容詞",
+      "en": "The printer accidentally made duplicate copies of every page.",
+      "ja": "プリンターがまちがって、どのページも同じものを2部ずつ印刷した。"
+    }
+  ],
+  "check_points": [
+    "duplicate の動詞と名詞の発音のちがいを言えるか",
+    "duplicate と replicate のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で「複製する・重複する」。品詞による発音のちがいと、du-(2)の語源から意味を推測させる問題が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2498
+    }
+  ]
+}

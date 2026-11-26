@@ -1,0 +1,93 @@
+{
+  "word": "reproduce",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˌriːprəˈduːs/",
+  "core_image": {
+    "text": "もとと同じものを、もう一度生み出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"60\" cy=\"90\" r=\"26\"/><circle cx=\"60\" cy=\"90\" r=\"5\"/><line x1=\"94\" y1=\"90\" x2=\"134\" y2=\"90\"/><polyline points=\"127,86.2 134,90 127,93.8\"/><circle cx=\"160\" cy=\"72\" r=\"18\"/><circle cx=\"160\" cy=\"72\" r=\"4\"/><circle cx=\"196\" cy=\"110\" r=\"18\"/><circle cx=\"196\" cy=\"110\" r=\"4\"/></g><text x=\"60\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もと</text><text x=\"120\" y=\"150\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もう一度生み出す</text></svg>"
+  },
+  "etymology": "re(再び)+ produce(前へ生み出す)→ もう一度生み出す → ①(絵・音・文書などを)複製する・再現する ②(生物が)子を生む・繁殖する ③(同じ結果を)もう一度起こす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make a copy of something, to make something happen again, or (of living things) to produce young."
+    }
+  ],
+  "cautions": [
+    "「繁殖する」の意味(自動詞)が生物の長文で頻出。Some plants reproduce by seeds.(種で増える)",
+    "reproduce=もう一度生み出す(複製・再現・繁殖まで広い)/replicate=同じ手順で結果を再現する(科学)/duplicate=そっくり写して2つにする",
+    "名詞 reproduction(複製・繁殖)。reproductive(生殖の)。produce と同じく「前へ出す」の根"
+  ],
+  "patterns": [
+    {
+      "form": "reproduce A",
+      "meaning": "A を複製する・再現する"
+    },
+    {
+      "form": "reproduce (自動詞)",
+      "meaning": "繁殖する・子を生む"
+    },
+    {
+      "form": "reproduce sexually / asexually",
+      "meaning": "有性・無性生殖する"
+    },
+    {
+      "form": "reproduction",
+      "meaning": "複製(品)・再生・繁殖"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "繁殖する",
+      "en": "Most fish reproduce by laying eggs.",
+      "ja": "たいていの魚は卵を産んで繁殖する。"
+    },
+    {
+      "source": "original",
+      "label": "複製する",
+      "en": "The painting has been reproduced on postcards and posters.",
+      "ja": "その絵ははがきやポスターに複製されてきた。"
+    },
+    {
+      "source": "original",
+      "label": "音を再現する",
+      "en": "These speakers reproduce sound very clearly.",
+      "ja": "このスピーカーは音をとてもはっきりと再生する。"
+    },
+    {
+      "source": "original",
+      "label": "結果を再現する",
+      "en": "The scientists tried to reproduce the conditions of early Earth.",
+      "ja": "科学者たちは初期の地球の状態を再現しようとした。"
+    },
+    {
+      "source": "original",
+      "label": "無断で複製",
+      "en": "No part of this book may be reproduced without permission.",
+      "ja": "この本のいかなる部分も許可なく複製してはならない。"
+    },
+    {
+      "source": "original",
+      "label": "reproduction",
+      "en": "Bees play an important role in the reproduction of many plants.",
+      "ja": "ハチは多くの植物の繁殖に重要な役割を果たしている。"
+    }
+  ],
+  "check_points": [
+    "reproduce の「繁殖する」の意味を言えるか",
+    "reproduce と replicate のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "生物の長文で「繁殖する」、著作権の文で「複製する」。名詞 reproduction の意味の取り分けが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2500
+    }
+  ]
+}

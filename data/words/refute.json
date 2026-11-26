@@ -1,0 +1,93 @@
+{
+  "word": "refute",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈfjuːt/",
+  "core_image": {
+    "text": "証拠をぶつけて、相手の説がまちがいだと示す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"80\" y2=\"66\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"98\"/><line x1=\"84\" y1=\"66\" x2=\"140\" y2=\"66\"/><polyline points=\"133,62.2 140,66 133,69.8\"/><rect x=\"150\" y=\"46\" width=\"50\" height=\"60\"/><line x1=\"158\" y1=\"54\" x2=\"192\" y2=\"98\"/><line x1=\"192\" y1=\"54\" x2=\"158\" y2=\"98\"/></g><text x=\"112\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">証拠</text><text x=\"175\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まちがい</text></svg>"
+  },
+  "etymology": "ラテン語 refutare(押し返す・はねつける)→ 相手の言い分を証拠で押し返す → ①(説・主張を)論破する・誤りだと証明する ②(非難などを)強く否定する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to prove that a statement or idea is wrong, or to say strongly that something is not true."
+    }
+  ],
+  "cautions": [
+    "refute は「証拠や論理で誤りを示す」。deny(違うと言うだけ)より強い。ただ否定するだけの意味で使われることもある",
+    "refute=証拠で相手の説がまちがいだと示す/rebut=相手の批判にすぐ言い返す/disprove=まちがいだと証明する(結果に重点)",
+    "他動詞:refute A(A を論破する)。refute against とはしない。名詞 refutation。形容詞 irrefutable(反論の余地のない)"
+  ],
+  "patterns": [
+    {
+      "form": "refute A",
+      "meaning": "A(説・主張)を論破する"
+    },
+    {
+      "form": "refute a claim / theory",
+      "meaning": "主張・理論を論破する"
+    },
+    {
+      "form": "refute an accusation",
+      "meaning": "非難をきっぱり否定する"
+    },
+    {
+      "form": "irrefutable evidence",
+      "meaning": "反論の余地のない証拠"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "論破する",
+      "en": "The scientist refuted the old theory with new data.",
+      "ja": "その科学者は新しいデータで古い理論を論破した。"
+    },
+    {
+      "source": "original",
+      "label": "主張を退ける",
+      "en": "It is easy to make such claims, but hard to refute them.",
+      "ja": "そういう主張をするのは簡単だが、論破するのは難しい。"
+    },
+    {
+      "source": "original",
+      "label": "非難を否定",
+      "en": "The minister refuted the accusation that he had lied.",
+      "ja": "大臣はうそをついたという非難をきっぱり否定した。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "His argument was quickly refuted by other researchers.",
+      "ja": "彼の主張はほかの研究者たちにすぐに論破された。"
+    },
+    {
+      "source": "original",
+      "label": "irrefutable",
+      "en": "The video provided irrefutable evidence of what happened.",
+      "ja": "その映像は、何が起きたかについて反論の余地のない証拠となった。"
+    },
+    {
+      "source": "original",
+      "label": "deny との比較",
+      "en": "He denied the rumor, but he could not refute it.",
+      "ja": "彼はそのうわさを否定したが、まちがいだと証明することはできなかった。"
+    }
+  ],
+  "check_points": [
+    "refute と deny のちがい(証拠で示す/違うと言うだけ)を言えるか",
+    "irrefutable の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "論説文で「(説を)論破する」。筆者が何を refute しているかを読み取る内容一致問題、irrefutable の語彙問題が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2501
+    }
+  ]
+}

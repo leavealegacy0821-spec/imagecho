@@ -1,0 +1,93 @@
+{
+  "word": "compress",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kəmˈpres/",
+  "core_image": {
+    "text": "両側から押しつけて、小さく固める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"95\" y=\"90\" width=\"50\" height=\"50\"/><line x1=\"40\" y1=\"115\" x2=\"88\" y2=\"115\"/><polyline points=\"81,111.2 88,115 81,118.8\"/><line x1=\"200\" y1=\"115\" x2=\"152\" y2=\"115\"/><polyline points=\"159,118.8 152,115 159,111.2\"/><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"82\"/><polyline points=\"123.8,75 120,82 116.2,75\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">押し縮める</text></svg>"
+  },
+  "etymology": "com(いっしょに・強く)+ press(押す)→ ぎゅっと押し合わせる → ①(物を)圧縮する・押し縮める ②(時間・文章を)短く詰めこむ ③(データを)圧縮する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to press something so that it takes up less space, or to make something shorter."
+    }
+  ],
+  "cautions": [
+    "物を「力で押して」小さくするのが中心。データの圧縮(compress a file)や、時間を詰めこむ意味にも広がる",
+    "compress=力で押して小さくする/condense=中身を残して濃く・短くする/shrink=(自然に)縮む",
+    "compress A into B(A を B に詰めこむ)。名詞 compression(圧縮)。press(押す)の仲間:depress・oppress・impress"
+  ],
+  "patterns": [
+    {
+      "form": "compress A",
+      "meaning": "A を圧縮する"
+    },
+    {
+      "form": "compress A into B",
+      "meaning": "A を B に詰めこむ・縮める"
+    },
+    {
+      "form": "compressed air",
+      "meaning": "圧縮空気"
+    },
+    {
+      "form": "compress a file",
+      "meaning": "ファイルを圧縮する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "押し縮める",
+      "en": "The machine compresses empty cans into small blocks.",
+      "ja": "その機械は空き缶を押しつぶして小さなかたまりにする。"
+    },
+    {
+      "source": "original",
+      "label": "時間を詰めこむ",
+      "en": "The three-day course was compressed into one day.",
+      "ja": "3日間の講座が1日に詰めこまれた。"
+    },
+    {
+      "source": "original",
+      "label": "データ",
+      "en": "You should compress the photos before sending them by email.",
+      "ja": "写真はメールで送る前に圧縮したほうがよい。"
+    },
+    {
+      "source": "original",
+      "label": "圧縮空気",
+      "en": "The tires are filled with compressed air.",
+      "ja": "タイヤには圧縮空気が詰められている。"
+    },
+    {
+      "source": "original",
+      "label": "唇を結ぶ",
+      "en": "She compressed her lips and said nothing.",
+      "ja": "彼女は唇をぎゅっと結んで、何も言わなかった。"
+    },
+    {
+      "source": "original",
+      "label": "condense との比較",
+      "en": "You compress a sponge with your hand, but you condense a story with your words.",
+      "ja": "スポンジは手で押し縮めるが、物語はことばで縮めてまとめる。"
+    }
+  ],
+  "check_points": [
+    "compress と condense のちがい(押して小さく/中身を残して縮める)を言えるか",
+    "compress A into B の形で文を作れるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "科学・技術の長文で「圧縮する」。press の仲間の語(depress・oppress)との区別が語彙問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2505
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "replicate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈreplɪkeɪt/",
+  "core_image": {
+    "text": "同じ手順をくり返して、同じ結果をもう一度出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"30 70 30 120 70 120 70 70\"/><line x1=\"30\" y1=\"100\" x2=\"70\" y2=\"100\"/><polyline points=\"40 52 48 60 62 44\"/><line x1=\"84\" y1=\"95\" x2=\"146\" y2=\"95\"/><polyline points=\"139,91.2 146,95 139,98.8\"/><polyline points=\"160 70 160 120 200 120 200 70\"/><line x1=\"160\" y1=\"100\" x2=\"200\" y2=\"100\"/><polyline points=\"170 52 178 60 192 44\"/></g><text x=\"115\" y=\"82\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">同じ手順</text><text x=\"180\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">同じ結果</text></svg>"
+  },
+  "etymology": "re(再び)+ plic(折る・重ねる)+ ate(〜にする)→ もう一度折り重ねる → ①(実験・結果を)再現する・追試する ②(成功などを)別の場所で同じようにくり返す ③(細胞・ウイルスが)自分を複製して増える",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to do or make something again in exactly the same way, especially an experiment or a result."
+    }
+  ],
+  "cautions": [
+    "科学の長文で「(実験結果を)再現する」の意味が最頻。The results could not be replicated.(結果は再現できなかった=信頼できない)の形をおさえる",
+    "replicate=同じ手順で同じ結果をもう一度出す/duplicate=形をそっくり写す/imitate=手本のやり方をまねる",
+    "名詞 replication(再現・追試)、replica(複製品・レプリカ)。ウイルスや DNA が「自己複製する」の意味でも出る"
+  ],
+  "patterns": [
+    {
+      "form": "replicate A",
+      "meaning": "A(実験・結果)を再現する"
+    },
+    {
+      "form": "replicate the results / findings",
+      "meaning": "結果を再現する"
+    },
+    {
+      "form": "be hard to replicate",
+      "meaning": "まねして同じ結果を出すのが難しい"
+    },
+    {
+      "form": "replication",
+      "meaning": "再現・追試・複製"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "結果を再現する",
+      "en": "Other scientists failed to replicate the results of the experiment.",
+      "ja": "ほかの科学者たちはその実験の結果を再現できなかった。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "The findings have been replicated in several countries.",
+      "ja": "その研究結果はいくつかの国で再現されている。"
+    },
+    {
+      "source": "original",
+      "label": "成功をくり返す",
+      "en": "The company hopes to replicate its success in Asia.",
+      "ja": "その会社はアジアでも同じ成功をくり返したいと考えている。"
+    },
+    {
+      "source": "original",
+      "label": "まねできない",
+      "en": "Her unique style of painting is almost impossible to replicate.",
+      "ja": "彼女の独特な画風はほとんどまねできない。"
+    },
+    {
+      "source": "original",
+      "label": "自己複製",
+      "en": "Viruses replicate quickly once they enter the body.",
+      "ja": "ウイルスはいったん体内に入ると、すばやく自分を複製して増える。"
+    },
+    {
+      "source": "original",
+      "label": "duplicate との比較",
+      "en": "You can duplicate a report on a copier, but you must replicate an experiment in the lab.",
+      "ja": "報告書はコピー機で複製できるが、実験は実験室でもう一度やって再現しなければならない。"
+    }
+  ],
+  "check_points": [
+    "replicate the results の意味を言えるか",
+    "replicate と duplicate のちがい(手順をくり返す/形を写す)を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "科学・心理学の長文で「結果を再現する」。結果が再現できない=信頼性が低い、という論理を読み取る問題が多い。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2499
+    }
+  ]
+}

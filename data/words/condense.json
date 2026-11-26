@@ -1,0 +1,93 @@
+{
+  "word": "condense",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈdens/",
+  "core_image": {
+    "text": "中身を残したまま、ぎゅっと小さくまとめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"24\" y=\"40\" width=\"60\" height=\"90\"/><line x1=\"32\" y1=\"52\" x2=\"76\" y2=\"52\"/><line x1=\"32\" y1=\"64\" x2=\"76\" y2=\"64\"/><line x1=\"32\" y1=\"76\" x2=\"76\" y2=\"76\"/><line x1=\"32\" y1=\"88\" x2=\"76\" y2=\"88\"/><line x1=\"32\" y1=\"100\" x2=\"76\" y2=\"100\"/><line x1=\"32\" y1=\"112\" x2=\"66\" y2=\"112\"/><line x1=\"94\" y1=\"85\" x2=\"134\" y2=\"85\"/><polyline points=\"127,81.2 134,85 127,88.8\"/><rect x=\"148\" y=\"66\" width=\"36\" height=\"40\"/><line x1=\"154\" y1=\"76\" x2=\"178\" y2=\"76\"/><line x1=\"154\" y1=\"86\" x2=\"178\" y2=\"86\"/><line x1=\"154\" y1=\"96\" x2=\"170\" y2=\"96\"/></g><text x=\"166\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぎゅっと短く</text></svg>"
+  },
+  "etymology": "con(すっかり)+ dense(濃い・密な)→ すっかり濃くする → ①(文章・話を)要約する・縮める ②(液体を)濃縮する ③(気体が)凝結して液体になる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make something shorter or thicker by removing parts or water, or (of a gas) to become liquid."
+    }
+  ],
+  "cautions": [
+    "「要約する」だけでなく理科の「凝結する(水蒸気→水滴)」の意味が長文で出る。名詞 condensation(結露・凝結)",
+    "condense=中身を残してぎゅっと縮める/summarize=要点だけを拾って短く言う/compress=力で押して小さくする",
+    "condense A into B(A を B に縮める)。condensed milk(加糖練乳)。形容詞 dense(密な)と同じ根"
+  ],
+  "patterns": [
+    {
+      "form": "condense A into B",
+      "meaning": "A を B に縮める・まとめる"
+    },
+    {
+      "form": "condense (気体が)",
+      "meaning": "凝結する・液体になる"
+    },
+    {
+      "form": "condensed milk",
+      "meaning": "加糖練乳(コンデンスミルク)"
+    },
+    {
+      "form": "condensation",
+      "meaning": "凝結・結露・要約"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "縮める",
+      "en": "Can you condense this report into one page?",
+      "ja": "この報告書を1ページに縮められますか。"
+    },
+    {
+      "source": "original",
+      "label": "要約",
+      "en": "The teacher condensed the long story into a few key points.",
+      "ja": "先生はその長い話をいくつかの要点にまとめた。"
+    },
+    {
+      "source": "original",
+      "label": "凝結する",
+      "en": "Water vapor condenses into tiny drops and forms clouds.",
+      "ja": "水蒸気は小さな水滴に凝結して雲になる。"
+    },
+    {
+      "source": "original",
+      "label": "condensation",
+      "en": "Condensation formed on the cold window in the morning.",
+      "ja": "朝、冷たい窓に結露ができた。"
+    },
+    {
+      "source": "original",
+      "label": "濃縮する",
+      "en": "The soup is condensed, so you need to add water.",
+      "ja": "そのスープは濃縮されているので、水を足す必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "summarize との比較",
+      "en": "Condense the speech to five minutes, but don't just summarize it in one line.",
+      "ja": "スピーチを5分に縮めなさい。でも1行に要約してしまってはいけない。"
+    }
+  ],
+  "check_points": [
+    "condense の「凝結する」の意味を言えるか",
+    "condense と summarize のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "理科の長文で「凝結する」、文章の話題で「縮める」。名詞 condensation の両方の意味が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2504
+    }
+  ]
+}

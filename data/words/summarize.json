@@ -1,0 +1,93 @@
+{
+  "word": "summarize",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈsʌməraɪz/",
+  "core_image": {
+    "text": "長い話から要点だけを拾って、短く言う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"24\" y=\"36\" width=\"64\" height=\"96\"/><circle cx=\"32\" cy=\"52\" r=\"3\"/><line x1=\"40\" y1=\"52\" x2=\"80\" y2=\"52\"/><line x1=\"32\" y1=\"66\" x2=\"80\" y2=\"66\"/><circle cx=\"32\" cy=\"80\" r=\"3\"/><line x1=\"40\" y1=\"80\" x2=\"80\" y2=\"80\"/><line x1=\"32\" y1=\"94\" x2=\"80\" y2=\"94\"/><circle cx=\"32\" cy=\"108\" r=\"3\"/><line x1=\"40\" y1=\"108\" x2=\"80\" y2=\"108\"/><line x1=\"32\" y1=\"120\" x2=\"70\" y2=\"120\"/><line x1=\"96\" y1=\"90\" x2=\"150\" y2=\"90\"/><polyline points=\"143,86.2 150,90 143,93.8\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"172\" y2=\"88\"/><line x1=\"190\" y1=\"74\" x2=\"204\" y2=\"96\"/><ellipse cx=\"140\" cy=\"40\" rx=\"26\" ry=\"16\"/><line x1=\"126\" y1=\"36\" x2=\"154\" y2=\"36\"/><line x1=\"126\" y1=\"44\" x2=\"148\" y2=\"44\"/></g><text x=\"123\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">要点だけ</text></svg>"
+  },
+  "etymology": "sum(合計・まとめ)+ ize(〜にする)→ 全体をまとめて一言にする → ①(話・文章を)要約する ②(状況を)手短に言い表す",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give the most important facts or ideas about something in a short form."
+    }
+  ],
+  "cautions": [
+    "他動詞:summarize A(A を要約する)。summarize about A とはしない",
+    "summarize=要点だけを拾って短く言う/condense=中身を残したまま縮める/abbreviate=語を切って短い形にする",
+    "名詞 summary(要約、in summary=要するに)。英国つづり summarise。To summarize, …(まとめると)は論説文のまとめの合図"
+  ],
+  "patterns": [
+    {
+      "form": "summarize A",
+      "meaning": "A を要約する"
+    },
+    {
+      "form": "summarize A in B words",
+      "meaning": "A を B 語で要約する"
+    },
+    {
+      "form": "to summarize",
+      "meaning": "まとめると・要するに"
+    },
+    {
+      "form": "summary",
+      "meaning": "要約(in summary=要するに)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "要約する",
+      "en": "Summarize the passage in about 50 words.",
+      "ja": "その文章を50語程度で要約しなさい。"
+    },
+    {
+      "source": "original",
+      "label": "手短に言う",
+      "en": "Could you summarize what was decided at the meeting?",
+      "ja": "会議で決まったことを手短に話してもらえますか。"
+    },
+    {
+      "source": "original",
+      "label": "to summarize",
+      "en": "To summarize, exercise helps both the body and the mind.",
+      "ja": "まとめると、運動は体と心の両方によい。"
+    },
+    {
+      "source": "original",
+      "label": "summarized",
+      "en": "She summarized the book in a short report for her class.",
+      "ja": "彼女はクラスのためにその本を短いレポートに要約した。"
+    },
+    {
+      "source": "original",
+      "label": "in summary",
+      "en": "In summary, the plan is cheap, quick, and safe.",
+      "ja": "要するに、その計画は安く、速く、安全だ。"
+    },
+    {
+      "source": "original",
+      "label": "condense との比較",
+      "en": "Don't just condense the article; summarize its main idea in one sentence.",
+      "ja": "記事をただ縮めるのではなく、主旨を1文で要約しなさい。"
+    }
+  ],
+  "check_points": [
+    "summarize の後ろに about を置かないことを言えるか",
+    "summarize と condense のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "要約問題の指示文(Summarize the passage …)そのもの。To summarize / In summary は論説文のまとめの合図として内容一致問題の手がかりになる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2507
+    }
+  ]
+}

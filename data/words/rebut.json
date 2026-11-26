@@ -1,0 +1,93 @@
+{
+  "word": "rebut",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈbʌt/",
+  "core_image": {
+    "text": "相手の批判をはね返して、すぐに言い返す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"70\" y2=\"70\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"98\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"172\" y2=\"70\"/><line x1=\"190\" y1=\"74\" x2=\"202\" y2=\"98\"/><line x1=\"168\" y1=\"62\" x2=\"80\" y2=\"62\"/><polyline points=\"87,65.8 80,62 87,58.2\"/><line x1=\"76\" y1=\"84\" x2=\"164\" y2=\"84\"/><polyline points=\"157,80.2 164,84 157,87.8\"/></g><text x=\"125\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">批判</text><text x=\"125\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">はね返す</text></svg>"
+  },
+  "etymology": "re(返して)+ but(突く。butt=頭で突くと同じ根)→ 突き返す → ①(批判・主張に)反論する・言い返す ②(証拠を挙げて)反ばくする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to argue that a statement or claim is not true, especially in a debate or in court."
+    }
+  ],
+  "cautions": [
+    "討論・裁判の場で、相手の批判に「言い返す」行為に重点がある。言い返しても相手がまちがいだと証明できたとは限らない",
+    "rebut=相手の攻撃をはね返して言い返す/refute=証拠で誤りを示す(論破まで含む)/contradict=反対のことを言う・食い違う",
+    "過去形・ing 形は t を重ねる:rebutted / rebutting。名詞 rebuttal(反論)"
+  ],
+  "patterns": [
+    {
+      "form": "rebut A",
+      "meaning": "A(批判・主張)に反論する"
+    },
+    {
+      "form": "rebut a charge / an argument",
+      "meaning": "告発・主張に反論する"
+    },
+    {
+      "form": "rebuttal",
+      "meaning": "反論・反ばく"
+    },
+    {
+      "form": "in rebuttal",
+      "meaning": "反論として"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "反論する",
+      "en": "The lawyer rebutted every point the other side made.",
+      "ja": "弁護士は相手側の主張のすべての点に反論した。"
+    },
+    {
+      "source": "original",
+      "label": "批判に言い返す",
+      "en": "She calmly rebutted the criticism of her plan.",
+      "ja": "彼女は自分の計画への批判に落ち着いて言い返した。"
+    },
+    {
+      "source": "original",
+      "label": "討論",
+      "en": "In a debate, you must be ready to rebut your opponent's arguments.",
+      "ja": "討論では、相手の主張に反論する準備をしておかなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "rebutted",
+      "en": "The charges were rebutted with clear evidence.",
+      "ja": "その告発ははっきりした証拠で反ばくされた。"
+    },
+    {
+      "source": "original",
+      "label": "rebuttal",
+      "en": "The company issued a strong rebuttal to the newspaper report.",
+      "ja": "その会社は新聞の報道に強い反論を出した。"
+    },
+    {
+      "source": "original",
+      "label": "refute との比較",
+      "en": "He rebutted the claim, but he did not fully refute it.",
+      "ja": "彼はその主張に反論したが、完全に論破したわけではなかった。"
+    }
+  ],
+  "check_points": [
+    "rebut と refute のちがい(言い返す/論破する)を言えるか",
+    "rebut の過去形のつづりを書けるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "ディベート・裁判の長文で「反論する」。名詞 rebuttal の意味と、refute との区別が語彙問題で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2502
+    }
+  ]
+}
