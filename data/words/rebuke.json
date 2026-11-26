@@ -1,0 +1,99 @@
+{
+  "word": "rebuke",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/rɪˈbjuːk/",
+  "core_image": {
+    "text": "上の立場から、ぴしゃりと強くとがめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"100\" width=\"70\" height=\"40\"/><circle cx=\"65\" cy=\"12\" r=\"10\"/><line x1=\"65\" y1=\"22\" x2=\"65\" y2=\"66\"/><line x1=\"65\" y1=\"66\" x2=\"55\" y2=\"100\"/><line x1=\"65\" y1=\"66\" x2=\"75\" y2=\"100\"/><line x1=\"65\" y1=\"34\" x2=\"110\" y2=\"24\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"120\" y1=\"60\" x2=\"160\" y2=\"70\"/><polyline points=\"154.1,64.6 160,70 152.3,72\"/></g><text x=\"150\" y=\"14\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぴしゃり</text><text x=\"208\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しかられる</text></svg>"
+  },
+  "etymology": "re(押し返す)+ buke(打つ・たたく。古フランス語 bucher から)→ たたいて押し返す → ①(公式に・厳しく)叱責する・とがめる ②(名)叱責",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to speak angrily and severely to someone because they have done something wrong."
+    },
+    {
+      "pos": "名詞",
+      "text": "severe criticism of someone for what they have done."
+    }
+  ],
+  "cautions": [
+    "rebuke A for B=BのことでAを厳しくしかる(reproach・blame と同じ for)",
+    "上司・先生・政府など立場が上の人が、公式に厳しくとがめる感じ(堅い語)",
+    "reproach=失望をこめて責める/rebuke=厳しくぴしゃりとしかる/scold=(子どもを)口うるさくしかる",
+    "名詞も同じ形:receive a rebuke(叱責を受ける)"
+  ],
+  "patterns": [
+    {
+      "form": "rebuke A for B",
+      "meaning": "BのことでAを叱責する"
+    },
+    {
+      "form": "publicly rebuke A",
+      "meaning": "Aを公然と非難する"
+    },
+    {
+      "form": "a sharp rebuke",
+      "meaning": "厳しい叱責"
+    },
+    {
+      "form": "receive a rebuke",
+      "meaning": "叱責を受ける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "rebuke A for B",
+      "en": "The manager rebuked the staff for their careless mistakes.",
+      "ja": "部長は不注意なミスについて部下を厳しくしかった。"
+    },
+    {
+      "source": "original",
+      "label": "公然と",
+      "en": "The minister was publicly rebuked by the prime minister.",
+      "ja": "その大臣は首相から公然と叱責された。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "He received a sharp rebuke from his coach.",
+      "ja": "彼はコーチから厳しくしかられた。"
+    },
+    {
+      "source": "original",
+      "label": "国どうし",
+      "en": "The UN rebuked the country for violating the treaty.",
+      "ja": "国連はその国が条約に違反したとして非難した。"
+    },
+    {
+      "source": "original",
+      "label": "先生",
+      "en": "The teacher rebuked the boy for talking during the test.",
+      "ja": "先生はテスト中に話した少年を叱責した。"
+    },
+    {
+      "source": "original",
+      "label": "reproach との比較",
+      "en": "Her mother reproached her sadly, but her boss rebuked her sharply.",
+      "ja": "母は悲しそうに彼女を責め、上司はぴしゃりとしかった。"
+    }
+  ],
+  "check_points": [
+    "rebuke A for B の型を言えるか",
+    "rebuke と scold のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「しかる」の言い換え(=scold, reprimand)として出る。for の型が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2433
+    }
+  ]
+}

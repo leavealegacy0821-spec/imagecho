@@ -1,0 +1,94 @@
+{
+  "word": "compulsory",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/kəmˈpʌlsəri/",
+  "core_image": {
+    "text": "規則にぐいっと押されて、やらずにはすまない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><rect x=\"40\" y=\"40\" width=\"50\" height=\"64\"/><line x1=\"50\" y1=\"56\" x2=\"80\" y2=\"56\"/><line x1=\"50\" y1=\"70\" x2=\"80\" y2=\"70\"/><line x1=\"50\" y1=\"84\" x2=\"80\" y2=\"84\"/><line x1=\"96\" y1=\"72\" x2=\"132\" y2=\"72\"/><polyline points=\"125,68.2 132,72 125,75.8\"/></g><text x=\"40\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">規則</text><text x=\"190\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">必ず</text></svg>"
+  },
+  "etymology": "com(強く)+ puls(押す・追う。pulse、compel と同じ)+ ory(〜の性質の)→ 強く押してさせる → (法律・規則で)義務の・強制的な・必修の",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "required by a law or rule; something that must be done."
+    }
+  ],
+  "cautions": [
+    "compulsory education=義務教育/a compulsory subject=必修科目",
+    "反対は voluntary(自発的な)・optional(選択の)",
+    "動詞 compel(無理に〜させる)の形容詞形。mandatory(法的に義務の)・obligatory(義務の)はほぼ同じ意味",
+    "compulsive=(やめられない)強迫的な、とは別の語なので注意"
+  ],
+  "patterns": [
+    {
+      "form": "compulsory education",
+      "meaning": "義務教育"
+    },
+    {
+      "form": "a compulsory subject",
+      "meaning": "必修科目"
+    },
+    {
+      "form": "be compulsory for A",
+      "meaning": "Aには義務である"
+    },
+    {
+      "form": "make A compulsory",
+      "meaning": "Aを義務化する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "義務教育",
+      "en": "In Japan, compulsory education lasts for nine years.",
+      "ja": "日本では義務教育は9年間だ。"
+    },
+    {
+      "source": "original",
+      "label": "必修",
+      "en": "English is a compulsory subject in most high schools.",
+      "ja": "ほとんどの高校で英語は必修科目だ。"
+    },
+    {
+      "source": "original",
+      "label": "be compulsory for",
+      "en": "Wearing a helmet is compulsory for all riders.",
+      "ja": "すべての乗り手にヘルメットの着用が義務づけられている。"
+    },
+    {
+      "source": "original",
+      "label": "義務化する",
+      "en": "Some people think voting should be made compulsory.",
+      "ja": "投票を義務化すべきだと考える人もいる。"
+    },
+    {
+      "source": "original",
+      "label": "出席",
+      "en": "Attendance at the meeting is compulsory.",
+      "ja": "その会議への出席は必須だ。"
+    },
+    {
+      "source": "original",
+      "label": "voluntary との対比",
+      "en": "The first course is compulsory, but the second is voluntary.",
+      "ja": "最初の講座は必修だが、二つ目は任意だ。"
+    }
+  ],
+  "check_points": [
+    "compulsory の反対の意味の語を言えるか",
+    "compel とのつながりを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "compulsory education(義務教育)の形で頻出。反意語 voluntary / optional が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2436
+    }
+  ]
+}

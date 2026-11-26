@@ -1,0 +1,103 @@
+{
+  "word": "protest",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/prəˈtest/",
+  "core_image": {
+    "text": "人前に出て、「反対だ」と声をあげる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"146\" y2=\"40\"/><line x1=\"146\" y1=\"40\" x2=\"146\" y2=\"10\"/><rect x=\"146\" y=\"10\" width=\"44\" height=\"26\"/><line x1=\"156\" y1=\"18\" x2=\"180\" y2=\"28\"/><line x1=\"180\" y1=\"18\" x2=\"156\" y2=\"28\"/></g><text x=\"40\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">人前で</text><text x=\"205\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">反対!</text></svg>"
+  },
+  "etymology": "pro(前に・公に)+ test(証言する。testify、witness と同じ)→ 人前で証言する・はっきり言う → ①抗議する・反対する ②(無実などを)強く言い張る ③(名)抗議・抗議運動",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say or show publicly that you strongly disagree with something; to insist that something is true."
+    },
+    {
+      "pos": "名詞",
+      "text": "a statement or action that shows strong disagreement; a public demonstration."
+    }
+  ],
+  "cautions": [
+    "protest against A / protest about A=Aに抗議する(米語では protest A と他動詞でも使う)",
+    "protest one's innocence=無実を強く主張する(「抗議する」ではない)",
+    "object=「異議あり」と意見で反対する/protest=人前で声や行動に出して抗議する/oppose=向かい合って反対の立場をとる",
+    "名詞はアクセントが前:a PROtest、in protest(抗議して)"
+  ],
+  "patterns": [
+    {
+      "form": "protest against A",
+      "meaning": "Aに抗議する"
+    },
+    {
+      "form": "protest A",
+      "meaning": "(米)Aに抗議する"
+    },
+    {
+      "form": "protest one's innocence",
+      "meaning": "無実を言い張る"
+    },
+    {
+      "form": "in protest (against A)",
+      "meaning": "(Aに)抗議して"
+    },
+    {
+      "form": "a protest march",
+      "meaning": "抗議デモ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "抗議する",
+      "en": "Thousands of people protested against the new law.",
+      "ja": "何千人もの人々がその新しい法律に抗議した。"
+    },
+    {
+      "source": "original",
+      "label": "他動詞(米)",
+      "en": "Students gathered to protest the rise in tuition fees.",
+      "ja": "学生たちは授業料の値上げに抗議するために集まった。"
+    },
+    {
+      "source": "original",
+      "label": "言い張る",
+      "en": "The man protested his innocence until the end.",
+      "ja": "その男は最後まで無実を訴え続けた。"
+    },
+    {
+      "source": "original",
+      "label": "in protest",
+      "en": "Several members walked out of the meeting in protest.",
+      "ja": "何人かの委員が抗議して会議から退席した。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The government ignored the protests of local residents.",
+      "ja": "政府は地元住民の抗議を無視した。"
+    },
+    {
+      "source": "original",
+      "label": "object との比較",
+      "en": "She objected to the plan at the meeting, and later joined a protest outside.",
+      "ja": "彼女は会議でその案に異議を唱え、後で外での抗議活動にも加わった。"
+    }
+  ],
+  "check_points": [
+    "protest one's innocence の意味を言えるか",
+    "protest と object のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文・ニュース英語で「抗議(する)」として多い。protest one's innocence の意味が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2428
+    }
+  ]
+}

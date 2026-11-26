@@ -276,14 +276,15 @@
     },
     {
       "title": "使い分け:頼む・求める",
-      "note": "ask=たずねる・頼む ／ request=(丁寧・正式に)お願いする ／ demand=当然として強く要求する ／ urge=強く迫って勧める ／ plead=必死に嘆願する ／ summon=呼び出す・(勇気を)奮い起こす",
+      "note": "ask=たずねる・頼む ／ request=(丁寧・正式に)お願いする ／ demand=当然として強く要求する ／ urge=強く迫って勧める ／ plead=必死に嘆願する ／ summon=呼び出す・(勇気を)奮い起こす ／ beg=へりくだって必死に頼みこむ(beg A to do)",
       "words": [
         "ask",
         "request",
         "demand",
         "urge",
         "plead",
-        "summon"
+        "summon",
+        "beg"
       ]
     },
     {
@@ -321,6 +322,14 @@
         "oblige",
         "impose",
         "urge"
+      ]
+    },
+    {
+      "title": "使い分け:義務の・自発的な",
+      "note": "compulsory=規則に押されてやらずにすまない(義務の・必修の) ／ voluntary=だれにも押されず自分の意志で(任意の・ボランティアの)",
+      "words": [
+        "compulsory",
+        "voluntary"
       ]
     },
     {
@@ -397,14 +406,16 @@
     },
     {
       "title": "使い分け:責める",
-      "note": "blame=責任を負わせる(blame A for B) ／ accuse=罪を言い立てる(accuse A of B) ／ criticize=欠点を批判する ／ condemn=厳しく非難・有罪とする ／ scold=(子どもを)しかる ／ charge=罪に問う・告発する",
+      "note": "blame=責任を負わせる(blame A for B) ／ accuse=罪を言い立てる(accuse A of B) ／ criticize=欠点を批判する ／ condemn=厳しく非難・有罪とする ／ scold=(子どもを)しかる ／ charge=罪に問う・告発する ／ reproach=失望をこめてとがめる(reproach A for B) ／ rebuke=上の立場からぴしゃりと叱責する",
       "words": [
         "blame",
         "accuse",
         "criticize",
         "condemn",
         "scold",
-        "charge"
+        "charge",
+        "reproach",
+        "rebuke"
       ]
     },
     {
@@ -674,7 +685,7 @@
     },
     {
       "title": "使い分け:反対する・争う",
-      "note": "oppose=向かい合って反対する ／ object=異議を唱える(object to) ／ dispute=言い争う・異を唱える ／ contradict=言うことが食い違う ／ compete=競い合う ／ contend=争う ／ clash=ぶつかり合う ／ conflict=対立する ／ collide=物どうしが激突する・(意見が)ぶつかる ／ grumble=小声でぶつぶつ不平を言いつづける",
+      "note": "oppose=向かい合って反対する ／ object=異議を唱える(object to) ／ dispute=言い争う・異を唱える ／ contradict=言うことが食い違う ／ compete=競い合う ／ contend=争う ／ clash=ぶつかり合う ／ conflict=対立する ／ collide=物どうしが激突する・(意見が)ぶつかる ／ grumble=小声でぶつぶつ不平を言いつづける ／ protest=人前で声や行動に出して抗議する ／ rebel=従わされていた力に逆らう(rebel against) ／ revolt=大勢が立ち上がってひっくり返す・むかつかせる",
       "words": [
         "oppose",
         "object",
@@ -687,7 +698,10 @@
         "conflict",
         "complain",
         "collide",
-        "grumble"
+        "grumble",
+        "protest",
+        "rebel",
+        "revolt"
       ]
     },
     {
@@ -1062,7 +1076,7 @@
     },
     {
       "title": "使い分け:取り除く",
-      "note": "remove=取り去る ／ eliminate=締め出して完全になくす ／ rid A of B=AからBを取り除く ／ strip=はぎ取る ／ exclude=外に締め出す ／ omit=(うっかり・意図的に)抜かす ／ extract=引き抜く",
+      "note": "remove=取り去る ／ eliminate=締め出して完全になくす ／ rid A of B=AからBを取り除く ／ strip=はぎ取る ／ exclude=外に締め出す ／ omit=(うっかり・意図的に)抜かす ／ extract=引き抜く ／ expel=中にいた者を外へ押し出す(退学・追放) ／ banish=遠くへ追いやり戻らせない・(考えを)追い払う",
       "words": [
         "remove",
         "eliminate",
@@ -1070,7 +1084,9 @@
         "strip",
         "exclude",
         "omit",
-        "extract"
+        "extract",
+        "expel",
+        "banish"
       ]
     },
     {

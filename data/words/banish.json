@@ -1,0 +1,94 @@
+{
+  "word": "banish",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈbænɪʃ/",
+  "core_image": {
+    "text": "遠くへ追いやり、もう戻ってこさせない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"20\" y=\"70\" width=\"60\" height=\"70\"/><line x1=\"90\" y1=\"100\" x2=\"170\" y2=\"100\"/><polyline points=\"163,96.2 170,100 163,103.8\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"150\" y1=\"70\" x2=\"150\" y2=\"130\"/></g><text x=\"20\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">国</text><text x=\"110\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">二度と</text></svg>"
+  },
+  "etymology": "ban(布告・禁止。ban と同じ)→ お触れを出して追い出す → ①(国・場所から)追放する・流刑にする ②(考え・不安を)頭から追い払う",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to send someone away from a place as a punishment; to get rid of a thought or feeling."
+    }
+  ],
+  "cautions": [
+    "banish A from B=AをBから追放する(罰として遠くへ・長く)",
+    "比喩:banish A from one's mind=Aを頭から追い払う(不安・思い出など)",
+    "expel=中から外へ押し出す(学校・組織・国から)/banish=罰として遠くへ追いやり戻らせない",
+    "名詞 banishment(追放)。ban(禁止する)と同じ根"
+  ],
+  "patterns": [
+    {
+      "form": "banish A from B",
+      "meaning": "AをBから追放する"
+    },
+    {
+      "form": "be banished to A",
+      "meaning": "Aに流される"
+    },
+    {
+      "form": "banish A from one's mind",
+      "meaning": "Aを頭から追い払う"
+    },
+    {
+      "form": "banishment",
+      "meaning": "追放"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "追放する",
+      "en": "The king banished the traitor from the country.",
+      "ja": "王は裏切り者を国外に追放した。"
+    },
+    {
+      "source": "original",
+      "label": "流刑",
+      "en": "Napoleon was banished to a small island.",
+      "ja": "ナポレオンは小さな島に流された。"
+    },
+    {
+      "source": "original",
+      "label": "考えを",
+      "en": "She tried to banish the bad memories from her mind.",
+      "ja": "彼女はいやな思い出を頭から追い払おうとした。"
+    },
+    {
+      "source": "original",
+      "label": "不安を",
+      "en": "A warm cup of tea banished all my worries.",
+      "ja": "温かいお茶を一杯飲むと、心配がすっかり消えた。"
+    },
+    {
+      "source": "original",
+      "label": "場所から",
+      "en": "Smoking has been banished from most restaurants.",
+      "ja": "たばこはほとんどのレストランから締め出された。"
+    },
+    {
+      "source": "original",
+      "label": "expel との比較",
+      "en": "He was first expelled from the court, and then banished from the kingdom.",
+      "ja": "彼はまず宮廷から追い出され、その後、王国からも追放された。"
+    }
+  ],
+  "check_points": [
+    "banish A from one's mind の意味を言えるか",
+    "banish と expel のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「追放する」と「(考えを)追い払う」の2つの意味が長文で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2435
+    }
+  ]
+}

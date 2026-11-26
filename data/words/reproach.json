@@ -1,0 +1,99 @@
+{
+  "word": "reproach",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/rɪˈproʊtʃ/",
+  "core_image": {
+    "text": "がっかりした顔で近づき、「どうして」と責める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"140\" y2=\"64\"/><line x1=\"96\" y1=\"30\" x2=\"140\" y2=\"30\"/><polyline points=\"133,26.2 140,30 133,33.8\"/></g><text x=\"46\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どうして</text><text x=\"190\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">責められる</text></svg>"
+  },
+  "etymology": "re(逆に)+ proach(近づく。approach と同じ)→ 相手に詰め寄る → ①(失望をこめて)責める・とがめる ②(名)非難・叱責",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to tell someone that you are disappointed or upset with what they have done."
+    },
+    {
+      "pos": "名詞",
+      "text": "criticism expressed with disappointment rather than anger."
+    }
+  ],
+  "cautions": [
+    "reproach A for B=BのことでAを責める(blame A for B と同じ型)",
+    "怒るよりも「がっかりして」とがめる感じ。reproach oneself=自分を責める",
+    "beyond reproach / above reproach=非の打ちどころがない",
+    "scold=(子どもを)大声でしかる/blame=責任を負わせる/rebuke=(立場が上の人が)厳しくとがめる/reproach=失望をこめて責める"
+  ],
+  "patterns": [
+    {
+      "form": "reproach A for B",
+      "meaning": "BのことでAを責める"
+    },
+    {
+      "form": "reproach oneself",
+      "meaning": "自分を責める"
+    },
+    {
+      "form": "beyond reproach",
+      "meaning": "非の打ちどころがない"
+    },
+    {
+      "form": "a look of reproach",
+      "meaning": "とがめるような目つき"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "reproach A for B",
+      "en": "She reproached her son for telling lies.",
+      "ja": "彼女はうそをついたことで息子をとがめた。"
+    },
+    {
+      "source": "original",
+      "label": "自分を",
+      "en": "Don't reproach yourself; it wasn't your fault.",
+      "ja": "自分を責めないで。あなたのせいではなかったのだから。"
+    },
+    {
+      "source": "original",
+      "label": "beyond reproach",
+      "en": "His behavior during the crisis was beyond reproach.",
+      "ja": "危機の間の彼のふるまいは非の打ちどころがなかった。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "She gave me a look of reproach when I arrived late.",
+      "ja": "私が遅れて着くと、彼女はとがめるような目で私を見た。"
+    },
+    {
+      "source": "original",
+      "label": "失望",
+      "en": "\"You promised to come,\" he said, reproaching her gently.",
+      "ja": "「来るって約束したじゃないか」と彼はやんわり彼女を責めた。"
+    },
+    {
+      "source": "original",
+      "label": "scold との比較",
+      "en": "The teacher didn't scold him; she just reproached him quietly, which hurt more.",
+      "ja": "先生は彼をしからず、静かにとがめただけだったが、そのほうがこたえた。"
+    }
+  ],
+  "check_points": [
+    "reproach A for B の型を言えるか",
+    "beyond reproach の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "reproach A for B の型(blame / criticize と同じ for)と beyond reproach が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2432
+    }
+  ]
+}

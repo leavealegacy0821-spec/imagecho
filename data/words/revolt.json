@@ -1,0 +1,99 @@
+{
+  "word": "revolt",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/rɪˈvoʊlt/",
+  "core_image": {
+    "text": "下にいた大勢が、ぐるりとひっくり返す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M60 120 A60 60 0 0 1 180 120\"/><line x1=\"168\" y1=\"104\" x2=\"180\" y2=\"120\"/><polyline points=\"178.9,112.1 180,120 172.7,116.7\"/><rect x=\"40\" y=\"126\" width=\"40\" height=\"14\"/><rect x=\"160\" y=\"40\" width=\"40\" height=\"14\"/></g><text x=\"30\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">下にいた</text><text x=\"150\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひっくり返す</text></svg>"
+  },
+  "etymology": "re(後ろへ・逆に)+ volt(回る。revolve、revolution と同じ)→ ぐるりと向きを変えてはね返す → ①反乱を起こす・反抗する ②(revolt A)むかつかせる・反感をもたせる ③(名)反乱",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to take violent action against those in power; to make someone feel sick or disgusted."
+    },
+    {
+      "pos": "名詞",
+      "text": "an attempt by a large group of people to defeat those in power."
+    }
+  ],
+  "cautions": [
+    "revolt against A=Aに対して反乱を起こす(大勢・集団で)",
+    "他動詞 revolt A=Aをひどく不快にさせる:be revolted by A(Aにむかつく)。形容詞 revolting=むかつくような",
+    "rebel=従わずに逆らう(個人でも)/revolt=大勢が立ち上がる/protest=声をあげて抗議する",
+    "volt(回る)は revolve・revolution と同じ根"
+  ],
+  "patterns": [
+    {
+      "form": "revolt against A",
+      "meaning": "Aに反乱を起こす"
+    },
+    {
+      "form": "be revolted by A",
+      "meaning": "Aにむかつく"
+    },
+    {
+      "form": "revolting",
+      "meaning": "ひどく不快な"
+    },
+    {
+      "form": "a revolt",
+      "meaning": "反乱・暴動"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "反乱を起こす",
+      "en": "The peasants revolted against the high taxes.",
+      "ja": "農民たちは重税に対して反乱を起こした。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The revolt was quickly put down by the army.",
+      "ja": "その反乱は軍によってすぐに鎮圧された。"
+    },
+    {
+      "source": "original",
+      "label": "むかつかせる",
+      "en": "The cruelty of the scene revolted the audience.",
+      "ja": "その場面の残酷さに観客は気分が悪くなった。"
+    },
+    {
+      "source": "original",
+      "label": "be revolted by",
+      "en": "I was revolted by the smell of the garbage.",
+      "ja": "ごみのにおいに吐き気がした。"
+    },
+    {
+      "source": "original",
+      "label": "revolting",
+      "en": "What a revolting thing to say!",
+      "ja": "なんてひどいことを言うんだ!"
+    },
+    {
+      "source": "original",
+      "label": "rebel との比較",
+      "en": "One soldier rebelled, and soon the whole army revolted.",
+      "ja": "一人の兵士が逆らうと、すぐに軍全体が反乱を起こした。"
+    }
+  ],
+  "check_points": [
+    "revolt の「むかつかせる」の意味を言えるか",
+    "revolt と rebel のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「反乱」の意味と、be revolted by / revolting(不快にさせる)の意味の両方が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2430
+    }
+  ]
+}
