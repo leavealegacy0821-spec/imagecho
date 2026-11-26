@@ -1,0 +1,93 @@
+{
+  "word": "placate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈpleɪkeɪt/",
+  "core_image": {
+    "text": "「まあまあ」と手でおさえて、相手の怒りを平らにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"96\" y2=\"66\"/><line x1=\"60\" y1=\"74\" x2=\"96\" y2=\"82\"/><line x1=\"96\" y1=\"66\" x2=\"104\" y2=\"60\"/><line x1=\"96\" y1=\"82\" x2=\"104\" y2=\"78\"/><circle cx=\"160\" cy=\"52\" r=\"10\"/><line x1=\"160\" y1=\"62\" x2=\"160\" y2=\"106\"/><line x1=\"160\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"160\" y1=\"74\" x2=\"144\" y2=\"92\"/><line x1=\"160\" y1=\"74\" x2=\"176\" y2=\"92\"/><line x1=\"160\" y1=\"12\" x2=\"160\" y2=\"34\"/><polyline points=\"163.8,27 160,34 156.2,27\"/></g><text x=\"100\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まあまあ</text><text x=\"205\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">おさまる</text></svg>"
+  },
+  "etymology": "plac(なだめる・喜ばせる。please と同じ根)+ -ate(〜する)→ 相手を落ち着かせて機嫌を直させる → ①(怒っている人を)なだめる ②(不満を)おさえる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone feel less angry about something, often by saying or doing something to please them."
+    }
+  ],
+  "cautions": [
+    "怒っている「人」が目的語になるのがふつう:placate the angry crowd",
+    "placate=ことばや小さな配慮で怒りをやわらげる(根本の解決ではないことが多い)/appease=相手の要求をのんでしずめる/pacify=暴れる・泣くものを平和な状態にもどす",
+    "please(喜ばせる)と同じ根。implacable=なだめられない・執念深い"
+  ],
+  "patterns": [
+    {
+      "form": "placate A",
+      "meaning": "Aをなだめる"
+    },
+    {
+      "form": "try to placate A",
+      "meaning": "Aをなだめようとする"
+    },
+    {
+      "form": "placate A with B",
+      "meaning": "BでAをなだめる"
+    },
+    {
+      "form": "implacable",
+      "meaning": "なだめられない・容赦のない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "なだめる",
+      "en": "The manager tried to placate the angry customer.",
+      "ja": "店長は怒った客をなだめようとした。"
+    },
+    {
+      "source": "original",
+      "label": "with B",
+      "en": "She placated her little brother with a promise of ice cream.",
+      "ja": "彼女はアイスクリームを約束して弟をなだめた。"
+    },
+    {
+      "source": "original",
+      "label": "不満を",
+      "en": "The new rule was meant to placate critics, but it satisfied no one.",
+      "ja": "新しい規則は批判する人をなだめるためのものだったが、誰も満足させなかった。"
+    },
+    {
+      "source": "original",
+      "label": "一時しのぎ",
+      "en": "Kind words alone will not placate the workers for long.",
+      "ja": "やさしいことばだけでは、労働者たちを長くはなだめられないだろう。"
+    },
+    {
+      "source": "original",
+      "label": "implacable",
+      "en": "He became an implacable enemy of the government.",
+      "ja": "彼は政府の容赦ない敵となった。"
+    },
+    {
+      "source": "original",
+      "label": "appease との比較",
+      "en": "He placated his boss with an apology instead of appeasing him with a raise in sales targets.",
+      "ja": "彼は売上目標を上げて上司の要求をのむ代わりに、謝罪で上司をなだめた。"
+    }
+  ],
+  "check_points": [
+    "placate と please のつながりを言えるか",
+    "implacable の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文・語彙問題で「なだめる」として出る。appease との言いかえに注意。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2449
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "word": "allude",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈluːd/",
+  "core_image": {
+    "text": "まっすぐ指ささず、遠まわしにちょんとふれる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"76\" y2=\"70\"/><line x1=\"50\" y1=\"74\" x2=\"32\" y2=\"94\"/><line x1=\"82\" y1=\"66\" x2=\"166\" y2=\"66\" stroke-dasharray=\"5 5\"/><polyline points=\"159,62.2 166,66 159,69.8\"/><rect x=\"180\" y=\"50\" width=\"34\" height=\"34\"/></g><text x=\"124\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">それとなく</text></svg>"
+  },
+  "etymology": "al(〜へ)+ lude(遊ぶ・たわむれる。illusion、prelude と同じ根)→ ことばで軽くたわむれるようにふれる → ①(allude to A)Aをそれとなく言う・ほのめかす ②(名)allusion=ほのめかし・引用",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to mention something or someone in an indirect way."
+    }
+  ],
+  "cautions": [
+    "必ず allude to A の形(自動詞)。×allude A。to の後ろは名詞・動名詞",
+    "refer to A=Aにはっきりふれる・言及する/allude to A=名前を出さずに遠まわしにふれる/imply=(ことばの裏に)意味をふくませる/hint=ヒントを出す",
+    "elude(のがれる)と1文字ちがい。allude は al(〜へ)「ふれに行く」、elude は e(外へ)「のがれる」"
+  ],
+  "patterns": [
+    {
+      "form": "allude to A",
+      "meaning": "Aをそれとなく言う"
+    },
+    {
+      "form": "allusion to A",
+      "meaning": "Aへのほのめかし・引用"
+    },
+    {
+      "form": "refer to A",
+      "meaning": "Aにはっきりふれる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ほのめかす",
+      "en": "She alluded to her problems at home but did not explain.",
+      "ja": "彼女は家庭の悩みをほのめかしたが、説明はしなかった。"
+    },
+    {
+      "source": "original",
+      "label": "名前を出さずに",
+      "en": "The speaker alluded to a certain politician without naming him.",
+      "ja": "講演者は名前を出さずに、ある政治家のことを遠まわしに言った。"
+    },
+    {
+      "source": "original",
+      "label": "過去に",
+      "en": "He often alludes to his difficult childhood in his novels.",
+      "ja": "彼は小説の中で、つらかった子ども時代にしばしばそれとなくふれる。"
+    },
+    {
+      "source": "original",
+      "label": "allusion",
+      "en": "The poem contains many allusions to Greek myths.",
+      "ja": "その詩にはギリシャ神話を引いたところがたくさんある。"
+    },
+    {
+      "source": "original",
+      "label": "as alluded to",
+      "en": "As I alluded to earlier, the budget is tight.",
+      "ja": "先ほどそれとなく申し上げたように、予算は厳しい。"
+    },
+    {
+      "source": "original",
+      "label": "refer との比較",
+      "en": "He did not refer to the accident directly, but he alluded to it.",
+      "ja": "彼はその事故に直接はふれなかったが、遠まわしに言及した。"
+    }
+  ],
+  "check_points": [
+    "allude の後ろに来る前置詞を言えるか",
+    "allude と refer のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "allude to の語法と、refer to との区別が問われる。elude との混同に注意。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2457
+    }
+  ]
+}

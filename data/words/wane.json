@@ -1,0 +1,99 @@
+{
+  "word": "wane",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/weɪn/",
+  "core_image": {
+    "text": "満月が、少しずつ欠けて細くなっていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"40\" cy=\"70\" r=\"24\"/><line x1=\"70\" y1=\"70\" x2=\"90\" y2=\"70\"/><polyline points=\"83,66.2 90,70 83,73.8\"/><path d=\"M120 46 A24 24 0 0 1 120 94 A12 24 0 0 1 120 46 Z\"/><line x1=\"150\" y1=\"70\" x2=\"170\" y2=\"70\"/><polyline points=\"163,66.2 170,70 163,73.8\"/><path d=\"M196 46 A24 24 0 0 1 196 94 A20 24 0 0 0 196 46 Z\"/></g><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">欠けていく</text></svg>"
+  },
+  "etymology": "wane(古い英語 wanian=減る。want〈欠けている〉と同じ根)→ 欠けて少なくなる → ①(月が)欠ける ②(力・関心・人気が)弱まる・衰える ③(名)on the wane=衰えかけて",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "(of the moon) to appear smaller each night; to become weaker or less important."
+    },
+    {
+      "pos": "名詞",
+      "text": "the process of becoming weaker or smaller."
+    }
+  ],
+  "cautions": [
+    "自動詞:His popularity waned.(人気が衰えた)。目的語はとらない",
+    "wax and wane=(月が)満ち欠けする・盛衰する。wax が「満ちる」",
+    "decline=下り坂に下がる(いちばん広い)/diminish=量が小さくなる/fade=色・音・記憶がうすれる/wane=力や関心がじわじわ欠けていく(月の絵)",
+    "on the wane=衰えつつある"
+  ],
+  "patterns": [
+    {
+      "form": "A wane",
+      "meaning": "Aが衰える"
+    },
+    {
+      "form": "waning interest / power",
+      "meaning": "うすれる関心・衰える力"
+    },
+    {
+      "form": "wax and wane",
+      "meaning": "満ち欠けする・盛衰する"
+    },
+    {
+      "form": "on the wane",
+      "meaning": "衰えかけて"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "月が",
+      "en": "The moon is waning, so the nights are getting darker.",
+      "ja": "月が欠けてきているので、夜が暗くなってきている。"
+    },
+    {
+      "source": "original",
+      "label": "関心",
+      "en": "Public interest in the scandal soon waned.",
+      "ja": "そのスキャンダルへの世間の関心はすぐにうすれた。"
+    },
+    {
+      "source": "original",
+      "label": "力",
+      "en": "As the emperor's power waned, local leaders grew stronger.",
+      "ja": "皇帝の力が衰えるにつれ、地方の指導者が力をつけた。"
+    },
+    {
+      "source": "original",
+      "label": "wax and wane",
+      "en": "Her enthusiasm for tennis has waxed and waned over the years.",
+      "ja": "彼女のテニス熱は年によって高まったり冷めたりしてきた。"
+    },
+    {
+      "source": "original",
+      "label": "on the wane",
+      "en": "The singer's popularity is on the wane.",
+      "ja": "その歌手の人気は衰えかけている。"
+    },
+    {
+      "source": "original",
+      "label": "fade との比較",
+      "en": "His memory of the trip faded, and his interest in travel waned.",
+      "ja": "旅の記憶はうすれ、旅行への関心も衰えていった。"
+    }
+  ],
+  "check_points": [
+    "wax and wane の意味を言えるか",
+    "wane が自動詞であることを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で「(関心・力が)衰える」として出る。decline の言いかえ。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2455
+    }
+  ]
+}

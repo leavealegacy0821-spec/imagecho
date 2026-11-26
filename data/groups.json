@@ -75,7 +75,7 @@
     },
     {
       "title": "使い分け:示す・明かす",
-      "note": "show=見せる(最も広い) ／ indicate=指で指すように示す ／ imply=言葉の奥にふくませる ／ suggest=それとなく示す ／ reveal=おおいを取って明かす ／ disclose=隠していた情報を公にする ／ expose=おおいをはがしてさらす",
+      "note": "show=見せる(最も広い) ／ indicate=指で指すように示す ／ imply=言葉の奥にふくませる ／ suggest=それとなく示す ／ reveal=おおいを取って明かす ／ disclose=隠していた情報を公にする ／ expose=おおいをはがしてさらす ／ allude=名前を出さず遠まわしにふれる",
       "words": [
         "show",
         "indicate",
@@ -84,7 +84,8 @@
         "reveal",
         "disclose",
         "expose",
-        "demonstrate"
+        "demonstrate",
+        "allude"
       ]
     },
     {
@@ -852,7 +853,7 @@
     },
     {
       "title": "使い分け:減る・弱まる",
-      "note": "decrease=数量が減る ／ reduce=(意図して)減らす ／ decline=下向きに傾いて衰える ／ diminish=小さくなる ／ shrink=縮む ／ fade=色・音が薄れて消える ／ decay=朽ちて崩れる ／ dwindle=だんだん細って少なくなる ／ subside=(勢いが)おさまる・沈む ／ erode=少しずつ削りとられる・むしばまれる ／ weaken=支える力を抜いてもろくする ／ lessen=痛みや危険の度合いをやわらげる ／ curtail=予算・活動をばっさり切りつめる ／ lower=高い所から下へおろす・値段や声を下げる(他動詞)",
+      "note": "decrease=数量が減る ／ reduce=(意図して)減らす ／ decline=下向きに傾いて衰える ／ diminish=小さくなる ／ shrink=縮む ／ fade=色・音が薄れて消える ／ decay=朽ちて崩れる ／ dwindle=だんだん細って少なくなる ／ subside=(勢いが)おさまる・沈む ／ erode=少しずつ削りとられる・むしばまれる ／ weaken=支える力を抜いてもろくする ／ lessen=痛みや危険の度合いをやわらげる ／ curtail=予算・活動をばっさり切りつめる ／ lower=高い所から下へおろす・値段や声を下げる(他動詞) ／ wane=月が欠けるように力・関心がじわじわ衰える",
       "words": [
         "decrease",
         "reduce",
@@ -867,7 +868,8 @@
         "weaken",
         "lessen",
         "curtail",
-        "lower"
+        "lower",
+        "wane"
       ]
     },
     {
@@ -888,13 +890,14 @@
     },
     {
       "title": "使い分け:消える・滅びる",
-      "note": "vanish=急に見えなくなる ／ fade=しだいに薄れる ／ perish=(急に)死ぬ・滅びる ／ collapse=崩れ落ちる ／ evaporate=湯気になって空中へ抜けて消える",
+      "note": "vanish=急に見えなくなる ／ fade=しだいに薄れる ／ perish=(急に)死ぬ・滅びる ／ collapse=崩れ落ちる ／ evaporate=湯気になって空中へ抜けて消える ／ wither=水気がぬけてしおれる・しぼむ",
       "words": [
         "vanish",
         "fade",
         "perish",
         "collapse",
-        "evaporate"
+        "evaporate",
+        "wither"
       ]
     },
     {
@@ -1530,14 +1533,18 @@
     },
     {
       "title": "使い分け:十分・不足",
-      "note": "sufficient=必要を満たすのに足りる ／ adequate=要求にちょうど見合う ／ scarce=乏しい・少ない ／ lack=欠けている ／ short=足りない ／ abound=たくさんある",
+      "note": "sufficient=必要を満たすのに足りる ／ adequate=要求にちょうど見合う ／ scarce=乏しい・少ない ／ lack=欠けている ／ short=足りない ／ abound=たくさんある ／ abundant=波があふれるほど豊富 ／ ample=十分なうえにゆとりがある ／ plentiful=かごに山盛り、たっぷりある ／ meager=大皿にちょっぴり、みじめなほど少ない",
       "words": [
         "sufficient",
         "adequate",
         "scarce",
         "lack",
         "short",
-        "abound"
+        "abound",
+        "abundant",
+        "ample",
+        "plentiful",
+        "meager"
       ]
     },
     {
@@ -1831,13 +1838,16 @@
     },
     {
       "title": "使い分け:なぐさめる・静める",
-      "note": "comfort=そばで支えてほっと楽にする ／ console=大きな悲しみに寄り添ってなぐさめる ／ soothe=高ぶった気持ち・痛みをそっと静める ／ relieve=重荷を取り除いて楽にする ／ relax=張りつめたものをゆるめてほっとする",
+      "note": "comfort=そばで支えてほっと楽にする ／ console=大きな悲しみに寄り添ってなぐさめる ／ soothe=高ぶった気持ち・痛みをそっと静める ／ relieve=重荷を取り除いて楽にする ／ relax=張りつめたものをゆるめてほっとする ／ appease=要求をのんで怒りをしずめる ／ placate=ことばや配慮で怒りをなだめる ／ pacify=荒れたもの(泣く子・暴動)を平和な状態にもどす",
       "words": [
         "comfort",
         "console",
         "soothe",
         "relieve",
-        "relax"
+        "relax",
+        "appease",
+        "placate",
+        "pacify"
       ]
     },
     {

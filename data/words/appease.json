@@ -1,0 +1,93 @@
+{
+  "word": "appease",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈpiːz/",
+  "core_image": {
+    "text": "相手の求めるものを差し出して、怒りをしずめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"96\" y2=\"80\"/><line x1=\"60\" y1=\"74\" x2=\"42\" y2=\"94\"/><rect x=\"98\" y=\"72\" width=\"16\" height=\"14\"/><line x1=\"120\" y1=\"79\" x2=\"142\" y2=\"79\"/><polyline points=\"135,75.2 142,79 135,82.8\"/><circle cx=\"172\" cy=\"52\" r=\"10\"/><line x1=\"172\" y1=\"62\" x2=\"172\" y2=\"106\"/><line x1=\"172\" y1=\"106\" x2=\"162\" y2=\"140\"/><line x1=\"172\" y1=\"106\" x2=\"182\" y2=\"140\"/><line x1=\"172\" y1=\"74\" x2=\"154\" y2=\"88\"/><line x1=\"172\" y1=\"74\" x2=\"190\" y2=\"88\"/><polyline points=\"160 34 166 26 172 34 178 26 184 34\"/></g><text x=\"110\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ゆずって</text><text x=\"212\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しずまる</text></svg>"
+  },
+  "etymology": "ap(〜へ)+ pease(peace=平和)→ 相手を平和な状態へもっていく → ①(要求をのんで)なだめる・怒りをしずめる ②(飢え・好奇心を)満たす ③(政治)宥和する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone less angry or stop them from attacking, by giving them what they want."
+    }
+  ],
+  "cautions": [
+    "ポイントは「相手の要求に応じて・何かをゆずって」しずめること。歴史の appeasement(宥和政策)は「ゆずりすぎ」という悪い意味で出る",
+    "appease=要求をのんでしずめる/placate=なだめる言葉や小さな譲歩で怒りをやわらげる/pacify=荒れたもの(泣く子・暴動)を平和な状態にもどす/soothe=痛みや気持ちをやさしく落ち着かせる",
+    "appease one's hunger(空腹を満たす)のように欲求を満たす意味もある"
+  ],
+  "patterns": [
+    {
+      "form": "appease A",
+      "meaning": "Aをなだめる"
+    },
+    {
+      "form": "appease A's anger",
+      "meaning": "Aの怒りをしずめる"
+    },
+    {
+      "form": "appease one's hunger / curiosity",
+      "meaning": "空腹・好奇心を満たす"
+    },
+    {
+      "form": "appeasement",
+      "meaning": "宥和(政策)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "なだめる",
+      "en": "The company lowered its prices to appease angry customers.",
+      "ja": "会社は怒った客をなだめるために値下げした。"
+    },
+    {
+      "source": "original",
+      "label": "要求をのむ",
+      "en": "The government made concessions to appease the protesters.",
+      "ja": "政府は抗議する人々をしずめるために譲歩した。"
+    },
+    {
+      "source": "original",
+      "label": "怒りを",
+      "en": "Nothing I said could appease her anger.",
+      "ja": "私が何を言っても彼女の怒りはおさまらなかった。"
+    },
+    {
+      "source": "original",
+      "label": "欲求を満たす",
+      "en": "He bought a snack to appease his hunger.",
+      "ja": "彼は空腹を満たすためにおやつを買った。"
+    },
+    {
+      "source": "original",
+      "label": "appeasement",
+      "en": "Many historians criticize the policy of appeasement before the war.",
+      "ja": "多くの歴史家は戦前の宥和政策を批判している。"
+    },
+    {
+      "source": "original",
+      "label": "soothe との比較",
+      "en": "Gifts may appease a rival, but only kind words can soothe a friend's hurt feelings.",
+      "ja": "贈り物で相手をなだめることはできても、友人の傷ついた気持ちをやわらげられるのはやさしい言葉だけだ。"
+    }
+  ],
+  "check_points": [
+    "appease の pease が何の語か言えるか",
+    "appease と soothe のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "歴史・政治の長文で「なだめる」「宥和政策」として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2448
+    }
+  ]
+}
