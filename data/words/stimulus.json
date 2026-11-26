@@ -1,0 +1,93 @@
+{
+  "word": "stimulus",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈstɪmjələs/",
+  "core_image": {
+    "text": "外からつついて、反応や動きを起こさせるもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"24\" y1=\"70\" x2=\"96\" y2=\"70\"/><line x1=\"96\" y1=\"70\" x2=\"146\" y2=\"70\"/><polyline points=\"139,66.2 146,70 139,73.8\"/><circle cx=\"160\" cy=\"52\" r=\"10\"/><line x1=\"160\" y1=\"62\" x2=\"160\" y2=\"106\"/><line x1=\"160\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"160\" y1=\"74\" x2=\"140\" y2=\"60\"/><line x1=\"160\" y1=\"74\" x2=\"180\" y2=\"60\"/><line x1=\"176\" y1=\"40\" x2=\"184\" y2=\"34\"/><line x1=\"144\" y1=\"40\" x2=\"136\" y2=\"34\"/></g><text x=\"60\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">外からつつく</text><text x=\"206\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">反応</text></svg>"
+  },
+  "etymology": "ラテン語 stimulus(家畜を追い立てる先のとがった棒)→ つついて動かすもの → ①(生物・感覚への)刺激 ②(活動・成長を起こす)刺激・励み・きっかけ",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "something that causes a reaction or makes something grow or develop more quickly."
+    }
+  ],
+  "cautions": [
+    "複数形は stimuli(/ˈstɪmjəlaɪ/)。stimuluses とはしない。入試の文法・語形でねらわれる",
+    "stimulus=外からつついて反応を起こす刺激/motive=内側から行動へ動かすわけ/incentive=やる気を起こさせるごほうび",
+    "a stimulus to A / for A(A への刺激・きっかけ)。動詞 stimulate(刺激する)、形容詞 stimulating(刺激的な)"
+  ],
+  "patterns": [
+    {
+      "form": "a stimulus to / for A",
+      "meaning": "A への刺激・きっかけ"
+    },
+    {
+      "form": "respond to a stimulus",
+      "meaning": "刺激に反応する"
+    },
+    {
+      "form": "economic stimulus",
+      "meaning": "景気刺激(策)"
+    },
+    {
+      "form": "stimuli",
+      "meaning": "(複数形)刺激"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "刺激に反応",
+      "en": "Plants respond to light as a stimulus and grow toward it.",
+      "ja": "植物は光を刺激として反応し、光の方へ伸びる。"
+    },
+    {
+      "source": "original",
+      "label": "複数形 stimuli",
+      "en": "Babies react to many different stimuli, such as sounds and colors.",
+      "ja": "赤ちゃんは音や色など、さまざまな刺激に反応する。"
+    },
+    {
+      "source": "original",
+      "label": "きっかけ",
+      "en": "The new library acted as a stimulus to reading in the town.",
+      "ja": "新しい図書館は町の読書のきっかけとなった。"
+    },
+    {
+      "source": "original",
+      "label": "景気刺激",
+      "en": "The government announced an economic stimulus to create jobs.",
+      "ja": "政府は雇用を生むための景気刺激策を発表した。"
+    },
+    {
+      "source": "original",
+      "label": "励み",
+      "en": "Praise from her teacher was a strong stimulus for her to study harder.",
+      "ja": "先生にほめられたことが、彼女がもっと勉強する強い励みになった。"
+    },
+    {
+      "source": "original",
+      "label": "incentive との比較",
+      "en": "Money is an incentive, but curiosity is often the best stimulus for learning.",
+      "ja": "お金はやる気を起こすごほうびだが、好奇心こそが学びへの最良の刺激であることが多い。"
+    }
+  ],
+  "check_points": [
+    "stimulus の複数形を言えるか",
+    "stimulus と motive のちがい(外からつつく/内側のわけ)を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "生物・心理・経済の長文で「刺激」。複数形 stimuli の語形と、stimulate との品詞の区別が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2488
+    }
+  ]
+}

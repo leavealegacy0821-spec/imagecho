@@ -483,20 +483,23 @@
     },
     {
       "title": "使い分け:招く・迎える",
-      "note": "invite=こちらへどうぞと呼びこむ ／ welcome=来た人を両手を広げて喜んで迎える ／ greet=顔を合わせてあいさつする(喜びとは限らない)",
+      "note": "invite=こちらへどうぞと呼びこむ ／ welcome=来た人を両手を広げて喜んで迎える ／ greet=顔を合わせてあいさつする(喜びとは限らない) ／ beckon=手招きして身ぶりでこっちへ呼び寄せる",
       "words": [
         "invite",
         "welcome",
-        "greet"
+        "greet",
+        "beckon"
       ]
     },
     {
       "title": "使い分け:うらやむ・ねたむ",
-      "note": "envy=人の持っているものを横目で見てほしがる ／ jealous=自分のものを取られまいと胸を燃やす・ねたむ ／ resent=された事をかみしめて腹を立てる",
+      "note": "envy=人の持っているものを横目で見てほしがる ／ jealous=自分のものを取られまいと胸を燃やす・ねたむ ／ resent=された事をかみしめて腹を立てる ／ covet=人のものをのどから手が出るほど欲しがる ／ begrudge=人が得たもの・自分が出すものを心の中で惜しむ(not begrudge A B=A の B を当然と思う)",
       "words": [
         "envy",
         "jealous",
-        "resent"
+        "resent",
+        "covet",
+        "begrudge"
       ]
     },
     {
@@ -814,11 +817,14 @@
     },
     {
       "title": "使い分け:群がる",
-      "note": "crowd=人が集まってぎっしり混む(いちばんふつう) ／ swarm=小さな虫の群れのように、動きまわりながら群がる(be swarming with A) ／ throng=大勢の人が一か所にどっと押し寄せる(be thronged with A、やや書き言葉)",
+      "note": "crowd=人が集まってぎっしり混む(いちばんふつう) ／ swarm=小さな虫の群れのように、動きまわりながら群がる(be swarming with A) ／ throng=大勢の人が一か所にどっと押し寄せる(be thronged with A、やや書き言葉) ／ flock=鳥や羊の群れのように同じ方へどっと押し寄せる(flock to A) ／ cluster=ぶどうの房のように小さくかたまって寄り集まる ／ herd=牛など大きな家畜の群れ、ひとまとめに追い立てる(herd mentality)",
       "words": [
         "crowd",
         "swarm",
-        "throng"
+        "throng",
+        "flock",
+        "cluster",
+        "herd"
       ]
     },
     {
@@ -1386,11 +1392,13 @@
     },
     {
       "title": "使い分け:動機・衝動",
-      "note": "motive=内側から人を行動へ動かすわけ(犯罪の動機・下心) ／ incentive=外からぶら下げるごほうび・励み ／ impulse=考えるより先に突き動かす一瞬の力(on impulse)",
+      "note": "motive=内側から人を行動へ動かすわけ(犯罪の動機・下心) ／ incentive=外からぶら下げるごほうび・励み ／ impulse=考えるより先に突き動かす一瞬の力(on impulse) ／ stimulus=外からつついて反応を起こさせる刺激・きっかけ(複数 stimuli) ／ inducement=こちらへ引き入れるために差し出す誘い・見返り",
       "words": [
         "motive",
         "incentive",
-        "impulse"
+        "impulse",
+        "stimulus",
+        "inducement"
       ]
     },
     {
@@ -1604,11 +1612,12 @@
     },
     {
       "title": "使い分け:まねる",
-      "note": "imitate=形ややり方をまねる(中立・広い) ／ mimic=声やしぐさをそっくりまねて演じる(からかいも) ／ emulate=あこがれの手本に追いつこうと見習う(ほめる意味)",
+      "note": "imitate=形ややり方をまねる(中立・広い) ／ mimic=声やしぐさをそっくりまねて演じる(からかいも) ／ emulate=あこがれの手本に追いつこうと見習う(ほめる意味) ／ impersonate=その人の姿をかぶってなりすます(だます・物まね芸)",
       "words": [
         "imitate",
         "mimic",
-        "emulate"
+        "emulate",
+        "impersonate"
       ]
     },
     {
@@ -1797,12 +1806,13 @@
     },
     {
       "title": "使い分け:聞く",
-      "note": "hear=(自然に)耳に入る・聞こえる ／ listen=(自分から)耳を向けて聞く ／ overhear=自分あてでない話がたまたま耳に入る ／ heed=忠告・警告を心にとめて従う",
+      "note": "hear=(自然に)耳に入る・聞こえる ／ listen=(自分から)耳を向けて聞く ／ overhear=自分あてでない話がたまたま耳に入る ／ heed=忠告・警告を心にとめて従う ／ eavesdrop=軒下にひそんでわざとこっそり盗み聞きする(eavesdrop on A)",
       "words": [
         "hear",
         "listen",
         "overhear",
-        "heed"
+        "heed",
+        "eavesdrop"
       ]
     },
     {

@@ -1,0 +1,98 @@
+{
+  "word": "herd",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/hɜːrd/",
+  "core_image": {
+    "text": "牛や羊の群れを、ひとまとめに追い立てて動かす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><ellipse cx=\"50\" cy=\"112\" rx=\"14\" ry=\"9\"/><ellipse cx=\"82\" cy=\"104\" rx=\"14\" ry=\"9\"/><ellipse cx=\"66\" cy=\"128\" rx=\"14\" ry=\"9\"/><ellipse cx=\"104\" cy=\"124\" rx=\"14\" ry=\"9\"/><line x1=\"150\" y1=\"86\" x2=\"122\" y2=\"86\"/><polyline points=\"129,89.8 122,86 129,82.2\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"168\" y2=\"96\"/><line x1=\"168\" y1=\"96\" x2=\"156\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"206\" y2=\"96\"/></g><text x=\"90\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひとまとめに追う</text><text x=\"76\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">群れ</text></svg>"
+  },
+  "etymology": "古英語 heord(家畜の群れ)→ 群れ → ①(名詞)(牛・象などの)群れ、(人の)大衆 ②(動詞)(群れを)追い立てる・(人を)まとめて移動させる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a large group of animals of the same type that live and feed together."
+    },
+    {
+      "pos": "動詞",
+      "text": "to move people or animals somewhere in a group."
+    }
+  ],
+  "cautions": [
+    "動詞は他動詞:herd A into / toward B(A を B へまとめて追い立てる)。人に使うと「家畜のように扱う」ややいやな感じ",
+    "herd=牛・象など大型の動物の群れ、まとめて追う/flock=鳥・羊の群れ、自分たちで押し寄せる/swarm=虫の群れ",
+    "herd mentality / herd instinct(群集心理・周りに合わせる心理)、herd immunity(集団免疫)は長文頻出。hard / heard と発音を区別"
+  ],
+  "patterns": [
+    {
+      "form": "a herd of A",
+      "meaning": "(牛・象などの)群れ"
+    },
+    {
+      "form": "herd A into B",
+      "meaning": "A を B へまとめて追い立てる"
+    },
+    {
+      "form": "herd mentality / instinct",
+      "meaning": "群集心理"
+    },
+    {
+      "form": "herd immunity",
+      "meaning": "集団免疫"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "群れ",
+      "en": "A herd of elephants walked slowly toward the river.",
+      "ja": "象の群れがゆっくりと川の方へ歩いていった。"
+    },
+    {
+      "source": "original",
+      "label": "追い立てる",
+      "en": "The farmer herded the cows into the barn before the storm.",
+      "ja": "農夫は嵐の前に牛を小屋へ追い込んだ。"
+    },
+    {
+      "source": "original",
+      "label": "人をまとめて動かす",
+      "en": "The tourists were herded onto the bus by the guide.",
+      "ja": "観光客たちはガイドにせき立てられてバスに乗せられた。"
+    },
+    {
+      "source": "original",
+      "label": "群集心理",
+      "en": "Herd mentality makes people buy things just because others do.",
+      "ja": "群集心理のせいで、人は他人が買うからというだけで物を買ってしまう。"
+    },
+    {
+      "source": "original",
+      "label": "集団免疫",
+      "en": "Vaccines help a community reach herd immunity.",
+      "ja": "ワクチンは地域が集団免疫に達するのを助ける。"
+    },
+    {
+      "source": "original",
+      "label": "flock との比較",
+      "en": "A herd of cattle is driven by people, while a flock of birds flies together on its own.",
+      "ja": "牛の群れは人に追われて動くが、鳥の群れは自分たちでいっしょに飛ぶ。"
+    }
+  ],
+  "check_points": [
+    "herd と flock の使い分けを言えるか",
+    "herd mentality の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "herd mentality / herd immunity の形で社会・医療の長文によく出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2495
+    }
+  ]
+}

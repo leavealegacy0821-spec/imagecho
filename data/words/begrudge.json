@@ -1,0 +1,93 @@
+{
+  "word": "begrudge",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/bɪˈɡrʌdʒ/",
+  "core_image": {
+    "text": "人が得たものや出すものを、心の中で惜しんでしぶる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"92\" y2=\"80\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"98\"/><circle cx=\"100\" cy=\"80\" r=\"8\"/><line x1=\"112\" y1=\"80\" x2=\"150\" y2=\"80\"/><polyline points=\"143,76.2 150,80 143,83.8\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"160\" y2=\"82\"/><line x1=\"180\" y1=\"74\" x2=\"196\" y2=\"96\"/></g><text x=\"120\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しぶしぶ</text><text x=\"120\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">惜しむ</text></svg>"
+  },
+  "etymology": "be(すっかり)+ grudge(不満に思う・出し惜しむ)→ すっかり惜しむ → ①(人の幸運などを)ねたむ・快く思わない ②(お金・時間などを)出し惜しむ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to feel unhappy that someone has something, or to give something unwillingly."
+    }
+  ],
+  "cautions": [
+    "二重目的語の形 begrudge A B(A の B をねたむ)が大切。否定文 I don't begrudge him his success.(彼の成功をねたんではいない=当然だと思う)の形でよく出る",
+    "begrudge=人の得たものや出すものを惜しんでしぶる/envy=人の持ち物をうらやむ/resent=されたことに腹を立てる",
+    "begrudge doing(〜するのをしぶる)。名詞 grudge(恨み、hold a grudge against A)"
+  ],
+  "patterns": [
+    {
+      "form": "begrudge A B",
+      "meaning": "A の B をねたむ・快く思わない"
+    },
+    {
+      "form": "not begrudge A B",
+      "meaning": "A の B を当然だと思う"
+    },
+    {
+      "form": "begrudge doing / the time",
+      "meaning": "〜するのを・時間を惜しむ"
+    },
+    {
+      "form": "hold a grudge against A",
+      "meaning": "(名詞)A に恨みをいだく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ねたまない",
+      "en": "I don't begrudge her the prize; she worked harder than anyone.",
+      "ja": "彼女が賞を取ったことをねたんではいない。だれよりも努力したのだから。"
+    },
+    {
+      "source": "original",
+      "label": "ねたむ",
+      "en": "He seemed to begrudge his brother every bit of good luck.",
+      "ja": "彼は兄に少しでも幸運があると快く思わないようだった。"
+    },
+    {
+      "source": "original",
+      "label": "出し惜しむ",
+      "en": "My father never begrudged the money he spent on books for us.",
+      "ja": "父は私たちのための本にかけるお金を決して惜しまなかった。"
+    },
+    {
+      "source": "original",
+      "label": "begrudge doing",
+      "en": "She begrudged spending her whole weekend at the office.",
+      "ja": "彼女は週末をまるまる会社で過ごすのをしぶった。"
+    },
+    {
+      "source": "original",
+      "label": "grudge",
+      "en": "He still holds a grudge against the coach who dropped him from the team.",
+      "ja": "彼は自分をチームから外したコーチを今も恨んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "resent との比較",
+      "en": "I resent being lied to, but I don't begrudge you your holiday.",
+      "ja": "うそをつかれたのには腹が立つが、君が休みをとるのはねたんでいない。"
+    }
+  ],
+  "check_points": [
+    "begrudge A B の形で意味を言えるか",
+    "begrudge と resent のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "not begrudge A B(A の B を当然と思う)の否定の形が、和訳・内容一致で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2492
+    }
+  ]
+}

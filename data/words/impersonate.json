@@ -1,0 +1,93 @@
+{
+  "word": "impersonate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪmˈpɜːrsəneɪt/",
+  "core_image": {
+    "text": "別の人の姿をかぶって、その人になりすます",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"72\" y2=\"96\"/><line x1=\"48\" y1=\"40\" x2=\"72\" y2=\"40\"/><rect x=\"52\" y=\"28\" width=\"16\" height=\"12\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"158\" y2=\"96\"/><line x1=\"170\" y1=\"74\" x2=\"182\" y2=\"96\"/><line x1=\"158\" y1=\"40\" x2=\"182\" y2=\"40\"/><rect x=\"162\" y=\"28\" width=\"16\" height=\"12\"/><line x1=\"80\" y1=\"82\" x2=\"150\" y2=\"82\" stroke-dasharray=\"5 5\"/><polyline points=\"143,78.2 150,82 143,85.8\"/></g><text x=\"115\" y=\"68\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">なりすます</text><text x=\"170\" y=\"16\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">にせ者</text></svg>"
+  },
+  "etymology": "im(中へ)+ person(人物・役。もとはラテン語 persona=役者の仮面)+ ate(〜にする)→ 他人の役の中へ入る → ①(だますために)〜になりすます ②(笑わせるために)〜の声色・物まねをする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to pretend to be another person, either to deceive people or to entertain them."
+    }
+  ],
+  "cautions": [
+    "他動詞:impersonate A(A になりすます)。impersonate as A とはしない",
+    "impersonate=その人になりきって本人のふりをする/imitate=形ややり方をまねる/mimic=声やしぐさをそっくりまねる",
+    "だます意味(警官になりすます=犯罪)と、芸としての物まね(entertainer)の両方がある。名詞 impersonation、impersonator(物まね芸人)"
+  ],
+  "patterns": [
+    {
+      "form": "impersonate A",
+      "meaning": "A になりすます"
+    },
+    {
+      "form": "impersonate a police officer",
+      "meaning": "警官になりすます"
+    },
+    {
+      "form": "impersonation",
+      "meaning": "なりすまし・物まね"
+    },
+    {
+      "form": "impersonator",
+      "meaning": "物まね芸人・なりすます人"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "なりすます",
+      "en": "The man was arrested for impersonating a police officer.",
+      "ja": "その男は警官になりすました罪で逮捕された。"
+    },
+    {
+      "source": "original",
+      "label": "ネットのなりすまし",
+      "en": "Someone impersonated my friend online and asked me for money.",
+      "ja": "誰かがネット上で友人になりすまして、私にお金を求めてきた。"
+    },
+    {
+      "source": "original",
+      "label": "物まね",
+      "en": "The comedian is famous for impersonating politicians.",
+      "ja": "そのお笑い芸人は政治家の物まねで有名だ。"
+    },
+    {
+      "source": "original",
+      "label": "impersonation",
+      "en": "His impersonation of our teacher made the whole class laugh.",
+      "ja": "彼の先生の物まねでクラス中が笑った。"
+    },
+    {
+      "source": "original",
+      "label": "impersonator",
+      "en": "An Elvis impersonator sang at the party.",
+      "ja": "パーティーでエルビスの物まね芸人が歌った。"
+    },
+    {
+      "source": "original",
+      "label": "imitate との比較",
+      "en": "Children imitate their parents, but they do not impersonate them.",
+      "ja": "子どもは親のまねをするが、親になりすますわけではない。"
+    }
+  ],
+  "check_points": [
+    "impersonate の後ろに as を置かないことを言えるか",
+    "impersonate と imitate のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "ニュース・ネット詐欺の長文で「なりすます」。person(仮面・役)の語源から意味を推測させる問題にもなる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2490
+    }
+  ]
+}

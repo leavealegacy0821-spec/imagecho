@@ -1,0 +1,98 @@
+{
+  "word": "cluster",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈklʌstər/",
+  "core_image": {
+    "text": "ぶどうの房のように、ひとかたまりに寄り集まる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"70\" y1=\"30\" x2=\"70\" y2=\"44\"/><circle cx=\"62\" cy=\"52\" r=\"8\"/><circle cx=\"78\" cy=\"52\" r=\"8\"/><circle cx=\"54\" cy=\"66\" r=\"8\"/><circle cx=\"70\" cy=\"66\" r=\"8\"/><circle cx=\"86\" cy=\"66\" r=\"8\"/><circle cx=\"62\" cy=\"80\" r=\"8\"/><circle cx=\"78\" cy=\"80\" r=\"8\"/><circle cx=\"70\" cy=\"94\" r=\"8\"/><circle cx=\"158\" cy=\"52\" r=\"10\"/><line x1=\"158\" y1=\"62\" x2=\"158\" y2=\"106\"/><line x1=\"158\" y1=\"106\" x2=\"148\" y2=\"140\"/><line x1=\"158\" y1=\"106\" x2=\"168\" y2=\"140\"/><circle cx=\"183\" cy=\"52\" r=\"10\"/><line x1=\"183\" y1=\"62\" x2=\"183\" y2=\"106\"/><line x1=\"183\" y1=\"106\" x2=\"173\" y2=\"140\"/><line x1=\"183\" y1=\"106\" x2=\"193\" y2=\"140\"/><circle cx=\"208\" cy=\"52\" r=\"10\"/><line x1=\"208\" y1=\"62\" x2=\"208\" y2=\"106\"/><line x1=\"208\" y1=\"106\" x2=\"198\" y2=\"140\"/><line x1=\"208\" y1=\"106\" x2=\"218\" y2=\"140\"/></g><text x=\"70\" y=\"122\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふさ</text><text x=\"182\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かたまり</text></svg>"
+  },
+  "etymology": "古英語 clyster(房)→ ぶどうなどの房 → ①(名詞)(ぶどう・花・星などの)房・群れ・集団 ②(動詞)(人・物が)かたまって集まる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a group of similar things or people that are close together."
+    },
+    {
+      "pos": "動詞",
+      "text": "to form a close group."
+    }
+  ],
+  "cautions": [
+    "動詞は cluster around / together(〜のまわりに・かたまって集まる)。人だけでなく家・星・細胞などにも使う",
+    "cluster=房のように小さくかたまる(止まっている感じ)/flock=同じ方へどっと集まって来る/crowd=ぎっしり混む",
+    "名詞 a cluster of A(A の房・集まり)。クラスター(集団感染)もこの語"
+  ],
+  "patterns": [
+    {
+      "form": "a cluster of A",
+      "meaning": "A の房・集まり"
+    },
+    {
+      "form": "cluster around A",
+      "meaning": "A のまわりにかたまる"
+    },
+    {
+      "form": "cluster together",
+      "meaning": "かたまって集まる"
+    },
+    {
+      "form": "be clustered in A",
+      "meaning": "A に集中している"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "房",
+      "en": "She picked a cluster of grapes from the vine.",
+      "ja": "彼女はつるからぶどうの房をひとつ摘んだ。"
+    },
+    {
+      "source": "original",
+      "label": "集まり",
+      "en": "A small cluster of houses stood at the foot of the mountain.",
+      "ja": "山のふもとに小さな家々が寄り集まって建っていた。"
+    },
+    {
+      "source": "original",
+      "label": "cluster around",
+      "en": "The students clustered around the teacher to see the experiment.",
+      "ja": "生徒たちは実験を見ようと先生のまわりに集まった。"
+    },
+    {
+      "source": "original",
+      "label": "cluster together",
+      "en": "Penguins cluster together to keep warm in the cold wind.",
+      "ja": "ペンギンは冷たい風の中で暖をとるため、かたまって身を寄せ合う。"
+    },
+    {
+      "source": "original",
+      "label": "集中している",
+      "en": "Most of the country's factories are clustered in a few cities.",
+      "ja": "その国の工場の大半は、いくつかの都市に集中している。"
+    },
+    {
+      "source": "original",
+      "label": "星の集団",
+      "en": "On a clear night you can see a cluster of stars called the Pleiades.",
+      "ja": "よく晴れた夜には、すばると呼ばれる星の集まりが見える。"
+    }
+  ],
+  "check_points": [
+    "cluster と flock のちがい(かたまる/押し寄せる)を言えるか",
+    "a cluster of A の例を1つ言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "科学・社会の長文で「集団・集中」。be clustered in A(A に集中している)が内容一致で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2494
+    }
+  ]
+}
