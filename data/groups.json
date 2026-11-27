@@ -143,13 +143,15 @@
     },
     {
       "title": "使い分け:隠す",
-      "note": "conceal=意図して見えないようにする ／ disguise=別の姿に見せかける ／ withhold=渡さず手元に止める ／ suppress=力で押さえ込む ／ hide=物かげに入れて見えなくする(日常語・隠れる も)",
+      "note": "conceal=意図して見えないようにする ／ disguise=別の姿に見せかける ／ withhold=渡さず手元に止める ／ suppress=力で押さえ込む ／ hide=物かげに入れて見えなくする(日常語・隠れる も) ／ veil=うすい布をかけてぼんやりとしか見せない ／ mask=本当の顔に別の顔をかぶせて目立たなくする",
       "words": [
         "conceal",
         "disguise",
         "withhold",
         "suppress",
-        "hide"
+        "hide",
+        "veil",
+        "mask"
       ]
     },
     {
@@ -433,12 +435,13 @@
     },
     {
       "title": "使い分け:禁止する",
-      "note": "forbid=(個人が)してはいけないと言う ／ prohibit=(法・規則で)禁じる ／ ban=(公に)全面禁止する ／ bar=横木でさえぎって締め出す",
+      "note": "forbid=(個人が)してはいけないと言う ／ prohibit=(法・規則で)禁じる ／ ban=(公に)全面禁止する ／ bar=横木でさえぎって締め出す ／ veto=決まりかけた案に権限で1人「ノー」を突きつける",
       "words": [
         "forbid",
         "prohibit",
         "ban",
-        "bar"
+        "bar",
+        "veto"
       ]
     },
     {
@@ -550,12 +553,13 @@
     },
     {
       "title": "使い分け:満足させる",
-      "note": "satisfy=望みを満たす ／ content=(それで)満足している ／ fulfill=約束・条件を最後まで満たす ／ entertain=楽しませる",
+      "note": "satisfy=望みを満たす ／ content=(それで)満足している ／ fulfill=約束・条件を最後まで満たす ／ entertain=楽しませる ／ gratify=望みを満たしてありがたくうれしくさせる",
       "words": [
         "satisfy",
         "content",
         "fulfill",
-        "entertain"
+        "entertain",
+        "gratify"
       ]
     },
     {
@@ -1184,12 +1188,14 @@
     },
     {
       "title": "使い分け:奪う・盗む",
-      "note": "steal=物をこっそり盗む(steal A from B) ／ rob=人・場所から奪う(rob B of A) ／ deprive=人から奪って欠けさせる(deprive B of A) ／ strip=はぎ取る",
+      "note": "steal=物をこっそり盗む(steal A from B) ／ rob=人・場所から奪う(rob B of A) ／ deprive=人から奪って欠けさせる(deprive B of A) ／ strip=はぎ取る ／ plunder=力ずくで町・国からありったけを奪い去る ／ loot=騒ぎのどさくさに店・家から持ち去る",
       "words": [
         "steal",
         "rob",
         "deprive",
-        "strip"
+        "strip",
+        "plunder",
+        "loot"
       ]
     },
     {
@@ -1893,14 +1899,15 @@
     },
     {
       "title": "使い分け:驚かせる",
-      "note": "surprise=予想外で驚かせる ／ amaze=(よい意味で)目を見はらせる ／ astonish=信じられないほどぼうぜんとさせる ／ startle=急な音・動きでびくっとさせる(人が主語なら受け身) ／ shock=(悪いことで)どんと強く心をゆさぶる ／ stun=頭が真っ白になるほどぼうぜんとさせる(stunning=息をのむほど美しい)",
+      "note": "surprise=予想外で驚かせる ／ amaze=(よい意味で)目を見はらせる ／ astonish=信じられないほどぼうぜんとさせる ／ startle=急な音・動きでびくっとさせる(人が主語なら受け身) ／ shock=(悪いことで)どんと強く心をゆさぶる ／ stun=頭が真っ白になるほどぼうぜんとさせる(stunning=息をのむほど美しい) ／ astound=ありえないほどで口をあけて立ちつくさせる(いちばん強い)",
       "words": [
         "surprise",
         "amaze",
         "astonish",
         "startle",
         "shock",
-        "stun"
+        "stun",
+        "astound"
       ]
     },
     {
@@ -1916,7 +1923,7 @@
     },
     {
       "title": "使い分け:恐れる・怖がらせる",
-      "note": "afraid=怖がっている(状態) ／ frighten=急に恐怖を与える ／ dread=これから起こることを前もって恐れる ／ scared=(人が)こわくてびくびく(口語) ／ frightened=急な恐怖にぎょっとしておびえた ／ terrified=恐怖で身がすくむ(いちばん強い) ／ scary=(物事が)人をこわがらせる ／ horror=身の毛がよだつぞっとする恐怖 ／ panic=恐怖で頭が真っ白、あわてふためく(panicked) ／ intimidate=大きく見せておびえさせ、言うことをきかせる ／ daunt=大きな壁(むずかしさ)を前にやる気をしぼませる(daunting)",
+      "note": "afraid=怖がっている(状態) ／ frighten=急に恐怖を与える ／ dread=これから起こることを前もって恐れる ／ scared=(人が)こわくてびくびく(口語) ／ frightened=急な恐怖にぎょっとしておびえた ／ terrified=恐怖で身がすくむ(いちばん強い) ／ scary=(物事が)人をこわがらせる ／ horror=身の毛がよだつぞっとする恐怖 ／ panic=恐怖で頭が真っ白、あわてふためく(panicked) ／ intimidate=大きく見せておびえさせ、言うことをきかせる ／ daunt=大きな壁(むずかしさ)を前にやる気をしぼませる(daunting) ／ horrify=むごさに身の毛がよだつほどぞっとさせる ／ appall=ひどさに青ざめてあきれ果てさせる(appalling=ひどい) ／ alarm=「危ないぞ」と身構えさせ不安にする(alarming=心配な)",
       "words": [
         "afraid",
         "frighten",
@@ -1928,7 +1935,10 @@
         "horror",
         "panic",
         "intimidate",
-        "daunt"
+        "daunt",
+        "horrify",
+        "appall",
+        "alarm"
       ]
     },
     {

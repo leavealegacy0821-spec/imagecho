@@ -1,0 +1,98 @@
+{
+  "word": "loot",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/luːt/",
+  "core_image": {
+    "text": "騒ぎのどさくさにまぎれて、店や家から持ち去る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"20\" y=\"50\" width=\"90\" height=\"90\"/><polyline points=\"36 66 52 80 44 92 62 104\"/><polyline points=\"80 60 70 78 88 90\"/><circle cx=\"160\" cy=\"52\" r=\"10\"/><line x1=\"160\" y1=\"62\" x2=\"160\" y2=\"106\"/><line x1=\"160\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"160\" y1=\"74\" x2=\"118\" y2=\"82\"/><line x1=\"160\" y1=\"74\" x2=\"176\" y2=\"96\"/><rect x=\"170\" y=\"96\" width=\"16\" height=\"12\"/></g><text x=\"65\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">混乱中の店</text><text x=\"196\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どさくさに</text></svg>"
+  },
+  "etymology": "ヒンディー語 lūṭ(奪った物)から英語に入った → ①(動詞:)(暴動・災害の混乱の中で)店や家から盗む ②(名詞:)盗品・略奪品 ③(くだけて)戦利品・お宝",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to steal things from shops or houses, especially during a riot, war or natural disaster."
+    },
+    {
+      "pos": "名詞",
+      "text": "goods that have been stolen, or (informally) valuable things someone has collected."
+    }
+  ],
+  "cautions": [
+    "loot A(場所)=A(店・家)から盗む。目的語は場所でも物でもよい(loot shops / loot goods)",
+    "loot=混乱にまぎれて店・家から盗む(災害・暴動のニュースで頻出)/plunder=軍隊などが力ずくで大規模に奪う/steal=こっそり盗む",
+    "名詞 looting(略奪行為)、looter(略奪者)。root(根)と発音・つづりを混同しない"
+  ],
+  "patterns": [
+    {
+      "form": "loot A(店・家)",
+      "meaning": "A から盗む・A を荒らす"
+    },
+    {
+      "form": "looting",
+      "meaning": "(暴動などの)略奪行為"
+    },
+    {
+      "form": "looter",
+      "meaning": "略奪者"
+    },
+    {
+      "form": "the loot",
+      "meaning": "盗品・略奪品"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "盗む",
+      "en": "During the riot, people looted shops along the main street.",
+      "ja": "暴動のあいだ、人々は大通りの店を荒らして物を盗んだ。"
+    },
+    {
+      "source": "original",
+      "label": "災害",
+      "en": "After the earthquake, some houses were looted.",
+      "ja": "地震のあと、何軒かの家が荒らされた。"
+    },
+    {
+      "source": "original",
+      "label": "looting",
+      "en": "The police arrested dozens of people for looting.",
+      "ja": "警察は略奪行為で数十人を逮捕した。"
+    },
+    {
+      "source": "original",
+      "label": "looter",
+      "en": "Looters broke the windows and took electronics.",
+      "ja": "略奪者たちが窓を割り、電化製品を持ち去った。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The thieves hid the loot in an old warehouse.",
+      "ja": "泥棒たちは盗品を古い倉庫に隠した。"
+    },
+    {
+      "source": "original",
+      "label": "plunder との比較",
+      "en": "The army plundered the region, while local gangs looted empty homes.",
+      "ja": "軍隊がその地方を略奪し、地元の不良集団は空き家を荒らした。"
+    }
+  ],
+  "check_points": [
+    "loot と plunder のちがいを言えるか",
+    "looting の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "災害・暴動のニュース英文で「略奪」。looting / looter の派生語と plunder との区別が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2537
+    }
+  ]
+}

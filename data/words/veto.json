@@ -1,0 +1,98 @@
+{
+  "word": "veto",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/ˈviːtoʊ/",
+  "core_image": {
+    "text": "みんなが決めかけたことに、1人で「ノー」を突きつける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"84\" y2=\"66\"/><line x1=\"84\" y1=\"56\" x2=\"84\" y2=\"76\"/><line x1=\"50\" y1=\"74\" x2=\"36\" y2=\"98\"/><rect x=\"130\" y=\"40\" width=\"70\" height=\"90\"/><line x1=\"140\" y1=\"56\" x2=\"190\" y2=\"56\"/><line x1=\"140\" y1=\"70\" x2=\"190\" y2=\"70\"/><line x1=\"130\" y1=\"40\" x2=\"200\" y2=\"130\"/><line x1=\"200\" y1=\"40\" x2=\"130\" y2=\"130\"/></g><text x=\"165\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">決まりかけた案</text><text x=\"50\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ノー!</text></svg>"
+  },
+  "etymology": "ラテン語 veto=「私は禁じる」(古代ローマで、護民官が元老院の決定を止めるときの言葉)→ ①(名詞:)拒否権 ②(動詞:)(拒否権を使って議案・計画を)はねつける",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the official right to refuse to allow something, especially a law or decision."
+    },
+    {
+      "pos": "動詞",
+      "text": "to officially refuse to allow a law, plan or decision, especially by using this right."
+    }
+  ],
+  "cautions": [
+    "veto=権限をもつ人が、決まりかけた案を1人ではねつける/ban=(公に)全面禁止する/forbid=(個人が)してはいけないと言う/reject=(提案などを)はねつける(広く)",
+    "名詞 the power / right of veto(拒否権)、veto on A(A への拒否)。国連安全保障理事会の常任理事国の拒否権でよく出る",
+    "活用 vetoes / vetoed / vetoing。複数形も vetoes"
+  ],
+  "patterns": [
+    {
+      "form": "veto A",
+      "meaning": "A(議案・計画)に拒否権を使う・はねつける"
+    },
+    {
+      "form": "have the power / right of veto",
+      "meaning": "拒否権をもつ"
+    },
+    {
+      "form": "use / exercise a veto",
+      "meaning": "拒否権を行使する"
+    },
+    {
+      "form": "a veto on A",
+      "meaning": "A への拒否"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "動詞",
+      "en": "The president vetoed the new tax law.",
+      "ja": "大統領は新しい税の法案に拒否権を行使した。"
+    },
+    {
+      "source": "original",
+      "label": "拒否権",
+      "en": "Five countries have the right of veto in the UN Security Council.",
+      "ja": "国連安全保障理事会では5か国が拒否権をもっている。"
+    },
+    {
+      "source": "original",
+      "label": "行使する",
+      "en": "Russia used its veto to block the resolution.",
+      "ja": "ロシアは拒否権を行使してその決議を阻止した。"
+    },
+    {
+      "source": "original",
+      "label": "日常",
+      "en": "My parents vetoed my plan to travel abroad alone.",
+      "ja": "両親は私がひとりで海外旅行をする計画にだめを出した。"
+    },
+    {
+      "source": "original",
+      "label": "veto on",
+      "en": "The manager put a veto on any further spending.",
+      "ja": "部長はそれ以上の支出をいっさい認めなかった。"
+    },
+    {
+      "source": "original",
+      "label": "ban との比較",
+      "en": "The city banned cars downtown, but the mayor vetoed the parking fee.",
+      "ja": "市は中心部で車を禁止したが、市長は駐車料金の案をはねつけた。"
+    }
+  ],
+  "check_points": [
+    "veto の「拒否権」の意味を言えるか",
+    "veto と ban のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "政治・国際関係の長文で「拒否権」。国連の常任理事国の話題で出やすい。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2535
+    }
+  ]
+}

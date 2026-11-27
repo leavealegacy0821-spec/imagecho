@@ -1,0 +1,93 @@
+{
+  "word": "astound",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈstaʊnd/",
+  "core_image": {
+    "text": "信じられない大きさに、口をあけて立ちつくさせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"28\" y2=\"64\"/><line x1=\"50\" y1=\"74\" x2=\"72\" y2=\"64\"/><ellipse cx=\"50\" cy=\"56\" rx=\"3\" ry=\"2\"/><rect x=\"140\" y=\"12\" width=\"50\" height=\"128\"/><line x1=\"150\" y1=\"28\" x2=\"180\" y2=\"28\"/><line x1=\"150\" y1=\"48\" x2=\"180\" y2=\"48\"/><line x1=\"150\" y1=\"68\" x2=\"180\" y2=\"68\"/><line x1=\"150\" y1=\"88\" x2=\"180\" y2=\"88\"/><line x1=\"150\" y1=\"108\" x2=\"180\" y2=\"108\"/><line x1=\"70\" y1=\"40\" x2=\"132\" y2=\"22\" stroke-dasharray=\"5 5\"/><polyline points=\"124.2,20.3 132,22 126.3,27.6\"/></g><text x=\"100\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あぜん</text><text x=\"50\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">信じられない</text></svg>"
+  },
+  "etymology": "astonish と同じ根(古い英語 astone=ぼうぜんとさせる、雷に打たれたように)→ ①(ふつうでは考えられない物事が人を)びっくり仰天させる ②(受け身で)あぜんとする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to surprise or shock someone very much, especially because something seems almost impossible."
+    }
+  ],
+  "cautions": [
+    "人が主語なら受け身 be astounded at / by A / to do。形容詞 astounding=(信じられないほど)驚くべき",
+    "驚きの強さ:surprise < amaze < astonish < astound(いちばん強く、「ありえない」に近い)。よいことにも悪いことにも使う",
+    "an astounding number / amount(驚くほどの数・量)のように数量をほめる・強調する言い方が多い"
+  ],
+  "patterns": [
+    {
+      "form": "be astounded at / by A",
+      "meaning": "A に仰天する"
+    },
+    {
+      "form": "be astounded to do",
+      "meaning": "〜して仰天する"
+    },
+    {
+      "form": "astounding",
+      "meaning": "驚くべき・信じられないほどの"
+    },
+    {
+      "form": "It astounds me that 節",
+      "meaning": "〜とはあきれる・驚きだ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "The audience was astounded by the young pianist's skill.",
+      "ja": "観客はその若いピアニストの腕前に仰天した。"
+    },
+    {
+      "source": "original",
+      "label": "to do",
+      "en": "I was astounded to hear that he had climbed the mountain alone.",
+      "ja": "彼がひとりでその山に登ったと聞いて仰天した。"
+    },
+    {
+      "source": "original",
+      "label": "astounding",
+      "en": "The building was finished in an astounding six months.",
+      "ja": "その建物は驚くべきことにわずか6か月で完成した。"
+    },
+    {
+      "source": "original",
+      "label": "物事が主語",
+      "en": "The results of the experiment astounded even the researchers.",
+      "ja": "実験の結果には研究者たちでさえ仰天した。"
+    },
+    {
+      "source": "original",
+      "label": "It 〜 that",
+      "en": "It astounds me that so many people still believe that story.",
+      "ja": "あんな話をいまだに多くの人が信じているとは驚きだ。"
+    },
+    {
+      "source": "original",
+      "label": "amaze との比較",
+      "en": "The view amazed us, but its price astounded us.",
+      "ja": "その眺めには目を見はったが、値段には仰天した。"
+    }
+  ],
+  "check_points": [
+    "surprise / amaze / astonish / astound の強さの順を言えるか",
+    "astounding の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文・語彙問題で「仰天させる」。astonish・amaze との言いかえや、astounding / astounded の区別が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2531
+    }
+  ]
+}

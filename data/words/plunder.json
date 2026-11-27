@@ -1,0 +1,98 @@
+{
+  "word": "plunder",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈplʌndər/",
+  "core_image": {
+    "text": "力ずくで町や国に入り、ありったけを奪い去る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polygon points=\"20 140 20 90 50 64 80 90 80 140\"/><rect x=\"42\" y=\"110\" width=\"16\" height=\"30\"/><circle cx=\"140\" cy=\"52\" r=\"10\"/><line x1=\"140\" y1=\"62\" x2=\"140\" y2=\"106\"/><line x1=\"140\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"140\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"140\" y1=\"74\" x2=\"162\" y2=\"66\"/><line x1=\"140\" y1=\"74\" x2=\"126\" y2=\"96\"/><path d=\"M162 66 Q156 92 174 94 Q192 92 186 66 Z\"/><line x1=\"166\" y1=\"62\" x2=\"182\" y2=\"62\"/><line x1=\"192\" y1=\"108\" x2=\"224\" y2=\"108\"/><polyline points=\"217,104.2 224,108 217,111.8\"/></g><text x=\"50\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">町・国</text><text x=\"200\" y=\"128\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">根こそぎ</text></svg>"
+  },
+  "etymology": "ドイツ語・オランダ語の plündern / plunderen(家財を奪う)← Plunder(家財道具)→ 家の物をごっそり持ち去る → ①(戦争などで町・国を)略奪する ②(資源・財産を)食い物にする ③(名詞:)略奪(品)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to steal goods from a place by force, especially during a war, or to take resources unfairly."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of stealing by force, or the goods that are stolen."
+    }
+  ],
+  "cautions": [
+    "plunder A(場所)=A を略奪する/plunder A from B=B から A を奪う。目的語に場所も奪う物も来る",
+    "plunder=(軍隊・権力者が)力ずくで大規模に奪う/loot=(混乱にまぎれて)店や家から盗む/rob=人・場所から奪う(rob B of A)/steal=こっそり盗む",
+    "比ゆで plunder the earth's resources(地球の資源を食い物にする)のように環境の長文に出る"
+  ],
+  "patterns": [
+    {
+      "form": "plunder A(場所)",
+      "meaning": "A を略奪する"
+    },
+    {
+      "form": "plunder A from B",
+      "meaning": "B から A を奪う"
+    },
+    {
+      "form": "plunder natural resources",
+      "meaning": "天然資源を食い物にする"
+    },
+    {
+      "form": "the plunder of A",
+      "meaning": "A の略奪"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "略奪する",
+      "en": "The invaders plundered the city and burned many houses.",
+      "ja": "侵略者たちは町を略奪し、多くの家を焼いた。"
+    },
+    {
+      "source": "original",
+      "label": "from",
+      "en": "Many treasures were plundered from the ancient tombs.",
+      "ja": "古代の墓から多くの宝が奪われた。"
+    },
+    {
+      "source": "original",
+      "label": "資源",
+      "en": "Big companies have plundered the forests of the region.",
+      "ja": "大企業がその地域の森林を食い物にしてきた。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The ship returned home full of plunder.",
+      "ja": "その船は略奪品を満載して帰ってきた。"
+    },
+    {
+      "source": "original",
+      "label": "比ゆ",
+      "en": "We must stop plundering the earth for short-term profit.",
+      "ja": "目先のもうけのために地球を食い物にするのはやめなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "loot との比較",
+      "en": "Soldiers plundered the capital, and later some citizens looted the shops.",
+      "ja": "兵士たちが首都を略奪し、その後一部の市民が店を荒らした。"
+    }
+  ],
+  "check_points": [
+    "plunder の目的語に場所が来る形を言えるか",
+    "plunder と loot のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "歴史・環境の長文で「略奪する・(資源を)食い物にする」。rob / steal との語法の比較が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2536
+    }
+  ]
+}

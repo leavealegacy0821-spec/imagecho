@@ -1,0 +1,102 @@
+{
+  "word": "veil",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/veɪl/",
+  "core_image": {
+    "text": "うすい布を一枚かけて、中をぼんやりとしか見せない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><path d=\"M98 38 Q120 20 142 38 L150 110 L90 110 Z\"/><line x1=\"104\" y1=\"60\" x2=\"96\" y2=\"100\"/><line x1=\"136\" y1=\"60\" x2=\"144\" y2=\"100\"/></g><text x=\"195\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">うすく覆う</text><text x=\"45\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">透けて見える</text></svg>"
+  },
+  "etymology": "ラテン語 velum(布・幕・帆)→ 顔や物にかける布 → ①(名詞:)ベール ②(名詞:)覆い隠すもの(a veil of mist=霧のベール) ③(動詞:)覆う・(本心・事実を)ぼかして隠す",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a thin piece of cloth that covers the face or head, or something that hides or covers something else."
+    },
+    {
+      "pos": "動詞",
+      "text": "to cover something thinly, or to hide feelings or facts so they are not clearly seen."
+    }
+  ],
+  "cautions": [
+    "veil=うすく覆って完全には隠さない(ぼんやり透けて見える)/conceal=意図して見えないようにする/hide=物かげに入れて見えなくする",
+    "形容詞 veiled=遠回しの・それとなくの(a veiled threat=遠回しの脅し、thinly veiled=見えすいた)",
+    "under a veil of secrecy(秘密のベールに包まれて)、lift the veil on A(A の秘密を明かす)"
+  ],
+  "patterns": [
+    {
+      "form": "a veil of A",
+      "meaning": "A のベール(mist / secrecy など)"
+    },
+    {
+      "form": "under a veil of secrecy",
+      "meaning": "秘密のベールに包まれて"
+    },
+    {
+      "form": "be veiled in A",
+      "meaning": "A に覆われている・包まれている"
+    },
+    {
+      "form": "a (thinly) veiled threat / criticism",
+      "meaning": "遠回しの(見えすいた)脅し・批判"
+    },
+    {
+      "form": "lift the veil on A",
+      "meaning": "A の秘密を明かす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ベール",
+      "en": "The bride wore a long white veil.",
+      "ja": "花嫁は長い白いベールをつけていた。"
+    },
+    {
+      "source": "original",
+      "label": "覆うもの",
+      "en": "A veil of mist covered the lake in the morning.",
+      "ja": "朝、霧のベールが湖を覆っていた。"
+    },
+    {
+      "source": "original",
+      "label": "秘密",
+      "en": "The project was carried out under a veil of secrecy.",
+      "ja": "その計画は秘密のベールに包まれて進められた。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "The mountain top was veiled in clouds.",
+      "ja": "山頂は雲に覆われていた。"
+    },
+    {
+      "source": "original",
+      "label": "veiled",
+      "en": "His comment was a thinly veiled criticism of the manager.",
+      "ja": "彼の発言は監督への見えすいた批判だった。"
+    },
+    {
+      "source": "original",
+      "label": "本心をぼかす",
+      "en": "She tried to veil her disappointment with a smile.",
+      "ja": "彼女はほほえんで落胆をぼかそうとした。"
+    }
+  ],
+  "check_points": [
+    "a veiled threat の意味を言えるか",
+    "veil と conceal のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文の比ゆ表現で「ベール・覆い」。veiled(遠回しの)や under a veil of secrecy が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2533
+    }
+  ]
+}

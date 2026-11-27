@@ -1,0 +1,98 @@
+{
+  "word": "mask",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/mæsk/",
+  "core_image": {
+    "text": "本当の顔の上に、別の顔をかぶせて見せない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"60\" cy=\"80\" r=\"30\"/><circle cx=\"50\" cy=\"72\" r=\"3\"/><circle cx=\"70\" cy=\"72\" r=\"3\"/><path d=\"M46 96 Q60 86 74 96\"/><line x1=\"98\" y1=\"80\" x2=\"126\" y2=\"80\"/><polyline points=\"119,76.2 126,80 119,83.8\"/><ellipse cx=\"168\" cy=\"80\" rx=\"30\" ry=\"36\"/><ellipse cx=\"156\" cy=\"70\" rx=\"6\" ry=\"4\"/><ellipse cx=\"180\" cy=\"70\" rx=\"6\" ry=\"4\"/><path d=\"M152 92 Q168 104 184 92\"/></g><text x=\"60\" y=\"32\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">本当の顔</text><text x=\"168\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">かぶせた顔</text></svg>"
+  },
+  "etymology": "フランス語 masque(仮面)→ 顔にかぶせる物 → ①(名詞:)仮面・マスク ②(名詞:)本心を隠すうわべ ③(動詞:)(感情・におい・事実を)覆い隠す・目立たなくする",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a covering for the face, or a way of behaving that hides your real feelings."
+    },
+    {
+      "pos": "動詞",
+      "text": "to hide a feeling, smell or fact so that it cannot easily be noticed."
+    }
+  ],
+  "cautions": [
+    "mask=本当の姿の上に別のものをかぶせて隠す・目立たなくする(におい・音・味にも)/disguise=別人・別物に見せかける/conceal=意図して見えないようにする",
+    "mask one's feelings / fear(感情・恐れを隠す)、mask the smell / taste(においや味を消す)の形で長文に出る",
+    "behind a mask of A(A といううわべの裏に)。mask は「本心は別にある」ことを含む"
+  ],
+  "patterns": [
+    {
+      "form": "mask one's feelings / fear",
+      "meaning": "感情・恐れを隠す"
+    },
+    {
+      "form": "mask the smell / taste / problem",
+      "meaning": "におい・味・問題を目立たなくする"
+    },
+    {
+      "form": "behind a mask of A",
+      "meaning": "A といううわべの裏に"
+    },
+    {
+      "form": "wear a mask",
+      "meaning": "マスク・仮面をつける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "感情を隠す",
+      "en": "He masked his nervousness with a joke.",
+      "ja": "彼は冗談を言って緊張を隠した。"
+    },
+    {
+      "source": "original",
+      "label": "うわべ",
+      "en": "Behind her mask of confidence, she was very worried.",
+      "ja": "自信ありげなうわべの裏で、彼女はひどく不安だった。"
+    },
+    {
+      "source": "original",
+      "label": "におい",
+      "en": "The cook used spices to mask the strong smell of the fish.",
+      "ja": "料理人は魚の強いにおいを消すために香辛料を使った。"
+    },
+    {
+      "source": "original",
+      "label": "問題を隠す",
+      "en": "Good sales this year mask some serious problems in the company.",
+      "ja": "今年の好調な売り上げが、会社の深刻な問題を見えにくくしている。"
+    },
+    {
+      "source": "original",
+      "label": "マスク",
+      "en": "Many people wear masks in crowded trains.",
+      "ja": "混んだ電車ではマスクをつける人が多い。"
+    },
+    {
+      "source": "original",
+      "label": "disguise との比較",
+      "en": "The spy disguised himself as a waiter and masked his fear well.",
+      "ja": "スパイはウエーターに変装し、恐怖をうまく隠した。"
+    }
+  ],
+  "check_points": [
+    "mask the smell の意味を言えるか",
+    "mask と disguise のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文で「(感情・問題を)覆い隠す」の動詞用法が頻出。名詞の「マスク」だけで覚えていると読み違える。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2534
+    }
+  ]
+}
