@@ -1,0 +1,94 @@
+{
+  "word": "oppress",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈpres/",
+  "core_image": {
+    "text": "上から重くのしかかって、身動きを奪う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"80\" y=\"12\" width=\"80\" height=\"18\"/><line x1=\"100\" y1=\"30\" x2=\"100\" y2=\"46\" stroke-dasharray=\"5 5\"/><polyline points=\"103.8,39 100,46 96.2,39\"/><line x1=\"140\" y1=\"30\" x2=\"140\" y2=\"46\" stroke-dasharray=\"5 5\"/><polyline points=\"143.8,39 140,46 136.2,39\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"104\" y2=\"96\"/><line x1=\"120\" y1=\"74\" x2=\"136\" y2=\"96\"/></g><text x=\"200\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">上から重く</text><text x=\"190\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">自由を奪う</text></svg>"
+  },
+  "etymology": "op(=ob:〜に向かって)+ press(押す)→ 上から押しつけて動けなくする → ①(権力で人々を)虐げる・抑圧する ②(心・体に)重くのしかかる・気を重くさせる(oppressive heat=うだるような暑さ)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to treat a group of people cruelly and unfairly, especially by not giving them the same freedom or rights as others; to make someone feel worried or uncomfortable."
+    }
+  ],
+  "cautions": [
+    "目的語は people / minorities / the poor など「弱い立場の集団」。長く続く不当な支配のイメージ",
+    "形容詞 oppressive=①圧政的な ②(暑さ・空気が)息苦しい、名詞 oppression(抑圧)、the oppressed=虐げられた人々",
+    "repress=わき上がるものを押し戻す/suppress=反乱・情報を押さえ込む/oppress=人々の上にのしかかって自由を奪いつづける",
+    "persecute=信仰・人種などを理由にねらって追い回す。oppress は集団全体を上から押さえつける"
+  ],
+  "patterns": [
+    {
+      "form": "oppress A",
+      "meaning": "A(人々)を虐げる"
+    },
+    {
+      "form": "the oppressed",
+      "meaning": "虐げられた人々"
+    },
+    {
+      "form": "oppressive heat / silence",
+      "meaning": "重苦しい暑さ・沈黙"
+    },
+    {
+      "form": "be oppressed by A",
+      "meaning": "A に気が重くなる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "虐げる",
+      "en": "The dictator oppressed the people for decades.",
+      "ja": "その独裁者は何十年も人々を虐げた。"
+    },
+    {
+      "source": "original",
+      "label": "少数派",
+      "en": "Minorities were oppressed and denied basic rights.",
+      "ja": "少数派は虐げられ、基本的な権利を奪われた。"
+    },
+    {
+      "source": "original",
+      "label": "the oppressed",
+      "en": "He spent his life fighting for the oppressed.",
+      "ja": "彼は虐げられた人々のために生涯戦った。"
+    },
+    {
+      "source": "original",
+      "label": "oppression",
+      "en": "The novel describes a nation's struggle against oppression.",
+      "ja": "その小説は抑圧に立ち向かう国民の闘いを描いている。"
+    },
+    {
+      "source": "original",
+      "label": "oppressive heat",
+      "en": "The oppressive heat made it hard to sleep.",
+      "ja": "うだるような暑さで眠りにくかった。"
+    },
+    {
+      "source": "original",
+      "label": "気を重くする",
+      "en": "She was oppressed by a sense of failure.",
+      "ja": "彼女は失敗したという思いに気が重くなっていた。"
+    }
+  ],
+  "check_points": [
+    "人々を虐げる/気を重くさせる、の2つの使い方がわかるか",
+    "oppressive の2つの意味(圧政的な・息苦しい)が言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "歴史・人権の長文に出る。oppression / oppressive の派生語、persecute・repress との使い分けで問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2618
+    }
+  ]
+}

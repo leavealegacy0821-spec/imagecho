@@ -1,0 +1,94 @@
+{
+  "word": "harass",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈhærəs, həˈræs/",
+  "core_image": {
+    "text": "何度も小さくつついて、しつこく困らせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"106\" y2=\"98\"/><line x1=\"120\" y1=\"74\" x2=\"134\" y2=\"98\"/><line x1=\"40\" y1=\"62\" x2=\"100\" y2=\"62\"/><polyline points=\"93,58.2 100,62 93,65.8\"/><line x1=\"200\" y1=\"84\" x2=\"142\" y2=\"84\"/><polyline points=\"149,87.8 142,84 149,80.2\"/><line x1=\"62\" y1=\"22\" x2=\"104\" y2=\"44\"/><polyline points=\"99.6,37.3 104,44 96,44.1\"/></g><text x=\"190\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">何度も</text><text x=\"50\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しつこく</text></svg>"
+  },
+  "etymology": "核となる絵:何度もちょっかいを出す → ①(人を)しつこく悩ませる・嫌がらせをする ②(敵を)くり返し攻めて疲れさせる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to annoy or upset someone repeatedly, for example by attacking them or saying offensive things."
+    }
+  ],
+  "cautions": [
+    "1回ではなく「くり返し」がポイント。名詞 harassment(嫌がらせ):sexual harassment(セクハラ)、power harassment は和製英語",
+    "be harassed by A=A に嫌がらせを受ける、の受け身が多い",
+    "annoy=小さなことでいらっとさせる/harass=意図的にくり返し困らせる/torment=激しい苦しみを長く与える",
+    "発音は /ˈhærəs/ と /həˈræs/ の2通り。つづりは r 1つ・s 2つ"
+  ],
+  "patterns": [
+    {
+      "form": "harass A",
+      "meaning": "A に嫌がらせをする"
+    },
+    {
+      "form": "be harassed by A",
+      "meaning": "A に嫌がらせを受ける"
+    },
+    {
+      "form": "sexual harassment",
+      "meaning": "性的嫌がらせ"
+    },
+    {
+      "form": "harassment at work",
+      "meaning": "職場での嫌がらせ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "嫌がらせ",
+      "en": "She was harassed by a stranger on the train.",
+      "ja": "彼女は電車で見知らぬ人に嫌がらせを受けた。"
+    },
+    {
+      "source": "original",
+      "label": "しつこく",
+      "en": "Reporters harassed the actor with questions about his private life.",
+      "ja": "記者たちは私生活について質問攻めにしてその俳優を悩ませた。"
+    },
+    {
+      "source": "original",
+      "label": "ネット",
+      "en": "Some students are harassed online by their classmates.",
+      "ja": "同級生からネット上で嫌がらせを受ける生徒もいる。"
+    },
+    {
+      "source": "original",
+      "label": "harassment",
+      "en": "The company introduced new rules to prevent harassment.",
+      "ja": "その会社は嫌がらせを防ぐための新しい規則を導入した。"
+    },
+    {
+      "source": "original",
+      "label": "敵を",
+      "en": "The soldiers harassed the enemy with small attacks.",
+      "ja": "兵士たちは小さな攻撃をくり返して敵を悩ませた。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "No one should be harassed because of their appearance.",
+      "ja": "見た目のせいで嫌がらせを受けてよい人はいない。"
+    }
+  ],
+  "check_points": [
+    "「くり返し」困らせるという点が言えるか",
+    "annoy・torment とのちがいがわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "社会問題の長文に出る。harassment の名詞形、annoy・bother との言いかえで問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2620
+    }
+  ]
+}

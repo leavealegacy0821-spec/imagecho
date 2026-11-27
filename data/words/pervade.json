@@ -1,0 +1,94 @@
+{
+  "word": "pervade",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/pəˈveɪd/",
+  "core_image": {
+    "text": "空気のように、その場全体に行きわたって満ちる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"20\" width=\"160\" height=\"120\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"108\" y2=\"98\"/><line x1=\"120\" y1=\"74\" x2=\"132\" y2=\"98\"/><path d=\"M52 40 q5 -6 10 0 q5 6 10 0 q5 -6 10 0\"/><path d=\"M52 70 q5 -6 10 0 q5 6 10 0 q5 -6 10 0\"/><path d=\"M158 40 q5 -6 10 0 q5 6 10 0 q5 -6 10 0\"/><path d=\"M158 70 q5 -6 10 0 q5 6 10 0 q5 -6 10 0\"/></g><text x=\"70\" y=\"116\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">全体に</text><text x=\"170\" y=\"116\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">満ちる</text></svg>"
+  },
+  "etymology": "per(通して・すみずみまで)+ vadere(行く)→ すみずみまで行きわたる → (におい・雰囲気・考えが場所・社会・作品の)全体に広がる・充満する → 形 pervasive(全体に広がった)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to spread through and be noticeable in every part of something."
+    }
+  ],
+  "cautions": [
+    "他動詞:pervade A(×pervade in A)。主語は atmosphere / smell / feeling / idea など目に見えないものが多い",
+    "形容詞 pervasive=広く行きわたった・まん延した(a pervasive problem)",
+    "invade(中へ攻めこむ)・evade(外へのがれる)と同じ vade(行く)の仲間",
+    "permeate=すき間からじわじわしみ通る(過程)/pervade=すでに全体に満ちている(状態)/penetrate=奥へ突き抜ける"
+  ],
+  "patterns": [
+    {
+      "form": "pervade A",
+      "meaning": "A 全体に広がる"
+    },
+    {
+      "form": "be pervaded by / with A",
+      "meaning": "A が全体に満ちている"
+    },
+    {
+      "form": "a pervasive influence",
+      "meaning": "広く行きわたった影響"
+    },
+    {
+      "form": "pervasive problem",
+      "meaning": "まん延している問題"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "におい",
+      "en": "The smell of flowers pervaded the room.",
+      "ja": "花の香りが部屋いっぱいに満ちていた。"
+    },
+    {
+      "source": "original",
+      "label": "雰囲気",
+      "en": "A feeling of sadness pervaded the town after the fire.",
+      "ja": "火事のあと、悲しみが町全体をおおっていた。"
+    },
+    {
+      "source": "original",
+      "label": "考え",
+      "en": "Consumerism pervades modern society.",
+      "ja": "消費主義は現代社会のすみずみにまで広がっている。"
+    },
+    {
+      "source": "original",
+      "label": "作品",
+      "en": "Humor pervades all of her novels.",
+      "ja": "彼女のすべての小説にユーモアが行きわたっている。"
+    },
+    {
+      "source": "original",
+      "label": "pervasive",
+      "en": "Smartphones have a pervasive influence on our daily lives.",
+      "ja": "スマートフォンは私たちの日常生活の全体に影響を及ぼしている。"
+    },
+    {
+      "source": "original",
+      "label": "be pervaded by",
+      "en": "The meeting was pervaded by a sense of tension.",
+      "ja": "会議は緊張感に包まれていた。"
+    }
+  ],
+  "check_points": [
+    "他動詞で in を付けないことがわかるか",
+    "pervasive の意味と、permeate とのちがいが言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "評論の長文に出る。pervasive の形容詞が特に頻出。permeate・spread との言いかえで問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2627
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "afflict",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈflɪkt/",
+  "core_image": {
+    "text": "病気や災いが、上から打ちつけて苦しめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><ellipse cx=\"150\" cy=\"18\" rx=\"36\" ry=\"10\"/><line x1=\"135\" y1=\"30\" x2=\"135\" y2=\"40\" stroke-dasharray=\"5 5\"/><polyline points=\"138.8,33 135,40 131.2,33\"/><line x1=\"165\" y1=\"30\" x2=\"165\" y2=\"40\" stroke-dasharray=\"5 5\"/><polyline points=\"168.8,33 165,40 161.2,33\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"140\" y2=\"100\"/><line x1=\"150\" y1=\"74\" x2=\"160\" y2=\"100\"/></g><text x=\"60\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">病気・災害が</text><text x=\"60\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">襲いかかる</text></svg>"
+  },
+  "etymology": "af(=ad:〜へ)+ fligere(打つ)→ 打ちつける → (病気・災害・問題が人・国を)苦しめる・悩ます → 名 affliction(苦悩・病気)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to cause pain or suffering to someone or something."
+    }
+  ],
+  "cautions": [
+    "主語は病気・災害・問題(disease / poverty / drought など)。人が主語の「いじめる」には使わない",
+    "be afflicted with / by A=A(病気など)に苦しむ、の受け身が定番(with は病気が多い)",
+    "名詞 affliction(苦しみ・病気)。inflict=(苦痛・損害を)人に与える(inflict A on B)と混同しない:afflict は苦しめられる側が目的語",
+    "plague=次々に・しつこく悩ます/afflict=病気・災いが打ちつけて苦しめる"
+  ],
+  "patterns": [
+    {
+      "form": "be afflicted with A",
+      "meaning": "A(病気など)に苦しむ"
+    },
+    {
+      "form": "afflict A",
+      "meaning": "A を苦しめる"
+    },
+    {
+      "form": "the afflicted",
+      "meaning": "苦しんでいる人々"
+    },
+    {
+      "form": "affliction",
+      "meaning": "苦悩・病気"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "病気",
+      "en": "He was afflicted with a rare disease.",
+      "ja": "彼はめずらしい病気に苦しんでいた。"
+    },
+    {
+      "source": "original",
+      "label": "災害",
+      "en": "A severe drought afflicted the region last year.",
+      "ja": "昨年、ひどい干ばつがその地域を苦しめた。"
+    },
+    {
+      "source": "original",
+      "label": "問題",
+      "en": "Poverty still afflicts millions of people around the world.",
+      "ja": "貧困はいまも世界中の何百万もの人々を苦しめている。"
+    },
+    {
+      "source": "original",
+      "label": "社会",
+      "en": "Many cities are afflicted by heavy traffic.",
+      "ja": "多くの都市がひどい交通渋滞に悩まされている。"
+    },
+    {
+      "source": "original",
+      "label": "the afflicted",
+      "en": "Volunteers brought food to the afflicted.",
+      "ja": "ボランティアが被災した人々に食料を届けた。"
+    },
+    {
+      "source": "original",
+      "label": "inflict とのちがい",
+      "en": "The storm inflicted heavy damage on the town that was already afflicted by floods.",
+      "ja": "すでに洪水に苦しんでいたその町に、嵐が大きな被害を与えた。"
+    }
+  ],
+  "check_points": [
+    "主語が病気・災いになることがわかるか",
+    "inflict A on B とのちがいが言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "医療・社会問題の長文に出る。be afflicted with、inflict との区別が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2622
+    }
+  ]
+}

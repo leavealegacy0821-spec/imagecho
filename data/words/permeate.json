@@ -1,0 +1,94 @@
+{
+  "word": "permeate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈpɜːmieɪt/",
+  "core_image": {
+    "text": "液体やにおいが、すき間を通ってすみずみまでしみ渡る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"60\" y=\"50\" width=\"120\" height=\"80\"/><line x1=\"120\" y1=\"14\" x2=\"120\" y2=\"44\"/><polyline points=\"123.8,37 120,44 116.2,37\"/><circle cx=\"80\" cy=\"66\" r=\"2\"/><circle cx=\"104\" cy=\"70\" r=\"2\"/><circle cx=\"136\" cy=\"66\" r=\"2\"/><circle cx=\"160\" cy=\"72\" r=\"2\"/><circle cx=\"74\" cy=\"94\" r=\"2\"/><circle cx=\"98\" cy=\"100\" r=\"2\"/><circle cx=\"124\" cy=\"92\" r=\"2\"/><circle cx=\"150\" cy=\"100\" r=\"2\"/><circle cx=\"168\" cy=\"116\" r=\"2\"/><circle cx=\"86\" cy=\"118\" r=\"2\"/><circle cx=\"116\" cy=\"118\" r=\"2\"/></g><text x=\"195\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しみ渡る</text><text x=\"52\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">すみずみまで</text></svg>"
+  },
+  "etymology": "per(通して)+ meare(通る)→ すき間を通り抜けて広がる → ①(液体・におい・光が)しみ通る・充満する ②(考え・雰囲気が社会・組織に)浸透する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to spread through every part of an object or place; (of an idea or feeling) to affect every part of something."
+    }
+  ],
+  "cautions": [
+    "他動詞が基本:permeate A=A にしみわたる。permeate through / into A の形もある",
+    "比ゆ:A feeling of fear permeated the town.(恐怖が町じゅうに広がった)のように、考え・雰囲気も主語になる",
+    "形容詞 permeable=(水などを)通す、impermeable=通さない(理科の長文に出る)",
+    "penetrate=一点から奥へ突き抜ける/permeate=すき間を通ってじわじわしみ渡る/pervade=全体にすでに満ちている"
+  ],
+  "patterns": [
+    {
+      "form": "permeate A",
+      "meaning": "A にしみ渡る・浸透する"
+    },
+    {
+      "form": "permeate through / into A",
+      "meaning": "A の中にしみ通る"
+    },
+    {
+      "form": "be permeated with A",
+      "meaning": "A がしみ込んでいる"
+    },
+    {
+      "form": "permeable",
+      "meaning": "透過性の"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "におい",
+      "en": "The smell of coffee permeated the whole house.",
+      "ja": "コーヒーのにおいが家じゅうに広がった。"
+    },
+    {
+      "source": "original",
+      "label": "液体",
+      "en": "Water slowly permeated through the rock.",
+      "ja": "水がゆっくりと岩の中にしみ通った。"
+    },
+    {
+      "source": "original",
+      "label": "考え",
+      "en": "Western ideas gradually permeated Japanese society.",
+      "ja": "西洋の考え方がしだいに日本社会に浸透していった。"
+    },
+    {
+      "source": "original",
+      "label": "雰囲気",
+      "en": "A sense of hope permeated the classroom.",
+      "ja": "希望に満ちた空気が教室じゅうに広がった。"
+    },
+    {
+      "source": "original",
+      "label": "be permeated with",
+      "en": "His writing is permeated with humor.",
+      "ja": "彼の文章にはユーモアがしみわたっている。"
+    },
+    {
+      "source": "original",
+      "label": "permeable",
+      "en": "The cell wall is permeable to water.",
+      "ja": "細胞壁は水を通す。"
+    }
+  ],
+  "check_points": [
+    "物理的にしみ通る/考えが浸透する、の両方がわかるか",
+    "penetrate とのちがい(じわじわすみずみまで)が言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "理科・文化の長文に出る。pervade・penetrate との言いかえ、permeable の派生語が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2626
+    }
+  ]
+}

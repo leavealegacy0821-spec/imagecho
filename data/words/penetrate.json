@@ -1,0 +1,94 @@
+{
+  "word": "penetrate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈpenɪtreɪt/",
+  "core_image": {
+    "text": "かたい壁を、奥まで突き抜けて入る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"100\" y=\"40\" width=\"20\" height=\"100\"/><line x1=\"30\" y1=\"90\" x2=\"190\" y2=\"90\"/><polyline points=\"183,86.2 190,90 183,93.8\"/></g><text x=\"65\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">突き抜ける</text><text x=\"170\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">奥まで</text></svg>"
+  },
+  "etymology": "ラテン語 penetrare(奥深くへ入る)← penitus(奥深くに)→ 中へ突き通る → ①(物を)貫く・しみ通る ②(組織・市場に)入りこむ・進出する ③(意味・真相を)見抜く",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to go into or through something, especially when this is difficult; to succeed in entering a market or organization; to understand something difficult."
+    }
+  ],
+  "cautions": [
+    "「入りにくい所へ、力で突き抜けて入る」。光・弾丸・水が主語のことも多い(Sunlight penetrated the forest.)",
+    "比ゆ:penetrate the market=市場に参入する、penetrate the mystery=なぞを見抜く",
+    "形容詞 penetrating=鋭い・見抜くような(a penetrating look)、名詞 penetration",
+    "permeate=すみずみまでしみわたる/pervade=全体に広がって満ちる/penetrate=一点から奥へ突き抜ける"
+  ],
+  "patterns": [
+    {
+      "form": "penetrate A",
+      "meaning": "A を貫く・A に入りこむ"
+    },
+    {
+      "form": "penetrate into A",
+      "meaning": "A の中へ入りこむ"
+    },
+    {
+      "form": "penetrate the market",
+      "meaning": "市場に参入する"
+    },
+    {
+      "form": "a penetrating gaze",
+      "meaning": "鋭い視線"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "貫く",
+      "en": "The bullet penetrated the wall.",
+      "ja": "弾丸は壁を貫通した。"
+    },
+    {
+      "source": "original",
+      "label": "光",
+      "en": "Sunlight could barely penetrate the thick forest.",
+      "ja": "日光は深い森の中にほとんど届かなかった。"
+    },
+    {
+      "source": "original",
+      "label": "しみ込む",
+      "en": "The rain penetrated deep into the soil.",
+      "ja": "雨は土の奥深くまでしみ込んだ。"
+    },
+    {
+      "source": "original",
+      "label": "市場",
+      "en": "The company is trying to penetrate the Asian market.",
+      "ja": "その会社はアジア市場への進出をはかっている。"
+    },
+    {
+      "source": "original",
+      "label": "見抜く",
+      "en": "Few people could penetrate his true intentions.",
+      "ja": "彼の本当の意図を見抜ける人はほとんどいなかった。"
+    },
+    {
+      "source": "original",
+      "label": "penetrating",
+      "en": "She gave me a penetrating look.",
+      "ja": "彼女は見すかすような目で私を見た。"
+    }
+  ],
+  "check_points": [
+    "貫く/入りこむ/見抜く、が「奥まで突き抜ける」でつながるか",
+    "permeate・pervade とのちがいが言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "科学・経済の長文に出る。penetrate the market の比ゆ、penetrating の形容詞が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2625
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "word": "plague",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/pleɪɡ/",
+  "core_image": {
+    "text": "次から次へとわいて、しつこく悩ませる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"104\" y2=\"60\"/><line x1=\"120\" y1=\"74\" x2=\"136\" y2=\"60\"/><circle cx=\"85\" cy=\"40\" r=\"3\"/><circle cx=\"92\" cy=\"70\" r=\"3\"/><circle cx=\"152\" cy=\"30\" r=\"3\"/><circle cx=\"160\" cy=\"62\" r=\"3\"/><circle cx=\"82\" cy=\"92\" r=\"3\"/><circle cx=\"156\" cy=\"96\" r=\"3\"/><circle cx=\"138\" cy=\"18\" r=\"3\"/></g><text x=\"42\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">次々と</text><text x=\"198\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">悩ませる</text></svg>"
+  },
+  "etymology": "ラテン語 plaga(打撃・傷)→ 人々を打ちのめすもの → ①名 疫病・ペスト(the plague)②名(害虫などの)大発生・災い ③動(問題・病気が)次々としつこく悩ませる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a serious disease that spreads quickly and kills many people; a large number of animals or insects that cause damage."
+    },
+    {
+      "pos": "動詞",
+      "text": "to cause pain or trouble to someone or something repeatedly over a period of time."
+    }
+  ],
+  "cautions": [
+    "動詞は be plagued by / with A=A(問題・故障・けが)に次々と悩まされる、の受け身が定番",
+    "名詞 the plague=ペスト(黒死病)。a plague of locusts=イナゴの大発生",
+    "afflict=病気・災いが打ちつけて苦しめる/plague=問題が次々と起きて長く悩ませる/haunt=過去の記憶がつきまとう",
+    "語末の -gue は発音しない(/pleɪɡ/)。league・vague と同じ"
+  ],
+  "patterns": [
+    {
+      "form": "be plagued by / with A",
+      "meaning": "A に悩まされる"
+    },
+    {
+      "form": "plague A",
+      "meaning": "A を悩ませる"
+    },
+    {
+      "form": "the plague",
+      "meaning": "ペスト"
+    },
+    {
+      "form": "a plague of A",
+      "meaning": "A(害虫など)の大発生"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "問題",
+      "en": "The project was plagued by technical problems.",
+      "ja": "そのプロジェクトは技術的な問題に次々と悩まされた。"
+    },
+    {
+      "source": "original",
+      "label": "けが",
+      "en": "The team has been plagued with injuries this season.",
+      "ja": "そのチームは今季けが人続出に悩まされている。"
+    },
+    {
+      "source": "original",
+      "label": "疑い",
+      "en": "Doubts plagued him as he waited for the results.",
+      "ja": "結果を待つあいだ、疑いが彼をしつこく悩ませた。"
+    },
+    {
+      "source": "original",
+      "label": "ペスト",
+      "en": "The plague killed a large part of Europe's population in the 14th century.",
+      "ja": "14世紀にペストはヨーロッパの人口の大部分の命を奪った。"
+    },
+    {
+      "source": "original",
+      "label": "大発生",
+      "en": "A plague of locusts destroyed the crops.",
+      "ja": "イナゴの大発生で作物が全滅した。"
+    },
+    {
+      "source": "original",
+      "label": "社会",
+      "en": "Corruption has plagued the country for years.",
+      "ja": "汚職は何年もその国を悩ませてきた。"
+    }
+  ],
+  "check_points": [
+    "名詞(疫病)と動詞(悩ませる)の両方がわかるか",
+    "be plagued by の形が言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "歴史・社会の長文に出る。名詞と動詞の両方、be plagued by の受け身が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2623
+    }
+  ]
+}

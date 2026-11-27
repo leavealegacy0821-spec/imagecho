@@ -1,0 +1,93 @@
+{
+  "word": "persecute",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈpɜːsɪkjuːt/",
+  "core_image": {
+    "text": "目をつけた相手を、どこまでも追い回して苦しめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"40\" y2=\"88\"/><line x1=\"60\" y1=\"74\" x2=\"44\" y2=\"62\"/><circle cx=\"175\" cy=\"52\" r=\"10\"/><line x1=\"175\" y1=\"62\" x2=\"175\" y2=\"106\"/><line x1=\"175\" y1=\"106\" x2=\"165\" y2=\"140\"/><line x1=\"175\" y1=\"106\" x2=\"185\" y2=\"140\"/><line x1=\"175\" y1=\"74\" x2=\"150\" y2=\"70\"/><line x1=\"175\" y1=\"74\" x2=\"188\" y2=\"96\"/><line x1=\"145\" y1=\"70\" x2=\"85\" y2=\"70\" stroke-dasharray=\"5 5\"/><polyline points=\"92,73.8 85,70 92,66.2\"/></g><text x=\"115\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">追い回す</text><text x=\"115\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">信仰・人種で</text></svg>"
+  },
+  "etymology": "per(最後まで・徹底的に)+ sequi(ついて行く)→ どこまでもついて行って追い回す → (宗教・人種・考え方を理由に)迫害する → しつこく悩ませる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to treat someone cruelly or unfairly over a period of time, especially because of their religious or political beliefs, race, etc."
+    }
+  ],
+  "cautions": [
+    "be persecuted for A(信仰・思想など)=A を理由に迫害される、の受け身が定番",
+    "prosecute(起訴する)と1文字ちがい。per=徹底的に追う(迫害)/pro=前へ追い立てる(裁判にかける)",
+    "名詞 persecution(迫害)。oppress=集団の上にのしかかる/persecute=目をつけた相手を追い回す/harass=しつこく嫌がらせをする"
+  ],
+  "patterns": [
+    {
+      "form": "persecute A",
+      "meaning": "A を迫害する"
+    },
+    {
+      "form": "be persecuted for A",
+      "meaning": "A のために迫害される"
+    },
+    {
+      "form": "religious persecution",
+      "meaning": "宗教的迫害"
+    },
+    {
+      "form": "flee persecution",
+      "meaning": "迫害を逃れる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "迫害する",
+      "en": "The early Christians were persecuted by the Roman Empire.",
+      "ja": "初期のキリスト教徒はローマ帝国に迫害された。"
+    },
+    {
+      "source": "original",
+      "label": "be persecuted for",
+      "en": "Many scientists were persecuted for their ideas.",
+      "ja": "多くの科学者がその考えのために迫害された。"
+    },
+    {
+      "source": "original",
+      "label": "flee persecution",
+      "en": "The family fled persecution and moved to another country.",
+      "ja": "その一家は迫害を逃れて別の国へ移った。"
+    },
+    {
+      "source": "original",
+      "label": "persecution",
+      "en": "Religious persecution forced thousands to leave their homes.",
+      "ja": "宗教的迫害によって何千人もが家を追われた。"
+    },
+    {
+      "source": "original",
+      "label": "しつこく悩ませる",
+      "en": "The singer felt persecuted by photographers wherever she went.",
+      "ja": "その歌手はどこへ行ってもカメラマンにつきまとわれていると感じた。"
+    },
+    {
+      "source": "original",
+      "label": "prosecute とのちがい",
+      "en": "He was prosecuted for fraud, not persecuted for his beliefs.",
+      "ja": "彼は信念のために迫害されたのではなく、詐欺で起訴されたのだ。"
+    }
+  ],
+  "check_points": [
+    "「追い回す」から「迫害する」へのつながりが言えるか",
+    "prosecute(起訴する)と区別できるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "歴史・宗教の長文に出る。prosecute とのつづりの混同、persecution の名詞形が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2619
+    }
+  ]
+}
