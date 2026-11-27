@@ -1,0 +1,94 @@
+{
+  "word": "forgo",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/fɔːrˈɡoʊ/",
+  "core_image": {
+    "text": "欲しいものを、あえて手に取らずに見送る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"110\" width=\"40\" height=\"30\"/><circle cx=\"60\" cy=\"98\" r=\"10\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"136\" y2=\"96\"/><line x1=\"150\" y1=\"74\" x2=\"164\" y2=\"96\"/><line x1=\"172\" y1=\"40\" x2=\"222\" y2=\"40\" stroke-dasharray=\"5 5\"/><polyline points=\"215,36.2 222,40 215,43.8\"/></g><text x=\"60\" y=\"68\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">欲しいけど</text><text x=\"195\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見送る</text></svg>"
+  },
+  "etymology": "古い英語 for(離れて)+ go(行く)→ それを置いて行ってしまう → 〜なしで済ませる → (楽しみ・権利・利益を)あきらめる・見送る・差し控える",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to decide not to have or do something that you would like, especially something enjoyable or useful."
+    }
+  ],
+  "cautions": [
+    "目的語をそのままとる他動詞:forgo dessert / forgo a chance(from は付けない)。abstain from とのちがいに注意",
+    "不規則変化:forgo - forwent - forgone",
+    "つづり forego もあるが、foregoing(前述の)・foregone conclusion(わかりきった結論)の fore(前)とは別物",
+    "abstain=主義として断つ/forgo=欲しい・得なものを(何かのために)あえて手放す・見送る"
+  ],
+  "patterns": [
+    {
+      "form": "forgo A",
+      "meaning": "A をあきらめる・見送る"
+    },
+    {
+      "form": "forgo A for B",
+      "meaning": "B のために A を見送る"
+    },
+    {
+      "form": "forgo a chance / an opportunity",
+      "meaning": "機会を見送る"
+    },
+    {
+      "form": "forgo one's salary",
+      "meaning": "給料を受け取らない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "あきらめる",
+      "en": "She forwent her summer vacation to study for the exam.",
+      "ja": "彼女は試験勉強のために夏休みをあきらめた。"
+    },
+    {
+      "source": "original",
+      "label": "forgo A for B",
+      "en": "Many parents forgo luxuries for their children's education.",
+      "ja": "多くの親は子どもの教育のためにぜいたくをがまんする。"
+    },
+    {
+      "source": "original",
+      "label": "機会を",
+      "en": "He decided to forgo the chance to study abroad.",
+      "ja": "彼は留学の機会を見送ることにした。"
+    },
+    {
+      "source": "original",
+      "label": "給料を",
+      "en": "The president forwent his salary during the crisis.",
+      "ja": "社長はその危機の間、給料を受け取らなかった。"
+    },
+    {
+      "source": "original",
+      "label": "過去分詞",
+      "en": "Much sleep has been forgone for the sake of this project.",
+      "ja": "この計画のために多くの睡眠が犠牲にされてきた。"
+    },
+    {
+      "source": "original",
+      "label": "abstain とのちがい",
+      "en": "I abstain from meat, so I happily forgo the steak.",
+      "ja": "私は肉を断っているので、ステーキは喜んで見送る。"
+    }
+  ],
+  "check_points": [
+    "forgo A(from なし)と abstain from A のちがいがわかるか",
+    "forwent / forgone の活用がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "かたい語。give up / do without の言いかえとして長文・語い問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2581
+    }
+  ]
+}

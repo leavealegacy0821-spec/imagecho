@@ -1,0 +1,94 @@
+{
+  "word": "vibrate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈvaɪbreɪt/",
+  "core_image": {
+    "text": "同じ場所で、こまかく速く行ったり来たりふるえる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"95\" y=\"64\" width=\"50\" height=\"76\"/><line x1=\"105\" y1=\"76\" x2=\"135\" y2=\"76\"/><circle cx=\"120\" cy=\"128\" r=\"4\"/><polyline points=\"84,78 78,86 84,94 78,102\"/><polyline points=\"72,82 66,90 72,98\"/><polyline points=\"156,78 162,86 156,94 162,102\"/><polyline points=\"168,82 174,90 168,98\"/></g><text x=\"120\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">小刻みに</text><text x=\"205\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ブルブル</text></svg>"
+  },
+  "etymology": "ラテン語 vibrare(すばやくゆり動かす)→ 一点を中心に小刻みに往復する → ①(機械・携帯・弦などが)振動する ②(声・空気が)ふるえる・響く ③(場所・人が活気・感情で)わき立つ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to shake continuously with small, fast movements."
+    }
+  ],
+  "cautions": [
+    "人が寒さ・恐怖でふるえるのは shiver / tremble。vibrate は主に機械・物・音が「一定のリズムで振動する」",
+    "名詞 vibration=振動、形容詞 vibrant=活気あふれる・(色が)あざやかな。vibrant city の形でよく出る",
+    "tremble=(怖さ・弱さで)小さくふるえる/quake=大きくゆれる(地震)/vibrate=こまかく規則正しく振動する",
+    "自動詞が中心:My phone vibrated.(目的語なしで「振動した」)"
+  ],
+  "patterns": [
+    {
+      "form": "A vibrates",
+      "meaning": "A が振動する"
+    },
+    {
+      "form": "vibrate with A",
+      "meaning": "A(興奮・音)でふるえる・わき立つ"
+    },
+    {
+      "form": "set A vibrating",
+      "meaning": "A を振動させる"
+    },
+    {
+      "form": "vibration",
+      "meaning": "振動"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "振動する",
+      "en": "My phone vibrated in my pocket during the class.",
+      "ja": "授業中にポケットの中で携帯が振動した。"
+    },
+    {
+      "source": "original",
+      "label": "弦が",
+      "en": "A guitar string vibrates when you pluck it.",
+      "ja": "ギターの弦ははじくと振動する。"
+    },
+    {
+      "source": "original",
+      "label": "音が",
+      "en": "Sound is produced when air vibrates.",
+      "ja": "音は空気が振動することで生まれる。"
+    },
+    {
+      "source": "original",
+      "label": "窓が",
+      "en": "The windows vibrated as the heavy truck passed.",
+      "ja": "重いトラックが通ると窓がふるえた。"
+    },
+    {
+      "source": "original",
+      "label": "vibrate with",
+      "en": "The stadium vibrated with the cheers of the fans.",
+      "ja": "スタジアムはファンの声援でわき立った。"
+    },
+    {
+      "source": "original",
+      "label": "tremble とのちがい",
+      "en": "The machine vibrated steadily, while the child trembled with fear.",
+      "ja": "機械は一定に振動し、子どもは恐怖でふるえていた。"
+    }
+  ],
+  "check_points": [
+    "機械・音の「振動」に使うとわかるか",
+    "tremble・shiver(人がふるえる)とのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物理・音・技術の長文に出る。派生語 vibrant(活気ある)も語い問題で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2578
+    }
+  ]
+}

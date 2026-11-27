@@ -1,0 +1,95 @@
+{
+  "word": "abstain",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əbˈsteɪn/",
+  "core_image": {
+    "text": "自分の意思で、手を出さずに離れて控える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"100\" y2=\"70\"/><line x1=\"100\" y1=\"62\" x2=\"100\" y2=\"78\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"96\"/><rect x=\"110\" y=\"100\" width=\"80\" height=\"4\"/><line x1=\"120\" y1=\"104\" x2=\"120\" y2=\"140\"/><line x1=\"180\" y1=\"104\" x2=\"180\" y2=\"140\"/><polygon points=\"138,100 135,78 157,78 154,100\"/></g><text x=\"150\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手を出さない</text><text x=\"205\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">がまん</text></svg>"
+  },
+  "etymology": "ラテン語 abs(離れて)+ tenere(持つ・保つ)→ 自分を離しておく → 主義・意思として手を出さない → ①(酒・肉・楽しみなどを)断つ・控える ②(投票を)棄権する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to choose not to do something you enjoy, such as drinking alcohol; to choose not to vote."
+    }
+  ],
+  "cautions": [
+    "型は abstain from A / doing(from を落とさない)。目的語を直接とらない",
+    "「投票を棄権する」の意味が頻出:abstain from voting / Three members abstained.",
+    "refrain=その場でぐっとこらえて〜しない(一時的)/abstain=主義・意思として(酒・投票などを)断つ/forgo=欲しいものをあきらめて見送る",
+    "名詞 abstention=(投票の)棄権、abstinence=禁酒・節制"
+  ],
+  "patterns": [
+    {
+      "form": "abstain from A",
+      "meaning": "A を断つ・控える"
+    },
+    {
+      "form": "abstain from doing",
+      "meaning": "〜するのを控える"
+    },
+    {
+      "form": "abstain from voting",
+      "meaning": "投票を棄権する"
+    },
+    {
+      "form": "abstention / abstinence",
+      "meaning": "棄権/節制・禁酒"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "酒を",
+      "en": "My father has abstained from alcohol for ten years.",
+      "ja": "父は10年間お酒を断っている。"
+    },
+    {
+      "source": "original",
+      "label": "肉を",
+      "en": "Some people abstain from meat for religious reasons.",
+      "ja": "宗教上の理由で肉を口にしない人もいる。"
+    },
+    {
+      "source": "original",
+      "label": "abstain from doing",
+      "en": "Please abstain from using your phone during the concert.",
+      "ja": "演奏会の間は携帯電話の使用をお控えください。"
+    },
+    {
+      "source": "original",
+      "label": "投票を",
+      "en": "Five countries abstained from voting on the resolution.",
+      "ja": "5か国がその決議の投票を棄権した。"
+    },
+    {
+      "source": "original",
+      "label": "自動詞で",
+      "en": "Twenty members voted for the plan, and three abstained.",
+      "ja": "20人がその案に賛成し、3人が棄権した。"
+    },
+    {
+      "source": "original",
+      "label": "refrain とのちがい",
+      "en": "He refrained from laughing at the joke, and he abstains from sweets as a rule.",
+      "ja": "彼はその冗談に笑うのをこらえたし、決まりとして甘い物を断っている。"
+    }
+  ],
+  "check_points": [
+    "abstain from A / doing の型が使えるか",
+    "「投票を棄権する」の意味がわかるか",
+    "refrain とのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "abstain from の前置詞と「棄権する」の意味が、語法・長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2580
+    }
+  ]
+}

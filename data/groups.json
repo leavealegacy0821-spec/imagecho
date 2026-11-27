@@ -3340,7 +3340,7 @@
     },
     {
       "title": "使い分け:回る・ころがる・ゆれる・はねる",
-      "note": "rotate=軸を中心にぐるりと回転・交代 ／ spin=その場でくるくる速く ／ roll=まるいものがころころ転がる・巻く ／ tumble=ころげ落ちる・急落 ／ swing=つり下がってぶらんぶらん・ふる ／ bounce=当たってぽんとはね返る ／ shake=左右・上下に小きざみにゆさぶる(shook, shaken) ／ revolve=中心のまわりをぐるりと回る(公転) ／ whirl=うずを巻くように勢いよくぐるぐる回る",
+      "note": "rotate=軸を中心にぐるりと回転・交代 ／ spin=その場でくるくる速く ／ roll=まるいものがころころ転がる・巻く ／ tumble=ころげ落ちる・急落 ／ swing=つり下がってぶらんぶらん・ふる ／ bounce=当たってぽんとはね返る ／ shake=左右・上下に小きざみにゆさぶる(shook, shaken) ／ revolve=中心のまわりをぐるりと回る(公転) ／ whirl=うずを巻くように勢いよくぐるぐる回る ／ wobble=不安定にぐらぐらして倒れそう",
       "words": [
         "rotate",
         "spin",
@@ -3350,7 +3350,8 @@
         "bounce",
         "shake",
         "revolve",
-        "whirl"
+        "whirl",
+        "wobble"
       ]
     },
     {
@@ -3738,14 +3739,15 @@
     },
     {
       "title": "使い分け:震える",
-      "note": "tremble=怖さ・興奮で体や声が小刻みにふるえ続ける ／ shiver=寒さで体がぶるぶるふるえる ／ shudder=ぞっとして一瞬ぶるっと身ぶるい ／ quiver=唇・葉などがかすかにぴくぴく ／ quake=大地・建物がぐらぐら大きくゆれる ／ shake=左右・上下にゆさぶる(いちばん広い)",
+      "note": "tremble=怖さ・興奮で体や声が小刻みにふるえ続ける ／ shiver=寒さで体がぶるぶるふるえる ／ shudder=ぞっとして一瞬ぶるっと身ぶるい ／ quiver=唇・葉などがかすかにぴくぴく ／ quake=大地・建物がぐらぐら大きくゆれる ／ shake=左右・上下にゆさぶる(いちばん広い) ／ vibrate=機械・音がこまかく規則正しく振動する",
       "words": [
         "tremble",
         "shiver",
         "shudder",
         "quiver",
         "quake",
-        "shake"
+        "shake",
+        "vibrate"
       ]
     },
     {
@@ -4000,6 +4002,36 @@
         "waver",
         "falter",
         "vacillate"
+      ]
+    },
+    {
+      "title": "使い分け:控える・断つ",
+      "note": "refrain=その場でぐっとこらえて〜しない(refrain from) ／ abstain=主義・意思として(酒・投票を)断つ(abstain from) ／ forgo=欲しいものをあえて見送る(forgo A。from なし)",
+      "words": [
+        "refrain",
+        "abstain",
+        "forgo"
+      ]
+    },
+    {
+      "title": "使い分け:動かない・ひそむ",
+      "note": "idle=仕事がなく動いていない ／ dormant=今は眠っているが、また目を覚ます ／ latent=中に隠れていて表に出ていない ／ inert=自分からは動かず反応もしない ／ stagnant=流れるはずのものが止まってよどむ",
+      "words": [
+        "idle",
+        "dormant",
+        "latent",
+        "inert",
+        "stagnant"
+      ]
+    },
+    {
+      "title": "使い分け:甘やかす",
+      "note": "spoil=甘やかしてだめにする ／ indulge=望みをかなえてやる ／ pamper=世話・快適さをたっぷり与える ／ coddle=苦労から守りすぎて過保護にする",
+      "words": [
+        "spoil",
+        "indulge",
+        "pamper",
+        "coddle"
       ]
     },
     {

@@ -1,0 +1,93 @@
+{
+  "word": "stagnant",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˈstæɡnənt/",
+  "core_image": {
+    "text": "流れが止まって、水がよどんでいる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><ellipse cx=\"120\" cy=\"126\" rx=\"80\" ry=\"12\"/><line x1=\"80\" y1=\"126\" x2=\"100\" y2=\"126\"/><line x1=\"130\" y1=\"124\" x2=\"150\" y2=\"124\"/><circle cx=\"112\" cy=\"118\" r=\"3\"/><circle cx=\"160\" cy=\"116\" r=\"2\"/><line x1=\"30\" y1=\"70\" x2=\"70\" y2=\"70\"/><polyline points=\"63,66.2 70,70 63,73.8\"/><line x1=\"40\" y1=\"62\" x2=\"60\" y2=\"78\"/><line x1=\"60\" y1=\"62\" x2=\"40\" y2=\"78\"/></g><text x=\"150\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">よどむ</text><text x=\"160\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">流れない</text></svg>"
+  },
+  "etymology": "ラテン語 stagnum(池・たまり水)→ 流れない水の → ①(水・空気が)よどんだ ②(経済・景気・成長が)停滞した・伸びない ③(心・生活が)活気のない",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "(of water or air) not flowing and often smelling bad; (of an economy) not growing or developing."
+    }
+  ],
+  "cautions": [
+    "経済の文脈が頻出:a stagnant economy / Wages have been stagnant.(伸びない・横ばい)",
+    "動詞 stagnate=停滞する、名詞 stagnation=停滞(economic stagnation)",
+    "inert=もともと動かない/stagnant=本来流れる・伸びるべきものが止まっている(悪い響き)"
+  ],
+  "patterns": [
+    {
+      "form": "stagnant water",
+      "meaning": "よどんだ水"
+    },
+    {
+      "form": "a stagnant economy",
+      "meaning": "停滞した経済"
+    },
+    {
+      "form": "remain stagnant",
+      "meaning": "停滞したままである"
+    },
+    {
+      "form": "stagnate / stagnation",
+      "meaning": "停滞する/停滞"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "水が",
+      "en": "Mosquitoes breed in stagnant water.",
+      "ja": "蚊はよどんだ水で繁殖する。"
+    },
+    {
+      "source": "original",
+      "label": "空気が",
+      "en": "The air in the closed room was stagnant and warm.",
+      "ja": "閉め切った部屋の空気はよどんで生ぬるかった。"
+    },
+    {
+      "source": "original",
+      "label": "経済",
+      "en": "The country's economy has been stagnant for years.",
+      "ja": "その国の経済は何年も停滞している。"
+    },
+    {
+      "source": "original",
+      "label": "賃金が",
+      "en": "Wages remained stagnant while prices kept rising.",
+      "ja": "物価が上がり続ける一方で、賃金は横ばいのままだった。"
+    },
+    {
+      "source": "original",
+      "label": "会社が",
+      "en": "Without new ideas, the company became stagnant.",
+      "ja": "新しい考えがなく、その会社は活気を失って停滞した。"
+    },
+    {
+      "source": "original",
+      "label": "inert とのちがい",
+      "en": "A river should flow, so stagnant water is a sign of trouble; an inert gas simply does not react.",
+      "ja": "川は流れるべきものなので、よどんだ水は問題のしるしだ。不活性ガスはただ反応しないだけだ。"
+    }
+  ],
+  "check_points": [
+    "「本来流れる・伸びるものが止まる」の意味がわかるか",
+    "経済の文脈(停滞した)で使えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "a stagnant economy / stagnation の形で、経済・環境の長文によく出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2585
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "inert",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ɪˈnɜːrt/",
+  "core_image": {
+    "text": "じっとしたまま、自分からは動かず反応もしない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"110\" y=\"104\" width=\"56\" height=\"36\"/><line x1=\"40\" y1=\"122\" x2=\"104\" y2=\"122\"/><polyline points=\"97,118.2 104,122 97,125.8\"/></g><text x=\"138\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">動かない</text><text x=\"138\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">反応なし</text></svg>"
+  },
+  "etymology": "ラテン語 in(〜でない)+ ars(わざ・働き。art と同じ)→ 働きのない → 自分では動かない → ①(物・体が)動かない・ぐったりした ②(化学:)反応しない・不活性の ③(人・組織が)不活発な・のろい",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "not moving or not able to move; (of a chemical) not reacting with other substances."
+    }
+  ],
+  "cautions": [
+    "化学の inert gas=不活性ガス(他の物質と反応しにくい)が頻出",
+    "dormant=いつかまた動き出す/inert=押しても刺激しても自分からは動かない・反応しない",
+    "名詞 inertia=慣性・惰性(物理の「慣性の法則」、「惰性で続ける」の意味も)",
+    "idle=(人・機械が)仕事がなく動いていない/inert=もともと動く力・反応する力がない"
+  ],
+  "patterns": [
+    {
+      "form": "an inert gas",
+      "meaning": "不活性ガス"
+    },
+    {
+      "form": "lie inert",
+      "meaning": "ぐったりと動かずに横たわる"
+    },
+    {
+      "form": "chemically inert",
+      "meaning": "化学的に反応しない"
+    },
+    {
+      "form": "inertia",
+      "meaning": "慣性・惰性"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "化学",
+      "en": "Helium is an inert gas, so it does not burn.",
+      "ja": "ヘリウムは不活性ガスなので燃えない。"
+    },
+    {
+      "source": "original",
+      "label": "反応しない",
+      "en": "Gold is chemically inert and does not rust.",
+      "ja": "金は化学的に反応しにくく、さびない。"
+    },
+    {
+      "source": "original",
+      "label": "体が",
+      "en": "The injured animal lay inert on the road.",
+      "ja": "けがをした動物は道路の上でぐったりと動かなかった。"
+    },
+    {
+      "source": "original",
+      "label": "物が",
+      "en": "A stone is an inert object that cannot move by itself.",
+      "ja": "石は自分では動けない、動きのない物体だ。"
+    },
+    {
+      "source": "original",
+      "label": "組織が",
+      "en": "The committee remained inert while the problem grew worse.",
+      "ja": "問題が悪化する間も、委員会は何も動かなかった。"
+    },
+    {
+      "source": "original",
+      "label": "dormant とのちがい",
+      "en": "A dormant seed will sprout later, but an inert stone never will.",
+      "ja": "休眠中の種はやがて芽を出すが、動かない石は決して芽を出さない。"
+    }
+  ],
+  "check_points": [
+    "inert gas(不活性ガス)がわかるか",
+    "dormant・idle とのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "理科系の長文で inert gas、名詞 inertia(慣性・惰性)とともに出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2584
+    }
+  ]
+}
