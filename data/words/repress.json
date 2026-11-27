@@ -1,0 +1,94 @@
+{
+  "word": "repress",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈpres/",
+  "core_image": {
+    "text": "わき上がるものを、内側へ押し戻す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"70\" width=\"60\" height=\"70\"/><line x1=\"34\" y1=\"70\" x2=\"106\" y2=\"70\"/><line x1=\"58\" y1=\"128\" x2=\"58\" y2=\"82\" stroke-dasharray=\"5 5\"/><polyline points=\"54.2,89 58,82 61.8,89\"/><line x1=\"88\" y1=\"26\" x2=\"88\" y2=\"62\"/><polyline points=\"91.8,55 88,62 84.2,55\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"108\" y2=\"66\"/><line x1=\"170\" y1=\"74\" x2=\"182\" y2=\"96\"/></g><text x=\"134\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">押し戻す</text><text x=\"82\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">感情</text></svg>"
+  },
+  "etymology": "re(もとへ・後ろへ)+ press(押す)→ 出てこようとするものを押し戻す → ①(感情・欲求・記憶を)抑える・心の奥へ押し込める ②(反対する人々・運動を)抑圧する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stop yourself from showing a feeling; to control a group of people by force."
+    }
+  ],
+  "cautions": [
+    "目的語は anger / tears / desire / memories など「中からわき上がるもの」、または people / opposition(抑圧される人々)",
+    "形容詞 repressive=抑圧的な(a repressive government)、repressed=抑圧された(repressed anger)、名詞 repression",
+    "suppress=上から押さえつけて表に出さない(情報・反乱にも)/repress=わき上がるものを内側へ押し戻す(心理学の「抑圧」)",
+    "depress(落ち込ませる)・impress(印象づける)と同じ press(押す)の仲間。つづりで混同しない"
+  ],
+  "patterns": [
+    {
+      "form": "repress A",
+      "meaning": "A(感情など)を抑える"
+    },
+    {
+      "form": "repress the urge to do",
+      "meaning": "〜したい衝動を抑える"
+    },
+    {
+      "form": "repressed memories",
+      "meaning": "抑圧された記憶"
+    },
+    {
+      "form": "a repressive regime",
+      "meaning": "抑圧的な政権"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "感情を抑える",
+      "en": "She repressed her anger and smiled politely.",
+      "ja": "彼女は怒りを抑えて、礼儀正しくほほえんだ。"
+    },
+    {
+      "source": "original",
+      "label": "衝動",
+      "en": "I had to repress the urge to laugh during the ceremony.",
+      "ja": "式の最中、笑いたい衝動を抑えなければならなかった。"
+    },
+    {
+      "source": "original",
+      "label": "記憶",
+      "en": "Some people repress painful memories from childhood.",
+      "ja": "子どものころのつらい記憶を心の奥に押し込めてしまう人もいる。"
+    },
+    {
+      "source": "original",
+      "label": "抑圧する",
+      "en": "The government repressed anyone who criticized it.",
+      "ja": "政府は批判する者をだれでも抑圧した。"
+    },
+    {
+      "source": "original",
+      "label": "repressive",
+      "en": "People lived in fear under the repressive regime.",
+      "ja": "人々はその抑圧的な政権のもとでおびえて暮らした。"
+    },
+    {
+      "source": "original",
+      "label": "repressed",
+      "en": "Repressed feelings may later come out in other ways.",
+      "ja": "押し込められた感情は、あとで別の形で出てくることがある。"
+    }
+  ],
+  "check_points": [
+    "感情を抑える/人々を抑圧する、の2つの使い方がわかるか",
+    "suppress とのちがい(内側へ押し戻す)が言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "心理学・政治の長文に出る。repressive / repression の派生語、suppress・restrain との言いかえで問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2608
+    }
+  ]
+}

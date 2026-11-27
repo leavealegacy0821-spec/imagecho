@@ -1,0 +1,99 @@
+{
+  "word": "tame",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/teɪm/",
+  "core_image": {
+    "text": "野生のものを、人の手になじませる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"112\" y2=\"98\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><circle cx=\"124\" cy=\"104\" r=\"8\"/><ellipse cx=\"158\" cy=\"116\" rx=\"26\" ry=\"11\"/><line x1=\"146\" y1=\"125\" x2=\"146\" y2=\"140\"/><line x1=\"172\" y1=\"125\" x2=\"172\" y2=\"140\"/><line x1=\"184\" y1=\"114\" x2=\"198\" y2=\"104\"/></g><text x=\"160\" y=\"74\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">なじませる</text></svg>"
+  },
+  "etymology": "古英語 tam(飼いならされた)→ 人になじんだ・おとなしい → 形 ①(動物が)飼いならされた ②(話・試合などが)刺激がなく退屈な 動 ③飼いならす ④(自然の力・物価・感情を)制御する",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "(of an animal) not wild or afraid of people; not exciting."
+    },
+    {
+      "pos": "動詞",
+      "text": "to make an animal not wild; to bring something under control."
+    }
+  ],
+  "cautions": [
+    "形容詞「退屈な・おとなしすぎる」が狙われる:The ending was rather tame.(結末はかなり物足りなかった)",
+    "wild(野生の)の反対。tame は個々の動物が人に慣れていること/domesticate=種として家畜化すること",
+    "動詞は比ゆで「暴れるものを制御する」:tame a river(川を治める)、tame inflation(インフレを抑える)",
+    "subdue=押さえつけて従わせる/tame=手なずけておとなしくさせる"
+  ],
+  "patterns": [
+    {
+      "form": "a tame animal",
+      "meaning": "人に慣れた動物"
+    },
+    {
+      "form": "tame A",
+      "meaning": "A を飼いならす・制御する"
+    },
+    {
+      "form": "tame inflation",
+      "meaning": "インフレを抑える"
+    },
+    {
+      "form": "rather tame",
+      "meaning": "物足りない・退屈な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "人に慣れた",
+      "en": "The deer in this park are so tame that they eat from your hand.",
+      "ja": "この公園のシカはとても人に慣れていて、手からえさを食べる。"
+    },
+    {
+      "source": "original",
+      "label": "飼いならす",
+      "en": "It took months to tame the wild horse.",
+      "ja": "その野生の馬を飼いならすのに何か月もかかった。"
+    },
+    {
+      "source": "original",
+      "label": "退屈な",
+      "en": "Compared with the book, the movie was rather tame.",
+      "ja": "原作と比べると、映画はかなり物足りなかった。"
+    },
+    {
+      "source": "original",
+      "label": "制御する",
+      "en": "The government is trying to tame rising prices.",
+      "ja": "政府は上がり続ける物価を抑えようとしている。"
+    },
+    {
+      "source": "original",
+      "label": "自然",
+      "en": "People built dams to tame the river.",
+      "ja": "人々は川を治めるためにダムを造った。"
+    },
+    {
+      "source": "original",
+      "label": "感情",
+      "en": "She learned to tame her temper.",
+      "ja": "彼女はかんしゃくを抑えられるようになった。"
+    }
+  ],
+  "check_points": [
+    "形容詞「退屈な・物足りない」がわかるか",
+    "tame inflation / a river の「制御する」がわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "形容詞の「退屈な」の意味が語いで狙われやすい。動物の長文では tame / wild / domesticated の区別が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2613
+    }
+  ]
+}

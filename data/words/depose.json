@@ -1,0 +1,94 @@
+{
+  "word": "depose",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈpoʊz/",
+  "core_image": {
+    "text": "高い座から、下へ降ろす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"30,140 30,110 70,110 70,80 112,80 112,140\"/><polyline points=\"86,80 86,56\"/><polyline points=\"86,68 102,68 102,80\"/><line x1=\"108\" y1=\"60\" x2=\"160\" y2=\"100\" stroke-dasharray=\"5 5\"/><polyline points=\"156.8,92.7 160,100 152.1,98.8\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"168\" y2=\"96\"/><line x1=\"180\" y1=\"74\" x2=\"192\" y2=\"96\"/></g><text x=\"48\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">王座</text><text x=\"140\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">下ろす</text></svg>"
+  },
+  "etymology": "de(下へ)+ pose(置く)→ 高い地位から下へ置く → (王・支配者・指導者を)退位させる・権力の座から引きずり下ろす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to remove a ruler or leader from power."
+    }
+  ],
+  "cautions": [
+    "目的語は king / queen / president / leader など「地位にいる人」。overthrow は政府・体制そのものも目的語にとる",
+    "abdicate=自分から退位する/depose=周りから退位させられる。be deposed(退位させられる)の受け身が多い",
+    "oust=権力の座から追い出す(近い意味。ニュースで多い)/usurp=その座を不法に奪う",
+    "deposit(預ける)・dispose(処分する)・depress とつづりが似ている。de(下へ)+pose(置く)で覚える"
+  ],
+  "patterns": [
+    {
+      "form": "depose A",
+      "meaning": "A を退位させる・失脚させる"
+    },
+    {
+      "form": "be deposed",
+      "meaning": "退位させられる"
+    },
+    {
+      "form": "the deposed king",
+      "meaning": "退位させられた王"
+    },
+    {
+      "form": "depose A as B",
+      "meaning": "A を B の地位から下ろす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "退位させる",
+      "en": "The army deposed the king and took control.",
+      "ja": "軍が王を退位させ、実権を握った。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "The president was deposed in a military coup.",
+      "ja": "大統領は軍事クーデターで失脚した。"
+    },
+    {
+      "source": "original",
+      "label": "deposed",
+      "en": "The deposed leader fled abroad.",
+      "ja": "失脚した指導者は国外へ逃げた。"
+    },
+    {
+      "source": "original",
+      "label": "abdicate とのちがい",
+      "en": "The queen did not abdicate; she was deposed.",
+      "ja": "女王は自ら退位したのではなく、退位させられたのだ。"
+    },
+    {
+      "source": "original",
+      "label": "as B",
+      "en": "The board deposed him as chairman.",
+      "ja": "取締役会は彼を会長の座から下ろした。"
+    },
+    {
+      "source": "original",
+      "label": "歴史",
+      "en": "Many rulers in history were deposed by their own relatives.",
+      "ja": "歴史上、多くの支配者が自分の親族によって退位させられた。"
+    }
+  ],
+  "check_points": [
+    "depose と abdicate(自ら退位)のちがいがわかるか",
+    "be deposed の受け身が読めるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "世界史の長文に出る。oust / remove from power の言いかえ、abdicate との対比で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2616
+    }
+  ]
+}

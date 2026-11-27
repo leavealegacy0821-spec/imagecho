@@ -1,0 +1,94 @@
+{
+  "word": "subdue",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/səbˈduː/",
+  "core_image": {
+    "text": "上から押さえて、おとなしく従わせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"90\" y1=\"74\" x2=\"142\" y2=\"98\"/><line x1=\"90\" y1=\"74\" x2=\"80\" y2=\"96\"/><circle cx=\"150\" cy=\"104\" r=\"8\"/><line x1=\"156\" y1=\"110\" x2=\"180\" y2=\"120\"/><line x1=\"180\" y1=\"120\" x2=\"178\" y2=\"140\"/><line x1=\"168\" y1=\"116\" x2=\"160\" y2=\"140\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"104\"/><polyline points=\"203.8,97 200,104 196.2,97\"/></g><text x=\"190\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">おとなしく</text><text x=\"40\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">上から</text></svg>"
+  },
+  "etymology": "sub(下に)→ 相手を下に押さえつける → ①(敵・国・人を)征服する・取り押さえる ②(感情を)抑える ③subdued=(光・色・音が)控えめな・(人が)沈んだ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to bring someone or something under control, especially by force; to reduce the strength of a feeling."
+    }
+  ],
+  "cautions": [
+    "形容詞 subdued が狙われる:subdued lighting(ほの暗い照明)、She seemed subdued.(彼女は元気がなさそうだった)",
+    "conquer=戦って勝ち取る/subdue=押さえつけて抵抗をやめさせる/tame=手なずけておとなしくさせる",
+    "取り押さえる場面に多い:The police subdued the man.(警察がその男を取り押さえた)",
+    "発音は後ろにアクセント /səbˈduː/"
+  ],
+  "patterns": [
+    {
+      "form": "subdue A",
+      "meaning": "A を征服する・取り押さえる"
+    },
+    {
+      "form": "subdue one's anger",
+      "meaning": "怒りを抑える"
+    },
+    {
+      "form": "subdued",
+      "meaning": "控えめな・元気のない"
+    },
+    {
+      "form": "subdued lighting / colors",
+      "meaning": "落ち着いた照明・色"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "取り押さえる",
+      "en": "Two guards subdued the man who was shouting.",
+      "ja": "警備員2人が、どなっている男を取り押さえた。"
+    },
+    {
+      "source": "original",
+      "label": "征服する",
+      "en": "The empire subdued the neighboring tribes.",
+      "ja": "その帝国は近隣の部族を征服した。"
+    },
+    {
+      "source": "original",
+      "label": "感情を抑える",
+      "en": "He took a deep breath to subdue his anger.",
+      "ja": "彼は怒りを抑えるために深呼吸をした。"
+    },
+    {
+      "source": "original",
+      "label": "subdued(元気がない)",
+      "en": "She was unusually subdued after the test.",
+      "ja": "テストのあと、彼女はいつになく沈んでいた。"
+    },
+    {
+      "source": "original",
+      "label": "subdued(控えめ)",
+      "en": "The restaurant had subdued lighting and soft music.",
+      "ja": "そのレストランは落ち着いた照明と静かな音楽だった。"
+    },
+    {
+      "source": "original",
+      "label": "火",
+      "en": "Firefighters finally subdued the forest fire.",
+      "ja": "消防士たちはついに山火事を鎮めた。"
+    }
+  ],
+  "check_points": [
+    "subdued(控えめな・沈んだ)の意味がわかるか",
+    "conquer・tame とのちがいが言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "subdued の形容詞用法が語いで狙われる。長文では「征服する」「取り押さえる」で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2612
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "usurp",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/juːˈzɜːrp/",
+  "core_image": {
+    "text": "正当な持ち主から、座を横取りする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"50,140 50,90\"/><polyline points=\"50,115 76,115 76,140\"/><polygon points=\"104,72 108,52 118,64 128,46 138,64 148,52 152,72\"/><line x1=\"132\" y1=\"86\" x2=\"182\" y2=\"86\"/><polyline points=\"175,82.2 182,86 175,89.8\"/><circle cx=\"204\" cy=\"52\" r=\"10\"/><line x1=\"204\" y1=\"62\" x2=\"204\" y2=\"106\"/><line x1=\"204\" y1=\"106\" x2=\"194\" y2=\"140\"/><line x1=\"204\" y1=\"106\" x2=\"214\" y2=\"140\"/><line x1=\"204\" y1=\"74\" x2=\"156\" y2=\"62\"/><line x1=\"204\" y1=\"74\" x2=\"216\" y2=\"96\"/></g><text x=\"62\" y=\"78\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">正当な座</text><text x=\"128\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">横取り</text></svg>"
+  },
+  "etymology": "ラテン語 usurpare(使って自分のものにする)→ 権利のないものを奪って使う → ①(王位・権力を)不法に奪う・強奪する ②(他人の役割・権限・地位を)横取りする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to take someone else's power, position or job when you do not have the right to."
+    }
+  ],
+  "cautions": [
+    "ポイントは「権利がないのに」。目的語は throne / power / authority / role",
+    "seize=つかんで奪う(合法なことも)/usurp=正当な持ち主から不正に奪う/depose=座から下ろす(奪うかは別)",
+    "名詞 usurper=(王位などの)簒奪者、usurpation=強奪",
+    "発音 /juːˈzɜːrp/(ユーザープ)。s は濁る"
+  ],
+  "patterns": [
+    {
+      "form": "usurp the throne",
+      "meaning": "王位を奪う"
+    },
+    {
+      "form": "usurp power / authority",
+      "meaning": "権力・権限を奪う"
+    },
+    {
+      "form": "usurp A's role",
+      "meaning": "A の役割を横取りする"
+    },
+    {
+      "form": "a usurper",
+      "meaning": "簒奪者"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "王位を奪う",
+      "en": "The king's brother usurped the throne.",
+      "ja": "王の弟が王位を奪った。"
+    },
+    {
+      "source": "original",
+      "label": "権力",
+      "en": "The general usurped power from the elected government.",
+      "ja": "その将軍は選挙で選ばれた政府から権力を奪った。"
+    },
+    {
+      "source": "original",
+      "label": "役割",
+      "en": "The new manager usurped the role of the team leader.",
+      "ja": "新しい部長がチームリーダーの役割を横取りした。"
+    },
+    {
+      "source": "original",
+      "label": "比ゆ",
+      "en": "Smartphones have usurped the place of cameras.",
+      "ja": "スマートフォンがカメラの座を奪ってしまった。"
+    },
+    {
+      "source": "original",
+      "label": "usurper",
+      "en": "The people never accepted the usurper as their king.",
+      "ja": "人々はその簒奪者を王として決して認めなかった。"
+    },
+    {
+      "source": "original",
+      "label": "権限",
+      "en": "The committee was accused of usurping the authority of the council.",
+      "ja": "委員会は議会の権限を侵したと非難された。"
+    }
+  ],
+  "check_points": [
+    "「権利がないのに奪う」がわかるか",
+    "usurp the throne の型がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "歴史・政治の長文に出る。seize / take over との言いかえ、「正当でない」の含みが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2617
+    }
+  ]
+}

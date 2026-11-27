@@ -1,0 +1,94 @@
+{
+  "word": "quell",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kwel/",
+  "core_image": {
+    "text": "荒れているものを、力で静める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"20,110 34,92 48,110 62,92 76,110 90,92\"/><line x1=\"96\" y1=\"100\" x2=\"146\" y2=\"100\"/><polyline points=\"139,96.2 146,100 139,103.8\"/><line x1=\"156\" y1=\"104\" x2=\"222\" y2=\"104\"/><line x1=\"188\" y1=\"50\" x2=\"188\" y2=\"94\"/><polyline points=\"191.8,87 188,94 184.2,87\"/></g><text x=\"55\" y=\"76\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">荒れ</text><text x=\"120\" y=\"128\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">静める</text></svg>"
+  },
+  "etymology": "古英語 cwellan(殺す)→ 息の根を止めて静かにさせる → ①(暴動・反乱・騒ぎを)鎮圧する ②(不安・恐れ・疑い・うわさを)しずめる・打ち消す",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stop a violent situation or protest by using force; to make a feeling of fear or doubt disappear."
+    }
+  ],
+  "cautions": [
+    "目的語は2種類:riot / rebellion / unrest(暴動・反乱)と fears / doubts / rumors(不安・疑い・うわさ)",
+    "suppress=押さえ込んで表に出さない/quell=騒ぎや不安を完全に静まらせる(おさまった状態がゴール)",
+    "calm=穏やかに落ち着かせる/quell=力で(または強く)静める。quell fears は calm fears とほぼ同じ意味",
+    "1音節の短い語で、見出しや長文で「鎮圧」の意味に出る"
+  ],
+  "patterns": [
+    {
+      "form": "quell a riot / rebellion",
+      "meaning": "暴動・反乱を鎮圧する"
+    },
+    {
+      "form": "quell fears / doubts",
+      "meaning": "不安・疑いをしずめる"
+    },
+    {
+      "form": "quell rumors",
+      "meaning": "うわさを打ち消す"
+    },
+    {
+      "form": "quell unrest",
+      "meaning": "騒乱を静める"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "鎮圧する",
+      "en": "Troops were sent to quell the riot.",
+      "ja": "暴動を鎮圧するために部隊が送られた。"
+    },
+    {
+      "source": "original",
+      "label": "反乱",
+      "en": "The king failed to quell the rebellion.",
+      "ja": "王は反乱を鎮めることができなかった。"
+    },
+    {
+      "source": "original",
+      "label": "不安",
+      "en": "The doctor quelled my fears about the operation.",
+      "ja": "医師は手術についての私の不安をしずめてくれた。"
+    },
+    {
+      "source": "original",
+      "label": "うわさ",
+      "en": "The company issued a statement to quell the rumors.",
+      "ja": "会社はうわさを打ち消すために声明を出した。"
+    },
+    {
+      "source": "original",
+      "label": "疑い",
+      "en": "His clear answer quelled all doubts.",
+      "ja": "彼のはっきりした答えであらゆる疑いが消えた。"
+    },
+    {
+      "source": "original",
+      "label": "騒ぎ",
+      "en": "The teacher quickly quelled the noise in the classroom.",
+      "ja": "先生は教室の騒ぎをすぐに静めた。"
+    }
+  ],
+  "check_points": [
+    "暴動を鎮圧する/不安をしずめる、の2つの目的語がわかるか",
+    "suppress・calm との言いかえがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "歴史・社会の長文で quell a riot、評論で quell fears。put down / calm の言いかえで問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2611
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "smother",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈsmʌðər/",
+  "core_image": {
+    "text": "上からすっぽり覆って、息をふさぐ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M110 140 C100 122 114 112 120 96 C126 112 140 122 130 140\"/><path d=\"M88 140 C88 82 152 82 152 140\"/><line x1=\"120\" y1=\"26\" x2=\"120\" y2=\"74\"/><polyline points=\"123.8,67 120,74 116.2,67\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"154\" y2=\"100\"/><line x1=\"200\" y1=\"74\" x2=\"212\" y2=\"96\"/></g><text x=\"50\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">覆って</text><text x=\"50\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">息をふさぐ</text></svg>"
+  },
+  "etymology": "核となる絵:上から厚く覆って空気を断つ → ①窒息させる ②(火を)覆って消す ③(あくび・感情を)抑える ④smother A with B=A を B で覆いつくす(愛情・キスなどを浴びせる)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to kill someone by covering their face; to put out a fire by covering it; to give someone too much love or attention."
+    }
+  ],
+  "cautions": [
+    "smother a fire with a blanket=毛布をかぶせて火を消す。「上からかぶせる」の絵",
+    "smother A with B は「B で A を覆いつくす」:smother a child with love(子どもを愛情でおぼれさせる=過保護)、smother A in sauce(ソースをたっぷりかける)",
+    "stifle=口をふさぐ/smother=全体を上から覆う。どちらも「あくび・感情をこらえる」に使える",
+    "形容詞 smothering=(干渉が強すぎて)息が詰まるような"
+  ],
+  "patterns": [
+    {
+      "form": "smother A",
+      "meaning": "A を窒息させる・覆い消す"
+    },
+    {
+      "form": "smother a fire",
+      "meaning": "火を覆って消す"
+    },
+    {
+      "form": "smother A with B",
+      "meaning": "A を B で覆いつくす"
+    },
+    {
+      "form": "smother a yawn / smile",
+      "meaning": "あくび・笑みを抑える"
+    },
+    {
+      "form": "be smothered in A",
+      "meaning": "A にすっぽり覆われる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "火を消す",
+      "en": "He smothered the flames with a wet towel.",
+      "ja": "彼はぬれたタオルをかぶせて炎を消した。"
+    },
+    {
+      "source": "original",
+      "label": "覆いつくす",
+      "en": "The pancakes were smothered in syrup.",
+      "ja": "パンケーキにはシロップがたっぷりかかっていた。"
+    },
+    {
+      "source": "original",
+      "label": "愛情",
+      "en": "Some parents smother their children with attention.",
+      "ja": "子どもに構いすぎて息苦しくさせてしまう親もいる。"
+    },
+    {
+      "source": "original",
+      "label": "笑みを抑える",
+      "en": "She smothered a smile when she heard the excuse.",
+      "ja": "言い訳を聞いて、彼女は笑みを押し殺した。"
+    },
+    {
+      "source": "original",
+      "label": "窒息",
+      "en": "The thick smoke almost smothered the firefighters.",
+      "ja": "濃い煙で消防士たちはあやうく窒息しかけた。"
+    },
+    {
+      "source": "original",
+      "label": "比ゆ",
+      "en": "Heavy snow smothered the whole village.",
+      "ja": "大雪が村全体をすっぽり覆った。"
+    }
+  ],
+  "check_points": [
+    "smother a fire の「覆って消す」がわかるか",
+    "smother A with B(覆いつくす・過保護)が使えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "smother A with B / be smothered in A の型と、stifle との意味の近さが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2610
+    }
+  ]
+}
