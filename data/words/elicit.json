@@ -1,0 +1,94 @@
+{
+  "word": "elicit",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪˈlɪsɪt/",
+  "core_image": {
+    "text": "奥にあるものを、外へ引き出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M30 140 L30 70 L90 70 L90 140\"/><circle cx=\"60\" cy=\"112\" r=\"8\"/><line x1=\"66\" y1=\"106\" x2=\"150\" y2=\"60\"/><polyline points=\"142,60 150,60 145.7,66.7\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"156\" y2=\"62\"/><line x1=\"180\" y1=\"74\" x2=\"192\" y2=\"96\"/></g><text x=\"60\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">奥に</text><text x=\"120\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">引き出す</text></svg>"
+  },
+  "etymology": "ラテン語 e(外へ)+ licere(誘う・引く)→ 外へ誘い出す → ①(反応・答え・情報を)引き出す ②elicit A from B=B から A を引き出す",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to get information, a reaction or an answer from someone, often with difficulty."
+    }
+  ],
+  "cautions": [
+    "目的語は response / reaction / information / answer / support など「相手の中にあるもの」",
+    "型は elicit A from B=B から A を引き出す(from を使う)",
+    "illicit(違法な)と発音がほぼ同じでつづりが似ている。e-licit=外へ引く/il-licit=許されない、で区別",
+    "evoke=(感情・記憶を)呼び起こす/elicit=(答え・反応を)働きかけて引き出す/extract=(力ずくで)抜き出す"
+  ],
+  "patterns": [
+    {
+      "form": "elicit A",
+      "meaning": "A(反応・答え)を引き出す"
+    },
+    {
+      "form": "elicit A from B",
+      "meaning": "B から A を引き出す"
+    },
+    {
+      "form": "elicit a response / reaction",
+      "meaning": "反応を引き出す"
+    },
+    {
+      "form": "elicit information",
+      "meaning": "情報を聞き出す"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "引き出す",
+      "en": "The teacher's question elicited many interesting answers.",
+      "ja": "先生の質問は、たくさんのおもしろい答えを引き出した。"
+    },
+    {
+      "source": "original",
+      "label": "elicit A from B",
+      "en": "The police tried to elicit information from the witness.",
+      "ja": "警察は目撃者から情報を聞き出そうとした。"
+    },
+    {
+      "source": "original",
+      "label": "反応",
+      "en": "His speech elicited a strong reaction from the crowd.",
+      "ja": "彼の演説は群衆から強い反応を引き起こした。"
+    },
+    {
+      "source": "original",
+      "label": "支持",
+      "en": "The plan failed to elicit support from local people.",
+      "ja": "その計画は地元の人々の支持を得られなかった。"
+    },
+    {
+      "source": "original",
+      "label": "実験",
+      "en": "The researchers used pictures to elicit emotions in the subjects.",
+      "ja": "研究者たちは被験者の感情を引き出すために写真を使った。"
+    },
+    {
+      "source": "original",
+      "label": "illicit とのちがい",
+      "en": "The reporter elicited the truth about the illicit trade.",
+      "ja": "記者はその違法取引の真相を聞き出した。"
+    }
+  ],
+  "check_points": [
+    "elicit A from B の型が使えるか",
+    "illicit(違法な)と区別できるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "心理学・調査の長文に出る。draw out / bring out の言いかえ、illicit とのつづり混同が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2607
+    }
+  ]
+}

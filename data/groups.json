@@ -1168,7 +1168,7 @@
     },
     {
       "title": "使い分け:引き起こす",
-      "note": "cause=原因となる ／ bring about=もたらす ／ trigger=引き金を引く ／ provoke=(反応・怒りを)誘う ／ induce=誘発する ／ evoke=(記憶・感情を)呼び起こす ／ arouse=(感情を)目覚めさせる ／ generate=生み出す",
+      "note": "cause=原因となる ／ bring about=もたらす ／ trigger=引き金を引く ／ provoke=(反応・怒りを)誘う ／ induce=誘発する ／ evoke=(記憶・感情を)呼び起こす ／ arouse=(感情を)目覚めさせる ／ generate=生み出す ／ elicit=奥にある答え・反応を働きかけて外へ引き出す(elicit A from B)",
       "words": [
         "cause",
         "bring",
@@ -1177,7 +1177,8 @@
         "induce",
         "evoke",
         "arouse",
-        "generate"
+        "generate",
+        "elicit"
       ]
     },
     {
@@ -3760,7 +3761,7 @@
     },
     {
       "title": "使い分け:ばかにする・からかう",
-      "note": "mock=まねをして笑いものにする ／ tease=ちょっかいを出していじる(親しみもある) ／ ridicule=指さしてみんなで笑いものにする ／ scorn=見下して鼻であしらう(態度に出す) ／ despise=上から見下して心でさげすむ ／ sneer=口のはしをゆがめてふんとばかにする ／ taunt=弱みをつついてわざと怒らせようとはやし立てる ／ deride=考え・計画を価値がないと見下してあざ笑う(deride A as B)",
+      "note": "mock=まねをして笑いものにする ／ tease=ちょっかいを出していじる(親しみもある) ／ ridicule=指さしてみんなで笑いものにする ／ scorn=見下して鼻であしらう(態度に出す) ／ despise=上から見下して心でさげすむ ／ sneer=口のはしをゆがめてふんとばかにする ／ taunt=弱みをつついてわざと怒らせようとはやし立てる ／ deride=考え・計画を価値がないと見下してあざ笑う(deride A as B) ／ belittle=相手や成果を実際より小さく見せてけなす(大したことないと言う) ／ disparage=対等の並びから格下げして、敬意なく悪く言う(かたい語)",
       "words": [
         "mock",
         "tease",
@@ -3769,7 +3770,9 @@
         "despise",
         "sneer",
         "taunt",
-        "deride"
+        "deride",
+        "belittle",
+        "disparage"
       ]
     },
     {
@@ -3856,6 +3859,21 @@
         "adore",
         "detest",
         "loathe"
+      ]
+    },
+    {
+      "title": "使い分け:引きつける・夢中にさせる",
+      "note": "attract=引き寄せる ／ fascinate=目が離せないほど心をくぎづけにする ／ captivate=心をとりこにしてつかんだまま離さない ／ enchant=魔法をかけたようにうっとり夢心地にさせる ／ intrigue=なぞが引っかかって「知りたい」と好奇心をそそる ／ engross=すっぽり引きこんで時間を忘れさせる(be engrossed in) ／ absorb=心を吸いこんで没頭させる(be absorbed in) ／ preoccupy=先に頭をふさいでほかに気を回せなくする(上の空) ／ obsess=頭に居すわってそればかり考えさせる(度を越す)",
+      "words": [
+        "attract",
+        "fascinate",
+        "captivate",
+        "enchant",
+        "intrigue",
+        "engross",
+        "absorb",
+        "preoccupy",
+        "obsess"
       ]
     },
     {

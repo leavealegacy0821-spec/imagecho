@@ -1,0 +1,103 @@
+{
+  "word": "intrigue",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɪnˈtriːɡ/",
+  "core_image": {
+    "text": "なぞが心に引っかかって、「なぜ?」と知りたくさせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"82\" y2=\"60\"/><line x1=\"82\" y1=\"60\" x2=\"78\" y2=\"44\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"96\"/><rect x=\"140\" y=\"96\" width=\"50\" height=\"44\"/><path d=\"M155 76 C155 62 177 62 177 74 C177 82 166 82 166 90\"/><circle cx=\"166\" cy=\"94\" r=\"1.5\"/></g><text x=\"110\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">なぜ?</text><text x=\"205\" y=\"72\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">なぞ</text></svg>"
+  },
+  "etymology": "ラテン語 intricare(もつれさせる。intricate=複雑な と同じ)→ もつれた糸のように心に引っかかる → ①(動詞)好奇心をそそる・興味を引く ②(名詞)陰謀・はかりごと(もつれた裏の計画)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone very interested and want to know more about something."
+    },
+    {
+      "pos": "名詞",
+      "text": "the making of secret plans to harm someone or gain an advantage."
+    }
+  ],
+  "cautions": [
+    "動詞は「ふしぎで知りたくなる」という好奇心。be intrigued by A=A に興味をそそられる、intriguing=興味をそそる",
+    "名詞は「陰謀・策略」と意味が離れて見えるが、どちらも「もつれ」から。political intrigue=政治的陰謀",
+    "fascinate=目がくぎづけになるほど魅了/intrigue=なぞで好奇心をくすぐる(「知りたい」が中心)",
+    "be intrigued to do=〜して興味をそそられる(I was intrigued to learn ~)"
+  ],
+  "patterns": [
+    {
+      "form": "intrigue A",
+      "meaning": "A の好奇心をそそる"
+    },
+    {
+      "form": "be intrigued by A",
+      "meaning": "A に興味をそそられる"
+    },
+    {
+      "form": "be intrigued to do",
+      "meaning": "〜して興味をそそられる"
+    },
+    {
+      "form": "intriguing",
+      "meaning": "興味をそそる・おもしろい"
+    },
+    {
+      "form": "(political) intrigue",
+      "meaning": "(政治的な)陰謀"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "好奇心をそそる",
+      "en": "The strange title of the book intrigued me.",
+      "ja": "その本の奇妙な題名が私の好奇心をそそった。"
+    },
+    {
+      "source": "original",
+      "label": "be intrigued by",
+      "en": "Scientists are intrigued by the behavior of this fish.",
+      "ja": "科学者たちはこの魚のふるまいに興味をそそられている。"
+    },
+    {
+      "source": "original",
+      "label": "be intrigued to do",
+      "en": "I was intrigued to learn that he had lived in Peru.",
+      "ja": "彼がペルーに住んでいたと知って、私は興味をひかれた。"
+    },
+    {
+      "source": "original",
+      "label": "intriguing",
+      "en": "It is an intriguing question with no easy answer.",
+      "ja": "簡単には答えの出ない、興味深い問いだ。"
+    },
+    {
+      "source": "original",
+      "label": "名詞:陰謀",
+      "en": "The novel is full of political intrigue at the royal court.",
+      "ja": "その小説は王宮での政治的陰謀に満ちている。"
+    },
+    {
+      "source": "original",
+      "label": "fascinate とのちがい",
+      "en": "The puzzle intrigued him at first, and soon it fascinated him.",
+      "ja": "そのなぞは最初は彼の好奇心をくすぐり、やがて彼を夢中にさせた。"
+    }
+  ],
+  "check_points": [
+    "「なぞ → 知りたくなる」の好奇心だとわかるか",
+    "名詞の「陰謀」もわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "intriguing / intrigued の区別、名詞「陰謀」の多義で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2601
+    }
+  ]
+}

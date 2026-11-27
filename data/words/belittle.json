@@ -1,0 +1,94 @@
+{
+  "word": "belittle",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/bɪˈlɪtl/",
+  "core_image": {
+    "text": "相手やその成果を、実際より小さく見せてけなす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"110\" y2=\"110\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"96\"/><circle cx=\"130\" cy=\"122\" r=\"5\"/><line x1=\"130\" y1=\"127\" x2=\"130\" y2=\"134\"/><line x1=\"130\" y1=\"134\" x2=\"127\" y2=\"140\"/><line x1=\"130\" y1=\"134\" x2=\"133\" y2=\"140\"/><rect x=\"170\" y=\"80\" width=\"36\" height=\"60\"/><line x1=\"166\" y1=\"110\" x2=\"142\" y2=\"124\" stroke-dasharray=\"5 5\"/><polyline points=\"150,123.8 142,124 146.1,117.1\"/></g><text x=\"188\" y=\"66\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">本当は</text><text x=\"40\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">小さく</text></svg>"
+  },
+  "etymology": "be(〜にする)+ little(小さい)→ 小さくする → (人・努力・成果を)実際より小さく見せる → けなす・見くびる・軽んじる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone or something seem less important or less valuable than they really are."
+    }
+  ],
+  "cautions": [
+    "little(小さい)が見えれば一発。「価値を小さく扱う」こと。笑うより「見くびって言う」のが中心",
+    "目的語は人・努力・成果・問題:belittle her achievements / belittle the problem(問題を軽く見る)",
+    "mock=まねして笑う/deride=あざ笑う/belittle=価値を小さく言う(大したことないと言う)",
+    "反対は exaggerate(大げさに言う)、overestimate"
+  ],
+  "patterns": [
+    {
+      "form": "belittle A",
+      "meaning": "A をけなす・見くびる"
+    },
+    {
+      "form": "belittle A's achievements / efforts",
+      "meaning": "A の成果・努力を軽んじる"
+    },
+    {
+      "form": "belittle the problem",
+      "meaning": "問題を軽く見る"
+    },
+    {
+      "form": "feel belittled",
+      "meaning": "見くびられたと感じる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "けなす",
+      "en": "He always belittles his younger brother in front of others.",
+      "ja": "彼はいつも人前で弟を見くびって言う。"
+    },
+    {
+      "source": "original",
+      "label": "成果を",
+      "en": "Don't belittle your own achievements.",
+      "ja": "自分の成し遂げたことを小さく言わないで。"
+    },
+    {
+      "source": "original",
+      "label": "問題を",
+      "en": "The minister belittled the problem of pollution.",
+      "ja": "大臣は公害の問題を軽く扱った。"
+    },
+    {
+      "source": "original",
+      "label": "feel belittled",
+      "en": "She felt belittled when her idea was ignored.",
+      "ja": "彼女は自分の考えを無視されて、見くびられたと感じた。"
+    },
+    {
+      "source": "original",
+      "label": "努力を",
+      "en": "Critics belittled the team's efforts, but they won the cup.",
+      "ja": "批評家はチームの努力を軽んじたが、チームは優勝した。"
+    },
+    {
+      "source": "original",
+      "label": "exaggerate と反対",
+      "en": "Some people exaggerate their success and belittle others'.",
+      "ja": "自分の成功を大げさに言い、他人の成功を小さく言う人もいる。"
+    }
+  ],
+  "check_points": [
+    "be + little →「小さくする」と成り立ちがわかるか",
+    "人だけでなく成果・問題にも使えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "評論・人間関係の長文に出る。disparage / underestimate との言いかえで問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2605
+    }
+  ]
+}

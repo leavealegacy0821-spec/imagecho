@@ -1,0 +1,98 @@
+{
+  "word": "enchant",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈtʃænt/",
+  "core_image": {
+    "text": "魔法をかけたように、うっとり夢心地にさせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"100\" y2=\"58\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"96\"/><line x1=\"100\" y1=\"58\" x2=\"124\" y2=\"44\"/><circle cx=\"160\" cy=\"66\" r=\"10\"/><line x1=\"160\" y1=\"76\" x2=\"160\" y2=\"112\"/><line x1=\"160\" y1=\"112\" x2=\"152\" y2=\"140\"/><line x1=\"160\" y1=\"112\" x2=\"168\" y2=\"140\"/><line x1=\"160\" y1=\"86\" x2=\"148\" y2=\"100\"/><line x1=\"160\" y1=\"86\" x2=\"172\" y2=\"100\"/><line x1=\"132\" y1=\"36\" x2=\"136\" y2=\"44\"/><line x1=\"142\" y1=\"34\" x2=\"140\" y2=\"42\"/></g><text x=\"205\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">うっとり</text><text x=\"28\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">魔法</text></svg>"
+  },
+  "etymology": "ラテン語 in(中へ)+ cantare(歌う。chant と同じ)→ 呪文を歌いかける → 魔法にかける → ①(人を)うっとりさせる・魅了する ②(物語で)魔法をかける",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to attract and delight someone very much; (in stories) to put a magic spell on someone or something."
+    }
+  ],
+  "cautions": [
+    "chant(唱える)が入っていて、もとは「呪文で魔法をかける」。今は「夢心地にさせるほど喜ばせる」がふつう",
+    "受け身 be enchanted by / with A、形容詞 enchanting=うっとりするほど美しい",
+    "反対の disenchanted=幻滅した(魔法がとけた)は長文でよく出る",
+    "captivate=とらえて離さない/enchant=魔法のように喜ばせる/charm=感じのよさで好かれる"
+  ],
+  "patterns": [
+    {
+      "form": "enchant A",
+      "meaning": "A をうっとりさせる"
+    },
+    {
+      "form": "be enchanted by / with A",
+      "meaning": "A にうっとりする"
+    },
+    {
+      "form": "enchanting",
+      "meaning": "うっとりするような"
+    },
+    {
+      "form": "an enchanted forest",
+      "meaning": "魔法のかかった森"
+    },
+    {
+      "form": "be disenchanted with A",
+      "meaning": "A に幻滅する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "うっとりさせる",
+      "en": "The old town enchanted us with its narrow streets and flowers.",
+      "ja": "その古い町は細い通りと花々で私たちをうっとりさせた。"
+    },
+    {
+      "source": "original",
+      "label": "be enchanted with",
+      "en": "The children were enchanted with the puppet show.",
+      "ja": "子どもたちは人形劇に夢中になった。"
+    },
+    {
+      "source": "original",
+      "label": "enchanting",
+      "en": "She wore an enchanting blue dress.",
+      "ja": "彼女はうっとりするほど美しい青いドレスを着ていた。"
+    },
+    {
+      "source": "original",
+      "label": "魔法",
+      "en": "In the story, a witch enchanted the prince and turned him into a frog.",
+      "ja": "物語では、魔女が王子に魔法をかけてカエルにした。"
+    },
+    {
+      "source": "original",
+      "label": "disenchanted",
+      "en": "Many voters became disenchanted with the government.",
+      "ja": "多くの有権者が政府に幻滅した。"
+    },
+    {
+      "source": "original",
+      "label": "charm とのちがい",
+      "en": "His manners charmed us, but the music enchanted us.",
+      "ja": "彼の礼儀正しさには好感をもったが、音楽にはうっとりした。"
+    }
+  ],
+  "check_points": [
+    "chant(唱える)→ 魔法 → うっとり のつながりがわかるか",
+    "disenchanted(幻滅した)がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文・紀行文に出る。disenchanted は評論で「幻滅」として出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2600
+    }
+  ]
+}

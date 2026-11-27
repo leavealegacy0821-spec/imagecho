@@ -1,0 +1,94 @@
+{
+  "word": "disparage",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈspærɪdʒ/",
+  "core_image": {
+    "text": "同じ並びから引きずり下ろして、悪く言う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"30\" y1=\"60\" x2=\"210\" y2=\"60\"/><rect x=\"50\" y=\"36\" width=\"20\" height=\"24\"/><rect x=\"110\" y=\"36\" width=\"20\" height=\"24\"/><rect x=\"160\" y=\"112\" width=\"20\" height=\"28\"/><line x1=\"170\" y1=\"64\" x2=\"170\" y2=\"106\"/><polyline points=\"173.8,99 170,106 166.2,99\"/><circle cx=\"210\" cy=\"52\" r=\"10\"/><line x1=\"210\" y1=\"62\" x2=\"210\" y2=\"106\"/><line x1=\"210\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"210\" y1=\"106\" x2=\"220\" y2=\"140\"/><line x1=\"210\" y1=\"74\" x2=\"186\" y2=\"88\"/><line x1=\"210\" y1=\"74\" x2=\"222\" y2=\"96\"/></g><text x=\"90\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">同じ高さ</text><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">格下げ</text></svg>"
+  },
+  "etymology": "古いフランス語 des(はなれて)+ parage(同じ身分・地位。pair・par と同じ)→ 同じ身分から外す → 格を下げる → (人・物・考えを)けなす・見くびる・悪く言う",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say that someone or something is not good or important; to criticize in a way that shows no respect."
+    }
+  ],
+  "cautions": [
+    "par(同等)が入っていて「対等から引きずり下ろす」が核。belittle よりかたい書きことば",
+    "形容詞 disparaging=見くびるような:disparaging remarks(悪口・中傷)は定番",
+    "criticize=欠点を指摘する(正当なこともある)/disparage=価値を認めずにけなす(敬意がない)",
+    "受け身で多い:Traditional medicine was once disparaged as unscientific.(disparage A as B)"
+  ],
+  "patterns": [
+    {
+      "form": "disparage A",
+      "meaning": "A をけなす・見くびる"
+    },
+    {
+      "form": "disparage A as B",
+      "meaning": "A を B だとけなす"
+    },
+    {
+      "form": "disparaging remarks",
+      "meaning": "けなすような言葉・悪口"
+    },
+    {
+      "form": "be disparaged by A",
+      "meaning": "A にけなされる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "けなす",
+      "en": "He never disparages his rivals in interviews.",
+      "ja": "彼はインタビューでけっして対戦相手をけなさない。"
+    },
+    {
+      "source": "original",
+      "label": "disparage A as B",
+      "en": "Her early paintings were disparaged as childish.",
+      "ja": "彼女の初期の絵は子どもっぽいとけなされた。"
+    },
+    {
+      "source": "original",
+      "label": "disparaging remarks",
+      "en": "The coach was criticized for making disparaging remarks about women.",
+      "ja": "そのコーチは女性を見くびる発言をしたことで非難された。"
+    },
+    {
+      "source": "original",
+      "label": "文化を",
+      "en": "It is wrong to disparage other cultures.",
+      "ja": "ほかの文化を見下して悪く言うのはまちがいだ。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "Online learning was once disparaged, but now it is common.",
+      "ja": "オンライン学習はかつて見くびられていたが、今ではふつうだ。"
+    },
+    {
+      "source": "original",
+      "label": "criticize とのちがい",
+      "en": "You can criticize a plan without disparaging the people who made it.",
+      "ja": "計画を作った人々をけなさずに、計画を批判することはできる。"
+    }
+  ],
+  "check_points": [
+    "par(同等)から外す →「格下げしてけなす」とわかるか",
+    "disparaging remarks がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "評論で belittle / denigrate の言いかえとして出る。disparaging remarks は語いで狙われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2606
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "preoccupy",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/priˈɑːkjəpaɪ/",
+  "core_image": {
+    "text": "先に心の場所をふさいで、ほかのことに気を回せなくする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"82\" y2=\"96\"/><rect x=\"40\" y=\"6\" width=\"60\" height=\"26\"/><line x1=\"48\" y1=\"14\" x2=\"92\" y2=\"14\"/><line x1=\"48\" y1=\"22\" x2=\"92\" y2=\"22\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"140\" y2=\"68\"/><line x1=\"170\" y1=\"74\" x2=\"182\" y2=\"96\"/><line x1=\"136\" y1=\"62\" x2=\"96\" y2=\"56\" stroke-dasharray=\"5 5\"/><polyline points=\"102.4,60.8 96,56 103.5,53.2\"/></g><text x=\"196\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ねえ</text><text x=\"128\" y=\"108\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">上の空</text></svg>"
+  },
+  "etymology": "pre(先に)+ occupy(場所をふさぐ)→ 心の中を先にふさいでしまう → ①be preoccupied with A=A のことで頭がいっぱいで、ほかに気が回らない ②(形容詞 preoccupied)上の空の",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to fill someone's mind so that they do not pay attention to other things."
+    }
+  ],
+  "cautions": [
+    "ほぼ受け身 be preoccupied with A で使う。前置詞は with",
+    "「心配ごと・考えごとで上の空」の感じがある:He looked preoccupied.(彼は上の空のようだった)",
+    "名詞 preoccupation=(頭を占める)関心事・没頭",
+    "obsess=度を越して取りつかれる/preoccupy=頭が占められてほかに気が回らない/engross=楽しく没頭する"
+  ],
+  "patterns": [
+    {
+      "form": "be preoccupied with A",
+      "meaning": "A のことで頭がいっぱいだ"
+    },
+    {
+      "form": "preoccupied",
+      "meaning": "上の空の・考えごとをしている"
+    },
+    {
+      "form": "a preoccupation with A",
+      "meaning": "A への没頭・強い関心"
+    },
+    {
+      "form": "preoccupy A",
+      "meaning": "A の頭を占める"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "be preoccupied with",
+      "en": "She was preoccupied with her exams and forgot my birthday.",
+      "ja": "彼女は試験のことで頭がいっぱいで、私の誕生日を忘れていた。"
+    },
+    {
+      "source": "original",
+      "label": "上の空",
+      "en": "You look preoccupied. Is something wrong?",
+      "ja": "上の空みたいだね。何かあったの?"
+    },
+    {
+      "source": "original",
+      "label": "主語が物",
+      "en": "The problem of money preoccupied him for weeks.",
+      "ja": "お金の問題が何週間も彼の頭を占めていた。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "Our main preoccupation was finding a place to sleep.",
+      "ja": "私たちのいちばんの関心事は寝る場所を見つけることだった。"
+    },
+    {
+      "source": "original",
+      "label": "社会",
+      "en": "Modern society is preoccupied with speed.",
+      "ja": "現代社会は速さのことばかり気にしている。"
+    },
+    {
+      "source": "original",
+      "label": "engross とのちがい",
+      "en": "He was engrossed in a game, not preoccupied with worries.",
+      "ja": "彼は心配ごとで上の空なのではなく、ゲームに没頭していた。"
+    }
+  ],
+  "check_points": [
+    "pre(先に)+ occupy(ふさぐ)の成り立ちがわかるか",
+    "be preoccupied with が使えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "be preoccupied with の形で出る。absorbed / obsessed との区別が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2603
+    }
+  ]
+}
