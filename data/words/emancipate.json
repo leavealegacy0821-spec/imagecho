@@ -1,0 +1,94 @@
+{
+  "word": "emancipate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪˈmænsɪpeɪt/",
+  "core_image": {
+    "text": "つかまれていた手を放させ、身分ごと自由にする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"96\" y2=\"84\"/><line x1=\"60\" y1=\"74\" x2=\"40\" y2=\"98\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"114\" y2=\"84\"/><line x1=\"150\" y1=\"74\" x2=\"170\" y2=\"98\"/><line x1=\"98\" y1=\"78\" x2=\"112\" y2=\"90\"/><line x1=\"112\" y1=\"78\" x2=\"98\" y2=\"90\"/><line x1=\"170\" y1=\"60\" x2=\"214\" y2=\"60\"/><polyline points=\"207,56.2 214,60 207,63.8\"/></g><text x=\"105\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">手を放す</text><text x=\"205\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">自由の身</text></svg>"
+  },
+  "etymology": "ラテン語 e(外へ)+ manus(手。manual と同じ)+ capere(つかむ)→ つかんでいる手から外へ出す → 主人の手(所有)から放す → (奴隷・女性・人を法的・社会的な束縛から)解放する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give people social or political freedom and rights, especially by law."
+    }
+  ],
+  "cautions": [
+    "歴史の文脈が中心:emancipate slaves=奴隷を解放する。the Emancipation Proclamation=(リンカーンの)奴隷解放宣言",
+    "型は emancipate A from B=A を B から解放する",
+    "liberate=支配・占領・束縛から自由にする(広い)/emancipate=法律や身分の上で権利を与えて公式に解放する",
+    "名詞 emancipation=(法的・社会的な)解放"
+  ],
+  "patterns": [
+    {
+      "form": "emancipate slaves",
+      "meaning": "奴隷を解放する"
+    },
+    {
+      "form": "emancipate A from B",
+      "meaning": "A を B から解放する"
+    },
+    {
+      "form": "the emancipation of A",
+      "meaning": "A の解放"
+    },
+    {
+      "form": "be emancipated",
+      "meaning": "解放される"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "奴隷を",
+      "en": "Lincoln is remembered for emancipating the slaves.",
+      "ja": "リンカーンは奴隷を解放したことで記憶されている。"
+    },
+    {
+      "source": "original",
+      "label": "emancipate A from B",
+      "en": "The new law emancipated women from many old restrictions.",
+      "ja": "新しい法律は女性を多くの古い制限から解放した。"
+    },
+    {
+      "source": "original",
+      "label": "be emancipated",
+      "en": "Millions of people were emancipated in the nineteenth century.",
+      "ja": "19世紀に何百万人もの人々が解放された。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The emancipation of women changed society deeply.",
+      "ja": "女性解放は社会を大きく変えた。"
+    },
+    {
+      "source": "original",
+      "label": "比ゆ",
+      "en": "Writing emancipated her from her fear of speaking.",
+      "ja": "書くことで彼女は話すことへの恐れから解放された。"
+    },
+    {
+      "source": "original",
+      "label": "liberate とのちがい",
+      "en": "The army liberated the city, and later the law emancipated its slaves.",
+      "ja": "軍がその町を解放し、のちに法律がそこの奴隷を(身分の上で)解放した。"
+    }
+  ],
+  "check_points": [
+    "奴隷解放・女性解放の文脈で使えるか",
+    "liberate とのちがい(法的・身分の解放)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "歴史の長文で emancipation(奴隷解放・女性解放)が出る。語源 manus(手)と合わせて覚える。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2573
+    }
+  ]
+}

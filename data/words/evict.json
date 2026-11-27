@@ -1,0 +1,94 @@
+{
+  "word": "evict",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪˈvɪkt/",
+  "core_image": {
+    "text": "住んでいる人を、家の外へ法の力で出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"30,140 30,80 70,50 110,80 110,140\"/><rect x=\"58\" y=\"104\" width=\"24\" height=\"36\"/><line x1=\"86\" y1=\"120\" x2=\"140\" y2=\"120\"/><polyline points=\"133,116.2 140,120 133,123.8\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"156\" y2=\"98\"/><line x1=\"170\" y1=\"74\" x2=\"186\" y2=\"96\"/><rect x=\"194\" y=\"120\" width=\"22\" height=\"20\"/></g><text x=\"70\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">家</text><text x=\"180\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">追い出し</text></svg>"
+  },
+  "etymology": "ラテン語 e(外へ)+ vincere(打ち勝つ。victory と同じ)→ 法の争いに勝って外へ出す → (家主・裁判所が)借り手を家・土地から立ち退かせる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to force someone, by law, to leave the house or land they are living on."
+    }
+  ],
+  "cautions": [
+    "場面は「住まい・土地からの立ち退き」に決まっている:be evicted from one's apartment",
+    "型は evict A from B=A を B から立ち退かせる。受け身でよく使う",
+    "expel=団体・学校・国から追い出す/oust=地位・権力の座から追い出す/deport=国外へ強制送還する/evict=家・土地から立ち退かせる",
+    "名詞 eviction=立ち退き(an eviction notice=立ち退き通知)"
+  ],
+  "patterns": [
+    {
+      "form": "evict A from B",
+      "meaning": "A を B から立ち退かせる"
+    },
+    {
+      "form": "be evicted (from A)",
+      "meaning": "(A から)立ち退かされる"
+    },
+    {
+      "form": "evict a tenant",
+      "meaning": "借り手を立ち退かせる"
+    },
+    {
+      "form": "an eviction notice",
+      "meaning": "立ち退き通知"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "evict A from B",
+      "en": "The landlord evicted the family from the apartment.",
+      "ja": "家主はその家族をアパートから立ち退かせた。"
+    },
+    {
+      "source": "original",
+      "label": "be evicted",
+      "en": "They were evicted because they could not pay the rent.",
+      "ja": "彼らは家賃が払えなかったので立ち退かされた。"
+    },
+    {
+      "source": "original",
+      "label": "借り手を",
+      "en": "The owner cannot evict tenants without a good reason.",
+      "ja": "持ち主は正当な理由なしに借り手を立ち退かせることはできない。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "She received an eviction notice last week.",
+      "ja": "彼女は先週、立ち退き通知を受け取った。"
+    },
+    {
+      "source": "original",
+      "label": "土地から",
+      "en": "Farmers were evicted from their land to build a dam.",
+      "ja": "ダムを造るために農民たちは土地から追い出された。"
+    },
+    {
+      "source": "original",
+      "label": "expel とのちがい",
+      "en": "He was expelled from school and evicted from his home in the same year.",
+      "ja": "彼は同じ年に学校を退学させられ、家も追い出された。"
+    }
+  ],
+  "check_points": [
+    "「家・土地から立ち退かせる」に限ると言えるか",
+    "expel・oust・deport とのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "住宅・都市問題の長文で be evicted from と eviction が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2575
+    }
+  ]
+}

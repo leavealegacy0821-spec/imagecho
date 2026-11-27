@@ -1,0 +1,94 @@
+{
+  "word": "deport",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈpɔːrt/",
+  "core_image": {
+    "text": "国の外へ、強制的に運び出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"140\" stroke-dasharray=\"6 6\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"56\" y2=\"98\"/><line x1=\"70\" y1=\"74\" x2=\"84\" y2=\"98\"/><line x1=\"92\" y1=\"86\" x2=\"176\" y2=\"86\"/><polyline points=\"169,82.2 176,86 169,89.8\"/><path d=\"M180,116 L224,116 L216,130 L188,130 Z\"/><line x1=\"202\" y1=\"116\" x2=\"202\" y2=\"96\"/></g><text x=\"60\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">この国</text><text x=\"180\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">国の外へ</text></svg>"
+  },
+  "etymology": "ラテン語 de(離れて)+ portare(運ぶ。port・transport と同じ)→ 運び去る → (外国人を)国外へ強制退去させる・強制送還する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to force someone who is not a citizen to leave a country, usually by law."
+    }
+  ],
+  "cautions": [
+    "対象は「外国人」、行き先は「国の外(本国)」:deport A to B=A を B へ送還する",
+    "受け身が多い:be deported for overstaying a visa=ビザの期限を過ぎて強制送還される",
+    "exile=(自国民を)国から追放する/deport=(外国人を)法にもとづいて国外へ出す/expel=団体・国から追い出す(広い)",
+    "report・export(外へ運ぶ)と同じ port(運ぶ)。名詞 deportation=強制送還"
+  ],
+  "patterns": [
+    {
+      "form": "deport A (to B)",
+      "meaning": "A を(B へ)強制送還する"
+    },
+    {
+      "form": "be deported (from A)",
+      "meaning": "(A から)強制退去させられる"
+    },
+    {
+      "form": "be deported for A",
+      "meaning": "A の理由で強制送還される"
+    },
+    {
+      "form": "deportation",
+      "meaning": "強制送還"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "送還する",
+      "en": "The government deported the workers to their home country.",
+      "ja": "政府はその労働者たちを母国へ強制送還した。"
+    },
+    {
+      "source": "original",
+      "label": "be deported",
+      "en": "He was deported for working without a visa.",
+      "ja": "彼はビザなしで働いたために強制送還された。"
+    },
+    {
+      "source": "original",
+      "label": "from A",
+      "en": "Thousands of people were deported from the country that year.",
+      "ja": "その年、何千人もの人がその国から強制退去させられた。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "She is fighting her deportation in court.",
+      "ja": "彼女は強制送還に反対して裁判で争っている。"
+    },
+    {
+      "source": "original",
+      "label": "危険",
+      "en": "The court ruled that he could not be deported to a dangerous country.",
+      "ja": "裁判所は、彼を危険な国へ送還してはならないと判断した。"
+    },
+    {
+      "source": "original",
+      "label": "exile とのちがい",
+      "en": "The poet was exiled by his own country, while the visitor was deported.",
+      "ja": "その詩人は自分の国から追放され、旅行者のほうは強制送還された。"
+    }
+  ],
+  "check_points": [
+    "対象が「外国人」、行き先が「国外」とわかるか",
+    "exile・expel とのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "移民・難民の長文で be deported と deportation が出る。port(運ぶ)の語源で覚える。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2577
+    }
+  ]
+}

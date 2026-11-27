@@ -1,0 +1,94 @@
+{
+  "word": "liberate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈlɪbəreɪt/",
+  "core_image": {
+    "text": "しばりやおさえつけを外して、自由にしてやる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"24\" y=\"60\" width=\"70\" height=\"80\"/><line x1=\"40\" y1=\"60\" x2=\"40\" y2=\"140\"/><line x1=\"56\" y1=\"60\" x2=\"56\" y2=\"140\"/><line x1=\"72\" y1=\"60\" x2=\"72\" y2=\"140\"/><line x1=\"104\" y1=\"100\" x2=\"150\" y2=\"100\"/><polyline points=\"143,96.2 150,100 143,103.8\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"170\" y2=\"50\"/><line x1=\"190\" y1=\"74\" x2=\"210\" y2=\"50\"/></g><text x=\"58\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">おさえつけ</text><text x=\"190\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">自由!</text></svg>"
+  },
+  "etymology": "ラテン語 liber(自由な。liberty・liberal と同じ)+ -ate(〜にする)→ 自由にする → ①(国・町・人を支配・占領から)解放する ②(考え・習慣・束縛から)解き放つ ③(化学:)(気体・熱を)放出する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to free a person, place, or group from control, prison, or a situation that limits them."
+    }
+  ],
+  "cautions": [
+    "型は liberate A from B=A を B から解放する(from を落とさない)",
+    "国・町を占領から解放する場面や、女性・考え方を古い束縛から解き放つ場面で使う",
+    "release=(閉じこめていたもの・持っていたものを)放す/free=自由にする(広い)/liberate=支配・束縛から解放する(社会的・政治的な響き)/emancipate=法的・社会的な束縛から公式に解放する",
+    "名詞 liberation=解放(women's liberation=女性解放)、形容詞 liberated=解放された・自由な考えの"
+  ],
+  "patterns": [
+    {
+      "form": "liberate A from B",
+      "meaning": "A を B から解放する"
+    },
+    {
+      "form": "liberate a city / country",
+      "meaning": "町・国を(占領から)解放する"
+    },
+    {
+      "form": "feel liberated",
+      "meaning": "解き放たれた気持ちになる"
+    },
+    {
+      "form": "liberation",
+      "meaning": "解放"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "liberate A from B",
+      "en": "The soldiers liberated the town from enemy control.",
+      "ja": "兵士たちはその町を敵の支配から解放した。"
+    },
+    {
+      "source": "original",
+      "label": "国を",
+      "en": "The country was liberated at the end of the war.",
+      "ja": "その国は戦争の終わりに解放された。"
+    },
+    {
+      "source": "original",
+      "label": "束縛から",
+      "en": "Washing machines liberated many women from hours of housework.",
+      "ja": "洗濯機は多くの女性を何時間もの家事から解放した。"
+    },
+    {
+      "source": "original",
+      "label": "考えを",
+      "en": "Travel can liberate you from narrow ways of thinking.",
+      "ja": "旅は人をせまい考え方から解き放つことがある。"
+    },
+    {
+      "source": "original",
+      "label": "feel liberated",
+      "en": "After quitting the job, he felt liberated.",
+      "ja": "その仕事を辞めた後、彼は解き放たれた気がした。"
+    },
+    {
+      "source": "original",
+      "label": "release とのちがい",
+      "en": "The zoo released the bird, but the people liberated their nation.",
+      "ja": "動物園は鳥を放したが、人々は自分たちの国を(支配から)解放した。"
+    }
+  ],
+  "check_points": [
+    "liberate A from B の型が使えるか",
+    "release・emancipate とのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "liberate A from B の型と、名詞 liberation が歴史・社会の長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2572
+    }
+  ]
+}

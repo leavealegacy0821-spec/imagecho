@@ -1,0 +1,94 @@
+{
+  "word": "oust",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/aʊst/",
+  "core_image": {
+    "text": "その座にいる人を、押しのけて引きずりおろす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"60\" y=\"90\" width=\"50\" height=\"10\"/><line x1=\"64\" y1=\"100\" x2=\"64\" y2=\"140\"/><line x1=\"106\" y1=\"100\" x2=\"106\" y2=\"140\"/><line x1=\"106\" y1=\"90\" x2=\"106\" y2=\"50\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"118\" y2=\"70\"/><line x1=\"150\" y1=\"74\" x2=\"168\" y2=\"98\"/><line x1=\"54\" y1=\"80\" x2=\"20\" y2=\"104\"/><polyline points=\"27.9,103.1 20,104 23.5,96.8\"/></g><text x=\"84\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">その座</text><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">押しのける</text></svg>"
+  },
+  "etymology": "古フランス語 oster(取りのける)→ その場から取りのける → (地位・権力・競争の場から)人を追い出す・失脚させる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to force someone out of a position of power or a job, and often take their place."
+    }
+  ],
+  "cautions": [
+    "目的語は「地位・権力をもつ人」:oust the president / leader。型は oust A from B=A を B(地位)から追い出す",
+    "ニュースでよく見る:be ousted in a coup=クーデターで失脚する",
+    "evict=家・土地から/expel=団体・国から/oust=権力・地位の座から引きずりおろす(代わりにその座につくことが多い)",
+    "スポーツでは「(相手を)敗退させる」:be ousted from the tournament"
+  ],
+  "patterns": [
+    {
+      "form": "oust A from B",
+      "meaning": "A を B(地位)から追い出す"
+    },
+    {
+      "form": "oust the leader / president",
+      "meaning": "指導者・大統領を失脚させる"
+    },
+    {
+      "form": "be ousted (in A)",
+      "meaning": "(A で)失脚する"
+    },
+    {
+      "form": "be ousted from the tournament",
+      "meaning": "大会で敗退する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "失脚させる",
+      "en": "The army ousted the president in a coup.",
+      "ja": "軍はクーデターで大統領を失脚させた。"
+    },
+    {
+      "source": "original",
+      "label": "oust A from B",
+      "en": "Shareholders ousted him from his post as CEO.",
+      "ja": "株主たちは彼を最高経営責任者の座から追い出した。"
+    },
+    {
+      "source": "original",
+      "label": "be ousted",
+      "en": "The prime minister was ousted after the scandal.",
+      "ja": "首相はその不祥事の後に失脚した。"
+    },
+    {
+      "source": "original",
+      "label": "代わりにつく",
+      "en": "The young player ousted the champion and took the title.",
+      "ja": "その若い選手はチャンピオンを破って王座を奪った。"
+    },
+    {
+      "source": "original",
+      "label": "大会で",
+      "en": "Our team was ousted from the tournament in the first round.",
+      "ja": "私たちのチームは1回戦で大会から敗退した。"
+    },
+    {
+      "source": "original",
+      "label": "evict とのちがい",
+      "en": "The leader was ousted from power, not evicted from a house.",
+      "ja": "その指導者は家を追い出されたのではなく、権力の座から引きずりおろされた。"
+    }
+  ],
+  "check_points": [
+    "目的語が「地位にある人」になるとわかるか",
+    "evict・expel とのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "政治・企業ニュースの長文で be ousted(失脚する)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2576
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "amass",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈmæs/",
+  "core_image": {
+    "text": "少しずつ積み上げて、大きな山にしていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"128\" width=\"40\" height=\"12\"/><rect x=\"100\" y=\"128\" width=\"40\" height=\"12\"/><rect x=\"100\" y=\"116\" width=\"40\" height=\"12\"/><rect x=\"100\" y=\"104\" width=\"40\" height=\"12\"/><rect x=\"170\" y=\"128\" width=\"40\" height=\"12\"/><rect x=\"170\" y=\"116\" width=\"40\" height=\"12\"/><rect x=\"170\" y=\"104\" width=\"40\" height=\"12\"/><rect x=\"170\" y=\"92\" width=\"40\" height=\"12\"/><rect x=\"170\" y=\"80\" width=\"40\" height=\"12\"/><rect x=\"170\" y=\"68\" width=\"40\" height=\"12\"/><line x1=\"50\" y1=\"110\" x2=\"190\" y2=\"50\" stroke-dasharray=\"5 5\"/><polyline points=\"182,49.2 190,50 185.1,56.3\"/></g><text x=\"60\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">少しずつ</text><text x=\"190\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">大きな山</text></svg>"
+  },
+  "etymology": "フランス語 a(〜へ)+ masse(かたまり。mass と同じ)→ かたまりにする → 長い時間をかけて積み上げる → (財産・富・証拠・情報などを)大量に集める・蓄える",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to gradually collect a large amount of something, such as money, information, or evidence."
+    }
+  ],
+  "cautions": [
+    "目的語は「大量の」もの:amass a fortune / wealth / evidence / data。少しの物には使わない",
+    "hoard とちがい「隠す・ひとりじめ」の悪い響きはない。時間をかけて量がふくらんでいく点が中心",
+    "accumulate=自然に少しずつたまる(自動詞もある)/amass=(主に人が)意図して大量に集める(他動詞)",
+    "mass(かたまり・大量)と同じ根:mass production=大量生産"
+  ],
+  "patterns": [
+    {
+      "form": "amass a fortune",
+      "meaning": "ひと財産を築く"
+    },
+    {
+      "form": "amass wealth / money",
+      "meaning": "富・お金を蓄える"
+    },
+    {
+      "form": "amass evidence / data",
+      "meaning": "証拠・データを大量に集める"
+    },
+    {
+      "form": "amass A over the years",
+      "meaning": "長年かけて A を集める"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "財産を",
+      "en": "He amassed a huge fortune by selling computers.",
+      "ja": "彼はコンピューターを売って巨額の財産を築いた。"
+    },
+    {
+      "source": "original",
+      "label": "証拠を",
+      "en": "The police amassed enough evidence to arrest him.",
+      "ja": "警察は彼を逮捕できるだけの証拠を集めた。"
+    },
+    {
+      "source": "original",
+      "label": "データを",
+      "en": "Scientists have amassed data on the ocean for decades.",
+      "ja": "科学者たちは何十年も海についてのデータを蓄えてきた。"
+    },
+    {
+      "source": "original",
+      "label": "over the years",
+      "en": "She amassed a large collection of old maps over the years.",
+      "ja": "彼女は長年かけて古地図を大量に集めた。"
+    },
+    {
+      "source": "original",
+      "label": "軍を",
+      "en": "The king amassed an army at the border.",
+      "ja": "王は国境に軍を集結させた。"
+    },
+    {
+      "source": "original",
+      "label": "accumulate とのちがい",
+      "en": "Dust accumulates on the shelf, but nobody amasses dust on purpose.",
+      "ja": "ほこりは棚に自然にたまるが、わざわざほこりを集める人はいない。"
+    }
+  ],
+  "check_points": [
+    "目的語に「大量の財産・証拠」がくるとわかるか",
+    "hoard・accumulate とのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "amass a fortune / evidence の形で、長文の語い問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2569
+    }
+  ]
+}

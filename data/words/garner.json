@@ -1,0 +1,94 @@
+{
+  "word": "garner",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈɡɑːrnər/",
+  "core_image": {
+    "text": "あちこちから、実った穂を集めて手に入れる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"30\" y1=\"140\" x2=\"30\" y2=\"96\"/><line x1=\"50\" y1=\"140\" x2=\"50\" y2=\"90\"/><line x1=\"70\" y1=\"140\" x2=\"70\" y2=\"96\"/><ellipse cx=\"30\" cy=\"90\" rx=\"4\" ry=\"8\"/><ellipse cx=\"50\" cy=\"84\" rx=\"4\" ry=\"8\"/><ellipse cx=\"70\" cy=\"90\" rx=\"4\" ry=\"8\"/><line x1=\"80\" y1=\"100\" x2=\"140\" y2=\"100\"/><polyline points=\"133,96.2 140,100 133,103.8\"/><rect x=\"150\" y=\"96\" width=\"44\" height=\"44\"/><line x1=\"150\" y1=\"96\" x2=\"172\" y2=\"78\"/><line x1=\"194\" y1=\"96\" x2=\"172\" y2=\"78\"/></g><text x=\"50\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">実り</text><text x=\"172\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">集める</text></svg>"
+  },
+  "etymology": "ラテン語 granarium(穀物倉。grain と同じ根)→ 穀物を倉に集める → 努力して少しずつ集めて得る → (支持・賞賛・票・情報・注目を)集める・獲得する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to collect or obtain something, especially support, praise, or information."
+    }
+  ],
+  "cautions": [
+    "目的語は「支持・賞賛・票・注目・情報」など形のないものが多い:garner support / attention / votes",
+    "かたい語。get / gain / win の言いかえとして長文・ニュースに出る",
+    "gain=だんだん得る(広い)/earn=努力の見返りに得る/garner=あちこちから集めて得る",
+    "grain(穀物)・granary(穀物倉)と同じ根"
+  ],
+  "patterns": [
+    {
+      "form": "garner support",
+      "meaning": "支持を集める"
+    },
+    {
+      "form": "garner attention / praise",
+      "meaning": "注目・賞賛を集める"
+    },
+    {
+      "form": "garner votes",
+      "meaning": "票を集める"
+    },
+    {
+      "form": "garner information from A",
+      "meaning": "A から情報を集める"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "支持を",
+      "en": "The plan garnered support from local farmers.",
+      "ja": "その計画は地元の農家から支持を集めた。"
+    },
+    {
+      "source": "original",
+      "label": "賞賛を",
+      "en": "Her first novel garnered praise from critics.",
+      "ja": "彼女の最初の小説は批評家から賞賛を集めた。"
+    },
+    {
+      "source": "original",
+      "label": "注目を",
+      "en": "The video garnered millions of views in a week.",
+      "ja": "その動画は1週間で何百万回も再生された。"
+    },
+    {
+      "source": "original",
+      "label": "票を",
+      "en": "The candidate garnered 60 percent of the vote.",
+      "ja": "その候補者は60パーセントの票を獲得した。"
+    },
+    {
+      "source": "original",
+      "label": "情報を",
+      "en": "Researchers garnered information from hundreds of interviews.",
+      "ja": "研究者たちは何百もの聞き取りから情報を集めた。"
+    },
+    {
+      "source": "original",
+      "label": "gain との言いかえ",
+      "en": "The idea slowly garnered (= gained) public attention.",
+      "ja": "その考えは少しずつ世間の注目を集めた。"
+    }
+  ],
+  "check_points": [
+    "目的語に support / attention / votes がくるとわかるか",
+    "gain・earn とのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "garner support / attention の形で、言いかえ・語い問題に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2571
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "hoard",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/hɔːrd/",
+  "core_image": {
+    "text": "人に見せずに、こっそり抱えこんでため込む",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"104\" width=\"60\" height=\"36\"/><line x1=\"40\" y1=\"116\" x2=\"100\" y2=\"116\"/><circle cx=\"56\" cy=\"98\" r=\"6\"/><circle cx=\"72\" cy=\"96\" r=\"6\"/><circle cx=\"88\" cy=\"98\" r=\"6\"/><circle cx=\"130\" cy=\"52\" r=\"10\"/><line x1=\"130\" y1=\"62\" x2=\"130\" y2=\"106\"/><line x1=\"130\" y1=\"106\" x2=\"120\" y2=\"140\"/><line x1=\"130\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"130\" y1=\"74\" x2=\"102\" y2=\"100\"/><line x1=\"130\" y1=\"74\" x2=\"104\" y2=\"112\"/><circle cx=\"200\" cy=\"52\" r=\"10\"/><line x1=\"200\" y1=\"62\" x2=\"200\" y2=\"106\"/><line x1=\"200\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"200\" y1=\"106\" x2=\"210\" y2=\"140\"/><line x1=\"200\" y1=\"74\" x2=\"188\" y2=\"96\"/><line x1=\"200\" y1=\"74\" x2=\"212\" y2=\"96\"/></g><text x=\"70\" y=\"74\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひとりじめ</text><text x=\"200\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見えない</text></svg>"
+  },
+  "etymology": "古い英語 hord(しまってある宝)→ 宝を隠してしまいこむ → 必要以上にこっそりため込む → ①(食料・お金・物を)ため込む・買いだめする ②(名詞:)ため込んだもの・隠し持った宝",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to collect and keep large amounts of something, often secretly, more than you need."
+    },
+    {
+      "pos": "名詞",
+      "text": "a large amount of something that someone has saved and hidden."
+    }
+  ],
+  "cautions": [
+    "「必要以上に・こっそり・自分だけで」というマイナスの響きがある。災害前の買いだめ(panic buying)の文脈で出やすい",
+    "amass=長い時間をかけて大量に積み上げる(財産・証拠)/hoard=人に回さず隠して抱えこむ/stockpile=いざという時に備えて計画的に備蓄する",
+    "名詞 a hoard of gold=金の隠し財宝。発音は horde(大群)と同じ /hɔːrd/ なので混同に注意"
+  ],
+  "patterns": [
+    {
+      "form": "hoard food / money",
+      "meaning": "食料・お金をため込む"
+    },
+    {
+      "form": "hoard A for B",
+      "meaning": "B に備えて A をため込む"
+    },
+    {
+      "form": "a hoard of A",
+      "meaning": "A の隠し財宝・大量の蓄え"
+    },
+    {
+      "form": "hoard information",
+      "meaning": "情報をひとりじめする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ため込む",
+      "en": "People began to hoard rice when the price went up.",
+      "ja": "値段が上がると人々は米をため込み始めた。"
+    },
+    {
+      "source": "original",
+      "label": "買いだめ",
+      "en": "Some shoppers hoarded toilet paper before the storm.",
+      "ja": "嵐の前にトイレットペーパーを買いだめする客もいた。"
+    },
+    {
+      "source": "original",
+      "label": "hoard A for B",
+      "en": "Squirrels hoard nuts for the winter.",
+      "ja": "リスは冬に備えて木の実をため込む。"
+    },
+    {
+      "source": "original",
+      "label": "情報を",
+      "en": "A good leader does not hoard information but shares it with the team.",
+      "ja": "よいリーダーは情報をひとりじめせず、チームと共有する。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The farmer found a hoard of old coins in his field.",
+      "ja": "その農家は畑で古い硬貨の隠し財宝を見つけた。"
+    },
+    {
+      "source": "original",
+      "label": "stockpile とのちがい",
+      "en": "The government stockpiles medicine, but individuals should not hoard it.",
+      "ja": "政府は薬を備蓄しているが、個人がため込むべきではない。"
+    }
+  ],
+  "check_points": [
+    "「こっそり・必要以上に」のマイナスの響きがわかるか",
+    "stockpile(計画的に備蓄する)とのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "買いだめ・情報のひとりじめの文脈で、意味と stockpile とのちがいが長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2568
+    }
+  ]
+}

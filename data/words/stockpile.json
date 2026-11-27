@@ -1,0 +1,98 @@
+{
+  "word": "stockpile",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈstɑːkpaɪl/",
+  "core_image": {
+    "text": "いざという時に備えて、倉庫に計画的に積んでおく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"30,140 30,70 100,40 170,70 170,140\"/><rect x=\"46\" y=\"112\" width=\"28\" height=\"28\"/><rect x=\"80\" y=\"112\" width=\"28\" height=\"28\"/><rect x=\"114\" y=\"112\" width=\"28\" height=\"28\"/><rect x=\"62\" y=\"84\" width=\"28\" height=\"28\"/><rect x=\"96\" y=\"84\" width=\"28\" height=\"28\"/><circle cx=\"205\" cy=\"52\" r=\"10\"/><line x1=\"205\" y1=\"62\" x2=\"205\" y2=\"106\"/><line x1=\"205\" y1=\"106\" x2=\"195\" y2=\"140\"/><line x1=\"205\" y1=\"106\" x2=\"215\" y2=\"140\"/><line x1=\"205\" y1=\"74\" x2=\"186\" y2=\"88\"/><line x1=\"205\" y1=\"74\" x2=\"220\" y2=\"96\"/></g><text x=\"100\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">備蓄</text><text x=\"205\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もしもの時</text></svg>"
+  },
+  "etymology": "stock(たくわえ・在庫)+ pile(積み重ね)→ たくわえを積んでおく → 非常時・不足に備えて計画的に大量にためる → ①(食料・燃料・武器・薬を)備蓄する ②(名詞:)備蓄・貯蔵品",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to collect and keep a large supply of something, especially for use in an emergency."
+    },
+    {
+      "pos": "名詞",
+      "text": "a large supply of goods, food, or weapons kept for future use."
+    }
+  ],
+  "cautions": [
+    "「将来・非常時に備えて」が中心。国や組織が主語になることも多い:stockpile weapons / oil",
+    "hoard=人に隠してひとりじめ(悪い響き)/stockpile=備えとして計画的に積む(中立)/amass=長年かけて大量に集める",
+    "名詞 a stockpile of A=A の備蓄。nuclear stockpile=核兵器の保有量"
+  ],
+  "patterns": [
+    {
+      "form": "stockpile food / fuel",
+      "meaning": "食料・燃料を備蓄する"
+    },
+    {
+      "form": "stockpile A for B",
+      "meaning": "B に備えて A を備蓄する"
+    },
+    {
+      "form": "a stockpile of A",
+      "meaning": "A の備蓄"
+    },
+    {
+      "form": "stockpile weapons",
+      "meaning": "武器を貯めこむ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "備蓄する",
+      "en": "The town stockpiled food and water in case of an earthquake.",
+      "ja": "町は地震に備えて食料と水を備蓄した。"
+    },
+    {
+      "source": "original",
+      "label": "stockpile A for",
+      "en": "Hospitals stockpiled masks for the coming flu season.",
+      "ja": "病院は来たるインフルエンザの季節に備えてマスクを備蓄した。"
+    },
+    {
+      "source": "original",
+      "label": "燃料を",
+      "en": "Many countries stockpile oil to protect against price shocks.",
+      "ja": "多くの国は価格の急変に備えて石油を備蓄している。"
+    },
+    {
+      "source": "original",
+      "label": "武器を",
+      "en": "The treaty tried to stop nations from stockpiling weapons.",
+      "ja": "その条約は各国が武器を貯めこむのを止めようとした。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The country has a large stockpile of rice.",
+      "ja": "その国は大量の米を備蓄している。"
+    },
+    {
+      "source": "original",
+      "label": "hoard とのちがい",
+      "en": "Stockpiling for a disaster is wise; hoarding so others get nothing is not.",
+      "ja": "災害に備えて備蓄するのは賢明だが、他の人に何も回らないほどため込むのはよくない。"
+    }
+  ],
+  "check_points": [
+    "「非常時に備えて」の意味がわかるか",
+    "hoard(ひとりじめ)とのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "防災・エネルギー・軍縮の長文で、動詞・名詞の両方が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2570
+    }
+  ]
+}
