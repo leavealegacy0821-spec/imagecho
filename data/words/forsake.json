@@ -1,0 +1,93 @@
+{
+  "word": "forsake",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/fərˈseɪk/",
+  "core_image": {
+    "text": "大切にしてきた人や物に背を向け、きっぱり離れる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"36\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"64\" y2=\"96\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"136\" y2=\"96\"/><line x1=\"150\" y1=\"74\" x2=\"164\" y2=\"96\"/><line x1=\"172\" y1=\"60\" x2=\"222\" y2=\"60\"/><polyline points=\"215,56.2 222,60 215,63.8\"/></g><text x=\"50\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">残される</text><text x=\"196\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">背を向ける</text></svg>"
+  },
+  "etymology": "for(すっかり・離れて)+ sake(争う・求める)→ 求めるのをすっかりやめて離れる → ①(人を)見捨てる ②(習慣・信念・場所を)捨てる・断つ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to leave someone or something you have been close to, or to stop doing or having something you value."
+    }
+  ],
+  "cautions": [
+    "活用は take に似る:forsake – forsook – forsaken",
+    "forsake=大切にしてきた人・信念・習慣に背を向けて捨てる(文語的で感情がこもる)/abandon=見捨てて置き去りにする/desert=義務を放って去る",
+    "forsake A for B(B のために A を捨てる)の形がよく出る。形容詞的 forsaken(見捨てられた・荒れ果てた)"
+  ],
+  "patterns": [
+    {
+      "form": "forsake A",
+      "meaning": "A(人・信念・習慣)を見捨てる・捨てる"
+    },
+    {
+      "form": "forsake A for B",
+      "meaning": "B のために A を捨てる"
+    },
+    {
+      "form": "a forsaken place",
+      "meaning": "見捨てられた・荒れ果てた場所"
+    },
+    {
+      "form": "forsake one's principles",
+      "meaning": "主義を捨てる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "人を",
+      "en": "He promised that he would never forsake his friends.",
+      "ja": "彼は決して友を見捨てないと約束した。"
+    },
+    {
+      "source": "original",
+      "label": "for B",
+      "en": "She forsook a comfortable life in the city for farming in the mountains.",
+      "ja": "彼女は都会の楽な暮らしを捨てて、山で農業を始めた。"
+    },
+    {
+      "source": "original",
+      "label": "習慣",
+      "en": "The doctor urged him to forsake his bad habits.",
+      "ja": "医師は彼に悪い習慣を断つよう強く勧めた。"
+    },
+    {
+      "source": "original",
+      "label": "信念",
+      "en": "Do not forsake your principles just to be popular.",
+      "ja": "人気を得るためだけに主義を捨ててはいけない。"
+    },
+    {
+      "source": "original",
+      "label": "forsaken",
+      "en": "The village looked forsaken after everyone had moved away.",
+      "ja": "みんなが引っ越したあと、その村は見捨てられたように見えた。"
+    },
+    {
+      "source": "original",
+      "label": "abandon との比較",
+      "en": "The ship was abandoned in the storm, but the captain never forsook his crew.",
+      "ja": "船は嵐の中で放棄されたが、船長は決して乗組員を見捨てなかった。"
+    }
+  ],
+  "check_points": [
+    "forsake の過去形・過去分詞(forsook, forsaken)を言えるか",
+    "forsake A for B の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文・評論の語彙問題で「見捨てる・捨てる」。活用形 forsook / forsaken が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2525
+    }
+  ]
+}

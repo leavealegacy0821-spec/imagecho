@@ -1,0 +1,98 @@
+{
+  "word": "forfeit",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈfɔːrfɪt/",
+  "core_image": {
+    "text": "決まりを破ったせいで、持っていた物を罰として取り上げられる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"36\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"80\" y2=\"80\"/><rect x=\"88\" y=\"70\" width=\"22\" height=\"20\"/><line x1=\"114\" y1=\"80\" x2=\"160\" y2=\"80\"/><polyline points=\"153,76.2 160,80 153,83.8\"/><rect x=\"168\" y=\"96\" width=\"50\" height=\"44\"/><line x1=\"166\" y1=\"96\" x2=\"220\" y2=\"96\"/></g><text x=\"136\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">罰として</text><text x=\"193\" y=\"86\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">没収</text></svg>"
+  },
+  "etymology": "forfait(外へ+なされた=罪・違反)→ 違反の代償 → ①(動詞:違反・失敗のせいで権利・財産を)失う・没収される ②(名詞:)没収されたもの・罰金 ③(試合を)不戦敗にする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to lose a right, property or a game because you have broken a rule or failed to do something."
+    },
+    {
+      "pos": "名詞",
+      "text": "something you lose or give up as a punishment."
+    }
+  ],
+  "cautions": [
+    "forfeit=自分のせいで(違反・失敗の罰として)権利・物を失う/waive=自分から進んで権利を使わない/lose=最も広く「失う」",
+    "自分が主語で「失う」:He forfeited his right.(彼は権利を失った)。forfeit the game=(棄権・違反で)試合を不戦敗にする",
+    "つづりの ei に注意(発音 /-fɪt/)。名詞 forfeiture(没収)"
+  ],
+  "patterns": [
+    {
+      "form": "forfeit A",
+      "meaning": "(違反などで)A を失う・没収される"
+    },
+    {
+      "form": "forfeit one's right / deposit",
+      "meaning": "権利・保証金を失う"
+    },
+    {
+      "form": "forfeit the game / match",
+      "meaning": "試合を不戦敗にする"
+    },
+    {
+      "form": "pay a forfeit",
+      "meaning": "罰を受ける・代償を払う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "権利",
+      "en": "If you miss the deadline, you will forfeit your right to apply.",
+      "ja": "締め切りに遅れると、申し込む権利を失う。"
+    },
+    {
+      "source": "original",
+      "label": "保証金",
+      "en": "He forfeited his deposit when he canceled the reservation.",
+      "ja": "予約を取り消したので、彼は予約金を没収された。"
+    },
+    {
+      "source": "original",
+      "label": "試合",
+      "en": "The team had to forfeit the match because two players were missing.",
+      "ja": "選手が2人足りなかったので、そのチームは試合を不戦敗にせざるを得なかった。"
+    },
+    {
+      "source": "original",
+      "label": "信頼",
+      "en": "By lying to us, he forfeited our trust.",
+      "ja": "うそをついたことで、彼は私たちの信頼を失った。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "His freedom was the forfeit he paid for the crime.",
+      "ja": "自由を失うことが、彼がその罪のために払った代償だった。"
+    },
+    {
+      "source": "original",
+      "label": "waive との比較",
+      "en": "She chose to waive the prize, but he forfeited his because he cheated.",
+      "ja": "彼女は賞を自分から辞退したが、彼は不正をしたので賞を取り上げられた。"
+    }
+  ],
+  "check_points": [
+    "forfeit と waive のちがい(罰で失う/自分から使わない)を言えるか",
+    "forfeit the game の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "規則・契約やスポーツの長文で「失う・没収される」。lose の言いかえとして出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2527
+    }
+  ]
+}

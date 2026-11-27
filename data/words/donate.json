@@ -1,0 +1,93 @@
+{
+  "word": "donate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈdoʊneɪt/",
+  "core_image": {
+    "text": "見返りを求めず、困っている所へ自分の物を差し出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"84\" y2=\"80\"/><line x1=\"50\" y1=\"74\" x2=\"36\" y2=\"98\"/><circle cx=\"96\" cy=\"78\" r=\"7\"/><line x1=\"106\" y1=\"80\" x2=\"140\" y2=\"80\"/><polyline points=\"133,76.2 140,80 133,83.8\"/><rect x=\"150\" y=\"76\" width=\"60\" height=\"64\"/><line x1=\"170\" y1=\"76\" x2=\"190\" y2=\"76\"/><line x1=\"168\" y1=\"70\" x2=\"192\" y2=\"70\"/></g><text x=\"180\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">募金箱</text><text x=\"122\" y=\"64\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見返りなし</text></svg>"
+  },
+  "etymology": "ラテン語 donare(贈る)← donum(贈り物)→ 見返りなしに贈る → ①(お金・物を慈善団体などに)寄付する ②(血液・臓器を)提供する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give money, goods or blood to an organization or person in need, without expecting anything back."
+    }
+  ],
+  "cautions": [
+    "donate A to B(B に A を寄付する)。donate B A の二重目的語にはしない(× donate the hospital money)",
+    "相手は charity / hospital / school など団体が多い。血液・臓器の提供も donate(blood donor=献血者)",
+    "名詞 donation(寄付)、donor(寄付者・提供者)。contribute は「みんなでお金や力を出し合う」で、成果への貢献にも使う"
+  ],
+  "patterns": [
+    {
+      "form": "donate A to B",
+      "meaning": "B に A を寄付する"
+    },
+    {
+      "form": "donate money / clothes / books",
+      "meaning": "お金・衣類・本を寄付する"
+    },
+    {
+      "form": "donate blood / an organ",
+      "meaning": "献血する・臓器を提供する"
+    },
+    {
+      "form": "make a donation (to A)",
+      "meaning": "(A に)寄付をする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "寄付する",
+      "en": "He donated half of his prize money to a children's hospital.",
+      "ja": "彼は賞金の半分を子ども病院に寄付した。"
+    },
+    {
+      "source": "original",
+      "label": "物を",
+      "en": "We donated our old clothes to people who lost their homes in the flood.",
+      "ja": "洪水で家を失った人たちに古着を寄付した。"
+    },
+    {
+      "source": "original",
+      "label": "献血",
+      "en": "About two hundred students donated blood at the event.",
+      "ja": "その行事で約200人の生徒が献血した。"
+    },
+    {
+      "source": "original",
+      "label": "臓器",
+      "en": "She decided to donate a kidney to her brother.",
+      "ja": "彼女は兄に腎臓を1つ提供することにした。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The library was built with donations from local people.",
+      "ja": "その図書館は地元の人々の寄付で建てられた。"
+    },
+    {
+      "source": "original",
+      "label": "contribute との比較",
+      "en": "Everyone contributed ideas, and a local company donated the equipment.",
+      "ja": "みんながアイデアを出し合い、地元の会社が機材を寄付した。"
+    }
+  ],
+  "check_points": [
+    "donate A to B の語順を言えるか",
+    "donation と donor の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "ボランティア・医療の長文で頻出。二重目的語にできない点、donor / donation の派生語が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2519
+    }
+  ]
+}

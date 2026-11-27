@@ -59,7 +59,7 @@
     },
     {
       "title": "使い分け:主張する",
-      "note": "claim=本当だと言い張る(証拠なしでも) ／ insist=反対されても言い続ける ／ assert=自信をもってきっぱり言う ／ argue=理由を挙げて論じる ／ allege=証拠なしに(悪事を)言い立てる ／ contend=争って強く主張する",
+      "note": "claim=本当だと言い張る(証拠なしでも) ／ insist=反対されても言い続ける ／ assert=自信をもってきっぱり言う ／ argue=理由を挙げて論じる ／ allege=証拠なしに(悪事を)言い立てる ／ contend=争って強く主張する ／ affirm=正しいと公にはっきり認めて固める(⇔ deny)",
       "words": [
         "claim",
         "insist",
@@ -67,7 +67,18 @@
         "argue",
         "allege",
         "contend",
-        "maintain"
+        "maintain",
+        "affirm"
+      ]
+    },
+    {
+      "title": "使い分け:支持する・擁護する",
+      "note": "support=広く下から支える ／ endorse=公式に承認・推薦する ／ advocate=新しい考え・政策を声を上げて推す(advocate doing) ／ uphold=今ある法・原則・判決を守り支える",
+      "words": [
+        "support",
+        "endorse",
+        "advocate",
+        "uphold"
       ]
     },
     {
@@ -248,7 +259,7 @@
     },
     {
       "title": "使い分け:確かめる・確実にする",
-      "note": "confirm=正しいと裏づける ／ prove=証拠で正しさを示す ／ ensure=必ずそうなるようにする ／ assure=相手に請け合って安心させる ／ insure=保険をかける ／ guarantee=保証する ／ secure=しっかり確保する ／ verify=本当かどうか照らして確かめる",
+      "note": "confirm=正しいと裏づける ／ prove=証拠で正しさを示す ／ ensure=必ずそうなるようにする ／ assure=相手に請け合って安心させる ／ insure=保険をかける ／ guarantee=保証する ／ secure=しっかり確保する ／ verify=本当かどうか照らして確かめる ／ ascertain=手間をかけて調べ、事実をつきとめる",
       "words": [
         "confirm",
         "prove",
@@ -257,7 +268,8 @@
         "insure",
         "guarantee",
         "secure",
-        "verify"
+        "verify",
+        "ascertain"
       ]
     },
     {
@@ -633,14 +645,18 @@
     },
     {
       "title": "使い分け:手放す・捨てる",
-      "note": "abandon=見捨てて置き去りにする ／ discard=要らないものを捨てる ／ surrender=降参して明け渡す ／ yield=(押されて)譲る ／ sacrifice=大事なものを犠牲にする",
+      "note": "abandon=見捨てて置き去りにする ／ discard=要らないものを捨てる ／ surrender=降参して明け渡す ／ yield=(押されて)譲る ／ sacrifice=大事なものを犠牲にする ／ relinquish=権利・地位をしぶしぶ手放す ／ forsake=大切にしてきた人・信念に背を向けて捨てる ／ waive=使えるはずの権利・料金・規則をあえて使わない(免除する) ／ forfeit=違反・失敗の罰として権利・物を失う",
       "words": [
         "abandon",
         "discard",
         "surrender",
         "yield",
         "sacrifice",
-        "shed"
+        "shed",
+        "relinquish",
+        "forsake",
+        "waive",
+        "forfeit"
       ]
     },
     {
@@ -764,7 +780,7 @@
     },
     {
       "title": "使い分け:与える",
-      "note": "give=与える(最も広い) ／ provide=前もって用意して与える ／ supply=不足を補って供給する ／ offer=差し出す(受けるかは相手次第) ／ grant=(願いを)認めて与える ／ furnish=家具・情報を備えつける ／ equip=装備させる ／ endow=才能・資金を授ける ／ confer=(称号を)授ける",
+      "note": "give=与える(最も広い) ／ provide=前もって用意して与える ／ supply=不足を補って供給する ／ offer=差し出す(受けるかは相手次第) ／ grant=(願いを)認めて与える ／ furnish=家具・情報を備えつける ／ equip=装備させる ／ endow=才能・資金を授ける ／ confer=(称号を)授ける ／ bestow=上の立場から名誉・恩恵をうやうやしく授ける(bestow A on B) ／ donate=見返りなしに団体へお金・物を寄付する(donate A to B)",
       "words": [
         "give",
         "provide",
@@ -774,7 +790,9 @@
         "furnish",
         "equip",
         "endow",
-        "confer"
+        "confer",
+        "bestow",
+        "donate"
       ]
     },
     {

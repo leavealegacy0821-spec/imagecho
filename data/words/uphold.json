@@ -1,0 +1,93 @@
+{
+  "word": "uphold",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ʌpˈhoʊld/",
+  "core_image": {
+    "text": "倒れないように下から支え、今あるものを守り続ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polyline points=\"70 74 90 62 90 36\"/><polyline points=\"70 74 50 62 50 36\"/><line x1=\"40\" y1=\"36\" x2=\"100\" y2=\"36\"/><rect x=\"48\" y=\"12\" width=\"44\" height=\"24\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><polyline points=\"170 74 190 62 190 36\"/><polyline points=\"170 74 150 62 150 36\"/><line x1=\"140\" y1=\"36\" x2=\"200\" y2=\"36\"/><rect x=\"148\" y=\"12\" width=\"44\" height=\"24\"/></g><text x=\"70\" y=\"29\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">法</text><text x=\"170\" y=\"29\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">伝統</text></svg>"
+  },
+  "etymology": "up(上へ)+ hold(持つ)→ 上へ持ち上げて支える → ①(法・原則・伝統を)守る・維持する ②(決定・判決を)支持する・認める",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to support a law, principle or decision and make sure it continues to exist, or to agree that a decision is correct."
+    }
+  ],
+  "cautions": [
+    "活用は hold と同じ:uphold – upheld – upheld",
+    "uphold=今ある法・原則・判決を守り支える/advocate=新しい考えを声を上げて推す/maintain=状態を保つ",
+    "目的語は law / principle / tradition / rights / decision など「決まり・価値」。人を目的語にはとりにくい"
+  ],
+  "patterns": [
+    {
+      "form": "uphold the law",
+      "meaning": "法を守る"
+    },
+    {
+      "form": "uphold a principle / tradition / value",
+      "meaning": "原則・伝統・価値を守り続ける"
+    },
+    {
+      "form": "uphold a decision / ruling",
+      "meaning": "決定・判決を支持する"
+    },
+    {
+      "form": "uphold human rights",
+      "meaning": "人権を守る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "法を守る",
+      "en": "The police have a duty to uphold the law.",
+      "ja": "警察には法を守る義務がある。"
+    },
+    {
+      "source": "original",
+      "label": "伝統",
+      "en": "The village still upholds the tradition of the summer festival.",
+      "ja": "その村はいまも夏祭りの伝統を守り続けている。"
+    },
+    {
+      "source": "original",
+      "label": "判決",
+      "en": "The Supreme Court upheld the earlier decision.",
+      "ja": "最高裁判所は以前の判決を支持した。"
+    },
+    {
+      "source": "original",
+      "label": "原則",
+      "en": "A good journalist upholds the principle of telling the truth.",
+      "ja": "よい記者は真実を伝えるという原則を守る。"
+    },
+    {
+      "source": "original",
+      "label": "人権",
+      "en": "The new government promised to uphold human rights.",
+      "ja": "新政府は人権を守ると約束した。"
+    },
+    {
+      "source": "original",
+      "label": "過去形",
+      "en": "The ruling was upheld, and the company had to pay the fine.",
+      "ja": "判決は支持され、その会社は罰金を払わなければならなかった。"
+    }
+  ],
+  "check_points": [
+    "uphold の過去形・過去分詞(upheld)を言えるか",
+    "uphold と advocate のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "法・社会の評論文で「守る・支持する」。upheld の形と目的語(law / decision)の組み合わせが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2522
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "affirm",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈfɜːrm/",
+  "core_image": {
+    "text": "ぐらつかないように、「そのとおり」とはっきり固める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"80\" y2=\"54\"/><line x1=\"60\" y1=\"74\" x2=\"44\" y2=\"98\"/><rect x=\"130\" y=\"100\" width=\"80\" height=\"40\"/><rect x=\"150\" y=\"70\" width=\"40\" height=\"30\"/><line x1=\"170\" y1=\"30\" x2=\"170\" y2=\"64\"/><polyline points=\"173.8,57 170,64 166.2,57\"/></g><text x=\"100\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">はっきり</text><text x=\"170\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">固める</text></svg>"
+  },
+  "etymology": "af(〜を)+ firm(固い)→ 固くする → ①(事実・信念を)はっきり断言する ②(正しいと)認める・支持する ③(判決を)支持する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to state firmly and publicly that something is true, or to show strong support for an idea or belief."
+    }
+  ],
+  "cautions": [
+    "affirm=正しいと(公に)はっきり認めて固める/assert=自信をもってきっぱり言う/claim=(証拠がなくても)本当だと言い張る/insist=反対されても言い張る",
+    "affirm that 節(〜と断言する)の形。反対語 deny(否定する)と対で出やすい",
+    "名詞 affirmation、形容詞 affirmative(肯定の・賛成の)。an affirmative answer=「はい」という答え"
+  ],
+  "patterns": [
+    {
+      "form": "affirm that 節",
+      "meaning": "〜だとはっきり言う・断言する"
+    },
+    {
+      "form": "affirm one's commitment / support",
+      "meaning": "約束・支持を改めて表明する"
+    },
+    {
+      "form": "affirm A",
+      "meaning": "A(事実・価値)を正しいと認める"
+    },
+    {
+      "form": "affirmative",
+      "meaning": "肯定の(⇔ negative)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "断言する",
+      "en": "The minister affirmed that the plan would go ahead as scheduled.",
+      "ja": "大臣はその計画は予定どおり進めると断言した。"
+    },
+    {
+      "source": "original",
+      "label": "改めて表明",
+      "en": "Both countries affirmed their commitment to peace.",
+      "ja": "両国は平和への決意を改めて表明した。"
+    },
+    {
+      "source": "original",
+      "label": "認める",
+      "en": "The study affirms the value of reading aloud to young children.",
+      "ja": "その研究は幼い子どもへの読み聞かせの価値を裏づけている。"
+    },
+    {
+      "source": "original",
+      "label": "deny との対比",
+      "en": "He neither affirmed nor denied the rumor.",
+      "ja": "彼はそのうわさを肯定も否定もしなかった。"
+    },
+    {
+      "source": "original",
+      "label": "affirmative",
+      "en": "She gave an affirmative answer to my question.",
+      "ja": "彼女は私の質問に「はい」と答えた。"
+    },
+    {
+      "source": "original",
+      "label": "判決",
+      "en": "The higher court affirmed the lower court's decision.",
+      "ja": "上級裁判所は下級裁判所の判決を支持した。"
+    }
+  ],
+  "check_points": [
+    "affirm の反対語(deny)を言えるか",
+    "affirmative の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文・語彙問題で「断言する・認める」。deny との対比、affirmative(肯定の)の派生語が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2520
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "waive",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/weɪv/",
+  "core_image": {
+    "text": "使えるはずの権利や決まりを、あえて脇へよけて使わない",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"40\" width=\"70\" height=\"80\"/><line x1=\"40\" y1=\"60\" x2=\"90\" y2=\"60\"/><line x1=\"40\" y1=\"76\" x2=\"90\" y2=\"76\"/><line x1=\"40\" y1=\"92\" x2=\"90\" y2=\"92\"/><line x1=\"28\" y1=\"120\" x2=\"102\" y2=\"40\"/><line x1=\"110\" y1=\"80\" x2=\"150\" y2=\"80\"/><polyline points=\"143,76.2 150,80 143,83.8\"/><circle cx=\"190\" cy=\"80\" r=\"26\"/><line x1=\"176\" y1=\"80\" x2=\"204\" y2=\"80\"/></g><text x=\"65\" y=\"136\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">料金・規則</text><text x=\"190\" y=\"126\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">免除</text></svg>"
+  },
+  "etymology": "古フランス語 gaiver(捨てる・放っておく)→ 自分の権利を放っておく → ①(権利・要求を)放棄する ②(料金・規則を)免除する・適用しない",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to choose not to use a right or demand, or to let someone not pay or obey something they normally would have to."
+    }
+  ],
+  "cautions": [
+    "wave(手を振る)と発音が同じでつづりがちがう。waive=権利・料金・規則を「あえて使わない・免除する」",
+    "waive=持っている権利・決まりを自分から使わずにおく/relinquish=しぶしぶ手放す/exempt=(人を義務から)免除する(exempt A from B)",
+    "目的語は fee / charge / rule / requirement / right など。受け身 The fee is waived.(料金は免除される)が多い"
+  ],
+  "patterns": [
+    {
+      "form": "waive a fee / charge",
+      "meaning": "料金を免除する"
+    },
+    {
+      "form": "waive a rule / requirement",
+      "meaning": "規則・条件を適用しない"
+    },
+    {
+      "form": "waive one's right (to A)",
+      "meaning": "(A の)権利を放棄する"
+    },
+    {
+      "form": "be waived",
+      "meaning": "免除される"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "料金",
+      "en": "The museum waives the entrance fee for students on Fridays.",
+      "ja": "その美術館は金曜日に学生の入館料を免除している。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "The fee will be waived if you apply before the end of May.",
+      "ja": "5月末までに申し込めば料金は免除される。"
+    },
+    {
+      "source": "original",
+      "label": "規則",
+      "en": "The school agreed to waive the rule for the injured student.",
+      "ja": "学校はけがをした生徒にはその規則を適用しないことに同意した。"
+    },
+    {
+      "source": "original",
+      "label": "権利",
+      "en": "He waived his right to a lawyer.",
+      "ja": "彼は弁護士をつける権利を放棄した。"
+    },
+    {
+      "source": "original",
+      "label": "条件",
+      "en": "The company waived the usual requirement of three years' experience.",
+      "ja": "会社は通常の「経験3年」という条件をはずした。"
+    },
+    {
+      "source": "original",
+      "label": "wave との区別",
+      "en": "She waved at me, then told me the charge had been waived.",
+      "ja": "彼女は私に手を振り、料金は免除されたと教えてくれた。"
+    }
+  ],
+  "check_points": [
+    "waive と wave のちがいを言えるか",
+    "waive a fee の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "案内文・長文で「免除する・放棄する」。同音の wave とのつづりのちがいが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2526
+    }
+  ]
+}

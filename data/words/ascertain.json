@@ -1,0 +1,93 @@
+{
+  "word": "ascertain",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˌæsərˈteɪn/",
+  "core_image": {
+    "text": "手間をかけて調べ、あいまいな事を確かな事実にする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"70\" cy=\"70\" r=\"30\"/><line x1=\"92\" y1=\"92\" x2=\"118\" y2=\"118\"/><path d=\"M54 62 Q60 52 70 50\"/><line x1=\"130\" y1=\"70\" x2=\"168\" y2=\"70\"/><polyline points=\"161,66.2 168,70 161,73.8\"/><rect x=\"176\" y=\"46\" width=\"48\" height=\"48\"/><polyline points=\"186 70 196 82 214 58\"/></g><text x=\"150\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">調べて</text><text x=\"200\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">確かに</text></svg>"
+  },
+  "etymology": "as(〜へ)+ certain(確かな)→ 確かな状態へ持っていく → ①(調べて事実・真相を)確かめる・つきとめる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to find out the true or correct information about something, usually by making an effort to check it."
+    }
+  ],
+  "cautions": [
+    "ascertain=手間をかけて調べて事実をつきとめる/confirm=すでにある情報が正しいと裏づける/verify=照らし合わせて本当か確かめる",
+    "ascertain wh 節 / that 節(〜かを・〜だと確かめる)の形が多い。かたい書き言葉",
+    "アクセントは後ろ(-TAIN)。certain から意味を推測できる"
+  ],
+  "patterns": [
+    {
+      "form": "ascertain A",
+      "meaning": "A(事実・原因)をつきとめる"
+    },
+    {
+      "form": "ascertain wh 節 / whether 節",
+      "meaning": "〜か(どうか)を確かめる"
+    },
+    {
+      "form": "ascertain that 節",
+      "meaning": "〜だと確かめる"
+    },
+    {
+      "form": "ascertain the cause / truth",
+      "meaning": "原因・真相をつきとめる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "つきとめる",
+      "en": "Investigators are trying to ascertain the cause of the fire.",
+      "ja": "調査員たちは火事の原因をつきとめようとしている。"
+    },
+    {
+      "source": "original",
+      "label": "whether 節",
+      "en": "We need to ascertain whether the information is accurate.",
+      "ja": "その情報が正確かどうか確かめる必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "wh 節",
+      "en": "It was difficult to ascertain what had really happened that night.",
+      "ja": "その夜に本当は何が起きたのか、確かめるのは難しかった。"
+    },
+    {
+      "source": "original",
+      "label": "that 節",
+      "en": "The doctor ascertained that the patient had no allergies.",
+      "ja": "医師は患者にアレルギーがないことを確かめた。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "The exact number of victims has not yet been ascertained.",
+      "ja": "犠牲者の正確な数はまだ確認されていない。"
+    },
+    {
+      "source": "original",
+      "label": "confirm との比較",
+      "en": "First ascertain the facts, and then confirm them with a second source.",
+      "ja": "まず事実をつきとめ、それから別の情報源で裏づけなさい。"
+    }
+  ],
+  "check_points": [
+    "ascertain の後ろの形(whether 節など)を言えるか",
+    "ascertain と confirm のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "難関大の長文・語彙問題で「確かめる・つきとめる」。find out の言いかえとして出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2523
+    }
+  ]
+}

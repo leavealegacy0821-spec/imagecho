@@ -1,0 +1,93 @@
+{
+  "word": "bestow",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/bɪˈstoʊ/",
+  "core_image": {
+    "text": "上の者が下の者へ、名誉や贈り物をうやうやしく授ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"20\" y=\"110\" width=\"70\" height=\"30\"/><circle cx=\"55\" cy=\"22\" r=\"10\"/><line x1=\"55\" y1=\"32\" x2=\"55\" y2=\"76\"/><line x1=\"55\" y1=\"76\" x2=\"45\" y2=\"110\"/><line x1=\"55\" y1=\"76\" x2=\"65\" y2=\"110\"/><line x1=\"55\" y1=\"44\" x2=\"90\" y2=\"56\"/><line x1=\"55\" y1=\"44\" x2=\"40\" y2=\"68\"/><polygon points=\"96 56 104 46 112 56 104 66\"/><line x1=\"114\" y1=\"66\" x2=\"150\" y2=\"84\"/><polyline points=\"145.4,77.4 150,84 142,84.3\"/><circle cx=\"175\" cy=\"52\" r=\"10\"/><line x1=\"175\" y1=\"62\" x2=\"175\" y2=\"106\"/><line x1=\"175\" y1=\"106\" x2=\"165\" y2=\"140\"/><line x1=\"175\" y1=\"106\" x2=\"185\" y2=\"140\"/><line x1=\"175\" y1=\"74\" x2=\"155\" y2=\"82\"/><line x1=\"175\" y1=\"74\" x2=\"195\" y2=\"82\"/></g><text x=\"150\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">名誉を授ける</text><text x=\"212\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">受ける</text></svg>"
+  },
+  "etymology": "be(〜に)+ stow(置く・しまう)→ 相手のところへ置いてやる → 上から授ける → ①(名誉・称号・賞を)授ける ②(恩恵・愛情などを)与える",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give someone something valuable or important, such as an honour or a gift, especially in a formal way."
+    }
+  ],
+  "cautions": [
+    "bestow A on / upon B(B に A を授ける)の形。bestow B A の二重目的語にはしない",
+    "bestow=上の立場から名誉・恩恵をうやうやしく授ける/confer=(大学・国が)称号・学位を授ける/grant=願い・許可を認めて与える/give=最も広く「与える」",
+    "かたい書き言葉。受け身 A is bestowed on B の形で長文に出やすい"
+  ],
+  "patterns": [
+    {
+      "form": "bestow A on / upon B",
+      "meaning": "B に A(名誉・賞・恩恵)を授ける"
+    },
+    {
+      "form": "bestow an honor / a title / an award",
+      "meaning": "名誉・称号・賞を授ける"
+    },
+    {
+      "form": "bestow praise / attention on A",
+      "meaning": "A に賛辞・注目を与える"
+    },
+    {
+      "form": "be bestowed on A",
+      "meaning": "A に授けられる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "名誉を授ける",
+      "en": "The king bestowed a title on the brave soldier.",
+      "ja": "王はその勇敢な兵士に称号を授けた。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "The highest honor was bestowed upon the scientist for her discovery.",
+      "ja": "その科学者は発見をたたえられ、最高の栄誉を授けられた。"
+    },
+    {
+      "source": "original",
+      "label": "恩恵",
+      "en": "Nature has bestowed many gifts on this small island.",
+      "ja": "自然はこの小さな島に多くの恵みを与えてきた。"
+    },
+    {
+      "source": "original",
+      "label": "賛辞",
+      "en": "The critics bestowed high praise on his first novel.",
+      "ja": "批評家たちは彼の最初の小説に高い賛辞を送った。"
+    },
+    {
+      "source": "original",
+      "label": "愛情",
+      "en": "She bestowed all her love and care on her grandchildren.",
+      "ja": "彼女は孫たちに愛情と心づかいのすべてを注いだ。"
+    },
+    {
+      "source": "original",
+      "label": "confer との比較",
+      "en": "The university conferred a degree on him, and the city bestowed its gratitude.",
+      "ja": "大学は彼に学位を授け、市は感謝の意を贈った。"
+    }
+  ],
+  "check_points": [
+    "bestow A on B の語順を言えるか",
+    "bestow と grant のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "難関大の長文・語彙問題で「授ける」。前置詞 on / upon を選ばせる問題が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2518
+    }
+  ]
+}
