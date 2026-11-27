@@ -1,0 +1,106 @@
+{
+  "word": "hint",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/hɪnt/",
+  "core_image": {
+    "text": "答えは言わずに、指先でちょんと示して気づかせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"84\" y2=\"80\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"98\"/><line x1=\"92\" y1=\"78\" x2=\"150\" y2=\"66\"/><polyline points=\"142.3,63.7 150,66 143.9,71.2\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"168\" y2=\"98\"/><line x1=\"180\" y1=\"74\" x2=\"192\" y2=\"98\"/></g><text x=\"118\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ちょんと示す</text><text x=\"180\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">気づくかな</text></svg>"
+  },
+  "etymology": "はっきり言わずに、ほんの少しだけ示す → ①(名詞:)手がかり・ヒント ②(名詞:)それとなく言うこと・ほのめかし ③(名詞:)a hint of A=ほんのかすかな A ④(動詞:)ほのめかす・それとなく言う",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a small piece of information that helps you guess something, or a small amount of something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to say something in an indirect way."
+    }
+  ],
+  "cautions": [
+    "動詞は hint at A(A をほのめかす)/hint that 節。×hint A(目的語を直接とらない)に注意",
+    "take a hint=(ほのめかしを)察する、drop a hint=それとなく言う。a hint of A=ほんの少しの A(a hint of garlic=にんにくがほんのり)",
+    "hint=わざと小さく示して相手に気づかせる(中立)/imply=ことばの中に意味がふくまれる/insinuate=いやなことを遠まわしに言う(悪い意味)"
+  ],
+  "patterns": [
+    {
+      "form": "give A a hint",
+      "meaning": "A にヒントを与える"
+    },
+    {
+      "form": "drop a hint",
+      "meaning": "それとなく言う"
+    },
+    {
+      "form": "take a hint",
+      "meaning": "(ほのめかしを)察する"
+    },
+    {
+      "form": "hint at A",
+      "meaning": "A をほのめかす"
+    },
+    {
+      "form": "hint that 節",
+      "meaning": "〜とそれとなく言う"
+    },
+    {
+      "form": "a hint of A",
+      "meaning": "ほんの少しの A"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ヒント",
+      "en": "If you can't answer the riddle, I'll give you a hint.",
+      "ja": "なぞなぞが解けないなら、ヒントをあげるよ。"
+    },
+    {
+      "source": "original",
+      "label": "hint at",
+      "en": "The minister hinted at a possible tax increase.",
+      "ja": "大臣は増税の可能性をほのめかした。"
+    },
+    {
+      "source": "original",
+      "label": "hint that",
+      "en": "She hinted that she might leave the club.",
+      "ja": "彼女は部をやめるかもしれないとそれとなく言った。"
+    },
+    {
+      "source": "original",
+      "label": "take a hint",
+      "en": "I kept looking at my watch, but he didn't take the hint.",
+      "ja": "私は何度も時計を見たが、彼は察してくれなかった。"
+    },
+    {
+      "source": "original",
+      "label": "a hint of",
+      "en": "There was a hint of sadness in her voice.",
+      "ja": "彼女の声にはかすかな悲しみがあった。"
+    },
+    {
+      "source": "original",
+      "label": "手がかり",
+      "en": "The diary gives us some hints about his life as a young man.",
+      "ja": "その日記は彼の若いころの暮らしについていくつか手がかりをくれる。"
+    }
+  ],
+  "check_points": [
+    "hint at A の at を落とさずに言えるか",
+    "take a hint / a hint of A の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "動詞の hint at / hint that と、a hint of A(ほんの少しの)が語法・長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2538
+    }
+  ]
+}

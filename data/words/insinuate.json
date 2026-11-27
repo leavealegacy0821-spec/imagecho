@@ -1,0 +1,93 @@
+{
+  "word": "insinuate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈsɪnjueɪt/",
+  "core_image": {
+    "text": "くねくねと入りこむように、いやなことを遠まわしに言う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M22 120 Q40 98 58 120 Q76 142 94 120 Q112 98 130 116\"/><line x1=\"130\" y1=\"116\" x2=\"164\" y2=\"64\"/><polyline points=\"156.9,67.8 164,64 163.4,72\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"178\" y2=\"98\"/><line x1=\"190\" y1=\"74\" x2=\"202\" y2=\"98\"/></g><text x=\"58\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くねくね</text><text x=\"100\" y=\"34\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">いやな当てこすり</text></svg>"
+  },
+  "etymology": "ラテン語 in(中へ)+ sinuare(曲げる。sinus=曲がり)→ くねくね曲がって中へ入りこませる → ①(悪いこと・疑いを)遠まわしに言う・当てこする ②insinuate oneself into A=A にうまく取り入る",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to suggest in an indirect way that something unpleasant is true, or to gradually get yourself into a position by clever means."
+    }
+  ],
+  "cautions": [
+    "insinuate that 節(〜だと遠まわしに言う)。いやなこと・相手を疑う内容に使う悪い意味の語。×insinuate at",
+    "insinuate=悪意をこめて遠まわしに言う/hint=気づかせようと小さく示す(中立)/imply=言外にふくませる(中立)",
+    "insinuate oneself into A(A に取り入る・うまく入りこむ)。名詞 insinuation=当てこすり"
+  ],
+  "patterns": [
+    {
+      "form": "insinuate that 節",
+      "meaning": "〜だと遠まわしに言う・当てこする"
+    },
+    {
+      "form": "What are you insinuating?",
+      "meaning": "何が言いたいんだ"
+    },
+    {
+      "form": "insinuate oneself into A",
+      "meaning": "A にうまく取り入る"
+    },
+    {
+      "form": "insinuation",
+      "meaning": "当てこすり・ほのめかし"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "that 節",
+      "en": "He insinuated that I had cheated on the test.",
+      "ja": "彼は私がテストで不正をしたと遠まわしに言った。"
+    },
+    {
+      "source": "original",
+      "label": "問いつめ",
+      "en": "\"What are you insinuating?\" she asked angrily.",
+      "ja": "「何が言いたいの」と彼女は怒って聞いた。"
+    },
+    {
+      "source": "original",
+      "label": "物事が主語",
+      "en": "The article insinuated that the mayor had taken a bribe.",
+      "ja": "その記事は市長がわいろを受け取ったとほのめかした。"
+    },
+    {
+      "source": "original",
+      "label": "取り入る",
+      "en": "He tried to insinuate himself into the boss's favor.",
+      "ja": "彼は上司に取り入ろうとした。"
+    },
+    {
+      "source": "original",
+      "label": "insinuation",
+      "en": "I don't like your insinuations about my family.",
+      "ja": "うちの家族についての君の当てこすりは気に入らない。"
+    },
+    {
+      "source": "original",
+      "label": "hint との比較",
+      "en": "She only hinted that the plan was risky, but he insinuated that I was lying.",
+      "ja": "彼女は計画が危ないとそれとなく言っただけだが、彼は私がうそをついていると当てこすった。"
+    }
+  ],
+  "check_points": [
+    "insinuate が悪い意味で使われることを言えるか",
+    "hint とのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文・会話で「遠まわしに(悪く)言う」。hint・imply との言いかえやニュアンスのちがいが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2539
+    }
+  ]
+}

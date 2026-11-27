@@ -118,7 +118,7 @@
     },
     {
       "title": "使い分け:示す・明かす",
-      "note": "show=見せる(最も広い) ／ indicate=指で指すように示す ／ imply=言葉の奥にふくませる ／ suggest=それとなく示す ／ reveal=おおいを取って明かす ／ disclose=隠していた情報を公にする ／ expose=おおいをはがしてさらす ／ allude=名前を出さず遠まわしにふれる",
+      "note": "show=見せる(最も広い) ／ indicate=指で指すように示す ／ imply=言葉の奥にふくませる ／ suggest=それとなく示す ／ reveal=おおいを取って明かす ／ disclose=隠していた情報を公にする ／ expose=おおいをはがしてさらす ／ allude=名前を出さず遠まわしにふれる ／ hint=答えは言わず指先でちょんと示して気づかせる ／ insinuate=くねくね入りこむように、いやなことを遠まわしに言う",
       "words": [
         "show",
         "indicate",
@@ -128,7 +128,9 @@
         "disclose",
         "expose",
         "demonstrate",
-        "allude"
+        "allude",
+        "hint",
+        "insinuate"
       ]
     },
     {
@@ -1396,6 +1398,18 @@
       ]
     },
     {
+      "title": "使い分け:倹約・ぜいたく",
+      "note": "frugal=実りをむだにせずつましく質素に ／ thrifty=上手にやりくりしてこつこつ残す ／ stingy=出すべきときもぎゅっと握って出さない(けなす) ／ generous=惜しまずたっぷり分け与える ／ lavish=どしゃぶりのように惜しみなく豪華に ／ extravagant=決められた範囲の外へはみ出して浪費する(けなす)",
+      "words": [
+        "frugal",
+        "thrifty",
+        "stingy",
+        "generous",
+        "lavish",
+        "extravagant"
+      ]
+    },
+    {
       "title": "使い分け:価値・長所",
       "note": "value=値打ち ／ worth=〜の価値がある(前置詞的) ／ merit=ほめるべき長所 ／ virtue=道徳的な美徳・長所 ／ advantage=有利な点 ／ benefit=恩恵 ／ disadvantage=ほかより不利な点(be at a disadvantage) ／ drawback=うしろへ引きもどす困った点(欠点)",
       "words": [
@@ -1977,7 +1991,7 @@
     },
     {
       "title": "使い分け:声の出し方",
-      "note": "shout=大声を張り上げる ／ whisper=息だけでささやく ／ murmur=低い声でぼそぼそつぶやく ／ utter=声に出して言う ／ mutter=不満そうに口の中でぶつぶつ ／ mumble=口を開けずにもごもご ／ stammer=ことばがつかえてどもる ／ yell=怒り・興奮でわっと大声 ／ scream=恐怖・痛みでキャーッと甲高く ／ sigh=はあっと長く息をはく(疲れ・安心) ／ groan=痛み・不満でうーんと低くうめく",
+      "note": "shout=大声を張り上げる ／ whisper=息だけでささやく ／ murmur=低い声でぼそぼそつぶやく ／ utter=声に出して言う ／ mutter=不満そうに口の中でぶつぶつ ／ mumble=口を開けずにもごもご ／ stammer=ことばがつかえてどもる ／ yell=怒り・興奮でわっと大声 ／ scream=恐怖・痛みでキャーッと甲高く ／ sigh=はあっと長く息をはく(疲れ・安心) ／ groan=痛み・不満でうーんと低くうめく ／ exclaim=驚き・喜びで思わず声が飛び出す ／ shriek=キーッと短く鋭く甲高い(笑いにも)",
       "words": [
         "shout",
         "whisper",
@@ -1989,7 +2003,9 @@
         "yell",
         "scream",
         "sigh",
-        "groan"
+        "groan",
+        "exclaim",
+        "shriek"
       ]
     },
     {
@@ -2599,14 +2615,15 @@
     },
     {
       "title": "使い分け:表す・象徴する",
-      "note": "show=見せる(広い) ／ represent=代わりに表す・代表する ／ symbolize=見えるしるしで見えないものを象徴する ／ embody=考えに体を与えて体現する ／ signify=しるしとして意味を示す ／ denote=しるしを付けてそれと指し示す ／ imply=言外にふくませる",
+      "note": "show=見せる(広い) ／ represent=代わりに表す・代表する ／ symbolize=見えるしるしで見えないものを象徴する ／ embody=考えに体を与えて体現する ／ signify=しるしとして意味を示す ／ denote=しるしを付けてそれと指し示す ／ imply=言外にふくませる ／ connote=辞書の意味のまわりにもう一つの感じがついてくる(⇔ denote)",
       "words": [
         "represent",
         "symbolize",
         "embody",
         "signify",
         "denote",
-        "imply"
+        "imply",
+        "connote"
       ]
     },
     {

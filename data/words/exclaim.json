@@ -1,0 +1,93 @@
+{
+  "word": "exclaim",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪkˈskleɪm/",
+  "core_image": {
+    "text": "驚き・喜びが胸から外へ、思わず声になって飛び出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"42\" y2=\"52\"/><line x1=\"60\" y1=\"74\" x2=\"78\" y2=\"52\"/><line x1=\"76\" y1=\"46\" x2=\"136\" y2=\"46\"/><polyline points=\"129,42.2 136,46 129,49.8\"/><line x1=\"160\" y1=\"30\" x2=\"160\" y2=\"88\"/><circle cx=\"160\" cy=\"104\" r=\"3\"/></g><text x=\"200\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">思わず</text><text x=\"106\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">わっ</text></svg>"
+  },
+  "etymology": "ラテン語 ex(外へ)+ clamare(叫ぶ)→ 思いが声になって外へ出る → (驚き・喜び・怒りで)思わず叫ぶ・大声で言う。claim(主張する)と同じ根",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say something suddenly and loudly because you are surprised, angry or excited."
+    }
+  ],
+  "cautions": [
+    "直接話法でよく使う:\"Wow!\" she exclaimed.(「わあ」と彼女は叫んだ)。exclaim that 節もある",
+    "exclaim=感情が高まって思わず短く言う/shout=(とにかく)大声を出す/cry out=痛み・恐怖で声を上げる",
+    "名詞 exclamation、exclamation mark(感嘆符 !)。exclaim at / over A=A に驚きの声を上げる"
+  ],
+  "patterns": [
+    {
+      "form": "\"…,\" A exclaimed",
+      "meaning": "「…」と A は叫んだ"
+    },
+    {
+      "form": "exclaim that 節",
+      "meaning": "〜と叫ぶ"
+    },
+    {
+      "form": "exclaim at / over A",
+      "meaning": "A に驚きの声を上げる"
+    },
+    {
+      "form": "exclamation (mark)",
+      "meaning": "感嘆(符)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "直接話法",
+      "en": "\"What a beautiful view!\" she exclaimed.",
+      "ja": "「なんてきれいな眺め」と彼女は思わず叫んだ。"
+    },
+    {
+      "source": "original",
+      "label": "that 節",
+      "en": "He exclaimed that he had found the key.",
+      "ja": "彼はかぎを見つけたと叫んだ。"
+    },
+    {
+      "source": "original",
+      "label": "in 感情",
+      "en": "\"I won!\" he exclaimed in delight.",
+      "ja": "「勝った!」と彼は大喜びで叫んだ。"
+    },
+    {
+      "source": "original",
+      "label": "exclaim over",
+      "en": "The children exclaimed over the size of the cake.",
+      "ja": "子どもたちはケーキの大きさに歓声を上げた。"
+    },
+    {
+      "source": "original",
+      "label": "exclamation",
+      "en": "She gave an exclamation of surprise when she opened the box.",
+      "ja": "箱を開けると、彼女は驚きの声を上げた。"
+    },
+    {
+      "source": "original",
+      "label": "shout との比較",
+      "en": "The coach shouted orders, and the fans exclaimed with joy at the goal.",
+      "ja": "コーチは大声で指示を出し、ファンはゴールに思わず歓声を上げた。"
+    }
+  ],
+  "check_points": [
+    "exclaim と shout のちがいを言えるか",
+    "exclamation mark の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文の会話の後ろ(…, she exclaimed)によく出る。claim と同じ根であること、名詞 exclamation も問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2541
+    }
+  ]
+}

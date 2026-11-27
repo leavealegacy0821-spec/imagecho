@@ -1,0 +1,93 @@
+{
+  "word": "connote",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kəˈnoʊt/",
+  "core_image": {
+    "text": "ことばのまわりに、もう一つの意味がふわっとついてくる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"120\" cy=\"80\" rx=\"100\" ry=\"58\"/><rect x=\"80\" y=\"64\" width=\"80\" height=\"32\"/></g><text x=\"120\" y=\"85\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ことば</text><text x=\"120\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ついてくる感じ</text></svg>"
+  },
+  "etymology": "ラテン語 con(いっしょに)+ notare(しるしを付ける)→ 本来の意味といっしょに付いてくるしるし → (語・物事が)言外の意味・イメージを伴う・連想させる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "(of a word or thing) to suggest a feeling or idea in addition to its basic meaning."
+    }
+  ],
+  "cautions": [
+    "名詞 connotation(言外の意味・含み)が特に頻出。have positive / negative connotations(よい・悪い含みをもつ)",
+    "connote=辞書の意味のまわりに感じ・イメージがついてくる ⇔ denote=辞書どおりの意味をそのまま指す",
+    "主語はふつう語・色・物事。人が主語で「ほのめかす」なら imply・hint を使う"
+  ],
+  "patterns": [
+    {
+      "form": "A connote B",
+      "meaning": "A は B を連想させる・B の含みがある"
+    },
+    {
+      "form": "connotation",
+      "meaning": "言外の意味・含み"
+    },
+    {
+      "form": "have a positive / negative connotation",
+      "meaning": "よい・悪い含みをもつ"
+    },
+    {
+      "form": "connote ⇔ denote",
+      "meaning": "含みをもつ ⇔ 字どおり指す"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "基本",
+      "en": "For many people, the word \"home\" connotes warmth and safety.",
+      "ja": "多くの人にとって「家」という語はぬくもりと安心を連想させる。"
+    },
+    {
+      "source": "original",
+      "label": "色",
+      "en": "In some cultures, white connotes purity.",
+      "ja": "文化によっては、白は純粋さを表す。"
+    },
+    {
+      "source": "original",
+      "label": "connotation",
+      "en": "\"Cheap\" often has a negative connotation, but \"inexpensive\" does not.",
+      "ja": "cheap はしばしば悪い含みをもつが、inexpensive はそうではない。"
+    },
+    {
+      "source": "original",
+      "label": "denote との比較",
+      "en": "\"Slim\" and \"skinny\" denote the same thing, but they connote different feelings.",
+      "ja": "slim と skinny は同じものを指すが、伴う感じはちがう。"
+    },
+    {
+      "source": "original",
+      "label": "物事が主語",
+      "en": "A dark suit connotes seriousness in business.",
+      "ja": "ビジネスでは、黒っぽいスーツはまじめさを感じさせる。"
+    },
+    {
+      "source": "original",
+      "label": "連想",
+      "en": "To him, the sea connotes freedom rather than danger.",
+      "ja": "彼にとって、海は危険よりも自由を連想させる。"
+    }
+  ],
+  "check_points": [
+    "connote と denote のちがいを言えるか",
+    "have a negative connotation の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "言語・文化の長文で connotation(含み・言外の意味)が出る。denote との対比が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2540
+    }
+  ]
+}

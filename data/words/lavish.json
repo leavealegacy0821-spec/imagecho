@@ -1,0 +1,98 @@
+{
+  "word": "lavish",
+  "pos": [
+    "形容詞",
+    "動詞"
+  ],
+  "ipa": "/ˈlævɪʃ/",
+  "core_image": {
+    "text": "どしゃぶりのように、惜しみなくたっぷり注ぎかける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"40\" y2=\"60\"/><line x1=\"70\" y1=\"74\" x2=\"100\" y2=\"60\"/><circle cx=\"140\" cy=\"50\" r=\"6\"/><circle cx=\"170\" cy=\"40\" r=\"6\"/><circle cx=\"200\" cy=\"54\" r=\"6\"/><circle cx=\"154\" cy=\"80\" r=\"6\"/><circle cx=\"186\" cy=\"76\" r=\"6\"/><circle cx=\"170\" cy=\"108\" r=\"6\"/><circle cx=\"204\" cy=\"104\" r=\"6\"/><line x1=\"130\" y1=\"64\" x2=\"130\" y2=\"120\"/><polyline points=\"133.8,113 130,120 126.2,113\"/></g><text x=\"176\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">惜しみなく</text><text x=\"70\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">たっぷり</text></svg>"
+  },
+  "etymology": "古いフランス語 lavasse(どしゃぶり)← laver(洗う)→ たっぷり注ぐ → ①(形容詞:)ぜいたくな・豪華な ②(形容詞:)気前のよい・惜しまない ③(動詞:)lavish A on B=A を B に惜しみなく与える",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "large in amount, expensive or impressive; giving a lot of something."
+    },
+    {
+      "pos": "動詞",
+      "text": "to give a lot of something, such as money, praise or attention, to someone."
+    }
+  ],
+  "cautions": [
+    "動詞は lavish A on / upon B(A を B に惜しみなく与える)。A に money / praise / attention、B に人が来る語順に注意",
+    "lavish=たっぷり豪華(ほめる場面でも使う)/extravagant=度をこえて浪費する(けなす)",
+    "be lavish with / in A(A を惜しまない)、a lavish party / meal(豪華なパーティー・食事)"
+  ],
+  "patterns": [
+    {
+      "form": "a lavish party / meal",
+      "meaning": "豪華なパーティー・食事"
+    },
+    {
+      "form": "lavish A on / upon B",
+      "meaning": "A を B に惜しみなく与える"
+    },
+    {
+      "form": "be lavish with / in A",
+      "meaning": "A を惜しまない"
+    },
+    {
+      "form": "lavishly",
+      "meaning": "ぜいたくに・惜しみなく"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "豪華な",
+      "en": "They held a lavish wedding at a famous hotel.",
+      "ja": "彼らは有名なホテルで豪華な結婚式を挙げた。"
+    },
+    {
+      "source": "original",
+      "label": "lavish A on B",
+      "en": "The grandparents lavished attention on their first grandchild.",
+      "ja": "祖父母は初孫に惜しみなく愛情を注いだ。"
+    },
+    {
+      "source": "original",
+      "label": "be lavish with",
+      "en": "The critic was lavish with praise for the new film.",
+      "ja": "その批評家は新作映画を惜しみなくほめた。"
+    },
+    {
+      "source": "original",
+      "label": "お金",
+      "en": "The city lavished money on the new stadium.",
+      "ja": "市は新しい競技場にお金を惜しみなく注ぎこんだ。"
+    },
+    {
+      "source": "original",
+      "label": "lavishly",
+      "en": "The room was lavishly decorated with flowers.",
+      "ja": "部屋は花でぜいたくに飾られていた。"
+    },
+    {
+      "source": "original",
+      "label": "extravagant との比較",
+      "en": "The dinner was lavish but not extravagant; the price was fair.",
+      "ja": "夕食は豪華だったが浪費というほどではなく、値段は妥当だった。"
+    }
+  ],
+  "check_points": [
+    "lavish A on B の語順を言えるか",
+    "lavish と extravagant のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文で「豪華な」「惜しみなく与える」。lavish A on B の語法と、generous・extravagant との言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2546
+    }
+  ]
+}
