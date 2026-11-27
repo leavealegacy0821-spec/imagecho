@@ -1,0 +1,93 @@
+{
+  "word": "dismantle",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪsˈmæntl/",
+  "core_image": {
+    "text": "組み立ててあるものを、部品ごとにばらしていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"20\" y=\"80\" width=\"50\" height=\"40\"/><line x1=\"45\" y1=\"80\" x2=\"45\" y2=\"120\"/><line x1=\"20\" y1=\"100\" x2=\"70\" y2=\"100\"/><line x1=\"78\" y1=\"100\" x2=\"112\" y2=\"100\"/><polyline points=\"105,96.2 112,100 105,103.8\"/><rect x=\"120\" y=\"76\" width=\"22\" height=\"18\"/><rect x=\"152\" y=\"70\" width=\"22\" height=\"18\"/><rect x=\"124\" y=\"114\" width=\"22\" height=\"18\"/><rect x=\"156\" y=\"110\" width=\"22\" height=\"18\"/><circle cx=\"210\" cy=\"52\" r=\"10\"/><line x1=\"210\" y1=\"62\" x2=\"210\" y2=\"106\"/><line x1=\"210\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"210\" y1=\"106\" x2=\"220\" y2=\"140\"/><line x1=\"210\" y1=\"74\" x2=\"186\" y2=\"90\"/><line x1=\"210\" y1=\"74\" x2=\"222\" y2=\"98\"/></g><text x=\"45\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">組んだもの</text><text x=\"150\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ばらばら</text></svg>"
+  },
+  "etymology": "dis(反対・はがす)+ mantle(マント・おおい)→ おおいをはがす → 中身をあらわにして一つずつ外す → ①(機械・家具・建物を)分解する・解体する ②(制度・組織・体制を)少しずつ廃止する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to take a machine or structure apart; to end a system or organization gradually."
+    }
+  ],
+  "cautions": [
+    "物だけでなく制度・組織にも:dismantle the system / the welfare state=制度を解体する",
+    "demolish=建物を一気に取り壊す(元の形は残らない)/dismantle=部品ごとに順に外す(また組み立てられることもある)",
+    "反対の語は assemble(組み立てる)。take A apart とほぼ同じ意味"
+  ],
+  "patterns": [
+    {
+      "form": "dismantle a machine",
+      "meaning": "機械を分解する"
+    },
+    {
+      "form": "dismantle A for B",
+      "meaning": "B のために A を解体する"
+    },
+    {
+      "form": "dismantle the system",
+      "meaning": "制度を(段階的に)解体する"
+    },
+    {
+      "form": "be dismantled",
+      "meaning": "分解・解体される"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "分解する",
+      "en": "He dismantled the old bicycle to clean every part.",
+      "ja": "彼は部品を一つずつ洗うために古い自転車を分解した。"
+    },
+    {
+      "source": "original",
+      "label": "解体する",
+      "en": "The stage was dismantled after the concert.",
+      "ja": "コンサートの後、ステージは解体された。"
+    },
+    {
+      "source": "original",
+      "label": "制度を",
+      "en": "The new government promised to dismantle the old system.",
+      "ja": "新しい政府は古い制度を解体すると約束した。"
+    },
+    {
+      "source": "original",
+      "label": "組織を",
+      "en": "Police worked for years to dismantle the criminal group.",
+      "ja": "警察は何年もかけてその犯罪組織を壊滅させた。"
+    },
+    {
+      "source": "original",
+      "label": "demolish とのちがい",
+      "en": "They did not demolish the temple; they dismantled it and rebuilt it in another town.",
+      "ja": "彼らはその寺を取り壊したのではなく、解体して別の町で建て直した。"
+    },
+    {
+      "source": "original",
+      "label": "take apart",
+      "en": "Dismantling a clock is easy; putting it back together is hard.",
+      "ja": "時計をばらすのは簡単だが、元に戻すのは難しい。"
+    }
+  ],
+  "check_points": [
+    "demolish とのちがい(部品ごとに外す)を言えるか",
+    "制度・組織を dismantle する意味がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「制度・組織を解体する」の比ゆ的な意味と、assemble との対比が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2560
+    }
+  ]
+}

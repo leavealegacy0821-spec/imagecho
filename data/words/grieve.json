@@ -1,0 +1,93 @@
+{
+  "word": "grieve",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɡriːv/",
+  "core_image": {
+    "text": "大切な人を失って、重い悲しみを胸に抱えつづける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M150 140 L150 90 Q170 70 190 90 L190 140\"/><line x1=\"162\" y1=\"104\" x2=\"178\" y2=\"104\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"90\" y1=\"74\" x2=\"104\" y2=\"96\"/><line x1=\"90\" y1=\"74\" x2=\"76\" y2=\"96\"/></g><text x=\"40\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">重い悲しみ</text><text x=\"170\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">失った人</text></svg>"
+  },
+  "etymology": "ラテン語 gravis(重い。grave・gravity と同じ)→ 心が重い → ①(人の死などを)深く悲しむ(grieve for / over A) ②(他動詞:かたく)〜を悲しませる → 名詞 grief=深い悲しみ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to feel very sad, especially because someone has died."
+    }
+  ],
+  "cautions": [
+    "主に自動詞:grieve for / over A=A(の死)を悲しむ。他動詞「悲しませる」はかたい(It grieves me to say…)",
+    "mourn=死者を悼んで喪に服す(儀式・形のある悲しみ)/grieve=失ったことによる重い悲しみを心に抱える/lament=声や言葉に出して嘆く",
+    "名詞 grief=深い悲しみ(grief-stricken=悲しみにうちひしがれた)。grievance=不平・苦情 と混同しない"
+  ],
+  "patterns": [
+    {
+      "form": "grieve for A",
+      "meaning": "A(の死)を悲しむ"
+    },
+    {
+      "form": "grieve over A",
+      "meaning": "A のことで深く悲しむ"
+    },
+    {
+      "form": "a grieving family",
+      "meaning": "悲しみにくれる家族"
+    },
+    {
+      "form": "It grieves me to do",
+      "meaning": "〜するのはつらい(かたい)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "grieve for",
+      "en": "She is still grieving for her father.",
+      "ja": "彼女はまだ父親の死を悲しんでいる。"
+    },
+    {
+      "source": "original",
+      "label": "grieve over",
+      "en": "The whole town grieved over the loss of the old bridge.",
+      "ja": "町じゅうが古い橋がなくなったことを悲しんだ。"
+    },
+    {
+      "source": "original",
+      "label": "a grieving family",
+      "en": "A grieving family gathered outside the hospital.",
+      "ja": "悲しみにくれる家族が病院の外に集まった。"
+    },
+    {
+      "source": "original",
+      "label": "時間がかかる",
+      "en": "People need time to grieve after a loss.",
+      "ja": "人は大切なものを失った後、悲しむための時間が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "It grieves me",
+      "en": "It grieves me to see you so unhappy.",
+      "ja": "あなたがそんなに不幸そうなのを見るのはつらい。"
+    },
+    {
+      "source": "original",
+      "label": "grief",
+      "en": "He was overcome with grief when his dog died.",
+      "ja": "犬が死んだとき、彼は深い悲しみに打ちのめされた。"
+    }
+  ],
+  "check_points": [
+    "grieve for / over A の前置詞を言えるか",
+    "mourn・lament とのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "名詞 grief(深い悲しみ)とあわせて、grieve for A の型が長文・語いで問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2564
+    }
+  ]
+}

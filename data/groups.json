@@ -329,7 +329,7 @@
     },
     {
       "title": "使い分け:頼む・求める",
-      "note": "ask=たずねる・頼む ／ request=(丁寧・正式に)お願いする ／ demand=当然として強く要求する ／ urge=強く迫って勧める ／ plead=必死に嘆願する ／ summon=呼び出す・(勇気を)奮い起こす ／ beg=へりくだって必死に頼みこむ(beg A to do)",
+      "note": "ask=たずねる・頼む ／ request=(丁寧・正式に)お願いする ／ demand=当然として強く要求する ／ urge=強く迫って勧める ／ plead=必死に嘆願する ／ summon=呼び出す・(勇気を)奮い起こす ／ beg=へりくだって必死に頼みこむ(beg A to do) ／ implore=感情をこめて涙ながらに「どうか」と懇願する(implore A to do)",
       "words": [
         "ask",
         "request",
@@ -337,7 +337,8 @@
         "urge",
         "plead",
         "summon",
-        "beg"
+        "beg",
+        "implore"
       ]
     },
     {
@@ -1918,13 +1919,16 @@
     },
     {
       "title": "使い分け:壊す",
-      "note": "break=力を加えて割る・折る(最も広い) ／ damage=傷をつける(直せる) ／ destroy=元に戻らないほど壊す ／ ruin=めちゃくちゃにして価値をなくす ／ demolish=建物を計画的に取り壊す",
+      "note": "break=力を加えて割る・折る(最も広い) ／ damage=傷をつける(直せる) ／ destroy=元に戻らないほど壊す ／ ruin=めちゃくちゃにして価値をなくす ／ demolish=建物を計画的に取り壊す ／ wreck=ぶつかって形がなくなるほどぐしゃっと壊す(計画・人生にも) ／ crumble=かたまりが小さなかけらになってぽろぽろ少しずつくずれる ／ dismantle=組み立てたものを部品ごとにばらす(制度の解体にも)",
       "words": [
         "break",
         "damage",
         "destroy",
         "ruin",
-        "demolish"
+        "demolish",
+        "wreck",
+        "crumble",
+        "dismantle"
       ]
     },
     {
@@ -2179,11 +2183,14 @@
     },
     {
       "title": "使い分け:急ぐ",
-      "note": "hurry=時間に追われてあわてて急ぐ ／ rush=勢いよく突進する ／ hasten=(堅く)物事の進みを早める",
+      "note": "hurry=時間に追われてあわてて急ぐ ／ rush=勢いよく突進する ／ hasten=(堅く)物事の進みを早める ／ accelerate=アクセルを踏むように進む速さをどんどん上げる ／ expedite=じゃまを外して手続き・配送をさっさと片づける ／ precipitate=崖から突き落とすように(悪いことを)一気に早めて起こす",
       "words": [
         "hurry",
         "rush",
-        "hasten"
+        "hasten",
+        "accelerate",
+        "expedite",
+        "precipitate"
       ]
     },
     {
@@ -3730,11 +3737,14 @@
     },
     {
       "title": "使い分け:悲しむ・嘆く",
-      "note": "mourn=人の死を思い静かに深く悲しむ(悼む) ／ lament=失ったもの・悪くなったことを声や言葉に出して嘆く ／ regret=自分のしたことをふり返って悔やむ",
+      "note": "mourn=人の死を思い静かに深く悲しむ(悼む) ／ lament=失ったもの・悪くなったことを声や言葉に出して嘆く ／ regret=自分のしたことをふり返って悔やむ ／ grieve=失ったことの重い悲しみを胸に抱えつづける(grieve for A) ／ deplore=ひどい行い・状況を「なげかわしい」と強く非難する ／ repent=自分の罪・悪い行いを悔いて心を入れかえる(regret より重い)",
       "words": [
         "mourn",
         "lament",
-        "regret"
+        "regret",
+        "grieve",
+        "deplore",
+        "repent"
       ]
     },
     {

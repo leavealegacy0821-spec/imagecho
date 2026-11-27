@@ -1,0 +1,93 @@
+{
+  "word": "repent",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/rɪˈpent/",
+  "core_image": {
+    "text": "自分の悪い行いをふり返って、心から悔い、改める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"138\" y2=\"98\"/><line x1=\"150\" y1=\"74\" x2=\"162\" y2=\"98\"/><line x1=\"136\" y1=\"52\" x2=\"84\" y2=\"52\" stroke-dasharray=\"5 5\"/><polyline points=\"91,55.8 84,52 91,48.2\"/><polyline points=\"40,120 60,100 70,116 84,96\"/><line x1=\"40\" y1=\"120\" x2=\"84\" y2=\"120\"/></g><text x=\"62\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あの過ち</text><text x=\"196\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">改めます</text></svg>"
+  },
+  "etymology": "ラテン語 re(強め・ふたたび)+ paenitere(後悔させる。penitence と同じ)→ 犯した悪をくり返し悔やむ → ①(罪・悪い行いを)悔い改める(repent of A) ②心から後悔して生き方を変える → 名詞 repentance=悔い改め",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to feel very sorry for something wrong you have done and decide not to do it again."
+    }
+  ],
+  "cautions": [
+    "repent (of) A=A を悔い改める。of を使う形に注意(repent of one's sins)",
+    "regret=してしまったこと・しなかったことを残念に思う(小さなことにも)/repent=罪や悪い行いを悔い、心を入れかえる(宗教・道徳的で重い)",
+    "regret のように doing / to do の区別はない。repent of doing の形はある"
+  ],
+  "patterns": [
+    {
+      "form": "repent (of) A",
+      "meaning": "A を悔い改める"
+    },
+    {
+      "form": "repent of doing",
+      "meaning": "〜したことを悔いる"
+    },
+    {
+      "form": "repent one's sins",
+      "meaning": "罪を悔い改める"
+    },
+    {
+      "form": "repentance",
+      "meaning": "悔い改め"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "repent of",
+      "en": "He repented of his cruel words to his brother.",
+      "ja": "彼は弟への冷たい言葉を心から悔いた。"
+    },
+    {
+      "source": "original",
+      "label": "罪を",
+      "en": "The story tells of a thief who repented his sins.",
+      "ja": "その話は罪を悔い改めた泥棒のことを語っている。"
+    },
+    {
+      "source": "original",
+      "label": "repent of doing",
+      "en": "She repented of having lied to her friends.",
+      "ja": "彼女は友だちにうそをついたことを悔いた。"
+    },
+    {
+      "source": "original",
+      "label": "心を入れかえる",
+      "en": "It is never too late to repent and change your life.",
+      "ja": "悔い改めて生き方を変えるのに遅すぎることはない。"
+    },
+    {
+      "source": "original",
+      "label": "regret とのちがい",
+      "en": "I regret missing the bus, but I don't need to repent of it.",
+      "ja": "バスに乗り遅れたのは残念だが、悔い改めるほどのことではない。"
+    },
+    {
+      "source": "original",
+      "label": "repentance",
+      "en": "The judge saw no sign of repentance in him.",
+      "ja": "裁判官は彼に反省の色を少しも見なかった。"
+    }
+  ],
+  "check_points": [
+    "repent of A の型を言えるか",
+    "regret とのちがい(罪・悪い行いを悔いて改める)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "regret との意味のちがいと、repent of A の型が語法問題・長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2566
+    }
+  ]
+}

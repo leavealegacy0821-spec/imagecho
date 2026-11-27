@@ -1,0 +1,94 @@
+{
+  "word": "accelerate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əkˈseləreɪt/",
+  "core_image": {
+    "text": "アクセルを踏むように、進む速さをどんどん上げる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"20\" y=\"108\" width=\"50\" height=\"22\"/><circle cx=\"32\" cy=\"134\" r=\"6\"/><circle cx=\"58\" cy=\"134\" r=\"6\"/><line x1=\"80\" y1=\"100\" x2=\"110\" y2=\"100\"/><polyline points=\"103,96.2 110,100 103,103.8\"/><line x1=\"80\" y1=\"112\" x2=\"150\" y2=\"112\"/><polyline points=\"143,108.2 150,112 143,115.8\"/><line x1=\"80\" y1=\"124\" x2=\"200\" y2=\"124\"/><polyline points=\"193,120.2 200,124 193,127.8\"/></g><text x=\"150\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どんどん速く</text></svg>"
+  },
+  "etymology": "ラテン語 ad(〜へ)+ celer(速い)→ 速さを加える → ①(車などが)加速する ②(変化・成長・過程を)早める・促進する(accelerator=アクセル)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move faster; to make something happen faster or sooner."
+    }
+  ],
+  "cautions": [
+    "自動詞も他動詞も:The car accelerated.=車が加速した/accelerate growth=成長を加速させる",
+    "「速度」だけでなく変化・過程に使う:accelerate global warming=温暖化を加速させる",
+    "hasten=(堅く)時期を早める/expedite=手続きを早く片づける/accelerate=進む速さそのものを上げていく",
+    "反対の語は decelerate / slow down。名詞 acceleration=加速"
+  ],
+  "patterns": [
+    {
+      "form": "A accelerate(s)",
+      "meaning": "A が加速する"
+    },
+    {
+      "form": "accelerate A",
+      "meaning": "A を加速させる・早める"
+    },
+    {
+      "form": "accelerate the process",
+      "meaning": "過程を早める"
+    },
+    {
+      "form": "an accelerating pace",
+      "meaning": "加速するペース"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "加速する",
+      "en": "The train accelerated as it left the station.",
+      "ja": "列車は駅を出るとスピードを上げた。"
+    },
+    {
+      "source": "original",
+      "label": "accelerate A",
+      "en": "Heat accelerates the chemical reaction.",
+      "ja": "熱はその化学反応を速める。"
+    },
+    {
+      "source": "original",
+      "label": "変化を",
+      "en": "Social media has accelerated the spread of false news.",
+      "ja": "SNS はうその情報が広まる速さを加速させた。"
+    },
+    {
+      "source": "original",
+      "label": "the process",
+      "en": "The company used robots to accelerate the process.",
+      "ja": "その会社は工程を早めるためにロボットを使った。"
+    },
+    {
+      "source": "original",
+      "label": "an accelerating pace",
+      "en": "Technology is changing at an accelerating pace.",
+      "ja": "技術は加速度的なペースで変化している。"
+    },
+    {
+      "source": "original",
+      "label": "温暖化",
+      "en": "Cutting down forests may accelerate global warming.",
+      "ja": "森林を伐採すると地球温暖化が加速するかもしれない。"
+    }
+  ],
+  "check_points": [
+    "自動詞・他動詞の両方で使えるか",
+    "hasten・expedite とのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「(変化・過程を)加速させる・促進する」の意味が長文・語い問題で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2561
+    }
+  ]
+}

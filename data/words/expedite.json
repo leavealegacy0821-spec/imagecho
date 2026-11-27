@@ -1,0 +1,94 @@
+{
+  "word": "expedite",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈekspədaɪt/",
+  "core_image": {
+    "text": "足かせを外して、手続きをさっさと進める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"90\" width=\"40\" height=\"30\"/><line x1=\"30\" y1=\"105\" x2=\"70\" y2=\"105\"/><line x1=\"110\" y1=\"70\" x2=\"110\" y2=\"140\"/><line x1=\"150\" y1=\"70\" x2=\"150\" y2=\"140\"/><line x1=\"76\" y1=\"105\" x2=\"190\" y2=\"105\"/><polyline points=\"183,101.2 190,105 183,108.8\"/><circle cx=\"214\" cy=\"52\" r=\"10\"/><line x1=\"214\" y1=\"62\" x2=\"214\" y2=\"106\"/><line x1=\"214\" y1=\"106\" x2=\"204\" y2=\"140\"/><line x1=\"214\" y1=\"106\" x2=\"224\" y2=\"140\"/><line x1=\"214\" y1=\"74\" x2=\"200\" y2=\"56\"/><line x1=\"214\" y1=\"74\" x2=\"228\" y2=\"56\"/></g><text x=\"50\" y=\"72\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">書類</text><text x=\"130\" y=\"56\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">さっと通す</text></svg>"
+  },
+  "etymology": "ラテン語 ex(外へ)+ pes, ped-(足。pedal と同じ)→ からまった足を外して自由にする → じゃまを取って進みを速める → (手続き・処理・発送を)はかどらせる・早める",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make a process or action happen more quickly."
+    }
+  ],
+  "cautions": [
+    "目的語は「手続き・処理・発送・計画」など仕事の進行:expedite the process / delivery",
+    "人を目的語にしない(× expedite him)。かたい事務的な語",
+    "accelerate=進む速さを上げていく/hasten=時期を早める/expedite=じゃまを取りのぞいて仕事をさっと片づける",
+    "反対のイメージは impede(足をからめて妨げる)。同じ ped-(足)の語"
+  ],
+  "patterns": [
+    {
+      "form": "expedite the process",
+      "meaning": "手続きを早める"
+    },
+    {
+      "form": "expedite delivery / shipping",
+      "meaning": "配送を早める"
+    },
+    {
+      "form": "expedite a decision",
+      "meaning": "決定を早める"
+    },
+    {
+      "form": "in order to expedite A",
+      "meaning": "A を早めるために"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "手続きを",
+      "en": "We hired a lawyer to expedite the process.",
+      "ja": "手続きを早めるために私たちは弁護士を雇った。"
+    },
+    {
+      "source": "original",
+      "label": "配送を",
+      "en": "For an extra fee, they will expedite delivery.",
+      "ja": "追加料金を払えば配送を早めてくれる。"
+    },
+    {
+      "source": "original",
+      "label": "決定を",
+      "en": "The new rules are meant to expedite decisions.",
+      "ja": "新しい規則は決定を早めるためのものだ。"
+    },
+    {
+      "source": "original",
+      "label": "in order to",
+      "en": "Online forms were introduced in order to expedite applications.",
+      "ja": "申請をはかどらせるためにオンラインの書式が導入された。"
+    },
+    {
+      "source": "original",
+      "label": "impede とのちがい",
+      "en": "Too many rules impede the work; clear rules expedite it.",
+      "ja": "規則が多すぎると仕事が妨げられ、わかりやすい規則なら仕事がはかどる。"
+    },
+    {
+      "source": "original",
+      "label": "事務的な語",
+      "en": "Could you expedite my visa application?",
+      "ja": "ビザの申請を急いで処理していただけますか。"
+    }
+  ],
+  "check_points": [
+    "目的語が「手続き・配送」などになるとわかるか",
+    "impede(妨げる)との対比を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「(手続きを)早める」の意味と、同じ語根の impede との対比が語い問題で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2562
+    }
+  ]
+}

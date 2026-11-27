@@ -1,0 +1,103 @@
+{
+  "word": "wreck",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/rek/",
+  "core_image": {
+    "text": "ぶつかって、形がなくなるほどぐしゃっと壊す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"104\" width=\"70\" height=\"26\"/><circle cx=\"46\" cy=\"134\" r=\"6\"/><circle cx=\"86\" cy=\"134\" r=\"6\"/><line x1=\"112\" y1=\"60\" x2=\"112\" y2=\"140\"/><polyline points=\"100,104 108,112 100,118 108,126\"/><line x1=\"20\" y1=\"96\" x2=\"60\" y2=\"96\"/><polyline points=\"53,92.2 60,96 53,99.8\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"160\" y2=\"62\"/><line x1=\"180\" y1=\"74\" x2=\"200\" y2=\"62\"/></g><text x=\"56\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぐしゃっ</text><text x=\"190\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">台なし</text></svg>"
+  },
+  "etymology": "古ノルド語 wrek(打ち上げられた難破船の残がい)→ 船が岩にぶつかってばらばらになる → 形がなくなるほど壊す → ①(車・船・建物などを)大破させる ②(計画・人生・関係を)台なしにする ③(名詞:)難破船・残がい・ぼろぼろの人",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to damage something so badly that it is destroyed or cannot be used."
+    },
+    {
+      "pos": "名詞",
+      "text": "a vehicle, ship, or building that has been badly damaged or destroyed."
+    }
+  ],
+  "cautions": [
+    "物だけでなく計画・人生・健康にも使う:wreck one's plans / career=計画・経歴を台なしにする",
+    "名詞 a wreck は「残がい」のほか「(心身が)ぼろぼろの人」:I was a nervous wreck.=緊張でボロボロだった",
+    "destroy=元に戻らないほど壊す(広い)/wreck=衝突・事故のように一気にぐしゃっと壊す/ruin=価値をなくしてめちゃくちゃにする",
+    "形容詞 wrecked=大破した、名詞 wreckage=(集まった)残がい(不可算)"
+  ],
+  "patterns": [
+    {
+      "form": "wreck a car / ship",
+      "meaning": "車・船を大破させる"
+    },
+    {
+      "form": "wreck one's plans",
+      "meaning": "計画を台なしにする"
+    },
+    {
+      "form": "wreck one's life / career",
+      "meaning": "人生・経歴をめちゃくちゃにする"
+    },
+    {
+      "form": "be wrecked",
+      "meaning": "大破する・難破する"
+    },
+    {
+      "form": "a nervous wreck",
+      "meaning": "神経がまいってぼろぼろの人"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "大破させる",
+      "en": "The storm wrecked dozens of fishing boats.",
+      "ja": "嵐で何十隻もの漁船が大破した。"
+    },
+    {
+      "source": "original",
+      "label": "be wrecked",
+      "en": "The ship was wrecked on the rocks near the coast.",
+      "ja": "その船は海岸近くの岩で難破した。"
+    },
+    {
+      "source": "original",
+      "label": "計画を",
+      "en": "The sudden rain wrecked our plans for a picnic.",
+      "ja": "急な雨でピクニックの計画が台なしになった。"
+    },
+    {
+      "source": "original",
+      "label": "人生を",
+      "en": "He wrecked his career by lying to the public.",
+      "ja": "彼は国民にうそをついて自分の経歴をめちゃくちゃにした。"
+    },
+    {
+      "source": "original",
+      "label": "名詞:残がい",
+      "en": "Divers found the wreck of an old ship on the sea floor.",
+      "ja": "ダイバーたちは海底で古い船の残がいを見つけた。"
+    },
+    {
+      "source": "original",
+      "label": "a nervous wreck",
+      "en": "Before the exam, I was a nervous wreck.",
+      "ja": "試験の前、私は緊張でぼろぼろだった。"
+    }
+  ],
+  "check_points": [
+    "wreck one's plans(計画を台なしにする)を言えるか",
+    "destroy・ruin とのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「計画・人生を台なしにする」の比ゆ的な意味と、名詞 wreck / wreckage(残がい)が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2558
+    }
+  ]
+}

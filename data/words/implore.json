@@ -1,0 +1,93 @@
+{
+  "word": "implore",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪmˈplɔːr/",
+  "core_image": {
+    "text": "涙ながらに、すがりつくように「どうか」と頼みこむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"100\" y2=\"58\"/><line x1=\"70\" y1=\"74\" x2=\"100\" y2=\"66\"/><line x1=\"108\" y1=\"62\" x2=\"146\" y2=\"62\"/><polyline points=\"139,58.2 146,62 139,65.8\"/><circle cx=\"172\" cy=\"52\" r=\"10\"/><line x1=\"172\" y1=\"62\" x2=\"172\" y2=\"106\"/><line x1=\"172\" y1=\"106\" x2=\"162\" y2=\"140\"/><line x1=\"172\" y1=\"106\" x2=\"182\" y2=\"140\"/><line x1=\"172\" y1=\"74\" x2=\"160\" y2=\"98\"/><line x1=\"172\" y1=\"74\" x2=\"184\" y2=\"98\"/></g><text x=\"56\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どうか…!</text><text x=\"200\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">うーん</text></svg>"
+  },
+  "etymology": "ラテン語 in(〜に向かって)+ plorare(声をあげて泣く。deplore と同じ)→ 相手に向かって泣いて頼む → (人に〜するよう)懇願する・嘆願する(implore A to do)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to ask someone to do something in a very emotional way, because you want it very much."
+    }
+  ],
+  "cautions": [
+    "implore A to do=A に〜してくれと懇願する。implore A for B=A に B を乞う",
+    "ask=頼む(ふつう)/beg=へりくだって必死に頼む/plead=(不利な立場で)必死に訴える/implore=感情をこめて涙ながらに頼む(かたく強い)",
+    "deplore(嘆いて非難する)と同じ plorare(泣く)の語。im-(向かって)とde-(すっかり)のちがいで意味が分かれる"
+  ],
+  "patterns": [
+    {
+      "form": "implore A to do",
+      "meaning": "A に〜してくれと懇願する"
+    },
+    {
+      "form": "implore A for B",
+      "meaning": "A に B を乞う"
+    },
+    {
+      "form": "implore A not to do",
+      "meaning": "A に〜しないでと懇願する"
+    },
+    {
+      "form": "an imploring look",
+      "meaning": "すがるような目つき"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "implore A to do",
+      "en": "She implored the doctor to save her son.",
+      "ja": "彼女は息子を助けてくれと医者に懇願した。"
+    },
+    {
+      "source": "original",
+      "label": "not to do",
+      "en": "He implored her not to leave.",
+      "ja": "彼は行かないでくれと彼女に頼みこんだ。"
+    },
+    {
+      "source": "original",
+      "label": "implore A for B",
+      "en": "The villagers implored the king for help.",
+      "ja": "村人たちは王に助けを乞うた。"
+    },
+    {
+      "source": "original",
+      "label": "引用文で",
+      "en": "\"Please, give me one more chance,\" he implored.",
+      "ja": "「どうか、もう一度だけチャンスをください」と彼は懇願した。"
+    },
+    {
+      "source": "original",
+      "label": "an imploring look",
+      "en": "The puppy gave me an imploring look.",
+      "ja": "子犬はすがるような目で私を見た。"
+    },
+    {
+      "source": "original",
+      "label": "beg とのちがい",
+      "en": "The child begged for candy, but the mother implored the judge to free her husband.",
+      "ja": "子どもはお菓子をねだったが、母親は夫を釈放してくれと裁判官に涙ながらに懇願した。"
+    }
+  ],
+  "check_points": [
+    "implore A to do の型を言えるか",
+    "beg・plead とのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "implore A to do の型と、beg / plead / urge など「頼む」の語との使い分けが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2567
+    }
+  ]
+}

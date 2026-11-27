@@ -1,0 +1,94 @@
+{
+  "word": "deplore",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈplɔːr/",
+  "core_image": {
+    "text": "ひどいことを前に「なげかわしい」と強く非難する",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"104\" y2=\"90\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"98\"/><polygon points=\"130,140 150,110 170,124 190,104 210,140\"/><line x1=\"150\" y1=\"110\" x2=\"160\" y2=\"140\"/><line x1=\"190\" y1=\"104\" x2=\"180\" y2=\"140\"/></g><text x=\"60\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">なげかわしい</text><text x=\"180\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひどい状態</text></svg>"
+  },
+  "etymology": "ラテン語 de(すっかり)+ plorare(声をあげて泣く)→ 大声で嘆く → 「こんなことはあってはならない」と嘆き悲しむ → ①(行為・状況を)強く非難する・遺憾に思う(公式の声明でよく使う)→ deplorable=なげかわしい・ひどい",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say or think that something is very bad and should not be allowed."
+    }
+  ],
+  "cautions": [
+    "目的語は人ではなく行為・状況が多い:deplore the violence / the decision",
+    "進行形にしない。政府・団体の声明で「遺憾に思う・強く非難する」の意味でよく出る",
+    "lament=失ったものを悲しんで嘆く/deplore=悪いことを道徳的に「許せない」と非難する/condemn=はっきり悪いと宣告する",
+    "形容詞 deplorable=なげかわしい・ひどい(deplorable conditions=劣悪な環境)"
+  ],
+  "patterns": [
+    {
+      "form": "deplore the violence",
+      "meaning": "暴力を強く非難する"
+    },
+    {
+      "form": "deplore A's decision",
+      "meaning": "A の決定を遺憾に思う"
+    },
+    {
+      "form": "deplorable conditions",
+      "meaning": "なげかわしい(劣悪な)状況"
+    },
+    {
+      "form": "It is deplorable that …",
+      "meaning": "〜とはなげかわしい"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "暴力を",
+      "en": "The president deplored the violence in the streets.",
+      "ja": "大統領は街での暴力を強く非難した。"
+    },
+    {
+      "source": "original",
+      "label": "決定を",
+      "en": "Many teachers deplored the decision to cut the budget.",
+      "ja": "多くの教師が予算を削る決定を遺憾に思った。"
+    },
+    {
+      "source": "original",
+      "label": "声明で",
+      "en": "The two countries issued a statement deploring the attack.",
+      "ja": "両国はその攻撃を強く非難する声明を出した。"
+    },
+    {
+      "source": "original",
+      "label": "deplorable",
+      "en": "The workers lived in deplorable conditions.",
+      "ja": "労働者たちは劣悪な環境で暮らしていた。"
+    },
+    {
+      "source": "original",
+      "label": "It is deplorable that",
+      "en": "It is deplorable that so many children go hungry.",
+      "ja": "これほど多くの子どもが飢えているとはなげかわしい。"
+    },
+    {
+      "source": "original",
+      "label": "lament とのちがい",
+      "en": "We lament the loss of the forest, and we deplore the illegal logging that caused it.",
+      "ja": "私たちは森がなくなったことを嘆き、それを招いた違法な伐採を強く非難する。"
+    }
+  ],
+  "check_points": [
+    "目的語が行為・状況になるとわかるか",
+    "形容詞 deplorable の意味がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "「強く非難する・遺憾に思う」の意味と、deplorable(なげかわしい)が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2565
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "word": "precipitate",
+  "pos": [
+    "動詞",
+    "形容詞",
+    "名詞"
+  ],
+  "ipa": "/prɪˈsɪpɪteɪt/",
+  "core_image": {
+    "text": "崖から真っ逆さまに突き落とすように、事を一気に起こす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"10,100 100,100 100,140\"/><circle cx=\"60\" cy=\"12\" r=\"10\"/><line x1=\"60\" y1=\"22\" x2=\"60\" y2=\"66\"/><line x1=\"60\" y1=\"66\" x2=\"50\" y2=\"100\"/><line x1=\"60\" y1=\"66\" x2=\"70\" y2=\"100\"/><line x1=\"60\" y1=\"34\" x2=\"88\" y2=\"44\"/><line x1=\"60\" y1=\"34\" x2=\"48\" y2=\"56\"/><circle cx=\"110\" cy=\"92\" r=\"8\"/><line x1=\"116\" y1=\"100\" x2=\"150\" y2=\"136\"/><polyline points=\"148,128.3 150,136 142.4,133.5\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まっさかさま</text><text x=\"190\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">一気に</text></svg>"
+  },
+  "etymology": "ラテン語 prae(前へ)+ caput(頭。capital と同じ)→ 頭から真っ逆さまに落とす → ①(悪いことを)急に引き起こす・早める ②(形容詞:)早まった・軽率な ③(化学で)沈殿させる/沈殿物(上から落ちてたまる)→ precipitation=降水(量)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make something, especially something bad, happen suddenly or sooner than expected."
+    },
+    {
+      "pos": "形容詞",
+      "text": "done too quickly, without enough thought."
+    },
+    {
+      "pos": "名詞",
+      "text": "a solid substance that separates from a liquid in a chemical reaction."
+    }
+  ],
+  "cautions": [
+    "目的語はふつう悪いこと:precipitate a crisis / war=危機・戦争を急に引き起こす",
+    "形容詞は「早まった・軽率な」:a precipitate decision。発音は /-tət/ になる",
+    "cause=引き起こす(広い)/trigger=引き金を引いてきっかけになる/precipitate=時期を早めて一気に起こしてしまう",
+    "名詞 precipitation=降水(量)は長文頻出。the annual precipitation=年間降水量"
+  ],
+  "patterns": [
+    {
+      "form": "precipitate a crisis",
+      "meaning": "危機を急に引き起こす"
+    },
+    {
+      "form": "precipitate A into B",
+      "meaning": "A を B(悪い状態)へ一気に陥れる"
+    },
+    {
+      "form": "a precipitate decision",
+      "meaning": "早まった決定"
+    },
+    {
+      "form": "precipitation",
+      "meaning": "降水(量)"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "引き起こす",
+      "en": "The bank's failure precipitated an economic crisis.",
+      "ja": "その銀行の破たんが経済危機を一気に引き起こした。"
+    },
+    {
+      "source": "original",
+      "label": "早める",
+      "en": "His illness precipitated his decision to retire.",
+      "ja": "病気のせいで彼は引退の決断を早めることになった。"
+    },
+    {
+      "source": "original",
+      "label": "precipitate A into B",
+      "en": "The attack precipitated the country into war.",
+      "ja": "その攻撃でその国は一気に戦争へ突入した。"
+    },
+    {
+      "source": "original",
+      "label": "形容詞",
+      "en": "Don't make a precipitate decision; take your time.",
+      "ja": "早まった決定をしないで、時間をかけなさい。"
+    },
+    {
+      "source": "original",
+      "label": "precipitation",
+      "en": "This area gets little precipitation in summer.",
+      "ja": "この地域は夏の降水量が少ない。"
+    },
+    {
+      "source": "original",
+      "label": "trigger とのちがい",
+      "en": "A small event can trigger a crisis, but bad policy precipitated this one.",
+      "ja": "小さなできごとが危機のきっかけになることもあるが、今回の危機を一気に早めたのはまずい政策だった。"
+    }
+  ],
+  "check_points": [
+    "目的語が悪いこと(危機・戦争)になるとわかるか",
+    "precipitation=降水(量)を知っているか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "動詞「(悪いことを)急に引き起こす」と、名詞 precipitation(降水量)が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2563
+    }
+  ]
+}
