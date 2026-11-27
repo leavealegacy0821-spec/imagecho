@@ -1,0 +1,94 @@
+{
+  "word": "convene",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kənˈviːn/",
+  "core_image": {
+    "text": "決まった目的のために、正式に人を一か所に呼び集める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"80\" y=\"100\" width=\"80\" height=\"6\"/><line x1=\"88\" y1=\"106\" x2=\"88\" y2=\"140\"/><line x1=\"152\" y1=\"106\" x2=\"152\" y2=\"140\"/><line x1=\"30\" y1=\"80\" x2=\"72\" y2=\"98\"/><polyline points=\"67.1,91.7 72,98 64,98.8\"/><line x1=\"210\" y1=\"80\" x2=\"168\" y2=\"98\"/><polyline points=\"176,98.8 168,98 172.9,91.7\"/><line x1=\"120\" y1=\"30\" x2=\"120\" y2=\"90\"/><polyline points=\"123.8,83 120,90 116.2,83\"/></g><text x=\"58\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">正式に</text><text x=\"188\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">会議</text></svg>"
+  },
+  "etymology": "ラテン語 con(いっしょに)+ venire(来る)→ いっしょに来る → 目的のために一か所に集まる・集める → ①(会議を)召集する・開く ②(委員会・議会が)開かれる・集まる。名詞 convention=集会・しきたり",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to arrange a formal meeting; (of a group) to come together for a formal meeting."
+    }
+  ],
+  "cautions": [
+    "他動詞「(会議を)召集する」:convene a meeting / a conference、自動詞「(会が)開かれる」:The committee will convene next week.",
+    "gather / assemble より「正式な会議のために」の感じが強い",
+    "名詞 convention は「大会・集会」と「しきたり・慣習(みんなが集まって決めたもの)」の両方。形容詞 conventional=型どおりの",
+    "summon=(1人を)呼び出す/convene=(会議のメンバーを)正式に集める"
+  ],
+  "patterns": [
+    {
+      "form": "convene a meeting",
+      "meaning": "会議を召集する"
+    },
+    {
+      "form": "A convenes",
+      "meaning": "(会・議会が)開かれる"
+    },
+    {
+      "form": "convene to do",
+      "meaning": "〜するために集まる"
+    },
+    {
+      "form": "convention",
+      "meaning": "大会・しきたり"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "召集する",
+      "en": "The president convened an emergency meeting.",
+      "ja": "大統領は緊急会議を召集した。"
+    },
+    {
+      "source": "original",
+      "label": "自動詞",
+      "en": "The committee will convene again next month.",
+      "ja": "委員会は来月ふたたび開かれる。"
+    },
+    {
+      "source": "original",
+      "label": "convene to do",
+      "en": "World leaders convened to discuss climate change.",
+      "ja": "世界の指導者たちが気候変動を話し合うために集まった。"
+    },
+    {
+      "source": "original",
+      "label": "議会",
+      "en": "Parliament convenes in January.",
+      "ja": "議会は1月に召集される。"
+    },
+    {
+      "source": "original",
+      "label": "名詞 convention",
+      "en": "The annual convention was held in Osaka.",
+      "ja": "年次大会は大阪で開かれた。"
+    },
+    {
+      "source": "original",
+      "label": "gather とのちがい",
+      "en": "Friends gathered in the park, but the board convened in the hall.",
+      "ja": "友人たちは公園に集まったが、理事会はホールで正式に開かれた。"
+    }
+  ],
+  "check_points": [
+    "他動詞・自動詞の両方がわかるか",
+    "convention の2つの意味がわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "政治・国際関係の長文に出る。派生語 convention / conventional も頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2595
+    }
+  ]
+}

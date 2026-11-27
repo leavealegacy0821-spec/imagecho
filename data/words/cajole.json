@@ -1,0 +1,94 @@
+{
+  "word": "cajole",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kəˈdʒoʊl/",
+  "core_image": {
+    "text": "おだてと甘いことばで、うまく言いくるめる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"86\" y2=\"80\"/><line x1=\"60\" y1=\"74\" x2=\"50\" y2=\"96\"/><circle cx=\"92\" cy=\"80\" r=\"5\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"160\" y2=\"96\"/><line x1=\"170\" y1=\"74\" x2=\"180\" y2=\"96\"/><line x1=\"150\" y1=\"118\" x2=\"104\" y2=\"118\" stroke-dasharray=\"5 5\"/><polyline points=\"111,121.8 104,118 111,114.2\"/></g><text x=\"110\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">おだてて</text><text x=\"205\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">その気に</text></svg>"
+  },
+  "etymology": "フランス語 cajoler(おだてる・甘いことばで言い寄る)→ ほめ言葉・甘いことばで気持ちをくすぐる → (しぶる人を)言いくるめて〜させる・おだてて〜させる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to persuade someone to do something by praising them or making promises, often after they have refused."
+    }
+  ],
+  "cautions": [
+    "型は cajole A into doing=A をおだてて〜させる(persuade A to do と同じ意味で、into doing の型が中心)",
+    "反対に cajole A out of B=おだてて A から B を引き出す",
+    "coax=やさしく根気よくなだめる/cajole=おだて・甘いことばで言いくるめる(ややずるさ)/wheedle=甘えてねだる",
+    "名詞 cajolery=おだて・甘言"
+  ],
+  "patterns": [
+    {
+      "form": "cajole A into doing",
+      "meaning": "A をおだてて〜させる"
+    },
+    {
+      "form": "cajole A out of B",
+      "meaning": "A をおだてて B を引き出す"
+    },
+    {
+      "form": "cajole A to do",
+      "meaning": "A を言いくるめて〜させる"
+    },
+    {
+      "form": "cajolery",
+      "meaning": "おだて・甘いことば"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "言いくるめる",
+      "en": "She cajoled her brother into helping with her homework.",
+      "ja": "彼女は弟をおだてて宿題を手伝わせた。"
+    },
+    {
+      "source": "original",
+      "label": "しぶる人を",
+      "en": "After a lot of cajoling, he agreed to sing.",
+      "ja": "さんざんおだてられて、彼はようやく歌うことにした。"
+    },
+    {
+      "source": "original",
+      "label": "cajole A out of B",
+      "en": "He cajoled a few dollars out of his grandmother.",
+      "ja": "彼は祖母をうまく言いくるめて数ドルせしめた。"
+    },
+    {
+      "source": "original",
+      "label": "政治",
+      "en": "The minister tried to cajole the voters with promises.",
+      "ja": "大臣は約束を並べて有権者を言いくるめようとした。"
+    },
+    {
+      "source": "original",
+      "label": "cajole A to do",
+      "en": "We cajoled him to stay a little longer.",
+      "ja": "私たちは彼をおだてて、もう少しいてもらった。"
+    },
+    {
+      "source": "original",
+      "label": "force とのちがい",
+      "en": "You cannot force him, but you might cajole him into it.",
+      "ja": "彼を無理にやらせることはできないが、おだててその気にさせることはできるかもしれない。"
+    }
+  ],
+  "check_points": [
+    "cajole A into doing の型が使えるか",
+    "coax・wheedle とのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "persuade の言いかえとして語い問題・長文に出る。into doing の型がポイント。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2593
+    }
+  ]
+}

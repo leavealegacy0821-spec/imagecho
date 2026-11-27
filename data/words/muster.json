@@ -1,0 +1,99 @@
+{
+  "word": "muster",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈmʌstər/",
+  "core_image": {
+    "text": "散らばった力を、ここ一番で全部かき集める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"108\" y2=\"86\"/><line x1=\"120\" y1=\"74\" x2=\"132\" y2=\"86\"/><circle cx=\"40\" cy=\"60\" r=\"4\"/><circle cx=\"200\" cy=\"60\" r=\"4\"/><circle cx=\"40\" cy=\"118\" r=\"4\"/><circle cx=\"200\" cy=\"118\" r=\"4\"/><line x1=\"48\" y1=\"62\" x2=\"102\" y2=\"76\"/><polyline points=\"96.2,70.5 102,76 94.2,78\"/><line x1=\"192\" y1=\"62\" x2=\"138\" y2=\"76\"/><polyline points=\"145.8,78 138,76 143.8,70.5\"/><line x1=\"48\" y1=\"116\" x2=\"106\" y2=\"100\"/><polyline points=\"98.2,98.2 106,100 100.3,105.6\"/><line x1=\"192\" y1=\"116\" x2=\"134\" y2=\"100\"/><polyline points=\"139.7,105.6 134,100 141.8,98.2\"/></g><text x=\"120\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふりしぼる</text></svg>"
+  },
+  "etymology": "ラテン語 monstrare(見せる。demonstrate と同じ)→ 兵を検閲のために並べて見せる → 召集する → ①(兵・人を)召集する・集める ②(勇気・力・支持を)奮い起こす・かき集める ③pass muster=検閲に通る → 合格する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to find as much support, courage, etc. as you can; to bring people, especially soldiers, together."
+    },
+    {
+      "pos": "名詞",
+      "text": "a gathering of people, especially soldiers, for inspection."
+    }
+  ],
+  "cautions": [
+    "いちばん出るのは muster (up) courage / strength=勇気・力をふりしぼる(summon up と同じ)",
+    "「できるかぎり集める」感じなので all the A one can muster(ありったけの A)の形が多い",
+    "pass muster=合格する・基準を満たす(熟語で問われる)",
+    "gather=集める(ふつう)/amass=大量にため込む/muster=いざという時に必要な力・人をかき集める"
+  ],
+  "patterns": [
+    {
+      "form": "muster (up) courage",
+      "meaning": "勇気をふりしぼる"
+    },
+    {
+      "form": "all the A one can muster",
+      "meaning": "ありったけの A"
+    },
+    {
+      "form": "muster support",
+      "meaning": "支持を集める"
+    },
+    {
+      "form": "pass muster",
+      "meaning": "合格する・基準を満たす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "勇気を",
+      "en": "She mustered up the courage to speak to him.",
+      "ja": "彼女は勇気をふりしぼって彼に話しかけた。"
+    },
+    {
+      "source": "original",
+      "label": "ありったけ",
+      "en": "He pushed the door with all the strength he could muster.",
+      "ja": "彼はありったけの力でドアを押した。"
+    },
+    {
+      "source": "original",
+      "label": "支持を",
+      "en": "The plan failed to muster enough support.",
+      "ja": "その計画は十分な支持を集められなかった。"
+    },
+    {
+      "source": "original",
+      "label": "兵を",
+      "en": "The general mustered his troops before dawn.",
+      "ja": "将軍は夜明け前に部隊を召集した。"
+    },
+    {
+      "source": "original",
+      "label": "pass muster",
+      "en": "His essay did not pass muster with the teacher.",
+      "ja": "彼の作文は先生の基準に達しなかった。"
+    },
+    {
+      "source": "original",
+      "label": "gather とのちがい",
+      "en": "We gathered wood for the fire and mustered the energy to keep walking.",
+      "ja": "私たちはたき火用の木を集め、歩き続ける気力をふりしぼった。"
+    }
+  ],
+  "check_points": [
+    "muster (up) courage の意味がわかるか",
+    "pass muster の意味がわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "muster (up) courage は summon up の言いかえで、pass muster は熟語問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2596
+    }
+  ]
+}

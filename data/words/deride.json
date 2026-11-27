@@ -1,0 +1,94 @@
+{
+  "word": "deride",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈraɪd/",
+  "core_image": {
+    "text": "価値のないものだと見下して、あざ笑う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"112\" width=\"40\" height=\"28\"/><circle cx=\"60\" cy=\"98\" r=\"8\"/><line x1=\"56\" y1=\"106\" x2=\"64\" y2=\"106\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"148\" y2=\"92\"/><line x1=\"170\" y1=\"74\" x2=\"188\" y2=\"92\"/><line x1=\"132\" y1=\"50\" x2=\"92\" y2=\"90\"/><polyline points=\"99.7,87.7 92,90 94.3,82.3\"/></g><text x=\"60\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くだらない</text><text x=\"208\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あざ笑う</text></svg>"
+  },
+  "etymology": "ラテン語 de(下へ)+ ridere(笑う。ridicule と同じ)→ 上から下へ笑う → 見下して笑う → ①(人・考え・計画を)ばかにする・あざ笑う ②deride A as B=A を B だとこき下ろす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say that someone or something is stupid or has no value; to laugh at with contempt."
+    }
+  ],
+  "cautions": [
+    "人だけでなく「考え・計画・作品」をばかにするのによく使う(ridicule とほぼ同じだが、よりかたい)",
+    "型 deride A as B=A を B だとけなす(His idea was derided as unrealistic.)",
+    "受け身で多い:「最初はばかにされたが、のちに認められた」という長文の型が定番",
+    "名詞 derision=あざけり、形容詞 derisive=あざけるような"
+  ],
+  "patterns": [
+    {
+      "form": "deride A",
+      "meaning": "A をあざ笑う・こき下ろす"
+    },
+    {
+      "form": "deride A as B",
+      "meaning": "A を B だとけなす"
+    },
+    {
+      "form": "be derided by A",
+      "meaning": "A にばかにされる"
+    },
+    {
+      "form": "derision",
+      "meaning": "あざけり"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "あざ笑う",
+      "en": "Critics derided the film when it first came out.",
+      "ja": "その映画は公開当初、批評家たちにこき下ろされた。"
+    },
+    {
+      "source": "original",
+      "label": "deride A as B",
+      "en": "His plan was derided as a waste of money.",
+      "ja": "彼の計画はお金のむだだとけなされた。"
+    },
+    {
+      "source": "original",
+      "label": "定番の型",
+      "en": "Many great ideas were derided at first and accepted later.",
+      "ja": "多くの偉大な考えは、最初はばかにされ、のちに受け入れられた。"
+    },
+    {
+      "source": "original",
+      "label": "人を",
+      "en": "The politician derided his opponents as weak.",
+      "ja": "その政治家は対立候補を弱腰だとあざけった。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "His suggestion was met with derision.",
+      "ja": "彼の提案はあざけりで迎えられた。"
+    },
+    {
+      "source": "original",
+      "label": "scorn とのちがい",
+      "en": "They derided the theory in public, and privately scorned its author.",
+      "ja": "彼らは人前でその理論をあざ笑い、内心ではその著者を見下していた。"
+    }
+  ],
+  "check_points": [
+    "考え・計画をけなすのに使えるか",
+    "deride A as B の型が使えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "「当初はあざ笑われた発見」の長文で出る。ridicule / mock の言いかえで問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2589
+    }
+  ]
+}

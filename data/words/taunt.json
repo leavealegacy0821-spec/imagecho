@@ -1,0 +1,99 @@
+{
+  "word": "taunt",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/tɔːnt/",
+  "core_image": {
+    "text": "弱みをつついて、わざと怒らせようとはやし立てる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"60\" y2=\"96\"/><line x1=\"70\" y1=\"74\" x2=\"80\" y2=\"96\"/><line x1=\"50\" y1=\"34\" x2=\"55\" y2=\"40\"/><line x1=\"62\" y1=\"30\" x2=\"63\" y2=\"37\"/><circle cx=\"165\" cy=\"52\" r=\"10\"/><line x1=\"165\" y1=\"62\" x2=\"165\" y2=\"106\"/><line x1=\"165\" y1=\"106\" x2=\"155\" y2=\"140\"/><line x1=\"165\" y1=\"106\" x2=\"175\" y2=\"140\"/><line x1=\"165\" y1=\"74\" x2=\"132\" y2=\"68\"/><line x1=\"165\" y1=\"74\" x2=\"180\" y2=\"58\"/></g><text x=\"115\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やーい</text><text x=\"208\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">挑発</text></svg>"
+  },
+  "etymology": "もとの語源ははっきりしない。→ 相手の痛いところをわざとつつく → 弱み・失敗をつついてからかう → ①(わざと怒らせようと)あざける・挑発する ②(名詞:)あざけり・挑発の言葉",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to say unkind things to someone in order to make them angry or upset."
+    },
+    {
+      "pos": "名詞",
+      "text": "an unkind remark intended to make someone angry or upset."
+    }
+  ],
+  "cautions": [
+    "「相手を怒らせる・傷つける」ねらいがあるのが中心。tease(親しみもあるいじり)より悪意が強い",
+    "型は taunt A about / with B=B のことで A をからかう(He was taunted about his weight.)",
+    "mock=まねして笑いものにする/ridicule=みんなで笑いものにする/taunt=しつこく言葉で挑発する",
+    "名詞 taunts は複数形で「やじ・あざけりの言葉」:the taunts of the crowd"
+  ],
+  "patterns": [
+    {
+      "form": "taunt A",
+      "meaning": "A をあざける・挑発する"
+    },
+    {
+      "form": "taunt A about / with B",
+      "meaning": "B のことで A をからかう"
+    },
+    {
+      "form": "taunt A into doing",
+      "meaning": "A を挑発して〜させる"
+    },
+    {
+      "form": "taunts",
+      "meaning": "あざけり・やじ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "あざける",
+      "en": "The older boys taunted him because he was small.",
+      "ja": "年上の少年たちは、彼が小さいのをからかってはやし立てた。"
+    },
+    {
+      "source": "original",
+      "label": "taunt A about B",
+      "en": "She was taunted about her accent at her new school.",
+      "ja": "彼女は新しい学校でなまりのことをからかわれた。"
+    },
+    {
+      "source": "original",
+      "label": "挑発する",
+      "en": "The players taunted their rivals after scoring a goal.",
+      "ja": "選手たちはゴールを決めたあと、相手をあおった。"
+    },
+    {
+      "source": "original",
+      "label": "taunt A into doing",
+      "en": "They taunted him into jumping into the cold river.",
+      "ja": "彼らにあおられて、彼は冷たい川に飛び込んでしまった。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "He ignored the taunts of the crowd and kept running.",
+      "ja": "彼は観衆のやじを無視して走り続けた。"
+    },
+    {
+      "source": "original",
+      "label": "tease とのちがい",
+      "en": "My sister teases me in fun, but those boys taunt me to hurt me.",
+      "ja": "姉はふざけて私をからかうが、あの少年たちは傷つけるためにあざける。"
+    }
+  ],
+  "check_points": [
+    "「わざと怒らせようとする」悪意がわかるか",
+    "tease・mock とのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "いじめ・スポーツの場面の長文に出る。tease との区別が語いで問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2588
+    }
+  ]
+}

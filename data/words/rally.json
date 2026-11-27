@@ -1,0 +1,99 @@
+{
+  "word": "rally",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈræli/",
+  "core_image": {
+    "text": "ばらばらのものが、もう一度一つにまとまって勢いを取り戻す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"58\"/><line x1=\"70\" y1=\"74\" x2=\"82\" y2=\"58\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"108\" y2=\"58\"/><line x1=\"120\" y1=\"74\" x2=\"132\" y2=\"58\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"158\" y2=\"58\"/><line x1=\"170\" y1=\"74\" x2=\"182\" y2=\"58\"/></g><text x=\"120\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もう一度</text><text x=\"208\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">結集</text></svg>"
+  },
+  "etymology": "古フランス語 re(再び)+ allier(結びつける。ally と同じ)→ 散った兵を再び結びつける → 再びまとまる → ①(人・支持を)結集する・集める ②(名詞:)集会・大会 ③(病人・相場・チームが)持ち直す・巻き返す ④(テニスなどの)ラリー",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to come together or bring people together to support someone or something; to recover strength after a weak period."
+    },
+    {
+      "pos": "名詞",
+      "text": "a large public meeting to support or protest something; a recovery."
+    }
+  ],
+  "cautions": [
+    "「もう一度」の re が核。散ったものが再び集まる → だから「持ち直す・巻き返す」の意味にもなる",
+    "型 rally around / behind A=A のもとに結集する・A を支える(The nation rallied behind the team.)",
+    "名詞 a rally=(政治的な)集会・デモ大会。a peace rally=平和集会",
+    "gather=集める(ふつう)/convene=会議を正式に開く/rally=目的のために支持者がまとまる・勢いを取り戻す"
+  ],
+  "patterns": [
+    {
+      "form": "rally around / behind A",
+      "meaning": "A のもとに結集する"
+    },
+    {
+      "form": "rally support",
+      "meaning": "支持を集める"
+    },
+    {
+      "form": "hold a rally",
+      "meaning": "集会を開く"
+    },
+    {
+      "form": "A rallies",
+      "meaning": "(株価・病人が)持ち直す"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "結集する",
+      "en": "The whole town rallied around the family after the fire.",
+      "ja": "火事のあと、町じゅうがその家族を支えようとまとまった。"
+    },
+    {
+      "source": "original",
+      "label": "支持を",
+      "en": "The candidate is trying to rally support among young voters.",
+      "ja": "その候補者は若い有権者の支持を集めようとしている。"
+    },
+    {
+      "source": "original",
+      "label": "集会",
+      "en": "Thousands of people attended the peace rally.",
+      "ja": "何千人もの人が平和集会に参加した。"
+    },
+    {
+      "source": "original",
+      "label": "持ち直す",
+      "en": "Stock prices rallied after the announcement.",
+      "ja": "その発表のあと株価は持ち直した。"
+    },
+    {
+      "source": "original",
+      "label": "巻き返す",
+      "en": "The team rallied in the second half and won the game.",
+      "ja": "チームは後半に巻き返して試合に勝った。"
+    },
+    {
+      "source": "original",
+      "label": "病人",
+      "en": "The patient rallied briefly but then grew weaker.",
+      "ja": "患者は一時持ち直したが、その後弱っていった。"
+    }
+  ],
+  "check_points": [
+    "「再びまとまる → 持ち直す」のつながりがわかるか",
+    "rally behind A / a rally(集会)がわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "政治(集会)・経済(株価の回復)・スポーツ(巻き返し)の長文に出る多義語。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2597
+    }
+  ]
+}

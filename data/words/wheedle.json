@@ -1,0 +1,94 @@
+{
+  "word": "wheedle",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈwiːdl/",
+  "core_image": {
+    "text": "甘えた声でねだって、ほしいものを引き出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"128\" y2=\"90\"/><line x1=\"150\" y1=\"74\" x2=\"162\" y2=\"96\"/><circle cx=\"122\" cy=\"92\" r=\"5\"/><circle cx=\"76\" cy=\"98\" r=\"8\"/><line x1=\"76\" y1=\"106\" x2=\"76\" y2=\"124\"/><line x1=\"76\" y1=\"124\" x2=\"69\" y2=\"140\"/><line x1=\"76\" y1=\"124\" x2=\"83\" y2=\"140\"/><line x1=\"76\" y1=\"112\" x2=\"98\" y2=\"100\"/><line x1=\"76\" y1=\"112\" x2=\"66\" y2=\"120\"/><path d=\"M88 86 Q96 80 90 72\"/></g><text x=\"56\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ねえねえ</text><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">甘えて</text></svg>"
+  },
+  "etymology": "もとの語源ははっきりしない。→ へつらい・甘えた口調で相手の心をとかす → ①(甘えて・おだてて)ねだり取る ②(人を)うまく丸めこんで〜させる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to persuade someone to do something or give you something by being pleasant to them or flattering them."
+    }
+  ],
+  "cautions": [
+    "型は wheedle B out of A=A から B をねだり取る、wheedle A into doing=A を丸めこんで〜させる",
+    "子どもが親にねだる・お金や情報を引き出す場面が典型。少しずるい感じがある",
+    "coax=やさしく根気よくなだめる/cajole=おだてて言いくるめる/wheedle=甘えた口調でねだって引き出す",
+    "自動詞でも:The child wheedled and whined.(甘えてねだった)"
+  ],
+  "patterns": [
+    {
+      "form": "wheedle B out of A",
+      "meaning": "A から B をねだり取る"
+    },
+    {
+      "form": "wheedle A into doing",
+      "meaning": "A を丸めこんで〜させる"
+    },
+    {
+      "form": "wheedle one's way into A",
+      "meaning": "うまく取り入って A に入りこむ"
+    },
+    {
+      "form": "a wheedling voice",
+      "meaning": "甘えた声"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ねだり取る",
+      "en": "The boy wheedled some money out of his father.",
+      "ja": "男の子は父親に甘えてお金をせしめた。"
+    },
+    {
+      "source": "original",
+      "label": "情報を",
+      "en": "She wheedled the secret out of her friend.",
+      "ja": "彼女は友だちをうまく丸めこんで秘密を聞き出した。"
+    },
+    {
+      "source": "original",
+      "label": "wheedle A into doing",
+      "en": "He wheedled his mother into buying him a new game.",
+      "ja": "彼は母親にねだって、新しいゲームを買ってもらった。"
+    },
+    {
+      "source": "original",
+      "label": "甘えた声",
+      "en": "\"Please, just one more,\" she said in a wheedling voice.",
+      "ja": "「お願い、あと1つだけ」と彼女は甘えた声で言った。"
+    },
+    {
+      "source": "original",
+      "label": "取り入る",
+      "en": "He wheedled his way into the manager's favor.",
+      "ja": "彼はうまく取り入って部長に気に入られた。"
+    },
+    {
+      "source": "original",
+      "label": "cajole とのちがい",
+      "en": "The child wheedled for sweets, while the salesman cajoled us into signing.",
+      "ja": "子どもは甘えてお菓子をねだり、セールスマンは私たちをおだてて契約させた。"
+    }
+  ],
+  "check_points": [
+    "wheedle B out of A の型が使えるか",
+    "「甘えてねだる」感じがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文に出る。coax / cajole の言いかえで問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2594
+    }
+  ]
+}

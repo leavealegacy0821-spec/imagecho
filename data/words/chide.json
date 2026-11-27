@@ -1,0 +1,94 @@
+{
+  "word": "chide",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/tʃaɪd/",
+  "core_image": {
+    "text": "軽く、たしなめるように小言を言う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><line x1=\"80\" y1=\"74\" x2=\"112\" y2=\"70\"/><line x1=\"80\" y1=\"74\" x2=\"70\" y2=\"96\"/><circle cx=\"160\" cy=\"98\" r=\"8\"/><line x1=\"160\" y1=\"106\" x2=\"160\" y2=\"124\"/><line x1=\"160\" y1=\"124\" x2=\"153\" y2=\"140\"/><line x1=\"160\" y1=\"124\" x2=\"167\" y2=\"140\"/><line x1=\"160\" y1=\"112\" x2=\"151\" y2=\"120\"/><line x1=\"160\" y1=\"112\" x2=\"169\" y2=\"120\"/></g><text x=\"135\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こらっ</text><text x=\"208\" y=\"96\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">軽く</text></svg>"
+  },
+  "etymology": "古い英語 cidan(言い争う・とがめる)→ 相手のよくない点を口でとがめる → (やさしく・軽く)しかる・たしなめる・小言を言う",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to speak to someone in a mildly angry or disapproving way because they have done something wrong."
+    }
+  ],
+  "cautions": [
+    "scold より軽く、やわらかい「たしなめる」。親しい人への小言にも使う",
+    "型は chide A for B / doing=B のことで A をたしなめる(for を使う)",
+    "rebuke=上の立場からぴしゃりと叱責/reprimand=正式な処分としてしかる/chide=軽く小言を言う",
+    "かたい書きことば寄り。過去形は chided(古くは chid)"
+  ],
+  "patterns": [
+    {
+      "form": "chide A",
+      "meaning": "A をたしなめる"
+    },
+    {
+      "form": "chide A for B / doing",
+      "meaning": "B のことで A をたしなめる"
+    },
+    {
+      "form": "chide oneself",
+      "meaning": "自分をいましめる"
+    },
+    {
+      "form": "gently chide",
+      "meaning": "やさしくたしなめる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "たしなめる",
+      "en": "My mother chided me for coming home late.",
+      "ja": "母は私の帰りが遅いのを軽くしかった。"
+    },
+    {
+      "source": "original",
+      "label": "やさしく",
+      "en": "The teacher gently chided the students for talking.",
+      "ja": "先生は生徒たちがおしゃべりしているのをやさしくたしなめた。"
+    },
+    {
+      "source": "original",
+      "label": "自分を",
+      "en": "She chided herself for forgetting his birthday.",
+      "ja": "彼女は彼の誕生日を忘れた自分をいましめた。"
+    },
+    {
+      "source": "original",
+      "label": "冗談めかして",
+      "en": "\"You're late again,\" he chided with a smile.",
+      "ja": "「また遅刻だよ」と彼はほほえみながらたしなめた。"
+    },
+    {
+      "source": "original",
+      "label": "政府を",
+      "en": "The report chided the government for its slow response.",
+      "ja": "その報告書は政府の対応の遅さに苦言を呈した。"
+    },
+    {
+      "source": "original",
+      "label": "rebuke とのちがい",
+      "en": "A friend may chide you, but a boss rebukes you.",
+      "ja": "友だちは軽くたしなめるが、上司はぴしゃりと叱責する。"
+    }
+  ],
+  "check_points": [
+    "scold・rebuke より軽いことがわかるか",
+    "chide A for doing の型が使えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文・評論に出る。scold / reproach との言いかえで問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2590
+    }
+  ]
+}

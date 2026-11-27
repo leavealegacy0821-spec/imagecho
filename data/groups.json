@@ -329,7 +329,7 @@
     },
     {
       "title": "使い分け:頼む・求める",
-      "note": "ask=たずねる・頼む ／ request=(丁寧・正式に)お願いする ／ demand=当然として強く要求する ／ urge=強く迫って勧める ／ plead=必死に嘆願する ／ summon=呼び出す・(勇気を)奮い起こす ／ beg=へりくだって必死に頼みこむ(beg A to do) ／ implore=感情をこめて涙ながらに「どうか」と懇願する(implore A to do)",
+      "note": "ask=たずねる・頼む ／ request=(丁寧・正式に)お願いする ／ demand=当然として強く要求する ／ urge=強く迫って勧める ／ plead=必死に嘆願する ／ summon=呼び出す・(勇気を)奮い起こす ／ beg=へりくだって必死に頼みこむ(beg A to do) ／ implore=感情をこめて涙ながらに「どうか」と懇願する(implore A to do) ／ beseech=ひざまずくほどの思いで切に願う(古風・besought) ／ entreat=礼をつくして何度も頼みこむ(entreat A to do)",
       "words": [
         "ask",
         "request",
@@ -338,7 +338,9 @@
         "plead",
         "summon",
         "beg",
-        "implore"
+        "implore",
+        "beseech",
+        "entreat"
       ]
     },
     {
@@ -354,7 +356,7 @@
     },
     {
       "title": "使い分け:説得する",
-      "note": "persuade=説いて行動させる ／ convince=説いて信じさせる ／ induce=誘い込んでさせる ／ dissuade=説いてやめさせる ／ prompt=きっかけを与える ／ tempt=誘惑する ／ coax=やさしく根気よくなだめてその気にさせる ／ lure=えさをちらつかせておびき寄せる ／ entice=魅力で気を引いてその気にさせる",
+      "note": "persuade=説いて行動させる ／ convince=説いて信じさせる ／ induce=誘い込んでさせる ／ dissuade=説いてやめさせる ／ prompt=きっかけを与える ／ tempt=誘惑する ／ coax=やさしく根気よくなだめてその気にさせる ／ lure=えさをちらつかせておびき寄せる ／ entice=魅力で気を引いてその気にさせる ／ cajole=おだてと甘いことばで言いくるめる(cajole A into doing) ／ wheedle=甘えた口調でねだって引き出す(wheedle B out of A)",
       "words": [
         "persuade",
         "convince",
@@ -364,7 +366,9 @@
         "tempt",
         "coax",
         "lure",
-        "entice"
+        "entice",
+        "cajole",
+        "wheedle"
       ]
     },
     {
@@ -479,7 +483,7 @@
     },
     {
       "title": "使い分け:責める",
-      "note": "blame=責任を負わせる(blame A for B) ／ accuse=罪を言い立てる(accuse A of B) ／ criticize=欠点を批判する ／ condemn=厳しく非難・有罪とする ／ scold=(子どもを)しかる ／ charge=罪に問う・告発する ／ reproach=失望をこめてとがめる(reproach A for B) ／ rebuke=上の立場からぴしゃりと叱責する ／ reprimand=上司・役所が正式に処分としてしかる ／ admonish=これからのために穏やかに言い聞かせる(admonish A not to do) ／ censure=議会・団体が公式に「よくない」と判定する ／ denounce=みんなの前で悪だと公然と決めつける・告発する",
+      "note": "blame=責任を負わせる(blame A for B) ／ accuse=罪を言い立てる(accuse A of B) ／ criticize=欠点を批判する ／ condemn=厳しく非難・有罪とする ／ scold=(子どもを)しかる ／ charge=罪に問う・告発する ／ reproach=失望をこめてとがめる(reproach A for B) ／ rebuke=上の立場からぴしゃりと叱責する ／ reprimand=上司・役所が正式に処分としてしかる ／ admonish=これからのために穏やかに言い聞かせる(admonish A not to do) ／ censure=議会・団体が公式に「よくない」と判定する ／ denounce=みんなの前で悪だと公然と決めつける・告発する ／ chide=軽くたしなめるように小言を言う(chide A for doing)",
       "words": [
         "blame",
         "accuse",
@@ -492,7 +496,8 @@
         "reprimand",
         "admonish",
         "censure",
-        "denounce"
+        "denounce",
+        "chide"
       ]
     },
     {
@@ -890,7 +895,7 @@
     },
     {
       "title": "使い分け:集める・ためる",
-      "note": "gather=散らばったものを集める ／ assemble=部品・人を組み立てる・集める ／ accumulate=少しずつたまる ／ store=取っておく ／ stock=在庫として蓄える ／ compile=集めて1つにまとめる ／ hoard=人に見せずこっそりため込む ／ amass=時間をかけて大きな山に積み上げる ／ stockpile=もしもの時に備えて計画的に備蓄する ／ garner=あちこちから支持・注目などを集めて得る",
+      "note": "gather=散らばったものを集める ／ assemble=部品・人を組み立てる・集める ／ accumulate=少しずつたまる ／ store=取っておく ／ stock=在庫として蓄える ／ compile=集めて1つにまとめる ／ hoard=人に見せずこっそりため込む ／ amass=時間をかけて大きな山に積み上げる ／ stockpile=もしもの時に備えて計画的に備蓄する ／ garner=あちこちから支持・注目などを集めて得る ／ convene=会議のために正式に呼び集める ／ muster=ここ一番で力・勇気・人をかき集める(muster up courage) ／ rally=散ったものが再びまとまって勢いを取り戻す",
       "words": [
         "gather",
         "assemble",
@@ -901,7 +906,10 @@
         "hoard",
         "amass",
         "stockpile",
-        "garner"
+        "garner",
+        "convene",
+        "muster",
+        "rally"
       ]
     },
     {
@@ -3752,14 +3760,16 @@
     },
     {
       "title": "使い分け:ばかにする・からかう",
-      "note": "mock=まねをして笑いものにする ／ tease=ちょっかいを出していじる(親しみもある) ／ ridicule=指さしてみんなで笑いものにする ／ scorn=見下して鼻であしらう(態度に出す) ／ despise=上から見下して心でさげすむ ／ sneer=口のはしをゆがめてふんとばかにする",
+      "note": "mock=まねをして笑いものにする ／ tease=ちょっかいを出していじる(親しみもある) ／ ridicule=指さしてみんなで笑いものにする ／ scorn=見下して鼻であしらう(態度に出す) ／ despise=上から見下して心でさげすむ ／ sneer=口のはしをゆがめてふんとばかにする ／ taunt=弱みをつついてわざと怒らせようとはやし立てる ／ deride=考え・計画を価値がないと見下してあざ笑う(deride A as B)",
       "words": [
         "mock",
         "tease",
         "ridicule",
         "scorn",
         "despise",
-        "sneer"
+        "sneer",
+        "taunt",
+        "deride"
       ]
     },
     {

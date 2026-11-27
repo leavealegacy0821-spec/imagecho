@@ -1,0 +1,94 @@
+{
+  "word": "beseech",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/bɪˈsiːtʃ/",
+  "core_image": {
+    "text": "ひざまずくほどの思いで、「どうか」と切に願う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"84\" r=\"10\"/><line x1=\"80\" y1=\"94\" x2=\"82\" y2=\"118\"/><line x1=\"82\" y1=\"118\" x2=\"88\" y2=\"140\"/><line x1=\"88\" y1=\"139\" x2=\"62\" y2=\"132\"/><line x1=\"81\" y1=\"100\" x2=\"108\" y2=\"84\"/><line x1=\"81\" y1=\"103\" x2=\"110\" y2=\"92\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"160\" y2=\"96\"/><line x1=\"170\" y1=\"74\" x2=\"180\" y2=\"96\"/></g><text x=\"128\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どうか</text><text x=\"44\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">切に</text></svg>"
+  },
+  "etymology": "古い英語 be(強め)+ secan(さがし求める。seek と同じ)→ 強く求める → 身を低くして必死に頼む → (人に)懇願する・嘆願する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to ask someone for something in an anxious, eager or emotional way."
+    }
+  ],
+  "cautions": [
+    "型は beseech A to do / beseech A for B。implore とほぼ同じ意味で、さらに古風・文語的",
+    "不規則変化:beseech - besought - besought(beseeched も使われる)",
+    "beg=へりくだって頼みこむ/implore=涙ながらに懇願する/beseech=神や王に祈るほどの思いで切に願う",
+    "I beseech you=どうかお願いだから(物語・演説で)"
+  ],
+  "patterns": [
+    {
+      "form": "beseech A to do",
+      "meaning": "A に〜してくれと懇願する"
+    },
+    {
+      "form": "beseech A for B",
+      "meaning": "A に B を切に求める"
+    },
+    {
+      "form": "I beseech you",
+      "meaning": "どうかお願いです"
+    },
+    {
+      "form": "beseeching eyes",
+      "meaning": "すがるような目"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "懇願する",
+      "en": "She besought the king to spare her son's life.",
+      "ja": "彼女は王に、息子の命を助けてくれるよう懇願した。"
+    },
+    {
+      "source": "original",
+      "label": "beseech A for B",
+      "en": "The villagers beseeched the government for help.",
+      "ja": "村人たちは政府に助けを切に求めた。"
+    },
+    {
+      "source": "original",
+      "label": "I beseech you",
+      "en": "Listen to me, I beseech you!",
+      "ja": "どうか私の話を聞いてください!"
+    },
+    {
+      "source": "original",
+      "label": "すがる目",
+      "en": "The dog looked at me with beseeching eyes.",
+      "ja": "その犬はすがるような目で私を見た。"
+    },
+    {
+      "source": "original",
+      "label": "祈る",
+      "en": "He besought God for forgiveness.",
+      "ja": "彼は神に許しを請うた。"
+    },
+    {
+      "source": "original",
+      "label": "beg とのちがい",
+      "en": "The boy begged for candy, but the mother besought the doctor to save him.",
+      "ja": "男の子はお菓子をねだったが、母親は医者に息子を救ってくれと切に願った。"
+    }
+  ],
+  "check_points": [
+    "beseech A to do の型が使えるか",
+    "besought の活用がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語・古典的な文章に出る。implore / beg の言いかえで問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2591
+    }
+  ]
+}
