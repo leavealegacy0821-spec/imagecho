@@ -1,0 +1,99 @@
+{
+  "word": "censure",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈsenʃər/",
+  "core_image": {
+    "text": "公の場で審査して、正式に「よくない」と判定する",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"20\" y=\"96\" width=\"100\" height=\"44\"/><circle cx=\"45\" cy=\"84\" r=\"8\"/><circle cx=\"70\" cy=\"84\" r=\"8\"/><circle cx=\"95\" cy=\"84\" r=\"8\"/><line x1=\"124\" y1=\"84\" x2=\"158\" y2=\"72\"/><polyline points=\"150.1,70.7 158,72 152.7,78\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"180\" y2=\"100\"/><line x1=\"190\" y1=\"74\" x2=\"200\" y2=\"100\"/></g><text x=\"70\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">公の場で</text><text x=\"190\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">正式な非難</text></svg>"
+  },
+  "etymology": "ラテン語 censere(評価する・判定する。census=国勢調査 と同じ)→ censor(古代ローマで人の行いを審査した役人)の判定 → 公式に評価して非難する → ①(名詞:)(公式の)非難・譴責 ②(動詞:)(公式に)非難する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to criticize someone or something strongly and officially."
+    },
+    {
+      "pos": "名詞",
+      "text": "strong and official criticism."
+    }
+  ],
+  "cautions": [
+    "censure A for B=B のことで A を(公式に)非難する",
+    "名詞で多い:a vote of censure=問責決議、public censure=世間の非難",
+    "censor(検閲する・検閲官)とつづりが似ているので注意",
+    "criticize=欠点を批判する(一般)/censure=議会・団体などが公式に非難する/condemn=強く非難する・有罪を言い渡す"
+  ],
+  "patterns": [
+    {
+      "form": "censure A for B",
+      "meaning": "B のことで A を非難する"
+    },
+    {
+      "form": "a vote of censure",
+      "meaning": "問責決議"
+    },
+    {
+      "form": "public censure",
+      "meaning": "世間の非難"
+    },
+    {
+      "form": "be censured",
+      "meaning": "(公式に)非難される"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "censure A for",
+      "en": "The committee censured the mayor for misusing public money.",
+      "ja": "委員会は公金を不正に使ったとして市長を非難した。"
+    },
+    {
+      "source": "original",
+      "label": "be censured",
+      "en": "The doctor was censured by the medical association.",
+      "ja": "その医者は医師会から譴責を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "a vote of censure",
+      "en": "The opposition proposed a vote of censure against the minister.",
+      "ja": "野党はその大臣に対する問責決議を提出した。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The company's actions drew strong public censure.",
+      "ja": "その会社の行動は世間から強い非難を浴びた。"
+    },
+    {
+      "source": "original",
+      "label": "criticize とのちがい",
+      "en": "Many people criticized the plan, but only the council could officially censure it.",
+      "ja": "多くの人が計画を批判したが、公式に非難できるのは議会だけだった。"
+    },
+    {
+      "source": "original",
+      "label": "censor とのちがい",
+      "en": "The government censored the news, and the UN censured it for doing so.",
+      "ja": "政府はニュースを検閲し、国連はそのことで政府を非難した。"
+    }
+  ],
+  "check_points": [
+    "censure と censor のちがいを言えるか",
+    "a vote of censure の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "censor との区別、「公式の非難」の意味が長文・語彙で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2550
+    }
+  ]
+}

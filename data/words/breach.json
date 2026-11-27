@@ -1,0 +1,102 @@
+{
+  "word": "breach",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/briːtʃ/",
+  "core_image": {
+    "text": "守りの壁に、ばりっと穴をあけて破る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"110\" y=\"40\" width=\"30\" height=\"40\"/><rect x=\"110\" y=\"100\" width=\"30\" height=\"40\"/><polyline points=\"110,80 118,86 126,80 134,86 140,80\"/><polyline points=\"110,100 118,94 126,100 134,94 140,100\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"54\" y2=\"88\"/><line x1=\"40\" y1=\"74\" x2=\"28\" y2=\"98\"/><line x1=\"60\" y1=\"90\" x2=\"204\" y2=\"90\"/><polyline points=\"197,86.2 204,90 197,93.8\"/></g><text x=\"125\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">壁に穴</text><text x=\"186\" y=\"72\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">破れ目から</text></svg>"
+  },
+  "etymology": "break(こわす)と同じ根 → 破れたところ → ①(名詞:)(壁・堤防の)破れ目・突破口 ②(名詞:)(約束・法・信頼の)違反・破棄 ③(名詞:)(関係の)不和 ④(動詞:)(壁・守りを)破る、(約束・規則を)破る",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an action that breaks a law, rule or agreement, or an opening in a wall or defense."
+    },
+    {
+      "pos": "動詞",
+      "text": "to break a law, rule or agreement, or to make a hole in a wall or defense."
+    }
+  ],
+  "cautions": [
+    "名詞で多い:a breach of contract=契約違反、a breach of trust=背信、a security breach=セキュリティの侵害(情報漏えい)",
+    "動詞 breach an agreement / the wall=協定を破る・壁を破る",
+    "break=こわす(一般)/breach=守られているもの(壁・契約・信頼)に穴をあけて破る/violate=決まりを踏みにじる"
+  ],
+  "patterns": [
+    {
+      "form": "a breach of contract",
+      "meaning": "契約違反"
+    },
+    {
+      "form": "a breach of trust",
+      "meaning": "信頼を裏切ること"
+    },
+    {
+      "form": "a security breach",
+      "meaning": "セキュリティ侵害"
+    },
+    {
+      "form": "in breach of A",
+      "meaning": "A に違反して"
+    },
+    {
+      "form": "breach an agreement",
+      "meaning": "協定を破る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "a breach of contract",
+      "en": "Leaving the job early was a breach of contract.",
+      "ja": "早く仕事を辞めたのは契約違反だった。"
+    },
+    {
+      "source": "original",
+      "label": "a breach of trust",
+      "en": "Telling her secret was a serious breach of trust.",
+      "ja": "彼女の秘密を話したのは重大な裏切りだった。"
+    },
+    {
+      "source": "original",
+      "label": "a security breach",
+      "en": "A security breach exposed the data of a million users.",
+      "ja": "セキュリティ侵害で100万人の利用者のデータがもれた。"
+    },
+    {
+      "source": "original",
+      "label": "破れ目",
+      "en": "The flood water poured through a breach in the river bank.",
+      "ja": "洪水の水は堤防の決壊箇所から流れこんだ。"
+    },
+    {
+      "source": "original",
+      "label": "動詞",
+      "en": "The country breached the peace treaty by attacking first.",
+      "ja": "その国は先に攻撃して平和条約を破った。"
+    },
+    {
+      "source": "original",
+      "label": "in breach of",
+      "en": "The company was found to be in breach of safety rules.",
+      "ja": "その会社は安全規則に違反していると認定された。"
+    }
+  ],
+  "check_points": [
+    "a breach of contract / trust の意味を言えるか",
+    "break との根のつながりを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "a breach of contract / trust、security breach の形で長文に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2554
+    }
+  ]
+}

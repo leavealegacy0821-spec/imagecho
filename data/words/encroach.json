@@ -1,0 +1,94 @@
+{
+  "word": "encroach",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈkroʊtʃ/",
+  "core_image": {
+    "text": "じわじわ少しずつ、人の領分に入りこんでくる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"140\" y=\"60\" width=\"80\" height=\"80\" stroke-dasharray=\"4 4\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"28\" y2=\"98\"/><line x1=\"40\" y1=\"74\" x2=\"52\" y2=\"98\"/><line x1=\"66\" y1=\"110\" x2=\"90\" y2=\"110\"/><polyline points=\"83,106.2 90,110 83,113.8\"/><line x1=\"98\" y1=\"110\" x2=\"122\" y2=\"110\"/><polyline points=\"115,106.2 122,110 115,113.8\"/><line x1=\"130\" y1=\"110\" x2=\"160\" y2=\"110\"/><polyline points=\"153,106.2 160,110 153,113.8\"/></g><text x=\"180\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">他人の領分</text><text x=\"100\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">じわじわ</text></svg>"
+  },
+  "etymology": "古フランス語 en(中へ)+ croc(かぎ・フック。crochet と同じ)→ かぎでひっかけて自分の方へ取る → ①(on / upon A で)(土地・権利・時間を)少しずつ侵す・侵害する ②(海・砂漠などが)じわじわ迫ってくる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to gradually take more of someone's land, rights or time than is right, or to gradually cover more of an area."
+    }
+  ],
+  "cautions": [
+    "自動詞:encroach on / upon A=A を(少しずつ)侵す(×encroach A)",
+    "人だけでなく自然も主語になる:The sea is encroaching on the land.(海が陸地に迫っている)",
+    "名詞 encroachment=侵害・侵食",
+    "trespass=一度境界を越えて入る/encroach=気づかないうちに少しずつ広がって入りこむ"
+  ],
+  "patterns": [
+    {
+      "form": "encroach on A",
+      "meaning": "A を(少しずつ)侵す"
+    },
+    {
+      "form": "encroach upon A's rights",
+      "meaning": "A の権利を侵害する"
+    },
+    {
+      "form": "encroach on A's time",
+      "meaning": "A の時間に食いこむ"
+    },
+    {
+      "form": "encroachment",
+      "meaning": "侵害・侵食"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "encroach on",
+      "en": "The new houses are encroaching on the forest.",
+      "ja": "新しい家々が森にじわじわ広がっている。"
+    },
+    {
+      "source": "original",
+      "label": "自然が主語",
+      "en": "The desert is slowly encroaching on the farmland.",
+      "ja": "砂漠がゆっくりと農地に迫っている。"
+    },
+    {
+      "source": "original",
+      "label": "encroach upon",
+      "en": "The government should not encroach upon the rights of citizens.",
+      "ja": "政府は市民の権利を侵すべきではない。"
+    },
+    {
+      "source": "original",
+      "label": "時間",
+      "en": "Club activities began to encroach on my study time.",
+      "ja": "部活動が勉強時間に食いこみ始めた。"
+    },
+    {
+      "source": "original",
+      "label": "encroachment",
+      "en": "The encroachment of cities on nature threatens wild animals.",
+      "ja": "都市が自然を侵食していることが野生動物をおびやかしている。"
+    },
+    {
+      "source": "original",
+      "label": "trespass とのちがい",
+      "en": "Nobody trespassed, but the neighbor's fence slowly encroached on our garden.",
+      "ja": "だれも侵入はしなかったが、隣の柵が少しずつうちの庭に入りこんできた。"
+    }
+  ],
+  "check_points": [
+    "encroach on / upon の前置詞を言えるか",
+    "trespass とのちがい(少しずつ)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "環境・都市化の長文で encroach on(森・農地に迫る)が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2556
+    }
+  ]
+}

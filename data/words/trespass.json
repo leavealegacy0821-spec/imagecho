@@ -1,0 +1,99 @@
+{
+  "word": "trespass",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈtrespəs/",
+  "core_image": {
+    "text": "境の柵を越えて、人の土地に勝手に入りこむ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"110\" y1=\"96\" x2=\"110\" y2=\"140\"/><line x1=\"130\" y1=\"96\" x2=\"130\" y2=\"140\"/><line x1=\"100\" y1=\"108\" x2=\"140\" y2=\"108\"/><line x1=\"100\" y1=\"124\" x2=\"140\" y2=\"124\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"98\"/><line x1=\"50\" y1=\"74\" x2=\"62\" y2=\"98\"/><line x1=\"66\" y1=\"70\" x2=\"156\" y2=\"70\" stroke-dasharray=\"5 5\"/><polyline points=\"149,66.2 156,70 149,73.8\"/><circle cx=\"184\" cy=\"52\" r=\"10\"/><line x1=\"184\" y1=\"62\" x2=\"184\" y2=\"106\"/><line x1=\"184\" y1=\"106\" x2=\"174\" y2=\"140\"/><line x1=\"184\" y1=\"106\" x2=\"194\" y2=\"140\"/><line x1=\"184\" y1=\"74\" x2=\"174\" y2=\"98\"/><line x1=\"184\" y1=\"74\" x2=\"194\" y2=\"98\"/></g><text x=\"120\" y=\"88\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">立入禁止</text><text x=\"190\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">人の土地</text></svg>"
+  },
+  "etymology": "古フランス語 tres(trans=越えて)+ passer(通る。pass と同じ)→ 境界を越えて通る → ①(他人の土地・建物に)不法侵入する ②(人の時間・好意などに)つけこむ ③(古い言い方で)罪をおかす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to go onto someone's land or into their building without permission."
+    },
+    {
+      "pos": "名詞",
+      "text": "the act of going onto someone's land without permission."
+    }
+  ],
+  "cautions": [
+    "自動詞:trespass on A=A(土地)に不法に立ち入る(×trespass the land)",
+    "No Trespassing=立入禁止(看板の決まり文句)",
+    "名詞 trespasser=不法侵入者",
+    "intrude=招かれていないのに入りこむ(場所・会話・私生活)/trespass=境界のある他人の土地に法的に許されず入る"
+  ],
+  "patterns": [
+    {
+      "form": "trespass on A",
+      "meaning": "A に不法侵入する"
+    },
+    {
+      "form": "No Trespassing",
+      "meaning": "立入禁止"
+    },
+    {
+      "form": "trespasser",
+      "meaning": "不法侵入者"
+    },
+    {
+      "form": "trespass on A's time",
+      "meaning": "A の時間に甘える"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "trespass on",
+      "en": "The boys were caught trespassing on the farmer's land.",
+      "ja": "少年たちは農家の土地に勝手に入っていて捕まった。"
+    },
+    {
+      "source": "original",
+      "label": "No Trespassing",
+      "en": "There was a sign saying \"No Trespassing\" on the gate.",
+      "ja": "門には「立入禁止」の看板があった。"
+    },
+    {
+      "source": "original",
+      "label": "trespasser",
+      "en": "Trespassers will be reported to the police.",
+      "ja": "不法侵入者は警察に通報されます。"
+    },
+    {
+      "source": "original",
+      "label": "不法侵入",
+      "en": "Climbing over the fence into the school at night is trespassing.",
+      "ja": "夜に柵を越えて学校に入るのは不法侵入だ。"
+    },
+    {
+      "source": "original",
+      "label": "つけこむ",
+      "en": "I don't want to trespass on your kindness any longer.",
+      "ja": "これ以上あなたのご好意に甘えたくありません。"
+    },
+    {
+      "source": "original",
+      "label": "intrude とのちがい",
+      "en": "He didn't trespass on any land, but he intruded into their private lives.",
+      "ja": "彼はどの土地にも不法侵入はしなかったが、彼らの私生活に立ち入った。"
+    }
+  ],
+  "check_points": [
+    "trespass on A の on を言えるか",
+    "No Trespassing の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "No Trespassing の看板表現と trespass on の型が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2555
+    }
+  ]
+}

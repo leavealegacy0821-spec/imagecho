@@ -1,0 +1,102 @@
+{
+  "word": "reprimand",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈreprɪmænd/",
+  "core_image": {
+    "text": "上の立場から、正式にぐっと押さえつけてしかる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"100\" y2=\"66\"/><line x1=\"70\" y1=\"74\" x2=\"58\" y2=\"98\"/><line x1=\"106\" y1=\"66\" x2=\"150\" y2=\"66\"/><polyline points=\"143,62.2 150,66 143,69.8\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"162\" y2=\"100\"/><line x1=\"170\" y1=\"74\" x2=\"178\" y2=\"100\"/></g><text x=\"70\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">公式にしかる</text><text x=\"178\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">記録に残る</text></svg>"
+  },
+  "etymology": "ラテン語 re(元へ)+ premere(押す。press と同じ)→ 押し戻して抑えるべきこと → 上の立場の人が正式に押さえつける → ①(動詞:)(公式に)叱責する・戒告する ②(名詞:)叱責・戒告",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to tell someone officially that they have done something wrong."
+    },
+    {
+      "pos": "名詞",
+      "text": "an official statement telling someone that they have done something wrong."
+    }
+  ],
+  "cautions": [
+    "reprimand A for B / for doing=A を B のことで(正式に)しかる。for を落とさない",
+    "名詞でも使う:receive a reprimand=戒告を受ける、a severe reprimand=厳しい叱責",
+    "scold=(親が子どもを)日常的にしかる/rebuke=その場でぴしゃりと言う/reprimand=上司・役所などが正式に処分としてしかる"
+  ],
+  "patterns": [
+    {
+      "form": "reprimand A for B",
+      "meaning": "B のことで A をしかる"
+    },
+    {
+      "form": "reprimand A for doing",
+      "meaning": "〜したことで A をしかる"
+    },
+    {
+      "form": "be reprimanded",
+      "meaning": "叱責される"
+    },
+    {
+      "form": "receive a reprimand",
+      "meaning": "戒告を受ける"
+    },
+    {
+      "form": "a severe reprimand",
+      "meaning": "厳しい叱責"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "reprimand A for B",
+      "en": "The manager reprimanded him for his careless mistakes.",
+      "ja": "部長は彼の不注意なミスを正式にしかった。"
+    },
+    {
+      "source": "original",
+      "label": "for doing",
+      "en": "The officer was reprimanded for leaving his post.",
+      "ja": "その警官は持ち場を離れたことで戒告を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "She received a written reprimand from the school.",
+      "ja": "彼女は学校から文書で戒告を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "a severe reprimand",
+      "en": "The player got a severe reprimand after the fight.",
+      "ja": "その選手はけんかの後で厳しい叱責を受けた。"
+    },
+    {
+      "source": "original",
+      "label": "scold とのちがい",
+      "en": "My mother scolds me every day, but I have never been reprimanded at work.",
+      "ja": "母には毎日しかられるが、職場で正式に叱責されたことはない。"
+    },
+    {
+      "source": "original",
+      "label": "公式に",
+      "en": "The government reprimanded the company for hiding the data.",
+      "ja": "政府はデータを隠したことでその会社を厳重注意した。"
+    }
+  ],
+  "check_points": [
+    "reprimand A for B の型で言えるか",
+    "scold とのちがい(正式さ)を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "reprimand A for B の for と、「正式に叱責する」の意味が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2548
+    }
+  ]
+}

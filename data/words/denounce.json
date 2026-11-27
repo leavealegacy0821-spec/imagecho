@@ -1,0 +1,98 @@
+{
+  "word": "denounce",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈnaʊns/",
+  "core_image": {
+    "text": "みんなの前で大声で告げて、悪だと決めつける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"84\" y2=\"58\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"98\"/><line x1=\"76\" y1=\"44\" x2=\"94\" y2=\"36\"/><line x1=\"78\" y1=\"52\" x2=\"98\" y2=\"52\"/><line x1=\"104\" y1=\"60\" x2=\"164\" y2=\"60\"/><polyline points=\"157,56.2 164,60 157,63.8\"/><circle cx=\"188\" cy=\"52\" r=\"10\"/><line x1=\"188\" y1=\"62\" x2=\"188\" y2=\"106\"/><line x1=\"188\" y1=\"106\" x2=\"178\" y2=\"140\"/><line x1=\"188\" y1=\"106\" x2=\"198\" y2=\"140\"/><line x1=\"188\" y1=\"74\" x2=\"178\" y2=\"98\"/><line x1=\"188\" y1=\"74\" x2=\"198\" y2=\"98\"/></g><text x=\"56\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">みんなの前で</text><text x=\"188\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">公然と非難</text></svg>"
+  },
+  "etymology": "ラテン語 de(強く)+ nuntiare(告げる。announce と同じ)→ 公に告げ知らせる → ①公然と非難する ②(警察などに)告発する・密告する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to criticize someone or something publicly and strongly, or to tell the police about someone."
+    }
+  ],
+  "cautions": [
+    "denounce A as B=A を B だと(公然と)非難する(B は名詞・形容詞)",
+    "denounce A to the police=A を警察に告発する",
+    "announce(知らせる)と同じ根だが、denounce は「悪いと公に告げる」",
+    "名詞 denunciation=公然の非難・告発"
+  ],
+  "patterns": [
+    {
+      "form": "denounce A as B",
+      "meaning": "A を B だと非難する"
+    },
+    {
+      "form": "denounce A for B",
+      "meaning": "B のことで A を非難する"
+    },
+    {
+      "form": "denounce A to B",
+      "meaning": "A を B に告発する"
+    },
+    {
+      "form": "publicly denounce",
+      "meaning": "公然と非難する"
+    },
+    {
+      "form": "denunciation",
+      "meaning": "非難・告発"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "denounce A as B",
+      "en": "The newspaper denounced the plan as a waste of money.",
+      "ja": "新聞はその計画をお金のむだだと非難した。"
+    },
+    {
+      "source": "original",
+      "label": "公然と",
+      "en": "Leaders around the world denounced the attack.",
+      "ja": "世界の指導者たちはその攻撃を強く非難した。"
+    },
+    {
+      "source": "original",
+      "label": "denounce A for",
+      "en": "Activists denounced the company for polluting the river.",
+      "ja": "活動家たちは川を汚したとしてその会社を非難した。"
+    },
+    {
+      "source": "original",
+      "label": "denounce A to",
+      "en": "Someone denounced him to the police.",
+      "ja": "だれかが彼を警察に密告した。"
+    },
+    {
+      "source": "original",
+      "label": "announce とのちがい",
+      "en": "The mayor announced the plan, and the citizens denounced it.",
+      "ja": "市長が計画を発表すると、市民はそれを非難した。"
+    },
+    {
+      "source": "original",
+      "label": "denunciation",
+      "en": "His speech was a strong denunciation of racism.",
+      "ja": "彼の演説は人種差別への強い非難だった。"
+    }
+  ],
+  "check_points": [
+    "denounce A as B の型で言えるか",
+    "announce との根のつながりを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "denounce A as B の型と「公然と非難する」の意味が長文で問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2551
+    }
+  ]
+}

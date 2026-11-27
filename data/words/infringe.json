@@ -1,0 +1,98 @@
+{
+  "word": "infringe",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈfrɪndʒ/",
+  "core_image": {
+    "text": "人の権利の線を、少しはみ出して踏み越える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"130\" y=\"60\" width=\"80\" height=\"80\" stroke-dasharray=\"4 4\"/><circle cx=\"90\" cy=\"52\" r=\"10\"/><line x1=\"90\" y1=\"62\" x2=\"90\" y2=\"106\"/><line x1=\"90\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"90\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"90\" y1=\"74\" x2=\"146\" y2=\"84\"/><line x1=\"90\" y1=\"74\" x2=\"78\" y2=\"98\"/></g><text x=\"170\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">他人の権利</text><text x=\"80\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">はみ出して侵す</text></svg>"
+  },
+  "etymology": "ラテン語 in(中へ)+ frangere(こわす。fragile、fraction と同じ)→ 中へこわし入る → ①(法・権利を)侵害する・破る ②(infringe on A で)(自由・領分を)侵す",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to break a law or rule, or to limit someone's rights or freedom."
+    }
+  ],
+  "cautions": [
+    "infringe A(他動詞)=法・権利を侵害する:infringe copyright / a patent",
+    "infringe on / upon A(自動詞)=A(自由・権利)を侵す:infringe on our freedom",
+    "名詞 infringement=侵害(copyright infringement=著作権侵害)",
+    "violate=決まりを踏みにじる(重い違反)/infringe=権利の境界をはみ出して侵す(特許・著作権・自由でよく使う)"
+  ],
+  "patterns": [
+    {
+      "form": "infringe copyright",
+      "meaning": "著作権を侵害する"
+    },
+    {
+      "form": "infringe a patent",
+      "meaning": "特許を侵害する"
+    },
+    {
+      "form": "infringe on A",
+      "meaning": "A を侵す"
+    },
+    {
+      "form": "infringe upon A's rights",
+      "meaning": "A の権利を侵す"
+    },
+    {
+      "form": "infringement",
+      "meaning": "侵害"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "infringe A",
+      "en": "Copying the software infringes the company's copyright.",
+      "ja": "そのソフトをコピーするのは会社の著作権の侵害になる。"
+    },
+    {
+      "source": "original",
+      "label": "infringe on",
+      "en": "The new law infringes on freedom of speech.",
+      "ja": "新しい法律は言論の自由を侵している。"
+    },
+    {
+      "source": "original",
+      "label": "特許",
+      "en": "The firm was sued for infringing a patent.",
+      "ja": "その会社は特許を侵害したとして訴えられた。"
+    },
+    {
+      "source": "original",
+      "label": "infringe upon",
+      "en": "Cameras on every street may infringe upon our privacy.",
+      "ja": "すべての通りにあるカメラは私たちのプライバシーを侵すかもしれない。"
+    },
+    {
+      "source": "original",
+      "label": "infringement",
+      "en": "Downloading movies illegally is copyright infringement.",
+      "ja": "映画を違法にダウンロードすることは著作権侵害だ。"
+    },
+    {
+      "source": "original",
+      "label": "violate とのちがい",
+      "en": "The rule doesn't violate the law, but some say it infringes on students' rights.",
+      "ja": "その規則は法律違反ではないが、生徒の権利を侵すと言う人もいる。"
+    }
+  ],
+  "check_points": [
+    "infringe A と infringe on A の両方の型を言えるか",
+    "copyright infringement の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "infringe on / upon の前置詞と、著作権・特許の侵害の話題で長文に出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2553
+    }
+  ]
+}

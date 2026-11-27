@@ -1,0 +1,102 @@
+{
+  "word": "violate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈvaɪəleɪt/",
+  "core_image": {
+    "text": "守るべき決まりや約束を、力ずくで踏みにじる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"88\" y2=\"80\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"98\"/><line x1=\"94\" y1=\"84\" x2=\"124\" y2=\"84\"/><polyline points=\"117,80.2 124,84 117,87.8\"/><rect x=\"130\" y=\"40\" width=\"60\" height=\"70\"/><line x1=\"140\" y1=\"56\" x2=\"180\" y2=\"56\"/><line x1=\"140\" y1=\"70\" x2=\"180\" y2=\"70\"/><line x1=\"126\" y1=\"36\" x2=\"194\" y2=\"114\"/></g><text x=\"60\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">踏みにじる</text><text x=\"160\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">決まり・約束</text></svg>"
+  },
+  "etymology": "ラテン語 violare(力をふるう。violence=暴力 と同じ)→ 力ずくで扱う → ①(法・規則・約束を)破る・違反する ②(権利・プライバシーを)侵害する ③(神聖な場所を)けがす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to break a law, rule or agreement, or to fail to respect someone's rights."
+    }
+  ],
+  "cautions": [
+    "他動詞:violate the law / rules / a treaty(×violate against)",
+    "violate A's rights / privacy=A の権利・プライバシーを侵害する",
+    "名詞 violation=違反・侵害(in violation of A=A に違反して)",
+    "break=(日常的に)破る/violate=(法・権利など重いものを)破る・侵害する/infringe=(権利の線を)はみ出して侵す"
+  ],
+  "patterns": [
+    {
+      "form": "violate the law",
+      "meaning": "法律に違反する"
+    },
+    {
+      "form": "violate a rule",
+      "meaning": "規則を破る"
+    },
+    {
+      "form": "violate A's rights",
+      "meaning": "A の権利を侵害する"
+    },
+    {
+      "form": "violate A's privacy",
+      "meaning": "A のプライバシーを侵害する"
+    },
+    {
+      "form": "violation",
+      "meaning": "違反"
+    },
+    {
+      "form": "in violation of A",
+      "meaning": "A に違反して"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "法律",
+      "en": "Companies that violate the law will be fined.",
+      "ja": "法律に違反した会社は罰金を科される。"
+    },
+    {
+      "source": "original",
+      "label": "規則・約束",
+      "en": "He violated the agreement by selling the land.",
+      "ja": "彼はその土地を売って協定を破った。"
+    },
+    {
+      "source": "original",
+      "label": "権利",
+      "en": "Reading other people's messages violates their privacy.",
+      "ja": "他人のメッセージを読むのはプライバシーの侵害だ。"
+    },
+    {
+      "source": "original",
+      "label": "violation",
+      "en": "Using the photo without permission is a violation of copyright.",
+      "ja": "許可なくその写真を使うのは著作権の侵害だ。"
+    },
+    {
+      "source": "original",
+      "label": "in violation of",
+      "en": "The factory was operating in violation of safety rules.",
+      "ja": "その工場は安全規則に違反して操業していた。"
+    },
+    {
+      "source": "original",
+      "label": "break とのちがい",
+      "en": "Breaking a promise to a friend is bad, but violating human rights is a crime.",
+      "ja": "友だちとの約束を破るのも悪いが、人権を侵害するのは犯罪だ。"
+    }
+  ],
+  "check_points": [
+    "violate を他動詞で使えるか(×against)",
+    "名詞 violation と in violation of を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "violate the law / rights の組み合わせと名詞 violation が長文・語彙で頻出。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2552
+    }
+  ]
+}
