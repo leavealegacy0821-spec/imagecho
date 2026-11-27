@@ -1,0 +1,89 @@
+{
+  "word": "make out",
+  "pos": [
+    "句動詞"
+  ],
+  "ipa": "/meɪk ˈaʊt/",
+  "core_image": {
+    "text": "ぼんやりから形をはっきり作り出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><circle cx=\"175\" cy=\"80\" r=\"28\" stroke-dasharray=\"4 5\"/><circle cx=\"175\" cy=\"80\" r=\"8\"/><line x1=\"70\" y1=\"52\" x2=\"140\" y2=\"70\" stroke-dasharray=\"5 5\"/><polyline points=\"134.2,64.5 140,70 132.2,72\"/></g><text x=\"175\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見分ける</text></svg>"
+  },
+  "etymology": "make(作る) + out(はっきり外に) → ぼんやりしたものから形を作り出す → (かろうじて)見分ける・聞き取る・理解する",
+  "en_definitions": [
+    {
+      "pos": "句動詞",
+      "text": "to manage to see, hear or understand something with difficulty."
+    }
+  ],
+  "cautions": [
+    "ふつう can / could と否定・疑問で使う(I couldn't make out ~)",
+    "見る・聞く・読む・理解するのどれにも使う(「かろうじて」の感じ)",
+    "figure out=考えてわかる。make out=感覚でなんとか見分ける",
+    "make A out to be B=AをBだと言う(主張する)"
+  ],
+  "patterns": [
+    {
+      "form": "can't make out A",
+      "meaning": "Aが見分けられない・わからない"
+    },
+    {
+      "form": "make out what ~",
+      "meaning": "何を〜か理解する"
+    },
+    {
+      "form": "make A out to be B",
+      "meaning": "AをBだと言う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "見分ける",
+      "en": "I couldn't make out the sign in the fog.",
+      "ja": "霧で標識が見えなかった。"
+    },
+    {
+      "source": "original",
+      "label": "聞き取る",
+      "en": "Can you make out what he is saying?",
+      "ja": "彼が何を言っているか聞き取れる?"
+    },
+    {
+      "source": "original",
+      "label": "読む",
+      "en": "Her handwriting is hard to make out.",
+      "ja": "彼女の字は読みにくい。"
+    },
+    {
+      "source": "original",
+      "label": "理解する",
+      "en": "I can't make out why she left so suddenly.",
+      "ja": "どうして彼女があんなに急に去ったのかわからない。"
+    },
+    {
+      "source": "original",
+      "label": "言う",
+      "en": "He made himself out to be a great hero.",
+      "ja": "彼は自分を大英雄のように言った。"
+    },
+    {
+      "source": "original",
+      "label": "かろうじて",
+      "en": "In the dark, I could just make out a figure.",
+      "ja": "暗やみの中、人の姿がかろうじて見えた。"
+    }
+  ],
+  "check_points": [
+    "figure out とのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "understand・see・distinguish への言いかえ。"
+  },
+  "lists": [
+    {
+      "name": "イディオム",
+      "number": 11
+    }
+  ]
+}

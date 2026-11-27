@@ -1,0 +1,94 @@
+{
+  "word": "make up for",
+  "pos": [
+    "句動詞"
+  ],
+  "ipa": "/meɪk ˈʌp fɔːr/",
+  "core_image": {
+    "text": "足りない分を作って埋める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"80\" width=\"70\" height=\"30\"/><rect x=\"140\" y=\"80\" width=\"70\" height=\"30\"/><rect x=\"104\" y=\"40\" width=\"32\" height=\"30\" stroke-dasharray=\"4 4\"/><line x1=\"120\" y1=\"72\" x2=\"120\" y2=\"92\"/><polyline points=\"123.8,85 120,92 116.2,85\"/></g><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">うめる</text></svg>"
+  },
+  "etymology": "make up(作り上げる・満たす) + for(〜の分を) → 欠けた分を作って満たす → 埋め合わせる・取り返す・償う",
+  "en_definitions": [
+    {
+      "pos": "句動詞",
+      "text": "to do something good to replace something lost or to correct something bad."
+    }
+  ],
+  "cautions": [
+    "= compensate for",
+    "make up for lost time=遅れを取り戻す",
+    "for を落とさない。make up だけだと「化粧する・でっちあげる・構成する」",
+    "make it up to A=A(人)に償う"
+  ],
+  "patterns": [
+    {
+      "form": "make up for A",
+      "meaning": "Aを埋め合わせる"
+    },
+    {
+      "form": "make up for lost time",
+      "meaning": "遅れを取り戻す"
+    },
+    {
+      "form": "make up for the loss",
+      "meaning": "損失を補う"
+    },
+    {
+      "form": "make it up to A",
+      "meaning": "Aに償う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "取り戻す",
+      "en": "I have to study hard to make up for lost time.",
+      "ja": "遅れを取り戻すために一生懸命勉強しなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "補う",
+      "en": "His hard work makes up for his lack of talent.",
+      "ja": "彼の努力が才能の不足を補っている。"
+    },
+    {
+      "source": "original",
+      "label": "損失",
+      "en": "Nothing can make up for the loss of a friend.",
+      "ja": "友を失ったことは何物でも埋め合わせられない。"
+    },
+    {
+      "source": "original",
+      "label": "償う",
+      "en": "I'm sorry I missed your party. I'll make it up to you.",
+      "ja": "パーティーに行けなくてごめん。埋め合わせするよ。"
+    },
+    {
+      "source": "original",
+      "label": "言いかえ",
+      "en": "The bonus compensated for the extra work. = It made up for it.",
+      "ja": "ボーナスが余分な仕事の埋め合わせになった。"
+    },
+    {
+      "source": "original",
+      "label": "比較",
+      "en": "She makes up stories, but she can't make up for her mistakes that way.",
+      "ja": "彼女は話をでっちあげるが、それでは失敗の埋め合わせにはならない。"
+    }
+  ],
+  "check_points": [
+    "compensate for に言いかえられるか",
+    "make up だけの意味とのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "compensate for への言いかえ。"
+  },
+  "lists": [
+    {
+      "name": "イディオム",
+      "number": 20
+    }
+  ]
+}

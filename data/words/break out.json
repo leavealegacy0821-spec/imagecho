@@ -1,0 +1,94 @@
+{
+  "word": "break out",
+  "pos": [
+    "句動詞"
+  ],
+  "ipa": "/breɪk ˈaʊt/",
+  "core_image": {
+    "text": "殻を破って外へ飛び出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"70\" y=\"50\" width=\"100\" height=\"80\"/><polyline points=\"120,50 112,70 128,85 114,105 124,130\"/><line x1=\"135\" y1=\"90\" x2=\"210\" y2=\"60\"/><polyline points=\"202.1,59 210,60 204.9,66.2\"/><line x1=\"105\" y1=\"90\" x2=\"30\" y2=\"60\"/><polyline points=\"35.1,66.2 30,60 37.9,59\"/></g><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">急に起こる</text></svg>"
+  },
+  "etymology": "break(破る) + out(外へ) → 閉じこめられていたものが破って外へ出る → (戦争・火事・病気が)急に起こる/脱走する/(汗・発疹が)ふき出す",
+  "en_definitions": [
+    {
+      "pos": "句動詞",
+      "text": "(of war, fire, disease, etc.) to start suddenly; to escape from a place."
+    }
+  ],
+  "cautions": [
+    "主語は war・fire・fight・epidemic など(人が「起こす」のではない)",
+    "自動詞なので受け身にしない(× The war was broken out)",
+    "名詞 outbreak=(戦争・病気の)発生・勃発",
+    "happen・occur よりも「突然・激しく」"
+  ],
+  "patterns": [
+    {
+      "form": "A breaks out",
+      "meaning": "A(戦争・火事)が起こる"
+    },
+    {
+      "form": "break out of A",
+      "meaning": "Aから脱走する"
+    },
+    {
+      "form": "break out in a sweat",
+      "meaning": "汗がふき出す"
+    },
+    {
+      "form": "the outbreak of A",
+      "meaning": "Aの勃発・発生"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "戦争",
+      "en": "World War II broke out in 1939.",
+      "ja": "第二次世界大戦は1939年に起こった。"
+    },
+    {
+      "source": "original",
+      "label": "火事",
+      "en": "A fire broke out in the kitchen last night.",
+      "ja": "昨夜台所で火事が起きた。"
+    },
+    {
+      "source": "original",
+      "label": "脱走",
+      "en": "Two prisoners broke out of the jail.",
+      "ja": "二人の囚人が刑務所から脱走した。"
+    },
+    {
+      "source": "original",
+      "label": "汗",
+      "en": "He broke out in a cold sweat.",
+      "ja": "彼は冷や汗をかいた。"
+    },
+    {
+      "source": "original",
+      "label": "病気",
+      "en": "A flu epidemic broke out in the city.",
+      "ja": "その市でインフルエンザが流行した。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The outbreak of war changed everything.",
+      "ja": "戦争の勃発がすべてを変えた。"
+    }
+  ],
+  "check_points": [
+    "break out を受け身にしてよいか",
+    "outbreak の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "「戦争・火事が起こる」の空所補充。受け身にする誤りの正誤問題。"
+  },
+  "lists": [
+    {
+      "name": "イディオム",
+      "number": 7
+    }
+  ]
+}

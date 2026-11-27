@@ -1,0 +1,90 @@
+{
+  "word": "look down on",
+  "pos": [
+    "句動詞"
+  ],
+  "ipa": "/lʊk ˈdaʊn ɑːn/",
+  "core_image": {
+    "text": "上から下を見下ろす(軽蔑)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"110\" width=\"70\" height=\"30\"/><circle cx=\"65\" cy=\"22\" r=\"10\"/><line x1=\"65\" y1=\"32\" x2=\"65\" y2=\"76\"/><line x1=\"65\" y1=\"76\" x2=\"55\" y2=\"110\"/><line x1=\"65\" y1=\"76\" x2=\"75\" y2=\"110\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"80\" y1=\"26\" x2=\"165\" y2=\"50\" stroke-dasharray=\"5 5\"/><polyline points=\"159.3,44.4 165,50 157.2,51.8\"/></g><text x=\"132\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見下す</text></svg>"
+  },
+  "etymology": "look(見る) + down(下を) + on(〜に) → 高いところから相手を見下ろす → 見下す・軽蔑する",
+  "en_definitions": [
+    {
+      "pos": "句動詞",
+      "text": "to think that you are better than someone."
+    }
+  ],
+  "cautions": [
+    "= despise・look down upon",
+    "look up to(尊敬する)の反対",
+    "受け身は be looked down on (by A)。on を落とさない",
+    "look down だけなら「下を見る」"
+  ],
+  "patterns": [
+    {
+      "form": "look down on A",
+      "meaning": "Aを見下す"
+    },
+    {
+      "form": "be looked down on",
+      "meaning": "見下される"
+    },
+    {
+      "form": "look down on A for doing",
+      "meaning": "〜するからとAを見下す"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "見下す",
+      "en": "Don't look down on people who are poor.",
+      "ja": "貧しい人を見下すな。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "He was looked down on because he was young.",
+      "ja": "彼は若いので軽く見られた。"
+    },
+    {
+      "source": "original",
+      "label": "for",
+      "en": "She looks down on people for not having a degree.",
+      "ja": "彼女は学位がない人を見下す。"
+    },
+    {
+      "source": "original",
+      "label": "対",
+      "en": "You should never look down on others, but look up to their good points.",
+      "ja": "人を見下さず、よいところを尊敬すべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "言いかえ",
+      "en": "He looks down on his classmates. = He despises them.",
+      "ja": "彼はクラスメートを見下している。"
+    },
+    {
+      "source": "original",
+      "label": "見下す",
+      "en": "Some people look down on manual work.",
+      "ja": "肉体労働を見下す人もいる。"
+    }
+  ],
+  "check_points": [
+    "despise に言いかえられるか",
+    "受け身で on を残せるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "despise への言いかえ。look up to との対。"
+  },
+  "lists": [
+    {
+      "name": "イディオム",
+      "number": 18
+    }
+  ]
+}

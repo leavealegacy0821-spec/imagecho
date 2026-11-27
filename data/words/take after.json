@@ -1,0 +1,89 @@
+{
+  "word": "take after",
+  "pos": [
+    "句動詞"
+  ],
+  "ipa": "/teɪk ˈæftər/",
+  "core_image": {
+    "text": "親のあとを受けついでいる(似る)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><polygon points=\"60,42 70,26 80,42\"/><circle cx=\"160\" cy=\"92\" r=\"8\"/><line x1=\"160\" y1=\"100\" x2=\"160\" y2=\"122\"/><line x1=\"160\" y1=\"122\" x2=\"152\" y2=\"140\"/><line x1=\"160\" y1=\"122\" x2=\"168\" y2=\"140\"/><polygon points=\"152,84 160,72 168,84\"/></g><text x=\"118\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">そっくり</text></svg>"
+  },
+  "etymology": "take(取る・受けつぐ) + after(あとに) → 親のあとを受けついでいる → (親・年上の血縁に)似ている",
+  "en_definitions": [
+    {
+      "pos": "句動詞",
+      "text": "to look or behave like an older member of your family."
+    }
+  ],
+  "cautions": [
+    "似る相手は親・祖父母など年上の血縁",
+    "進行形・受け身にしない(× is taking after / × be taken after)",
+    "= resemble(前置詞なし:resemble A)",
+    "look after(世話をする)と混同しない"
+  ],
+  "patterns": [
+    {
+      "form": "take after A",
+      "meaning": "A(親など)に似ている"
+    },
+    {
+      "form": "take after one's father",
+      "meaning": "父親に似ている"
+    },
+    {
+      "form": "= resemble A",
+      "meaning": "Aに似ている"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "似る",
+      "en": "Tom takes after his father.",
+      "ja": "トムは父親似だ。"
+    },
+    {
+      "source": "original",
+      "label": "性格",
+      "en": "She takes after her mother in personality.",
+      "ja": "彼女は性格が母親に似ている。"
+    },
+    {
+      "source": "original",
+      "label": "言いかえ",
+      "en": "He resembles his grandfather. = He takes after his grandfather.",
+      "ja": "彼は祖父に似ている。"
+    },
+    {
+      "source": "original",
+      "label": "見た目",
+      "en": "Which of your parents do you take after?",
+      "ja": "あなたはご両親のどちらに似ている?"
+    },
+    {
+      "source": "original",
+      "label": "比較",
+      "en": "She takes after her aunt, and she looks after her aunt, too.",
+      "ja": "彼女はおばに似ていて、おばの世話もしている。"
+    },
+    {
+      "source": "original",
+      "label": "似る",
+      "en": "The boy takes after his mother; he loves music.",
+      "ja": "その少年は母親似で、音楽が大好きだ。"
+    }
+  ],
+  "check_points": [
+    "resemble との言いかえと、look after との区別ができるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "resemble への言いかえが定番。"
+  },
+  "lists": [
+    {
+      "name": "イディオム",
+      "number": 16
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "turn down",
+  "pos": [
+    "句動詞"
+  ],
+  "ipa": "/tɜːrn ˈdaʊn/",
+  "core_image": {
+    "text": "つまみを回して下げる(はねつける)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"70\" cy=\"80\" r=\"30\"/><line x1=\"70\" y1=\"80\" x2=\"70\" y2=\"54\"/><line x1=\"125\" y1=\"50\" x2=\"125\" y2=\"115\"/><polyline points=\"128.8,108 125,115 121.2,108\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"80\" x2=\"160\" y2=\"72\"/><line x1=\"160\" y1=\"72\" x2=\"152\" y2=\"60\"/></g><text x=\"70\" y=\"135\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">下げる</text><text x=\"200\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ことわる</text></svg>"
+  },
+  "etymology": "turn(回す・ひねる) + down(下へ) → つまみを回して下げる → (音・温度を)下げる/申し出をはねつけて下げる → 断る",
+  "en_definitions": [
+    {
+      "pos": "句動詞",
+      "text": "to refuse an offer or a request; to reduce the volume or heat."
+    }
+  ],
+  "cautions": [
+    "= reject・refuse(申し出を断る)。refuse to do はあるが turn down to do はない",
+    "代名詞は間に:turn it down",
+    "turn up(大きくする/現れる)と対で覚える",
+    "目的語は offer・invitation・request・proposal など"
+  ],
+  "patterns": [
+    {
+      "form": "turn down A / turn A down",
+      "meaning": "Aを断る"
+    },
+    {
+      "form": "turn down an offer / invitation",
+      "meaning": "申し出・招待を断る"
+    },
+    {
+      "form": "turn down the volume",
+      "meaning": "音量を下げる"
+    },
+    {
+      "form": "be turned down",
+      "meaning": "断られる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "断る",
+      "en": "She turned down his offer of help.",
+      "ja": "彼女は彼の手伝いの申し出を断った。"
+    },
+    {
+      "source": "original",
+      "label": "断られる",
+      "en": "My request was turned down.",
+      "ja": "私の頼みは断られた。"
+    },
+    {
+      "source": "original",
+      "label": "代名詞",
+      "en": "They offered him the job, but he turned it down.",
+      "ja": "彼は仕事を提示されたが、断った。"
+    },
+    {
+      "source": "original",
+      "label": "音量",
+      "en": "Could you turn down the TV a little?",
+      "ja": "テレビの音を少し小さくしてくれる?"
+    },
+    {
+      "source": "original",
+      "label": "招待",
+      "en": "I had to turn down the invitation to the party.",
+      "ja": "パーティーへの招待を断らなければならなかった。"
+    },
+    {
+      "source": "original",
+      "label": "対",
+      "en": "Turn up the heater; it's cold. — No, turn it down!",
+      "ja": "暖房を強くして、寒い。—いや、弱くして!"
+    }
+  ],
+  "check_points": [
+    "reject と reduce のどちらの意味でも使えると言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "reject・refuse への言いかえ。turn up との区別。"
+  },
+  "lists": [
+    {
+      "name": "イディオム",
+      "number": 4
+    }
+  ]
+}

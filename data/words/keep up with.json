@@ -1,0 +1,94 @@
+{
+  "word": "keep up with",
+  "pos": [
+    "句動詞"
+  ],
+  "ipa": "/kiːp ˈʌp wɪð/",
+  "core_image": {
+    "text": "遅れずに横に並び続ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"80\" cy=\"52\" r=\"10\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"106\"/><line x1=\"80\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"80\" y1=\"106\" x2=\"90\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"70\" y1=\"25\" x2=\"120\" y2=\"25\"/><polyline points=\"113,21.2 120,25 113,28.8\"/><line x1=\"140\" y1=\"25\" x2=\"190\" y2=\"25\"/><polyline points=\"183,21.2 190,25 183,28.8\"/></g><text x=\"210\" y=\"95\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">並んで</text></svg>"
+  },
+  "etymology": "keep(保つ) + up(追いついて・しっかり) + with(〜と) → 相手と並んだ状態を保ち続ける → 遅れずについていく/(流行・情報に)ついていく",
+  "en_definitions": [
+    {
+      "pos": "句動詞",
+      "text": "to move or progress at the same speed as someone or something."
+    }
+  ],
+  "cautions": [
+    "catch up with=追いつく(差を縮める)。keep up with=並び続ける(差を開けない)",
+    "keep up with the times / the news=時代・ニュースに遅れない",
+    "keep up A=Aを続ける(keep up the good work)",
+    "put up with(我慢する)と形が似ているので注意"
+  ],
+  "patterns": [
+    {
+      "form": "keep up with A",
+      "meaning": "Aに遅れずについていく"
+    },
+    {
+      "form": "keep up with the times",
+      "meaning": "時代に遅れない"
+    },
+    {
+      "form": "keep up with the news",
+      "meaning": "ニュースを追う"
+    },
+    {
+      "form": "keep A up",
+      "meaning": "Aを続ける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ついていく",
+      "en": "He walked so fast that I couldn't keep up with him.",
+      "ja": "彼はとても速く歩いたので、ついていけなかった。"
+    },
+    {
+      "source": "original",
+      "label": "授業",
+      "en": "It's hard to keep up with the class.",
+      "ja": "授業についていくのは大変だ。"
+    },
+    {
+      "source": "original",
+      "label": "時代",
+      "en": "We need to keep up with the times.",
+      "ja": "時代に遅れないようにする必要がある。"
+    },
+    {
+      "source": "original",
+      "label": "ニュース",
+      "en": "I read the paper to keep up with the news.",
+      "ja": "ニュースに遅れないように新聞を読む。"
+    },
+    {
+      "source": "original",
+      "label": "比較",
+      "en": "I caught up with him at last, and then kept up with him.",
+      "ja": "ついに彼に追いつき、それからは並んで進んだ。"
+    },
+    {
+      "source": "original",
+      "label": "続ける",
+      "en": "Keep up the good work!",
+      "ja": "その調子でがんばって!"
+    }
+  ],
+  "check_points": [
+    "catch up with とのちがいを言えるか",
+    "put up with と区別できるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "catch up with・put up with との区別が空所補充で出る。"
+  },
+  "lists": [
+    {
+      "name": "イディオム",
+      "number": 10
+    }
+  ]
+}

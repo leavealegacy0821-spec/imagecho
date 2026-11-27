@@ -1,0 +1,94 @@
+{
+  "word": "turn up",
+  "pos": [
+    "句動詞"
+  ],
+  "ipa": "/tɜːrn ˈʌp/",
+  "core_image": {
+    "text": "裏から表へひょっこり出てくる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"95\" width=\"160\" height=\"45\"/><circle cx=\"120\" cy=\"72\" r=\"10\"/><line x1=\"120\" y1=\"82\" x2=\"120\" y2=\"95\"/><line x1=\"105\" y1=\"89\" x2=\"135\" y2=\"89\"/><line x1=\"165\" y1=\"88\" x2=\"165\" y2=\"45\"/><polyline points=\"161.2,52 165,45 168.8,52\"/></g><text x=\"62\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひょっこり</text></svg>"
+  },
+  "etymology": "turn(向きを変える) + up(上へ・表へ) → 裏だったものが表に向いて出てくる → 現れる/(なくした物が)見つかる/(音・火力を)大きくする",
+  "en_definitions": [
+    {
+      "pos": "句動詞",
+      "text": "to arrive or appear, often unexpectedly; to be found; to increase the volume or heat."
+    }
+  ],
+  "cautions": [
+    "= appear・show up・arrive(会話では「来る・顔を出す」)",
+    "なくした物が turn up=ひょっこり見つかる",
+    "turn up the volume ↔ turn down",
+    "Something will turn up.=そのうち何とかなる"
+  ],
+  "patterns": [
+    {
+      "form": "A turns up",
+      "meaning": "Aが現れる・来る"
+    },
+    {
+      "form": "turn up late",
+      "meaning": "遅れて来る"
+    },
+    {
+      "form": "turn up the volume / heat",
+      "meaning": "音量・火力を上げる"
+    },
+    {
+      "form": "Something will turn up.",
+      "meaning": "何とかなるさ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "来る",
+      "en": "Only five people turned up for the meeting.",
+      "ja": "会議に来たのは5人だけだった。"
+    },
+    {
+      "source": "original",
+      "label": "遅れて",
+      "en": "He turned up an hour late.",
+      "ja": "彼は1時間遅れて現れた。"
+    },
+    {
+      "source": "original",
+      "label": "見つかる",
+      "en": "My lost key turned up in my bag.",
+      "ja": "なくした鍵がかばんの中から出てきた。"
+    },
+    {
+      "source": "original",
+      "label": "音量",
+      "en": "Turn up the radio. I can't hear it.",
+      "ja": "ラジオの音を大きくして。聞こえない。"
+    },
+    {
+      "source": "original",
+      "label": "何とかなる",
+      "en": "Don't worry. Something will turn up.",
+      "ja": "心配するな。何とかなるさ。"
+    },
+    {
+      "source": "original",
+      "label": "比較",
+      "en": "She didn't show up, but her brother turned up instead.",
+      "ja": "彼女は来なかったが、かわりに弟が現れた。"
+    }
+  ],
+  "check_points": [
+    "show up と同じ意味で使えると言えるか",
+    "turn down との対を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "appear・arrive への言いかえ。"
+  },
+  "lists": [
+    {
+      "name": "イディオム",
+      "number": 8
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "word": "call off",
+  "pos": [
+    "句動詞"
+  ],
+  "ipa": "/kɔːl ˈɔːf/",
+  "core_image": {
+    "text": "「やめ!」と呼んで予定を切り離す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><path d=\"M70 52 q8 8 0 16\"/><path d=\"M80 46 q12 14 0 28\"/><rect x=\"150\" y=\"95\" width=\"50\" height=\"45\"/><line x1=\"150\" y1=\"95\" x2=\"200\" y2=\"140\"/><line x1=\"200\" y1=\"95\" x2=\"150\" y2=\"140\"/></g><text x=\"175\" y=\"85\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">中止</text><text x=\"104\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やめ!</text></svg>"
+  },
+  "etymology": "call(声をかける) + off(離れて・切れて) → 「やめ!」と声をかけて予定を切り離す → 中止する・取りやめる",
+  "en_definitions": [
+    {
+      "pos": "句動詞",
+      "text": "to decide that a planned event will not happen."
+    }
+  ],
+  "cautions": [
+    "= cancel。put off(延期)とちがい、予定そのものをなくす",
+    "目的語は試合・式・ストライキ・捜索など予定されたこと",
+    "受け身 be called off (because of / due to A) の形でよく出る",
+    "代名詞は間に:call it off"
+  ],
+  "patterns": [
+    {
+      "form": "call off A / call A off",
+      "meaning": "Aを中止する"
+    },
+    {
+      "form": "be called off",
+      "meaning": "中止になる"
+    },
+    {
+      "form": "call off the search",
+      "meaning": "捜索を打ち切る"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "中止になる",
+      "en": "The game was called off because of the rain.",
+      "ja": "試合は雨で中止になった。"
+    },
+    {
+      "source": "original",
+      "label": "中止する",
+      "en": "The union called off the strike.",
+      "ja": "組合はストライキを取りやめた。"
+    },
+    {
+      "source": "original",
+      "label": "打ち切る",
+      "en": "The police called off the search at night.",
+      "ja": "警察は夜に捜索を打ち切った。"
+    },
+    {
+      "source": "original",
+      "label": "代名詞",
+      "en": "The wedding was too expensive, so they called it off.",
+      "ja": "結婚式は高すぎたので、彼らは取りやめた。"
+    },
+    {
+      "source": "original",
+      "label": "延期との比較",
+      "en": "The concert wasn't put off; it was called off.",
+      "ja": "コンサートは延期ではなく、中止になった。"
+    },
+    {
+      "source": "original",
+      "label": "中止する",
+      "en": "We had to call off the party at the last minute.",
+      "ja": "私たちはぎりぎりになってパーティーを中止しなければならなかった。"
+    }
+  ],
+  "check_points": [
+    "cancel と postpone のどちらに言いかえられるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "cancel への言いかえ問題。put off との区別。"
+  },
+  "lists": [
+    {
+      "name": "イディオム",
+      "number": 2
+    }
+  ]
+}

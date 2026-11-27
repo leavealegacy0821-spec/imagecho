@@ -137,3 +137,10 @@
 - ホームの一番上に「自分のまとまり」。作る/名前を変える/単語を足す(スペース・カンマ区切りで何語でも、候補も出る)/外す/まとまりを消す
 - 単語の詳細ページの見出しの下に「＋ 自分のまとまりに入れる」。まとまりからめくると前後移動はそのまとまりの中だけ(`#/word/<語>?mine=<id>`)
 - ついでに、単語集・検索から開いた詳細ページの上に「null」と出ていたのを直した
+
+## 2026-11-27 イディオムと「苦手のまとめ」を追加(本人の要望)
+
+- **苦手・覚えたのまとめ**:ホームの一番上に「印を付けた単語」。`#/marks/weak`(苦手)・`#/marks/known`(覚えた)で、印を付けた語を新しい順に一覧し、「まとめてめくる」で前後移動もできる(`#/word/<語>?mark=weak`)
+- **イディオム**:新しい単語集「イディオム」(`data/lists/idiom.json`)。gen の `w` に空白を入れて書くと(例 `w:'put off'`)`data/words/put off.json` ができ、イディオムの単語集に入る。例文では動詞の活用形と up・off などを太字にする。自分のまとまりにもイディオムを丸ごと入力して足せる
+- 1回目の20個(gen/279・280):put off call off give up turn down bring about come about break out turn up carry out keep up with / make out figure out find out work out come up with take after look up to look down on put up with make up for。groups.json に「イディオム:〜」の使い分けのまとまり5つ(使い分けの直後)
+- ついでに、詳細ページの「＋ 自分のまとまりに入れる」の横に null と出ていたのを直した。sw.js は v89

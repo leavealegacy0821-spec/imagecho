@@ -2,6 +2,7 @@
 // 使い方: node scripts/make-words.js gen/001.js [gen/002.js ...]
 //
 // 下書きの形(1語ぶん):
+// イディオムは w に空白を入れて書く(例 w:'put off')。data/words/put off.json になり、単語集「イディオム」に入る。
 // { w:'observe', pos:['動詞'], ipa:'/əbˈzɜːrv/', core:'じっと目を向けて、そのまま守る',
 //   svg:'{ground}{man 60 52}<line …/>',          // 線画の中身だけ。下の「部品」が使える
 //   lab:[[118,38,'じっと見る']],                   // 線画に入れる短い言葉 [x, y, 言葉]
@@ -67,7 +68,7 @@ function buildSvg(inner, labels) {
 
 const lists = readLists();
 let made = 0;
-let coreChanged = false;
+const changed = new Set(); // 語を足した単語集
 for (const file of process.argv.slice(2)) {
   const drafts = require(path.resolve(file));
   for (const d of drafts) {
@@ -82,12 +83,12 @@ for (const file of process.argv.slice(2)) {
         for (const x of e.examples || []) bookExamples.push({ source: l.name, en: x.en, ja: x.ja });
       }
     }
-    if (!inLists.length) { // まだどの単語集にも無い単語は「重要語」の末尾に足す
-      const core = lists.find((l) => l.id === 'core');
+    if (!inLists.length) { // まだどの単語集にも無い単語は「重要語」の末尾に足す(イディオム=空白を含む語は「イディオム」へ)
+      const core = lists.find((l) => l.id === (key.includes(' ') ? 'idiom' : 'core'));
       const number = core.words.reduce((m, e) => Math.max(m, e.number), 0) + 1;
       core.words.push({ number, word: d.w, examples: [] });
       inLists.push({ name: core.name, number });
-      coreChanged = true;
+      changed.add(core);
     }
     const tex = d.tex || [];
     const out = {
@@ -111,8 +112,7 @@ for (const file of process.argv.slice(2)) {
     made++;
   }
 }
-if (coreChanged) {
-  const core = lists.find((l) => l.id === 'core');
-  fs.writeFileSync(path.join(dataDir, 'lists', 'core.json'), JSON.stringify(core, null, 2) + '\n');
+for (const l of changed) {
+  fs.writeFileSync(path.join(dataDir, 'lists', l.id + '.json'), JSON.stringify(l, null, 2) + '\n');
 }
 console.log('作りました:', made, '語');

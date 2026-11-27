@@ -1,0 +1,89 @@
+{
+  "word": "figure out",
+  "pos": [
+    "句動詞"
+  ],
+  "ipa": "/ˌfɪɡjər ˈaʊt/",
+  "core_image": {
+    "text": "考えて答えを外に出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><circle cx=\"96\" cy=\"64\" r=\"4\"/><circle cx=\"108\" cy=\"56\" r=\"6\"/><circle cx=\"135\" cy=\"40\" r=\"20\"/><line x1=\"162\" y1=\"40\" x2=\"196\" y2=\"40\"/><polyline points=\"189,36.2 196,40 189,43.8\"/></g><text x=\"135\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">?</text><text x=\"210\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">!</text></svg>"
+  },
+  "etymology": "figure(数字・形 → 計算する) + out(最後まで・外へ) → 考えて答えを外に出す → (考えて)わかる・解決する",
+  "en_definitions": [
+    {
+      "pos": "句動詞",
+      "text": "to understand or solve something by thinking about it."
+    }
+  ],
+  "cautions": [
+    "= work out・understand・solve",
+    "figure out + wh節(how / what / why)の形が多い",
+    "find out=調べて知る。figure out=頭で考えてわかる",
+    "代名詞は間に:figure it out"
+  ],
+  "patterns": [
+    {
+      "form": "figure out A / figure A out",
+      "meaning": "Aを理解する・解決する"
+    },
+    {
+      "form": "figure out how to do",
+      "meaning": "〜のやり方がわかる"
+    },
+    {
+      "form": "figure out what / why ~",
+      "meaning": "何を・なぜ〜かわかる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "解く",
+      "en": "I finally figured out the answer.",
+      "ja": "やっと答えがわかった。"
+    },
+    {
+      "source": "original",
+      "label": "やり方",
+      "en": "I can't figure out how to use this machine.",
+      "ja": "この機械の使い方がわからない。"
+    },
+    {
+      "source": "original",
+      "label": "理由",
+      "en": "We need to figure out why the system failed.",
+      "ja": "システムがなぜ故障したのか解明しなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "人",
+      "en": "She is hard to figure out.",
+      "ja": "彼女は何を考えているのかわかりにくい。"
+    },
+    {
+      "source": "original",
+      "label": "代名詞",
+      "en": "This problem is difficult, but we'll figure it out.",
+      "ja": "この問題は難しいが、何とか解決するよ。"
+    },
+    {
+      "source": "original",
+      "label": "比較",
+      "en": "I found out the price online and figured out the total cost.",
+      "ja": "値段をネットで調べ、合計を計算した。"
+    }
+  ],
+  "check_points": [
+    "find out とのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "understand・solve への言いかえ。"
+  },
+  "lists": [
+    {
+      "name": "イディオム",
+      "number": 12
+    }
+  ]
+}

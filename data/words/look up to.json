@@ -1,0 +1,90 @@
+{
+  "word": "look up to",
+  "pos": [
+    "句動詞"
+  ],
+  "ipa": "/lʊk ˈʌp tuː/",
+  "core_image": {
+    "text": "上にいる人を見上げる(尊敬)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"140\" y=\"110\" width=\"70\" height=\"30\"/><circle cx=\"175\" cy=\"22\" r=\"10\"/><line x1=\"175\" y1=\"32\" x2=\"175\" y2=\"76\"/><line x1=\"175\" y1=\"76\" x2=\"165\" y2=\"110\"/><line x1=\"175\" y1=\"76\" x2=\"185\" y2=\"110\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"75\" y1=\"50\" x2=\"155\" y2=\"26\" stroke-dasharray=\"5 5\"/><polyline points=\"147.2,24.3 155,26 149.4,31.7\"/></g><text x=\"108\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">見上げる</text></svg>"
+  },
+  "etymology": "look(見る) + up(上を) + to(〜に向かって) → 自分より上にいる人を見上げる → 尊敬する",
+  "en_definitions": [
+    {
+      "pos": "句動詞",
+      "text": "to admire and respect someone."
+    }
+  ],
+  "cautions": [
+    "= respect・admire",
+    "look down on(見下す)と対で覚える",
+    "受け身は be looked up to (by A)。to を落とさない",
+    "look up(調べる)・look up at(実際に見上げる)と区別"
+  ],
+  "patterns": [
+    {
+      "form": "look up to A",
+      "meaning": "Aを尊敬する"
+    },
+    {
+      "form": "be looked up to (by A)",
+      "meaning": "(Aに)尊敬されている"
+    },
+    {
+      "form": "look up to A as B",
+      "meaning": "AをBとして尊敬する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "尊敬",
+      "en": "Many young players look up to him.",
+      "ja": "多くの若い選手が彼を尊敬している。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "She is looked up to by everyone in the class.",
+      "ja": "彼女はクラスの全員に尊敬されている。"
+    },
+    {
+      "source": "original",
+      "label": "as",
+      "en": "I look up to my teacher as a role model.",
+      "ja": "私は先生をお手本として尊敬している。"
+    },
+    {
+      "source": "original",
+      "label": "対",
+      "en": "He looks up to the strong and looks down on the weak.",
+      "ja": "彼は強い者を尊敬し、弱い者を見下す。"
+    },
+    {
+      "source": "original",
+      "label": "言いかえ",
+      "en": "I really look up to my grandmother. = I respect her.",
+      "ja": "祖母を本当に尊敬している。"
+    },
+    {
+      "source": "original",
+      "label": "尊敬",
+      "en": "Children need someone to look up to.",
+      "ja": "子どもには尊敬できる人が必要だ。"
+    }
+  ],
+  "check_points": [
+    "受け身で to を残せるか",
+    "respect に言いかえられるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "respect への言いかえ。受け身の前置詞の正誤。"
+  },
+  "lists": [
+    {
+      "name": "イディオム",
+      "number": 17
+    }
+  ]
+}

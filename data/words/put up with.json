@@ -1,0 +1,90 @@
+{
+  "word": "put up with",
+  "pos": [
+    "句動詞"
+  ],
+  "ipa": "/pʊt ˈʌp wɪð/",
+  "core_image": {
+    "text": "いやなものをそばに置いたまま耐える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><path d=\"M80 30 q10 -18 30 -8 q15 -14 30 0 q20 -4 22 12 z\"/><line x1=\"92\" y1=\"38\" x2=\"88\" y2=\"48\"/><line x1=\"150\" y1=\"38\" x2=\"146\" y2=\"48\"/></g><text x=\"190\" y=\"95\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">がまん</text></svg>"
+  },
+  "etymology": "put up(置いておく・泊める) + with(〜と一緒に) → いやなものと一緒にいるのを受け入れる → 我慢する",
+  "en_definitions": [
+    {
+      "pos": "句動詞",
+      "text": "to accept something unpleasant without complaining."
+    }
+  ],
+  "cautions": [
+    "= tolerate・bear・stand・endure",
+    "can't put up with A (any longer) の否定形が多い",
+    "3語で1つの他動詞。受け身は be put up with",
+    "keep up with・come up with と形が似ているので意味で区別"
+  ],
+  "patterns": [
+    {
+      "form": "put up with A",
+      "meaning": "Aを我慢する"
+    },
+    {
+      "form": "can't put up with A any longer",
+      "meaning": "もうAに我慢できない"
+    },
+    {
+      "form": "put up with A's doing",
+      "meaning": "Aが〜するのを我慢する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "我慢",
+      "en": "I can't put up with this noise any longer.",
+      "ja": "もうこの騒音には我慢できない。"
+    },
+    {
+      "source": "original",
+      "label": "耐える",
+      "en": "She put up with the pain for weeks.",
+      "ja": "彼女は何週間も痛みに耐えた。"
+    },
+    {
+      "source": "original",
+      "label": "人",
+      "en": "I don't know how you put up with him.",
+      "ja": "よく彼に我慢できるね。"
+    },
+    {
+      "source": "original",
+      "label": "doing",
+      "en": "I won't put up with your being late again.",
+      "ja": "また君が遅れるのは許さないよ。"
+    },
+    {
+      "source": "original",
+      "label": "言いかえ",
+      "en": "I can't stand his rude behavior. = I can't put up with it.",
+      "ja": "彼の失礼な態度に我慢できない。"
+    },
+    {
+      "source": "original",
+      "label": "比較",
+      "en": "I can keep up with the class, but I can't put up with the heat in the room.",
+      "ja": "授業にはついていけるが、教室の暑さには耐えられない。"
+    }
+  ],
+  "check_points": [
+    "tolerate・stand に言いかえられるか",
+    "keep up with とのちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "tolerate・bear・stand への言いかえ。with の空所補充。"
+  },
+  "lists": [
+    {
+      "name": "イディオム",
+      "number": 19
+    }
+  ]
+}

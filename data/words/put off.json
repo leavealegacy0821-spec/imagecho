@@ -1,0 +1,94 @@
+{
+  "word": "put off",
+  "pos": [
+    "句動詞"
+  ],
+  "ipa": "/pʊt ˈɔːf/",
+  "core_image": {
+    "text": "予定を先へ置いてどかす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"80\" x2=\"86\" y2=\"108\"/><rect x=\"88\" y=\"100\" width=\"34\" height=\"40\"/><line x1=\"128\" y1=\"120\" x2=\"178\" y2=\"120\" stroke-dasharray=\"5 5\"/><polyline points=\"171,116.2 178,120 171,123.8\"/><rect x=\"182\" y=\"100\" width=\"34\" height=\"40\" stroke-dasharray=\"4 4\"/></g><text x=\"152\" y=\"105\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">先へ</text><text x=\"199\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">延期</text></svg>"
+  },
+  "etymology": "put(置く) + off(離れて) → 今の予定から離して先に置く → 延期する/(人の気持ちを)離れさせる → いやな気にさせる",
+  "en_definitions": [
+    {
+      "pos": "句動詞",
+      "text": "to move an event or a task to a later time; to make someone dislike something."
+    }
+  ],
+  "cautions": [
+    "put off doing(動名詞)。× put off to do",
+    "目的語が代名詞なら put it off(× put off it)",
+    "= postpone。call off(中止する)は「なくす」、put off は「先へずらす」だけ",
+    "be put off by A=Aでいやになる・やる気をなくす"
+  ],
+  "patterns": [
+    {
+      "form": "put off A / put A off",
+      "meaning": "Aを延期する"
+    },
+    {
+      "form": "put off doing",
+      "meaning": "〜するのを先のばしにする"
+    },
+    {
+      "form": "put off A until B",
+      "meaning": "AをBまで延期する"
+    },
+    {
+      "form": "be put off by A",
+      "meaning": "Aでいやになる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "延期する",
+      "en": "The meeting was put off until next week.",
+      "ja": "会議は来週まで延期された。"
+    },
+    {
+      "source": "original",
+      "label": "先のばし",
+      "en": "Don't put off doing your homework.",
+      "ja": "宿題をやるのを先のばしにするな。"
+    },
+    {
+      "source": "original",
+      "label": "代名詞",
+      "en": "I can't put it off any longer.",
+      "ja": "もうこれ以上それを先にのばせない。"
+    },
+    {
+      "source": "original",
+      "label": "延期する",
+      "en": "They put off their trip because of the typhoon.",
+      "ja": "台風のために彼らは旅行を延期した。"
+    },
+    {
+      "source": "original",
+      "label": "いやになる",
+      "en": "I was put off by his rude attitude.",
+      "ja": "彼の失礼な態度にうんざりした。"
+    },
+    {
+      "source": "original",
+      "label": "ことわざ",
+      "en": "Never put off till tomorrow what you can do today.",
+      "ja": "今日できることを明日にのばすな。"
+    }
+  ],
+  "check_points": [
+    "put off のあとに to do と doing のどちらが来るか言えるか",
+    "put off と call off のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "postpone への言いかえ、put off doing の語法が整序・正誤で出る。"
+  },
+  "lists": [
+    {
+      "name": "イディオム",
+      "number": 1
+    }
+  ]
+}

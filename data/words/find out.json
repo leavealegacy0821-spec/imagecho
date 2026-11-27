@@ -1,0 +1,93 @@
+{
+  "word": "find out",
+  "pos": [
+    "句動詞"
+  ],
+  "ipa": "/faɪnd ˈaʊt/",
+  "core_image": {
+    "text": "かくれた事実を探して外に出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"80\" x2=\"82\" y2=\"96\"/><circle cx=\"104\" cy=\"84\" r=\"16\"/><line x1=\"92\" y1=\"95\" x2=\"84\" y2=\"102\"/><rect x=\"150\" y=\"100\" width=\"60\" height=\"40\"/><line x1=\"180\" y1=\"95\" x2=\"180\" y2=\"50\"/><polyline points=\"176.2,57 180,50 183.8,57\"/></g><text x=\"207\" y=\"45\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">事実</text></svg>"
+  },
+  "etymology": "find(見つける) + out(外へ) → かくれていた事実を見つけて表に出す → (調べて・聞いて)知る/(秘密に)気づく",
+  "en_definitions": [
+    {
+      "pos": "句動詞",
+      "text": "to get information or learn a fact, especially one that was hidden."
+    }
+  ],
+  "cautions": [
+    "find out の目的語は事実・情報(物ではない)。× find out my key → find my key",
+    "find out that ~ / find out wh節 の形が多い",
+    "figure out=考えてわかる。find out=調べて知る",
+    "find out about A=Aについて調べる"
+  ],
+  "patterns": [
+    {
+      "form": "find out A",
+      "meaning": "Aを知る・調べる"
+    },
+    {
+      "form": "find out that ~",
+      "meaning": "〜だとわかる"
+    },
+    {
+      "form": "find out wh-",
+      "meaning": "何を・どこで〜か調べる"
+    },
+    {
+      "form": "find out about A",
+      "meaning": "Aについて調べる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "調べる",
+      "en": "Let's find out what time the train leaves.",
+      "ja": "電車が何時に出るか調べよう。"
+    },
+    {
+      "source": "original",
+      "label": "気づく",
+      "en": "She found out that her friend had lied to her.",
+      "ja": "彼女は友人がうそをついていたと知った。"
+    },
+    {
+      "source": "original",
+      "label": "about",
+      "en": "I want to find out more about this job.",
+      "ja": "この仕事についてもっと知りたい。"
+    },
+    {
+      "source": "original",
+      "label": "秘密",
+      "en": "If my mother finds out, she will be angry.",
+      "ja": "母に知られたら、怒られる。"
+    },
+    {
+      "source": "original",
+      "label": "物との比較",
+      "en": "I found my wallet, but I never found out who took it.",
+      "ja": "財布は見つかったが、誰が取ったのかはわからなかった。"
+    },
+    {
+      "source": "original",
+      "label": "調べる",
+      "en": "Scientists are trying to find out the cause of the disease.",
+      "ja": "科学者たちはその病気の原因を突き止めようとしている。"
+    }
+  ],
+  "check_points": [
+    "find と find out の目的語のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "discover・learn への言いかえ。find との区別。"
+  },
+  "lists": [
+    {
+      "name": "イディオム",
+      "number": 13
+    }
+  ]
+}

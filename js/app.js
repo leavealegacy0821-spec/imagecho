@@ -7,6 +7,8 @@
 //   #/search?q=<検索語>       検索
 //   #/mine/<id>               自分のまとまり(自分で選んだ単語だけ)
 //   #/word/<単語>?mine=<id>   単語詳細(自分のまとまりから来たとき)
+//   #/marks/<weak|known>      苦手・覚えたの印を付けた単語のまとめ
+//   #/word/<単語>?mark=<種類> 単語詳細(そのまとめから来たとき)
 
 import { initSpeech, speak, stopSpeech } from './speech.js';
 import { registerServiceWorker, loadIndex, wordUrl, syncWords } from './offline.js';
@@ -40,11 +42,20 @@ function h(tag, attrs, ...kids) {
 
 // 例文の中の見出し語(活用形を含む)を <b> で包んで目立たせる
 const IRREGULAR = { run: ['ran'], bear: ['bore', 'borne', 'born'], deal: ['dealt'], hold: ['held'], lead: ['led'], mean: ['meant'], meet: ['met'], stand: ['stood'], break: ['broke', 'broken'], leave: ['left'], pay: ['paid'], seek: ['sought'], overcome: ['overcame'], drive: ['drove', 'driven'], forbid: ['forbade', 'forbidden'], forgive: ['forgave', 'forgiven'], prove: ['proven'], strike: ['struck'], undergo: ['underwent', 'undergone'], dwell: ['dwelt'], abide: ['abode'], rid: ['rid'], mistake: ['mistook', 'mistaken'], keep: ['kept'], lend: ['lent'], spend: ['spent'], stick: ['stuck'], withdraw: ['withdrew'], undertake: ['undertook'], bind: ['bound'], cling: ['clung'], strive: ['strove', 'striven'], arise: ['arose', 'arisen'], tear: ['tore', 'torn'], draw: ['drew', 'drawn'], mislead: ['misled'], lie: ['lay', 'lain', 'lying'], lay: ['laid'], rise: ['rose', 'risen', 'rising'], hang: ['hung'], steal: ['stole', 'stolen'], beat: ['beaten'], tell: ['told'], lose: ['lost'], wear: ['wore', 'worn'], forget: ['forgot', 'forgotten'], thrive: ['throve', 'thriven'], spring: ['sprang', 'sprung'], bring: ['brought'], take: ['took', 'taking'], make: ['made', 'making'], get: ['got', 'gotten'], give: ['gave'], become: ['became'], come: ['came'], see: ['saw'], feel: ['felt'], find: ['found'], fall: ['fell', 'fallen'], catch: ['caught'], have: ['had', 'has', 'having'], grow: ['grew'], say: ['said'], speak: ['spoke', 'spoken'], hope: ['hoping'], light: ['lit'], feed: ['fed'], bend: ['bent'], sink: ['sank', 'sunk'], wind: ['wound'], breed: ['bred'], sweep: ['swept'], shrink: ['shrank', 'shrunk'], flee: ['fled'], foresee: ['foresaw', 'foreseen'], withstand: ['withstood'], withhold: ['withheld'], dig: ['dug'], win: ['won'], hide: ['hid'], understand: ['understood'], think: ['thought'], know: ['knew'], teach: ['taught'], learn: ['learnt'], begin: ['began', 'begun'], throw: ['threw', 'thrown'], fling: ['flung'], choose: ['chose', 'chosen'], shine: ['shone'], stride: ['strode', 'stridden'], creep: ['crept'], weep: ['wept'], eat: ['ate'], drink: ['drank', 'drunk'], sleep: ['slept'], wake: ['woke', 'woken'], dream: ['dreamt'], awake: ['awoke'], freeze: ['froze', 'frozen'], swell: ['swollen'], grind: ['ground'], build: ['built'], stink: ['stank', 'stunk'], smell: ['smelt'], spin: ['spun'], swing: ['swung'], slide: ['slid'], kneel: ['knelt'], leap: ['leapt'], dive: ['dove'], panic: ['panicked'], mimic: ['mimicked'], shake: ['shook', 'shaken'], swear: ['swore', 'sworn'], overhear: ['overheard'], weave: ['wove', 'woven'], uphold: ['upheld'], forsake: ['forsook', 'forsaken'] }; // 形が大きく変わる活用形
-function markWord(en, word) {
-  const w = String(word || '').toLowerCase().replace(/[^a-z]/g, '');
-  if (w.length < 3) return [en];
+function wordForms(w) {
   const stem = w.length > 4 ? w.replace(/[ey]$/, '') : w; // observe → observ(observed, observing も拾う)
-  const forms = [stem + '[a-z]*', ...(IRREGULAR[w] || [])];
+  return [stem + '[a-z]*', ...(IRREGULAR[w] || [])];
+}
+function markWord(en, word) {
+  const parts = String(word || '').toLowerCase().split(/\s+/).map((x) => x.replace(/[^a-z]/g, '')).filter(Boolean);
+  let forms;
+  if (parts.length > 1) { // イディオム:動詞は活用形も、後ろの語(up・off など)はそのまま
+    forms = [...wordForms(parts[0]), ...parts.slice(1).filter((x) => !['a', 'an', 'the', 'one', "one's", 'oneself', 'b'].includes(x))];
+  } else {
+    const w = parts[0] || '';
+    if (w.length < 3) return [en];
+    forms = wordForms(w);
+  }
   const re = new RegExp('\\b(' + forms.join('|') + ')\\b', 'gi');
   const out = [];
   let last = 0, m;
@@ -90,6 +101,7 @@ let allWords = [];              // 全単語(索引の1行ずつ)
 const listById = new Map();     // 単語集の id → 単語集
 const listWords = new Map();    // 単語集の id → [{ number, w }](番号順)
 const byWord = new Map();       // 小文字の単語 → 索引の1行
+let phrases = [];               // イディオム(空白を含む語)。長いものから
 
 function prepare(index) {
   lists = index.lists || [];
@@ -107,6 +119,7 @@ function prepare(index) {
       if (arr) arr.push({ number: ref.number, w });
     }
   }
+  phrases = allWords.filter((w) => w._lw.includes(' ')).sort((a, b) => b._lw.length - a._lw.length);
   for (const arr of listWords.values()) {
     arr.sort((a, b) => Number(a.number) - Number(b.number));
   }
@@ -170,6 +183,12 @@ function setMark(word, kind) {
   }
 }
 
+// 印を付けた単語。新しく付けたものから順に(解説のある語だけ)
+function markedItems(kind) {
+  return Object.keys(marks).filter((k) => marks[k] === kind).reverse()
+    .map((k) => byWord.get(k)).filter(Boolean).map((w) => ({ w }));
+}
+
 // ───────── 自分のまとまり(自分で選んだ単語だけを集めたもの。端末内に保存) ─────────
 
 const MINE_KEY = 'imagecho:mine';
@@ -199,7 +218,16 @@ function newMine() {
 // 文字列から単語を取り出して足す。足せた語・すでに入っていた語・解説の無い語を返す
 function addToMine(g, text) {
   const added = [], dup = [], unknown = [];
-  for (const raw of String(text).split(/[\s,、，・/／]+/)) {
+  // イディオム(空白を含む語)は先に丸ごと拾う
+  let rest = ' ' + String(text).toLowerCase().replace(/[,、，・/／\n]+/g, ' ').replace(/\s+/g, ' ') + ' ';
+  for (const w of phrases) {
+    if (!rest.includes(' ' + w._lw + ' ')) continue;
+    rest = rest.split(' ' + w._lw + ' ').join(' ');
+    if (g.words.includes(w._lw)) { if (!dup.includes(w._lw)) dup.push(w._lw); continue; }
+    g.words.push(w._lw);
+    added.push(w._lw);
+  }
+  for (const raw of rest.split(/[\s,、，・/／]+/)) {
     const key = raw.trim().toLowerCase().replace(/^[^a-z]+|[^a-z]+$/g, '');
     if (!key) continue;
     if (!byWord.has(key)) { if (!unknown.includes(raw.trim())) unknown.push(raw.trim()); continue; }
@@ -235,6 +263,7 @@ function parseHash() {
   const seg = path.split('/').filter(Boolean).map(safeDecode);
   if (seg[0] === 'list' && seg[1]) return { name: 'list', id: seg[1] };
   if (seg[0] === 'mine' && seg[1]) return { name: 'mine', id: seg[1] };
+  if (seg[0] === 'marks' && MARK_NAMES[seg[1]]) return { name: 'marks', kind: seg[1] };
   if (seg[0] === 'word' && seg[1]) return { name: 'word', word: seg.slice(1).join('/'), params };
   if (seg[0] === 'search') return { name: 'home', q: params.get('q') || '' };
   return { name: 'home', q: '' };
@@ -264,7 +293,8 @@ function route() {
     $pager.hidden = true;
     document.body.classList.remove('has-pager');
     $sync.classList.remove('is-hidden');
-    const rows = r.name === 'list' ? renderList(r) : r.name === 'mine' ? renderMine(r) : renderHome(r.q);
+    const rows = r.name === 'list' ? renderList(r) : r.name === 'mine' ? renderMine(r)
+      : r.name === 'marks' ? renderMarks(r) : renderHome(r.q);
     window.scrollTo(0, y);
     if (rows) rows.draw(); // 戻した位置の行をすぐ描く
     // 詳細から戻ってきたとき、最後に見ていた単語が画面の外なら見える位置まで動かす
@@ -399,7 +429,20 @@ function renderHome(q) {
         type: 'button', class: 'plain-btn',
         onclick: () => { const g = newMine(); location.hash = '#/mine/' + enc(g.id) + '?new=1'; },
       }, '＋ 新しいまとまりを作る')));
+    const weakN = markedItems('weak').length, knownN = markedItems('known').length;
+    const marksBlock = h('section', { class: 'block marks-home' },
+      h('h2', { class: 'block-h' }, h('span', null, '印を付けた単語')),
+      h('ul', { class: 'flow-groups' },
+        h('li', null, h('a', { class: 'flow-g', href: '#/marks/weak' },
+          h('span', { class: 'flow-g-title' }, icon('weak'), ' 苦手'),
+          h('span', { class: 'flow-g-note' }, weakN ? '苦手の印を付けた単語をまとめて見る・めくる' : 'まだありません(単語のページの下の「苦手」で付けられます)'),
+          h('span', { class: 'flow-g-size' }, weakN + ' 語'))),
+        h('li', null, h('a', { class: 'flow-g', href: '#/marks/known' },
+          h('span', { class: 'flow-g-title' }, icon('known'), ' 覚えた'),
+          h('span', { class: 'flow-g-note' }, knownN ? '覚えたの印を付けた単語' : 'まだありません'),
+          h('span', { class: 'flow-g-size' }, knownN + ' 語')))));
     $view.replaceChildren(
+      marksBlock,
       mineBlock,
       flowBlock,
       h('section', { class: 'block' },
@@ -589,6 +632,32 @@ function renderMine(r) {
   return null;
 }
 
+// ───────── 画面6:苦手・覚えたのまとめ ─────────
+
+function renderMarks(r) {
+  $masthead.hidden = true;
+  if ($q.value) { $q.value = ''; $qClear.hidden = true; }
+  const name = MARK_NAMES[r.kind];
+  document.title = name + 'の単語 — 単語イメージ帳';
+  const items = markedItems(r.kind);
+  const suffix = '?mark=' + r.kind;
+  const rows = mountRows(items, suffix, true);
+  $view.replaceChildren(...[
+    h('nav', { class: 'crumb' }, backLink('#/', '単語集')),
+    h('header', { class: 'list-head' },
+      h('h1', { class: 'list-name' }, icon(r.kind), ' ' + name + 'の単語'),
+      h('p', { class: 'list-count' }, h('b', null, fmt(items.length)), ' 語')),
+    items.length
+      ? h('a', { class: 'flow-start', href: '#/word/' + enc(items[0].w.word) + suffix },
+        h('span', { class: 'flow-start-label' }, 'まとめてめくる'),
+        h('span', { class: 'flow-start-word', lang: 'en' }, items[0].w.word))
+      : null,
+    items.length ? rows.el : note('まだありません。単語のページの下にある「' + name + '」を押すと、ここに集まります。'),
+    items.length ? h('p', { class: 'fine' }, '新しく印を付けた順。印を外すとここから消えます。') : null,
+  ].filter(Boolean));
+  return showRows(rows);
+}
+
 // 単語詳細の「自分のまとまりに入れる」パネル
 function minePanel(word) {
   const key = String(word).toLowerCase();
@@ -615,7 +684,7 @@ function minePanel(word) {
         type: 'button', class: 'mine-pick-g mine-pick-g--new',
         onclick: () => { const g = newMine(); g.words.push(key); saveMine(); draw(true); toast('「' + g.title + '」を作って入れました'); },
       }, '＋ 新しいまとまりを作って入れる'))) : null;
-    wrap.replaceChildren(toggle, body);
+    wrap.replaceChildren(...[toggle, body].filter(Boolean));
   };
   draw(false);
   return wrap;
@@ -623,6 +692,7 @@ function minePanel(word) {
 
 // ───────── 画面3:単語詳細 ─────────
 
+const markTrail = {}; // 印のまとめをめくっているときの直前の並び
 // 前後移動の並び。単語集から来たらその番号順、検索から来たら検索結果の順
 function sequenceFor(params, entry) {
   if (params.has('flow')) {
@@ -631,6 +701,14 @@ function sequenceFor(params, entry) {
   if (params.has('mine')) {
     const g = mineById(params.get('mine'));
     if (g) return { items: mineItems(g), suffix: '?mine=' + enc(g.id), back: '#/mine/' + enc(g.id), label: g.title };
+  }
+  if (MARK_NAMES[params.get('mark')]) {
+    const kind = params.get('mark');
+    let items = markedItems(kind);
+    // めくっている途中で印を外した語も、その場では並びに残す(前後移動が途切れないように)
+    if (entry && !items.some((it) => it.w === entry) && markTrail[kind]) items = markTrail[kind];
+    markTrail[kind] = items;
+    return { items, suffix: '?mark=' + kind, back: '#/marks/' + kind, label: MARK_NAMES[kind] + 'の単語' };
   }
   if (params.has('q')) {
     const q = params.get('q');

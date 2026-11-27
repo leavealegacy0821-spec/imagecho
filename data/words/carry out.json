@@ -1,0 +1,93 @@
+{
+  "word": "carry out",
+  "pos": [
+    "句動詞"
+  ],
+  "ipa": "/ˌkæri ˈaʊt/",
+  "core_image": {
+    "text": "頭の中の計画を外へ運び出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"40\" width=\"70\" height=\"100\"/><circle cx=\"140\" cy=\"52\" r=\"10\"/><line x1=\"140\" y1=\"62\" x2=\"140\" y2=\"106\"/><line x1=\"140\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"140\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"140\" y1=\"80\" x2=\"152\" y2=\"84\"/><rect x=\"150\" y=\"70\" width=\"34\" height=\"26\"/><line x1=\"150\" y1=\"25\" x2=\"215\" y2=\"25\"/><polyline points=\"208,21.2 215,25 208,28.8\"/></g><text x=\"65\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">計画</text><text x=\"207\" y=\"115\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">実行</text></svg>"
+  },
+  "etymology": "carry(運ぶ) + out(外へ・最後まで) → 頭の中の計画を現実の外の世界まで運び出す → 実行する・遂行する",
+  "en_definitions": [
+    {
+      "pos": "句動詞",
+      "text": "to do a planned task, such as an experiment, a survey or an order."
+    }
+  ],
+  "cautions": [
+    "= perform・conduct・execute",
+    "目的語は plan・experiment・research・survey・order・promise など「やると決めたこと」",
+    "受け身 be carried out がよく出る",
+    "代名詞は間に:carry it out"
+  ],
+  "patterns": [
+    {
+      "form": "carry out a plan",
+      "meaning": "計画を実行する"
+    },
+    {
+      "form": "carry out an experiment",
+      "meaning": "実験を行う"
+    },
+    {
+      "form": "carry out research / a survey",
+      "meaning": "研究・調査を行う"
+    },
+    {
+      "form": "carry out an order / a promise",
+      "meaning": "命令・約束を果たす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "実験",
+      "en": "The scientists carried out an experiment on mice.",
+      "ja": "科学者たちはマウスで実験を行った。"
+    },
+    {
+      "source": "original",
+      "label": "調査",
+      "en": "A survey was carried out among 500 students.",
+      "ja": "500人の学生を対象に調査が行われた。"
+    },
+    {
+      "source": "original",
+      "label": "計画",
+      "en": "It is easy to make a plan, but hard to carry it out.",
+      "ja": "計画を立てるのはやさしいが、実行するのは難しい。"
+    },
+    {
+      "source": "original",
+      "label": "命令",
+      "en": "The soldiers carried out the order.",
+      "ja": "兵士たちは命令を遂行した。"
+    },
+    {
+      "source": "original",
+      "label": "約束",
+      "en": "He always carries out his promises.",
+      "ja": "彼はいつも約束を果たす。"
+    },
+    {
+      "source": "original",
+      "label": "研究",
+      "en": "Research on the virus is being carried out.",
+      "ja": "そのウイルスの研究が進められている。"
+    }
+  ],
+  "check_points": [
+    "conduct に言いかえられると言えるか"
+  ],
+  "exam": {
+    "frequency": "最頻出",
+    "note": "perform・conduct への言いかえ。長文で頻出。"
+  },
+  "lists": [
+    {
+      "name": "イディオム",
+      "number": 9
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "word": "bring about",
+  "pos": [
+    "句動詞"
+  ],
+  "ipa": "/brɪŋ əˈbaʊt/",
+  "core_image": {
+    "text": "結果をこちらへ持ってくる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"80\" x2=\"100\" y2=\"80\"/><polygon points=\"180,60 186,76 204,76 190,86 196,104 180,94 164,104 170,86 156,76 174,76\"/><line x1=\"160\" y1=\"120\" x2=\"90\" y2=\"120\"/><polyline points=\"97,123.8 90,120 97,116.2\"/></g><text x=\"180\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">変化</text><text x=\"125\" y=\"108\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">引き起こす</text></svg>"
+  },
+  "etymology": "bring(持ってくる) + about(あたりに) → ものごとを身のまわりに持ってくる → (変化・結果を)引き起こす・もたらす",
+  "en_definitions": [
+    {
+      "pos": "句動詞",
+      "text": "to cause something to happen."
+    }
+  ],
+  "cautions": [
+    "= cause・lead to・result in。他動詞で目的語をとる",
+    "come about(起こる)は自動詞。bring about は「起こす」",
+    "主語は原因(技術・戦争・政策など)が多い",
+    "目的語は change・result・peace・war など"
+  ],
+  "patterns": [
+    {
+      "form": "bring about A",
+      "meaning": "Aを引き起こす"
+    },
+    {
+      "form": "bring about change",
+      "meaning": "変化をもたらす"
+    },
+    {
+      "form": "A be brought about by B",
+      "meaning": "AはBによって引き起こされる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "もたらす",
+      "en": "The Internet has brought about great changes in our lives.",
+      "ja": "インターネットは生活に大きな変化をもたらした。"
+    },
+    {
+      "source": "original",
+      "label": "引き起こす",
+      "en": "The new policy brought about a lot of problems.",
+      "ja": "新しい政策は多くの問題を引き起こした。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "The accident was brought about by careless driving.",
+      "ja": "その事故は不注意な運転によって引き起こされた。"
+    },
+    {
+      "source": "original",
+      "label": "平和",
+      "en": "The two leaders worked to bring about peace.",
+      "ja": "二人の指導者は平和をもたらそうと努めた。"
+    },
+    {
+      "source": "original",
+      "label": "比較",
+      "en": "The war came about suddenly, but what brought it about?",
+      "ja": "戦争は突然起こったが、何がそれを引き起こしたのか。"
+    },
+    {
+      "source": "original",
+      "label": "結果",
+      "en": "Hard work brought about good results.",
+      "ja": "努力がよい結果をもたらした。"
+    }
+  ],
+  "check_points": [
+    "bring about と come about の自動詞・他動詞のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "cause への言いかえ、空所補充。"
+  },
+  "lists": [
+    {
+      "name": "イディオム",
+      "number": 5
+    }
+  ]
+}

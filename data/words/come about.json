@@ -1,0 +1,94 @@
+{
+  "word": "come about",
+  "pos": [
+    "句動詞"
+  ],
+  "ipa": "/kʌm əˈbaʊt/",
+  "core_image": {
+    "text": "ことがあたりにやって来る(起こる)",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><path d=\"M150 50 q10 -14 22 0 q4 10 -11 18 v8\"/><circle cx=\"161\" cy=\"90\" r=\"2\"/><line x1=\"225\" y1=\"62\" x2=\"190\" y2=\"62\" stroke-dasharray=\"5 5\"/><polyline points=\"197,65.8 190,62 197,58.2\"/></g><text x=\"150\" y=\"125\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">起こる</text></svg>"
+  },
+  "etymology": "come(来る) + about(あたりに) → 出来事がまわりにやって来る → (どうしてか見えにくいことが)起こる・生じる",
+  "en_definitions": [
+    {
+      "pos": "句動詞",
+      "text": "to happen, especially in a way that is not clear."
+    }
+  ],
+  "cautions": [
+    "自動詞:目的語をとらず、受け身にもならない(× was come about)",
+    "How did it come about that ~?=どうして〜ということになったのか",
+    "= happen・occur。bring about(起こす)と区別",
+    "主語は change・situation・idea など出来事"
+  ],
+  "patterns": [
+    {
+      "form": "A comes about",
+      "meaning": "Aが起こる"
+    },
+    {
+      "form": "How did A come about?",
+      "meaning": "Aはどうして起こったのか"
+    },
+    {
+      "form": "How did it come about that ~?",
+      "meaning": "どうして〜になったのか"
+    },
+    {
+      "form": "come about through A",
+      "meaning": "Aを通じて生じる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "どうして",
+      "en": "How did the accident come about?",
+      "ja": "その事故はどうして起こったのか。"
+    },
+    {
+      "source": "original",
+      "label": "it that",
+      "en": "How did it come about that you lost your job?",
+      "ja": "どうして仕事をなくすことになったの?"
+    },
+    {
+      "source": "original",
+      "label": "生じる",
+      "en": "The change came about through years of hard work.",
+      "ja": "その変化は何年もの努力を通じて生じた。"
+    },
+    {
+      "source": "original",
+      "label": "起こる",
+      "en": "Great discoveries often come about by chance.",
+      "ja": "大発見は偶然起こることが多い。"
+    },
+    {
+      "source": "original",
+      "label": "比較",
+      "en": "Nobody knows how the idea came about.",
+      "ja": "その考えがどうして生まれたのか誰も知らない。"
+    },
+    {
+      "source": "original",
+      "label": "起こる",
+      "en": "The situation came about because nobody checked the data.",
+      "ja": "その事態は誰もデータを確認しなかったから起こった。"
+    }
+  ],
+  "check_points": [
+    "come about を受け身にできるか",
+    "bring about との区別を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "happen への言いかえ。bring about との混同を突く問題。"
+  },
+  "lists": [
+    {
+      "name": "イディオム",
+      "number": 6
+    }
+  ]
+}
