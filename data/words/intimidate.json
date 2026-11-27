@@ -1,0 +1,93 @@
+{
+  "word": "intimidate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈtɪmɪdeɪt/",
+  "core_image": {
+    "text": "大きく見せておびえさせ、言うことをきかせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"36\" y2=\"50\"/><line x1=\"60\" y1=\"74\" x2=\"84\" y2=\"50\"/><line x1=\"92\" y1=\"80\" x2=\"160\" y2=\"100\"/><polyline points=\"154.3,94.3 160,100 152.2,101.7\"/><circle cx=\"180\" cy=\"104\" r=\"6\"/><line x1=\"180\" y1=\"110\" x2=\"180\" y2=\"126\"/><line x1=\"180\" y1=\"126\" x2=\"174\" y2=\"140\"/><line x1=\"180\" y1=\"126\" x2=\"186\" y2=\"140\"/><line x1=\"180\" y1=\"114\" x2=\"170\" y2=\"108\"/><line x1=\"180\" y1=\"114\" x2=\"190\" y2=\"108\"/></g><text x=\"125\" y=\"72\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">おどす</text><text x=\"190\" y=\"90\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">おびえる</text></svg>"
+  },
+  "etymology": "in(中へ)+ timid(おびえた・臆病な)+ ate(〜にする)→ 相手をおびえた状態にする → ①(人を)脅す・威圧する ②(脅して)〜させる・やめさせる ③(be intimidated で)気おくれする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to frighten someone, especially in order to make them do what you want."
+    }
+  ],
+  "cautions": [
+    "intimidate=脅して従わせる(相手を思いどおりにする意図がある)/frighten=ただ怖がらせる/daunt=むずかしさで気持ちをくじく",
+    "intimidate A into doing(A を脅して〜させる)の型が入試で狙われる。persuade A into doing と同じ形",
+    "be intimidated by A(A に気おくれする)、形容詞 intimidating(威圧的な・気おくれさせる)。名詞 intimidation"
+  ],
+  "patterns": [
+    {
+      "form": "intimidate A",
+      "meaning": "A を脅す・威圧する"
+    },
+    {
+      "form": "intimidate A into doing",
+      "meaning": "A を脅して〜させる"
+    },
+    {
+      "form": "be intimidated by A",
+      "meaning": "A に気おくれする・おじけづく"
+    },
+    {
+      "form": "intimidating",
+      "meaning": "威圧的な・気おくれさせる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "脅す",
+      "en": "The gang tried to intimidate the witnesses.",
+      "ja": "その一味は証人たちを脅そうとした。"
+    },
+    {
+      "source": "original",
+      "label": "into doing",
+      "en": "He was intimidated into signing the document.",
+      "ja": "彼は脅されてその書類に署名させられた。"
+    },
+    {
+      "source": "original",
+      "label": "気おくれ",
+      "en": "Don't be intimidated by the size of the university.",
+      "ja": "大学の大きさに気おくれしなくていい。"
+    },
+    {
+      "source": "original",
+      "label": "形容詞",
+      "en": "The teacher seemed intimidating at first, but she was very kind.",
+      "ja": "その先生ははじめ威圧的に見えたが、とてもやさしかった。"
+    },
+    {
+      "source": "original",
+      "label": "威圧",
+      "en": "Big dogs can intimidate small children even when they are friendly.",
+      "ja": "大きな犬は、人なつっこくても小さな子どもをおびえさせることがある。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "Voters must be free from intimidation at the polls.",
+      "ja": "有権者は投票所で脅されることがあってはならない。"
+    }
+  ],
+  "check_points": [
+    "intimidate A into doing の意味を言えるか",
+    "intimidate と frighten のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文・語彙問題で「脅す・威圧する」。be intimidated by と intimidating の意味の取り分け、into doing の型が出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2513
+    }
+  ]
+}

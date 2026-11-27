@@ -21,6 +21,16 @@
       ]
     },
     {
+      "title": "使い分け:目を通す・読む",
+      "note": "skim=表面をすくうように要点だけざっと読む ／ scan=特定の情報をさがして視線を端から端へ走らせる ／ browse=あちこち見て回り気の向いたものを拾い見する ／ peruse=すみずみまで1行ずつじっくり目を通す",
+      "words": [
+        "skim",
+        "scan",
+        "browse",
+        "peruse"
+      ]
+    },
+    {
       "title": "使い分け:気づく",
       "note": "notice=目や耳でふと気づく ／ realize=頭ではっとわかる ／ perceive=感覚でとらえる ／ detect=隠れたものを見つけ出す ／ spot=多くの中から見つける ／ aware・conscious=気づいている状態",
       "words": [
@@ -421,7 +431,7 @@
     },
     {
       "title": "使い分け:妨げる・防ぐ",
-      "note": "prevent=前に立ちはだかって起こらせない ／ hinder=じゃまして遅らせる ／ inhibit=内側から抑えて妨げる ／ deter=恐れさせて思いとどまらせる ／ discourage=やる気をくじく ／ restrain=手綱を引いて抑える ／ obstruct=前に置いてふさぐ ／ impede=足かせのように進行を重くする ／ hamper=重荷がからんで動きをにぶらせる",
+      "note": "prevent=前に立ちはだかって起こらせない ／ hinder=じゃまして遅らせる ／ inhibit=内側から抑えて妨げる ／ deter=恐れさせて思いとどまらせる ／ discourage=やる気をくじく ／ restrain=手綱を引いて抑える ／ obstruct=前に置いてふさぐ ／ impede=足かせのように進行を重くする ／ hamper=重荷がからんで動きをにぶらせる ／ thwart=横から立ちはだかって計画を途中でつぶす ／ curb=ブレーキをかけて行きすぎないよう抑える",
       "words": [
         "prevent",
         "hinder",
@@ -432,7 +442,9 @@
         "keep",
         "obstruct",
         "impede",
-        "hamper"
+        "hamper",
+        "thwart",
+        "curb"
       ]
     },
     {
@@ -879,7 +891,7 @@
     },
     {
       "title": "使い分け:増える・高める",
-      "note": "increase=数量が増える ／ expand=外へ広がって大きくなる ／ boost=下から押し上げる ／ accumulate=積み重なる ／ enhance=質・価値を高める ／ improve=よくする ／ swell=中からふくらむ(swollen) ／ enlarge=形はそのまま実際のサイズを大きくする ／ magnify=レンズで見た目を大きく見せる・大げさにする ／ amplify=音や力そのものを増幅する ／ intensify=激しさ・濃さを増す ／ strengthen=太く丈夫にしてくずれにくくする ／ enrich=中身をつぎ足して豊かにする(人生・文化・土)",
+      "note": "increase=数量が増える ／ expand=外へ広がって大きくなる ／ boost=下から押し上げる ／ accumulate=積み重なる ／ enhance=質・価値を高める ／ improve=よくする ／ swell=中からふくらむ(swollen) ／ enlarge=形はそのまま実際のサイズを大きくする ／ magnify=レンズで見た目を大きく見せる・大げさにする ／ amplify=音や力そのものを増幅する ／ intensify=激しさ・濃さを増す ／ strengthen=太く丈夫にしてくずれにくくする ／ enrich=中身をつぎ足して豊かにする(人生・文化・土) ／ escalate=階段を上がるように争い・緊張が段々と激しくなる",
       "words": [
         "increase",
         "expand",
@@ -894,7 +906,8 @@
         "amplify",
         "intensify",
         "strengthen",
-        "enrich"
+        "enrich",
+        "escalate"
       ]
     },
     {
@@ -986,7 +999,7 @@
     },
     {
       "title": "使い分け:直す・改める",
-      "note": "revise=見直して手を入れる ／ reform=制度の形を作り直す ／ refine=磨いて洗練する ／ improve=よりよくする ／ remedy=悪い点を治す ／ cure=病気を治す ／ repair=こわれた機械・建物を元どおりに修理する ／ mend=やぶれた服などをつくろう ／ renovate=古い建物を新しくよみがえらせる(リフォーム)",
+      "note": "revise=見直して手を入れる ／ reform=制度の形を作り直す ／ refine=磨いて洗練する ／ improve=よりよくする ／ remedy=悪い点を治す ／ cure=病気を治す ／ repair=こわれた機械・建物を元どおりに修理する ／ mend=やぶれた服などをつくろう ／ renovate=古い建物を新しくよみがえらせる(リフォーム) ／ amend=法律・文書の一部に手を入れて直す ／ rectify=ゆがんだ誤り・不正をまっすぐ正しい状態にもどす",
       "words": [
         "revise",
         "reform",
@@ -996,7 +1009,9 @@
         "cure",
         "repair",
         "mend",
-        "renovate"
+        "renovate",
+        "amend",
+        "rectify"
       ]
     },
     {
@@ -1883,7 +1898,7 @@
     },
     {
       "title": "使い分け:恐れる・怖がらせる",
-      "note": "afraid=怖がっている(状態) ／ frighten=急に恐怖を与える ／ dread=これから起こることを前もって恐れる ／ scared=(人が)こわくてびくびく(口語) ／ frightened=急な恐怖にぎょっとしておびえた ／ terrified=恐怖で身がすくむ(いちばん強い) ／ scary=(物事が)人をこわがらせる ／ horror=身の毛がよだつぞっとする恐怖 ／ panic=恐怖で頭が真っ白、あわてふためく(panicked)",
+      "note": "afraid=怖がっている(状態) ／ frighten=急に恐怖を与える ／ dread=これから起こることを前もって恐れる ／ scared=(人が)こわくてびくびく(口語) ／ frightened=急な恐怖にぎょっとしておびえた ／ terrified=恐怖で身がすくむ(いちばん強い) ／ scary=(物事が)人をこわがらせる ／ horror=身の毛がよだつぞっとする恐怖 ／ panic=恐怖で頭が真っ白、あわてふためく(panicked) ／ intimidate=大きく見せておびえさせ、言うことをきかせる ／ daunt=大きな壁(むずかしさ)を前にやる気をしぼませる(daunting)",
       "words": [
         "afraid",
         "frighten",
@@ -1893,7 +1908,9 @@
         "terrified",
         "scary",
         "horror",
-        "panic"
+        "panic",
+        "intimidate",
+        "daunt"
       ]
     },
     {

@@ -1,0 +1,89 @@
+{
+  "word": "peruse",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/pəˈruːz/",
+  "core_image": {
+    "text": "すみずみまで、1行ずつじっくり目を通す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"50\" y=\"24\" width=\"90\" height=\"112\"/><line x1=\"60\" y1=\"40\" x2=\"130\" y2=\"40\"/><line x1=\"60\" y1=\"56\" x2=\"130\" y2=\"56\"/><line x1=\"60\" y1=\"72\" x2=\"130\" y2=\"72\"/><line x1=\"60\" y1=\"88\" x2=\"130\" y2=\"88\"/><line x1=\"60\" y1=\"104\" x2=\"130\" y2=\"104\"/><line x1=\"60\" y1=\"120\" x2=\"130\" y2=\"120\"/><circle cx=\"100\" cy=\"72\" r=\"14\"/><line x1=\"110\" y1=\"82\" x2=\"124\" y2=\"96\"/><line x1=\"155\" y1=\"36\" x2=\"155\" y2=\"124\" stroke-dasharray=\"5 5\"/><polyline points=\"158.8,117 155,124 151.2,117\"/></g><text x=\"195\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">1行ずつ</text><text x=\"95\" y=\"152\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">じっくり</text></svg>"
+  },
+  "etymology": "per(すっかり・すみずみまで)+ use(使う)→ 使い尽くす → すみずみまで読む → ①(文書を)念入りに読む・精読する ②(くだけて)ざっと目を通す、の意味でも使われる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to read or look at something carefully, or (informally) to look through it in a relaxed way."
+    }
+  ],
+  "cautions": [
+    "本来は「念入りに読む」。くだけた英語では「ざっと見る」の意味でも使われ、意味が正反対になりうる。入試では「じっくり読む」と覚えておく",
+    "peruse=時間をかけてじっくり目を通す/skim=要点だけざっと読む/scan=特定の情報をさがして目を走らせる",
+    "他動詞:peruse A(A を精読する)。peruse through としないのがふつう。名詞 perusal(精読)。かたい書き言葉"
+  ],
+  "patterns": [
+    {
+      "form": "peruse A",
+      "meaning": "A(書類・メニューなど)にじっくり目を通す"
+    },
+    {
+      "form": "peruse a contract / document",
+      "meaning": "契約書・書類を精読する"
+    },
+    {
+      "form": "for one's perusal",
+      "meaning": "(人に)目を通してもらうために"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "精読する",
+      "en": "Please peruse the contract carefully before you sign it.",
+      "ja": "署名する前に、契約書にじっくり目を通してください。"
+    },
+    {
+      "source": "original",
+      "label": "時間をかけて",
+      "en": "He sat in the café, perusing the newspaper over a cup of coffee.",
+      "ja": "彼は喫茶店に座り、コーヒーを飲みながら新聞にじっくり目を通していた。"
+    },
+    {
+      "source": "original",
+      "label": "メニュー",
+      "en": "She perused the menu for a long time before ordering.",
+      "ja": "彼女は注文する前に長いことメニューをながめていた。"
+    },
+    {
+      "source": "original",
+      "label": "perusal",
+      "en": "I have attached the report for your perusal.",
+      "ja": "お目通しいただくため、報告書を添付しました。"
+    },
+    {
+      "source": "original",
+      "label": "skim との比較",
+      "en": "You can skim a magazine, but you should peruse a legal document.",
+      "ja": "雑誌はざっと読んでもいいが、法律の書類はじっくり読むべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "調べる",
+      "en": "The detective perused every page of the diary for clues.",
+      "ja": "刑事は手がかりをさがして日記のすべてのページに目を通した。"
+    }
+  ],
+  "check_points": [
+    "peruse の本来の意味(じっくり読む)を言えるか",
+    "peruse と skim のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "難関大の長文・語彙問題で「精読する」。skim / scan と対比させる選択肢で出る。名詞 perusal も。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2510
+    }
+  ]
+}

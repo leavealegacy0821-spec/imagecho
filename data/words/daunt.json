@@ -1,0 +1,93 @@
+{
+  "word": "daunt",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɔːnt/",
+  "core_image": {
+    "text": "大きな壁を前にして、やる気をしぼませる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"100\"/><line x1=\"50\" y1=\"74\" x2=\"60\" y2=\"100\"/><polygon points=\"100 140 160 30 225 140\"/></g><text x=\"50\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しりごみ</text><text x=\"162\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">大きな壁</text></svg>"
+  },
+  "etymology": "ラテン語 domitare(飼いならす)→ 古フランス語 danter → 勢いをくじいておとなしくさせる → ①(むずかしさ・大きさが人の)気持ちをくじく・ひるませる ②(be daunted で)しりごみする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone feel less confident about doing something because it seems difficult."
+    }
+  ],
+  "cautions": [
+    "daunt=むずかしさ・大きさを前に気持ちをくじく(主語はたいてい「仕事・課題」)/intimidate=人が脅しておびえさせる/discourage=やる気をそぐ(広く使う)",
+    "形容詞 daunting(気おくれするほど大変な)が最頻。a daunting task / challenge の形でおさえる",
+    "undaunted(ひるまない)、nothing daunted(少しもひるまず)。受け身 be daunted by A"
+  ],
+  "patterns": [
+    {
+      "form": "daunt A",
+      "meaning": "A をひるませる・気おくれさせる"
+    },
+    {
+      "form": "be daunted by A",
+      "meaning": "A にしりごみする"
+    },
+    {
+      "form": "a daunting task / challenge",
+      "meaning": "気が遠くなるほど大変な仕事・課題"
+    },
+    {
+      "form": "undaunted (by A)",
+      "meaning": "(A に)ひるまない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ひるませる",
+      "en": "The size of the project did not daunt her.",
+      "ja": "計画の大きさにも彼女はひるまなかった。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "Many students are daunted by the amount of homework.",
+      "ja": "多くの生徒が宿題の量にしりごみしている。"
+    },
+    {
+      "source": "original",
+      "label": "daunting",
+      "en": "Learning a new language can seem a daunting task at first.",
+      "ja": "新しい言語を学ぶのは、はじめは気の遠くなる仕事に思えることがある。"
+    },
+    {
+      "source": "original",
+      "label": "undaunted",
+      "en": "Undaunted by his failure, he tried again the next year.",
+      "ja": "失敗にもひるまず、彼は翌年もう一度挑戦した。"
+    },
+    {
+      "source": "original",
+      "label": "intimidate との比較",
+      "en": "The exam daunted nobody, but the strict examiner intimidated everyone.",
+      "ja": "試験そのものには誰もひるまなかったが、厳しい試験官は皆を萎縮させた。"
+    },
+    {
+      "source": "original",
+      "label": "大変な課題",
+      "en": "Rebuilding the city after the earthquake was a daunting challenge.",
+      "ja": "地震のあと町を立て直すのは、途方もなく大変な課題だった。"
+    }
+  ],
+  "check_points": [
+    "a daunting task の意味を言えるか",
+    "daunt と intimidate のちがい(課題がくじく/人が脅す)を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文で形容詞 daunting(大変な)が頻出。undaunted の意味を問う問題もある。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2514
+    }
+  ]
+}

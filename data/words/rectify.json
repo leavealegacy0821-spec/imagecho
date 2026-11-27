@@ -1,0 +1,93 @@
+{
+  "word": "rectify",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈrektɪfaɪ/",
+  "core_image": {
+    "text": "ゆがんだものをまっすぐにして、正しい状態にもどす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 80 Q35 50 50 80 T80 80 T110 80\"/><line x1=\"120\" y1=\"80\" x2=\"152\" y2=\"80\"/><polyline points=\"145,76.2 152,80 145,83.8\"/><line x1=\"162\" y1=\"80\" x2=\"222\" y2=\"80\"/></g><text x=\"65\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ゆがみ</text><text x=\"192\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">まっすぐ</text></svg>"
+  },
+  "etymology": "rect(まっすぐ・正しい。rectangle・correct と同じ根)+ ify(〜にする)→ まっすぐにする → (まちがい・不正・悪い状況を)正す・是正する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to correct something that is wrong."
+    }
+  ],
+  "cautions": [
+    "rectify=まちがい・不正・不公平な状況を正しい状態にもどす/correct=誤りを直す(ふつうの語)/amend=文書の一部を修正する",
+    "目的語は mistake / error / situation / problem / injustice など。かたい語で、correct・put right の言いかえとして出る",
+    "rectify は「まっすぐにする」が核。rect-(直)の語は right angle(直角)・rectangle(長方形)・erect(まっすぐ立てる)とつながる"
+  ],
+  "patterns": [
+    {
+      "form": "rectify A",
+      "meaning": "A(誤り・状況)を正す・是正する"
+    },
+    {
+      "form": "rectify a mistake / an error",
+      "meaning": "誤りを正す"
+    },
+    {
+      "form": "rectify the situation",
+      "meaning": "事態を正常にもどす"
+    },
+    {
+      "form": "rectify an injustice",
+      "meaning": "不正を正す"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "誤りを正す",
+      "en": "The company apologized and promised to rectify the error.",
+      "ja": "会社は謝罪し、その誤りを正すと約束した。"
+    },
+    {
+      "source": "original",
+      "label": "事態",
+      "en": "We need to act quickly to rectify the situation.",
+      "ja": "事態を正すために、すぐに手を打たなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "不正",
+      "en": "The new law was designed to rectify past injustices.",
+      "ja": "新しい法律は過去の不正を正すために作られた。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "The problem with the heating was rectified within a day.",
+      "ja": "暖房の不具合は1日のうちに直された。"
+    },
+    {
+      "source": "original",
+      "label": "不公平",
+      "en": "Schools should try to rectify the gap between rich and poor students.",
+      "ja": "学校は裕福な生徒と貧しい生徒の格差を正す努力をすべきだ。"
+    },
+    {
+      "source": "original",
+      "label": "amend との比較",
+      "en": "The editor amended one sentence to rectify a factual mistake.",
+      "ja": "編集者は事実の誤りを正すために一文を修正した。"
+    }
+  ],
+  "check_points": [
+    "rectify the situation の意味を言えるか",
+    "rectify の rect-(まっすぐ)から意味を説明できるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文・語彙問題で「正す・是正する」。correct / put right との言いかえで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2517
+    }
+  ]
+}

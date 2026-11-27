@@ -1,0 +1,93 @@
+{
+  "word": "escalate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈeskəleɪt/",
+  "core_image": {
+    "text": "階段を上がるように、段々と激しく大きくなる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"20 140 20 120 60 120 60 100 100 100 100 80 140 80 140 60 180 60 180 40 220 40\"/><line x1=\"30\" y1=\"105\" x2=\"190\" y2=\"25\"/><polyline points=\"182,24.7 190,25 185.4,31.6\"/></g><text x=\"80\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">段々と激しく</text></svg>"
+  },
+  "etymology": "escalator(エスカレーター)から逆に作られた語。根は scala(はしご・階段)→ 段を一段ずつ上がる → ①(争い・暴力・問題が)段階的に激しくなる・拡大する ②(費用・価格が)どんどん上がる ③(他動詞)〜を激化させる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to become, or make something become, greater, worse or more serious step by step."
+    }
+  ],
+  "cautions": [
+    "escalate=段階を追って激しく・深刻になる(争い・緊張・暴力)/increase=数量がふえる(よい悪いを問わない)/intensify=激しさが増す",
+    "主語は conflict / tension / violence / dispute / costs など「悪いもの」が多い。escalate into A(段々と A にまで発展する)の型が大事",
+    "自動詞(激化する)と他動詞(激化させる)の両方。反対語 de-escalate(段階的に緩和する)。名詞 escalation"
+  ],
+  "patterns": [
+    {
+      "form": "A escalate",
+      "meaning": "A(争い・緊張)が激化する"
+    },
+    {
+      "form": "escalate into A",
+      "meaning": "段々と A にまで発展する"
+    },
+    {
+      "form": "escalate A",
+      "meaning": "A を激化・拡大させる"
+    },
+    {
+      "form": "escalating costs",
+      "meaning": "どんどん上がる費用"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "激化する",
+      "en": "Tension between the two countries escalated quickly.",
+      "ja": "両国間の緊張は急速に高まった。"
+    },
+    {
+      "source": "original",
+      "label": "escalate into",
+      "en": "What began as a small argument escalated into a fight.",
+      "ja": "ささいな口論から始まったことが、けんかにまで発展した。"
+    },
+    {
+      "source": "original",
+      "label": "他動詞",
+      "en": "Sending more troops would only escalate the conflict.",
+      "ja": "軍をさらに送れば紛争を激化させるだけだろう。"
+    },
+    {
+      "source": "original",
+      "label": "費用",
+      "en": "The family struggled to pay the escalating cost of medical care.",
+      "ja": "その家族はどんどん上がる医療費の支払いに苦しんだ。"
+    },
+    {
+      "source": "original",
+      "label": "問題の拡大",
+      "en": "If we ignore the problem now, it will escalate later.",
+      "ja": "いま問題を放っておくと、あとで大きくなるだろう。"
+    },
+    {
+      "source": "original",
+      "label": "de-escalate",
+      "en": "Both leaders agreed to talks to de-escalate the situation.",
+      "ja": "両首脳は事態を沈静化させるための会談に合意した。"
+    }
+  ],
+  "check_points": [
+    "escalate into A の意味を言えるか",
+    "escalate と increase のちがいを言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "国際関係・社会問題の長文で「激化する・拡大する」。escalate into の型と、主語が悪いものになる点が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2515
+    }
+  ]
+}

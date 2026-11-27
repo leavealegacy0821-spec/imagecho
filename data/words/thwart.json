@@ -1,0 +1,93 @@
+{
+  "word": "thwart",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/θwɔːrt/",
+  "core_image": {
+    "text": "横から立ちはだかって、相手の計画を途中でつぶす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"58\" y2=\"80\"/><line x1=\"40\" y1=\"74\" x2=\"28\" y2=\"98\"/><line x1=\"62\" y1=\"80\" x2=\"118\" y2=\"80\"/><polyline points=\"111,76.2 118,80 111,83.8\"/><rect x=\"124\" y=\"56\" width=\"10\" height=\"84\"/><line x1=\"172\" y1=\"30\" x2=\"140\" y2=\"52\"/><polyline points=\"148,51.2 140,52 143.6,44.9\"/><line x1=\"200\" y1=\"140\" x2=\"200\" y2=\"60\"/><polygon points=\"200 60 225 68 200 76\"/></g><text x=\"90\" y=\"68\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">計画</text><text x=\"196\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">横から</text></svg>"
+  },
+  "etymology": "古ノルド語 thvert(横切って)→ 行く手を横切って立ちはだかる → ①(計画・企て・人を)くじく・阻止する ②(be thwarted で)はばまれる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stop someone from doing what they are trying to do, or to stop a plan from succeeding."
+    }
+  ],
+  "cautions": [
+    "thwart=計画・たくらみを途中でつぶして失敗させる/prevent=起こる前に防ぐ/hinder=じゃまして遅らせる(失敗までは言わない)",
+    "目的語は plan / attempt / effort / plot など「企て」が多い。人も目的語にとれる(thwart A in B=A の B をはばむ)",
+    "受け身 be thwarted(はばまれる)が長文でよく出る。悪事を「阻止する」にもよい事を「くじく」にも使える"
+  ],
+  "patterns": [
+    {
+      "form": "thwart A",
+      "meaning": "A(計画・企て)をくじく・阻止する"
+    },
+    {
+      "form": "thwart an attempt / a plan",
+      "meaning": "試み・計画を阻止する"
+    },
+    {
+      "form": "be thwarted (by A)",
+      "meaning": "(A に)はばまれる"
+    },
+    {
+      "form": "thwart A in B",
+      "meaning": "A の B をはばむ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "阻止する",
+      "en": "The police thwarted a plan to rob the bank.",
+      "ja": "警察は銀行強盗の計画を阻止した。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "Their attempt to climb the mountain was thwarted by bad weather.",
+      "ja": "彼らの登山の試みは悪天候にはばまれた。"
+    },
+    {
+      "source": "original",
+      "label": "人を",
+      "en": "She was thwarted in her ambition to become a doctor.",
+      "ja": "彼女は医者になるという志をはばまれた。"
+    },
+    {
+      "source": "original",
+      "label": "効果をつぶす",
+      "en": "The new security system thwarted several hacking attacks.",
+      "ja": "新しい安全システムはいくつものハッキング攻撃を食い止めた。"
+    },
+    {
+      "source": "original",
+      "label": "hinder との比較",
+      "en": "The rain hindered our progress, but it did not thwart our plan.",
+      "ja": "雨で進みは遅れたが、計画がつぶれることはなかった。"
+    },
+    {
+      "source": "original",
+      "label": "くじく",
+      "en": "Every effort to reform the system has been thwarted by politicians.",
+      "ja": "制度を改革しようとする努力はことごとく政治家につぶされてきた。"
+    }
+  ],
+  "check_points": [
+    "thwart と hinder のちがい(つぶす/遅らせる)を言えるか",
+    "be thwarted by の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文・語彙問題で「(計画を)阻止する」。frustrate / foil などとの言いかえで出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2511
+    }
+  ]
+}

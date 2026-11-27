@@ -1,0 +1,98 @@
+{
+  "word": "curb",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/kɜːrb/",
+  "core_image": {
+    "text": "ブレーキをかけて、行きすぎないように抑える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"30 130 90 80\"/><line x1=\"90\" y1=\"80\" x2=\"200\" y2=\"70\"/><polyline points=\"192.7,66.8 200,70 193.4,74.5\"/><line x1=\"90\" y1=\"80\" x2=\"150\" y2=\"20\" stroke-dasharray=\"5 5\"/><polyline points=\"142.3,22.3 150,20 147.7,27.7\"/><line x1=\"170\" y1=\"20\" x2=\"170\" y2=\"56\"/><polyline points=\"173.8,49 170,56 166.2,49\"/></g><text x=\"110\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">伸びすぎ</text><text x=\"205\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">抑える</text></svg>"
+  },
+  "etymology": "馬の口にかけて勢いを抑える曲がった鎖(curb。curve と同じ根)→ 勢いを抑える → ①(増加・感情・悪い行いを)抑制する ②(名)抑制・歯止め ③(名・米)歩道の縁石",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to control or limit something, especially something bad."
+    },
+    {
+      "pos": "名詞",
+      "text": "a control or limit on something; (US) the edge of a sidewalk."
+    }
+  ],
+  "cautions": [
+    "curb=増えすぎ・行きすぎにブレーキをかけて抑える(なくすわけではない)/restrain=手綱を引いて抑える(人・感情)/prevent=起こらないようにする",
+    "目的語は inflation / spending / emissions / anger など「増えたり暴れたりするもの」。名詞 put a curb on A(A に歯止めをかける)",
+    "アメリカ英語では「歩道の縁石」(イギリス英語は kerb)。会話文で出ることも"
+  ],
+  "patterns": [
+    {
+      "form": "curb A",
+      "meaning": "A(増加・感情)を抑制する"
+    },
+    {
+      "form": "curb inflation / spending",
+      "meaning": "インフレ・支出を抑える"
+    },
+    {
+      "form": "curb one's anger / temper",
+      "meaning": "怒りを抑える"
+    },
+    {
+      "form": "put a curb on A",
+      "meaning": "A に歯止めをかける"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "増加を抑える",
+      "en": "The government introduced new taxes to curb inflation.",
+      "ja": "政府はインフレを抑えるために新しい税を導入した。"
+    },
+    {
+      "source": "original",
+      "label": "排出を抑える",
+      "en": "Many countries have promised to curb carbon emissions.",
+      "ja": "多くの国が二酸化炭素の排出を抑制すると約束している。"
+    },
+    {
+      "source": "original",
+      "label": "感情",
+      "en": "He tried hard to curb his anger during the argument.",
+      "ja": "彼は口論の間、怒りを抑えようと必死だった。"
+    },
+    {
+      "source": "original",
+      "label": "悪い行い",
+      "en": "The school took steps to curb bullying.",
+      "ja": "学校はいじめを抑えるための対策をとった。"
+    },
+    {
+      "source": "original",
+      "label": "名詞 歯止め",
+      "en": "The new law puts a curb on the sale of alcohol to minors.",
+      "ja": "新しい法律は未成年への酒の販売に歯止めをかける。"
+    },
+    {
+      "source": "original",
+      "label": "縁石",
+      "en": "The driver pulled over to the curb and stopped the car.",
+      "ja": "運転手は縁石に車を寄せて止めた。"
+    }
+  ],
+  "check_points": [
+    "curb inflation の意味を言えるか",
+    "curb と prevent のちがい(抑える/起こらせない)を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "経済・環境の長文で「抑制する」。restrain / control / check との言いかえ問題でよく出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2512
+    }
+  ]
+}

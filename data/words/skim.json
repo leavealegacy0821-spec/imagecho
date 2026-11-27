@@ -1,0 +1,93 @@
+{
+  "word": "skim",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/skɪm/",
+  "core_image": {
+    "text": "表面だけをすくうように、ざっと要点を拾う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 80 Q60 130 100 80\"/><line x1=\"28\" y1=\"88\" x2=\"92\" y2=\"88\"/><ellipse cx=\"40\" cy=\"84\" rx=\"10\" ry=\"4\"/><line x1=\"40\" y1=\"84\" x2=\"58\" y2=\"44\"/><line x1=\"54\" y1=\"72\" x2=\"96\" y2=\"72\"/><polyline points=\"89,68.2 96,72 89,75.8\"/><rect x=\"140\" y=\"30\" width=\"70\" height=\"96\"/><line x1=\"148\" y1=\"46\" x2=\"202\" y2=\"46\"/><line x1=\"148\" y1=\"62\" x2=\"202\" y2=\"62\"/><line x1=\"148\" y1=\"78\" x2=\"202\" y2=\"78\"/><line x1=\"148\" y1=\"94\" x2=\"202\" y2=\"94\"/><line x1=\"148\" y1=\"110\" x2=\"202\" y2=\"110\"/><polyline points=\"146 40 204 56 146 72 204 88 146 104 204 118\"/></g><text x=\"60\" y=\"128\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">表面だけ</text><text x=\"175\" y=\"145\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ざっと読む</text></svg>"
+  },
+  "etymology": "もとは液体の表面に浮いた泡や脂を「すくい取る」(skim milk=脂肪をすくい取った牛乳)→ 表面だけをかすめる → ①(文章に)ざっと目を通す ②(表面を)すれすれにかすめて進む ③(液体の上ずみを)すくい取る",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to read something quickly to find the main ideas, or to remove something from the surface of a liquid."
+    }
+  ],
+  "cautions": [
+    "skim=要点だけ拾ってざっと読む/scan=特定の情報(名前・数字など)をさがして視線を走らせる。読解問題の「スキミング・スキャニング」の区別",
+    "skim through / skim over A(A にざっと目を通す)の形が多い。「まったく読まない」ではなく「大まかに読む」",
+    "石が水面をはねる「水切り」や、鳥が水面すれすれに飛ぶのも skim(表面をかすめる)"
+  ],
+  "patterns": [
+    {
+      "form": "skim (through / over) A",
+      "meaning": "A にざっと目を通す"
+    },
+    {
+      "form": "skim the surface (of A)",
+      "meaning": "(A の)表面をなでるだけで深入りしない"
+    },
+    {
+      "form": "skim A off B",
+      "meaning": "B の表面から A をすくい取る"
+    },
+    {
+      "form": "skim milk",
+      "meaning": "脱脂乳"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ざっと読む",
+      "en": "I skimmed the article before the meeting to get the main points.",
+      "ja": "要点をつかむために、会議の前にその記事にざっと目を通した。"
+    },
+    {
+      "source": "original",
+      "label": "skim through",
+      "en": "She skimmed through the textbook the night before the test.",
+      "ja": "彼女はテストの前の晩に教科書をざっと読み流した。"
+    },
+    {
+      "source": "original",
+      "label": "scan との比較",
+      "en": "Skim the passage first, then scan it for the dates you need.",
+      "ja": "まず文章をざっと読み、それから必要な日付をさがして目を走らせなさい。"
+    },
+    {
+      "source": "original",
+      "label": "表面をかすめる",
+      "en": "The bird skimmed over the surface of the lake.",
+      "ja": "その鳥は湖面すれすれをかすめるように飛んだ。"
+    },
+    {
+      "source": "original",
+      "label": "深入りしない",
+      "en": "This short report only skims the surface of the problem.",
+      "ja": "この短い報告書はその問題の表面をなでているだけだ。"
+    },
+    {
+      "source": "original",
+      "label": "すくい取る",
+      "en": "Skim the fat off the soup before serving it.",
+      "ja": "出す前にスープの上の脂をすくい取りなさい。"
+    }
+  ],
+  "check_points": [
+    "skim と scan の読み方のちがいを言えるか",
+    "skim the surface の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "読解の方法を説明する文や、長文中の「ざっと読む」。scan との区別と skim the surface の比ゆが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2508
+    }
+  ]
+}

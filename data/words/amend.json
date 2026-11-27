@@ -1,0 +1,93 @@
+{
+  "word": "amend",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈmend/",
+  "core_image": {
+    "text": "文の一部に手を入れて、より正しく直す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"70\" y=\"24\" width=\"100\" height=\"116\"/><line x1=\"80\" y1=\"44\" x2=\"160\" y2=\"44\"/><line x1=\"80\" y1=\"64\" x2=\"100\" y2=\"64\"/><line x1=\"108\" y1=\"58\" x2=\"132\" y2=\"70\"/><line x1=\"108\" y1=\"70\" x2=\"132\" y2=\"58\"/><line x1=\"140\" y1=\"64\" x2=\"160\" y2=\"64\"/><line x1=\"80\" y1=\"84\" x2=\"160\" y2=\"84\"/><line x1=\"80\" y1=\"104\" x2=\"160\" y2=\"104\"/><line x1=\"80\" y1=\"124\" x2=\"160\" y2=\"124\"/><line x1=\"210\" y1=\"24\" x2=\"150\" y2=\"56\"/></g><text x=\"120\" y=\"154\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">一部だけ直す</text></svg>"
+  },
+  "etymology": "ラテン語 emendare(ex 外へ + menda 欠点)→ 欠点を取り除く → ①(法律・規則・文書を)修正する・改正する ②(行いを)改める。make amends は「埋め合わせをする・償う」",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make small changes to a law, document or statement, especially to correct or improve it."
+    }
+  ],
+  "cautions": [
+    "amend=法律・文書の一部に手を入れて修正する(全体は残す)/reform=制度の形そのものを作り直す/revise=全体を見直して手を入れる",
+    "名詞 amendment(修正・改正)。the First Amendment(アメリカ憲法修正第1条)のように時事・歴史の長文で出る",
+    "make amends (to A for B)(A に B の埋め合わせをする・償う)は別の熟語として狙われる。amends は複数形で使う"
+  ],
+  "patterns": [
+    {
+      "form": "amend A",
+      "meaning": "A(法律・文書)を修正・改正する"
+    },
+    {
+      "form": "amend the constitution / law",
+      "meaning": "憲法・法律を改正する"
+    },
+    {
+      "form": "amendment",
+      "meaning": "修正・改正(条項)"
+    },
+    {
+      "form": "make amends (for A)",
+      "meaning": "(A の)埋め合わせをする・償う"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "法律を改正",
+      "en": "The government plans to amend the law next year.",
+      "ja": "政府は来年その法律を改正する予定だ。"
+    },
+    {
+      "source": "original",
+      "label": "文書を修正",
+      "en": "Please amend the date on the form before you submit it.",
+      "ja": "提出する前に用紙の日付を修正してください。"
+    },
+    {
+      "source": "original",
+      "label": "憲法",
+      "en": "Should the constitution be amended to reflect modern values?",
+      "ja": "憲法は現代の価値観を反映するよう改正されるべきだろうか。"
+    },
+    {
+      "source": "original",
+      "label": "amendment",
+      "en": "Several amendments were made to the original plan.",
+      "ja": "もとの計画にいくつかの修正が加えられた。"
+    },
+    {
+      "source": "original",
+      "label": "make amends",
+      "en": "He bought her flowers to make amends for forgetting her birthday.",
+      "ja": "彼は彼女の誕生日を忘れた埋め合わせに花を買った。"
+    },
+    {
+      "source": "original",
+      "label": "reform との比較",
+      "en": "They didn't reform the whole system; they only amended a few rules.",
+      "ja": "彼らは制度全体を作り直したのではなく、いくつかの規則を修正しただけだ。"
+    }
+  ],
+  "check_points": [
+    "amend と reform のちがいを言えるか",
+    "make amends の意味を言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "政治・法律の長文で「改正する」、名詞 amendment(修正条項)。make amends の熟語も語彙問題で出る。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2516
+    }
+  ]
+}
