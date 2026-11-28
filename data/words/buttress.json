@@ -1,0 +1,94 @@
+{
+  "word": "buttress",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈbʌtrəs/",
+  "core_image": {
+    "text": "壁が倒れないよう、外側から斜めにつっかえ棒を当てる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"60\" y=\"40\" width=\"40\" height=\"100\"/><polyline points=\"100,70 150,140\"/><polyline points=\"100,90 130,140\"/><line x1=\"100\" y1=\"70\" x2=\"112\" y2=\"70\"/></g><text x=\"80\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">壁</text><text x=\"170\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">外から支える</text></svg>"
+  },
+  "etymology": "古フランス語 bouter(押す)→ 押し返すもの → 名 ①(建物の)控え壁・支え 動 ②(主張・制度などを)支える・裏づける",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to support or strengthen an idea, argument, or system."
+    },
+    {
+      "pos": "名詞",
+      "text": "a structure built against a wall to support it."
+    }
+  ],
+  "cautions": [
+    "もとは建物の「控え壁」(外から壁を押し返して支える)。動詞は主張・考え・制度を支える意味が中心",
+    "bolster=弱ったものを持ち直させる(自信・士気)/buttress=主張・立場を証拠で外から支える(かたい書きことば)/underpin=見えない土台として下から支える",
+    "be buttressed by A(A に裏づけられている)の受け身が多い"
+  ],
+  "patterns": [
+    {
+      "form": "buttress an argument / a theory",
+      "meaning": "主張・理論を裏づける"
+    },
+    {
+      "form": "be buttressed by A",
+      "meaning": "A に支えられる・裏づけられる"
+    },
+    {
+      "form": "a flying buttress",
+      "meaning": "(教会などの)飛び控え壁"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "主張",
+      "en": "He buttressed his claim with several examples.",
+      "ja": "彼はいくつかの例で自分の主張を裏づけた。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "The theory is buttressed by years of research.",
+      "ja": "その理論は長年の研究に裏づけられている。"
+    },
+    {
+      "source": "original",
+      "label": "制度",
+      "en": "New laws were passed to buttress the weak banking system.",
+      "ja": "弱い銀行制度を支えるために新しい法律が作られた。"
+    },
+    {
+      "source": "original",
+      "label": "立場",
+      "en": "The new evidence buttressed the defense's position.",
+      "ja": "新しい証拠は弁護側の立場を強めた。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The old church wall is supported by stone buttresses.",
+      "ja": "その古い教会の壁は石の控え壁で支えられている。"
+    },
+    {
+      "source": "original",
+      "label": "比喩",
+      "en": "Strong family ties are a buttress against hard times.",
+      "ja": "家族の強い結びつきは、苦しい時期の支えになる。"
+    }
+  ],
+  "check_points": [
+    "建物の控え壁の絵から「主張を支える」がわかるか",
+    "bolster とのちがいが言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文に出る。support・reinforce との言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2689
+    }
+  ]
+}

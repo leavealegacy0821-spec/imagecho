@@ -1,0 +1,94 @@
+{
+  "word": "underpin",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˌʌndərˈpɪn/",
+  "core_image": {
+    "text": "上に乗るものを、見えない下から土台で支える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"60\" y=\"50\" width=\"120\" height=\"50\"/><line x1=\"70\" y1=\"100\" x2=\"70\" y2=\"140\"/><line x1=\"120\" y1=\"100\" x2=\"120\" y2=\"140\"/><line x1=\"170\" y1=\"100\" x2=\"170\" y2=\"140\"/><line x1=\"95\" y1=\"136\" x2=\"95\" y2=\"106\"/><polyline points=\"91.2,113 95,106 98.8,113\"/></g><text x=\"120\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">考え・制度</text><text x=\"200\" y=\"120\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">土台</text></svg>"
+  },
+  "etymology": "under(下に)+ pin(留める・支柱)→ 下に支柱を入れる → ①(建物を)下から補強する ②(考え・理論・制度などの)土台となる・根底で支える",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to give strength or support to something, especially by forming the basis of it."
+    }
+  ],
+  "cautions": [
+    "主語は「土台」、目的語は「その上にあるもの」:These ideas underpin the theory.(この考えがその理論の土台だ)",
+    "受け身 be underpinned by A(A に支えられている・A が土台になっている)が多い",
+    "名詞 underpinning(s)=土台・根拠",
+    "bolster・buttress=外から支えを当てる/underpin=見えない根底から支える(基礎・前提)"
+  ],
+  "patterns": [
+    {
+      "form": "A underpin B",
+      "meaning": "A が B の土台になる"
+    },
+    {
+      "form": "be underpinned by A",
+      "meaning": "A に根底で支えられる"
+    },
+    {
+      "form": "the principles that underpin A",
+      "meaning": "A の根底にある原則"
+    },
+    {
+      "form": "theoretical underpinnings",
+      "meaning": "理論的な土台"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "土台",
+      "en": "Trust underpins every good relationship.",
+      "ja": "信頼はすべてのよい関係の土台になっている。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "The economy is underpinned by strong exports.",
+      "ja": "その国の経済は好調な輸出に支えられている。"
+    },
+    {
+      "source": "original",
+      "label": "原則",
+      "en": "We must understand the values that underpin our laws.",
+      "ja": "私たちは法律の根底にある価値観を理解しなければならない。"
+    },
+    {
+      "source": "original",
+      "label": "研究",
+      "en": "His conclusions are underpinned by careful research.",
+      "ja": "彼の結論は丁寧な研究に裏づけられている。"
+    },
+    {
+      "source": "original",
+      "label": "建物",
+      "en": "Workers underpinned the old house to stop it from sinking.",
+      "ja": "作業員は古い家が沈まないよう土台を補強した。"
+    },
+    {
+      "source": "original",
+      "label": "名詞形",
+      "en": "The theory lacks solid scientific underpinnings.",
+      "ja": "その理論にはしっかりした科学的な土台がない。"
+    }
+  ],
+  "check_points": [
+    "主語(土台)と目的語(上のもの)の向きがわかるか",
+    "bolster・buttress とのちがいが言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文に出る。be underpinned by A、support・be based on との言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2690
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "word": "bolster",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈboʊlstər/",
+  "core_image": {
+    "text": "くずれそうなものに、横からクッションを当てて支える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"70\" y=\"60\" width=\"50\" height=\"80\"/><rect x=\"122\" y=\"92\" width=\"38\" height=\"24\" rx=\"10\"/><line x1=\"196\" y1=\"104\" x2=\"166\" y2=\"104\"/><polyline points=\"173,107.8 166,104 173,100.2\"/><line x1=\"196\" y1=\"104\" x2=\"210\" y2=\"104\"/></g><text x=\"95\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">弱った所</text><text x=\"185\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">当てて支える</text></svg>"
+  },
+  "etymology": "bolster(長いまくら・クッション)→ まくらを当てて支える → ①(自信・士気などを)強める・高める ②(主張・経済などを)支える・てこ入れする 名 ③長いまくら",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to support or improve something, especially to make it stronger or more confident."
+    },
+    {
+      "pos": "名詞",
+      "text": "a long, firm pillow."
+    }
+  ],
+  "cautions": [
+    "目的語は「弱りかけたもの」:bolster confidence / morale / the economy(自信・士気・経済を支える)",
+    "物を物理的に支えるより、気持ち・主張・経済など抽象的なものに多い",
+    "reinforce=材料を足して補強する/bolster=弱ったものに支えを当てて持ち直させる(自信・士気)/underpin=下から土台として支える",
+    "bolster A with B(B で A を補強する)の形も出る"
+  ],
+  "patterns": [
+    {
+      "form": "bolster confidence / morale",
+      "meaning": "自信・士気を高める"
+    },
+    {
+      "form": "bolster the economy",
+      "meaning": "経済をてこ入れする"
+    },
+    {
+      "form": "bolster an argument / a claim",
+      "meaning": "主張を裏づけて強める"
+    },
+    {
+      "form": "bolster A with B",
+      "meaning": "B で A を強める"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "自信",
+      "en": "Winning the first game bolstered the team's confidence.",
+      "ja": "初戦に勝ったことでチームの自信が高まった。"
+    },
+    {
+      "source": "original",
+      "label": "経済",
+      "en": "The government cut taxes to bolster the economy.",
+      "ja": "政府は経済をてこ入れするために減税した。"
+    },
+    {
+      "source": "original",
+      "label": "主張",
+      "en": "She bolstered her argument with clear data.",
+      "ja": "彼女ははっきりしたデータで自分の主張を強めた。"
+    },
+    {
+      "source": "original",
+      "label": "士気",
+      "en": "The captain's speech bolstered the soldiers' morale.",
+      "ja": "隊長の演説は兵士たちの士気を高めた。"
+    },
+    {
+      "source": "original",
+      "label": "評判",
+      "en": "The new product helped bolster the company's reputation.",
+      "ja": "その新製品は会社の評判を高めるのに役立った。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "She leaned back against a soft bolster on the sofa.",
+      "ja": "彼女はソファの柔らかい長まくらにもたれた。"
+    }
+  ],
+  "check_points": [
+    "bolster の目的語に自信・士気・経済が来ることがわかるか",
+    "reinforce・underpin とのちがいが言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文に出る。bolster confidence、strengthen・boost との言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2688
+    }
+  ]
+}

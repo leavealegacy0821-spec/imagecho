@@ -1,0 +1,90 @@
+{
+  "word": "extrapolate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪkˈstræpəleɪt/",
+  "core_image": {
+    "text": "わかっている点の線を、その先の外までのばして推し量る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"30\" y1=\"140\" x2=\"220\" y2=\"140\"/><line x1=\"30\" y1=\"140\" x2=\"30\" y2=\"20\"/><circle cx=\"50\" cy=\"120\" r=\"4\"/><circle cx=\"80\" cy=\"104\" r=\"4\"/><circle cx=\"110\" cy=\"88\" r=\"4\"/><line x1=\"50\" y1=\"120\" x2=\"110\" y2=\"88\"/><line x1=\"110\" y1=\"88\" x2=\"196\" y2=\"42\" stroke-dasharray=\"5 5\"/><polyline points=\"188,41.9 196,42 191.6,48.7\"/><circle cx=\"200\" cy=\"40\" r=\"6\"/></g><text x=\"80\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">わかっている</text><text x=\"180\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">その先を推測</text></svg>"
+  },
+  "etymology": "extra(外へ)+ (inter)polate(間を埋める)→ わかっている範囲の外へのばす → ①(今のデータから)推定する・予測する ②(ある事例から)一般化して当てはめる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to use known facts to make a guess or prediction about a situation that is outside the range of those facts."
+    }
+  ],
+  "cautions": [
+    "型:extrapolate (A) from B(B から A を推定する)/extrapolate to C(C に当てはめて推し量る)",
+    "interpolate=わかっている点の「間」を埋める/extrapolate=わかっている範囲の「外」へのばす",
+    "infer=手がかりから結論を引き出す(広い)/extrapolate=今の傾向をその先・別の場面にのばして推す",
+    "少ないデータからの推定は危ないという文脈でよく出る"
+  ],
+  "patterns": [
+    {
+      "form": "extrapolate A from B",
+      "meaning": "B から A を推定する"
+    },
+    {
+      "form": "extrapolate from B",
+      "meaning": "B をもとに推し量る"
+    },
+    {
+      "form": "extrapolate to C",
+      "meaning": "C に当てはめて推測する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "データ",
+      "en": "Scientists extrapolated future temperatures from past data.",
+      "ja": "科学者たちは過去のデータから将来の気温を推定した。"
+    },
+    {
+      "source": "original",
+      "label": "from",
+      "en": "You cannot extrapolate from such a small sample.",
+      "ja": "そんなに少ない標本から推し量ることはできない。"
+    },
+    {
+      "source": "original",
+      "label": "to",
+      "en": "These results may not extrapolate to other countries.",
+      "ja": "この結果はほかの国には当てはまらないかもしれない。"
+    },
+    {
+      "source": "original",
+      "label": "傾向",
+      "en": "If we extrapolate current trends, the population will double.",
+      "ja": "今の傾向をのばしてみると、人口は2倍になるだろう。"
+    },
+    {
+      "source": "original",
+      "label": "一般化",
+      "en": "It is dangerous to extrapolate from one person's experience.",
+      "ja": "1人の経験から一般化するのは危険だ。"
+    },
+    {
+      "source": "original",
+      "label": "予測",
+      "en": "The company extrapolated its sales for the next five years.",
+      "ja": "その会社は今後5年の売り上げを予測した。"
+    }
+  ],
+  "check_points": [
+    "interpolate(間)と extrapolate(外)のちがいがわかるか",
+    "extrapolate A from B の形が言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文(科学・統計)に出る。infer・predict・generalize との言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2697
+    }
+  ]
+}

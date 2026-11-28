@@ -1,0 +1,90 @@
+{
+  "word": "assuage",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/əˈsweɪdʒ/",
+  "core_image": {
+    "text": "ひりひりする気持ちや渇きに、甘いものをのせてやわらげる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"150\" cy=\"52\" r=\"10\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"106\"/><line x1=\"150\" y1=\"106\" x2=\"140\" y2=\"140\"/><line x1=\"150\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"150\" y1=\"74\" x2=\"130\" y2=\"94\"/><line x1=\"150\" y1=\"74\" x2=\"170\" y2=\"94\"/><path d=\"M144,40 Q150,34 156,40\"/><line x1=\"60\" y1=\"60\" x2=\"132\" y2=\"60\" stroke-dasharray=\"5 5\"/><polyline points=\"125,56.2 132,60 125,63.8\"/><rect x=\"30\" y=\"48\" width=\"24\" height=\"24\"/></g><text x=\"42\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">和らげ</text><text x=\"190\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">不安・渇き</text></svg>"
+  },
+  "etymology": "ad(〜へ)+ suavis(甘い・やさしい)→ 甘くする → ①(不安・苦痛・罪悪感などを)和らげる ②(渇き・飢えを)いやす・満たす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make an unpleasant feeling less strong; to satisfy a need such as hunger or thirst."
+    }
+  ],
+  "cautions": [
+    "目的語は「つらい感情」か「渇き・飢え」:assuage fears / guilt / thirst",
+    "人を目的語にとらない:×assuage him → soothe / comfort him",
+    "suave(物腰のやわらかな)と同じ語源(suavis=甘い)",
+    "soothe=気持ち・痛みをそっと静める(人も可)/alleviate=重荷を軽くする/assuage=感情・欲求をやわらげて満たす(かたい語)"
+  ],
+  "patterns": [
+    {
+      "form": "assuage fears / anxiety",
+      "meaning": "不安を和らげる"
+    },
+    {
+      "form": "assuage one's guilt",
+      "meaning": "罪悪感を和らげる"
+    },
+    {
+      "form": "assuage hunger / thirst",
+      "meaning": "飢え・渇きをいやす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "不安",
+      "en": "The doctor tried to assuage the patient's fears.",
+      "ja": "医師は患者の不安を和らげようとした。"
+    },
+    {
+      "source": "original",
+      "label": "罪悪感",
+      "en": "He bought her flowers to assuage his guilt.",
+      "ja": "彼は罪悪感を和らげるために彼女に花を買った。"
+    },
+    {
+      "source": "original",
+      "label": "渇き",
+      "en": "A cold glass of water assuaged my thirst.",
+      "ja": "冷たい水1杯で、のどの渇きがいやされた。"
+    },
+    {
+      "source": "original",
+      "label": "懸念",
+      "en": "The company issued a statement to assuage public concern.",
+      "ja": "会社は世間の心配を和らげるために声明を出した。"
+    },
+    {
+      "source": "original",
+      "label": "悲しみ",
+      "en": "Nothing could assuage her grief after the loss.",
+      "ja": "その死の後、何ものも彼女の悲しみを和らげることはできなかった。"
+    },
+    {
+      "source": "original",
+      "label": "怒り",
+      "en": "His apology did little to assuage their anger.",
+      "ja": "彼の謝罪は彼らの怒りをほとんど和らげなかった。"
+    }
+  ],
+  "check_points": [
+    "目的語に感情・渇きが来て、人は来ないことがわかるか",
+    "soothe・alleviate とのちがいが言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文・語彙問題に出る。ease・relieve・allay との言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2694
+    }
+  ]
+}

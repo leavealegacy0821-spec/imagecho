@@ -1,0 +1,90 @@
+{
+  "word": "mollify",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈmɑːlɪfaɪ/",
+  "core_image": {
+    "text": "かたく怒った相手を、もみほぐすようにやわらかくする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"100\" y2=\"74\"/><line x1=\"70\" y1=\"74\" x2=\"100\" y2=\"86\"/><circle cx=\"170\" cy=\"52\" r=\"10\"/><line x1=\"170\" y1=\"62\" x2=\"170\" y2=\"106\"/><line x1=\"170\" y1=\"106\" x2=\"160\" y2=\"140\"/><line x1=\"170\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"170\" y1=\"74\" x2=\"156\" y2=\"92\"/><line x1=\"170\" y1=\"74\" x2=\"184\" y2=\"92\"/><line x1=\"162\" y1=\"40\" x2=\"168\" y2=\"44\"/><line x1=\"178\" y1=\"40\" x2=\"172\" y2=\"44\"/><line x1=\"104\" y1=\"60\" x2=\"150\" y2=\"60\" stroke-dasharray=\"5 5\"/><polyline points=\"143,56.2 150,60 143,63.8\"/></g><text x=\"40\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">なだめる</text><text x=\"204\" y=\"32\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">怒り</text></svg>"
+  },
+  "etymology": "mollis(やわらかい)+ -ify(〜にする)→ やわらかくする → ①(怒っている人を)なだめる・機嫌を直させる ②(怒り・要求を)和らげる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone less angry or upset."
+    }
+  ],
+  "cautions": [
+    "目的語はふつう「怒っている人」:mollify an angry customer",
+    "受け身・否定で「なだめられない」がよく出る:He refused to be mollified.(機嫌を直そうとしなかった)",
+    "placate=言葉や配慮で怒りをなだめる/appease=要求をのんで黙らせる/mollify=かたくなった気持ちをやわらげてほぐす",
+    "assuage=感情や渇きそのものを和らげる(人は目的語にしない)/mollify=人をなだめる"
+  ],
+  "patterns": [
+    {
+      "form": "mollify A",
+      "meaning": "A(怒った人)をなだめる"
+    },
+    {
+      "form": "mollify A with B",
+      "meaning": "B で A をなだめる"
+    },
+    {
+      "form": "refuse to be mollified",
+      "meaning": "なだめられようとしない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "客",
+      "en": "The manager offered a refund to mollify the angry customer.",
+      "ja": "店長は怒った客をなだめるために返金を申し出た。"
+    },
+    {
+      "source": "original",
+      "label": "with",
+      "en": "She mollified her little brother with a piece of cake.",
+      "ja": "彼女はケーキを1切れあげて弟の機嫌を直した。"
+    },
+    {
+      "source": "original",
+      "label": "否定",
+      "en": "Nothing he said could mollify her.",
+      "ja": "彼が何を言っても彼女の機嫌は直らなかった。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "The workers were mollified by the promise of a pay rise.",
+      "ja": "労働者たちは賃上げの約束でなだめられた。"
+    },
+    {
+      "source": "original",
+      "label": "refuse",
+      "en": "He apologized twice, but she refused to be mollified.",
+      "ja": "彼は2度謝ったが、彼女は機嫌を直そうとしなかった。"
+    },
+    {
+      "source": "original",
+      "label": "批判",
+      "en": "The new policy was designed to mollify critics.",
+      "ja": "その新しい政策は批判する人たちをなだめるためのものだった。"
+    }
+  ],
+  "check_points": [
+    "mollis(やわらかい)の絵がわかるか",
+    "placate・appease・assuage とのちがいが言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "語彙問題に出る。calm・placate・pacify との言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2695
+    }
+  ]
+}

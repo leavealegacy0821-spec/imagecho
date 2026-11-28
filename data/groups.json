@@ -135,12 +135,13 @@
     },
     {
       "title": "使い分け:見せる・並べる",
-      "note": "display=広げて見せる ／ exhibit=公に陳列・(性質を)表す ／ demonstrate=実際にやって示す・証明する ／ manifest=はっきり表に出す",
+      "note": "display=広げて見せる ／ exhibit=公に陳列・(性質を)表す ／ demonstrate=実際にやって示す・証明する ／ manifest=はっきり表に出す ／ flaunt=自慢げに見せびらかす(悪い意味)",
       "words": [
         "display",
         "exhibit",
         "demonstrate",
-        "manifest"
+        "manifest",
+        "flaunt"
       ]
     },
     {
@@ -219,12 +220,13 @@
     },
     {
       "title": "使い分け:推論する",
-      "note": "infer=手がかりから結論を引き出す ／ deduce=一般から筋道立てて導く ／ conclude=考えた末に結論を出す ／ derive=元から引き出す",
+      "note": "infer=手がかりから結論を引き出す ／ deduce=一般から筋道立てて導く ／ conclude=考えた末に結論を出す ／ derive=元から引き出す ／ extrapolate=わかっている線をその外へのばして推し量る",
       "words": [
         "infer",
         "deduce",
         "conclude",
-        "derive"
+        "derive",
+        "extrapolate"
       ]
     },
     {
@@ -999,6 +1001,17 @@
         "strengthen",
         "enrich",
         "escalate"
+      ]
+    },
+    {
+      "title": "使い分け:補強する・裏づける",
+      "note": "reinforce=材料を足して補強する ／ bolster=弱りかけたもの(自信・士気・経済)にクッションを当てて持ち直させる ／ buttress=控え壁のように外から斜めに支える(主張・立場) ／ underpin=見えない下から土台として支える(be underpinned by A) ／ fortify=攻められても負けないよう守りを固める(食品の栄養強化も)",
+      "words": [
+        "reinforce",
+        "bolster",
+        "buttress",
+        "underpin",
+        "fortify"
       ]
     },
     {
@@ -1983,12 +1996,13 @@
     },
     {
       "title": "使い分け:能力",
-      "note": "capable=〜する能力がある ／ capacity=受け入れる容量・能力 ／ faculty=(心身の)能力・学部 ／ potential=潜在的な可能性",
+      "note": "capable=〜する能力がある ／ capacity=受け入れる容量・能力 ／ faculty=(心身の)能力・学部 ／ potential=潜在的な可能性 ／ adept=むずかしいことも手なれてこなす(be adept at doing)",
       "words": [
         "capable",
         "capacity",
         "faculty",
-        "potential"
+        "potential",
+        "adept"
       ]
     },
     {
@@ -2082,7 +2096,7 @@
     },
     {
       "title": "使い分け:なぐさめる・静める",
-      "note": "comfort=そばで支えてほっと楽にする ／ console=大きな悲しみに寄り添ってなぐさめる ／ soothe=高ぶった気持ち・痛みをそっと静める ／ relieve=重荷を取り除いて楽にする ／ relax=張りつめたものをゆるめてほっとする ／ appease=要求をのんで怒りをしずめる ／ placate=ことばや配慮で怒りをなだめる ／ pacify=荒れたもの(泣く子・暴動)を平和な状態にもどす",
+      "note": "comfort=そばで支えてほっと楽にする ／ console=大きな悲しみに寄り添ってなぐさめる ／ soothe=高ぶった気持ち・痛みをそっと静める ／ relieve=重荷を取り除いて楽にする ／ relax=張りつめたものをゆるめてほっとする ／ appease=要求をのんで怒りをしずめる ／ placate=ことばや配慮で怒りをなだめる ／ pacify=荒れたもの(泣く子・暴動)を平和な状態にもどす ／ mollify=かたくなった怒りをもみほぐして人をなだめる ／ assuage=不安・罪悪感・渇きそのものを甘くやわらげる(人は目的語にしない)",
       "words": [
         "comfort",
         "console",
@@ -2091,7 +2105,9 @@
         "relax",
         "appease",
         "placate",
-        "pacify"
+        "pacify",
+        "mollify",
+        "assuage"
       ]
     },
     {
@@ -3916,11 +3932,12 @@
     },
     {
       "title": "使い分け:好き・嫌い",
-      "note": "adore=あがめるほど大好き(adorable) ／ detest=見るのもいやなほど嫌う ／ loathe=むかむかするほど嫌う(loath=気が進まない) ／ for ／ to・for good=永久に)",
+      "note": "adore=あがめるほど大好き(adorable) ／ detest=見るのもいやなほど嫌う ／ loathe=むかむかするほど嫌う(loath=気が進まない) ／ for ／ to・for good=永久に) ／ abhor=ぞっとして身を引くほど道徳的に嫌う",
       "words": [
         "adore",
         "detest",
-        "loathe"
+        "loathe",
+        "abhor"
       ]
     },
     {
