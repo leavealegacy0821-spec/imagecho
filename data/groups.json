@@ -1297,7 +1297,7 @@
     },
     {
       "title": "使い分け:遅らせる・延ばす",
-      "note": "delay=予定より遅らせる ／ postpone=後の日に延期する ／ suspend=一時停止する(つるしておく) ／ prolong=長引かせる ／ linger=ぐずぐず残る ／ hesitate=ためらう ／ defer=決定・支払いなどを正式に先へ運んでおく(defer to A=Aにゆだねる)",
+      "note": "delay=予定より遅らせる ／ postpone=後の日に延期する ／ suspend=一時停止する(つるしておく) ／ prolong=長引かせる ／ linger=ぐずぐず残る ／ hesitate=ためらう ／ defer=決定・支払いなどを正式に先へ運んでおく(defer to A=Aにゆだねる) ／ dawdle=寄り道しながらのろのろ時間をかける ／ procrastinate=やるべきことを嫌がって明日へ明日へと先のばし",
       "words": [
         "delay",
         "postpone",
@@ -1306,7 +1306,9 @@
         "linger",
         "hesitate",
         "await",
-        "defer"
+        "defer",
+        "dawdle",
+        "procrastinate"
       ]
     },
     {
@@ -1826,13 +1828,14 @@
     },
     {
       "title": "使い分け:ぶらつく・漂う",
-      "note": "wander=あてもなく歩き回る ／ drift=流れに任せて漂う ／ linger=名残惜しくぐずぐず残る ／ deviate=決まった道からそれる ／ roam=目的地を決めず、広い範囲を自由に歩きまわる(動物の群れにも)",
+      "note": "wander=あてもなく歩き回る ／ drift=流れに任せて漂う ／ linger=名残惜しくぐずぐず残る ／ deviate=決まった道からそれる ／ roam=目的地を決めず、広い範囲を自由に歩きまわる(動物の群れにも) ／ loiter=用もないのに同じ場所でうろうろ・たむろする(迷惑がられる)",
       "words": [
         "wander",
         "drift",
         "linger",
         "deviate",
-        "roam"
+        "roam",
+        "loiter"
       ]
     },
     {
@@ -2505,12 +2508,13 @@
     },
     {
       "title": "使い分け:よごす・むだにする",
-      "note": "pollution=きれいなものをけがす汚染(不可算) ／ contaminate=触れて混ざりこみ中までよごす ／ waste=役立てずむだに捨てる・廃棄物 ／ spoil=台無しにする",
+      "note": "pollution=きれいなものをけがす汚染(不可算) ／ contaminate=触れて混ざりこみ中までよごす ／ waste=役立てずむだに捨てる・廃棄物 ／ spoil=台無しにする ／ squander=大切なお金・機会を湯水のようにまき散らしてふいにする",
       "words": [
         "pollution",
         "contaminate",
         "waste",
-        "spoil"
+        "spoil",
+        "squander"
       ]
     },
     {
@@ -3681,12 +3685,13 @@
     },
     {
       "title": "使い分け:誓う",
-      "note": "promise=(ふつうに)約束する ／ pledge=人前でかたい約束を差し出す ／ vow=胸に手を当て、心に(神に)かたく誓う ／ swear=「本当だ」と神にかけて言い切る(ののしる も)",
+      "note": "promise=(ふつうに)約束する ／ pledge=人前でかたい約束を差し出す ／ vow=胸に手を当て、心に(神に)かたく誓う ／ swear=「本当だ」と神にかけて言い切る(ののしる も) ／ oath=神や法の前での正式な宣誓(名詞:take an oath)",
       "words": [
         "promise",
         "pledge",
         "vow",
-        "swear"
+        "swear",
+        "oath"
       ]
     },
     {
@@ -3796,7 +3801,7 @@
     },
     {
       "title": "使い分け:ばかにする・からかう",
-      "note": "mock=まねをして笑いものにする ／ tease=ちょっかいを出していじる(親しみもある) ／ ridicule=指さしてみんなで笑いものにする ／ scorn=見下して鼻であしらう(態度に出す) ／ despise=上から見下して心でさげすむ ／ sneer=口のはしをゆがめてふんとばかにする ／ taunt=弱みをつついてわざと怒らせようとはやし立てる ／ deride=考え・計画を価値がないと見下してあざ笑う(deride A as B) ／ belittle=相手や成果を実際より小さく見せてけなす(大したことないと言う) ／ disparage=対等の並びから格下げして、敬意なく悪く言う(かたい語)",
+      "note": "mock=まねをして笑いものにする ／ tease=ちょっかいを出していじる(親しみもある) ／ ridicule=指さしてみんなで笑いものにする ／ scorn=見下して鼻であしらう(態度に出す) ／ despise=上から見下して心でさげすむ ／ sneer=口のはしをゆがめてふんとばかにする ／ taunt=弱みをつついてわざと怒らせようとはやし立てる ／ deride=考え・計画を価値がないと見下してあざ笑う(deride A as B) ／ belittle=相手や成果を実際より小さく見せてけなす(大したことないと言う) ／ disparage=対等の並びから格下げして、敬意なく悪く言う(かたい語) ／ jeer=(群衆が)声をあげてやじる ／ scoff=「ばかばかしい」と鼻で笑ってはねつける(scoff at)",
       "words": [
         "mock",
         "tease",
@@ -3807,19 +3812,22 @@
         "taunt",
         "deride",
         "belittle",
-        "disparage"
+        "disparage",
+        "jeer",
+        "scoff"
       ]
     },
     {
       "title": "使い分け:悲しむ・嘆く",
-      "note": "mourn=人の死を思い静かに深く悲しむ(悼む) ／ lament=失ったもの・悪くなったことを声や言葉に出して嘆く ／ regret=自分のしたことをふり返って悔やむ ／ grieve=失ったことの重い悲しみを胸に抱えつづける(grieve for A) ／ deplore=ひどい行い・状況を「なげかわしい」と強く非難する ／ repent=自分の罪・悪い行いを悔いて心を入れかえる(regret より重い)",
+      "note": "mourn=人の死を思い静かに深く悲しむ(悼む) ／ lament=失ったもの・悪くなったことを声や言葉に出して嘆く ／ regret=自分のしたことをふり返って悔やむ ／ grieve=失ったことの重い悲しみを胸に抱えつづける(grieve for A) ／ deplore=ひどい行い・状況を「なげかわしい」と強く非難する ／ repent=自分の罪・悪い行いを悔いて心を入れかえる(regret より重い) ／ bemoan=よくない状況・不足を不満げに口に出してこぼす",
       "words": [
         "mourn",
         "lament",
         "regret",
         "grieve",
         "deplore",
-        "repent"
+        "repent",
+        "bemoan"
       ]
     },
     {
@@ -4059,12 +4067,13 @@
     },
     {
       "title": "使い分け:ためらう・ぐらつく",
-      "note": "hesitate=やる直前に足が止まる ／ waver=決めた気持ちが波のようにぐらつく ／ falter=勢いが落ちてよろめく ／ vacillate=二つの間をふりこのように行ったり来たりする",
+      "note": "hesitate=やる直前に足が止まる ／ waver=決めた気持ちが波のようにぐらつく ／ falter=勢いが落ちてよろめく ／ vacillate=二つの間をふりこのように行ったり来たりする ／ dither=決められずにあっちこっちとおろおろ時間をかける(くだけた)",
       "words": [
         "hesitate",
         "waver",
         "falter",
-        "vacillate"
+        "vacillate",
+        "dither"
       ]
     },
     {
@@ -4078,13 +4087,14 @@
     },
     {
       "title": "使い分け:動かない・ひそむ",
-      "note": "idle=仕事がなく動いていない ／ dormant=今は眠っているが、また目を覚ます ／ latent=中に隠れていて表に出ていない ／ inert=自分からは動かず反応もしない ／ stagnant=流れるはずのものが止まってよどむ",
+      "note": "idle=仕事がなく動いていない ／ dormant=今は眠っているが、また目を覚ます ／ latent=中に隠れていて表に出ていない ／ inert=自分からは動かず反応もしない ／ stagnant=流れるはずのものが止まってよどむ ／ lurk=物かげにかくれて悪い機会をじっとうかがう(危険にも)",
       "words": [
         "idle",
         "dormant",
         "latent",
         "inert",
-        "stagnant"
+        "stagnant",
+        "lurk"
       ]
     },
     {

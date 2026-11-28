@@ -1,0 +1,94 @@
+{
+  "word": "oath",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/əʊθ/",
+  "core_image": {
+    "text": "手を挙げ、神や法の前で「必ず守る」とおごそかに誓うこと",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"110\" cy=\"52\" r=\"10\"/><line x1=\"110\" y1=\"62\" x2=\"110\" y2=\"106\"/><line x1=\"110\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"110\" y1=\"106\" x2=\"120\" y2=\"140\"/><line x1=\"110\" y1=\"74\" x2=\"132\" y2=\"50\"/><line x1=\"110\" y1=\"74\" x2=\"90\" y2=\"92\"/><rect x=\"66\" y=\"90\" width=\"28\" height=\"18\"/></g><text x=\"176\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">誓います</text><text x=\"48\" y=\"128\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">正式に</text></svg>"
+  },
+  "etymology": "古英語 āth(誓い)→ 神や法を証人に立てておごそかに誓う → ①(正式な)誓い・宣誓 ②(怒りなどで口にする)ののしりの言葉",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a formal promise, especially one made in a court of law or when starting an official job; a rude word used to express anger."
+    }
+  ],
+  "cautions": [
+    "動詞は take / swear an oath(誓う)。make an oath より take が定番",
+    "under oath=宣誓したうえで(法廷):lie under oath(偽証する)",
+    "promise=約束(日常)/pledge=公に約束する・誓約/vow=心に固く誓う/oath=神や法の前の正式な宣誓(名詞)",
+    "複数形 oaths の発音は /əʊðz/(th が濁る)"
+  ],
+  "patterns": [
+    {
+      "form": "take / swear an oath",
+      "meaning": "誓いを立てる・宣誓する"
+    },
+    {
+      "form": "take an oath to do",
+      "meaning": "〜すると誓う"
+    },
+    {
+      "form": "under oath",
+      "meaning": "宣誓したうえで"
+    },
+    {
+      "form": "the oath of office",
+      "meaning": "就任の宣誓"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "宣誓",
+      "en": "The new president took the oath of office.",
+      "ja": "新大統領は就任の宣誓をした。"
+    },
+    {
+      "source": "original",
+      "label": "to do",
+      "en": "Doctors take an oath to protect their patients' lives.",
+      "ja": "医師は患者の命を守ると誓いを立てる。"
+    },
+    {
+      "source": "original",
+      "label": "法廷",
+      "en": "The witness was under oath when she said that.",
+      "ja": "証人はそれを言ったとき宣誓していた。"
+    },
+    {
+      "source": "original",
+      "label": "偽証",
+      "en": "He was arrested for lying under oath.",
+      "ja": "彼は宣誓のうえでうそをついた(偽証した)ため逮捕された。"
+    },
+    {
+      "source": "original",
+      "label": "swear",
+      "en": "The knights swore an oath of loyalty to the king.",
+      "ja": "騎士たちは王への忠誠の誓いを立てた。"
+    },
+    {
+      "source": "original",
+      "label": "ののしり",
+      "en": "He let out an oath when he hit his finger.",
+      "ja": "指を打ったとき、彼はののしりの言葉を口にした。"
+    }
+  ],
+  "check_points": [
+    "take an oath / under oath の形が言えるか",
+    "pledge・vow とのちがいが言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文に出る。take an oath、under oath(宣誓のうえで)が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2667
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "bemoan",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/bɪˈməʊn/",
+  "core_image": {
+    "text": "失ったもの・よくない状況を、ああ…と口に出して嘆く",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"52\" r=\"10\"/><line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"106\"/><line x1=\"70\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"70\" y1=\"106\" x2=\"80\" y2=\"140\"/><line x1=\"70\" y1=\"74\" x2=\"52\" y2=\"56\"/><line x1=\"70\" y1=\"74\" x2=\"88\" y2=\"56\"/><rect x=\"140\" y=\"110\" width=\"64\" height=\"30\"/><polyline points=\"160,110 172,122 164,132 176,140\"/></g><text x=\"70\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ああ…</text><text x=\"172\" y=\"92\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">よくない現状</text></svg>"
+  },
+  "etymology": "be(すっかり・〜に向けて)+ moan(うめく・こぼす)→ あることに向かってうめく → ①(不満・残念さを)嘆く・こぼす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to complain or express sadness about something."
+    }
+  ],
+  "cautions": [
+    "他動詞で目的語を直接取る:bemoan the lack of A(A の不足を嘆く)。bemoan about は×",
+    "死を悲しむより「状況・不足への不満を口に出す」ことが多い:bemoan the decline of reading(読書離れを嘆く)",
+    "mourn=人の死を悼む/grieve=深く悲しみ苦しむ/lament=声に出して深く嘆き悲しむ/deplore=強く非難する/bemoan=よくない状況を不満げにこぼす"
+  ],
+  "patterns": [
+    {
+      "form": "bemoan A",
+      "meaning": "A を嘆く・こぼす"
+    },
+    {
+      "form": "bemoan the lack of A",
+      "meaning": "A の不足を嘆く"
+    },
+    {
+      "form": "bemoan the fact that S V",
+      "meaning": "〜という事実を嘆く"
+    },
+    {
+      "form": "bemoan one's fate",
+      "meaning": "自分の運命を嘆く"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "不足",
+      "en": "Teachers bemoan the lack of time for each student.",
+      "ja": "教師たちは一人ひとりの生徒にかける時間がないことを嘆く。"
+    },
+    {
+      "source": "original",
+      "label": "the fact",
+      "en": "He bemoaned the fact that young people don't read newspapers.",
+      "ja": "彼は若者が新聞を読まないという事実を嘆いた。"
+    },
+    {
+      "source": "original",
+      "label": "衰退",
+      "en": "Many people bemoan the decline of small local shops.",
+      "ja": "多くの人が地元の小さな店の衰退を嘆いている。"
+    },
+    {
+      "source": "original",
+      "label": "運命",
+      "en": "Instead of bemoaning your fate, try to change it.",
+      "ja": "自分の運命を嘆くかわりに、それを変えようとしなさい。"
+    },
+    {
+      "source": "original",
+      "label": "天気",
+      "en": "The farmers bemoaned the long dry summer.",
+      "ja": "農家の人々は長く雨の降らない夏を嘆いた。"
+    },
+    {
+      "source": "original",
+      "label": "失った",
+      "en": "She bemoaned the loss of her old friendships after moving.",
+      "ja": "彼女は引っ越したあと古い友人関係がなくなったことを嘆いた。"
+    }
+  ],
+  "check_points": [
+    "bemoan about としない(他動詞)ことが言えるか",
+    "mourn・lament とのちがいが言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "評論の長文に出る。bemoan the lack of A / the fact that … が問われ、lament・complain about と言いかえられる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2665
+    }
+  ]
+}

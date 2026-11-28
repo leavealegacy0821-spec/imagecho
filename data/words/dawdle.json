@@ -1,0 +1,93 @@
+{
+  "word": "dawdle",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈdɔːdl/",
+  "core_image": {
+    "text": "寄り道しながら、のろのろ時間をかける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"48\" y2=\"96\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"90\"/><line x1=\"196\" y1=\"60\" x2=\"196\" y2=\"140\"/><polygon points=\"196,60 220,68 196,76\"/><line x1=\"84\" y1=\"120\" x2=\"176\" y2=\"120\" stroke-dasharray=\"5 5\"/><polyline points=\"169,116.2 176,120 169,123.8\"/></g><text x=\"130\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">のろのろ</text><text x=\"60\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">道草</text></svg>"
+  },
+  "etymology": "語源ははっきりしない(17世紀ごろから)→ 目的地へ向かわずのろのろする → ①ぐずぐず時間をつぶす・のろのろ進む ②(dawdle over A)A をだらだらやる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to do something or go somewhere very slowly, taking more time than is necessary."
+    }
+  ],
+  "cautions": [
+    "自動詞。だらだらやる対象は over:dawdle over breakfast(朝食をだらだら食べる)",
+    "「急ぐべきなのに遅い」という不満の気持ちがこもる。親が子どもに言う Don't dawdle! が典型",
+    "delay=予定より遅らせる/linger=名残惜しくて残る/procrastinate=やるべきことを先のばしにする/dawdle=のろのろ時間をかけて進まない"
+  ],
+  "patterns": [
+    {
+      "form": "dawdle over A",
+      "meaning": "A をだらだらやる"
+    },
+    {
+      "form": "dawdle along / home",
+      "meaning": "のろのろ歩く・帰る"
+    },
+    {
+      "form": "Don't dawdle!",
+      "meaning": "ぐずぐずしないで!"
+    },
+    {
+      "form": "dawdle away the time",
+      "meaning": "時間をむだにつぶす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "命令",
+      "en": "Don't dawdle, or you'll miss the bus!",
+      "ja": "ぐずぐずしないで、バスに乗り遅れるよ!"
+    },
+    {
+      "source": "original",
+      "label": "over",
+      "en": "He dawdled over his homework all evening.",
+      "ja": "彼は一晩じゅう宿題をだらだらやっていた。"
+    },
+    {
+      "source": "original",
+      "label": "歩く",
+      "en": "The children dawdled along, looking at every shop window.",
+      "ja": "子どもたちはどの店のショーウィンドーものぞきながら、のろのろ歩いた。"
+    },
+    {
+      "source": "original",
+      "label": "away",
+      "en": "We dawdled away the afternoon at the café.",
+      "ja": "私たちはカフェで午後をのんびりつぶした。"
+    },
+    {
+      "source": "original",
+      "label": "遅刻",
+      "en": "If you dawdle in the morning, you will be late for school.",
+      "ja": "朝ぐずぐずしていると学校に遅れるよ。"
+    },
+    {
+      "source": "original",
+      "label": "対比",
+      "en": "She finished quickly while her brother dawdled.",
+      "ja": "弟がぐずぐずしている間に、彼女はさっさと終えた。"
+    }
+  ],
+  "check_points": [
+    "procrastinate とのちがい(先のばし か のろのろ か)が言えるか",
+    "dawdle over A の形が使えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "会話文・物語文に出る。Don't dawdle!、dawdle over A が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2661
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "procrastinate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/prəˈkræstɪneɪt/",
+  "core_image": {
+    "text": "やるべきことを「明日」へ明日へと押しやる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"24\" y=\"44\" width=\"48\" height=\"44\"/><rect x=\"96\" y=\"44\" width=\"48\" height=\"44\"/><rect x=\"168\" y=\"44\" width=\"48\" height=\"44\"/><rect x=\"38\" y=\"60\" width=\"20\" height=\"14\"/><rect x=\"182\" y=\"60\" width=\"20\" height=\"14\"/><line x1=\"60\" y1=\"66\" x2=\"110\" y2=\"66\"/><polyline points=\"103,62.2 110,66 103,69.8\"/><line x1=\"134\" y1=\"66\" x2=\"180\" y2=\"66\" stroke-dasharray=\"5 5\"/><polyline points=\"173,62.2 180,66 173,69.8\"/></g><text x=\"48\" y=\"108\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">今日</text><text x=\"192\" y=\"108\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">また明日</text></svg>"
+  },
+  "etymology": "pro(前へ)+ crastinus(明日の ← cras 明日)→ 明日へ押しやる → ①(やるべきことを)ぐずぐず先のばしにする 名 procrastination(先のばし)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to delay doing something that you should do, often because you do not want to do it."
+    }
+  ],
+  "cautions": [
+    "ふつう自動詞で目的語を取らない:I tend to procrastinate.(先のばしにしがち)。「〜を」は put off A / postpone A で",
+    "嫌でやりたくないから延ばすという気持ちの問題。予定どおり公式に延期するのは postpone",
+    "postpone=日を決めて延期する/delay=遅らせる/dawdle=のろのろ時間をかける/procrastinate=やるべきことを嫌がって明日へ明日へと延ばす",
+    "名詞 procrastination も長文に出る:Procrastination is the thief of time.(ことわざ:先のばしは時間どろぼう)"
+  ],
+  "patterns": [
+    {
+      "form": "procrastinate",
+      "meaning": "先のばしにする(自動詞)"
+    },
+    {
+      "form": "stop procrastinating",
+      "meaning": "先のばしをやめる"
+    },
+    {
+      "form": "procrastinate on A",
+      "meaning": "A を先のばしにする"
+    },
+    {
+      "form": "procrastination",
+      "meaning": "先のばし"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "自動詞",
+      "en": "I always procrastinate when I have to write a report.",
+      "ja": "レポートを書かなければならないとき、私はいつも先のばしにしてしまう。"
+    },
+    {
+      "source": "original",
+      "label": "やめる",
+      "en": "Stop procrastinating and start studying for the test.",
+      "ja": "先のばしにするのはやめて、テスト勉強を始めなさい。"
+    },
+    {
+      "source": "original",
+      "label": "on",
+      "en": "He procrastinated on cleaning his room for weeks.",
+      "ja": "彼は何週間も部屋の掃除を先のばしにした。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "Procrastination often causes stress before deadlines.",
+      "ja": "先のばしは、しめ切り前のストレスの原因になることが多い。"
+    },
+    {
+      "source": "original",
+      "label": "理由",
+      "en": "People often procrastinate because they are afraid of failing.",
+      "ja": "人は失敗を恐れるせいで先のばしにすることが多い。"
+    },
+    {
+      "source": "original",
+      "label": "ことわざ",
+      "en": "Procrastination is the thief of time.",
+      "ja": "先のばしは時間どろぼうだ。"
+    }
+  ],
+  "check_points": [
+    "pro(前へ)+ cras(明日)で「明日へ押しやる」とわかるか",
+    "postpone・put off との使い方のちがいが言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "心理・生活の長文に出る。procrastinate / procrastination の意味、put off・postpone との言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2662
+    }
+  ]
+}

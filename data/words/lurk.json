@@ -1,0 +1,93 @@
+{
+  "word": "lurk",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/lɜːk/",
+  "core_image": {
+    "text": "物かげにかくれて、じっと機会をうかがう",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"96\"/><line x1=\"50\" y1=\"74\" x2=\"62\" y2=\"96\"/><line x1=\"66\" y1=\"110\" x2=\"112\" y2=\"110\"/><polyline points=\"105,106.2 112,110 105,113.8\"/><rect x=\"138\" y=\"30\" width=\"22\" height=\"110\"/><circle cx=\"182\" cy=\"52\" r=\"10\"/><line x1=\"182\" y1=\"62\" x2=\"182\" y2=\"106\"/><line x1=\"182\" y1=\"106\" x2=\"172\" y2=\"140\"/><line x1=\"182\" y1=\"106\" x2=\"192\" y2=\"140\"/><line x1=\"182\" y1=\"74\" x2=\"166\" y2=\"84\"/><line x1=\"182\" y1=\"74\" x2=\"196\" y2=\"94\"/></g><text x=\"206\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ひそむ</text><text x=\"50\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">気づかない</text></svg>"
+  },
+  "etymology": "中英語 lurken(かくれて待つ)→ 物かげにひそんでうかがう → ①(悪意をもって)待ち伏せする・潜む ②(危険・疑いが)表に出ずに潜んでいる ③(ネットで)書きこまずに見ているだけ",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to wait somewhere secretly, usually because you are going to do something bad; (of danger or a feeling) to exist but not be easy to see."
+    }
+  ],
+  "cautions": [
+    "自動詞。場所は前置詞で:lurk in the shadows / lurk behind the door",
+    "人だけでなく危険・感情にも使う:Danger lurks in the deep water. / Doubts lurked in his mind.",
+    "latent=表に出ずに中に眠っている(形容詞)/dormant=活動を止めて眠っている/lurk=悪い何かがかくれてうかがっている(動詞)"
+  ],
+  "patterns": [
+    {
+      "form": "lurk in / behind A",
+      "meaning": "A に潜む・待ち伏せする"
+    },
+    {
+      "form": "danger lurks",
+      "meaning": "危険が潜んでいる"
+    },
+    {
+      "form": "lurking A",
+      "meaning": "潜んでいる A"
+    },
+    {
+      "form": "lurk beneath the surface",
+      "meaning": "表面の下に潜む"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "待ち伏せ",
+      "en": "A man was lurking behind the tree in the dark.",
+      "ja": "暗がりで、ひとりの男が木の後ろに潜んでいた。"
+    },
+    {
+      "source": "original",
+      "label": "危険",
+      "en": "Danger lurks in these calm-looking waters.",
+      "ja": "この穏やかに見える海には危険が潜んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "感情",
+      "en": "A feeling of fear still lurked in her mind.",
+      "ja": "恐れの気持ちが、まだ彼女の心に潜んでいた。"
+    },
+    {
+      "source": "original",
+      "label": "beneath",
+      "en": "Serious problems lurk beneath the surface of the town.",
+      "ja": "その町の表面の下には深刻な問題が潜んでいる。"
+    },
+    {
+      "source": "original",
+      "label": "lurking",
+      "en": "I had a lurking suspicion that he was lying.",
+      "ja": "私は彼がうそをついているのではという疑いをひそかに抱いていた。"
+    },
+    {
+      "source": "original",
+      "label": "ネット",
+      "en": "Many people lurk on social media without posting anything.",
+      "ja": "多くの人は何も書きこまずに SNS を見ているだけだ。"
+    }
+  ],
+  "check_points": [
+    "人以外(危険・疑い)にも使えることが言えるか",
+    "latent・dormant とのちがいが言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "評論・物語文に出る。Danger lurks …(危険が潜む)、a lurking suspicion が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2659
+    }
+  ]
+}

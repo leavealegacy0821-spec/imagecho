@@ -1,0 +1,93 @@
+{
+  "word": "loiter",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈlɔɪtə/",
+  "core_image": {
+    "text": "用もないのに、同じ場所をうろうろする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"170\" y=\"50\" width=\"50\" height=\"90\"/><rect x=\"186\" y=\"104\" width=\"18\" height=\"36\"/><circle cx=\"110\" cy=\"52\" r=\"10\"/><line x1=\"110\" y1=\"62\" x2=\"110\" y2=\"106\"/><line x1=\"110\" y1=\"106\" x2=\"100\" y2=\"140\"/><line x1=\"110\" y1=\"106\" x2=\"120\" y2=\"140\"/><line x1=\"110\" y1=\"74\" x2=\"102\" y2=\"96\"/><line x1=\"110\" y1=\"74\" x2=\"118\" y2=\"96\"/><ellipse cx=\"110\" cy=\"134\" rx=\"56\" ry=\"6\" stroke-dasharray=\"5 5\"/></g><text x=\"110\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">用もなく</text><text x=\"40\" y=\"112\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">うろうろ</text></svg>"
+  },
+  "etymology": "中英語 loiteren(ぶらぶらする・ぐずぐずする)→ 用もなく同じ場所にとどまる → ①(用もなく)うろつく・たむろする ②(道で)ぐずぐずする",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to stand or wait somewhere, especially in a public place, without any clear reason."
+    }
+  ],
+  "cautions": [
+    "公共の場で「用もなくうろつく」=怪しい・迷惑のニュアンス。No Loitering(たむろ禁止)の掲示で有名",
+    "自動詞:loiter around / outside / in A",
+    "wander=あちこち歩き回る/roam=広く自由に歩き回る/linger=名残惜しくぐずぐず残る/loiter=用もないのに同じ所でうろうろする(迷惑がられる)"
+  ],
+  "patterns": [
+    {
+      "form": "loiter around / outside A",
+      "meaning": "A の周りでうろつく"
+    },
+    {
+      "form": "No Loitering",
+      "meaning": "たむろ禁止"
+    },
+    {
+      "form": "loiter on the way",
+      "meaning": "途中で道草をくう"
+    },
+    {
+      "form": "loitering",
+      "meaning": "うろつくこと"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "うろつく",
+      "en": "Some teenagers were loitering outside the convenience store.",
+      "ja": "何人かの若者がコンビニの外でたむろしていた。"
+    },
+    {
+      "source": "original",
+      "label": "掲示",
+      "en": "The sign said, \"No Loitering.\"",
+      "ja": "看板には「たむろ禁止」と書いてあった。"
+    },
+    {
+      "source": "original",
+      "label": "道草",
+      "en": "Don't loiter on your way home from school.",
+      "ja": "学校の帰りに道草をしないように。"
+    },
+    {
+      "source": "original",
+      "label": "怪しい",
+      "en": "A stranger was seen loitering near the school gate.",
+      "ja": "見知らぬ人が校門の近くをうろついているのが目撃された。"
+    },
+    {
+      "source": "original",
+      "label": "警察",
+      "en": "The police asked the men to stop loitering in the park.",
+      "ja": "警察は男たちに公園でうろつくのをやめるよう求めた。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "Loitering in the station is not allowed.",
+      "ja": "駅構内でのたむろは禁止されている。"
+    }
+  ],
+  "check_points": [
+    "linger・wander とのちがいが言えるか",
+    "No Loitering の意味が言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文・掲示の読み取りに出る。loiter around A、No Loitering、wander との区別が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2660
+    }
+  ]
+}

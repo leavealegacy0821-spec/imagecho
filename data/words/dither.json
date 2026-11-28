@@ -1,0 +1,93 @@
+{
+  "word": "dither",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈdɪðə/",
+  "core_image": {
+    "text": "あっちかこっちか、決められずにおろおろする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"104\" y2=\"92\"/><line x1=\"120\" y1=\"74\" x2=\"136\" y2=\"92\"/><line x1=\"104\" y1=\"56\" x2=\"44\" y2=\"56\"/><polyline points=\"51,59.8 44,56 51,52.2\"/><line x1=\"136\" y1=\"56\" x2=\"196\" y2=\"56\"/><polyline points=\"189,52.2 196,56 189,59.8\"/><line x1=\"60\" y1=\"76\" x2=\"100\" y2=\"76\" stroke-dasharray=\"5 5\"/><polyline points=\"93,72.2 100,76 93,79.8\"/><line x1=\"180\" y1=\"76\" x2=\"140\" y2=\"76\" stroke-dasharray=\"5 5\"/><polyline points=\"147,79.8 140,76 147,72.2\"/></g><text x=\"52\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あっち?</text><text x=\"188\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こっち?</text></svg>"
+  },
+  "etymology": "中英語 didderen(ぶるぶる震える)→ 心が震えて定まらない → ①(決められずに)おろおろ迷う・ぐずぐずする 名 ②(in a dither)おろおろした状態",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to be unable to make a decision about something, often for too long."
+    }
+  ],
+  "cautions": [
+    "自動詞。迷う対象は over / about で:dither over the decision(その決定でぐずぐず迷う)",
+    "「決められないこと」を少しけなす言い方。hesitate のように一瞬ためらうのではなく、長く行ったり来たりする",
+    "hesitate=一瞬手が止まる/waver=決心がゆらぐ/vacillate=二つの間を何度も揺れる(堅い)/dither=決められずにおろおろ時間をかける(くだけた)"
+  ],
+  "patterns": [
+    {
+      "form": "dither over / about A",
+      "meaning": "A のことで迷ってぐずぐずする"
+    },
+    {
+      "form": "stop dithering",
+      "meaning": "迷うのはやめなさい"
+    },
+    {
+      "form": "dither between A and B",
+      "meaning": "A と B の間で迷う"
+    },
+    {
+      "form": "be in a dither",
+      "meaning": "おろおろしている"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "over",
+      "en": "The government dithered over the plan for months.",
+      "ja": "政府はその計画について何か月も決めかねてぐずぐずしていた。"
+    },
+    {
+      "source": "original",
+      "label": "stop dithering",
+      "en": "Stop dithering and choose a dessert!",
+      "ja": "迷ってないで、デザートを選んで!"
+    },
+    {
+      "source": "original",
+      "label": "between",
+      "en": "She dithered between the red dress and the blue one.",
+      "ja": "彼女は赤いドレスと青いドレスの間で迷った。"
+    },
+    {
+      "source": "original",
+      "label": "結果",
+      "en": "While we were dithering, the tickets sold out.",
+      "ja": "私たちがぐずぐず迷っているうちに、チケットは売り切れた。"
+    },
+    {
+      "source": "original",
+      "label": "about",
+      "en": "He is still dithering about whether to go to college.",
+      "ja": "彼は大学に行くかどうか、まだ決めかねている。"
+    },
+    {
+      "source": "original",
+      "label": "in a dither",
+      "en": "My mother was in a dither before the guests arrived.",
+      "ja": "客が来る前、母はおろおろしていた。"
+    }
+  ],
+  "check_points": [
+    "hesitate・vacillate とのちがいが言えるか",
+    "dither over A の形が使えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文・会話文に出る。決められずにぐずぐずする意味、hesitate との言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2658
+    }
+  ]
+}

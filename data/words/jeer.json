@@ -1,0 +1,98 @@
+{
+  "word": "jeer",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/dʒɪə/",
+  "core_image": {
+    "text": "大勢で声をあげて、あざけりの言葉をあびせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"36\" cy=\"72\" r=\"10\"/><line x1=\"36\" y1=\"82\" x2=\"36\" y2=\"140\"/><circle cx=\"68\" cy=\"78\" r=\"10\"/><line x1=\"68\" y1=\"88\" x2=\"68\" y2=\"140\"/><line x1=\"84\" y1=\"58\" x2=\"148\" y2=\"54\"/><polyline points=\"140.8,50.6 148,54 141.2,58.3\"/><line x1=\"84\" y1=\"82\" x2=\"148\" y2=\"76\"/><polyline points=\"140.7,72.8 148,76 141.4,80.5\"/><circle cx=\"174\" cy=\"52\" r=\"10\"/><line x1=\"174\" y1=\"62\" x2=\"174\" y2=\"106\"/><line x1=\"174\" y1=\"106\" x2=\"164\" y2=\"140\"/><line x1=\"174\" y1=\"106\" x2=\"184\" y2=\"140\"/><line x1=\"174\" y1=\"74\" x2=\"160\" y2=\"94\"/><line x1=\"174\" y1=\"74\" x2=\"188\" y2=\"94\"/></g><text x=\"114\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やじ</text><text x=\"52\" y=\"48\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">大勢</text></svg>"
+  },
+  "etymology": "語源ははっきりしない(16世紀ごろから)→ 大声であざけりをあびせる → ①やじる・(声をあげて)あざける 名 ②やじ・あざけりの声",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to laugh at someone or shout insults at them, often as part of a crowd."
+    },
+    {
+      "pos": "名詞",
+      "text": "a rude remark shouted at someone."
+    }
+  ],
+  "cautions": [
+    "jeer at A=A をやじる。他動詞 jeer A も可。受け身 be jeered (by the crowd) がよく出る",
+    "大勢が声に出してやじる場面が多い(観客・群衆)。cheer(歓声をあげる)と対になる",
+    "mock=まねてからかう/taunt=わざと怒らせるようにあざける/scoff=鼻で笑ってはねつける/jeer=(群衆が)声をあげてやじる"
+  ],
+  "patterns": [
+    {
+      "form": "jeer (at) A",
+      "meaning": "A をやじる"
+    },
+    {
+      "form": "be jeered (by A)",
+      "meaning": "(A に)やじられる"
+    },
+    {
+      "form": "jeers from the crowd",
+      "meaning": "観客からのやじ"
+    },
+    {
+      "form": "cheers and jeers",
+      "meaning": "歓声とやじ"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "at",
+      "en": "The fans jeered at the referee after the bad call.",
+      "ja": "ひどい判定のあと、ファンは審判をやじった。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "The speaker was jeered by the angry crowd.",
+      "ja": "その演説者は怒った群衆にやじられた。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "He walked off the stage amid the jeers of the audience.",
+      "ja": "彼は観客のやじの中、舞台から去った。"
+    },
+    {
+      "source": "original",
+      "label": "対比",
+      "en": "The players were met with both cheers and jeers.",
+      "ja": "選手たちは歓声とやじの両方で迎えられた。"
+    },
+    {
+      "source": "original",
+      "label": "いじめ",
+      "en": "The other boys jeered at him for crying.",
+      "ja": "ほかの少年たちは、泣いたことで彼をあざけった。"
+    },
+    {
+      "source": "original",
+      "label": "政治",
+      "en": "Protesters jeered as the minister arrived.",
+      "ja": "大臣が着くと、抗議する人々はやじを飛ばした。"
+    }
+  ],
+  "check_points": [
+    "cheer との対比が言えるか",
+    "mock・taunt・scoff とのちがいが言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文・報道文に出る。jeer at A、be jeered、cheers and jeers が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2663
+    }
+  ]
+}
