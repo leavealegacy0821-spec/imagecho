@@ -1,0 +1,99 @@
+{
+  "word": "decree",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/dɪˈkriː/",
+  "core_image": {
+    "text": "権力者が上から「こうする」と決めて言いわたす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"110\" width=\"50\" height=\"30\"/><circle cx=\"55\" cy=\"22\" r=\"10\"/><line x1=\"55\" y1=\"32\" x2=\"55\" y2=\"76\"/><line x1=\"55\" y1=\"76\" x2=\"45\" y2=\"110\"/><line x1=\"55\" y1=\"76\" x2=\"65\" y2=\"110\"/><line x1=\"55\" y1=\"44\" x2=\"82\" y2=\"34\"/><line x1=\"55\" y1=\"44\" x2=\"40\" y2=\"66\"/><line x1=\"90\" y1=\"44\" x2=\"140\" y2=\"70\"/><polyline points=\"135.5,63.4 140,70 132,70.2\"/><circle cx=\"160\" cy=\"52\" r=\"10\"/><line x1=\"160\" y1=\"62\" x2=\"160\" y2=\"106\"/><line x1=\"160\" y1=\"106\" x2=\"150\" y2=\"140\"/><line x1=\"160\" y1=\"106\" x2=\"170\" y2=\"140\"/><circle cx=\"196\" cy=\"52\" r=\"10\"/><line x1=\"196\" y1=\"62\" x2=\"196\" y2=\"106\"/><line x1=\"196\" y1=\"106\" x2=\"186\" y2=\"140\"/><line x1=\"196\" y1=\"106\" x2=\"206\" y2=\"140\"/></g><text x=\"105\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">上から決めて</text><text x=\"200\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">言いわたす</text></svg>"
+  },
+  "etymology": "de(〜から・離して)+ cernere(決める・ふるい分ける)→ 上で決めたことを言いわたす → 名 ①(王・政府の)命令・法令・布告 ②(裁判所の)判決 動 ③命令する・(法令で)定める",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "an official order from a ruler or government that becomes law."
+    },
+    {
+      "pos": "動詞",
+      "text": "to officially order or decide something."
+    }
+  ],
+  "cautions": [
+    "decree that S(should)原形:「〜と命じる」で that 節中に原形が来ることがある:The king decreed that taxes (should) be lowered.",
+    "権力者が一方的に定める、という重いひびき。ふつうの「決める」は decide",
+    "by decree=命令によって(議会を通さずに)",
+    "order=命令する(広い)/decree=権力者が法として布告する/dictate=一方的に指図する"
+  ],
+  "patterns": [
+    {
+      "form": "issue a decree",
+      "meaning": "命令を出す"
+    },
+    {
+      "form": "by decree",
+      "meaning": "命令によって"
+    },
+    {
+      "form": "decree that S (should) 原形",
+      "meaning": "〜と布告する"
+    },
+    {
+      "form": "a royal decree",
+      "meaning": "王の命令"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The president issued a decree banning the protest.",
+      "ja": "大統領はその抗議を禁じる命令を出した。"
+    },
+    {
+      "source": "original",
+      "label": "that 節",
+      "en": "The king decreed that all children should go to school.",
+      "ja": "王はすべての子どもが学校に行くべしと布告した。"
+    },
+    {
+      "source": "original",
+      "label": "by decree",
+      "en": "The law was changed by decree, without a vote.",
+      "ja": "その法律は投票なしに命令によって変えられた。"
+    },
+    {
+      "source": "original",
+      "label": "王の",
+      "en": "A royal decree made the day a national holiday.",
+      "ja": "王の命令でその日は国民の祝日になった。"
+    },
+    {
+      "source": "original",
+      "label": "運命",
+      "en": "Fate decreed that they would never meet again.",
+      "ja": "運命によって二人は二度と会えないことになった。"
+    },
+    {
+      "source": "original",
+      "label": "判決",
+      "en": "The court's decree ended the long dispute.",
+      "ja": "裁判所の判決が長い争いに終止符を打った。"
+    }
+  ],
+  "check_points": [
+    "「上で決めて言いわたす」のイメージが言えるか",
+    "decree that S (should) 原形 の形がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "歴史・政治の長文に出る。issue a decree、by decree、that 節中の原形が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2644
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "gauge",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ɡeɪdʒ/",
+  "core_image": {
+    "text": "目盛りに当てて、見えない量や気持ちをはかる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M60 110 A60 60 0 0 1 180 110\"/><line x1=\"60\" y1=\"110\" x2=\"180\" y2=\"110\"/><line x1=\"72\" y1=\"80\" x2=\"80\" y2=\"84\"/><line x1=\"96\" y1=\"58\" x2=\"100\" y2=\"66\"/><line x1=\"120\" y1=\"50\" x2=\"120\" y2=\"58\"/><line x1=\"144\" y1=\"58\" x2=\"140\" y2=\"66\"/><line x1=\"168\" y1=\"80\" x2=\"160\" y2=\"84\"/><line x1=\"120\" y1=\"110\" x2=\"148\" y2=\"70\"/><polyline points=\"140.8,73.6 148,70 147.1,78\"/><circle cx=\"120\" cy=\"110\" r=\"4\"/></g><text x=\"120\" y=\"133\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">目盛りではかる</text><text x=\"200\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">どのくらい?</text></svg>"
+  },
+  "etymology": "古フランス語 gauge(標準の目盛り・ものさし)→ 目盛りに当てる → 名 ①計器・ゲージ ②判断の基準 動 ③(計器で)測る ④(人の気持ち・状況を)推し量る・判断する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to measure something accurately using a special instrument; to judge people's feelings or a situation."
+    },
+    {
+      "pos": "名詞",
+      "text": "an instrument for measuring an amount; a fact that helps you judge something."
+    }
+  ],
+  "cautions": [
+    "発音は /ɡeɪdʒ/(ゲイジ)。つづり gauge の u を読まない",
+    "入試では「(反応・世論・気持ちを)推し量る・判断する」の意味が大事:gauge public opinion / gauge his reaction",
+    "名詞 a gauge of A=A を判断する目安:Sales are a good gauge of popularity.",
+    "measure=決まった単位で正確に測る/gauge=目盛り・手がかりで見当をつける/estimate=ざっと見積もる"
+  ],
+  "patterns": [
+    {
+      "form": "gauge A",
+      "meaning": "A を測る・推し量る"
+    },
+    {
+      "form": "gauge public opinion",
+      "meaning": "世論をはかる"
+    },
+    {
+      "form": "gauge how / whether …",
+      "meaning": "どれくらいか・〜かどうかを見きわめる"
+    },
+    {
+      "form": "a gauge of A",
+      "meaning": "A を判断する目安"
+    },
+    {
+      "form": "a fuel gauge",
+      "meaning": "燃料計"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "気持ち",
+      "en": "It was hard to gauge how she felt about the plan.",
+      "ja": "彼女がその計画をどう思っているのか推し量るのは難しかった。"
+    },
+    {
+      "source": "original",
+      "label": "世論",
+      "en": "The survey was designed to gauge public opinion on the new tax.",
+      "ja": "その調査は新しい税についての世論をはかるために作られた。"
+    },
+    {
+      "source": "original",
+      "label": "反応",
+      "en": "The teacher watched the students' faces to gauge their reaction.",
+      "ja": "先生は生徒たちの反応を見きわめようと顔を見ていた。"
+    },
+    {
+      "source": "original",
+      "label": "計器で",
+      "en": "This device gauges the speed of the wind.",
+      "ja": "この装置は風の速さを測る。"
+    },
+    {
+      "source": "original",
+      "label": "名詞 目安",
+      "en": "Test scores are not the only gauge of a student's ability.",
+      "ja": "テストの点数だけが生徒の能力をはかる目安ではない。"
+    },
+    {
+      "source": "original",
+      "label": "名詞 計器",
+      "en": "The fuel gauge showed that the tank was almost empty.",
+      "ja": "燃料計はタンクがほとんど空だと示していた。"
+    }
+  ],
+  "check_points": [
+    "計器で測る/気持ちを推し量る、が「目盛りに当てる」でつながるか",
+    "発音が /ɡeɪdʒ/ だと言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "評論・長文に出る。gauge public opinion などの「推し量る」、名詞 a gauge of A(目安)、measure との言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2640
+    }
+  ]
+}

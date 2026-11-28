@@ -1,0 +1,99 @@
+{
+  "word": "designate",
+  "pos": [
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/ˈdezɪɡneɪt/",
+  "core_image": {
+    "text": "しるしをつけて、これはこの役・この場所と決める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"100\" width=\"40\" height=\"40\"/><rect x=\"100\" y=\"100\" width=\"40\" height=\"40\"/><rect x=\"170\" y=\"100\" width=\"40\" height=\"40\"/><polyline points=\"110,120 118,130 132,108\"/><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"90\"/><polyline points=\"123.8,83 120,90 116.2,83\"/></g><text x=\"180\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しるしをつけ</text><text x=\"180\" y=\"58\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">これと決める</text></svg>"
+  },
+  "etymology": "de(はっきり)+ signare(しるしをつける;sign と同じ仲間)→ しるしをつけて示す → ①(場所・地域を)指定する ②(人を役職に)任命する(designate A as B)③(記号で)表す → 名 designation(指定・名称)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to officially choose someone or something for a particular purpose; to mark or show something clearly."
+    },
+    {
+      "pos": "形容詞",
+      "text": "(after a noun) chosen for a job but not yet officially in it."
+    }
+  ],
+  "cautions": [
+    "designate A as B=A を B に指定・任命する:The area was designated as a national park.",
+    "designated(形)=指定された:a designated smoking area(指定喫煙所)",
+    "名詞の後ろで「(就任前の)〜に任命された」:the president designate(次期大統領)",
+    "appoint=役職に任命する/designate=しるしをつけて役割・場所を指定する/specify=細部をはっきり示す"
+  ],
+  "patterns": [
+    {
+      "form": "designate A as B",
+      "meaning": "A を B に指定・任命する"
+    },
+    {
+      "form": "designate A to do",
+      "meaning": "A を〜する役に任命する"
+    },
+    {
+      "form": "a designated area",
+      "meaning": "指定された場所"
+    },
+    {
+      "form": "be designated (as) a World Heritage site",
+      "meaning": "世界遺産に指定される"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "as",
+      "en": "The forest was designated as a World Heritage site.",
+      "ja": "その森は世界遺産に指定された。"
+    },
+    {
+      "source": "original",
+      "label": "任命",
+      "en": "She was designated to lead the new project.",
+      "ja": "彼女は新しい計画の責任者に任命された。"
+    },
+    {
+      "source": "original",
+      "label": "designated",
+      "en": "Please smoke only in designated areas.",
+      "ja": "指定された場所でのみおたばこをお吸いください。"
+    },
+    {
+      "source": "original",
+      "label": "記号",
+      "en": "On the map, hospitals are designated by a red cross.",
+      "ja": "地図では、病院は赤い十字で表されている。"
+    },
+    {
+      "source": "original",
+      "label": "日",
+      "en": "The government designated the day as a holiday.",
+      "ja": "政府はその日を休日に定めた。"
+    },
+    {
+      "source": "original",
+      "label": "designation",
+      "en": "The area lost its designation as a protected zone.",
+      "ja": "その地域は保護区の指定を外された。"
+    }
+  ],
+  "check_points": [
+    "sign(しるし)と同じ仲間で「しるしをつけて決める」とわかるか",
+    "designate A as B の形がとれるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文・語法問題に出る。designate A as B、designated area、appoint との言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2647
+    }
+  ]
+}

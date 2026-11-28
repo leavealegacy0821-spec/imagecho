@@ -1,0 +1,98 @@
+{
+  "word": "specify",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈspesɪfaɪ/",
+  "core_image": {
+    "text": "ぼんやりではなく、これだと1つに特定して示す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"80\" r=\"6\"/><circle cx=\"90\" cy=\"60\" r=\"6\"/><circle cx=\"120\" cy=\"96\" r=\"6\"/><circle cx=\"150\" cy=\"64\" r=\"6\"/><circle cx=\"180\" cy=\"90\" r=\"6\"/><circle cx=\"150\" cy=\"64\" r=\"16\"/><line x1=\"200\" y1=\"24\" x2=\"162\" y2=\"52\"/><polyline points=\"169.9,50.9 162,52 165.4,44.7\"/></g><text x=\"90\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あれこれの中から</text><text x=\"210\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">これ</text></svg>"
+  },
+  "etymology": "species(種類・見た目)+ -fy(〜にする)→ 種類をはっきりさせる → (名前・数・時間・条件を)明確に示す・指定する → 形 specific(特定の・具体的な)・名 specification(仕様・明細)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to state or describe something clearly and exactly, giving details."
+    }
+  ],
+  "cautions": [
+    "specific(特定の・具体的な)の動詞形。「ぼんやり」⇔「はっきり指定」",
+    "疑問詞節をとる:specify when / how / what …(いつ・どのように〜かを明示する)",
+    "unless otherwise specified=特に指定がなければ(試験の注意書きによく出る)",
+    "mention=ちょっと触れる/specify=細部まではっきり言う/stipulate=契約で条件として定める"
+  ],
+  "patterns": [
+    {
+      "form": "specify A",
+      "meaning": "A を明示する・指定する"
+    },
+    {
+      "form": "specify wh- 節",
+      "meaning": "いつ・何を〜かをはっきり示す"
+    },
+    {
+      "form": "specify that S V",
+      "meaning": "〜と明記する"
+    },
+    {
+      "form": "unless otherwise specified",
+      "meaning": "特に指定がなければ"
+    },
+    {
+      "form": "specific / specification",
+      "meaning": "特定の・具体的な/仕様"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "A",
+      "en": "Please specify the size and color you want.",
+      "ja": "ご希望のサイズと色を指定してください。"
+    },
+    {
+      "source": "original",
+      "label": "wh- 節",
+      "en": "The letter did not specify when the meeting would be held.",
+      "ja": "その手紙には会議がいつ開かれるかはっきり書かれていなかった。"
+    },
+    {
+      "source": "original",
+      "label": "that 節",
+      "en": "The rules specify that phones must be turned off.",
+      "ja": "規則には電話の電源を切らなければならないと明記されている。"
+    },
+    {
+      "source": "original",
+      "label": "unless",
+      "en": "Unless otherwise specified, answer in English.",
+      "ja": "特に指定がなければ英語で答えなさい。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "The deadline is specified on the first page.",
+      "ja": "締め切りは最初のページに明記されている。"
+    },
+    {
+      "source": "original",
+      "label": "specific",
+      "en": "Can you give me a more specific example?",
+      "ja": "もっと具体的な例をあげてくれますか。"
+    }
+  ],
+  "check_points": [
+    "specific の動詞形だとわかるか",
+    "unless otherwise specified の意味が言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文・語彙問題に出る。specific・specification との関係、wh- 節をとる形、unless otherwise specified が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2646
+    }
+  ]
+}

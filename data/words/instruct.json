@@ -1,0 +1,98 @@
+{
+  "word": "instruct",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪnˈstrʌkt/",
+  "core_image": {
+    "text": "やり方を相手の中に組み立てて、指示する・教える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"80\" y2=\"64\"/><line x1=\"50\" y1=\"74\" x2=\"40\" y2=\"100\"/><line x1=\"86\" y1=\"64\" x2=\"150\" y2=\"64\"/><polyline points=\"143,60.2 150,64 143,67.8\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"180\" y1=\"74\" x2=\"168\" y2=\"98\"/><line x1=\"180\" y1=\"74\" x2=\"192\" y2=\"98\"/><rect x=\"150\" y=\"20\" width=\"16\" height=\"10\"/><rect x=\"168\" y=\"20\" width=\"16\" height=\"10\"/><rect x=\"159\" y=\"8\" width=\"16\" height=\"10\"/></g><text x=\"118\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">やり方を</text><text x=\"118\" y=\"96\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">指示する</text></svg>"
+  },
+  "etymology": "in(中に)+ struere(積み上げる・組み立てる)→ 相手の中に組み立てる → ①(instruct A to do)A に〜するよう指示する ②(人に技術を)教える ③(弁護士に)依頼する → 名 instruction(指示・説明書)・形 instructive(ためになる)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to tell someone to do something, especially formally; to teach someone a practical skill."
+    }
+  ],
+  "cautions": [
+    "instruct A to do(A に〜するよう指示する)の形で出る。tell A to do / order A to do と同じ型",
+    "instruct A in B=A(人)に B(技術)を教える:instruct students in first aid",
+    "instructions(複数)=取扱説明書・指示:follow the instructions",
+    "order=上から命令する/instruct=手順をきちんと伝えて指示する/teach=知識を教える"
+  ],
+  "patterns": [
+    {
+      "form": "instruct A to do",
+      "meaning": "A に〜するよう指示する"
+    },
+    {
+      "form": "instruct A in B",
+      "meaning": "A に B を教える"
+    },
+    {
+      "form": "instruct A that S V",
+      "meaning": "A に〜と指示する"
+    },
+    {
+      "form": "follow the instructions",
+      "meaning": "指示・説明書に従う"
+    },
+    {
+      "form": "instructive",
+      "meaning": "ためになる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "to do",
+      "en": "The doctor instructed me to rest for a week.",
+      "ja": "医者は私に1週間休むよう指示した。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "Passengers were instructed to fasten their seat belts.",
+      "ja": "乗客はシートベルトを締めるよう指示された。"
+    },
+    {
+      "source": "original",
+      "label": "in",
+      "en": "She instructs children in swimming on weekends.",
+      "ja": "彼女は週末に子どもたちに水泳を教えている。"
+    },
+    {
+      "source": "original",
+      "label": "instructions",
+      "en": "Read the instructions carefully before you begin.",
+      "ja": "始める前に説明書をよく読みなさい。"
+    },
+    {
+      "source": "original",
+      "label": "that 節",
+      "en": "The manager instructed the staff that the door must be locked.",
+      "ja": "店長はドアに鍵をかけねばならないと従業員に指示した。"
+    },
+    {
+      "source": "original",
+      "label": "instructive",
+      "en": "The trip to the museum was very instructive.",
+      "ja": "博物館への見学はとてもためになった。"
+    }
+  ],
+  "check_points": [
+    "instruct A to do の形がとれるか",
+    "instruction と instructive の意味がわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "語法問題・長文に出る。instruct A to do の型、instructions(説明書)、instructive(ためになる)が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2643
+    }
+  ]
+}

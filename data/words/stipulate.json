@@ -1,0 +1,93 @@
+{
+  "word": "stipulate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈstɪpjuleɪt/",
+  "core_image": {
+    "text": "契約書の中に、条件をはっきり書きこんで決める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"70\" y=\"20\" width=\"100\" height=\"110\"/><line x1=\"84\" y1=\"40\" x2=\"156\" y2=\"40\"/><line x1=\"84\" y1=\"56\" x2=\"156\" y2=\"56\"/><line x1=\"84\" y1=\"72\" x2=\"140\" y2=\"72\"/><rect x=\"80\" y=\"84\" width=\"80\" height=\"20\"/><line x1=\"90\" y1=\"120\" x2=\"120\" y2=\"116\"/></g><text x=\"200\" y=\"94\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">条件を</text><text x=\"200\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">書きこむ</text></svg>"
+  },
+  "etymology": "ラテン語 stipulari(正式に約束を取りつける)→ 約束の条件をはっきり決める → (契約・法律・規則で)条件として定める・明記する → 名 stipulation(規定・条件)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to state clearly and firmly that something must be done, especially as part of an agreement or law."
+    }
+  ],
+  "cautions": [
+    "主語はふつう contract / law / rule / agreement など「文書」:The contract stipulates that ….",
+    "stipulate that S (should) 原形 の形をとる(提案・要求の動詞と同じ)",
+    "specify=細かい点まではっきり示す/stipulate=契約・法で条件として定める/decree=権力者が布告する"
+  ],
+  "patterns": [
+    {
+      "form": "stipulate that S (should) 原形",
+      "meaning": "〜と規定する"
+    },
+    {
+      "form": "stipulate A",
+      "meaning": "A を条件として定める"
+    },
+    {
+      "form": "as stipulated in A",
+      "meaning": "A に定められているとおり"
+    },
+    {
+      "form": "stipulation",
+      "meaning": "規定・条件"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "契約",
+      "en": "The contract stipulates that the work must be finished by May.",
+      "ja": "契約には5月までに仕事を終えなければならないと定められている。"
+    },
+    {
+      "source": "original",
+      "label": "法律",
+      "en": "The law stipulates that drivers (should) carry their licenses.",
+      "ja": "法律は運転者が免許証を持っていることを定めている。"
+    },
+    {
+      "source": "original",
+      "label": "A",
+      "en": "The rules stipulate a maximum of three members per team.",
+      "ja": "規則は1チーム最大3人と定めている。"
+    },
+    {
+      "source": "original",
+      "label": "as stipulated",
+      "en": "Payment will be made as stipulated in the agreement.",
+      "ja": "支払いは協定に定められているとおりに行われる。"
+    },
+    {
+      "source": "original",
+      "label": "条件",
+      "en": "He agreed to sell the house, but stipulated one condition.",
+      "ja": "彼は家を売ることに同意したが、1つ条件をつけた。"
+    },
+    {
+      "source": "original",
+      "label": "stipulation",
+      "en": "There is a stipulation that the money be used for education.",
+      "ja": "その金は教育に使われるべしという条件がついている。"
+    }
+  ],
+  "check_points": [
+    "主語が契約・法律になることが多いとわかるか",
+    "that 節中に原形が来ることがあるとわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "評論・法律がらみの長文に出る。that 節中の原形、specify との言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2645
+    }
+  ]
+}

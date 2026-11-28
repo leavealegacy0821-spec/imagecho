@@ -1,0 +1,93 @@
+{
+  "word": "quantify",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈkwɒntɪfaɪ/",
+  "core_image": {
+    "text": "形のないものを、数字で表せる量にする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M40 80 Q55 50 75 70 Q95 50 100 80 Q110 105 80 105 Q50 110 40 80\"/><line x1=\"110\" y1=\"82\" x2=\"150\" y2=\"82\"/><polyline points=\"143,78.2 150,82 143,85.8\"/><rect x=\"160\" y=\"100\" width=\"12\" height=\"40\"/><rect x=\"178\" y=\"80\" width=\"12\" height=\"60\"/><rect x=\"196\" y=\"60\" width=\"12\" height=\"80\"/></g><text x=\"70\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">形のないもの</text><text x=\"188\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">数字に</text></svg>"
+  },
+  "etymology": "quantity(量)+ -fy(〜にする)→ 量にする → (価値・効果・気持ちなど形のないものを)数量で表す・数値化する → 名 quantification・形 quantitative(量の)⇔ qualitative(質の)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to describe or express something as an amount or a number."
+    }
+  ],
+  "cautions": [
+    "よく否定・可能性と使う:be difficult / hard to quantify(数値化しにくい)",
+    "quantitative(量的な)⇔ qualitative(質的な)は対で長文に出る",
+    "measure=単位で測る/quantify=測りにくいものを数字で表せる形にする/calculate=数字から答えを出す"
+  ],
+  "patterns": [
+    {
+      "form": "quantify A",
+      "meaning": "A を数値化する"
+    },
+    {
+      "form": "be difficult to quantify",
+      "meaning": "数値化しにくい"
+    },
+    {
+      "form": "quantify the effect / value of A",
+      "meaning": "A の効果・価値を数字で表す"
+    },
+    {
+      "form": "quantitative ⇔ qualitative",
+      "meaning": "量的な ⇔ 質的な"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "難しい",
+      "en": "The value of friendship is impossible to quantify.",
+      "ja": "友情の価値は数字で表すことができない。"
+    },
+    {
+      "source": "original",
+      "label": "効果",
+      "en": "Researchers tried to quantify the effect of exercise on memory.",
+      "ja": "研究者は運動が記憶に与える効果を数値化しようとした。"
+    },
+    {
+      "source": "original",
+      "label": "被害",
+      "en": "It is too early to quantify the damage caused by the flood.",
+      "ja": "洪水による被害を数字で示すのはまだ早すぎる。"
+    },
+    {
+      "source": "original",
+      "label": "幸福",
+      "en": "Can happiness really be quantified?",
+      "ja": "幸福は本当に数値で表せるのだろうか。"
+    },
+    {
+      "source": "original",
+      "label": "quantitative",
+      "en": "The study used both quantitative and qualitative methods.",
+      "ja": "その研究は量的な方法と質的な方法の両方を使った。"
+    },
+    {
+      "source": "original",
+      "label": "リスク",
+      "en": "Banks need to quantify the risks of each loan.",
+      "ja": "銀行はそれぞれの融資の危険性を数値で表す必要がある。"
+    }
+  ],
+  "check_points": [
+    "quantity(量)+ -fy で「量にする」とわかるか",
+    "quantitative と qualitative のちがいが言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "評論・科学の長文に出る。be difficult to quantify の形、quantitative / qualitative の対比が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2641
+    }
+  ]
+}

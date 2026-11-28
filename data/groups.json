@@ -183,7 +183,7 @@
     },
     {
       "title": "使い分け:予想する・推し量る",
-      "note": "predict=言葉で前もって言う ／ foresee=前もって見通す ／ anticipate=先回りして予期・備える ／ expect=当然来ると思って待つ ／ estimate=ざっと見積もる ／ speculate=根拠なしにあれこれ推測する ／ conjecture=証拠が足りないまま組み立てた憶測 ／ surmise=わずかな手がかりから静かに推し量る",
+      "note": "predict=言葉で前もって言う ／ foresee=前もって見通す ／ anticipate=先回りして予期・備える ／ expect=当然来ると思って待つ ／ estimate=ざっと見積もる ／ speculate=根拠なしにあれこれ推測する ／ conjecture=証拠が足りないまま組み立てた憶測 ／ surmise=わずかな手がかりから静かに推し量る ／ forecast=データから先のなりゆきを予報する",
       "words": [
         "predict",
         "foresee",
@@ -192,7 +192,29 @@
         "estimate",
         "speculate",
         "conjecture",
-        "surmise"
+        "surmise",
+        "forecast"
+      ]
+    },
+    {
+      "title": "使い分け:計算する・測る",
+      "note": "calculate=小石で数えるように手順をふんで数字をはじき出す(be calculated to do=ねらって計画された) ／ compute=機械・公式できっちり数値を算出する ／ gauge=目盛りに当てて量や人の気持ちを推し量る ／ quantify=形のないものを数字で表せる量にする",
+      "words": [
+        "calculate",
+        "compute",
+        "gauge",
+        "quantify"
+      ]
+    },
+    {
+      "title": "使い分け:指示する・定める",
+      "note": "instruct=手順を伝えて指示する・教える(instruct A to do) ／ decree=権力者が上から決めて言いわたす ／ stipulate=契約・法の中に条件として書きこむ ／ specify=ぼんやりではなく1つに特定してはっきり示す ／ designate=しるしをつけてこの役・この場所と指定する",
+      "words": [
+        "instruct",
+        "decree",
+        "stipulate",
+        "specify",
+        "designate"
       ]
     },
     {

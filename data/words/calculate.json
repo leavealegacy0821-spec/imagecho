@@ -1,0 +1,98 @@
+{
+  "word": "calculate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈkælkjuleɪt/",
+  "core_image": {
+    "text": "小石を並べて数えるように、数字をはじき出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"80\" y2=\"100\"/><line x1=\"50\" y1=\"74\" x2=\"36\" y2=\"100\"/><circle cx=\"96\" cy=\"104\" r=\"4\"/><circle cx=\"110\" cy=\"104\" r=\"4\"/><circle cx=\"124\" cy=\"104\" r=\"4\"/><circle cx=\"103\" cy=\"92\" r=\"4\"/><circle cx=\"117\" cy=\"92\" r=\"4\"/><line x1=\"136\" y1=\"98\" x2=\"170\" y2=\"98\"/><polyline points=\"163,94.2 170,98 163,101.8\"/><rect x=\"176\" y=\"84\" width=\"40\" height=\"28\"/></g><text x=\"110\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">小石で数え</text><text x=\"196\" y=\"74\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">答え</text></svg>"
+  },
+  "etymology": "ラテン語 calculus(小石)→ 小石を並べて数える → ①計算する ②(計算して)見積もる・予測する ③(be calculated to do)〜するようにねらって計画されている → 名 calculation(計算)・形 calculating(計算高い)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to find a number or amount using mathematics; to judge the likely result of something; (be calculated to do) to be planned to have a particular effect."
+    }
+  ],
+  "cautions": [
+    "calculate+that 節で「(計算して)〜と見積もる・予測する」:Experts calculate that the population will double.",
+    "be calculated to do=「〜するようにわざと計画されている」:The ad was calculated to attract young people.",
+    "calculating(形)は「計算高い・打算的な」と悪い意味。calculated risk=計算ずみの(承知のうえの)危険",
+    "compute=機械で複雑な数値を出す/calculate=手順をふんで数字をはじき出す/estimate=ざっと見積もる"
+  ],
+  "patterns": [
+    {
+      "form": "calculate A",
+      "meaning": "A を計算する"
+    },
+    {
+      "form": "calculate that S V",
+      "meaning": "計算して〜と見積もる"
+    },
+    {
+      "form": "calculate how much / how many …",
+      "meaning": "どれだけかを計算する"
+    },
+    {
+      "form": "be calculated to do",
+      "meaning": "〜するようにねらって計画されている"
+    },
+    {
+      "form": "a calculated risk",
+      "meaning": "承知のうえでおかす危険"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "計算",
+      "en": "Can you calculate the total cost of the trip?",
+      "ja": "旅行の費用の合計を計算してくれますか。"
+    },
+    {
+      "source": "original",
+      "label": "that 節",
+      "en": "Scientists calculate that the ice will melt within fifty years.",
+      "ja": "科学者は計算して、50年以内に氷がとけると見積もっている。"
+    },
+    {
+      "source": "original",
+      "label": "how",
+      "en": "Let's calculate how much paint we need for the wall.",
+      "ja": "かべにペンキがどれだけ必要か計算しよう。"
+    },
+    {
+      "source": "original",
+      "label": "be calculated to do",
+      "en": "His speech was calculated to win the voters' support.",
+      "ja": "彼の演説は有権者の支持を得るようにねらって作られていた。"
+    },
+    {
+      "source": "original",
+      "label": "calculating",
+      "en": "She is too calculating to be trusted.",
+      "ja": "彼女は計算高すぎて信用できない。"
+    },
+    {
+      "source": "original",
+      "label": "calculation",
+      "en": "By my calculation, we will arrive at noon.",
+      "ja": "私の計算では正午に着くはずだ。"
+    }
+  ],
+  "check_points": [
+    "「小石(calculus)で数える」から「計算する・見積もる」へのつながりが言えるか",
+    "be calculated to do の意味が言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文・英作文に出る。that 節の「見積もる」、be calculated to do、calculating(計算高い)が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2638
+    }
+  ]
+}

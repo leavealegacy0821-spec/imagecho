@@ -1,0 +1,94 @@
+{
+  "word": "compute",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kəmˈpjuːt/",
+  "core_image": {
+    "text": "たくさんの数をまとめて、きっちり数値を出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"50\" width=\"60\" height=\"44\"/><line x1=\"40\" y1=\"64\" x2=\"80\" y2=\"64\"/><line x1=\"40\" y1=\"74\" x2=\"80\" y2=\"74\"/><line x1=\"40\" y1=\"84\" x2=\"70\" y2=\"84\"/><line x1=\"60\" y1=\"94\" x2=\"60\" y2=\"140\"/><line x1=\"98\" y1=\"72\" x2=\"140\" y2=\"72\"/><polyline points=\"133,68.2 140,72 133,75.8\"/><rect x=\"148\" y=\"58\" width=\"60\" height=\"28\"/><line x1=\"160\" y1=\"72\" x2=\"196\" y2=\"72\"/></g><text x=\"60\" y=\"36\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">数をまとめて</text><text x=\"178\" y=\"108\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">きっちり出す</text></svg>"
+  },
+  "etymology": "com(いっしょに)+ putare(数える・考える)→ まとめて数える → ①(数値・量を)計算する・算出する → 名 computer(計算するもの)・computation(計算)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to calculate an answer or amount, especially using a machine or a precise method."
+    }
+  ],
+  "cautions": [
+    "computer は「計算する機械」。compute は機械・公式を使った正確で複雑な計算によく使う",
+    "calculate とほぼ同じ意味だが、compute のほうがかたく専門的",
+    "compute A at B=A を B と算出する:The damage was computed at one million dollars.",
+    "count=1つずつ数える/calculate=手順をふんで計算する/compute=機械的・正確に数値を出す"
+  ],
+  "patterns": [
+    {
+      "form": "compute A",
+      "meaning": "A を計算する・算出する"
+    },
+    {
+      "form": "compute A at B",
+      "meaning": "A を B と算出する"
+    },
+    {
+      "form": "compute how / what …",
+      "meaning": "どれだけかを算出する"
+    },
+    {
+      "form": "computation",
+      "meaning": "計算"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "算出",
+      "en": "The program computes the average score of each class.",
+      "ja": "そのプログラムは各クラスの平均点を算出する。"
+    },
+    {
+      "source": "original",
+      "label": "at",
+      "en": "The loss was computed at about ten million yen.",
+      "ja": "損失はおよそ1000万円と算出された。"
+    },
+    {
+      "source": "original",
+      "label": "how",
+      "en": "Engineers computed how much weight the bridge could hold.",
+      "ja": "技術者は橋がどれだけの重さに耐えられるかを計算した。"
+    },
+    {
+      "source": "original",
+      "label": "速さ",
+      "en": "Modern machines can compute millions of numbers in a second.",
+      "ja": "現代の機械は1秒に何百万もの数を計算できる。"
+    },
+    {
+      "source": "original",
+      "label": "computer",
+      "en": "The word \"computer\" once meant a person who computed numbers.",
+      "ja": "computer という語は、かつて数を計算する人を意味した。"
+    },
+    {
+      "source": "original",
+      "label": "computation",
+      "en": "The computation took several hours.",
+      "ja": "その計算には数時間かかった。"
+    }
+  ],
+  "check_points": [
+    "computer が compute から来ているとわかるか",
+    "calculate との言いかえができるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "科学・情報の長文に出る。calculate との言いかえ、computer・computation との関係が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2639
+    }
+  ]
+}
