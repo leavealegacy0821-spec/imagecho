@@ -144,3 +144,11 @@
 - **イディオム**:新しい単語集「イディオム」(`data/lists/idiom.json`)。gen の `w` に空白を入れて書くと(例 `w:'put off'`)`data/words/put off.json` ができ、イディオムの単語集に入る。例文では動詞の活用形と up・off などを太字にする。自分のまとまりにもイディオムを丸ごと入力して足せる
 - 1回目の20個(gen/279・280):put off call off give up turn down bring about come about break out turn up carry out keep up with / make out figure out find out work out come up with take after look up to look down on put up with make up for。groups.json に「イディオム:〜」の使い分けのまとまり5つ(使い分けの直後)
 - ついでに、詳細ページの「＋ 自分のまとまりに入れる」の横に null と出ていたのを直した。sw.js は v89
+
+## 2026-11-28 端末間の同期(Cloudflare)を追加(本人の要望)
+
+- 「苦手・覚えた」「自分のまとまり」「めくった位置」を iPhone と PC で共有するため、Cloudflare Worker を足した(`worker/`)。保存先は KV「imagecho-sync」(id ccef8acd…、作成済み)
+- 画面側は `js/cloud.js`。同期キー(端末で作る乱数)を同じにした端末どうしが同じ中身になる。版番号 rev で、ほかの端末が先に書いたときは両方を合わせる(この端末を優先)。ホーム下の「ほかの端末と同期」→ `#/sync`
+- めくった位置は送りすぎないよう 30 秒まとめてから送る(KV の無料枠は書き込み 1日1000回)
+- **未完了**:Worker の公開(Cloudflare の画面で、このリポジトリの `worker/` を Workers として取り込む)→ 公開後の住所を `js/cloud.js` の `SYNC_URL` に入れる。空のあいだは同期は動かず、画面にも出ない
+- 次:単語集にない単語をその場で AI に解説させる機能(Worker に API キーを隠す)

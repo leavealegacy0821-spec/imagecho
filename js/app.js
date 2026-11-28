@@ -12,6 +12,7 @@
 
 import { initSpeech, speak, stopSpeech } from './speech.js';
 import { registerServiceWorker, loadIndex, wordUrl, syncWords } from './offline.js';
+import { initCloud, changed, getKey, useKey, getStatus, enabled as cloudEnabled, syncNow } from './cloud.js';
 
 const $view = document.getElementById('view');
 const $masthead = document.getElementById('masthead');
@@ -181,6 +182,7 @@ function setMark(word, kind) {
   } catch (e) {
     toast('マークを保存できませんでした');
   }
+  changed();
 }
 
 // 印を付けた単語。新しく付けたものから順に(解説のある語だけ)
@@ -202,6 +204,7 @@ function saveMine() {
   } catch (e) {
     toast('まとまりを保存できませんでした');
   }
+  changed();
 }
 const mineById = (id) => mine.find((g) => g.id === String(id)) || null;
 // 解説のある単語だけを、入れた順に
@@ -266,6 +269,7 @@ function parseHash() {
   if (seg[0] === 'marks' && MARK_NAMES[seg[1]]) return { name: 'marks', kind: seg[1] };
   if (seg[0] === 'word' && seg[1]) return { name: 'word', word: seg.slice(1).join('/'), params };
   if (seg[0] === 'search') return { name: 'home', q: params.get('q') || '' };
+  if (seg[0] === 'sync') return { name: 'sync' };
   return { name: 'home', q: '' };
 }
 
@@ -294,7 +298,7 @@ function route() {
     document.body.classList.remove('has-pager');
     $sync.classList.remove('is-hidden');
     const rows = r.name === 'list' ? renderList(r) : r.name === 'mine' ? renderMine(r)
-      : r.name === 'marks' ? renderMarks(r) : renderHome(r.q);
+      : r.name === 'marks' ? renderMarks(r) : r.name === 'sync' ? renderSync() : renderHome(r.q);
     window.scrollTo(0, y);
     if (rows) rows.draw(); // 戻した位置の行をすぐ描く
     // 詳細から戻ってきたとき、最後に見ていた単語が画面の外なら見える位置まで動かす
@@ -455,7 +459,8 @@ function renderHome(q) {
                 h('span', { class: 'book-dots', 'aria-hidden': 'true' }),
                 h('span', { class: 'book-count' }, h('b', null, fmt(l.count)), ' 語')))))
           : note('単語集がまだありません。')),
-      lists.length > 1 ? h('p', { class: 'fine' }, 'のべ ' + fmt(total) + ' 語') : '');
+      lists.length > 1 ? h('p', { class: 'fine' }, 'のべ ' + fmt(total) + ' 語') : '',
+      cloudEnabled() ? h('p', { class: 'fine' }, h('a', { href: '#/sync' }, 'ほかの端末と同期')) : '');
     return null;
   }
 
@@ -863,7 +868,7 @@ async function renderWord(r, y) {
   if (seq.flow) {
     index = Number(r.params.get('flow'));
     if (!(index >= 0 && index < flow.length && flow[index].w._lw === key)) index = flow.findIndex((it) => it.w._lw === key);
-    if (index >= 0) { try { localStorage.setItem(FLOW_KEY, String(index)); } catch (e) { /* 何もしない */ } }
+    if (index >= 0) { try { localStorage.setItem(FLOW_KEY, String(index)); } catch (e) { /* 何もしない */ } changed(30000); }
   } else {
     index = seq.items.findIndex((it) => it.w._lw === key);
   }
@@ -1005,6 +1010,65 @@ function reportSync(done, total, state) {
   }
 }
 
+// ───────── 画面:ほかの端末と同期 ─────────
+
+const SYNC_WORDS = { off: '同期していません', syncing: '同期中…', ok: '同期しました', offline: 'オフライン(つながったら送ります)', error: '同期できませんでした' };
+
+function renderSync() {
+  $masthead.hidden = false;
+  document.title = '同期 - 単語イメージ帳';
+  const st = getStatus();
+  const $state = h('p', { class: 'mine-hint', id: 'sync-state' },
+    SYNC_WORDS[st.state] || '', st.message ? '(' + st.message + ')' : '');
+  const key = getKey();
+  const $in = h('input', { type: 'text', class: 'sync-in', placeholder: 'ほかの端末の同期キー', autocomplete: 'off', autocapitalize: 'off', spellcheck: 'false' });
+  $view.replaceChildren(
+    h('section', { class: 'block' },
+      h('h2', { class: 'block-h' }, h('span', null, 'ほかの端末と同期')),
+      h('p', { class: 'mine-hint' }, '同じ同期キーを入れた端末どうしで、「苦手・覚えた」「自分のまとまり」「めくった位置」が同じになります。'),
+      $state,
+      h('h3', { class: 'sync-h' }, 'この端末の同期キー'),
+      h('p', { class: 'sync-key', lang: 'en' }, key),
+      h('p', null, h('button', {
+        type: 'button', class: 'plain-btn',
+        onclick: async () => {
+          try { await navigator.clipboard.writeText(key); toast('コピーしました'); } catch (e) { toast('コピーできませんでした。長押しで選んでください'); }
+        },
+      }, 'キーをコピー')),
+      h('h3', { class: 'sync-h' }, 'ほかの端末に合わせる'),
+      h('p', { class: 'mine-hint' }, 'ほかの端末でコピーしたキーを貼り付けてください。両方の端末の印とまとまりが合わさります。'),
+      $in,
+      h('p', null, h('button', {
+        type: 'button', class: 'plain-btn',
+        onclick: async () => {
+          const ok = await useKey($in.value);
+          toast(ok ? 'キーを切り替えました' : 'キーの形がちがいます');
+          if (ok) route();
+        },
+      }, 'このキーに切り替える'),
+      ' ',
+      h('button', { type: 'button', class: 'plain-btn', onclick: () => syncNow() }, '今すぐ同期'))));
+  return null;
+}
+
+function cloudState() {
+  let flowPos = 0;
+  try { flowPos = Number(localStorage.getItem(FLOW_KEY)) || 0; } catch (e) { flowPos = 0; }
+  return { marks, mine, flowPos };
+}
+
+function applyCloudState(s) {
+  marks = (s && typeof s.marks === 'object' && s.marks) || {};
+  mine = Array.isArray(s && s.mine) ? s.mine : [];
+  try {
+    localStorage.setItem(MARKS_KEY, JSON.stringify(marks));
+    localStorage.setItem(MINE_KEY, JSON.stringify(mine));
+    if (s && s.flowPos != null) localStorage.setItem(FLOW_KEY, String(s.flowPos));
+  } catch (e) { /* 何もしない */ }
+  // 単語の詳細ページ以外にいるときは、新しい中身で描き直す
+  if (parseHash().name !== 'word') route();
+}
+
 // ───────── 起動 ─────────
 
 async function start() {
@@ -1032,6 +1096,16 @@ async function start() {
   // 全単語をオフライン用に保存(データの版が変わったときと、まだ終わっていないときだけ動く)
   syncWords(index, reportSync);
   window.addEventListener('online', () => syncWords(index, reportSync));
+
+  // ほかの端末との同期(裏側の住所が入っているときだけ動く)
+  initCloud({
+    getState: cloudState,
+    applyState: applyCloudState,
+    onStatus: (st) => {
+      const el = document.getElementById('sync-state');
+      if (el) el.textContent = (SYNC_WORDS[st.state] || '') + (st.message ? '(' + st.message + ')' : '');
+    },
+  });
 }
 
 start();

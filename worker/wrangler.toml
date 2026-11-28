@@ -1,0 +1,9 @@
+# Cloudflare Worker:imagecho の裏側(端末間の同期)
+# GitHub の main に push すると、Cloudflare が自動でこのフォルダを読み直して公開し直す
+name = "imagecho-sync"
+main = "src/index.js"
+compatibility_date = "2026-11-01"
+
+[[kv_namespaces]]
+binding = "STORE"
+id = "ccef8acd810749198c44472728f1fe2a"

@@ -3,7 +3,7 @@
 // ★アプリの部品(html / css / js / アイコン / manifest)を書き換えたら、
 //   下の APP_VERSION の数字を必ず1つ上げること。
 //   上げると新しい部品を取り直し、古い部品のキャッシュは消える。
-const APP_VERSION = 'v92';
+const APP_VERSION = 'v93';
 
 const APP_CACHE = 'imagecho-app-' + APP_VERSION; // アプリの部品
 const INDEX_CACHE = 'imagecho-index';            // data/index.json の控え
@@ -19,6 +19,7 @@ const SHELL = [
   'js/app.js',
   'js/speech.js',
   'js/offline.js',
+  'js/cloud.js',
   'manifest.webmanifest',
   'icons/icon-192.png',
   'icons/icon-512.png',
