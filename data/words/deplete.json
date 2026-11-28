@@ -1,0 +1,94 @@
+{
+  "word": "deplete",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈpliːt/",
+  "core_image": {
+    "text": "満ちていた中身をくみ出して、残りわずかにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"80\" y=\"30\" width=\"80\" height=\"110\"/><line x1=\"80\" y1=\"45\" x2=\"160\" y2=\"45\" stroke-dasharray=\"5 5\"/><line x1=\"80\" y1=\"120\" x2=\"160\" y2=\"120\"/><line x1=\"120\" y1=\"55\" x2=\"120\" y2=\"110\"/><polyline points=\"123.8,103 120,110 116.2,103\"/><line x1=\"160\" y1=\"130\" x2=\"210\" y2=\"130\"/><polyline points=\"203,126.2 210,130 203,133.8\"/></g><text x=\"40\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もとは満杯</text><text x=\"210\" y=\"118\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">くみ出す</text></svg>"
+  },
+  "etymology": "de(離して・なくして)+ plere(満たす ← complete・plenty と同じ根)→ 満たしたものを空にする → ①(資源・お金・体力を)大きく減らす・使い果たす 名 depletion(枯渇)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to reduce something, especially a supply of resources or energy, by a large amount."
+    }
+  ],
+  "cautions": [
+    "目的語は「たくわえ・資源」:deplete natural resources / the ozone layer / one's savings",
+    "単なる「減らす」でなく、使いすぎて底が見えるほど減らす感じ。受け身 be depleted(枯渇している)も多い",
+    "reduce=量を減らす(ふつう)/diminish=だんだん小さくなる/exhaust=すっかり使い果たす/deplete=たくわえをくみ出して残りわずかにする",
+    "名詞 depletion:ozone depletion(オゾン層の破壊)、resource depletion(資源の枯渇)"
+  ],
+  "patterns": [
+    {
+      "form": "deplete resources / supplies",
+      "meaning": "資源・たくわえを激減させる"
+    },
+    {
+      "form": "be depleted",
+      "meaning": "枯渇している"
+    },
+    {
+      "form": "deplete the ozone layer",
+      "meaning": "オゾン層を破壊する"
+    },
+    {
+      "form": "depletion of A",
+      "meaning": "A の枯渇"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "資源",
+      "en": "Overfishing has depleted fish stocks in the ocean.",
+      "ja": "魚の取りすぎが海の魚の数を激減させた。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "Our food supplies were almost depleted by the fifth day.",
+      "ja": "5日目には、私たちの食料はほとんど底をついていた。"
+    },
+    {
+      "source": "original",
+      "label": "オゾン",
+      "en": "Some chemicals deplete the ozone layer.",
+      "ja": "いくつかの化学物質はオゾン層を破壊する。"
+    },
+    {
+      "source": "original",
+      "label": "お金",
+      "en": "The long illness depleted his savings.",
+      "ja": "長い病気で彼の貯金は大きく減った。"
+    },
+    {
+      "source": "original",
+      "label": "体力",
+      "en": "Running a marathon depletes the body's energy.",
+      "ja": "マラソンを走ると体のエネルギーが激減する。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The depletion of natural resources is a serious global problem.",
+      "ja": "天然資源の枯渇は深刻な地球規模の問題だ。"
+    }
+  ],
+  "check_points": [
+    "de + plete(満たす)で意味がわかるか",
+    "exhaust・reduce とのちがいが言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "環境・資源の長文で頻出。deplete natural resources、ozone depletion が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2674
+    }
+  ]
+}

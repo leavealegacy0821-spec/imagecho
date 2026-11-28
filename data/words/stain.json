@@ -1,0 +1,103 @@
+{
+  "word": "stain",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/steɪn/",
+  "core_image": {
+    "text": "しみこんで、落ちない跡を残す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"60\" y=\"40\" width=\"120\" height=\"90\"/><path d=\"M120 8 C112 20 112 28 120 28 C128 28 128 20 120 8 Z\"/><line x1=\"120\" y1=\"32\" x2=\"120\" y2=\"58\"/><polyline points=\"123.8,51 120,58 116.2,51\"/><polygon points=\"104,74 116,66 130,70 140,82 132,96 118,100 104,92 98,82\"/></g><text x=\"30\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">しみこむ</text><text x=\"120\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">落ちない跡</text></svg>"
+  },
+  "etymology": "中英語 steinen(色を失わせる・汚す ← distain)→ 色がしみこんで跡を残す → ①しみをつける・汚す 名 ②しみ・汚れ ③(名声などの)汚点 ④(木材などを)着色する",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to leave a mark that is difficult to remove on something."
+    },
+    {
+      "pos": "名詞",
+      "text": "a dirty mark that is difficult to remove; something that damages a person's reputation."
+    }
+  ],
+  "cautions": [
+    "名詞・動詞の両方で使う:a coffee stain(コーヒーのしみ)/The wine stained the carpet.",
+    "比ゆで「名声の汚点」:a stain on his reputation",
+    "smear=べたっとしたものを塗り広げる/tarnish=表面のつやがくもる/stain=しみこんで落ちない跡になる",
+    "形容詞 stainless(しみのない=さびない):stainless steel"
+  ],
+  "patterns": [
+    {
+      "form": "stain A",
+      "meaning": "A にしみをつける"
+    },
+    {
+      "form": "be stained with A",
+      "meaning": "A で汚れている"
+    },
+    {
+      "form": "a stain on A",
+      "meaning": "A の汚点・しみ"
+    },
+    {
+      "form": "remove a stain",
+      "meaning": "しみを取る"
+    },
+    {
+      "form": "stainless",
+      "meaning": "さびない・汚れのない"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "動詞",
+      "en": "The red wine stained the white tablecloth.",
+      "ja": "赤ワインが白いテーブルクロスにしみをつけた。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "His shirt was stained with ink.",
+      "ja": "彼のシャツはインクで汚れていた。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "It is hard to remove coffee stains from clothes.",
+      "ja": "服からコーヒーのしみを取るのは難しい。"
+    },
+    {
+      "source": "original",
+      "label": "比ゆ",
+      "en": "The scandal left a stain on his reputation.",
+      "ja": "そのスキャンダルは彼の名声に汚点を残した。"
+    },
+    {
+      "source": "original",
+      "label": "手",
+      "en": "Her hands were stained with blood.",
+      "ja": "彼女の手は血で汚れていた。"
+    },
+    {
+      "source": "original",
+      "label": "stainless",
+      "en": "This knife is made of stainless steel.",
+      "ja": "このナイフはステンレス鋼でできている。"
+    }
+  ],
+  "check_points": [
+    "smear・tarnish とのちがいが言えるか",
+    "比ゆの a stain on one's reputation が言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文に出る。be stained with A、a stain on A(汚点)が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2671
+    }
+  ]
+}

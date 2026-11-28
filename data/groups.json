@@ -562,7 +562,7 @@
     },
     {
       "title": "使い分け:心を乱す・怒らせる",
-      "note": "bother=小さく面倒をかける ／ disturb=静けさ・秩序を乱す ／ upset=ひっくり返して動揺させる ／ offend=気分を害する ／ provoke=わざと怒りをかき立てる ／ trouble=悩ませる ／ annoy=小さなことでいらっとさせる ／ irritate=神経・肌にさわってじりじりさせる ／ frustrate=思うようにいかずいらだたせる ／ insult=わざと失礼なことを言ってばかにする",
+      "note": "bother=小さく面倒をかける ／ disturb=静けさ・秩序を乱す ／ upset=ひっくり返して動揺させる ／ offend=気分を害する ／ provoke=わざと怒りをかき立てる ／ trouble=悩ませる ／ annoy=小さなことでいらっとさせる ／ irritate=神経・肌にさわってじりじりさせる ／ frustrate=思うようにいかずいらだたせる ／ insult=わざと失礼なことを言ってばかにする ／ infuriate=がまんできないほどかんかんに怒らせる ／ enrage=怒りの炎に入れてかっとさせる ／ exasperate=何度もじらされてがまんの限界まで来させる",
       "words": [
         "bother",
         "disturb",
@@ -574,7 +574,10 @@
         "annoy",
         "irritate",
         "frustrate",
-        "insult"
+        "insult",
+        "infuriate",
+        "enrage",
+        "exasperate"
       ]
     },
     {
@@ -998,7 +1001,7 @@
     },
     {
       "title": "使い分け:減る・弱まる",
-      "note": "decrease=数量が減る ／ reduce=(意図して)減らす ／ decline=下向きに傾いて衰える ／ diminish=小さくなる ／ shrink=縮む ／ fade=色・音が薄れて消える ／ decay=朽ちて崩れる ／ dwindle=だんだん細って少なくなる ／ subside=(勢いが)おさまる・沈む ／ erode=少しずつ削りとられる・むしばまれる ／ weaken=支える力を抜いてもろくする ／ lessen=痛みや危険の度合いをやわらげる ／ curtail=予算・活動をばっさり切りつめる ／ lower=高い所から下へおろす・値段や声を下げる(他動詞) ／ wane=月が欠けるように力・関心がじわじわ衰える ／ rot=生ものが中からじわじわ腐ってぐずぐずになる ／ corrode=さび・薬品が表面をかじって少しずつむしばむ(信頼にも)",
+      "note": "decrease=数量が減る ／ reduce=(意図して)減らす ／ decline=下向きに傾いて衰える ／ diminish=小さくなる ／ shrink=縮む ／ fade=色・音が薄れて消える ／ decay=朽ちて崩れる ／ dwindle=だんだん細って少なくなる ／ subside=(勢いが)おさまる・沈む ／ erode=少しずつ削りとられる・むしばまれる ／ weaken=支える力を抜いてもろくする ／ lessen=痛みや危険の度合いをやわらげる ／ curtail=予算・活動をばっさり切りつめる ／ lower=高い所から下へおろす・値段や声を下げる(他動詞) ／ wane=月が欠けるように力・関心がじわじわ衰える ／ rot=生ものが中からじわじわ腐ってぐずぐずになる ／ corrode=さび・薬品が表面をかじって少しずつむしばむ(信頼にも) ／ deplete=たくわえをくみ出して残りわずかにする",
       "words": [
         "decrease",
         "reduce",
@@ -1016,7 +1019,8 @@
         "lower",
         "wane",
         "rot",
-        "corrode"
+        "corrode",
+        "deplete"
       ]
     },
     {
@@ -1244,7 +1248,7 @@
     },
     {
       "title": "使い分け:取り除く",
-      "note": "remove=取り去る ／ eliminate=締め出して完全になくす ／ rid A of B=AからBを取り除く ／ strip=はぎ取る ／ exclude=外に締め出す ／ omit=(うっかり・意図的に)抜かす ／ extract=引き抜く ／ expel=中にいた者を外へ押し出す(退学・追放) ／ banish=遠くへ追いやり戻らせない・(考えを)追い払う",
+      "note": "remove=取り去る ／ eliminate=締め出して完全になくす ／ rid A of B=AからBを取り除く ／ strip=はぎ取る ／ exclude=外に締め出す ／ omit=(うっかり・意図的に)抜かす ／ extract=引き抜く ／ expel=中にいた者を外へ押し出す(退学・追放) ／ banish=遠くへ追いやり戻らせない・(考えを)追い払う ／ eradicate=根っこから引き抜いて完全になくす ／ erase=こすって跡を残さず消す",
       "words": [
         "remove",
         "eliminate",
@@ -1254,7 +1258,9 @@
         "omit",
         "extract",
         "expel",
-        "banish"
+        "banish",
+        "eradicate",
+        "erase"
       ]
     },
     {
@@ -2508,13 +2514,16 @@
     },
     {
       "title": "使い分け:よごす・むだにする",
-      "note": "pollution=きれいなものをけがす汚染(不可算) ／ contaminate=触れて混ざりこみ中までよごす ／ waste=役立てずむだに捨てる・廃棄物 ／ spoil=台無しにする ／ squander=大切なお金・機会を湯水のようにまき散らしてふいにする",
+      "note": "pollution=きれいなものをけがす汚染(不可算) ／ contaminate=触れて混ざりこみ中までよごす ／ waste=役立てずむだに捨てる・廃棄物 ／ spoil=台無しにする ／ squander=大切なお金・機会を湯水のようにまき散らしてふいにする ／ stain=しみこんで落ちない跡を残す ／ smear=べたっと塗り広げる(中傷も) ／ tarnish=ぴかぴかの表面(評判)をくもらせる",
       "words": [
         "pollution",
         "contaminate",
         "waste",
         "spoil",
-        "squander"
+        "squander",
+        "stain",
+        "smear",
+        "tarnish"
       ]
     },
     {
@@ -4018,14 +4027,15 @@
     },
     {
       "title": "使い分け:燃える・火を消す",
-      "note": "burn=火がついて燃えながら形が減っていく ／ flame=ゆらゆら立ちのぼる目に見える炎 ／ ignite=最初の火をつけて燃え始めさせる(論争に火をつける) ／ spark=パッと飛ぶ小さな火花(大きなことのきっかけ) ／ smoke=燃えたあとにもくもく立ちのぼる煙 ／ extinguish=燃えている火を押さえこんで消す(=put out)",
+      "note": "burn=火がついて燃えながら形が減っていく ／ flame=ゆらゆら立ちのぼる目に見える炎 ／ ignite=最初の火をつけて燃え始めさせる(論争に火をつける) ／ spark=パッと飛ぶ小さな火花(大きなことのきっかけ) ／ smoke=燃えたあとにもくもく立ちのぼる煙 ／ extinguish=燃えている火を押さえこんで消す(=put out) ／ kindle=小さな火をつけて燃え上がらせる(興味も)",
       "words": [
         "burn",
         "flame",
         "ignite",
         "spark",
         "smoke",
-        "extinguish"
+        "extinguish",
+        "kindle"
       ]
     },
     {

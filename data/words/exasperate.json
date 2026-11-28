@@ -1,0 +1,94 @@
+{
+  "word": "exasperate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪɡˈzɑːspəreɪt/",
+  "core_image": {
+    "text": "何度もじらされて、がまんの限界まで来させる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"40\" y=\"30\" width=\"30\" height=\"110\"/><line x1=\"40\" y1=\"120\" x2=\"70\" y2=\"120\"/><line x1=\"40\" y1=\"100\" x2=\"70\" y2=\"100\"/><line x1=\"40\" y1=\"80\" x2=\"70\" y2=\"80\"/><line x1=\"40\" y1=\"60\" x2=\"70\" y2=\"60\"/><line x1=\"40\" y1=\"40\" x2=\"70\" y2=\"40\"/><line x1=\"90\" y1=\"60\" x2=\"160\" y2=\"60\"/><polyline points=\"153,56.2 160,60 153,63.8\"/><line x1=\"90\" y1=\"80\" x2=\"160\" y2=\"80\"/><polyline points=\"153,76.2 160,80 153,83.8\"/><line x1=\"90\" y1=\"100\" x2=\"160\" y2=\"100\"/><polyline points=\"153,96.2 160,100 153,103.8\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"178\" y2=\"54\"/><line x1=\"190\" y1=\"74\" x2=\"202\" y2=\"54\"/></g><text x=\"55\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">限界</text><text x=\"125\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">何度も</text></svg>"
+  },
+  "etymology": "ex(すっかり)+ asper(ざらざらした・荒い)→ 心をすっかり荒立てる → ①(何度も・長く)いらいらさせる・憤慨させる ②(be exasperated)うんざりして腹を立てている 名 exasperation",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone very annoyed, especially because they cannot do anything to change the situation."
+    }
+  ],
+  "cautions": [
+    "「どうにもならないことが続いて、とうとうがまんの限界」という感じ。1回で怒らせる infuriate・enrage とちがう",
+    "人が主語なら受け身:I was exasperated with him.(彼にはうんざりして腹が立った)。人には with、物事には at / by",
+    "exasperating(いらいらさせる)/exasperated(いらいらしている)の区別",
+    "irritate=くり返し少しずついらいらさせる/exasperate=手の打ちようがなくて限界まで来させる(より強い)"
+  ],
+  "patterns": [
+    {
+      "form": "exasperate A",
+      "meaning": "A をいらいらさせる・憤慨させる"
+    },
+    {
+      "form": "be exasperated with A (人)",
+      "meaning": "A(人)にうんざりして腹を立てる"
+    },
+    {
+      "form": "be exasperated at / by A (物事)",
+      "meaning": "A(物事)にいらだつ"
+    },
+    {
+      "form": "in exasperation",
+      "meaning": "いらだって"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "他動詞",
+      "en": "His constant lateness exasperated his teacher.",
+      "ja": "彼のたびたびの遅刻は先生をいらだたせた。"
+    },
+    {
+      "source": "original",
+      "label": "with 人",
+      "en": "She was exasperated with her brother for losing her keys again.",
+      "ja": "彼女は、また鍵をなくした弟にうんざりして腹を立てた。"
+    },
+    {
+      "source": "original",
+      "label": "at 物事",
+      "en": "The passengers were exasperated at the repeated delays.",
+      "ja": "乗客はくり返される遅れにいらだっていた。"
+    },
+    {
+      "source": "original",
+      "label": "in exasperation",
+      "en": "He threw up his hands in exasperation.",
+      "ja": "彼はいらだって両手を上げた(お手上げだ)。"
+    },
+    {
+      "source": "original",
+      "label": "形容詞",
+      "en": "Waiting in line for hours is exasperating.",
+      "ja": "何時間も列に並んで待つのはいらいらする。"
+    },
+    {
+      "source": "original",
+      "label": "限界",
+      "en": "After the tenth phone call, she was completely exasperated.",
+      "ja": "10回目の電話のあと、彼女は完全にがまんの限界だった。"
+    }
+  ],
+  "check_points": [
+    "infuriate・irritate とのちがいが言えるか",
+    "with(人)と at(物事)の使い分けができるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文・語彙問題に出る。be exasperated with A、in exasperation が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2670
+    }
+  ]
+}

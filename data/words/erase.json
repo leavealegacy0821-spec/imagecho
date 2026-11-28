@@ -1,0 +1,94 @@
+{
+  "word": "erase",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪˈreɪz/",
+  "core_image": {
+    "text": "こすり取って、跡を残さず消す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"30\" width=\"180\" height=\"90\"/><polyline points=\"50,60 60,50 70,60 80,50 90,60\"/><polyline points=\"50,85 60,75 70,85 80,75 90,85\"/><rect x=\"130\" y=\"60\" width=\"30\" height=\"20\"/><line x1=\"110\" y1=\"100\" x2=\"190\" y2=\"100\" stroke-dasharray=\"5 5\"/><polyline points=\"183,96.2 190,100 183,103.8\"/></g><text x=\"120\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こすって消す</text></svg>"
+  },
+  "etymology": "e(外へ)+ radere(こする・削る)→ こすって外へ取り去る → ①(文字・記録を)消す ②(データを)消去する ③(記憶・感情などを)ぬぐい去る 名 eraser(消しゴム)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to remove something completely, such as writing, recorded material or a memory."
+    }
+  ],
+  "cautions": [
+    "物理的に「こすって消す」から、記憶・データ・痕跡を「すっかり消す」へ広がる:erase the memory / erase data",
+    "erase A from B(B から A を消す)の型",
+    "delete=データ・文字を(機械的に)削除する/eradicate=悪いものを根こそぎ撲滅する/erase=こすって跡を残さず消す(記憶にも)",
+    "名詞 eraser(消しゴム・黒板消し)"
+  ],
+  "patterns": [
+    {
+      "form": "erase A",
+      "meaning": "A を消す"
+    },
+    {
+      "form": "erase A from B",
+      "meaning": "B から A を消す"
+    },
+    {
+      "form": "erase the memory of A",
+      "meaning": "A の記憶をぬぐい去る"
+    },
+    {
+      "form": "eraser",
+      "meaning": "消しゴム"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "文字",
+      "en": "She erased the wrong answer and wrote a new one.",
+      "ja": "彼女はまちがった答えを消して、新しい答えを書いた。"
+    },
+    {
+      "source": "original",
+      "label": "黒板",
+      "en": "Please erase the board before the next class.",
+      "ja": "次の授業の前に黒板を消してください。"
+    },
+    {
+      "source": "original",
+      "label": "データ",
+      "en": "All the files were accidentally erased from the computer.",
+      "ja": "すべてのファイルがうっかりコンピューターから消去された。"
+    },
+    {
+      "source": "original",
+      "label": "記憶",
+      "en": "Nothing can erase the memory of that terrible day.",
+      "ja": "何をもってしても、あのひどい日の記憶はぬぐい去れない。"
+    },
+    {
+      "source": "original",
+      "label": "比ゆ",
+      "en": "The war erased the town from the map.",
+      "ja": "戦争はその町を地図から消し去った。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "Can I borrow your eraser?",
+      "ja": "消しゴムを借りてもいい?"
+    }
+  ],
+  "check_points": [
+    "erase A from B の型が使えるか",
+    "delete・eradicate とのちがいが言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文に出る。erase the memory of A、erase A from B が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2677
+    }
+  ]
+}

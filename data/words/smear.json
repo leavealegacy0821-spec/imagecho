@@ -1,0 +1,98 @@
+{
+  "word": "smear",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/smɪə/",
+  "core_image": {
+    "text": "べたっとしたものを、こすって塗り広げる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"30\" width=\"180\" height=\"100\"/><path d=\"M60 70 C90 55 120 90 150 65 C165 55 175 60 185 65\"/><path d=\"M60 84 C90 69 120 104 150 79 C165 69 175 74 185 79\"/><line x1=\"60\" y1=\"104\" x2=\"180\" y2=\"104\"/><polyline points=\"173,100.2 180,104 173,107.8\"/></g><text x=\"120\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">塗り広げる</text><text x=\"120\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">こする</text></svg>"
+  },
+  "etymology": "古英語 smierwan(油を塗る)→ べたつくものを塗り広げる → ①(油・泥などを)塗りつける・なすりつける ②こすってにじませる ③(人の評判に泥を塗る→)中傷する 名 ④汚れ・中傷",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to spread a soft or oily substance over a surface; to say false things about someone to harm their reputation."
+    },
+    {
+      "pos": "名詞",
+      "text": "a dirty mark; an untrue story intended to damage someone's reputation."
+    }
+  ],
+  "cautions": [
+    "塗る物と塗られる所の2つの型:smear A on B(A を B に塗る)/smear B with A(B に A を塗りつける)",
+    "比ゆ「中傷する」が長文に出る:a smear campaign(中傷キャンペーン)",
+    "spread=薄く広げる(ふつうの語)/stain=しみこんで跡が残る/smear=べたべたこすりつけて汚す・にじませる"
+  ],
+  "patterns": [
+    {
+      "form": "smear A on B",
+      "meaning": "A を B に塗りつける"
+    },
+    {
+      "form": "smear B with A",
+      "meaning": "B に A を塗りつける"
+    },
+    {
+      "form": "a smear campaign",
+      "meaning": "中傷キャンペーン"
+    },
+    {
+      "form": "smear A (人)",
+      "meaning": "A を中傷する"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "on",
+      "en": "The child smeared chocolate on the wall.",
+      "ja": "その子は壁にチョコレートをなすりつけた。"
+    },
+    {
+      "source": "original",
+      "label": "with",
+      "en": "His face was smeared with mud.",
+      "ja": "彼の顔は泥だらけだった。"
+    },
+    {
+      "source": "original",
+      "label": "にじむ",
+      "en": "The rain smeared the ink on the letter.",
+      "ja": "雨で手紙のインクがにじんだ。"
+    },
+    {
+      "source": "original",
+      "label": "中傷",
+      "en": "The politician claimed that the newspaper was trying to smear him.",
+      "ja": "その政治家は、新聞が自分を中傷しようとしていると主張した。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "There was a smear of paint on her cheek.",
+      "ja": "彼女のほおにペンキの汚れがついていた。"
+    },
+    {
+      "source": "original",
+      "label": "campaign",
+      "en": "The candidate became the target of a smear campaign.",
+      "ja": "その候補者は中傷キャンペーンの標的になった。"
+    }
+  ],
+  "check_points": [
+    "smear A on B / smear B with A の2つの型が言えるか",
+    "「中傷する」の意味が言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文に出る。smear A on B の型、smear campaign(中傷)が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2672
+    }
+  ]
+}

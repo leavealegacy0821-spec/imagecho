@@ -1,0 +1,94 @@
+{
+  "word": "eradicate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪˈrædɪkeɪt/",
+  "core_image": {
+    "text": "根っこから引き抜いて、完全になくす",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><path d=\"M100 140 Q120 156 140 140\"/><line x1=\"120\" y1=\"50\" x2=\"120\" y2=\"90\"/><path d=\"M120 60 Q100 50 96 36\"/><path d=\"M120 66 Q140 56 146 42\"/><line x1=\"120\" y1=\"90\" x2=\"106\" y2=\"108\"/><line x1=\"120\" y1=\"90\" x2=\"120\" y2=\"112\"/><line x1=\"120\" y1=\"90\" x2=\"134\" y2=\"108\"/><line x1=\"166\" y1=\"110\" x2=\"166\" y2=\"50\"/><polyline points=\"162.2,57 166,50 169.8,57\"/></g><text x=\"204\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">根こそぎ</text><text x=\"56\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">もう生えない</text></svg>"
+  },
+  "etymology": "e(外へ)+ radix(根 ← radical と同じ根)→ 根から引き抜く → ①(病気・貧困・悪習などを)根絶する・撲滅する 名 eradication(根絶)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to get rid of something completely, especially something bad such as a disease or a social problem."
+    }
+  ],
+  "cautions": [
+    "目的語は「悪いもの」:eradicate poverty / disease / crime / racism",
+    "二度と生えてこないように根から断つ=完全になくす。一部を減らす reduce とはちがう",
+    "remove=取り除く(ふつう)/eliminate=不要なものを外して除く/abolish=制度・法律を廃止する/eradicate=病気・貧困などを根こそぎ撲滅する",
+    "e + radic(根)は radical(根本的な)と同じ根。e + rad で「根から外へ」"
+  ],
+  "patterns": [
+    {
+      "form": "eradicate A",
+      "meaning": "A を根絶する"
+    },
+    {
+      "form": "eradicate poverty / disease",
+      "meaning": "貧困・病気を撲滅する"
+    },
+    {
+      "form": "be eradicated",
+      "meaning": "根絶される"
+    },
+    {
+      "form": "eradication of A",
+      "meaning": "A の根絶"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "病気",
+      "en": "Smallpox was eradicated in 1980.",
+      "ja": "天然痘は1980年に根絶された。"
+    },
+    {
+      "source": "original",
+      "label": "貧困",
+      "en": "The government aims to eradicate poverty within twenty years.",
+      "ja": "政府は20年以内に貧困を撲滅することを目指している。"
+    },
+    {
+      "source": "original",
+      "label": "偏見",
+      "en": "It is difficult to eradicate prejudice completely.",
+      "ja": "偏見を完全になくすのは難しい。"
+    },
+    {
+      "source": "original",
+      "label": "害虫",
+      "en": "Farmers tried to eradicate the insects that damaged the crops.",
+      "ja": "農家は作物を荒らす虫を根絶しようとした。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The eradication of polio is one of the WHO's main goals.",
+      "ja": "ポリオの根絶は WHO の主な目標の一つだ。"
+    },
+    {
+      "source": "original",
+      "label": "犯罪",
+      "en": "No society has ever completely eradicated crime.",
+      "ja": "犯罪を完全になくした社会はこれまでない。"
+    }
+  ],
+  "check_points": [
+    "e + radic(根)で「根こそぎ」とわかるか",
+    "eliminate・abolish とのちがいが言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "社会・医療の長文で頻出。eradicate poverty / disease、eliminate との言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2676
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "word": "kindle",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈkɪndl/",
+  "core_image": {
+    "text": "小さな火をつけて、燃え上がらせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"90\" y1=\"135\" x2=\"150\" y2=\"115\"/><line x1=\"90\" y1=\"115\" x2=\"150\" y2=\"135\"/><path d=\"M120 80 C110 95 112 108 120 108 C128 108 130 95 120 80 Z\"/><line x1=\"120\" y1=\"74\" x2=\"120\" y2=\"40\" stroke-dasharray=\"5 5\"/><polyline points=\"116.2,47 120,40 123.8,47\"/><circle cx=\"40\" cy=\"52\" r=\"10\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"106\"/><line x1=\"40\" y1=\"106\" x2=\"30\" y2=\"140\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"40\" y1=\"74\" x2=\"70\" y2=\"92\"/><line x1=\"70\" y1=\"92\" x2=\"86\" y2=\"100\"/><line x1=\"40\" y1=\"74\" x2=\"28\" y2=\"96\"/></g><text x=\"166\" y=\"52\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">燃え上がる</text><text x=\"192\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">火をつける</text></svg>"
+  },
+  "etymology": "古ノルド語 kynda(火をつける)→ 小さな火をつけて燃やし始める → ①(火を)つける・燃やす ②(興味・感情・希望を)かき立てる・呼び起こす",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to start a fire burning; to make someone start to feel an emotion or interest."
+    }
+  ],
+  "cautions": [
+    "入試では比ゆが中心:kindle one's interest(興味をかき立てる)/kindle hope",
+    "「最初の小さな火をつけて広げる」が核。ゼロから気持ちを生み出すときに使う",
+    "ignite=ぱっと点火する(火・争いを)/spark=火花のように引き起こす/arouse=眠っていた感情を目覚めさせる/kindle=小さな火をつけて育てる",
+    "rekindle(再び燃え上がらせる):rekindle their friendship"
+  ],
+  "patterns": [
+    {
+      "form": "kindle a fire",
+      "meaning": "火をつける"
+    },
+    {
+      "form": "kindle one's interest in A",
+      "meaning": "A への興味をかき立てる"
+    },
+    {
+      "form": "kindle hope",
+      "meaning": "希望を呼び起こす"
+    },
+    {
+      "form": "rekindle A",
+      "meaning": "A を再びかき立てる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "火",
+      "en": "We kindled a fire with dry leaves and small sticks.",
+      "ja": "私たちは枯れ葉と小枝で火をおこした。"
+    },
+    {
+      "source": "original",
+      "label": "興味",
+      "en": "The trip to the museum kindled her interest in history.",
+      "ja": "博物館への見学が彼女の歴史への興味をかき立てた。"
+    },
+    {
+      "source": "original",
+      "label": "希望",
+      "en": "The doctor's words kindled hope in the patient's family.",
+      "ja": "医者の言葉は患者の家族に希望を呼び起こした。"
+    },
+    {
+      "source": "original",
+      "label": "情熱",
+      "en": "A good teacher can kindle a love of learning in students.",
+      "ja": "よい先生は生徒の中に学ぶことへの愛を燃え上がらせることができる。"
+    },
+    {
+      "source": "original",
+      "label": "rekindle",
+      "en": "The reunion rekindled their old friendship.",
+      "ja": "その再会が二人の昔の友情を再び燃え上がらせた。"
+    },
+    {
+      "source": "original",
+      "label": "自動詞",
+      "en": "The wet wood would not kindle.",
+      "ja": "ぬれた木はなかなか燃えなかった。"
+    }
+  ],
+  "check_points": [
+    "kindle one's interest の形が言えるか",
+    "ignite・arouse とのちがいが言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文に出る。kindle one's interest in A(=arouse)の言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2675
+    }
+  ]
+}
