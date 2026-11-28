@@ -1,0 +1,94 @@
+{
+  "word": "depict",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈpɪkt/",
+  "core_image": {
+    "text": "絵筆で、目に見えるように描き出す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"110\" y=\"24\" width=\"90\" height=\"70\"/><line x1=\"140\" y1=\"94\" x2=\"130\" y2=\"140\"/><line x1=\"170\" y1=\"94\" x2=\"180\" y2=\"140\"/><path d=\"M122 80 L142 50 L158 70 L170 58 L190 80\"/><circle cx=\"182\" cy=\"38\" r=\"6\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"100\" y2=\"58\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"98\"/></g><text x=\"58\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">目に見えるように</text><text x=\"100\" y=\"116\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">描き出す</text></svg>"
+  },
+  "etymology": "de(下に・すっかり)+ pingere(描く・色をぬる)→ すっかり描き出す → ①(絵・写真で)描く ②(言葉・映画で)描写する・表現する(depict A as B=AをBとして描く)→ 名 depiction",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to show someone or something in a picture; to describe someone or something in words or in a film."
+    }
+  ],
+  "cautions": [
+    "depict A as B=A を B として描く(portray A as B と同じ型)",
+    "主語は絵・写真のほか、novel / film / report など作品が多い(The film depicts life in the 1950s.)",
+    "describe=言葉で様子を述べる/depict=絵のように目に浮かぶよう描き出す/portray=人物・役を写し取って描く",
+    "paint・picture・pigment(顔料)と同じ pict(描く)の仲間"
+  ],
+  "patterns": [
+    {
+      "form": "depict A",
+      "meaning": "A を描く・描写する"
+    },
+    {
+      "form": "depict A as B",
+      "meaning": "A を B として描く"
+    },
+    {
+      "form": "A is depicted in B",
+      "meaning": "A が B に描かれている"
+    },
+    {
+      "form": "depiction",
+      "meaning": "描写"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "絵",
+      "en": "The painting depicts a quiet village in winter.",
+      "ja": "その絵は冬の静かな村を描いている。"
+    },
+    {
+      "source": "original",
+      "label": "映画",
+      "en": "The film depicts the life of a young soldier.",
+      "ja": "その映画は若い兵士の生涯を描いている。"
+    },
+    {
+      "source": "original",
+      "label": "as B",
+      "en": "The novel depicts the king as a cruel man.",
+      "ja": "その小説は王を残酷な男として描いている。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "Daily life in ancient Egypt is depicted on the walls.",
+      "ja": "古代エジプトの日常生活が壁に描かれている。"
+    },
+    {
+      "source": "original",
+      "label": "言葉",
+      "en": "The report depicts the city as safe and clean.",
+      "ja": "その報告書は町を安全で清潔だと描写している。"
+    },
+    {
+      "source": "original",
+      "label": "depiction",
+      "en": "The book gives a realistic depiction of war.",
+      "ja": "その本は戦争を写実的に描写している。"
+    }
+  ],
+  "check_points": [
+    "depict A as B の型が言えるか",
+    "describe とのちがい(目に浮かぶように描き出す)がわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "芸術・文学の長文に出る。depict A as B、describe・portray との言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2635
+    }
+  ]
+}

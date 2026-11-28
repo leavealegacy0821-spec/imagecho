@@ -1,0 +1,94 @@
+{
+  "word": "propagate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈprɒpəɡeɪt/",
+  "core_image": {
+    "text": "挿し木のように、次々とふやして広げていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"40\" y1=\"140\" x2=\"40\" y2=\"100\"/><line x1=\"40\" y1=\"112\" x2=\"30\" y2=\"104\"/><line x1=\"40\" y1=\"106\" x2=\"50\" y2=\"98\"/><line x1=\"54\" y1=\"120\" x2=\"84\" y2=\"120\"/><polyline points=\"77,116.2 84,120 77,123.8\"/><line x1=\"105\" y1=\"140\" x2=\"105\" y2=\"96\"/><line x1=\"105\" y1=\"110\" x2=\"95\" y2=\"102\"/><line x1=\"105\" y1=\"104\" x2=\"115\" y2=\"96\"/><line x1=\"120\" y1=\"120\" x2=\"150\" y2=\"120\"/><polyline points=\"143,116.2 150,120 143,123.8\"/><line x1=\"170\" y1=\"140\" x2=\"170\" y2=\"96\"/><line x1=\"160\" y1=\"140\" x2=\"160\" y2=\"104\"/><line x1=\"180\" y1=\"140\" x2=\"180\" y2=\"104\"/><line x1=\"200\" y1=\"140\" x2=\"200\" y2=\"96\"/></g><text x=\"70\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ふやして</text><text x=\"170\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">次々と広げる</text></svg>"
+  },
+  "etymology": "ラテン語 propagare(挿し木・取り木で植物をふやす)← propago(若枝)→ 次々とふやす → ①(植物・動物を)繁殖させる ②(思想・うわさを)広める・宣伝する(propaganda=宣伝)③(光・音・波が)伝わる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to grow new plants from a parent plant; to spread an idea, belief, or piece of information among many people; (of light, sound, etc.) to travel through something."
+    }
+  ],
+  "cautions": [
+    "もとは「植物をふやす」。そこから「思想・信念をふやして広める」へ。propaganda(宣伝・プロパガンダ)は同じ仲間",
+    "思想を広める意味では、良くない考えや宣伝を広めるときに使うことが多い",
+    "disseminate=情報を種のようにまく/propagate=仲間をふやすように考えを広めていく/circulate=回覧して出回る",
+    "理科では Sound propagates through the air.(音は空気中を伝わる)のように自動詞で使う"
+  ],
+  "patterns": [
+    {
+      "form": "propagate A",
+      "meaning": "A(植物)をふやす・A(考え)を広める"
+    },
+    {
+      "form": "propagate a belief / an idea",
+      "meaning": "信念・考えを広める"
+    },
+    {
+      "form": "propagate through A",
+      "meaning": "(音・光が)A の中を伝わる"
+    },
+    {
+      "form": "propaganda",
+      "meaning": "宣伝"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "植物",
+      "en": "You can propagate this plant from a cutting.",
+      "ja": "この植物は挿し木でふやせる。"
+    },
+    {
+      "source": "original",
+      "label": "考え",
+      "en": "The group used social media to propagate its ideas.",
+      "ja": "その団体は考えを広めるのにSNSを使った。"
+    },
+    {
+      "source": "original",
+      "label": "うそ",
+      "en": "Some websites propagate false information about health.",
+      "ja": "健康についての誤った情報を広めるサイトもある。"
+    },
+    {
+      "source": "original",
+      "label": "音",
+      "en": "Sound waves propagate through water faster than through air.",
+      "ja": "音波は空気中より水中のほうが速く伝わる。"
+    },
+    {
+      "source": "original",
+      "label": "宗教",
+      "en": "Missionaries traveled to propagate their religion.",
+      "ja": "宣教師たちは自分の宗教を広めるために旅をした。"
+    },
+    {
+      "source": "original",
+      "label": "propaganda",
+      "en": "The war films were full of propaganda.",
+      "ja": "その戦争映画は宣伝であふれていた。"
+    }
+  ],
+  "check_points": [
+    "植物をふやす→考えを広める、のつながりが言えるか",
+    "propaganda と同じ仲間だとわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "歴史・科学の長文に出る。spread との言いかえ、propaganda との関係、音・光が伝わる用法が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2629
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "word": "broadcast",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈbrɔːdkɑːst/",
+  "core_image": {
+    "text": "広く投げて、一度に大勢へ届ける",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><line x1=\"60\" y1=\"140\" x2=\"60\" y2=\"50\"/><line x1=\"44\" y1=\"140\" x2=\"60\" y2=\"80\"/><line x1=\"76\" y1=\"140\" x2=\"60\" y2=\"80\"/><circle cx=\"60\" cy=\"44\" r=\"6\"/><path d=\"M78 30 Q90 44 78 58\"/><path d=\"M90 20 Q108 44 90 68\"/><path d=\"M102 10 Q126 44 102 78\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"176\" y2=\"98\"/><line x1=\"190\" y1=\"74\" x2=\"204\" y2=\"98\"/></g><text x=\"150\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">広く届ける</text><text x=\"130\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">大勢へ</text></svg>"
+  },
+  "etymology": "broad(広く)+ cast(投げる)→ もとは種を広く手でまく → ①(テレビ・ラジオで)放送する ②(うわさ・秘密を)言いふらす → 名 放送・番組",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to send out a program on television or radio; to tell something to a lot of people."
+    },
+    {
+      "pos": "名詞",
+      "text": "a program on television or radio."
+    }
+  ],
+  "cautions": [
+    "活用は broadcast - broadcast - broadcast(broadcasted もある)。過去形で -ed を付けないのが基本",
+    "be broadcast live=生放送される、の受け身が多い",
+    "言いふらす:broadcast the news to everyone(みんなに言いふらす)。秘密を広める悪い意味でも使う",
+    "disseminate=情報をあちこちへまく/broadcast=電波などで一度に大勢へ届ける/announce=公式に知らせる"
+  ],
+  "patterns": [
+    {
+      "form": "broadcast A",
+      "meaning": "A を放送する"
+    },
+    {
+      "form": "be broadcast live",
+      "meaning": "生放送される"
+    },
+    {
+      "form": "broadcast A to B",
+      "meaning": "A を B に言いふらす"
+    },
+    {
+      "form": "a live broadcast",
+      "meaning": "生放送"
+    },
+    {
+      "form": "broadcaster",
+      "meaning": "放送局・アナウンサー"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "放送する",
+      "en": "The game will be broadcast live on TV.",
+      "ja": "その試合はテレビで生放送される。"
+    },
+    {
+      "source": "original",
+      "label": "過去形",
+      "en": "The station broadcast the news at seven.",
+      "ja": "その局は7時にそのニュースを放送した。"
+    },
+    {
+      "source": "original",
+      "label": "ラジオ",
+      "en": "The speech was broadcast across the country.",
+      "ja": "その演説は全国に放送された。"
+    },
+    {
+      "source": "original",
+      "label": "言いふらす",
+      "en": "Don't broadcast my secret to the whole class.",
+      "ja": "私の秘密をクラス中に言いふらさないで。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "We watched a live broadcast of the concert.",
+      "ja": "私たちはそのコンサートの生放送を見た。"
+    },
+    {
+      "source": "original",
+      "label": "ネット",
+      "en": "Anyone can now broadcast videos online.",
+      "ja": "いまはだれでもネットで動画を配信できる。"
+    }
+  ],
+  "check_points": [
+    "過去形・過去分詞も broadcast のままだとわかるか",
+    "「放送する」と「言いふらす」の両方が言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "メディアの長文に出る。不規則な活用(broadcast-broadcast)、be broadcast live の受け身が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2634
+    }
+  ]
+}

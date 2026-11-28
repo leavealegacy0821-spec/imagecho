@@ -1,0 +1,94 @@
+{
+  "word": "radiate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈreɪdieɪt/",
+  "core_image": {
+    "text": "中心から、車輪の輻のように四方へ放つ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"104\" y2=\"98\"/><line x1=\"120\" y1=\"74\" x2=\"136\" y2=\"98\"/><line x1=\"96\" y1=\"44\" x2=\"76\" y2=\"36\"/><line x1=\"144\" y1=\"44\" x2=\"164\" y2=\"36\"/><line x1=\"120\" y1=\"30\" x2=\"120\" y2=\"12\"/><line x1=\"102\" y1=\"30\" x2=\"90\" y2=\"16\"/><line x1=\"138\" y1=\"30\" x2=\"150\" y2=\"16\"/><line x1=\"94\" y1=\"62\" x2=\"74\" y2=\"66\"/><line x1=\"146\" y1=\"62\" x2=\"166\" y2=\"66\"/></g><text x=\"45\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">全身から</text><text x=\"200\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">四方へ放つ</text></svg>"
+  },
+  "etymology": "ラテン語 radius(光線・車輪の輻)→ 中心から放射状に出る → ①(光・熱を)放つ・放射する ②(道・線が中心から)放射状に広がる ③(喜び・自信・魅力を)全身から発する → 名 radiation(放射・放射線)・radiator(暖房器)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to send out light or heat; to spread out in all directions from a central point; (of a person) to clearly show a strong feeling or quality."
+    }
+  ],
+  "cautions": [
+    "人が主語で radiate confidence / happiness=自信・幸せがにじみ出ている、という比ゆが入試で多い",
+    "radiate from A=A から放射状に広がる(Roads radiate from the city center.)",
+    "radius(半径)・radio・radiation と同じ仲間。radiation=放射線(原子力の長文に出る)",
+    "emit=(光・ガスを)外へ出す/radiate=中心から四方へ放つ/diffuse=うすく広がる"
+  ],
+  "patterns": [
+    {
+      "form": "radiate A",
+      "meaning": "A(光・熱・感情)を放つ"
+    },
+    {
+      "form": "radiate from A",
+      "meaning": "A から放射状に広がる"
+    },
+    {
+      "form": "radiate confidence / joy",
+      "meaning": "自信・喜びにあふれている"
+    },
+    {
+      "form": "radiation",
+      "meaning": "放射・放射線"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "熱",
+      "en": "The stove radiated heat throughout the room.",
+      "ja": "ストーブが部屋じゅうに熱を放っていた。"
+    },
+    {
+      "source": "original",
+      "label": "光",
+      "en": "The sun radiates light and energy.",
+      "ja": "太陽は光とエネルギーを放つ。"
+    },
+    {
+      "source": "original",
+      "label": "放射状",
+      "en": "Several streets radiate from the station.",
+      "ja": "駅からいくつもの通りが放射状にのびている。"
+    },
+    {
+      "source": "original",
+      "label": "感情",
+      "en": "The bride radiated happiness.",
+      "ja": "花嫁は全身から幸せがあふれていた。"
+    },
+    {
+      "source": "original",
+      "label": "自信",
+      "en": "She radiates confidence when she speaks in public.",
+      "ja": "人前で話すとき、彼女は自信に満ちている。"
+    },
+    {
+      "source": "original",
+      "label": "radiation",
+      "en": "Workers must be protected from radiation.",
+      "ja": "作業員は放射線から守られなければならない。"
+    }
+  ],
+  "check_points": [
+    "光・熱を放つ/人が感情を発する、が「中心から四方へ」でつながるか",
+    "radiation の意味がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "理科・人物描写に出る。radiate confidence の比ゆ、radiation の名詞形が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2633
+    }
+  ]
+}

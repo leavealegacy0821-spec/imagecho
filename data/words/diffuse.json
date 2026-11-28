@@ -1,0 +1,103 @@
+{
+  "word": "diffuse",
+  "pos": [
+    "動詞",
+    "形容詞"
+  ],
+  "ipa": "/dɪˈfjuːz/",
+  "core_image": {
+    "text": "一点から四方へ、うすく散らばって広がる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"70\" r=\"8\"/><line x1=\"130\" y1=\"70\" x2=\"170\" y2=\"70\"/><polyline points=\"163,66.2 170,70 163,73.8\"/><line x1=\"110\" y1=\"70\" x2=\"70\" y2=\"70\"/><polyline points=\"77,73.8 70,70 77,66.2\"/><line x1=\"120\" y1=\"60\" x2=\"120\" y2=\"24\"/><polyline points=\"116.2,31 120,24 123.8,31\"/><line x1=\"120\" y1=\"80\" x2=\"120\" y2=\"116\"/><polyline points=\"123.8,109 120,116 116.2,109\"/><line x1=\"128\" y1=\"62\" x2=\"154\" y2=\"38\"/><polyline points=\"146.2,39.9 154,38 151.4,45.6\"/><line x1=\"112\" y1=\"62\" x2=\"86\" y2=\"38\"/><polyline points=\"88.6,45.6 86,38 93.8,39.9\"/><line x1=\"128\" y1=\"78\" x2=\"154\" y2=\"102\"/><polyline points=\"151.4,94.4 154,102 146.2,100.1\"/><line x1=\"112\" y1=\"78\" x2=\"86\" y2=\"102\"/><polyline points=\"93.8,100.1 86,102 88.6,94.4\"/></g><text x=\"200\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">四方へ</text><text x=\"40\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">うすく広がる</text></svg>"
+  },
+  "etymology": "dis(ばらばらに)+ fundere(注ぐ)→ 注いで四方へ散らす → 動 ①(光・熱・気体・においを)拡散させる・広がる ②(知識・技術を)広める ③(緊張・怒りを)やわらげる 形 散らばった・(文章が)散漫な",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to spread something over a large area so that it becomes less strong or concentrated; to spread knowledge or ideas; to make a bad feeling less serious."
+    },
+    {
+      "pos": "形容詞",
+      "text": "spread over a large area; not clear or concise."
+    }
+  ],
+  "cautions": [
+    "動詞は語末 /z/、形容詞は /s/ と発音が変わる",
+    "うすまりながら広がる点がポイント:diffused light=やわらかく散らした光。理科の「拡散」は diffusion",
+    "diffuse tension=緊張をやわらげる(defuse=爆弾の信管を抜く→危機を鎮める、と似ていて混同しやすい)",
+    "disperse=集まりを散らして消す/diffuse=一点から薄く広がる/radiate=中心から光線のように放つ"
+  ],
+  "patterns": [
+    {
+      "form": "diffuse A",
+      "meaning": "A を拡散させる・広める"
+    },
+    {
+      "form": "diffuse through A",
+      "meaning": "A の中に広がる"
+    },
+    {
+      "form": "diffuse tension",
+      "meaning": "緊張をやわらげる"
+    },
+    {
+      "form": "diffused light",
+      "meaning": "やわらかく散らした光"
+    },
+    {
+      "form": "diffusion",
+      "meaning": "拡散・普及"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "気体",
+      "en": "The smell of the gas diffused through the room.",
+      "ja": "ガスのにおいが部屋じゅうに広がった。"
+    },
+    {
+      "source": "original",
+      "label": "光",
+      "en": "A paper screen diffuses the light from the lamp.",
+      "ja": "障子はランプの光をやわらかく散らす。"
+    },
+    {
+      "source": "original",
+      "label": "技術",
+      "en": "New technology diffuses slowly in rural areas.",
+      "ja": "新しい技術は農村部ではゆっくり広まる。"
+    },
+    {
+      "source": "original",
+      "label": "緊張",
+      "en": "She told a joke to diffuse the tension.",
+      "ja": "彼女は緊張をやわらげるために冗談を言った。"
+    },
+    {
+      "source": "original",
+      "label": "diffusion",
+      "en": "The diffusion of smartphones changed the way we live.",
+      "ja": "スマートフォンの普及は私たちの暮らし方を変えた。"
+    },
+    {
+      "source": "original",
+      "label": "形容詞",
+      "en": "His speech was long and diffuse.",
+      "ja": "彼の演説は長くて散漫だった。"
+    }
+  ],
+  "check_points": [
+    "動詞と形容詞で発音が変わることがわかるか",
+    "「うすまりながら広がる」点が disperse とどうちがうか言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "理科・評論の長文に出る。diffusion(拡散・普及)、spread との言いかえ、発音のちがいが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2631
+    }
+  ]
+}

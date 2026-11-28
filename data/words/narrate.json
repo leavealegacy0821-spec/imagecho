@@ -1,0 +1,94 @@
+{
+  "word": "narrate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/nəˈreɪt/",
+  "core_image": {
+    "text": "起きたことを、順を追って語って聞かせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"70\" y2=\"62\"/><line x1=\"50\" y1=\"74\" x2=\"36\" y2=\"98\"/><rect x=\"100\" y=\"40\" width=\"26\" height=\"20\"/><rect x=\"140\" y=\"40\" width=\"26\" height=\"20\"/><rect x=\"180\" y=\"40\" width=\"26\" height=\"20\"/><line x1=\"128\" y1=\"50\" x2=\"138\" y2=\"50\"/><polyline points=\"131,46.2 138,50 131,53.8\"/><line x1=\"168\" y1=\"50\" x2=\"178\" y2=\"50\"/><polyline points=\"171,46.2 178,50 171,53.8\"/><path d=\"M72 50 q6 -4 12 0\"/><path d=\"M74 42 q8 -6 16 0\"/></g><text x=\"153\" y=\"84\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">順を追って</text><text x=\"153\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">語る</text></svg>"
+  },
+  "etymology": "ラテン語 narrare(語る・知らせる)← gnarus(知っている)→ 知っていることを語り伝える → ①(物語・出来事を)順を追って語る ②(映画・番組に)ナレーションをつける → 名 narrative(物語・語り)・narrator(語り手)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to tell a story, especially by describing events in the order in which they happened; to speak the words that describe what is happening in a film or program."
+    }
+  ],
+  "cautions": [
+    "目的語は story / events / experience など「出来事の流れ」。順序を追って語るのがポイント",
+    "narrator=語り手(小説の「語り手」は読解問題で頻出)、narrative=物語・語り(形容詞で「物語の」)",
+    "tell=話す(一般)/describe=様子を描写する/narrate=出来事を時間の順に語る/recite=覚えたものを暗唱する",
+    "be narrated by A=A がナレーションをつけている・A が語り手である"
+  ],
+  "patterns": [
+    {
+      "form": "narrate A",
+      "meaning": "A を語る"
+    },
+    {
+      "form": "be narrated by A",
+      "meaning": "A が語る・A のナレーション"
+    },
+    {
+      "form": "narrator",
+      "meaning": "語り手"
+    },
+    {
+      "form": "narrative",
+      "meaning": "物語・語り"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "物語",
+      "en": "The old man narrated the story of his childhood.",
+      "ja": "老人は子ども時代の話を語って聞かせた。"
+    },
+    {
+      "source": "original",
+      "label": "出来事",
+      "en": "She narrated the events of that night in detail.",
+      "ja": "彼女はその夜の出来事をくわしく順を追って語った。"
+    },
+    {
+      "source": "original",
+      "label": "ナレーション",
+      "en": "The documentary is narrated by a famous actor.",
+      "ja": "そのドキュメンタリーは有名な俳優がナレーションをつけている。"
+    },
+    {
+      "source": "original",
+      "label": "narrator",
+      "en": "The narrator of the novel is a young girl.",
+      "ja": "その小説の語り手は少女だ。"
+    },
+    {
+      "source": "original",
+      "label": "一人称",
+      "en": "The story is narrated in the first person.",
+      "ja": "その物語は一人称で語られている。"
+    },
+    {
+      "source": "original",
+      "label": "narrative",
+      "en": "The book is a powerful narrative of survival.",
+      "ja": "その本は生き延びた人の力強い物語だ。"
+    }
+  ],
+  "check_points": [
+    "「順を追って語る」点が tell・describe とどうちがうか言えるか",
+    "narrator・narrative の意味がわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "物語文の設問で narrator(語り手)が頻出。narrative の名詞形、describe との言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2637
+    }
+  ]
+}

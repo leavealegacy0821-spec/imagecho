@@ -1,0 +1,94 @@
+{
+  "word": "disseminate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈsemɪneɪt/",
+  "core_image": {
+    "text": "種をまくように、情報をあちこちへ広める",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"74\" y2=\"64\"/><line x1=\"50\" y1=\"74\" x2=\"38\" y2=\"98\"/><line x1=\"80\" y1=\"62\" x2=\"140\" y2=\"34\"/><polyline points=\"132,33.5 140,34 135.3,40.4\"/><line x1=\"82\" y1=\"66\" x2=\"150\" y2=\"66\"/><polyline points=\"143,62.2 150,66 143,69.8\"/><line x1=\"80\" y1=\"70\" x2=\"140\" y2=\"98\"/><polyline points=\"135.3,91.6 140,98 132,98.5\"/><circle cx=\"152\" cy=\"28\" r=\"3\"/><circle cx=\"176\" cy=\"44\" r=\"3\"/><circle cx=\"164\" cy=\"66\" r=\"3\"/><circle cx=\"192\" cy=\"72\" r=\"3\"/><circle cx=\"152\" cy=\"104\" r=\"3\"/><circle cx=\"180\" cy=\"100\" r=\"3\"/></g><text x=\"200\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">種のように</text><text x=\"205\" y=\"124\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">広くまく</text></svg>"
+  },
+  "etymology": "dis(ばらばらに)+ semen(種)→ 種をあちこちにまく → (情報・知識・考えを)広める・普及させる → 名 dissemination(普及・散布)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to spread information, knowledge, or ideas so that they reach many people."
+    }
+  ],
+  "cautions": [
+    "目的語は information / knowledge / findings / ideas など「情報・知識」。物や人には使わない",
+    "かたい語。spread / distribute / circulate の言いかえで出る",
+    "propagate=次々とふやして広める(思想・宣伝)/disseminate=情報を種のようにあちこちへまく/broadcast=電波などで一度に大勢へ届ける",
+    "名詞 dissemination:the dissemination of knowledge(知識の普及)"
+  ],
+  "patterns": [
+    {
+      "form": "disseminate information",
+      "meaning": "情報を広める"
+    },
+    {
+      "form": "disseminate A to B",
+      "meaning": "A を B に広く伝える"
+    },
+    {
+      "form": "disseminate the results / findings",
+      "meaning": "結果を公表して広める"
+    },
+    {
+      "form": "the dissemination of A",
+      "meaning": "A の普及"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "情報",
+      "en": "The government disseminated information about the new virus through the media.",
+      "ja": "政府はメディアを通じて新しいウイルスについての情報を広めた。"
+    },
+    {
+      "source": "original",
+      "label": "研究結果",
+      "en": "Scientists disseminate their findings in journals and at conferences.",
+      "ja": "科学者は研究成果を学術誌や学会で広く発表する。"
+    },
+    {
+      "source": "original",
+      "label": "A to B",
+      "en": "The school disseminated the safety rules to all parents.",
+      "ja": "学校はすべての保護者に安全のきまりを広く知らせた。"
+    },
+    {
+      "source": "original",
+      "label": "インターネット",
+      "en": "The Internet allows ideas to be disseminated very quickly.",
+      "ja": "インターネットのおかげで考えがきわめて速く広まる。"
+    },
+    {
+      "source": "original",
+      "label": "dissemination",
+      "en": "The printing press helped the dissemination of knowledge.",
+      "ja": "印刷機は知識の普及に役立った。"
+    },
+    {
+      "source": "original",
+      "label": "うわさ",
+      "en": "False news can be disseminated by anyone with a phone.",
+      "ja": "偽のニュースはスマートフォンを持つだれにでも広められてしまう。"
+    }
+  ],
+  "check_points": [
+    "「種(semen)をまく」から「情報を広める」へのつながりが言えるか",
+    "目的語が情報・知識になることがわかるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "評論・科学の長文に出る。spread・distribute との言いかえ、dissemination の名詞形が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2628
+    }
+  ]
+}

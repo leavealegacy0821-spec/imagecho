@@ -1,0 +1,98 @@
+{
+  "word": "portray",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/pɔːˈtreɪ/",
+  "core_image": {
+    "text": "人の姿を、そっくり写し取って描く・演じる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"60\" cy=\"52\" r=\"10\"/><line x1=\"60\" y1=\"62\" x2=\"60\" y2=\"106\"/><line x1=\"60\" y1=\"106\" x2=\"50\" y2=\"140\"/><line x1=\"60\" y1=\"106\" x2=\"70\" y2=\"140\"/><line x1=\"60\" y1=\"74\" x2=\"46\" y2=\"98\"/><line x1=\"60\" y1=\"74\" x2=\"74\" y2=\"98\"/><rect x=\"130\" y=\"20\" width=\"80\" height=\"96\"/><circle cx=\"170\" cy=\"48\" r=\"10\"/><line x1=\"170\" y1=\"58\" x2=\"170\" y2=\"96\"/><line x1=\"170\" y1=\"70\" x2=\"156\" y2=\"86\"/><line x1=\"170\" y1=\"70\" x2=\"184\" y2=\"86\"/><line x1=\"80\" y1=\"50\" x2=\"124\" y2=\"50\" stroke-dasharray=\"5 5\"/><polyline points=\"117,46.2 124,50 117,53.8\"/></g><text x=\"100\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">写し取る</text><text x=\"170\" y=\"132\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">人物を描く</text></svg>"
+  },
+  "etymology": "por(=pro:前へ)+ trahere(引く)→ 姿を引き出して形にする → ①(人物・風景を)描く(portrait=肖像画)②(俳優が役を)演じる ③(作品が)描き出す(portray A as B=AをBとして描く)→ 名 portrayal",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to show or describe someone or something in a picture, book, or film; to act a particular character in a film or play."
+    }
+  ],
+  "cautions": [
+    "portray A as B=A を B として描く(depict A as B と同じ型)。as の後ろは名詞・形容詞",
+    "俳優が主語なら「演じる」:He portrayed Lincoln in the film.(play の言いかえ)",
+    "portrait(肖像画)と同じ仲間。portray は「人物を描く」に強い",
+    "depict=場面・物を目に見えるように描き出す/portray=人物の姿・性格を写し取って描く・演じる"
+  ],
+  "patterns": [
+    {
+      "form": "portray A",
+      "meaning": "A を描く・演じる"
+    },
+    {
+      "form": "portray A as B",
+      "meaning": "A を B として描く"
+    },
+    {
+      "form": "be portrayed as B",
+      "meaning": "B として描かれる"
+    },
+    {
+      "form": "portrayal",
+      "meaning": "描写・演技"
+    },
+    {
+      "form": "portrait",
+      "meaning": "肖像画"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "人物",
+      "en": "The artist portrayed the queen in a red dress.",
+      "ja": "画家は赤いドレス姿の女王を描いた。"
+    },
+    {
+      "source": "original",
+      "label": "as B",
+      "en": "The media often portrays teenagers as lazy.",
+      "ja": "メディアは十代の若者をなまけ者として描くことが多い。"
+    },
+    {
+      "source": "original",
+      "label": "演じる",
+      "en": "The actor portrayed a famous scientist in the movie.",
+      "ja": "その俳優は映画で有名な科学者を演じた。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "In the book, the hero is portrayed as a lonely man.",
+      "ja": "その本では、主人公は孤独な男として描かれている。"
+    },
+    {
+      "source": "original",
+      "label": "portrayal",
+      "en": "Her portrayal of the old woman won an award.",
+      "ja": "老女の役の演技で彼女は賞をとった。"
+    },
+    {
+      "source": "original",
+      "label": "作品",
+      "en": "The novel portrays life in a small fishing town.",
+      "ja": "その小説は小さな漁師町の暮らしを描いている。"
+    }
+  ],
+  "check_points": [
+    "portray A as B の型が言えるか",
+    "「演じる」の意味と、depict とのちがいがわかるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "メディア・文学の長文に出る。portray A as B、portrait・portrayal の派生語が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2636
+    }
+  ]
+}

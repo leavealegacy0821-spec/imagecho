@@ -1,0 +1,98 @@
+{
+  "word": "circulate",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˈsɜːkjəleɪt/",
+  "core_image": {
+    "text": "輪をえがいて、ぐるぐる回りながら行きわたる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><ellipse cx=\"120\" cy=\"70\" rx=\"70\" ry=\"40\"/><line x1=\"160\" y1=\"38\" x2=\"176\" y2=\"50\"/><polyline points=\"172.7,42.7 176,50 168.1,48.9\"/><line x1=\"80\" y1=\"102\" x2=\"64\" y2=\"90\"/><polyline points=\"67.3,97.3 64,90 71.9,91.1\"/><circle cx=\"120\" cy=\"30\" r=\"3\"/><circle cx=\"190\" cy=\"70\" r=\"3\"/><circle cx=\"120\" cy=\"110\" r=\"3\"/><circle cx=\"50\" cy=\"70\" r=\"3\"/></g><text x=\"120\" y=\"74\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぐるぐる回る</text><text x=\"120\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">行きわたる</text></svg>"
+  },
+  "etymology": "circle(輪)+ -ate → 輪をえがいて回る → ①(血液・空気・水が)循環する ②(うわさ・情報が)出回る・広まる ③(文書を)回覧する・配る ④(通貨が)流通する → 名 circulation(循環・発行部数)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to move continuously around a closed system; (of news, ideas, etc.) to spread from person to person; to send something to a group of people."
+    }
+  ],
+  "cautions": [
+    "自動詞(血液・うわさが回る)と他動詞(文書を回す)の両方がある:circulate a report to members=報告書を会員に回覧する",
+    "circulation=①循環(blood circulation)②(新聞・雑誌の)発行部数",
+    "spread=一面に広がる/circulate=人から人へ回りながら出回る/disseminate=情報を意図的にあちこちへまく",
+    "うわさ:Rumors circulated that S V.(〜といううわさが広まった)の形がよく出る"
+  ],
+  "patterns": [
+    {
+      "form": "circulate through A",
+      "meaning": "A の中を循環する"
+    },
+    {
+      "form": "circulate A to B",
+      "meaning": "A を B に回覧する・配る"
+    },
+    {
+      "form": "Rumors circulate that S V",
+      "meaning": "〜といううわさが出回る"
+    },
+    {
+      "form": "blood circulation",
+      "meaning": "血液の循環"
+    },
+    {
+      "form": "in circulation",
+      "meaning": "流通して・出回って"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "血液",
+      "en": "Blood circulates through the body.",
+      "ja": "血液は体内を循環する。"
+    },
+    {
+      "source": "original",
+      "label": "空気",
+      "en": "Open the windows to let fresh air circulate.",
+      "ja": "新鮮な空気が回るように窓を開けなさい。"
+    },
+    {
+      "source": "original",
+      "label": "うわさ",
+      "en": "Rumors circulated that the shop would close.",
+      "ja": "その店が閉まるといううわさが出回った。"
+    },
+    {
+      "source": "original",
+      "label": "回覧する",
+      "en": "The teacher circulated a sign-up sheet around the class.",
+      "ja": "先生はクラスに参加申しこみ用紙を回した。"
+    },
+    {
+      "source": "original",
+      "label": "通貨",
+      "en": "New coins will be circulated next year.",
+      "ja": "新しい硬貨が来年流通する予定だ。"
+    },
+    {
+      "source": "original",
+      "label": "circulation",
+      "en": "The newspaper has a circulation of over one million.",
+      "ja": "その新聞の発行部数は100万部を超える。"
+    }
+  ],
+  "check_points": [
+    "循環する/出回る/回覧する、が「輪をえがいて回る」でつながるか",
+    "circulation の2つの意味が言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "科学・社会の長文に出る。circulation(循環・発行部数)、spread との言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2630
+    }
+  ]
+}

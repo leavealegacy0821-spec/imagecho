@@ -1,0 +1,94 @@
+{
+  "word": "disperse",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/dɪˈspɜːs/",
+  "core_image": {
+    "text": "集まっていたものを、ばらばらに散らして消す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"110\" cy=\"70\" r=\"4\"/><circle cx=\"120\" cy=\"64\" r=\"4\"/><circle cx=\"130\" cy=\"70\" r=\"4\"/><circle cx=\"114\" cy=\"80\" r=\"4\"/><circle cx=\"126\" cy=\"80\" r=\"4\"/><line x1=\"140\" y1=\"62\" x2=\"186\" y2=\"36\"/><polyline points=\"178,36.1 186,36 181.8,42.8\"/><line x1=\"140\" y1=\"76\" x2=\"190\" y2=\"96\"/><polyline points=\"184.9,89.8 190,96 182.1,97\"/><line x1=\"100\" y1=\"62\" x2=\"54\" y2=\"36\"/><polyline points=\"58.2,42.8 54,36 62,36.1\"/><line x1=\"100\" y1=\"76\" x2=\"50\" y2=\"96\"/><polyline points=\"57.9,97 50,96 55.1,89.8\"/></g><text x=\"120\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">散らばる</text><text x=\"120\" y=\"122\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">集まりが消える</text></svg>"
+  },
+  "etymology": "dis(ばらばらに)+ spargere(まき散らす)→ まき散らす → ①(群衆を)解散させる・(群衆が)散る ②(霧・煙・雲が)消散する ③(種・光・人口を)分散させる → 名 dispersal / dispersion(分散)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to go or send something or someone in different directions over a wide area; (of fog, smoke, etc.) to disappear."
+    }
+  ],
+  "cautions": [
+    "他動詞(警察が群衆を散らす)と自動詞(群衆・霧が散る)の両方:The police dispersed the crowd. / The crowd dispersed.",
+    "主語・目的語は crowd / fog / smoke / clouds など「かたまっていたもの」が多い",
+    "scatter=無造作にあちこちへばらまく/disperse=集まりを散らして(消して)しまう/diffuse=一点からうすく広がる",
+    "spread とちがい「消える・なくなる」に重心がある(The fog dispersed.=霧が晴れた)"
+  ],
+  "patterns": [
+    {
+      "form": "disperse A",
+      "meaning": "A(群衆など)を散らす"
+    },
+    {
+      "form": "A disperse",
+      "meaning": "A が散る・消散する"
+    },
+    {
+      "form": "disperse the crowd",
+      "meaning": "群衆を解散させる"
+    },
+    {
+      "form": "be widely dispersed",
+      "meaning": "広く分散している"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "群衆",
+      "en": "The police used water to disperse the crowd.",
+      "ja": "警察は群衆を散らすために放水した。"
+    },
+    {
+      "source": "original",
+      "label": "自動詞",
+      "en": "After the concert, the audience slowly dispersed.",
+      "ja": "コンサートのあと、観客はゆっくりと散っていった。"
+    },
+    {
+      "source": "original",
+      "label": "霧",
+      "en": "The morning fog dispersed by noon.",
+      "ja": "朝霧は昼までに晴れた。"
+    },
+    {
+      "source": "original",
+      "label": "種",
+      "en": "Birds help disperse the seeds of many plants.",
+      "ja": "鳥は多くの植物の種をまき散らすのに役立っている。"
+    },
+    {
+      "source": "original",
+      "label": "分散",
+      "en": "The company's offices are widely dispersed across the country.",
+      "ja": "その会社の事務所は国じゅうに広く分散している。"
+    },
+    {
+      "source": "original",
+      "label": "煙",
+      "en": "The wind dispersed the smoke from the fire.",
+      "ja": "風が火事の煙を吹き散らした。"
+    }
+  ],
+  "check_points": [
+    "他動詞・自動詞の両方で使えることがわかるか",
+    "scatter・diffuse とのちがい(集まりを散らして消す)が言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "社会・自然の長文に出る。disperse the crowd、scatter・spread との言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2632
+    }
+  ]
+}
