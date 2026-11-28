@@ -1,0 +1,103 @@
+{
+  "word": "patch",
+  "pos": [
+    "名詞",
+    "動詞"
+  ],
+  "ipa": "/pætʃ/",
+  "core_image": {
+    "text": "穴やほころびに、小さな布切れを当ててふさぐ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"60\" y=\"40\" width=\"120\" height=\"84\"/><rect x=\"104\" y=\"66\" width=\"34\" height=\"28\"/><line x1=\"104\" y1=\"66\" x2=\"138\" y2=\"94\"/><line x1=\"138\" y1=\"66\" x2=\"104\" y2=\"94\"/><line x1=\"196\" y1=\"40\" x2=\"142\" y2=\"64\"/><polyline points=\"150,64.7 142,64 146.9,57.6\"/></g><text x=\"204\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">当て布</text><text x=\"80\" y=\"24\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">穴をふさぐ</text></svg>"
+  },
+  "etymology": "中英語 pacche(当て布)→ 穴に布切れを当てる → 名 ①当て布・つぎ ②(周りとちがう)小さな部分・区画 ③(ソフトの)修正プログラム 動 ④つぎを当てる ⑤(patch up)とりあえず直す・(けんかを)おさめる",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "a small piece of material used to cover a hole; a small area that is different from what surrounds it."
+    },
+    {
+      "pos": "動詞",
+      "text": "to cover a hole with a piece of material; (patch up) to repair something quickly or to end a quarrel."
+    }
+  ],
+  "cautions": [
+    "patch up=「とりあえず・応急的に直す」。根本からではない:patch up the roof / patch up a quarrel(仲直りする)",
+    "名詞の「小さな部分」:a patch of blue sky(青空がのぞく一画)/ a bald patch(はげた所)",
+    "go through a bad / rough patch=つらい時期を過ごす(入試の会話文に出る)",
+    "repair=元どおりに修理する/mend=つくろう/patch=穴に布を当ててとりあえずふさぐ"
+  ],
+  "patterns": [
+    {
+      "form": "patch A",
+      "meaning": "A につぎを当てる"
+    },
+    {
+      "form": "patch up A",
+      "meaning": "A を応急的に直す・(争いを)おさめる"
+    },
+    {
+      "form": "patch things up with A",
+      "meaning": "A と仲直りする"
+    },
+    {
+      "form": "a patch of A",
+      "meaning": "一画の A"
+    },
+    {
+      "form": "go through a rough patch",
+      "meaning": "つらい時期を過ごす"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "つぎを当てる",
+      "en": "My grandmother patched the hole in my jeans.",
+      "ja": "祖母がジーンズの穴につぎを当ててくれた。"
+    },
+    {
+      "source": "original",
+      "label": "patch up 応急",
+      "en": "They patched up the old boat and kept using it.",
+      "ja": "彼らは古い舟をとりあえず直して使い続けた。"
+    },
+    {
+      "source": "original",
+      "label": "仲直り",
+      "en": "After the argument, Tom tried to patch things up with his sister.",
+      "ja": "口論のあと、トムは姉と仲直りしようとした。"
+    },
+    {
+      "source": "original",
+      "label": "小さな部分",
+      "en": "There were patches of snow on the mountain even in May.",
+      "ja": "5月でも山には雪がところどころ残っていた。"
+    },
+    {
+      "source": "original",
+      "label": "つらい時期",
+      "en": "The company went through a rough patch last year.",
+      "ja": "その会社は去年つらい時期を過ごした。"
+    },
+    {
+      "source": "original",
+      "label": "修正プログラム",
+      "en": "The software company released a patch to fix the problem.",
+      "ja": "ソフト会社はその問題を直す修正プログラムを出した。"
+    }
+  ],
+  "check_points": [
+    "「当て布」から「小さな部分」「応急的に直す」へのつながりが言えるか",
+    "patch things up with A の意味が言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "会話文・長文に出る。patch up(応急的に直す・仲直り)、a patch of A、go through a rough patch が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2648
+    }
+  ]
+}

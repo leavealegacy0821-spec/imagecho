@@ -1,0 +1,98 @@
+{
+  "word": "revamp",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˌriːˈvæmp/",
+  "core_image": {
+    "text": "古くなったものの見た目や中身を、新しく作り替える",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"30\" y=\"70\" width=\"60\" height=\"70\"/><line x1=\"30\" y1=\"70\" x2=\"60\" y2=\"48\"/><line x1=\"60\" y1=\"48\" x2=\"90\" y2=\"70\"/><line x1=\"40\" y1=\"90\" x2=\"50\" y2=\"100\"/><line x1=\"70\" y1=\"110\" x2=\"80\" y2=\"120\"/><line x1=\"100\" y1=\"100\" x2=\"136\" y2=\"100\"/><polyline points=\"129,96.2 136,100 129,103.8\"/><rect x=\"148\" y=\"70\" width=\"60\" height=\"70\"/><polygon points=\"148,70 178,46 208,70\"/><rect x=\"158\" y=\"84\" width=\"14\" height=\"14\"/><rect x=\"184\" y=\"84\" width=\"14\" height=\"14\"/></g><text x=\"60\" y=\"32\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">古い</text><text x=\"178\" y=\"30\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">新しい装い</text></svg>"
+  },
+  "etymology": "re(もう一度)+ vamp(靴の甲の部分 → 靴の甲を張り替える)→ 古いものを継ぎ足して新しく見せる → ①(店・商品・制度などを)改装する・刷新する 名 ②刷新・改装",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to change or improve something so that it looks more modern or works better."
+    },
+    {
+      "pos": "名詞",
+      "text": "an act of improving the appearance or organization of something."
+    }
+  ],
+  "cautions": [
+    "見た目や仕組みを「新しく作り替えて今風にする」:revamp the website / revamp the menu",
+    "renovate=古い建物をよみがえらせる(建物中心)/revamp=店・制度・デザインなど広く刷新する/overhaul=全部ばらして総点検する",
+    "名詞 a revamp of A=A の刷新"
+  ],
+  "patterns": [
+    {
+      "form": "revamp A",
+      "meaning": "A を刷新する・改装する"
+    },
+    {
+      "form": "revamp the website / menu / image",
+      "meaning": "ウェブサイト・メニュー・イメージを一新する"
+    },
+    {
+      "form": "a revamp of A",
+      "meaning": "A の刷新"
+    },
+    {
+      "form": "be revamped",
+      "meaning": "一新される"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "ウェブ",
+      "en": "The school revamped its website to attract more students.",
+      "ja": "その学校はより多くの生徒を集めるためにウェブサイトを一新した。"
+    },
+    {
+      "source": "original",
+      "label": "店",
+      "en": "The café was revamped and reopened last month.",
+      "ja": "そのカフェは改装されて先月再開した。"
+    },
+    {
+      "source": "original",
+      "label": "制度",
+      "en": "The company revamped its training program for new workers.",
+      "ja": "その会社は新入社員の研修制度を刷新した。"
+    },
+    {
+      "source": "original",
+      "label": "イメージ",
+      "en": "The singer revamped her image with a new style.",
+      "ja": "その歌手は新しいスタイルでイメージを一新した。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The museum is closed for a major revamp.",
+      "ja": "その博物館は大規模な改装のため休館中だ。"
+    },
+    {
+      "source": "original",
+      "label": "メニュー",
+      "en": "They revamped the menu to include more vegetables.",
+      "ja": "彼らは野菜を増やすようにメニューを一新した。"
+    }
+  ],
+  "check_points": [
+    "renovate・overhaul とのちがいが言えるか",
+    "「新しく作り替えて今風にする」というイメージが言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "時事・ビジネスの長文に出る。revamp the website などの「刷新する」、renovate との言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2650
+    }
+  ]
+}

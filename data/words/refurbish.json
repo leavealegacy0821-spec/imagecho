@@ -1,0 +1,93 @@
+{
+  "word": "refurbish",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ˌriːˈfɜːbɪʃ/",
+  "core_image": {
+    "text": "使い古した部屋や品物を、みがき直してきれいにする",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"80\" y2=\"66\"/><line x1=\"50\" y1=\"74\" x2=\"36\" y2=\"100\"/><rect x=\"80\" y=\"56\" width=\"12\" height=\"20\"/><rect x=\"110\" y=\"70\" width=\"90\" height=\"50\"/><line x1=\"110\" y1=\"120\" x2=\"110\" y2=\"140\"/><line x1=\"200\" y1=\"120\" x2=\"200\" y2=\"140\"/><line x1=\"140\" y1=\"56\" x2=\"146\" y2=\"64\"/><line x1=\"160\" y1=\"52\" x2=\"160\" y2=\"62\"/><line x1=\"180\" y1=\"56\" x2=\"174\" y2=\"64\"/></g><text x=\"160\" y=\"98\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">みがき直す</text><text x=\"160\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぴかぴか</text></svg>"
+  },
+  "etymology": "re(もう一度)+ furbish(みがく・光らせる)→ もう一度みがいて光らせる → ①(建物・部屋を)改装する ②(中古品を)整備し直す → 形 refurbished(整備済みの・再生品の)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to clean and decorate a room or building, or repair a machine, so that it is like new again."
+    }
+  ],
+  "cautions": [
+    "furnish(家具を備えつける)とつづりが似るが別の語。furbish=みがく",
+    "refurbished=「(中古を)整備し直した」:a refurbished laptop(整備済みのノートパソコン)",
+    "renovate=古い建物を大がかりによみがえらせる/refurbish=みがき直し・塗り直しで新品同様にする/revamp=見た目や仕組みを今風に作り替える"
+  ],
+  "patterns": [
+    {
+      "form": "refurbish A",
+      "meaning": "A を改装する・整備し直す"
+    },
+    {
+      "form": "be refurbished",
+      "meaning": "改装される"
+    },
+    {
+      "form": "a refurbished A",
+      "meaning": "整備済みの A"
+    },
+    {
+      "form": "refurbishment",
+      "meaning": "改装"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "建物",
+      "en": "The old hotel was refurbished before the Olympics.",
+      "ja": "その古いホテルはオリンピックの前に改装された。"
+    },
+    {
+      "source": "original",
+      "label": "部屋",
+      "en": "We refurbished the classroom with new desks and paint.",
+      "ja": "私たちは新しい机とペンキで教室をきれいに改装した。"
+    },
+    {
+      "source": "original",
+      "label": "中古品",
+      "en": "I bought a refurbished smartphone at a low price.",
+      "ja": "私は整備済みのスマートフォンを安く買った。"
+    },
+    {
+      "source": "original",
+      "label": "工場",
+      "en": "The factory will be closed while it is refurbished.",
+      "ja": "工場は改装中は閉鎖される。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The refurbishment of the library took six months.",
+      "ja": "図書館の改装には6か月かかった。"
+    },
+    {
+      "source": "original",
+      "label": "船",
+      "en": "They refurbished an old ship and turned it into a museum.",
+      "ja": "彼らは古い船を整備し直して博物館にした。"
+    }
+  ],
+  "check_points": [
+    "re(もう一度)+ furbish(みがく)で「みがき直す」とわかるか",
+    "furnish との区別ができるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文・リスニングに出る。refurbished(整備済みの)、renovate との言いかえ、furnish との区別が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2651
+    }
+  ]
+}

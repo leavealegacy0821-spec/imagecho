@@ -1,0 +1,98 @@
+{
+  "word": "overhaul",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˌəʊvəˈhɔːl/",
+  "core_image": {
+    "text": "全部を引っぱり出してばらし、すみずみまで点検し直す",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"24\" y=\"90\" width=\"56\" height=\"50\"/><line x1=\"24\" y1=\"90\" x2=\"80\" y2=\"140\"/><line x1=\"86\" y1=\"100\" x2=\"120\" y2=\"70\"/><polyline points=\"112.2,71.8 120,70 117.3,77.5\"/><circle cx=\"138\" cy=\"50\" r=\"10\"/><rect x=\"160\" y=\"34\" width=\"20\" height=\"14\"/><line x1=\"200\" y1=\"40\" x2=\"220\" y2=\"60\"/><circle cx=\"150\" cy=\"86\" r=\"8\"/><rect x=\"184\" y=\"78\" width=\"26\" height=\"12\"/><line x1=\"166\" y1=\"110\" x2=\"214\" y2=\"110\"/></g><text x=\"52\" y=\"74\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">丸ごと</text><text x=\"180\" y=\"130\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ばらして点検</text></svg>"
+  },
+  "etymology": "over(上から・すっかり)+ haul(引っぱる)→ 全部を引っぱり出してすみずみまで調べる → ①(機械を)分解して点検・修理する ②(制度・組織を)全面的に見直す・改革する 名 ③総点検・全面改革",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to repair or change every part of a machine or a system so that it works better."
+    },
+    {
+      "pos": "名詞",
+      "text": "a complete examination and repair of a machine or system."
+    }
+  ],
+  "cautions": [
+    "部分的な手直しではなく「全面的に」見直す点が大事:overhaul the tax system(税制を全面的に見直す)",
+    "名詞もよく使う:a complete / major overhaul of A(A の全面的な見直し)",
+    "reform=制度の形を作り直す/revise=見直して手を入れる/overhaul=全部ばらして総点検・総入れかえする"
+  ],
+  "patterns": [
+    {
+      "form": "overhaul A",
+      "meaning": "A を分解点検する・全面的に見直す"
+    },
+    {
+      "form": "overhaul the system",
+      "meaning": "制度を全面的に見直す"
+    },
+    {
+      "form": "a (complete / major) overhaul of A",
+      "meaning": "A の全面的な見直し・総点検"
+    },
+    {
+      "form": "in need of an overhaul",
+      "meaning": "総点検が必要で"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "機械",
+      "en": "The engine was overhauled before the long flight.",
+      "ja": "長い飛行の前にエンジンが分解点検された。"
+    },
+    {
+      "source": "original",
+      "label": "制度",
+      "en": "The government plans to overhaul the education system.",
+      "ja": "政府は教育制度を全面的に見直す計画だ。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The old factory needs a complete overhaul.",
+      "ja": "その古い工場は全面的な総点検が必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "組織",
+      "en": "The new manager overhauled the way the team worked.",
+      "ja": "新しい部長はチームの仕事のしかたを根本から改めた。"
+    },
+    {
+      "source": "original",
+      "label": "in need of",
+      "en": "Our city's bus network is badly in need of an overhaul.",
+      "ja": "私たちの市のバス路線網は全面的な見直しがぜひとも必要だ。"
+    },
+    {
+      "source": "original",
+      "label": "法律",
+      "en": "The law was overhauled to protect workers better.",
+      "ja": "その法律は労働者をよりよく守るために全面的に改められた。"
+    }
+  ],
+  "check_points": [
+    "over(すっかり)+ haul(引っぱる)で「総点検」とわかるか",
+    "reform・revise とのちがいが言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "時事的な長文に出る。overhaul the system(全面的に見直す)、名詞 a complete overhaul of A が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2649
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "word": "swindle",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/ˈswɪndl/",
+  "core_image": {
+    "text": "うまい話で信じこませ、お金をだまし取る",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"50\" cy=\"52\" r=\"10\"/><line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"106\"/><line x1=\"50\" y1=\"106\" x2=\"40\" y2=\"140\"/><line x1=\"50\" y1=\"106\" x2=\"60\" y2=\"140\"/><circle cx=\"180\" cy=\"52\" r=\"10\"/><line x1=\"180\" y1=\"62\" x2=\"180\" y2=\"106\"/><line x1=\"180\" y1=\"106\" x2=\"170\" y2=\"140\"/><line x1=\"180\" y1=\"106\" x2=\"190\" y2=\"140\"/><line x1=\"50\" y1=\"74\" x2=\"76\" y2=\"90\"/><line x1=\"50\" y1=\"74\" x2=\"36\" y2=\"100\"/><rect x=\"76\" y=\"84\" width=\"20\" height=\"14\"/><line x1=\"180\" y1=\"74\" x2=\"154\" y2=\"88\"/><line x1=\"180\" y1=\"74\" x2=\"196\" y2=\"100\"/><line x1=\"98\" y1=\"90\" x2=\"146\" y2=\"90\" stroke-dasharray=\"5 5\"/><polyline points=\"139,86.2 146,90 139,93.8\"/></g><text x=\"122\" y=\"74\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">お金を</text><text x=\"180\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">うまい話</text></svg>"
+  },
+  "etymology": "ドイツ語 schwindeln(目がくらむ → 人をまどわす)→ 相手の目をくらませる → ①(人から金を)だまし取る 名 ②詐欺 → swindler(詐欺師)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to get money from someone by deceiving them."
+    },
+    {
+      "pos": "名詞",
+      "text": "a situation in which someone gets money by deceiving people."
+    }
+  ],
+  "cautions": [
+    "swindle A out of B=「A(人)から B(お金)をだまし取る」。人が先、out of のあとにお金:swindle him out of his money(rob A of B と前置詞がちがう)",
+    "cheat=ずるをする(試験・ゲームにも)/swindle=お金をだまし取る(詐欺)/deceive=うそで信じこませる(お金とはかぎらない)",
+    "名詞 a swindle=詐欺、swindler=詐欺師"
+  ],
+  "patterns": [
+    {
+      "form": "swindle A out of B",
+      "meaning": "A から B をだまし取る"
+    },
+    {
+      "form": "swindle A",
+      "meaning": "A から金をだまし取る"
+    },
+    {
+      "form": "be swindled",
+      "meaning": "だまされて金を取られる"
+    },
+    {
+      "form": "a swindle",
+      "meaning": "詐欺"
+    },
+    {
+      "form": "swindler",
+      "meaning": "詐欺師"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "out of",
+      "en": "The man swindled the old woman out of her savings.",
+      "ja": "その男は老婦人から貯金をだまし取った。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "Many people were swindled by fake investment offers.",
+      "ja": "多くの人がにせの投資話でお金をだまし取られた。"
+    },
+    {
+      "source": "original",
+      "label": "名詞",
+      "en": "The whole project turned out to be a swindle.",
+      "ja": "その計画は全部詐欺だとわかった。"
+    },
+    {
+      "source": "original",
+      "label": "swindler",
+      "en": "The police finally caught the swindler.",
+      "ja": "警察はついにその詐欺師をつかまえた。"
+    },
+    {
+      "source": "original",
+      "label": "ネット",
+      "en": "Be careful not to be swindled on the Internet.",
+      "ja": "インターネットでお金をだまし取られないよう気をつけなさい。"
+    },
+    {
+      "source": "original",
+      "label": "会社",
+      "en": "The company swindled its customers for years.",
+      "ja": "その会社は何年も顧客から金をだまし取っていた。"
+    }
+  ],
+  "check_points": [
+    "swindle A out of B の型が言えるか",
+    "cheat・deceive とのちがいが言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文・語法問題に出る。swindle A out of B(rob A of B との型のちがい)が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2652
+    }
+  ]
+}

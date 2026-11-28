@@ -1,0 +1,93 @@
+{
+  "word": "coerce",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/kəʊˈɜːs/",
+  "core_image": {
+    "text": "おどしや圧力で囲いこみ、いやでもさせる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"120\" cy=\"52\" r=\"10\"/><line x1=\"120\" y1=\"62\" x2=\"120\" y2=\"106\"/><line x1=\"120\" y1=\"106\" x2=\"110\" y2=\"140\"/><line x1=\"120\" y1=\"106\" x2=\"130\" y2=\"140\"/><line x1=\"120\" y1=\"74\" x2=\"106\" y2=\"100\"/><line x1=\"120\" y1=\"74\" x2=\"134\" y2=\"100\"/><line x1=\"30\" y1=\"90\" x2=\"96\" y2=\"90\"/><polyline points=\"89,86.2 96,90 89,93.8\"/><line x1=\"210\" y1=\"90\" x2=\"144\" y2=\"90\"/><polyline points=\"151,93.8 144,90 151,86.2\"/><line x1=\"120\" y1=\"14\" x2=\"120\" y2=\"36\"/><polyline points=\"123.8,29 120,36 116.2,29\"/></g><text x=\"48\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">圧力</text><text x=\"192\" y=\"70\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">おどし</text></svg>"
+  },
+  "etymology": "co(すっかり)+ arcere(閉じこめる・囲う)→ まわりから囲いこんで逃げ場をなくす → ①(おどし・力で)無理に〜させる(coerce A into doing) → 名 coercion(強制)・形 coercive(強制的な)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to make someone do something they do not want to do by using threats or force."
+    }
+  ],
+  "cautions": [
+    "coerce A into doing(A に無理やり〜させる)の into doing の型がふつう(force A to do とは型がちがう)",
+    "force=力ずくで/compel=状況・義務で避けられなくする/coerce=おどし・圧力で本人の意思に反してさせる(悪い意味が強い)",
+    "名詞 coercion:under coercion(強制されて)"
+  ],
+  "patterns": [
+    {
+      "form": "coerce A into doing",
+      "meaning": "A を脅して〜させる"
+    },
+    {
+      "form": "be coerced into doing",
+      "meaning": "無理やり〜させられる"
+    },
+    {
+      "form": "coerce A",
+      "meaning": "A を強制する"
+    },
+    {
+      "form": "under coercion",
+      "meaning": "強制されて"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "into doing",
+      "en": "The gang coerced the shop owner into paying money.",
+      "ja": "その暴力団は店主を脅して金を払わせた。"
+    },
+    {
+      "source": "original",
+      "label": "受け身",
+      "en": "He claimed that he had been coerced into confessing.",
+      "ja": "彼は自白を強要されたと主張した。"
+    },
+    {
+      "source": "original",
+      "label": "under coercion",
+      "en": "A promise made under coercion has no value.",
+      "ja": "強制されてした約束には価値がない。"
+    },
+    {
+      "source": "original",
+      "label": "政治",
+      "en": "No country should coerce its neighbors with military power.",
+      "ja": "どの国も軍事力で隣国に無理強いすべきではない。"
+    },
+    {
+      "source": "original",
+      "label": "coercive",
+      "en": "The government was criticized for its coercive policies.",
+      "ja": "政府は強制的な政策を批判された。"
+    },
+    {
+      "source": "original",
+      "label": "仲間",
+      "en": "Students should not be coerced into joining a club.",
+      "ja": "生徒が部活に無理やり入らされることがあってはならない。"
+    }
+  ],
+  "check_points": [
+    "coerce A into doing の型が言えるか",
+    "force・compel とのちがいが言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "評論・長文に出る。coerce A into doing、coercion / coercive、force・compel との言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2655
+    }
+  ]
+}

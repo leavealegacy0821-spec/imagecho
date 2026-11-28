@@ -1,0 +1,103 @@
+{
+  "word": "rot",
+  "pos": [
+    "動詞",
+    "名詞"
+  ],
+  "ipa": "/rɒt/",
+  "core_image": {
+    "text": "中からじわじわ腐って、ぐずぐずにくずれていく",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><circle cx=\"70\" cy=\"100\" r=\"30\"/><line x1=\"70\" y1=\"70\" x2=\"74\" y2=\"58\"/><line x1=\"110\" y1=\"100\" x2=\"146\" y2=\"100\"/><polyline points=\"139,96.2 146,100 139,103.8\"/><path d=\"M156 140 Q160 112 180 110 Q200 106 206 124 Q214 136 210 140\"/><circle cx=\"178\" cy=\"128\" r=\"3\"/><circle cx=\"194\" cy=\"122\" r=\"3\"/><line x1=\"170\" y1=\"96\" x2=\"168\" y2=\"86\"/><line x1=\"186\" y1=\"94\" x2=\"188\" y2=\"84\"/></g><text x=\"70\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">新しい</text><text x=\"186\" y=\"66\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">ぐずぐずに</text></svg>"
+  },
+  "etymology": "古英語 rotian(腐る)→ 中からじわじわ腐る → ①(食べ物・木などが)腐る・腐らせる ②(社会・心が)だめになる・堕落する 名 ③腐敗・腐った部分 → 形 rotten(腐った・ひどい)",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to decay slowly, or to make something decay, by natural processes; to become worse in quality."
+    },
+    {
+      "pos": "名詞",
+      "text": "the process of decaying; the part that has decayed."
+    }
+  ],
+  "cautions": [
+    "規則変化:rot – rotted – rotted(rotting)。形容詞は rotten(腐った・ひどい)で、rotted より rotten がふつう",
+    "rot away=腐ってなくなる/rot in prison(刑務所で朽ちる=長く閉じこめられる)",
+    "decay=(時間とともに)朽ちて崩れる(歯・建物・文明にも)/rot=生ものが腐ってぐずぐずになる/spoil=食べ物がいたんでだめになる",
+    "the rot sets in=悪い状態が始まる(名詞の比ゆ)"
+  ],
+  "patterns": [
+    {
+      "form": "A rot(s)",
+      "meaning": "A が腐る"
+    },
+    {
+      "form": "rot A",
+      "meaning": "A を腐らせる"
+    },
+    {
+      "form": "rot away",
+      "meaning": "腐ってなくなる"
+    },
+    {
+      "form": "rotten A",
+      "meaning": "腐った A・ひどい A"
+    },
+    {
+      "form": "the rot sets in",
+      "meaning": "悪化が始まる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "果物",
+      "en": "The apples began to rot because nobody ate them.",
+      "ja": "だれも食べなかったのでリンゴが腐りはじめた。"
+    },
+    {
+      "source": "original",
+      "label": "木",
+      "en": "Water had rotted the wooden floor.",
+      "ja": "水が木の床を腐らせていた。"
+    },
+    {
+      "source": "original",
+      "label": "rot away",
+      "en": "The old fence slowly rotted away.",
+      "ja": "古いさくはしだいに腐ってなくなった。"
+    },
+    {
+      "source": "original",
+      "label": "歯",
+      "en": "Too much sugar will rot your teeth.",
+      "ja": "砂糖をとりすぎると歯がだめになる。"
+    },
+    {
+      "source": "original",
+      "label": "rotten",
+      "en": "There was a rotten egg in the box.",
+      "ja": "箱の中に腐った卵が1つあった。"
+    },
+    {
+      "source": "original",
+      "label": "比ゆ",
+      "en": "The scandal showed that the system had rotted from within.",
+      "ja": "その不祥事は制度が内部から腐っていたことを示した。"
+    }
+  ],
+  "check_points": [
+    "rot の形容詞が rotten だと言えるか",
+    "decay・spoil とのちがいが言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文に出る。rotten(腐った・ひどい)、rot away、decay との言いかえが問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2656
+    }
+  ]
+}

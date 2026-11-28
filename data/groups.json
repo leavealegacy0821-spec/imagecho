@@ -395,13 +395,14 @@
     },
     {
       "title": "使い分け:無理にさせる",
-      "note": "force=力ずくで ／ compel=(状況・義務が)避けられなくさせる ／ oblige=義務として〜させる ／ impose=上から押しつける",
+      "note": "force=力ずくで ／ compel=(状況・義務が)避けられなくさせる ／ oblige=義務として〜させる ／ impose=上から押しつける ／ coerce=おどし・圧力で囲いこんで意思に反してさせる(coerce A into doing)",
       "words": [
         "force",
         "compel",
         "oblige",
         "impose",
-        "urge"
+        "urge",
+        "coerce"
       ]
     },
     {
@@ -997,7 +998,7 @@
     },
     {
       "title": "使い分け:減る・弱まる",
-      "note": "decrease=数量が減る ／ reduce=(意図して)減らす ／ decline=下向きに傾いて衰える ／ diminish=小さくなる ／ shrink=縮む ／ fade=色・音が薄れて消える ／ decay=朽ちて崩れる ／ dwindle=だんだん細って少なくなる ／ subside=(勢いが)おさまる・沈む ／ erode=少しずつ削りとられる・むしばまれる ／ weaken=支える力を抜いてもろくする ／ lessen=痛みや危険の度合いをやわらげる ／ curtail=予算・活動をばっさり切りつめる ／ lower=高い所から下へおろす・値段や声を下げる(他動詞) ／ wane=月が欠けるように力・関心がじわじわ衰える",
+      "note": "decrease=数量が減る ／ reduce=(意図して)減らす ／ decline=下向きに傾いて衰える ／ diminish=小さくなる ／ shrink=縮む ／ fade=色・音が薄れて消える ／ decay=朽ちて崩れる ／ dwindle=だんだん細って少なくなる ／ subside=(勢いが)おさまる・沈む ／ erode=少しずつ削りとられる・むしばまれる ／ weaken=支える力を抜いてもろくする ／ lessen=痛みや危険の度合いをやわらげる ／ curtail=予算・活動をばっさり切りつめる ／ lower=高い所から下へおろす・値段や声を下げる(他動詞) ／ wane=月が欠けるように力・関心がじわじわ衰える ／ rot=生ものが中からじわじわ腐ってぐずぐずになる ／ corrode=さび・薬品が表面をかじって少しずつむしばむ(信頼にも)",
       "words": [
         "decrease",
         "reduce",
@@ -1013,7 +1014,9 @@
         "lessen",
         "curtail",
         "lower",
-        "wane"
+        "wane",
+        "rot",
+        "corrode"
       ]
     },
     {
@@ -1084,7 +1087,7 @@
     },
     {
       "title": "使い分け:直す・改める",
-      "note": "revise=見直して手を入れる ／ reform=制度の形を作り直す ／ refine=磨いて洗練する ／ improve=よりよくする ／ remedy=悪い点を治す ／ cure=病気を治す ／ repair=こわれた機械・建物を元どおりに修理する ／ mend=やぶれた服などをつくろう ／ renovate=古い建物を新しくよみがえらせる(リフォーム) ／ amend=法律・文書の一部に手を入れて直す ／ rectify=ゆがんだ誤り・不正をまっすぐ正しい状態にもどす",
+      "note": "revise=見直して手を入れる ／ reform=制度の形を作り直す ／ refine=磨いて洗練する ／ improve=よりよくする ／ remedy=悪い点を治す ／ cure=病気を治す ／ repair=こわれた機械・建物を元どおりに修理する ／ mend=やぶれた服などをつくろう ／ renovate=古い建物を新しくよみがえらせる(リフォーム) ／ amend=法律・文書の一部に手を入れて直す ／ rectify=ゆがんだ誤り・不正をまっすぐ正しい状態にもどす ／ patch=穴に当て布をしてとりあえずふさぐ(patch up=応急的に直す・仲直り) ／ overhaul=全部ばらしてすみずみまで総点検・全面的に見直す ／ revamp=店・制度・デザインを今風に作り替えて一新する ／ refurbish=使い古した部屋や品物をみがき直して新品同様にする",
       "words": [
         "revise",
         "reform",
@@ -1096,7 +1099,11 @@
         "mend",
         "renovate",
         "amend",
-        "rectify"
+        "rectify",
+        "patch",
+        "overhaul",
+        "revamp",
+        "refurbish"
       ]
     },
     {
@@ -1275,14 +1282,17 @@
     },
     {
       "title": "使い分け:だます",
-      "note": "deceive=うそで信じこませる ／ cheat=ずるをする ／ mislead=誤った方へ導く ／ trick=すきをついてひょいとひっかける ／ fool=ばかにしてかつぐ(だまされた側がばかを見る) ／ betray=信じてくれる人を裏切る・思わず表に出す",
+      "note": "deceive=うそで信じこませる ／ cheat=ずるをする ／ mislead=誤った方へ導く ／ trick=すきをついてひょいとひっかける ／ fool=ばかにしてかつぐ(だまされた側がばかを見る) ／ betray=信じてくれる人を裏切る・思わず表に出す ／ swindle=うまい話でお金をだまし取る(swindle A out of B) ／ delude=まちがった思いこみに閉じこめる(delude oneself into thinking) ／ dupe=信じやすい人をかついで利用する(dupe A into doing)",
       "words": [
         "deceive",
         "cheat",
         "mislead",
         "trick",
         "fool",
-        "betray"
+        "betray",
+        "swindle",
+        "delude",
+        "dupe"
       ]
     },
     {
