@@ -552,12 +552,14 @@
     },
     {
       "title": "使い分け:心配・不安",
-      "note": "worry=同じことにくり返しくよくよ ／ concern=関わることを気にかける ／ anxious=先のことが不安(・切望する) ／ afraid=怖がっている",
+      "note": "worry=同じことにくり返しくよくよ ／ concern=関わることを気にかける ／ anxious=先のことが不安(・切望する) ／ afraid=怖がっている ／ apprehensive=悪いことが来そうでびくびく ／ uneasy=なんとなく落ち着かずそわそわ",
       "words": [
         "worry",
         "concern",
         "anxious",
-        "afraid"
+        "afraid",
+        "apprehensive",
+        "uneasy"
       ]
     },
     {
@@ -1580,12 +1582,15 @@
     },
     {
       "title": "使い分け:結果",
-      "note": "result=結果(最も広い) ／ consequence=(良くない)なりゆき ／ effect=結果としての影響・効果 ／ end=結末",
+      "note": "result=結果(最も広い) ／ consequence=(良くない)なりゆき ／ effect=結果としての影響・効果 ／ end=結末 ／ outcome=いろいろあった末の最終的な決着 ／ aftermath=大きな悪い出来事のあとに残る混乱 ／ repercussion=あとから思わぬところまで響く悪い影響",
       "words": [
         "result",
         "consequence",
         "effect",
-        "end"
+        "end",
+        "outcome",
+        "aftermath",
+        "repercussion"
       ]
     },
     {
@@ -1824,12 +1829,13 @@
     },
     {
       "title": "使い分け:今の・同時代の",
-      "note": "current=今流れている・現在の ／ contemporary=同時代の・現代の ／ present=現在の・出席している ／ immediate=すぐの・直接の",
+      "note": "current=今流れている・現在の ／ contemporary=同時代の・現代の ／ present=現在の・出席している ／ immediate=すぐの・直接の ／ simultaneous=まさに同じ瞬間に重なる",
       "words": [
         "current",
         "contemporary",
         "present",
-        "immediate"
+        "immediate",
+        "simultaneous"
       ]
     },
     {
@@ -1867,12 +1873,13 @@
     },
     {
       "title": "使い分け:出す・放つ",
-      "note": "emit=(光・熱・ガスを)出す ／ discharge=中身を放出する・解放する ／ release=解き放つ ／ shed=(葉・涙・光を)落とす・発する",
+      "note": "emit=(光・熱・ガスを)出す ／ discharge=中身を放出する・解放する ／ release=解き放つ ／ shed=(葉・涙・光を)落とす・発する ／ exude=内側からじわじわにじみ出る(雰囲気にも)",
       "words": [
         "emit",
         "discharge",
         "release",
-        "shed"
+        "shed",
+        "exude"
       ]
     },
     {
@@ -1903,12 +1910,15 @@
     },
     {
       "title": "使い分け:取り替える",
-      "note": "replace=取って代わる・取り替える ／ substitute=代わりに使う(substitute A for B) ／ exchange=交換する ／ represent=代表する",
+      "note": "replace=取って代わる・取り替える ／ substitute=代わりに使う(substitute A for B) ／ exchange=交換する ／ represent=代表する ／ supersede=古いものの席に新しいものが座る(時代遅れになって交代) ／ supplant=足をすくって場所を奪い取る(押しのける) ／ swap=手にしたものを気軽にさっと入れかえる",
       "words": [
         "replace",
         "substitute",
         "exchange",
-        "represent"
+        "represent",
+        "supersede",
+        "supplant",
+        "swap"
       ]
     },
     {

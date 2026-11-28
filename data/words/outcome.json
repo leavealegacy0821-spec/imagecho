@@ -1,0 +1,94 @@
+{
+  "word": "outcome",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈaʊtkʌm/",
+  "core_image": {
+    "text": "いろいろあった末に、最後に外へ出てきたもの",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"30\" y=\"40\" width=\"100\" height=\"80\"/><polyline points=\"40,80 56,60 72,96 88,58 104,90 120,80\"/><line x1=\"130\" y1=\"80\" x2=\"180\" y2=\"80\"/><polyline points=\"173,76.2 180,80 173,83.8\"/><circle cx=\"200\" cy=\"80\" r=\"14\"/></g><text x=\"80\" y=\"28\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">あれこれの過程</text><text x=\"200\" y=\"116\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">最後の形</text></svg>"
+  },
+  "etymology": "out(外へ)+ come(出てくる)→ 外に出てきたもの → ①(話し合い・選挙・試合などの)結果・成り行き ②(最終的な)成果",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the final result of an activity, process, or situation."
+    }
+  ],
+  "cautions": [
+    "数えられる名詞:an outcome / the outcome of A(A の結果)",
+    "result=原因から生じた結果(最も広い)/outcome=いろいろな可能性があった末の「最終的な決着」(選挙・試合・交渉・治療など)/consequence=(よくない)なりゆき",
+    "動詞 come out(結果が出る)の名詞形と考えると覚えやすい",
+    "「結果を予想する」predict the outcome、「結果に影響する」affect the outcome がよく出る"
+  ],
+  "patterns": [
+    {
+      "form": "the outcome of A",
+      "meaning": "A の結果・成り行き"
+    },
+    {
+      "form": "predict the outcome",
+      "meaning": "結果を予想する"
+    },
+    {
+      "form": "affect / influence the outcome",
+      "meaning": "結果に影響する"
+    },
+    {
+      "form": "a positive / successful outcome",
+      "meaning": "よい結果"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "結果",
+      "en": "Nobody could predict the outcome of the election.",
+      "ja": "だれも選挙の結果を予想できなかった。"
+    },
+    {
+      "source": "original",
+      "label": "影響",
+      "en": "One mistake can change the outcome of a game.",
+      "ja": "1つのミスが試合の結果を変えることがある。"
+    },
+    {
+      "source": "original",
+      "label": "治療",
+      "en": "The doctors were pleased with the outcome of the operation.",
+      "ja": "医師たちは手術の結果に満足した。"
+    },
+    {
+      "source": "original",
+      "label": "交渉",
+      "en": "Both sides were happy with the outcome of the talks.",
+      "ja": "双方とも話し合いの結果に満足していた。"
+    },
+    {
+      "source": "original",
+      "label": "成果",
+      "en": "Learning outcomes are more important than test scores.",
+      "ja": "学習の成果はテストの点数より大切だ。"
+    },
+    {
+      "source": "original",
+      "label": "不確か",
+      "en": "Whatever the outcome, we will learn something from it.",
+      "ja": "結果がどうであれ、私たちはそこから何かを学ぶだろう。"
+    }
+  ],
+  "check_points": [
+    "result・consequence とのちがいが言えるか",
+    "the outcome of A の形が使えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文・言いかえ問題に出る。result との言いかえ、predict the outcome が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2681
+    }
+  ]
+}

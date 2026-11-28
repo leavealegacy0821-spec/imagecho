@@ -1,0 +1,90 @@
+{
+  "word": "exude",
+  "pos": [
+    "動詞"
+  ],
+  "ipa": "/ɪɡˈzuːd/",
+  "core_image": {
+    "text": "中からじわじわにじみ出て、まわりに漂う",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><rect x=\"80\" y=\"70\" width=\"80\" height=\"70\"/><path d=\"M100 70 C96 60 104 54 100 44\"/><path d=\"M120 70 C116 58 124 50 120 38\"/><path d=\"M140 70 C136 60 144 54 140 44\"/></g><text x=\"40\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">にじみ出る</text><text x=\"200\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">漂う</text></svg>"
+  },
+  "etymology": "ex(外へ)+ sudare(汗をかく)→ 汗のように外へにじみ出る → ①(液体・においを)にじみ出させる ②(自信・魅力などを)全身から発散させる",
+  "en_definitions": [
+    {
+      "pos": "動詞",
+      "text": "to produce a liquid or smell slowly; to show a quality or feeling very clearly through your behavior."
+    }
+  ],
+  "cautions": [
+    "比ゆの「(自信・魅力を)にじみ出させる」が長文で多い:exude confidence(自信に満ちあふれている)",
+    "目的語に感情・性質:exude charm / warmth / energy",
+    "emit=(光・熱・ガスを)出す/discharge=中身を放出する/exude=内側からじわじわにじみ出る(雰囲気にも使う)",
+    "sweat(汗)と同じ根 sud- を持つ"
+  ],
+  "patterns": [
+    {
+      "form": "exude confidence",
+      "meaning": "自信にあふれている"
+    },
+    {
+      "form": "exude charm / warmth",
+      "meaning": "魅力・温かさを漂わせる"
+    },
+    {
+      "form": "exude a smell / liquid",
+      "meaning": "においを放つ・液をにじみ出させる"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "自信",
+      "en": "The new captain exuded confidence on the field.",
+      "ja": "新しいキャプテンはフィールドで自信に満ちあふれていた。"
+    },
+    {
+      "source": "original",
+      "label": "魅力",
+      "en": "She exudes warmth and kindness to everyone she meets.",
+      "ja": "彼女は会う人だれにでも温かさと優しさを漂わせる。"
+    },
+    {
+      "source": "original",
+      "label": "液体",
+      "en": "The tree exudes a sticky liquid when it is cut.",
+      "ja": "その木は切られると、ねばねばした液をにじみ出させる。"
+    },
+    {
+      "source": "original",
+      "label": "におい",
+      "en": "The flowers exuded a sweet smell.",
+      "ja": "その花は甘い香りを放っていた。"
+    },
+    {
+      "source": "original",
+      "label": "雰囲気",
+      "en": "The old house exuded a sense of history.",
+      "ja": "その古い家には歴史の重みが漂っていた。"
+    },
+    {
+      "source": "original",
+      "label": "エネルギー",
+      "en": "Young children seem to exude endless energy.",
+      "ja": "小さな子どもは、尽きることのない元気を発散しているようだ。"
+    }
+  ],
+  "check_points": [
+    "ex + sud(汗)でにじみ出る絵がわかるか",
+    "exude confidence の比ゆが使えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文に出る。exude confidence の意味、emit との区別が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2687
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "word": "aftermath",
+  "pos": [
+    "名詞"
+  ],
+  "ipa": "/ˈæftərmæθ/",
+  "core_image": {
+    "text": "嵐が去ったあとに残る、荒れたあとしまつ",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"140\" x2=\"225\" y2=\"140\"/><polyline points=\"30,140 30,110 50,96 70,110 70,140\"/><line x1=\"30\" y1=\"110\" x2=\"70\" y2=\"140\"/><line x1=\"100\" y1=\"140\" x2=\"112\" y2=\"128\"/><line x1=\"118\" y1=\"140\" x2=\"126\" y2=\"132\"/><line x1=\"134\" y1=\"140\" x2=\"142\" y2=\"130\"/><circle cx=\"190\" cy=\"52\" r=\"10\"/><line x1=\"190\" y1=\"62\" x2=\"190\" y2=\"106\"/><line x1=\"190\" y1=\"106\" x2=\"180\" y2=\"140\"/><line x1=\"190\" y1=\"106\" x2=\"200\" y2=\"140\"/><line x1=\"190\" y1=\"74\" x2=\"172\" y2=\"96\"/><line x1=\"190\" y1=\"74\" x2=\"208\" y2=\"96\"/><path d=\"M40 30 C50 20 70 20 80 30 C90 26 100 32 98 40 L36 40 C30 38 32 30 40 30 Z\"/></g><text x=\"130\" y=\"40\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">去ったあと</text><text x=\"120\" y=\"100\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">がれき</text></svg>"
+  },
+  "etymology": "after(あとの)+ math(草刈り ← mow)→ 刈り取ったあとに生える草 → 出来事のあとに残るもの → ①(戦争・災害・事件などの)余波・直後の状況 ②(悪い)なりゆき",
+  "en_definitions": [
+    {
+      "pos": "名詞",
+      "text": "the period of time after an important or bad event, and the effects that it causes."
+    }
+  ],
+  "cautions": [
+    "ふつう the aftermath of A(A の余波・直後)の形。A には戦争・地震・事故など「悪い出来事」が来る",
+    "in the aftermath of A(A の直後に・A のあとの混乱の中で)が最頻出の型",
+    "outcome=最終的な結果(中立)/consequence=結果として起こること/aftermath=大きな悪い出来事のあとに残る混乱と影響(時期もふくむ)",
+    "×an aftermath。ふつう the をつける"
+  ],
+  "patterns": [
+    {
+      "form": "the aftermath of A",
+      "meaning": "A の余波・直後の状況"
+    },
+    {
+      "form": "in the aftermath of A",
+      "meaning": "A の直後に・A のあとで"
+    },
+    {
+      "form": "deal with the aftermath",
+      "meaning": "あとしまつをする"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "余波",
+      "en": "The aftermath of the earthquake was terrible.",
+      "ja": "地震の余波はひどいものだった。"
+    },
+    {
+      "source": "original",
+      "label": "in",
+      "en": "In the aftermath of the war, many people had no homes.",
+      "ja": "戦争の直後、多くの人が家を失っていた。"
+    },
+    {
+      "source": "original",
+      "label": "あとしまつ",
+      "en": "The town is still dealing with the aftermath of the flood.",
+      "ja": "町はいまだに洪水のあとしまつに追われている。"
+    },
+    {
+      "source": "original",
+      "label": "事件",
+      "en": "Security was tightened in the aftermath of the attack.",
+      "ja": "その攻撃のあと、警備が強化された。"
+    },
+    {
+      "source": "original",
+      "label": "経済",
+      "en": "Many companies went bankrupt in the aftermath of the crisis.",
+      "ja": "その危機のあと、多くの会社が倒産した。"
+    },
+    {
+      "source": "original",
+      "label": "心",
+      "en": "She suffered from stress in the aftermath of the accident.",
+      "ja": "彼女は事故のあと、ストレスに苦しんだ。"
+    }
+  ],
+  "check_points": [
+    "in the aftermath of A が使えるか",
+    "outcome とのちがい(悪い出来事のあと)が言えるか"
+  ],
+  "exam": {
+    "frequency": "標準",
+    "note": "長文に出る。in the aftermath of A の意味が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2682
+    }
+  ]
+}

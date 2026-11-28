@@ -1,0 +1,94 @@
+{
+  "word": "simultaneous",
+  "pos": [
+    "形容詞"
+  ],
+  "ipa": "/ˌsaɪməlˈteɪniəs/",
+  "core_image": {
+    "text": "2つのことが、時間の同じ一点で重なる",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 160\"><rect width=\"240\" height=\"160\" fill=\"white\"/><g fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"120\" x2=\"220\" y2=\"120\"/><line x1=\"120\" y1=\"20\" x2=\"120\" y2=\"130\"/><line x1=\"40\" y1=\"50\" x2=\"116\" y2=\"80\"/><polyline points=\"110.9,73.9 116,80 108.1,81\"/><line x1=\"40\" y1=\"100\" x2=\"116\" y2=\"84\"/><polyline points=\"108.3,81.7 116,84 109.9,89.2\"/><circle cx=\"120\" cy=\"82\" r=\"6\"/></g><text x=\"180\" y=\"60\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">同時に</text><text x=\"180\" y=\"140\" font-size=\"11\" text-anchor=\"middle\" fill=\"black\" stroke=\"none\">時間</text></svg>"
+  },
+  "etymology": "simul(同時に・一緒に ← similis 似た)+ -taneous(〜の性質の)→ 時を同じくする → ①同時の・同時に起こる 副 simultaneously(同時に) 名 simultaneous interpretation(同時通訳)",
+  "en_definitions": [
+    {
+      "pos": "形容詞",
+      "text": "happening or done at exactly the same time."
+    }
+  ],
+  "cautions": [
+    "名詞の前で使うことが多い:simultaneous events(同時に起こる出来事)",
+    "副詞 simultaneously が長文で頻出:at the same time との言いかえ",
+    "contemporary=同じ時代の(長い期間)/simultaneous=まさに同じ瞬間の/current=今流れている",
+    "be simultaneous with A(A と同時である)の型もある"
+  ],
+  "patterns": [
+    {
+      "form": "simultaneous A",
+      "meaning": "同時に起こる A"
+    },
+    {
+      "form": "simultaneously",
+      "meaning": "同時に(= at the same time)"
+    },
+    {
+      "form": "be simultaneous with A",
+      "meaning": "A と同時である"
+    },
+    {
+      "form": "simultaneous interpretation",
+      "meaning": "同時通訳"
+    }
+  ],
+  "examples": [
+    {
+      "source": "original",
+      "label": "同時の",
+      "en": "There were simultaneous explosions in two cities.",
+      "ja": "2つの都市で同時に爆発が起きた。"
+    },
+    {
+      "source": "original",
+      "label": "副詞",
+      "en": "The two runners crossed the finish line simultaneously.",
+      "ja": "2人の走者は同時にゴールした。"
+    },
+    {
+      "source": "original",
+      "label": "通訳",
+      "en": "The speech was given with simultaneous interpretation.",
+      "ja": "その演説は同時通訳つきで行われた。"
+    },
+    {
+      "source": "original",
+      "label": "with",
+      "en": "The release of the movie was simultaneous with the book.",
+      "ja": "映画の公開は本の発売と同時だった。"
+    },
+    {
+      "source": "original",
+      "label": "複数の作業",
+      "en": "It is difficult to do two things simultaneously.",
+      "ja": "2つのことを同時にするのは難しい。"
+    },
+    {
+      "source": "original",
+      "label": "発見",
+      "en": "Two scientists made the discovery almost simultaneously.",
+      "ja": "2人の科学者がほぼ同時にその発見をした。"
+    }
+  ],
+  "check_points": [
+    "simultaneously = at the same time が言えるか",
+    "contemporary とのちがい(瞬間か時代か)が言えるか"
+  ],
+  "exam": {
+    "frequency": "頻出",
+    "note": "長文・言いかえ問題に出る。simultaneously = at the same time が問われる。"
+  },
+  "lists": [
+    {
+      "name": "重要語",
+      "number": 2686
+    }
+  ]
+}
